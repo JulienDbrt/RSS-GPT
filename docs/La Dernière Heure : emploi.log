@@ -13,3 +13,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le groupe Beaulieu va supprimer 95 postes en Belgique](https://www.dhnet.be/conso/travail/2024/04/18/le-groupe-beaulieu-va-supprimer-95-postes-en-belgique-BLST47IJZREPHJWORXF6PA6RIA/)
 append_entries: 3
 Finish: 2024-04-28 01:52:50.034121
+------------------------------------------------------
+Started: 2024-04-28 12:37:07.730334
+Existing_entries: 3
+Fetching from https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml
+append_entries: 0
+Finish: 2024-04-28 12:37:08.918137

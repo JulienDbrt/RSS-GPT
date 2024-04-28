@@ -44,3 +44,12 @@ Append: [REPORTAGE. "Les athlètes sont des passagers particuliers" : l'aéropo
 Append: [Grève des contrôleurs aériens : un impact "rarement vu dans notre histoire depuis une vingtaine d'années", selon le PDG d'ADP](https://www.francetvinfo.fr/economie/greve/greve-des-controleurs-aeriens-un-impact-rarement-vu-dans-notre-histoire-depuis-une-vingtaine-d-annees-selon-le-pdg-d-adp_6505250.html)
 append_entries: 20
 Finish: 2024-04-28 01:37:18.200428
+------------------------------------------------------
+Started: 2024-04-28 12:34:00.435579
+Existing_entries: 20
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : la RATP va tester des caméras intelligentes pour mesurer en temps réel l'affluence dans le métro](https://www.francetvinfo.fr/economie/transports/paris-2024-la-ratp-va-tester-des-cameras-intelligentes-pour-mesurer-en-temps-reel-l-affluence-dans-le-metro_6511943.html)
+append_entries: 1
+Finish: 2024-04-28 12:34:02.026163

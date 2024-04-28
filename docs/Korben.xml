@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Korben</title>
+<link>https://korben.info</link>
+
+<item>
+<title>SerenityOS – Le mariage bien vintage entre une interface des années 90 et la puissance actuelle d’Unix</title>
+<link>https://korben.info/serenityos-mariage-vintage-interface-90s-puissance-unix.html</link>
+<guid>https://korben.info/serenityos-mariage-vintage-interface-90s-puissance-unix.html</guid>
+<content:encoded><![CDATA[
+<div> passionnés, interface rétro, kernel custom, applis maison, OS DIY 
+Summary:
+SerenityOS est un système d'exploitation qui marie l'esthétique vintage des années 90 avec la puissance des technologies modernes. Créé de manière artisanale par une équipe de passionnés, SerenityOS propose une interface rappelant Windows 95 et Mac OS 8, tout en étant basé sur un kernel custom et des applications développées en interne. Malgré son aspect rétro, SerenityOS intègre des technologies actuelles telles que la prise en charge de JavaScript, WebAssembly et d'autres technologies web modernes. En offrant des outils pour gérer la vie numérique, des applications pour les développeurs, des jeux traditionnels et même un tableur amélioré, SerenityOS s'adresse aux amateurs nostalgiques des années 90 et aux adeptes du DIY informatique. Un mélange audacieux de nostalgie et d'innovation. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="154" src="https://korben.info/app/uploads/2024/03/banner2.webp" width="826" /></p>
+<p>Ah les années 90&#8230; L&rsquo;époque bénie des interfaces old school, des systèmes bien bruts de décoffrage et du code qui sent bon le bricolage ! C&rsquo;était le bon vieux temps. Mais si je vous disais qu&rsquo;on peut avoir le beurre et l&rsquo;argent du beurre ? Profiter de la beauté vintage d&rsquo;une interface bien rétro et des muscles d&rsquo;un UNIX moderne ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1077909592" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Eh oui, c&rsquo;est le pari un peu fou de <strong>SerenityOS</strong>, un OS fait maison avec amour qui marie l&rsquo;interface cosy des 90s et le power user d&rsquo;aujourd&rsquo;hui.</p>
+
+
+
+<p>Le look d&rsquo;un Windows 95 croisé avec un Mac OS 8, mais qui repose sur un kernel custom fait à la main, avec une architecture bien clean, des applis maison et des outils qui déchirent. C&rsquo;est ça <strong>SerenityOS</strong>. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157237" height="768" src="https://korben.info/app/uploads/2024/03/screenshot-b36968c.webp" width="1024" /></figure></div>
+
+
+<p>Alors oui, c&rsquo;est sûr que ça va pas remplacer votre Ubuntu ou votre Debian pour bosser (quoique, bossez-vous vraiment ?). Mais franchement, pour le fun, ça vaut grave le détour.</p>
+
+
+
+<p>Le truc de ouf, c&rsquo;est que tout est fait from scratch par une équipe de devs passionnés : le browser, la GUI, les jeux, les démos… Même le kernel et la LibC sont faits maison, c&rsquo;est dire ! Et pourtant, ça reste super cohérent et intégré, avec une vraie philosophie derrière. C&rsquo;est pas juste de la nostalgie, c&rsquo;est aussi des idées neuves et du code au top !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-558531955" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Sous le capot, <strong>SerenityOS</strong> carbure à un kernel préemptif qui gère le multi-threading, un système de fichiers compatible POSIX, une stack réseau IPv4 qui cause TCP et UDP, et même un serveur graphique maison. Tout ça tourne sur du x86 64 bits, et c&rsquo;est cross-compilé avec les outils modernes comme GCC et Clang. Et si vous êtes du genre <em>power user</em> à la recherche de la moindre <em>killer feature</em>, vous allez être servis : </p>
+
+
+
+<ul>
+<li>Un <strong>browser</strong> digne de ce nom, avec support de JavaScript, WebAssembly et des technos web modernes</li>
+
+
+
+<li>Des applis pour gérer votre vie numérique : <strong>mail</strong>, <strong>chat</strong>, <strong>calendar</strong>&#8230;</li>
+
+
+
+<li>Des outils pour les devs : <strong>terminal</strong>, <strong>éditeur</strong>, <strong>débogueur</strong>, <strong>profiler</strong>&#8230;</li>
+
+
+
+<li>Des jeux old-school : <strong>démineur</strong>, <strong>solitaire</strong>, <strong>échecs</strong>&#8230;</li>
+
+
+
+<li>Et même un <strong>spreadsheet</strong> façon Excel, mais en mieux ! </li>
+</ul>
+
+
+
+<p><strong>SerenityOS</strong> c&rsquo;est un peu comme si vous vous étiez tous réunis dans un garage pour faire le système de vos rêves, avec les technos d&rsquo;aujourd&rsquo;hui mais l&rsquo;état d&rsquo;esprit et le goût du pixel d&rsquo;hier. C&rsquo;est frais, c&rsquo;est fun, ça donne envie de bidouiller et de se replonger dans les joies du code et de l&rsquo;OS DIY.</p>
+
+
+
+<p>Alors si vous aussi vous avez gardé votre âme de <em>geek</em> des 90s, foncez sur <a href="https://serenityos.org/" rel="noopener" target="_blank">SerenityOS</a> pour tester tout ça !</p>
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 28 Apr 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Multitasking MS-DOS 4 – L’OS oublié de Microsoft</title>
+<link>https://korben.info/multitasking-ms-dos-4-secrets-os-oublie.html</link>
+<guid>https://korben.info/multitasking-ms-dos-4-secrets-os-oublie.html</guid>
+<content:encoded><![CDATA[
+<div> MS-DOS 4.0, Multitasking, Microsoft, IBM, Libération du code source
+<br>
+Summary:
+Au début des années 80, Microsoft lançait le projet Multitasking MS-DOS 4.0 pour offrir un système d'exploitation révolutionnaire avec multitâche, pipes, et gestion avancée de la mémoire. Malgré ses innovations, il n'a jamais été commercialisé en raison de son utilisation gourmande de RAM. Le partenariat avec IBM a permis de créer IBM PC-DOS 4.0 basé sur ce projet. Le code source a finalement été libéré, mais des bugs ont été introduits lors de sa publication sur GitHub. Des passionnés ont pu le recompiler pour le faire fonctionner sur des machines modernes via DOSBox. Il est désormais possible de découvrir les prémices du multitâche sous DOS en explorant ce morceau d'histoire de l'informatique. Amusez-vous bien à tester MS-DOS 4.0 ! <br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1313" src="https://korben.info/app/uploads/2024/04/msdos4.webp" width="1920" /></p>
+<p><strong>Multitasking MS-DOS 4</strong>. Rien que le nom ça fait rêver. Un nom qui respire le futur, qui transpire l&rsquo;innovation. Mais c&rsquo;est quoi en fait ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-19770569" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et bien au début des années 80, alors qu&rsquo;on se battait encore en duel avec des disquettes 5&Prime;1/4, Microsoft avait dans ses cartons un projet d&rsquo;OS révolutionnaire baptisé Multitasking MS-DOS 4. Bon, ce n&rsquo;est pas le nom le plus sexy de l&rsquo;histoire de l&rsquo;informatique mais derrière cette appellation austère se cachait un système d&rsquo;exploitation qui promettait déjà le multitâche et tout un tas de fonctionnalités incroyables pour l&rsquo;époque !</p>
+
+
+
+<p>L&rsquo;histoire commence en 1983 lorsque Microsoft rassemble une <strong>équipe de développeurs talentueux</strong> pour plancher sur la nouvelle version de MS-DOS, qui doit apporter un max de nouveautés pour l&rsquo;époque : multitâche, multi-threading, pipes, sémaphores&#8230; Tout ça sur les modestes processeurs 8086/8088 qui avaient une mémoire limitée.</p>
+
+
+
+<p>Le projet s&rsquo;appelle d&rsquo;abord MS-DOS 3.0 avant d&rsquo;être renommé MS-DOS 4.0 en avril 1984. En parallèle, Microsoft travaille sur le « vrai » DOS 3.0 qui sortira en août 1984. Vous suivez ? C&rsquo;est un peu le bazar mais c&rsquo;est ça qui est bon !</p>
+
+
+
+<p>Puis en juin 1984, une première beta de Multitasking DOS 4 est envoyée à quelques privilégiés. Et autant vous dire que ça décoiffe ! Le multitâche fonctionne déjà, géré par un composant baptisé « Session Manager ». On peut lancer jusqu&rsquo;à 6 applications en même temps en leur attribuant des raccourcis clavier. Le Session Manager gère aussi les fameuses « erreurs fatales » qui pouvaient faire planter tout le système. Avec lui, si un programme plante, il n&#8217;embarque pas tout le système avec lui. C&rsquo;est un concept révolutionnaire pour l&rsquo;époque !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-878956602" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>MS-DOS 4.0 apportait également son lot d&rsquo;améliorations comme une meilleure gestion de la mémoire, le support des disques durs de plus de 10 Mo (si si, à l&rsquo;époque c&rsquo;était énorme !), une API étendue, et même un système de fichiers réseau (Microsoft Networks).</p>
+
+
+
+<p>Le développement de ce MS-DOS 4.0 s&rsquo;est fait en étroite collaboration avec IBM car le géant informatique planchait à l&rsquo;époque sur son propre OS avec une architecture similaire à MS-DOS 4.0. Mais plutôt que de se faire concurrence, Microsoft et IBM ont décidé de joindre leurs forces. MS-DOS 4.0 a ainsi servi de base au développement d&rsquo;IBM PC-DOS 4.0. Les deux OS partageaient une grande partie de leur code source et étaient compatibles entre eux. Une belle démonstration du partenariat entre Microsoft et IBM !</p>
+
+
+
+<p>Malheureusement, malgré toutes ses qualités, MS-DOS 4.0 n&rsquo;a jamais été commercialisé. Son développement a été stoppé au profit d&rsquo;OS/2, le nouveau projet de Microsoft et IBM et la plupart de ses fonctionnalités ont été recyclées dans ce nouvel OS. MS-DOS 4 n&rsquo;était pas très apprécié à l&rsquo;époque à cause de son utilisation gourmande de 92 Ko de RAM. Cela a même poussé le concurrent DR-DOS à sauter directement de la version 3.41 à la version 5.0 pour ne pas être associé à MS-DOS 4 !</p>
+
+
+
+<p>Multitasking MS-DOS 4 est ainsi resté à l&rsquo;état de projet, même si certaines de ses innovations ont survécu dans d&rsquo;autres OS. Son code source est longtemps resté dans les cartons de Microsoft, jusqu&rsquo;à ce que l<a href="https://github.com/microsoft/MS-DOS" rel="noopener" target="_blank">a société décide de le libérer en open source, sous licence MIT le 4 avril dernier</a>. Un joli cadeau pour les passionnés d&rsquo;histoire de l&rsquo;informatique !</p>
+
+
+
+<p>Malheureusement, la libération du code source ne s&rsquo;est pas faite sans accrocs. Comme l&rsquo;a souligné le développeur Michal Necasek du blog OS/2 Museum, la publication sur GitHub a introduit des bugs dans certains fichiers critiques. La conversion en UTF-8 casse notamment la compatibilité avec les anciens outils et dépasse la limite de 512 bytes par ligne de l&rsquo;assembleur MASM de l&rsquo;époque.</p>
+
+
+
+<p>Microsoft a reconnu le problème par la voix de Connor Hyde, co-développeur de la libération de MS-DOS 4, qui a invoqué des raisons légales pour expliquer l&rsquo;absence des timestamps d&rsquo;origine. Un échange constructif s&rsquo;en est suivi avec Michal Necasek pour essayer de résoudre ces problèmes.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-812343486" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>En attendant un fix, si vous êtes curieux d&rsquo;essayer MS-DOS 4.0 par vous-même, sachez que c&rsquo;est possible ! Grâce à la libération du code source, des passionnés ont pu recompiler l&rsquo;OS et le faire tourner sur des machines modernes via des émulateurs comme DOSBox.</p>
+
+
+
+<p>Voici les étapes pour lancer MS-DOS 4.0 sur votre PC :</p>
+
+
+
+<p>1. Téléchargez l&rsquo;émulateur DOSBox <a href="https://www.dosbox.com/download.php?main=1" rel="noopener" target="_blank">sur le site officiel</a><br />2. Installez DOSBox sur votre machine<br />3. Récupérez une image disque de MS-DOS 4.0. Vous pouvez en trouver sur des sites d&rsquo;archives <a href="https://winworldpc.com/product/ms-dos/4x" rel="noopener" target="_blank">comme WinWorldPC</a><br />4. Ouvrez DOSBox et montez l&rsquo;image disque de MS-DOS 4.0 avec la commande :<br /><code>mount c /chemin/vers/image_dos4.img -t iso</code><br />5. Démarrez MS-DOS 4.0 en tapant : <code>c:</code></p>
+
+
+
+<p>Sinon, vous pouvez le tester <a href="https://www.pcjs.org/software/pcx86/sys/dos/microsoft/4.0M/" rel="noopener" target="_blank">directement en ligne ici</a>.</p>
+
+
+
+<p>Et voilà, vous pouvez maintenant explorer ce morceau d&rsquo;histoire de l&rsquo;informatique et découvrir par vous-même les prémices du multitâche sous DOS, malgré les quelques bugs introduits lors de la libération du code source !</p>
+
+
+
+<p>Amusez-vous bien !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1451687270" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p><a href="https://starfrost.net/blog/001-mdos4-part-1/" rel="noopener" target="_blank">Source initiale</a><br /><a href="https://www.tomshardware.com/news/ms-dos-4-release-heavily-criticized" rel="noopener" target="_blank">Infos complémentaires</a></p>
+]]></content:encoded>
+<pubDate>Sat, 27 Apr 2024 21:40:00 +0000</pubDate>
+<pubDate>Sat, 27 Apr 2024 21:40:00 +0000</pubDate>
+</item>
+<item>
+<title>General Motors a espionné et revendu les données de ses clients qui ont vu leur assurance augmenter</title>
+<link>https://korben.info/gm-scandale-espionnage-conducteurs-donnees-consentement.html</link>
+<guid>https://korben.info/gm-scandale-espionnage-conducteurs-donnees-consentement.html</guid>
+<content:encoded><![CDATA[
+<div> technologie, assurance, données, vie privée, General Motors
+<br>
+<br>
+Summary: La technologie des boîtes noires dans les voitures est utilisée par les assureurs pour augmenter les primes en surveillant la conduite des conducteurs. Le scandale récent de General Motors révèle comment les constructeurs peuvent collecter et revendre secrètement les données de conduite des clients à des tiers, augmentant ainsi les coûts d'assurance sans consentement. Les conducteurs doivent être vigilants en lisant les conditions d'utilisation et en désactivant les fonctions de suivi dans leurs véhicules pour protéger leur vie privée. L'industrie automobile moderne devrait utiliser la technologie pour le bien des clients, et non pour les exploiter en monnayant leurs informations personnelles. Il est important de se défendre et de protéger ses droits face à cette surveillance intrusive. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_The_car_is_humanoid_like_a_Transformers_the_human_drivin_6717a679-c93f-4ddb-9a8e-88a990b41b0f.png" width="1456" /></p>
+<p>Vous conduisez tranquillement votre bagnole, en mode pépère. Quand tout à coup, vous recevez un mail de votre assurance : « <em>Cher M. Kéké, au vu de votre conduite dangereuse, nous devons augmenter votre prime de 150%</em>».</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1615421852" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>WTF ?! </p>
+
+
+
+<p>Vous n&rsquo;avez eu aucun accident et respectez toujours les limitations&#8230;enfin presque&#8230; Mais comment votre assureur est-il au courant de votre dernière petite pointe à 135 km/h sur l&rsquo;autoroute pendant que tout le monde dormait dans la voiture ?</p>
+
+
+
+<p>La réponse est simple : <strong>votre voiture est une balance</strong> ! C&rsquo;est ce qu&rsquo;on appelle communément les « <strong>boîtes noires</strong> », ces petites boîtes qui enregistrent tous les paramètres de conduite : vitesse, accélérations, freinages, trajets&#8230;un vrai mouchard numérique. De nombreux constructeurs ont adopté cette technologie, soi-disant pour analyser les accidents ou améliorer la sécurité mais la plupart s&rsquo;en servent surtout pour faire leur beurre en revendant les données à des tiers, comme les assurances donc. </p>
+
+
+
+<p>Votre vie privée passe alors à la trappe et votre portefeuille en prend un coup !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1724344053" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Parmi les plus gros cafteurs, on retrouve <em>General Motors</em>. Le géant américain de l&rsquo;automobile vient de se faire gauler dans un scandale retentissant. Comme le révèle le New York Times dans <a href="https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html?unlocked_article_code=1.m00.gIzH.YdQ-yszzdzq6" rel="noopener" target="_blank">une enquête édifiante</a>, GM a espionné des millions de conducteurs pendant des années via son système OnStar, sans leur consentement.</p>
+
+
+
+<p>Concrètement, ils ont modifié en catimini leurs conditions d&rsquo;utilisation pour se donner le droit de collecter un max de données de conduite et de géolocalisation, de manière continue, tout ça planqué au fin fond des CGU en police 2 ! Et le pire, c&rsquo;est que GM revendait ces précieuses données à des courtiers comme Verisk Analytics, qui les refilaient ensuite aux assureurs pour profiler les conducteurs à leur insu et augmenter le tarif de leur assurance. Un business juteux sur le dos des clients, qui se retrouvent pris en otage.</p>
+
+
+
+<p>Après ces révélations fracassantes, GM a été contraint de mettre fin en urgence à ces pratiques déloyales et fait désormais profil bas mais le mal est fait et la confiance durablement rompue. Certains clients furieux ont même lancé un recours collectif pour se faire indemniser. Je sens qu’ils vont casquer sévère !</p>
+
+
+
+<p>Alors que faire pour se prémunir de ça ? Déjà, lisez les CGU avant d&rsquo;accepter quoi que ce soit ! Je sais c&rsquo;est chiant mais c&rsquo;est important pour savoir à quelle sauce vous allez être mangés. Ensuite, désactivez toutes les fonctions de suivi que vous pouvez dans les réglages.</p>
+
+
+
+<p>Ensuite si votre véhicule est équipé d&rsquo;un système OnStar ou équivalent qui envoie en permanence des data sans fil, vous pouvez essayer de désactiver tout ça dans les paramètres voire de le débrancher physiquement si c’est possible mais attention à ne pas faire n’importe quoi. Renseignez vous bien avant. </p>
+
+
+
+<p>L&rsquo;espionnage des conducteurs par les boîtes noires est une dérive très préoccupante de l&rsquo;industrie automobile moderne ultra-connectée et on en revient toujours au même débat : la technologie doit servir les gens, pas les asservir en marchandisant leur vie privée !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1410613867" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Alors soyez vigilants et n&rsquo;hésitez pas à défendre vos droits. </p>
+
+
+
+<p><a href="https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html?unlocked_article_code=1.m00.gIzH.YdQ-yszzdzq6&amp;utm_source=substack&amp;utm_medium=email">Source</a></p>
+]]></content:encoded>
+<pubDate>Sat, 27 Apr 2024 09:29:53 +0000</pubDate>
+<pubDate>Sat, 27 Apr 2024 09:29:53 +0000</pubDate>
+</item>
+<item>
+<title>De la recherche Torrent décentralisée et alimentée par l’IA</title>
+<link>https://korben.info/recherche-torrent-decentralisee-ia.html</link>
+<guid>https://korben.info/recherche-torrent-decentralisee-ia.html</guid>
+<content:encoded><![CDATA[
+<div> moteur de recherche, torrent, décentralisé, IA, partage
+
+Summary: 
+Des chercheurs de l'université de technologie de Delft ont développé un moteur de recherche torrent décentralisé alimenté par l'intelligence artificielle. Ce projet, nommé De-DSI, combine les modèles de langage et la recherche décentralisée. Chaque pair du réseau héberge une partie du modèle de langage, permettant de trouver du contenu à partir de requêtes en langage naturel. Le système utilise des modèles de langage décentralisés stockés par les pairs, contribuant à l'entraînement du modèle. Les informations sont réparties sur plusieurs pairs, sans besoin de serveurs centraux, garantissant une recherche pertinente et spécialisée. Cette approche permet une IA décentralisée, résiliente, et sans contrôle externe, ouvrant la voie à une technologie bénéficiant à tous. L'objectif des chercheurs est de développer un "cerveau global pour l'humanité" en utilisant l'apprentissage décentralisé pour restaurer le pouvoir aux citoyens face aux tentatives de contrôle d'Internet par les grandes entreprises et gouvernements. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/04/manu23_Bitorrent__AI_wallpaper_logo_with_word_Tribler_b46235ee-a3a4-41d6-8fef-c045ff681b59.webp" width="1920" /></p>
+<p>Si vous êtes fan de partage de fichiers P2P, ça devrait vous plaire. En effet, des chercheurs de l&rsquo;université de technologie de Delft qui sont derrière le projet <a href="https://www.tribler.org/index.html" rel="noopener" target="_blank">Tribler</a>, ont développé un moteur de recherche torrent complètement <strong>décentralisé</strong> et alimenté par l&rsquo;<strong>intelligence artificielle</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-262784397" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Bizarre non ? </p>
+
+
+
+<p>Alors attention, on n&rsquo;est pas encore au niveau de Google Search mais l&rsquo;idée est de combiner les deux technologies : les <strong>modèles de langage</strong> (les fameux LLM) et la <strong>recherche décentralisée</strong>. Le principe ensuite, c&rsquo;est que chaque pair du réseau héberge une partie du modèle de langage, qui peut alors être utilisé pour trouver du contenu à partir de requêtes en langage naturel.</p>
+
+
+
+<p>Concrètement, le framework <strong>De-DSI</strong> (Decentralized Differentiable Search Index) utilise des modèles de langage décentralisés stockés par les pairs et chaque utilisateur peut ainsi contribuer à l&rsquo;entraînement du modèle. </p>
+
+
+
+<p>Côté recherche, les infos sont réparties sur plusieurs pairs, sans besoin de serveurs centraux, comma ça, quand vous lancez une requête, le système d&rsquo;IA va chercher les meilleurs résultats en fonction des données partagées par les pairs. Chaque pair étant spécialisé dans un sous-ensemble d&rsquo;infos, ce qui permet aux autres de récupérer le contenu le plus pertinent.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1533546849" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Les grands principes derrière tout ça :</p>
+
+
+
+<ul>
+<li>La <strong>décentralisation</strong> : vous stockez et partagez vos propres données, sans passer par un serveur central </li>
+
+
+
+<li>L&rsquo;<strong>apprentissage automatique</strong> : les modèles de langage sont entraînés à partir des infos partagées par les pairs</li>
+
+
+
+<li>La <strong>spécialisation</strong> : chaque pair gère un type d&rsquo;infos, pour fournir les résultats les plus adaptés</li>
+</ul>
+
+
+
+<p>Au final, ça donne une IA décentralisée et résiliente, capable de répondre à vos recherches sans serveurs centraux.</p>
+
+
+
+<p>Genre, vous pourriez lui demander un truc du style « trouve-moi un lien magnet pour le documentaire sur The Pirate Bay », et hop, le système vous renverrait direct le bon lien, sans même citer le nom du doc. Ou encore « C&rsquo;est quoi déjà l&rsquo;adresse Bitcoin de Wikileaks ? ».</p>
+
+
+
+<p>Bon pour l&rsquo;instant, c&rsquo;est encore un <strong>proof of concept</strong> et les chercheurs ont testé ça sur un petit dataset avec des URLs YouTube, des liens magnet et des adresses de wallet Bitcoin, mais l&rsquo;idée, c&rsquo;est de pouvoir retrouver n&rsquo;importe quel type de contenu, juste en tapant une requête en français (ou une autre langue). Ce qui est cool aussi, c&rsquo;est qu&rsquo;en étant complètement <strong>décentralisé</strong>, ça empêche n&rsquo;importe qui de contrôler le système ou de le censurer.</p>
+
+
+
+<p>A terme, les chercheurs espèrent carrément développer un « cerveau global pour l&rsquo;humanité ». Rien que ça. L&rsquo;idée, c&rsquo;est d&rsquo;utiliser l&rsquo;apprentissage décentralisé pour que la technologie profite au plus grand nombre, sans être contrôlée par les grosses entreprises ou les gouvernements. Comme ils le disent, « la <em>bataille royale</em> pour le contrôle d&rsquo;Internet est en train de s&rsquo;intensifier ». Et leur but, c&rsquo;est de redonner le pouvoir aux citoyens, petit à petit.</p>
+
+
+
+<p>En attendant, si vous voulez tester <a href="https://huggingface.co/spaces/tribler/de-dsi" rel="noopener" target="_blank">leur proof of concept</a>, je vous mets le lien. Et si vous voulez en savoir plus sur le côté technique, vous pouvez checker <a href="https://arxiv.org/pdf/2404.12237" rel="noopener" target="_blank">leur papier de recherche</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-873676444" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Merci à Letsar pour l&rsquo;info</p>
+
+
+
+<p><a href="https://torrentfreak.com/researchers-showcase-decentralized-ai-powered-torrent-search-engine-240425/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sat, 27 Apr 2024 09:24:46 +0000</pubDate>
+<pubDate>Sat, 27 Apr 2024 09:24:46 +0000</pubDate>
+</item>
+<item>
+<title>LSD – Un ls sous stéroïdes écrit en Rust 🚀</title>
+<link>https://korben.info/lsd-un-clone-open-source-survitamine-de-la-commande-ls.html</link>
+<guid>https://korben.info/lsd-un-clone-open-source-survitamine-de-la-commande-ls.html</guid>
+<content:encoded><![CDATA[
+<div> lsd, clone open-source, Rust, couleurs, icônes <br>
+<br>
+Summary: 
+LSD est un clone open-source de la commande ls, développé en Rust, qui offre de nombreuses fonctionnalités avancées. Il permet d'ajouter des couleurs, des icônes, une vue en arbre, des options de formatage personnalisées, et est compatible avec plusieurs systèmes d'exploitation. Son installation est simple via des commandes telles que apt install lsd ou brew install lsd. LSD est hautement personnalisable, avec la possibilité de créer des thèmes de couleurs et d'icônes sur mesure. Il prend en charge les polices Nerd Font et offre des fonctionnalités avancées telles que la gestion des liens symboliques, la récursion dans les sous-répertoires, des indicateurs pour les exécutables et les dossiers, ainsi que des informations git sur les fichiers d'un dépôt. LSD transforme l'expérience de lister des dossiers dans le terminal en une expérience visuelle et pratique, offrant une interface proche de celle d'un vaisseau spatial. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_A_guy_typing_code_in_a_linux_Terminal_on_his_computer_in_815115d1-1260-4ddc-999e-2b8ea26dd210.webp" width="1456" /></p>
+<p>Aujourd&rsquo;hui, on va parler d&rsquo;un truc qui s&rsquo;appelle LSD, mais attention hein, je parle pas de votre dernière soirée chemsex hein&#8230; C&rsquo;est plutôt un clone open-source de la commande <code>ls</code> en mode survitaminé ! Développé par la communauté et écrit en Rust, il rajoute plein de fonctionnalités hyper stylées comme les couleurs, les icônes, la vue en arbre, des options de formatage en pagaille&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1382914541" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>L&rsquo;idée vient du projet <a href="https://github.com/athityakumar/colorls" rel="noopener" target="_blank">colorls</a> qui est vraiment super aussi. Mais LSD pousse le délire encore plus loin. Déjà il est compatible avec quasi tous les OS : Linux, macOS, Windows, BSD, Android&#8230; </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157118" height="188" src="https://korben.info/app/uploads/2024/03/screen_lsd.webp" width="812" /></figure></div>
+
+
+<p>Et hyper simple à installer en plus&#8230; un petit </p>
+
+
+
+<p><code>apt install lsd</code> ou <code>brew install lsd</code></p>
+
+
+
+<p>et c&rsquo;est réglé. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1415207623" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ensuite il est ultra personnalisable. Vous pouvez faire votre thème de couleurs et d&rsquo;icônes sur mesure juste en bidouillant des fichiers de config en yaml. Et il supporte les polices <em>Nerd Font</em> avec des glyphes spéciaux trop classes ! Bon faut avoir la bonne police installée sur son système et le terminal configuré, mais c&rsquo;est pas bien compliqué. Et si vous êtes sur Putty ou Kitty, y&rsquo;a des tweaks spécifiques à faire, mais c&rsquo;est expliqué dans la doc.</p>
+
+
+
+<p>Mais attendez c&rsquo;est pas fini ! LSD gère aussi les liens symboliques, la récursion dans les sous-répertoires (avec une profondeur max en option), des raccourcis pour les tailles de fichiers plus lisibles, des indicateurs pour les exécutables, les dossiers, etc. Il peut même vous sortir des infos de git sur les fichiers de ton repo si vous activez l&rsquo;option ! Et pleins d&rsquo;autres trucs que j&rsquo;ai même pas encore testés&#8230;</p>
+
+
+
+<p>Depuis que je l&rsquo;ai installé et que j&rsquo;ai changé mon alias <code>ls</code>, je me régale à chaque fois que je liste un dossier. J&rsquo;ai l&rsquo;impression d&rsquo;être dans un vaisseau spatial avec des néons partout ! Bon j&rsquo;exagère à peine, mais franchement ça envoie du lourd.</p>
+
+
+
+<p>Allez je vais pas tout vous spoiler non plus, je vous laisse le plaisir de découvrir <a href="https://github.com/lsd-rs/lsd" rel="noopener" target="_blank">LSD</a> par vous-même et customiser votre expérience du terminal. Moi en tout cas je suis fan, et je dis pas ça parce que je plane ! 😄</p>
+
+
+
+<p>Thx Lorenper pour l&rsquo;outil !</p>
+]]></content:encoded>
+<pubDate>Sat, 27 Apr 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 27 Apr 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Durdraw – Un éditeur ASCII pour faire l’art rétro dans votre terminal</title>
+<link>https://korben.info/editeur-ansi-ascii-unicode-durdraw-creer-art-terminal.html</link>
+<guid>https://korben.info/editeur-ansi-ascii-unicode-durdraw-creer-art-terminal.html</guid>
+<content:encoded><![CDATA[
+<div> ASCII, ANSI, Unicode, Durdraw, éditeur<br>
+<br>
+Summary: Durdraw est un éditeur puissant permettant de créer de l'art ASCII, ANSI et Unicode dans votre terminal. Codé en Python, il offre une expérience rappelant les softs légendaires de l'époque MS-DOS tout en offrant la flexibilité du monde Unix. Avec une palette de couleurs et des thèmes personnalisables, Durdraw permet de dessiner des animations old school avec un contrôle total du timing. Les utilisateurs peuvent éditer au caractère et à la couleur près, utiliser des raccourcis clavier et même la souris pour peaufiner leurs créations. Le logiciel gère les animations image par image de manière stable, offrant une qualité remarquable. Bien que Durdraw ne soit pas un logiciel de modélisation 3D avancé, il pousse l'art ANSI à ses limites. L'auteur est réactif sur GitHub pour améliorer régulièrement le logiciel, qui est disponible en open-source. Foncez sur Durdraw pour créer des chefs-d'œuvre rétro en art ASCII, ANSI et Unicode. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="338" src="https://korben.info/app/uploads/2024/03/SCR-20240314-ul0.webp" width="1117" /></p>
+<p>Attention, pépite de l&rsquo;espace à vous faire découvrir aujourd&rsquo;hui ! Ça s&rsquo;appelle <a href="https://durdraw.org/" rel="noopener" target="_blank">Durdraw</a> et c&rsquo;est un éditeur de <em>folie</em> pour créer de l&rsquo;art ASCII, ANSI et Unicode dans votre terminal !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1490707265" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Imaginez pouvoir dessiner des animations old school avec une palette de 16 ou 256 couleurs, en mixant allègrement les caractères CP437 de l&rsquo;époque MS-DOS avec de l&rsquo;Unicode moderne. Le tout avec le support de thèmes customisés et de l&rsquo;export en HTML et mIRC.</p>
+
+
+
+<p>Si comme moi vous avez grandi avec des softs de légende comme <em>TheDraw</em> et <em>PabloDraw</em>, vous allez retrouver direct vos repères, mais avec la puissance et la souplesse du monde Unix en plus.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157113" height="550" src="https://korben.info/app/uploads/2024/03/293581425-4137eb2d-0de0-47ca-8789-cca0c8519e91.gif" width="800" /></figure></div>
+
+
+<p>Durdraw est codé en Python donc pour l&rsquo;installer c&rsquo;est ultra simple, un petit coup de <code>pip</code> ou de <code>git clone</code> et vous êtes parés pour entrer dans la 4ème dimension de l&rsquo;ANSI art 😎.</p>
+
+
+
+<p><code>git clone https://github.com/moneamis/durdraw-demo </code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1262845171" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>cd durdraw-demo </code></p>
+
+
+
+<p><code>./setup.sh </code></p>
+
+
+
+<p><code>durdraw -p demo.dur</code></p>
+
+
+
+<p>Les devs ont même pensé à inclure une config d&rsquo;exemple et des thèmes bien sentis pour pas être largué en arrivant. Une fois lancé, préparez-vous à entrer dans la matrice : ça fourmille de raccourcis clavier dans tous les sens pour éditer au caractère et à la couleur près. Les nostalgiques des BBS apprécieront les commandes à base d&rsquo;échappement, pendant que les plus modernes pourront même utiliser la souris pour peaufiner leurs chef d&rsquo;oeuvres.</p>
+
+
+
+<p>Et là où Durdraw se pose, c&rsquo;est qu&rsquo;il gère les animations image par image avec un contrôle total du timing. Fini l&rsquo;époque où on dépendait du débit du modem, maintenant on créé des petits <em>flip book</em> ASCII qui restent stables même quand on redimensionne le terminal à la volée. Ça c&rsquo;est de la qualité mes p&rsquo;tits potes !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Bon après faut pas se leurrer, Durdraw ne rendra pas votre minitel compatible avec Unreal Engine 5 hein. Mais entre nous, est-ce qu&rsquo;on a vraiment besoin d&rsquo;aller jusque là quand on peut déjà pousser l&rsquo;art ANSI dans ses derniers retranchements ? En plus l&rsquo;auteur est hyper réactif sur GitHub pour améliorer son bébé au fil des contributions. C&rsquo;est ça aussi la magie de l&rsquo;open-source !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2062216620" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Bref, foncez sur <a href="https://durdraw.org/" rel="noopener" target="_blank">https://durdraw.org</a>, et lâchez-vous dans les créations bien rétro !</p>
+
+
+
+<p>Merci à Lorenper pour l&rsquo;info.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 26 Apr 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Adobe VideoGigaGAN – L’IA qui transforme vos vidéos floues en HD !</title>
+<link>https://korben.info/adobe-videogigagan-ia-transforme-videos-floues-hd.html</link>
+<guid>https://korben.info/adobe-videogigagan-ia-transforme-videos-floues-hd.html</guid>
+<content:encoded><![CDATA[
+<div> Adobe, VideoGigaGAN, IA génératif, vidéos, résolution<br>
+<br>
+Summary: Adobe a développé un modèle d'IA génératif appelé VideoGigaGAN qui peut améliorer la qualité des vidéos anciennes et floues en une séquence HD avec des détails nets. Cette IA peut augmenter la résolution des vidéos jusqu'à 8 fois et améliorer les textures de peau et les détails. Cependant, il s'agit pour le moment d'une démo de recherche et aucune date de sortie officielle n'est annoncée. Il est envisageable qu'il soit intégré à Premiere Pro à l'avenir. En attendant, les vidéos de mauvaise qualité continueront à circuler sur les réseaux sociaux. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1374" src="https://korben.info/app/uploads/2024/04/SCR-20240425-jonf-1.png" width="2426" /></p>
+<p>Vous avez une vieille vidéo toute pourrie, floue à souhait, qui date de Mathusalem et bien avec <strong><a href="https://videogigagan.github.io/" rel="noopener" target="_blank">VideoGigaGAN</a></strong> d&rsquo;Adobe, elle va se transformer en une magnifique séquence HD, avec des détails si nets que vous pourrez compter les poils de nez des gens qui sont dessus !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159712" height="533" src="https://korben.info/app/uploads/2024/04/SCR-20240425-jqbb-1024x533.png" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1584647054" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>VideoGigaGAN est ce qu&rsquo;on appelle un modèle d&rsquo;IA génératif. En gros, ce machin est capable de <strong>deviner</strong> les détails manquants dans une vidéo pourrave pour la rendre méga classe. Les petits gars d&rsquo;Adobe ont balancé des exemples sur leur <a href="https://videogigagan.github.io/" rel="noopener" target="_blank">GitHub</a> et franchement, c&rsquo;est impressionnant. On passe d&rsquo;une vidéo degueulasse à un truc ultra net, avec des <strong>textures de peau</strong> hallucinantes et des <strong>détails</strong> de fou !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159708" height="580" src="https://korben.info/app/uploads/2024/04/SCR-20240425-jonf-1-1024x580.png" width="1024" /></figure></div>
+
+
+<p>En plus, cette IA est capable d&rsquo;upscaler les vidéos jusqu&rsquo;à <strong>8 fois</strong> leur résolution d&rsquo;origine, par contre, faut pas s&#8217;emballer car pour le moment, c&rsquo;est juste une démo de recherche et y&rsquo;a pas encore de date de sortie officielle. Mais connaissant Adobe, y&rsquo;a moyen que ça finisse dans Premiere Pro un de ces quatre. Je vais pouvoir améliorer mes vidéos tournées à l&rsquo;époque au format 3GP \o/.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159714" src="https://korben.info/app/uploads/2024/04/method_overview-1.svg" /></figure></div>
+
+
+<p>D&rsquo;ici là, va falloir continuer à se taper des vidéos de chat toutes pixelisées sur les réseaux sociaux.</p>
+
+
+
+<p><a href="https://www.theverge.com/2024/4/24/24138979/adobe-videogigagan-ai-video-upscaling-project-blurry-hd" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 08:37:05 +0000</pubDate>
+<pubDate>Thu, 25 Apr 2024 08:37:05 +0000</pubDate>
+</item>
+<item>
+<title>OpenELM – Apple sort ses modèles IA légers et open-source</title>
+<link>https://korben.info/openelm-apple-modeles-ia-open-source-appareils.html</link>
+<guid>https://korben.info/openelm-apple-modeles-ia-open-source-appareils.html</guid>
+<content:encoded><![CDATA[
+<div> paramètres, pré-entraînement, algorithmes évolutionnistes, modèles LLM, transparence<br>
+<br>
+Summary:<br>
+OpenELM est une famille de modèles IA open-source développés par Apple pour fonctionner directement sur les appareils sans passer par le cloud. Ces modèles combinent plusieurs techniques avancées telles que l'allocation des paramètres par couche, le pré-entraînement sur des datasets variés, et l'utilisation d'algorithmes évolutionnistes pour améliorer la précision des modèles LLM. Apple met l'accent sur la transparence en partageant tout le code, les logs d'entraînement et les configurations, ainsi que l'utilisation de datasets publics pour limiter les biais. Avec 8 modèles au total, incluant des modèles pré-entraînés et fine-tunés, OpenELM montre l'engagement d'Apple dans le domaine de l'IA et sa volonté de rivaliser avec des géants tels que Microsoft et Google. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/04/manu23_Apple_Artificial_Intelligence_802bd265-c767-4ba1-8f8e-395967b78ebf.webp" width="1920" /></p>
+<p>Vous connaissez <strong>OpenELM</strong> ? Non, normal, ça vient de sortir. Et c&rsquo;est une famille de modèles <strong>IA open-source</strong> made in Apple conçus pour tourner directement sur vos appareils, sans passer par le cloud. En gros, c&rsquo;est de l&rsquo;IA maison dans nos iPhone, iPad et Mac&#8230;etc.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1917677177" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>OpenELM combine plusieurs <strong>modèles de langage naturel (LLMs)</strong> utilisant des algorithmes évolutionnistes qui exploitent les principes techniques suivants :</p>
+
+
+
+<ol>
+<li><strong>Layer-wise scaling strategy</strong> : Cette stratégie consiste à allouer les paramètres dans les couches d&rsquo;un modèle transformeur pour améliorer l&rsquo;exactitude. Les modèles sont pré-alourés avec un budget de paramètres de 270 millions, 450 millions, 1,1 milliard et 3 milliards.</li>
+
+
+
+<li><strong>Pré-entraînement</strong> : Les modèles ont été pré-entraînés à l&rsquo;aide d&rsquo;une combinaison de datasets, incluant une sous-ensemble de Dolma v1.6, RefinedWeb, deduplicated PILE et une sous-ensemble de RedPajama. Ce dataset contient environ 1,8 trillion de tokens.</li>
+
+
+
+<li><strong>Evolutionary algorithms</strong> : Les algorithmes évolutionnistes sont utilisés pour combiner les modèles LLM et améliorer l&rsquo;exactitude. Cela permet d&rsquo;exploiter les forces combinées des modèles pré-alourés et d&rsquo;améliorer leur précision.</li>
+</ol>
+
+
+
+<p>Alors évidemment, Apple arrive un peu après la bataille dans l&rsquo;IA, pendant que Microsoft et Google déboulent à fond la caisse. Mais bon, mieux vaut tard que jamais, et puis ils compensent avec du <strong>lourd</strong>, soit <strong>8 modèles OpenELM au total</strong>, dont 4 pré-entraînés avec CoreNet et 4 fine-tunés. Et avec leur stratégie de scaling par couche ça optimise à fond l&rsquo;allocation des paramètres. </p>
+
+
+
+<p>Allez, je traduits&#8230; En gros, ça veut dire qu&rsquo;ils sont hyper efficaces et précis. Prenez le modèle à 1 milliard de paramètres et bien bah il explose un modèle équivalent comme <a href="https://huggingface.co/allenai/OLMo-7B" rel="noopener" target="_blank">OLMo</a> de 2,36% en précision, avec 2 fois moins de tokens en pré-entraînement. Et ce qui est top, c&rsquo;est qu&rsquo;Apple balance tout : code, logs d&rsquo;entraînement, configuration&#8230;etc et pas juste le modèle final. Et vu qu&rsquo;ils utilisent des datasets publics, c&rsquo;est top en matière de transparence et vérification des biais.</p>
+
+
+
+<p>En tout cas, une chose est sûre, avec <a href="https://huggingface.co/apple/OpenELM#llm360" rel="noopener" target="_blank">OpenELM</a>, Apple nous prouve qu&rsquo;ils sont dans la course, et qu&rsquo;ils comptent bien <strong>mettre le paquet sur l&rsquo;IA</strong> </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-244561746" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et Merci à Letsar pour l&rsquo;info, c&rsquo;est lui qui m&rsquo;a mis la puce à l&rsquo;oreille sur OpenELM. Tu gères !</p>
+
+
+
+<p><a href="https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 08:19:38 +0000</pubDate>
+<pubDate>Thu, 25 Apr 2024 08:19:38 +0000</pubDate>
+</item>
+<item>
+<title>Quels sont les différents types de data brokers et comment lutter ?</title>
+<link>https://korben.info/types-de-data-brokers.html</link>
+<guid>https://korben.info/types-de-data-brokers.html</guid>
+<content:encoded><![CDATA[
+<div> data brokers, données personnelles, protection, Incogni, RGPD
+<br>
+Summary:
+Les data brokers sont des entités qui collectent et revendent nos données personnelles, provenant de diverses sources telles que les gouvernements, les entreprises et notre activité en ligne. Ils proposent différents services, de la recherche de personnes à la gestion des risques en passant par la santé. Les données collectées peuvent inclure des informations financières, de santé, et de marketing. Pour lutter contre ces pratiques et protéger nos données, des outils comme Incogni sont disponibles pour nettoyer les bases de données des courtiers en données. Incogni s'assure que nos informations sont supprimées et reste conforme aux réglementations telles que le RGPD en Europe. En surveillant nos activités en ligne, en limitant les informations partagées et en utilisant des outils de protection de la vie privée, nous pouvons limiter l'accès de ces courtiers à nos données personnelles. <div>
+<p><img alt="Bannière Incogni" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="500" src="https://korben.info/app/uploads/2023/11/incogni-banniere.jpg" width="1500" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat <a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">avec&nbsp;Incogni</a> &#8212;</p>
+
+
+
+<p>Ah, les data brokers, ces entreprises mystérieuses dont on entend parler à peine plus souvent que de la météo sur Pluton (jamais en gros). Pourtant, ces entités obscures ont les mains (ou plutôt les serveurs) pleines de données, récoltées dans les plus sombres recoins numériques.&nbsp;J&rsquo;ai déjà abordé le sujet sur ce site, mais&nbsp;comment opèrent-ils concrètement&nbsp;? Voyage dans les entrailles du web pour percer le mystère des data brokers et comment lutter avec l&rsquo;aide d&rsquo;Incogni.</p>
+
+
+
+<h2 class="wp-block-heading">Qui sont-ils et que font-ils ?</h2>
+
+
+
+<p><a href="https://korben.info/data-brokers-incogni.html">Les data brokers</a>, ce sont un peu les fantômes du cyberespace. On les connait rarement de nom, mais ils traquent nos traces numériques comme des chasseurs de primes à la recherche d&rsquo;informations. Ils collectent des données de toutes sortes, du registre foncier à notre historique d&rsquo;achat en passant par nos profils sociaux et nos activités en ligne. Une fois leur butin amassé, ils compilent le tout pour dresser un portrait-robot le plus précis possible et le revendent ou le partagent avec des tiers. Faisant de&nbsp;notre petite personne&nbsp;la cible d&rsquo;un jeu de piste numérique. Tout ça pour quelques&nbsp;brouzoufs (enfin quelques &#8230; parfois ça peut se compter en centaines voire milliers d&rsquo;euros). Le marché de la data étant en pleine phase d&rsquo;expansion, ce marché juteux devrait quasiment doubler d&rsquo;ici la fin de la décennie pour atteindre plus de 450 milliards de $.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="552" src="https://kbn.im/brokersincogni" width="628" /></figure></div>
+
+
+<h2 class="wp-block-heading">Les types de data brokers</h2>
+
+
+
+<p>Et oui, contrairement à ce que vous pensez peut-être, tous les data brokers ne sont pas tous taillés dans le même moule. Ils offrent une variété de produits aux acheteurs.&nbsp;Cela va&nbsp;des informations financières à votre santé personnelle, en passant par le marketing et la publicité. Voici un petit tour d&rsquo;horizon des&nbsp;espèces les plus répandues qui peuplent cet écosystème obscur.</p>
+
+
+
+<h3 class="wp-block-heading">Les brokers en recherche de personnes</h3>
+
+
+
+<p>Vous vous souvenez de ces annuaires téléphoniques épais&nbsp;et lourd comme un parpaing&nbsp;? Eh bien ce type de broker fait la même chose, mais en version 2.0. Ils vous permettent de fouiller dans les profils d&rsquo;autres consommateurs, de retrouver d&rsquo;anciens amis ou de déterrer des secrets bien enfouis. Et pas besoin de sonner à leur porte pour qu&rsquo;ils vous livrent leurs trouvailles, tout est en ligne et à portée de clic. Sans doute les brokers les plus visibles pour tous. Notamment accessibles sur des sites comme PeekYou, Spokeo ou White Pages. Une sorte de niveau 1 de l&rsquo;espionnage, la base.</p>
+
+
+
+<h3 class="wp-block-heading">Les courtiers en marketing et publicité</h3>
+
+
+
+<p>C&rsquo;est un peu comme la cour de récré&nbsp;pour les&nbsp;marketeurs. Ils segmentent les consommateurs en fonction de leur comportement et de leurs préférences, offrant des cibles sur un plateau d&rsquo;argent aux annonceurs. Ils peuvent même enrichir nos profils avec des informations supplémentaires pour un ciblage ultra-précis (comme les géolocalisations ou le groupe ethnique). C&rsquo;est pas cool, mais limite ce sont quasi&nbsp;les moins dangereux de l&rsquo;histoire.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="343" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxyZDRtZ2JyOGgwanM5aXhndDloY2ZuNWd3a3R0eXI1amVlNmlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="480" /></figure></div>
+
+
+<h3 class="wp-block-heading">Les courtiers en informations financières</h3>
+
+
+
+<p>Si je vous cite des noms comme&nbsp;Experian, Equifax et Transunion il y a de grandes chances que cela ne vous dise rien. Pourtant, imaginez-les&nbsp;comme les trois mousquetaires&nbsp;de la data&nbsp;financière. Ils rassemblent tout ce qui s&rsquo;y rapporte, que ce soit des rapports de crédit, des historiques de paiement et des informations sur les comptes débiteurs. Leur but ?&nbsp;Vendre les données&nbsp;aux institutions financières afin que celle-ci puisse prendre des décisions. Ils sont régis par diverses lois (notamment en Europe), mais ça ne les empêche pas de jouer les acrobates avec nos données. Un exemple concret ? Si l&rsquo;on vous refuse un crédit de manière répétitive sans que vous compreniez trop pourquoi, c&rsquo;est peut-être parce que les banques ont en stock&nbsp;vos précédents comportements et qu&rsquo;ils n&rsquo;ont pas assez confiance.</p>
+
+
+
+<h3 class="wp-block-heading">Les brokers en gestion des risques</h3>
+
+
+
+<p>Ces petits malins détectent les différentes fraudes que vous auriez pu commettre et vérifient les identités des clients en un clin d&rsquo;œil. Avec des outils sophistiqués, ils peuvent traiter des millions de transactions par heure, gardant un œil vigilant sur nos activités et notre historique. Nos remboursements de crédit, nos salaires, les attestations ou amendes reçues, les découverts et autres agios, etc.</p>
+
+
+
+<h3 class="wp-block-heading">Les courtiers en santé</h3>
+
+
+
+<p>Ah, la santé, un sujet cher à nos cœurs et à nos portefeuilles. Ces brokers traquent par exemple nos achats de médicaments en vente libre, nos recherches sur les symptômes d&rsquo;une maladie, nos abonnements à des magazines de santé, l&rsquo;installation de certaines applications, etc. Ils vendent alors&nbsp;ces informations à des compagnies pharmaceutiques et d&rsquo;assurance santé, faisant de notre bien-être une marchandise à échanger.</p>
+
+
+
+<h2 class="wp-block-heading">Mais d&rsquo;où viennent ces données ?</h2>
+
+
+
+<p>Vous vous demandez peut-être comment ces brokers mettent la main sur nos données. Eh bien, c&rsquo;est un peu comme un jeu de piste géant, avec des indices cachés dans tous les coins du web, parfois là où l&rsquo;on ne s&rsquo;y attend pas (voir mon article sur les <a href="https://korben.info/incogni-et-les-differents-leaks-du-milieu-de-lautomobile.html">différents leaks du milieu de l’automobile</a>).</p>
+
+
+
+<h3 class="wp-block-heading">Les sources gouvernementales</h3>
+
+
+
+<p>Les gouvernements sont généreux avec nos informations, fournissant des données sur tout, des naissances aux décès en passant par les permis de conduire. Les data brokers se servent à pleines mains dans ce buffet à volonté de données publiques, construisant des profils détaillés sans jamais nous demander notre avis. Et je ne parle même pas de ces derniers mois ou les organismes officiels&nbsp;de notre cher gouvernement&nbsp;sont entrés en&nbsp;mode « grande braderie » (fuites France Travail, Urssaf, etc.). Servez-vous ma bonne dame, 80% de la population française est à portée de clavier, livrée de bon coeur.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="269" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1tN2YwNXYwaWlnNTZoMHptMmc3Z3Z0NjNqampuZXhsa2hheHdrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5nQjr9rWTUaVXEgGR/giphy.gif" width="480" /></figure></div>
+
+
+<h3 class="wp-block-heading">Les sources commerciales</h3>
+
+
+
+<p>Les entreprises aussi sont des donneurs généreux. Elles fournissent des historiques d&rsquo;achat, des données de garantie et même des informations de carte de fidélité. Et comme un bon ami qui prête sans jamais demander à être remboursé, elles donnent tout ça gracieusement aux data brokers, qui se régalent sans se poser de questions.</p>
+
+
+
+<h3 class="wp-block-heading">Les sources publiquement disponibles</h3>
+
+
+
+<p>Nos vies numériques (ou tout du moins une partie)&nbsp;sont&nbsp;des sortes de livres ouverts pour les data brokers. Ils parcourent nos profils sociaux, nos messages sur les forums et nos commentaires sur les blogs pour trouver des indices sur nos vies.&nbsp;Des enquêteurs privés, mais avec des algorithmes à la place de loupes.&nbsp;Le point positif c&rsquo;est qu&rsquo;au moins sur cet aspect nous avons notre mot à dire. Nous pouvons limiter&nbsp;les informations que nous partageons, utiliser des identités alternatives, sécuriser et chiffre&nbsp;nos échanges, etc.</p>
+
+
+
+<h3 class="wp-block-heading">Le pistage web</h3>
+
+
+
+<p>Et enfin, il y a le traçage en ligne, la cerise sur le gâteau des data brokers. Avec des cookies et des identifiants publicitaires, ils suivent nos moindres mouvements sur le web, collectant des informations sur nos habitudes de navigation et nos achats en ligne, récupèrent la liste des applications que nous utilisons, etc. Comme si Big Brother avait embauché des paparazzis pour nous suivre partout où nous allons. Mais là encore nous avons une part de responsabilité et nous pouvons agir de manière proactive (navigateur sans traqueurs, VPN &#8230;).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-155658" height="585" src="https://korben.info/app/uploads/2023/12/Tinfoleak-UnoutilOSINTSOCMINTpourTwitterX-1024x585.webp" style="width: 700px;" width="1024" /></figure></div>
+
+
+<h2 class="wp-block-heading">C&rsquo;est déjà trop tard ?</h2>
+
+
+
+<p>Peut-être, mais cela peut éventuellement changer. Ils sont partout, ils savent tout, et nous, on est là, à ne pas trop savoir quoi faire. Mais nous pouvons décider d&rsquo;au moins&nbsp;leur donner du fil à retordre.&nbsp;Déjà en faisant attention&nbsp;à ce que nous partageons en ligne, en utilisant les bons outils, etc. Et en faisant appel à un service comme Incogni pour tout ce qui est déjà dans la nature et que l&rsquo;on ne peut rattraper.</p>
+
+
+
+<p><a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">Incogni</a>, le désormais bien connu outil de Surfshark, propose un abonnement pour vous aider à nettoyer les données personnelles des bases de données des courtiers en données et des entreprises qui les stockent. Basé sur des réglementations comme le RGPD en Europe et la CCPA en Californie, Incogni impose aux courtiers en données de supprimer les informations des utilisateurs. Ces données peuvent être des choses comme&nbsp;vos noms, adresses, numéros de téléphone, etc.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="Incogni Surfshark" class="wp-image-131626" height="501" src="https://korben.info/app/uploads/2022/11/incogni-surfshark.jpg" style="width: 700px;" width="1024" /></figure></div>
+
+
+<p>Son gros avantage est de tout automatiser. Vous n&rsquo;avez pas besoin de contacter chaque broker pour lui demander de vous supprimer de sa base de données. Incogni va le faire pour vous et surtout, va s&rsquo;assurer que le retrait perdure. Un autre aspect intéressant du tableau de bord de l&rsquo;outil est que vous allez visionner très rapidement les différents niveaux de dangerosité des courtiers. Mais aussi de connaitre le champ d&rsquo;action de chacun d&rsquo;entre eux et si vous trainez plutôt du côté des données de santé ou de la publicité.</p>
+
+
+
+<p>Concrètement pour voir comment cela se passe, je vous redirige vers mon test Incogni sur une période d&rsquo;un an. On va dire que le gros du travail se fait sur les 3 premiers mois, et qu&rsquo;ensuite les récalcitrants finissent pas craquer au fil des relances du service.&nbsp;En ce moment ce dernier est d&rsquo;ailleurs à moins de 95€ TTC par an, environ 7.8€/mois.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">Essayez Incogni !</a></h2>
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 08:00:00 +0000</pubDate>
+<pubDate>Thu, 25 Apr 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Localsumm – L’extension Chrome qui résume vos articles en local avec Phi-3</title>
+<link>https://korben.info/localsumm-generateur-resumes-local-navigateur.html</link>
+<guid>https://korben.info/localsumm-generateur-resumes-local-navigateur.html</guid>
+<content:encoded><![CDATA[
+<div> Localsumm, générateur résumés, extension Chrome, modèle langage, Microsoft<br>
+<br>
+Summary:<br>
+Localsumm est un générateur de résumés nouvelle génération qui utilise un modèle de langage développé par Microsoft. Cette extension Chrome permet de résumer des textes directement dans le navigateur sans envoyer les données sur le cloud. Bien que jeune et en cours de développement, Localsumm offre des fonctionnalités intéressantes. Des améliorations telles que la génération automatique de tweets avec les points clés des articles, l'intégration des résumés dans l'historique de recherche Chrome, le partage facile avec les contacts et une version mobile sont envisagées. Une future adaptation sur Firefox est également prévue. Globalement, Localsumm est une solution pratique pour les personnes pressées qui souhaitent lire rapidement l'essentiel des articles en ligne. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/04/manu23_Fast_100_local_web_page_summarization_with_the_Microsoft_28ffa769-8058-48e1-9f69-913b3f3715ee.webp" width="1920" /></p>
+<p><strong>Localsumm</strong> est un générateur de résumés nouvelle génération qui tourne direct dans votre navigateur Chrome, sans envoyer vos données sur le cloud. Sous le capot, cette petite <strong>extension magique</strong> utilise un modèle de langage maison développé par Microsoft : le fameux <strong><a href="https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/" rel="noopener" target="_blank">Phi-3</a></strong>. C&rsquo;est une sorte de cousin du célèbre GPT, mais en version allégée et spécialisée dans le résumé de texte.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1328328334" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour tester cette merveille, c&rsquo;est assez simple. Déjà, il faut avoir Chrome (ou un clone open source comme Brave ou Chromium) puis :</p>
+
+
+
+<ol>
+<li>Installez et lancez <a href="https://ollama.com/">Ollama</a></li>
+
+
+
+<li>Entrez la commande <code>ollama run phi3</code> dans le terminal pour déployer le modèle Phi-3</li>
+
+
+
+<li>Bidouillez un peu les paramètres CORS de votre navigateur (<a href="https://medium.com/dcoderai/how-to-handle-cors-settings-in-ollama-a-comprehensive-guide-ee2a5a1beef0">voici un tuto récent pour le faire proprement</a>)</li>
+
+
+
+<li>Clonez le code source de Localsumm <a href="https://github.com/samrawal/localsumm.git">depuis GitHub</a> avec Git : <br /><code>git clone https://github.com/samrawal/localsumm.git</code></li>
+
+
+
+<li>Allez dans les extensions Chrome (chrome://extensions), activez le mode développeur, cliquez sur « <strong>Charger l&rsquo;extension non empaquetée</strong> » et sélectionnez le dossier <code>localsumm</code></li>
+</ol>
+
+
+
+<p>Et voilà, vous avez votre assistant de lecture perso, prêt à croquer des articles et recracher des résumés bien juteux ! </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-159696" height="446" src="https://korben.info/app/uploads/2024/04/phi3demo-1.gif" style="width: 756px; height: auto;" width="600" /></figure></div>
+
+
+<p>Localsumm est encore tout jeune et son code est en cours de développement, alors forcément il y a quelques bugs et fonctionnalités manquantes. Perso, j&rsquo;ai déjà quelques idées d&rsquo;amélioration :</p>
+
+
+
+<ul>
+<li>Ajouter la génération automatique d&rsquo;un tweet avec les points clés de l&rsquo;article, pour envoyer sur mes réseaux</li>
+
+
+
+<li>Intégrer les résumés dans le moteur de recherche de l&rsquo;historique Chrome, pour retrouver facilement les derniers trucs que j&rsquo;ai lu</li>
+
+
+
+<li>Pouvoir partager un résumé en 1 clic avec ses contacts</li>
+
+
+
+<li>Créer une version mobile de l&rsquo;extension pour résumer le web sur son smartphone</li>
+
+
+
+<li>Et bien sûr un portage sur Firefox parce que moi, j&rsquo;utilise surtout ce navigateur là.</li>
+</ul>
+
+
+
+<p>En tout cas, je trouve que Localsumm est vraiment une chouette idée pour les gens pressés. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1357094800" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>A vous de tester maintenant !</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 07:20:40 +0000</pubDate>
+<pubDate>Thu, 25 Apr 2024 07:20:40 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

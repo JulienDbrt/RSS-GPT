@@ -44,3 +44,9 @@ Append: [Immobilier : les Français délaissent les métropoles pour les littora
 Append: [Impôts : il est temps de remplir votre déclaration annuelle de revenus](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/impots-il-est-temps-de-remplir-votre-declaration-annuelle-de-revenus_6456137.html)
 append_entries: 20
 Finish: 2024-04-28 01:36:50.056970
+------------------------------------------------------
+Started: 2024-04-28 12:34:00.276702
+Existing_entries: 20
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-04-28 12:34:00.425016

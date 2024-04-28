@@ -124,3 +124,9 @@ Append: [Franchise : tour d'horizon des montants d'investissements selon les pro
 Append: [L'investissement initial, capital pour se lancer en franchise](https://www.lexpress.fr/entrepreneurs/franchise/l-investissement-initial-capital-pour-se-lancer-en-franchise_2170753.html)
 append_entries: 100
 Finish: 2024-04-28 01:47:30.825217
+------------------------------------------------------
+Started: 2024-04-28 12:36:09.101278
+Existing_entries: 100
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/entrepreneurs.xml
+append_entries: 0
+Finish: 2024-04-28 12:36:09.979980

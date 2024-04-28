@@ -54,3 +54,24 @@ Append: [Grève des contrôleurs aériens : 45 % des vols supprimés à l'aérop
 Append: [Grève des contrôleurs aériens : malgré un "accord trouvé", 65% des vols seront annulés à l'aéroport Marseille-Provence](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/greve-des-controleurs-aeriens-malgre-un-accord-trouve-65-des-vols-seront-annules-a-l-aeroport-marseille-provence-2960009.html)
 append_entries: 30
 Finish: 2024-04-28 01:42:41.919399
+------------------------------------------------------
+Started: 2024-04-28 12:35:22.976615
+Existing_entries: 30
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [Volotea et son étrange méthode pour fixer les prix des billets d'avion low cost](https://france3-regions.francetvinfo.fr/grand-est/une-compagnie-aerienne-et-son-etrange-methode-pour-fixer-les-prix-des-billets-d-avion-low-cost-2961188.html)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Accident : un jeune conducteur tué au volant de sa voiture dans l'Aube](https://france3-regions.francetvinfo.fr/grand-est/aube/romilly-sur-seine-aube/accident-un-jeune-conducteur-tue-au-volant-de-sa-voiture-dans-l-aube-2961881.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Alain Rousset sur la décentralisation : "Marine Le Pen avec les pouvoirs qu'a Macron aujourd'hui, ça donnerait une dictature"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/alain-rousset-sur-la-decentralisation-marine-le-pen-avec-les-pouvoirs-qu-a-macron-aujourd-hui-ca-donnerait-une-dictature-2961431.html)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [PHOTOS. Transport écologique en montagne : saviez-vous qu'il y a 110 ans, un tramway traversait les Pyrénées](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/photos-transport-ecologique-en-montagne-saviez-vous-qu-il-y-a-110-ans-un-tramway-traversait-les-pyrenees-2955008.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Les métros roulent-ils tous à la même vitesse ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-metros-roulent-ils-tous-a-la-meme-vitesse-2959238.html)
+append_entries: 5
+Finish: 2024-04-28 12:35:43.138273

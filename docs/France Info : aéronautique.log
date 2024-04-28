@@ -44,3 +44,9 @@ Append: [États-Unis: un Boeing perd le capot d'un moteur en plein décollage]
 Append: [États-Unis : un Boeing perd un capot moteur en plein décollage](https://www.francetvinfo.fr/economie/transports/etats-unis-un-boeing-perd-un-capot-moteur-en-plein-decollage_6474689.html)
 append_entries: 20
 Finish: 2024-04-28 01:35:06.447915
+------------------------------------------------------
+Started: 2024-04-28 12:33:59.793160
+Existing_entries: 20
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-04-28 12:33:59.954048

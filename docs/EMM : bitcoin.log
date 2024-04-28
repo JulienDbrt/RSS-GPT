@@ -123,3 +123,9 @@ Append: [X prépare le système de paiement intégré à l'application](https://
 Append: [L’Australie apparaît comme une plaque tournante croissante des guichets automatiques cryptographiques](https://www.cryptopolitan.com/fr/l-39-australie-apparait-comme-un-hub-crypto-atm-en-plein-essor/)
 append_entries: 99
 Finish: 2024-04-28 01:09:39.873111
+------------------------------------------------------
+Started: 2024-04-28 12:27:42.932059
+Existing_entries: 99
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+append_entries: 0
+Finish: 2024-04-28 12:27:44.810419

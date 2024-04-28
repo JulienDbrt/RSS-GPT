@@ -54,3 +54,9 @@ Append: [Société Générale va supprimer environ 900 postes "sans départs con
 Append: [11 milliards d'euros: nouveau bénéfice record pour BNP Paribas en 2023](https://www.bfmtv.com/economie/entreprises/assurance-banque/11-milliards-d-euros-nouveau-benefice-record-pour-bnp-paribas-en-2023_AD-202402010134.html)
 append_entries: 30
 Finish: 2024-04-28 01:20:12.659125
+------------------------------------------------------
+Started: 2024-04-28 12:31:56.405543
+Existing_entries: 30
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/
+append_entries: 0
+Finish: 2024-04-28 12:31:56.861511

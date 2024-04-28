@@ -54,3 +54,9 @@ Append: [Bretagne à 5 départements : la justice donne tort à une association 
 Append: [TÉMOIGNAGE. "On investit dans des machines, mais investir sur soi, c'est plus compliqué", agriculteur en difficulté, Ludovic a fait appel à un coach](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/temoignage-on-investit-dans-des-machines-mais-investir-sur-soi-c-est-plus-complique-agriculteur-en-difficulte-ludovic-a-fait-appel-a-un-coach-2952092.html)
 append_entries: 30
 Finish: 2024-04-28 01:41:07.055776
+------------------------------------------------------
+Started: 2024-04-28 12:35:15.008846
+Existing_entries: 30
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-04-28 12:35:15.176910

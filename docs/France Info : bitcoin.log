@@ -44,3 +44,9 @@ Append: [Cryptomonnaies : trois questions sur la faillite de la plateforme FTX q
 Append: [Cryptomonnaies : la plateforme FTX se déclare en faillite aux Etats-Unis](https://www.francetvinfo.fr/economie/bitcoin/cryptomonnaies-la-plateforme-ftx-en-faillite-aux-etats-unis_5471415.html)
 append_entries: 20
 Finish: 2024-04-28 01:36:16.128638
+------------------------------------------------------
+Started: 2024-04-28 12:34:00.120651
+Existing_entries: 20
+Fetching from https://www.francetvinfo.fr/economie/bitcoin.rss
+append_entries: 0
+Finish: 2024-04-28 12:34:00.265890

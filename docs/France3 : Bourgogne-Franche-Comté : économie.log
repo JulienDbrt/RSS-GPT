@@ -54,3 +54,15 @@ Append: ["Les idées fusent partout !" le Jura va décerner ses premiers "Ceps d
 Append: [VIDÉO. Ce chien-robot pourrait changer l'avenir des friches industrielles, comme ici au Creusot](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/le-creusot/video-ce-chien-robot-pourrait-changer-l-avenir-des-friches-industrielles-comme-ici-au-creusot-2956535.html)
 append_entries: 30
 Finish: 2024-04-28 01:40:41.206249
+------------------------------------------------------
+Started: 2024-04-28 12:35:07.571851
+Existing_entries: 30
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Cet ancien chef cuisinier est devenu apiculteur par amour des abeilles](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/colmar/cet-ancien-chef-cuisinier-est-devenu-apiculteur-par-amour-des-abeilles-2960606.html)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [Agriculture, économie et innovation : pourquoi l'Europe divise autant ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/agriculture-economie-et-innovation-pourquoi-l-europe-divise-autant-2810834.html)
+append_entries: 2
+Finish: 2024-04-28 12:35:14.993737

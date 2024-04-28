@@ -66,6 +66,7 @@
 - https://flipboard.com/topic/fr-emploi.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : emploi.xml
 - https://flipboard.com/topic/fr-immobilier.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : immobilier.xml
 - https://flipboard.com/topic/fr-linky.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : linky.xml
+- https://korben.info/feed -> https://JulienDbrt.github.io/RSS-GPT/Korben.xml
 - https://www.lacryptomonnaie.net/feed/ -> https://JulienDbrt.github.io/RSS-GPT/La cryptomonnaie.xml
 - https://nouvelles.droit.org/categs/rss/1003 -> https://JulienDbrt.github.io/RSS-GPT/Nouvelles Droits : consommation.xml
 - https://nouvelles.droit.org/categs/rss/33 -> https://JulienDbrt.github.io/RSS-GPT/Nouvelles Droits : immobilier.xml
@@ -117,6 +118,7 @@
 - https://www.francetvinfo.fr/economie/transports.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : transports.xml
 - https://www.radiofrance.fr/franceinter/rss/economie -> https://JulienDbrt.github.io/RSS-GPT/France Inter : économie.xml
 - https://www.francesoir.fr/rss-tendance-eco.xml -> https://JulienDbrt.github.io/RSS-GPT/France Soir : tendance éco.xml
+- https://www.moneyvox.fr/actu/rss.php -> https://JulienDbrt.github.io/RSS-GPT/MoneyVox.xml
 - https://www.france24.com/fr/tag/cryptomonnaie/rss -> https://JulienDbrt.github.io/RSS-GPT/France24 : cryptomonnaie.xml
 - https://france3-regions.francetvinfo.fr/environnement/energie/rss -> https://JulienDbrt.github.io/RSS-GPT/France3 : énergie.xml
 - https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france -> https://JulienDbrt.github.io/RSS-GPT/France3 : Île-de-France : économie.xml

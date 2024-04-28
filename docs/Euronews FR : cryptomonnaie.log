@@ -57,3 +57,9 @@ Append: [Samsung creuse le filon des crypto-monnaies](https://fr.euronews.com/bu
 Append: [Vol de NEM : le Japon réclame plus de sécurité](https://fr.euronews.com/2018/01/29/vol-de-nem-le-japon-reclame-plus-de-securite)
 append_entries: 33
 Finish: 2024-04-28 01:32:59.105182
+------------------------------------------------------
+Started: 2024-04-28 12:33:31.333265
+Existing_entries: 33
+Fetching from https://fr.euronews.com/rss?level=tag&name=cryptomonnaie
+append_entries: 0
+Finish: 2024-04-28 12:33:32.148505

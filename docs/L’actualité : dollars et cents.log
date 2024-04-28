@@ -74,3 +74,9 @@ Append: [Des produits de Costco et d’Amazon à une fraction du prix](https://l
 Append: [Faites de l’argent avec vos manuels scolaires](https://lactualite.com/finances-personnelles/faites-de-largent-avec-vos-manuels-scolaires/)
 append_entries: 50
 Finish: 2024-04-28 01:44:44.119926
+------------------------------------------------------
+Started: 2024-04-28 12:35:46.181240
+Existing_entries: 50
+Fetching from https://lactualite.com/dollars-et-cents/feed/
+append_entries: 0
+Finish: 2024-04-28 12:35:46.515960

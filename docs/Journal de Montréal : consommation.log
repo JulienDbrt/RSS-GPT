@@ -37,3 +37,9 @@ Append: [Hausse du prix de l’essence: un fort sentiment d’impuissance chez l
 Append: [Hausse du prix de l'essence: un livreur pourrait perdre jusqu'à 100$ par mois si les prix actuels se maintiennent](https://www.journaldemontreal.com/2024/04/19/hausse-du-prix-de-lessence-un-livreur-pourrait-perdre-jusqua-100--par-mois-si-les-prix-actuels-se-maintiennent)
 append_entries: 13
 Finish: 2024-04-28 01:43:15.276862
+------------------------------------------------------
+Started: 2024-04-28 12:35:43.146003
+Existing_entries: 13
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-04-28 12:35:43.421941

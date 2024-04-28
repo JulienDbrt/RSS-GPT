@@ -54,3 +54,15 @@ Append: [Une propriétaire de 72 ans dénonce la prostitution dans son immeuble,
 Append: [Alors qu’elle préparait une visite immobilière, une agente met le feu à une maison de 3 millions de dollars](https://www.sudouest.fr/insolite/alors-qu-elle-preparait-une-visite-immobiliere-une-agente-met-le-feu-a-une-maison-de-3-millions-de-dollars-19036686.php)
 append_entries: 30
 Finish: 2024-04-28 01:11:43.567684
+------------------------------------------------------
+Started: 2024-04-28 12:28:47.337912
+Existing_entries: 30
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Qu'arrivera-t-il à Trump s'il ne fournit pas lundi une caution d'un demi-milliard de dollars?](https://www.challenges.fr/monde/qu-arrivera-t-il-a-trump-s-il-ne-fournit-pas-lundi-une-caution-d-un-demi-milliard-de-dollars_887764?xtor=RSS-32)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [25 milliards de dommages: La patronne d'un géant de l'immobilier condamnée à mort pour fraude au Vietnam](https://www.blick.ch/fr/news/monde/25-milliards-de-dommages-la-patronne-dun-geant-de-limmobilier-condamnee-a-mort-pour-fraude-au-vietnam-id19626907.html)
+append_entries: 2
+Finish: 2024-04-28 12:28:55.135482

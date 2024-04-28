@@ -34,3 +34,12 @@ Summarized using GPT-3.5-turbo
 Append: [A l'approche des Jeux olympiques, la SNCF dévoile les coulisses de la gare du Nord](https://www.latribune.fr/entreprises-finance/services/transport-logistique/a-l-approche-des-jeux-olympiques-la-sncf-devoile-les-coulisses-de-la-gare-du-nord-994076.html)
 append_entries: 10
 Finish: 2024-04-28 01:55:03.561535
+------------------------------------------------------
+Started: 2024-04-28 12:38:04.090685
+Existing_entries: 10
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Versailles ou Chantilly ? Le match des châteaux](https://www.latribune.fr/culture-lifestyle/versailles-ou-chantilly-le-match-des-chateaux-996359.html)
+append_entries: 1
+Finish: 2024-04-28 12:38:07.932010

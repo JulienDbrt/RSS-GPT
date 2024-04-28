@@ -44,3 +44,9 @@ Append: [Boeing : Le trou d’air financier moins profond que prévu après la 
 Append: [Presque tous les savons de Marseille viennent de l’étranger](https://www.20minutes.fr/consommation/4088089-20240424-presque-tous-savons-marseille-viennent-etranger)
 append_entries: 20
 Finish: 2024-04-28 01:15:28.745598
+------------------------------------------------------
+Started: 2024-04-28 12:31:04.269373
+Existing_entries: 20
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-04-28 12:31:04.890756

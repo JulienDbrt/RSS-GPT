@@ -54,3 +54,12 @@ Append: [Les entreprises françaises sont en avance sur le télétravail sauf po
 Append: [Près d'un quart des actifs ont travaillé le dimanche en 2022](https://www.bfmtv.com/economie/emploi/vie-de-bureau/pres-d-un-quart-des-actifs-ont-travaille-le-dimanche-en-2022_AN-202310040724.html)
 append_entries: 30
 Finish: 2024-04-28 01:29:35.563435
+------------------------------------------------------
+Started: 2024-04-28 12:32:52.519424
+Existing_entries: 30
+Fetching from https://www.bfmtv.com/rss/economie/emploi/vie-de-bureau/
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Coup de foudre au bureau: dois-je avouer mes sentiments à mon boss?](https://www.bfmtv.com/economie/emploi/vie-de-bureau/coup-de-foudre-au-bureau-dois-je-avouer-mes-sentiments-a-mon-boss_AV-202404280118.html)
+append_entries: 1
+Finish: 2024-04-28 12:32:57.481489

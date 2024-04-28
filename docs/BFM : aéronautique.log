@@ -54,3 +54,9 @@ Append: [Japan Airlines annonce une commande de 32 Airbus et 10 Boeing](https://
 Append: ["Ma famille tient à moi": Bruno Le Maire assure préférer voler en Airbus qu'en Boeing](https://www.bfmtv.com/economie/entreprises/aeronautique/ma-famille-tient-a-moi-bruno-le-maire-assure-preferer-voler-en-airbus-qu-en-boeing_AV-202403190592.html)
 append_entries: 30
 Finish: 2024-04-28 01:19:12.555311
+------------------------------------------------------
+Started: 2024-04-28 12:31:53.511281
+Existing_entries: 30
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+append_entries: 0
+Finish: 2024-04-28 12:31:53.919429

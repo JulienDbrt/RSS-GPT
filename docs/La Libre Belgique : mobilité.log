@@ -83,3 +83,9 @@ Append: [La ponctualité des trains s'est améliorée en mars](https://www.lalib
 Append: [Deux bandes inaccessibles sur la E40 en direction de Gand à hauteur de Nevele](https://www.lalibre.be/belgique/mobilite/2024/04/08/deux-bandes-inaccessibles-sur-la-e40-en-direction-de-gand-a-hauteur-de-nevele-4AWNT4MDUBEV5ISERABPK3HGEQ/)
 append_entries: 59
 Finish: 2024-04-28 01:54:00.145587
+------------------------------------------------------
+Started: 2024-04-28 12:37:27.183897
+Existing_entries: 59
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-04-28 12:37:27.681616

@@ -44,3 +44,9 @@ Append: [Deliveroo : l'entreprise de livraison de plats cuisinés condamnés pou
 Append: [Deliveroo condamné : "C’est le modèle qui est attaqué", estime le journaliste Gurvan Kristanadjaja](https://www.francetvinfo.fr/replay-radio/l-interview-eco/deliveroo-condamne-cest-le-modele-qui-est-attaque-estime-le-journaliste-gurvan-kristanadjaja_5062735.html)
 append_entries: 20
 Finish: 2024-04-28 01:35:44.203409
+------------------------------------------------------
+Started: 2024-04-28 12:33:59.964869
+Existing_entries: 20
+Fetching from https://www.francetvinfo.fr/economie/autoentrepreneurs.rss
+append_entries: 0
+Finish: 2024-04-28 12:34:00.110062
