@@ -53,13 +53,100 @@
 
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- https://brett.trpstra.net/brettterpstra -> https://yinan-c.github.io/RSS-GPT/brett-terpstra.xml
-- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://yinan-c.github.io/RSS-GPT/appinn.xml
-- https://rsshub.app/sspai/index -> https://yinan-c.github.io/RSS-GPT/sspai.xml
-- https://rknight.me/feed.xml -> https://yinan-c.github.io/RSS-GPT/robb-knight.xml
-- https://stephanango.com/feed.xml -> https://yinan-c.github.io/RSS-GPT/steph-ango.xml
-- https://lopespm.com/atom.xml -> https://yinan-c.github.io/RSS-GPT/byte-tank.xml
-- https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://yinan-c.github.io/RSS-GPT/36kr.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://yinan-c.github.io/RSS-GPT/36kr-ai.xml
-- https://rsshub.app/paulgraham/articles -> https://yinan-c.github.io/RSS-GPT/paul-graham.xml
-- https://nesslabs.com/feed -> https://yinan-c.github.io/RSS-GPT/ness-labs.xml
+- https://portail.basta.media/spip.php?page=backend&id_mot=163 -> https://JulienDbrt.github.io/RSS-GPT/Basta : médias libres : économie.xml
+- https://feeds.feedburner.com/Bitcoin-Bingactualits -> https://JulienDbrt.github.io/RSS-GPT/Bing Actu : bitcoin.xml
+- https://cryptotribune.fr/rss/category/Actualites-Bitcoin -> https://JulienDbrt.github.io/RSS-GPT/CryptoTribune : bitcoin.xml
+- https://cryptotribune.fr/rss/category/Actualites-Crypto -> https://JulienDbrt.github.io/RSS-GPT/CryptoTribune : crypto.xml
+- https://cryptotribune.fr/rss/category/Actualites-Finance -> https://JulienDbrt.github.io/RSS-GPT/CryptoTribune : finance.xml
+- https://cryptotribune.fr/rss/category/actualites-marches -> https://JulienDbrt.github.io/RSS-GPT/CryptoTribune : marchés.xml
+- https://cryptotribune.fr/rss/latest-posts -> https://JulienDbrt.github.io/RSS-GPT/CryptoTribune : tous les articles.xml
+- https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin -> https://JulienDbrt.github.io/RSS-GPT/EMM : bitcoin.xml
+- https://flipboard.com/topic/fr-bitcoin.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : bitcoin.xml
+- https://flipboard.com/topic/fr-consommation.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : consommation.xml
+- https://flipboard.com/topic/fr-emploi.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : emploi.xml
+- https://flipboard.com/topic/fr-immobilier.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : immobilier.xml
+- https://flipboard.com/topic/fr-linky.rss -> https://JulienDbrt.github.io/RSS-GPT/Flipboard : linky.xml
+- https://www.lacryptomonnaie.net/feed/ -> https://JulienDbrt.github.io/RSS-GPT/La cryptomonnaie.xml
+- https://nouvelles.droit.org/categs/rss/1003 -> https://JulienDbrt.github.io/RSS-GPT/Nouvelles Droits : consommation.xml
+- https://nouvelles.droit.org/categs/rss/33 -> https://JulienDbrt.github.io/RSS-GPT/Nouvelles Droits : immobilier.xml
+- http://flussi.annuda.saynete.net/corse_economie_rss.xml -> https://JulienDbrt.github.io/RSS-GPT/Saynète : Corse : économie.xml
+- https://partner-feeds.20min.ch/rss/20minutes/economie -> https://JulienDbrt.github.io/RSS-GPT/20 minutes : CH : économie.xml
+- https://www.20minutes.fr/feeds/rss-economie.xml -> https://JulienDbrt.github.io/RSS-GPT/20minutes : économie.xml
+- https://www.7sur7.be/economie/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/7sur7 : économie.xml
+- https://www.7sur7.be/carriere/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/7sur7 : carriere.xml
+- https://www.bfmtv.com/rss/economie/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : économie.xml
+- https://www.bfmtv.com/rss/economie/international/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : économie monde.xml
+- https://www.bfmtv.com/rss/economie/economie-social/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : économie sociale.xml
+- https://www.bfmtv.com/rss/economie/entreprises/energie/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : énergie.xml
+- https://www.bfmtv.com/rss/economie/entreprises/aeronautique/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : aéronautique.xml
+- https://www.bfmtv.com/rss/auto/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : auto.xml
+- https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : banque.xml
+- https://www.bfmtv.com/rss/economie/consommation/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : consommation.xml
+- https://www.bfmtv.com/rss/crypto/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : crypto.xml
+- https://www.bfmtv.com/rss/economie/emploi/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : emploi.xml
+- https://www.bfmtv.com/rss/economie/entreprises/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : entreprise.xml
+- https://www.bfmtv.com/rss/economie/entreprises/culture-loisirs/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : entreprises loisirs.xml
+- https://www.bfmtv.com/rss/economie/experts/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : experts.xml
+- https://www.bfmtv.com/rss/economie/economie-social/finances-publiques/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : finances publiques.xml
+- https://www.bfmtv.com/rss/tech/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : high tech.xml
+- https://www.bfmtv.com/rss/immobilier/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : immobilier.xml
+- https://www.bfmtv.com/rss/economie/patrimoine/impots-fiscalite/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : impôts fiscalité.xml
+- https://www.bfmtv.com/rss/economie/patrimoine/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : patrimoine.xml
+- https://www.bfmtv.com/rss/economie/patrimoine/immobilier/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : patrimoine immobilier.xml
+- https://www.bfmtv.com/rss/economie/patrimoine/placements-epargne/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : placements épargne.xml
+- https://www.bfmtv.com/rss/economie/patrimoine/retraite/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : retraite.xml
+- https://www.bfmtv.com/rss/economie/entreprises/services/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : services.xml
+- https://www.bfmtv.com/rss/economie/patrimoine/succession/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : succession.xml
+- https://feeds.simplecast.com/MdgHX7eu -> https://JulienDbrt.github.io/RSS-GPT/BFM : Tech and Co.xml
+- https://www.bfmtv.com/rss/economie/entreprises/transports/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : transports.xml
+- https://www.bfmtv.com/rss/economie/emploi/vie-de-bureau/ -> https://JulienDbrt.github.io/RSS-GPT/BFM : vie de bureau.xml
+- https://www.dna.fr/economie/rss -> https://JulienDbrt.github.io/RSS-GPT/Dernières Nouvelles d’Alsace : économie.xml
+- https://www.dna.fr/magazine-immobilier/rss -> https://JulienDbrt.github.io/RSS-GPT/Dernières Nouvelles d’Alsace : immobilier.xml
+- https://www.dna.fr/paroles-d-experts/rss -> https://JulienDbrt.github.io/RSS-GPT/Dernières Nouvelles d’Alsace : paroles d’experts.xml
+- https://www.euractiv.fr/sections/economie/feed/ -> https://JulienDbrt.github.io/RSS-GPT/Euractiv : économie.xml
+- https://www.euractiv.fr/sections/transport/feed/ -> https://JulienDbrt.github.io/RSS-GPT/Euractiv : transport.xml
+- https://fr.euronews.com/rss?level=tag&name=cryptomonnaie -> https://JulienDbrt.github.io/RSS-GPT/Euronews FR : cryptomonnaie.xml
+- https://www.europe1.fr/rss/economie.xml -> https://JulienDbrt.github.io/RSS-GPT/Europe 1 : économie.xml
+- https://www.martinique.franceantilles.fr/actualite/economie/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/France Antilles : Martinique : économie.xml
+- https://www.francebleu.fr/theme/immobilier -> https://JulienDbrt.github.io/RSS-GPT/France Bleu : immobilier.xml
+- https://www.francetvinfo.fr/economie.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : économie consommation.xml
+- https://www.francetvinfo.fr/economie/aeronautique.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : aéronautique.xml
+- https://www.francetvinfo.fr/economie/autoentrepreneurs.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : auto-entrepreneur.xml
+- https://www.francetvinfo.fr/economie/bitcoin.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : bitcoin.xml
+- https://www.francetvinfo.fr/economie/immobilier.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : immobilier.xml
+- https://www.francetvinfo.fr/economie/transports.rss -> https://JulienDbrt.github.io/RSS-GPT/France Info : transports.xml
+- https://www.radiofrance.fr/franceinter/rss/economie -> https://JulienDbrt.github.io/RSS-GPT/France Inter : économie.xml
+- https://www.francesoir.fr/rss-tendance-eco.xml -> https://JulienDbrt.github.io/RSS-GPT/France Soir : tendance éco.xml
+- https://www.france24.com/fr/tag/cryptomonnaie/rss -> https://JulienDbrt.github.io/RSS-GPT/France24 : cryptomonnaie.xml
+- https://france3-regions.francetvinfo.fr/environnement/energie/rss -> https://JulienDbrt.github.io/RSS-GPT/France3 : énergie.xml
+- https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france -> https://JulienDbrt.github.io/RSS-GPT/France3 : Île-de-France : économie.xml
+- https://france3-regions.francetvinfo.fr/economie/agriculture/rss -> https://JulienDbrt.github.io/RSS-GPT/France3 : agriculture.xml
+- https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte -> https://JulienDbrt.github.io/RSS-GPT/France3 : Bourgogne-Franche-Comté : économie.xml
+- https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne -> https://JulienDbrt.github.io/RSS-GPT/France3 : Bretagne : économie.xml
+- https://france3-regions.francetvinfo.fr/economie/emploi/rss -> https://JulienDbrt.github.io/RSS-GPT/France3 : emploi.xml
+- https://france3-regions.francetvinfo.fr/economie/immobilier/rss -> https://JulienDbrt.github.io/RSS-GPT/France3 : immobilier.xml
+- https://france3-regions.francetvinfo.fr/economie/transports/rss -> https://JulienDbrt.github.io/RSS-GPT/France3 : transports.xml
+- https://www.journaldemontreal.com/actualite/consommation/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/Journal de Montréal : consommation.xml
+- https://www.journaldemontreal.com/actualite/transports/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/Journal de Montréal : transports.xml
+- https://lactualite.com/lactualite-affaires/feed/ -> https://JulienDbrt.github.io/RSS-GPT/L’actualité : affaires et économie.xml
+- https://lactualite.com/dollars-et-cents/feed/ -> https://JulienDbrt.github.io/RSS-GPT/L’actualité : dollars et cents.xml
+- https://www.lalsace.fr/magazine-automobile/rss -> https://JulienDbrt.github.io/RSS-GPT/L’Alsace : magazine automobile.xml
+- https://www.lalsace.fr/magazine-immobilier/rss -> https://JulienDbrt.github.io/RSS-GPT/L’Alsace : magazine immobilier.xml
+- https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie -> https://JulienDbrt.github.io/RSS-GPT/L’Essentiel : économie.xml
+- https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml -> https://JulienDbrt.github.io/RSS-GPT/L’Express : économie.xml
+- https://www.lexpress.fr/arc/outboundfeeds/rss/entrepreneurs.xml -> https://JulienDbrt.github.io/RSS-GPT/L’Express : entrepreneurs.xml
+- https://la1ere.francetvinfo.fr/economie/rss -> https://JulienDbrt.github.io/RSS-GPT/La 1ère : économie.xml
+- https://la1ere.francetvinfo.fr/economie/rss?r=martinique -> https://JulienDbrt.github.io/RSS-GPT/La 1ère : Martinique : économie.xml
+- https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique -> https://JulienDbrt.github.io/RSS-GPT/La 1ère : Martinique : transports.xml
+- https://la1ere.francetvinfo.fr/economie/transports/rss -> https://JulienDbrt.github.io/RSS-GPT/La 1ère : transports.xml
+- https://www.la-croix.com/RSS/UNIVERS_WECO -> https://JulienDbrt.github.io/RSS-GPT/La Croix : économie.xml
+- https://www.la-croix.com/RSS/Economie/Economie-solidaire -> https://JulienDbrt.github.io/RSS-GPT/La Croix : économie solidaire.xml
+- https://www.ladepeche.fr/economie/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/La Dépêche : économie.xml
+- https://www.ladepeche.fr/economie/emploi/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/La Dépêche : emploi.xml
+- https://www.ladepeche.fr/economie/immobilier/rss.xml -> https://JulienDbrt.github.io/RSS-GPT/La Dépêche : immobilier.xml
+- https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml -> https://JulienDbrt.github.io/RSS-GPT/La Dernière Heure : emploi.xml
+- https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml -> https://JulienDbrt.github.io/RSS-GPT/La Libre Belgique : Belgique : économie.xml
+- https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml -> https://JulienDbrt.github.io/RSS-GPT/La Libre Belgique : mobilité.xml
+- https://www.latribune.fr/rss/rubriques/actualite.html -> https://JulienDbrt.github.io/RSS-GPT/La Tribune : économie.xml
+- https://www.latribune.fr/rss/rubriques/ile-de-france.html -> https://JulienDbrt.github.io/RSS-GPT/La Tribune : Île-de-France.xml
+- https://www.latribune.fr/feed.xml -> https://JulienDbrt.github.io/RSS-GPT/La Tribune : actualité.xml
