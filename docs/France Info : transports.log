@@ -53,3 +53,15 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : la RATP va tester des caméras intelligentes pour mesurer en temps réel l'affluence dans le métro](https://www.francetvinfo.fr/economie/transports/paris-2024-la-ratp-va-tester-des-cameras-intelligentes-pour-mesurer-en-temps-reel-l-affluence-dans-le-metro_6511943.html)
 append_entries: 1
 Finish: 2024-04-28 12:34:02.026163
+------------------------------------------------------
+Started: 2024-04-29 01:12:13.430129
+Existing_entries: 21
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A13 : la date de réouverture reportée](https://www.francetvinfo.fr/economie/transports/autoroute-a13-la-date-de-reouverture-reportee_6513911.html)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "Je revis comme si j'étais voyant" : comment la pratique du vélo change pour s'adapter aux personnes en situation de handicap](https://www.francetvinfo.fr/sante/handicap/reportage-je-revis-comme-si-j-etais-voyant-comment-la-pratique-du-velo-change-pour-s-adapter-aux-personnes-en-situation-de-handicap_6513551.html)
+append_entries: 2
+Finish: 2024-04-29 01:12:22.263466

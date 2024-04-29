@@ -63,3 +63,9 @@ Summarized using GPT-3.5-turbo
 Append: [Mon constructeur fait faillite, que va-t-il se passer pour la maison que je fais construire?](https://www.bfmtv.com/immobilier/neuf/mon-constructeur-fait-faillite-que-va-t-il-se-passer-pour-la-maison-que-je-fais-construire_AV-202404280121.html)
 append_entries: 1
 Finish: 2024-04-28 12:32:44.330071
+------------------------------------------------------
+Started: 2024-04-29 01:11:15.698854
+Existing_entries: 31
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-04-29 01:11:16.089119

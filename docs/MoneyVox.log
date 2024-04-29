@@ -49,3 +49,15 @@ Append: [Impôt 2024 : cette nouvelle case à cocher pour éviter une surtaxe su
 Append: [1er mai, pont de l'Ascension : vos salaires, pensions et virements à nouveau retardés ?](https://www.moneyvox.fr/banque/actualites/97455/1er-mai-pont-de-ascension-vos-salaires-pensions-et-virements-a-nouveau-retardes)
 append_entries: 25
 Finish: 2024-04-28 12:34:44.685536
+------------------------------------------------------
+Started: 2024-04-29 01:12:23.332910
+Existing_entries: 25
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Placement : investir dans les foncières cotées en bourse, est-ce déjà le bon moment ?](https://www.moneyvox.fr/bourse/actualites/97346/placement-investir-dans-les-foncieres-cotees-en-bourse-est-ce-deja-le-bon-moment)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Impôt sur le revenu : comment obtenir une demi-part supplémentaire pour payer moins](https://www.moneyvox.fr/actu/97479/impot-sur-le-revenu-comment-obtenir-une-demi-part-supplementaire-pour-payer-moins)
+append_entries: 2
+Finish: 2024-04-29 01:12:29.483323

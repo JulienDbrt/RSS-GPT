@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>SerenityOS – Le mariage bien vintage entre une interface des années 90 et la puissance actuelle d’Unix</title>
 <link>https://korben.info/serenityos-mariage-vintage-interface-90s-puissance-unix.html</link>
@@ -77,7 +78,6 @@ SerenityOS est un système d'exploitation qui marie l'esthétique vintage des an
 <p>Alors si vous aussi vous avez gardé votre âme de <em>geek</em> des 90s, foncez sur <a href="https://serenityos.org/" rel="noopener" target="_blank">SerenityOS</a> pour tester tout ça !</p>
 ]]></content:encoded>
 <pubDate>Sun, 28 Apr 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 28 Apr 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Multitasking MS-DOS 4 – L’OS oublié de Microsoft</title>
@@ -85,9 +85,9 @@ SerenityOS est un système d'exploitation qui marie l'esthétique vintage des an
 <guid>https://korben.info/multitasking-ms-dos-4-secrets-os-oublie.html</guid>
 <content:encoded><![CDATA[
 <div> MS-DOS 4.0, Multitasking, Microsoft, IBM, Libération du code source
-<br>
+<br />
 Summary:
-Au début des années 80, Microsoft lançait le projet Multitasking MS-DOS 4.0 pour offrir un système d'exploitation révolutionnaire avec multitâche, pipes, et gestion avancée de la mémoire. Malgré ses innovations, il n'a jamais été commercialisé en raison de son utilisation gourmande de RAM. Le partenariat avec IBM a permis de créer IBM PC-DOS 4.0 basé sur ce projet. Le code source a finalement été libéré, mais des bugs ont été introduits lors de sa publication sur GitHub. Des passionnés ont pu le recompiler pour le faire fonctionner sur des machines modernes via DOSBox. Il est désormais possible de découvrir les prémices du multitâche sous DOS en explorant ce morceau d'histoire de l'informatique. Amusez-vous bien à tester MS-DOS 4.0 ! <br><br>Summary: <div>
+Au début des années 80, Microsoft lançait le projet Multitasking MS-DOS 4.0 pour offrir un système d'exploitation révolutionnaire avec multitâche, pipes, et gestion avancée de la mémoire. Malgré ses innovations, il n'a jamais été commercialisé en raison de son utilisation gourmande de RAM. Le partenariat avec IBM a permis de créer IBM PC-DOS 4.0 basé sur ce projet. Le code source a finalement été libéré, mais des bugs ont été introduits lors de sa publication sur GitHub. Des passionnés ont pu le recompiler pour le faire fonctionner sur des machines modernes via DOSBox. Il est désormais possible de découvrir les prémices du multitâche sous DOS en explorant ce morceau d'histoire de l'informatique. Amusez-vous bien à tester MS-DOS 4.0 ! <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1313" src="https://korben.info/app/uploads/2024/04/msdos4.webp" width="1920" /></p>
 <p><strong>Multitasking MS-DOS 4</strong>. Rien que le nom ça fait rêver. Un nom qui respire le futur, qui transpire l&rsquo;innovation. Mais c&rsquo;est quoi en fait ?</p>
 
@@ -164,7 +164,6 @@ Au début des années 80, Microsoft lançait le projet Multitasking MS-DOS 4.0 p
 <div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p><a href="https://starfrost.net/blog/001-mdos4-part-1/" rel="noopener" target="_blank">Source initiale</a><br /><a href="https://www.tomshardware.com/news/ms-dos-4-release-heavily-criticized" rel="noopener" target="_blank">Infos complémentaires</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 27 Apr 2024 21:40:00 +0000</pubDate>
-<pubDate>Sat, 27 Apr 2024 21:40:00 +0000</pubDate>
 </item>
 <item>
 <title>General Motors a espionné et revendu les données de ses clients qui ont vu leur assurance augmenter</title>
@@ -172,8 +171,8 @@ Au début des années 80, Microsoft lançait le projet Multitasking MS-DOS 4.0 p
 <guid>https://korben.info/gm-scandale-espionnage-conducteurs-donnees-consentement.html</guid>
 <content:encoded><![CDATA[
 <div> technologie, assurance, données, vie privée, General Motors
-<br>
-<br>
+<br />
+<br />
 Summary: La technologie des boîtes noires dans les voitures est utilisée par les assureurs pour augmenter les primes en surveillant la conduite des conducteurs. Le scandale récent de General Motors révèle comment les constructeurs peuvent collecter et revendre secrètement les données de conduite des clients à des tiers, augmentant ainsi les coûts d'assurance sans consentement. Les conducteurs doivent être vigilants en lisant les conditions d'utilisation et en désactivant les fonctions de suivi dans leurs véhicules pour protéger leur vie privée. L'industrie automobile moderne devrait utiliser la technologie pour le bien des clients, et non pour les exploiter en monnayant leurs informations personnelles. Il est important de se défendre et de protéger ses droits face à cette surveillance intrusive. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_The_car_is_humanoid_like_a_Transformers_the_human_drivin_6717a679-c93f-4ddb-9a8e-88a990b41b0f.png" width="1456" /></p>
 <p>Vous conduisez tranquillement votre bagnole, en mode pépère. Quand tout à coup, vous recevez un mail de votre assurance : « <em>Cher M. Kéké, au vu de votre conduite dangereuse, nous devons augmenter votre prime de 150%</em>».</p>
@@ -229,7 +228,6 @@ Summary: La technologie des boîtes noires dans les voitures est utilisée par l
 
 <p><a href="https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html?unlocked_article_code=1.m00.gIzH.YdQ-yszzdzq6&amp;utm_source=substack&amp;utm_medium=email">Source</a></p>
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 09:29:53 +0000</pubDate>
 <pubDate>Sat, 27 Apr 2024 09:29:53 +0000</pubDate>
 </item>
 <item>
@@ -310,15 +308,14 @@ Des chercheurs de l'université de technologie de Delft ont développé un moteu
 <p><a href="https://torrentfreak.com/researchers-showcase-decentralized-ai-powered-torrent-search-engine-240425/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 27 Apr 2024 09:24:46 +0000</pubDate>
-<pubDate>Sat, 27 Apr 2024 09:24:46 +0000</pubDate>
 </item>
 <item>
 <title>LSD – Un ls sous stéroïdes écrit en Rust 🚀</title>
 <link>https://korben.info/lsd-un-clone-open-source-survitamine-de-la-commande-ls.html</link>
 <guid>https://korben.info/lsd-un-clone-open-source-survitamine-de-la-commande-ls.html</guid>
 <content:encoded><![CDATA[
-<div> lsd, clone open-source, Rust, couleurs, icônes <br>
-<br>
+<div> lsd, clone open-source, Rust, couleurs, icônes <br />
+<br />
 Summary: 
 LSD est un clone open-source de la commande ls, développé en Rust, qui offre de nombreuses fonctionnalités avancées. Il permet d'ajouter des couleurs, des icônes, une vue en arbre, des options de formatage personnalisées, et est compatible avec plusieurs systèmes d'exploitation. Son installation est simple via des commandes telles que apt install lsd ou brew install lsd. LSD est hautement personnalisable, avec la possibilité de créer des thèmes de couleurs et d'icônes sur mesure. Il prend en charge les polices Nerd Font et offre des fonctionnalités avancées telles que la gestion des liens symboliques, la récursion dans les sous-répertoires, des indicateurs pour les exécutables et les dossiers, ainsi que des informations git sur les fichiers d'un dépôt. LSD transforme l'expérience de lister des dossiers dans le terminal en une expérience visuelle et pratique, offrant une interface proche de celle d'un vaisseau spatial. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_A_guy_typing_code_in_a_linux_Terminal_on_his_computer_in_815115d1-1260-4ddc-999e-2b8ea26dd210.webp" width="1456" /></p>
@@ -366,15 +363,14 @@ LSD est un clone open-source de la commande ls, développé en Rust, qui offre d
 <p>Thx Lorenper pour l&rsquo;outil !</p>
 ]]></content:encoded>
 <pubDate>Sat, 27 Apr 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 27 Apr 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Durdraw – Un éditeur ASCII pour faire l’art rétro dans votre terminal</title>
 <link>https://korben.info/editeur-ansi-ascii-unicode-durdraw-creer-art-terminal.html</link>
 <guid>https://korben.info/editeur-ansi-ascii-unicode-durdraw-creer-art-terminal.html</guid>
 <content:encoded><![CDATA[
-<div> ASCII, ANSI, Unicode, Durdraw, éditeur<br>
-<br>
+<div> ASCII, ANSI, Unicode, Durdraw, éditeur<br />
+<br />
 Summary: Durdraw est un éditeur puissant permettant de créer de l'art ASCII, ANSI et Unicode dans votre terminal. Codé en Python, il offre une expérience rappelant les softs légendaires de l'époque MS-DOS tout en offrant la flexibilité du monde Unix. Avec une palette de couleurs et des thèmes personnalisables, Durdraw permet de dessiner des animations old school avec un contrôle total du timing. Les utilisateurs peuvent éditer au caractère et à la couleur près, utiliser des raccourcis clavier et même la souris pour peaufiner leurs créations. Le logiciel gère les animations image par image de manière stable, offrant une qualité remarquable. Bien que Durdraw ne soit pas un logiciel de modélisation 3D avancé, il pousse l'art ANSI à ses limites. L'auteur est réactif sur GitHub pour améliorer régulièrement le logiciel, qui est disponible en open-source. Foncez sur Durdraw pour créer des chefs-d'œuvre rétro en art ASCII, ANSI et Unicode. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="338" src="https://korben.info/app/uploads/2024/03/SCR-20240314-ul0.webp" width="1117" /></p>
 <p>Attention, pépite de l&rsquo;espace à vous faire découvrir aujourd&rsquo;hui ! Ça s&rsquo;appelle <a href="https://durdraw.org/" rel="noopener" target="_blank">Durdraw</a> et c&rsquo;est un éditeur de <em>folie</em> pour créer de l&rsquo;art ASCII, ANSI et Unicode dans votre terminal !</p>
@@ -440,15 +436,14 @@ Summary: Durdraw est un éditeur puissant permettant de créer de l'art ASCII, A
 <p>Merci à Lorenper pour l&rsquo;info.</p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 26 Apr 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Adobe VideoGigaGAN – L’IA qui transforme vos vidéos floues en HD !</title>
 <link>https://korben.info/adobe-videogigagan-ia-transforme-videos-floues-hd.html</link>
 <guid>https://korben.info/adobe-videogigagan-ia-transforme-videos-floues-hd.html</guid>
 <content:encoded><![CDATA[
-<div> Adobe, VideoGigaGAN, IA génératif, vidéos, résolution<br>
-<br>
+<div> Adobe, VideoGigaGAN, IA génératif, vidéos, résolution<br />
+<br />
 Summary: Adobe a développé un modèle d'IA génératif appelé VideoGigaGAN qui peut améliorer la qualité des vidéos anciennes et floues en une séquence HD avec des détails nets. Cette IA peut augmenter la résolution des vidéos jusqu'à 8 fois et améliorer les textures de peau et les détails. Cependant, il s'agit pour le moment d'une démo de recherche et aucune date de sortie officielle n'est annoncée. Il est envisageable qu'il soit intégré à Premiere Pro à l'avenir. En attendant, les vidéos de mauvaise qualité continueront à circuler sur les réseaux sociaux. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1374" src="https://korben.info/app/uploads/2024/04/SCR-20240425-jonf-1.png" width="2426" /></p>
 <p>Vous avez une vieille vidéo toute pourrie, floue à souhait, qui date de Mathusalem et bien avec <strong><a href="https://videogigagan.github.io/" rel="noopener" target="_blank">VideoGigaGAN</a></strong> d&rsquo;Adobe, elle va se transformer en une magnifique séquence HD, avec des détails si nets que vous pourrez compter les poils de nez des gens qui sont dessus !</p>
@@ -480,16 +475,15 @@ Summary: Adobe a développé un modèle d'IA génératif appelé VideoGigaGAN qu
 <p><a href="https://www.theverge.com/2024/4/24/24138979/adobe-videogigagan-ai-video-upscaling-project-blurry-hd" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 08:37:05 +0000</pubDate>
-<pubDate>Thu, 25 Apr 2024 08:37:05 +0000</pubDate>
 </item>
 <item>
 <title>OpenELM – Apple sort ses modèles IA légers et open-source</title>
 <link>https://korben.info/openelm-apple-modeles-ia-open-source-appareils.html</link>
 <guid>https://korben.info/openelm-apple-modeles-ia-open-source-appareils.html</guid>
 <content:encoded><![CDATA[
-<div> paramètres, pré-entraînement, algorithmes évolutionnistes, modèles LLM, transparence<br>
-<br>
-Summary:<br>
+<div> paramètres, pré-entraînement, algorithmes évolutionnistes, modèles LLM, transparence<br />
+<br />
+Summary:<br />
 OpenELM est une famille de modèles IA open-source développés par Apple pour fonctionner directement sur les appareils sans passer par le cloud. Ces modèles combinent plusieurs techniques avancées telles que l'allocation des paramètres par couche, le pré-entraînement sur des datasets variés, et l'utilisation d'algorithmes évolutionnistes pour améliorer la précision des modèles LLM. Apple met l'accent sur la transparence en partageant tout le code, les logs d'entraînement et les configurations, ainsi que l'utilisation de datasets publics pour limiter les biais. Avec 8 modèles au total, incluant des modèles pré-entraînés et fine-tunés, OpenELM montre l'engagement d'Apple dans le domaine de l'IA et sa volonté de rivaliser avec des géants tels que Microsoft et Google. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/04/manu23_Apple_Artificial_Intelligence_802bd265-c767-4ba1-8f8e-395967b78ebf.webp" width="1920" /></p>
 <p>Vous connaissez <strong>OpenELM</strong> ? Non, normal, ça vient de sortir. Et c&rsquo;est une famille de modèles <strong>IA open-source</strong> made in Apple conçus pour tourner directement sur vos appareils, sans passer par le cloud. En gros, c&rsquo;est de l&rsquo;IA maison dans nos iPhone, iPad et Mac&#8230;etc.</p>
@@ -535,7 +529,6 @@ OpenELM est une famille de modèles IA open-source développés par Apple pour f
 <p><a href="https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 08:19:38 +0000</pubDate>
-<pubDate>Thu, 25 Apr 2024 08:19:38 +0000</pubDate>
 </item>
 <item>
 <title>Quels sont les différents types de data brokers et comment lutter ?</title>
@@ -543,7 +536,7 @@ OpenELM est une famille de modèles IA open-source développés par Apple pour f
 <guid>https://korben.info/types-de-data-brokers.html</guid>
 <content:encoded><![CDATA[
 <div> data brokers, données personnelles, protection, Incogni, RGPD
-<br>
+<br />
 Summary:
 Les data brokers sont des entités qui collectent et revendent nos données personnelles, provenant de diverses sources telles que les gouvernements, les entreprises et notre activité en ligne. Ils proposent différents services, de la recherche de personnes à la gestion des risques en passant par la santé. Les données collectées peuvent inclure des informations financières, de santé, et de marketing. Pour lutter contre ces pratiques et protéger nos données, des outils comme Incogni sont disponibles pour nettoyer les bases de données des courtiers en données. Incogni s'assure que nos informations sont supprimées et reste conforme aux réglementations telles que le RGPD en Europe. En surveillant nos activités en ligne, en limitant les informations partagées et en utilisant des outils de protection de la vie privée, nous pouvons limiter l'accès de ces courtiers à nos données personnelles. <div>
 <p><img alt="Bannière Incogni" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="500" src="https://korben.info/app/uploads/2023/11/incogni-banniere.jpg" width="1500" /></p>
@@ -689,16 +682,15 @@ Les data brokers sont des entités qui collectent et revendent nos données pers
 <h2 class="wp-block-heading has-text-align-center"><a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">Essayez Incogni !</a></h2>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 08:00:00 +0000</pubDate>
-<pubDate>Thu, 25 Apr 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Localsumm – L’extension Chrome qui résume vos articles en local avec Phi-3</title>
 <link>https://korben.info/localsumm-generateur-resumes-local-navigateur.html</link>
 <guid>https://korben.info/localsumm-generateur-resumes-local-navigateur.html</guid>
 <content:encoded><![CDATA[
-<div> Localsumm, générateur résumés, extension Chrome, modèle langage, Microsoft<br>
-<br>
-Summary:<br>
+<div> Localsumm, générateur résumés, extension Chrome, modèle langage, Microsoft<br />
+<br />
+Summary:<br />
 Localsumm est un générateur de résumés nouvelle génération qui utilise un modèle de langage développé par Microsoft. Cette extension Chrome permet de résumer des textes directement dans le navigateur sans envoyer les données sur le cloud. Bien que jeune et en cours de développement, Localsumm offre des fonctionnalités intéressantes. Des améliorations telles que la génération automatique de tweets avec les points clés des articles, l'intégration des résumés dans l'historique de recherche Chrome, le partage facile avec les contacts et une version mobile sont envisagées. Une future adaptation sur Firefox est également prévue. Globalement, Localsumm est une solution pratique pour les personnes pressées qui souhaitent lire rapidement l'essentiel des articles en ligne. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/04/manu23_Fast_100_local_web_page_summarization_with_the_Microsoft_28ffa769-8058-48e1-9f69-913b3f3715ee.webp" width="1920" /></p>
 <p><strong>Localsumm</strong> est un générateur de résumés nouvelle génération qui tourne direct dans votre navigateur Chrome, sans envoyer vos données sur le cloud. Sous le capot, cette petite <strong>extension magique</strong> utilise un modèle de langage maison développé par Microsoft : le fameux <strong><a href="https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/" rel="noopener" target="_blank">Phi-3</a></strong>. C&rsquo;est une sorte de cousin du célèbre GPT, mais en version allégée et spécialisée dans le résumé de texte.</p>
@@ -773,8 +765,6 @@ Localsumm est un générateur de résumés nouvelle génération qui utilise un 
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>A vous de tester maintenant !</p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 07:20:40 +0000</pubDate>
-<pubDate>Thu, 25 Apr 2024 07:20:40 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

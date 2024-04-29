@@ -63,3 +63,9 @@ Summarized using GPT-3.5-turbo
 Append: ["C'est impossible de voir ces deux EPR" : des militants rassemblés pour dire non au nucléaire](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/c-est-impossible-de-voir-ces-deux-epr-des-militants-rassembles-pour-dire-non-au-nucleaire-2961938.html)
 append_entries: 1
 Finish: 2024-04-28 12:34:49.858616
+------------------------------------------------------
+Started: 2024-04-29 01:12:30.245774
+Existing_entries: 31
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-04-29 01:12:30.660137

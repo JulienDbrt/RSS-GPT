@@ -133,3 +133,9 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile : "Les Chinois pourraient récupérer l’essentiel du marché européen"](https://www.lexpress.fr/economie/automobile-les-chinois-pourraient-recuperer-lessentiel-du-marche-europeen-YHWSGPYKRRGCVKUYKBZHJHCXUQ/)
 append_entries: 1
 Finish: 2024-04-28 12:36:08.967769
+------------------------------------------------------
+Started: 2024-04-29 01:13:00.755944
+Existing_entries: 101
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+append_entries: 0
+Finish: 2024-04-29 01:13:01.583946

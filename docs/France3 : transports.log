@@ -75,3 +75,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les métros roulent-ils tous à la même vitesse ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-metros-roulent-ils-tous-a-la-meme-vitesse-2959238.html)
 append_entries: 5
 Finish: 2024-04-28 12:35:43.138273
+------------------------------------------------------
+Started: 2024-04-29 01:12:38.291523
+Existing_entries: 35
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [Fermeture de l'A13 : un renard, des joggers aperçus sur l'autoroute](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/fermeture-de-l-a13-un-renard-des-joggers-apercus-sur-l-autoroute-2962124.html)
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Un bouchon monstre paralyse une commune : la reconstitution insolite des départs en vacances des années 50 à 70](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/en-images-un-bouchon-monstre-paralyse-une-commune-la-reconstitution-insolite-des-departs-en-vacances-des-annees-50-a-70-2962034.html)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: ["Pas de danger, pas de pollution, c'est génial" : la route des crêtes sans voitures ni motos les dimanches jusqu'au 29 septembre](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/pas-de-danger-pas-de-pollution-c-est-genial-la-route-des-cretes-sans-voitures-ni-motos-les-dimanches-jusqu-au-29-septembre-2962031.html)
+append_entries: 3
+Finish: 2024-04-29 01:12:48.057920

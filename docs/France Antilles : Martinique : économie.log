@@ -80,3 +80,21 @@ Existing_entries: 50
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-04-28 12:33:33.540505
+------------------------------------------------------
+Started: 2024-04-29 01:11:30.312527
+Existing_entries: 50
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [Elon Musk, patron de Tesla, en visite en Chine, plus gros marché des véhicules électriques](https://www.martinique.franceantilles.fr/actualite/economie/elon-musk-patron-de-tesla-en-visite-en-chine-plus-gros-marche-des-vehicules-electriques-985316.php)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [A Venise, le pape met en garde contre les dangers du surtourisme](https://www.martinique.franceantilles.fr/actualite/societe/le-pape-francois-a-venise-son-premier-deplacement-en-sept-mois-985262.php)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Entre "peste et choléra", Bordeaux se résigne à arracher ses vignes](https://www.martinique.franceantilles.fr/actualite/economie/entre-peste-et-cholera-bordeaux-se-resigne-a-arracher-ses-vignes-985300.php)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Aux Philippines, les jeepneys sur les jantes](https://www.martinique.franceantilles.fr/actualite/economie/aux-philippines-les-jeepneys-sur-les-jantes-985297.php)
+append_entries: 4
+Finish: 2024-04-29 01:11:44.027500

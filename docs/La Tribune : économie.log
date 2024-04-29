@@ -70,3 +70,18 @@ Summarized using GPT-3.5-turbo
 Append: [Michel Barnier : « Emmanuel Macron n’est pas le seul à défendre l’Europe »](https://www.latribune.fr/economie/politique/michel-barnier-emmanuel-macron-n-est-pas-le-seul-a-defendre-l-europe-996374.html)
 append_entries: 10
 Finish: 2024-04-28 12:38:04.083610
+------------------------------------------------------
+Started: 2024-04-29 01:14:08.885870
+Existing_entries: 20
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [« Je ne prépare pas 2027 ! », assure Bruno Le Maire qui vante sa bonne « entente » avec Emmanuel Macron](https://www.latribune.fr/economie/politique/je-ne-prepare-pas-2027-assure-bruno-le-maire-qui-vante-sa-bonne-entente-avec-emmanuel-macron-996460.html)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [L'Insee très attendue mardi pour donner le ton de la croissance du premier trimestre en France](https://www.latribune.fr/economie/france/l-insee-tres-attendue-mardi-pour-donner-le-ton-de-la-croissance-du-premier-trimestre-en-france-996459.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Bruno Le Maire annonce que l'Etat est prêt à nationaliser les activités souveraines d'Atos](https://www.latribune.fr/technos-medias/informatique/bruno-le-maire-annonce-que-l-etat-va-nationaliser-les-activites-souveraines-d-atos-996458.html)
+append_entries: 3
+Finish: 2024-04-29 01:14:20.953203
