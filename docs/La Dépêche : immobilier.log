@@ -64,3 +64,9 @@ Summarized using GPT-3.5-turbo
 Append: [Toulouse a-t-elle abandonné ses "Toulousaines", ces maisons typiques qui disparaissent les unes après les autres ?](https://www.ladepeche.fr/2024/04/28/toulouse-a-t-elle-abandonne-ses-toulousaines-ces-maisons-typiques-qui-disparaissent-les-unes-apres-les-autres-11917448.php)
 append_entries: 1
 Finish: 2024-04-29 01:14:01.651518
+------------------------------------------------------
+Started: 2024-04-29 12:45:27.322636
+Existing_entries: 26
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-04-29 12:45:27.785972

@@ -81,3 +81,24 @@ Summarized using GPT-3.5-turbo
 Append: [Paris : Mis en vente à 5 millions d’euros, l’appartement (moche) de Karl Lagerfeld trouve preneur pour beaucoup plus](https://www.20minutes.fr/paris/4083393-20240326-paris-mis-vente-5-millions-euros-appartement-moche-karl-lagerfeld-trouve-preneur-beaucoup-plus)
 append_entries: 3
 Finish: 2024-04-29 01:06:43.878486
+------------------------------------------------------
+Started: 2024-04-29 12:31:37.711126
+Existing_entries: 35
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [L'un des plus beaux hôtels particuliers est à vendre pour 18 000 000 €](https://www.admagazine.fr/galerie/hotels-particuliers-vendre-18-000-000-euros)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [« On a tué le commerce à Lille » : l’agence 3x3 dépose le bilan](https://www.lavoixdunord.fr/1456907/article/2024-04-29/tue-le-commerce-lille-l-agence-3x3-depose-le-bilan)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: ["Le surendettement, il est chez les locataires" : est-ce la fin du taux d’effort à 35% pour un crédit immobilier?](https://www.challenges.fr/immobilier/le-surendettement-il-est-chez-les-locataires-est-ce-la-fin-du-taux-d-effort-a-35-pour-un-credit-immobilier_891392?xtor=RSS-25)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Un homme, un vrai, du Star Wars et un vampire : on a sélectionné pour vous les séries à ne pas rater en mai 2024](https://www.konbini.com/popculture/un-homme-un-vrai-du-star-wars-et-un-vampire-on-a-selectionne-pour-vous-les-series-a-ne-pas-rater-en-mai-2024/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : témoignage poignant de Louise qui a vu le sol de son salon s'effondrer](https://www.capital.fr/immobilier/immobilier-temoignage-poignant-de-louise-qui-a-vu-le-sol-de-son-salon-s-effondrer-1496022)
+append_entries: 5
+Finish: 2024-04-29 12:31:57.783447

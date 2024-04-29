@@ -65,3 +65,18 @@ Summarized using GPT-3.5-turbo
 Append: [REPORTAGE. "Je revis comme si j'étais voyant" : comment la pratique du vélo change pour s'adapter aux personnes en situation de handicap](https://www.francetvinfo.fr/sante/handicap/reportage-je-revis-comme-si-j-etais-voyant-comment-la-pratique-du-velo-change-pour-s-adapter-aux-personnes-en-situation-de-handicap_6513551.html)
 append_entries: 2
 Finish: 2024-04-29 01:12:22.263466
+------------------------------------------------------
+Started: 2024-04-29 12:40:38.026388
+Existing_entries: 23
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Réforme des retraites : "La SNCF a droit à ses accords d'entreprises, elle a droit à ses aménagements", souligne le ministre des Transports](https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-la-sncf-a-droit-a-ses-accords-d-entreprises-elle-a-droit-a-ses-amenagements-souligne-le-ministre-des-transports_6515045.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Intempéries : la ligne Firminy-Lyon Perrache interrompue au moins jusqu’au 1er mai après le déraillement d’un TER](https://www.francetvinfo.fr/economie/transports/sncf/intemperies-la-ligne-firminy-lyon-perrache-interrompue-au-moins-jusqu-au-1er-mai-apres-le-deraillement-d-un-ter_6515009.html)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Plus économique, plus écologique... Le "TGV du futur" dévoilé par la SNCF](https://www.francetvinfo.fr/economie/transports/sncf/plus-economique-plus-ecologique-le-tgv-du-futur-devoile-par-la-sncf_6514991.html)
+append_entries: 3
+Finish: 2024-04-29 12:40:59.697702

@@ -69,3 +69,12 @@ Existing_entries: 31
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-04-29 01:12:37.998590
+------------------------------------------------------
+Started: 2024-04-29 12:42:21.553206
+Existing_entries: 31
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Accident du travail. "On ne sait pas ce qui peut arriver dans cinq ou dix ans" : quand médecine rime avec prévention](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/tulle/accident-du-travail-on-ne-sait-pas-ce-qui-peut-arriver-dans-cinq-ou-dix-ans-quand-medecine-rime-avec-prevention-2962235.html)
+append_entries: 1
+Finish: 2024-04-29 12:42:24.103221

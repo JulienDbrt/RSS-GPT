@@ -62,3 +62,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les grandes désillusions. Smart roadster : le petit jouet devenu trop cher pour plaire](https://www.lalsace.fr/magazine-automobile/2024/04/28/smart-roadster-le-petit-jouet-devenu-trop-cher-pour-plaire)
 append_entries: 1
 Finish: 2024-04-29 01:12:58.934682
+------------------------------------------------------
+Started: 2024-04-29 12:42:58.181620
+Existing_entries: 22
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Restylage. Audi Q7 et Q8 hybride : un bon coup de jeune](https://www.lalsace.fr/magazine-automobile/2024/04/29/audi-q7-et-q8-hybride-un-bon-coup-de-jeune)
+Token length: 536
+Summarized using GPT-3.5-turbo
+Append: [Droit automobile. Refuser un contrôle de police ou gendarmerie : que risquez-vous ?](https://www.lalsace.fr/magazine-automobile/2024/04/29/refusez-un-controle-de-police-ou-gendarmerie-que-risquez-vous)
+append_entries: 2
+Finish: 2024-04-29 12:43:08.437615

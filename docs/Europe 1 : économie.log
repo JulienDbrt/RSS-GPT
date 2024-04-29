@@ -59,3 +59,15 @@ Summarized using GPT-3.5-turbo
 Append: [L'État souhaite acquérir les activités souveraines d'Atos, annonce Bruno Le Maire](https://www.europe1.fr/economie/letat-souhaite-acquerir-les-activites-souveraines-datos-annonce-bruno-le-maire-4244056)
 append_entries: 1
 Finish: 2024-04-29 01:11:30.292460
+------------------------------------------------------
+Started: 2024-04-29 12:39:32.618624
+Existing_entries: 21
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Atos revoit en hausse ses besoins d'argent frais dans un nouveau plan d'affaires](https://www.europe1.fr/economie/atos-revoit-en-hausse-ses-besoins-dargent-frais-dans-un-nouveau-plan-daffaires-4244193)
+Token length: 400
+Summarized using GPT-3.5-turbo
+Append: [Finances publiques : à l'Assemblée, l'exécutif au défi de crédibiliser sa trajectoire budgétaire](https://www.europe1.fr/economie/finances-publiques-a-lassemblee-lexecutif-au-defi-de-credibiliser-sa-trajectoire-budgetaire-4244067)
+append_entries: 2
+Finish: 2024-04-29 12:39:40.645110

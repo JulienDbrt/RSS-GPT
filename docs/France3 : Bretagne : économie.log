@@ -66,3 +66,15 @@ Existing_entries: 30
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-04-29 01:12:37.744865
+------------------------------------------------------
+Started: 2024-04-29 12:42:12.611366
+Existing_entries: 30
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 322
+Summarized using GPT-3.5-turbo
+Append: ["Nous sommes entrés dans la permacrise", en 2023, les défaillances d'entreprises bretonnes au plus haut](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/nous-sommes-entres-dans-la-permacrise-en-2023-les-defaillances-d-entreprises-bretonnes-au-plus-haut-2962223.html)
+Token length: 384
+Summarized using GPT-3.5-turbo
+Append: [Poulpes, étoiles de mer, crépidules, oursins. Comment les pêcheurs s'adaptent à l'invasion de ces espèces marines ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/poulpes-etoiles-de-mer-crepidules-oursins-comment-les-pecheurs-s-adaptent-a-l-invasion-de-ces-especes-marines-2956121.html)
+append_entries: 2
+Finish: 2024-04-29 12:42:21.538933

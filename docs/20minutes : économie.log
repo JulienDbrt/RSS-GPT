@@ -62,3 +62,18 @@ Summarized using GPT-3.5-turbo
 Append: [Elon Musk en visite en Chine, où pour Tesla la concurrence est rude](https://www.20minutes.fr/economie/4088686-20240428-elon-musk-visite-chine-tesla-concurrence-rude)
 append_entries: 2
 Finish: 2024-04-29 01:10:41.125651
+------------------------------------------------------
+Started: 2024-04-29 12:35:25.403083
+Existing_entries: 22
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Le secteur de l’accompagnement et du social sous tension](https://www.20minutes.fr/vie-pro/4087558-20240429-secteur-accompagnement-social-sous-tension)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [« Incompétence », « insincérité »… Les finances publiques sous le feu des critiques à l’Assemblée nationale](https://www.20minutes.fr/societe/4088756-20240429-incompetence-insincerite-finances-publiques-sous-feu-critiques-assemblee)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [1er Mai : Y aura-t-il toujours du muguet en 2050 ?… « Certains producteurs jettent l’éponge »](https://www.20minutes.fr/economie/4087861-20240429-1er-mai-toujours-muguet-2050-certains-producteurs-jettent-eponge)
+append_entries: 3
+Finish: 2024-04-29 12:35:40.449409

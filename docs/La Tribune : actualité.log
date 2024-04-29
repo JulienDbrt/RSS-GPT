@@ -85,3 +85,39 @@ Summarized using GPT-3.5-turbo
 Append: [Bruno Le Maire annonce que l'Etat est prêt à nationaliser les activités souveraines d'Atos](https://www.latribune.fr/technos-medias/informatique/bruno-le-maire-annonce-que-l-etat-va-nationaliser-les-activites-souveraines-d-atos-996458.html)
 append_entries: 3
 Finish: 2024-04-29 01:14:34.130347
+------------------------------------------------------
+Started: 2024-04-29 12:47:08.094114
+Existing_entries: 23
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [Santé, formation, impôt... Ce qui attend les Français en mai](https://www.latribune.fr/economie/france/sante-formation-impot-ce-qui-attend-les-francais-en-mai-996502.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Ligne très haute tension : pourquoi les viticulteurs et arboriculteurs gardois sont inquiets](https://objectif-languedoc-roussillon.latribune.fr/economie/infrastructures/2024-04-29/ligne-tres-haute-tension-pourquoi-les-viticulteurs-et-arboriculteurs-gardois-sont-inquiets-996505.html)
+Token length: 407
+Summarized using GPT-3.5-turbo
+Append: [La laine cherche comment tisser sa filière au-delà du textile](https://objectifaquitaine.latribune.fr/business/2024-04-29/la-laine-cherche-comment-tisser-sa-filiere-au-dela-du-textile-996033.html)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [Tesla : après sa visite en Chine, Elon Musk obtient un feu vert réglementaire crucial pour ses voitures électriques](https://www.latribune.fr/entreprises-finance/industrie/automobile/tesla-apres-sa-visite-en-chine-elon-musk-obtient-un-feu-vert-crucial-reglementaire-pour-ses-voitures-electriques-996498.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [SAS change de camp pour rejoindre Air France-KLM dans Skyteam](https://www.latribune.fr/entreprises-finance/services/transport-logistique/sas-change-de-camp-pour-rejoindre-air-france-klm-dans-skyteam-996494.html)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [Guerre en Ukraine, tensions commerciales, investissements... le président chinois Xi Jinping en visite en France début mai](https://www.latribune.fr/economie/international/guerre-en-ukraine-tensions-commerciales-investissements-le-president-chinois-xi-jinping-en-visite-en-france-debut-mai-996480.html)
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [Espagne: l'inflation a (encore) légèrement grimpé en avril, à 3,3%](https://www.latribune.fr/economie/union-europeenne/espagne-l-inflation-a-encore-legerement-grimpe-en-avril-a-3-3-996492.html)
+Token length: 528
+Summarized using GPT-3.5-turbo
+Append: [Festival de Cannes : la VR et la XR sur le tapis rouge](https://region-sud.latribune.fr/economie/2024-04-26/festival-de-cannes-la-vr-et-la-xr-sur-le-tapis-rouge-996294.html)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [JO 2024 : la ligne de métro 14 desservira l'aéroport d'Orly en juin](https://www.latribune.fr/entreprises-finance/services/transport-logistique/jo-2024-le-prolongement-de-la-ligne-de-metro-14-de-saint-denis-pleyel-a-orly-aeroport-sera-bien-effectif-en-juin-996470.html)
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [Spatial : quand l'intelligence artificielle aide à détecter les marées noires](https://toulouse.latribune.fr/innovation/2024-04-29/spatial-quand-l-intelligence-artificielle-aide-a-detecter-les-marees-noires-996260.html)
+append_entries: 10
+Finish: 2024-04-29 12:47:55.663548

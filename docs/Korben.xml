@@ -4,6 +4,78 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>weAudit – Une extension Visual Studio Code pour ceux et celles qui font de l’audit</title>
+<link>https://korben.info/weaudit-extension-vscode-ultime-auditer-code.html</link>
+<guid>https://korben.info/weaudit-extension-vscode-ultime-auditer-code.html</guid>
+<content:encoded><![CDATA[
+<div> extension, VSCode, weAudit, revue de code, collaboration
+Summary: 
+L'extension VSCode weAudit révolutionne l'audit de code en permettant une revue collaborative directement dans l'IDE. Elle offre des fonctionnalités pratiques telles que des signets, un suivi des fichiers audités, la collaboration en équipe et la création d'issues GitHub. Avec weAudit, plus besoin de jongler entre plusieurs outils externes, tout est centralisé dans VSCode. L'outil permet d'ajouter des signets sur des codes suspects, d'ajouter des notes et de créer des issues GitHub en un clic. Disponible gratuitement, weAudit simplifie le processus d'audit de code et offre une expérience plus fluide aux développeurs. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="718" src="https://korben.info/app/uploads/2024/03/finding_marker.png" width="1282" /></p>
+<p>Salut les codeurs ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-745445100" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Aujourd&rsquo;hui, je vais vous causer d&rsquo;un truc qui va révolutionner votre façon d&rsquo;auditer le code : l&rsquo;extension VSCode <strong>weAudit</strong> ! C&rsquo;est développé par les génies de Trail of Bits et c&rsquo;est vraiment chouette, vous allez voir.</p>
+
+
+
+<p>Il s&rsquo;agit un outil de <strong>revue de code collaborative</strong> (d&rsquo;audit quoi&#8230;) qui vous permet de prendre des notes et de traquer les bugs directement dans VSCode. Plus besoin de jongler entre 36 outils, weAudit centralise tout </p>
+
+
+
+<p>Il est d&rsquo;ailleurs bourré de fonctionnalités ultra pratiques :</p>
+
+
+
+<ul>
+<li>Des signets pour vos trouvailles et vos notes</li>
+
+
+
+<li>Un suivi des fichiers audités pour savoir où vous en êtes</li>
+
+
+
+<li>De la collaboration pour bosser en équipe sans vous marcher dessus</li>
+
+
+
+<li>La création directe d&rsquo;issues GitHub bien formatées</li>
+</ul>
+
+
+
+<p>Comme ça, plus besoin de vous prendre la tête avec des outils externes. Vous pouvez aller jeter un œil au code sur le <a href="https://github.com/trailofbits/vscode-weaudit" rel="noopener" target="_blank">repo GitHub</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1746431097" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bon allez, je vous donne un petit exemple pour vous montrer à quel point c&rsquo;est facile à utiliser. Disons que vous tombez sur un bout de code louche. Hop, vous sélectionnez ce code et vous utilisez le raccourci <code>Cmd+J</code> pour ajouter un signet « Finding ». Ça va surligner le code en rouge et ajouter une note dans la liste des findings. Et si vous voulez ajouter des détails sur le problème, pas de souci ! Cliquez sur le finding, remplissez les champs et même créez direct une issue GitHub. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157287" height="593" src="https://korben.info/app/uploads/2024/03/create_finding.gif" width="1024" /></figure></div>
+
+
+<p>Je ne sais pas comment on faisait avant weAudit.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-157286" height="1024" src="https://korben.info/app/uploads/2024/03/finding_details-531x1024.webp" style="width: 320px; height: auto;" width="531" /></figure></div>
+
+
+<p>Pour l&rsquo;installer, rendez-vous sur le <a href="https://marketplace.visualstudio.com/items?itemName=trailofbits.weaudit" rel="noopener" target="_blank">marketplace VSCode</a>. Et si vous êtes à fond dans la <strong>sécurité des extensions VSCode</strong>, jetez aussi un œil aux articles de blog de Trail of Bits sur les <a href="https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/" rel="noopener" target="_blank">vulnérabilités d&rsquo;extensions VSCode mal configurées</a> et comment <a href="https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/" rel="noopener" target="_blank">s&rsquo;échapper d&rsquo;extensions VSCode bien configurées</a>.</p>
+
+
+
+<p>Allez, je vous laisse jouer avec weAudit. Vous m&rsquo;en direz des nouvelles.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 29 Apr 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>SerenityOS – Le mariage bien vintage entre une interface des années 90 et la puissance actuelle d’Unix</title>

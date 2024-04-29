@@ -72,3 +72,12 @@ Existing_entries: 32
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-04-29 01:12:37.560258
+------------------------------------------------------
+Started: 2024-04-29 12:42:09.406525
+Existing_entries: 32
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 333
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Climatisation, voitures interchangeables... habillé aux couleurs d'Inoui, le TGV M, "train du futur" est sorti des ateliers d'Alstom](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/belfort/en-images-climatisation-voitures-interchangeables-habille-aux-couleurs-d-inoui-le-tgv-m-train-du-futur-est-sorti-des-ateliers-d-alstom-2962211.html)
+append_entries: 1
+Finish: 2024-04-29 12:42:12.597456
