@@ -93,3 +93,18 @@ Summarized using GPT-3.5-turbo
 Append: [À la rescousse des abeilles qui se perdent en ville](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/a-la-rescousse-des-abeilles-qui-se-perdent-en-ville-2961443.html)
 append_entries: 2
 Finish: 2024-04-29 12:42:09.391456
+------------------------------------------------------
+Started: 2024-04-30 01:17:20.853160
+Existing_entries: 37
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [Météo : 95% des rameaux de vignes de ce domaine en bords de Vienne ont été touchés par le gel](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/meteo-95-des-rameaux-de-vignes-de-ce-domaine-en-bords-de-vienne-ont-ete-touches-par-le-gel-2962598.html)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Méthaniseur de Plouha. La justice rejette le recours des associations de défense de l'environnement](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/methaniseur-de-plouha-la-justice-rejette-le-recours-des-associations-de-defense-de-l-environnement-2962685.html)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: ["C'est la cata" : pourquoi le miel de printemps va manquer cette année en Auvergne](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/c-est-la-cata-le-miel-de-printemps-va-manquer-cette-annee-en-auvergne-2962409.html)
+append_entries: 3
+Finish: 2024-04-30 01:17:27.515760

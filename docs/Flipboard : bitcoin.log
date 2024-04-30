@@ -105,3 +105,15 @@ Summarized using GPT-3.5-turbo
 Append: [Bitcoin, Binance, Ethereum, Solana et Ripple : Les plus grosses actus crypto de la semaine dernière](https://www.cointribune.com/bitcoin-binance-ethereum-solana-et-ripple-les-plus-grosses-actus-crypto-de-la-semaine-derniere-2/)
 append_entries: 3
 Finish: 2024-04-29 12:30:02.872775
+------------------------------------------------------
+Started: 2024-04-30 01:04:48.225574
+Existing_entries: 41
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Hongkong confirme son ambition de devenir un centre financier des cryptomonnaies](https://www.lemonde.fr/economie/article/2024/04/29/hongkong-confirme-son-ambition-de-devenir-un-centre-financier-des-cryptomonnaies_6230609_3234.html)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Elle perd 86 000$ dans une fraude élaborée](https://www.noovo.info/nouvelle/elle-perd-86-000-dans-une-fraude-elaboree.html)
+append_entries: 2
+Finish: 2024-04-30 01:05:01.300736

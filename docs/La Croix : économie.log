@@ -110,3 +110,18 @@ Summarized using GPT-3.5-turbo
 Append: [TotalEnergies : Patrick Pouyanné menace de quitter la Bourse de Paris pour New York](https://www.la-croix.com/economie/totalenergies-patrick-pouyanne-menace-de-quitter-la-bourse-de-paris-pour-new-york-20240428)
 append_entries: 5
 Finish: 2024-04-29 12:44:37.865647
+------------------------------------------------------
+Started: 2024-04-30 01:19:11.201025
+Existing_entries: 56
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 416
+Summarized using GPT-3.5-turbo
+Append: [TotalEnergies doit-il rester français ?](https://www.la-croix.com/a-vif/totalenergies-doit-il-rester-francais-20240429)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire : première demande d’autorisation en France pour un mini-réacteur](https://www.la-croix.com/france/nucleaire-premiere-demande-d-autorisation-en-france-pour-un-mini-reacteur-20240429)
+Token length: 316
+Summarized using GPT-3.5-turbo
+Append: [Emploi : cinq tendances à retenir sur l’évolution des métiers et du travail des Français](https://www.la-croix.com/economie/emploi-cinq-tendances-a-retenir-sur-l-evolution-des-metiers-et-du-travail-des-francais-20240429)
+append_entries: 3
+Finish: 2024-04-30 01:19:19.725629

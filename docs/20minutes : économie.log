@@ -77,3 +77,18 @@ Summarized using GPT-3.5-turbo
 Append: [1er Mai : Y aura-t-il toujours du muguet en 2050 ?… « Certains producteurs jettent l’éponge »](https://www.20minutes.fr/economie/4087861-20240429-1er-mai-toujours-muguet-2050-certains-producteurs-jettent-eponge)
 append_entries: 3
 Finish: 2024-04-29 12:35:40.449409
+------------------------------------------------------
+Started: 2024-04-30 01:10:34.219014
+Existing_entries: 25
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Les ventes de vélos neufs en baisse de 14 % en 2023](https://www.20minutes.fr/societe/4088924-20240429-ventes-velos-neufs-baisse-14-2023)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Vinted, plateforme de seconde main rentable, pour la première fois](https://www.20minutes.fr/economie/4088888-20240429-vinted-plateforme-seconde-main-rentable-premiere-fois)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Philips : Le groupe s’envole en Bourse, après avoir signé un accord de 1,1 milliard aux Etats-Unis](https://www.20minutes.fr/monde/4088846-20240429-philips-groupe-envole-bourse-apres-avoir-signe-accord-1-1-milliard-etats-unis)
+append_entries: 3
+Finish: 2024-04-30 01:10:46.759616

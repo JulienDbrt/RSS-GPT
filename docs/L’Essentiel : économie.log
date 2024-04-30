@@ -151,3 +151,18 @@ Summarized using GPT-3.5-turbo
 Append: [Entreprise au Luxembourg: Hausse des charges, conjoncture... Tapis Hertz, créée en 1946, s'arrête](https://www.lessentiel.lu/fr/story/entreprise-luxembourg-hausse-des-charges-conjoncture-tapis-hertz-creee-en-1946-sarrete-103094404)
 append_entries: 1
 Finish: 2024-04-29 12:43:16.285535
+------------------------------------------------------
+Started: 2024-04-30 01:18:01.305238
+Existing_entries: 103
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Travail au Luxembourg: Sur 485 000 salariés, quasiment la moitié sont frontaliers](https://www.lessentiel.lu/fr/story/travail-au-luxembourg-sur-485-000-salaries-quasiment-la-moitie-sont-frontaliers-103094618)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Notation des militaires au Luxembourg: La CGFP a manifesté contre la «rupture de contrat» du gouvernement](https://www.lessentiel.lu/fr/story/notation-des-militaires-au-luxembourg-la-cgfp-a-manifeste-contre-la-rupture-de-contrat-du-gouvernement-103094776)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Banque au Luxembourg: Raiffeisen a résisté à la baisse des demandes de crédits](https://www.lessentiel.lu/fr/story/banque-au-luxembourg-raiffeisen-a-resiste-a-la-baisse-des-demandes-de-credits-103094603)
+append_entries: 3
+Finish: 2024-04-30 01:18:13.234726
