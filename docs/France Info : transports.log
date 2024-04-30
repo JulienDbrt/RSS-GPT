@@ -104,3 +104,21 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : un nouveau TGV présenté](https://www.francetvinfo.fr/economie/transports/sncf-un-nouveau-tgv-presente_6515456.html)
 append_entries: 6
 Finish: 2024-04-30 01:16:38.264671
+------------------------------------------------------
+Started: 2024-04-30 12:41:40.304458
+Existing_entries: 32
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [En Allemagne, le coût du chantier de la nouvelle gare de Stuttgart déraille](https://www.francetvinfo.fr/monde/europe/allemagne/en-allemagne-le-cout-du-chantier-de-la-nouvelle-gare-de-stuttgart-deraille_6517073.html)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [SCNF : la compagnie ferroviaire dévoile un nouveau TGV, prévu pour fin 2025](https://www.francetvinfo.fr/economie/transports/sncf/scnf-la-compagnie-ferroviaire-devoile-un-nouveau-tgv-prevu-pour-fin-2025_6517031.html)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A13 : "Le fait générateur semblerait être le déplacement du mur de soutènement" lié aux travaux sur un futur musée, explique la Dirif](https://www.francetvinfo.fr/economie/transports/trafic/autoroute-a13-le-fait-generateur-semblerait-etre-le-deplacement-du-mur-de-soutenement-lie-aux-travaux-sur-un-futur-musee-explique-la-dirif_6516920.html)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [A13 fermée : le chantier d’un musée à l’origine des fissures ?](https://www.francetvinfo.fr/economie/transports/a13-fermee-le-chantier-d-un-musee-a-l-origine-des-fissures_6516962.html)
+append_entries: 4
+Finish: 2024-04-30 12:41:56.753923

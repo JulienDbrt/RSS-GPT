@@ -91,3 +91,18 @@ Summarized using GPT-3.5-turbo
 Append: [Capgemini va recruter 1 400 personnes en 2024 à Toulouse](https://www.ladepeche.fr/2024/04/29/capgemini-va-recruter-1-400-personnes-en-2024-a-toulouse-11921348.php)
 append_entries: 4
 Finish: 2024-04-30 01:20:15.494747
+------------------------------------------------------
+Started: 2024-04-30 12:47:51.369564
+Existing_entries: 31
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [Près de Toulouse, Quentin Fauvre, un maraîcher pas comme les autres](https://www.ladepeche.fr/2024/04/30/pres-de-toulouse-quentin-fauvre-un-maraicher-pas-comme-les-autres-11921030.php)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [SERIE (1/5). Ces métiers dans l’aéro qui recrutent : mécanicien systèmes](https://www.ladepeche.fr/2024/04/30/serie-15-ces-metiers-dans-laero-qui-recrutent-mecanicien-systemes-11912718.php)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [A Gimont, un atelier "Atouts jeunes" pour se préparer au job dating](https://www.ladepeche.fr/2024/04/30/a-gimont-un-atelier-atouts-jeunes-pour-se-preparer-au-job-dating-11922351.php)
+append_entries: 3
+Finish: 2024-04-30 12:48:04.403769

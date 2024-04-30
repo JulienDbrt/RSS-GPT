@@ -5,6 +5,304 @@
 <link>https://korben.info</link>
 
 <item>
+<title>GitHub Copilot Workspace – L’environnement de dev piloté par l’IA !</title>
+<link>https://korben.info/github-copilot-workspace-environnement-dev-pilote-ia.html</link>
+<guid>https://korben.info/github-copilot-workspace-environnement-dev-pilote-ia.html</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Copilot Workspace, IA, développement logiciel, GPT-4 Turbo  
+Summary:  
+GitHub a introduit Copilot Workspace, un environnement de développement propulsé par l'IA qui aide les développeurs à transformer leurs idées en réalité. Les utilisateurs peuvent exprimer leurs concepts en langage naturel, et l'IA génère un plan d'action détaillé pour les guider tout au long du processus de développement. Les suggestions de l'IA peuvent être modifiées ou rejetées par l'utilisateur, qui garde le contrôle à tout moment. Copilot Workspace permet une collaboration transparente et la synchronisation avec Codespaces pour exécuter directement le code. Les développeurs peuvent partager leurs Workspaces pour recueillir des feedbacks et itérer sur les projets. GitHub vise à démocratiser le développement logiciel en le rendant plus intuitif et humain. Copilot Workspace est propulsé par le modèle GPT-4 Turbo et se distingue des autres fonctionnalités de la gamme Copilot. Les beta-testeurs sont invités à donner leur feedback pour améliorer continuement l'outil. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="720" src="https://korben.info/app/uploads/2024/04/githubcopilotmaxresdefault.webp" width="1280" /></p>
+<p>J&rsquo;espère que vous êtes bien installés dans votre cockpit, parce que GitHub nous a reservé une sacrée surprise : <strong><a href="https://githubnext.com/projects/copilot-workspace" rel="noopener" target="_blank">Copilot Workspace</a></strong>, un environnement de développement nouvelle génération entièrement propulsé par l&rsquo;IA.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-664713890" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous connaissez sûrement déjà <strong>GitHub Copilot</strong>, ce fidèle acolyte qui nous assiste depuis l&rsquo;année dernière en nous soufflant des suggestions de code directement dans votre IDE, et bien avec Copilot Workspace, GitHub veut carrément révolutionner la façon de concevoir des logiciels.</p>
+
+
+
+<p>L&rsquo;idée est simple : vous exprimez ce que vous voulez faire en langage naturel, comme si vous discutiez avec votre pote développeur et Copilot Workspace vous aide à transformer votre concept en réalité, étape par étape.</p>
+
+
+
+<p>Par exemple, si vous avez une idée de fonctionnalité à ajouter à votre projet, vous ouvrez Copilot Workspace, vous saisissez une description de ce que vous voulez faire, et hop ! L&rsquo;IA analyse votre requête, génère un plan d&rsquo;action détaillé, et vous guide tout au long du processus de développement.</p>
+
+
+
+<p>Brainstorming, planification, implémentation, tests&#8230; Chaque phase est assistée par Copilot Workspace qui vous fera des suggestions, répondra à vos questions, et automatisera un maximum de tâches fastidieuses, le tout de manière transparente et collaborative.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-462464681" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Le top du top, c&rsquo;est que tout est « steerable » comme ils disent chez GitHub. Cela veut dire que vous gardez le contrôle à tout moment et chaque suggestion de l&rsquo;IA peut être affinée, modifiée ou rejetée selon vos désirs. Bref, vous restez le pilote et Copilot n&rsquo;est que votre copilote (et gardez votre culotte) !</p>
+
+
+
+<p>D&rsquo;ailleurs, Copilot Workspace vous permet d&rsquo;orienter le système via le langage naturel à 2 endroits : en modifiant la spécification (une description de la base de code actuelle et de l&rsquo;état souhaité) et en modifiant le plan (une liste d&rsquo;actions à entreprendre dans chaque fichier). Cela vous permet de guider le système vers la solution que vous souhaitez mettre en œuvre. Cette capacité de pilotage est essentielle, car elle permet aux développeurs de dépasser les limites de la taille des suggestions, en imitant la façon dont ils travaillent sur des problèmes réels. Cela se traduit par un code généré plus précis et plus facile à évaluer.</p>
+
+
+
+<p>Une fois votre code écrit, vous pouvez le valider et l&rsquo;exécuter directement dans l&rsquo;environnement, histoire de vérifier que tout roule comme sur des roulettes. Chaque Copilot Workspace permet une synchronisation en direct avec les Codespaces, ce qui vous permet d&rsquo;ouvrir un terminal, d&rsquo;installer des dépendances et d&rsquo;exécuter votre code directement depuis l&rsquo;espace de travail. Et si vous avez besoin d&rsquo;outils plus avancés, hop, vous basculez dans un <strong>Codespace</strong> pour retrouver une expérience d&rsquo;IDE complète dans le cloud, avec un serveur exécutant VS Code.</p>
+
+
+
+<p>Côté collaboration, vous pouvez partager un instantané de votre Workspace avec vos petits camarades en un clic, pour recueillir leur feedback ou les laisser expérimenter leurs propres idées. S&rsquo;ils font partie de la preview technique, ils pourront même forker votre Workspace et itérer dessus. Par contre, si vous apportez des modifications à votre Workspace après l&rsquo;avoir partagé, ces changements ne seront pas reflétés dans la version partagée. Il faudra alors partager un nouveau lien pour transmettre la dernière mouture.</p>
+
+
+
+<p>Et le plus chouette, c&rsquo;est que Copilot Workspace est accessible de partout, même depuis votre smartphone. Comme ça, la prochaine fois que vous avez une illumination en faisant vos courses, vous pourrez directement la prototyper depuis le rayon fromages du supermarché !</p>
+
+
+
+<p>Avec cette annonce, GitHub affiche clairement son ambition : démocratiser le développement logiciel en le rendant plus intuitif, plus naturel, plus humain en somme. Leur vision à long terme c&rsquo;est un monde où tout le monde peut coder aussi simplement qu&rsquo;on fait du vélo et je dois dire que je suis plutôt emballé par cette perspective puisque je fonctionne déjà comme ça pour mes projets de dev grâce notamment à <a href="https://korben.info/cursor-editeur-avec-ia-le-futur-du-developpement.html">Cursor</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-902308864" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Sous le capot, Copilot Workspace est propulsé par le modèle GPT-4 Turbo, que les équipes de GitHub ont jugé le plus performant pour cette tâche après avoir testé de nombreuses alternatives. D&rsquo;ailleurs, c&rsquo;est intéressant de comparer Copilot Workspace avec les autres fonctionnalités de la gamme Copilot. </p>
+
+
+
+<p>Là où Copilot vous aide à écrire du code en faisant des suggestions au fur et à mesure que vous tapez, et où Copilot Chat permet de discuter des changements potentiels, Copilot Workspace est un véritable environnement de développement orienté tâches, qui planifie et rédige des modifications coordonnées sur plusieurs fichiers. Chacun de ces outils a son utilité, et ils se complètent à merveille.</p>
+
+
+
+<p>GitHub a surtout compris l&rsquo;importance d&rsquo;impliquer les développeurs dans cette aventure. C&rsquo;est pour ça qu&rsquo;ils lancent Copilot Workspace en <strong>technical preview</strong>, histoire de recueillir un maximum de feedback et d&rsquo;itérer en fonction. Si ça vous tente de jouer les beta-testeurs, c&rsquo;est par ici pour <a href="https://github.com/github-copilot/workspace_waitlist_signup/join" rel="noopener" target="_blank">vous inscrire</a> !</p>
+
+
+
+<p><a href="https://www.techradar.com/pro/github-unveils-copilot-native-developer-environment" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 11:48:33 +0000</pubDate>
+<pubDate>Tue, 30 Apr 2024 11:48:33 +0000</pubDate>
+</item>
+<item>
+<title>Surveillance et anonymat – la CJUE chamboule la donne</title>
+<link>https://korben.info/cjue-surveillance-hadopi-anonymat-en-ligne.html</link>
+<guid>https://korben.info/cjue-surveillance-hadopi-anonymat-en-ligne.html</guid>
+<content:encoded><![CDATA[
+<div> Hadopi, CJUE, données personnelles, adresses IP, vie privée<br>
+Summary:
+La Cour de Justice de l'Union européenne a récemment autorisé l'accès massif et automatisé aux adresses IP des internautes, permettant ainsi à Hadopi de traquer plus facilement les pirates en ligne. Cette décision représente une atteinte à la vie privée en ligne, malgré la nécessité d'un contrôle judiciaire dans certains cas. La CJUE a également indiqué que si les États ne respectent pas ses décisions, elle pourrait céder. Cela soulève des inquiétudes quant à la protection de la vie privée sur internet. Il est conseillé d'être prudent en ligne, de chiffrer ses données et de sécuriser ses connexions. Des associations comme La Quadrature du Net se mobilisent contre cette décision. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Big_Brother__logo_with_word_CVRIA_42640f84-44ac-45d8-9e31-44f93b70c430.webp" width="1456" /></p>
+<p>Vous connaissez tous notre amie <strong>Hadopi</strong>, cette bonne vieille haute autorité qui veille au grain sur les internets français pour protéger les pauvres ayants droits en coupant la connexion des vilains pirates que vous êtes ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1913985591" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et bien figurez-vous que ces joyeux drilles viennent de se voir offrir un joli cadeau par la <strong>Cour de justice de l&rsquo;Union européenne</strong> (CJUE). </p>
+
+
+
+<p>Anéfé, la Cour vient de rendre un arrêt le 30 avril 2024 qui inverse sa précédente jurisprudence sur la question de l&rsquo;accès aux <strong>données personnelles</strong> des internautes, et notamment aux fameuses <strong>adresses IP</strong>. </p>
+
+
+
+<p>Avant, c&rsquo;était motus et bouche cousue, seuls les cas de criminalité grave pouvaient justifier qu&rsquo;on aille fouiner dans ces données sensibles. Mais maintenant, la CJUE autorise, sous certaines conditions, l&rsquo;accès massif et automatisé à l&rsquo;<strong>adresse IP</strong> associée à <strong>l&rsquo;identité civile et au contenu d&rsquo;une communication</strong>, sans contrôle préalable systématique par un juge ou une autorité administrative indépendante. C&rsquo;est une sérieuse entaille dans le mur de la <strong>vie privée</strong> en ligne.</p>
+
+
+
+<p><strong>Hadopi</strong> est aux anges, forcément. Elle va pouvoir traquer plus facilement les vilains pirates, même si un contrôle judiciaire reste nécessaire dans certains cas. Un petit coup de fil aux FAI, et hop, voilà toutes les infos perso sur qui télécharge quoi. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-763932507" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><em>Big Brother is watching you</em>, comme dirait l&rsquo;autre.</p>
+
+
+
+<p>Alors OK, officiellement, c&rsquo;est pour la « bonne » cause, lutter contre le piratage, tout ça mais on sait bien comment ça marche. Aujourd&rsquo;hui, on autorise l&rsquo;accès à votre nom, prénom et le contenu qui enfreint la loi, et demain, ce sera d&rsquo;autres infos plus sensibles. D&rsquo;autant que la CJUE dit aussi que bon, si les États ne jouent pas le jeu et n&rsquo;appliquent pas ses décisions, elle finira par céder. C&rsquo;est un peu con pour une institution censée faire respecter le droit.</p>
+
+
+
+<p>Bref, c&rsquo;est un coup dur pour l&rsquo;<strong>anonymat en ligne</strong>, même s&rsquo;il ne disparaît pas totalement. Ça risque de faire tache d&rsquo;huile. Les assoces comme <strong><a href="https://www.laquadrature.net/" rel="noopener" target="_blank">La Quadrature du Net</a></strong> sont déjà sur le pied de guerre, mais le mal est fait. Va falloir croiser les doigts pour que ça ne donne pas trop d&rsquo;idées à nos chers dirigeants&#8230;</p>
+
+
+
+<p>En attendant, <strong>un conseil : soyez prudents</strong>. Évitez de trop en faire sur les réseaux P2P, chiffrez vos données, sécurisez vos connexions&#8230;etc. Et si vous voulez en savoir plus sur le sujet et soutenir ceux qui se battent, allez faire un tour sur le site de la <strong>Quadrature</strong>, c&rsquo;est toujours instructif.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 10:45:30 +0000</pubDate>
+<pubDate>Tue, 30 Apr 2024 10:45:30 +0000</pubDate>
+</item>
+<item>
+<title>Ruviki – Quand le Kremlin réécrit Wikipedia à sa sauce</title>
+<link>https://korben.info/wikipedia-ru-clonee-et-censuree-par-la-russie-original-bannie.html</link>
+<guid>https://korben.info/wikipedia-ru-clonee-et-censuree-par-la-russie-original-bannie.html</guid>
+<content:encoded><![CDATA[
+<div> Wikipedia, Russie, Ruviki, réécriture, censure <br>
+<br>
+Summary:
+Le gouvernement russe a lancé un projet nommé Ruviki pour cloner Wikipedia en modifiant les articles jugés dérangeants, réécrivant ainsi l'histoire à sa convenance. Ce projet a été initié par Vladimir Medeyko de Wikimedia.ru, supprimant des articles sur des sujets sensibles tels que les droits humains, la liberté d'expression, les prisonniers politiques et la censure. Prétendument présentée comme une version neutre et fiable, Ruviki est en réalité une manipulation de l'information au profit du Kremlin. De plus, la véritable Wikipedia en russe est maintenant interdite en Russie, laissant aux citoyens une version tronquée contrôlée par l'État. Cette initiative souligne les problèmes de transparence et de liberté d'expression en Russie, mettant en lumière le contrôle étatique sur l'information et la manipulation de la vérité. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Wikipedia_Logo_Russian_flag_9e6ace09-c634-417e-9f4d-2f9eecb77f59.webp" width="1456" /></p>
+<p>Vous pensiez que <strong>Wikipedia</strong> était un havre de savoir libre et ouvert à tous ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-486941660" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Détrompez-vous ! En Russie, le gouvernement vient de frapper un grand coup en clonant l&rsquo;encyclopédie collaborative pour en faire une version <em>légèrement</em> différente, histoire de réécrire l&rsquo;Histoire à sa sauce.</p>
+
+
+
+<p>Fini Wikipedia, place à <strong>Ruviki</strong> ! Enfin quand je dis Ruviki, c&rsquo;est en fait une version modifiée de Wikipedia en russe (Wikipedia RU) mais sans les articles qui dérangent. Bref, appelez ça comme vous voulez, le principe reste le même : on prend l&rsquo;encyclopédie, on vire tout ce qui nous plaît pas, et voilà, on a une Wikipedia sous stéroïdes made in Kremlin. Pratique.</p>
+
+
+
+<p>Concrètement, ce projet Ruviki a été initié par <em>Vladimir Medeyko</em>, président de Wikimedia.ru (la version russe de la Wikimedia Foundation). Les articles sur les « agents étrangers » (comprenez tous ceux qui osent émettre une opinion sur le gouvernement sans être sponsorisés par Poutine himself), les scandales impliquant des représentants du gouvernement ou encore les rapports sur la torture dans les prisons russes ont comme par magie disparu ! Pouf ! Envolés les « détails » qui fâchent.</p>
+
+
+
+<p>Mais le plus drôle dans l&rsquo;histoire, c&rsquo;est que même les articles sur des sujets <a href="https://twitter.com/CKonovalov/status/1772020282330366322" rel="noopener" target="_blank">à priori sans rapport y passent</a>. Prenez par exemple l&rsquo;article sur « 1984 » de George Orwell. Bizarrement, toute mention du « Ministère de la Vérité », l&rsquo;institution chargée de la propagande et de la réécriture de l&rsquo;Histoire dans le roman, s&rsquo;est volatilisée de Ruviki. Étonnant, non ?</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159775" height="1015" src="https://korben.info/app/uploads/2024/04/GJd2y4LWkAEiZtv-1-1024x1015.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-837186652" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et ne croyez pas que seuls quelques articles sont concernés. D&rsquo;après une analyse du chercheur <em>Constantine Konovalov</em>, ce sont plus de 200 000 caractères qui ont été modifiés ou supprimés dans les articles sur la liberté d&rsquo;expression, 150 000 sur les droits humains, 96 000 sur les prisonniers politiques et 71 000 sur la censure. Ça en fait de la réécriture !</p>
+
+
+
+<p>Le plus ironique dans tout ça, c&rsquo;est que les autorités russes présentent ce Ruviki comme une version « fiable » et « neutre » de Wikipedia. Ben voyons&#8230; C&rsquo;est sûr que quand on vire tout ce qui nous arrange pas, ça devient vite plus « neutre ». Dans le genre révision historique de niveau olympique, on n&rsquo;a pas fait mieux depuis l&rsquo;invention du correcteur liquide.</p>
+
+
+
+<p>Et comme si ça suffisait pas, la véritable Wikipedia en russe est désormais bannie en Russie. Circulez, y a plus rien à voir ! Seule la version tronquée made in Kremlin est autorisée. C&rsquo;est ballot, les Russes vont devoir se contenter d&rsquo;une réalité quelque peu&#8230; alternative.</p>
+
+
+
+<p>Mais bon, après tout, c&rsquo;est pas comme si la Russie était réputée pour sa transparence, sa liberté d&rsquo;expression et son amour de la vérité vraie. Alors une encyclopédie sous contrôle étatique, c&rsquo;est bien pratique pourj le gouvernement qui ne fera plus de nuits blanches en se demandant si un article compromettant va être publié.</p>
+
+
+
+<p>La prochaine fois que vous consulterez Wikipedia, ayez une petite pensée pour nos amis Russes qui, eux, devront se contenter de la version caviardée&#8230; (et c&rsquo;est pas du Beluga)</p>
+
+
+
+<p><a href="https://www.404media.co/russia-clones-wikipedia-censors-it-bans-original/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 10:03:21 +0000</pubDate>
+<pubDate>Tue, 30 Apr 2024 10:03:21 +0000</pubDate>
+</item>
+<item>
+<title>GPT2-chatbot – Une IA mystère qui serait la prochaine évolution d’OpenAI (GPT-4.5 / GPT-5) ?</title>
+<link>https://korben.info/gpt2-chatbot-le-mystere-de-l-ia-qui-se-prend-pour-chatgpt.html</link>
+<guid>https://korben.info/gpt2-chatbot-le-mystere-de-l-ia-qui-se-prend-pour-chatgpt.html</guid>
+<content:encoded><![CDATA[
+<div> GPT2-chatbot, modèle langage, mystérieux, OpenAI, théories, tests
+Summary: 
+GPT2-chatbot suscite des théories sur son origine, potentiellement lié à OpenAI. Des tests ont montré des améliorations subtiles par rapport à GPT-4, suggérant une évolution vers un modèle plus avancé. Les internautes spéculent sur les techniques utilisées, certains envisageant une fusion de modèles ou une nouvelle architecture révolutionnaire. La performance de GPT2-chatbot est comparée à celle de GPT-4, laissant planer un mystère sur ses véritables capacités. Les discussions se poursuivent pour déterminer si ce chatbot annonce une avancée majeure dans le domaine de l'IA. Son utilisation sur le site LMSYS et les différences observées laissent entrevoir un potentiel prometteur pour cet enigmatique assistant virtuel. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_word_GPT2-chatbot_44c9b883-eaec-4152-87ce-5f7558b30139.webp" width="1920" /></p>
+<p>Vous avez entendu parler de GPT2-chatbot ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-876857721" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>C&rsquo;est un modèle de langage un peu mystérieux, accessible uniquement sur le site <a href="https://chat.lmsys.org/" rel="noreferrer noopener" target="_blank">https://chat.lmsys.org</a>, qui semble avoir des super pouvoirs dignes de <strong>ChatGPT</strong>. Mais attention, suspense… Personne ne sait d&rsquo;où il sort !</p>
+
+
+
+<p>Quand on lui pose la question, ce petit malin de GPT2-chatbot clame haut et fort qu&rsquo;il est basé sur l&rsquo;archi de <strong>GPT-4</strong> sauf que voilà, ça colle pas vraiment avec son blaze GPT-2&#8230;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159767" height="693" src="https://korben.info/app/uploads/2024/04/SCR-20240429-ukfm-2-1024x693.png" width="1024" /></figure></div>
+
+
+<p>Du coup, les théories vont bon train. Certains pensent que c&rsquo;est un coup fourré d&rsquo;<strong>OpenAI</strong>, qui l&rsquo;aurait lâché en mode ninja sur le site de LMSYS pour tester un nouveau modèle en douce, possiblement GPT-4.5 ou GPT-5. D&rsquo;autres imaginent que c&rsquo;est <strong>LMSYS</strong> qui a bidouillé son propre chatbot et qui lui a bourré le crâne avec des données de GPT-4 pour le rendre plus savant que Wikipédia.</p>
+
+
+
+<p>Moi, je pencherais plutôt pour la première hypothèse. Pourquoi ? Et bien ce GPT2-chatbot partage des caractéristiques bien spécifiques avec les modèles d&rsquo;OpenAI, comme l&rsquo;utilisation du <em>tokenizer</em> maison « tiktoken » ou encore une sensibilité toute particulière aux <em>prompts malicieux</em>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1086555143" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Au travers de mes propres tests réalisés hier soir, j&rsquo;ai pu constater que les différences entre GPT2-chatbot et GPT-4 étaient assez subtiles. Les textes générés par GPT2-chatbot sont effectivement mieux construits et de meilleure qualité. Lorsque j&rsquo;ai demandé à Claude (un autre assistant IA) de comparer des textes produits par les deux modèles, c&rsquo;est systématiquement celui de GPT2-chatbot qui ressortait gagnant.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-159769" height="750" src="https://korben.info/app/uploads/2024/04/SCR-20240430-jate.webp" style="width: 755px; height: auto;" width="937" /></figure></div>
+
+
+<p>Ma théorie personnelle est donc qu&rsquo;il s&rsquo;agit bien d&rsquo;une nouvelle version améliorée de ChatGPT mais je ne pense pas qu&rsquo;on soit déjà sur du GPT-5. Plutôt du GPT-4.5 grand maximum car les progrès, bien réels, ne sont pas non plus renversants. C&rsquo;est plus une évolution subtile qu&rsquo;une révolution.</p>
+
+
+
+<p>Les internautes ont aussi <a href="https://www.reddit.com/r/singularity/comments/1cgjt1l/the_deal_on_gpt2chatbot/" rel="noopener" target="_blank">leurs hypothèses</a>. Certains imaginent que GPT2-chatbot pourrait en fait être un petit modèle comme GPT-2 (d&rsquo;où son nom) mais boosté avec des techniques avancées comme Q* ou des agents multiples pour atteindre le niveau de GPT-4. D&rsquo;autres pensent qu&rsquo;OpenAI teste en secret une nouvelle architecture ou un nouvel algorithme d&rsquo;entraînement révolutionnaire permettant d&rsquo;obtenir les performances de GPT-4 avec un modèle compact. Les plus optimistes voient même en GPT2-chatbot les prémices de l&rsquo;AGI !</p>
+
+
+
+<p>Prêt à tester les talents cachés de GPT2-chatbot ?</p>
+
+
+
+<p>Alors direction <a href="https://chat.lmsys.org/" rel="noreferrer noopener" target="_blank">https://chat.lmsys.org</a>, sélectionnez « gpt2-chatbot », cliquez sur « Chat » et c&rsquo;est parti mon kiki ! </p>
+
+
+
+<p>Vous avez droit à 8 messages gratos en mode « tchatche directe » et après, faut passer en mode « Battle » pour continuer à jouer. Un petit conseil : pensez à repartir d&rsquo;une page blanche en cliquant sur « New Round » à chaque fois que vous changez de sujet, sinon il risque de perdre le fil.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1282319974" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>On verra bien dans quelques semaines quelle théorie sortira gagnante de ces discussions.</p>
+
+
+
+<p><a href="https://rentry.co/GPT2" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 07:51:27 +0000</pubDate>
+<pubDate>Tue, 30 Apr 2024 07:51:27 +0000</pubDate>
+</item>
+<item>
+<title>Rain Alarm – L’app Météo qui vous évite la pluie ☔</title>
+<link>https://korben.info/rain-alarm-app-meteo-ultime-eviter-pluie.html</link>
+<guid>https://korben.info/rain-alarm-app-meteo-ultime-eviter-pluie.html</guid>
+<content:encoded><![CDATA[
+<div> application, prévisions météo, données radar, notification, couverture mondiale
+Summary:
+Rain Alarm est une application innovante qui utilise des données radar en temps réel pour détecter les précipitations avec précision. Elle envoie des notifications dès que de la pluie est détectée près de votre position, indiquant également l'intensité et la zone couverte. Avec une couverture mondiale, elle fonctionne dans de nombreux pays, offrant une assistance pour divers usages tels que l'arrosage des cultures, la sécurité des événements en extérieur et la gestion des risques d'inondation. Disponible sur Desktop, le téléchargement de Rain Alarm sur smartphones est simple, et des versions mobiles sont également disponibles pour Android et iOS. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_A_photorealistic_image_of_a_gardener_joyfully_mowing_the_09a4aa5e-3ef8-4dbc-9bd1-f3e997fadf6a.webp" width="1456" /></p>
+<p>J&rsquo;sais pas vous, mais moi, à chaque fois que je me dis que je vais bosser dans le jardin, que ce soit pour planter des trucs ou tondre la pelouse, je me prends une averse au bout de 5 min. Pire poisseux que François Hollande sur le coup.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-272256228" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais avec <strong><a href="https://www.rain-alarm.com/" rel="noopener" target="_blank">Rain Alarm</a></strong>, mes mésaventures appartiennent au passé. Cette application d&rsquo;un nouveau genre n&rsquo;utilise pas les traditionnelles prévisions météo qui, avouons-le, manquent souvent de précision (A part l&rsquo;app <a href="https://www.lameteoagricole.net/application-meteo.php" rel="noopener" target="_blank">Météo Agricole</a> à jamais dans mon cœur) mais s&rsquo;appuie à la place sur des <strong>données radar</strong> fournies par les services météorologiques gouvernementaux. Ces informations sont mises à jour en temps réel, ce qui permet à l&rsquo;app de détecter l&rsquo;approche des précipitations avec une fiabilité inégalée.</p>
+
+
+
+<p>Concrètement, Rain Alarm vous envoie une <strong>notification</strong> dès que de la pluie est détectée dans un rayon prédéfini autour de votre position. Vous pouvez ainsi savoir précisément quand sortir votre parapluie ou, au contraire, profiter d&rsquo;une accalmie pour vous balader. L&rsquo;app indique même l&rsquo;<strong>intensité</strong> et la <strong>zone couverte</strong> par les précipitations, pour une information complète.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157547" height="518" src="https://korben.info/app/uploads/2024/03/SCR-20240322-l72.webp" width="1004" /></figure></div>
+
+
+<p>Autre atout de Rain Alarm c&rsquo;est sa <strong>couverture mondiale</strong>. Que vous soyez aux États-Unis, au Japon, à Roubaix ou en Australie, vous pourrez bénéficier de ses alertes. L&rsquo;app fonctionne dans de nombreux pays, et la liste ne cesse de s&rsquo;allonger. Ce qui est pratique si comme moi, vous tondez la pelouse dans plusieurs fuseaux horaires.</p>
+
+
+
+<p>Au-delà de son utilité au quotidien, Rain Alarm ouvre de nombreuses perspectives. Elle peut devenir l&rsquo;alliée des <strong>agriculteurs</strong> pour optimiser l&rsquo;arrosage des cultures, des <strong>organisateurs d&rsquo;événements</strong> en extérieur pour sécuriser leurs manifestations, ou encore des <strong>gestionnaires de réseaux d&rsquo;eau</strong> pour anticiper les risques d&rsquo;inondation. Les possibilités sont nombreuses !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1225357740" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Si ça vous branche, sur Desktop, il suffit de télécharger Rain Alarm sur votre smartphone, via le <strong><a href="https://chromewebstore.google.com/detail/extension-alerte-pluie/olnconaknblgbkfgknkfmmfhhbebkekd" rel="noopener" target="_blank">Chrome Web Store</a></strong> ou le site <strong><a href="https://addons.mozilla.org/en-US/firefox/addon/rain-alarm-extension/?src=external-homepage" rel="noopener" target="_blank">addons.mozilla.org</a></strong> pour Firefox. Le site propose aussi <a href="https://www.rain-alarm.com/" rel="noopener" target="_blank">de vous notifier directement</a>. Et il y a bien sûr des app mobiles pour <a href="https://play.google.com/store/apps/details?id=de.mdiener.rain.usa&amp;hl=en_US" rel="noopener" target="_blank">Android</a> et <a href="https://apps.apple.com/fr/app/alerte-pluie-rain-alarm/id397676100" rel="noopener" target="_blank">iOS</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 30 Apr 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>La première course de voitures autonomes a eu lieu à Abu Dhabi !</title>
 <link>https://korben.info/course-voitures-autonomes-revolutionnaire-abu-dhabi.html</link>
 <guid>https://korben.info/course-voitures-autonomes-revolutionnaire-abu-dhabi.html</guid>
@@ -70,15 +368,14 @@ La course historique de Formule 1 entièrement autonome à Abu Dhabi a été un 
 <p><a href="https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 20:32:39 +0000</pubDate>
-<pubDate>Mon, 29 Apr 2024 20:32:39 +0000</pubDate>
 </item>
 <item>
 <title>Ikki veut jouer avec moi ?</title>
 <link>https://korben.info/test-ikki-unite-avis.html</link>
 <guid>https://korben.info/test-ikki-unite-avis.html</guid>
 <content:encoded><![CDATA[
-<div> Ikki Unite, jeu, multijoueur, classes, contenu, originalité <br>
-<br>Summary:
+<div> Ikki Unite, jeu, multijoueur, classes, contenu, originalité <br />
+<br />Summary:
 Ikki Unite est un jeu vidéo sur PC et Nintendo Switch qui mélange les concepts de Ikki et Enter the Gungeon. Les joueurs doivent combattre des vagues d'ennemis pour renverser un magistrat maléfique. Le jeu propose une progression avec des nouveaux pouvoirs et armes à débloquer, ainsi que la possibilité de recruter d'autres personnages pour former une équipe jusqu'à 16 joueurs en ligne. Les différentes classes de personnage apportent de la diversité aux parties, et les 16 personnages jouables permettent de varier les plaisirs. Malgré son charme et sa valeur ajoutée, le prix peut sembler élevé par rapport à d'autres jeux similaires. Il est recommandé d'attendre une promotion pour l'acheter. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="563" src="https://korben.info/app/uploads/2024/04/Ikki_Art_Final.webp" width="1000" /></p>
 <p class="has-text-align-center">— Article rédigé par l’ami <a href="https://remouk.fr/" rel="noreferrer noopener" target="_blank">Remouk</a> <a href="https://danstonchat.com/" rel="noreferrer noopener" target="_blank">(DansTonChat)</a> – Merci à lui —<br />— Contient des liens affiliés Amazon —</p>
@@ -136,9 +433,7 @@ Ikki Unite est un jeu vidéo sur PC et Nintendo Switch qui mélange les concepts
 <figure class="wp-block-image size-full"><img alt="" class="wp-image-159750" height="563" src="https://korben.info/app/uploads/2024/04/Ikki-Unite-2.webp" width="1000" /></figure>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 12:48:10 +0000</pubDate>
-<pubDate>Mon, 29 Apr 2024 12:48:10 +0000</pubDate>
 </item>
-
 <item>
 <title>weAudit – Une extension Visual Studio Code pour ceux et celles qui font de l’audit</title>
 <link>https://korben.info/weaudit-extension-vscode-ultime-auditer-code.html</link>

@@ -71,3 +71,9 @@ Summarized using GPT-3.5-turbo
 Append: [Finances : "Il y a des nouveaux investisseurs, beaucoup sont jeunes et s'intéressent aux crypto-actifs", selon l'Autorité des marchés financiers](https://www.francetvinfo.fr/replay-radio/l-interview-eco/finances-il-y-a-des-nouveaux-investisseurs-beaucoup-sont-jeunes-et-s-interessent-aux-crypto-actifs-selon-l-autorite-des-marches-financiers_6486710.html)
 append_entries: 1
 Finish: 2024-04-30 01:16:15.863826
+------------------------------------------------------
+Started: 2024-04-30 12:41:36.358007
+Existing_entries: 21
+Fetching from https://www.francetvinfo.fr/economie/bitcoin.rss
+append_entries: 0
+Finish: 2024-04-30 12:41:36.617162

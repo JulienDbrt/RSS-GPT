@@ -68,3 +68,12 @@ Existing_entries: 20
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-04-30 01:16:11.173279
+------------------------------------------------------
+Started: 2024-04-30 12:41:29.390176
+Existing_entries: 20
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [La Russie brouille le système GPS dans le ciel balte, la Finlande suspend des liaisons aériennes](https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/la-russie-brouille-le-systeme-gps-dans-le-ciel-balte-la-finlande-suspend-des-liaisons-aeriennes_6488702.html)
+append_entries: 1
+Finish: 2024-04-30 12:41:36.083028

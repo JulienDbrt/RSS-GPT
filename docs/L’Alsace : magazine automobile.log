@@ -83,3 +83,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveauté. La Ford Mustang a 60 ans et s'offre plusieurs éditions spéciales !](https://www.lalsace.fr/magazine-automobile/2024/04/29/la-ford-mustang-a-60-ans-et-s-offre-plusieurs-editions-speciales)
 append_entries: 1
 Finish: 2024-04-30 01:17:59.129631
+------------------------------------------------------
+Started: 2024-04-30 12:44:40.986608
+Existing_entries: 25
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Nouveauté. Cupra dévoile ses nouvelles Formentor et Leon](https://www.lalsace.fr/magazine-automobile/2024/04/30/cupra-devoile-ses-nouvelles-formentor-et-leon)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [Mobilités. Début du contrôle technique des deux-roues : tout ce que vous devez savoir !](https://www.lalsace.fr/magazine-automobile/2024/04/30/debut-du-controle-technique-des-deux-roues-tout-ce-que-vous-devez-savoir)
+append_entries: 2
+Finish: 2024-04-30 12:44:53.292521

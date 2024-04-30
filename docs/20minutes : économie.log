@@ -92,3 +92,21 @@ Summarized using GPT-3.5-turbo
 Append: [Philips : Le groupe s’envole en Bourse, après avoir signé un accord de 1,1 milliard aux Etats-Unis](https://www.20minutes.fr/monde/4088846-20240429-philips-groupe-envole-bourse-apres-avoir-signe-accord-1-1-milliard-etats-unis)
 append_entries: 3
 Finish: 2024-04-30 01:10:46.759616
+------------------------------------------------------
+Started: 2024-04-30 12:34:58.056147
+Existing_entries: 28
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : Patatras !… L’effondrement des permis de construire se poursuit](https://www.20minutes.fr/economie/immobilier/4088970-20240430-immobilier-patatras-effondrement-permis-construire-poursuit)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Arnaud Lagardère se démet de son mandat de PDG après sa mise en examen](https://www.20minutes.fr/justice/4088960-20240430-arnaud-lagardere-demet-mandat-pdg-apres-mise-examen)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [Economie : Bruno Le Maire se réjouit d’une croissance (un peu inattendue) de 0,2 % au premier trimestre](https://www.20minutes.fr/economie/4088946-20240430-economie-bruno-maire-rejouit-croissance-peu-inattendue-0-2-premier-trimestre)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Oxfam : En 2022, les PDG du CAC 40 ont gagné en moyenne 130 fois plus que leurs salariés](https://www.20minutes.fr/economie/4088940-20240430-oxfam-2022-pdg-cac-40-gagne-moyenne-130-fois-plus-salaries)
+append_entries: 4
+Finish: 2024-04-30 12:35:11.428182

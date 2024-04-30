@@ -125,3 +125,15 @@ Summarized using GPT-3.5-turbo
 Append: [Emploi : cinq tendances à retenir sur l’évolution des métiers et du travail des Français](https://www.la-croix.com/economie/emploi-cinq-tendances-a-retenir-sur-l-evolution-des-metiers-et-du-travail-des-francais-20240429)
 append_entries: 3
 Finish: 2024-04-30 01:19:19.725629
+------------------------------------------------------
+Started: 2024-04-30 12:47:01.054022
+Existing_entries: 59
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Pouvoir d’achat : l’inflation ralentit en avril, à 2,2 % sur un an](https://www.la-croix.com/l-inflation-en-france-ralentit-encore-en-avril-a-22-sur-un-an-20240430)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [L’écart de rémunération entre PDG du CAC 40 et salariés se creuse](https://www.la-croix.com/economie/l-ecart-de-remuneration-entre-pdg-du-cac-40-et-salaries-se-creuse-20240429)
+append_entries: 2
+Finish: 2024-04-30 12:47:08.514659

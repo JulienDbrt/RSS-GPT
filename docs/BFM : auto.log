@@ -84,3 +84,15 @@ Summarized using GPT-3.5-turbo
 Append: ["C'est toute la planète qui est 'overdosée' de vélos": les ventes de bicyclettes s'effondrent en France](https://www.bfmtv.com/auto/mobilites/c-est-toute-la-planete-qui-est-overdosee-de-velos-les-ventes-de-bicyclettes-s-effondrent-en-france_AD-202404290800.html)
 append_entries: 1
 Finish: 2024-04-30 01:12:11.414112
+------------------------------------------------------
+Started: 2024-04-30 12:37:06.389203
+Existing_entries: 32
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Europe: faut-il faire passer les droits de douane des véhicules électriques chinois à 50%?](https://www.bfmtv.com/auto/europe-faut-il-faire-passer-les-droits-de-douane-des-vehicules-electriques-chinois-a-50_AV-202404300326.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Plus de 2 milliards d'euros: nouveau record pour les recettes des amendes routières en 2023](https://www.bfmtv.com/auto/plus-de-2-milliards-d-euros-nouveau-record-pour-les-recettes-des-amendes-routieres-en-2023_AV-202404300056.html)
+append_entries: 2
+Finish: 2024-04-30 12:37:16.083772

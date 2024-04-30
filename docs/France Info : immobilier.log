@@ -71,3 +71,12 @@ Existing_entries: 21
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-04-30 01:16:16.148550
+------------------------------------------------------
+Started: 2024-04-30 12:41:36.627815
+Existing_entries: 21
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Les permis de construire poursuivent leur baisse en mars, près de -20% sur un an](https://www.francetvinfo.fr/economie/immobilier/les-permis-de-construire-poursuivent-leur-baisse-en-mars-pres-de-20-sur-un-an_6517013.html)
+append_entries: 1
+Finish: 2024-04-30 12:41:40.286995
