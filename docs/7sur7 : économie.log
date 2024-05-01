@@ -126,3 +126,15 @@ Summarized using GPT-3.5-turbo
 Append: [Sur quel type de compte d’épargne devez-vous payer le moins d’impôts?](https://www.7sur7.be/home/sur-quel-type-de-compte-depargne-devez-vous-payer-le-moins-dimpots~a28dad64/)
 append_entries: 8
 Finish: 2024-04-30 12:35:50.424523
+------------------------------------------------------
+Started: 2024-05-01 01:14:35.163548
+Existing_entries: 44
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [Lidl veut s’étendre en Grande-Bretagne avec des centaines de nouveaux supermarchés](https://www.7sur7.be/economie/lidl-veut-setendre-en-grande-bretagne-avec-des-centaines-de-nouveaux-supermarches~a4111e46/)
+Token length: 356
+Summarized using GPT-3.5-turbo
+Append: [Attention si vous prenez l’avion: le personnel de l’aéroport de Charleroi en grève ce jeudi, 17.500 passagers et 94 vols impactés](https://www.7sur7.be/economie/attention-si-vous-prenez-lavion-le-personnel-de-laeroport-de-charleroi-en-greve-ce-jeudi-17-500-passagers-et-94-vols-impactes~a646dd56/)
+append_entries: 2
+Finish: 2024-05-01 01:14:41.571393

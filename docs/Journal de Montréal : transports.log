@@ -69,3 +69,18 @@ Existing_entries: 15
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-04-30 12:44:40.033640
+------------------------------------------------------
+Started: 2024-05-01 01:20:50.730316
+Existing_entries: 15
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Résidents de Longueuil ou Laval: le prix du billet de métro va augmenter à Montréal](https://www.journaldemontreal.com/2024/04/30/residents-de-longueuil-ou-laval-le-prix-du-billet-de-metro-va-augmenter-a-montreal)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Air Transat: les régulateurs de vols votent à 100 % pour un mandat de grève](https://www.journaldemontreal.com/2024/04/30/air-transat-les-regulateurs-de-vols-votent-a-100--pour-un-mandat-de-greve)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Métro de Montréal: le service reprend sur la ligne verte après une interruption en pleine heure de pointe](https://www.journaldemontreal.com/2024/04/29/metro-de-montreal-une-interruption-de-service-sur-la-ligne-verte-en-pleine-heure-de-pointe)
+append_entries: 3
+Finish: 2024-05-01 01:21:00.437891

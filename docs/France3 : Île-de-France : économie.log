@@ -105,3 +105,15 @@ Summarized using GPT-3.5-turbo
 Append: [CARTE. Défilé du 1er mai : quel sera le parcours du cortège à Paris ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/carte-defile-du-1er-mai-quel-sera-le-parcours-du-cortege-a-paris-2962721.html)
 append_entries: 3
 Finish: 2024-04-30 12:43:19.249965
+------------------------------------------------------
+Started: 2024-05-01 01:19:50.120225
+Existing_entries: 37
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Le projet de la LNPN pour faire Paris-Le Havre en train en 1h50 : donnez votre avis](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/le-projet-de-la-lnpn-pour-faire-paris-le-havre-en-train-en-1h50-donnez-votre-avis-2963168.html)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [1er mai : des mois de préparation pour l'un des derniers producteurs de muguets d'Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/1er-mai-des-mois-de-preparation-pour-l-un-des-derniers-producteurs-de-muguets-d-ile-de-france-2963252.html)
+append_entries: 2
+Finish: 2024-05-01 01:19:55.703702

@@ -80,3 +80,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les permis de construire poursuivent leur baisse en mars, près de -20% sur un an](https://www.francetvinfo.fr/economie/immobilier/les-permis-de-construire-poursuivent-leur-baisse-en-mars-pres-de-20-sur-un-an_6517013.html)
 append_entries: 1
 Finish: 2024-04-30 12:41:40.286995
+------------------------------------------------------
+Started: 2024-05-01 01:19:12.270277
+Existing_entries: 22
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : de nombreux promoteurs contraints à mettre la clé sous la porte](https://www.francetvinfo.fr/economie/immobilier/immobilier-de-nombreux-promoteurs-contraints-a-mettre-la-cle-sous-la-porte_6517784.html)
+append_entries: 1
+Finish: 2024-05-01 01:19:16.236679
