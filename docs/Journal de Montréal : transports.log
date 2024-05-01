@@ -84,3 +84,9 @@ Summarized using GPT-3.5-turbo
 Append: [Métro de Montréal: le service reprend sur la ligne verte après une interruption en pleine heure de pointe](https://www.journaldemontreal.com/2024/04/29/metro-de-montreal-une-interruption-de-service-sur-la-ligne-verte-en-pleine-heure-de-pointe)
 append_entries: 3
 Finish: 2024-05-01 01:21:00.437891
+------------------------------------------------------
+Started: 2024-05-01 12:41:40.438664
+Existing_entries: 18
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-01 12:41:40.543108

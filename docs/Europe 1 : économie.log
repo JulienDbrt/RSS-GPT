@@ -104,3 +104,18 @@ Existing_entries: 28
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-01 01:18:16.704580
+------------------------------------------------------
+Started: 2024-05-01 12:38:13.185874
+Existing_entries: 28
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Bolloré envisage la construction d'une usine de batteries dans l'est de la France](https://www.europe1.fr/economie/bollore-envisage-la-construction-dune-usine-de-batteries-dans-lest-de-la-france-4244603)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [Déficit public : l’objectif du gouvernement plus crédible que prévu ?](https://www.europe1.fr/economie/deficit-public-lobjectif-du-gouvernement-plus-credible-que-prevu-4244481)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Prix, autonomie... Pourquoi les ventes de voitures électriques ralentissent-elles ?](https://www.europe1.fr/economie/prix-autonomie-pourquoi-les-ventes-de-voitures-electriques-ralentissent-elles-4244539)
+append_entries: 3
+Finish: 2024-05-01 12:38:26.183543

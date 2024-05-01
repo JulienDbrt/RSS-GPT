@@ -89,3 +89,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : de nombreux promoteurs contraints à mettre la clé sous la porte](https://www.francetvinfo.fr/economie/immobilier/immobilier-de-nombreux-promoteurs-contraints-a-mettre-la-cle-sous-la-porte_6517784.html)
 append_entries: 1
 Finish: 2024-05-01 01:19:16.236679
+------------------------------------------------------
+Started: 2024-05-01 12:39:16.150863
+Existing_entries: 23
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-05-01 12:39:16.211309

@@ -138,3 +138,15 @@ Summarized using GPT-3.5-turbo
 Append: [La rentabilité de Swiss s'est effondrée au 1er trimestre](https://www.20min.ch/fr/103094956)
 append_entries: 3
 Finish: 2024-05-01 01:14:28.926463
+------------------------------------------------------
+Started: 2024-05-01 12:34:16.210147
+Existing_entries: 46
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Le Japon à prix imbattables pour les touristes](https://www.20min.ch/fr/103095837)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Ex-roi des cryptomonnaies condamné à quatre mois de prison](https://www.20min.ch/fr/103095824)
+append_entries: 2
+Finish: 2024-05-01 12:34:27.611674

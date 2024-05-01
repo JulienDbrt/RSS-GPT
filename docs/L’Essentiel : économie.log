@@ -205,3 +205,15 @@ Summarized using GPT-3.5-turbo
 Append: [Évènement au Luxembourg: Plus d’une heure d’attente pour acheter des colis «mystères»](https://www.lessentiel.lu/fr/story/evenement-au-luxembourg-plus-dune-heure-dattente-pour-acheter-des-colis-mysteres-103095143)
 append_entries: 2
 Finish: 2024-05-01 01:21:18.597731
+------------------------------------------------------
+Started: 2024-05-01 12:41:53.207794
+Existing_entries: 115
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: Des inégalités de salaires «considérables» entre employés et ouvriers](https://www.lessentiel.lu/fr/story/au-luxembourg-des-inegalites-de-salaires-considerables-entre-employes-et-ouvriers-103094543)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [États-Unis: Un ex-roi des cryptomonnaies condamné à quatre mois de prison](https://www.lessentiel.lu/fr/story/etats-unis-ex-roi-des-cryptomonnaies-condamne-a-quatre-mois-de-prison-103095845)
+append_entries: 2
+Finish: 2024-05-01 12:42:04.245781

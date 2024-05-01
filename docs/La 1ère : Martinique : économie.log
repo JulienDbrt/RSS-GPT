@@ -85,3 +85,12 @@ Summarized using GPT-3.5-turbo
 Append: [Jusqu’à -20% sur les factures d’eau des martiniquais en juillet prochain annonce Odyssi](https://la1ere.francetvinfo.fr/martinique/jusqu-a-20-sur-les-factures-d-eau-des-martiniquais-en-juillet-prochain-annonce-odyssi-1484615.html)
 append_entries: 3
 Finish: 2024-05-01 01:22:29.640242
+------------------------------------------------------
+Started: 2024-05-01 12:42:55.362345
+Existing_entries: 15
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 36
+Summarized using GPT-3.5-turbo
+Append: [14 000 offres d'emploi recensées en Martinique par France Travail](https://la1ere.francetvinfo.fr/martinique/14-000-offres-d-emploi-recensees-en-martinique-par-france-travail-1484741.html)
+append_entries: 1
+Finish: 2024-05-01 12:43:03.073063

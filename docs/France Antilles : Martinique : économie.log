@@ -173,3 +173,9 @@ Summarized using GPT-3.5-turbo
 Append: [De l'humanité et du chagrin au procès de l'accident du TGV Est](https://www.martinique.franceantilles.fr/actualite/economie/de-lhumanite-et-du-chagrin-au-proces-de-laccident-du-tgv-est-985610.php)
 append_entries: 5
 Finish: 2024-05-01 01:18:34.824385
+------------------------------------------------------
+Started: 2024-05-01 12:38:26.214301
+Existing_entries: 71
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-05-01 12:38:26.821476

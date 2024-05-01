@@ -186,3 +186,18 @@ Summarized using GPT-3.5-turbo
 Append: [Paris-Limoges-Toulouse. "On saura à la fin de l’été quels trains on peut conserver." La SNCF confirme les travaux sur la ligne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/paris-limoges-on-saura-a-la-fin-de-l-ete-quels-trains-on-peut-conserver-la-sncf-confirme-des-travaux-au-nord-d-orleans-2962952.html)
 append_entries: 5
 Finish: 2024-05-01 01:20:34.121138
+------------------------------------------------------
+Started: 2024-05-01 12:41:25.345413
+Existing_entries: 62
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: ["Les suppressions de postes sont justifiées par la fin du moteur thermique" : inquiétudes chez les sous-traitants automobiles](https://france3-regions.francetvinfo.fr/centre-val-de-loire/les-suppressions-de-postes-sont-justifiees-par-la-fin-du-moteur-thermique-inquietudes-chez-les-sous-traitants-automobiles-du-centre-val-de-loire-2960084.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Des vélos sur mesure made in Vosges](https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/des-velos-sur-mesure-made-in-vosges-2963321.html)
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [Méfiez-vous : les arnaques au stationnement se multiplient, voici comment les éviter](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/mefiez-vous-les-arnaques-au-stationnement-se-multiplient-voici-comment-les-eviter-2961281.html)
+append_entries: 3
+Finish: 2024-05-01 12:41:40.216150

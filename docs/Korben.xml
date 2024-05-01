@@ -5,13 +5,68 @@
 <link>https://korben.info</link>
 
 <item>
+<title>MetaDetective – Pour dévoiler les secrets cachés de vos fichiers</title>
+<link>https://korben.info/metadetective-outil-ultime-analyse-metadonnees.html</link>
+<guid>https://korben.info/metadetective-outil-ultime-analyse-metadonnees.html</guid>
+<content:encoded><![CDATA[
+<div> métadonnées, MetaDetective, Python, web scraping, données
+Summary:<br><br>
+MetaDetective est un outil de cybersécurité propulsé par Python qui permet d'extraire et de présenter de manière structurée les métadonnées de fichiers, offrant ainsi une vue d'ensemble claire. Il intègre des fonctionnalités avancées de web scraping pour explorer en profondeur les sites web et récupérer les métadonnées pertinentes. L'outil permet d'ajuster la profondeur d'exploration, de cibler des types de fichiers spécifiques et d'exclure certains termes pour affiner les résultats. De plus, MetaDetective offre des options d'exportation flexibles pour générer des rapports au format HTML ou texte. Cependant, il est important de rappeler que son utilisation doit se faire dans le respect des lois et réglementations en vigueur, et ne doit pas être utilisé à des fins malveillantes ou illégales.<TResult>Please summarize this article in French, first extract 5 keywords, output in the same line, then line break, write a summary containing all the points in 200 words in French, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:' <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="251" src="https://korben.info/app/uploads/2024/03/SCR-20240322-ljt.webp" width="815" /></p>
+<p>J&rsquo;sais pas si vous savez, mais dès que vous créez un fichier, il y a plein de données qui se retrouvent dedans, la plupart du temps à votre insu&#8230; Et ça fonctionne avec tout : Photos, documents, morceau de musique et j&rsquo;en passe. Cela s&rsquo;appelle des Métadonnées, ça n&rsquo;a rien de nouveau mais c&rsquo;est bien utile aux pentesteurs et autres experts OSINT pour mener à bien leurs enquêtes.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1709396267" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Évidemment, les mecs ont autre chose à faire et plutôt que d&rsquo;aller fouiller tout à la main, ils se reposent sur des outils comme celui que je vous présente aujourd&rsquo;hui et qui s&rsquo;appelle <a href="https://github.com/franckferman/MetaDetective" rel="noopener" target="_blank"><strong>MetaDetective</strong></a>.</p>
+
+
+
+<p>Développé par des passionnés de <strong>cybersécurité</strong>, MetaDetective est propulsé par <strong>Python</strong> et contrairement à certains outils qui dépendent d&rsquo;une myriade de bibliothèques externes, il est plutôt autonome et simple à utiliser. Seul prérequis : avoir <strong>exiftool</strong> installé sur votre système. Une fois cette étape franchie, vous êtes prêt à plonger dans l&rsquo;aventure !</p>
+
+
+
+<center><a href="https://asciinema.org/a/55mEbe7GFVfIJ6OSfjOaDeYLv" rel="noopener" target="_blank"><img src="https://asciinema.org/a/55mEbe7GFVfIJ6OSfjOaDeYLv.svg" /></a></center>
+
+
+
+<p>L&rsquo;une des forces de MetaDetective réside surtout dans sa capacité à <strong>catégoriser</strong> et à <strong>présenter</strong> les métadonnées de manière intuitive. Fini le casse-tête des données brutes et désorganisées. Que vous analysiez un fichier unique ou un ensemble de documents, MetaDetective vous offre une vue d&rsquo;ensemble claire et structurée. Chaque information est minutieusement classée, vous permettant de naviguer aisément dans la richesse des données extraites.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-157550" height="710" src="https://korben.info/app/uploads/2024/03/Screenshot-MetaDetective_Demo-1024x710.webp" style="width: 655px; height: auto;" width="1024" /></figure></div>
+
+
+<p>L&rsquo;outil intègre des fonctionnalités avancées de <strong>web scraping</strong> et là où d&rsquo;autres se contentent de gratter la surface, MetaDetective, lui, plonge en profondeur, explorant méticuleusement de nombreux sites web pour en extraire les métadonnées les plus pertinentes. Oubliez les restrictions d&rsquo;IP et les proxy laborieux à des services tiers, puisqu&rsquo;il va directement se fournir à la source.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-157551" height="611" src="https://korben.info/app/uploads/2024/03/Screenshot-MetaDetective_Scraping_Demo-1024x611.webp" style="width: 648px; height: auto;" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1415782313" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Vous pourrez bien évidemment ajuster la profondeur d&rsquo;exploration, cibler des types de fichiers spécifiques, et même exclure certains termes pour affiner vos résultats. Et grâce à ses options d&rsquo;exportation flexibles, vous pouvez générer des rapports clairs au format HTML ou texte.</p>
+
+
+
+<p>Mais attention, avec un grand pouvoir vient une grande responsabilité. L&rsquo;utilisation de MetaDetective doit se faire dans le respect des lois et réglementations en vigueur. Cet outil puissant ne doit pas être utilisé à des fins malveillantes ou illégales.</p>
+
+
+
+<p>Pour en savoir plus sur MetaDetective et accéder à sa documentation complète, <a href="https://github.com/franckferman/MetaDetective" rel="noopener" target="_blank">rendez-vous ici</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 01 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Rabbit R1 – Le super gadget IA trop hype n’est en fait qu’une app Android</title>
 <link>https://korben.info/rabbit-r1-gadget-ia-application-android.html</link>
 <guid>https://korben.info/rabbit-r1-gadget-ia-application-android.html</guid>
 <content:encoded><![CDATA[
 <div> Keywords: Rabbit R1, IA, application, Android, déception
 
-Summary:<br><br>Le Rabbit R1, présenté comme un assistant personnel révolutionnaire, s'avère être une déception majeure. En réalité, il n'est qu'une simple application préinstallée sur un appareil fonctionnant sous une version modifiée d'Android. Les fonctionnalités annoncées ne sont que des tromperies, et l'app Android peut même être installée sur un smartphone classique. Malgré quelques limitations, comme la prise de photos, l'essentiel de l'expérience avec l'assistant IA est accessible. Vendu à un prix élevé pour ce qu'il offre, le Rabbit R1 se révèle être une arnaque pour ceux qui attendaient une révolution. En fin de compte, il suffit d'installer l'application ChatGPT pour bénéficier d'une expérience similaire, sans dépenser un centime. La déception est grande pour ceux qui croyaient en ce gadget au potentiel révolutionnaire, mais qui se retrouvent avec une simple surcouche logicielle. <div>
+Summary:<br /><br />Le Rabbit R1, présenté comme un assistant personnel révolutionnaire, s'avère être une déception majeure. En réalité, il n'est qu'une simple application préinstallée sur un appareil fonctionnant sous une version modifiée d'Android. Les fonctionnalités annoncées ne sont que des tromperies, et l'app Android peut même être installée sur un smartphone classique. Malgré quelques limitations, comme la prise de photos, l'essentiel de l'expérience avec l'assistant IA est accessible. Vendu à un prix élevé pour ce qu'il offre, le Rabbit R1 se révèle être une arnaque pour ceux qui attendaient une révolution. En fin de compte, il suffit d'installer l'application ChatGPT pour bénéficier d'une expérience similaire, sans dépenser un centime. La déception est grande pour ceux qui croyaient en ce gadget au potentiel révolutionnaire, mais qui se retrouvent avec une simple surcouche logicielle. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="675" src="https://korben.info/app/uploads/2024/05/Le-Rabbit-R1-1851198.webp" width="1200" /></p>
 <p><strong>Rabbit R1</strong>, le joujou <strong>IA</strong> dont tout le monde parle depuis des mois, avait créé un sacré buzz à son annonce. On nous promettait une révolution, un assistant personnel intelligent toujours à portée de main pour répondre à nos questions, identifier des objets, jouer votre musique préférée ou commander un Uber. Bref, l&rsquo;accessoire indispensable pour notre vie connectée qui remplacerait ce foutu smartphone. </p>
 
@@ -64,15 +119,14 @@ Summary:<br><br>Le Rabbit R1, présenté comme un assistant personnel révolutio
 <p>Allez, bisous mes lapins de 3 semaines 🐰</p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Apr 2024 23:31:47 +0000</pubDate>
-<pubDate>Tue, 30 Apr 2024 23:31:47 +0000</pubDate>
 </item>
 <item>
 <title>WeTransfer intègre un nouveau système de paiement qui va plaire à tous les créatifs</title>
 <link>https://korben.info/wetransfer-revolutionne-le-partage-fichiers-paiement-integre.html</link>
 <guid>https://korben.info/wetransfer-revolutionne-le-partage-fichiers-paiement-integre.html</guid>
 <content:encoded><![CDATA[
-<div> Intégration de paiement, WeTransfer, Stripe, créatifs, monétiser <br>
-<br>
+<div> Intégration de paiement, WeTransfer, Stripe, créatifs, monétiser <br />
+<br />
 Summary: WeTransfer a mis en place une intégration de paiement via Stripe pour permettre aux créatifs de vendre leurs créations plus facilement. Les utilisateurs peuvent fixer un prix en euros pour leurs fichiers, partager le lien avec leurs clients et recevoir leur paiement via Stripe. Les abonnés payants de WeTransfer bénéficient de cette fonctionnalité sans frais supplémentaires, tandis que les autres peuvent l'utiliser gratuitement jusqu'à fin juin. Ce nouveau service facilite la monétisation du travail des créatifs et simplifie le processus de paiement, offrant ainsi une solution pratique pour éviter les retards de paiement. WeTransfer devient ainsi un allié précieux pour les artistes et créatifs en quête d'une solution simple et efficace pour vendre leurs créations en ligne. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="367" src="https://korben.info/app/uploads/2024/04/SCR-20240430-le7.webp" width="1043" /></p>
 <p>Avis aux créatifs de tout poil : <strong><a href="https://wetransfer.com/" rel="noopener" target="_blank">WeTransfer</a></strong> vient de sortir l&rsquo;artillerie lourde pour vous faciliter la vie ! Fini le temps où vous deviez courir après vos paiements comme un poulet sans tête puisque maintenant, vous allez pouvoir vendre vos petites merveilles directement sur la plateforme. C&rsquo;est ti pas beau ça ?</p>
@@ -129,9 +183,7 @@ Summary: WeTransfer a mis en place une intégration de paiement via Stripe pour 
 <p><a href="https://techcrunch.com/2024/04/30/wetransfer-cuts-out-the-middle-man-and-now-lets-users-sell-files-directly-on-the-platform/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Apr 2024 13:26:17 +0000</pubDate>
-<pubDate>Tue, 30 Apr 2024 13:26:17 +0000</pubDate>
 </item>
-
 <item>
 <title>GitHub Copilot Workspace – L’environnement de dev piloté par l’IA !</title>
 <link>https://korben.info/github-copilot-workspace-environnement-dev-pilote-ia.html</link>

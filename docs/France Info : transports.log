@@ -131,3 +131,15 @@ Summarized using GPT-3.5-turbo
 Append: [Autoroute A13 : le chantier d'un parking pourrait être responsable des fissures](https://www.francetvinfo.fr/economie/transports/autoroute-a13-le-chantier-d-un-parking-pourrait-etre-responsable-des-fissures_6517358.html)
 append_entries: 1
 Finish: 2024-05-01 01:19:21.255518
+------------------------------------------------------
+Started: 2024-05-01 12:39:16.230172
+Existing_entries: 37
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Vélo : des parkings à vélo verticaux, munis de sas, arrivent en France](https://www.francetvinfo.fr/replay-radio/aujourd-hui-c-est-demain/velo-des-parkings-a-velo-verticaux-munis-de-sas-arrivent-en-france_6490685.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Transports : pour son premier anniversaire, le "Deutschlandticket" n’a pas rempli tous ses objectifs](https://www.francetvinfo.fr/monde/europe/allemagne/transports-pour-son-premier-anniversaire-le-deutschlandticket-n-a-pas-rempli-tous-ses-objectifs_6518867.html)
+append_entries: 2
+Finish: 2024-05-01 12:39:27.953851

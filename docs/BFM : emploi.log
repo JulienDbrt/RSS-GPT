@@ -93,3 +93,12 @@ Existing_entries: 31
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-05-01 01:16:12.370666
+------------------------------------------------------
+Started: 2024-05-01 12:35:53.970367
+Existing_entries: 31
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Les ponts du mois de mai sont-ils synonymes de France à l’arrêt?](https://www.bfmtv.com/economie/emploi/vie-de-bureau/les-ponts-du-mois-de-mai-sont-ils-synonymes-de-france-a-l-arret_AV-202405010128.html)
+append_entries: 1
+Finish: 2024-05-01 12:35:58.883876

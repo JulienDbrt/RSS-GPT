@@ -105,3 +105,18 @@ Existing_entries: 35
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-05-01 01:19:50.102871
+------------------------------------------------------
+Started: 2024-05-01 12:40:26.737700
+Existing_entries: 35
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [CPF, Ma Prim Rénov', prix du gaz, prix de la consultation : ce qui change au 1er mai 2024](https://france3-regions.francetvinfo.fr/corse/cpf-ma-prim-renov-prix-du-gaz-prix-de-la-consultation-ce-qui-change-au-1er-mai-2024-2963204.html)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Passoires thermiques : le calendrier ne sera pas tenu, selon cette sénatrice des Alpes-Maritimes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/passoires-thermiques-le-calendrier-ne-sera-pas-tenu-selon-cette-senatrice-des-alpes-maritimes-2963279.html)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Hausse du tarif du gaz, forfait de la Sécurité sociale, MaPrimeRénov’... découvrez ce qui change le 1er mai 2024](https://france3-regions.francetvinfo.fr/centre-val-de-loire/hausse-du-tarif-du-gaz-forfait-de-la-securite-sociale-maprimerenov-decouvrez-ce-qui-change-le-1er-mai-2024-2962850.html)
+append_entries: 3
+Finish: 2024-05-01 12:40:42.075338
