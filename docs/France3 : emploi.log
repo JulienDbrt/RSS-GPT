@@ -144,3 +144,12 @@ Summarized using GPT-3.5-turbo
 Append: [1er mai 1984, naissance du Syndicat des Travailleurs Corses](https://france3-regions.francetvinfo.fr/corse/1er-mai-1984-naissance-du-syndicat-des-travailleurs-corses-2963285.html)
 append_entries: 6
 Finish: 2024-05-01 12:41:24.828818
+------------------------------------------------------
+Started: 2024-05-02 01:13:01.342587
+Existing_entries: 46
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Manifestations du 1er-Mai : salaires, grandes fortunes, Gaza... des centaines de travailleurs mobilisés en Centre-Val de Loire](https://france3-regions.francetvinfo.fr/centre-val-de-loire/manifestations-du-1er-mai-salaires-grandes-fortunes-gaza-des-centaines-de-travailleurs-mobilises-en-centre-val-de-loire-2963537.html)
+append_entries: 1
+Finish: 2024-05-02 01:13:04.806558

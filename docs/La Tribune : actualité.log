@@ -262,3 +262,21 @@ Summarized using GPT-3.5-turbo
 Append: [L’IA, vorace en énergie, va-t-elle faire flamber la facture énergétique ?](https://www.latribune.fr/technos-medias/informatique/l-ia-vorace-en-energie-va-t-elle-faire-flamber-la-facture-energetique-996624.html)
 append_entries: 9
 Finish: 2024-05-01 12:45:20.146015
+------------------------------------------------------
+Started: 2024-05-02 01:16:08.154576
+Existing_entries: 72
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [Investissements étrangers : la France reste championne d’Europe de l’attractivité économique](https://www.latribune.fr/economie/france/investissements-etrangers-la-france-championne-d-europe-de-l-attractivite-economique-996602.html)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [Malgré le rebond de l'inflation, la Fed maintient ses taux échangés et écarte une hausse](https://www.latribune.fr/economie/international/malgre-le-rebond-de-l-inflation-la-fed-maintient-ses-taux-echanges-et-ecarte-une-hausse-996668.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [1er-Mai : des cortèges entre revendications salariales et soutien à la Palestine](https://www.latribune.fr/economie/france/1er-mai-des-corteges-entre-revendications-salariales-et-soutien-a-la-palestine-996664.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [La famille Mulliez (Auchan, Decathlon) visée par une enquête pour fraude fiscale](https://www.latribune.fr/entreprises-finance/services/distribution/la-famille-mulliez-auchan-decathlon-visee-par-une-enquete-pour-fraude-fiscale-996660.html)
+append_entries: 4
+Finish: 2024-05-02 01:16:25.299863

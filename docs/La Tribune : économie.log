@@ -205,3 +205,18 @@ Summarized using GPT-3.5-turbo
 Append: [Pourquoi la trajectoire de 1% de croissance promise par le gouvernement est possible](https://www.latribune.fr/economie/france/pourquoi-la-trajectoire-de-1-de-croissance-promise-par-le-gouvernement-est-possible-996635.html)
 append_entries: 2
 Finish: 2024-05-01 12:44:40.929821
+------------------------------------------------------
+Started: 2024-05-02 01:15:53.419540
+Existing_entries: 53
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [Investissements étrangers : la France reste championne d’Europe de l’attractivité économique](https://www.latribune.fr/economie/france/investissements-etrangers-la-france-championne-d-europe-de-l-attractivite-economique-996602.html)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [Malgré le rebond de l'inflation, la Fed maintient ses taux échangés et écarte une hausse](https://www.latribune.fr/economie/international/malgre-le-rebond-de-l-inflation-la-fed-maintient-ses-taux-echanges-et-ecarte-une-hausse-996668.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [1er-Mai : des cortèges entre revendications salariales et soutien à la Palestine](https://www.latribune.fr/economie/france/1er-mai-des-corteges-entre-revendications-salariales-et-soutien-a-la-palestine-996664.html)
+append_entries: 3
+Finish: 2024-05-02 01:16:07.684814

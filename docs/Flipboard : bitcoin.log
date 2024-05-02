@@ -189,3 +189,21 @@ Summarized using GPT-3.5-turbo
 Append: [La fièvre des ETF Bitcoin est-elle déjà tombée ? - Be-Crypto](https://be-crypto.lesoir.be/fr/marches/la-fievre-des-etf-bitcoin-est-elle-deja-tombee)
 append_entries: 5
 Finish: 2024-05-01 12:29:22.929015
+------------------------------------------------------
+Started: 2024-05-02 01:04:31.631242
+Existing_entries: 61
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Le fondateur de Binance, Changpeng Zhao, condamné à 4 mois de prison](https://www.begeek.fr/le-fondateur-de-binance-changpeng-zhao-condamne-a-4-mois-de-prison-396675)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Le bitcoin chute avant la Fed et face aux débuts timides d'un nouveau placement](https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-chute-avant-la-fed-et-face-aux-debuts-timides-d-un-nouveau-placement_AD-202405010586.html)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [La pression s'accentue cryptos: Le cours du bitcoin se casse la figure... mais que se passe-t-il?](https://www.blick.ch/fr/news/economie/la-pression-saccentue-cryptos-le-cours-du-bitcoin-se-casse-la-figure-mais-que-se-passe-t-il-id19696567.html)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Le Bitcoin dégringole depuis deux jours. Jusqu'où va-t-il tomber ?](https://www.clubic.com/actualite-525747-le-bitcoin-degringole-depuis-deux-jours-jusqu-ou-va-t-il-tomber.html)
+append_entries: 4
+Finish: 2024-05-02 01:04:51.490934

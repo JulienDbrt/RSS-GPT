@@ -90,3 +90,21 @@ Existing_entries: 18
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-01 12:41:40.543108
+------------------------------------------------------
+Started: 2024-05-02 01:13:30.391021
+Existing_entries: 18
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [REM: ralentissement de service pendant près de 50 minutes](https://www.journaldemontreal.com/2024/05/01/rem-ralentissement-de-service-sur-le-reseau)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Ouverture de portière sans précaution: 309 personnes victimes d’un «emportiérage» à Montréal](https://www.journaldemontreal.com/2024/05/01/ouverture-de-portiere-sans-precaution-309-personnes-victimes-dun-emportierage-a-montreal)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [800 millions pour les pistes cyclables : c’est trop pour ces citoyens](https://www.journaldemontreal.com/2024/04/30/800-millions-pour-les-pistes-cyclables--cest-trop-pour-ces-citoyens)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [La période de grâce pour le stationnement à Québec est terminée: les nouvelles bornes et l’application Copilote+ sont en fonction](https://www.journaldemontreal.com/2024/04/30/la-periode-de-grace-pour-le-stationnement-a-quebec-est-terminee-les-nouvelles-bornes-et-lapplication-copilote-sont-en-fonction-les-automobilistes-devront-sadapter-a-la-nouvelle-facon-de-faire)
+append_entries: 4
+Finish: 2024-05-02 01:13:38.436865

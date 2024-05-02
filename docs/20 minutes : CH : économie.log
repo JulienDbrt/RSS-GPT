@@ -150,3 +150,12 @@ Summarized using GPT-3.5-turbo
 Append: [Ex-roi des cryptomonnaies condamné à quatre mois de prison](https://www.20min.ch/fr/103095824)
 append_entries: 2
 Finish: 2024-05-01 12:34:27.611674
+------------------------------------------------------
+Started: 2024-05-02 01:08:40.682648
+Existing_entries: 48
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [L'Argentine refuse de vendre du kérozène aux avions cubains](https://www.20min.ch/fr/103096169)
+append_entries: 1
+Finish: 2024-05-02 01:08:44.364273

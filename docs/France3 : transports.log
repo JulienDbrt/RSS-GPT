@@ -201,3 +201,24 @@ Summarized using GPT-3.5-turbo
 Append: [Méfiez-vous : les arnaques au stationnement se multiplient, voici comment les éviter](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/mefiez-vous-les-arnaques-au-stationnement-se-multiplient-voici-comment-les-eviter-2961281.html)
 append_entries: 3
 Finish: 2024-05-01 12:41:40.216150
+------------------------------------------------------
+Started: 2024-05-02 01:13:05.146006
+Existing_entries: 65
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Ils rallient Caen à Bruxelles pour appeler à voter aux européennes](https://france3-regions.francetvinfo.fr/normandie/calvados/caen/en-images-ils-rallient-caen-a-bruxelles-pour-appeler-a-voter-aux-europeennes-2963540.html)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [Traversée du Béarn en Solex, premier tour de chauffe avant de monter à Paris pour les JO](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/traversee-du-bearn-en-solex-premier-tour-de-chauffe-avant-de-monter-a-paris-pour-les-jo-2963564.html)
+Token length: 395
+Summarized using GPT-3.5-turbo
+Append: ["On peut accepter cette hausse, mais il faut que la qualité augmente". Nouvelle augmentation des tarifs des transports à Bordeaux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/on-peut-accepter-cette-hausse-mais-il-faut-que-la-qualite-augmente-nouvelle-augmentation-des-tarifs-des-transports-a-bordeaux-2962772.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Un accident sur l'autoroute A9 provoque 5 km de bouchon entre Sète et Montpellier](https://france3-regions.francetvinfo.fr/occitanie/herault/sete/un-accident-sur-l-autroute-a9-provoque-5-km-de-bouchon-entre-sete-et-montpellier-2963543.html)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Le trafic SNCF interrompu entre Capdenac et Rodez, un glissement de terrain s'est produit à proximité des voies](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/le-trafic-sncf-interrompu-entre-capdenac-et-rodez-un-glissement-de-terrain-s-est-produit-a-proximite-des-voies-2963567.html)
+append_entries: 5
+Finish: 2024-05-02 01:13:20.648774

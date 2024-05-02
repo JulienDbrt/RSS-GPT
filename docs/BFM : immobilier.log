@@ -166,3 +166,9 @@ Append: [Découvrez les prix de l’immobilier à Aix-en-Provence au 1er mai 202
 Append: [Calais, Mulhouse: ces villes où les prix ont le plus progressé le mois dernier](https://www.bfmtv.com/immobilier/prix-immobilier/en-un-mois-les-prix-immobiliers-ont-chute-a-boulogne-sur-mer-quand-ils-se-sont-envoles-a-mulhouse_AN-202405010025.html)
 append_entries: 29
 Finish: 2024-05-01 12:37:42.401655
+------------------------------------------------------
+Started: 2024-05-02 01:10:48.824029
+Existing_entries: 66
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-05-02 01:10:48.939767
