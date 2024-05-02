@@ -207,3 +207,21 @@ Summarized using GPT-3.5-turbo
 Append: [Le Bitcoin dégringole depuis deux jours. Jusqu'où va-t-il tomber ?](https://www.clubic.com/actualite-525747-le-bitcoin-degringole-depuis-deux-jours-jusqu-ou-va-t-il-tomber.html)
 append_entries: 4
 Finish: 2024-05-02 01:04:51.490934
+------------------------------------------------------
+Started: 2024-05-02 12:29:36.887670
+Existing_entries: 65
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Fraude : ces secteurs dans le collimateur du gouvernement](https://www.lexpress.fr/economie/fraude-ces-secteurs-de-leconomie-dans-le-viseur-du-gouvernement-A6NPQBIKQZECBPAMFUF2JN44LU/)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [EXCLUSIF - Crypto-actifs : Bercy veut durcir les contrôles](https://www.lesechos.fr/economie-france/budget-fiscalite/exclusif-crypto-actifs-bercy-veut-durcir-les-controles-2092487)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Crypto : Voici pourquoi 60% des détenteurs Cardano perdent de l’argent !](https://www.cointribune.com/crypto-voici-pourquoi-60-des-detenteurs-cardano-perdent-de-largent/)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Comment installer un nœud Lightning sur un serveur ?](https://www.cointribune.com/comment-installer-un-noeud-lightning-sur-un-serveur/)
+append_entries: 4
+Finish: 2024-05-02 12:29:55.758272

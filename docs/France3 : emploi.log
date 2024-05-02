@@ -153,3 +153,18 @@ Summarized using GPT-3.5-turbo
 Append: [Manifestations du 1er-Mai : salaires, grandes fortunes, Gaza... des centaines de travailleurs mobilisés en Centre-Val de Loire](https://france3-regions.francetvinfo.fr/centre-val-de-loire/manifestations-du-1er-mai-salaires-grandes-fortunes-gaza-des-centaines-de-travailleurs-mobilises-en-centre-val-de-loire-2963537.html)
 append_entries: 1
 Finish: 2024-05-02 01:13:04.806558
+------------------------------------------------------
+Started: 2024-05-02 12:45:16.745332
+Existing_entries: 47
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Stellantis : l'usine de véhicules utilitaires d'Hordain pourrait reprendre du service le 7 mai](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/stellantis-l-usine-de-vehicules-utilitaires-d-hordain-pourrait-reprendre-du-service-le-7-mai-2963840.html)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [Social : "La direction nous méprise", les salariés d'un entrepôt de la grande distribution en grève, le site bloqué](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/social-la-direction-nous-meprise-les-salaries-d-un-entrepot-de-la-grande-distribution-en-greve-le-site-bloque-2963681.html)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: ["Il n'y a personne" : sans repreneur pour le Géant Casino, le centre commercial de Chenôve risque-t-il de couler ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/il-n-y-a-personne-sans-repreneur-pour-le-geant-casino-le-centre-commercial-de-chenove-risque-t-il-de-couler-2963111.html)
+append_entries: 3
+Finish: 2024-05-02 12:45:32.909504

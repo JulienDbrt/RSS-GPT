@@ -188,3 +188,27 @@ Summarized using GPT-3.5-turbo
 Append: [La caisse des écoles de la ville de Ducos recrute des agents polyvalents](https://www.martinique.franceantilles.fr/actualite/economie/la-caisse-des-ecoles-de-la-ville-de-ducos-recrute-des-agents-polyvalents-985713.php)
 append_entries: 1
 Finish: 2024-05-02 01:11:47.710946
+------------------------------------------------------
+Started: 2024-05-02 12:40:59.658177
+Existing_entries: 72
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [Macron reçoit les représentants du monde agricole pour solder la crise](https://www.martinique.franceantilles.fr/actualite/economie/macron-recoit-les-representants-du-monde-agricole-pour-solder-la-crise-985804.php)
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [Orages : une femme tuée par une coulée de boue dans l'Aisne](https://www.martinique.franceantilles.fr/actualite/economie/orages-une-femme-tuee-par-une-coulee-de-boue-dans-laisne-985810.php)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Le bilan de l'effondrement d'une autoroute en Chine monte à 48 morts](https://www.martinique.franceantilles.fr/actualite/economie/le-bilan-de-leffondrement-dune-autoroute-en-chine-monte-a-48-morts-985808.php)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Air Caraïbes relance son offre en direction des jeunes](https://www.martinique.franceantilles.fr/actualite/economie/air-caraibes-relance-son-offre-en-direction-des-jeunes-985725.php)
+Token length: 44
+Summarized using GPT-3.5-turbo
+Append: [La Liat 2020 pourrait démarrer ses vols en juin](https://www.martinique.franceantilles.fr/actualite/economie/la-liat-2020-pourrait-demarrer-ses-vols-en-juin-985730.php)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Effondrement d'une autoroute en Chine: nouveau bilan de 36 morts](https://www.martinique.franceantilles.fr/actualite/economie/effondrement-dune-autoroute-en-chine-nouveau-bilan-de-36-morts-985807.php)
+append_entries: 6
+Finish: 2024-05-02 12:41:29.992363

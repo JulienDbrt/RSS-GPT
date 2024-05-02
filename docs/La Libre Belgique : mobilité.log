@@ -146,3 +146,9 @@ Summarized using GPT-3.5-turbo
 Append: [Des radars “fous” sur le ring d’Anvers : tous les conducteurs ont été flashés ce mercredi](https://www.lalibre.be/belgique/mobilite/2024/05/01/des-radars-fous-sur-le-ring-danvers-tous-les-conducteurs-ont-ete-flashes-ce-mercredi-OMF3RNNZOJHLHLXDE6TYRAGYKU/)
 append_entries: 1
 Finish: 2024-05-02 01:15:53.390300
+------------------------------------------------------
+Started: 2024-05-02 12:51:21.232344
+Existing_entries: 64
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-02 12:51:21.924364

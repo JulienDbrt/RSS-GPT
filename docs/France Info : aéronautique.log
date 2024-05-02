@@ -98,3 +98,9 @@ Summarized using GPT-3.5-turbo
 Append: [Orages en Ile-de-France : le trafic aérien à Orly et Roissy perturbé](https://www.francetvinfo.fr/meteo/orages/orages-en-ile-de-france-le-trafic-aerien-a-orly-et-roissy-perturbe_6520280.html)
 append_entries: 1
 Finish: 2024-05-02 01:12:26.278654
+------------------------------------------------------
+Started: 2024-05-02 12:42:19.405664
+Existing_entries: 22
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-05-02 12:42:19.486865

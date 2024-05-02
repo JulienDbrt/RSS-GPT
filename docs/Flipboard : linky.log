@@ -117,3 +117,12 @@ Summarized using GPT-3.5-turbo
 Append: [Votre facture d'électricité est trop élevée ? Vérifiez que votre compteur Linky calcule correctement votre consommation](https://www.journaldunet.com/iot/1528219-cgm1-linky/)
 append_entries: 1
 Finish: 2024-05-02 01:06:24.442608
+------------------------------------------------------
+Started: 2024-05-02 12:32:14.445574
+Existing_entries: 35
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Les fraudes au compteur Linky se multiplient et ça peut vous couter très cher !](https://www.journaldugeek.com/2024/03/11/les-fraudes-au-compteur-linky-se-multiplient-et-ca-peut-vous-couter-tres-cher/)
+append_entries: 1
+Finish: 2024-05-02 12:32:19.001786

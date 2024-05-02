@@ -114,3 +114,15 @@ Summarized using GPT-3.5-turbo
 Append: [Manifestations du 1er mai. "Les richesses, elles sont dirigées directement vers les actionnaires"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/manifestations-du-1er-mai-les-richesses-elles-sont-dirigees-directement-vers-les-actionnaires-2963519.html)
 append_entries: 1
 Finish: 2024-05-02 01:13:01.319709
+------------------------------------------------------
+Started: 2024-05-02 12:45:04.438310
+Existing_entries: 34
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [La Sica ouvre une nouvelle endiverie  : "simplifier les choses pour les producteurs et approvisionner le marché local"](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/la-sica-ouvre-une-nouvelle-endiverie-simplifier-les-choses-pour-les-producteurs-et-approvisionner-le-marche-local-2963792.html)
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [Rennes Métropole recherche des porteurs de projets en agriculture bio](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/rennes-metropole-recherche-des-porteurs-de-projets-en-agriculture-bio-2963366.html)
+append_entries: 2
+Finish: 2024-05-02 12:45:16.721813

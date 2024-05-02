@@ -132,3 +132,15 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF: comment fonctionne le service "Junior & Cie" dédié aux enfants qui voyagent seuls en train?](https://www.bfmtv.com/economie/entreprises/transports/sncf-comment-fonctionne-le-service-junior-cie-dedie-aux-enfants-qui-voyagent-seuls-en-train_AV-202405010392.html)
 append_entries: 1
 Finish: 2024-05-02 01:10:54.868866
+------------------------------------------------------
+Started: 2024-05-02 12:39:26.452959
+Existing_entries: 40
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Orages: quels sont vos droits si votre avion a dû être dérouté?](https://www.bfmtv.com/economie/entreprises/transports/orages-quels-sont-vos-droits-si-votre-avion-a-du-etre-deroute_AV-202405020389.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Orages: sur Flight Radar, les trajectoires des vols déroutés montrent la pagaille à Orly et Roissy](https://www.bfmtv.com/economie/entreprises/transports/orages-sur-flight-radar-les-trajectoires-des-vols-deroutes-montrent-la-pagaille-a-orly-et-roissy_AV-202405020347.html)
+append_entries: 2
+Finish: 2024-05-02 12:39:35.939682

@@ -159,3 +159,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'Argentine refuse de vendre du kérozène aux avions cubains](https://www.20min.ch/fr/103096169)
 append_entries: 1
 Finish: 2024-05-02 01:08:44.364273
+------------------------------------------------------
+Started: 2024-05-02 12:35:30.616984
+Existing_entries: 49
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-05-02 12:35:32.117784

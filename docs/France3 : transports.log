@@ -222,3 +222,27 @@ Summarized using GPT-3.5-turbo
 Append: [Le trafic SNCF interrompu entre Capdenac et Rodez, un glissement de terrain s'est produit à proximité des voies](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/le-trafic-sncf-interrompu-entre-capdenac-et-rodez-un-glissement-de-terrain-s-est-produit-a-proximite-des-voies-2963567.html)
 append_entries: 5
 Finish: 2024-05-02 01:13:20.648774
+------------------------------------------------------
+Started: 2024-05-02 12:45:38.146681
+Existing_entries: 70
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [Fermeture de l’A13 : le péage de l’A14 pris en charge à 50% par l’Etat pour le covoiturage](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/fermeture-de-l-a13-le-peage-de-l-a14-pris-en-charge-a-50-par-l-etat-pour-le-covoiturage-2963927.html)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: ["Désengorger le centre-ville " : après plusieurs mois de travaux, la déviation d'Aixe-sur-Vienne ouvre à la circulation](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/desengorger-le-centre-ville-apres-plusieurs-mois-de-travaux-la-deviation-d-aixe-sur-vienne-ouvre-a-la-circulation-2963831.html)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [Orages : parti de Marseille, un avion A320 fait demi-tour à cause de la tempête après avoir tourné en rond plusieurs fois](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/intemperies-partis-de-marseille-les-passagers-d-un-vol-pour-paris-atterrissent-a-marseille-2963783.html)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [Médecins par avion de Dijon à Nevers : fort de leur succès, les "flying doctors" pérennisés](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/nevers/medecins-par-avion-de-dijon-a-nevers-fort-de-leur-succes-les-flying-doctors-perennises-2963747.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Orages : le RER D interrompu, une quarantaine de vols déroutés de Roissy et Orly](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/orages-le-rer-d-interrompu-une-quarantaine-de-vols-deroutes-de-roissy-et-orly-2963720.html)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [RER E : la nouvelle gare de Nanterre-la-Folie desservie à partir de lundi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/rer-e-la-nouvelle-gare-de-nanterre-la-folie-desservie-a-partir-de-lundi-2963687.html)
+append_entries: 6
+Finish: 2024-05-02 12:46:01.044044

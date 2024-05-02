@@ -108,3 +108,18 @@ Summarized using GPT-3.5-turbo
 Append: [La période de grâce pour le stationnement à Québec est terminée: les nouvelles bornes et l’application Copilote+ sont en fonction](https://www.journaldemontreal.com/2024/04/30/la-periode-de-grace-pour-le-stationnement-a-quebec-est-terminee-les-nouvelles-bornes-et-lapplication-copilote-sont-en-fonction-les-automobilistes-devront-sadapter-a-la-nouvelle-facon-de-faire)
 append_entries: 4
 Finish: 2024-05-02 01:13:38.436865
+------------------------------------------------------
+Started: 2024-05-02 12:46:28.739234
+Existing_entries: 22
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Des centaines d'élèves sans transport scolaire pendant un mois dans Lanaudière](https://www.journaldemontreal.com/2024/05/02/apres-montreal-laval-quebec-et-lestrie-des-chauffeurs-dautobus-scolaires-dans-lanaudiere-declenchent-une-greve)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Retard dans les travaux: lumière au bout du tunnel pour la «colonne vertébrale» du REM](https://www.journaldemontreal.com/2024/05/01/retard-dans-les-travaux-lumiere-au-bout-du-tunnel-pour-la-colonne-vertebrale-du-rem)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Métro de Montréal: le service sur la ligne verte interrompu en pleine heure de pointe pour une deuxième fois cette semaine](https://www.journaldemontreal.com/2024/05/01/metro-de-montreal-le-service-sur-la-ligne-verte-interrompu-en-pleine-heure-de-pointe-pour-une-deuxieme-fois-cette-semaine)
+append_entries: 3
+Finish: 2024-05-02 12:46:42.453284

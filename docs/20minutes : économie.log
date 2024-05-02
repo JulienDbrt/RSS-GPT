@@ -137,3 +137,21 @@ Existing_entries: 35
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-05-02 01:08:44.909209
+------------------------------------------------------
+Started: 2024-05-02 12:35:32.135291
+Existing_entries: 35
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [Nutri-Score : Le bien-être animal bientôt considéré dans nos assiettes ?](https://www.20minutes.fr/actu-generale/economie/4089268-20240502-nutri-score-bien-etre-animal-bientot-considere-assiettes)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Spécialiste en agriculture urbaine, un pro de l’adaptabilité](https://www.20minutes.fr/emploi/4088730-20240502-specialiste-agriculture-urbaine-pro-adaptabilite)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [Toute l’info en 2 minutes : Violents orages, la France au top de l’attractivité et le PSG dos au mur](https://www.20minutes.fr/societe/4089257-20240502-toute-info-2-minutes-violents-orages-france-top-attractivite-psg-dos-mur)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Attractivité économique : Pour la 5e fois consécutive, la France championne d’Europe des investissements étrangers](https://www.20minutes.fr/economie/4089253-20240502-attractivite-economique-5e-fois-consecutive-france-championne-europe-investissements-etrangers)
+append_entries: 4
+Finish: 2024-05-02 12:35:51.491198

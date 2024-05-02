@@ -152,3 +152,24 @@ Summarized using GPT-3.5-turbo
 Append: [Orages en Ile-de-France : le trafic aérien à Orly et Roissy perturbé](https://www.francetvinfo.fr/meteo/orages/orages-en-ile-de-france-le-trafic-aerien-a-orly-et-roissy-perturbe_6520280.html)
 append_entries: 1
 Finish: 2024-05-02 01:12:33.869072
+------------------------------------------------------
+Started: 2024-05-02 12:42:26.284638
+Existing_entries: 40
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 74
+Summarized using GPT-3.5-turbo
+Append: [Réforme des retraites : l'accord trouvé à la SNCF sur les fins de carrière "n'est pas satisfaisant", selon Bruno Le Maire](https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-l-accord-trouve-a-la-sncf-n-est-pas-satisfaisant-selon-bruno-le-maire_6520655.html)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Eurozapping : le Danemark renforce sa conscription](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/eurozapping-le-danemark-renforce-sa-conscription_6520640.html)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Une quarantaine de vols déroutés mercredi soir à Orly et Roissy à cause des orages](https://www.francetvinfo.fr/meteo/orages/une-quarantaine-de-vols-deroutes-mercredi-soir-a-orly-et-roissy-a-cause-des-orages_6520517.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : un appel à la grève à la SNCF pour le 21 mai](https://www.francetvinfo.fr/economie/transports/sncf/greve-a-la-sncf/paris-2024-un-appel-a-la-greve-a-la-sncf-pour-le-21-mai_6520433.html)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Parc des Princes, Roland-Garros... Comment la ligne 9 du métro parisien se prépare avant les Jeux olympiques](https://www.francetvinfo.fr/les-jeux-olympiques/parc-des-princes-roland-garros-comment-la-ligne-9-du-metro-parisien-se-prepare-avant-les-jeux-olympiques_6518963.html)
+append_entries: 5
+Finish: 2024-05-02 12:42:51.365203

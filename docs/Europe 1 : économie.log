@@ -128,3 +128,18 @@ Summarized using GPT-3.5-turbo
 Append: [Le groupe Bolloré envisage la construction d'une méga-usine de batteries dans l'est de la France](https://www.europe1.fr/economie/le-groupe-bollore-envisage-la-construction-dune-mega-usine-de-batteries-dans-lest-de-la-france-4244628)
 append_entries: 1
 Finish: 2024-05-02 01:11:43.183722
+------------------------------------------------------
+Started: 2024-05-02 12:40:47.256401
+Existing_entries: 32
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [La France championne d'Europe de l'attractivité économique pour la cinquième année consécutive](https://www.europe1.fr/economie/attractivite-de-la-france-lhexagone-seduit-toujours-autant-les-investisseurs-etrangers-4244643)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Bruno Le Maire «se battra» contre une cotation boursière principale à New York de TotalEnergies](https://www.europe1.fr/economie/bruno-le-maire-se-battra-contre-une-cotation-boursiere-principale-a-new-york-de-totalenergies-4244754)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [JO-2024 : menace de grève des éboueurs, qui réclament les mêmes avantages que les autres fonctionnaires](https://www.europe1.fr/economie/jo-2024-menace-de-greve-des-eboueurs-ils-reclament-les-memes-avantages-que-les-autres-fonctionnaires-4244672)
+append_entries: 3
+Finish: 2024-05-02 12:40:59.626453
