@@ -123,3 +123,12 @@ Summarized using GPT-3.5-turbo
 Append: [Métro de Montréal: le service sur la ligne verte interrompu en pleine heure de pointe pour une deuxième fois cette semaine](https://www.journaldemontreal.com/2024/05/01/metro-de-montreal-le-service-sur-la-ligne-verte-interrompu-en-pleine-heure-de-pointe-pour-une-deuxieme-fois-cette-semaine)
 append_entries: 3
 Finish: 2024-05-02 12:46:42.453284
+------------------------------------------------------
+Started: 2024-05-03 01:19:52.917791
+Existing_entries: 25
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Plus de monde dans les transports à Montréal, mais aussi plus de plaintes](https://www.journaldemontreal.com/2024/05/02/plus-de-monde-dans-les-transports-a-montreal-mais-aussi-plus-de-plaintes)
+append_entries: 1
+Finish: 2024-05-03 01:19:54.197380

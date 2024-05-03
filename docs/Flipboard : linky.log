@@ -126,3 +126,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les fraudes au compteur Linky se multiplient et ça peut vous couter très cher !](https://www.journaldugeek.com/2024/03/11/les-fraudes-au-compteur-linky-se-multiplient-et-ca-peut-vous-couter-tres-cher/)
 append_entries: 1
 Finish: 2024-05-02 12:32:19.001786
+------------------------------------------------------
+Started: 2024-05-03 01:10:13.037664
+Existing_entries: 36
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-05-03 01:10:15.832159

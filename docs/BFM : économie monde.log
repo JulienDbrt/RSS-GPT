@@ -132,3 +132,12 @@ Summarized using GPT-3.5-turbo
 Append: [Etats-Unis: la Fed laisse ses taux inchangés et annonce qu'elle dégonflera moins vite son bilan dès juin](https://www.bfmtv.com/economie/international/etats-unis-la-fed-maintient-ses-taux-dans-une-fourchette-de-5-25-a-5-50_AD-202405010619.html)
 append_entries: 5
 Finish: 2024-05-02 12:37:08.855876
+------------------------------------------------------
+Started: 2024-05-03 01:14:32.275507
+Existing_entries: 38
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [La Turquie suspend toute relation commerciale avec Israël](https://www.bfmtv.com/economie/international/la-turquie-suspend-toute-relation-commerciale-avec-israel_AD-202405020994.html)
+append_entries: 1
+Finish: 2024-05-03 01:14:38.318434

@@ -246,3 +246,24 @@ Summarized using GPT-3.5-turbo
 Append: [RER E : la nouvelle gare de Nanterre-la-Folie desservie à partir de lundi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/rer-e-la-nouvelle-gare-de-nanterre-la-folie-desservie-a-partir-de-lundi-2963687.html)
 append_entries: 6
 Finish: 2024-05-02 12:46:01.044044
+------------------------------------------------------
+Started: 2024-05-03 01:19:21.934418
+Existing_entries: 76
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Une semaine sans train en gare de Chaumont, les usagers désemparés : "on ne nous donne aucune nouvelle"](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/chaumont/une-semaine-sans-train-en-gare-de-chaumont-les-usagers-desempares-on-ne-nous-donne-aucune-nouvelle-2964020.html)
+Token length: 497
+Summarized using GPT-3.5-turbo
+Append: [Cyberattaque à l'hôpital de Cannes : Trois questions à un expert en cybercriminalité pour comprendre la fuite de données confidentielles](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/cyberattaque-a-l-hopital-de-cannes-trois-questions-a-un-expert-en-cybercriminalite-pour-comprendre-la-fuite-de-donnees-confidentielles-2963786.html)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Rouler seul sur les voies de covoiturage pourra vous coûter 135 euros dans la métropole de Lyon](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/rouler-seul-sur-les-voies-de-covoiturage-pourra-vous-couter-135-euros-dans-la-metropole-de-lyon-2900906.html)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : un appel à la grève à la SNCF pour le 21 mai en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-un-appel-a-la-greve-a-la-sncf-pour-le-21-mai-en-ile-de-france-2963948.html)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [Tentative de suicide sur l’A9 : les gendarmes ont utilisé son chien pour convaincre la victime de ne pas sauter du pont de l'autoroute](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/tentative-de-suicide-sur-l-a9-les-gendarmes-ont-utilise-son-chien-pour-convaincre-la-victime-de-ne-pas-sauter-du-pont-de-l-autoroute-2963867.html)
+append_entries: 5
+Finish: 2024-05-03 01:19:43.766068

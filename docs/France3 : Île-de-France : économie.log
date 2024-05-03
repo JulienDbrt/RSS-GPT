@@ -153,3 +153,12 @@ Summarized using GPT-3.5-turbo
 Append: [RER E : la nouvelle gare de Nanterre-la-Folie desservie à partir de lundi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/rer-e-la-nouvelle-gare-de-nanterre-la-folie-desservie-a-partir-de-lundi-2963687.html)
 append_entries: 4
 Finish: 2024-05-02 12:44:14.261038
+------------------------------------------------------
+Started: 2024-05-03 01:18:45.168353
+Existing_entries: 45
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : un appel à la grève à la SNCF pour le 21 mai en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-un-appel-a-la-greve-a-la-sncf-pour-le-21-mai-en-ile-de-france-2963948.html)
+append_entries: 1
+Finish: 2024-05-03 01:18:47.400530

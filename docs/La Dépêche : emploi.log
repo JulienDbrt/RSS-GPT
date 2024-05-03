@@ -163,3 +163,18 @@ Summarized using GPT-3.5-turbo
 Append: [L’école des métiers du Lot ouvre ses portes aux jeunes](https://www.ladepeche.fr/2024/05/02/lecole-des-metiers-du-lot-ouvre-ses-portes-aux-jeunes-11925467.php)
 append_entries: 5
 Finish: 2024-05-02 12:50:15.883225
+------------------------------------------------------
+Started: 2024-05-03 01:21:37.454432
+Existing_entries: 45
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Dernier stop pour Railcoop : le tribunal de commerce a prononcé la liquidation judiciaire](https://www.ladepeche.fr/2024/05/02/video-dernier-stop-pour-railcoop-le-tribunal-de-commerce-a-prononce-la-liquidation-judiciaire-11925982.php)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. Ils rêvent de fabriquer un convoi de roulottes écologiques, tractées par des chevaux](https://www.ladepeche.fr/2024/05/02/video-ils-revent-de-fabriquer-un-convoi-de-roulottes-ecologiques-tractees-par-des-chevaux-11926200.php)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Une drôle de méthode employée sur un aéroport de la banlieue toulousaine pour en évaluer la faune et la flore](https://www.ladepeche.fr/2024/05/02/une-drole-de-methode-employee-sur-un-aeroport-de-la-banlieue-toulousaine-pour-en-evaluer-la-faune-et-la-flore-11926194.php)
+append_entries: 3
+Finish: 2024-05-03 01:21:47.467312

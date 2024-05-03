@@ -126,3 +126,9 @@ Summarized using GPT-3.5-turbo
 Append: [Rennes Métropole recherche des porteurs de projets en agriculture bio](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/rennes-metropole-recherche-des-porteurs-de-projets-en-agriculture-bio-2963366.html)
 append_entries: 2
 Finish: 2024-05-02 12:45:16.721813
+------------------------------------------------------
+Started: 2024-05-03 01:19:16.736144
+Existing_entries: 36
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-03 01:19:17.161284

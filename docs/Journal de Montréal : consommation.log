@@ -133,3 +133,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle escroquerie de pourboires: attention aux montants des options sur le terminal](https://www.journaldemontreal.com/2024/05/01/nouvelle-escroquerie-de-pourboires-attention-aux-montants-des-options-sur-le-terminal)
 append_entries: 6
 Finish: 2024-05-02 12:46:28.727876
+------------------------------------------------------
+Started: 2024-05-03 01:19:43.781139
+Existing_entries: 27
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [Victimes ciblées sur Facebook: deux vendeurs bidon de thermopompes démasqués et condamnés](https://www.journaldemontreal.com/2024/05/02/clients-cibles-sur-facebook-deux-vendeurs-bidon-de-thermopompes-demasques-et-condamnes)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Ne consommez aucun des produits préparés par cette boucherie](https://www.journaldemontreal.com/2024/05/01/ne-consommez-aucun-des-produits-prepares-par-cette-boucherie)
+append_entries: 2
+Finish: 2024-05-03 01:19:52.904671

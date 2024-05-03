@@ -5,12 +5,403 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Faille Android – L’attaque Dirty Stream met en danger vos apps</title>
+<link>https://korben.info/faille-android-attaque-dirty-stream-met-en-danger-vos-apps.html</link>
+<guid>https://korben.info/faille-android-attaque-dirty-stream-met-en-danger-vos-apps.html</guid>
+<content:encoded><![CDATA[
+<div> sécurité, Android, applications, Dirty Stream, correctifs <br>
+<br>
+Summary: 
+Dirty Stream est une faille de sécurité affectant plus de 4 milliards d'installations d'applications Android, permettant à une app malveillante d'écrire et d'exécuter du code dans le répertoire d'une autre app. Des correctifs ont été déployés pour corriger cette vulnérabilité, mais 20% des apps Android restent vulnérables. Pour se protéger, il est recommandé de mettre à jour ses apps via le Google Play Store, de vérifier les permissions des apps installées et d'éviter les applications provenant de stores alternatifs ou d'APK non fiables. Les développeurs Android doivent également suivre certaines bonnes pratiques pour renforcer la sécurité de leurs applications, telles que ignorer le nom retourné par le fournisseur de fichiers distant lors de la mise en cache du contenu reçu et utiliser des noms de fichiers générés aléatoirement. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Google_Android_Robot_green_color_Dirty_Stream_hacker_pre_2785b7ff-4386-46a8-ae04-981e6b7f3417.webp" width="1920" /></p>
+<p>Mauvaise nouvelle, <a href="https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/" rel="noopener" target="_blank">Microsoft vient de mettre en lumière une faille bien vicieuse</a> qui se planque dans un paquet d&rsquo;applications Android&#8230; enfin, quand je dis un paquet, je parle quand même de plus de 4 milliards d&rsquo;installations concernées.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1085783791" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Cette saleté, baptisée « <strong>Dirty Stream</strong>« , permet à une app malveillante d&rsquo;écrire tranquillou dans le répertoire d&rsquo;une autre app et d&rsquo;exécuter du code comme bon lui semble.</p>
+
+
+
+<p>Mais comment c&rsquo;est possible ce bazar ? </p>
+
+
+
+<p>Eh bien figurez-vous que sous Android, les apps peuvent partager des données entre elles grâce à un système de « fournisseur de contenu ». Jusque là, tout va bien, sauf que certains petits malins ont trouvé le moyen de contourner les contrôles de sécurité en utilisant des « <a href="https://developer.android.com/guide/app-actions/custom-intents?hl=fr" rel="noopener" target="_blank">intents personnalisés</a> » mal ficelées.</p>
+
+
+
+<p>En clair, une app malveillante envoie un fichier avec un nom ou un chemin trafiqué à une app légitime qui, sans méfiance, l&rsquo;exécute ou le stocke gentiment dans l&rsquo;un de ses dossiers critiques. Et paf, l&rsquo;attaquant peut alors faire mumuse avec les données de l&rsquo;app cible, voler des infos sensibles comme les identifiants SMB et FTP stockés dans le fichier <code>rmt_i.properties</code>, ou carrément prendre le contrôle de l&rsquo;app. Bref, c&rsquo;est le boxon.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159888" height="249" src="https://korben.info/app/uploads/2024/05/Figure-2.-Dirty-stream-attack-2048x498-1-1024x249.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1395967089" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et le pire, c&rsquo;est que ce genre de boulettes est monnaie courante. Les chercheurs de Microsoft ont épinglé plusieurs apps populaires, comme le gestionnaire de fichiers de Xiaomi (1 milliard d&rsquo;installations, tout de même) qui utilise un chemin spécifique <code>/files/lib</code> pour sauvegarder les fichiers, ce qui peut être détourné par un attaquant. Autant dire que ça fait un sacré paquet de téléphones exposés.</p>
+
+
+
+<p>Heureusement, après avoir prévenu Google et les éditeurs concernés, des correctifs ont été déployés en vitesse. Mais ça la fout mal surtout quand on sait que selon l&rsquo;équipe de recherche sur la sécurité des applications Android de Google, 20% des apps Android seraient vulnérables à ce type d&rsquo;attaque. Ouch !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159890" height="369" src="https://korben.info/app/uploads/2024/05/Figure-16.-Getting-remote-access-to-local-shares-1-2048x738-2-1024x369.webp" width="1024" /></figure></div>
+
+
+<p><strong>Alors, que faire pour se protéger ?</strong></p>
+
+
+
+<p>Et bien commencez par mettre à jour vos apps via le Google Play Store, à vérifier les permissions des app installées et surtout évitez d&rsquo;installer des appli louches surtout si ça vient d&rsquo;un store alternatif ou un APK tombé du camion. Et si vous êtes dev Android, il va falloir blinder vos apps en suivant ces bonnes pratiques :</p>
+
+
+
+<ul>
+<li>Ignorer le nom retourné par le fournisseur de fichiers distant lors de la mise en cache du contenu reçu</li>
+
+
+
+<li>Utiliser des noms générés aléatoirement ou assainir le nom de fichier avant d&rsquo;écrire un fichier en cache  </li>
+
+
+
+<li>Vérifier que le fichier en cache se trouve dans un répertoire dédié avant d&rsquo;effectuer une opération d&rsquo;écriture</li>
+
+
+
+<li>Utiliser <code>File.getCanonicalPath</code> et valider le préfixe de la valeur retournée pour s&rsquo;assurer que le fichier est au bon endroit</li>
+</ul>
+
+
+
+<p>Voilà, vous savez tout pour ne pas vous faire dirty streamer dans les grandes largeurs !</p>
+
+
+
+<p><a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-dirty-stream-attack-impacting-android-apps/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 18:13:04 +0000</pubDate>
+<pubDate>Thu, 02 May 2024 18:13:04 +0000</pubDate>
+</item>
+<item>
+<title>Bercy part en chasse aux crypto-fraudeurs grâce à l’IA</title>
+<link>https://korben.info/bercy-chasse-crypto-fraudeurs-intelligence-artificielle.html</link>
+<guid>https://korben.info/bercy-chasse-crypto-fraudeurs-intelligence-artificielle.html</guid>
+<content:encoded><![CDATA[
+<div> délai de reprise, contrôles renforcés, sanctions, intelligence artificielle, fraude
+
+Summary:<br><br>
+Le ministère de l'Économie prévoit de renforcer la lutte contre la fraude fiscale liée aux cryptomonnaies, avec un focus sur les crypto-actifs. Seulement un faible pourcentage de Français déclare leurs cryptos au fisc, engendrant des pertes considérables. Bercy prévoit d'intensifier les contrôles et les sanctions, s'appuyant sur l'intelligence artificielle pour détecter les fraudes. Des chercheurs ont développé des modèles d'IA capables d'analyser les transactions sur la blockchain Bitcoin pour repérer les schémas de blanchiment d'argent. Bercy travaille activement pour perfectionner ses méthodes de détection, bien que des erreurs aient été commises par le passé. Il est recommandé aux détenteurs de cryptomonnaies de régulariser leur situation avant d'être confrontés aux mesures coercitives de Bercy. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Un_ministre_de_leconomie_et_des_finances_qui_poursuit_un_aa978ea8-9add-477a-ad35-6786f36e40cc.webp" width="1456" /></p>
+<p>Attention, arnaqueurs et fraudeurs de crypto en tout genre, Big Brother Bercy vous surveille ! Le ministère de l&rsquo;Économie s&rsquo;apprête à dégainer un nouveau texte de loi antifraude, avec un focus particulier sur ces fameux <strong>crypto-actifs</strong> qui font tant fantasmer.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-487594759" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Le problème, c&rsquo;est que visiblement, pas mal de petits malins se croient plus intelligents que l&rsquo;administration fiscale. Sur les quelques 5 millions de Français qui joueraient avec des cryptos selon la BCE, seuls 150 000 auraient daigné le déclarer au fisc. Oups, il y a comme qui dirait un petit décalage&#8230; Selon Thomas Cazenave, ministre délégué chargé des Comptes publics, environ 400 millions d&rsquo;euros de fraudes ont été constatées rien que pour le dispositif MaPrimeRénov, destiné à encourager la rénovation énergétique des logements.</p>
+
+
+
+<p>Du coup, Bercy sort l&rsquo;artillerie lourde et compte bien aligner les contrôles sur les cryptos avec ce qui se fait déjà pour les comptes à l&rsquo;étranger. Au programme : des délais de reprise rallongés, des contrôles renforcés et des sanctions qui vont faire mal au portefeuille. Fini de jouer au plus malin avec le fisc !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-159876" height="574" src="https://korben.info/app/uploads/2024/05/manu23_Un_ministre_de_leconomie_et_des_finances_qui_poursuit_un_184696db-9f28-4462-920e-9442f863f9cb-1024x574.webp" style="width: 644px; height: auto;" width="1024" /></figure></div>
+
+
+<p>Et pour traquer les tricheurs, Bercy mise sur un allié de choix : l&rsquo;intelligence artificielle ! Comme l&rsquo;explique <a href="https://decrypt.co/229030/heres-how-ai-can-detect-money-laundering-on-bitcoin" rel="noopener" target="_blank">cet article de Decrypt</a>, des chercheurs ont prouvé qu&rsquo;un modèle d&rsquo;IA bien entraîné pouvait rapidement scanner l&rsquo;immense blockchain Bitcoin et y détecter des schémas de blanchiment d&rsquo;argent. Une aubaine pour les services fiscaux !</p>
+
+
+
+<p>Concrètement, l&rsquo;IA va apprendre à reconnaître les transactions légitimes et louches, puis suivre les liens entre les portefeuilles suspects pour mettre à jour des réseaux de fraude. Une analyse de masse qui serait impossible humainement vu le volume de données de la blockchain.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-127753254" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Évidemment, rien ne dit que Bercy utilisera exactement cette technique, mais une chose est sûre : les geeks de Bercy bossent dur pour ne rien laisser passer. Personnellement, j&rsquo;espère juste que leur algo de traque aux cryptos frauduleuses sera un poil plus efficace que celui utilisé pour détecter les piscines non déclarées. Parce que pour le coup, c&rsquo;était un beau ratage&#8230; Un nombre incalculable de fausses piscines détectées, des tonnes de réclamations, <a href="https://www.01net.com/actualites/quand-le-fisc-boit-la-tasse-une-piscine-sur-trois-detectee-par-lia-ne-serait-pas-imposable.html" rel="noopener" target="_blank">bref la lose</a>.</p>
+
+
+
+<p>Mais bon, gardons espoir. Peut-être que Bercy va nous pondre un modèle d&rsquo;IA révolutionnaire capable de déceler la moindre petite fraude crypto, tout en épargnant les honnêtes citoyens (J&rsquo;ai des doutes). Qui sait, on aura peut-être même droit à un petit chatbot sympa façon ChatGPT qui nous guidera gentiment dans nos déclarations de cryptos. « <em>Bonjour, je suis Bercy-GPT, votre assistant fiscal bienveillant. Déclarez-moi tous vos bitcoins, et promis, pas d&rsquo;amende !</em> » Bon, j&rsquo;avoue, j&rsquo;ai aussi des doutes&#8230;</p>
+
+
+
+<p>En attendant, un conseil les amis : si vous avez des cryptos planqués sous le matelas numérique, c&rsquo;est peut-être le moment de régulariser votre situation avant que Bercy-GPT ne vous tombe dessus. Sinon, gare aux nunchakus fiscaux de Bercy !</p>
+
+
+
+<p><a href="https://www.lefigaro.fr/economie/fraude-le-gouvernement-prepare-de-nouvelles-mesures-pour-l-automne-20240501" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 16:33:15 +0000</pubDate>
+<pubDate>Thu, 02 May 2024 16:33:15 +0000</pubDate>
+</item>
+<item>
+<title>Éliminez les publicités de Windows 11 avec OFGB (Oh Frick Go Back)</title>
+<link>https://korben.info/eliminez-publicites-windows-11-avec-ofgb.html</link>
+<guid>https://korben.info/eliminez-publicites-windows-11-avec-ofgb.html</guid>
+<content:encoded><![CDATA[
+<div> GitHub, OFGB, publicités, Windows, open-source
+Summary:
+OFGB est un outil gratuit et open-source conçu pour éliminer les publicités intrusives sur Windows 11. Il permet de supprimer les suggestions publicitaires du menu Démarrer, les conseils inutiles dans les paramètres, les pubs sur l'écran de verrouillage et dans l'explorateur de fichiers. En téléchargeant et en exécutant OFGB, les utilisateurs peuvent désactiver ces différentes options publicitaires en toute simplicité. Le développeur d'OFGB, xMaddy, assure des mises à jour pour contrer de potentielles nouvelles pubs. De plus, étant open-source, les contributeurs peuvent améliorer l'outil s'ils ont des compétences en développement. OFGB offre ainsi une solution efficace pour nettoyer Windows 11 de ces publicités gênantes et envahissantes. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="408" src="https://korben.info/app/uploads/2024/05/SCR-20240502-p8u.jpeg" width="728" /></p>
+<p>Vous savez, ce bon vieux <strong>Windows 11</strong>, c&rsquo;est vraiment un super OS ^^&#8230; Mais ces satanées pubs qui s&rsquo;incrustent partout, ça commence à être bien relou. Vous ouvrez le menu Démarrer pour lancer un programme, et PAF ! Une pub sauvage apparaît ! Vous farfouillez dans l&rsquo;explorateur de fichiers, et re-PAF ! Encore une pub ! C&rsquo;est à se taper la tête contre les murs (non, ne faites pas ça ^^).</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-613873918" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais attendez, ne sortez pas encore vos tronçonneuses pour détruire de rage votre PC car je vous ai dégoté un petit outil qui va nous sortir de cette misère : <strong>OFGB</strong>, pour « Oh Frick Go Back ». </p>
+
+
+
+<p>Ce p&rsquo;tit logiciel magique, c&rsquo;est la solution qui va exaucer votre vœu de retrouver un Windows tout beau, tout propre, sans pubs qui viennent vous casser les bonbons. Et en plus, c&rsquo;est gratuit et open-source !</p>
+
+
+
+<p>Avec OFGB, on peut donc virer les pubs qui pullulent un peu partout : </p>
+
+
+
+<ul>
+<li>Les « suggestions » lourdingues dans le menu Démarrer ✅ </li>
+
+
+
+<li>Les conseils pas si « Life-Changing » que ça dans les paramètres ✅</li>
+
+
+
+<li>Les pubs qui squattent l&rsquo;écran de verrouillage ✅</li>
+
+
+
+<li>Et même ces satanés « conseils » dans l&rsquo;explorateur de fichiers ✅</li>
+</ul>
+
+
+
+<p>Bref, ce truc est une vraie cure de détox pour Windows ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-455400242" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Alors comment faire ? Et bien vous allez sur le GitHub <a href="https://github.com/xM4ddy/OFGB/releases/tag/Latest" rel="noopener" target="_blank">du projet juste ici</a>, vous téléchargez le .exe qui va bien et vous lancez « OFGB-Deps.exe » (si Windows râle avec un message chelou, dites-lui d&rsquo;aller se faire cuire un œuf et cliquez sur « Exécuter quand même »)</p>
+
+
+
+<p>Et là, la magie opèrera ! Vous aurez une interface toute simple avec des cases à cocher pour activer/désactiver les différentes options publicitaires.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159868" height="358" src="https://korben.info/app/uploads/2024/05/68747470733a2f2f692e6962622e636f2f5034795866586e2f6f666762462e706e67.webp" width="321" /></figure></div>
+
+
+<p>Et si un jour Microsoft décide de rajouter de nouvelles pubs dans des endroits encore inexplorés de Windows, y&rsquo;a des chances que le développeur d&rsquo;OFGB (un certain xMaddy, qui a l&rsquo;air bien sympathique) mette à jour son bébé pour contrer ces nouvelles invasions publicitaires.</p>
+
+
+
+<p>Ah et j&rsquo;oubliais, vu qu&rsquo;OFGB est open-source, si vous avez des compétences en développement et que vous voulez mettre la main à la pâte pour améliorer le machin, y&rsquo;a moyen de contribuer !</p>
+
+
+
+<p><a href="https://twitter.com/nixcraft/status/1786042010769760367" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 16:24:03 +0000</pubDate>
+<pubDate>Thu, 02 May 2024 16:24:03 +0000</pubDate>
+</item>
+<item>
+<title>Une faille de sécurité massive liée à la reconnaissance faciale dans des bars australiens</title>
+<link>https://korben.info/faille-securite-reconnaissance-faciale-bars-australiens.html</link>
+<guid>https://korben.info/faille-securite-reconnaissance-faciale-bars-australiens.html</guid>
+<content:encoded><![CDATA[
+<div> reconnaissance faciale, données sensibles, fuite de données, vie privée, Australie
+Summary: 
+En Australie, des bars et clubs utilisent des bornes de reconnaissance faciale pour vérifier l'âge et éviter les accros aux machines à sous. Cependant, une fuite de données a été signalée, exposant plus d'un million de personnes à des risques de piratage et de chantage. Les autorités australiennes enquêtent sur l'affaire, mais les experts en sécurité soulignent les dangers de ces technologies de surveillance mal gérées. La question de la confiance envers les entreprises pour stocker des données sensibles se pose, ainsi que celle du contrôle de l'usage de ces systèmes. Des initiatives sont prises pour encadrer la reconnaissance faciale, mais il reste un équilibre à trouver entre sécurité et respect de la vie privée. Les citoyens doivent rester méfiants et réagir contre ces pratiques intrusives afin de protéger leurs données personnelles et leur vie privée. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Un_kangourou_qui_regarde_une_borne_de_reconnaissance_fac_9581d055-1319-427e-a077-fdfeb41c8083.webp" width="1456" /></p>
+<p>Imaginez&#8230; Vous vous pointez tranquillou au bar du coin pour siroter une petite mousse entre potes et là, surprise ! Pendant que vous trinquez gaiement, une <strong>borne de reconnaissance faciale</strong> vous scanne en douce pour vérifier si vous avez bien l&rsquo;âge légal, que vous n&rsquo;êtes pas accro aux machines à sous et encore moins Xavier Dupont de Ligonnès. Sympa l&rsquo;ambiance, non ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1829509727" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>C&rsquo;est exactement ce qui se passe depuis quelque temps dans certains bars et clubs en Australie, grâce (ou à cause, c&rsquo;est selon) de la société <strong>Outabox</strong> et de ses bornes biométriques magiques. Le hic, c&rsquo;est qu&rsquo;un méchant pirate a visiblement réussi à mettre la main sur la base de données des joyeux fêtards, avec au menu les données de reconnaissance faciale, les scans de permis de conduire, les signatures, les infos d&rsquo;adhésion au club, les adresses, les dates de naissance, les numéros de téléphone et même l&rsquo;historique d&rsquo;utilisation des machines à sous pour certains. Bref, de quoi ruiner une réputation en quelques clics !</p>
+
+
+
+<p>Selon les informations rapportées par le site web <a href="https://haveibeenoutaboxed.com/" rel="noopener" target="_blank">« Have I Been Outaboxed »</a>, plus d&rsquo;<strong>un million de personnes</strong> auraient été affectées par cette fuite de données. Le site affirme également que ces données sensibles se seraient baladées sur un bête tableau Excel sans protections. Cependant, ces déclaration sont à prendre avec précaution, car leur véracité n&rsquo;a pas pu être confirmée de manière indépendante.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159865" height="809" src="https://korben.info/app/uploads/2024/05/SCR-20240502-p8u.webp" width="985" /></figure></div>
+
+
+<p>Les flics australiens sont sur le coup et ont déjà alpagué un individu qui risque de passer un sale quart d&rsquo;heure mais le mal est fait et des tas de gens risquent de se faire spammer, arnaquer ou subir du chantage s&rsquo;ils ont eu le malheur de mettre les pieds dans l&rsquo;un des <strong>19 clubs</strong> équipés de ces satanées bornes.</p>
+
+
+
+<p>Les experts en sécurité et les défenseurs de la vie privée montent au créneau et dénoncent les dérives de ces <strong>technologies de surveillance</strong>, surtout quand c&rsquo;est géré avec les pieds. Ça soulève pas mal de questions : à quel point peut-on faire confiance à des entreprises pour stocker ce genre de données ultra-sensibles ? Est-ce bien raisonnable de balancer sa trombine et ses infos persos à tout va pour pouvoir aller boire un coup ? Qui contrôle vraiment l&rsquo;usage de ces systèmes ? Les régulateurs ont-ils les moyens de vérifier ce qui se passe derrière les écrans ?  </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1093621760" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Des initiatives commencent même à émerger pour mieux encadrer le déploiement de la reconnaissance faciale dans l&rsquo;espace public. Certaines villes ou États l&rsquo;ont carrément interdit mais dans l&rsquo;ensemble, c&rsquo;est encore un peu le Far West et les entreprises font un peu ce qu&rsquo;elles veulent. Il y a sans doute un équilibre à trouver entre les usages légitimes (sécurité, prévention de la fraude&#8230;) et le respect de la vie privée des citoyens.</p>
+
+
+
+<p>En attendant, méfiance ! Si vous passez en Australie pour les vacances et que vous voyez une borne louche vous faire de l&rsquo;œil à l&rsquo;entrée de votre bar préféré, n&rsquo;hésitez pas à râler un bon coup pour éviter que ces pratiques se généralisent. Après tout, les données personnelles et la vie privée, c&rsquo;est précieux et pas question de les brader sur l&rsquo;autel de la techno-sécurité !</p>
+
+
+
+<p>Et si un barman vous demande un selfie, COUP DE BOULE ! lol</p>
+
+
+
+<p><a href="https://www.wired.com/story/outabox-facial-recognition-breach/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 16:13:15 +0000</pubDate>
+<pubDate>Thu, 02 May 2024 16:13:15 +0000</pubDate>
+</item>
+<item>
+<title>La Quadrature du Net contre-attaque face à la surveillance algorithmique</title>
+<link>https://korben.info/quadrature-du-net-contre-attaque-surveillance-algorithmique.html</link>
+<guid>https://korben.info/quadrature-du-net-contre-attaque-surveillance-algorithmique.html</guid>
+<content:encoded><![CDATA[
+<div> campagne de sensibilisation, vidéosurveillance algorithmique, résistance, reconnaissance biométrique, contrôle social 
+
+Summary: 
+La vidéosurveillance algorithmique menace nos libertés en transformant nos rues en un gigantesque panoptique. La Quadrature lance une campagne de sensibilisation pour informer sur les dangers et mobiliser la résistance. Un compte Mastodon est créé pour suivre et organiser la riposte. Une plainte est déposée contre un projet de reconnaissance biométrique illégal dans les gares. Ces dispositifs sont présentés comme des outils de sécurité, mais en réalité, ils servent à contrôler et réprimer la population. La technologie est sujette à des biais et des détournements. Il est crucial de se mobiliser pour protéger notre vie privée et contester le contrôle permanent de nos activités par des algorithmes intrusifs. Rejoignez le combat et montrez à Big Brother que la liberté ne peut pas être réduite à des lignes de code. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="205" src="https://korben.info/app/uploads/2024/05/SCR-20240502-o81.webp" width="728" /></p>
+<p><strong>Plic, ploc, plic, ploc&#8230;</strong> Vous entendez ce bruit ? C&rsquo;est celui de nos libertés qui s&rsquo;érodent, goutte après goutte, sous les assauts répétés de la surveillance généralisée. Et le dernier tsunami en date n&rsquo;est autre que la <strong>vidéosurveillance algorithmique</strong> (VSA), ce monstre tentaculaire qui s&rsquo;apprête à transformer nos rues en un gigantesque panoptique à ciel ouvert. Mais heureusement, tel un David numérique face au Goliath de la Technopolice, <strong><a href="https://www.laquadrature.net/2024/05/02/contre-lempire-de-la-videosurveillance-algorithmique-la-quadrature-du-net-contre-attaque/" rel="noopener" target="_blank">La Quadrature du Net</a></strong> sort sa fronde et ses plus belles pierres pour contre-attaquer !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1658988193" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Première salve : le lancement d&rsquo;une grande <strong>campagne de sensibilisation et de mobilisation citoyenne</strong>. L&rsquo;idée est d&rsquo;informer le grand public sur les dangers de ce <em>1984</em> à la sauce 2024 et donner des outils concrets pour riposter. Au menu : <a href="https://www.laquadrature.net/wp-content/uploads/vsa/VSA-brochure-planche.pdf" rel="noopener" target="_blank">une brochure détaillée</a> à diffuser sans modération, <a href="https://www.laquadrature.net/vsa/" rel="noopener" target="_blank">des affiches choc</a> à placarder sur tous les murs, et même un compte Mastodon dédié, <a href="https://mamot.fr/@AttrapSurveillance" rel="noopener" target="_blank">Attrap&rsquo;Surveillance</a>, pour suivre l&rsquo;évolution de la menace et organiser la résistance. Ce compte analyse les recueils des actes administratifs des préfectures pour détecter les premières expérimentations de vidéosurveillance algorithmique, autorisées localement par des <strong>arrêtés préfectoraux</strong> dans le cadre de la <a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047561974" rel="noopener" target="_blank">loi du 24 janvier 2023</a>. Parce que face à la prolifération des caméras biométriques, il va falloir plus que quelques bouts de scotchs ou coups de peinture sur les objectifs des caméras pour sauver notre vie privée !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159857" height="386" src="https://korben.info/app/uploads/2024/05/SCR-20240502-o7s.webp" width="876" /></figure></div>
+
+
+<p>Deuxième salve : le dépôt d&rsquo;une <strong>plainte contre le projet <a href="https://prevent-pcp.eu/" rel="noopener" target="_blank">Prevent PCP</a></strong> devant la CNIL. C&rsquo;est quoi encore ce truc ? Et bien c&rsquo;est une expérimentation grandeur nature de la reconnaissance biométrique dans les gares, présentée comme un outil miraculeux pour détecter les bagages abandonnés. Ce dispositif suit les personnes qui ont déposé un bagage à travers l&rsquo;ensemble des caméras en utilisant de la reconnaissance de caractéristiques physiques. Sauf que derrière cette jolie vitrine se cache un véritable cheval de Troie sécuritaire, mené en catimini par un consortium d&rsquo;entreprises et d&rsquo;institutions publiques (dont ces chères SNCF et RATP). Un projet totalement illégal, en somme, que La Quadrature entend bien renvoyer sur les rails de l&rsquo;État de droit.</p>
+
+
+
+<p>Car ne nous y trompons pas, derrière les jolis slogans sur la « sécurité augmentée » et la « smart city » notamment survendue dans le cadre des Jeux Olympiques, c&rsquo;est bien de <strong>contrôle social</strong> qu&rsquo;il s&rsquo;agit. Ces dispositifs de vidéosurveillance « intelligents » sont en réalité programmés pour repérer automatiquement certaines catégories d&rsquo;événements, comme le franchissement ou la présence d&rsquo;une personne dans une zone interdite ou sensible, une densité trop élevée de personnes, un mouvement de foule ou encore la présence d&rsquo;objets abandonnés. </p>
+
+
+
+<p>Autant d&rsquo;informations précieuses pour ficher, tracer et réprimer toute personne ou comportement jugé « anormal » ou « à risque » par les autorités. Sans oublier les inévitables biais, bugs et détournements inhérents à ces technologies opaques et faillibles, qui risquent de transformer nos villes en véritables usines à discrimination et à exclusion.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-354424051" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Face à cette dystopie qui n&rsquo;a plus rien de fictive, il est donc urgent de se mobiliser et de résister au <strong>contrôle permanent</strong> de nos faits et gestes. Et c&rsquo;est précisément ce que propose La Quadrature avec sa campagne percutante et ses actions juridiques ciblées. </p>
+
+
+
+<p>Bref n&rsquo;attendez plus et rejoignez le combat, diffusez l&rsquo;information, et montrez à Big Brother que la liberté n&rsquo;est pas soluble dans ses algorithmes.</p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 15:28:30 +0000</pubDate>
+<pubDate>Thu, 02 May 2024 15:28:30 +0000</pubDate>
+</item>
+<item>
+<title>Android ou iOS, qui est le plus bavard ?</title>
+<link>https://korben.info/etude-comparative-securite-android-ios.html</link>
+<guid>https://korben.info/etude-comparative-securite-android-ios.html</guid>
+<content:encoded><![CDATA[
+<div> applis, sécurité, confidentialité, Android, iOS
+<br>
+Summary:
+<br>
+Un journaliste a comparé la sécurité et la confidentialité des systèmes Android et iOS en traquant les connexions sortantes des applis. iOS a envoyé plus de requêtes que Android, principalement à des serveurs Apple. Android a eu plus de connexions vers la Russie et la Chine. Les applis sur Android ont eu plus de requêtes douteuses que sur iOS, notamment Facebook et TikTok. Les différences peuvent s'expliquer par un App Store mieux contrôlé et une politique plus stricte d'Apple envers les développeurs. Pour protéger sa sécurité, il est conseillé d'avoir moins d'applis, de privilégier celles connues, de limiter la synchronisation des données et de choisir les navigateurs web plutôt que les mini-browsers intégrés dans les applis. Un tutoriel est donné pour vérifier les connexions des applis. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_un_smartphone_Android_et_un_smartphone_Apple_qui_discute_db302256-0e7a-4bb8-9c1e-f2faf8d6f04c.webp" width="1456" /></p>
+<p>Aujourd&rsquo;hui, on va causer d&rsquo;un sujet qui tient à cœur de tout le monde : la <strong>sécurité</strong> et la <strong>confidentialité</strong> de nos smartphones !  Ernestas Naprys, un journaliste de <a href="https://cybernews.com/editorial/apple-ios-top-apps-contact-russia/" rel="noopener" target="_blank">Cybernews</a>, s&rsquo;est amusé à comparer les systèmes <strong>Android</strong> et <strong>iOS</strong> pour voir lequel était le plus sûr et le résultat ne manque pas de piquant !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-431831108" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avant de rentrer dans le vif du sujet, petit rappel quand même : nos téléphones ne font pas que nous tenir compagnie la nuit dans le lit&#8230; non, non.. ils en profitent aussi pour fureter à gauche et à droite, accédant à nos données et discutant avec des serveurs du monde entier, parfois même jusqu&rsquo;en Russie !</p>
+
+
+
+<p>Bref, notre Sherlock a installé le top 100 des applis iOS et Android sur des téléphones remis à zéro, les a lancé et laissé comater tranquillos pendant 5 jours. </p>
+
+
+
+<p>L&rsquo;objectif ? Tracer chaque petite connexion sortante pour voir à qui elle cause en douce.</p>
+
+
+
+<p>Résultat des courses : L&rsquo;<strong>iPhone</strong> se révèle être un sacré bavard, engrangeant 3308 requêtes par jour en moyenne, contre 2323 pour son rival <strong>Android</strong>. Mais attention, le diable se cache dans les détails ! Si iOS papote plus, il le fait principalement avec ses potes de chez Apple (60% du trafic quand même). Android, lui, est beaucoup plus partageur et distribue ses requêtes à tout va, surtout via des applis tierces.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-986521051" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Autre fait marquant, quand il s&rsquo;agit de taper la discute avec des serveurs situés en Russie ou en Chine, Android est un vrai moulin à paroles ! Là où l&rsquo;iPhone n&rsquo;envoie qu&rsquo;un petit coucou quotidien en terre de Poutine, le robot vert se fend d&rsquo;un joyeux « Priviet ! » pas moins de 39 fois en 3 jours. Et côté Chine, c&rsquo;est la même : Android ça y va tranquille tandis qu&rsquo;iOS lui fait l&rsquo;impasse complète et n&rsquo;envoie rien vers l&rsquo;Empire du Milieu.</p>
+
+
+
+<p>Côté applis douteuses niveau confidentialité, là encore, c&rsquo;est pas la même sauce ! Facebook ? 200 requêtes par jour sur Android, seulement 20 sur iOS. TikTok ? 800 check quotidiens pour le Android, 36 en tout sur 5 jours pour la pomme.</p>
+
+
+
+<p>Alors, comment expliquer cet écart de comportement entre les deux systèmes ? </p>
+
+
+
+<p>Notre expert avance 2 hypothèses : </p>
+
+
+
+<p>Tout d&rsquo;abord un <strong>App Store</strong> mieux tenu, avec moins d&rsquo;applis potentiellement malveillantes ou intrusives, mais également une politique bien plus stricte d&rsquo;Apple envers les développeurs qui voudraient mettre leur nez dans nos petites affaires.</p>
+
+
+
+<p>Bon mais qu&rsquo;est-ce qu&rsquo;on fait nous du coup ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-734663320" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Et bah comme d&rsquo;hab&rsquo;, le mieux c&rsquo;est d&rsquo;avoir le moins d&rsquo;applis possibles, et de privilégier celles qui ont pignon sur rue. Évitez de synchroniser tous vos comptes et toutes vos données dans tous les sens, et pensez à faire un petit coup de ménage de temps en temps dans vos applis. Moins y a de bordel, mieux c&rsquo;est.</p>
+
+
+
+<p>Autre chose : privilégiez le bon vieux navigateur web plutôt que les mini-browsers intégrés dans les applis, qui <a href="https://korben.info/comment-savoir-si-une-application-ios-injecte-du-javascript-dans-les-sites-que-vous-visitez.html">sont de vraies passoires</a>. Voici un petit tuto pour voir par vous-même à qui causent vos applis :</p>
+
+
+
+<ol>
+<li>Allez sur le site <a href="https://InAppBrowser.com">https://InAppBrowser.com</a> depuis votre navigateur web.</li>
+
+
+
+<li>Copiez le lien et collez-le dans une de vos applis qui utilise un navigateur intégré (comme Whatsapp, Instagram, Facebook, etc).</li>
+
+
+
+<li>Ouvrez ce lien depuis l&rsquo;appli sélectionnée.</li>
+
+
+
+<li>Vous devriez voir s&rsquo;afficher la liste des commandes JavaScript injectées par l&rsquo;appli sur la page web ! 😱</li>
+</ol>
+
+
+
+<p>Bon courage !</p>
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 14:02:44 +0000</pubDate>
+<pubDate>Thu, 02 May 2024 14:02:44 +0000</pubDate>
+</item>
+
+<item>
 <title>Docsify-This – Transformez vos documents Markdown en sites web</title>
 <link>https://korben.info/docsify-transformez-documents-markdown-sites-web-elegants.html</link>
 <guid>https://korben.info/docsify-transformez-documents-markdown-sites-web-elegants.html</guid>
 <content:encoded><![CDATA[
-<div> markdown, Docsify-This, contenu en ligne, fichiers textes, site web<br>
-Summary:<br>
+<div> markdown, Docsify-This, contenu en ligne, fichiers textes, site web<br />
+Summary:<br />
 Docsify-This est une solution simple et gratuite pour présenter du contenu en ligne à partir de fichiers texte au format markdown. Cet outil open-source transforme vos fichiers markdown en pages web modernes en un clic, sans nécessiter de configuration complexe. Il génère automatiquement un site au design épuré, offrant une navigation intuitive, une recherche intégrée et même un mode nuit. Docsify-This propose de nombreuses fonctionnalités de personnalisation, comme des thèmes prédéfinis, l'ajout de logo et d'images, et peut être hébergé gratuitement sur des plateformes telles que GitHub Pages, Vercel ou Netlify. Il offre la possibilité d'intégrer des vidéos pour enrichir le contenu. Avec Docsify-This, vous pouvez également travailler en collaboration avec Github ou héberger le site sur votre propre serveur. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="408" src="https://korben.info/app/uploads/2024/03/SCR-20240322-lxk.webp" width="1078" /></p>
 <p>Vous cherchez une solution simple pour présenter votre contenu en ligne ? Ne cherchez plus, <strong><a href="https://docsify-this.net/" rel="noopener" target="_blank">Docsify-This</a></strong> est là pour vous faciliter la vie et le plus cool, c&rsquo;est que ça utilise de simples fichiers textes au format <strong>markdown</strong> !</p>
@@ -50,7 +441,6 @@ Docsify-This est une solution simple et gratuite pour présenter du contenu en l
 
 <p>Si ça vous intéresse de creuser ce truc, c&rsquo;est sur le site de <a href="https://docsify-this.net/" rel="noopener" target="_blank">Docsify-This</a>.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 May 2024 07:00:00 +0000</pubDate>
 <pubDate>Thu, 02 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -104,9 +494,7 @@ Nano version 8.0 a été lancée avec diverses améliorations, notamment des rac
 <p><a href="https://nano-editor.org/news.php" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 02 May 2024 06:08:53 +0000</pubDate>
-<pubDate>Thu, 02 May 2024 06:08:53 +0000</pubDate>
 </item>
-
 <item>
 <title>BZZZT le platformer qui fait mouche</title>
 <link>https://korben.info/avis-bzzzt-test.html</link>

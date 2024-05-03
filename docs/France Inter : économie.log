@@ -158,3 +158,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : les taux baissent mais "on reste avec des prix qui sont aujourd'hui trop élevés"](https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-6h20/l-invite-de-6h20-du-jeudi-02-mai-2024-5083240)
 append_entries: 5
 Finish: 2024-05-02 12:43:12.539286
+------------------------------------------------------
+Started: 2024-05-03 01:18:02.684891
+Existing_entries: 40
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-03 01:18:03.322897

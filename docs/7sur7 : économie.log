@@ -165,3 +165,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les chiffres de l’immobilier 2023: quelles sont les communes les plus et moins chères de Belgique?](https://www.7sur7.be/belgique/les-chiffres-de-limmobilier-2023-quelles-sont-les-communes-les-plus-et-moins-cheres-de-belgique~aa1d091b/)
 append_entries: 1
 Finish: 2024-05-02 12:35:58.217730
+------------------------------------------------------
+Started: 2024-05-03 01:13:34.578221
+Existing_entries: 49
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [En 2023, deux tiers des investissements étrangers sont allés à la Flandre](https://www.7sur7.be/belgique/en-2023-deux-tiers-des-investissements-etrangers-sont-alles-a-la-flandre~ae152c71/)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Les prix de l’immobilier ont encore augmenté: quelles sont les communes les plus et moins chères de Belgique?](https://www.7sur7.be/belgique/les-prix-de-limmobilier-ont-encore-augmente-quelles-sont-les-communes-les-plus-et-moins-cheres-de-belgique~aa1d091b/)
+append_entries: 2
+Finish: 2024-05-03 01:13:41.469523
