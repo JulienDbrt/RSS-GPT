@@ -144,3 +144,15 @@ Existing_entries: 40
 Fetching from https://www.bfmtv.com/rss/auto/
 append_entries: 0
 Finish: 2024-05-03 01:14:47.575341
+------------------------------------------------------
+Started: 2024-05-03 12:35:18.430946
+Existing_entries: 40
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Location de voitures: les destinations les plus abordables cet été](https://www.bfmtv.com/auto/location-de-voitures-les-destinations-les-plus-abordables-cet-ete_AV-202405030057.html)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: ["Effet Waze": ces communes qui craquent face à l'afflux d'automobilistes](https://www.bfmtv.com/auto/effet-waze-ces-communes-qui-craquent-face-a-l-afflux-d-automobilistes_AV-202405030056.html)
+append_entries: 2
+Finish: 2024-05-03 12:35:23.848087

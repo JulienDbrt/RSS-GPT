@@ -132,3 +132,21 @@ Existing_entries: 36
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-05-03 01:10:15.832159
+------------------------------------------------------
+Started: 2024-05-03 12:30:28.250177
+Existing_entries: 36
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Cette astuce avec le compteur Linky permet d'économiser 23% sur la facture d'électricité](https://www.journaldunet.com/iot/1528647-cgm1-linky-astuce/)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi il ne faut surtout pas recouvrir son compteur Linky d’aluminium](https://www.maison-travaux.fr/renover/gros-oeuvre-renovation-par-type/chauffage-renovation-par-type/gaz-et-electricite-chauffage-renovation-par-type/pourquoi-pas-recouvrir-son-compteur-linky-daluminium-542010.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Fraude au compteur Linky : « C’est exposer sa vie », met en garde Enedis](https://www.leparisien.fr/faits-divers/fraude-au-compteur-linky-cest-exposer-sa-vie-met-en-garde-enedis-02-04-2024-3B5EKBW4OFGSPGMZPI43LXHLGQ.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Une vaste fraude aux compteurs Linky mise au jour par les gendarmes dans le Doubs](https://www.leparisien.fr/faits-divers/une-vaste-fraude-aux-compteurs-linky-mise-au-jour-par-les-gendarmes-dans-le-doubs-02-04-2024-QN63VI6KWNB2LOG5WBA6LN4GFU.php)
+append_entries: 4
+Finish: 2024-05-03 12:30:46.496895

@@ -162,3 +162,24 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : un appel à la grève à la SNCF pour le 21 mai en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-un-appel-a-la-greve-a-la-sncf-pour-le-21-mai-en-ile-de-france-2963948.html)
 append_entries: 1
 Finish: 2024-05-03 01:18:47.400530
+------------------------------------------------------
+Started: 2024-05-03 12:40:21.748079
+Existing_entries: 46
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Manifestations pro-palestiniennes à Sciences Po : des militants évacués par la police](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manifestations-pro-palestiniennes-a-sciences-po-des-militants-evacues-par-la-police-2964557.html)
+Token length: 374
+Summarized using GPT-3.5-turbo
+Append: [Foire de Paris 2024. Pompe à chaleur, isolation et double vitrage : le stand France Rénov' vous conseille sur vos aides](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/foire-de-paris-2024-pompe-a-chaleur-isolation-et-double-vitrage-le-stand-france-renov-vous-conseille-sur-vos-aides-2964335.html)
+Token length: 457
+Summarized using GPT-3.5-turbo
+Append: [PARIGO. Cap à l’Ouest pour le RER E](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/parigo-cap-a-l-ouest-pour-le-rer-e-2964326.html)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [L'Autoroute A6B fermée suite à un incendie dans un tunnel, un blessé et "d'importants dégâts"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/l-autoroute-a6b-fermee-suite-a-un-incendie-dans-un-tunnel-un-blesse-et-d-importants-degats-2964272.html)
+Token length: 362
+Summarized using GPT-3.5-turbo
+Append: [TEMOIGNAGE. "Je me retrouve sans revenus" : en situation de handicap, son allocation de la CAF retirée quelques mois avant la retraite](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/je-me-retrouve-sans-revenus-en-situation-de-handicap-son-allocation-de-la-caf-retiree-quelques-mois-avant-la-retraite-2964149.html)
+append_entries: 5
+Finish: 2024-05-03 12:40:38.631872

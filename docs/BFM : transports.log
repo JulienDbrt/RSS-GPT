@@ -150,3 +150,12 @@ Existing_entries: 42
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
 append_entries: 0
 Finish: 2024-05-03 01:15:53.612180
+------------------------------------------------------
+Started: 2024-05-03 12:36:39.493318
+Existing_entries: 42
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Face à Alstom, Siemens remporte le contrat pour fournir le premier TGV des Etats-Unis](https://www.bfmtv.com/economie/entreprises/transports/face-a-alstom-siemens-remporte-le-contrat-fournir-pour-le-premier-tgv-des-etats-unis_AD-202405030090.html)
+append_entries: 1
+Finish: 2024-05-03 12:36:44.584868

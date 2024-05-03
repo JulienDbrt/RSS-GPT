@@ -177,3 +177,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les prix de l’immobilier ont encore augmenté: quelles sont les communes les plus et moins chères de Belgique?](https://www.7sur7.be/belgique/les-prix-de-limmobilier-ont-encore-augmente-quelles-sont-les-communes-les-plus-et-moins-cheres-de-belgique~aa1d091b/)
 append_entries: 2
 Finish: 2024-05-03 01:13:41.469523
+------------------------------------------------------
+Started: 2024-05-03 12:34:14.004968
+Existing_entries: 51
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 416
+Summarized using GPT-3.5-turbo
+Append: [L’alarme de votre iPhone ne vous réveille pas? Voici probablement pourquoi](https://www.7sur7.be/tech/lalarme-de-votre-iphone-ne-vous-reveille-pas-voici-probablement-pourquoi~a4dbf742/)
+Token length: 312
+Summarized using GPT-3.5-turbo
+Append: [Placer une clôture de jardin? Voici ce qui est autorisé](https://www.7sur7.be/economie/placer-une-cloture-de-jardin-voici-ce-qui-est-autorise~a58c7f36/)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Un dégât des eaux à cause d’un problème chez les voisins? Voici ce que vous devez faire](https://www.7sur7.be/home/un-degat-des-eaux-a-cause-dun-probleme-chez-les-voisins-voici-ce-que-vous-devez-faire~a162cc17/)
+Token length: 392
+Summarized using GPT-3.5-turbo
+Append: [Des experts tirent la sonnette d’alarme: “Nous nous dirigeons vers une crise du logement sans précédent”](https://www.7sur7.be/economie/des-experts-tirent-la-sonnette-dalarme-nous-nous-dirigeons-vers-une-crise-du-logement-sans-precedent~a1e7c882/)
+append_entries: 4
+Finish: 2024-05-03 12:34:30.421427

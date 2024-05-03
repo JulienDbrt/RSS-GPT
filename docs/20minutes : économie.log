@@ -167,3 +167,12 @@ Summarized using GPT-3.5-turbo
 Append: [Bercy s’interroge sur le financement de l’accord avantageux sur les retraites de la SNCF](https://www.20minutes.fr/economie/4089382-20240502-bercy-interroge-financement-accord-avantageux-retraites-sncf)
 append_entries: 2
 Finish: 2024-05-03 01:13:34.554002
+------------------------------------------------------
+Started: 2024-05-03 12:34:11.189275
+Existing_entries: 41
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [La sobriété numérique, véritable enjeu écologique](https://www.20minutes.fr/planete/4088726-20240503-sobriete-numerique-veritable-enjeu-ecologique)
+append_entries: 1
+Finish: 2024-05-03 12:34:13.979528

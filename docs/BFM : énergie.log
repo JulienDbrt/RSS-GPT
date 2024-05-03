@@ -150,3 +150,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Votre inaction condamne à mort des entreprises": échange tendu entre Hayer et Bardella sur le prix de l'énergie](https://www.bfmtv.com/economie/entreprises/energie/votre-inaction-condamne-a-mort-des-entreprises-echange-tendu-entre-hayer-et-bardella-sur-le-prix-de-l-energie_AV-202405020997.html)
 append_entries: 1
 Finish: 2024-05-03 01:14:46.518247
+------------------------------------------------------
+Started: 2024-05-03 12:35:17.837848
+Existing_entries: 42
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+append_entries: 0
+Finish: 2024-05-03 12:35:17.993997

@@ -179,3 +179,21 @@ Existing_entries: 45
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-05-03 01:18:02.664235
+------------------------------------------------------
+Started: 2024-05-03 12:38:58.381055
+Existing_entries: 45
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le patron du groupe convoqué par Bruno Le Maire après un accord sur les retraites](https://www.francetvinfo.fr/economie/transports/sncf/sncf-le-patron-du-groupe-convoque-par-bruno-le-maire-apres-un-accord-sur-les-retraites_6522863.html)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [À bord du Belem : les conseils du médecin présent sur le voilier pour éviter le mal de mer](https://www.francetvinfo.fr/les-jeux-olympiques/flamme-olympique/a-bord-du-belem-les-conseils-du-medecin-present-sur-le-voilier-pour-eviter-le-mal-de-mer_6522788.html)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Ponts de mai : Bison futé voit rouge en Ile-de-France vendredi dans le sens des départs](https://www.francetvinfo.fr/decouverte/vacances/bison-fute-voit-rouge-en-ile-de-france-vendredi-dans-le-sens-des-departs_6522560.html)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [INFO FRANCEINFO. Santé : les patients pourront désormais être contraints de faire jusqu'à 30 km de détour à cause du partage des transports sanitaires](https://www.francetvinfo.fr/sante/info-franceinfo-sante-les-patients-pourront-desormais-etre-contraints-de-faire-jusqu-a-30-km-de-detour-a-cause-du-partage-des-transports-sanitaires_6521609.html)
+append_entries: 4
+Finish: 2024-05-03 12:39:17.314454

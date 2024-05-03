@@ -141,3 +141,18 @@ Summarized using GPT-3.5-turbo
 Append: [La Turquie suspend toute relation commerciale avec Israël](https://www.bfmtv.com/economie/international/la-turquie-suspend-toute-relation-commerciale-avec-israel_AD-202405020994.html)
 append_entries: 1
 Finish: 2024-05-03 01:14:38.318434
+------------------------------------------------------
+Started: 2024-05-03 12:35:05.109805
+Existing_entries: 39
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [La Chine a lancé la sonde lunaire Chang'e 6](https://www.bfmtv.com/economie/international/la-chine-a-lance-la-sonde-lunaire-chang-e-6_AD-202405030417.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [En Turquie, une inflation galopante sur un an atteint 69,8% en avril](https://www.bfmtv.com/economie/international/en-turquie-une-inflation-galopante-sur-un-an-atteint-69-8-en-avril_AD-202405030300.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [La Chine lance une sonde pour collecter des échantillons sur la face cachée de la Lune](https://www.bfmtv.com/economie/international/la-chine-lance-une-sonde-pour-collecter-des-echantillons-sur-la-face-cachee-de-la-lune_AD-202405030197.html)
+append_entries: 3
+Finish: 2024-05-03 12:35:17.720829

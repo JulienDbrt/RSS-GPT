@@ -122,3 +122,15 @@ Summarized using GPT-3.5-turbo
 Append: [VIDEO. Viager, la bonne affaire ?](https://www.francetvinfo.fr/replay-magazine/france-2/envoye-special/video-viager-la-bonne-affaire_6515369.html)
 append_entries: 1
 Finish: 2024-05-03 01:18:02.459515
+------------------------------------------------------
+Started: 2024-05-03 12:38:53.065720
+Existing_entries: 26
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [Logement : le gouvernement entend mettre fin au logement social à vie](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/logement-le-gouvernement-entend-mettre-fin-au-logement-social-a-vie_6522773.html)
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [Projet de loi sur le logement : que contient le texte présenté aujourd'hui en Conseil des ministres ?](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/projet-de-loi-sur-le-logement-que-contient-le-texte-presente-aujourd-hui-en-conseil-des-ministres_6505619.html)
+append_entries: 2
+Finish: 2024-05-03 12:38:58.357617

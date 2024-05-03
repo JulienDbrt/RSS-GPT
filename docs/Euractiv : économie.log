@@ -155,3 +155,18 @@ Existing_entries: 57
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-05-03 01:16:45.460315
+------------------------------------------------------
+Started: 2024-05-03 12:37:31.396505
+Existing_entries: 57
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Zone euro : le taux de chômage stable en mars à 6,5 %, selon les données d’Eurostat](https://www.euractiv.fr/section/economie/news/zone-euro-le-taux-de-chomage-stable-en-mars-a-65-selon-les-donnees-deurostat/)
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Mieux utiliser les fonds européens : le nouveau combat du gouvernement italien](https://www.euractiv.fr/section/economie/news/mieux-utiliser-les-fonds-europeens-le-nouveau-combat-du-gouvernement-italien/)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [Avant l’arrivée de Xi Jinping à Paris, la diplomatie économique franco-chinoise sur une ligne de crête](https://www.euractiv.fr/section/chine/news/avant-larrivee-de-xi-jinping-a-paris-la-diplomatie-economique-franco-chinoise-sur-une-ligne-de-crete/)
+append_entries: 3
+Finish: 2024-05-03 12:37:45.701731
