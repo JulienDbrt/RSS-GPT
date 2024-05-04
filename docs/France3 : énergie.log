@@ -150,3 +150,15 @@ Existing_entries: 40
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-05-03 12:40:21.725985
+------------------------------------------------------
+Started: 2024-05-04 01:13:31.010475
+Existing_entries: 40
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [ENTRETIEN. Eolien en mer : "on est formés et on a appris", les entreprises locales espèrent profiter du contrat historique signé par les Chantiers de l'Atlantique](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/entretien-eolien-en-mer-on-est-formes-et-on-a-appris-les-entreprises-locales-esperent-profiter-du-contrat-historique-signe-par-les-chantiers-de-l-atlantique-2964851.html)
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [Les salariés de la centrale à charbon Emile Huchet interpellent Emmanuel Macron sur ses promesses](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/les-salaries-de-la-centrale-a-charbon-emile-huchet-interpellent-emmanuel-macron-sur-ses-promesses-2964797.html)
+append_entries: 2
+Finish: 2024-05-04 01:13:36.388717

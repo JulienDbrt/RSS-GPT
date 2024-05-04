@@ -239,3 +239,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le gouvernement présente sa loi logement controversée](https://www.martinique.franceantilles.fr/actualite/economie/le-gouvernement-presente-sa-loi-logement-controversee-986003.php)
 append_entries: 2
 Finish: 2024-05-03 12:38:02.406319
+------------------------------------------------------
+Started: 2024-05-04 01:11:58.962778
+Existing_entries: 83
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-05-04 01:11:59.635699

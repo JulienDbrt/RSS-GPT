@@ -134,3 +134,21 @@ Summarized using GPT-3.5-turbo
 Append: [Projet de loi sur le logement : que contient le texte présenté aujourd'hui en Conseil des ministres ?](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/projet-de-loi-sur-le-logement-que-contient-le-texte-presente-aujourd-hui-en-conseil-des-ministres_6505619.html)
 append_entries: 2
 Finish: 2024-05-03 12:38:58.357617
+------------------------------------------------------
+Started: 2024-05-04 01:12:38.117084
+Existing_entries: 28
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : la répression des fraudes épingle les syndics de copropriétés](https://www.francetvinfo.fr/economie/immobilier/immobilier-la-repression-des-fraudes-epingle-les-syndics-de-coproprietes_6523532.html)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "Avec ce que j'ai, on ne me prend pas dans le privé" : à Marseille, le projet de loi sur le logement inquiète les locataires actuels de HLM](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/reportage-avec-ce-que-j-ai-on-ne-me-prend-pas-dans-le-prive-a-marseille-le-projet-de-loi-sur-le-logement-inquiete-les-locataires-actuels-de-hlm_6523364.html)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Loi logement : "Si des millions de gens galèrent pour se loger, c'est à cause de l'excès de réglementation dont la loi SRU", affirme David Lisnard](https://www.francetvinfo.fr/replay-radio/19h20-politique/loi-logement-si-des-millions-de-gens-galerent-pour-se-loger-c-est-a-cause-de-l-exces-de-reglementation-dont-la-loi-sru-affirme-david-lisnard_6494642.html)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [Fraude : les syndics de copropriétés épinglés](https://www.francetvinfo.fr/economie/fraude/fraude-les-syndics-de-coproprietes-epingles_6523067.html)
+append_entries: 4
+Finish: 2024-05-04 01:12:48.840598

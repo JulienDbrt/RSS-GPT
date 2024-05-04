@@ -132,3 +132,12 @@ Existing_entries: 34
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-05-03 12:41:23.321312
+------------------------------------------------------
+Started: 2024-05-04 01:13:57.606024
+Existing_entries: 34
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [Par manque de logements sociaux, cette commune de Saône-et-Loire va devoir payer 25 000 € par an à l'État](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/par-manque-de-logements-sociaux-cette-commune-de-saone-et-loire-va-devoir-payer-25-000-par-an-a-l-etat-2964785.html)
+append_entries: 1
+Finish: 2024-05-04 01:14:02.166459

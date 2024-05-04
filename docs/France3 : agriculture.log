@@ -225,3 +225,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des agriculteurs menacent de bloquer l'autoroute A68 pour une histoire de guinguette](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/des-agriculteurs-menacent-de-bloquer-l-autoroute-a68-pour-une-histoire-de-guinguette-2964131.html)
 append_entries: 5
 Finish: 2024-05-03 12:40:58.456179
+------------------------------------------------------
+Started: 2024-05-04 01:13:40.302449
+Existing_entries: 65
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Trois enfants en route vers l'école aperçoivent un loup : “Maman, un loup dans le Jura !”](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/haut-jura/maman-c-est-un-loup-un-loup-dans-le-jura-l-inoubliable-rencontre-de-trois-enfants-en-route-vers-l-ecole-2964530.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Baignade interdite dans les lacs, faune et flore contaminées… Les cyanobactéries envahissent les plans d'eau](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/baignade-interdite-dans-les-lacs-faune-et-flore-contamines-les-cyanobacteries-envahissent-les-plans-d-eau-2964497.html)
+append_entries: 2
+Finish: 2024-05-04 01:13:45.704556

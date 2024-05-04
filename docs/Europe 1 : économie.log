@@ -167,3 +167,15 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : le gouvernement était-il au courant de l'accord sur les fins de carrière critiqué par Bruno Le Maire ?](https://www.europe1.fr/economie/sncf-le-gouvernement-etait-il-au-courant-de-laccord-sur-les-fins-de-carriere-critique-par-bruno-le-maire-4244860)
 append_entries: 2
 Finish: 2024-05-03 12:37:53.899540
+------------------------------------------------------
+Started: 2024-05-04 01:11:52.477190
+Existing_entries: 39
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [Crise du logement : pour débloquer l'offre, le gouvernement réforme les HLM](https://www.europe1.fr/economie/crise-du-logement-pour-debloquer-loffre-le-gouvernement-reforme-les-hlm-4245053)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [La Répression des fraudes sera vigilante sur le tourisme à l'approche des Jeux olympiques 2024](https://www.europe1.fr/economie/la-repression-des-fraudes-sera-vigilante-sur-le-tourisme-a-lapproche-des-jeux-olympiques-2024-4245035)
+append_entries: 2
+Finish: 2024-05-04 01:11:58.925686

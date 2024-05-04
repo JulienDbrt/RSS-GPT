@@ -124,3 +124,15 @@ Summarized using GPT-3.5-turbo
 Append: [Préavis de grève chez Air Austral : "Aucune perturbation n’est à envisager à ce jour" selon la compagnie](https://la1ere.francetvinfo.fr/reunion/preavis-de-greve-chez-air-austral-aucune-perturbation-n-est-a-envisager-a-ce-jour-selon-la-compagnie-1485275.html)
 append_entries: 1
 Finish: 2024-05-03 12:43:06.899482
+------------------------------------------------------
+Started: 2024-05-04 01:16:01.781689
+Existing_entries: 18
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Affaire Sodem : le procès sur les conditions de mise en place du TCSP s'est ouvert](https://la1ere.francetvinfo.fr/martinique/affaire-sodem-le-proces-sur-les-conditions-de-mise-en-place-du-tcsp-s-est-ouvert-1485404.html)
+Token length: 63
+Summarized using GPT-3.5-turbo
+Append: [Négociations pour la survie d'Air Austral : toujours pas d'accord signé ce vendredi soir](https://la1ere.francetvinfo.fr/reunion/negociations-pour-la-survie-d-air-austral-toujours-pas-d-accord-signe-ce-vendredi-soir-1485302.html)
+append_entries: 2
+Finish: 2024-05-04 01:16:11.368313
