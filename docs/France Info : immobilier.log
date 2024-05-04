@@ -152,3 +152,18 @@ Summarized using GPT-3.5-turbo
 Append: [Fraude : les syndics de copropriétés épinglés](https://www.francetvinfo.fr/economie/fraude/fraude-les-syndics-de-coproprietes-epingles_6523067.html)
 append_entries: 4
 Finish: 2024-05-04 01:12:48.840598
+------------------------------------------------------
+Started: 2024-05-04 12:33:50.158824
+Existing_entries: 32
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Crise du logement : "C'est l'ensemble de la chaîne qu'il faut toucher, pour rouvrir le logement le plus social pour les plus défavorisés", estime Jean Viard](https://www.francetvinfo.fr/replay-radio/question-de-societe/crise-du-logement-c-est-l-ensemble-de-la-chaine-qu-il-faut-toucher-pour-rouvrir-le-logement-le-plus-social-pour-les-plus-defavorises-estime-jean-viard_6496751.html)
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [Logement social : le gouvernement présente un projet de loi qui veut durcir les règles](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/logement-social-le-gouvernement-presente-un-projet-de-loi-qui-veut-durcir-les-regles_6524741.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Plusieurs collectifs à Lyon dénoncent l'expulsion de "168 femmes et enfants à la rue" mis à l'abri dans un gymnase de la ville](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/plusieurs-collectifs-a-lyon-denoncent-l-expulsion-de-168-femmes-et-enfants-a-la-rue-mis-a-l-abri-dans-un-gymnase-de-la-ville_6524723.html)
+append_entries: 3
+Finish: 2024-05-04 12:34:02.109584

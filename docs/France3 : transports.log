@@ -312,3 +312,15 @@ Summarized using GPT-3.5-turbo
 Append: [Stationnement payant à Strasbourg : le recours de l'opposition rejeté par la justice, un appel va être déposé](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/stationnement-payant-a-strasbourg-le-recours-de-l-opposition-rejete-par-la-justice-un-appel-va-etre-depose-2964671.html)
 append_entries: 5
 Finish: 2024-05-04 01:14:19.124945
+------------------------------------------------------
+Started: 2024-05-04 12:35:50.210106
+Existing_entries: 92
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: ["Un traitement des données particulièrement intrusif" : une association porte plainte contre la vidéosurveillance algorithmique, testée dans plusieurs gares](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/un-traitement-des-donnees-particulierement-intrusif-une-association-porte-plainte-contre-la-videosurveillance-algorithmique-testee-dans-plusieurs-gares-2964977.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Un motard de 45 ans meurt dans un accident de la route](https://france3-regions.francetvinfo.fr/occitanie/gard/ales/un-motard-de-45-ans-meurt-dans-un-accident-de-la-route-2964890.html)
+append_entries: 2
+Finish: 2024-05-04 12:36:01.617932

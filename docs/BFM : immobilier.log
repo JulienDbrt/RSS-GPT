@@ -208,3 +208,9 @@ Summarized using GPT-3.5-turbo
 Append: [Un demi-million pour garer sa voiture: à Amsterdam, une place de parking mise en vente à 495.000 euros](https://www.bfmtv.com/immobilier/international-etranger/un-demi-million-pour-garer-sa-voiture-a-amsterdam-une-place-de-parking-mise-en-vente-a-495-000-euros_AD-202405030697.html)
 append_entries: 1
 Finish: 2024-05-04 01:11:10.091248
+------------------------------------------------------
+Started: 2024-05-04 12:31:54.169230
+Existing_entries: 70
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-05-04 12:31:54.759838

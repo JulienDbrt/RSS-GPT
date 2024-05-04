@@ -204,3 +204,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le salon érotique le plus connu de Genève ferme ses portes](https://www.20min.ch/fr/103097181)
 append_entries: 1
 Finish: 2024-05-04 01:09:08.510137
+------------------------------------------------------
+Started: 2024-05-04 12:29:47.904410
+Existing_entries: 56
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Karin Keller-Sutter veut tailler dans les subventions à tout-va](https://www.20min.ch/fr/103097416)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [BNP Paribas va biffer une centaine de postes au bout du lac](https://www.20min.ch/fr/103097395)
+append_entries: 2
+Finish: 2024-05-04 12:30:02.448484

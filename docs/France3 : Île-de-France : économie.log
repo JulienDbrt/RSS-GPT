@@ -192,3 +192,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Ma première Foire de Paris". Ils veulent vendre, acheter ou convaincre : vont-ils réussir ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/ma-premiere-foire-de-paris-ils-veulent-vendre-acheter-ou-convaincre-vont-ils-reussir-2964605.html)
 append_entries: 1
 Finish: 2024-05-04 01:13:40.269071
+------------------------------------------------------
+Started: 2024-05-04 12:34:50.046160
+Existing_entries: 52
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-05-04 12:34:50.334022

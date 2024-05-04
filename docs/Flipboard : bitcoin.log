@@ -294,3 +294,12 @@ Summarized using GPT-3.5-turbo
 Append: [Wall Street accélère avec Apple après le ralentissement du marché de l'emploi](https://www.boursier.com/indices/actualites/news/wall-street-accelere-avec-apple-apres-le-ralentissement-du-marche-de-l-emploi-927887.html)
 append_entries: 2
 Finish: 2024-05-04 01:04:41.596740
+------------------------------------------------------
+Started: 2024-05-04 12:25:49.512998
+Existing_entries: 86
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Crypto : +4,5 millions de Français sont des fraudeurs ! Bercy contre-attaque !](https://www.cointribune.com/crypto-45-millions-de-francais-sont-des-fraudeurs-bercy-contre-attaque/)
+append_entries: 1
+Finish: 2024-05-04 12:25:56.114203

@@ -212,3 +212,12 @@ Summarized using GPT-3.5-turbo
 Append: [Ile-de-France : le trafic du RER C très perturbé à cause d'une voiture tombée sur les voies à Choisy-le-Roi](https://www.francetvinfo.fr/economie/transports/sncf/ile-de-france-le-trafic-du-rer-c-tres-perturbe-a-cause-d-une-voiture-tombee-sur-les-voies-a-choisy-le-roi_6523034.html)
 append_entries: 3
 Finish: 2024-05-04 01:12:57.522340
+------------------------------------------------------
+Started: 2024-05-04 12:34:02.137077
+Existing_entries: 52
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [L'accord sur les fins de carrière à la SNCF était "de notoriété publique" et n'a pas été "négocié en cachette", affirme Sud Rail](https://www.francetvinfo.fr/economie/transports/sncf/l-accord-sur-les-fins-de-carriere-a-la-sncf-etait-de-notoriete-publique-et-n-a-pas-ete-negocie-en-cachette-affirme-sud-rail_6524561.html)
+append_entries: 1
+Finish: 2024-05-04 12:34:07.127597

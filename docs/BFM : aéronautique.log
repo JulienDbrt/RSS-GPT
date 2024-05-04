@@ -138,3 +138,9 @@ Summarized using GPT-3.5-turbo
 Append: [Boeing: décès d'un second lanceur d'alerte en moins de deux mois](https://www.bfmtv.com/economie/entreprises/aeronautique/boeing-deces-d-un-second-lanceur-d-alerte-en-moins-de-deux-mois_AV-202405030853.html)
 append_entries: 1
 Finish: 2024-05-04 01:09:58.033521
+------------------------------------------------------
+Started: 2024-05-04 12:30:56.997663
+Existing_entries: 34
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+append_entries: 0
+Finish: 2024-05-04 12:30:57.358220

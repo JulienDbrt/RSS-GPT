@@ -346,3 +346,18 @@ Summarized using GPT-3.5-turbo
 Append: [L'Allemagne augmente encore la taxe sur les billets d'avion quitte à voir le trafic s'écrouler](https://www.bfmtv.com/economie/entreprises/transports/l-allemagne-augmente-encore-la-taxe-sur-les-billets-d-avion-quitte-a-voir-le-trafic-s-ecrouler_AV-202405030554.html)
 append_entries: 5
 Finish: 2024-05-04 01:10:37.439086
+------------------------------------------------------
+Started: 2024-05-04 12:31:12.125662
+Existing_entries: 110
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Atos: les créanciers et les banques ont fait une offre commune de refinancement](https://www.bfmtv.com/economie/entreprises/atos-les-creanciers-et-les-banques-ont-fait-une-offre-commune-de-refinancement_AD-202405040187.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Un an après son lancement, un succès mitigé pour le Pass Rail allemand](https://www.bfmtv.com/economie/entreprises/transports/un-an-apres-son-lancement-un-succes-mitige-pour-le-pass-rail-allemand_AV-202405040137.html)
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [4.700 soudures par mètre, 40.000 pièces... Comment sont fabriqués les futurs TGV M dans l'usine de Belfort d'Alstom](https://www.bfmtv.com/economie/entreprises/industries/4-700-soudures-par-metre-40-000-pieces-comment-sont-fabriques-les-futurs-tgv-m-dans-l-usine-de-belfort-d-alstom_AV-202405030318.html)
+append_entries: 3
+Finish: 2024-05-04 12:31:22.554079

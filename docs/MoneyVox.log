@@ -368,3 +368,27 @@ Append: [Bureaux partagés : WeWork va fermer 8 sites sur 20 en France](https://
 Append: [Banque en ligne : BoursoBank affole les compteurs](https://www.moneyvox.fr/banque-en-ligne/actualites/97630/boursobank-affole-les-compteurs)
 append_entries: 11
 Finish: 2024-05-04 01:13:30.232796
+------------------------------------------------------
+Started: 2024-05-04 12:34:23.926297
+Existing_entries: 114
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Foncier agricole : les députés rejettent en commission un outil de portage du gouvernement](https://www.moneyvox.fr/actu/97644/foncier-agricole-les-deputes-rejettent-en-commission-un-outil-de-portage-du-gouvernement)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [Déclaration de revenus : comment profiter du crédit d'impôt pour votre véhicule électrique](https://www.moneyvox.fr/impot/actualites/97627/declaration-de-revenus-comment-profiter-du-credit-impot-pour-votre-vehicule-electrique)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [« Mon frère touche l'AAH de la CAF, quelle case de la déclaration d'impôts faut-il remplir ? »](https://www.moneyvox.fr/impot/actualites/97616/mon-frere-touche-aah-de-la-caf-quelle-case-de-la-declaration-impots-faut-il-remplir)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Frais bancaires : ces banques qui ne respectent toujours pas les règles](https://www.moneyvox.fr/tarif-bancaire/actualites/97637/frais-bancaires-ces-banques-qui-ne-respectent-toujours-pas-les-regles)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Placement : « Peut-on avoir 3 assurances vie ? »](https://www.moneyvox.fr/assurance-vie/actualites/97561/placement-peut-on-avoir-3-assurances-vie)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : comment profiter de la réduction d'impôt pour frais de comptabilité](https://www.moneyvox.fr/impot/actualites/97621/impots-2024-comment-profiter-de-la-reduction-impot-pour-frais-de-comptabilite)
+append_entries: 6
+Finish: 2024-05-04 12:34:48.372219

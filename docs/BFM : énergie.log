@@ -165,3 +165,9 @@ Summarized using GPT-3.5-turbo
 Append: [Charbon: pour ses employés, la centrale Emile Huchet est "en péril"](https://www.bfmtv.com/economie/entreprises/energie/charbon-pour-ses-employes-la-centrale-emile-huchet-est-en-peril_AD-202405030573.html)
 append_entries: 1
 Finish: 2024-05-04 01:09:54.134143
+------------------------------------------------------
+Started: 2024-05-04 12:30:56.728062
+Existing_entries: 43
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+append_entries: 0
+Finish: 2024-05-04 12:30:56.978999

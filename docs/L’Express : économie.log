@@ -286,3 +286,24 @@ Summarized using GPT-3.5-turbo
 Append: [Boeing : la mort soudaine d'un deuxième lanceur d’alerte](https://www.lexpress.fr/economie/boeing-la-mort-soudaine-dun-deuxieme-lanceur-dalerte-EFGRFZ7IFNAPFOLWT75XGEWJBE/)
 append_entries: 2
 Finish: 2024-05-04 01:15:26.838840
+------------------------------------------------------
+Started: 2024-05-04 12:36:11.589648
+Existing_entries: 130
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2104
+Summarized using GPT-3.5-turbo
+Append: [Atos : une offre commune de refinancement déposée par les créanciers et les banques](https://www.lexpress.fr/economie/atos-une-offre-commune-de-refinancement-deposee-par-les-creanciers-et-les-banques-QEUQGCQ6GFHHRFEAUN42ZEEE4Y/)
+Token length: 7114
+Summarized using GPT-3.5-turbo
+Append: [Luc Chatel : "L’industrie automobile est face à une mutation historique"](https://www.lexpress.fr/economie/entreprises/luc-chatel-lindustrie-automobile-est-face-a-une-mutation-historique-NCXF6B4OHJHM7NRSJPIYLG4NXI/)
+Token length: 4461
+Summarized using GPT-3.5-turbo
+Append: [Fin des clauses de non-concurrence aux Etats-Unis : une aubaine pour les start-up américaines](https://www.lexpress.fr/economie/high-tech/fin-des-clauses-de-non-concurrence-aux-etats-unis-une-aubaine-pour-les-start-up-americaines-MMZMZPIQO5BZ3E6CHM5CGD2EVM/)
+Token length: 4226
+Summarized using GPT-3.5-turbo
+Append: [Chantier de Notre-Dame : l'exemple du sursaut à la française, par Nicolas Bouzou](https://www.lexpress.fr/economie/politique-economique/chantier-de-notre-dame-lexemple-du-sursaut-a-la-francaise-par-nicolas-bouzou-R7SVMXYQIBAFRA32TNBQFTB4K4/)
+Token length: 5322
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage : et si on s'intéressait enfin aux milliards qui s'échappent vers la Suisse ?](https://www.lexpress.fr/economie/assurance-chomage-et-si-on-sinteressait-enfin-aux-milliards-qui-sechappent-vers-la-suisse-65IDDQBAUNHILBWYZXGD7C54Y4/)
+append_entries: 5
+Finish: 2024-05-04 12:36:36.831065

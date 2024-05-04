@@ -331,3 +331,15 @@ Summarized using GPT-3.5-turbo
 Append: [Allemagne : un important incendie s'est déclaré dans une usine d'armement à Berlin, qui fournit du matériel à l'Ukraine](https://www.latribune.fr/economie/international/allemagne-un-important-incendie-s-est-declare-dans-une-usine-d-armement-a-berlin-qui-fournit-du-materiel-a-l-ukraine-996810.html)
 append_entries: 4
 Finish: 2024-05-04 01:18:00.158694
+------------------------------------------------------
+Started: 2024-05-04 12:39:05.182879
+Existing_entries: 85
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 488
+Summarized using GPT-3.5-turbo
+Append: [Entre la France et la Chine, des relations commerciales au centre des crispations](https://www.latribune.fr/economie/france/entre-la-france-et-la-chine-des-relations-commerciales-au-centre-des-crispations-996841.html)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : les députés retoquent une mesure pour faciliter l'installation](https://www.latribune.fr/economie/france/agriculture-les-deputes-retoquent-une-mesure-pour-faciliter-l-installation-996833.html)
+append_entries: 2
+Finish: 2024-05-04 12:39:10.104830

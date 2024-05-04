@@ -162,3 +162,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les salariés de la centrale à charbon Emile Huchet interpellent Emmanuel Macron sur ses promesses](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/les-salaries-de-la-centrale-a-charbon-emile-huchet-interpellent-emmanuel-macron-sur-ses-promesses-2964797.html)
 append_entries: 2
 Finish: 2024-05-04 01:13:36.388717
+------------------------------------------------------
+Started: 2024-05-04 12:34:49.359959
+Existing_entries: 42
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-05-04 12:34:50.021200

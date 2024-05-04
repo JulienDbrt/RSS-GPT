@@ -135,3 +135,9 @@ Summarized using GPT-3.5-turbo
 Append: [Non, travailler pendant le pont du 8 mai ne donne pas lieu à une prime](https://www.bfmtv.com/economie/emploi/non-travailler-pendant-le-pont-du-8-mai-ne-donne-pas-lieu-a-une-prime_AV-202405030575.html)
 append_entries: 1
 Finish: 2024-05-04 01:10:20.223437
+------------------------------------------------------
+Started: 2024-05-04 12:31:11.997672
+Existing_entries: 33
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-05-04 12:31:12.061547
