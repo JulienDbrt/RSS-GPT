@@ -167,3 +167,9 @@ Summarized using GPT-3.5-turbo
 Append: [Plusieurs collectifs à Lyon dénoncent l'expulsion de "168 femmes et enfants à la rue" mis à l'abri dans un gymnase de la ville](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/plusieurs-collectifs-a-lyon-denoncent-l-expulsion-de-168-femmes-et-enfants-a-la-rue-mis-a-l-abri-dans-un-gymnase-de-la-ville_6524723.html)
 append_entries: 3
 Finish: 2024-05-04 12:34:02.109584
+------------------------------------------------------
+Started: 2024-05-05 01:14:20.024245
+Existing_entries: 35
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-05-05 01:14:20.217834

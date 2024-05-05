@@ -150,3 +150,12 @@ Summarized using GPT-3.5-turbo
 Append: [Airbnb et Abritel dans le viseur : à Granville, la location d'un appartement de tourisme est désormais soumise à autorisation](https://france3-regions.francetvinfo.fr/normandie/manche/granville/airbnb-et-abritel-dans-le-viseur-a-granville-la-location-d-un-appartement-de-tourisme-est-desormais-soumise-a-autorisation-2963804.html)
 append_entries: 1
 Finish: 2024-05-04 12:35:50.163047
+------------------------------------------------------
+Started: 2024-05-05 01:14:36.585107
+Existing_entries: 36
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [Immeubles évacués à Rouen : que dit l'expertise ?](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/immeubles-evacues-a-rouen-que-dit-l-expertise-2965094.html)
+append_entries: 1
+Finish: 2024-05-05 01:14:38.628279

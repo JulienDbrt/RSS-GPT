@@ -392,3 +392,15 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts 2024 : comment profiter de la réduction d'impôt pour frais de comptabilité](https://www.moneyvox.fr/impot/actualites/97621/impots-2024-comment-profiter-de-la-reduction-impot-pour-frais-de-comptabilite)
 append_entries: 6
 Finish: 2024-05-04 12:34:48.372219
+------------------------------------------------------
+Started: 2024-05-05 01:14:23.041055
+Existing_entries: 120
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [Les subtilités de la déclaration de revenus après un mariage ou un pacs](https://www.moneyvox.fr/impot/actualites/97623/les-subtilites-de-la-declaration-de-revenus-apres-un-mariage-ou-un-pacs)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Santé : votre situation permet-elle de ne pas payer ces frais qui ont doublé ?](https://www.moneyvox.fr/votre-argent/actualites/97633/sante-votre-situation-permet-elle-de-ne-pas-payer-ces-frais-qui-ont-double)
+append_entries: 2
+Finish: 2024-05-05 01:14:28.809700

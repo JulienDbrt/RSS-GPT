@@ -445,3 +445,27 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile : des voitures électriques chinoises à moins de 20.000 euros devraient déferler en France dès cette année](https://www.latribune.fr/entreprises-finance/industrie/automobile/automobile-des-vehicules-chinois-a-moins-de-20-000-euros-devraient-deferler-en-france-des-cette-annee-996745.html)
 append_entries: 5
 Finish: 2024-05-04 12:39:31.164336
+------------------------------------------------------
+Started: 2024-05-05 01:16:21.983542
+Existing_entries: 121
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [Avec le temps](https://www.latribune.fr/opinions/editos/avec-le-temps-996907.html)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [EXCLUSIF - Emmanuel Macron : « Je m’impliquerai dans les européennes »](https://www.latribune.fr/economie/politique/exclusif-emmanuel-macron-je-m-impliquerai-dans-les-europeennes-996919.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Européennes : Jordan Bardella grimpe encore dans notre sondage](https://www.latribune.fr/economie/politique/europeennes-jordan-bardella-grimpe-encore-dans-notre-sondage-996909.html)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Royaume-Uni : nouvelle claque électorale pour les Conservateurs](https://www.latribune.fr/economie/union-europeenne/royaume-uni-nouvelle-claque-electorale-en-vue-pour-les-conservateurs-996843.html)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Aux Etats-Unis, la machine à créer de l'emploi se grippe](https://www.latribune.fr/economie/international/aux-etats-unis-la-machine-a-creer-de-l-emploi-se-grippe-996848.html)
+Token length: 525
+Summarized using GPT-3.5-turbo
+Append: [«  Une décision injuste pour les cliniques privées » (Delphine Balerdi)](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/une-decision-injuste-pour-les-cliniques-privees-delphine-balerdi-996846.html)
+append_entries: 6
+Finish: 2024-05-05 01:16:39.855478

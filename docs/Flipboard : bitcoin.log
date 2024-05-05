@@ -303,3 +303,12 @@ Summarized using GPT-3.5-turbo
 Append: [Crypto : +4,5 millions de Français sont des fraudeurs ! Bercy contre-attaque !](https://www.cointribune.com/crypto-45-millions-de-francais-sont-des-fraudeurs-bercy-contre-attaque/)
 append_entries: 1
 Finish: 2024-05-04 12:25:56.114203
+------------------------------------------------------
+Started: 2024-05-05 01:09:07.196906
+Existing_entries: 87
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Après avoir fait fortune dans la crypto, un ex-boxeur achète une compagnie de transport](https://www.journaldemontreal.com/2024/05/04/apres-la-cryptomonnaie-un-ancien-boxeur-et-ses-freres-investissent-dans-le-domaine-du-transport)
+append_entries: 1
+Finish: 2024-05-05 01:09:11.338562

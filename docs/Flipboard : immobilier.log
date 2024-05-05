@@ -352,3 +352,15 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : quels sont les biens qui se vendent mal ?](https://www.capital.fr/immobilier/immobilier-quels-sont-les-biens-qui-se-vendent-mal-1496268)
 append_entries: 6
 Finish: 2024-05-04 12:27:31.999086
+------------------------------------------------------
+Started: 2024-05-05 01:09:43.176099
+Existing_entries: 114
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [80 000 euros/m2 : le prix fou de cet appartement à St-Germain-des-Près fait tourner les têtes](https://www.capital.fr/immobilier/80-000-euros-m2-le-prix-fou-de-cet-appartement-a-st-germain-des-pres-fait-tourner-les-tetes-1496320)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Immobilier au Mans : "un chiffre record de demandes de déménagements"](https://actu.fr/pays-de-la-loire/le-mans_72181/immobilier-au-mans-un-chiffre-record-de-demandes-de-demenagements_61017715.html)
+append_entries: 2
+Finish: 2024-05-05 01:09:50.798198

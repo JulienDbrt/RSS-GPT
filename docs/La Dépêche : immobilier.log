@@ -145,3 +145,9 @@ Summarized using GPT-3.5-turbo
 Append: [5 biens immobiliers de la Ville à acquérir à Carcassonne](https://www.ladepeche.fr/2024/05/04/5-biens-immobiliers-de-la-ville-a-acquerir-11930101.php)
 append_entries: 1
 Finish: 2024-05-04 12:38:29.264818
+------------------------------------------------------
+Started: 2024-05-05 01:15:54.335102
+Existing_entries: 31
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-05-05 01:15:55.069935

@@ -343,3 +343,24 @@ Summarized using GPT-3.5-turbo
 Append: [Agriculture : les députés retoquent une mesure pour faciliter l'installation](https://www.latribune.fr/economie/france/agriculture-les-deputes-retoquent-une-mesure-pour-faciliter-l-installation-996833.html)
 append_entries: 2
 Finish: 2024-05-04 12:39:10.104830
+------------------------------------------------------
+Started: 2024-05-05 01:16:04.137486
+Existing_entries: 87
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [EXCLUSIF - Emmanuel Macron : « Je m’impliquerai dans les européennes »](https://www.latribune.fr/economie/politique/exclusif-emmanuel-macron-je-m-impliquerai-dans-les-europeennes-996919.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Européennes : Jordan Bardella grimpe encore dans notre sondage](https://www.latribune.fr/economie/politique/europeennes-jordan-bardella-grimpe-encore-dans-notre-sondage-996909.html)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Royaume-Uni : nouvelle claque électorale pour les Conservateurs](https://www.latribune.fr/economie/union-europeenne/royaume-uni-nouvelle-claque-electorale-en-vue-pour-les-conservateurs-996843.html)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Aux Etats-Unis, la machine à créer de l'emploi se grippe](https://www.latribune.fr/economie/international/aux-etats-unis-la-machine-a-creer-de-l-emploi-se-grippe-996848.html)
+Token length: 525
+Summarized using GPT-3.5-turbo
+Append: [«  Une décision injuste pour les cliniques privées » (Delphine Balerdi)](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/une-decision-injuste-pour-les-cliniques-privees-delphine-balerdi-996846.html)
+append_entries: 5
+Finish: 2024-05-05 01:16:21.477439

@@ -532,3 +532,15 @@ Summarized using GPT-3.5-turbo
 Append: [Emploi : quels sont les 5 métiers qui recrutent le plus en Région Auvergne Rhône Alpes ?](https://groupe-ecomedia.com/emploi-quels-sont-les-5-metiers-qui-recrutent-le-plus-en-region-auvergne-rhone-alpes/)
 append_entries: 10
 Finish: 2024-05-04 12:27:12.598089
+------------------------------------------------------
+Started: 2024-05-05 01:09:36.246944
+Existing_entries: 202
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Offre d’emploi : Infirmier polyvalent –](https://fr.media7.ma/offre-demploi-infirmier-polyvalent-3/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [« Retire ce truc qui te déshonore » : Olivier Faure fustige Manon Aubry après ses accusations contre Raphaël Glucksmann](https://www.leparisien.fr/elections/europeennes/europeennes-linsoumise-manon-aubry-appelle-les-candidats-a-refuser-toute-remuneration-annexe-et-cible-glucksmann-et-hayer-03-05-2024-2UIMINYT2JGDPBVMM65KLDKPTA.php)
+append_entries: 2
+Finish: 2024-05-05 01:09:43.119601
