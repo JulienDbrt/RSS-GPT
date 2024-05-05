@@ -404,3 +404,24 @@ Summarized using GPT-3.5-turbo
 Append: [Santé : votre situation permet-elle de ne pas payer ces frais qui ont doublé ?](https://www.moneyvox.fr/votre-argent/actualites/97633/sante-votre-situation-permet-elle-de-ne-pas-payer-ces-frais-qui-ont-double)
 append_entries: 2
 Finish: 2024-05-05 01:14:28.809700
+------------------------------------------------------
+Started: 2024-05-05 12:32:16.310753
+Existing_entries: 122
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Carte bancaire à l'étranger, assurance vie et impôts... Les cinq infos de la semaine pour votre argent](https://www.moneyvox.fr/votre-argent/actualites/97628/carte-bancaire-a-etranger-assurance-vie-et-impots-les-cinq-infos-de-la-semaine-pour-votre-argent)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : les députés valident en commission le projet de loi du gouvernement](https://www.moneyvox.fr/actu/97645/agriculture-les-deputes-valident-en-commission-le-projet-de-loi-du-gouvernement)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : une mairie peut-elle vous forcer à vendre votre logement à un prix cassé ?](https://www.moneyvox.fr/immobilier/actualites/97631/une-mairie-peut-elle-vous-forcer-a-vendre-votre-logement-a-un-prix-casse)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [« J'ai versé par erreur 6 000 euros sur le Livret A de ma fille. Puis-je les reprendre ? »](https://www.moneyvox.fr/livret-a/actualites/97579/ai-verse-par-erreur-6-000-euros-sur-le-livret-a-de-ma-fille-puis-je-les-reprendre)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : puis-je rattacher mes enfants à la déclaration de revenus ?](https://www.moneyvox.fr/impot/actualites/97622/impots-2024-puis-je-rattacher-mes-enfants-a-la-declaration-de-revenus)
+append_entries: 5
+Finish: 2024-05-05 12:32:35.991730

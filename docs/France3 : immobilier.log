@@ -159,3 +159,15 @@ Summarized using GPT-3.5-turbo
 Append: [Immeubles évacués à Rouen : que dit l'expertise ?](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/immeubles-evacues-a-rouen-que-dit-l-expertise-2965094.html)
 append_entries: 1
 Finish: 2024-05-05 01:14:38.628279
+------------------------------------------------------
+Started: 2024-05-05 12:33:32.173237
+Existing_entries: 37
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [Des maisons réversibles louées 200€ par mois : contre le prix de l'immobilier, ce village du Haut-Jura envisage de construire un hameau léger](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/haut-jura/des-maisons-reversibles-louees-200-par-mois-contre-le-prix-de-l-immobilier-ce-village-du-haut-jura-envisage-de-construire-un-hameau-leger-2963087.html)
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: ["On se prive de vacances, on réduit la nourriture, juste pour payer des charges" : la détresse des copropriétaires face à un administrateur judiciaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/on-se-prive-de-vacances-on-reduit-la-nourriture-juste-pour-payer-des-charges-la-detresse-des-coproprietaires-face-a-un-administrateur-judiciaire-2964296.html)
+append_entries: 2
+Finish: 2024-05-05 12:33:40.971569

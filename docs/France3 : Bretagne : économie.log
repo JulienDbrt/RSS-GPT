@@ -156,3 +156,12 @@ Existing_entries: 36
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-05-05 01:14:36.253752
+------------------------------------------------------
+Started: 2024-05-05 12:33:19.580515
+Existing_entries: 36
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 426
+Summarized using GPT-3.5-turbo
+Append: [La telline, coquillage prisé des espagnols et pêché dans le Finistère, va-t-il totalement disparaitre ?  Ronan Le Corre pêcheur et sentinelle de la mer, alerte pour sa préservation.](https://france3-regions.francetvinfo.fr/bretagne/finistere/la-telline-coquillage-prise-des-espagnols-et-peche-dans-le-finistere-va-t-il-totalement-disparaitre-ronan-le-corre-pecheur-et-sentinelle-de-la-mer-alerte-pour-sa-preservation-2964488.html)
+append_entries: 1
+Finish: 2024-05-05 12:33:24.714453

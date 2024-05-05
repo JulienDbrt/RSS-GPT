@@ -333,3 +333,21 @@ Summarized using GPT-3.5-turbo
 Append: [La voiture de Bruno Le Maire percute un cycliste ayant grillé un feu rouge](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/la-voiture-de-bruno-le-maire-percute-un-cycliste-ayant-grille-un-feu-rouge-2965061.html)
 append_entries: 1
 Finish: 2024-05-05 01:14:44.763431
+------------------------------------------------------
+Started: 2024-05-05 12:33:41.019863
+Existing_entries: 95
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: ["Un bruit qui ne s'arrête jamais" : comment les applications GPS ont transformé une tranquille commune du Nord en enfer routier](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/un-bruit-qui-ne-s-arrete-jamais-comment-les-applications-gps-ont-transforme-une-tranquille-commune-du-nord-en-enfer-routier-2965220.html)
+Token length: 379
+Summarized using GPT-3.5-turbo
+Append: [Fermeture de l'A13 : trajets rallongés, plus coûteux... la galère des transporteurs routiers](https://france3-regions.francetvinfo.fr/normandie/calvados/fermeture-de-l-a13-trajets-rallonges-plus-couteux-la-galere-des-transporteurs-routiers-2965193.html)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Embouteillages, insécurité, dégradations : quand les itinéraires bis du GPS pourrissent la vie des habitants des petites communes](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/embouteillages-insecurite-degradations-quand-les-itineraires-bis-du-gps-pourrissent-la-vie-des-habitants-des-petites-communes-2964566.html)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [30 ans du tunnel sous la Manche : "Nous avons, Madame, désormais, une frontière terrestre", son histoire en 7 dates](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/30-ans-du-tunnel-sous-la-manche-nous-avons-madame-desormais-une-frontiere-terrestre-son-histoire-en-7-dates-2960039.html)
+append_entries: 4
+Finish: 2024-05-05 12:33:57.342428

@@ -187,3 +187,15 @@ Existing_entries: 35
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-05-05 01:09:52.390700
+------------------------------------------------------
+Started: 2024-05-05 12:28:05.227668
+Existing_entries: 35
+Fetching from https://korben.info/feed
+Token length: 3320
+Summarized using GPT-3.5-turbo
+Append: [20 ans de passion et de partage sur Korben.info ! Merci d’être là !](https://korben.info/20-ans-de-passion-et-de-partage-sur-korben-info-merci-detre-la.html)
+Token length: 2169
+Summarized using GPT-3.5-turbo
+Append: [Comment surveiller et debugger vos conteneurs Docker ?](https://korben.info/dozzle-surveillance-debogage-conteneurs-docker-temps-reel.html)
+append_entries: 2
+Finish: 2024-05-05 12:28:14.129879

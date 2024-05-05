@@ -364,3 +364,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier au Mans : "un chiffre record de demandes de déménagements"](https://actu.fr/pays-de-la-loire/le-mans_72181/immobilier-au-mans-un-chiffre-record-de-demandes-de-demenagements_61017715.html)
 append_entries: 2
 Finish: 2024-05-05 01:09:50.798198
+------------------------------------------------------
+Started: 2024-05-05 12:28:03.763267
+Existing_entries: 116
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+append_entries: 0
+Finish: 2024-05-05 12:28:04.494331

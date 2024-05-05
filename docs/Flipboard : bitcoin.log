@@ -312,3 +312,15 @@ Summarized using GPT-3.5-turbo
 Append: [Après avoir fait fortune dans la crypto, un ex-boxeur achète une compagnie de transport](https://www.journaldemontreal.com/2024/05/04/apres-la-cryptomonnaie-un-ancien-boxeur-et-ses-freres-investissent-dans-le-domaine-du-transport)
 append_entries: 1
 Finish: 2024-05-05 01:09:11.338562
+------------------------------------------------------
+Started: 2024-05-05 12:26:34.217586
+Existing_entries: 88
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin: pourquoi ce halving est bien différent des précédents](https://www.bfmtv.com/crypto/bitcoin/bitcoin-pourquoi-ce-halving-est-bien-different-des-precedents_AV-202404190578.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [L'un des premiers mineurs de l'histoire déplace 50 bitcoins de l'ère Satoshi](https://www.bfmtv.com/crypto/bitcoin/l-un-des-premiers-mineurs-de-l-histoire-deplace-50-bitcoins-de-l-ere-satoshi_AV-202404170660.html)
+append_entries: 2
+Finish: 2024-05-05 12:26:40.190263

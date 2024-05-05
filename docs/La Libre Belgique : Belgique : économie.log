@@ -534,3 +534,21 @@ Summarized using GPT-3.5-turbo
 Append: [Comment Amazon veut vous aider à prendre des décisions d’achat](https://www.lalibre.be/economie/digital/2024/05/04/comment-amazon-veut-vous-aider-a-prendre-des-decisions-dachat-4AX7LX7LPRC5TMHXECS62BXMTM/)
 append_entries: 1
 Finish: 2024-05-05 01:16:00.383048
+------------------------------------------------------
+Started: 2024-05-05 12:35:43.703467
+Existing_entries: 222
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: ["Cette stratégie d'investissement risque d’orienter massivement l’épargne européenne vers les marchés américains"](https://www.lalibre.be/economie/entreprises-startup/2024/05/05/cette-strategie-dinvestissement-risque-dorienter-massivement-lepargne-europeenne-vers-les-marches-americains-UOXVSRL2E5EL5BGKP6POGWT2F4/)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Vers une intégration de l'IA symbolique, basée sur la logique ?](https://www.lalibre.be/archives-journal/2024/05/05/vers-une-integration-de-lia-symbolique-basee-sur-la-logique-5HEP72ZR4RDHDBJWHAIHESAVYY/)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: ["On sait quels sont les grands défis en Belgique. C’est une chanson que l’on chante depuis des années"](https://www.lalibre.be/economie/conjoncture/2024/05/05/on-sait-quels-sont-les-grands-defis-en-belgique-cest-une-chanson-que-lon-chante-depuis-des-annees-SAA27ODNFNCHRCEIRMG2RL4BWY/)
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [S’expatrier ? “Je le fais pour mes enfants plus que pour ma carrière. Il n’y a pas d’opportunités pour eux ici”](https://www.lalibre.be/economie/conjoncture/2024/05/05/sexpatrier-je-le-fais-pour-mes-enfants-plus-que-pour-ma-carriere-il-ny-a-pas-dopportunites-pour-eux-ici-S4HTDQYQ2FAZHKGZMIY3HUHCNY/)
+append_entries: 4
+Finish: 2024-05-05 12:36:01.276977
