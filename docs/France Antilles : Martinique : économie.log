@@ -275,3 +275,12 @@ Summarized using GPT-3.5-turbo
 Append: [Inondations au Brésil: course contre la montre pour secourir les victimes](https://www.martinique.franceantilles.fr/actualite/economie/inondations-au-bresil-course-contre-la-montre-pour-secourir-les-victimes-986155.php)
 append_entries: 1
 Finish: 2024-05-05 12:31:43.880322
+------------------------------------------------------
+Started: 2024-05-06 01:10:33.039753
+Existing_entries: 87
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Voitures électriques : la France vise 800.000 ventes dès 2027](https://www.martinique.franceantilles.fr/actualite/economie/voitures-electriques-la-france-vise-800000-ventes-des-2027-986201.php)
+append_entries: 1
+Finish: 2024-05-06 01:10:35.031908

@@ -171,3 +171,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On se prive de vacances, on réduit la nourriture, juste pour payer des charges" : la détresse des copropriétaires face à un administrateur judiciaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/on-se-prive-de-vacances-on-reduit-la-nourriture-juste-pour-payer-des-charges-la-detresse-des-coproprietaires-face-a-un-administrateur-judiciaire-2964296.html)
 append_entries: 2
 Finish: 2024-05-05 12:33:40.971569
+------------------------------------------------------
+Started: 2024-05-06 01:11:23.498000
+Existing_entries: 39
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-06 01:11:23.809096

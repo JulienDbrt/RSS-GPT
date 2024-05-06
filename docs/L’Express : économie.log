@@ -322,3 +322,9 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile : les Français préfèrent l’occasion](https://www.lexpress.fr/economie/automobile-les-francais-preferent-loccasion-KQYPUFM44VBJ7BLNUQERIBK3OQ/)
 append_entries: 1
 Finish: 2024-05-05 12:34:19.968255
+------------------------------------------------------
+Started: 2024-05-06 01:11:41.574654
+Existing_entries: 136
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+append_entries: 0
+Finish: 2024-05-06 01:11:42.029569

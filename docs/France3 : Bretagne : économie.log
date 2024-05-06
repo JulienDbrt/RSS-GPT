@@ -165,3 +165,12 @@ Summarized using GPT-3.5-turbo
 Append: [La telline, coquillage prisé des espagnols et pêché dans le Finistère, va-t-il totalement disparaitre ?  Ronan Le Corre pêcheur et sentinelle de la mer, alerte pour sa préservation.](https://france3-regions.francetvinfo.fr/bretagne/finistere/la-telline-coquillage-prise-des-espagnols-et-peche-dans-le-finistere-va-t-il-totalement-disparaitre-ronan-le-corre-pecheur-et-sentinelle-de-la-mer-alerte-pour-sa-preservation-2964488.html)
 append_entries: 1
 Finish: 2024-05-05 12:33:24.714453
+------------------------------------------------------
+Started: 2024-05-06 01:11:20.689187
+Existing_entries: 37
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: ["Avril, on va l'oublier". Un bilan mitigé, comme la météo, pour ces vacances de printemps mais les ponts de mai et l'été vont-ils tout sauver ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/avril-on-va-l-oublier-un-bilan-mitige-comme-la-meteo-pour-ces-vacances-de-printemps-mais-les-ponts-de-mai-et-l-ete-vont-ils-tout-sauver-2965391.html)
+append_entries: 1
+Finish: 2024-05-06 01:11:23.285519

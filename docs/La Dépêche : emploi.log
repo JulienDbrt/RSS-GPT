@@ -226,3 +226,15 @@ Summarized using GPT-3.5-turbo
 Append: [Séméac. Pierre Clerc Girard, ses burgers et sa camionnette](https://www.ladepeche.fr/2024/05/05/pierre-clerc-girard-ses-burgers-et-sa-camionnette-11931631.php)
 append_entries: 1
 Finish: 2024-05-05 12:35:42.613577
+------------------------------------------------------
+Started: 2024-05-06 01:12:14.922887
+Existing_entries: 54
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Main-d’œuvre : des besoins en baisse et des difficultés à recruter dans l’Aude](https://www.ladepeche.fr/2024/05/05/main-doeuvre-des-besoins-en-baisse-et-des-difficultes-a-recruter-dans-laude-11929002.php)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : des élèves ingénieurs construisent et offrent une maison à des sans-abri](https://www.ladepeche.fr/2024/05/05/toulouse-des-eleves-ingenieurs-construisent-et-offrent-une-maison-a-des-sans-abri-11932126.php)
+append_entries: 2
+Finish: 2024-05-06 01:12:24.538250

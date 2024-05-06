@@ -565,3 +565,18 @@ Summarized using GPT-3.5-turbo
 Append: [Venaco : a Fiera di u Casgiu, porte-étendard du monde rural et du pastoralisme corse](https://france3-regions.francetvinfo.fr/corse/haute-corse/venaco-a-fiera-di-u-casgiu-porte-etendard-du-monde-rural-et-du-pastoralisme-corse-2965145.html)
 append_entries: 2
 Finish: 2024-05-05 12:30:16.817398
+------------------------------------------------------
+Started: 2024-05-06 01:09:17.272124
+Existing_entries: 294
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [Offre de transport pour la Grande Foire d’Ajaccio - 11 et 12 mai 2024](https://cf-corse.corsica/grande-foire-ajaccio-mai-2024/)
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [Réunion PIT VAE Bastia 7 mai](https://www.facebook.com/553326290272859/posts/786628603609292)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Automobile : pour les vacances, les prix des locations sont à la baisse](https://www.economiematin.fr/location-automobile-vacances-europe-20240505)
+append_entries: 3
+Finish: 2024-05-06 01:09:27.686395

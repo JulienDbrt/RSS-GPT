@@ -623,3 +623,18 @@ Summarized using GPT-3.5-turbo
 Append: [Cheminots, éboueurs, fonctionnaires... A l'approche des JO de Paris 2024, les menaces de grève se multiplient](https://www.francetvinfo.fr/les-jeux-olympiques/cheminots-eboueurs-fonctionnaires-a-l-approche-des-jo-de-paris-2024-les-menaces-de-greve-se-multiplient_6520982.html)
 append_entries: 8
 Finish: 2024-05-05 12:32:09.126910
+------------------------------------------------------
+Started: 2024-05-06 01:10:35.623218
+Existing_entries: 225
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Ponts de mai : quelles sont les règles du télétravail ?](https://www.francetvinfo.fr/economie/emploi/ponts-de-mai-quelles-sont-les-regles-du-teletravail_6526988.html)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [Voitures électriques : la France vise les 800 000 ventes dès 2027 pour atteindre 45% de parts de marché.](https://www.francetvinfo.fr/economie/automobile/voitures-electriques-la-france-vise-les-800-000-ventes-des-2027-pour-atteindre-45-de-parts-de-marche_6526922.html)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Droit de veto sur l'attribution des logements sociaux : Guillaume Kasbarian fait "confiance aux maires", des associations craignent un "clientélisme électoral"](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/droit-de-veto-sur-l-attribution-des-logements-sociaux-guillaume-kasbarian-fait-confiance-aux-maires-des-associations-craignent-un-clientelisme-electoral_6526634.html)
+append_entries: 3
+Finish: 2024-05-06 01:10:46.247717

@@ -183,3 +183,12 @@ Existing_entries: 33
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-05 12:33:57.669879
+------------------------------------------------------
+Started: 2024-05-06 01:11:30.408692
+Existing_entries: 33
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Syndicat des techniciens: WestJet émet un avis de lock-out de 72 h](https://www.journaldemontreal.com/2024/05/04/syndicat-des-techniciens-westjet-emet-un-avis-de-lock-out-de-72-h)
+append_entries: 1
+Finish: 2024-05-06 01:11:35.511974

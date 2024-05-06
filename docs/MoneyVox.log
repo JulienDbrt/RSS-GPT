@@ -425,3 +425,15 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts 2024 : puis-je rattacher mes enfants à la déclaration de revenus ?](https://www.moneyvox.fr/impot/actualites/97622/impots-2024-puis-je-rattacher-mes-enfants-a-la-declaration-de-revenus)
 append_entries: 5
 Finish: 2024-05-05 12:32:35.991730
+------------------------------------------------------
+Started: 2024-05-06 01:10:55.794185
+Existing_entries: 127
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : êtes-vous concerné par la double déclaration de revenus ?](https://www.moneyvox.fr/impot/actualites/97624/impots-2024-etes-vous-concerne-par-la-double-declaration-de-revenus)
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [HLM : un renforcement des possibilités d'expulsion des familles de délinquants évoqué](https://www.moneyvox.fr/immobilier/actualites/97646/hlm-un-renforcement-des-possibilites-expulsion-des-familles-de-delinquants-evoque)
+append_entries: 2
+Finish: 2024-05-06 01:11:03.055493

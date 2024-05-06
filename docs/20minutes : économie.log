@@ -206,3 +206,9 @@ Summarized using GPT-3.5-turbo
 Append: [« Shrinkflation » : Les supermarchés vont devoir alerter les clients par affichette dès juillet](https://www.20minutes.fr/economie/4089742-20240505-shrinkflation-affichettes-alertant-clients-supermarche-juillet)
 append_entries: 1
 Finish: 2024-05-05 12:30:21.131295
+------------------------------------------------------
+Started: 2024-05-06 01:09:29.883833
+Existing_entries: 44
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-05-06 01:09:30.019547

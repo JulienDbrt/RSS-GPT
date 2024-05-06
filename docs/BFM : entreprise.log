@@ -385,3 +385,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Il n’y a plus de diagonale du vide": l'attractivité économique de la France se confirme, portée par les régions](https://www.bfmtv.com/economie/entreprises/il-n-y-a-plus-de-diagonale-du-vide-l-attractivite-economique-de-la-france-se-confirme-portee-par-les-regions_AV-202405050211.html)
 append_entries: 1
 Finish: 2024-05-05 12:30:47.258127
+------------------------------------------------------
+Started: 2024-05-06 01:09:42.348067
+Existing_entries: 117
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+append_entries: 0
+Finish: 2024-05-06 01:09:42.479409
