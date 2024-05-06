@@ -224,3 +224,15 @@ Existing_entries: 48
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-05-06 01:10:55.172906
+------------------------------------------------------
+Started: 2024-05-06 12:44:54.507040
+Existing_entries: 48
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [Europe : Le RN défend un Frexit de l'intérieur](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-06-mai-2024-9453553)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Logement social : jusqu'où doit-on "réarmer" les maires ?](https://www.radiofrance.fr/franceinter/podcasts/l-edito-politique/l-edito-politique-du-lundi-06-mai-2024-6760643)
+append_entries: 2
+Finish: 2024-05-06 12:45:04.962158

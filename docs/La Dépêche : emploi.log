@@ -238,3 +238,12 @@ Summarized using GPT-3.5-turbo
 Append: [Toulouse : des élèves ingénieurs construisent et offrent une maison à des sans-abri](https://www.ladepeche.fr/2024/05/05/toulouse-des-eleves-ingenieurs-construisent-et-offrent-une-maison-a-des-sans-abri-11932126.php)
 append_entries: 2
 Finish: 2024-05-06 01:12:24.538250
+------------------------------------------------------
+Started: 2024-05-06 12:50:53.703402
+Existing_entries: 56
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Ces métiers qui recrutent dans l’aéronautique : ajusteur monteur](https://www.ladepeche.fr/2024/05/06/serie-25-ces-metiers-dans-laero-qui-recrutent-ajusteur-monteur-11928737.php)
+append_entries: 1
+Finish: 2024-05-06 12:50:58.521500

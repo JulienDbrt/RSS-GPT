@@ -4,6 +4,195 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Ollama 0.133 – Enfin une gestion en parallèle des LLMs</title>
+<link>https://korben.info/ollama-0-133-parallelisme-puissance-experimental.html</link>
+<guid>https://korben.info/ollama-0-133-parallelisme-puissance-experimental.html</guid>
+<content:encoded><![CDATA[
+<div> variables, parallélisme, modèles, Ollama, IA
+<br>
+<br>
+Summary:
+La dernière version d'Ollama, la 0.133, offre des fonctionnalités expérimentales de parallélisme permettant de gérer plusieurs modèles et requêtes en simultané. De nouvelles variables d'environnement, telles que OLLAMA_NUM_PARALLEL et OLLAMA_MAX_LOADED_MODELS, sont introduites pour optimiser les applications d'IA. Des modèles d'IA compatibles avec Ollama ont également été ajoutés, allant du plus léger au plus lourd, tels que Llama 3, Phi 3 Mini et Moondream. Pour tester le parallélisme, il suffit de définir les variables d'environnement sur Mac, Linux ou Windows et de redémarrer l'application Ollama. En configurant les variables correctement, il est possible d'envoyer plusieurs requêtes en parallèle sur un même modèle et de charger plusieurs modèles différents, sous réserve de disposer d'au moins 16 Go de RAM. Cette mise à jour permet d'optimiser l'utilisation d'Ollama pour le traitement de diverses tâches liées à l'IA. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="504" src="https://korben.info/app/uploads/2024/05/SCR-20240506-fxg.webp" width="1451" /></p>
+<p>Vous avez vu la dernière version d&rsquo;<strong>Ollama</strong> ? Cette version 0.133 a l&rsquo;air plutôt pas mal. Bon, je sais, je sais, ça faisait un bail que je n&rsquo;avais pas parlé des mises à jour de cet outil génial pour faire tourner des modèles d&rsquo;IA en local, mais là, impossible de passer à côté !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-654899176" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Déjà, on a le droit à des fonctionnalités expérimentales de <strong>parallélisme</strong> (je sais pas si c&rsquo;est comme ça qu&rsquo;on dit en français&#8230;) qui vont vous permettre d&rsquo;optimiser grave vos applis d&rsquo;IA. Il y a donc 2 nouvelles variables d&rsquo;environnement qui débarquent : <code>OLLAMA_NUM_PARALLEL</code> et <code>OLLAMA_MAX_LOADED_MODELS</code>. Avec ça, vous allez pouvoir gérer plusieurs <strong>modèles</strong> et requêtes en même temps, comme des pros ! 😎</p>
+
+
+
+<p>Par exemple, si vous avez un modèle pour compléter votre code avec une IA de 6 milliards de paramètres comme <strong>Llama 3</strong>, et en même temps vous demandez à <strong>Phi 3 Mini</strong> et ses 3,8 milliards de paramètres comment architecturer votre projet et bien maintenant, c&rsquo;est possible ! Comme ça, plus besoin d&rsquo;attendre que l&rsquo;un ait fini pour lancer l&rsquo;autre puisque tout ça va se lancer en parallèle.</p>
+
+
+
+<p>Alors bien sûr, c&rsquo;est encore expérimental car il n&rsquo;y a pas encore de priorité, et on est limité par la mémoire dispo sur notre machine. D&rsquo;ailleurs, il vaut mieux avoir 16 Go de RAM et un CPU 4 cœurs pour que ça fonctionne correctement.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Il y a aussi plein de nouveaux <strong>modèles d&rsquo;IA</strong> compatibles avec Ollama maintenant. Des gros calibres comme <a href="https://ollama.com/library/llama3" rel="noopener" target="_blank"><strong>Llama 3</strong></a>, le meilleur modèle open-source à ce jour, mais aussi des plus légers et spécialisés comme <a href="https://ollama.com/library/phi3" rel="noopener" target="_blank"><strong>Phi 3 Mini</strong></a>, <a href="https://ollama.com/library/moondream" rel="noopener" target="_blank"><strong>Moondream</strong></a> pour la vision par ordinateur sur des appareils à la marge, ou encore <a href="https://ollama.com/library/dolphin-llama-3" rel="noopener" target="_blank"><strong>Dolphin Llama 3</strong></a> qui répond sans censure. Et le premier modèle Qwen (c&rsquo;est chinois) de plus de 100 milliards de paramètres, <a href="https://ollama.com/library/qwen:110b" rel="noopener" target="_blank"><strong>Qwen 110B</strong></a>, est également de la partie. Ça en fait des compagnons pour nous assister dans nos projets !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1325942058" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ensuite, imaginons que vous vouliez tester le <strong>parallélisme</strong>. Vous devez simplement lancer votre serveur Ollama avec les fameuses variables d&rsquo;environnement.</p>
+
+
+
+<p>Voici comment procéder :</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Définir les variables sur Mac</strong> :</h2>
+
+
+
+<ul>
+<li>Utilisez <code>launchctl</code> pour définir chaque variable. Par exemple, pour permettre à Ollama de gérer trois requêtes simultanément, tapez dans le terminal :<br /><code>launchctl setenv OLLAMA_NUM_PARALLEL 3</code></li>
+
+
+
+<li>Pour définir le nombre maximal de modèles chargés simultanément à deux, utilisez :<br /><code>launchctl setenv OLLAMA_MAX_LOADED_MODELS 2</code></li>
+
+
+
+<li>Après avoir défini les variables, redémarrez l&rsquo;application Ollama.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Configurer les variables sur Linux</strong> :</h2>
+
+
+
+<ol></ol>
+
+
+
+<ul>
+<li>Éditez le service systemd d&rsquo;Ollama avec <code>systemctl edit ollama.service</code>, ce qui ouvrira un éditeur de texte.</li>
+
+
+
+<li>Ajoutez les lignes suivantes sous la section <code>[Service]</code> :<br /><code>[Service] Environment="OLLAMA_NUM_PARALLEL=3" Environment="OLLAMA_MAX_LOADED_MODELS=2"</code></li>
+
+
+
+<li>Sauvegardez et quittez l&rsquo;éditeur. Rechargez systemd et redémarrez Ollama avec :<br /><code>systemctl daemon-reload systemctl restart ollama</code></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Paramétrer les variables sur Windows</strong> :</h2>
+
+
+
+<ol></ol>
+
+
+
+<ul>
+<li>Quittez l&rsquo;application Ollama via la barre des tâches.</li>
+
+
+
+<li>Accédez aux variables d&rsquo;environnement système via le panneau de configuration et créez ou modifiez les variables pour votre compte utilisateur :
+<ul>
+<li>Pour OLLAMA_NUM_PARALLEL, ajoutez ou modifiez la variable à 3.</li>
+
+
+
+<li>Pour OLLAMA_MAX_LOADED_MODELS, ajustez la variable à 2.</li>
+</ul>
+</li>
+
+
+
+<li>Appliquez les changements et redémarrez Ollama à partir d&rsquo;une nouvelle fenêtre de terminal.</li>
+</ul>
+
+
+
+<p>Là, ça veut dire que vous pourrez envoyer 3 requêtes en parallèle sur le même modèle, et charger jusqu&rsquo;à 2 modèles différents si votre RAM de 16 Go minimum le permet.</p>
+
+
+
+<p>Bon, et une fois que c&rsquo;est lancé, vous pourrez envoyer des requêtes à tour de bras. Un coup à Llama 3 pour qu&rsquo;il vous aide à générer un résumé de texte hyper optimisé, un autre à Phi 3 Mini pour résumer un article scientifique, tout ça pendant que Moondream analyse une image pour de la détection d&rsquo;objets.</p>
+
+
+
+<p>Allez, je vous laisse tranquille, faut que j&rsquo;aille optimiser mes scripts maintenant.</p>
+
+
+
+<p><a href="https://github.com/ollama/ollama/releases/tag/v0.1.33" rel="noopener" target="_blank">Ollama 0.133 est dispo ici.</a></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1015416658" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://www.geeky-gadgets.com/ollama-concurrency/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 10:06:26 +0000</pubDate>
+<pubDate>Mon, 06 May 2024 10:06:26 +0000</pubDate>
+</item>
+<item>
+<title>Authenticator Pro – Le 2FA libre sous Android</title>
+<link>https://korben.info/authenticator-pro-app-open-source-securiser-comptes.html</link>
+<guid>https://korben.info/authenticator-pro-app-open-source-securiser-comptes.html</guid>
+<content:encoded><![CDATA[
+<div> Authenticator Pro, 2FA, Android, sécurité, vie privée
+Summary:<br>
+Authenticator Pro est une application de 2FA pour Android qui garantit la sécurité de vos comptes en ligne. Elle prend en charge différents algorithmes de hachage et protocoles, offre une sauvegarde sécurisée des données et une restauration facile en cas de besoin. L'application fonctionne hors ligne, respecte la vie privée de l'utilisateur et ne requiert qu'une seule autorisation pour fonctionner. Elle possède un mode sombre, permet d'organiser les codes dans des catégories et est compatible avec Wear OS pour une validation des connexions depuis votre montre. Avec Authenticator Pro, vous pouvez sécuriser vos comptes en ligne sans excuse. <br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_add_a_smile_9979f210-debf-4c2a-8d09-369f05f6a795.webp" width="1456" /></p>
+<p>Si vous ne l&rsquo;avez pas encore fait, je vous recommande vivement d&rsquo;<a href="https://korben.info/authentification-double-facteur-2fa.html">activer la double authentification</a> sur tous vos comptes en ligne. C&rsquo;est hyper important ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1932678549" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors évidemment, pour cela vous aurez besoin d&rsquo;une application 2FA et j&rsquo;en ai déjà recommandé beaucoup comme <a href="https://korben.info/articles/authy-twilio-test">Authy</a>, <a href="https://korben.info/2fas-app-authentification-double-facteur-open-source-secure-comptes-en-ligne.html">2FAS</a>, Google Authenticator, celle de Lastpass et j&rsquo;en passe. Et aujourd&rsquo;hui, je vous en fait découvrir une nouvelle qui s&rsquo;appelle très sérieusement Authenticator Pro (mais ça n&rsquo;a rien à voir avec l&rsquo;app de Google).</p>
+
+
+
+<p><a href="https://authenticatorpro.jmh.me/" rel="noopener" target="_blank"><strong>Authenticator Pro</strong></a> est donc une appli de 2FA qui fonctionne sous Android et supporte les algorithmes de hachage <strong>SHA1</strong>, <strong>SHA256</strong> et <strong>SHA512</strong>, ainsi que les protocoles <strong>TOTP</strong> (basé sur le temps) et <strong>HOTP</strong> (basé sur un compteur). Elle gère également les codes <strong>Mobile-Otp</strong>, <strong>Steam</strong> et <strong>Yandex</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157629" height="715" src="https://korben.info/app/uploads/2024/03/screenshot1.webp" width="330" /></figure></div>
+
+
+<p>En plus d&rsquo;être compatible avec la plupart des services et providers, Authenticator Pro vous permet également de <strong>sauvegarder vos données de manière sécurisée</strong> grâce à un bon chiffrement et les restaurer facilement en cas de changement de téléphone. Comme ça, pas de panique si votre cher smartphone vous laisse tomber.</p>
+
+
+
+<p>Y&rsquo;a un <strong>mode sombre</strong> pour ceux qui sont de la night et vous pourrez même organiser tous vos codes dans des catégories comme un bon maniaque du rangement. Vous l&rsquo;aurez compris, Authenticator Pro fonctionne offline et surtout<strong> respecte votre vie privée</strong>. Niveau permissions, comme je sais que ça vous tient à cœur, sachez le, elle est plutôt du genre discrète : une seule autorisation requise pour fonctionner, c&rsquo;est tout ! Cela concerne l&rsquo;accès à la caméra pour flasher les QR codes des comptes à ajouter.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-615671702" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et pour les plus geeks d&rsquo;entre vous, l&rsquo;app est compatible<strong> avec Wear OS</strong>. Comme ça vous pourrez valider vos connexions directement depuis votre poignet, tel un agent secret.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157630" height="220" src="https://korben.info/app/uploads/2024/03/wearos_screenshot2.webp" width="220" /></figure></div>
+
+
+<p>Il ne vous reste plus qu&rsquo;à foncer sur <a href="https://authenticatorpro.jmh.me/download" rel="noopener" target="_blank">F-Droid, le PlayStore ou IzzyDroid pour l&rsquo;installer</a>.</p>
+
+
+
+<p>Allez, c&rsquo;est parti, vous n&rsquo;avez plus d&rsquo;excuses pour ne pas sécuriser vos compte en ligne !</p>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>20 ans de passion et de partage sur Korben.info ! Merci d’être là !</title>

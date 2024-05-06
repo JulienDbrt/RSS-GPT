@@ -382,3 +382,12 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : sauve qui peut !](https://www.lopinion.fr/patrimoine/immobilier-sauve-qui-peut)
 append_entries: 2
 Finish: 2024-05-06 01:07:25.686236
+------------------------------------------------------
+Started: 2024-05-06 12:31:37.464935
+Existing_entries: 118
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: ["Pornographie immobilière" : on vous explique ce nouveau phénomène](https://www.lebonbon.fr/paris/societe/pornographie-immobiliere-nouveau-phenomene/)
+append_entries: 1
+Finish: 2024-05-06 12:31:42.898002

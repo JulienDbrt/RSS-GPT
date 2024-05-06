@@ -172,3 +172,18 @@ Existing_entries: 24
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
 append_entries: 0
 Finish: 2024-05-06 01:11:55.131015
+------------------------------------------------------
+Started: 2024-05-06 12:49:39.370192
+Existing_entries: 24
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 14
+Summarized using GPT-3.5-turbo
+Append: [Maurice : 70 passagers, d'un vol à destination de l'Allemagne, victimes de fortes nausées](https://la1ere.francetvinfo.fr/reunion/maurice-70-passagers-d-un-vol-a-destination-de-l-allemagne-victimes-de-fortes-nausees-1485989.html)
+Token length: 47
+Summarized using GPT-3.5-turbo
+Append: [Affaire Sodem : le procès sur la mise en place du TCSP reprend ce lundi](https://la1ere.francetvinfo.fr/martinique/affaire-sodem-le-proces-sur-la-mise-en-place-du-tcsp-reprend-ce-lundi-1485830.html)
+Token length: 49
+Summarized using GPT-3.5-turbo
+Append: [Air Austral : un accord de principe avant l’accord de performance collective](https://la1ere.francetvinfo.fr/reunion/air-austral-un-accord-de-principe-avant-l-accord-de-performance-collective-1485962.html)
+append_entries: 3
+Finish: 2024-05-06 12:49:50.471111

@@ -318,3 +318,24 @@ Summarized using GPT-3.5-turbo
 Append: [VIDEO. Sur l'île de Noirmoutier, la Bonnotte est toujours la reine des pommes de terre !](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/video-sur-l-ile-de-noirmoutier-la-bonnotte-est-toujours-la-reine-des-pommes-de-terre-2965229.html)
 append_entries: 3
 Finish: 2024-05-06 01:11:20.396628
+------------------------------------------------------
+Started: 2024-05-06 12:45:46.062372
+Existing_entries: 86
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Un essaim d'abeilles dans votre jardin : les bons gestes, ce qu'il faut faire et ce qu'il ne faut pas faire](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/un-essaim-d-abeilles-dans-votre-jardin-d-abord-rester-calme-ce-qu-il-faut-faire-et-ce-qu-il-ne-faut-pas-faire-2964842.html)
+Token length: 350
+Summarized using GPT-3.5-turbo
+Append: [INSOLITE. Ancien couvreur, Laurent cultive maintenant des champignons dans les caves du centre-ville de Besançon](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/insolite-ancien-couvreur-laurent-cultive-maintenant-des-champignons-dans-les-caves-du-centre-ville-de-besancon-2962835.html)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Les viticulteurs victimes de vols de piquets de vignes, les gendarmes appellent à la vigilance et renforcent leurs patrouilles](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/les-viticulteurs-victimes-de-vols-de-piquets-de-vignes-les-gendarmes-appellent-a-la-vigilance-et-renforcent-leurs-patrouilles-2964542.html)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Pesticides dans les vignes : "nous n'avons plus beaucoup de vigies sur le terrain." Une lanceuse d'alerte raconte son combat et sa lassitude](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/pesticides-dans-les-vignes-nous-n-avons-plus-beaucoup-de-vigies-sur-le-terrain-une-lanceuse-d-alerte-raconte-son-combat-et-sa-lassitude-2964461.html)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: ["C'est délirant !" : à cause d’une facture bloquée de 2€, deux agricultrices risquent de perdre 20 000€ d'aides](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/c-est-delirant-a-cause-d-une-facture-bloquee-de-2-deux-agricultrices-risquent-de-perdre-20-000-d-aides-2964650.html)
+append_entries: 5
+Finish: 2024-05-06 12:46:16.153974

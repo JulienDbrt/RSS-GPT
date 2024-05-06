@@ -192,3 +192,9 @@ Summarized using GPT-3.5-turbo
 Append: [Syndicat des techniciens: WestJet émet un avis de lock-out de 72 h](https://www.journaldemontreal.com/2024/05/04/syndicat-des-techniciens-westjet-emet-un-avis-de-lock-out-de-72-h)
 append_entries: 1
 Finish: 2024-05-06 01:11:35.511974
+------------------------------------------------------
+Started: 2024-05-06 12:47:45.246775
+Existing_entries: 34
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-06 12:47:45.370055

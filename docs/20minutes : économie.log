@@ -212,3 +212,24 @@ Existing_entries: 44
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-05-06 01:09:30.019547
+------------------------------------------------------
+Started: 2024-05-06 12:39:20.533509
+Existing_entries: 44
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Des pros au service de votre bien-être à domicile](https://www.20minutes.fr/tempo/bien-etre/4088731-20240506-pros-service-bien-etre-domicile)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [La France espère vendre 800.000 voitures électriques par an dès 2027](https://www.20minutes.fr/economie/4089838-20240506-france-espere-vendre-800-000-voitures-electriques-an-2027)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Australie : C’est quoi ces « vols fantômes » qui vont coûter très cher à la compagnie aérienne Qantas ?](https://www.20minutes.fr/monde/4089834-20240506-australie-quoi-vols-fantomes-vont-couter-tres-cher-compagnie-aerienne-qantas)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Xi Jinping à Paris : Devant Xi et Macron, von der Leyen compte exiger une concurrence « équitable » avec la Chine](https://www.20minutes.fr/monde/chine/4089828-20240506-xi-jinping-paris-devant-xi-macron-von-der-leyen-compte-exiger-concurrence-equitable-chine)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Cette PME est devenue l’une des références du téléphone reconditionné en France](https://www.20minutes.fr/economie/4089741-20240506-pme-devenue-references-telephone-reconditionne-france)
+append_entries: 5
+Finish: 2024-05-06 12:39:36.840206

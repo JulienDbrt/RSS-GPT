@@ -284,3 +284,15 @@ Summarized using GPT-3.5-turbo
 Append: [Voitures électriques : la France vise 800.000 ventes dès 2027](https://www.martinique.franceantilles.fr/actualite/economie/voitures-electriques-la-france-vise-800000-ventes-des-2027-986201.php)
 append_entries: 1
 Finish: 2024-05-06 01:10:35.031908
+------------------------------------------------------
+Started: 2024-05-06 12:43:10.975069
+Existing_entries: 88
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Ecophyto: le gouvernement présente sa nouvelle stratégie pour réduire les pesticides](https://www.martinique.franceantilles.fr/actualite/economie/ecophyto-le-gouvernement-presente-sa-nouvelle-strategie-pour-reduire-les-pesticides-986276.php)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Le vaisseau Starliner de Boeing s'apprête à décoller avec ses premiers astronautes](https://www.martinique.franceantilles.fr/actualite/economie/le-vaisseau-starliner-de-boeing-sapprete-a-decoller-avec-ses-premiers-astronautes-986275.php)
+append_entries: 2
+Finish: 2024-05-06 12:43:24.342184

@@ -205,3 +205,15 @@ Existing_entries: 37
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-05-06 01:07:27.044432
+------------------------------------------------------
+Started: 2024-05-06 12:31:43.453343
+Existing_entries: 37
+Fetching from https://korben.info/feed
+Token length: 3802
+Summarized using GPT-3.5-turbo
+Append: [Ollama 0.133 – Enfin une gestion en parallèle des LLMs](https://korben.info/ollama-0-133-parallelisme-puissance-experimental.html)
+Token length: 1830
+Summarized using GPT-3.5-turbo
+Append: [Authenticator Pro – Le 2FA libre sous Android](https://korben.info/authenticator-pro-app-open-source-securiser-comptes.html)
+append_entries: 2
+Finish: 2024-05-06 12:31:51.882417

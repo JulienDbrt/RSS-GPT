@@ -201,3 +201,18 @@ Summarized using GPT-3.5-turbo
 Append: [Voitures électriques: la France veut presque tripler les ventes en 4 ans](https://www.bfmtv.com/auto/voitures-electriques-la-france-veut-presque-tripler-les-ventes-en-4-ans_AD-202405050387.html)
 append_entries: 1
 Finish: 2024-05-06 01:09:41.136201
+------------------------------------------------------
+Started: 2024-05-06 12:41:00.399482
+Existing_entries: 47
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: ["Choix résolu de la voiture électrique": Le Maire appelle à ne pas "persister dans le véhicule thermique"](https://www.bfmtv.com/auto/choix-resolu-de-la-voiture-electrique-le-maire-appelle-a-ne-pas-persister-dans-le-vehicule-thermique_AD-202405060532.html)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Ponts de Mai: un mardi très difficile attendu sur les routes françaises](https://www.bfmtv.com/auto/ponts-de-mai-un-mardi-tres-difficile-attendu-sur-les-routes-francaises_AN-202405060339.html)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [Quelles voitures électriques ont été les plus vendues en France ces derniers mois?](https://www.bfmtv.com/auto/quelles-voitures-electriques-ont-ete-les-plus-vendues-en-france-ces-derniers-mois_AV-202405060041.html)
+append_entries: 3
+Finish: 2024-05-06 12:41:09.764732
