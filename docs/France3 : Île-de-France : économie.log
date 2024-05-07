@@ -246,3 +246,12 @@ Summarized using GPT-3.5-turbo
 Append: [Lignes 14 ou 7, RER A, tram... Quelles sont les lignes fermées lors du pont de l'ascension ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/lignes-14-ou-7-rer-a-tram-quelles-sont-les-lignes-fermees-lors-du-pont-de-l-ascension-2965661.html)
 append_entries: 2
 Finish: 2024-05-07 01:16:59.929056
+------------------------------------------------------
+Started: 2024-05-07 12:41:11.326922
+Existing_entries: 58
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [Pont de l'Ascension : "quittez Paris avant midi", d'importants embouteillages attendus dès ce mardi, selon Bison futé](https://france3-regions.francetvinfo.fr/paris-ile-de-france/pont-de-l-ascension-quittez-paris-avant-midi-d-importants-embouteillages-attendus-des-ce-mardi-selon-bison-fute-2966147.html)
+append_entries: 1
+Finish: 2024-05-07 12:41:16.725031

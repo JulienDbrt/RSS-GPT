@@ -364,3 +364,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les secrets de Thierry Blandinières, l’homme le plus puissant de l’agriculture française](https://www.lexpress.fr/economie/entreprises/les-secrets-de-thierry-blandinieres-lhomme-le-plus-puissant-de-lagriculture-francaise-ZSIYLGLGMFG67LB57ABLQKP2PI/)
 append_entries: 1
 Finish: 2024-05-07 01:18:45.944083
+------------------------------------------------------
+Started: 2024-05-07 12:43:28.068400
+Existing_entries: 144
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2106
+Summarized using GPT-3.5-turbo
+Append: [Crédit immobilier : les chiffres d’une dégringolade qui se poursuit](https://www.lexpress.fr/economie/credit-immobilier-les-chiffres-dune-degringolade-qui-se-poursuit-AQZYUMPTQZABXKA67C7FXVMBF4/)
+Token length: 2429
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le gouvernement acte le départ de Jean-Pierre Farandou après les JO](https://www.lexpress.fr/economie/sncf-le-gouvernement-acte-le-depart-de-jean-pierre-farandou-apres-les-jo-KFC2F2XEBBC2HJJH2EDT5ELNE4/)
+Token length: 3803
+Summarized using GPT-3.5-turbo
+Append: [Automobile : l’hydrogène n’a pas dit son dernier mot](https://www.lexpress.fr/economie/automobile-lhydrogene-na-pas-dit-son-dernier-mot-P6LRGJPDDNCHTF456DG4DZ32JI/)
+append_entries: 3
+Finish: 2024-05-07 12:43:46.630772

@@ -218,3 +218,12 @@ Existing_entries: 62
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-05-07 01:15:24.336700
+------------------------------------------------------
+Started: 2024-05-07 12:37:57.071752
+Existing_entries: 62
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [Xi Jinping appelle les Occidentaux à ne pas « salir » la Chine sur la crise ukrainienne](https://www.euractiv.fr/section/chine/news/xi-jinping-appelle-les-occidentaux-a-pas-salir-la-chine-sur-la-crise-ukrainienne/)
+append_entries: 1
+Finish: 2024-05-07 12:38:04.776617

@@ -242,3 +242,15 @@ Summarized using GPT-3.5-turbo
 Append: [Xi Jinping à Paris : Comment l’économie chinoise grignote peu à peu celle de la France](https://www.20minutes.fr/economie/4089920-20240506-xi-jinping-paris-comment-economie-chinoise-grignote-peu-peu-celle-france)
 append_entries: 1
 Finish: 2024-05-07 01:11:28.403158
+------------------------------------------------------
+Started: 2024-05-07 12:34:34.222957
+Existing_entries: 50
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [SNCF : Le PDG Jean-Pierre Farandou sera remplacé après les JO de Paris 2024](https://www.20minutes.fr/economie/4090070-20240507-sncf-pdg-jean-pierre-farandou-remplace-apres-jeux-olympiques)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Crise de l’immobilier : Malgré une baisse des taux, le volume de crédits continue de s’effondrer](https://www.20minutes.fr/economie/immobilier/4090019-20240507-crise-immobilier-malgre-baisse-taux-volume-credits-continue-effondrer)
+append_entries: 2
+Finish: 2024-05-07 12:34:48.204104

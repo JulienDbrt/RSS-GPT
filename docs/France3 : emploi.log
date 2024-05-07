@@ -258,3 +258,18 @@ Summarized using GPT-3.5-turbo
 Append: [Touche pas à ma Poste : les maires du bassin minier se mobilisent contre des réorganisations dans les Banques Postales](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/touche-pas-a-ma-poste-les-maires-du-bassin-minier-se-mobilisent-contre-des-reorganisations-dans-les-banques-postales-2965583.html)
 append_entries: 1
 Finish: 2024-05-07 01:17:37.350097
+------------------------------------------------------
+Started: 2024-05-07 12:41:57.414297
+Existing_entries: 62
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: ["Les justiciables ne le méritent pas" : le tribunal de Guéret manque cruellement de magistrats et de greffiers](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/creuse/gueret/les-justiciables-ne-le-meritent-pas-le-tribunal-de-gueret-manque-cruellement-de-magistrats-et-de-greffiers-2966303.html)
+Token length: 383
+Summarized using GPT-3.5-turbo
+Append: [Économie. Les 250 ingénieurs et ouvriers chinois ne seront finalement pas accueillis à Cléty, village du Pas-de-Calais](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/economie-les-250-ingenieurs-et-ouvriers-chinois-ne-seront-finalement-pas-accueillis-a-clety-village-du-pas-de-calais-2965724.html)
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: ["Est-ce que c'est le nouvel endroit pour se faire du fric ?" Tatouage : une mode, mais aussi un business en vogue](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/est-ce-que-c-est-le-nouvel-endroit-pour-se-faire-du-fric-tatouage-une-mode-mais-aussi-un-business-en-vogue-2965622.html)
+append_entries: 3
+Finish: 2024-05-07 12:42:12.729204

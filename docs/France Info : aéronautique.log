@@ -158,3 +158,12 @@ Existing_entries: 22
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-05-07 01:16:06.481579
+------------------------------------------------------
+Started: 2024-05-07 12:39:20.612380
+Existing_entries: 22
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Le régulateur aérien américain ouvre une enquête sur Boeing et ses Dreamliner 787](https://www.francetvinfo.fr/economie/aeronautique/etats-unis-le-regulateur-aerien-ouvre-une-enquete-sur-boeing-et-ses-avions-787_6530096.html)
+append_entries: 1
+Finish: 2024-05-07 12:39:23.159411

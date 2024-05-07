@@ -255,3 +255,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les banques baissent à nouveau les taux d'intérêt sur l'épargne](https://www.20min.ch/fr/103096444)
 append_entries: 2
 Finish: 2024-05-07 01:11:25.149603
+------------------------------------------------------
+Started: 2024-05-07 12:34:21.784147
+Existing_entries: 61
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Plus de 100 entreprises ont quitté Vaud pour partir en Valais](https://www.20min.ch/fr/103098913)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [UBS renoue avec les bénéfices après deux trimestres dans le rouge](https://www.20min.ch/fr/103099307)
+append_entries: 2
+Finish: 2024-05-07 12:34:34.197581

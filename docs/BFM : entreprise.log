@@ -433,3 +433,9 @@ Summarized using GPT-3.5-turbo
 Append: [Airbus confirme une commande d'Indigo de 30 A350-900](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-confirme-une-commande-d-indigo-de-30-a350-900_AV-202405060643.html)
 append_entries: 2
 Finish: 2024-05-07 01:13:08.313913
+------------------------------------------------------
+Started: 2024-05-07 12:36:12.468013
+Existing_entries: 127
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+append_entries: 0
+Finish: 2024-05-07 12:36:12.593292

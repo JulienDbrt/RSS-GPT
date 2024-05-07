@@ -5,13 +5,379 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Skyvern – Plus besoin de vous prendre la tête pour automatiser une tâche web (scraping, saisie de formulaire…etc)</title>
+<link>https://korben.info/skyvern-automatisation-web-ia-vision-ordinateur.html</link>
+<guid>https://korben.info/skyvern-automatisation-web-ia-vision-ordinateur.html</guid>
+<content:encoded><![CDATA[
+<div> intelligence artificielle, vision par ordinateur, automatisation web, Skyvern, Python
+
+Summary: 
+Skyvern est un outil d'automatisation web qui utilise l'intelligence artificielle et la vision par ordinateur pour interagir avec les sites web sans avoir besoin de code spécifique. Grâce à des modèles de langage, il peut remplir des formulaires et comparer des produits. Inspiré par des architectures d'agents autonomes, il offre une interface graphique pour créer des automatisations. L'installation se fait via Python et poetry, avec des scripts à exécuter pour démarrer le serveur et l'interface. Les requêtes peuvent être envoyées via cURL pour définir des objectifs de navigation et d'extraction de données. Skyvern enregistre chaque action avec une capture d'écran pour faciliter le débogage des workflows. Pour en savoir plus, il est possible de consulter leur site web et leur repository GitHub. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="108" src="https://korben.info/app/uploads/2024/03/replicate-prediction-khieaf3bodjdnnav26kzuvnwvm.webp" width="402" /></p>
+<p>Qui n&rsquo;a jamais rêvé d&rsquo;<strong>automatiser n&rsquo;importe quelle tâche web</strong> peu importe sa complexité, pour évidemment se la couler douce ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1537309185" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>C&rsquo;est précisément ce que vous propose <a href="https://www.skyvern.com/" rel="noopener" target="_blank">Skyvern</a>, un outil qui allie <strong>intelligence artificielle</strong> et <strong>vision par ordinateur</strong> pour interagir avec les sites web comme vous le feriez vous-même.</p>
+
+
+
+<p>Plus besoin de scripts qui pètent à tout bout de champs, de XPath qui changent tous les 4 matins et de parseurs de DOM capricieux puisque Skyvern est capable de <strong>comprendre visuellement ce qu&rsquo;il y a sur une page web</strong> et ainsi générer un plan d&rsquo;interaction en temps réel.</p>
+
+
+
+<p>Cela signifie que Skyvern est capable d&rsquo;agir sur des sites qu&rsquo;il n&rsquo;a jamais vus auparavant, le tout sans avoir besoin de code spécifique. Il analyse les éléments visuels de la page pour déterminer les actions nécessaires pour répondre à votre demande, ce qui en fait un outil immunisé contre les changements de design de sites, contrairement à votre bon vieux scrapper.</p>
+
+
+
+<p>Grâce aux <strong>modèles de langage</strong> (LLM) qu&rsquo;il embarque, il est capable de « raisonner » donc par exemple, de remplir un formulaire qui vous pose plein de questions, ou de comparer des produits. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2094360345" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Vous voulez voir Skyvern à l&rsquo;œuvre ? Voici un petit aperçu en vidéo :</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Sous le capot, Skyvern s&rsquo;inspire des architectures d&rsquo;agents autonomes comme <a href="https://github.com/yoheinakajima/babyagi" rel="noopener" target="_blank">BabyAGI</a> et <a href="https://github.com/Significant-Gravitas/AutoGPT" rel="noopener" target="_blank">AutoGPT</a>, avec une couche d&rsquo;automatisation web en plus, basée sur des outils comme <a href="https://playwright.dev/" rel="noopener" target="_blank">Playwright</a>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-157642" height="772" src="https://korben.info/app/uploads/2024/03/skyvern-system-diagram-light-1024x772.webp" width="1024" /></figure>
+
+
+
+<p>Et comme d&rsquo;hab, vous pouvez installer la bête sur votre machine et commencer à automatiser tout votre boulot en quelques commandes.</p>
+
+
+
+<p>Vous devrez donc avoir Python 3.11, puis installez poetry : </p>
+
+
+
+<pre class="wp-block-code"><code>brew install poetry</code></pre>
+
+
+
+<p>Ensuite, <strong>clonez le dépôt git et aller dans le dossier</strong> : </p>
+
+
+
+<p><code>git clone https://github.com/Skyvern-AI </code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-704972222" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><code>cd skyvern</code></p>
+
+
+
+<p>Puis lancez le script d&rsquo;install :</p>
+
+
+
+<pre class="wp-block-code"><code>./setup.sh
+</code></pre>
+
+
+
+<p>Une fois que c&rsquo;est fini, démarrez le serveur : </p>
+
+
+
+<pre class="wp-block-code"><code>./run_skyvern.sh</code></pre>
+
+
+
+<p>Et voilà, vous pouvez maintenant envoyer des requêtes au serveur, mais ne vous inquiétez pas, y&rsquo;a une interface graphique :). Pour la lancer :</p>
+
+
+
+<pre class="wp-block-code"><code>./run_ui.sh</code></pre>
+
+
+
+<p>Ouvrez ensuite http://localhost:8501 dans votre navigateur pour y accéder. Vous verrez alors ce genre d&rsquo;interface. A vous de remplir les champs qui vont bien pour créer votre première automatisation.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157643" height="629" src="https://korben.info/app/uploads/2024/03/skyvern_visualizer_run_task-1024x629.webp" width="1024" /></figure></div>
+
+
+<p>En commande cURL, ça ressemble à ça (pensez bien à mettre votre clé API locale dans la commande) : </p>
+
+
+
+<pre class="wp-block-code"><code>curl -X POST -H 'Content-Type: application/json' -H 'x-api-key: {Votre clé API locale}' -d '{
+    "url": "https://www.geico.com",
+    "webhook_callback_url": "",
+    "navigation_goal": "Naviguer sur le site Web jusqu\'à ce que vous obteniez un devis d\'assurance automobile. Ne pas générer de devis d\'assurance habitation. Si cette page contient un devis d\'assurance automobile, considérez l\'objectif atteint",
+    "data_extraction_goal": "Extraire toutes les informations de devis au format JSON, y compris le montant de la prime et le délai du devis",
+    "navigation_payload": "{Vos données ici}",
+    "proxy_location": "NONE"
+}' http://0.0.0.0:8000/api/v1/tasks
+</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-794668931" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Vous voyez, on peut vraiment faire des trucs pointu. Et le petit plus, c&rsquo;est qu&rsquo;on peut voir toutes les interactions puisque Skyvern enregistre chaque action avec une capture d&rsquo;écran correspondante pour vous permettre de débugger facilement vos workflows.</p>
+
+
+
+<p>Bref, pour en savoir plus, c&rsquo;est sur le <a href="https://github.com/Skyvern-AI/Skyvern" rel="noopener" target="_blank">Github</a>. Et sur leur <a href="https://www.skyvern.com/" rel="noopener" target="_blank">site officiel</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Reprogrammer Tetris NES en pleine partie – Un hack vraiment dingue ?</title>
+<link>https://korben.info/reprogrammer-tetris-nes-en-pleine-partie-le-hack-le-plus-dingue.html</link>
+<guid>https://korben.info/reprogrammer-tetris-nes-en-pleine-partie-le-hack-le-plus-dingue.html</guid>
+<content:encoded><![CDATA[
+<div> NES, Tetris, hacking, high scores, bidouilleurs <br>
+<br>
+Dans cet article, il est expliqué comment des hackers ont réussi à reprogrammer le jeu Tetris sur NES en exploitant une faille dans la gestion des manettes et en utilisant les high scores pour injecter leur code personnel. En atteignant des niveaux élevés et en entrant des noms spécifiques, ils parviennent à réécrire des portions de la RAM du jeu. Ils peuvent ainsi modifier les règles, ajouter des fonctionnalités et même provoquer volontairement un crash du jeu pour injecter leur code. Cette technique nécessite une connaissance approfondie du jeu et de la console, ainsi qu'une patience et une persévérance considérables. Une fois le code personnalisé exécuté, les hackers peuvent modifier le comportement du jeu, mais ces modifications sont temporaires et disparaissent à la prochaine coupure de la console. Ce processus complexe illustre la créativité et l'ingéniosité des bidouilleurs de génie qui parviennent à hacker un jeu classique comme Tetris pour en faire leur terrain de jeux. <br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1260" src="https://korben.info/app/uploads/2024/05/SCR-20240507-bth.webp" width="2240" /></p>
+<p><strong>Tetris sur NES</strong> &#8211; c&rsquo;est un <strong>classique indémodable</strong>, un <strong>monument du jeu vidéo</strong> mais c&rsquo;est aussi un terrain de jeu sans fin pour les <strong>hackers</strong> et les <strong>bidouilleurs</strong> de génie. Tenez-vous bien, ces derniers ont trouvé un moyen de <strong>reprogrammer Tetris en pleine partie</strong> ! Je vous jure, c&rsquo;est pas une blague. Ils arrivent à <strong>exécuter leur propre code</strong> en partant d&rsquo;une cartouche normale, sans aucune modification matérielle. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-968425535" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Voici comment ça marche :</p>
+
+
+
+<p>En atteignant des <strong>scores très élevés</strong> (comme le niveau 155) et en entrant des <strong>noms bien spécifiques</strong> dans le tableau des <em>high scores</em>, ils réussissent à <strong>réécrire des portions de la RAM</strong> du jeu. Concrètement, ils peuvent modifier les règles, ajouter des fonctionnalités, ce qu&rsquo;ils veulent.</p>
+
+
+
+<p>Mais le plus dingue, c&rsquo;est quand ils font leur tour de magie. Bah oui, vous connaissez le fameux <strong>kill screen</strong> de Tetris ? C&rsquo;est ce moment où après une partie marathon, il y a tellement de données que le jeu plante&#8230; Et bien nos <strong>petits génies</strong> provoquent volontairement ce crash qui en réalité, devient leur porte d&rsquo;entrée pour <strong>injecter leur code personnel</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160113" height="576" src="https://korben.info/app/uploads/2024/05/SCR-20240507-bxd-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>Techniquement, ils exploitent une <strong>faille dans la gestion des manettes</strong> car sur les Famicom, il y avait un port d&rsquo;extension pour brancher des manettes supplémentaires et quand le jeu crashe, il <strong>perd les pédales</strong> et va interpréter n&rsquo;importe quoi comme instruction, y compris les fameuses entrées de manettes. Résultat : vous appuyez sur des boutons bien précis au bon moment, et ça redirige l&rsquo;exécution du programme exactement où vous voulez !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-615376146" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Évidemment, tout ça c&rsquo;est d&rsquo;un <strong>niveau de difficulté extrême</strong>, il faut connaître le jeu et la console sur le bout des doigts. Mais comme ils ont désassemblé le <strong>code de Tetris en langage machine</strong>, ils savent exactement ce que fait chaque octet de la ROM. Et la beauté de la chose, c&rsquo;est que ça fonctionne sur une <strong>NES standard</strong>, avec une <strong>cartouche originale</strong>. Pas besoin d&rsquo;un <strong>Game Genie</strong> ou d&rsquo;un émulateur. Du <strong>100% pur jus rétro</strong>&#8230;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160114" height="576" src="https://korben.info/app/uploads/2024/05/SCR-20240507-byy-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>Par contre, il ne faut pas être trop gourmand non plus. On parle de reprogrammer un jeu en <strong>passant par les high scores</strong>, donc vous n&rsquo;aurez jamais de quoi coder un truc plus complexe&#8230; et puis il faut rusher le truc à chaque partie, parce que dès que vous éteignez la console, pouf ça s&rsquo;efface. C&rsquo;est vraiment de la <strong>bidouille éphémère</strong>, il faut aimer l&rsquo;art pour l&rsquo;art.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Mais je trouve ça cool car il y a un côté <strong> »hacker la Matrice »</strong> assez jouissif. Ça me donne presque envie de ressortir ma vieille <strong>NES</strong> pour essayer&#8230; Mais je suis pas encore assez bon à Tetris. Mais si vous voulez essayer chez vous, il vous faudra :</p>
+
+
+
+<ul>
+<li>Une NES (ou une Famicom)</li>
+
+
+
+<li>La cartouche Tetris</li>
+
+
+
+<li>2 manettes NES supplémentaires (ou un adaptateur pour manettes NES sur Famicom)</li>
+
+
+
+<li>De la patience et de la persévérance</li>
+</ul>
+
+
+
+<p>Ensuite, vous devrez franchir chacune de ces étapes : </p>
+
+
+
+<ul>
+<li><strong>Étape 1 :</strong> Atteignez le <strong>level 155</strong> en mode A-Type. Assurez-vous qu&rsquo;une seule ligne vous sépare du level suivant. </li>
+
+
+
+<li><strong>Étape 2 :</strong> Effacez cette ligne <strong>SANS</strong> appuyer sur bas (pour ne pas marquer de points) et en affichant la pièce suivante dans la zone <em>Next</em>.</li>
+
+
+
+<li><strong>Étape 3 :</strong> Branchez vos deux manettes NES supplémentaires (appelons-les <strong>manette 3</strong> et <strong>manette 4</strong>).</li>
+
+
+
+<li><strong>Étape 4 :</strong> Sur la manette 3, maintenez <strong>Haut</strong>. Sur la manette 4, appuyez <strong>simultanément</strong> sur Gauche, Bas et Droite (bonne chance&#8230;).</li>
+
+
+
+<li><strong>Étape 5 :</strong> Maintenant, préparez-vous à entrer dans la partie la plus délicate : l&rsquo;écriture de votre programme via les high scores ! L&rsquo;astuce consiste à utiliser les noms et scores pour y cacher des instructions destinées directement au processeur de la NES. Pour cela, vous devez placer judicieusement certains caractères dans les high scores. Par exemple, mettez <code>(G</code> comme 2ème lettre du nom en 1ère position du tableau B-Type. Cela indique au processeur de sauter vers une autre zone du tableau et de lire la suite comme un bout de code. Ensuite, en 2ème position B-Type, commencez le nom par <code>))</code>. Puis continuez à remplir les noms et scores suivants selon votre programme. Attention, vous êtes très limité dans les instructions possibles ! Vous ne pouvez utiliser que les 43 caractères autorisés pour les noms et les 10 chiffres pour les scores. La plupart des opcodes du processeur sont impossibles à reproduire ainsi. Mais avec de l&rsquo;astuce, c&rsquo;est jouable. Par exemple, essayez ceci pour votre 1ère position en A-Type : <code>(A name of '))"-P)'</code> . Ce code basique injecte deux zéros dans les digits de poids fort du score, ce qui limite son augmentation et retarde le crash du jeu (sans le corriger complètement).</li>
+
+
+
+<li><strong>Étape 6 :</strong> Validez le high score. Le jeu va planter, c&rsquo;est normal. Maintenez les boutons enfoncés sur les manettes 3 et 4.</li>
+
+
+
+<li><strong>Étape 7 :</strong> Tadaa ! Votre code personnalisé s&rsquo;exécute. Vous pouvez maintenant modifier le comportement du jeu. Mais attention, tout s&rsquo;efface à la prochaine coupure !</li>
+</ul>
+
+
+
+<p>Voilà, vous savez tout. Avec un peu d&rsquo;entraînement, vous pourrez à votre tour hacker <strong>Tetris</strong> comme un pro mais n&rsquo;oubliez pas, c&rsquo;est un grand pouvoir qui se mérite et qui implique de grandes responsabilités ! (non) </p>
+
+
+
+<p>Happy hacking !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1183583044" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:59:41 +0000</pubDate>
+<pubDate>Tue, 07 May 2024 06:59:41 +0000</pubDate>
+</item>
+<item>
+<title>ZTDNS – Microsoft renforce la sécurité DNS pour Windows</title>
+<link>https://korben.info/ztdns-microsoft-securite-dns-windows.html</link>
+<guid>https://korben.info/ztdns-microsoft-securite-dns-windows.html</guid>
+<content:encoded><![CDATA[
+<div> DNS, ZTDNS, sécurité, Microsoft, Windows
+<br>
+<br>
+Zero Trust DNS (ZTDNS) est un nouveau système de sécurité pour le DNS sur Windows, développé par Microsoft. Il vise à sécuriser les communications en chiffrant et authentifiant les échanges entre clients Windows et serveurs DNS, et en permettant aux admins réseau de contrôler les domaines autorisés. ZTDNS nécessite des serveurs DNS prenant en charge les protocoles de chiffrement comme DoH ou DoT. Il peut bloquer certains protocoles réseaux exotiques et applications spéciales, nécessitant des aménagements pour assurer leur bon fonctionnement. Un mode "Audit" permet de prévoir les éventuels blocages. Malgré ZTDNS, des failles de sécurité subsistent, notamment pour les connexions VPN ou de virtualisation. ZTDNS représente une avancée significative en termes de renforcement de la sécurité réseau pour les parcs Windows, mais nécessite rigueur et persévérance de la part des administrateurs système. La version de prévisualisation de ZTDNS est actuellement disponible chez Microsoft, sans date de déploiement officielle pour le grand public. 
+<br>
+<br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Microsoft_logo_with_word_ZTDNS_written_85b4caf4-6da4-4c20-9bea-94346839f923.webp" width="1456" /></p>
+<p>Tiens, Microsoft nous prépare un nouveau bébé baptisé <strong>Zero Trust DNS</strong>, ou <strong>ZTDNS</strong> pour les intimes. Alors c&rsquo;est quoi encore ce truc ? Eh bien c&rsquo;est tout simplement un système permettant de sécuriser le DNS sur nos chers Windows.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-367268714" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour ceux qui auraient loupé un épisode, le <strong>DNS</strong> c&rsquo;est un peu comme l&rsquo;annuaire téléphonique d&rsquo;Internet. Il permet de traduire les noms de domaine tout mignons comme korben.info en adresses IP bien moins sexy. Le problème, c&rsquo;est que jusqu&rsquo;à présent, le DNS c&rsquo;était un peu le maillon faible de la sécurité. Les communications n&rsquo;étaient pas chiffrées, ce qui ouvrait la porte à plein de menaces comme l&rsquo;espionnage, le détournement de trafic ou même les attaques de type « <a href="https://en.wikipedia.org/wiki/DNS_spoofing" rel="noopener" target="_blank">DNS spoofing</a>« . D&rsquo;ailleurs, selon <a href="https://umbrella.cisco.com/info/2021-cyber-security-threat-trends-phishing-crypto-top-the-list" rel="noopener" target="_blank">une étude de Cisco</a>, plus de 70% des attaques de phishing utilisent des techniques de DNS spoofing pour tromper leurs victimes.</p>
+
+
+
+<p>Mais ça, c&rsquo;était avant ! Avec ZTDNS, Microsoft promet de changer la donne. Déjà, toutes les communications entre les clients Windows et les serveurs DNS seront chiffrées et authentifiées grâce aux protocoles <a href="https://en.wikipedia.org/wiki/DNS_over_HTTPS" rel="noopener" target="_blank">DNS over HTTPS (DoH)</a> ou <a href="https://en.wikipedia.org/wiki/DNS_over_TLS" rel="noopener" target="_blank">DNS over TLS (DoT)</a>, ce qui devrait rendre la vie plus difficile aux vilains cyber criminels qui voudraient mettre leur nez dans nos petites affaires.</p>
+
+
+
+<p>Ensuite, et c&rsquo;est là que ça devient vraiment intéressant, ZTDNS va permettre aux admins réseau de contrôler finement quels domaines peuvent être résolus par les serveurs DNS. En gros, si un domaine n&rsquo;est pas sur la liste blanche, et bien le client Windows ne pourra tout simplement pas s&rsquo;y connecter !</p>
+
+
+
+<p>Mais attention, mettre en place un truc pareil, ça ne va pas être une partie de plaisir. Il va falloir bien planifier son coup pour éviter de tout casser, du genre bloquer sans faire exprès l&rsquo;accès à des services importants ! Mais bon, c&rsquo;est le prix à payer pour renforcer la sécurité et se rapprocher doucement d&rsquo;un modèle « <a href="https://en.wikipedia.org/wiki/Zero_trust_security_model" rel="noopener" target="_blank">Zero Trust</a> » où on ne fait confiance à personne par défaut.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1160913121" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Alors concrètement, comment ça va marcher ? </p>
+
+
+
+<p>Eh bien déjà, il faudra que les serveurs DNS supportent les protocoles de chiffrement comme DoH ou DoT. Ça tombe bien, ZTDNS est conçu pour être compatible avec tout ça. Pas besoin de réinventer la roue.</p>
+
+
+
+<p>Ensuite, lorsqu&rsquo;un client Windows aura besoin de résoudre un nom de domaine, il va discuter avec un des fameux serveurs DNS « protecteurs » et si le domaine est autorisé, le serveur lui filera l&rsquo;adresse IP correspondante. Et hop, le pare-feu Windows sera dynamiquement mis à jour pour autoriser la connexion vers cette IP. Par contre, pour le reste, c&rsquo;est niet ! Le trafic sera bloqué direct !</p>
+
+
+
+<p>Bon après, faut quand même avouer qu&rsquo;il y aura des trucs qui vont morfler à cause de ZTDNS. Tous les protocoles réseaux un peu exotiques qui n&rsquo;utilisent pas le DNS, comme le <a href="https://en.wikipedia.org/wiki/Multicast_DNS" rel="noopener" target="_blank">multicast DNS (mDNS)</a> par exemple, ça va être coupé. Pareil pour les partages de fichiers sur le réseau local ou les imprimantes qui utilisent des protocoles de découverte archaïques. Ça risque donc de râler dans les chaumières !</p>
+
+
+
+<p>Mais heureusement, les ingénieurs de Microsoft ne sont pas nés de la dernière pluie et ont prévu pas mal de mécanismes pour « mitiger » ces problèmes. Par exemple, on va pouvoir définir des exceptions pour autoriser certaines plages d&rsquo;adresses IP sans passer par le DNS. Ou encore favoriser des solutions plus modernes et sécurisées, comme l&rsquo;impression via <a href="https://www.microsoft.com/fr-fr/microsoft-365/windows/universal-print" rel="noopener" target="_blank">Universal Print</a> qui passe, lui, gentiment par le DNS.</p>
+
+
+
+<p>Un autre truc à prendre en compte, c&rsquo;est que certaines applications un peu spéciales risquent de ne plus fonctionner du tout avec ZTDNS. Celles qui utilisent des adresses IP codées en dur ou des mécanismes de résolution maison, c&rsquo;est mort. Mais bon, ce sera l&rsquo;occasion de faire le ménage et de moderniser tout ça.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-643010300" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Microsoft a d&rsquo;ailleurs prévu un mode « Audit » qui permet dans un premier temps de voir ce qui serait bloqué par ZTDNS, sans pour autant péter la prod. Comme ça, on peut analyser tranquillement les flux réseau et identifier les applications ou les flux problématiques. C&rsquo;est un bon moyen d&rsquo;anticiper les éventuels soucis avant de passer en mode bloquant !</p>
+
+
+
+<p>Bon après, faut pas non plus se voiler la face. Même avec ZTDNS, il restera toujours des failles de sécurité potentielles. Les connexions VPN ou <a href="https://en.wikipedia.org/wiki/Secure_access_service_edge" rel="noopener" target="_blank">SASE/SSE</a> par exemple, qui encapsulent le trafic dans un tunnel chiffré, pourront toujours passer entre les mailles du filet si on n&rsquo;y prend pas garde. Sans parler des technologies de virtualisation qui court-circuitent carrément la pile réseau de Windows !</p>
+
+
+
+<p>Mais bon, rien n&rsquo;est parfait et il faut bien commencer quelque part&#8230; ZTDNS représente déjà une sacrée avancée pour renforcer la sécurité réseau des parcs Windows et avec un peu de rigueur et de persévérance, les admins sys pourront en tirer le meilleur parti.</p>
+
+
+
+<p>Pour l&rsquo;instant, ZTDNS est en preview privée chez Microsoft. On ne sait pas encore exactement quand il débarquera dans nos Home Sweet Home. En attendant, je vous invite à aller jeter un œil à <a href="https://techcommunity.microsoft.com/t5/networking-blog/deployment-considerations-for-windows-ztdns-client/ba-p/4113372" rel="noopener" target="_blank">l&rsquo;article sur le blog Techcommunity qui rentre dans les détails techniques de la bête</a>. C&rsquo;est dense mais ça vaut le coup de s&rsquo;y plonger si vous voulez être informé.</p>
+
+
+
+<p><a href="https://www.howtogeek.com/microsoft-ztdns-windows-network-security/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:00:00 +0000</pubDate>
+<pubDate>Tue, 07 May 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Discutez avec les interviews de Steve Jobs !</title>
+<link>https://korben.info/discutez-avec-un-chatbot-inspire-de-steve-jobs.html</link>
+<guid>https://korben.info/discutez-avec-un-chatbot-inspire-de-steve-jobs.html</guid>
+<content:encoded><![CDATA[
+<div> intelligence artificielle, Steve Jobs, chatbot, Jelli.io, interviews <br>
+<br>
+Grâce à l'intelligence artificielle, les fans de Steve Jobs peuvent maintenant discuter avec un chatbot entraîné sur ses interviews et discours. Ce chatbot utilise des vidéos pour répondre aux questions des utilisateurs, permettant ainsi de s'inspirer et de se motiver sans avoir à regarder des heures d'interviews. Bien que le chatbot ne soit pas une incarnation directe de Steve Jobs, il offre une expérience interactive intéressante. Cette innovation a été rendue possible grâce à Jelli.io, un service spécialisé dans les conversations basées sur des vidéos. Les fans de Steve Jobs peuvent donc désormais profiter d'une nouvelle façon d'interagir avec leur gourou préféré, en posant des questions et en recevant des réponses basées sur ses paroles et ses idées. Cette initiative souligne l'importance croissante de l'intelligence artificielle dans la création de contenus interactifs et inspirants. <br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Press_drawing_of_Steve_Jobs_60f97520-e3b0-4901-a656-72777c57a6ab.webp" width="1456" /></p>
+<p>Fans de Steve Jobs, réjouissez-vous ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-146829169" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Grâce à la magie de l&rsquo;<strong>intelligence artificielle</strong>, vous allez pouvoir discuter avec votre gourou préféré. Enfin, quand je dis « discuter », c&rsquo;est un bien grand mot. Disons plutôt que vous allez pouvoir poser des questions à <a href="https://www.jelli.io/app/7NuzflVkq0WjNBAEAa5pw=" rel="noopener" target="_blank">un <strong>modèle de langage</strong></a> entraîné sur une petite quantité d&rsquo;interviews et discours de Steve Jobs himself.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-160107" height="692" src="https://korben.info/app/uploads/2024/05/SCR-20240507-lq-1024x692.webp" width="1024" /></figure>
+
+
+
+<p>Pour cela, le créateur de ce chatbot a utilisé un service nommé Jelli.io qui permet justement de chatter avec des vidéos et le résultat est plutôt cool, même si le chatbot n&rsquo;incarne pas directement Steve Jobs (pour des questions éthiques j&rsquo;imagine et pour n&rsquo;énerver personne&#8230;)</p>
+
+
+
+<p>Bref, de quoi vous inspirer et vous motiver sans forcement mater des heures et des heures d&rsquo;interviews.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 05:00:00 +0000</pubDate>
+<pubDate>Tue, 07 May 2024 05:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>TunnelVision – la faille qui fait sauter le VPN et laisse fuiter vos données</title>
 <link>https://korben.info/tunnelvision-faille-vpn-fuites-donnees.html</link>
 <guid>https://korben.info/tunnelvision-faille-vpn-fuites-donnees.html</guid>
 <content:encoded><![CDATA[
 <div> Leviathan Security, faille TunnelVision, VPN, DHCP, protection des données
 
-Summary:<br><br>
+Summary:<br /><br />
 Une équipe de chercheurs a découvert une faille nommée TunnelVision qui permet de contourner la protection des VPN en exploitant le protocole DHCP. Un attaquant peut rediriger tout le trafic vers sa propre passerelle, même lorsqu'un VPN est utilisé, en installant des routes par défaut sur la machine de la victime. Cette attaque nécessite un accès physique au réseau local ou la compromission d'un équipement sur le réseau, ainsi que l'absence de blocage des sorties de trafic vers les interfaces réseau locales par le client VPN. Les utilisateurs peuvent se prémunir en activant DHCP snooping et ARP protection sur les commutateurs réseau, en configurant des règles de pare-feu strictes, en utilisant des protocoles de chiffrement comme HTTPS, et en mettant en place une isolation réseau via des fonctionnalités telles que les espaces de noms réseau sous Linux. Les fournisseurs de VPN doivent informer leurs utilisateurs des risques et des mesures d'atténuation à prendre. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Logo_for_a_security_exploit_named_TunnelVision_938ecdbb-0646-4b07-a271-0c26a421b386.webp" width="1456" /></p>
 <p>Voici une info qui va vous faire voir les <strong>VPN</strong> sous un autre angle. Bah oui, parce que si vous pensiez que votre petit tunnel chiffré préféré vous mettait à l&rsquo;abri des regards indiscrets quand vous surfez depuis un réseau public, désolé de casser vos rêves, mais c&rsquo;est loin d&rsquo;être le cas !</p>
@@ -89,7 +455,6 @@ Une équipe de chercheurs a découvert une faille nommée TunnelVision qui perme
 <p><a href="https://krebsonsecurity.com/2024/05/why-your-vpn-may-not-be-as-secure-as-it-claims/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 21:03:51 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 21:03:51 +0000</pubDate>
 </item>
 <item>
 <title>Test de l’Anbernic RG353M – Votre compagnon rétro-gaming de poche !</title>
@@ -97,7 +462,7 @@ Une équipe de chercheurs a découvert une faille nommée TunnelVision qui perme
 <guid>https://korben.info/test-de-lanbernic-rg353m-votre-compagnon-retro-gaming-de-poche.html</guid>
 <content:encoded><![CDATA[
 <div> Anbernic, console portable, rétrogaming, émulateur, jeux
-Summary:<br><br>Anbernic est une marque spécialisée dans le rétrogaming, proposant des consoles de qualité. La console portable Anbernic est compacte, légère et dispose de performances intéressantes. Elle offre la possibilité d'émuler une grande variété de jeux rétro, avec une bonne fluidité pour les jeux classiques, mais peut présenter des difficultés pour les jeux plus gourmands. La console est polyvalente avec ses systèmes d'exploitation Android et Linux, permettant de jouer et d'utiliser des applications diverses. Elle est également disponible dans différents formats. La console peut être complétée avec une carte SD préchargée en option. Les contrôles peuvent être ajustés pour plus de confort de jeu. C'est un compagnon idéal pour les amateurs de rétrogaming, offrant la possibilité de jouer à de grands classiques partout où vous allez. <div>
+Summary:<br /><br />Anbernic est une marque spécialisée dans le rétrogaming, proposant des consoles de qualité. La console portable Anbernic est compacte, légère et dispose de performances intéressantes. Elle offre la possibilité d'émuler une grande variété de jeux rétro, avec une bonne fluidité pour les jeux classiques, mais peut présenter des difficultés pour les jeux plus gourmands. La console est polyvalente avec ses systèmes d'exploitation Android et Linux, permettant de jouer et d'utiliser des applications diverses. Elle est également disponible dans différents formats. La console peut être complétée avec une carte SD préchargée en option. Les contrôles peuvent être ajustés pour plus de confort de jeu. C'est un compagnon idéal pour les amateurs de rétrogaming, offrant la possibilité de jouer à de grands classiques partout où vous allez. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1920" src="https://korben.info/app/uploads/2024/05/IMG_4323-copie-scaled.webp" width="2560" /></p>
 <p class="has-text-align-center"><em>&#8212; Article rédigé par l&rsquo;ami Lilian &#8212; Contient des liens affiliés Amazon &#8212;</em></p>
 
@@ -179,7 +544,6 @@ Summary:<br><br>Anbernic est une marque spécialisée dans le rétrogaming, prop
 <p><strong>La console est dispo sur </strong><a href="https://amzn.to/4b96Vzh" rel="noopener" target="_blank"><strong>Amazon à environ 220€</strong></a>.</p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 16:48:22 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 16:48:22 +0000</pubDate>
 </item>
 <item>
 <title>L’incroyable record d’overclocking à 9,1 GHz sur Raptor Lake</title>
@@ -187,8 +551,8 @@ Summary:<br><br>Anbernic est une marque spécialisée dans le rétrogaming, prop
 <guid>https://korben.info/record-overclocking-9-ghz-raptor-lake-secrets-devoiles.html</guid>
 <content:encoded><![CDATA[
 <div> fréquence, overclocking, CPU, record, hélium liquide
-<br>
-<br>
+<br />
+<br />
 Dans le monde de l'overclocking extrême, un groupe d'experts passionnés a réussi à pousser un processeur Intel Core i9-14900KS à une fréquence incroyable de 9,1 GHz, battant ainsi un record de 17 ans. Pour atteindre cette prouesse, ils ont utilisé de l'hélium liquide pour refroidir le CPU à des températures glaciales de -250°C, assurant ainsi une stabilité et un transfert de chaleur optimal. L'importance du choix du CPU parfait, capable de supporter de basses températures et de réagir correctement aux augmentations de tension, a été soulignée, tout comme la nécessité d'une préparation minutieuse et de tests approfondis. Mesurer de manière fiable un CPU à 9 GHz a également été un défi, nécessitant le développement d'outils spécialisés. Bien que repousser les limites actuelles semble difficile, de nouvelles technologies pourraient ouvrir la voie à des fréquences encore plus élevées à l'avenir, incitant Intel et AMD à continuer d'innover. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="261" src="https://korben.info/app/uploads/2024/05/SCR-20240506-miw.webp" width="688" /></p>
 <p>Voici l&rsquo;histoire d&rsquo;une incroyable prouesse technique réalisée par des <em>overclockers</em> complètement allumés qui ont réussi à pousser un processeur <strong>Intel Core i9-14900KS</strong> à la fréquence de dingue de <strong>9,1 GHz</strong> ! C&rsquo;est un record absolu qui explose le précédent record vieux de 17 ans.</p>
@@ -252,17 +616,16 @@ Dans le monde de l'overclocking extrême, un groupe d'experts passionnés a réu
 <p>Et si vous voulez en savoir encore plus sur les dessous de ce record à 9,1 GHz, je vous invite à lire <a href="https://www.tomshardware.com/pc-components/overclocking/raptor-lake-91-ghz-overclockers-share-secrets-behind-eclipsing-a-17-year-old-cpu-frequency-milestone" rel="noopener" target="_blank">l&rsquo;excellent article de Tom&rsquo;s Hardware</a> qui rentre un peu plus dans les détails techniques.</p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 14:14:36 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 14:14:36 +0000</pubDate>
 </item>
 <item>
 <title>Contourner la protection FIDO2 via une simple attaque MITM</title>
 <link>https://korben.info/contourner-protections-cookies-faille-authentification-moderne.html</link>
 <guid>https://korben.info/contourner-protections-cookies-faille-authentification-moderne.html</guid>
 <content:encoded><![CDATA[
-<div> mots clés: FIDO2, vol de jeton de session, attaque de l'homme du milieu, liaison de jeton, sécurité des applications<br>
-<br>
-Summary:<br>
-Les chercheurs ont découvert une faille dans l'authentification FIDO2 qui permet à des attaquants de voler des jetons de session, mettant en danger la sécurité des utilisateurs. La solution réside dans la mise en place de la "liaison de jeton" pour empêcher la réutilisation des jetons. Cependant, cette méthode de protection est encore peu répandue. Microsoft a introduit une fonctionnalité de protection des jetons basée sur TPM, mais son adoption à grande échelle nécessite la coopération de tous les acteurs. Les développeurs sont invités à mettre en place cette liaison et à limiter l'usage des jetons OIDC et SAML. En tant qu'utilisateur, il est conseillé d'éviter les hotspots Wi-Fi publics, les liens suspects et les plugins de navigateur non fiables. En résumé, une vigilance accrue et une compréhension des menaces sont nécessaires pour garantir une authentification sécurisée dans le monde en ligne.<br> 
+<div> mots clés: FIDO2, vol de jeton de session, attaque de l'homme du milieu, liaison de jeton, sécurité des applications<br />
+<br />
+Summary:<br />
+Les chercheurs ont découvert une faille dans l'authentification FIDO2 qui permet à des attaquants de voler des jetons de session, mettant en danger la sécurité des utilisateurs. La solution réside dans la mise en place de la "liaison de jeton" pour empêcher la réutilisation des jetons. Cependant, cette méthode de protection est encore peu répandue. Microsoft a introduit une fonctionnalité de protection des jetons basée sur TPM, mais son adoption à grande échelle nécessite la coopération de tous les acteurs. Les développeurs sont invités à mettre en place cette liaison et à limiter l'usage des jetons OIDC et SAML. En tant qu'utilisateur, il est conseillé d'éviter les hotspots Wi-Fi publics, les liens suspects et les plugins de navigateur non fiables. En résumé, une vigilance accrue et une compréhension des menaces sont nécessaires pour garantir une authentification sécurisée dans le monde en ligne.<br /> 
 Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Cookie_FIDO_b9be5600-6ddd-4634-9dea-6953ec842d15.webp" width="1456" /></p>
 <p>Vous pensez que les méthodes d&rsquo;authentification modernes comme <strong>FIDO2</strong> vous protègent efficacement contre le vol de cookies et les attaques de l&rsquo;homme du milieu (<strong>MITM</strong>) ? Détrompez-vous ! Une équipe de chercheurs vient de <a href="https://www.silverfort.com/blog/using-mitm-to-bypass-fido2/" rel="noopener" target="_blank">démontrer qu&rsquo;il est possible de contourner ces protections</a> en s&#8217;emparant des précieux sésames que sont les jetons de session.</p>
@@ -318,9 +681,7 @@ Summary: <div>
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://cyberscoop.com/stealing-cookies-researchers-describe-how-to-bypass-modern-authentication/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 13:49:51 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 13:49:51 +0000</pubDate>
 </item>
-
 <item>
 <title>Ollama 0.133 – Enfin une gestion en parallèle des LLMs</title>
 <link>https://korben.info/ollama-0-133-parallelisme-puissance-experimental.html</link>

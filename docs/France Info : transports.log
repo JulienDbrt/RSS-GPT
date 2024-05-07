@@ -278,3 +278,27 @@ Summarized using GPT-3.5-turbo
 Append: [Tunnel sous la Manche : rencontre avec les pionniers 30 ans après](https://www.francetvinfo.fr/monde/royaume-uni/tunnel-sous-la-manche-rencontre-avec-les-pionniers-30-ans-apres_6528671.html)
 append_entries: 2
 Finish: 2024-05-07 01:16:17.452497
+------------------------------------------------------
+Started: 2024-05-07 12:39:25.473145
+Existing_entries: 62
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [Un tiers des vols de Vueling annulés mercredi et jeudi en France en raison d'une grève](https://www.francetvinfo.fr/economie/transports/transport-un-tiers-des-vols-de-vueling-annules-mercredi-et-jeudi-en-france-en-raison-d-une-greve_6530576.html)
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [Le PDG de la SNCF, Jean-Pierre Farandou, sera remplacé après les JO de Paris, annonce le gouvernement](https://www.francetvinfo.fr/economie/transports/sncf/le-pdg-de-la-sncf-jean-pierre-farandou-sera-remplace-apres-les-jo-de-paris-annonce-le-gouvernement_6530423.html)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Pont du 8-Mai et de l'Ascension : un trafic rouge et noir sur les routes](https://www.francetvinfo.fr/economie/transports/trafic/pont-du-8-mai-et-de-l-ascension-un-trafic-rouge-et-noir-sur-les-routes_6530591.html)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [PDG de la SNCF remplacé après les JO : Jean-Pierre Farandou "sert de fusible", réagit Sud-Rail](https://www.francetvinfo.fr/economie/transports/sncf/pdg-de-la-sncf-remplace-apres-les-jo-jean-pierre-farandou-sert-de-fusible-reagit-sud-rail_6530528.html)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Pont du 8-Mai et de l'Ascension : quelles sont les prévisions de trafic sur les routes jusqu'à dimanche ?](https://www.francetvinfo.fr/economie/transports/trafic/pont-du-8-mai-et-de-l-ascension-quelles-sont-les-previsions-de-trafic-sur-les-routes-jusqu-a-dimanche_6530276.html)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Accord sur les fins de carrière à la SNCF : le PDG Jean-Pierre Farandou devant les sénateurs mardi après-midi](https://www.francetvinfo.fr/economie/transports/sncf/accord-sur-les-fins-de-carriere-a-la-sncf-le-pdg-jean-pierre-farandou-devant-les-senateurs-mardi-apres-midi_6529235.html)
+append_entries: 6
+Finish: 2024-05-07 12:39:47.764597

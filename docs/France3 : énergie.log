@@ -201,3 +201,15 @@ Existing_entries: 43
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-05-07 01:16:53.750352
+------------------------------------------------------
+Started: 2024-05-07 12:41:01.823821
+Existing_entries: 43
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 368
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi des projets photovoltaïques font polémique dans le Cantal](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/cantal/pourquoi-des-projets-photovoltaiques-font-polemique-dans-le-cantal-2966237.html)
+Token length: 336
+Summarized using GPT-3.5-turbo
+Append: [Un projet d'éoliennes dans le radar de l'armée française](https://france3-regions.francetvinfo.fr/normandie/eure/un-projet-d-eoliennes-dans-le-radar-de-l-armee-francaise-2966036.html)
+append_entries: 2
+Finish: 2024-05-07 12:41:11.298463

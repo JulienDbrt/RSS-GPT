@@ -334,3 +334,18 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: Plus d'un salarié sur dix envisage de quitter son emploi](https://www.lessentiel.lu/fr/story/au-luxembourg-plus-dun-salarie-sur-dix-envisage-de-quitter-son-emploi-103098797)
 append_entries: 2
 Finish: 2024-05-07 01:18:39.741785
+------------------------------------------------------
+Started: 2024-05-07 12:43:08.732746
+Existing_entries: 134
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Mobilité au Luxembourg: Non, vous ne rêvez pas, ces navettes circulent sans chauffeur à Belval](https://www.lessentiel.lu/fr/story/mobilite-au-luxembourg-non-vous-revez-pas-ces-navettes-circulent-sans-chauffeur-a-belval-103099041)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [«Ecce Homo»: Ce tableau de maître a failli être vendu 1 500 euros aux enchères](https://www.lessentiel.lu/fr/story/ecce-homo-ce-tableau-de-maitre-a-failli-etre-vendu-1-500-euros-aux-encheres-103099299)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Tarkett GDL: «Des garanties sur la pérennité du site de Lentzweiler»](https://www.lessentiel.lu/fr/story/tarkett-gdl-des-garanties-sur-la-perennite-du-site-de-lentzweiler-103099082)
+append_entries: 3
+Finish: 2024-05-07 12:43:27.827926

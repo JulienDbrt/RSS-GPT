@@ -192,3 +192,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On pourra veiller les uns sur les autres. " Ces séniors ont choisi de vieillir ensemble dans une maison partagée](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/on-pourra-veiller-les-uns-sur-les-autres-ces-seniors-ont-choisi-de-vieillir-ensemble-dans-une-maison-partagee-2965523.html)
 append_entries: 1
 Finish: 2024-05-07 01:17:41.039838
+------------------------------------------------------
+Started: 2024-05-07 12:42:12.749010
+Existing_entries: 40
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-07 12:42:13.433309
