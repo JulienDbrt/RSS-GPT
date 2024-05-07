@@ -391,3 +391,21 @@ Summarized using GPT-3.5-turbo
 Append: ["Pornographie immobilière" : on vous explique ce nouveau phénomène](https://www.lebonbon.fr/paris/societe/pornographie-immobiliere-nouveau-phenomene/)
 append_entries: 1
 Finish: 2024-05-06 12:31:42.898002
+------------------------------------------------------
+Started: 2024-05-07 01:07:35.661076
+Existing_entries: 119
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Comment augmenter la valeur de votre maison à moindres frais? Les conseils d’une experte en immobilier](https://www.7sur7.be/belgique/comment-augmenter-la-valeur-de-votre-maison-a-moindres-frais-les-conseils-dune-experte-en-immobilier~a2ba355c/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Contrôle fiscal : ces éléments sur la déclaration d’impôt peuvent titiller le fisc](https://www.capital.fr/votre-argent/controle-fiscal-ces-elements-sur-la-declaration-dimpot-peuvent-titiller-le-fisc-1496462)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Crédit immobilier : la bombe à retardement des prêts hybrides en Allemagne](https://www.lesechos.fr/finance-marches/banque-assurances/credit-immobilier-la-bombe-a-retardement-des-credits-revolving-en-allemagne-2093415)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Le marché du crédit immobilier continue de s'écrouler et est au plus bas depuis 10 ans](https://www.bfmtv.com/immobilier/credit-emprunt/le-marche-du-credit-immobilier-continue-de-s-ecrouler-et-est-au-plus-bas-depuis-10-ans_AD-202405060789.html)
+append_entries: 4
+Finish: 2024-05-07 01:07:52.604997

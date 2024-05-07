@@ -296,3 +296,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le vaisseau Starliner de Boeing s'apprête à décoller avec ses premiers astronautes](https://www.martinique.franceantilles.fr/actualite/economie/le-vaisseau-starliner-de-boeing-sapprete-a-decoller-avec-ses-premiers-astronautes-986275.php)
 append_entries: 2
 Finish: 2024-05-06 12:43:24.342184
+------------------------------------------------------
+Started: 2024-05-07 01:15:26.770453
+Existing_entries: 90
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-05-07 01:15:27.652798

@@ -216,3 +216,15 @@ Summarized using GPT-3.5-turbo
 Append: [Quelles voitures électriques ont été les plus vendues en France ces derniers mois?](https://www.bfmtv.com/auto/quelles-voitures-electriques-ont-ete-les-plus-vendues-en-france-ces-derniers-mois_AV-202405060041.html)
 append_entries: 3
 Finish: 2024-05-06 12:41:09.764732
+------------------------------------------------------
+Started: 2024-05-07 01:12:42.122044
+Existing_entries: 50
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Blindage, filtre à air... Quelle est la voiture de luxe (relativement abordable) du président chinois Xi Jinping?](https://www.bfmtv.com/auto/blindage-filtre-a-air-quelle-est-la-voiture-de-luxe-relativement-abordable-du-president-chinois-xi-jinping_AN-202405060805.html)
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [800.000 voitures électriques vendues en 2027: l'objectif du gouvernement est-il tenable?](https://www.bfmtv.com/auto/voitures-electriques-et-hybrides/800-000-voitures-electriques-vendues-en-2027-l-objectif-du-gouvernement-est-il-tenable_AV-202405060692.html)
+append_entries: 2
+Finish: 2024-05-07 01:12:47.523637

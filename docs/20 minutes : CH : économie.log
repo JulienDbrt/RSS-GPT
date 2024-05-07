@@ -243,3 +243,15 @@ Existing_entries: 59
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-05-06 12:39:20.511601
+------------------------------------------------------
+Started: 2024-05-07 01:11:14.438293
+Existing_entries: 59
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [Le régulateur aérien ouvre une enquête sur Boeing et son 787](https://www.20min.ch/fr/810607574714)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Les banques baissent à nouveau les taux d'intérêt sur l'épargne](https://www.20min.ch/fr/103096444)
+append_entries: 2
+Finish: 2024-05-07 01:11:25.149603

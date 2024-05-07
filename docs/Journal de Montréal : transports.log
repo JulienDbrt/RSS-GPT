@@ -198,3 +198,15 @@ Existing_entries: 34
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-06 12:47:45.370055
+------------------------------------------------------
+Started: 2024-05-07 01:18:00.576204
+Existing_entries: 34
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Transport collectif: Guilbault veut régler la question des déficits d’ici l’été](https://www.journaldemontreal.com/2024/05/06/guilbault-rencontre-les-maires-du-quebec-ce-midi)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Entente de principe entre WestJet et le syndicat des techniciens](https://www.journaldemontreal.com/2024/05/06/entente-de-principe-entre-westjet-et-le-syndicat-des-techniciens)
+append_entries: 2
+Finish: 2024-05-07 01:18:17.686518

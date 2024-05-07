@@ -439,3 +439,24 @@ Summarized using GPT-3.5-turbo
 Append: [Droits de l'homme en Europe : il y a 50 ans, la France s'engage](https://www.latribune.fr/economie/union-europeenne/droits-de-l-homme-en-europe-il-y-a-50-ans-la-france-s-engage-996751.html)
 append_entries: 8
 Finish: 2024-05-06 12:52:33.322968
+------------------------------------------------------
+Started: 2024-05-07 01:20:55.214303
+Existing_entries: 111
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 532
+Summarized using GPT-3.5-turbo
+Append: [Tensions commerciales : le difficile numéro d'équilibriste de Le Maire face à la Chine](https://www.latribune.fr/economie/france/tensions-commerciales-le-difficile-numero-d-equilibriste-de-le-maire-face-a-la-chine-997020.html)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [La Russie menace de frapper les installations militaires britanniques en Ukraine « et au-delà »](https://www.latribune.fr/economie/international/la-russie-menace-de-frapper-les-installations-militaires-britanniques-en-ukraine-et-au-dela-997049.html)
+Token length: 426
+Summarized using GPT-3.5-turbo
+Append: [Financement des startups : les grands groupes en renfort du plan « Tibi 2 »](https://www.latribune.fr/technos-medias/innovation-et-start-up/financement-des-startups-les-grands-groupes-au-renfort-du-plan-tibi-2-997047.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Après des années de tensions, l'UE desserre son étau sur la Pologne suite aux réformes de Tusk](https://www.latribune.fr/economie/union-europeenne/apres-des-annees-de-tensions-l-ue-desserre-son-etau-sur-la-pologne-suite-aux-reformes-de-tusk-997027.html)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [L'Allemagne accuse Moscou de cyberattaques et rappelle son ambassadeur en Russie](https://www.latribune.fr/economie/union-europeenne/l-allemagne-accuse-moscou-de-cyberattaques-et-rappelle-son-ambassadeur-en-russie-997028.html)
+append_entries: 5
+Finish: 2024-05-07 01:21:19.426798

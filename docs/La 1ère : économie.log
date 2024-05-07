@@ -469,3 +469,24 @@ Summarized using GPT-3.5-turbo
 Append: [V1, taekwondo, pêche aux gros, surf...](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/v1-taekwondo-peche-aux-gros-1485938.html)
 append_entries: 7
 Finish: 2024-05-06 12:49:16.196934
+------------------------------------------------------
+Started: 2024-05-07 01:18:46.494875
+Existing_entries: 121
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [Australie : la compagnie aérienne Qantas condamnée pour une arnaque aux billets d'avion](https://la1ere.francetvinfo.fr/nouvellecaledonie/la-compagnie-aerienne-qantas-condamnee-pour-une-arnaque-aux-billets-d-avion-1486127.html)
+Token length: 30
+Summarized using GPT-3.5-turbo
+Append: [Hausse des prix des carburants détaxés : un syndicat d’artisans pêcheurs tire la sonnette d'alarme](https://la1ere.francetvinfo.fr/guadeloupe/hausse-des-prix-des-carburants-detaxes-un-syndicat-d-artisans-pecheurs-tire-la-sonnette-d-alarme-1486124.html)
+Token length: 31
+Summarized using GPT-3.5-turbo
+Append: [Energy Observer, le navire laboratoire en escale à Saint-Pierre et Miquelon](https://la1ere.francetvinfo.fr/saintpierremiquelon/energy-observer-le-navire-laboratoire-en-escale-a-saint-pierre-et-miquelon-1486097.html)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Coupures d’eau : un lycée bloqué à Ducos, écoles et crèche fermées à Schœlcher](https://la1ere.francetvinfo.fr/martinique/coupures-d-eau-un-lycee-bloque-a-ducos-ecoles-et-creche-fermees-a-sch-lcher-1486046.html)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: ["Non à l’augmentation de 80% du prix de l’eau à Deshaies !", déclare la maire Jeanny Marc](https://la1ere.francetvinfo.fr/guadeloupe/basse-terre/deshaies/deshaies-non-a-l-augmentation-de-80-du-prix-de-l-eau-a-deshaies-declare-le-maire-jeanny-marc-1486064.html)
+append_entries: 5
+Finish: 2024-05-07 01:19:06.538529

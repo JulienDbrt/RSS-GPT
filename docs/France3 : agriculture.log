@@ -339,3 +339,24 @@ Summarized using GPT-3.5-turbo
 Append: ["C'est délirant !" : à cause d’une facture bloquée de 2€, deux agricultrices risquent de perdre 20 000€ d'aides](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/c-est-delirant-a-cause-d-une-facture-bloquee-de-2-deux-agricultrices-risquent-de-perdre-20-000-d-aides-2964650.html)
 append_entries: 5
 Finish: 2024-05-06 12:46:16.153974
+------------------------------------------------------
+Started: 2024-05-07 01:16:59.983291
+Existing_entries: 91
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: [Dans sa volonté de réduire l'usage des pesticides, le gouvernement présente le nouveau plan Ecophyto contesté par les écologistes et salué par les agriculteurs](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/dans-sa-volonte-de-reduire-l-usage-des-pesticides-le-gouvernement-presente-un-nouvel-indicateur-conteste-par-les-ecologistes-et-salue-par-les-agriculteurs-2965685.html)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: ["On pourrait empoisonner la population" : la pollution préoccupante d'un ruisseau force un maraîcher à arrêter son activité](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/langres/on-pourrait-empoisonner-la-population-la-pollution-preoccupante-d-un-ruisseau-force-un-maraicher-a-arreter-son-activite-2966021.html)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [La Champagne-Ardenne, grande utilisatrice de pesticides ? Le point par secteur](https://france3-regions.francetvinfo.fr/grand-est/champagne-ardenne/la-champagne-ardenne-grande-utilisatrice-de-pesticides-le-point-par-secteur-2965784.html)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: ["On a peur qu'il revienne" : un hibou grand-duc sème la terreur dans un poulailler, 800 poules meurent](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/on-a-peur-qu-il-revienne-un-hibou-grand-duc-seme-la-terreur-dans-un-poulailler-800-poules-meurent-2965820.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: ["Tous les ans, on a un aléa climatique." La détresse des viticulteurs, frappés par un orage de grêle en Dordogne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/bergerac/tous-les-ans-on-a-un-alea-climatique-la-detresse-des-viticulteurs-frappes-par-un-orage-de-grele-en-dordogne-2965799.html)
+append_entries: 5
+Finish: 2024-05-07 01:17:26.091962

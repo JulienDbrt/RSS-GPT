@@ -5,13 +5,330 @@
 <link>https://korben.info</link>
 
 <item>
+<title>TunnelVision – la faille qui fait sauter le VPN et laisse fuiter vos données</title>
+<link>https://korben.info/tunnelvision-faille-vpn-fuites-donnees.html</link>
+<guid>https://korben.info/tunnelvision-faille-vpn-fuites-donnees.html</guid>
+<content:encoded><![CDATA[
+<div> Leviathan Security, faille TunnelVision, VPN, DHCP, protection des données
+
+Summary:<br><br>
+Une équipe de chercheurs a découvert une faille nommée TunnelVision qui permet de contourner la protection des VPN en exploitant le protocole DHCP. Un attaquant peut rediriger tout le trafic vers sa propre passerelle, même lorsqu'un VPN est utilisé, en installant des routes par défaut sur la machine de la victime. Cette attaque nécessite un accès physique au réseau local ou la compromission d'un équipement sur le réseau, ainsi que l'absence de blocage des sorties de trafic vers les interfaces réseau locales par le client VPN. Les utilisateurs peuvent se prémunir en activant DHCP snooping et ARP protection sur les commutateurs réseau, en configurant des règles de pare-feu strictes, en utilisant des protocoles de chiffrement comme HTTPS, et en mettant en place une isolation réseau via des fonctionnalités telles que les espaces de noms réseau sous Linux. Les fournisseurs de VPN doivent informer leurs utilisateurs des risques et des mesures d'atténuation à prendre. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Logo_for_a_security_exploit_named_TunnelVision_938ecdbb-0646-4b07-a271-0c26a421b386.webp" width="1456" /></p>
+<p>Voici une info qui va vous faire voir les <strong>VPN</strong> sous un autre angle. Bah oui, parce que si vous pensiez que votre petit tunnel chiffré préféré vous mettait à l&rsquo;abri des regards indiscrets quand vous surfez depuis un réseau public, désolé de casser vos rêves, mais c&rsquo;est loin d&rsquo;être le cas !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2066415834" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Une équipe de chercheurs de <strong>Leviathan Security</strong> a découvert une faille qu&rsquo;ils ont baptisée <strong>TunnelVision</strong> qui permet de court-circuiter la protection des VPN à l&rsquo;aiiise, grâce à une fonctionnalité bien pratique du protocole <strong>DHCP</strong>, ce bon vieux serviteur qui distribue des adresses IP à tout va.</p>
+
+
+
+<p>En gros, quand vous vous connectez à un réseau, votre machine demande gentiment une adresse IP au serveur DHCP local. Jusque là, tout va bien. Sauf que ce protocole a plus d&rsquo;un tour dans son sac. Il peut notamment pousser des règles de routage sur votre bécane, via une option peu connue appelée « <strong><a href="https://datatracker.ietf.org/doc/html/rfc3442" rel="noopener" target="_blank">Classless Static Route</a></strong> » ou option 121.</p>
+
+
+
+<p>Concrètement, un attaquant qui contrôle le serveur DHCP peut installer des routes par défaut sur votre machine, ce qui lui permet de rediriger tout votre trafic vers sa propre passerelle, même si vous êtes connecté via un VPN ! Et là, c&rsquo;est le drame, car il peut intercepter toutes vos données en clair. 😱</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Bon, rassurez-vous, il y a quand même quelques conditions pour que cette attaque fonctionne : </p>
+
+
+
+<ul>
+<li>1. L&rsquo;attaquant doit avoir un accès physique au réseau local ou être en mesure de compromettre un équipement sur ce réseau. </li>
+
+
+
+<li>2. Le client VPN ne doit pas bloquer les sorties de trafic vers les interfaces réseau locales.</li>
+</ul>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-220054518" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais quand même, ça fait froid dans le dos, d&rsquo;autant que cette faille touche potentiellement tous les réseaux, des petits réseaux domestiques aux gros réseaux d&rsquo;entreprise. Les chercheurs ont d&rsquo;ailleurs réussi à l&rsquo;exploiter sur Windows, macOS, iOS, Android, et même sur des distributions Linux.</p>
+
+
+
+<p>Heureusement, il existe des parades pour se prémunir contre <strong>TunnelVision</strong> : </p>
+
+
+
+<ul>
+<li>Activer les fonctions de <strong>DHCP snooping</strong> et d&rsquo;<strong>ARP protection</strong> sur les commutateurs réseau pour empêcher l&rsquo;installation de serveurs DHCP non autorisés. </li>
+
+
+
+<li>Configurer des règles de pare-feu strictes pour bloquer le trafic non autorisé. </li>
+
+
+
+<li>Utiliser des protocoles de chiffrement comme HTTPS pour sécuriser les ressources internes. </li>
+
+
+
+<li>Implémenter une isolation réseau robuste via des fonctionnalités comme les espaces de noms réseau (network namespaces) sous Linux.</li>
+</ul>
+
+
+
+<p>Les fournisseurs de VPN ont évidemment aussi un rôle à jouer en documentant publiquement les mesures d&rsquo;atténuation contre TunnelVision et en avertissant leurs utilisateurs des risques.</p>
+
+
+
+<p>Bref, en attendant un éventuel correctif, la prudence reste de mise. Mais en appliquant les bonnes pratiques et en restant vigilants, on peut quand même limiter les dégâts ! Si le sujet vous intéresse et que vous voulez aller plus loin, je vous invite à consulter <a href="https://www.leviathansecurity.com/blog/tunnelvision" rel="noopener" target="_blank">le papier de recherche complet</a> qui détaille le fonctionnement technique de <strong>TunnelVision</strong>. C&rsquo;est un peu ardu, mais ça vaut le coup d&rsquo;œil pour les plus motivés d&rsquo;entre vous.</p>
+
+
+
+<p><a href="https://krebsonsecurity.com/2024/05/why-your-vpn-may-not-be-as-secure-as-it-claims/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:03:51 +0000</pubDate>
+<pubDate>Mon, 06 May 2024 21:03:51 +0000</pubDate>
+</item>
+<item>
+<title>Test de l’Anbernic RG353M – Votre compagnon rétro-gaming de poche !</title>
+<link>https://korben.info/test-de-lanbernic-rg353m-votre-compagnon-retro-gaming-de-poche.html</link>
+<guid>https://korben.info/test-de-lanbernic-rg353m-votre-compagnon-retro-gaming-de-poche.html</guid>
+<content:encoded><![CDATA[
+<div> Anbernic, console portable, rétrogaming, émulateur, jeux
+Summary:<br><br>Anbernic est une marque spécialisée dans le rétrogaming, proposant des consoles de qualité. La console portable Anbernic est compacte, légère et dispose de performances intéressantes. Elle offre la possibilité d'émuler une grande variété de jeux rétro, avec une bonne fluidité pour les jeux classiques, mais peut présenter des difficultés pour les jeux plus gourmands. La console est polyvalente avec ses systèmes d'exploitation Android et Linux, permettant de jouer et d'utiliser des applications diverses. Elle est également disponible dans différents formats. La console peut être complétée avec une carte SD préchargée en option. Les contrôles peuvent être ajustés pour plus de confort de jeu. C'est un compagnon idéal pour les amateurs de rétrogaming, offrant la possibilité de jouer à de grands classiques partout où vous allez. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1920" src="https://korben.info/app/uploads/2024/05/IMG_4323-copie-scaled.webp" width="2560" /></p>
+<p class="has-text-align-center"><em>&#8212; Article rédigé par l&rsquo;ami Lilian &#8212; Contient des liens affiliés Amazon &#8212;</em></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1452084540" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Soirée rétro-gaming ce soir ?</p>
+
+
+
+<p>Si comme moi vous ne savez pas choisir quel émulateur, quelle console ou encore quels jeux, j&rsquo;ai ce qu&rsquo;il vous faut : la console portable <a href="https://amzn.to/4b96Vzh" rel="noopener" target="_blank"><strong>Anbernic RG353M</strong></a> s&rsquo;occupe de tout.</p>
+
+
+
+<p><a href="https://anbernic.com/pages/about-us" rel="noopener" target="_blank">Anbernic</a> est une marque de rétrogaming qui date de 2017, basée en Chine. Elle sort environ 4-5 appareils par an. Ils se sont fait une assez bonne réputation dans ce milieu car la marque est très fiable et produit des consoles de très bonne qualité.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-160075" height="768" src="https://korben.info/app/uploads/2024/05/IMG_4322-1024x768.webp" width="1024" /></figure>
+
+
+
+<p>C&rsquo;est une console de 14 x 7 cm pour 230 grammes environ, avec un CPU RK3566 Quad-Core 64 bit Cortex-A55 et 2GB de RAM DDR4. Une batterie qui dure environ 7 heures, un port USB-C pour charger et un écran IPS multi-touch de 3,5 pouces avec angle de vue complet, d&rsquo;une résolution max 640*480. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-932790966" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Elle prend en charge le Bluetooth pour connecter une manette ou un casque par exemple et un port micro-HDMI pour la connecter à un écran externe est également présent. Elle dispose aussi de 2 emplacements pour micro SD. Son boîtier en aluminium m&rsquo;a agréablement surpris de par sa prise en main (avec 2 grips en caoutchouc à l&rsquo;arrière) et la souplesse des sticks directionnels. </p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-160073" height="768" src="https://korben.info/app/uploads/2024/05/IMG_4319-1024x768.webp" width="1024" /></figure>
+
+
+
+<p>Elle est aussi multilingue et a des haut-parleurs de très bonne qualité pour sa petite taille ainsi qu&rsquo;une bonne vieille prise jack. Les 2 emplacements pour micro SD s&rsquo;expliquent par la présence de 2 OS (un système Android sur la mémoire interne et un système Linux sur la première carte SD). <a href="https://amzn.to/3UrWgZk" rel="noopener" target="_blank">La deuxième carte sert à stocker les ROMs</a>.</p>
+
+
+
+<p>Le logiciel phare de cette console est bien sûr <a href="https://www.retroarch.com/" rel="noopener" target="_blank">RetroArch</a>, qui est open source et qui permet d&rsquo;émuler plein de jeux rétro, mais si vous n&rsquo;êtes pas convaincus, vous pouvez installer des systèmes d&rsquo;exploitation alternatifs comme <a href="https://github.com/christianhaitian/arkos/wiki" rel="noopener" target="_blank">ArkOS</a> ou encore <a href="https://www.recalbox.com/fr/" rel="noopener" target="_blank">Recalbox</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160080" height="768" src="https://korben.info/app/uploads/2024/05/IMG_4331-1-1024x768.webp" width="1024" /></figure></div>
+
+
+<p>Sur cette console, j&rsquo;ai adoré jouer à Mario Bros ou encore Pokémon Rouge qui, tous deux, tournaient sans aucun lag ni ralentissement. Mais attention, si vous voulez vous frotter à des jeux PSP par exemple, aucun problème si vous tournez à 30 FPS, mais par contre à 60 FPS, ça devient un peu bancal et aléatoire. </p>
+
+
+
+<p>Bien évidemment, on ne peut pas jouer à des jeux récents comme par exemple à Mario Odyssey sur Switch&#8230; c&rsquo;est une console retrogaming quand même ^^ !</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-160074" height="768" src="https://korben.info/app/uploads/2024/05/IMG_4316-1024x768.webp" width="1024" /></figure>
+
+
+
+<p>Moyennant finance, Anbernic peut livrer en option avec la console, une carte SD de 64 gigas remplie de jeux, mais malheureusement, ils sont exclusivement en anglais.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1611667730" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Le mode Linux est très complet pour jouer et ne sert qu&rsquo;à ça. Par contre, le mode Android est plus polyvalent. Je l&rsquo;utilise pour regarder des vidéos sur YouTube, lire des livres ou encore écouter des audiobooks ou de la musique. Et on peut uniquement ajouter des applis en APK (pas de PlayStore sauf si vous la rootez, désolé).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160078" height="768" src="https://korben.info/app/uploads/2024/05/IMG_4328-copie-1-1024x768.webp" width="1024" /></figure></div>
+
+
+<p>Ce qui est cool, c&rsquo;est qu&rsquo;elle est aussi disponible sous d&rsquo;autres form factors, du genre de celui de la Game Boy ou de la PSP par exemple.</p>
+
+
+
+<p>Franchement, j&rsquo;ai adoré l&#8217;emmener partout avec moi et jouer à des classiques de la DS ou de la Nintendo 64. Pour les vacances cet été, ça va être le top ! Par contre, pour certains jeux, je trouve que les contrôles sont un peu petits, mais en les re-mappant dans l&rsquo;émulateur, on peut retrouver un peu de confort.</p>
+
+
+
+<p><strong>La console est dispo sur </strong><a href="https://amzn.to/4b96Vzh" rel="noopener" target="_blank"><strong>Amazon à environ 220€</strong></a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 16:48:22 +0000</pubDate>
+<pubDate>Mon, 06 May 2024 16:48:22 +0000</pubDate>
+</item>
+<item>
+<title>L’incroyable record d’overclocking à 9,1 GHz sur Raptor Lake</title>
+<link>https://korben.info/record-overclocking-9-ghz-raptor-lake-secrets-devoiles.html</link>
+<guid>https://korben.info/record-overclocking-9-ghz-raptor-lake-secrets-devoiles.html</guid>
+<content:encoded><![CDATA[
+<div> fréquence, overclocking, CPU, record, hélium liquide
+<br>
+<br>
+Dans le monde de l'overclocking extrême, un groupe d'experts passionnés a réussi à pousser un processeur Intel Core i9-14900KS à une fréquence incroyable de 9,1 GHz, battant ainsi un record de 17 ans. Pour atteindre cette prouesse, ils ont utilisé de l'hélium liquide pour refroidir le CPU à des températures glaciales de -250°C, assurant ainsi une stabilité et un transfert de chaleur optimal. L'importance du choix du CPU parfait, capable de supporter de basses températures et de réagir correctement aux augmentations de tension, a été soulignée, tout comme la nécessité d'une préparation minutieuse et de tests approfondis. Mesurer de manière fiable un CPU à 9 GHz a également été un défi, nécessitant le développement d'outils spécialisés. Bien que repousser les limites actuelles semble difficile, de nouvelles technologies pourraient ouvrir la voie à des fréquences encore plus élevées à l'avenir, incitant Intel et AMD à continuer d'innover. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="261" src="https://korben.info/app/uploads/2024/05/SCR-20240506-miw.webp" width="688" /></p>
+<p>Voici l&rsquo;histoire d&rsquo;une incroyable prouesse technique réalisée par des <em>overclockers</em> complètement allumés qui ont réussi à pousser un processeur <strong>Intel Core i9-14900KS</strong> à la fréquence de dingue de <strong>9,1 GHz</strong> ! C&rsquo;est un record absolu qui explose le précédent record vieux de 17 ans.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160041" height="577" src="https://korben.info/app/uploads/2024/05/SCR-20240506-mfm-1024x577.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1150961346" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais comment diable ont-ils réussi un tel exploit ? Eh bien les petits gars de chez Intel / ElmorLabs (pour Asus) ne sont pas étrangers à ce succès. Avec leur architecture <em>Raptor Lake</em> et le process i7 optimisé, ils ont fourni une base solide pour repousser les limites. Mais le vrai secret, c&rsquo;est surtout une bonne dose de passion, des litres d&rsquo;<strong>hélium liquide</strong> et des nerfs d&rsquo;acier !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160040" height="401" src="https://korben.info/app/uploads/2024/05/1b4trw.webp" width="403" /></figure></div>
+
+
+<p>Car oui, pour atteindre ces fréquences stratosphériques, il faut refroidir le CPU à des températures à vous geler les doigts sur le clavier. On parle de <strong>-250°C</strong>, soit à peine 20° au-dessus du zéro absolu ! Pour y arriver, nos overclockers de l&rsquo;extrême ont utilisé de l&rsquo;hélium liquide, ce qui présente plusieurs avantages par rapport à l&rsquo;azote liquide traditionnellement utilisé. L&rsquo;hélium liquide permet en effet un transfert de chaleur plus efficace, ce qui est crucial pour maintenir la stabilité du CPU à ces fréquences extrêmes.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160042" height="577" src="https://korben.info/app/uploads/2024/05/SCR-20240506-mg6-1024x577.webp" width="1024" /></figure></div>
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Attention cependant, <em>overclocker</em> à ces fréquences, ce n&rsquo;est pas juste une histoire de matos. Il faut aussi et surtout avoir le CPU parfait, un véritable « golden sample » capable de supporter les basses températures, de bien réagir à l&rsquo;augmentation du voltage pour viser les 9 GHz et plus. Un vrai petit bijou qui doit être chouchouté comme un bébé Yoda ! D&rsquo;ailleurs, les ingénieurs ont dû tester des dizaines de CPU pour trouver les 3 pépites capables d&rsquo;atteindre ces 9 GHz et plus.</p>
+
+
+
+<p>Et quand enfin on a le CPU, le matériel et qu&rsquo;on est prêt pour le grand saut, il ne faut pas se rater car avec seulement une heure d&rsquo;autonomie à l&rsquo;hélium liquide, chaque seconde compte ! C&rsquo;est là qu&rsquo;intervient l&rsquo;incroyable préparation des <em>overclockers</em>, qui ont répété chaque étape, chaque réglage, pour être sûrs d&rsquo;y arriver.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-515039568" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais ces records ne sont pas qu&rsquo;une question de fréquence pure car mesurer de manière fiable un CPU à 9 GHz, c&rsquo;est loin d&rsquo;être évident ! Pour s&rsquo;assurer de la stabilité et valider leur exploit, nos amis ont dû développer des outils sur-mesure, comme <strong><a href="https://skatterbencher.com/nopbench/" rel="noopener" target="_blank">NOPBench</a></strong>, qui permet de tester la véracité des fréquences mesurées. Un travail de titan !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160039" height="512" src="https://korben.info/app/uploads/2024/05/nopbench.webp" width="984" /></figure></div>
+
+
+<p>Alors bien sûr, tout ça c&rsquo;est très impressionnant, mais aller au-delà des 9 GHz, c&rsquo;est une autre paire de manches. Les CPUs actuels ont beau repousser les limites, on commence à atteindre des murs physiques difficiles à franchir. Il va falloir sûrement de nouvelles technologies de fabrication, comme le <em><a href="https://www.developpez.com/actu/142197/IBM-Samsung-et-GlobalFoundries-presentent-la-premiere-puce-gravee-a-5-nm-grace-aux-nouveaux-transistors-GAAFET/" rel="noopener" target="_blank">GAAFET</a></em> ou le <em>packaging 3D</em>, pour espérer un jour voir un CPU à 10 GHz.</p>
+
+
+
+<p>En espérant que cela motive Intel et AMD à continuer de repousser les limites dans les années à venir !</p>
+
+
+
+<p>Et si vous voulez en savoir encore plus sur les dessous de ce record à 9,1 GHz, je vous invite à lire <a href="https://www.tomshardware.com/pc-components/overclocking/raptor-lake-91-ghz-overclockers-share-secrets-behind-eclipsing-a-17-year-old-cpu-frequency-milestone" rel="noopener" target="_blank">l&rsquo;excellent article de Tom&rsquo;s Hardware</a> qui rentre un peu plus dans les détails techniques.</p>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 14:14:36 +0000</pubDate>
+<pubDate>Mon, 06 May 2024 14:14:36 +0000</pubDate>
+</item>
+<item>
+<title>Contourner la protection FIDO2 via une simple attaque MITM</title>
+<link>https://korben.info/contourner-protections-cookies-faille-authentification-moderne.html</link>
+<guid>https://korben.info/contourner-protections-cookies-faille-authentification-moderne.html</guid>
+<content:encoded><![CDATA[
+<div> mots clés: FIDO2, vol de jeton de session, attaque de l'homme du milieu, liaison de jeton, sécurité des applications<br>
+<br>
+Summary:<br>
+Les chercheurs ont découvert une faille dans l'authentification FIDO2 qui permet à des attaquants de voler des jetons de session, mettant en danger la sécurité des utilisateurs. La solution réside dans la mise en place de la "liaison de jeton" pour empêcher la réutilisation des jetons. Cependant, cette méthode de protection est encore peu répandue. Microsoft a introduit une fonctionnalité de protection des jetons basée sur TPM, mais son adoption à grande échelle nécessite la coopération de tous les acteurs. Les développeurs sont invités à mettre en place cette liaison et à limiter l'usage des jetons OIDC et SAML. En tant qu'utilisateur, il est conseillé d'éviter les hotspots Wi-Fi publics, les liens suspects et les plugins de navigateur non fiables. En résumé, une vigilance accrue et une compréhension des menaces sont nécessaires pour garantir une authentification sécurisée dans le monde en ligne.<br> 
+Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Cookie_FIDO_b9be5600-6ddd-4634-9dea-6953ec842d15.webp" width="1456" /></p>
+<p>Vous pensez que les méthodes d&rsquo;authentification modernes comme <strong>FIDO2</strong> vous protègent efficacement contre le vol de cookies et les attaques de l&rsquo;homme du milieu (<strong>MITM</strong>) ? Détrompez-vous ! Une équipe de chercheurs vient de <a href="https://www.silverfort.com/blog/using-mitm-to-bypass-fido2/" rel="noopener" target="_blank">démontrer qu&rsquo;il est possible de contourner ces protections</a> en s&#8217;emparant des précieux sésames que sont les jetons de session.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-972763325" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous vous connectez tranquillement à votre appli préférée, en scannant votre empreinte digitale ou en insérant votre clé de sécurité dernier cri, vous vous sentez en sécurité, comme un petit bébé dans les bras de sa maman ou de son papa, protégé par la magie de <strong>FIDO2</strong> (et de son absence de mots de passe). </p>
+
+
+
+<p>Sauf que dans l&rsquo;ombre, un vilain pirate que nous appellerons Vladimitch, a réussi à s&rsquo;immiscer entre vous et le serveur, tel un cyber-ninja. Et là, c&rsquo;est le drame : il intercepte le fameux jeton de session qui vous permet de rester connecté sans avoir à retaper vos identifiants à chaque clic. Ni vu ni connu, il peut alors se faire passer pour vous et accéder à votre compte !</p>
+
+
+
+<p>Mais comment est-ce possible avec une authentification si robuste ? Eh bien figurez-vous que le problème ne vient pas de <strong>FIDO2</strong> en lui-même, mais plutôt de la façon dont les applications gèrent les sessions après la phase d&rsquo;authentification. Une fois que vous êtes connecté, c&rsquo;est open bar, et votre jeton se balade joyeusement sur le réseau, sans trop de protection.</p>
+
+
+
+<p>Les chercheurs ont mis en lumière cette faille en testant plusieurs implémentations de <strong>FIDO2</strong>, comme le bac à sable <a href="https://demo.yubico.com/" rel="noopener" target="_blank">Yubico Playground</a>, le système d&rsquo;authentification unique (<strong>SSO</strong>) Entra ID de Microsoft ou encore l&rsquo;adaptateur PingFederate. Et dans chaque cas, ils ont pu démontrer qu&rsquo;un attaquant pouvait intercepter et réutiliser un jeton de session valide sans posséder la clé d&rsquo;authentification <strong>FIDO2</strong> associée.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160035" height="576" src="https://korben.info/app/uploads/2024/05/ttttimage-3-1024x576.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1949255776" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais rassurez-vous, tout n&rsquo;est pas perdu. Il existe une parade pour éviter de se faire dérober son précieux jeton : la « liaison de jeton » (ou <strong><a href="https://www.pingidentity.com/fr/resources/blog/post/understanding-token-binding.html" rel="noopener" target="_blank">token binding</a></strong> pour les anglophones). Concrètement, ça consiste à créer un lien indéfectible entre votre jeton de session et la connexion sécurisée (<strong>TLS</strong>) que vous utilisez. Comme ça, il devient impossible pour l&rsquo;attaquant d&rsquo;utiliser votre jeton sur une autre connexion. Malin !</p>
+
+
+
+<p>Le hic, c&rsquo;est que cette protection est encore peu répandue. Et à part Microsoft qui l&rsquo;a intégrée sur Edge, les autres navigateurs et applications web traînent des pieds. Google a même fini par jeter l&rsquo;éponge sur Chrome, faute d&rsquo;adoption. Pourtant, cela pourrait éviter bien des déboires aux utilisateurs et des migraines aux administrateurs système mais que voulez-vous, entre la sécurité et la facilité, le cœur des développeurs balance !</p>
+
+
+
+<p>Bref, restez vigilant car même une sécurisation FIDO2 n&rsquo;est pas infaillible face à une attaque MITM bien pensée. Microsoft a réagi de son côté en introduisant une fonctionnalité de protection des jetons basée sur les modules de plateforme sécurisée (<strong>TPM</strong>) dans Windows, une variante de la « liaison de jeton ». Mais pour une adoption massive, il faudra que tous les acteurs jouent le jeu.</p>
+
+
+
+<p>En attendant, les experts recommandent aux développeurs d&rsquo;applications d&rsquo;exiger la « liaison de jeton » sur les authentifications <strong>FIDO2</strong> lorsque c&rsquo;est possible, de limiter l&rsquo;usage des jetons <strong>OIDC</strong> et <strong>SAML</strong> à une seule fois par authentification réussie, et surtout de bien comprendre les menaces pour concevoir des mécanismes d&rsquo;authentification adaptés.</p>
+
+
+
+<p>Et vous, en tant qu&rsquo;utilisateur, c&rsquo;est toujours la même chanson, à savoir, évitez de vous connecter à des hotspots Wi-Fi publics douteux, ne cliquez pas sur les liens louches, et méfiez-vous des plugins de navigateur exotiques.</p>
+
+
+
+<p>Bref, un peu de jugeotte, comme toujours&#8230; Sur ce, bon développement à tous et may the force (4th) be with you ! (On l&rsquo;a passé, c&rsquo;était le 4 mai&#8230;)</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1315238354" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://cyberscoop.com/stealing-cookies-researchers-describe-how-to-bypass-modern-authentication/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 13:49:51 +0000</pubDate>
+<pubDate>Mon, 06 May 2024 13:49:51 +0000</pubDate>
+</item>
+
+<item>
 <title>Ollama 0.133 – Enfin une gestion en parallèle des LLMs</title>
 <link>https://korben.info/ollama-0-133-parallelisme-puissance-experimental.html</link>
 <guid>https://korben.info/ollama-0-133-parallelisme-puissance-experimental.html</guid>
 <content:encoded><![CDATA[
 <div> variables, parallélisme, modèles, Ollama, IA
-<br>
-<br>
+<br />
+<br />
 Summary:
 La dernière version d'Ollama, la 0.133, offre des fonctionnalités expérimentales de parallélisme permettant de gérer plusieurs modèles et requêtes en simultané. De nouvelles variables d'environnement, telles que OLLAMA_NUM_PARALLEL et OLLAMA_MAX_LOADED_MODELS, sont introduites pour optimiser les applications d'IA. Des modèles d'IA compatibles avec Ollama ont également été ajoutés, allant du plus léger au plus lourd, tels que Llama 3, Phi 3 Mini et Moondream. Pour tester le parallélisme, il suffit de définir les variables d'environnement sur Mac, Linux ou Windows et de redémarrer l'application Ollama. En configurant les variables correctement, il est possible d'envoyer plusieurs requêtes en parallèle sur un même modèle et de charger plusieurs modèles différents, sous réserve de disposer d'au moins 16 Go de RAM. Cette mise à jour permet d'optimiser l'utilisation d'Ollama pour le traitement de diverses tâches liées à l'IA. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="504" src="https://korben.info/app/uploads/2024/05/SCR-20240506-fxg.webp" width="1451" /></p>
@@ -141,7 +458,6 @@ La dernière version d'Ollama, la 0.133, offre des fonctionnalités expérimenta
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://www.geeky-gadgets.com/ollama-concurrency/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 10:06:26 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 10:06:26 +0000</pubDate>
 </item>
 <item>
 <title>Authenticator Pro – Le 2FA libre sous Android</title>
@@ -149,8 +465,8 @@ La dernière version d'Ollama, la 0.133, offre des fonctionnalités expérimenta
 <guid>https://korben.info/authenticator-pro-app-open-source-securiser-comptes.html</guid>
 <content:encoded><![CDATA[
 <div> Authenticator Pro, 2FA, Android, sécurité, vie privée
-Summary:<br>
-Authenticator Pro est une application de 2FA pour Android qui garantit la sécurité de vos comptes en ligne. Elle prend en charge différents algorithmes de hachage et protocoles, offre une sauvegarde sécurisée des données et une restauration facile en cas de besoin. L'application fonctionne hors ligne, respecte la vie privée de l'utilisateur et ne requiert qu'une seule autorisation pour fonctionner. Elle possède un mode sombre, permet d'organiser les codes dans des catégories et est compatible avec Wear OS pour une validation des connexions depuis votre montre. Avec Authenticator Pro, vous pouvez sécuriser vos comptes en ligne sans excuse. <br><br>Summary: <div>
+Summary:<br />
+Authenticator Pro est une application de 2FA pour Android qui garantit la sécurité de vos comptes en ligne. Elle prend en charge différents algorithmes de hachage et protocoles, offre une sauvegarde sécurisée des données et une restauration facile en cas de besoin. L'application fonctionne hors ligne, respecte la vie privée de l'utilisateur et ne requiert qu'une seule autorisation pour fonctionner. Elle possède un mode sombre, permet d'organiser les codes dans des catégories et est compatible avec Wear OS pour une validation des connexions depuis votre montre. Avec Authenticator Pro, vous pouvez sécuriser vos comptes en ligne sans excuse. <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_add_a_smile_9979f210-debf-4c2a-8d09-369f05f6a795.webp" width="1456" /></p>
 <p>Si vous ne l&rsquo;avez pas encore fait, je vous recommande vivement d&rsquo;<a href="https://korben.info/authentification-double-facteur-2fa.html">activer la double authentification</a> sur tous vos comptes en ligne. C&rsquo;est hyper important ! </p>
 
@@ -191,9 +507,7 @@ Authenticator Pro est une application de 2FA pour Android qui garantit la sécur
 <p>Allez, c&rsquo;est parti, vous n&rsquo;avez plus d&rsquo;excuses pour ne pas sécuriser vos compte en ligne !</p>
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 06 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>20 ans de passion et de partage sur Korben.info ! Merci d’être là !</title>
 <link>https://korben.info/20-ans-de-passion-et-de-partage-sur-korben-info-merci-detre-la.html</link>
