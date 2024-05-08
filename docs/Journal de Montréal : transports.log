@@ -228,3 +228,9 @@ Summarized using GPT-3.5-turbo
 Append: [Impatience et craintes face à l’arrivée du REM de Deux-Montagnes](https://www.journaldemontreal.com/2024/05/06/impatience-et-craintes-face-a-larrivee-du-rem-de-deux-montagnes)
 append_entries: 2
 Finish: 2024-05-08 01:06:54.037260
+------------------------------------------------------
+Started: 2024-05-08 12:41:54.702380
+Existing_entries: 38
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-08 12:41:56.844674

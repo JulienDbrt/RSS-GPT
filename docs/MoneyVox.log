@@ -560,3 +560,27 @@ Summarized using GPT-3.5-turbo
 Append: [Crise des « subprime » : amende réduite à 2 millions d'euros pour Natixis](https://www.moneyvox.fr/banque/actualites/97671/crise-des-subprime-amende-reduite-a-2-millions-euros-pour-natixis)
 append_entries: 6
 Finish: 2024-05-08 01:05:51.102897
+------------------------------------------------------
+Started: 2024-05-08 12:40:37.745995
+Existing_entries: 162
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [Bourse : sell in may and go away ?... Voici les 3 infos marchés du jour](https://www.moneyvox.fr/bourse/actualites/97683/sell-in-may-and-go-away-voici-les-3-infos-marches-du-jour)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [Coupes budgétaires : l'écologie risque de perdre encore un milliard d'euros](https://www.moneyvox.fr/actu/97682/coupes-budgetaires-ecologie-risque-de-perdre-encore-un-milliard-euros)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [La Banque centrale de Suède abaisse son principal taux directeur, une première en huit ans](https://www.moneyvox.fr/banque/actualites/97681/la-banque-centrale-de-suede-abaisse-son-principal-taux-directeur-une-premiere-en-huit-ans)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Impôt sur le revenu : 1AD ou 1BD, pourquoi cette case de vos salaires est préremplie en 2024 ?](https://www.moneyvox.fr/impot/actualites/97657/impot-sur-le-revenu-1ad-ou-1bd-pourquoi-cette-case-de-vos-salaires-est-preremplie-en-2024)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : 7 questions pratiques pour votre première déclaration de revenus](https://www.moneyvox.fr/impot/actualites/97613/impots-2024-7-questions-pratiques-pour-votre-premiere-declaration-de-revenus)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le paiement en 3 fois avec frais par carte bancaire séduit un certain public](https://www.moneyvox.fr/carte-bancaire/actualites/97675/sncf-le-paiement-en-3-fois-avec-frais-par-carte-bancaire-seduit-un-certain-public)
+append_entries: 6
+Finish: 2024-05-08 12:41:07.878072

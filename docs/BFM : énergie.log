@@ -219,3 +219,15 @@ Summarized using GPT-3.5-turbo
 Append: [L'Autorité de sûreté nucléaire autorise la mise en service de l'EPR d'EDF à Flamanville](https://www.bfmtv.com/economie/entreprises/energie/l-autorite-de-surete-nucleaire-autorise-la-mise-en-service-de-l-epr-d-edf-a-flamanville_AD-202405070734.html)
 append_entries: 1
 Finish: 2024-05-08 01:00:58.071912
+------------------------------------------------------
+Started: 2024-05-08 12:35:51.020417
+Existing_entries: 45
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Avec douze ans de retard, l’EPR de Flamanville va enfin pouvoir entrer en service cet été](https://www.bfmtv.com/economie/entreprises/energie/avec-douze-ans-de-retard-l-epr-de-flamanville-va-enfin-pouvoir-entrer-en-service-cet-ete_AD-202405080419.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Le monde a dépassé en 2023 les 30% d'électricité d'origine renouvelable, selon un rapport](https://www.bfmtv.com/economie/entreprises/energie/le-monde-a-depasse-en-2023-les-30-d-electricite-d-origine-renouvelable-selon-un-rapport_AD-202405080063.html)
+append_entries: 2
+Finish: 2024-05-08 12:36:00.370613

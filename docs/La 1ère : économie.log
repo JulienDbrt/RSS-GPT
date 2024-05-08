@@ -538,3 +538,15 @@ Summarized using GPT-3.5-turbo
 Append: [8 nouveaux jeunes intègrent la police nationale en Martinique](https://la1ere.francetvinfo.fr/martinique/8-nouveaux-jeunes-integrent-la-police-nationale-en-martinique-1486304.html)
 append_entries: 5
 Finish: 2024-05-08 01:07:38.461747
+------------------------------------------------------
+Started: 2024-05-08 12:42:37.499548
+Existing_entries: 138
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Loi "pour le plein emploi" : le Département opposé aux nouvelles mesures de sanction visant les bénéficiaires du RSA](https://la1ere.francetvinfo.fr/reunion/loi-pour-le-plein-emploi-les-elus-du-departement-contre-la-sanction-des-beneficiaires-du-rsa-1486496.html)
+Token length: 15
+Summarized using GPT-3.5-turbo
+Append: [Les caris, de l'île Maurice et de La Réunion, privés d'oignons rouges ?](https://la1ere.francetvinfo.fr/reunion/les-caris-de-l-ile-maurice-et-de-la-reunion-prives-d-oignon-rouge-1486481.html)
+append_entries: 2
+Finish: 2024-05-08 12:42:48.122673

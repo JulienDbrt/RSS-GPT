@@ -364,3 +364,21 @@ Summarized using GPT-3.5-turbo
 Append: [Saisie au Luxembourg: Jusqu'à 150 000 euros: 150 montres de luxe vont être vendues aux enchères](https://www.lessentiel.lu/fr/story/saisie-au-luxembourg-jusqua-150-000-euros-150-montres-de-luxe-vont-etre-vendues-aux-encheres-103099740)
 append_entries: 3
 Finish: 2024-05-08 01:07:14.027283
+------------------------------------------------------
+Started: 2024-05-08 12:42:09.974901
+Existing_entries: 140
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: L’inflation atteint son niveau le plus bas depuis près de 3 ans](https://www.lessentiel.lu/fr/story/au-luxembourg-linflation-atteint-son-niveau-le-plus-bas-depuis-pres-de-3-ans-103100392)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Santé: Astrazeneca retire son vaccin contre le Covid](https://www.lessentiel.lu/fr/story/sante-astrazeneca-retire-son-vaccin-contre-le-covid-103100279)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Banques au Luxembourg: «Les PME paient environ 70 % d'intérêts de plus que les grandes entreprises»](https://www.lessentiel.lu/fr/story/banques-au-luxembourg-credit-bancaire-les-pme-discriminees-par-rapport-aux-grandes-entreprises-103071344)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [Cryptomonnaies: FTX devrait récupérer entre 14,5 et 16,3 milliards de dollars](https://www.lessentiel.lu/fr/story/cryptomonnaies-ftx-devrait-recuperer-entre-145-et-163-milliards-de-dollars-103100202)
+append_entries: 4
+Finish: 2024-05-08 12:42:25.935799

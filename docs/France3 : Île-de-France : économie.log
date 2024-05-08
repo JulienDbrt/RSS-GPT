@@ -264,3 +264,15 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024. Les tickets de bus à 5 euros de juillet à septembre, vrai ou faux ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-tickets-de-bus-a-5-euros-de-juillet-a-septembre-vrai-ou-faux-2966546.html)
 append_entries: 1
 Finish: 2024-05-08 01:06:02.774154
+------------------------------------------------------
+Started: 2024-05-08 12:41:08.847510
+Existing_entries: 60
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Une application pour récupérer gratuitement des matériaux de chantier en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-application-pour-recuperer-gratuitement-des-materiaux-de-chantier-en-ile-de-france-2965712.html)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [Véronique Jannot : "on est tellement prisonnier de ses émotions"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/veronique-jannot-on-est-tellement-prisonnier-de-ses-emotions-2966261.html)
+append_entries: 2
+Finish: 2024-05-08 12:41:16.144248

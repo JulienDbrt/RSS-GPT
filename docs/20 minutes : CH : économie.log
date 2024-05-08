@@ -273,3 +273,15 @@ Existing_entries: 63
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-05-08 00:59:43.279511
+------------------------------------------------------
+Started: 2024-05-08 12:34:48.080360
+Existing_entries: 63
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Manque de personnel médical: «Le drame de la Haute-Savoie!»](https://www.20min.ch/fr/103094706)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Les craintes pour le climat n'auront pas la peau de la viande](https://www.20min.ch/fr/103099361)
+append_entries: 2
+Finish: 2024-05-08 12:34:55.824675

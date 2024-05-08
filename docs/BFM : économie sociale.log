@@ -246,3 +246,9 @@ Summarized using GPT-3.5-turbo
 Append: [France Travail: des retraités vont devoir rembourser jusqu'à 100.000 euros de chômage](https://www.bfmtv.com/economie/economie-social/france-travail-des-retraites-vont-devoir-rembourser-jusqu-a-100-000-euros-de-chomage_AV-202405070557.html)
 append_entries: 2
 Finish: 2024-05-08 01:00:50.209889
+------------------------------------------------------
+Started: 2024-05-08 12:35:50.880201
+Existing_entries: 54
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+append_entries: 0
+Finish: 2024-05-08 12:35:50.995191

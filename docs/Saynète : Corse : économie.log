@@ -698,3 +698,18 @@ Append: [ByAirCorsica      Air Corsica met à votre disposition les             
 Append: [fermeture exceptionnelle DREETS CORSE](https://corse.dreets.gouv.fr/fermeture-exceptionnelle-DREETS-CORSE)
 append_entries: 26
 Finish: 2024-05-08 00:59:42.161867
+------------------------------------------------------
+Started: 2024-05-08 12:34:35.191087
+Existing_entries: 339
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Energie solaire : Voltaïca se diversifie](https://www.lesechos.fr/pme-regions/corse/energie-solaire-voltaica-se-diversifie-2093807)
+Token length: 359
+Summarized using GPT-3.5-turbo
+Append: [CorsicaStory  Paesu furtificatu chì dumine a strada naziunale tracciata nant’à a vechja strada rumana chì unia attualment...](https://www.facebook.com/204309342152891/posts/456585470258609)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Vidéos Archive - Corse](https://www.facebook.com/462507925917911/posts/846367627531937)
+append_entries: 3
+Finish: 2024-05-08 12:34:48.049793

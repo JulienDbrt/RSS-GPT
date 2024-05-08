@@ -388,3 +388,15 @@ Summarized using GPT-3.5-turbo
 Append: [Shein, les secrets bien cachés d'un empire chinois : enquête sur une machine à cash](https://www.lexpress.fr/economie/entreprises/shein-les-secrets-bien-caches-dun-empire-chinois-enquete-sur-une-machine-a-cash-45QOYOATGVEUTB33X7YC7WTCBA/)
 append_entries: 1
 Finish: 2024-05-08 01:07:18.310349
+------------------------------------------------------
+Started: 2024-05-08 12:42:26.181241
+Existing_entries: 148
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 7723
+Summarized using GPT-3.5-turbo
+Append: [IA : la voiture autonome, bien plus qu'un gadget](https://www.lexpress.fr/economie/automobile-lintelligence-artificielle-au-service-du-vehicule-autonome-W447SR2C3BBRBP5YLKVE45RW6U/)
+Token length: 7597
+Summarized using GPT-3.5-turbo
+Append: [Management : l'écoute active, une technique qui a ses limites](https://www.lexpress.fr/economie/emploi/management/quentends-tu-par-la-lecoute-active-une-technique-de-management-qui-a-ses-limites-Z3CQ27QLEBAFLIWRPELYT4COKA/)
+append_entries: 2
+Finish: 2024-05-08 12:42:37.038661

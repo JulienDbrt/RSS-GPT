@@ -446,3 +446,18 @@ Summarized using GPT-3.5-turbo
 Append: [eToro et 21Shares collaborent pour lancer un nouveau portefeuille de crypto-monnaies](https://www.boursier.com/opcvm/actualites/generales/etoro-et-21shares-collaborent-pour-lancer-un-nouveau-portefeuille-de-crypto-monnaies-928032.html)
 append_entries: 7
 Finish: 2024-05-08 00:55:41.224916
+------------------------------------------------------
+Started: 2024-05-08 12:29:57.955269
+Existing_entries: 122
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Mi-séance Paris : le CAC 40 s'adjuge de nouveau près de 1% et remonte vers ses sommets](https://www.boursier.com/indices/actualites/news/mi-seance-paris-le-cac-40-s-adjuge-de-nouveau-pres-de-1-et-remonte-vers-ses-sommets-928179.html)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Cryptomonnaies: les liquidateurs de FTX devraient récupérer entre 14,5 et 16,3 milliards de dollars - Le Temps](https://www.letemps.ch/economie/cryptomonnaies-les-liquidateurs-de-ftx-devraient-recuperer-entre-14-5-et-16-3-milliards-de-dollars)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Babolex, un éléphant qui trade énormément : bling-bling, cryptos et NFT](https://www.liberation.fr/economie/economie-numerique/babolex-un-elephant-qui-trade-enormement-bling-bling-cryptos-et-nft-20240508_FMSG53VRAZHYTNEJDNXDGHPQ4E/)
+append_entries: 3
+Finish: 2024-05-08 12:30:09.422227

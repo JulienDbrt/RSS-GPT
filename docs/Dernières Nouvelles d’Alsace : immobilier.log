@@ -197,3 +197,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier - Location. Que faire si votre bien est sous-loué illégalement ?](https://www.dna.fr/magazine-immobilier/2024/05/07/que-faire-si-votre-bien-est-sous-loue-illegalement)
 append_entries: 1
 Finish: 2024-05-08 01:03:56.959342
+------------------------------------------------------
+Started: 2024-05-08 12:38:50.134866
+Existing_entries: 31
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-05-08 12:38:51.431894

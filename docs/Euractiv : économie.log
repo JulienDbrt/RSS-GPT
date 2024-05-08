@@ -236,3 +236,12 @@ Summarized using GPT-3.5-turbo
 Append: [La Chine ouvre un peu plus son marché à la volaille, au porc et au vin français](https://www.euractiv.fr/section/agriculture-alimentation/news/la-chine-ouvre-un-peu-plus-son-marche-a-la-volaille-au-porc-et-au-vin-francais/)
 append_entries: 1
 Finish: 2024-05-08 01:04:00.932183
+------------------------------------------------------
+Started: 2024-05-08 12:38:52.675486
+Existing_entries: 64
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [L’UE met trop de temps à récupérer ses fonds mal dépensés, selon la Cour des comptes européenne](https://www.euractiv.fr/section/economie/news/lue-met-trop-de-temps-a-recuperer-ses-fonds-mal-depenses-selon-la-cour-des-comptes-europeenne/)
+append_entries: 1
+Finish: 2024-05-08 12:38:58.044772

@@ -257,3 +257,15 @@ Summarized using GPT-3.5-turbo
 Append: [JO Paris 2024 : quel est le prix moyen d'une location Airbnb en Île-de-France ?](https://www.europe1.fr/economie/jo-paris-2024-quel-est-le-prix-moyen-dune-location-airbnb-en-ile-de-france-4245717)
 append_entries: 4
 Finish: 2024-05-08 01:04:15.402706
+------------------------------------------------------
+Started: 2024-05-08 12:38:59.381835
+Existing_entries: 51
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Deux jours fériés cette semaine : contrairement aux idées reçues, l'économie ne va pas en pâtir](https://www.europe1.fr/economie/deux-jours-feries-cette-semaine-contrairement-aux-idees-recues-leconomie-ne-va-pas-en-patir-4245816)
+Token length: 452
+Summarized using GPT-3.5-turbo
+Append: [SNCF : qui va remplacer l'actuel PDG Jean-Pierre Farandou ?](https://www.europe1.fr/economie/sncf-qui-va-remplacer-lactuel-pdg-jean-pierre-farandou-4245759)
+append_entries: 2
+Finish: 2024-05-08 12:39:04.136813
