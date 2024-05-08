@@ -262,3 +262,15 @@ Existing_entries: 74
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-05-07 12:36:48.882264
+------------------------------------------------------
+Started: 2024-05-08 01:02:53.140678
+Existing_entries: 74
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Cet appartement parisien est mis en vente à près de 70.000 euros du mètre carré](https://www.bfmtv.com/immobilier/luxe/cet-appartement-parisien-est-mis-en-vente-a-pres-de-70-000-euros-du-metre-carre_AV-202405070668.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Assurance emprunteur: comment économiser (beaucoup d'argent) sur votre prêt?](https://www.bfmtv.com/immobilier/credit-emprunt/assurance-emprunteur-comment-economiser-beaucoup-d-argent-sur-votre-pret_AV-202405070381.html)
+append_entries: 2
+Finish: 2024-05-08 01:02:57.043136

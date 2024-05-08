@@ -239,3 +239,21 @@ Existing_entries: 47
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-07 12:38:06.640571
+------------------------------------------------------
+Started: 2024-05-08 01:04:02.571949
+Existing_entries: 47
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le gouvernement annonce le remplacement du PDG Jean-Pierre Farandou après les Jeux olympiques](https://www.europe1.fr/economie/sncf-le-gouvernement-annonce-le-remplacement-du-pdg-jean-pierre-farandou-apres-les-jeux-olympiques-4245654)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [France Travail : certains chômeurs dans l'obligation de rembourser entre 5.000 à 100.000 euros](https://www.europe1.fr/economie/france-travail-certains-chomeurs-dans-lobligation-de-rembourser-entre-5000-a-100000-euros-4245734)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [EPR de Flamanville : le gendarme français du nucléaire autorise sa mise en service](https://www.europe1.fr/economie/epr-de-flamanville-le-gendarme-francais-du-nucleaire-autorise-sa-mise-en-service-4245726)
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [JO Paris 2024 : quel est le prix moyen d'une location Airbnb en Île-de-France ?](https://www.europe1.fr/economie/jo-paris-2024-quel-est-le-prix-moyen-dune-location-airbnb-en-ile-de-france-4245717)
+append_entries: 4
+Finish: 2024-05-08 01:04:15.402706

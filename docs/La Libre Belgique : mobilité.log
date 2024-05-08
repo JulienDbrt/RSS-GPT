@@ -254,3 +254,9 @@ Summarized using GPT-3.5-turbo
 Append: [Gros embarras de circulation sur l’autoroute E313 à Hasselt: la chaussée rouverte](https://www.lalibre.be/belgique/mobilite/2024/05/07/lautoroute-e313-completement-bloquee-a-hasselt-en-direction-de-liege-G2ZBUVMC35FOBLZU5VKZFHYEV4/)
 append_entries: 1
 Finish: 2024-05-07 12:47:30.520981
+------------------------------------------------------
+Started: 2024-05-08 01:09:01.123426
+Existing_entries: 78
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-08 01:09:01.534495

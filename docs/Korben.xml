@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Skyvern – Plus besoin de vous prendre la tête pour automatiser une tâche web (scraping, saisie de formulaire…etc)</title>
 <link>https://korben.info/skyvern-automatisation-web-ia-vision-ordinateur.html</link>
@@ -135,16 +136,15 @@ Skyvern est un outil d'automatisation web qui utilise l'intelligence artificiell
 <p>Bref, pour en savoir plus, c&rsquo;est sur le <a href="https://github.com/Skyvern-AI/Skyvern" rel="noopener" target="_blank">Github</a>. Et sur leur <a href="https://www.skyvern.com/" rel="noopener" target="_blank">site officiel</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 07 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Reprogrammer Tetris NES en pleine partie – Un hack vraiment dingue ?</title>
 <link>https://korben.info/reprogrammer-tetris-nes-en-pleine-partie-le-hack-le-plus-dingue.html</link>
 <guid>https://korben.info/reprogrammer-tetris-nes-en-pleine-partie-le-hack-le-plus-dingue.html</guid>
 <content:encoded><![CDATA[
-<div> NES, Tetris, hacking, high scores, bidouilleurs <br>
-<br>
-Dans cet article, il est expliqué comment des hackers ont réussi à reprogrammer le jeu Tetris sur NES en exploitant une faille dans la gestion des manettes et en utilisant les high scores pour injecter leur code personnel. En atteignant des niveaux élevés et en entrant des noms spécifiques, ils parviennent à réécrire des portions de la RAM du jeu. Ils peuvent ainsi modifier les règles, ajouter des fonctionnalités et même provoquer volontairement un crash du jeu pour injecter leur code. Cette technique nécessite une connaissance approfondie du jeu et de la console, ainsi qu'une patience et une persévérance considérables. Une fois le code personnalisé exécuté, les hackers peuvent modifier le comportement du jeu, mais ces modifications sont temporaires et disparaissent à la prochaine coupure de la console. Ce processus complexe illustre la créativité et l'ingéniosité des bidouilleurs de génie qui parviennent à hacker un jeu classique comme Tetris pour en faire leur terrain de jeux. <br><br>Summary: <div>
+<div> NES, Tetris, hacking, high scores, bidouilleurs <br />
+<br />
+Dans cet article, il est expliqué comment des hackers ont réussi à reprogrammer le jeu Tetris sur NES en exploitant une faille dans la gestion des manettes et en utilisant les high scores pour injecter leur code personnel. En atteignant des niveaux élevés et en entrant des noms spécifiques, ils parviennent à réécrire des portions de la RAM du jeu. Ils peuvent ainsi modifier les règles, ajouter des fonctionnalités et même provoquer volontairement un crash du jeu pour injecter leur code. Cette technique nécessite une connaissance approfondie du jeu et de la console, ainsi qu'une patience et une persévérance considérables. Une fois le code personnalisé exécuté, les hackers peuvent modifier le comportement du jeu, mais ces modifications sont temporaires et disparaissent à la prochaine coupure de la console. Ce processus complexe illustre la créativité et l'ingéniosité des bidouilleurs de génie qui parviennent à hacker un jeu classique comme Tetris pour en faire leur terrain de jeux. <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1260" src="https://korben.info/app/uploads/2024/05/SCR-20240507-bth.webp" width="2240" /></p>
 <p><strong>Tetris sur NES</strong> &#8211; c&rsquo;est un <strong>classique indémodable</strong>, un <strong>monument du jeu vidéo</strong> mais c&rsquo;est aussi un terrain de jeu sans fin pour les <strong>hackers</strong> et les <strong>bidouilleurs</strong> de génie. Tenez-vous bien, ces derniers ont trouvé un moyen de <strong>reprogrammer Tetris en pleine partie</strong> ! Je vous jure, c&rsquo;est pas une blague. Ils arrivent à <strong>exécuter leur propre code</strong> en partant d&rsquo;une cartouche normale, sans aucune modification matérielle. </p>
 
@@ -256,7 +256,6 @@ Dans cet article, il est expliqué comment des hackers ont réussi à reprogramm
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 06:59:41 +0000</pubDate>
-<pubDate>Tue, 07 May 2024 06:59:41 +0000</pubDate>
 </item>
 <item>
 <title>ZTDNS – Microsoft renforce la sécurité DNS pour Windows</title>
@@ -264,11 +263,11 @@ Dans cet article, il est expliqué comment des hackers ont réussi à reprogramm
 <guid>https://korben.info/ztdns-microsoft-securite-dns-windows.html</guid>
 <content:encoded><![CDATA[
 <div> DNS, ZTDNS, sécurité, Microsoft, Windows
-<br>
-<br>
+<br />
+<br />
 Zero Trust DNS (ZTDNS) est un nouveau système de sécurité pour le DNS sur Windows, développé par Microsoft. Il vise à sécuriser les communications en chiffrant et authentifiant les échanges entre clients Windows et serveurs DNS, et en permettant aux admins réseau de contrôler les domaines autorisés. ZTDNS nécessite des serveurs DNS prenant en charge les protocoles de chiffrement comme DoH ou DoT. Il peut bloquer certains protocoles réseaux exotiques et applications spéciales, nécessitant des aménagements pour assurer leur bon fonctionnement. Un mode "Audit" permet de prévoir les éventuels blocages. Malgré ZTDNS, des failles de sécurité subsistent, notamment pour les connexions VPN ou de virtualisation. ZTDNS représente une avancée significative en termes de renforcement de la sécurité réseau pour les parcs Windows, mais nécessite rigueur et persévérance de la part des administrateurs système. La version de prévisualisation de ZTDNS est actuellement disponible chez Microsoft, sans date de déploiement officielle pour le grand public. 
-<br>
-<br>Summary: <div>
+<br />
+<br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Microsoft_logo_with_word_ZTDNS_written_85b4caf4-6da4-4c20-9bea-94346839f923.webp" width="1456" /></p>
 <p>Tiens, Microsoft nous prépare un nouveau bébé baptisé <strong>Zero Trust DNS</strong>, ou <strong>ZTDNS</strong> pour les intimes. Alors c&rsquo;est quoi encore ce truc ? Eh bien c&rsquo;est tout simplement un système permettant de sécuriser le DNS sur nos chers Windows.</p>
 
@@ -336,16 +335,15 @@ Zero Trust DNS (ZTDNS) est un nouveau système de sécurité pour le DNS sur Win
 <p><a href="https://www.howtogeek.com/microsoft-ztdns-windows-network-security/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 06:00:00 +0000</pubDate>
-<pubDate>Tue, 07 May 2024 06:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Discutez avec les interviews de Steve Jobs !</title>
 <link>https://korben.info/discutez-avec-un-chatbot-inspire-de-steve-jobs.html</link>
 <guid>https://korben.info/discutez-avec-un-chatbot-inspire-de-steve-jobs.html</guid>
 <content:encoded><![CDATA[
-<div> intelligence artificielle, Steve Jobs, chatbot, Jelli.io, interviews <br>
-<br>
-Grâce à l'intelligence artificielle, les fans de Steve Jobs peuvent maintenant discuter avec un chatbot entraîné sur ses interviews et discours. Ce chatbot utilise des vidéos pour répondre aux questions des utilisateurs, permettant ainsi de s'inspirer et de se motiver sans avoir à regarder des heures d'interviews. Bien que le chatbot ne soit pas une incarnation directe de Steve Jobs, il offre une expérience interactive intéressante. Cette innovation a été rendue possible grâce à Jelli.io, un service spécialisé dans les conversations basées sur des vidéos. Les fans de Steve Jobs peuvent donc désormais profiter d'une nouvelle façon d'interagir avec leur gourou préféré, en posant des questions et en recevant des réponses basées sur ses paroles et ses idées. Cette initiative souligne l'importance croissante de l'intelligence artificielle dans la création de contenus interactifs et inspirants. <br><br>Summary: <div>
+<div> intelligence artificielle, Steve Jobs, chatbot, Jelli.io, interviews <br />
+<br />
+Grâce à l'intelligence artificielle, les fans de Steve Jobs peuvent maintenant discuter avec un chatbot entraîné sur ses interviews et discours. Ce chatbot utilise des vidéos pour répondre aux questions des utilisateurs, permettant ainsi de s'inspirer et de se motiver sans avoir à regarder des heures d'interviews. Bien que le chatbot ne soit pas une incarnation directe de Steve Jobs, il offre une expérience interactive intéressante. Cette innovation a été rendue possible grâce à Jelli.io, un service spécialisé dans les conversations basées sur des vidéos. Les fans de Steve Jobs peuvent donc désormais profiter d'une nouvelle façon d'interagir avec leur gourou préféré, en posant des questions et en recevant des réponses basées sur ses paroles et ses idées. Cette initiative souligne l'importance croissante de l'intelligence artificielle dans la création de contenus interactifs et inspirants. <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Press_drawing_of_Steve_Jobs_60f97520-e3b0-4901-a656-72777c57a6ab.webp" width="1456" /></p>
 <p>Fans de Steve Jobs, réjouissez-vous ! </p>
 
@@ -367,9 +365,7 @@ Grâce à l'intelligence artificielle, les fans de Steve Jobs peuvent maintenant
 <p>Bref, de quoi vous inspirer et vous motiver sans forcement mater des heures et des heures d&rsquo;interviews.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 05:00:00 +0000</pubDate>
-<pubDate>Tue, 07 May 2024 05:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>TunnelVision – la faille qui fait sauter le VPN et laisse fuiter vos données</title>
 <link>https://korben.info/tunnelvision-faille-vpn-fuites-donnees.html</link>

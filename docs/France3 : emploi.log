@@ -273,3 +273,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Est-ce que c'est le nouvel endroit pour se faire du fric ?" Tatouage : une mode, mais aussi un business en vogue](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/est-ce-que-c-est-le-nouvel-endroit-pour-se-faire-du-fric-tatouage-une-mode-mais-aussi-un-business-en-vogue-2965622.html)
 append_entries: 3
 Finish: 2024-05-07 12:42:12.729204
+------------------------------------------------------
+Started: 2024-05-08 01:06:18.037636
+Existing_entries: 65
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Énergie : Jordan Bardella, président du RN, rend visite aux salariés de la centrale à charbon Émile Huchet](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/energie-jordan-bardella-president-du-rn-rend-visite-aux-salaries-de-la-centrale-a-charbon-emile-huchet-2966519.html)
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Pénurie de saisonniers : plus de 550 logements meublés et chambres mis à disposition des travailleurs dans l'Hérault](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/penurie-de-saisonniers-plus-de-550-logements-meubles-et-chambres-mis-a-disposition-des-travailleurs-dans-l-herault-2966630.html)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Avant l'inéluctable liquidation judiciaire, une semaine de sursis pour la clinique de Coutances](https://france3-regions.francetvinfo.fr/normandie/manche/coutances/avant-l-ineluctable-liquidation-judiciaire-une-semaine-de-sursis-pour-la-clinique-de-coutances-2966285.html)
+append_entries: 3
+Finish: 2024-05-08 01:06:30.614233

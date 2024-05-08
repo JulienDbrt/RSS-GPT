@@ -263,3 +263,9 @@ Summarized using GPT-3.5-turbo
 Append: [La dernière bataille du sauvetage d’Atos](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-mardi-07-mai-2024-5690584)
 append_entries: 5
 Finish: 2024-05-07 12:40:16.274565
+------------------------------------------------------
+Started: 2024-05-08 01:05:28.123153
+Existing_entries: 55
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-08 01:05:28.530814

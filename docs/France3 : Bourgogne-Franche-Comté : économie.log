@@ -255,3 +255,12 @@ Existing_entries: 59
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-05-07 12:41:49.020311
+------------------------------------------------------
+Started: 2024-05-08 01:06:13.926355
+Existing_entries: 59
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Un camion s'encastre dans un magasin de cafés à Pontarlier](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/haut-doubs/un-camion-s-encastre-dans-un-magasin-de-cafes-a-pontarlier-2966711.html)
+append_entries: 1
+Finish: 2024-05-08 01:06:17.721514

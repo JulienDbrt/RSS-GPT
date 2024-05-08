@@ -254,3 +254,12 @@ Summarized using GPT-3.5-turbo
 Append: [Crise de l’immobilier : Malgré une baisse des taux, le volume de crédits continue de s’effondrer](https://www.20minutes.fr/economie/immobilier/4090019-20240507-crise-immobilier-malgre-baisse-taux-volume-credits-continue-effondrer)
 append_entries: 2
 Finish: 2024-05-07 12:34:48.204104
+------------------------------------------------------
+Started: 2024-05-08 00:59:43.305150
+Existing_entries: 52
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Nokia ressort le 3210 pour fêter les 25 ans de son téléphone mythique](https://www.20minutes.fr/high-tech/4090119-20240507-nokia-ressort-3210-feter-25-ans-telephone-mythique)
+append_entries: 1
+Finish: 2024-05-08 00:59:48.545018

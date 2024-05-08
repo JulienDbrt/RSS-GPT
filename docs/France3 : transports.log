@@ -451,3 +451,24 @@ Summarized using GPT-3.5-turbo
 Append: [PORTRAIT. Anthony est effaroucheur d'oiseaux, ses buses éloignent les volatiles des réacteurs d’avions à l'aéroport de Nantes-Atlantique](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/portrait-anthony-est-effaroucheur-d-oiseaux-ses-buses-eloignent-les-volatiles-des-reacteurs-d-avions-a-l-aeroport-de-nantes-atlantique-2965682.html)
 append_entries: 9
 Finish: 2024-05-07 12:42:53.602834
+------------------------------------------------------
+Started: 2024-05-08 01:06:30.952099
+Existing_entries: 125
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Un camion s'encastre dans un magasin de cafés à Pontarlier](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/haut-doubs/un-camion-s-encastre-dans-un-magasin-de-cafes-a-pontarlier-2966711.html)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Ligne à grande vitesse : le chantier lancé en grande pompe à Toulouse, la fin de la contestation ?](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/ligne-a-grande-vitesse-le-chantier-lance-en-grande-pompe-a-toulouse-la-fin-de-la-contestation-2966438.html)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Les tickets de bus à 5 euros de juillet à septembre, vrai ou faux ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-tickets-de-bus-a-5-euros-de-juillet-a-septembre-vrai-ou-faux-2966546.html)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Fermeture de l’A13 : une réouverture dès vendredi dans le sens province-Paris pour les véhicules légers](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/fermeture-de-l-a13-une-reouverture-des-vendredi-dans-le-sens-province-paris-pour-les-vehicules-legers-2966588.html)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Vous avez trois minutes ? Lou Passagin, le bateau navette pour traverser le port de Nice gratuitement](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/vous-avez-trois-minutes-lou-passagin-le-bateau-navette-pour-traverser-le-port-de-nice-gratuitement-2966432.html)
+append_entries: 5
+Finish: 2024-05-08 01:06:45.821488

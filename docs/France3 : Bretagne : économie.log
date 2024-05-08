@@ -198,3 +198,9 @@ Summarized using GPT-3.5-turbo
 Append: [Une manifestation "anti-répression" interdite par la préfecture](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/une-manifestation-anti-repression-interdite-par-la-prefecture-2966270.html)
 append_entries: 1
 Finish: 2024-05-07 12:41:57.383329
+------------------------------------------------------
+Started: 2024-05-08 01:06:17.740650
+Existing_entries: 40
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-08 01:06:18.005493

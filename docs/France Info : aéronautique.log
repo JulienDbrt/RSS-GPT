@@ -167,3 +167,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le régulateur aérien américain ouvre une enquête sur Boeing et ses Dreamliner 787](https://www.francetvinfo.fr/economie/aeronautique/etats-unis-le-regulateur-aerien-ouvre-une-enquete-sur-boeing-et-ses-avions-787_6530096.html)
 append_entries: 1
 Finish: 2024-05-07 12:39:23.159411
+------------------------------------------------------
+Started: 2024-05-08 01:05:06.190114
+Existing_entries: 23
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-05-08 01:05:06.455452

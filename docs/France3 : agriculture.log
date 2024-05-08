@@ -387,3 +387,18 @@ Summarized using GPT-3.5-turbo
 Append: [En Bretagne les nappes phréatiques au plus haut niveau...  mais en baisse en avril. On vous explique](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/en-bretagne-les-nappes-phreatiques-ont-fait-le-plein-apres-un-hiver-et-un-debut-de-printemps-tres-humides-2965979.html)
 append_entries: 7
 Finish: 2024-05-07 12:41:48.640558
+------------------------------------------------------
+Started: 2024-05-08 01:06:02.827353
+Existing_entries: 103
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Pénurie de saisonniers : plus de 550 logements meublés et chambres mis à disposition des travailleurs dans l'Hérault](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/penurie-de-saisonniers-plus-de-550-logements-meubles-et-chambres-mis-a-disposition-des-travailleurs-dans-l-herault-2966630.html)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Le tout premier atlas des champignons du sol vient... de Bourgogne ! "Il a fallu 15 ans pour faire 2 200 prélèvements"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/le-tout-premier-atlas-des-champignons-du-sol-vient-de-bourgogne-il-a-fallu-15-ans-pour-faire-2-200-prelevements-2966468.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. "Ce sont des bombes nutritives" : elle cultive des micro-pousses pour les grands chefs](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/video-ce-sont-des-bombes-nutritives-elle-cultive-des-micro-pousses-pour-les-grands-chefs-2966498.html)
+append_entries: 3
+Finish: 2024-05-08 01:06:13.897226

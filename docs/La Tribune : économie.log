@@ -496,3 +496,27 @@ Summarized using GPT-3.5-turbo
 Append: [Les 5 infos business à retenir ce mardi matin (télécoms, immobilier, plan de relance, Boeing, Chine)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-mardi-matin-telecoms-immobilier-plan-de-relance-boeing-chine-997075.html)
 append_entries: 10
 Finish: 2024-05-07 12:48:30.221231
+------------------------------------------------------
+Started: 2024-05-08 01:09:01.602607
+Existing_entries: 126
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Economies budgétaires : la transition écologique encore amputée d'un milliard d'euros ?](https://www.latribune.fr/economie/france/economies-budgetaires-la-transition-ecologique-encore-amputee-d-un-milliard-d-euros-997160.html)
+Token length: 532
+Summarized using GPT-3.5-turbo
+Append: [La bonne surprise sur l'emploi masque aussi des incertitudes](https://www.latribune.fr/economie/france/plein-emploi-l-objectif-d-emmanuel-macron-est-il-tenable-997096.html)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [L'Ukraine a arrêté deux agents accusés de préparer l'assassinat de Volodymyr Zelensky](https://www.latribune.fr/economie/international/l-ukraine-a-arrete-deux-agents-accuses-de-preparer-l-assassinat-de-volodymyr-zelensky-997147.html)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: [Guerre en Ukraine : la Biélorussie vérifie le degré de « préparation » de ses lanceurs d'armes nucléaires tactiques](https://www.latribune.fr/economie/international/guerre-en-ukraine-la-bielorussie-verifie-le-degre-de-preparation-de-ses-lanceurs-d-armes-nucleaires-tactiques-997143.html)
+Token length: 458
+Summarized using GPT-3.5-turbo
+Append: [Zéro artificialisation nette : le Sénat planche sur un modèle économique et fiscal du ZAN](https://www.latribune.fr/economie/france/zero-artificialisation-nette-le-senat-planche-sur-un-modele-economique-et-fiscal-du-zan-997137.html)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [Armes chimiques en Ukraine : « les informations sont insuffisamment étayées », selon l'OIAC](https://www.latribune.fr/economie/international/armes-chimiques-en-ukraine-les-informations-sont-insuffisamment-etayees-selon-l-oiac-997125.html)
+append_entries: 6
+Finish: 2024-05-08 01:09:17.490086

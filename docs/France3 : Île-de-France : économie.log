@@ -255,3 +255,12 @@ Summarized using GPT-3.5-turbo
 Append: [Pont de l'Ascension : "quittez Paris avant midi", d'importants embouteillages attendus dès ce mardi, selon Bison futé](https://france3-regions.francetvinfo.fr/paris-ile-de-france/pont-de-l-ascension-quittez-paris-avant-midi-d-importants-embouteillages-attendus-des-ce-mardi-selon-bison-fute-2966147.html)
 append_entries: 1
 Finish: 2024-05-07 12:41:16.725031
+------------------------------------------------------
+Started: 2024-05-08 01:05:59.304387
+Existing_entries: 59
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Les tickets de bus à 5 euros de juillet à septembre, vrai ou faux ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-tickets-de-bus-a-5-euros-de-juillet-a-septembre-vrai-ou-faux-2966546.html)
+append_entries: 1
+Finish: 2024-05-08 01:06:02.774154

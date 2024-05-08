@@ -326,3 +326,15 @@ Summarized using GPT-3.5-turbo
 Append: [Réserve Falco : nouvelles dégradations de casiers, le Parc naturel monte au créneau](https://www.martinique.franceantilles.fr/actualite/economie/reserve-falco-nouvelles-degradations-de-casiers-le-parc-naturel-monte-au-creneau-986432.php)
 append_entries: 6
 Finish: 2024-05-07 12:38:35.299312
+------------------------------------------------------
+Started: 2024-05-08 01:04:15.445816
+Existing_entries: 96
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: [Avec 12 ans de retard, EDF va pouvoir mettre en service son nouveau réacteur nucléaire EPR à Flamanville](https://www.martinique.franceantilles.fr/actualite/economie/avec-12-ans-de-retard-edf-va-pouvoir-mettre-en-service-son-epr-a-flamanville-986484.php)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire iranien : devant l'impasse, l'AIEA demande des gages "au plus vite"](https://www.martinique.franceantilles.fr/actualite/economie/nucleaire-iranien-devant-limpasse-laiea-demande-des-gages-au-plus-vite-986500.php)
+append_entries: 2
+Finish: 2024-05-08 01:04:28.244983

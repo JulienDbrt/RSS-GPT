@@ -227,3 +227,12 @@ Summarized using GPT-3.5-turbo
 Append: [Xi Jinping appelle les Occidentaux à ne pas « salir » la Chine sur la crise ukrainienne](https://www.euractiv.fr/section/chine/news/xi-jinping-appelle-les-occidentaux-a-pas-salir-la-chine-sur-la-crise-ukrainienne/)
 append_entries: 1
 Finish: 2024-05-07 12:38:04.776617
+------------------------------------------------------
+Started: 2024-05-08 01:03:58.044050
+Existing_entries: 63
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: [La Chine ouvre un peu plus son marché à la volaille, au porc et au vin français](https://www.euractiv.fr/section/agriculture-alimentation/news/la-chine-ouvre-un-peu-plus-son-marche-a-la-volaille-au-porc-et-au-vin-francais/)
+append_entries: 1
+Finish: 2024-05-08 01:04:00.932183
