@@ -261,3 +261,9 @@ Summarized using GPT-3.5-turbo
 Append: [Cryptomonnaies: FTX devrait récupérer entre 14,5 et 16,3 milliards de dollars](https://www.bfmtv.com/crypto/cryptomonnaies-ftx-devrait-recuperer-entre-14-5-et-16-3-milliards-de-dollars_AD-202405080072.html)
 append_entries: 1
 Finish: 2024-05-08 12:36:27.065462
+------------------------------------------------------
+Started: 2024-05-09 01:10:35.448165
+Existing_entries: 57
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-05-09 01:10:36.055889

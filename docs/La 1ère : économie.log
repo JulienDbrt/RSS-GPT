@@ -550,3 +550,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les caris, de l'île Maurice et de La Réunion, privés d'oignons rouges ?](https://la1ere.francetvinfo.fr/reunion/les-caris-de-l-ile-maurice-et-de-la-reunion-prives-d-oignon-rouge-1486481.html)
 append_entries: 2
 Finish: 2024-05-08 12:42:48.122673
+------------------------------------------------------
+Started: 2024-05-09 01:14:09.846193
+Existing_entries: 140
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [MANIFESTATION. Probables blocages des usines de Calédonie par la CCAT](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/manifestation-probables-blocages-des-usines-du-territoire-par-la-ccat-1486604.html)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. Pointe-à-Pitre : polémique autour de l'avenir du parking du quai Lefèvre](https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/pointe-pitre/reportage-pointe-a-pitre-polemique-autour-de-l-avenir-du-parking-du-quai-lefevre-1486580.html)
+append_entries: 2
+Finish: 2024-05-09 01:14:17.636505

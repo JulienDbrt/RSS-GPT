@@ -338,3 +338,15 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : le PDG, Jean-Pierre Farandou, débarqué après les Jeux olympiques](https://www.francetvinfo.fr/economie/transports/sncf/sncf-le-pdg-jean-pierre-farandou-debarque-apres-les-jeux-olympiques_6532265.html)
 append_entries: 2
 Finish: 2024-05-08 12:40:10.941361
+------------------------------------------------------
+Started: 2024-05-09 01:12:45.371902
+Existing_entries: 76
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Primes JO à la RATP : jusqu'à 1 777 euros pour les agents des stations et gares, annonce la direction](https://www.francetvinfo.fr/economie/transports/primes-jo-a-la-ratp-jusqu-a-1-777-euros-pour-les-agents-des-stations-et-gares-annonce-la-direction_6532958.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Un Boeing d'Air France dérouté après une "odeur de chaud ressentie en cabine"](https://www.francetvinfo.fr/economie/transports/un-boeing-d-air-france-deroute-apres-une-odeur-de-chaud-ressentie-en-cabine_6532604.html)
+append_entries: 2
+Finish: 2024-05-09 01:12:48.134293

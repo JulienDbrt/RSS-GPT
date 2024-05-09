@@ -526,3 +526,15 @@ Existing_entries: 132
 Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
 append_entries: 0
 Finish: 2024-05-08 12:44:52.568789
+------------------------------------------------------
+Started: 2024-05-09 01:15:47.086828
+Existing_entries: 132
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Pour réarmer l’Ukraine, l’Union européenne prête à utiliser les avoirs russes gelés](https://www.latribune.fr/economie/union-europeenne/pour-rearmer-l-ukraine-l-union-europeenne-prete-a-utiliser-les-avoirs-russes-geles-997186.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Visite de Xi Jinping en Europe : opération séduction de la Serbie à l'égard du président chinois](https://www.latribune.fr/economie/international/visite-de-xi-jinping-en-europe-operation-seduction-de-la-serbie-a-l-egard-du-president-chinois-997181.html)
+append_entries: 2
+Finish: 2024-05-09 01:15:54.218584

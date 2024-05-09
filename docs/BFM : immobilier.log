@@ -283,3 +283,9 @@ Summarized using GPT-3.5-turbo
 Append: [Pour Guillaume Martinaud (Orpi), les prix de l'immobilier "sont encore trop élevés"](https://www.bfmtv.com/immobilier/pour-guillaume-martinaud-orpi-les-prix-de-l-immobilier-sont-encore-trop-eleves_AV-202405080252.html)
 append_entries: 1
 Finish: 2024-05-08 12:37:54.587819
+------------------------------------------------------
+Started: 2024-05-09 01:11:34.112794
+Existing_entries: 77
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-05-09 01:11:34.348572

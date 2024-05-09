@@ -475,3 +475,15 @@ Summarized using GPT-3.5-turbo
 Append: [Netflix : Cette série américaine arrive en force et détrône le phénomène "Mon petit renne"](https://www.ozap.com/actu/netflix-cette-serie-americaine-arrive-en-force-et-detrone-le-phenomene-mon-petit-renne/643827)
 append_entries: 6
 Finish: 2024-05-08 12:31:57.850991
+------------------------------------------------------
+Started: 2024-05-09 01:07:19.316009
+Existing_entries: 139
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [La Ruée Vers les Villas de Luxe à Casablanca : Une Tendance Immobilière en Pleine Expansion](https://fr.media7.ma/la-ruee-vers-les-villas-de-luxe-a-casablanca-une-tendance-immobiliere-en-pleine-expansion/)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Crédit immobilier : les chiffres d’une dégringolade qui se poursuit](https://www.lexpress.fr/economie/credit-immobilier-les-chiffres-dune-degringolade-qui-se-poursuit-AQZYUMPTQZABXKA67C7FXVMBF4/)
+append_entries: 2
+Finish: 2024-05-09 01:07:28.587871

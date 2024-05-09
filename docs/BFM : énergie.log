@@ -231,3 +231,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le monde a dépassé en 2023 les 30% d'électricité d'origine renouvelable, selon un rapport](https://www.bfmtv.com/economie/entreprises/energie/le-monde-a-depasse-en-2023-les-30-d-electricite-d-origine-renouvelable-selon-un-rapport_AD-202405080063.html)
 append_entries: 2
 Finish: 2024-05-08 12:36:00.370613
+------------------------------------------------------
+Started: 2024-05-09 01:10:26.859346
+Existing_entries: 47
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [EPR de Flamanville: EDF commence le chargement du combustible en vue de sa mise en service](https://www.bfmtv.com/economie/entreprises/energie/epr-de-flamanville-edf-commence-le-chargement-du-combustible-en-vue-de-sa-mise-en-service_AD-202405080631.html)
+append_entries: 1
+Finish: 2024-05-09 01:10:31.079269

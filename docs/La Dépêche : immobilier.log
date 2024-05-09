@@ -214,3 +214,9 @@ Summarized using GPT-3.5-turbo
 Append: [Lavelanet. Samedi, le salon de l’immobilier et de l’habitat](https://www.ladepeche.fr/2024/05/08/samedi-le-salon-de-limmobilier-et-de-lhabitat-11937658.php)
 append_entries: 1
 Finish: 2024-05-08 12:43:40.161044
+------------------------------------------------------
+Started: 2024-05-09 01:15:22.779109
+Existing_entries: 38
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-05-09 01:15:23.603937

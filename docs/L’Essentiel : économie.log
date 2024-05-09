@@ -382,3 +382,15 @@ Summarized using GPT-3.5-turbo
 Append: [Cryptomonnaies: FTX devrait récupérer entre 14,5 et 16,3 milliards de dollars](https://www.lessentiel.lu/fr/story/cryptomonnaies-ftx-devrait-recuperer-entre-145-et-163-milliards-de-dollars-103100202)
 append_entries: 4
 Finish: 2024-05-08 12:42:25.935799
+------------------------------------------------------
+Started: 2024-05-09 01:13:59.873681
+Existing_entries: 144
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Place financière: Enquête bouclée au Luxembourg après l'énorme scandale financier](https://www.lessentiel.lu/fr/story/place-financiere-enquete-bouclee-au-luxembourg-apres-lenorme-scandale-financier-103100506)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: Moins d'un tiers des communes contribuent au Fonds de l'emploi](https://www.lessentiel.lu/fr/story/au-luxembourg-moins-dun-tiers-des-communes-contribuent-au-fonds-de-lemploi-103100287)
+append_entries: 2
+Finish: 2024-05-09 01:14:07.493950

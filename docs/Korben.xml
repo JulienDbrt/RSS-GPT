@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Fabric – Un framework open source pour travailler main dans la main avec l’IA</title>
 <link>https://korben.info/augmentez-creativite-productivite-avec-ia.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Keywords: IA, Fabric, workflows, productivité, créativité
 
-Summary:<br><br>
+Summary:<br /><br />
 Depuis l’arrivée de l’IA, il est possible de déléguer des tâches fastidieuses à des outils comme Fabric pour booster productivité et créativité. Fabric est un projet open-source permettant de créer des workflows sur-mesure en combinant différents modèles et APIs. Il offre des Patterns, Stitches, Mill, et Looms pour une personnalisation totale. En étant basé sur des standards ouverts et interopérables, Fabric donne le contrôle sur les workflows, permettant d'héberger les composants localement. L'intégration de l'IA avec Fabric est rendue aussi simple que l'utilisation de commandes Unix. Bien que cela nécessite une adaptation, une fois maîtrisé, le gain de temps est considérable. Plutôt que de craindre le chômage, l'utilisation de l'IA permet de libérer du temps pour être plus créatif et se concentrer sur des tâches à forte valeur ajoutée. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_man_is_working_with_a_AI_adb4179b-c9c6-4ed4-b580-613d2f26a03c.webp" width="1456" /></p>
 <p>Depuis que l&rsquo;IA a débarqué dans nos vies, il est maintenant possible de lui déléguer une grande partie de nos tâches fastidieuses et chronophages, ce qui nous permet de nous concentrer sur l&rsquo;essentiel. Des outils comme ChatGPT ont évidemment démocratisé l&rsquo;accès à cette technologie, mais ses capacités vont bien au-delà d&rsquo;un simple agent conversationnel.</p>
@@ -89,9 +90,7 @@ cat article.txt | analyze</code></p>
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Si ça vous dit d&rsquo;essayer Fabric, <a href="https://github.com/danielmiessler/fabric" rel="noopener" target="_blank">la doc est ici.</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 08 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 08 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Skyvern – Plus besoin de vous prendre la tête pour automatiser une tâche web (scraping, saisie de formulaire…etc)</title>
 <link>https://korben.info/skyvern-automatisation-web-ia-vision-ordinateur.html</link>

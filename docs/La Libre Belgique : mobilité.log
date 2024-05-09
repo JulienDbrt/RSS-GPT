@@ -275,3 +275,9 @@ Summarized using GPT-3.5-turbo
 Append: [Carrefour Léonard : les perturbations à prévoir au tunnel Léonard dès ce mercredi](https://www.lalibre.be/belgique/mobilite/2024/05/08/carrefour-leonard-les-perturbations-a-prevoir-au-tunnel-leonard-des-ce-mercredi-OSJKRBNTHVGX3LUBJENLURCTRU/)
 append_entries: 3
 Finish: 2024-05-08 12:44:51.982814
+------------------------------------------------------
+Started: 2024-05-09 01:15:46.467735
+Existing_entries: 81
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-09 01:15:47.014226

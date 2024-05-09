@@ -216,3 +216,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un Boeing 787 d'Air France a dû atterrir en urgence au Canada](https://www.bfmtv.com/economie/entreprises/aeronautique/un-boeing-787-d-air-france-a-du-atterrir-en-urgence-au-canada_AV-202405080341.html)
 append_entries: 1
 Finish: 2024-05-08 12:36:05.036433
+------------------------------------------------------
+Started: 2024-05-09 01:10:31.103072
+Existing_entries: 42
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Un avion-cargo Boeing atterrit en urgence après la panne de son train d'atterrissage](https://www.bfmtv.com/economie/entreprises/aeronautique/un-avion-cargo-de-boeing-atterrit-en-urgence-apres-la-panne-de-son-train-d-atterrissage_AV-202405080475.html)
+append_entries: 1
+Finish: 2024-05-09 01:10:34.287469
