@@ -426,3 +426,15 @@ Summarized using GPT-3.5-turbo
 Append: ["On est un produit extrêmement copié" : deux Vins de Bourgogne protégés en Chine après la visite de Xi Jinping](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/on-est-un-produit-extremement-copie-deux-vins-de-bourgogne-proteges-en-chine-apres-la-visite-de-xi-jinping-2966846.html)
 append_entries: 3
 Finish: 2024-05-09 01:13:04.752413
+------------------------------------------------------
+Started: 2024-05-09 12:40:03.369376
+Existing_entries: 110
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: ["Je pourrais en pleurer" : 45 kilos d'asperges volés en une nuit, le réveil a été dur pour ces maraîchers](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/je-pourrais-en-pleurer-45-kilos-d-asperges-volees-en-une-nuit-le-reveil-a-ete-dur-pour-ces-maraichers-2967191.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [35 ovins tués en Côte-d'Or, 28 dans l'Yonne... le loup fait à nouveau des ravages en Bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/35-ovins-tues-en-cote-d-or-28-dans-l-yonne-le-loup-fait-a-nouveau-des-ravages-en-bourgogne-2966849.html)
+append_entries: 2
+Finish: 2024-05-09 12:40:11.381571

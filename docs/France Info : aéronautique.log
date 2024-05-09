@@ -185,3 +185,15 @@ Existing_entries: 23
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-05-09 01:12:45.155453
+------------------------------------------------------
+Started: 2024-05-09 12:38:24.215402
+Existing_entries: 23
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Sénégal : 11 personnes blessées après la sortie de piste d'un Boeing 737](https://www.francetvinfo.fr/economie/transports/senegal-11-personnes-blessees-apres-la-sortie-de-piste-d-un-boeing-737_6534335.html)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Aéronautique : la série noire continue pour Boeing](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-la-serie-noire-continue-pour-boeing_6506303.html)
+append_entries: 2
+Finish: 2024-05-09 12:38:32.420154

@@ -291,3 +291,18 @@ Existing_entries: 65
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-05-09 01:09:38.511470
+------------------------------------------------------
+Started: 2024-05-09 12:34:20.561878
+Existing_entries: 65
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Tous malades en même temps: 85 vols doivent être annulés](https://www.20min.ch/fr/103100978)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Mitsubishi condamné à payer 1 milliard après un accident](https://www.20min.ch/fr/103100921)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Le prix du grain de café a explosé](https://www.20min.ch/fr/103100222)
+append_entries: 3
+Finish: 2024-05-09 12:34:32.066583

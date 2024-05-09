@@ -216,3 +216,15 @@ Existing_entries: 40
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-05-09 01:13:20.668007
+------------------------------------------------------
+Started: 2024-05-09 12:40:17.296278
+Existing_entries: 40
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle évacuation dans un immeuble du centre de Toulouse, le mur intérieur d'une maison s'est effondré](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/nouvelle-evacuation-dans-un-immeuble-du-centre-de-toulouse-le-mur-interieur-d-une-maison-s-est-effondre-2967158.html)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [" J'ai été gourmand sur mon prix de départ". Quand les vendeurs doivent s'adapter à la baisse des prix de l'immobilier](https://france3-regions.francetvinfo.fr/paris-ile-de-france/j-ai-ete-gourmand-sur-mon-prix-de-depart-quand-les-vendeurs-doivent-s-adapter-a-la-baisse-des-prix-de-l-immobilier-2966000.html)
+append_entries: 2
+Finish: 2024-05-09 12:40:23.218800

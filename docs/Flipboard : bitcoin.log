@@ -488,3 +488,18 @@ Summarized using GPT-3.5-turbo
 Append: [Bitcoin : Voici les prédictions choc de Michael Saylor !](https://www.cointribune.com/bitcoin-voici-les-predictions-choc-de-michael-saylor/)
 append_entries: 7
 Finish: 2024-05-09 01:06:27.314884
+------------------------------------------------------
+Started: 2024-05-09 12:28:39.573082
+Existing_entries: 132
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Impôts : tout savoir sur la fiscalité des cryptos (et ne pas faire d’erreur)](https://www.ouest-france.fr/economie/impots-fiscalite/impots-tout-savoir-sur-la-fiscalite-des-cryptos-et-ne-pas-faire-derreur-67d8b9ce-0b81-11ef-8dbf-6d0effde8a28)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Les Bitcoins perdus à tout jamais se comptent en millions - Be-Crypto](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/les-bitcoins-perdus-a-tout-jamais-se-comptent-en-millions)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Déclaration de revenus : Bitcoin, Ethereum… comment les cryptos sont-elles imposées ?](https://www.capital.fr/votre-argent/declaration-de-revenus-bitcoin-ethereum-comment-les-cryptos-sont-elles-imposees-1496369)
+append_entries: 3
+Finish: 2024-05-09 12:28:55.004207

@@ -406,3 +406,12 @@ Existing_entries: 150
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-09 01:14:08.436160
+------------------------------------------------------
+Started: 2024-05-09 12:40:59.032771
+Existing_entries: 150
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 7647
+Summarized using GPT-3.5-turbo
+Append: [Automobile : pourquoi les entreprises devraient massivement passer à l'électrique](https://www.lexpress.fr/economie/automobile-pourquoi-les-entreprises-devraient-massivement-passer-a-lelectrique-36NNWHC2ZJCN5OJKKNM6LCIGS4/)
+append_entries: 1
+Finish: 2024-05-09 12:41:04.298026

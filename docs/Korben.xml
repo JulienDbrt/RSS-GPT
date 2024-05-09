@@ -4,6 +4,180 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>RomM – Le gestionnaire de ROMs les retro gamers sérieux</title>
+<link>https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html</link>
+<guid>https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html</guid>
+<content:encoded><![CDATA[
+<div> ROM, émulateur, gestionnaire, jeux rétro, installateur
+<br>
+Summary:
+RomM est un gestionnaire de ROMs pratique qui organise et catalogue vos jeux rétro dispersés sur votre PC. Il prend en charge diverses plateformes comme la Super Nintendo, la PlayStation, la GameBoy, etc. Vous pouvez lancer vos jeux directement dans le navigateur sans avoir à installer plusieurs émulateurs. RomM est personnalisable, avec la possibilité de gérer les permissions et les utilisateurs. L'installation est simple, avec la création d'une clé API, l'organisation des ROMs dans les dossiers appropriés et quelques modifications dans le fichier docker-compose.yml. Vous pouvez rapidement avoir votre serveur fonctionnel, offrant ainsi une expérience de jeu rétro sans tracas. RomM a reçu des éloges pour sa facilité d'utilisation et son efficacité, crédité à Lorenper pour son développement. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_retro_gamer_born_in_1982_stanger_things_ambiance_2425a226-bff5-47a6-83cf-22de9e6f1d22.webp" width="1456" /></p>
+<p>Vous galérez avec vos ROMs de jeux rétro éparpillées un peu partout sur votre PC ? Vous passez des heures à chercher le bon émulateur, les bons fichiers, les bonnes versions ? Et bien tout ça c&rsquo;est fini, grâce à <strong><a href="https://romm.website/" rel="noopener" target="_blank">RomM</a></strong> qui est un gestionnaire de ROMs vraiment cool.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-157781" height="324" src="https://korben.info/app/uploads/2024/03/romm-desktop-slider-ezgif.com-resize.gif" style="width: 668px; height: auto;" width="576" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1130845250" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous lui indiquez le répertoire qui contient tous vos jeux, et hop, en quelques clics, il scanne et organise tout ce bordel avec les bonnes infos et les jolies jaquettes qu&rsquo;il va récupérer direct sur <a href="https://www.igdb.com/" rel="noopener" target="_blank">IGDB</a>. RomM gère surtout un paquet de plateformes comme la <strong>Super Nintendo</strong>, la <strong>PlayStation</strong>, la <strong>GameBoy</strong>, la <strong>MegaDrive</strong> et même des trucs plus obscurs comme le <strong>PocketStation</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-157782" height="509" src="https://korben.info/app/uploads/2024/03/SCR-20240326-9fi.webp" style="width: 262px; height: auto;" width="368" /></figure></div>
+
+
+<p>Ce outil vous permet même lancer vos jeux directement dans le navigateur grâce à <a href="https://github.com/zurdi15/romm/wiki/EmulatorJS-Player" rel="noopener" target="_blank">EmulatorJS</a> comme ça, pas besoin d&rsquo;installer 50 émulateurs, tout est intégré, propre et facile. C&rsquo;est beau ! </p>
+
+
+
+<p>C&rsquo;est également super customisable, avec support des ROMs en plusieurs fichiers pour les jeux <strong>PS1</strong>, parsing des tags des noms de fichiers pour classer par région, gestion des permissions et des utilisateurs&#8230;etc Bref, c&rsquo;est du solide !</p>
+
+
+
+<p>Et si vous êtes un gros noob, pas de panique, c&rsquo;est pas sorcier de l&rsquo;installer. Vous créez votre clé API <a href="https://api-docs.igdb.com/#getting-started" rel="noopener" target="_blank">IGDB</a>, vous mettez vos ROMs dans le bon format de dossier, vous modifiez deux trois trucs dans le fichier <code>docker-compose.yml</code> et voilà, en deux temps trois mouvements vous aurez votre serveur qui tourne ! Sur le NAS par exemple, c&rsquo;est top comme ça plus de galère, plus de temps perdu, juste le plaisir du jeu à l&rsquo;ancienne.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1249549559" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Le mec derrière RomM a même fait <a href="https://github.com/rommapp/romm/wiki" rel="noopener" target="_blank">un wiki très complet sur le GitHub du projet</a>.</p>
+
+
+
+<p><a href="https://romm.website/" rel="noopener" target="_blank">A découvrir ici !</a></p>
+
+
+
+<p>Encore merci à Lorenper !</p>
+]]></content:encoded>
+<pubDate>Thu, 09 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 09 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AlphaFold 3 – Un sacré bond en avant pour la modélisation des molécules du vivant</title>
+<link>https://korben.info/alphafold-3-modelisation-moleculaire-proteine-adn-arn.html</link>
+<guid>https://korben.info/alphafold-3-modelisation-moleculaire-proteine-adn-arn.html</guid>
+<content:encoded><![CDATA[
+<div> Google DeepMind, AlphaFold 3, intelligence artificielle, prédiction protéines, interactions moléculaires
+
+<br>
+Summary: 
+
+AlphaFold 3 est la dernière version du modèle d'intelligence artificielle de Google DeepMind, offrant une précision accrue dans la prédiction des structures de protéines et de leurs interactions avec d'autres molécules. Cette avancée révolutionnaire permettra une meilleure compréhension des processus biologiques et des maladies. Le modèle repose sur une architecture de réseau de neurones puissante et une approche d'évolution moléculaire. Les résultats sont impressionnants, surpassant les méthodes existantes et améliorant la précision des prédictions, notamment pour les interactions avec les médicaments. L'outil est open source et accessible gratuitement, facilitant son utilisation par la communauté scientifique pour accélérer les découvertes en biologie structurale. Cependant, des questions éthiques et de sécurité sont soulevées pour éviter tout mésusage potentiel. La révolution biotechnologique est en marche, avec AlphaFold 3 au centre de cette transformation. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="268" src="https://korben.info/app/uploads/2024/05/SCR-20240509-hfbe.webp" width="1000" /></p>
+<p>Vous vous souvenez d&rsquo;<strong>AlphaFold 2</strong>, ce modèle d&rsquo;IA assez dingue de Google DeepMind qui avait fait des avancées majeures dans la prédiction des structures de protéines ? Eh bien, la <strong>version 3</strong> vient de débarquer et elle repousse encore un peu plus les limites !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-931303511" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>AlphaFold 3, c&rsquo;est comme si on passait d&rsquo;un film noir et blanc du genre la Vache et Le Prisonnier à un film en 3D style Avatar, car non seulement il prédit avec une précision impressionnante la <strong>structure 3D des protéines</strong>, mais il est également capable de modéliser leurs <strong>interactions</strong> avec tout un tas d&rsquo;autres molécules : l&rsquo;ADN, l&rsquo;ARN, les petites molécules organiques comme les médicaments, et même les modifications chimiques.</p>
+
+
+
+<p>Concrètement, ça veut dire qu&rsquo;on va pouvoir mieux comprendre comment toutes ces molécules qui nous composent <strong>s&rsquo;assemblent et fonctionnent ensemble</strong>, comme les rouages de l&rsquo;horloge cosmique de la viiiie. Un sacré bond en avant pour décrypter les <strong>processus biologiques</strong> fondamentaux et leurs dysfonctionnements à l&rsquo;origine des maladies.</p>
+
+
+
+<p>Son secret, évidemment, c&rsquo;est une <strong>architecture de réseau de neurones</strong> encore plus puissante et entraînée sur une montagne de données moléculaires. Le cœur du système repose sur un module Evoformer amélioré, couplé à une nouvelle approche basée sur des <strong>réseaux de diffusion</strong> qui partent d&rsquo;un nuage d&rsquo;atomes pour converger vers la structure moléculaire la plus probable.</p>
+
+
+
+<p>Et les résultats sont vraiment impressionnants puisque sur les jeux de données de référence, AlphaFold 3 bat des records avec des améliorations significatives par rapport aux méthodes existantes. Pour certaines catégories d&rsquo;interactions, comme celles avec les médicaments, il <strong>augmente même nettement la précision</strong> des prédictions. Et tout ça sans même avoir besoin de données structurales en entrée.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-308273431" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais le plus cool, c&rsquo;est que c&rsquo;est <strong>open source</strong> et accessible gratuitement à la communauté scientifique via le nouveau <a href="https://alphafold.ebi.ac.uk/" rel="noopener" target="_blank">serveur AlphaFold</a>. Cet outil permet à n&rsquo;importe quel chercheur de générer des prédictions pour ses protéines d&rsquo;intérêt en quelques clics, là où il fallait avant un travail titanesque et des moyens conséquents. Bref, de quoi démocratiser la biologie structurale et accélérer les découvertes !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160153" height="1024" src="https://korben.info/app/uploads/2024/05/alphafold3-1016x1024.webp" width="1016" /></figure></div>
+
+
+<p>Évidemment, avec une telle puissance vient aussi de grandes responsabilités, alors les gros cerveaux derrière DeepMind ont longuement planché avec de nombreux experts et organismes pour définir un <strong>cadre éthique</strong> et limiter les risques de mésusage comme on dit. Parce qu&rsquo;autant un AlphaFold entre de bonnes mains, ça peut faire avancer la science et la médecine de façon spectaculaire, autant on n&rsquo;a pas envie de voir débarquer des virus ou des prions tueurs conçus par des apprentis sorciers.</p>
+
+
+
+<p>Mais j&rsquo;ai hâte de voir ce que la communauté scientifique va réussir à faire avec cet outil génial. Peut-être de nouvelles <strong>enzymes pour des applications industrielles</strong>, des <strong>matériaux bio-inspirés</strong> aux propriétés uniques, ou des <strong>protéines thérapeutiques</strong> plus efficaces ? En tout cas une chose est sûre, la <strong>révolution biotech</strong> ne fait que commencer et nul doute qu&rsquo;AlphaFold 3 en sera l&rsquo;un des acteurs clés !</p>
+
+
+
+<p><a href="https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 09 May 2024 05:34:13 +0000</pubDate>
+<pubDate>Thu, 09 May 2024 05:34:13 +0000</pubDate>
+</item>
+<item>
+<title>Raspberry Pi Connect – Accédez à votre Pi depuis n’importe où !</title>
+<link>https://korben.info/raspberry-pi-connect-acces-distant-securise-navigateur.html</link>
+<guid>https://korben.info/raspberry-pi-connect-acces-distant-securise-navigateur.html</guid>
+<content:encoded><![CDATA[
+<div> Raspberry Pi, Raspberry Pi Foundation, Raspberry Pi Connect, accès à distance, WebRTC <br>
+<br>
+Summary:
+Raspberry Pi Connect est un nouvel outil pratique de la Raspberry Pi Foundation permettant d'accéder à distance à un Raspberry Pi via n'importe quel navigateur web. Il nécessite un Raspberry Pi 4, 5 ou 400 avec Raspberry Pi OS Bookworm 64 bits et Wayland. Une fois installé, il permet une connexion pair-à-pair sécurisée grâce à WebRTC, avec possibilité de passer par un serveur relais en cas de besoin. Le service est gratuit pour les connexions directes, et pour le moment également pour les connexions relayées. Les utilisateurs peuvent surveiller leur connexion pour vérifier si elle est directe ou relayée. Cette solution est particulièrement utile depuis le passage à Wayland, qui limitait l'accès distant via X11. En quelques clics, les utilisateurs peuvent désormais facilement accéder à leur Raspberry Pi et le contrôler à distance pour réaliser leurs projets. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Raspberry_Pi_logo_with_text_Connect_45b02412-935c-4a78-b310-bb94fb4b50c1.webp" width="1920" /></p>
+<p>Ah, les joies du <strong>Raspberry Pi</strong>&#8230; On en achète un, puis deux, puis trois&#8230; Et avant de s&rsquo;en rendre compte, on se retrouve avec une armée de petits ordinateurs  dispersés aux quatre coins de la maison, du garage et du jardin. Du coup, pas facile de s&rsquo;y retrouver, surtout quand il faut jongler avec <em>VNC</em>, <em>SSH</em> et autres joyeusetés pour y accéder à distance.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-521953112" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais ne vous inquiétez pas, les gens de la <em>Raspberry Pi Foundation</em> ont pensé à tout et viennent de nous pondre <strong>Raspberry Pi Connect</strong>, un nouvel outil bien pratique pour accéder aux Pi à distance, et ce, depuis n&rsquo;importe quel navigateur web. Comme ça, plus besoin de se prendre la tête aevec la configuration réseau, des ports à ouvrir et des adresses IP à retenir.</p>
+
+
+
+<p>Pour utiliser ce truc, il vous faut d&rsquo;abord un <em>Raspberry Pi 4</em>, <em>5</em> ou <em>400</em> équipé d&rsquo;une version 64 bits de <em>Raspberry Pi OS Bookworm</em> avec l&rsquo;interface graphique <em>Wayland</em>. Une fois votre Pi à jour, ouvrez un terminal et entrez la commande magique :</p>
+
+
+
+<p><code>sudo apt install rpi-connect</code></p>
+
+
+
+<p>Quelques secondes plus tard, après un petit redémarrage, vous devriez voir apparaître une nouvelle icône dans la barre des tâches, en haut à droite de votre écran. Cliquez dessus, choisissez « Sign in » et suivez les instructions pour associer votre Pi à un compte Raspberry Pi. N&rsquo;oubliez pas d&rsquo;activer la <em>double authentification</em>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-42042158" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et là, c&rsquo;est le moment « Waouh » : depuis n&rsquo;importe quel ordinateur, tablette ou téléphone équipé d&rsquo;un navigateur web, rendez-vous sur <code>connect.raspberrypi.com</code>, connectez-vous et&#8230; tadaa ! Vous voilà en train d&rsquo;utiliser votre Raspberry Pi à distance, via un accès sécurisé et chiffré à votre bureau.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160147" height="626" src="https://korben.info/app/uploads/2024/05/hero-1-1024x626.png" width="1024" /></figure></div>
+
+
+<p>En fait, quand vous utilisez <em>Raspberry Pi Connect</em>, une connexion pair-à-pair (P2P) est établie entre votre navigateur et votre Pi grâce à la technologie <em>WebRTC</em> (si vous ne connaissez pas, c&rsquo;est ce qui est utilisé par Zoom, Slack ou Google Meet pour la visio). Le démon <code>rpi-connect</code> installé sur votre Pi se charge alors de négocier la meilleure connexion possible avec le serveur <em>VNC</em> intégré. Comme ça, dans la plupart des cas, une connexion directe est possible, sans passer par les serveurs de Raspberry Pi. Mais si jamais ce n&rsquo;est pas faisable, pas de stress, le trafic sera alors relayé de manière sécurisée et chiffrée via les serveurs de la <em>Raspberry Pi Foundation</em>, en utilisant le protocole <em>DTLS</em>.</p>
+
+
+
+<p>Pour le moment, il n&rsquo;y a qu&rsquo;un seul serveur relais, situé au Royaume-Uni, donc cela peut entraîner un peu de latence si vous êtes loin des côtes anglaises. Mais d&rsquo;autres serveurs sont prévus pour garantir une bonne expérience utilisateur. Et vous pouvez même vérifier si votre connexion est directe ou relayée en passant votre souris sur l&rsquo;icône de cadenas dans votre navigateur.</p>
+
+
+
+<p>L&rsquo;équipe de <em>Raspberry Pi Connect</em> a bien sûr l&rsquo;intention de garder le service gratuit pour les utilisateurs, tant qu&rsquo;une connexion directe est possible, et ce, quel que soit le nombre d&rsquo;appareils utilisés. Et pour le moment, les connexions relayées sont, elles aussi gratuites, le temps de voir combien de personnes en ont besoin et quelle quantité de bande passante est nécessaire.</p>
+
+
+
+<p>Bref, ça tombe à pic, surtout depuis le passage de <em>Raspberry Pi OS</em> à <em>Wayland</em> qui empêchait d&rsquo;utiliser la fonction d&rsquo;accès distant intégrée au protocole <em>X11</em>. Avec ce nouvel outil, on retrouve donc ce confort d&rsquo;utilisation qui a fait la réputation des Pi et en quelques clics, on peut accéder à sa petite merveille et bidouiller tout ce qu&rsquo;on veut depuis n&rsquo;importe où.</p>
+
+
+
+<p>Si ça vous dit, <a href="https://www.raspberrypi.com/documentation/services/connect.html" rel="noopener" target="_blank">tout est expliqué ici !</a></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-709491872" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://arstechnica.com/gadgets/2024/05/raspberry-pis-get-a-built-in-remote-access-tool-raspberry-pi-connect/?utm_social-type=owned" rel="noopener" target="_blank">Source</a></p>
+
+
+
+<p><img alt="" src="https://arstechnica.com/gadgets/2024/05/raspberry-pis-get-a-built-in-remote-access-tool-raspberry-pi-connect/?utm_social-type=owned" /></p>
+]]></content:encoded>
+<pubDate>Thu, 09 May 2024 05:07:45 +0000</pubDate>
+<pubDate>Thu, 09 May 2024 05:07:45 +0000</pubDate>
+</item>
 
 <item>
 <title>Fabric – Un framework open source pour travailler main dans la main avec l’IA</title>

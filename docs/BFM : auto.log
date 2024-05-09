@@ -267,3 +267,18 @@ Existing_entries: 57
 Fetching from https://www.bfmtv.com/rss/auto/
 append_entries: 0
 Finish: 2024-05-09 01:10:34.564272
+------------------------------------------------------
+Started: 2024-05-09 12:35:17.052512
+Existing_entries: 57
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: ["Ça crée un danger": à Valence, des barrières se dressent contre Waze](https://www.bfmtv.com/auto/ca-cree-un-danger-a-valence-des-barrieres-se-dressent-contre-waze_AV-202405090331.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Carburants: pourquoi les tarifs dans les stations-service sur les autoroutes sont-ils si élevés?](https://www.bfmtv.com/auto/carburants-pourquoi-les-tarifs-dans-les-stations-service-sur-les-autoroutes-sont-ils-si-eleves_AV-202405090260.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Mitsubishi condamné à payer 1 milliard de dollars suite à un accident de la route aux Etats-Unis](https://www.bfmtv.com/auto/mitsubishi-condamne-a-payer-1-milliard-de-dollars-suite-a-un-accident-de-la-route-aux-etats-unis_AD-202405090046.html)
+append_entries: 3
+Finish: 2024-05-09 12:35:31.273978

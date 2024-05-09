@@ -304,3 +304,15 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. À Saint-Girons, en Ariège, l’herbe est toujours plus verte dans les métiers agricoles](https://www.ladepeche.fr/2024/05/08/video-a-saint-girons-en-ariege-lherbe-est-toujours-plus-verte-dans-les-metiers-agricoles-11938937.php)
 append_entries: 1
 Finish: 2024-05-09 01:15:22.760016
+------------------------------------------------------
+Started: 2024-05-09 12:42:45.212743
+Existing_entries: 66
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : pour protester contre le non-remplacement de deux enseignants absents, les parents d’élèves ont décidé de bloquer l’école Ernest Renan](https://www.ladepeche.fr/2024/05/09/toulouse-pour-protester-contre-le-non-remplacement-de-deux-enseignants-absents-les-parents-deleves-ont-decide-de-bloquer-lecole-ernest-renan-11938210.php)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Le BTP veut séduire grâce à un rallye](https://www.ladepeche.fr/2024/05/09/le-btp-veut-seduire-grace-a-un-rallye-11939647.php)
+append_entries: 2
+Finish: 2024-05-09 12:42:57.093486

@@ -593,3 +593,30 @@ Summarized using GPT-3.5-turbo
 Append: [La Bourse de Paris poursuit sa série haussière](https://www.moneyvox.fr/bourse/actualites/97684/la-bourse-de-paris-poursuit-sa-serie-haussiere)
 append_entries: 1
 Finish: 2024-05-09 01:12:54.231426
+------------------------------------------------------
+Started: 2024-05-09 12:39:19.827769
+Existing_entries: 169
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [La Banque d'Angleterre maintient son taux directeur à 5,25%](https://www.moneyvox.fr/actu/97688/la-banque-angleterre-maintient-son-taux-directeur-a-5,25)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Turquie : la Banque centrale prévoit un pic de l'inflation en mai](https://www.moneyvox.fr/actu/97687/turquie-la-banque-centrale-prevoit-un-pic-de-inflation-en-mai)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Brésil : la baisse du taux directeur ralentit](https://www.moneyvox.fr/banque/actualites/97685/bresil-la-baisse-du-taux-directeur-ralentit)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [CAF : « Pourquoi je n'ai pas eu la hausse de 4,6% sur mon RSA ? »](https://www.moneyvox.fr/votre-argent/actualites/97669/caf-pourquoi-je-n-ai-pas-eu-la-hausse-de-4,6-sur-mon-rsa)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin, ETH... Voici la solution pour éviter de payer des impôts sur vos plus-values en 2024](https://www.moneyvox.fr/impot/actualites/97676/bitcoin-eth-voici-la-solution-pour-eviter-de-payer-des-impots-sur-vos-plus-values-en-2024)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Code de carte bancaire oublié : voici la manip pour le récupérer](https://www.moneyvox.fr/carte-bancaire/actualites/97629/code-de-carte-bancaire-oublie-voici-la-manip-pour-le-recuperer)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Placement : mauvaise nouvelle pour le taux des comptes à terme](https://www.moneyvox.fr/placement/actualites/97670/mauvaise-nouvelle-pour-le-taux-des-comptes-a-terme)
+append_entries: 7
+Finish: 2024-05-09 12:39:50.926918

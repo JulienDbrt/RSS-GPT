@@ -350,3 +350,27 @@ Summarized using GPT-3.5-turbo
 Append: [Un Boeing d'Air France dérouté après une "odeur de chaud ressentie en cabine"](https://www.francetvinfo.fr/economie/transports/un-boeing-d-air-france-deroute-apres-une-odeur-de-chaud-ressentie-en-cabine_6532604.html)
 append_entries: 2
 Finish: 2024-05-09 01:12:48.134293
+------------------------------------------------------
+Started: 2024-05-09 12:38:32.916257
+Existing_entries: 78
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Sénégal : 11 personnes blessées après la sortie de piste d'un Boeing 737](https://www.francetvinfo.fr/economie/transports/senegal-11-personnes-blessees-apres-la-sortie-de-piste-d-un-boeing-737_6534335.html)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Boeing : la série noire se poursuit pour le constructeur aéronautique](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/boeing-la-serie-noire-se-poursuit-pour-le-constructeur-aeronautique_6534215.html)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : dans la capitale, le prix du ticket de bus va doubler](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-dans-la-capitale-le-prix-du-ticket-de-bus-va-doubler_6534188.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Pont de l’Ascension : jusqu'à 6 heures pour passer le tunnel du Fréjus, "un niveau de trafic inédit"](https://www.francetvinfo.fr/economie/transports/pont-de-l-ascension-jusqu-a-6h-pour-passer-le-tunnel-du-frejus-un-niveau-de-trafic-inedit_6534101.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [Prix des carburants : pour quelles raisons faire le plein sur l'autoroute coûte plus cher ?](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/prix-des-carburants-pour-quelles-raisons-faire-le-plein-sur-l-autoroute-coute-plus-cher_6506294.html)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Aéronautique : la série noire continue pour Boeing](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-la-serie-noire-continue-pour-boeing_6506303.html)
+append_entries: 6
+Finish: 2024-05-09 12:39:00.949853

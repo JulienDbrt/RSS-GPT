@@ -394,3 +394,18 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: Moins d'un tiers des communes contribuent au Fonds de l'emploi](https://www.lessentiel.lu/fr/story/au-luxembourg-moins-dun-tiers-des-communes-contribuent-au-fonds-de-lemploi-103100287)
 append_entries: 2
 Finish: 2024-05-09 01:14:07.493950
+------------------------------------------------------
+Started: 2024-05-09 12:40:45.380699
+Existing_entries: 146
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Australie: «Le gaz est nécessaire d’ici à 2050 et au-delà»](https://www.lessentiel.lu/fr/story/australie-le-gaz-est-necessaire-dici-a-2050-et-au-dela-103100965)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Entreprise au Luxembourg: L'usine ArcelorMittal de Differdange va réduire «80%» de ses émissions de poussière](https://www.lessentiel.lu/fr/story/entreprise-au-luxembourg-lusine-arcelormittal-de-differdange-va-reduire-80-de-ses-emissions-de-poussiere-103100345)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Adem: D'où viennent les demandeurs d'emploi au Luxembourg?](https://www.lessentiel.lu/fr/story/dou-viennent-les-demandeurs-demploi-au-luxembourg-103099043)
+append_entries: 3
+Finish: 2024-05-09 12:40:58.782103

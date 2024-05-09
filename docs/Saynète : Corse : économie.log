@@ -728,3 +728,12 @@ Summarized using GPT-3.5-turbo
 Append: [Vacances d’été 2024 : voici les dates dans les zones A, B, C et en Corse](https://econostrum.info/dates-vacances-dete-2024-zones-a-b-c-et-en-corse/)
 append_entries: 3
 Finish: 2024-05-09 01:09:37.907273
+------------------------------------------------------
+Started: 2024-05-09 12:34:16.244640
+Existing_entries: 345
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 322
+Summarized using GPT-3.5-turbo
+Append: [REGLEMENTAIRE  ’    L’Afpa Corsica forme vos salariés aux offres règlementaires   Il vous appartient en tant qu’employeur de...](https://www.facebook.com/765411788918626/posts/971097668350036)
+append_entries: 1
+Finish: 2024-05-09 12:34:20.530584

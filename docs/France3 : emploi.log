@@ -309,3 +309,9 @@ Summarized using GPT-3.5-turbo
 Append: [Il travaille dans un restaurant gastronomique rochelais et se fait expulser hors de France : sa famille est sous le choc](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/il-travaille-dans-un-restaurant-gastronomique-rochelais-et-se-fait-expulser-hors-de-france-sa-famille-est-sous-le-choc-2966999.html)
 append_entries: 2
 Finish: 2024-05-09 01:13:20.277916
+------------------------------------------------------
+Started: 2024-05-09 12:40:16.652931
+Existing_entries: 71
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-05-09 12:40:17.277088

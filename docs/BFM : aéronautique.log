@@ -225,3 +225,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un avion-cargo Boeing atterrit en urgence après la panne de son train d'atterrissage](https://www.bfmtv.com/economie/entreprises/aeronautique/un-avion-cargo-de-boeing-atterrit-en-urgence-apres-la-panne-de-son-train-d-atterrissage_AV-202405080475.html)
 append_entries: 1
 Finish: 2024-05-09 01:10:34.287469
+------------------------------------------------------
+Started: 2024-05-09 12:35:15.207531
+Existing_entries: 43
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Problème technique: un Airbus d'Air France Paris-Mexico doit faire demi-tour après plus de 4 heures de vol](https://www.bfmtv.com/economie/entreprises/aeronautique/probleme-technique-un-airbus-d-air-france-paris-mexico-doit-faire-demi-tour-apres-plus-de-4-heures-de-vol_AV-202405090287.html)
+append_entries: 1
+Finish: 2024-05-09 12:35:17.019879
