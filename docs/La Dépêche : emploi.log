@@ -316,3 +316,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le BTP veut séduire grâce à un rallye](https://www.ladepeche.fr/2024/05/09/le-btp-veut-seduire-grace-a-un-rallye-11939647.php)
 append_entries: 2
 Finish: 2024-05-09 12:42:57.093486
+------------------------------------------------------
+Started: 2024-05-10 01:17:04.997504
+Existing_entries: 68
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-05-10 01:17:05.767024

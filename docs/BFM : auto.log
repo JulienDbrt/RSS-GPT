@@ -282,3 +282,15 @@ Summarized using GPT-3.5-turbo
 Append: [Mitsubishi condamné à payer 1 milliard de dollars suite à un accident de la route aux Etats-Unis](https://www.bfmtv.com/auto/mitsubishi-condamne-a-payer-1-milliard-de-dollars-suite-a-un-accident-de-la-route-aux-etats-unis_AD-202405090046.html)
 append_entries: 3
 Finish: 2024-05-09 12:35:31.273978
+------------------------------------------------------
+Started: 2024-05-10 01:11:46.726741
+Existing_entries: 60
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Auto: "Nous pourrions devenir leader d'ici la fin de la décennie en Europe", affirme BYD](https://www.bfmtv.com/auto/auto-nous-pourrions-devenir-leader-d-ici-la-fin-de-la-decennie-en-europe-affirme-byd_AD-202405090698.html)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Porsche Taycan : des milliers de modèles rappelés pour batteries défectueuses](https://www.bfmtv.com/auto/porsche-taycan-des-milliers-de-modeles-rappeles-pour-batteries-defectueuses_AD-202405090554.html)
+append_entries: 2
+Finish: 2024-05-10 01:11:55.247679

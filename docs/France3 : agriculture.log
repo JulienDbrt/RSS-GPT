@@ -438,3 +438,9 @@ Summarized using GPT-3.5-turbo
 Append: [35 ovins tués en Côte-d'Or, 28 dans l'Yonne... le loup fait à nouveau des ravages en Bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/35-ovins-tues-en-cote-d-or-28-dans-l-yonne-le-loup-fait-a-nouveau-des-ravages-en-bourgogne-2966849.html)
 append_entries: 2
 Finish: 2024-05-09 12:40:11.381571
+------------------------------------------------------
+Started: 2024-05-10 01:14:42.475158
+Existing_entries: 112
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+append_entries: 0
+Finish: 2024-05-10 01:14:42.897655

@@ -306,3 +306,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le prix du grain de café a explosé](https://www.20min.ch/fr/103100222)
 append_entries: 3
 Finish: 2024-05-09 12:34:32.066583
+------------------------------------------------------
+Started: 2024-05-10 01:10:45.124801
+Existing_entries: 68
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Washington ajoute 37 entités chinoises à sa liste noire](https://www.20min.ch/fr/877182038616)
+append_entries: 1
+Finish: 2024-05-10 01:10:51.337745

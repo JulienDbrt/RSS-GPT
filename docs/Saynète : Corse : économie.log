@@ -737,3 +737,15 @@ Summarized using GPT-3.5-turbo
 Append: [REGLEMENTAIRE  ’    L’Afpa Corsica forme vos salariés aux offres règlementaires   Il vous appartient en tant qu’employeur de...](https://www.facebook.com/765411788918626/posts/971097668350036)
 append_entries: 1
 Finish: 2024-05-09 12:34:20.530584
+------------------------------------------------------
+Started: 2024-05-10 01:10:37.754386
+Existing_entries: 346
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [’ Le Pôle de Formation Amparà en collaboration avec La Banque Postale, vous propose un BTS Banque en alternance. 14 postes sont à ...](https://www.facebook.com/914922949434689/posts/1328999938026986)
+Token length: 338
+Summarized using GPT-3.5-turbo
+Append: [#By Air Corsica Comment se connecter à notre box à bord](https://www.facebook.com/204309342152891/posts/457273746856448)
+append_entries: 2
+Finish: 2024-05-10 01:10:45.091168

@@ -315,3 +315,18 @@ Existing_entries: 71
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-05-09 12:40:17.277088
+------------------------------------------------------
+Started: 2024-05-10 01:14:48.338858
+Existing_entries: 71
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [L'inquiétude des petites maternités après la parution d'un rapport sur la santé périnatale, une centaine menacée de fermeture](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/l-inquietude-des-petites-maternites-apres-la-parution-d-un-rapport-sur-la-sante-perinatale-une-centaine-menacee-de-fermeture-2967479.html)
+Token length: 303
+Summarized using GPT-3.5-turbo
+Append: [Fin de la grève chez Onet au CHU de Purpan, les salariés reprendront le travail ce lundi 13 mai](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/fin-de-la-greve-chez-onet-au-chu-de-purpan-les-salaries-reprendront-le-travail-ce-lundi-13-mai-2967434.html)
+Token length: 336
+Summarized using GPT-3.5-turbo
+Append: ["On n’en peut plus..." : débrayage de salariés du magasin Boulanger de Limoges, en ce 9 mai férié](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/on-n-en-peut-plus-debrayage-de-salaries-du-magasin-boulanger-de-limoges-en-ce-9-mai-ferie-2967383.html)
+append_entries: 3
+Finish: 2024-05-10 01:14:59.133687

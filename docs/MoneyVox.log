@@ -620,3 +620,15 @@ Summarized using GPT-3.5-turbo
 Append: [Placement : mauvaise nouvelle pour le taux des comptes à terme](https://www.moneyvox.fr/placement/actualites/97670/mauvaise-nouvelle-pour-le-taux-des-comptes-a-terme)
 append_entries: 7
 Finish: 2024-05-09 12:39:50.926918
+------------------------------------------------------
+Started: 2024-05-10 01:14:31.031885
+Existing_entries: 176
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [La Bourse de Paris poursuit son ascension, au plus haut depuis un mois](https://www.moneyvox.fr/bourse/actualites/97691/la-bourse-de-paris-poursuit-son-ascension-au-plus-haut-depuis-un-mois)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [La Bourse de Paris stable avant la Banque d'Angleterre](https://www.moneyvox.fr/bourse/actualites/97690/la-bourse-de-paris-stable-avant-la-banque-angleterre)
+append_entries: 2
+Finish: 2024-05-10 01:14:38.585788

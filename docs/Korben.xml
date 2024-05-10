@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>RomM – Le gestionnaire de ROMs les retro gamers sérieux</title>
 <link>https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html</link>
 <guid>https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html</guid>
 <content:encoded><![CDATA[
 <div> ROM, émulateur, gestionnaire, jeux rétro, installateur
-<br>
+<br />
 Summary:
 RomM est un gestionnaire de ROMs pratique qui organise et catalogue vos jeux rétro dispersés sur votre PC. Il prend en charge diverses plateformes comme la Super Nintendo, la PlayStation, la GameBoy, etc. Vous pouvez lancer vos jeux directement dans le navigateur sans avoir à installer plusieurs émulateurs. RomM est personnalisable, avec la possibilité de gérer les permissions et les utilisateurs. L'installation est simple, avec la création d'une clé API, l'organisation des ROMs dans les dossiers appropriés et quelques modifications dans le fichier docker-compose.yml. Vous pouvez rapidement avoir votre serveur fonctionnel, offrant ainsi une expérience de jeu rétro sans tracas. RomM a reçu des éloges pour sa facilité d'utilisation et son efficacité, crédité à Lorenper pour son développement. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_retro_gamer_born_in_1982_stanger_things_ambiance_2425a226-bff5-47a6-83cf-22de9e6f1d22.webp" width="1456" /></p>
@@ -53,7 +54,6 @@ RomM est un gestionnaire de ROMs pratique qui organise et catalogue vos jeux ré
 <p>Encore merci à Lorenper !</p>
 ]]></content:encoded>
 <pubDate>Thu, 09 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 09 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>AlphaFold 3 – Un sacré bond en avant pour la modélisation des molécules du vivant</title>
@@ -62,7 +62,7 @@ RomM est un gestionnaire de ROMs pratique qui organise et catalogue vos jeux ré
 <content:encoded><![CDATA[
 <div> Google DeepMind, AlphaFold 3, intelligence artificielle, prédiction protéines, interactions moléculaires
 
-<br>
+<br />
 Summary: 
 
 AlphaFold 3 est la dernière version du modèle d'intelligence artificielle de Google DeepMind, offrant une précision accrue dans la prédiction des structures de protéines et de leurs interactions avec d'autres molécules. Cette avancée révolutionnaire permettra une meilleure compréhension des processus biologiques et des maladies. Le modèle repose sur une architecture de réseau de neurones puissante et une approche d'évolution moléculaire. Les résultats sont impressionnants, surpassant les méthodes existantes et améliorant la précision des prédictions, notamment pour les interactions avec les médicaments. L'outil est open source et accessible gratuitement, facilitant son utilisation par la communauté scientifique pour accélérer les découvertes en biologie structurale. Cependant, des questions éthiques et de sécurité sont soulevées pour éviter tout mésusage potentiel. La révolution biotechnologique est en marche, avec AlphaFold 3 au centre de cette transformation. <div>
@@ -107,15 +107,14 @@ AlphaFold 3 est la dernière version du modèle d'intelligence artificielle de G
 <p><a href="https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 09 May 2024 05:34:13 +0000</pubDate>
-<pubDate>Thu, 09 May 2024 05:34:13 +0000</pubDate>
 </item>
 <item>
 <title>Raspberry Pi Connect – Accédez à votre Pi depuis n’importe où !</title>
 <link>https://korben.info/raspberry-pi-connect-acces-distant-securise-navigateur.html</link>
 <guid>https://korben.info/raspberry-pi-connect-acces-distant-securise-navigateur.html</guid>
 <content:encoded><![CDATA[
-<div> Raspberry Pi, Raspberry Pi Foundation, Raspberry Pi Connect, accès à distance, WebRTC <br>
-<br>
+<div> Raspberry Pi, Raspberry Pi Foundation, Raspberry Pi Connect, accès à distance, WebRTC <br />
+<br />
 Summary:
 Raspberry Pi Connect est un nouvel outil pratique de la Raspberry Pi Foundation permettant d'accéder à distance à un Raspberry Pi via n'importe quel navigateur web. Il nécessite un Raspberry Pi 4, 5 ou 400 avec Raspberry Pi OS Bookworm 64 bits et Wayland. Une fois installé, il permet une connexion pair-à-pair sécurisée grâce à WebRTC, avec possibilité de passer par un serveur relais en cas de besoin. Le service est gratuit pour les connexions directes, et pour le moment également pour les connexions relayées. Les utilisateurs peuvent surveiller leur connexion pour vérifier si elle est directe ou relayée. Cette solution est particulièrement utile depuis le passage à Wayland, qui limitait l'accès distant via X11. En quelques clics, les utilisateurs peuvent désormais facilement accéder à leur Raspberry Pi et le contrôler à distance pour réaliser leurs projets. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Raspberry_Pi_logo_with_text_Connect_45b02412-935c-4a78-b310-bb94fb4b50c1.webp" width="1920" /></p>
@@ -176,9 +175,7 @@ Raspberry Pi Connect est un nouvel outil pratique de la Raspberry Pi Foundation 
 <p><img alt="" src="https://arstechnica.com/gadgets/2024/05/raspberry-pis-get-a-built-in-remote-access-tool-raspberry-pi-connect/?utm_social-type=owned" /></p>
 ]]></content:encoded>
 <pubDate>Thu, 09 May 2024 05:07:45 +0000</pubDate>
-<pubDate>Thu, 09 May 2024 05:07:45 +0000</pubDate>
 </item>
-
 <item>
 <title>Fabric – Un framework open source pour travailler main dans la main avec l’IA</title>
 <link>https://korben.info/augmentez-creativite-productivite-avec-ia.html</link>

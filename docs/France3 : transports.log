@@ -529,3 +529,15 @@ Summarized using GPT-3.5-turbo
 Append: [CARTE. JO de Paris 2024 : tout comprendre sur le QR code délivré à partir du 10 mai pour circuler près des sites olympiques](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/carte-jo-de-paris-2024-tout-comprendre-sur-le-qr-code-delivre-a-partir-du-10-mai-pour-circuler-pres-des-sites-olympiques-2966327.html)
 append_entries: 4
 Finish: 2024-05-09 12:40:36.328570
+------------------------------------------------------
+Started: 2024-05-10 01:14:59.724263
+Existing_entries: 143
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Crues en Indre-et-Loire : circulation coupée sur des routes et des itinéraires cyclables dans l'ouest du département](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/crues-en-indre-et-loire-circulation-coupee-sur-des-routes-et-des-itineraires-cyclables-dans-l-ouest-du-departement-2967428.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Flamme olympique : tout ce qu'il faut savoir sur les conditions de circulation sur le parcours du relais dans le Var vendredi 10 mai](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/flamme-olympique-tout-ce-qu-il-faut-savoir-sur-les-conditions-de-circulation-sur-le-parcours-du-relais-dans-le-var-vendredi-10-mai-2967269.html)
+append_entries: 2
+Finish: 2024-05-10 01:15:06.578168

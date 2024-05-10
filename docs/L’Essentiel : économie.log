@@ -409,3 +409,9 @@ Summarized using GPT-3.5-turbo
 Append: [Adem: D'où viennent les demandeurs d'emploi au Luxembourg?](https://www.lessentiel.lu/fr/story/dou-viennent-les-demandeurs-demploi-au-luxembourg-103099043)
 append_entries: 3
 Finish: 2024-05-09 12:40:58.782103
+------------------------------------------------------
+Started: 2024-05-10 01:15:43.747938
+Existing_entries: 149
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+append_entries: 0
+Finish: 2024-05-10 01:15:44.935792

@@ -365,3 +365,15 @@ Existing_entries: 101
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-09 12:37:32.356330
+------------------------------------------------------
+Started: 2024-05-10 01:13:29.061223
+Existing_entries: 101
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Pas un, mais deux Guadeloupéens au concours de la meilleure baguette de France](https://www.martinique.franceantilles.fr/actualite/economie/pas-un-mais-deux-guadeloupeens-au-concours-de-la-meilleure-baguette-de-france-986696.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [La banque BBVA lance une OPA hostile sur Sabadell, que Madrid menace de bloquer](https://www.martinique.franceantilles.fr/actualite/international/bbva-lance-une-opa-hostile-sur-sabadell-a-laquelle-soppose-le-gouvernement-986668.php)
+append_entries: 2
+Finish: 2024-05-10 01:13:39.208291
