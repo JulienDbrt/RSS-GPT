@@ -322,3 +322,15 @@ Existing_entries: 68
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-10 01:17:05.767024
+------------------------------------------------------
+Started: 2024-05-10 12:45:11.315005
+Existing_entries: 68
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Capvern : avec France Travail, les demandeurs d’emploi en visite aux Thermes](https://www.ladepeche.fr/2024/05/10/capvern-avec-france-travail-les-demandeurs-demploi-en-visite-aux-thermes-11933834.php)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Pompignan. La commune attend un médecin !](https://www.ladepeche.fr/2024/05/10/la-commune-attend-un-medecin-11941640.php)
+append_entries: 2
+Finish: 2024-05-10 12:45:23.631359

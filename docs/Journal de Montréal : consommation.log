@@ -268,3 +268,9 @@ Summarized using GPT-3.5-turbo
 Append: [Un parfum à 275$ du Cirque du Soleil](https://www.journaldemontreal.com/2024/05/08/le-parfum-a-275-du-cirque-du-soleil)
 append_entries: 4
 Finish: 2024-05-10 01:15:28.264909
+------------------------------------------------------
+Started: 2024-05-10 12:42:54.065662
+Existing_entries: 42
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-05-10 12:42:54.203215

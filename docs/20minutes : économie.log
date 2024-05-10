@@ -287,3 +287,15 @@ Existing_entries: 53
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-05-10 01:10:51.702244
+------------------------------------------------------
+Started: 2024-05-10 12:33:58.981149
+Existing_entries: 53
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Le Royaume-Uni déjà sorti de sa récession de 2023](https://www.20minutes.fr/economie/4090429-20240510-royaume-uni-deja-sorti-recession-2023)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Bordeaux : Ce projet d’usine « XXL » pour batteries électrise les débats](https://www.20minutes.fr/planete/4089848-20240510-bordeaux-projet-usine-xxl-batteries-electrise-debats)
+append_entries: 2
+Finish: 2024-05-10 12:34:09.298536

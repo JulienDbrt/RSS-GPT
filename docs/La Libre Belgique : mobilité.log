@@ -302,3 +302,15 @@ Summarized using GPT-3.5-turbo
 Append: [Carrefour Léonard : de longs embouteillages prévus vendredi dans les environs du carrefour](https://www.lalibre.be/regions/bruxelles/2024/05/09/carrefour-leonard-de-longs-embouteillages-prevus-vendredi-dans-les-environs-du-carrefour-leonard-AD44LO32WRFHHLTQGMB7TYIPF4/)
 append_entries: 2
 Finish: 2024-05-10 01:17:29.100136
+------------------------------------------------------
+Started: 2024-05-10 12:46:30.013824
+Existing_entries: 84
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Nouveau coup de théâtre au carrefour Léonard : la fermeture de l'E411 ce vendredi n'aura finalement pas lieu... mais la zone reste embouteillée](https://www.lalibre.be/belgique/mobilite/2024/05/10/attention-au-chaos-routier-au-carrefour-leonard-la-fermeture-de-le411-en-plus-du-ring-a-lieu-cet-apres-midi-MNUP76W5VBFEVJU2GKG6DUBIAY/)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [La proposition du jour : la vitesse doit être limitée à 30 km/h dans les centres des agglomérations](https://www.lalibre.be/belgique/elections-belges/2024/05/10/la-proposition-du-jour-la-vitesse-doit-etre-limitee-a-30-kmh-dans-les-centres-des-agglomerations-CNGE2QFNCFC7ZK2S4PVQDWZEYY/)
+append_entries: 2
+Finish: 2024-05-10 12:46:37.467806

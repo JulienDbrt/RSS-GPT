@@ -231,3 +231,12 @@ Existing_entries: 41
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-05-10 01:14:48.302791
+------------------------------------------------------
+Started: 2024-05-10 12:42:17.264694
+Existing_entries: 41
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [VIDEOS. "La Régalante ? Un régal !" Avis de cyclistes sur la véloroute entre le Mont Saint-Michel et Nantes](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/videos-la-regalante-un-regal-avis-de-cyclistes-sur-la-veloroute-entre-le-mont-saint-michel-et-nantes-2967299.html)
+append_entries: 1
+Finish: 2024-05-10 12:42:20.114928

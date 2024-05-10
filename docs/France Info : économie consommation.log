@@ -941,3 +941,36 @@ Append: [Tourisme : la station balnéaire des Sables-d'Olonne tente d’endiguer
 Append: [REPORTAGE. "J'économise 50 euros par mois" : à Montreuil, près de 5 000 habitants profitent d'une mutuelle communale](https://www.francetvinfo.fr/sante/patient/droits-et-demarches/reportage-j-economise-50-euros-par-mois-a-montreuil-pres-de-5-000-habitants-profitent-d-une-mutuelle-communale_6534308.html)
 append_entries: 16
 Finish: 2024-05-10 01:14:20.839072
+------------------------------------------------------
+Started: 2024-05-10 12:38:58.353566
+Existing_entries: 331
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : des records de fréquentation lors du double pont de mai](https://www.francetvinfo.fr/economie/tourisme/tourisme-des-records-de-frequentation-lors-du-double-pont-de-mai_6536318.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Eurovision 2024 : pour les demi-finales, "Slimane nous a offert un arc-en-ciel d'émotions", selon la cheffe de la délégation française](https://www.francetvinfo.fr/replay-radio/info-medias/eurovision-2024-pour-les-demi-finales-slimane-nous-a-offert-un-arc-en-ciel-d-emotions-selon-la-cheffe-de-la-delegation-francaise_6508244.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES. Paris 2024 : "La grande désillusion" des particuliers qui espéraient louer leur appartement à des prix vertigineux](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-la-grande-desillusion-des-particuliers-qui-esperaient-louer-leur-appartement-a-des-prix-vertigineux_6520667.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A13 : la circulation a repris en direction de Paris, "pas de délai ultra-précis" dans l'autre sens, annonce la Dirif](https://www.francetvinfo.fr/economie/transports/trafic/reouverture-de-l-a13-probablement-en-debut-d-apres-midi-en-direction-de-paris-annonce-la-dirif-pas-de-delai-ultra-precis-dans-l-autre-sens_6535970.html)
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Industrie : des champignons utilisés aux États-Unis pour recycler des déchets du bâtiment](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/industrie-des-champignons-utilises-aux-etats-unis-pour-recycler-des-dechets-du-batiment_6508307.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Voiture électrique : le constructeur chinois BYD investit des milliards en Europe et vise le leadership d'ici 2030](https://www.francetvinfo.fr/replay-radio/le-brief-eco/voiture-electrique-le-constructeur-chinois-investit-des-milliards-en-europe-et-vise-le-leadership-d-ici-2030_6508286.html)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : comme un air de vacances d'été avec le week-end de l'Ascension](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tourisme-comme-un-air-de-vacances-d-ete-avec-le-week-end-de-l-ascension_6536048.html)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Aéronautique : des pilotes d'Air Austral acceptent de perdre une partie de leurs revenus pour sauver leurs emplois](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/aeronautique-des-pilotes-d-air-austral-acceptent-de-perdre-une-partie-de-leurs-revenus-pour-sauver-leurs-emplois_6508271.html)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: ["Si personne ne peut passer, ça va être terrible" : certains commerçants des bords de Seine redoutent le système de QR code pour Paris 2024](https://www.francetvinfo.fr/les-jeux-olympiques/si-personne-ne-peut-passer-ca-va-etre-terrible-certains-commercants-des-bords-de-seine-redoutent-le-systeme-de-qr-code-pour-paris-2024_6534797.html)
+append_entries: 9
+Finish: 2024-05-10 12:39:45.154552

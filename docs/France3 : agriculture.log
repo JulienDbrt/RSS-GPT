@@ -444,3 +444,21 @@ Existing_entries: 112
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-05-10 01:14:42.897655
+------------------------------------------------------
+Started: 2024-05-10 12:41:41.445279
+Existing_entries: 112
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: ["Elles sont délicieuses !" : la saison des fraises lancée plus tôt que prévu en Alsace](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/elles-sont-delicieuses-la-saison-des-fraises-lancee-plus-tot-que-prevu-en-alsace-2967521.html)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Des lâchers de guêpes asiatiques pour sauver les cerises d'Arèche](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/ardeche/des-lachers-de-guepes-asiatiques-pour-sauver-les-cerises-d-areche-2967578.html)
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [Mobilisation contre les méga-bassines : on vous explique le débat dans le Puy-de-Dôme](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/mobilisation-contre-les-mega-bassines-dans-le-puy-de-dome-on-vous-explique-le-debat-2966675.html)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [La bonnotte, la pomme de terre d'exception de l'île de Noirmoutier](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-bonnotte-la-pomme-de-terre-d-exception-de-l-ile-de-noirmoutier-2963075.html)
+append_entries: 4
+Finish: 2024-05-10 12:42:11.606264

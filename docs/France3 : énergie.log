@@ -252,3 +252,9 @@ Summarized using GPT-3.5-turbo
 Append: [Démarrage de l'EPR de Flamanville : Un expert du nucléaire "dubitatif au vu de toutes les anomalies accumulées"](https://france3-regions.francetvinfo.fr/normandie/manche/demarrage-de-l-epr-de-flamanville-un-expert-du-nucleaire-dubitatif-au-vu-de-toutes-les-anomalies-accumulees-2967395.html)
 append_entries: 1
 Finish: 2024-05-10 01:14:42.144508
+------------------------------------------------------
+Started: 2024-05-10 12:41:33.591324
+Existing_entries: 48
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-05-10 12:41:34.063775

@@ -207,3 +207,12 @@ Existing_entries: 33
 Fetching from https://www.bfmtv.com/rss/economie/emploi/vie-de-bureau/
 append_entries: 0
 Finish: 2024-05-10 01:12:39.999414
+------------------------------------------------------
+Started: 2024-05-10 12:37:11.639469
+Existing_entries: 33
+Fetching from https://www.bfmtv.com/rss/economie/emploi/vie-de-bureau/
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: ["Est-ce qu'ils font ça chez eux?": la délicate question des toilettes au bureau](https://www.bfmtv.com/economie/emploi/vie-de-bureau/est-ce-qu-ils-font-ca-chez-eux-la-delicate-question-des-toilettes-au-bureau_AN-202405100031.html)
+append_entries: 1
+Finish: 2024-05-10 12:37:16.002406

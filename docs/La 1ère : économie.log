@@ -613,3 +613,24 @@ Summarized using GPT-3.5-turbo
 Append: [Des agriculteurs effectuent une démonstration de labours traditionnels à Sainte-Marie](https://la1ere.francetvinfo.fr/martinique/des-agriculteurs-effectuent-une-demonstration-de-labours-traditionnels-a-sainte-marie-1486652.html)
 append_entries: 5
 Finish: 2024-05-10 01:16:08.848334
+------------------------------------------------------
+Started: 2024-05-10 12:43:31.137395
+Existing_entries: 155
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Maurice : un avion d'Air Mauritius de retour, à nouveau en panne](https://la1ere.francetvinfo.fr/reunion/maurice-un-avion-d-air-mauritius-tombe-en-panne-un-autre-est-de-retour-1486952.html)
+Token length: 14
+Summarized using GPT-3.5-turbo
+Append: [14 pêcheurs sri-lankais condamnés à Madagascar pour pêche illégale](https://la1ere.francetvinfo.fr/mayotte/14-pecheurs-sri-lankais-condamnes-a-madagascar-pour-peche-illegale-1486949.html)
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: [Foire de Paris : une affluence en baisse dans un contexte économique compliqué](https://la1ere.francetvinfo.fr/foire-de-paris-une-affluence-en-baisse-dans-un-contexte-economique-complique-1486052.html?Version=mobile)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [L’Australie prévoit de recourir au gaz au-delà de 2050](https://la1ere.francetvinfo.fr/nouvellecaledonie/l-australie-prevoit-de-recourir-au-gaz-au-dela-de-2050-1486877.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: ["Je tremble toujours !" : voiture en feu dans une station-service de Destrellan, à Baie-Mahault](https://la1ere.francetvinfo.fr/guadeloupe/basse-terre/baie-mahault/baie-mahault-voiture-en-feu-a-proximite-des-pompes-de-la-station-service-de-destrellan-1486838.html)
+append_entries: 5
+Finish: 2024-05-10 12:44:00.805050

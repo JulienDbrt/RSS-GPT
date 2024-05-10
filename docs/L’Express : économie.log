@@ -421,3 +421,18 @@ Existing_entries: 151
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-10 01:15:46.031764
+------------------------------------------------------
+Started: 2024-05-10 12:43:11.924604
+Existing_entries: 151
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3757
+Summarized using GPT-3.5-turbo
+Append: [Voiture électrique : les entreprises européennes verdissent leur flotte auto](https://www.lexpress.fr/economie/flottes-auto-lelectromobilite-progresse-en-europe-IAPSGZD4FJDMNMRDCS6MFSZ4YY/)
+Token length: 2464
+Summarized using GPT-3.5-turbo
+Append: [L’iPad Pro et la polémique autour d’une pub : le mea culpa d’Apple](https://www.lexpress.fr/economie/high-tech/lipad-pro-et-la-polemique-autour-dune-pub-le-mea-culpa-dapple-2F2EOFAKDFDENNTMOTAK3S6YLA/)
+Token length: 4173
+Summarized using GPT-3.5-turbo
+Append: [Robots humanoïdes : ce raz-de-marée économique qui vient, par Nicolas Bouzou](https://www.lexpress.fr/economie/politique-economique/robots-humanoides-ce-raz-de-maree-economique-qui-vient-par-nicolas-bouzou-SWTCLCUB4ZD3LBCIWRH6H3KBKA/)
+append_entries: 3
+Finish: 2024-05-10 12:43:30.192889

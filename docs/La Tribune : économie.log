@@ -559,3 +559,21 @@ Summarized using GPT-3.5-turbo
 Append: [Le Royaume-Uni maintient ses taux](https://www.latribune.fr/economie/international/la-banque-d-angleterre-estime-que-le-royaume-uni-renoue-avec-la-croissance-997202.html)
 append_entries: 1
 Finish: 2024-05-10 01:17:34.810912
+------------------------------------------------------
+Started: 2024-05-10 12:46:37.541306
+Existing_entries: 137
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [Royaume-Uni : l'économie britannique sort de la récession et affiche une croissance plus forte que prévu](https://www.latribune.fr/economie/international/royaume-uni-l-economie-britannique-sort-de-la-recession-et-affiche-une-croissance-plus-forte-que-prevu-997229.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Les 5 infos business à retenir ce vendredi matin (EPR, BYD, BBVA, avoirs russes, ballon espion chinois)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-vendredi-matin-epr-byd-bbva-avoirs-russes-ballon-espion-chinois-997219.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Affaire du ballon espion : les Etats-Unis ajoutent à leur liste noire commerciale 37 entités chinoises](https://www.latribune.fr/economie/international/affaire-du-ballon-espion-les-etats-unis-ajoutent-a-leur-liste-noire-commerciale-37-entites-chinoises-997216.html)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [En Hongrie, Xi Jinping et Viktor Orban affichent leur proximité stratégique](https://www.latribune.fr/economie/union-europeenne/en-hongrie-xi-jinping-et-viktor-orban-affichent-leur-proximite-strategique-997207.html)
+append_entries: 4
+Finish: 2024-05-10 12:46:55.496902

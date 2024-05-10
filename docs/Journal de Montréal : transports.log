@@ -258,3 +258,9 @@ Summarized using GPT-3.5-turbo
 Append: [44 chantiers majeurs: un autre été chaotique à prévoir sur les routes du grand Montréal](https://www.journaldemontreal.com/2024/05/08/44-chantiers-majeurs-un-autre-ete-chaotique-a-prevoir-sur-les-routes-du-grand-montreal)
 append_entries: 2
 Finish: 2024-05-10 01:15:35.733946
+------------------------------------------------------
+Started: 2024-05-10 12:42:54.223976
+Existing_entries: 40
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-10 12:42:54.343089

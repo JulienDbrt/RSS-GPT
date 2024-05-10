@@ -330,3 +330,15 @@ Summarized using GPT-3.5-turbo
 Append: ["On n’en peut plus..." : débrayage de salariés du magasin Boulanger de Limoges, en ce 9 mai férié](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/on-n-en-peut-plus-debrayage-de-salaries-du-magasin-boulanger-de-limoges-en-ce-9-mai-ferie-2967383.html)
 append_entries: 3
 Finish: 2024-05-10 01:14:59.133687
+------------------------------------------------------
+Started: 2024-05-10 12:42:20.152445
+Existing_entries: 74
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Stations de ski : "Ils sont vraiment livrés à eux-mêmes", le quotidien des salariés des remontées mécaniques passé au crible](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/stations-de-ski-ils-sont-vraiment-livres-a-eux-memes-le-quotidien-des-salaries-des-remontees-mecaniques-passe-au-crible-2967188.html)
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: ["On était à la pointe du combat et nous avions de grands coiffeurs parisiens qui venaient" : la coiffure à Limoges, une longue histoire](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/on-etait-a-la-pointe-du-combat-et-nous-avions-de-grands-coiffeurs-parisiens-qui-venaient-la-coiffure-a-limoges-une-longue-histoire-2965886.html)
+append_entries: 2
+Finish: 2024-05-10 12:42:32.174951

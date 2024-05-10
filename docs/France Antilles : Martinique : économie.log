@@ -377,3 +377,18 @@ Summarized using GPT-3.5-turbo
 Append: [La banque BBVA lance une OPA hostile sur Sabadell, que Madrid menace de bloquer](https://www.martinique.franceantilles.fr/actualite/international/bbva-lance-une-opa-hostile-sur-sabadell-a-laquelle-soppose-le-gouvernement-986668.php)
 append_entries: 2
 Finish: 2024-05-10 01:13:39.208291
+------------------------------------------------------
+Started: 2024-05-10 12:38:36.873610
+Existing_entries: 103
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Accord sur la prévention des pandémies: dernières heures de négociations](https://www.martinique.franceantilles.fr/actualite/economie/accord-sur-la-prevention-des-pandemies-dernieres-heures-de-negociations-986784.php)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Polémique après l'annonce de l'arrivée de Stéphane Plaza aux Antilles](https://www.martinique.franceantilles.fr/actualite/economie/polemique-apres-lannonce-de-larrivee-de-stephane-plaza-aux-antilles-986744.php)
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Avec l'usine islandaise Mammoth, le captage de CO2 dans l'air passe la seconde](https://www.martinique.franceantilles.fr/actualite/economie/avec-lusine-islandaise-mammoth-le-captage-de-co2-dans-lair-passe-la-seconde-986783.php)
+append_entries: 3
+Finish: 2024-05-10 12:38:57.703992

@@ -4,6 +4,63 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>HTTP Toolkit – Un super outil pour simuler et debugger des requêtes HTTP(S)</title>
+<link>https://korben.info/decouvrez-http-toolkit-outil-parfait-deboguer-applications-web-mobiles.html</link>
+<guid>https://korben.info/decouvrez-http-toolkit-outil-parfait-deboguer-applications-web-mobiles.html</guid>
+<content:encoded><![CDATA[
+<div> intercepter, HTTP/HTTPS, inspecter, breakpoints, prototyper <br>
+Summary: Interceptez et inspectez le trafic HTTP/HTTPS en temps réel avec l'outil open source . Explorez, filtrez et modifiez les requêtes et réponses, et créez des breakpoints pour éditer le trafic à la volée. Vous pouvez également prototyper des API, créer des règles de routage des requêtes et intégrer différentes fonctionnalités avec VS Code, DevTools et d'autres outils. L'interface conviviale et les explications détaillées rendent l'utilisation de cet outil facile pour les développeurs. Vous pouvez l'utiliser pour intercepter le trafic de fenêtres Chrome ou d'applications mobiles en un clic, sans avoir à configurer un proxy ou à obtenir des certificats SSL. Rejoignez la communauté de fans et testez cet outil pour une expérience de débogage simplifiée et efficace. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_coder_man_in_a_debugging_session_effffa13-d929-41ae-bf42-cc715cd18c08.webp" width="1456" /></p>
+<p>Si vous êtes développeur, vous connaissez sûrement les galères quand on doit débugger des applis web ou mobiles à savoir intercepter les requêtes HTTP pour voir ce qui s&rsquo;y passe, simuler des API… etc.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1006034620" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et bien bonne nouvelle, puisqu&rsquo;il y a un outil parfait pour ça : <strong><a href="https://httptoolkit.com/" rel="noopener" target="_blank">HTTP Toolkit</a></strong> ! C&rsquo;est un soft open source développé par un certain Tim Perry, qui fonctionne sous Windows, Linux, macOS et qui permet :</p>
+
+
+
+<ul>
+<li>D&rsquo;intercepter en temps réel le trafic HTTP/HTTPS de n&rsquo;importe quel client (browser, mobile, scripts, containers Docker…)</li>
+
+
+
+<li>D&rsquo;explorer, filtrer et inspecter en détail les requêtes et réponses (URL, statut, headers, body…)</li>
+
+
+
+<li>De faire des breakpoints et éditer le trafic à la volée (modifier requête, simuler réponse, injecter erreurs…)</li>
+
+
+
+<li>Mais également de prototyper entièrement des API, créer des règles pour router les requêtes sur vos endpoints </li>
+</ul>
+
+
+
+<figure class="wp-block-video aligncenter"><video controls="controls" src="https://korben.info/app/uploads/2024/03/http-mock-demo.mp4"></video></figure>
+
+
+
+<p>Et encore, je vous la fais courte mais y a 1000 autres features et c&rsquo;est super simple à prendre en main grâce à une interface plutôt soignée avec plein de petites explications. De plus, ça s&rsquo;intègre avec l&rsquo;éditeur <a href="https://microsoft.github.io/monaco-editor/" rel="noopener" target="_blank">Monaco</a> de VS Code, les DevTools, le protocole adb, les spéc Open API…  Et surtout, y&rsquo;a une grosse communauté de fans qui soutiennent le projet.</p>
+
+
+
+<p>Avec cet outil vous pourrez par exemple intercepter en 1 clic ce qui se passe dans une fenêtre Chrome ou une application mobile spécifique sans avoir à configurer un proxy, récupérer des certificats SSL et autres joyeusetés.</p>
+
+
+
+<p>Je vous invite à le tester, vous m&rsquo;en direz des nouvelles. <a href="https://httptoolkit.com/" rel="noopener" target="_blank">Ça se passe par ici</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1482970282" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Merci à Lorenper pour le soft !</p>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>RomM – Le gestionnaire de ROMs les retro gamers sérieux</title>

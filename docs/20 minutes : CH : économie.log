@@ -315,3 +315,15 @@ Summarized using GPT-3.5-turbo
 Append: [Washington ajoute 37 entités chinoises à sa liste noire](https://www.20min.ch/fr/877182038616)
 append_entries: 1
 Finish: 2024-05-10 01:10:51.337745
+------------------------------------------------------
+Started: 2024-05-10 12:33:48.455892
+Existing_entries: 69
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Sanofi tourne la page de son vaccin anti-Covid](https://www.20min.ch/fr/103101848)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Des Suisses victimes d'un énorme réseau cybercriminel chinois](https://www.20min.ch/fr/103101050)
+append_entries: 2
+Finish: 2024-05-10 12:33:58.954411

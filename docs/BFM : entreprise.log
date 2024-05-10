@@ -564,3 +564,18 @@ Summarized using GPT-3.5-turbo
 Append: [Sortie de piste au Sénégal : "Le Boeing 737/300 est un avion fiable qui a un très vieux passé"](https://www.bfmtv.com/economie/entreprises/aeronautique/sortie-de-piste-au-senegal-le-boeing-737-300-est-un-avion-fiable-qui-a-un-tres-vieux-passe_AD-202405090437.html)
 append_entries: 1
 Finish: 2024-05-10 01:11:59.856844
+------------------------------------------------------
+Started: 2024-05-10 12:35:56.935982
+Existing_entries: 164
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [Boeing: un nouveau vol Air France a dû être dérouté, cette fois-ci à Montréal](https://www.bfmtv.com/economie/entreprises/transports/boeing-un-nouveau-vol-air-france-a-du-etre-deroute-cette-fois-ci-a-montreal_AV-202405100379.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Sanofi tourne la page de son vaccin anti-Covid](https://www.bfmtv.com/economie/entreprises/industries/sanofi-et-novavax-vont-commercialiser-un-vaccin-contre-le-covid-19_AV-202405100188.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Le parquet de Paris demande la liquidation judiciaire du courtier en assurances Indexia](https://www.bfmtv.com/economie/entreprises/assurance-banque/le-parquet-de-paris-demande-la-liquidation-judiciaire-du-courtier-en-assurances-indexia_AD-202405100178.html)
+append_entries: 3
+Finish: 2024-05-10 12:36:11.771269

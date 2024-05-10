@@ -304,3 +304,15 @@ Existing_entries: 78
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-05-10 01:12:38.085167
+------------------------------------------------------
+Started: 2024-05-10 12:36:55.071610
+Existing_entries: 78
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Immobilier: acheter un bien avec son ancien crédit, cette idée qui pourrait relancer le marché](https://www.bfmtv.com/immobilier/face-aux-taux-d-interet-eleves-un-depute-propose-de-generaliser-la-portabilite-d-un-pret_AV-202405100136.html)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Le télétravail a entraîné "une course à la mer" sur le marché immobilier](https://www.bfmtv.com/immobilier/achat-vente/le-teletravail-a-entraine-une-course-a-la-mer-sur-le-marche-immobilier_AD-202405100034.html)
+append_entries: 2
+Finish: 2024-05-10 12:37:05.327474

@@ -251,3 +251,12 @@ Summarized using GPT-3.5-turbo
 Append: [Logement : la maison évolutive, une solution pour les petits budgets ?](https://www.francetvinfo.fr/economie/immobilier/logement-la-maison-evolutive-une-solution-pour-les-petits-budgets_6534965.html)
 append_entries: 1
 Finish: 2024-05-10 01:14:25.391202
+------------------------------------------------------
+Started: 2024-05-10 12:40:11.155375
+Existing_entries: 41
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES. Paris 2024 : "La grande désillusion" des particuliers qui espéraient louer leur appartement à des prix vertigineux](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-la-grande-desillusion-des-particuliers-qui-esperaient-louer-leur-appartement-a-des-prix-vertigineux_6520667.html)
+append_entries: 1
+Finish: 2024-05-10 12:40:20.732461
