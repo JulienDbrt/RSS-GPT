@@ -249,3 +249,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les épisodes d"Ici tout commence" tournés en Bretagne à la télévision de vendredi à 18h35](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/les-episodes-d-ici-tout-commence-tournes-en-bretagne-a-la-television-de-vendredi-a-18h35-2967734.html)
 append_entries: 1
 Finish: 2024-05-11 01:14:42.332626
+------------------------------------------------------
+Started: 2024-05-11 12:35:28.045966
+Existing_entries: 43
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: ["On recense un peu plus d’un millier de crashs pendant la 2e guerre mondiale". Un hommage en mer pour un pilote anglais abattu à Saint-Malo](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/on-recense-un-peu-plus-d-un-millier-de-crashs-pendant-la-2e-guerre-mondiale-un-hommage-en-mer-pour-un-pilote-anglais-abattu-a-saint-malo-2967941.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Crise de la pêche, à bord d'un chalutier: "pour s'en sortir, il faut travailler plus que les autres et faire des sacrifices"](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/crise-de-la-peche-a-bord-d-un-chalutier-pour-s-en-sortir-il-faut-travailler-plus-que-les-autres-et-faire-des-sacrifices-2965640.html)
+append_entries: 2
+Finish: 2024-05-11 12:35:34.405230

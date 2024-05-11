@@ -267,3 +267,9 @@ Summarized using GPT-3.5-turbo
 Append: [Emmanuel Macron deux jours en Normandie la semaine prochaine sur le thème de l'énérgie](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/fecamp/emmanuel-macron-deux-jours-en-normandie-la-semaine-prochaine-sur-le-theme-de-l-energie-2967956.html)
 append_entries: 1
 Finish: 2024-05-11 01:14:29.144530
+------------------------------------------------------
+Started: 2024-05-11 12:35:00.251265
+Existing_entries: 49
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-05-11 12:35:00.879614

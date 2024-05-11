@@ -249,3 +249,9 @@ Summarized using GPT-3.5-turbo
 Append: ["1 Francilien sur 75 est millionnaire" : Paris, septième "ville la plus riche du monde" selon une étude](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/1-francilien-sur-75-est-millionnaire-paris-septieme-ville-la-plus-riche-du-monde-selon-une-etude-2967782.html)
 append_entries: 1
 Finish: 2024-05-11 01:14:43.998689
+------------------------------------------------------
+Started: 2024-05-11 12:35:34.714873
+Existing_entries: 43
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-11 12:35:34.977869

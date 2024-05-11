@@ -293,3 +293,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les Jeux olympiques, un gouffre financier pour la France ?](https://www.euractiv.fr/section/economie/news/les-jeux-olympiques-un-gouffre-financier-pour-la-france/)
 append_entries: 1
 Finish: 2024-05-11 01:13:20.072845
+------------------------------------------------------
+Started: 2024-05-11 12:33:22.930933
+Existing_entries: 71
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+append_entries: 0
+Finish: 2024-05-11 12:33:23.896016

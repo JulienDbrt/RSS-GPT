@@ -336,3 +336,9 @@ Summarized using GPT-3.5-turbo
 Append: [L’Académie des Oscars veut lever 500 millions de dollars](https://www.20min.ch/fr/743202211131)
 append_entries: 1
 Finish: 2024-05-11 01:10:24.244601
+------------------------------------------------------
+Started: 2024-05-11 12:30:57.258699
+Existing_entries: 72
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-05-11 12:30:57.718303

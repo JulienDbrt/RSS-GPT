@@ -321,3 +321,12 @@ Summarized using GPT-3.5-turbo
 Append: ["1 Francilien sur 75 est millionnaire" : Paris, septième "ville la plus riche du monde" selon une étude](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/1-francilien-sur-75-est-millionnaire-paris-septieme-ville-la-plus-riche-du-monde-selon-une-etude-2967782.html)
 append_entries: 1
 Finish: 2024-05-11 01:14:30.496485
+------------------------------------------------------
+Started: 2024-05-11 12:35:00.912074
+Existing_entries: 67
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Concours Lépine : un système d'aide aux déficients visuels récompensé](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/concours-lepine-un-systeme-d-aide-aux-deficients-visuels-recompense-2968025.html)
+append_entries: 1
+Finish: 2024-05-11 12:35:07.403698

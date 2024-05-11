@@ -445,3 +445,21 @@ Summarized using GPT-3.5-turbo
 Append: [Choose France 2024 : Amazon, IBM... Vers un "record" d'investissements étrangers](https://www.lexpress.fr/economie/choose-france-2024-amazon-ibm-vers-un-record-dinvestissements-etrangers-LS4XVFDGYBBRTIRHSAYM6PQOMQ/)
 append_entries: 1
 Finish: 2024-05-11 01:16:08.293940
+------------------------------------------------------
+Started: 2024-05-11 12:35:50.462631
+Existing_entries: 155
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3979
+Summarized using GPT-3.5-turbo
+Append: [SMS, l'histoire d'une nouvelle jeunesse : des "Kikoolol" à un business lucratif](https://www.lexpress.fr/economie/high-tech/sms-lhistoire-dune-nouvelle-jeunesse-des-kikoolol-a-un-business-lucratif-SIBCYFNYZBHHZATBTSSLOWIHGY/)
+Token length: 4744
+Summarized using GPT-3.5-turbo
+Append: [Taylor Swift, ses préceptes économiques : travail, perfectionnisme et partage de la valeur](https://www.lexpress.fr/economie/taylor-swift-ses-preceptes-economiques-travail-perfectionnisme-et-partage-de-la-valeur-GBBBVOM7BVCOZCGGES5RMQ7ANE/)
+Token length: 3766
+Summarized using GPT-3.5-turbo
+Append: [Flotte auto : ces gestionnaires indépendants qui séduisent les grands groupes](https://www.lexpress.fr/economie/flotte-auto-ces-gestionnaires-independants-qui-seduisent-les-grands-groupes-IWFYF4EJZ5GEFNFTEOPBFRABOA/)
+Token length: 8669
+Summarized using GPT-3.5-turbo
+Append: [Impôts : jusqu'où l’intelligence artificielle peut-elle détecter si vous fraudez ?](https://www.lexpress.fr/economie/high-tech/impots-jusquou-lintelligence-artificielle-peut-elle-detecter-si-vous-fraudez-OU4B7VUEPBHA7JQ5F67G57LYGY/)
+append_entries: 4
+Finish: 2024-05-11 12:36:06.625938

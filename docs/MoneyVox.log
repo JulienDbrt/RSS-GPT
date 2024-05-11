@@ -690,3 +690,27 @@ Summarized using GPT-3.5-turbo
 Append: [Fortuneo Vie : 100 euros offerts pour booster votre épargne !](https://www.moneyvox.fr/assurance-vie/actualites/97701/fortuneo-vie-100-euros-offerts-pour-booster-votre-epargne)
 append_entries: 5
 Finish: 2024-05-11 01:14:23.615001
+------------------------------------------------------
+Started: 2024-05-11 12:34:34.562622
+Existing_entries: 194
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Impôt sur le revenu : comment éviter les 3 pièges de la déclaration automatique](https://www.moneyvox.fr/impot/actualites/97270/impot-sur-le-revenu-comment-eviter-les-3-pieges-de-la-declaration-automatique)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Impôt sur le revenu : voici 10 erreurs à éviter pour votre déclaration 2024](https://www.moneyvox.fr/impot/actualites/97251/impot-sur-le-revenu-voici-10-erreurs-a-eviter-pour-votre-declaration-2024)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : comment déclarer vos revenus d'auto-entrepreneur](https://www.moneyvox.fr/impot/actualites/97710/impots-2024-comment-declarer-vos-revenus-auto-entrepreneur)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Le journal de la Bourse : nouveau record historique et le luxe en vogue](https://www.moneyvox.fr/bourse/actualites/97709/le-journal-de-la-bourse-nouveau-record-historique-et-le-luxe-en-vogue)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [USA : une gouverneure de la Fed n'anticipe aucune baisse des taux en 2024](https://www.moneyvox.fr/banque/actualites/97708/usa-une-gouverneure-de-la-fed-n-anticipe-aucune-baisse-des-taux-en-2024)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Ces frais cachés lors des paiements par carte bancaire vont-ils être mieux réglementés ?](https://www.moneyvox.fr/tarif-bancaire/actualites/97704/ces-frais-caches-lors-des-paiements-par-carte-bancaire-vont-ils-etre-mieux-reglementes)
+append_entries: 6
+Finish: 2024-05-11 12:34:59.385251

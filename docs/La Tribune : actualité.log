@@ -832,3 +832,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des investissements « record » attendus au sommet Choose France 2024](https://www.latribune.fr/economie/france/des-investissements-record-attendus-au-sommet-choose-france-2024-997231.html)
 append_entries: 9
 Finish: 2024-05-11 01:19:19.579017
+------------------------------------------------------
+Started: 2024-05-11 12:38:05.072924
+Existing_entries: 224
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 398
+Summarized using GPT-3.5-turbo
+Append: [Fusion de l'audiovisuel public : un nouvel « ORTF » pourrait voir le jour en 2026](https://www.latribune.fr/technos-medias/medias/fusion-de-l-audiovisuel-public-un-nouvel-ortf-pourrait-voir-le-jour-en-2026-997263.html)
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Guerre en Ukraine : face à l'offensive surprise de l'armée russe, Kharkiv évacue des habitants](https://www.latribune.fr/economie/international/guerre-en-ukraine-face-a-l-offensive-surprise-de-l-armee-russe-kharkiv-evacue-des-habitants-997262.html)
+append_entries: 2
+Finish: 2024-05-11 12:38:10.852609

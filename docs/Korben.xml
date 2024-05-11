@@ -4,6 +4,62 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Submariner – Le meilleur client Subsonic dispo sous Mac !</title>
+<link>https://korben.info/submariner-client-subsonic-mac-musique-podcast-autoheberges.html</link>
+<guid>https://korben.info/submariner-client-subsonic-mac-musique-podcast-autoheberges.html</guid>
+<content:encoded><![CDATA[
+<div> Subsonic, Submariner, macOS, musique, client<br>
+<br>
+Summary: 
+Submariner est un client de musique compatible avec les serveurs Subsonic et alternatives, optimisé pour macOS. Il offre une interface conviviale, la possibilité de streamer musique et podcasts, des fonctionnalités avancées telles que la lecture des formats sans perte, mini lecteur, AirPlay, égaliseur, scrobbling, mode sombre, et support d'AppleScript. Des détails pratiques comme le glisser-déposer, le support du tactile, et le contrôle via des scripts AppleScript sont également disponibles. Le client est natif, rapide et parfaitement intégré à macOS, permettant aux utilisateurs de profiter pleinement de leur bibliothèque musicale auto-hébergée. Si vous êtes un utilisateur de serveur Subsonic et possédez un Mac, Submariner est un excellent choix pour gérer et écouter votre musique et vos podcasts dans un environnement optimisé pour macOS. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_submariner_yellow_submarine_macos_style_087053f5-766f-4c7d-b2a0-81e16d49d851.webp" width="1456" /></p>
+<p>Je vous ai déjà parlé à plusieurs reprises de <a href="https://korben.info/subsonic-creez-votre-propre-clone-de-deezer.html">Subsonic</a>, un logiciel qui permet de monter sur votre serveur un clone de Spotify / Deezer / Apple Music&#8230; Et évidemment, qui dit serveur, dit client !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1072114777" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et l&rsquo;un des meilleurs clients du moment, c&rsquo;est <a href="https://submarinerapp.com/" rel="noopener" target="_blank"><strong>Submariner</strong></a>. Il fonctionne sous macOS et va vous permettre d&rsquo;écouter aussi bien votre musique que vos podcasts auto-hébergés.</p>
+
+
+
+<p>Développé à l&rsquo;origine par Rafaël Warnault, le projet était un peu en pause ces derniers temps mais depuis 2022, Calvin Buckley a repris le flambeau pour lui redonner une seconde jeunesse et l&rsquo;adapter aux dernières versions de macOS et de Subsonic.</p>
+
+
+
+<p>La nouvelle version 3.0 vient donc de sortir et c&rsquo;est du lourd ! Fini Electron, on est sur du 100% natif (Swift) pour d&rsquo;excellentes performances et une intégration parfaite à macOS. Ça respecte les conventions d&rsquo;Apple jusqu&rsquo;au bout des ongles.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157790" height="682" src="https://korben.info/app/uploads/2024/03/server-library-playing-light-1024x682.webp" width="1024" /></figure></div>
+
+
+<p>Avec Submariner, vous allez pouvoir streamer votre bibliothèque musicale et vos podcasts depuis votre propre serveur Subsonic ou les alternatives compatibles comme <a href="https://korben.info/serveur-autoheberger-musique-navidrome.html">Navidrome</a>. C&rsquo;est hyper simple à configurer, il suffit de rentrer l&rsquo;URL de votre serveur, vos identifiants et c&rsquo;est parti mon kiki ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1053425668" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>L&rsquo;interface est bien pensée avec un design aux petits oignons et vous y retrouverez vos artistes, albums et playlists directement dans une jolie sidebar. Vous pouvez mettre des likes sur vos morceaux et albums préférés, et ça se synchronisera directement avec le serveur.</p>
+
+
+
+<p>Côté fonctionnalités, y&rsquo;a de quoi faire : lecture des formats sans perte, mini-lecteur accessible par raccourci, AirPlay, illustrations des albums qui s&rsquo;affichent en grand quand on clique dessus, gestion des podcasts, égaliseur, scrobbling (suivi automatique de vos habitudes), mode sombre&#8230; Et même le support d&rsquo;AppleScript pour contrôler la lecture via vos propres scripts. Ça c&rsquo;est cool pour ceux qui aiment bidouiller.</p>
+
+
+
+<p>Puis les petits détails bien pratiques comme pouvoir glisser-déposer un morceau de l&rsquo;appli vers une playlist, ou des fichiers sur l&rsquo;icône du dock pour les importer dans la bibliothèque, le choix de l&rsquo;ordre de tri des albums, la purge des fichiers téléchargés, le support du tactile avec les gestes de navigation&#8230;</p>
+
+
+
+<p>Bref, si vous avez un serveur Subsonic et un Mac, <a href="https://submarinerapp.com/" rel="noopener" target="_blank">je vous le recommande</a>. </p>
+
+
+
+<p>Merci à j0j0b4rj0 pour l&rsquo;info !</p>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>HTTP Toolkit – Un super outil pour simuler et debugger des requêtes HTTP(S)</title>

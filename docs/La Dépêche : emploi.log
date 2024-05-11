@@ -346,3 +346,15 @@ Summarized using GPT-3.5-turbo
 Append: ["C’est la personne la plus attendue dans l’immeuble !" Samia, la factrice de Rangueil, donne le sourire à tout un quartier](https://www.ladepeche.fr/2024/05/10/cest-la-personne-la-plus-attendue-dans-limmeuble-samia-la-factrice-de-rangueil-donne-le-sourire-a-tout-un-quartier-11942609.php)
 append_entries: 2
 Finish: 2024-05-11 01:17:44.180537
+------------------------------------------------------
+Started: 2024-05-11 12:37:26.419041
+Existing_entries: 72
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Planification écologique territoriale : les Gersois appelés à s’exprimer jusqu’au 26 mai](https://www.ladepeche.fr/2024/05/11/planification-ecologique-territoriale-les-gersois-appeles-a-sexprimer-jusquau-26-mai-11940337.php)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [ADMR : nouveaux avantages  pour l’emploi et les salariés](https://www.ladepeche.fr/2024/05/11/admr-nouveaux-avantages-pour-lemploi-et-les-salaries-11943777.php)
+append_entries: 2
+Finish: 2024-05-11 12:37:35.628401

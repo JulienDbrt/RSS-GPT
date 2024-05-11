@@ -401,3 +401,12 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : l’autoroute A13 rouverte partiellement en direction de Paris](https://www.francetvinfo.fr/economie/transports/trafic/transports-l-autoroute-a13-rouverte-partiellement-en-direction-de-paris_6536747.html)
 append_entries: 1
 Finish: 2024-05-11 01:14:07.311474
+------------------------------------------------------
+Started: 2024-05-11 12:34:15.596245
+Existing_entries: 87
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : un QR code sera exigé pour accéder à certaines zones de la ville](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-un-qr-code-sera-exige-pour-acceder-a-certaines-zones-de-la-ville_6538043.html)
+append_entries: 1
+Finish: 2024-05-11 12:34:21.557681
