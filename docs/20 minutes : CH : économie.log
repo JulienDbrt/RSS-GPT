@@ -327,3 +327,12 @@ Summarized using GPT-3.5-turbo
 Append: [Des Suisses victimes d'un énorme réseau cybercriminel chinois](https://www.20min.ch/fr/103101050)
 append_entries: 2
 Finish: 2024-05-10 12:33:58.954411
+------------------------------------------------------
+Started: 2024-05-11 01:10:17.323950
+Existing_entries: 71
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [L’Académie des Oscars veut lever 500 millions de dollars](https://www.20min.ch/fr/743202211131)
+append_entries: 1
+Finish: 2024-05-11 01:10:24.244601

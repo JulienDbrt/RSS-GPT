@@ -462,3 +462,12 @@ Summarized using GPT-3.5-turbo
 Append: [La bonnotte, la pomme de terre d'exception de l'île de Noirmoutier](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-bonnotte-la-pomme-de-terre-d-exception-de-l-ile-de-noirmoutier-2963075.html)
 append_entries: 4
 Finish: 2024-05-10 12:42:11.606264
+------------------------------------------------------
+Started: 2024-05-11 01:14:30.560144
+Existing_entries: 116
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Pesticides : "il ne suffit pas pour faire baisser la fièvre de changer de thermomètre"](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/pesticides-il-ne-suffit-pas-pour-faire-baisser-la-fievre-de-changer-de-thermometre-2967680.html)
+append_entries: 1
+Finish: 2024-05-11 01:14:35.691450

@@ -974,3 +974,21 @@ Summarized using GPT-3.5-turbo
 Append: ["Si personne ne peut passer, ça va être terrible" : certains commerçants des bords de Seine redoutent le système de QR code pour Paris 2024](https://www.francetvinfo.fr/les-jeux-olympiques/si-personne-ne-peut-passer-ca-va-etre-terrible-certains-commercants-des-bords-de-seine-redoutent-le-systeme-de-qr-code-pour-paris-2024_6534797.html)
 append_entries: 9
 Finish: 2024-05-10 12:39:45.154552
+------------------------------------------------------
+Started: 2024-05-11 01:13:49.427673
+Existing_entries: 340
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Transports : l’autoroute A13 rouverte partiellement en direction de Paris](https://www.francetvinfo.fr/economie/transports/trafic/transports-l-autoroute-a13-rouverte-partiellement-en-direction-de-paris_6536747.html)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Concerts de Taylor Swift : des retombées économiques impressionnantes](https://www.francetvinfo.fr/culture/musique/concerts-de-taylor-swift-des-retombees-economiques-impressionnantes_6536732.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Vacances : le camping traditionnel fait de la résistance](https://www.francetvinfo.fr/economie/tourisme/vacances-le-camping-traditionnel-fait-de-la-resistance_6536390.html)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Travaux pénibles : des exosquelettes soulagent les artisans](https://www.francetvinfo.fr/economie/emploi/carriere/vie-professionnelle/sante-au-travail/travaux-penibles-des-exosquelettes-soulagent-les-artisans_6536378.html)
+append_entries: 4
+Finish: 2024-05-11 01:14:04.049343

@@ -4,12 +4,13 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>HTTP Toolkit – Un super outil pour simuler et debugger des requêtes HTTP(S)</title>
 <link>https://korben.info/decouvrez-http-toolkit-outil-parfait-deboguer-applications-web-mobiles.html</link>
 <guid>https://korben.info/decouvrez-http-toolkit-outil-parfait-deboguer-applications-web-mobiles.html</guid>
 <content:encoded><![CDATA[
-<div> intercepter, HTTP/HTTPS, inspecter, breakpoints, prototyper <br>
+<div> intercepter, HTTP/HTTPS, inspecter, breakpoints, prototyper <br />
 Summary: Interceptez et inspectez le trafic HTTP/HTTPS en temps réel avec l'outil open source . Explorez, filtrez et modifiez les requêtes et réponses, et créez des breakpoints pour éditer le trafic à la volée. Vous pouvez également prototyper des API, créer des règles de routage des requêtes et intégrer différentes fonctionnalités avec VS Code, DevTools et d'autres outils. L'interface conviviale et les explications détaillées rendent l'utilisation de cet outil facile pour les développeurs. Vous pouvez l'utiliser pour intercepter le trafic de fenêtres Chrome ou d'applications mobiles en un clic, sans avoir à configurer un proxy ou à obtenir des certificats SSL. Rejoignez la communauté de fans et testez cet outil pour une expérience de débogage simplifiée et efficace. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_coder_man_in_a_debugging_session_effffa13-d929-41ae-bf42-cc715cd18c08.webp" width="1456" /></p>
 <p>Si vous êtes développeur, vous connaissez sûrement les galères quand on doit débugger des applis web ou mobiles à savoir intercepter les requêtes HTTP pour voir ce qui s&rsquo;y passe, simuler des API… etc.</p>
@@ -59,9 +60,7 @@ Summary: Interceptez et inspectez le trafic HTTP/HTTPS en temps réel avec l'out
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Merci à Lorenper pour le soft !</p>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 10 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>RomM – Le gestionnaire de ROMs les retro gamers sérieux</title>
 <link>https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html</link>

@@ -230,3 +230,12 @@ Existing_entries: 32
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-05-10 12:38:09.690744
+------------------------------------------------------
+Started: 2024-05-11 01:13:10.265167
+Existing_entries: 32
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [Immobilier. Strasbourg, Nancy... Dans quelles villes acheter plutôt que louer ?](https://www.dna.fr/magazine-immobilier/2024/05/10/strasbourg-nancy-dans-quelles-villes-acheter-plutot-que-louer)
+append_entries: 1
+Finish: 2024-05-11 01:13:12.476160

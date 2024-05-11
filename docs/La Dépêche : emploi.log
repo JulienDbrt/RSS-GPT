@@ -334,3 +334,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pompignan. La commune attend un médecin !](https://www.ladepeche.fr/2024/05/10/la-commune-attend-un-medecin-11941640.php)
 append_entries: 2
 Finish: 2024-05-10 12:45:23.631359
+------------------------------------------------------
+Started: 2024-05-11 01:17:34.107390
+Existing_entries: 70
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Aux sources du canal du Midi : L’objectif de l’intercommunalité, "c’est de créer de l’emploi"](https://www.ladepeche.fr/2024/05/10/aux-sources-du-canal-du-midi-lobjectif-de-lintercommunalite-cest-de-creer-de-lemploi-11942555.php)
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: ["C’est la personne la plus attendue dans l’immeuble !" Samia, la factrice de Rangueil, donne le sourire à tout un quartier](https://www.ladepeche.fr/2024/05/10/cest-la-personne-la-plus-attendue-dans-limmeuble-samia-la-factrice-de-rangueil-donne-le-sourire-a-tout-un-quartier-11942609.php)
+append_entries: 2
+Finish: 2024-05-11 01:17:44.180537

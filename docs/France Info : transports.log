@@ -392,3 +392,12 @@ Summarized using GPT-3.5-turbo
 Append: [Autoroute A13 : la circulation a repris en direction de Paris, "pas de délai ultra-précis" dans l'autre sens, annonce la Dirif](https://www.francetvinfo.fr/economie/transports/trafic/reouverture-de-l-a13-probablement-en-debut-d-apres-midi-en-direction-de-paris-annonce-la-dirif-pas-de-delai-ultra-precis-dans-l-autre-sens_6535970.html)
 append_entries: 1
 Finish: 2024-05-10 12:40:25.276092
+------------------------------------------------------
+Started: 2024-05-11 01:14:04.656013
+Existing_entries: 86
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Transports : l’autoroute A13 rouverte partiellement en direction de Paris](https://www.francetvinfo.fr/economie/transports/trafic/transports-l-autoroute-a13-rouverte-partiellement-en-direction-de-paris_6536747.html)
+append_entries: 1
+Finish: 2024-05-11 01:14:07.311474

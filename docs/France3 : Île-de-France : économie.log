@@ -312,3 +312,12 @@ Summarized using GPT-3.5-turbo
 Append: [L'A13 rouverte partiellement dans le sens province-Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/l-a13-rouverte-partiellement-dans-le-sens-province-paris-2967656.html)
 append_entries: 2
 Finish: 2024-05-10 12:41:41.386946
+------------------------------------------------------
+Started: 2024-05-11 01:14:29.177206
+Existing_entries: 66
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: ["1 Francilien sur 75 est millionnaire" : Paris, septième "ville la plus riche du monde" selon une étude](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/1-francilien-sur-75-est-millionnaire-paris-septieme-ville-la-plus-riche-du-monde-selon-une-etude-2967782.html)
+append_entries: 1
+Finish: 2024-05-11 01:14:30.496485

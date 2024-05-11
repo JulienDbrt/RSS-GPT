@@ -274,3 +274,15 @@ Existing_entries: 42
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-05-10 12:42:54.203215
+------------------------------------------------------
+Started: 2024-05-11 01:14:57.496922
+Existing_entries: 42
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi votre bière est meilleure quand elle est froide?](https://www.journaldemontreal.com/2024/05/10/pourquoi-votre-biere-est-meilleure-quand-elle-est-froide)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [La folie des prix des voitures usagées est maintenant terminée](https://www.journaldemontreal.com/2024/05/09/la-folie-des-prix-des-voitures-usagees-est-maintenant-terminee)
+append_entries: 2
+Finish: 2024-05-11 01:15:05.505891
