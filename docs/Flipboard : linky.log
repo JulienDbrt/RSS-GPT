@@ -255,3 +255,12 @@ Existing_entries: 41
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-05-12 01:11:50.224548
+------------------------------------------------------
+Started: 2024-05-12 12:29:38.862132
+Existing_entries: 41
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Test du nrLink : un boitier pour économiser l'électricité et afficher sa consommation en direct](https://www.mac4ever.com/ecotech/182422-test-du-nrlink-un-boitier-pour-economiser-l-electricite-et-afficher-sa-consommation-en-direct)
+append_entries: 1
+Finish: 2024-05-12 12:29:42.785397

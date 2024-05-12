@@ -287,3 +287,18 @@ Summarized using GPT-3.5-turbo
 Append: [Résidences secondaires : un rêve français](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/residences-secondaires-un-reve-francais_6538433.html)
 append_entries: 2
 Finish: 2024-05-12 01:16:28.761012
+------------------------------------------------------
+Started: 2024-05-12 12:35:26.417517
+Existing_entries: 45
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Jeux olympiques en Seine-Saint-Denis, élections européennes, loi sur le logement... Le "8h30 franceinfo" de Stéphane Troussel](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/jeux-olympiques-en-seine-saint-denis-elections-europeennes-loi-sur-le-logement-le-8h30-franceinfo-de-stephane-troussel_6499784.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Résidences secondaires : de plus en plus de Français sont tentés](https://www.francetvinfo.fr/economie/immobilier/logements-vacants/residences-secondaires-de-plus-en-plus-de-francais-sont-tentes_6539600.html)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [CHRONIQUE. Logement social : un détricotage ?](https://www.francetvinfo.fr/replay-radio/entre-les-lignes/chronique-logement-social-un-detricotage_6499673.html)
+append_entries: 3
+Finish: 2024-05-12 12:35:38.063347

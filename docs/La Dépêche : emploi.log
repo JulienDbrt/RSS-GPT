@@ -364,3 +364,12 @@ Existing_entries: 74
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-12 01:18:31.347567
+------------------------------------------------------
+Started: 2024-05-12 12:37:48.048679
+Existing_entries: 74
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: ["La surface est trop grande, on a trop de frais pour ce que ça nous rapporte" : deux magasins de tissus contraints de fermer leurs portes](https://www.ladepeche.fr/2024/05/12/la-surface-est-trop-grande-on-a-trop-de-frais-pour-ce-que-ca-nous-rapporte-deux-fermetures-de-magasins-de-tissus-pres-dalbi-11928876.php)
+append_entries: 1
+Finish: 2024-05-12 12:37:50.334883

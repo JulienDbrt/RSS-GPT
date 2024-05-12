@@ -723,3 +723,18 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts sur l'immobilier : les subtilités de la déclaration IFI 2024](https://www.moneyvox.fr/impot/actualites/97711/impots-sur-immobilier-les-subtilites-de-la-declaration-ifi-2024)
 append_entries: 1
 Finish: 2024-05-12 01:16:38.786778
+------------------------------------------------------
+Started: 2024-05-12 12:35:43.591741
+Existing_entries: 201
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Réforme de l'assurance chômage : les nouvelles règles dévoilées en fin de semaine](https://www.moneyvox.fr/votre-argent/actualites/97714/reforme-de-assurance-chomage-les-nouvelles-regles-devoilees-en-fin-de-semaine)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Astuce pour carte bancaire, RSA figé, aubaine des comptes à terme... Voici les 5 infos de la semaine](https://www.moneyvox.fr/votre-argent/actualites/97707/astuce-pour-carte-bancaire-rsa-fige-aubaine-des-comptes-a-terme-voici-les-5-infos-de-la-semaine)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Congé de naissance : lancement d'une concertation le 15 mai](https://www.moneyvox.fr/votre-argent/actualites/97713/conge-de-naissance-lancement-une-concertation-le-15-mai)
+append_entries: 3
+Finish: 2024-05-12 12:35:54.768344

@@ -279,3 +279,12 @@ Existing_entries: 49
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-05-12 01:16:40.438543
+------------------------------------------------------
+Started: 2024-05-12 12:35:55.878771
+Existing_entries: 49
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [À vélo, cet étudiant traverse la France, l'Espagne et l'Italie pour sensibiliser à la transition énergétique](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/a-velo-cet-etudiant-traverse-la-france-l-espagne-et-l-italie-pour-sensibiliser-a-la-transition-energetique-2967851.html)
+append_entries: 1
+Finish: 2024-05-12 12:36:00.311767

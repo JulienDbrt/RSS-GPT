@@ -428,3 +428,15 @@ Existing_entries: 112
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-12 01:15:50.175565
+------------------------------------------------------
+Started: 2024-05-12 12:34:38.231629
+Existing_entries: 112
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Au Cambodge, le précieux poivre de Kampot en péril face au changement climatique](https://www.martinique.franceantilles.fr/actualite/economie/au-cambodge-le-precieux-poivre-de-kampot-en-peril-face-au-changement-climatique-986928.php)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Les problèmes de Boeing éclaboussent aussi le régulateur aérien FAA](https://www.martinique.franceantilles.fr/actualite/economie/les-problemes-de-boeing-eclaboussent-aussi-le-regulateur-aerien-faa-986924.php)
+append_entries: 2
+Finish: 2024-05-12 12:34:47.905268

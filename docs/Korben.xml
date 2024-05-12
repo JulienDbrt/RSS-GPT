@@ -5,13 +5,141 @@
 <link>https://korben.info</link>
 
 <item>
+<title>En manque d’inspiration avec vos prompts IA ? Allez jeter un œil à la bibliothèque d’Anthropic</title>
+<link>https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html</link>
+<guid>https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html</guid>
+<content:encoded><![CDATA[
+<div> bibliothèque, prompts, IA, Anthropic, résultats
+
+Summary: 
+La Prompt Library d'Anthropic propose une collection gratuite de prompts pré-optimisés pour différents outils IA tels que Claude3 et ChatGPT. Les utilisateurs peuvent copier-coller les prompts dans leur IA préférée et les personnaliser selon leurs besoins. La bibliothèque est constamment mise à jour grâce aux contributions des utilisateurs. Les prompts sont conçus pour diverses tâches, allant de la rédaction à l'analyse de données. L'équipe d'Anthropic s'efforce de fournir des résultats de haute qualité pour mettre en avant les capacités de Claude3. Les prompts couvrent une gamme variée de sujets, du divertissement à la productivité professionnelle, tels que la génération de recettes, l'interprétation des rêves et la rédaction de documents. La Prompt Library facilite l'interaction avec les outils IA et aide les utilisateurs à obtenir des résultats optimaux. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="967" src="https://korben.info/app/uploads/2024/03/SCR-20240326-esj.webp" width="1117" /></p>
+<p>Vous en avez assez de passer des heures à chercher la formulation parfaite pour obtenir de bons résultats avec vos prompts IA ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-655646339" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ne vous cassez plus la tête, puisque <strong>Anthropic</strong> a pensé à tout avec sa <strong>Prompt Library</strong>. Cette bibliothèque gratuite de prompts va vous permettre d&rsquo;interagir plus facilement avec des outils comme <strong>Claude3, ChatGPT, Mistral</strong>&#8230;etc. Les prompts que vous y trouverez sont pré-optimisés pour une multitude de tâches, allant de la rédaction au développement en passant par l&rsquo;analyse de données. Et ça n&rsquo;a de cesse de s&rsquo;enrichir puisque tout le monde peut soumettre ses meilleurs prompts.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157817" height="886" src="https://korben.info/app/uploads/2024/03/SCR-20240326-esj-1024x886.webp" width="1024" /></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157815" height="865" src="https://korben.info/app/uploads/2024/03/SCR-20240326-evy-1024x865.webp" width="1024" /></figure></div>
+
+
+<p>Pour l&rsquo;utiliser, il vous suffit de copier-coller le prompt de votre choix dans votre IA préférée, d&rsquo;y apporter quelques modifications si le cœur vous en dit, et voilà ! Il y a même le code en TypeScript ou Python qui vous permettra de passer un message « system » avant votre message « user ».</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157816" height="581" src="https://korben.info/app/uploads/2024/03/SCR-20240326-exr-1024x581.webp" width="1024" /></figure></div>
+
+
+<p>Chacun de ces prompts est le fruit d&rsquo;un travail minutieux de la part des équipes d&rsquo;Anthropic dont l&rsquo;objectif est de fournir des résultats d&rsquo;e qualité supérieure d&rsquo;excellente qualité afin de montrer ce que Claude3 a dans le ventre. Et, comme je le disais, il y en a pour tous les goûts&#8230; Des prompts pour générer des recettes, interpréter les rêves, se lancer dans la médiation pleine conscience, à des choses plus boulot / business comme créer une marque, rédiger des documents, debugger du code python et j&rsquo;en passe.</p>
+
+
+
+<p>Si ça vous dit de jeter un œil, <a href="https://docs.anthropic.com/claude/prompt-library" rel="noopener" target="_blank">c&rsquo;est par ici que ça se passe.</a></p>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Naticord – Un client Discord natif en Python</title>
+<link>https://korben.info/naticord-client-discord-natif-python-leger-personnalisable.html</link>
+<guid>https://korben.info/naticord-client-discord-natif-python-leger-personnalisable.html</guid>
+<content:encoded><![CDATA[
+<div> client Discord, Naticord, léger, personnalisable, efficace
+<br>
+Summary:
+Naticord est un client Discord léger et personnalisable créé en Python pour contrer les problèmes de consommation excessive de RAM et de mises à jour fréquentes du client web officiel. Avec une interface minimaliste inspirée de Windows Live Messenger, Naticord offre les fonctionnalités essentielles pour se connecter, discuter en privé, accéder aux serveurs et canaux de base, envoyer des messages et fichiers, et basculer entre plusieurs comptes. Bien que certaines fonctionnalités de Discord ne soient pas présentes, Naticord se concentre sur l'essentiel pour une expérience de discussion simplifiée. Des mises à jour futures devraient améliorer le support des serveurs, l'ajout de photos de profil dans la liste d'amis, et introduire un mode sombre. Cependant, il est important de noter que l'utilisation d'un client tiers comme Naticord pourrait entraîner un bannissement de Discord, malgré l'absence de problèmes signalés jusqu'à présent. La communauté apprécie l'alternative offerte par Naticord pour une utilisation directe et sans complications sur Discord. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_logo_for_discord_client_named_Naticord_0a0f9364-7aac-4c19-aa65-45540475240c.webp" width="1920" /></p>
+<p>Vous en avez marre du client web Discord qui bouffe toute votre RAM et qui lance des mises à jours qui plantent toutes les 2 heures ? Bienvenue au club !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2021666017" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Heureusement, y&rsquo;a un p&rsquo;tit gars qui a décidé de prendre les choses en main en développant son propre client Discord en Python. Ça s&rsquo;appelle <strong>Naticord</strong> (ou Native-cord), et c&rsquo;est <strong>léger</strong>, <strong>personnalisable</strong> et <strong>super efficace</strong> !</p>
+
+
+
+<p>Quand j&rsquo;ai découvert <a href="https://github.com/n1d3v/naticord" rel="noopener" target="_blank">ce projet sur GitHub</a>, j&rsquo;ai tout de suite accroché. Un client Discord qui peut tourner avec seulement 25 Mo de RAM en moyenne, contre 400 Mo pour l&rsquo;app officielle dans certains cas, c&rsquo;est quand même un sacré tour de force ! En plus, l&rsquo;interface est inspirée de feu <strong>Windows Live Messenger</strong> (paix à son âme), avec un côté minimaliste et fonctionnel qui fait plaisir à voir, comme les bulles de conversation par exemple.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-160264" height="590" src="https://korben.info/app/uploads/2024/05/327244645-f16cb368-cade-4fdf-b6a7-e8cfdf2d469a-1024x590.webp" style="width: 646px; height: auto;" width="1024" /></figure></div>
+
+
+<p>Mais attention, faut pas s&rsquo;attendre à retrouver toutes les fonctionnalités de Discord non plus. Naticord se concentre sur l&rsquo;essentiel :</p>
+
+
+
+<ul>
+<li>Se connecter avec un token Discord</li>
+
+
+
+<li>Voir ses amis et discuter en MP</li>
+
+
+
+<li>Accéder aux serveurs et canaux de base</li>
+
+
+
+<li>Envoyer des messages, des fichiers et des images</li>
+
+
+
+<li>Basculer entre plusieurs comptes</li>
+</ul>
+
+
+
+<p>Pas de fioritures, juste ce qu&rsquo;il faut pour tchatter tranquillou avec ses potes. Et franchement, pour l&rsquo;utilisation qu&rsquo;on en a en général, c&rsquo;est largement suffisant ! Pour l&rsquo;installer, c&rsquo;est pas bien compliqué. Suffit d&rsquo;avoir Python et pip sous la main, et de lancer ces petites commandes magiques :</p>
+
+
+
+<pre class="wp-block-code"><code>pip install PyQt5 requests</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-860814666" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et hop, vous êtes parés pour lancer Naticord :</p>
+
+
+
+<pre class="wp-block-code"><code>python naticord.py</code></pre>
+
+
+
+<p>Évidemment, faudra quand même rentrer votre token Discord pour vous connecter (voir le tuto sur le github). Mais une fois que c&rsquo;est fait, vous pourrez profiter d&rsquo;une expérience allégée, sans prise de tête.</p>
+
+
+
+<p>Au menu des prochaines updates, on devrait avoir droit à un meilleur support des <strong>serveurs</strong>, des <strong>photos de profil</strong> dans la liste d&rsquo;amis, et même un <strong>mode dark</strong> pour ménager nos petits yeux fragiles. Le mode nuit actuel a encore quelques soucis, mais ça devrait s&rsquo;arranger bientôt. Le développeur bosse aussi sur l&rsquo;édition/suppression de messages, les emojis, les catégories de canaux, et qui sait, peut-être même la <strong>vidéo</strong> et les <strong>appels vocaux</strong> un de ces quatre ! </p>
+
+
+
+<p>En attendant, je trouve que Naticord est une excellente alternative pour ceux qui veulent un client Discord qui va droit au but, sans chichi. Par contre attention, même si personne n&rsquo;a encore eu de souci, Discord pourrait très bien vous bannir pour utiliser un client tiers. Rien ne les en empêche, donc soyez conscient de ça.</p>
+
+
+
+<p>Merci à Lorenper pour le partage !</p>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 06:15:53 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 06:15:53 +0000</pubDate>
+</item>
+
+<item>
 <title>Open WebUI – Une interface graphique pour Ollama</title>
 <link>https://korben.info/open-webui-nouvelle-interface-graphique-ollama.html</link>
 <guid>https://korben.info/open-webui-nouvelle-interface-graphique-ollama.html</guid>
 <content:encoded><![CDATA[
-<div> Open WebUI, interface graphique, Ollama, LLM, IA<br>
-<br>
-Summary:<br>
+<div> Open WebUI, interface graphique, Ollama, LLM, IA<br />
+<br />
+Summary:<br />
 Open WebUI est une interface web personnalisable pour interagir avec Ollama, un outil permettant de faire tourner des LLM en local. Elle offre un thème personnalisable, la possibilité de communiquer avec Ollama en plusieurs langues, de faire cracher du code et des formules mathématiques, d'utiliser plusieurs modèles en parallèle et d'intégrer des documents externes via la Récupération Augmentée. L'outil permet également la reconnaissance vocale, la synthèse Text-to-Speech, la génération d'images avec DALL-E et l'intégration avec les API OpenAI. Open WebUI est open source, puissant et personnalisable, adapté aux développeurs et aux curieux qui veulent s'amuser avec l'IA. Pour l'installer, assurez-vous d'avoir Docker et une URL de base pour Ollama configurée, puis exécutez la commande Docker pour démarrer le conteneur d'Open WebUI sur http://localhost:3000. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="349" src="https://korben.info/app/uploads/2024/05/SCR-20240511-rlpr.webp" width="1000" /></p>
 <p><strong>Open WebUI</strong> débarque pour changer notre façon d’interagir avec <strong>Ollama</strong> grâce à une interface graphique intuitive et ergonomique ! Parce que l&rsquo;IA, c&rsquo;est cool, mais si c&rsquo;est simple à utiliser, c&rsquo;est encore mieux. Ollama pour rappel, c&rsquo;est un outil qui permet de faire tourner des LLM en local et qui s&rsquo;utilise soit via du code, soit directement en ligne de commande.</p>
@@ -84,15 +212,14 @@ Open WebUI est une interface web personnalisable pour interagir avec Ollama, un 
 <p>Amusez-vous bien et si vous voulez en savoir plus, <a href="https://openwebui.com/" rel="noopener" target="_blank">toutes les infos sont ici.</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 18:06:13 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 18:06:13 +0000</pubDate>
 </item>
 <item>
 <title>Llamafile – Exécutez des modèles de langage en un seul fichier !</title>
 <link>https://korben.info/llamafile-executez-modeles-langage-fichier.html</link>
 <guid>https://korben.info/llamafile-executez-modeles-langage-fichier.html</guid>
 <content:encoded><![CDATA[
-<div> llamafile, Mozilla, modèles de langage, IA, exécutables,<br>
-<br>
+<div> llamafile, Mozilla, modèles de langage, IA, exécutables,<br />
+<br />
 Summary:
 llamafile est un projet de Mozilla qui permet de transformer des modèles de langage en exécutables portables. Il combine le framework de chatbot IA avec une libc portable pour créer des binaires autonomes. Ces exécutables fonctionnent sur six OS, offrant une grande portabilité. Le projet utilise des technologies avancées pour améliorer les performances, notamment en sandboxant les processus et en bénéficiant des derniers patchs CPU. Les utilisateurs peuvent tester llamafile en téléchargeant des exemples de modèles, comme LLaVA, qui permettent de discuter et d'analyser des images en local. Mozilla prévoit d'étendre le support à de nouveaux modèles et architectures, tout en permettant la génération facile de llamafiles. Hugging Face est également impliqué dans l'hébergement de ces fichiers. En résumé, llamafile est un projet innovant à suivre de près dans le domaine des modèles de langage et de l'intelligence artificielle grâce à sa facilité d'utilisation et ses performances améliorées. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="383" src="https://korben.info/app/uploads/2024/05/SCR-20240511-qqhf-2.webp" width="1000" /></p>
@@ -167,7 +294,6 @@ llamafile est un projet de Mozilla qui permet de transformer des modèles de lan
 <p>Merci Mozilla ! 🙏🦊</p>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 17:13:17 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 17:13:17 +0000</pubDate>
 </item>
 <item>
 <title>Le marché gris des clés de jeux PC – Un voyage en zone trouble</title>
@@ -176,7 +302,7 @@ llamafile est un projet de Mozilla qui permet de transformer des modèles de lan
 <content:encoded><![CDATA[
 <div> clés de jeux, marché gris, Kinguin, G2A, Steam 
 
-Summary:<br>
+Summary:<br />
 Le marché gris des clés de jeux consiste en la revente de clés de jeux à des prix abordables par des sites comme Kinguin, G2A et Instant Gaming, sans l'accord des développeurs ou éditeurs. Ces sites obtiennent les clés de manière peu transparente, en les achetant dans des régions où les prix sont plus bas ou en les volant. Cette pratique est désapprouvée par les développeurs et peut entraîner la désactivation des clés par les plateformes telles que Steam. Il est recommandé d'éviter d'acheter des clés sur ces sites et d'attendre les soldes officielles pour se procurer des jeux à des prix légitimes. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Le_marche_gris_des_cles_de_jeux_PC_-_Un_voyage_en_zone_t_94250ce4-64b6-44b0-95c1-6df2cdd4194b.webp" width="1920" /></p>
 <p>Je viens de regarder une chouette vidéo de <a href="https://www.youtube.com/@MonsieurPlouf" rel="noopener" target="_blank"><strong>Monsieur Plouf</strong></a> sur le marché de revente de clés de logiciels et jeux vidéos et comme j&rsquo;ai appris pleins de trucs, et bien je la partage avec vous. Perso, je m&rsquo;étais jamais intéressé au sujet plus que ça car je ne suis pas gamer mais je pensais quand même que c&rsquo;était un truc réglo.</p>
@@ -205,9 +331,7 @@ Le marché gris des clés de jeux consiste en la revente de clés de jeux à des
 <p>Bref, si vous pouvez éviter, c&rsquo;est mieux surtout que Steam est parti en guerre contre ça et risque de désactiver vos clés, donc autant <strong>être patient et attendre les soldes</strong>.</p>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 16:30:00 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 16:30:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Submariner – Le meilleur client Subsonic dispo sous Mac !</title>
 <link>https://korben.info/submariner-client-subsonic-mac-musique-podcast-autoheberges.html</link>

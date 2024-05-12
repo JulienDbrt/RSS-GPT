@@ -309,3 +309,9 @@ Summarized using GPT-3.5-turbo
 Append: [Tunnel Louis-Hippolyte-La Fontaine: chantier mis sur pause après l'intoxication de deux travailleurs](https://www.journaldemontreal.com/2024/05/11/tunnel-louis-hippolyte-la-fontaine-chantier-mis-sur-pause-apres-lintoxication-de-deux-travailleurs)
 append_entries: 2
 Finish: 2024-05-12 01:17:33.483207
+------------------------------------------------------
+Started: 2024-05-12 12:36:31.054845
+Existing_entries: 49
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-12 12:36:31.489432

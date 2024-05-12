@@ -329,3 +329,15 @@ Existing_entries: 59
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-12 01:15:49.307421
+------------------------------------------------------
+Started: 2024-05-12 12:34:30.716185
+Existing_entries: 59
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Le cashback, un moyen de récupérer de l'argent avec votre carte bancaire](https://www.europe1.fr/economie/le-cashback-un-moyen-de-recuperer-de-largent-avec-votre-carte-bancaire-4246490)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [Sommet Choose France : un nombre important d'investissements étrangers attendus](https://www.europe1.fr/economie/sommet-choose-france-un-nombre-important-dinvestissements-etrangers-attendus-4246453)
+append_entries: 2
+Finish: 2024-05-12 12:34:38.179450

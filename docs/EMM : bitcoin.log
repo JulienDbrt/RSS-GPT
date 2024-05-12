@@ -1202,3 +1202,18 @@ Summarized using GPT-3.5-turbo
 Append: [Jack Dorsey (ancien Bluesky) estime que la plateforme « répète littéralement toutes les erreurs » que Twitter](https://www.nouvelles-du-monde.com/jack-dorsey-ancien-bluesky-estime-que-la-plateforme-repete-litteralement-toutes-les-erreurs-que-twitter/)
 append_entries: 10
 Finish: 2024-05-12 01:11:20.929151
+------------------------------------------------------
+Started: 2024-05-12 12:27:53.040560
+Existing_entries: 518
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [La plus grande banque du monde achète du Bitcoin](https://www.nouvelles-du-monde.com/la-plus-grande-banque-du-monde-achete-du-bitcoin/)
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [BTC en analyse : Bitcoin – les côtés obscurs de la cryptomonnaie](https://www.nouvelles-du-monde.com/btc-en-analyse-bitcoin-les-cotes-obscurs-de-la-cryptomonnaie/)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [Impôts sur les cryptos : comment déclarer vos bitcoins en France ?](https://www.01net.com/actualites/impots-cryptos-comment-declarer-bitcoins-france.html)
+append_entries: 3
+Finish: 2024-05-12 12:28:08.340522

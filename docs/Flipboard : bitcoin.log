@@ -595,3 +595,12 @@ Summarized using GPT-3.5-turbo
 Append: [Peter Brandt avait correctement prédit le dernier: Une légende du trading met en garde contre un crash du bitcoin](https://www.blick.ch/fr/news/economie/peter-brandt-avait-correctement-predit-le-dernier-une-legende-du-trading-met-en-garde-contre-un-crash-du-bitcoin-id19728108.html)
 append_entries: 1
 Finish: 2024-05-12 01:11:24.648522
+------------------------------------------------------
+Started: 2024-05-12 12:28:08.420266
+Existing_entries: 157
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Fiscalité des cryptos : comment déclarer vos bitcoins en France ?](https://www.01net.com/actualites/impots-cryptos-comment-declarer-bitcoins-france.html)
+append_entries: 1
+Finish: 2024-05-12 12:28:13.293472

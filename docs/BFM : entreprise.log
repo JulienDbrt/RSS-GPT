@@ -615,3 +615,15 @@ Summarized using GPT-3.5-turbo
 Append: [Audiovisuel public: le gouvernement prévoit par amendement une fusion au 1er janvier 2026](https://www.bfmtv.com/economie/entreprises/audiovisuel-public-le-gouvernement-prevoit-par-amendement-une-fusion-au-1er-janvier-2026_AD-202405110298.html)
 append_entries: 1
 Finish: 2024-05-12 01:14:44.528091
+------------------------------------------------------
+Started: 2024-05-12 12:33:00.931582
+Existing_entries: 173
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [A partir du 6 juillet, les réservations seront obligatoires sur deux lignes de TER du Grand-Est](https://www.bfmtv.com/economie/entreprises/transports/a-partir-du-6-juillet-les-reservations-seront-obligatoires-sur-deux-lignes-de-ter-du-grand-est_AN-202405120227.html)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [FertigHy: vers un Airbus européen de l'engrais décarboné pour en finir avec la dépendance russe](https://www.bfmtv.com/economie/entreprises/agriculture/fertig-hy-vers-un-airbus-europeen-de-l-engrais-decarbone-pour-en-finir-avec-la-dependance-russe_AD-202405120151.html)
+append_entries: 2
+Finish: 2024-05-12 12:33:06.236761

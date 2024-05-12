@@ -604,3 +604,18 @@ Summarized using GPT-3.5-turbo
 Append: [Retour du pont de l'Ascension, attention, Bison futé voit Noir !](https://france3-regions.francetvinfo.fr/bretagne/morbihan/retour-du-pont-de-l-ascension-attention-bison-fute-voit-noir-2968100.html)
 append_entries: 3
 Finish: 2024-05-12 01:17:20.743645
+------------------------------------------------------
+Started: 2024-05-12 12:36:19.858388
+Existing_entries: 158
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Un dimanche noir sur les routes normandes en cette fin de pont de l'ascension](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/un-dimanche-noir-sur-les-routes-normandes-en-cette-fin-de-pont-de-l-ascension-2968358.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Serpentant au cœur des Alpes, entre lacs et montagnes, ce train vieux de 136 ans est un monument du patrimoine](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/video-serpentant-au-c-ur-des-alpes-entre-lacs-et-montagnes-ce-train-vieux-de-136-ans-est-un-monument-du-patrimoine-2965406.html)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [À vélo, cet étudiant traverse la France, l'Espagne et l'Italie pour sensibiliser à la transition énergétique](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/a-velo-cet-etudiant-traverse-la-france-l-espagne-et-l-italie-pour-sensibiliser-a-la-transition-energetique-2967851.html)
+append_entries: 3
+Finish: 2024-05-12 12:36:30.525316
