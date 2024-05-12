@@ -358,3 +358,9 @@ Summarized using GPT-3.5-turbo
 Append: [ADMR : nouveaux avantages  pour l’emploi et les salariés](https://www.ladepeche.fr/2024/05/11/admr-nouveaux-avantages-pour-lemploi-et-les-salaries-11943777.php)
 append_entries: 2
 Finish: 2024-05-11 12:37:35.628401
+------------------------------------------------------
+Started: 2024-05-12 01:18:30.777267
+Existing_entries: 74
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-05-12 01:18:31.347567

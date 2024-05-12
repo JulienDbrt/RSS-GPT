@@ -329,3 +329,9 @@ Summarized using GPT-3.5-turbo
 Append: [Dimanche noir en vue au carrefour Léonard pour les retours de vacances des Wallons et Bruxellois : vous risquez de perdre une heure dans les bouchons](https://www.lalibre.be/regions/bruxelles/2024/05/11/dimanche-noir-en-vue-au-carrefour-leonard-pour-les-retours-de-vacances-des-wallons-et-bruxellois-vous-risquez-de-perdre-une-heure-dans-les-bouchons-LX2AE3M2MJFNFMZHA2RJKEMTAM/)
 append_entries: 1
 Finish: 2024-05-11 12:38:01.291244
+------------------------------------------------------
+Started: 2024-05-12 01:18:37.102959
+Existing_entries: 87
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-12 01:18:37.544281

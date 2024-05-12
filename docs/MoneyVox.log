@@ -714,3 +714,12 @@ Summarized using GPT-3.5-turbo
 Append: [Ces frais cachés lors des paiements par carte bancaire vont-ils être mieux réglementés ?](https://www.moneyvox.fr/tarif-bancaire/actualites/97704/ces-frais-caches-lors-des-paiements-par-carte-bancaire-vont-ils-etre-mieux-reglementes)
 append_entries: 6
 Finish: 2024-05-11 12:34:59.385251
+------------------------------------------------------
+Started: 2024-05-12 01:16:34.624216
+Existing_entries: 200
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Impôts sur l'immobilier : les subtilités de la déclaration IFI 2024](https://www.moneyvox.fr/impot/actualites/97711/impots-sur-immobilier-les-subtilites-de-la-declaration-ifi-2024)
+append_entries: 1
+Finish: 2024-05-12 01:16:38.786778

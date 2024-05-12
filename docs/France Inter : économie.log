@@ -353,3 +353,9 @@ Summarized using GPT-3.5-turbo
 Append: [La chronique Eco du samedi 11 mai 2024](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-11-mai-2024-4452448)
 append_entries: 3
 Finish: 2024-05-11 12:34:33.736125
+------------------------------------------------------
+Started: 2024-05-12 01:16:33.160522
+Existing_entries: 69
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-12 01:16:33.663603

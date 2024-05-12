@@ -275,3 +275,15 @@ Summarized using GPT-3.5-turbo
 Append: [La déclaration obligatoire des biens immobiliers](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/c-est-mon-budget-du-samedi-11-mai-2024-la-declaration-obligatoire-des-biens-immobiliers_6510377.html)
 append_entries: 1
 Finish: 2024-05-11 12:34:15.544256
+------------------------------------------------------
+Started: 2024-05-12 01:16:22.013164
+Existing_entries: 43
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Résidences secondaires : elles attirent les Français](https://www.francetvinfo.fr/economie/immobilier/residences-secondaires-elles-attirent-les-francais_6538487.html)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Résidences secondaires : un rêve français](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/residences-secondaires-un-reve-francais_6538433.html)
+append_entries: 2
+Finish: 2024-05-12 01:16:28.761012

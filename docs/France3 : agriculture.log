@@ -483,3 +483,18 @@ Summarized using GPT-3.5-turbo
 Append: [DIRECT. Mobilisation contre les mégabassines : plusieurs milliers de personnes manifestent dans le Puy-de-Dôme](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/direct-mobilisation-contre-les-megabassines-des-centaines-de-manifestants-reunis-dans-le-puy-de-dome-2968013.html)
 append_entries: 2
 Finish: 2024-05-11 12:35:13.029019
+------------------------------------------------------
+Started: 2024-05-12 01:16:40.746630
+Existing_entries: 119
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [Mégabassines dans le Puy-de-Dôme : "Aucune plante ne peut pousser sans eau", défend Sylvain, agriculteur](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/megabassines-dans-le-puy-de-dome-aucune-plante-ne-peut-pousser-sans-eau-defend-sylvain-agriculteur-2968226.html)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Un nouvel abattoir pour favoriser le circuit court en Haute-Marne : un moyen de « consolider les filières » d’élevage](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/chaumont/un-nouvel-abattoir-pour-favoriser-le-circuit-court-en-haute-marne-un-moyen-de-consolider-les-filieres-d-elevage-2968193.html)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Xyllela Fastidiosa : comment les professionnels s'adaptent à la réglementation depuis la crise](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/xyllela-fastidiosa-comment-les-professionnels-s-adaptent-a-la-reglementation-depuis-la-crise-2967806.html)
+append_entries: 3
+Finish: 2024-05-12 01:16:50.479561

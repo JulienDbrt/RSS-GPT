@@ -607,3 +607,18 @@ Summarized using GPT-3.5-turbo
 Append: [Guerre en Ukraine : face à l'offensive surprise de l'armée russe, Kharkiv évacue des habitants](https://www.latribune.fr/economie/international/guerre-en-ukraine-face-a-l-offensive-surprise-de-l-armee-russe-kharkiv-evacue-des-habitants-997262.html)
 append_entries: 1
 Finish: 2024-05-11 12:38:04.572567
+------------------------------------------------------
+Started: 2024-05-12 01:18:37.623923
+Existing_entries: 147
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [« Il faut cesser d'opposer climat et développement » (Rémy Rioux, directeur général de l'AFD)](https://www.latribune.fr/economie/france/il-faut-cesser-d-opposer-climat-et-developpement-remy-rioux-directeur-general-de-l-afd-997314.html)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [La Chine confirme sa sortie de la déflation](https://www.latribune.fr/economie/international/la-chine-confirme-sa-sortie-de-la-deflation-997273.html)
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [Etats-Unis : une gouverneure de la Fed ferme la porte à une baisse des taux en 2024](https://www.latribune.fr/economie/international/etats-unis-une-gouverneure-de-la-fed-ferme-la-porte-a-une-baisse-des-taux-en-2024-997271.html)
+append_entries: 3
+Finish: 2024-05-12 01:18:49.883316

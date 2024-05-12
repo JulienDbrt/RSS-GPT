@@ -317,3 +317,9 @@ Summarized using GPT-3.5-turbo
 Append: [Taylor Swift en concert à Paris : « Ça coûte moins cher de faire un week-end à Paris que d’acheter un billet américain »](https://www.20minutes.fr/arts-stars/culture/4090531-20240511-taylor-swift-concert-paris-ca-coute-moins-cher-faire-week-end-paris-acheter-billet-americain)
 append_entries: 1
 Finish: 2024-05-11 12:31:00.965377
+------------------------------------------------------
+Started: 2024-05-12 01:13:47.724814
+Existing_entries: 57
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-05-12 01:13:48.243788

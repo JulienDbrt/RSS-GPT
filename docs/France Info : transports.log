@@ -410,3 +410,15 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : un QR code sera exigé pour accéder à certaines zones de la ville](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-un-qr-code-sera-exige-pour-acceder-a-certaines-zones-de-la-ville_6538043.html)
 append_entries: 1
 Finish: 2024-05-11 12:34:21.557681
+------------------------------------------------------
+Started: 2024-05-12 01:16:28.811735
+Existing_entries: 88
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [Trottinettes électriques : test comparatif de 8 modèles](https://www.francetvinfo.fr/replay-radio/le-conseil-conso/trottinettes-electriques-test-comparatif-de-8-modeles_6510416.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Retours du week-end de l'Ascension : Bison Futé anticipe un dimanche rouge sur les routes de France, et noir sur le quart nord-ouest](https://www.francetvinfo.fr/economie/transports/circulation-bison-fute-anticipe-un-dimanche-rouge-dans-toute-la-france-et-noir-sur-le-quart-nord-ouest-dans-le-sens-des-retours_6538142.html)
+append_entries: 2
+Finish: 2024-05-12 01:16:33.124840

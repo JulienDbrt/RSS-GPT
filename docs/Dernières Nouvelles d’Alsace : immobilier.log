@@ -248,3 +248,15 @@ Summarized using GPT-3.5-turbo
 Append: [Conseils jardinage. Comment optimiser votre récolte de fruits à noyau ?](https://www.dna.fr/magazine-immobilier/2024/05/11/comment-optimiser-votre-recolte-de-fruits-a-noyau)
 append_entries: 1
 Finish: 2024-05-11 12:33:21.560100
+------------------------------------------------------
+Started: 2024-05-12 01:15:34.067608
+Existing_entries: 34
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Immobilier - Énergie. Les étapes à suivre pour bien installer vos panneaux solaires](https://www.dna.fr/magazine-immobilier/2024/05/11/les-etapes-a-suivre-pour-bien-installer-vos-panneaux-solaires)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Argent - Famille. SCPI : comment alléger la note fiscale de votre investissement ?](https://www.dna.fr/magazine-immobilier/2024/05/11/scpi-comment-alleger-la-note-fiscale-de-votre-investissement)
+append_entries: 2
+Finish: 2024-05-12 01:15:45.214695

@@ -5,12 +5,216 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Open WebUI – Une interface graphique pour Ollama</title>
+<link>https://korben.info/open-webui-nouvelle-interface-graphique-ollama.html</link>
+<guid>https://korben.info/open-webui-nouvelle-interface-graphique-ollama.html</guid>
+<content:encoded><![CDATA[
+<div> Open WebUI, interface graphique, Ollama, LLM, IA<br>
+<br>
+Summary:<br>
+Open WebUI est une interface web personnalisable pour interagir avec Ollama, un outil permettant de faire tourner des LLM en local. Elle offre un thème personnalisable, la possibilité de communiquer avec Ollama en plusieurs langues, de faire cracher du code et des formules mathématiques, d'utiliser plusieurs modèles en parallèle et d'intégrer des documents externes via la Récupération Augmentée. L'outil permet également la reconnaissance vocale, la synthèse Text-to-Speech, la génération d'images avec DALL-E et l'intégration avec les API OpenAI. Open WebUI est open source, puissant et personnalisable, adapté aux développeurs et aux curieux qui veulent s'amuser avec l'IA. Pour l'installer, assurez-vous d'avoir Docker et une URL de base pour Ollama configurée, puis exécutez la commande Docker pour démarrer le conteneur d'Open WebUI sur http://localhost:3000. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="349" src="https://korben.info/app/uploads/2024/05/SCR-20240511-rlpr.webp" width="1000" /></p>
+<p><strong>Open WebUI</strong> débarque pour changer notre façon d’interagir avec <strong>Ollama</strong> grâce à une interface graphique intuitive et ergonomique ! Parce que l&rsquo;IA, c&rsquo;est cool, mais si c&rsquo;est simple à utiliser, c&rsquo;est encore mieux. Ollama pour rappel, c&rsquo;est un outil qui permet de faire tourner des LLM en local et qui s&rsquo;utilise soit via du code, soit directement en ligne de commande.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1736509161" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec Open WebUI, vous allez enfin avoir une interface web personnalisable avec votre thème, sombre pour les hackers en herbe ou clair pour les âmes sensibles, dans la langue de votre choix, de l&rsquo;anglais au klingon en passant par le français, et vous pourrez ainsi causer avec Ollama comme si vous étiez sur ChatGPT. Avec le support de <strong>Markdown</strong>, de <strong>LaTeX</strong> et de la coloration syntaxique, vous pourrez même lui faire cracher du code et des formules mathématiques comme jamais.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160242" height="586" src="https://korben.info/app/uploads/2024/05/SCR-20240511-rldq.webp" width="1000" /></figure></div>
+
+
+<p>Open WebUI permet même d&rsquo;utiliser plusieurs modèles en parallèle, comparer leurs réponses, et même les faire discuter entre eux&#8230; Et si vous voulez de l&rsquo;interaction plus poussée, lâchez-vous avec les fonctionnalités de <strong>Récupération Augmentée</strong> (RAG). Vous pourrez intégrer des documents externes dans vos conversations et même aller les chercher directement sur le web grâce à une fonction de navigation intégrée.</p>
+
+
+
+<p>Avec l&rsquo;outil de création de fichiers modèle (<strong>modelfiles</strong>), vous pouvez également définir des agents conversationnels sur mesure et les partager avec la communauté Open WebUI.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160241" height="690" src="https://korben.info/app/uploads/2024/05/SCR-20240511-rlji.webp" width="1000" /></figure></div>
+
+
+<p>Bien sûr, comme tout bon logiciel qui se respecte, Open WebUI gère la reconnaissance vocale, la synthèse Text-to-Speech et même la génération d&rsquo;images avec <strong>DALL-E</strong> et d&rsquo;autres systèmes compatibles. Cadeau bonux, l&rsquo;intégration avec les API compatibles OpenAI, pour encore plus de possibilités déjantées.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-116013697" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour plus d&rsquo;informations sur ces fonctionnalités et comment les configurer, consultez la <a href="https://github.com/open-webui/open-webui" rel="noopener" target="_blank">documentation officielle d&rsquo;Open WebUI</a>.</p>
+
+
+
+<p>C&rsquo;est open source, c&rsquo;est puissant, c&rsquo;est customisable à outrance alors que vous soyez un champion du dev ou comme moi, juste un curieux qui veut s&rsquo;amuser avec l&rsquo;IA, vous allez vous régaler.</p>
+
+
+
+<p>Avant de vous lancer dans l&rsquo;installation d&rsquo;Open WebUI, assurez-vous d&rsquo;avoir les prérequis suivants :</p>
+
+
+
+<ul>
+<li>Docker installé sur votre machine</li>
+
+
+
+<li>Une URL de base pour Ollama (OLLAMA_BASE_URL) correctement configurée</li>
+</ul>
+
+
+
+<p>Pour configurer l&rsquo;URL de base d&rsquo;Ollama, vous pouvez soit la définir en tant que variable d&rsquo;environnement, soit la spécifier dans un fichier de configuration dédié.</p>
+
+
+
+<p>Une fois les prérequis remplis, vous pouvez procéder à l&rsquo;installation d&rsquo;Open WebUI en utilisant Docker :</p>
+
+
+
+<p><code>docker run -d -p 3000:8080 --name open-webui --restart always ghcr.io/open-webui/open-webui:main</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1431696841" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Cette commande va télécharger l&rsquo;image Docker d&rsquo;Open WebUI et lancer un conteneur accessible sur <code>http://localhost:3000</code>.</p>
+
+
+
+<p>Amusez-vous bien et si vous voulez en savoir plus, <a href="https://openwebui.com/" rel="noopener" target="_blank">toutes les infos sont ici.</a></p>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 18:06:13 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 18:06:13 +0000</pubDate>
+</item>
+<item>
+<title>Llamafile – Exécutez des modèles de langage en un seul fichier !</title>
+<link>https://korben.info/llamafile-executez-modeles-langage-fichier.html</link>
+<guid>https://korben.info/llamafile-executez-modeles-langage-fichier.html</guid>
+<content:encoded><![CDATA[
+<div> llamafile, Mozilla, modèles de langage, IA, exécutables,<br>
+<br>
+Summary:
+llamafile est un projet de Mozilla qui permet de transformer des modèles de langage en exécutables portables. Il combine le framework de chatbot IA avec une libc portable pour créer des binaires autonomes. Ces exécutables fonctionnent sur six OS, offrant une grande portabilité. Le projet utilise des technologies avancées pour améliorer les performances, notamment en sandboxant les processus et en bénéficiant des derniers patchs CPU. Les utilisateurs peuvent tester llamafile en téléchargeant des exemples de modèles, comme LLaVA, qui permettent de discuter et d'analyser des images en local. Mozilla prévoit d'étendre le support à de nouveaux modèles et architectures, tout en permettant la génération facile de llamafiles. Hugging Face est également impliqué dans l'hébergement de ces fichiers. En résumé, llamafile est un projet innovant à suivre de près dans le domaine des modèles de langage et de l'intelligence artificielle grâce à sa facilité d'utilisation et ses performances améliorées. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="383" src="https://korben.info/app/uploads/2024/05/SCR-20240511-qqhf-2.webp" width="1000" /></p>
+<p><strong><a href="https://github.com/Mozilla-Ocho/llamafile" rel="noopener" target="_blank">llamafile</a></strong> est un projet complètement barré qui va vous permettre de transformer des modèles de langage en exécutables. Derrière se cache en fait la fusion de deux projets bien badass : <a href="https://github.com/ggerganov/llama.cpp" rel="noopener" target="_blank">llama.cpp</a>, un framework open source de chatbot IA, et <a href="https://github.com/jart/cosmopolitan" rel="noopener" target="_blank">Cosmopolitan Libc</a>, une libc portable pour compiler des programmes C multiplateformes. En combinant astucieusement ces deux technos, les petits gars de Mozilla ont réussi à pondre un outil qui transforme les poids de modèles de langage naturel en binaires exécutables.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2052298043" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Imaginez un peu, vous avez un modèle de langage qui pèse dans les 4 gigas, dans un format .gguf (un format couramment utilisé pour les poids de LLM). Et bien avec llamafile, vous pouvez le transformer en un exécutable standalone qui fonctionnera directement sur le système sur lequel il est sans avoir besoin d&rsquo;installer quoi que ce soit. Ça va permettre de <strong>démocratiser l&rsquo;utilisation et la diffusion des LLM</strong>.</p>
+
+
+
+<p>Et niveau portabilité, c&rsquo;est le feu puisque ça tourne sur six OS, de Windows à FreeBSD en passant par macOS. Les devs ont bien bossé pour que ça passe partout, en résolvant des trucs bien crados comme le support des GPU et de <code>dlopen()</code> dans Cosmopolitan et croyez-moi (enfin, croyez-les) ça n&rsquo;a pas été une mince affaire !</p>
+
+
+
+<p>Niveau perf aussi c&rsquo;est du brutal ! Sur Linux llamafile utilise <code>pledge()</code> et SECCOMP pour sandboxer le bousin et empêcher les accès fichiers non désirés et avec les derniers patchs de <a href="https://korben.info/justine-tunney-booste-performances-llama-cpp-nouveaux-kernels-algebre-lineaire.html">Justine Tunney</a>, la perf CPU pour l&rsquo;inférence en local a pris un boost de malade du genre 10 fois plus rapide qu&rsquo;avant. Même sur un Raspberry Pi on peut faire tourner des petits modèles à une vitesse honnête.</p>
+
+
+
+<p>Allez, assez parlé, passons à la pratique ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1383616187" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Voici comment tester vous-même un llamafile en un rien de temps :</p>
+
+
+
+<ol>
+<li>Téléchargez l&rsquo;exemple de llamafile pour le modèle LLaVA (licence : LLaMA 2, OpenAI) : <a href="https://huggingface.co/jartine/llava-v1.5-7B-GGUF/resolve/main/llava-v1.5-7b-q4.llamafile?download=true">llava-v1.5-7b-q4.llamafile</a> (3,97 Go). LLaVA est un nouveau LLM qui peut non seulement discuter, mais aussi analyser des images que vous uploadez. Avec llamafile, tout se passe en local, vos données ne quittent jamais votre PC.</li>
+
+
+
+<li>Ouvrez le terminal de votre ordinateur.</li>
+
+
+
+<li>Si vous êtes sous macOS, Linux ou BSD, vous devrez autoriser l&rsquo;exécution de ce nouveau fichier. (À faire une seule fois) : <br /><code>chmod +x llava-v1.5-7b-q4.llamafile</code></li>
+
+
+
+<li>Sous Windows, renommez simplement le fichier en ajoutant « .exe » à la fin.</li>
+
+
+
+<li>Lancez le llamafile, par exemple :<br /><code>./llava-v1.5-7b-q4.llamafile</code></li>
+
+
+
+<li>Votre navigateur devrait s&rsquo;ouvrir automatiquement sur une interface de chat. (Sinon, ouvrez-le et allez sur http://localhost:8080)</li>
+
+
+
+<li>Quand vous avez fini, retournez dans le terminal et faites <code>Ctrl-C</code> pour arrêter llamafile.</li>
+</ol>
+
+
+
+<p>Évidemment, Mozilla ne compte pas s&rsquo;arrêter là et continue de bosser comme des dingues pour suivre le rythme des nouveaux modèles qui sortent et avec le support des dernières architectures dès leur sortie.</p>
+
+
+
+<p>Il est même prévu qu&rsquo;on puisse bientôt générer nos propres llamafiles en un seul clic ! D&rsquo;ailleurs, Hugging Face est déjà dans la boucle pour héberger tout ce petit monde. Bref, je vous le dis, les amis, <strong><a href="https://github.com/Mozilla-Ocho/llamafile" rel="noopener" target="_blank">llamafile</a> </strong>est un projet à suivre absolument !</p>
+
+
+
+<p>Alors on dit merci qui ?</p>
+
+
+
+<p>Merci Mozilla ! 🙏🦊</p>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 17:13:17 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 17:13:17 +0000</pubDate>
+</item>
+<item>
+<title>Le marché gris des clés de jeux PC – Un voyage en zone trouble</title>
+<link>https://korben.info/le-marche-gris-des-cles-de-jeux-pc-un-voyage-en-zone-trouble.html</link>
+<guid>https://korben.info/le-marche-gris-des-cles-de-jeux-pc-un-voyage-en-zone-trouble.html</guid>
+<content:encoded><![CDATA[
+<div> clés de jeux, marché gris, Kinguin, G2A, Steam 
+
+Summary:<br>
+Le marché gris des clés de jeux consiste en la revente de clés de jeux à des prix abordables par des sites comme Kinguin, G2A et Instant Gaming, sans l'accord des développeurs ou éditeurs. Ces sites obtiennent les clés de manière peu transparente, en les achetant dans des régions où les prix sont plus bas ou en les volant. Cette pratique est désapprouvée par les développeurs et peut entraîner la désactivation des clés par les plateformes telles que Steam. Il est recommandé d'éviter d'acheter des clés sur ces sites et d'attendre les soldes officielles pour se procurer des jeux à des prix légitimes. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Le_marche_gris_des_cles_de_jeux_PC_-_Un_voyage_en_zone_t_94250ce4-64b6-44b0-95c1-6df2cdd4194b.webp" width="1920" /></p>
+<p>Je viens de regarder une chouette vidéo de <a href="https://www.youtube.com/@MonsieurPlouf" rel="noopener" target="_blank"><strong>Monsieur Plouf</strong></a> sur le marché de revente de clés de logiciels et jeux vidéos et comme j&rsquo;ai appris pleins de trucs, et bien je la partage avec vous. Perso, je m&rsquo;étais jamais intéressé au sujet plus que ça car je ne suis pas gamer mais je pensais quand même que c&rsquo;était un truc réglo.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1140113228" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors, c&rsquo;est quoi ce marché gris dont il parle ? </p>
+
+
+
+<p>En gros, c&rsquo;est un peu comme les brocantes du dimanche matin, sauf qu&rsquo;au lieu de chiner des vieilles babioles, on chine des <strong>clés de jeux</strong> pas chères. Ces clés permettent d&rsquo;activer un jeu sur une plateforme comme <strong>Steam</strong> et normalement, elles sont fournies par les développeurs ou les éditeurs. Mais sur le marché gris dont parle Monsieur Plouf, elles débarquent d&rsquo;on ne sait où, revendues par ces sites un peu louches.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p><strong>Kinguin</strong>, <strong>G2A</strong>, <strong>Instant Gaming</strong>&#8230; etc, vous les connaissez peut-être, ce sont les principaux acteurs du marché gris, et ils ne sont pas vraiment copains avec les développeurs ni les éditeurs car ils revendent des clés sans leur accord, et souvent à des prix défiant toute concurrence. Pour y parvenir, ces sites achètent en réalité des clés dans des pays où les jeux sont moins chers, genre en Argentine ou en Turquie, ou en récupère via des fuites diverses et variées pour les revendre partout ailleurs. Des combines pas très réglo que développeurs ne voient pas d&rsquo;un bon œil.</p>
+
+
+
+<p>Bref, si vous pouvez éviter, c&rsquo;est mieux surtout que Steam est parti en guerre contre ça et risque de désactiver vos clés, donc autant <strong>être patient et attendre les soldes</strong>.</p>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 16:30:00 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 16:30:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Submariner – Le meilleur client Subsonic dispo sous Mac !</title>
 <link>https://korben.info/submariner-client-subsonic-mac-musique-podcast-autoheberges.html</link>
 <guid>https://korben.info/submariner-client-subsonic-mac-musique-podcast-autoheberges.html</guid>
 <content:encoded><![CDATA[
-<div> Subsonic, Submariner, macOS, musique, client<br>
-<br>
+<div> Subsonic, Submariner, macOS, musique, client<br />
+<br />
 Summary: 
 Submariner est un client de musique compatible avec les serveurs Subsonic et alternatives, optimisé pour macOS. Il offre une interface conviviale, la possibilité de streamer musique et podcasts, des fonctionnalités avancées telles que la lecture des formats sans perte, mini lecteur, AirPlay, égaliseur, scrobbling, mode sombre, et support d'AppleScript. Des détails pratiques comme le glisser-déposer, le support du tactile, et le contrôle via des scripts AppleScript sont également disponibles. Le client est natif, rapide et parfaitement intégré à macOS, permettant aux utilisateurs de profiter pleinement de leur bibliothèque musicale auto-hébergée. Si vous êtes un utilisateur de serveur Subsonic et possédez un Mac, Submariner est un excellent choix pour gérer et écouter votre musique et vos podcasts dans un environnement optimisé pour macOS. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_submariner_yellow_submarine_macos_style_087053f5-766f-4c7d-b2a0-81e16d49d851.webp" width="1456" /></p>
@@ -58,9 +262,7 @@ Submariner est un client de musique compatible avec les serveurs Subsonic et alt
 <p>Merci à j0j0b4rj0 pour l&rsquo;info !</p>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>HTTP Toolkit – Un super outil pour simuler et debugger des requêtes HTTP(S)</title>
 <link>https://korben.info/decouvrez-http-toolkit-outil-parfait-deboguer-applications-web-mobiles.html</link>

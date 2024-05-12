@@ -589,3 +589,18 @@ Summarized using GPT-3.5-turbo
 Append: [Tunnel du Fréjus. "Dimanche, ça va être l'horreur" : échaudés par les bouchons monstres à l'aller, les automobilistes redoutent le retour](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/tunnel-du-frejus-dimanche-ca-va-etre-l-horreur-echaudes-par-les-bouchons-monstres-a-l-aller-les-automobilistes-redoutent-le-retour-2967719.html)
 append_entries: 1
 Finish: 2024-05-11 12:35:38.196492
+------------------------------------------------------
+Started: 2024-05-12 01:17:07.720305
+Existing_entries: 155
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [Deux femmes surprises avec 150 kilos de tabac dans leurs valises placées en garde à vue](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/deux-femmes-surprises-avec-150-kilos-de-tabac-dans-leurs-valises-placees-en-garde-a-vue-2968244.html)
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [Trafic routier : Bison Futé annonce un dimanche noir pour les retours du pont de l'Ascension](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/trafic-routier-bison-fute-annonce-un-dimanche-noir-pour-les-retours-du-pont-de-l-ascension-2968214.html)
+Token length: 407
+Summarized using GPT-3.5-turbo
+Append: [Retour du pont de l'Ascension, attention, Bison futé voit Noir !](https://france3-regions.francetvinfo.fr/bretagne/morbihan/retour-du-pont-de-l-ascension-attention-bison-fute-voit-noir-2968100.html)
+append_entries: 3
+Finish: 2024-05-12 01:17:20.743645

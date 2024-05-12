@@ -297,3 +297,15 @@ Existing_entries: 47
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-11 12:35:38.823702
+------------------------------------------------------
+Started: 2024-05-12 01:17:26.391643
+Existing_entries: 47
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [Intoxications dans le tunnel Louis-Hippolyte-Lafontaine: «on est quand même très inquiets»](https://www.journaldemontreal.com/2024/05/11/intoxications-dans-le-tunnel-louis-hippolyte-lafontaine-on-est-quand-meme-tres-inquiets)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Tunnel Louis-Hippolyte-La Fontaine: chantier mis sur pause après l'intoxication de deux travailleurs](https://www.journaldemontreal.com/2024/05/11/tunnel-louis-hippolyte-la-fontaine-chantier-mis-sur-pause-apres-lintoxication-de-deux-travailleurs)
+append_entries: 2
+Finish: 2024-05-12 01:17:33.483207

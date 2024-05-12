@@ -209,3 +209,9 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : "Il faut mixer emplois-salariés et emplois-indépendants, pour faire face aux périodes de pointe", assure la Fédération nationale des autoentrepreneurs](https://www.francetvinfo.fr/replay-radio/l-interview-eco/paris-2024-il-faut-mixer-emplois-salaries-et-emplois-independants-pour-faire-face-aux-periodes-de-pointe-assure-la-federation-nationale-des-autoentrepreneurs_6508298.html)
 append_entries: 1
 Finish: 2024-05-11 12:34:11.324459
+------------------------------------------------------
+Started: 2024-05-12 01:16:21.839774
+Existing_entries: 21
+Fetching from https://www.francetvinfo.fr/economie/autoentrepreneurs.rss
+append_entries: 0
+Finish: 2024-05-12 01:16:21.912450
