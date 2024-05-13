@@ -360,3 +360,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Pourquoi aller loin ? On a tout ici" : pour l'Ascension, les touristes suisses ont rempli les campings du Doubs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/70-de-la-clientele-est-suisse-quand-nos-voisins-helvetes-remplissent-les-campings-du-doubs-pour-l-ascension-2968517.html)
 append_entries: 1
 Finish: 2024-05-13 01:13:23.280244
+------------------------------------------------------
+Started: 2024-05-13 12:43:45.277307
+Existing_entries: 72
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Choose France : 100 millions d'euros investis en Bourgogne, une usine de gaz renouvelable construite à Dijon annonce François Patriat](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/choose-france-100-millions-d-euros-investis-en-bourgogne-une-usine-de-gaz-renouvelable-construite-a-dijon-annonce-francois-patriat-2968712.html)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [Les cascades du Hérisson dans le Jura sont-elles victimes du surtourisme ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/haut-jura/les-cascades-du-herisson-dans-le-jura-sont-elles-victimes-du-surtourisme-2968583.html)
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Les travaux de la place du 30 octobre ont commencé à Dijon : quel impact sur la circulation ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/video-les-travaux-de-la-place-du-30-octobre-ont-commence-a-dijon-quel-impact-sur-la-circulation-2964311.html)
+append_entries: 3
+Finish: 2024-05-13 12:43:58.030833

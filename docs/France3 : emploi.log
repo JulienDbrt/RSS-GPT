@@ -378,3 +378,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Montrer ma France, cette France des régions" : Yann Arthus-Bertrand photographie plus de 20 000 Français](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/montrer-ma-france-cette-france-des-regions-yann-arthus-bertrand-photographie-plus-de-20-000-francais-2968493.html)
 append_entries: 2
 Finish: 2024-05-13 01:13:36.747407
+------------------------------------------------------
+Started: 2024-05-13 12:44:01.218781
+Existing_entries: 78
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [Choose France 2024 : 9 entreprises étrangères implantées dans les Hauts-de-France vont investir massivement](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/choose-france-2024-9-entreprises-etrangeres-implantees-dans-les-hauts-de-france-vont-investir-massivement-2968655.html)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Une nouvelle usine du groupe pharmaceutique français Sanofi en projet à Vitry-sur-Seine, 350 emplois annoncés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/une-nouvelle-usine-du-groupe-pharmaceutique-francais-sanofi-en-projet-a-vitry-sur-seine-350-emplois-annonces-2968547.html)
+append_entries: 2
+Finish: 2024-05-13 12:44:11.642856

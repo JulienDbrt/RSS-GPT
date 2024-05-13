@@ -5,6 +5,434 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Homer – Un portail statique pour votre serveur</title>
+<link>https://korben.info/homer-dashboard-open-source-couteau-suisse-serveur.html</link>
+<guid>https://korben.info/homer-dashboard-open-source-couteau-suisse-serveur.html</guid>
+<content:encoded><![CDATA[
+<div> Docker, Self-hosted, YAML, Personnalisable, Tableau de bord
+<br>
+<br>
+Summary: 
+Homer est un outil open source qui permet d'organiser facilement ses services en ligne. Créé par Bastien Wirtz, il offre la possibilité de centraliser tous vos liens importants dans un tableau de bord statique personnalisable grâce à un fichier de configuration YAML. Homer est self-hosted, ce qui signifie que vous gérez entièrement son installation et sa configuration. Il est facilement accessible depuis n'importe quel navigateur et offre une interface responsive adaptée à tous les appareils. Grâce à ses fonctionnalités avancées telles que la recherche, les raccourcis clavier et la personnalisation infinie, Homer simplifie la gestion de votre bazar numérique. Il peut être installé rapidement via Docker ou manuellement pour plus de contrôle. Les utilisateurs de Kubernetes peuvent également déployer Homer facilement. En résumé, Homer est l'outil idéal pour organiser efficacement vos services en ligne et simplifier votre quotidien numérique. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="278" src="https://korben.info/app/uploads/2024/05/SCR-20240512-tdxk.webp" width="1000" /></p>
+<p>Salut les copains ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1375607378" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Aujourd&rsquo;hui, je vais vous parler d&rsquo;<strong>Homer</strong>, un outil open source qui va vous permettre d&rsquo;organiser vos services en ligne afin de ne plus vous perdre dans vos milliers d&rsquo;onglets ou encore de chercher pendant des heures le lien vers l&rsquo;interface d&rsquo;admin de votre NAS ou de votre Raspberry Pi.</p>
+
+
+
+<p>Homer est donc un <strong>tableau de bord statique</strong> ultra personnalisable, qui centralise tous vos liens importants, accessible d&rsquo;un simple clic depuis n&rsquo;importe quel navigateur. C&rsquo;est que c&rsquo;est vous qui le gérez de A à Z, puisque Homer est <strong>100% self-hosted et open source</strong> !</p>
+
+
+
+<p>Homer a été créé par Bastien Wirtz, un développeur français qui cherchait à simplifier l&rsquo;organisation de ses (trop) nombreux services. Son objectif : proposer un outil libre, simple, léger et ultra flexible pour y voir plus clair dans son bazar numérique. Pari réussi, puisque la communauté open source a rapidement adopté le projet en contribuant activement à son développement.</p>
+
+
+
+<p>Le principe est simple mais redoutablement efficace. Vous définissez la structure de votre tableau de bord dans un fichier de configuration au format <strong>YAML</strong>. Vous y renseignez vos services, vos liens, que vous pouvez organiser comme bon vous semble avec des icônes, des catégories, etc. Une fois votre configuration terminée, vous hébergez le tout sur le serveur web de votre choix (Apache, Nginx, ou même un serveur web Python pour les pros du Terminal), et voilà ! Votre Homer est prêt à l&#8217;emploi. Et grâce au format YAML, vous pouvez mettre à jour votre configuration à tout moment très facilement.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160397" height="580" src="https://korben.info/app/uploads/2024/05/SCR-20240512-tdzp.webp" width="1000" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-371134562" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et le résultat est à la hauteur de nos espérances : un superbe tableau de bord, avec une jolie grille responsive qui s&rsquo;adapte à tous les écrans, du smartphone au PC en passant par la tablette, et ça fonctionne même hors ligne grâce à la magie des PWA (Progressive Web Apps). Homer a pensé à tout, avec des fonctionnalités de recherche, des raccourcis clavier, et des possibilités de personnalisation quasi-infinies.</p>
+
+
+
+<p>Maintenant que vous êtes convaincus, passons à la pratique ! La méthode la plus simple pour installer Homer est d&rsquo;utiliser <strong>Docker</strong>. Avec une seule ligne de commande, vous pouvez lancer un conteneur Homer en précisant le chemin vers votre fichier de configuration et le port sur lequel accéder à l&rsquo;interface :</p>
+
+
+
+<p><code>docker run -d \
+  -p 8080:8080 \
+  -v /chemin/vers/votre/dossier/assets:/www/assets \
+  --restart=always \
+  b4bz/homer:latest</code></p>
+
+
+
+<p>Et hop, votre Homer est accessible à l&rsquo;adresse <code>http://localhost:8080</code> !</p>
+
+
+
+<p>Vous pouvez aussi configurer certaines options via des variables d&rsquo;environnement :</p>
+
+
+
+<ul>
+<li><code>INIT_ASSETS</code> (défaut : <code>1</code>) : Installe un fichier de configuration d&rsquo;exemple et des assets (favicons, etc.) pour vous aider à démarrer</li>
+
+
+
+<li><code>SUBFOLDER</code> (défaut : <code>null</code>) : Si vous souhaitez héberger Homer dans un sous-dossier (ex : <code>http://mon-domaine/homer</code>), renseignez ici le chemin du sous-dossier (ex : <code>/homer</code>)  </li>
+
+
+
+<li><code>PORT</code> (défaut : <code>8080</code>) : Pour changer le port par défaut</li>
+
+
+
+<li><code>IPV6_DISABLE</code> (défaut : <code>0</code>) : Mettez <code>1</code> pour désactiver l&rsquo;écoute sur IPv6</li>
+</ul>
+
+
+
+<p>Si vous n&rsquo;êtes pas fan de Docker, vous pouvez aussi installer Homer manuellement en récupérant les fichiers sur <a href="https://github.com/bastienwirtz/homer" rel="noopener" target="_blank">Github</a>, en les hébergeant sur votre serveur web, et en créant votre fichier de configuration YAML. C&rsquo;est un poil plus complexe, mais la <a href="https://github.com/bastienwirtz/homer/blob/main/docs/configuration.md" rel="noopener" target="_blank">documentation</a> est très complète.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-886733095" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Les utilisateurs de Kubernetes peuvent même déployer Homer via un <a href="https://github.com/djjudas21/charts/tree/main/charts/homer" rel="noopener" target="_blank">chart Helm</a> mis à disposition par la communauté. Pour vous donner une idée, voici un <a href="https://homer-demo.netlify.app/" rel="noopener" target="_blank">superbe tableau de bord de démo</a> réalisé avec Homer. Ça claque non ?</p>
+
+
+
+<p>Un grand merci à Lorenper pour nous avoir fait découvrir cette pépite.</p>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 11:00:00 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Contrôlez YouTube Shorts avec des raccourcis clavier !</title>
+<link>https://korben.info/youtube-shorts-controles-clavier-extension-chrome.html</link>
+<guid>https://korben.info/youtube-shorts-controles-clavier-extension-chrome.html</guid>
+<content:encoded><![CDATA[
+<div> Contrôles, Extension Chrome, YouTube Shorts, Mini vidéos, Raccourcis clavier
+
+Summary:<br><br>
+Baptisée « Controls for YouTube Shorts », cette extension Chrome facilite le contrôle des mini vidéos verticales. Elle permet de mettre en pause, régler le volume et avancer/reculer dans la vidéo sans quitter le clavier. Vous pouvez personnaliser l'extension en affichant une barre de contrôle toujours visible, en masquant le titre et la chaîne de la vidéo et en contrôlant le volume avec les flèches haut et bas. Des raccourcis clavier pratiques sont également disponibles, permettant de reculer ou avancer de 5 secondes dans la vidéo, régler le volume, couper le son, mettre en pause ou reprendre la lecture. Cette extension est un outil simple et efficace pour une meilleure expérience de visionnage de YouTube Shorts. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_A_new_Youtube_Logo_b3c998a6-3057-472b-a0df-5f11fd16d1ec.webp" width="1456" /></p>
+<p>Baptisée « <strong>Controls for YouTube Shorts</strong>« , cet extension Chrome vous permet de contrôler facilement la lecture de ces mini vidéos verticales qui ont tendance à vous faire perdre la notion du temps.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1438597280" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ainsi, vous pourrez enfin <strong>mettre en pause, régler le volume ou avancer/reculer</strong> dans la vidéo sans quitter votre clavier. C&rsquo;est simple et efficace ! Vous pouvez même personnaliser l&rsquo;extension selon vos préférences :</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-160465" height="400" src="https://korben.info/app/uploads/2024/05/vsauceunnamed.webp" style="width: 368px; height: auto;" width="640" /></figure></div>
+
+
+<ul>
+<li>Afficher une barre de contrôle toujours visible</li>
+
+
+
+<li>Masquer le titre et la chaîne de la vidéo pour vous concentrer sur l&rsquo;essentiel</li>
+
+
+
+<li>Contrôler le volume avec les flèches haut et bas sans passer par les touches majuscule ou commande</li>
+</ul>
+
+
+
+<p>L&rsquo;extension propose aussi des <strong>raccourcis clavier bien pensés</strong> :</p>
+
+
+
+<ul>
+<li>Flèches gauche et droite pour reculer ou avancer de 5 secondes dans la vidéo</li>
+
+
+
+<li>Majuscule ou commande + flèches haut et bas pour régler le volume </li>
+
+
+
+<li>Touche « M » pour couper ou remettre le son</li>
+
+
+
+<li>Barre d&rsquo;espace pour mettre en pause ou reprendre la lecture</li>
+</ul>
+
+
+
+<p>Si vous voulez tester, rendez-vous sur le <a href="https://chromewebstore.google.com/detail/controls-for-youtube-shor/daocpklojfnjgomjaemhhibodkpcjlpe" rel="noopener" target="_blank">Chrome Web Store</a> pour la télécharger.</p>
+
+
+
+<p><strong>PS</strong> : Un grand merci à <strong>Lorenper</strong> pour m&rsquo;avoir signalé cette extension.</p>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 07:21:01 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 07:21:01 +0000</pubDate>
+</item>
+<item>
+<title>3D Builder – Le logiciel de modélisation 3D gratuit de Microsoft</title>
+<link>https://korben.info/3d-builder-logiciel-modelisation-3d-gratuit-microsoft.html</link>
+<guid>https://korben.info/3d-builder-logiciel-modelisation-3d-gratuit-microsoft.html</guid>
+<content:encoded><![CDATA[
+<div> 3D Builder, Microsoft, modélisation 3D, gratuit, création<br>
+<br>
+Summary:
+3D Builder est un logiciel de modélisation 3D gratuit de Microsoft, lancé en 2013 pour démocratiser la création 3D. Il utilise la modélisation par assemblage de formes simples pour concevoir des objets 3D, avec possibilité d'ajouter textures et couleurs. Il offre une bibliothèque de modèles prêts à personnaliser et facilite l'exportation aux formats STL, OBJ ou 3MF pour l'impression 3D. Le logiciel détecte et répare les défauts des modèles pour éviter les ratés. Disponible sur divers supports, y compris les écrans tactiles, 3D Builder est adapté aux makers et à l'impression 3D. L'outil est convivial et accessible, idéal pour les débutants souhaitant se lancer dans la création 3D. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="768" src="https://korben.info/app/uploads/2024/03/apps.1331.9007199266246359.dc84226a-a739-4a01-a804-27db270db7c7.webp" width="1366" /></p>
+<p>Vous rêvez de vous lancer dans la création 3D mais vous ne savez pas trop par où commencer ? Ne cherchez plus, j&rsquo;ai ce qu&rsquo;il vous faut ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-360137692" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ca s&rsquo;appelle <strong><a href="https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=fr-FR&amp;gl=FR" rel="noopener" target="_blank">3D Builder</a></strong>, et c&rsquo;est le logiciel de modélisation 3D gratuit de Microsoft. Il est plutôt discret dans Windows 10/11 mais une fois que vous l&rsquo;aurez trouvé, il va vous permettre de concevoir vos premiers modèles 3D en quelques clics, sans vous prendre la tête.</p>
+
+
+
+<p>Mais avant, petite mise en contexte. 3D Builder est sorti en 2013, à une époque où Microsoft misait gros sur l&rsquo;impression 3D. Ils voulaient démocratiser la création 3D auprès du grand public en proposant un outil simple et accessible à tous. Quelques années après, on peut dire que le pari est réussi, puisque 3D Builder est devenu une référence en la matière.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157819" height="576" src="https://korben.info/app/uploads/2024/03/apps.1331.9007199266246359.dc84226a-a739-4a01-a804-27db270db7c7-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>L&rsquo;outil utilise ce qu&rsquo;on appelle la <a href="https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie_de_construction_de_solides" rel="noopener" target="_blank">modélisation par géométrie de construction de solides</a>. Derrière ce nom barbare se cache un principe tout bête : on crée des objets 3D en assemblant des formes simples comme des cubes, des sphères ou des pyramides. Un peu comme les Lego, mais en version numérique ! </p>
+
+
+
+<p>Avec ce principe, vous pouvez empiler, soustraire, intersecter ces formes pour obtenir le résultat souhaité.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1439714106" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Sur 3D Builder vous pouvez donc faire ça et ensuite ajouter des textures, des couleurs, jouer avec la transparence pour un rendu plus réaliste&#8230;etc. Et si vous n&rsquo;avez pas envie de partir de zéro, pas de panique. puisque Microsoft propose une bibliothèque de modèles 3D tout prêts que vous pouvez télécharger et personnaliser à votre guise.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157820" height="576" src="https://korben.info/app/uploads/2024/03/apps.4376.9007199266246359.33efc2c8-ed23-4208-97f9-a40a7dd10933-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>Ce que j&rsquo;aime avec 3D Builder, c&rsquo;est qu&rsquo;il pense aussi aux makers et à l&rsquo;impression 3D. Vous pouvez exporter vos créations aux formats STL, OBJ ou 3MF, les plus courants pour l&rsquo;impression 3D. Et si votre modèle a quelques défauts, pas de souci, 3D Builder est capable de les détecter et de les réparer automatiquement. Avec ça, fini les ratés à l&rsquo;impression !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157821" height="576" src="https://korben.info/app/uploads/2024/03/apps.29560.9007199266246359.0dead992-b740-4a30-8f18-5d9d45de43f7-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>Autre bon point, 3D Builder est disponible sur une multitude de supports. Que vous soyez sur PC, tablette, smartphone, Xbox ou même HoloLens (lol), vous pouvez modéliser partout, tout le temps. Microsoft a même développé une version spéciale pour les écrans tactiles.</p>
+
+
+
+<p>Et le meilleur dans tout ça, c&rsquo;est que c&rsquo;est gratuit. Si ça vous branche, y&rsquo;a plus qu&rsquo;à télécharger <strong><a href="https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=fr-FR&amp;gl=FR" rel="noopener" target="_blank">3D Builder</a></strong> !</p>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>LAMI – La borne solaire anti-moustiques DIY, écologique et accessible à tous</title>
+<link>https://korben.info/borne-solaire-anti-moustiques-ecologique-accessible-lami.html</link>
+<guid>https://korben.info/borne-solaire-anti-moustiques-ecologique-accessible-lami.html</guid>
+<content:encoded><![CDATA[
+<div> moustiques, borne anti-moustiques LAMI, leurres olfactifs, autonomie énergétique, fabrication DIY
+
+Summary:
+La borne anti-moustiques LAMI est une invention française qui utilise des leurres olfactifs pour piéger les moustiques, tout en étant autonome en énergie grâce à son panneau solaire. Positionnée correctement, elle peut réduire de 80% la présence de moustiques en 2 à 4 semaines. Les leurres olfactifs doivent être renouvelés mensuellement pour une efficacité optimale. L'entreprise LAMI propose également les plans de fabrication de la borne gratuitement, encourageant ainsi le bricolage et la communauté des makers. Ce projet collaboratif et écologique vise à démocratiser une technologie efficace pour lutter contre les moustiques, tout en favorisant le partage et l'autonomie. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="526" src="https://korben.info/app/uploads/2024/05/SCR-20240513-aio.webp" width="1619" /></p>
+<p>Vous en avez assez des moustiques qui vous empêchent de profiter de votre jardin ? Moi aussi ! Mais j&rsquo;ai peut-être la solution pour vous : la <strong>borne anti-moustiques LAMI</strong> ! Et c&rsquo;est même une entreprise française qui l&rsquo;a inventée ^^.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1961426553" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors, qu&rsquo;est-ce que c&rsquo;est exactement ? </p>
+
+
+
+<p>Et bien il s&rsquo;agit d&rsquo;une borne solaire qui imite la présence humaine pour attirer les moustiques et les piéger en utilisant des leurres olfactifs comme des <strong>phéromones</strong> et du <strong>CO2</strong> pour faire croire aux moustiques qu&rsquo;un délicieux repas les attend. Et quand ils s&rsquo;approchent, surprise ! Ils se font aspirer dans un filet.</p>
+
+
+
+<p>Rassurez-vous, la borne ne piège que les moustiques et pas les autres insectes utiles comme les abeilles ou les papillons. C&rsquo;est un système très <strong>sélectif</strong> qui en plus fonctionne sur tous les types de moustiques, même les redoutables moustiques tigres qui nous pourrissent la vie.</p>
+
+
+
+<p>Le top du top, c&rsquo;est que cette borne est totalement <strong>autonome en énergie</strong> grâce à son panneau solaire et sa batterie. Vous pouvez même détacher le panneau pour le recharger au soleil tranquillement. Pratique si vous voulez déplacer la borne. Et niveau portée, on est sur un rayon d&rsquo;action de 20 à 30 mètres. Largement suffisant pour protéger votre petit coin de paradis.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-160443" height="723" src="https://korben.info/app/uploads/2024/05/SCR-20240513-ah2-2.webp" style="width: 354px; height: auto;" width="618" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-91149027" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Maintenant, parlons un peu technique. Les leurres olfactifs, il faut les renouveler tous les mois et pour une efficacité optimale, il faut bien positionner la borne : près de la végétation mais pas trop proche de vos espaces de vie. Sinon, vous risquez d&rsquo;attirer les moustiques vers vous au lieu de les piéger. Par contre, il faut être un peu patient et une fois la borne installée, comptez 2 à 4 semaines pour voir une réduction de 80% des moustiques. Le temps que les œufs éclosent et que les adultes se fassent avoir. C&rsquo;est le cycle de la vie, on n&rsquo;y peut rien. 🤷‍♂️</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160447" height="539" src="https://korben.info/app/uploads/2024/05/SCR-20240513-aix.webp" width="912" /></figure></div>
+
+
+<p>Mais ce qui est génial avec LAMI, c&rsquo;est leur état d&rsquo;esprit car ils ont carrément rendu les <strong><a href="https://www.anti-moustiques-intelligent.com/shop" rel="noopener" target="_blank">fichiers de construction</a></strong> de la borne accessibles à tous, gratuitement ! Vous pouvez les télécharger sur leur site web et fabriquer votre propre borne si vous êtes un peu bricoleur. C&rsquo;est top pour la communauté des makers et des bidouilleurs. Et si le bricolage n&rsquo;est pas votre truc, pas de souci, vous pouvez aussi acheter la borne en kit prête à monter.</p>
+
+
+
+<p>Allez donc faire un tour sur leur site <a href="https://www.anti-moustiques-intelligent.com/" rel="noopener" target="_blank">anti-moustiques-intelligent.com</a>, pour y trouver plein d&rsquo;infos sur le projet, l&rsquo;équipe, le fonctionnement de la borne&#8230;etc. Je trouve cette initiative super cool car ils démocratisent une technologie efficace et écolo pour lutter contre les moustiques, tout en favorisant le partage et l&rsquo;autonomie. C&rsquo;est le genre de projet collaboratif que j&rsquo;adore.</p>
+
+
+
+<p>Allez, je vous laisse, je retourne entrainer mes grenouilles pour attraper les moustiques. Que la force soit avec vous dans cette guerre sans merci contre ces satanées bestioles !</p>
+
+
+
+<p><em>Merci Lorenper pour l&rsquo;info !</em></p>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 05:35:40 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 05:35:40 +0000</pubDate>
+</item>
+<item>
+<title>Stable Diffusion et SDXL boostés grâce aux Modèles de Consistance Latente (LCM) et aux LoRAs</title>
+<link>https://korben.info/generation-images-ultra-rapide-modeles-latents-consistants.html</link>
+<guid>https://korben.info/generation-images-ultra-rapide-modeles-latents-consistants.html</guid>
+<content:encoded><![CDATA[
+<div> Stable Diffusion, SDXL, Modèles de Consistance Latente, LCM, inférence ultra-rapide
+
+Summary:<br>
+Les Modèles de Consistance Latente (LCM) permettent d'accélérer le processus de génération d'images par IA, réduisant le nombre d'étapes nécessaires tout en maintenant la qualité. Avec la méthode LCM LoRA, on peut appliquer cette optimisation à n'importe quel modèle SDXL ou Stable Diffusion fine-tuné. Cela ouvre de nouveaux cas d'usage passionnants, comme rendre les outils génératifs accessibles à tous, permettre une itération rapide pour les artistes et chercheurs, proposer des services d'images personnalisées en quasi temps-réel et réduire les coûts. L'intégration dans la bibliothèque de HuggingFace facilite l'implémentation de cette technologie. En testant la génération d'images à toute vitesse, on peut découvrir de nouvelles possibilités créatives et pratiques pour l'IA. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="625" src="https://korben.info/app/uploads/2024/05/SCR-20240513-8ya.webp" width="1867" /></p>
+<p>Vous connaissez sûrement <strong>Stable Diffusion</strong> et son grand frère <strong>SDXL</strong>, ces modèles de génération d&rsquo;images par IA qui permettent de créer des imges à partir de simples descriptions textuelles. Mais saviez-vous qu&rsquo;il est désormais possible d&rsquo;accélérer considérablement leur pipeline d&rsquo;inférence grâce aux <strong>Modèles de Consistance Latente</strong> (ou <strong>LCM</strong>) ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-779882683" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Développés par <a href="https://latent-consistency-models.github.io/" rel="noopener" target="_blank">une équipe chinoise</a>, les LCM sont une technique de distillation qui permet de réduire drastiquement le nombre d&rsquo;étapes nécessaires pour générer une image avec Stable Diffusion ou SDXL, tout en conservant une qualité optimale. Au lieu des 25 à 50 étapes habituelles, on peut descendre à seulement 4 à 8 étapes ! </p>
+
+
+
+<p>Concrètement, cela signifie des <strong>gains de vitesse d&rsquo;un facteur 10 sur un Mac récent</strong>, ou la possibilité de <strong>générer des images en moins d&rsquo;une seconde sur une RTX 3090</strong>. De quoi modifier les usages et les workflows, en rendant la génération d&rsquo;images par IA accessible à tous, même sans matériel haut de gamme.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-160420" height="510" src="https://korben.info/app/uploads/2024/05/SCR-20240513-8yw-1024x510.webp" width="1024" /></figure>
+
+
+
+<p>Mais le plus intéressant, c&rsquo;est que grâce à une nouvelle méthode appelée <strong>LCM LoRA</strong>, il est possible d&rsquo;appliquer cette optimisation à n&rsquo;importe quel modèle SDXL ou Stable Diffusion fine-tuné, sans avoir à le distiller entièrement. Pour rappel, les <strong>LoRAs</strong> (pour <em>Low-Rank Adaptation</em>) sont des petits adaptateurs qui viennent se greffer au modèle pour lui donner des super-pouvoirs, un peu comme des plugins. Ils permettent ainsi de combiner les avantages des LCM (inférence ultra-rapide) avec la flexibilité du fine-tuning.</p>
+
+
+
+<p>Et tout cela est parfaitement intégré dans la bibliothèque <strong><a href="https://github.com/huggingface/diffusers" rel="noopener" target="_blank">Diffusers</a></strong> de HuggingFace. Ainsi, avec seulement quelques lignes de code, vous pouvez charger un pipeline SDXL, lui appliquer un LCM LoRA, changer le scheduler et hop, vous voilà parés pour de l&rsquo;inférence à la vitesse de l&rsquo;éclair !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-160419" height="807" src="https://korben.info/app/uploads/2024/05/SCR-20240513-881-1024x807.webp" style="width: 673px; height: auto;" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-706732680" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Cette accélération ouvre la voie à de nouveaux cas d&rsquo;usage passionnants pour la génération d&rsquo;images par IA :</p>
+
+
+
+<ul>
+<li><strong>Accessibilité</strong> : les outils génératifs deviennent utilisables par tous, même sans GPU dernier cri.</li>
+
+
+
+<li><strong>Itération rapide</strong> : les artistes et chercheurs peuvent tester plus d&rsquo;idées et de variantes en un temps record.  </li>
+
+
+
+<li><strong>Génération à la demande</strong> : on peut imaginer des services d&rsquo;images personnalisées en quasi temps-réel.</li>
+
+
+
+<li><strong>Réduction des coûts</strong> : l&rsquo;inférence ultra-rapide permet d&rsquo;envisager des charges de travail en production, même sur CPU ou avec un budget limité.</li>
+</ul>
+
+
+
+<p>Et pour plus d&rsquo;info, voici quelques liens :</p>
+
+
+
+<ul>
+<li>La <a href="https://latent-consistency-models.github.io/">page du projet LCM</a> et le <a href="https://huggingface.co/papers/2310.04378">papier de recherche</a></li>
+
+
+
+<li>Des <a href="https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model">démos en live</a> pour tester la technologie</li>
+
+
+
+<li>Les <a href="https://github.com/huggingface/diffusers/blob/main/examples/consistency_distillation/README_sdxl.md">scripts d&rsquo;entraînement</a> pour créer vos propres modèles LCM</li>
+</ul>
+
+
+
+<p>Prêts à générer des images à toute vitesse ? </p>
+
+
+
+<p>À vous de jouer et encore merci à Lorenper pour l&rsquo;info !</p>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 04:30:03 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 04:30:03 +0000</pubDate>
+</item>
+<item>
+<title>Quelles extensions IA récoltent le plus vos données ?</title>
+<link>https://korben.info/extensions-ia-donnees-personnelles.html</link>
+<guid>https://korben.info/extensions-ia-donnees-personnelles.html</guid>
+<content:encoded><![CDATA[
+<div> extensions Chrome, Intelligence artificielle, données personnelles, confidentialité en ligne, outil de Surfshark
+Summary: 
+Les extensions Chrome utilisant l'intelligence artificielle sont souvent problématiques en termes de collecte de données personnelles, avec 70% considérées à risques élevés. Les extensions d'écriture assistée par IA sont particulièrement concernées. Il est crucial de protéger sa confidentialité en ligne face à ces risques. L'outil de Surfshark, Incogni, permet de limiter la rétention des données personnelles par les data brokers, renforçant ainsi la protection des utilisateurs. Cet outil agit comme un intermédiaire pour demander le retrait des profils des utilisateurs des bases de données des brokers, assurant une meilleure confidentialité en ligne à long terme. Le service est disponible à un prix abordable avec une garantie satisfait ou remboursé de 30 jours. <div>
+<p><img alt="Bannière Incogni" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="500" src="https://korben.info/app/uploads/2023/11/incogni-banniere.jpg" width="1500" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat <a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">avec Incogni</a> &#8212;</p>
+
+
+
+<p>Salut les amis, j&rsquo;espère que vous profitez bien de ce printemps <s>dégueulasse</s> avant la période trouble de la fin d&rsquo;année scolaire qui arrive. De mon côté, comme vous l&rsquo;avez remarqué je charbonne pas mal en ce moment avec un rythme de publication assez poussé. Le site a 20 ans et presque toutes ses dents &#8230; la seconde jeunesse n&rsquo;est pas un mythe. Et je vous teste du coup&nbsp;pas mal d&rsquo;outils IA variés et éclectiques.&nbsp;L&rsquo;occasion de rappeler que tout n&rsquo;est pas (p)rose au pays du prompt.</p>
+
+
+
+<p>Récemment je vous ai mis en garde sur les pratiques des <a href="https://korben.info/incogni-applications-shopping.html">applications d&rsquo;achat de vêtements</a>, les applis destinées aux enfants et même <a href="https://korben.info/incogni-et-les-differents-leaks-du-milieu-de-lautomobile.html">les voitures intelligentes</a>. Vous pensiez que ce serait difficile de faire pire ? Et bien, détrompez-vous, car avec la mode de l&rsquo;Intelligence artificielle, il semble « normal » de voir naitre des outils destinés à récolter un max d&rsquo;informations personnelles à notre propos. Surtout si ce sont des extensions qui tournent sur Google Chrome (que vous devriez avoir remplacé par Firefox ou par Brave au minimum depuis 1974).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://kbn.im/incogni6" width="480" /></figure></div>
+
+
+<p>Si vous touchez à l&rsquo;IA, vous savez qu&rsquo;elles sont capables de rendre d&rsquo;énormes services et de vous faire gagner du temps. Le souci c&rsquo;est que cela les rend d&rsquo;autant plus alléchantes à installer et à utiliser. Et leurs concepteurs l&rsquo;ont bien compris. Les chercheurs d&rsquo;Incogni ont donc passé au grill plus de 70 extensions Chrome pour voir si le résultat est catastrophique. Ou tout du moins qui s&rsquo;en sort le moins bien et qui récolte quoi à votre propos.</p>
+
+
+
+<p>Et l&rsquo;état des lieux est &#8230; cata. Encore plus que pour les catégories précédemment citées. Ici ce sont pas moins de 70% des apps qui sont problématiques, mais qui en plus sont considérés à risques élevés. Par exemple 100% des&nbsp;extensions dédiées à l&rsquo;écriture assistée par IA sont concernées (ouch). 60% récoltent vos données personnelles et surtout 44% récupèrent des infos qui peuvent vous identifier directement (adresse mail, téléphone, nom et prénom&nbsp;&#8230;). Du pain béni pour les <a href="https://korben.info/risques-lies-aux-data-brokers.html">data brokers</a>.</p>
+
+
+
+<p>Du côté des permissions demandées, sans surprises, ce sont les extensions de type assistant personnel qui se gavent le plus. Habitudes de surf, historique web, localisation, identifiants de connexions &#8230; certaines peuvent même aller jusqu&rsquo;à injecter du code JavaScript dans les pages que vous utilisez, avec tous les risques que cela comporte.&nbsp;Parmi les apps inspectées, de&nbsp;grands noms comme Grammarly, Quillbot, Jasper&nbsp;ou WebChatGPT. Est-ce que ce sera utilisé à vos dépens ? Qui sait. Si vous voulez creuser les données, <a href="https://docs.google.com/spreadsheets/d/1axYMQkeHOhVdUord8d-jbgC3oGRV7AYbv36UXSOmpdM/edit?usp=sharing" rel="noreferrer noopener" target="_blank">c&rsquo;est par ici</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-157956" height="373" src="https://korben.info/app/uploads/2024/03/incogni-scams-potentiels.webp" width="800" /></figure></div>
+
+
+<p>Bref, l&rsquo;IA ne déroge pas à la règle habituelle&nbsp;du web : lorsqu&rsquo;une nouvelle technologie débarque, c&rsquo;est toujours un peu le far-west. Et pour se protéger un minimum il n&rsquo;y a pas tant d&rsquo;outils que ça, d&rsquo;ou l&rsquo;utilité d&rsquo;<a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">un service comme Incogni</a>.</p>
+
+
+
+<p>En limitant la durée de rétention de données personnelles stockées chez les data brokers, Incogni contribue à renforcer votre confidentialité en ligne et à réduire votre exposition.&nbsp;L&rsquo;outil ne peut pas empêcher ce genre d&rsquo;applications de récupérer vos infos (il n&rsquo;y a que vous qui pouvez le faire en étant très attentif à votre comportement en ligne, en n’installant rien d&rsquo;inutile, etc.). Par contre il va empêcher les brokers qui achètent ou se procurent votre profil de l&rsquo;utiliser et le revendre.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="234" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3E0ODB3a2Y5aWU3cGVha25ycHE0aGM1d3BqOXZncGdrYTA0ZjAyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YLAs5Y8aoOjkI/giphy.gif" width="320" /></figure></div>
+
+
+<p>Via une interface simple à prendre en main, l&rsquo;outil de Surfshark va servir d&rsquo;intermédiaire. Il va analyser sa liste de courtiers sous surveillance (environ 200), voir si vous apparaissez dans leurs bases et si c&rsquo;est le cas leur envoyer un mail pour demander un retrait. Et relancer sans arrêt jusqu&rsquo;à ce que le broker effectue la suppression. En plus de voir l&rsquo;avancée des étapes sur votre compte, vous pouvez aussi connaitre le niveau de dangerosité des différents brokers. Un retour&nbsp;sur mon test personnel <a href="https://korben.info/incogni-apres-1-an.html">est à lire ici</a>.</p>
+
+
+
+<p>Il fait aussi du suivit long terme. Donc dès qu&rsquo;un vilain pas beau vous a effacé, vous savez que c&rsquo;est pour de bon (s&rsquo;il tente un coup en scred il sera rappelé à l&rsquo;ordre). Et savoir qu&rsquo;il ne fera plus d&rsquo;argent sur votre dos est toujours une petite satisfaction. Le prix du service reste inchangé, vous pouvez vous abonner pour moins de 94€ TTC/an. Et cela sans risques grâce à la garantie satisfait ou remboursé de 30 jours.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.incogni.io/SH1gQ" rel="noreferrer noopener" target="_blank">Lancez-vous, testez Incogni !</a></h2>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 03:21:03 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 03:21:03 +0000</pubDate>
+</item>
+
+<item>
 <title>CodingFont – Trouvez la police parfaite pour votre éditeur de code</title>
 <link>https://korben.info/codefont-trouver-police-parfaite-editeur-code.html</link>
 <guid>https://korben.info/codefont-trouver-police-parfaite-editeur-code.html</guid>
@@ -37,16 +465,15 @@ Les polices de caractères peuvent avoir un impact important sur le confort et l
 <p>Pour tester et trouver la police qui <a href="https://www.codingfont.com/" rel="noopener" target="_blank">vous convient le mieux c&rsquo;est par ici.</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 19:34:31 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 19:34:31 +0000</pubDate>
 </item>
 <item>
 <title>VirtualBuddy – Virtualisation de macOS 12+ sur Apple Silicon !</title>
 <link>https://korben.info/virtualbuddy-virtualisation-macos-12-apple-silicon.html</link>
 <guid>https://korben.info/virtualbuddy-virtualisation-macos-12-apple-silicon.html</guid>
 <content:encoded><![CDATA[
-<div> macOS, développement, VirtualBuddy, virtualisation, test<br>
-<br>
-Summary:<br>
+<div> macOS, développement, VirtualBuddy, virtualisation, test<br />
+<br />
+Summary:<br />
 VirtualBuddy est un outil open-source qui facilite la virtualisation de macOS 12 et plus sur les machines Apple Silicon, ainsi que sur certaines distros Linux ARM comme Ubuntu. Il permet d'installer différentes versions de macOS facilement, de personnaliser la configuration matérielle, de gérer le réseau et le partage de fichiers, et offre des fonctionnalités avancées de sécurité comme le clonage APFS. Il permet également le partage de dossiers entre la VM et le Mac hôte et offre la possibilité de monter les dossiers partagés dans la VM via une commande dans le Terminal. En résumé, VirtualBuddy est un outil gratuit et open-source idéal pour les développeurs sur Mac qui souhaitent tester leurs applications sur différentes versions de macOS de manière simple et efficace. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="344" src="https://korben.info/app/uploads/2024/05/SCR-20240512-smij-2.webp" width="1000" /></p>
 <p>Vous êtes développeur sur Mac et vous galérez à tester vos apps sur différentes versions de macOS, surtout les bêtas ? J&rsquo;ai ce qu&rsquo;il vous faut, et ça s&rsquo;appelle <a href="https://github.com/insidegui/VirtualBuddy" rel="noopener" target="_blank">VirtualBuddy</a> ! </p>
@@ -96,7 +523,6 @@ VirtualBuddy est un outil open-source qui facilite la virtualisation de macOS 12
 <p>Merci à <strong>Lorenper</strong> pour l&rsquo;info !!</p>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 19:21:01 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 19:21:01 +0000</pubDate>
 </item>
 <item>
 <title>Zelda 64 Recompilé – Un portage natif avec Ray Tracing et 4K</title>
@@ -104,7 +530,7 @@ VirtualBuddy est un outil open-source qui facilite la virtualisation de macOS 12
 <guid>https://korben.info/zelda-64-recompiled-portage-natif-ray-tracing-4k.html</guid>
 <content:encoded><![CDATA[
 <div> recompilation N64, ROM, Windows / Linux, Majora's Mask, Ocarina of Time
-Summary:<br><br>Un nouvel outil révolutionnaire appelé N64: Recompiled permet désormais de convertir une ROM N64 en un exécutable Windows / Linux fonctionnel en quelques minutes seulement. Grâce à cette recompilation statique, les jeux comme Majora's Mask peuvent être joués sur PC avec une précision quasi parfaite des effets spéciaux, des temps de chargement instantanés, et une stabilité remarquable. De plus, des améliorations telles que le ray tracing en temps réel sont possibles grâce aux recomps profitant des améliorations du moteur RT64. Ces portages rapides offrent une nouvelle vie aux classiques de la N64, tout en permettant une expérience de jeu optimale. Le projet, en constante évolution, prévoit également d'intégrer Ocarina of Time et d'autres jeux, ainsi que des fonctionnalités comme le DLSS, des textures HD et des caméras libres. Les développeurs peuvent contribuer au projet sur GitHub pour recompiler d'autres jeux et explorer de nouvelles possibilités. <div>
+Summary:<br /><br />Un nouvel outil révolutionnaire appelé N64: Recompiled permet désormais de convertir une ROM N64 en un exécutable Windows / Linux fonctionnel en quelques minutes seulement. Grâce à cette recompilation statique, les jeux comme Majora's Mask peuvent être joués sur PC avec une précision quasi parfaite des effets spéciaux, des temps de chargement instantanés, et une stabilité remarquable. De plus, des améliorations telles que le ray tracing en temps réel sont possibles grâce aux recomps profitant des améliorations du moteur RT64. Ces portages rapides offrent une nouvelle vie aux classiques de la N64, tout en permettant une expérience de jeu optimale. Le projet, en constante évolution, prévoit également d'intégrer Ocarina of Time et d'autres jeux, ainsi que des fonctionnalités comme le DLSS, des textures HD et des caméras libres. Les développeurs peuvent contribuer au projet sur GitHub pour recompiler d'autres jeux et explorer de nouvelles possibilités. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="409" src="https://korben.info/app/uploads/2024/05/SCR-20240512-nqzg.webp" width="1000" /></p>
 <p>L&rsquo;émulation N64 a longtemps été limitée par des logiciels datant des années 2000, basés sur d&rsquo;anciens systèmes de plugins. Mais ça, c&rsquo;était avant !</p>
 
@@ -151,9 +577,7 @@ Summary:<br><br>Un nouvel outil révolutionnaire appelé N64: Recompiled permet 
 <p>Pour l&rsquo;instant, <a href="https://github.com/Mr-Wiseguy/Zelda64Recomp/releases" rel="noopener" target="_blank">seul le recomp Majora&rsquo;s Mask est disponible</a>, mais comme je le disais en intro, Ocarina of Time suivra bientôt. À terme, l&rsquo;idée est de combiner les deux jeux dans un même launcher, de proposer des mods et des packs de textures, voire une version web pour jouer dans le navigateur. Si vous êtes développeur, vous pouvez même contribuer au projet sur GitHub et tenter de recompiler d&rsquo;autres jeux. Les portes sont grandes ouvertes !</p>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 13:28:47 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 13:28:47 +0000</pubDate>
 </item>
-
 <item>
 <title>En manque d’inspiration avec vos prompts IA ? Allez jeter un œil à la bibliothèque d’Anthropic</title>
 <link>https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html</link>

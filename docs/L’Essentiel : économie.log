@@ -466,3 +466,18 @@ Existing_entries: 154
 Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
 append_entries: 0
 Finish: 2024-05-13 01:14:09.872738
+------------------------------------------------------
+Started: 2024-05-13 12:44:54.511217
+Existing_entries: 154
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [Emploi au Luxembourg: Quelle commune affiche le plus fort taux de chômage?](https://www.lessentiel.lu/fr/story/au-luxembourg-quelle-commune-affiche-le-plus-fort-taux-de-chomage-103104410)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [Concurrence: Booking dans le viseur de l'Union européenne](https://www.lessentiel.lu/fr/story/concurrence-booking-dans-le-viseur-de-lunion-europeenne-103104408)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Économie: Microsoft investit 4 milliards d’euros en France](https://www.lessentiel.lu/fr/story/economie-microsoft-investit-4-milliards-deuros-en-france-103104328)
+append_entries: 3
+Finish: 2024-05-13 12:45:10.929096

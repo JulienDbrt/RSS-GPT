@@ -333,3 +333,15 @@ Summarized using GPT-3.5-turbo
 Append: [LGV: Paris-Toulouse en 3h10, les travaux ont enfin commencé](https://www.bfmtv.com/economie/entreprises/transports/lgv-paris-toulouse-en-3h10-les-travaux-ont-enfin-commence_AV-202405120286.html)
 append_entries: 1
 Finish: 2024-05-13 01:11:41.754509
+------------------------------------------------------
+Started: 2024-05-13 12:39:33.224362
+Existing_entries: 63
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [En Espagne, Uber va vendre des billets de train, notamment pour les Ouigo](https://www.bfmtv.com/economie/entreprises/transports/en-espagne-uber-va-vendre-des-billets-de-train-notamment-pour-les-ouigo_AV-202405130407.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [‘‘Gravel’’ : la mode des vélos à tout faire](https://www.bfmtv.com/economie/entreprises/transports/gravel-la-mode-des-velos-a-tout-faire_VN-202405130180.html)
+append_entries: 2
+Finish: 2024-05-13 12:39:40.825570

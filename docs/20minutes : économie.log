@@ -341,3 +341,12 @@ Summarized using GPT-3.5-turbo
 Append: [McCain compte investir 350 millions d’euros pour produire davantage de frites en France](https://www.20minutes.fr/economie/4090645-20240512-mccain-compte-investir-350-millions-euros-produire-davantage-frites-france)
 append_entries: 1
 Finish: 2024-05-13 01:11:05.570064
+------------------------------------------------------
+Started: 2024-05-13 12:36:26.659664
+Existing_entries: 59
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Sommet Choose France : 15 milliards d’euros de projets d’investissements annoncés, dont 4 par Microsoft](https://www.20minutes.fr/economie/4090690-20240513-sommet-choose-france-15-milliards-euros-projets-investissements-annonces-dont-4-microsoft)
+append_entries: 1
+Finish: 2024-05-13 12:36:30.734021

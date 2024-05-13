@@ -724,3 +724,30 @@ Summarized using GPT-3.5-turbo
 Append: [Foire de Bras-Panon : environ 150 000 visiteurs pour cette 45ème édition](https://la1ere.francetvinfo.fr/reunion/bras-panon/foire-de-bras-panon-environ-150-000-visiteurs-pour-la-45eme-edition-1487468.html)
 append_entries: 4
 Finish: 2024-05-13 01:14:29.336960
+------------------------------------------------------
+Started: 2024-05-13 12:45:31.562739
+Existing_entries: 180
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Leptospirose : une famille réunionnaise porte plainte pour négligence](https://la1ere.francetvinfo.fr/reunion/leptospirose-une-famille-va-porter-plainte-pour-negligence-apres-le-deces-d-un-homme-de-62-ans-1487642.html)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [Au lendemain d'un accident de manège à La Réunion, les forains toujours sonnés](https://la1ere.francetvinfo.fr/reunion/foire-de-bras-panon-les-forains-sonnes-apres-la-chute-d-un-adolescent-dans-un-manege-hier-1487630.html)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [La commission des thons de l'océan Indien est réunie en Thaïlande](https://la1ere.francetvinfo.fr/reunion/la-commission-des-thons-de-l-ocean-indien-est-reunie-en-thailande-1487600.html)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Avec sa "rue de l'Artisanat", Vieux-Habitants offre une vitrine du savoir-faire guadeloupéen](https://la1ere.francetvinfo.fr/guadeloupe/avec-sa-rue-de-l-artisanat-vieux-habitants-offre-une-vitrine-du-savoir-faire-guadeloupeen-1487567.html)
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [Corps électoral : en attendant le vote, la tension monte](https://la1ere.francetvinfo.fr/nouvellecaledonie/corps-electoral-en-attendant-le-vote-la-rue-parle-1487564.html)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [La pirogue double Fa'afaite a quitté Tahiti pour Hawaï](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/fa-afaite-a-quitte-tahiti-pour-hawai-1487579.html)
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [De nombreux établissements scolaires ont fermé à 15 heures](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/de-nombreux-etablissements-scolaires-ont-ferme-a-15-heures-1487594.html)
+append_entries: 7
+Finish: 2024-05-13 12:45:59.338601

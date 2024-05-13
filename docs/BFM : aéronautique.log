@@ -285,3 +285,15 @@ Existing_entries: 47
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
 append_entries: 0
 Finish: 2024-05-13 01:11:24.037476
+------------------------------------------------------
+Started: 2024-05-13 12:37:39.724564
+Existing_entries: 47
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: ["Ressaisissez-vous": les patrons d'Emirates et de Lufthansa se plaignent des retards de Boeing](https://www.bfmtv.com/economie/entreprises/aeronautique/ressaisissez-vous-les-patrons-d-emirates-et-de-lufthansa-se-plaignent-des-retards-de-boeing_AV-202405130508.html)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Avion frappé par un éclair à Paris: comment la foudre traverse les appareils sans dommage](https://www.bfmtv.com/economie/entreprises/aeronautique/avion-frappe-par-la-foudre-a-paris-un-evenement-impressionant-mais-peu-risque_AV-202405130351.html)
+append_entries: 2
+Finish: 2024-05-13 12:37:49.222724

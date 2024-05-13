@@ -379,3 +379,15 @@ Existing_entries: 75
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-13 01:14:46.100181
+------------------------------------------------------
+Started: 2024-05-13 12:47:12.928134
+Existing_entries: 75
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [VRAI OU FAUX. La maison des mobilités à Foix : ses fonctions, ses services, ses animations… on vous dit tout sur la structure](https://www.ladepeche.fr/2024/05/13/vrai-ou-faux-la-maison-des-mobilites-a-foix-ses-fonctions-ses-services-ses-animations-on-vous-dit-tout-sur-la-structure-11940629.php)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Des arbres, une station essence… L’aérodrome de Figeac-Livernon en pleine mutation](https://www.ladepeche.fr/2024/05/13/des-arbres-une-station-essence-laerodrome-de-figeac-livernon-en-pleine-mutation-11945977.php)
+append_entries: 2
+Finish: 2024-05-13 12:47:26.339725

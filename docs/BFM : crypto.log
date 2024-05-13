@@ -318,3 +318,18 @@ Existing_entries: 58
 Fetching from https://www.bfmtv.com/rss/crypto/
 append_entries: 0
 Finish: 2024-05-13 01:11:25.169495
+------------------------------------------------------
+Started: 2024-05-13 12:37:54.595404
+Existing_entries: 58
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Donald Trump est-il vraiment pro-crypto?](https://www.bfmtv.com/crypto/bitcoin/donald-trump-est-il-vraiment-pro-crypto_AV-202405130524.html)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le bitcoin chute de nouveau vers les 60.000 dollars](https://www.bfmtv.com/crypto/bitcoin/pourquoi-le-bitcoin-chute-de-nouveau-vers-les-60-000-dollars_AV-202405130350.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [La patronne de Franklin Templeton prédit qu'à l'avenir "tous les ETF seront sur la blockchain"](https://www.bfmtv.com/crypto/bitcoin/la-patronne-de-franklin-templeton-predit-qu-a-l-avenir-tous-les-etf-seront-sur-la-blockchain_AV-202405130293.html)
+append_entries: 3
+Finish: 2024-05-13 12:38:05.537401

@@ -440,3 +440,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pont de l’Ascension : un retour de week-end compliqué sur les routes](https://www.francetvinfo.fr/economie/transports/trafic/pont-de-l-ascension-un-retour-de-week-end-complique-sur-les-routes_6540080.html)
 append_entries: 1
 Finish: 2024-05-13 01:12:56.591809
+------------------------------------------------------
+Started: 2024-05-13 12:41:59.070849
+Existing_entries: 92
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : pendant les JO, les chauffeurs de bus devront-ils déchirer un ticket de transport vendu sur deux, comme l'affirme Florian Philippot ?](https://www.francetvinfo.fr/replay-radio/le-vrai-du-faux/paris-2024-pendant-les-jo-les-chauffeurs-de-bus-devront-ils-dechirer-un-ticket-de-transport-vendu-sur-deux-comme-l-affirme-florian-philippot_6513989.html)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Élections européennes : à un mois du scrutin, le candidat LR François-Xavier Bellamy veut surfer sur les sujets nationaux](https://www.francetvinfo.fr/replay-radio/le-brief-politique/elections-europeennes-a-un-mois-du-scrutin-le-candidat-lr-francois-xavier-bellamy-veut-surfer-sur-les-sujets-nationaux_6514004.html)
+append_entries: 2
+Finish: 2024-05-13 12:42:06.158637

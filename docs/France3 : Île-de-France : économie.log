@@ -348,3 +348,15 @@ Existing_entries: 68
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-05-13 01:13:13.319968
+------------------------------------------------------
+Started: 2024-05-13 12:43:24.549610
+Existing_entries: 68
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [Cantines et interclasses à Paris, un nouveau mouvement de grève des périscolaires à partir du 21 mai](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/cantines-et-interclasses-a-paris-un-nouveau-mouvement-de-greve-des-periscolaires-a-partir-du-21-mai-2968679.html)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Une nouvelle usine du groupe pharmaceutique français Sanofi en projet à Vitry-sur-Seine, 350 emplois annoncés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/une-nouvelle-usine-du-groupe-pharmaceutique-francais-sanofi-en-projet-a-vitry-sur-seine-350-emplois-annonces-2968547.html)
+append_entries: 2
+Finish: 2024-05-13 12:43:34.161691

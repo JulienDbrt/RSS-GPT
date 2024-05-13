@@ -639,3 +639,27 @@ Summarized using GPT-3.5-turbo
 Append: [Choose France: Pfizer et AstraZeneca annoncent de nouveaux investissements en France](https://www.bfmtv.com/economie/entreprises/pfizer-et-astra-zeneca-annoncent-de-nouveaux-investissements-en-france_AD-202405120277.html)
 append_entries: 2
 Finish: 2024-05-13 01:11:32.136412
+------------------------------------------------------
+Started: 2024-05-13 12:38:06.216188
+Existing_entries: 177
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: ["Ressaisissez-vous": les patrons d'Emirates et de Lufthansa se plaignent des retards de Boeing](https://www.bfmtv.com/economie/entreprises/aeronautique/ressaisissez-vous-les-patrons-d-emirates-et-de-lufthansa-se-plaignent-des-retards-de-boeing_AV-202405130508.html)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [EDF passe pour la première fois par des "prêts verts" pour financer son parc nucléaire](https://www.bfmtv.com/economie/entreprises/energie/edf-passe-pour-la-premiere-fois-par-des-prets-verts-pour-financer-son-parc-nucleaire_AD-202405130483.html)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [En Espagne, Uber va vendre des billets de train, notamment pour les Ouigo](https://www.bfmtv.com/economie/entreprises/transports/en-espagne-uber-va-vendre-des-billets-de-train-notamment-pour-les-ouigo_AV-202405130407.html)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Avion frappé par un éclair à Paris: comment la foudre traverse les appareils sans dommage](https://www.bfmtv.com/economie/entreprises/aeronautique/avion-frappe-par-la-foudre-a-paris-un-evenement-impressionant-mais-peu-risque_AV-202405130351.html)
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: ["Quand j'ai quitté l'entreprise, elle était numéro 1": Thierry Breton défend son bilan chez Atos](https://www.bfmtv.com/economie/entreprises/quand-j-ai-quitte-l-entreprise-elle-etait-numero-1-thierry-breton-defend-son-bilan-chez-atos_AV-202405130341.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [‘‘Gravel’’ : la mode des vélos à tout faire](https://www.bfmtv.com/economie/entreprises/transports/gravel-la-mode-des-velos-a-tout-faire_VN-202405130180.html)
+append_entries: 6
+Finish: 2024-05-13 12:38:29.656212
