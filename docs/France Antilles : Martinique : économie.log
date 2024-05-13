@@ -440,3 +440,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les problèmes de Boeing éclaboussent aussi le régulateur aérien FAA](https://www.martinique.franceantilles.fr/actualite/economie/les-problemes-de-boeing-eclaboussent-aussi-le-regulateur-aerien-faa-986924.php)
 append_entries: 2
 Finish: 2024-05-12 12:34:47.905268
+------------------------------------------------------
+Started: 2024-05-13 01:12:05.752367
+Existing_entries: 114
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Russie: Poutine limoge le ministre de la Défense Choïgou](https://www.martinique.franceantilles.fr/actualite/economie/russie-poutine-limoge-le-ministre-de-la-defense-choigou-987029.php)
+Token length: 54
+Summarized using GPT-3.5-turbo
+Append: [L'Hebdo édition hexagone a reçu un bel accueil à Paris](https://www.martinique.franceantilles.fr/actualite/economie/lhebdo-edition-hexagonale-a-recu-un-bel-accueil-a-paris-986947.php)
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [Béatrice Cléon : "L'Hebdo a toute sa place dans le paysage médiatique"](https://www.martinique.franceantilles.fr/actualite/economie/beatrice-cleon-lhebdo-a-toute-sa-place-dans-le-paysage-mediatique-986946.php)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Choose France: Amazon investira 1,2 milliard d'euros dans l'IA et ses entrepôts, annonce l'Elysée](https://www.martinique.franceantilles.fr/actualite/economie/choose-france-amazon-investira-12-milliard-deuros-dans-lia-et-ses-entrepots-annonce-lelysee-986948.php)
+append_entries: 4
+Finish: 2024-05-13 01:12:25.026022

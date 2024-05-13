@@ -302,3 +302,9 @@ Summarized using GPT-3.5-turbo
 Append: [CHRONIQUE. Logement social : un détricotage ?](https://www.francetvinfo.fr/replay-radio/entre-les-lignes/chronique-logement-social-un-detricotage_6499673.html)
 append_entries: 3
 Finish: 2024-05-12 12:35:38.063347
+------------------------------------------------------
+Started: 2024-05-13 01:12:52.863538
+Existing_entries: 48
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-05-13 01:12:53.127926

@@ -604,3 +604,15 @@ Summarized using GPT-3.5-turbo
 Append: [Fiscalité des cryptos : comment déclarer vos bitcoins en France ?](https://www.01net.com/actualites/impots-cryptos-comment-declarer-bitcoins-france.html)
 append_entries: 1
 Finish: 2024-05-12 12:28:13.293472
+------------------------------------------------------
+Started: 2024-05-13 01:07:58.120408
+Existing_entries: 158
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin pour Maman : Un cadeau de 100 $ transformé en fortune ?](https://www.cointribune.com/bitcoin-pour-maman-un-cadeau-de-100-transforme-en-fortune/)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin : Voici la solution pour ne pas payer d’impôts !](https://www.cointribune.com/bitcoin-voici-la-solution-pour-ne-pas-payer-dimpots/)
+append_entries: 2
+Finish: 2024-05-13 01:08:05.288070

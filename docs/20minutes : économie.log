@@ -332,3 +332,12 @@ Summarized using GPT-3.5-turbo
 Append: [Etats-Unis : Pour la première fois dans le pays, un Apple Store vote en faveur d’une grève](https://www.20minutes.fr/monde/4090608-20240512-etats-unis-premiere-fois-pays-apple-store-vote-faveur-greve)
 append_entries: 1
 Finish: 2024-05-12 12:32:04.675103
+------------------------------------------------------
+Started: 2024-05-13 01:11:01.794988
+Existing_entries: 58
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [McCain compte investir 350 millions d’euros pour produire davantage de frites en France](https://www.20minutes.fr/economie/4090645-20240512-mccain-compte-investir-350-millions-euros-produire-davantage-frites-france)
+append_entries: 1
+Finish: 2024-05-13 01:11:05.570064

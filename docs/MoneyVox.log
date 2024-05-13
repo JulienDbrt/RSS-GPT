@@ -738,3 +738,18 @@ Summarized using GPT-3.5-turbo
 Append: [Congé de naissance : lancement d'une concertation le 15 mai](https://www.moneyvox.fr/votre-argent/actualites/97713/conge-de-naissance-lancement-une-concertation-le-15-mai)
 append_entries: 3
 Finish: 2024-05-12 12:35:54.768344
+------------------------------------------------------
+Started: 2024-05-13 01:12:58.573214
+Existing_entries: 204
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Impôts sur l'immobilier : de Paris à Cholet et Arras, ces 25 villes où se cachent les plus riches](https://www.moneyvox.fr/impot/actualites/97697/impots-sur-immobilier-de-paris-a-cholet-et-arras-ces-25-villes-ou-se-cachent-les-plus-riches)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Impôt sur le revenu 2024 : combien de jours reste-t-il pour votre déclaration ?](https://www.moneyvox.fr/impot/actualites/97712/impot-sur-le-revenu-2024-combien-de-jours-reste-t-il-pour-votre-declaration)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage, justice des mineurs : le gouvernement précise le calendrier des réformes](https://www.moneyvox.fr/votre-argent/actualites/97714/assurance-chomage-justice-des-mineurs-le-gouvernement-precise-le-calendrier-des-reformes)
+append_entries: 3
+Finish: 2024-05-13 01:13:10.985202

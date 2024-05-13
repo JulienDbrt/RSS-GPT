@@ -1097,3 +1097,33 @@ Summarized using GPT-3.5-turbo
 Append: [Avion électrique, raffinage de nickel, campus européen... On vous présente quelques-uns des investissements étrangers qui seront officialisés lundi au sommet Choose France](https://www.francetvinfo.fr/economie/industrie/avion-electrique-raffinage-de-nickel-campus-europeen-on-vous-presente-quelques-uns-des-investissements-etrangers-qui-seront-officialises-lundi-au-sommet-choose-france_6538277.html)
 append_entries: 10
 Finish: 2024-05-12 12:35:24.092169
+------------------------------------------------------
+Started: 2024-05-13 01:12:25.705842
+Existing_entries: 375
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Économie : la France enregistre des investissements étrangers massifs](https://www.francetvinfo.fr/economie/energie/economie-la-france-enregistre-des-investissements-etrangers-massifs_6540101.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Foire de Paris : est-il toujours possible de faire des bonnes affaires ?](https://www.francetvinfo.fr/economie/foire-de-paris-est-il-toujours-possible-de-faire-des-bonnes-affaires_6540092.html)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Le géant des frites McCain compte investir 350 millions d'euros en France pour augmenter sa production](https://www.francetvinfo.fr/economie/le-geant-des-frites-mccain-compte-investir-350-millions-d-euros-en-france-pour-augmenter-sa-production_6540065.html)
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [Pont de l’Ascension : un retour de week-end compliqué sur les routes](https://www.francetvinfo.fr/economie/transports/trafic/pont-de-l-ascension-un-retour-de-week-end-complique-sur-les-routes_6540080.html)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [Amazon va investir plus de 1,2 milliard d'euros en France, annonce l'Elysée à l'occasion du sommet Choose France](https://www.francetvinfo.fr/internet/amazon/amazon-va-investir-plus-de-1-2-milliard-d-euros-en-france-a-l-occasion-du-sommet-choose-france-annonce-l-elysee_6539885.html)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Automobile : le défi du recyclage des batteries électriques](https://www.francetvinfo.fr/economie/automobile/automobile-le-defi-du-recyclage-des-batteries-electriques_6539858.html)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage : le gouvernement va dévoiler les nouvelles règles d'indemnisation "en fin de semaine"](https://www.francetvinfo.fr/economie/emploi/chomage/le-gouvernement-va-devoiler-les-nouvelles-regles-de-l-assurance-chomage-en-fin-de-semaine_6539771.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Inflation : le prix du sucre repart à la hausse, une augmentation spectaculaire depuis deux ans](https://www.francetvinfo.fr/economie/inflation/inflation-le-prix-du-sucre-repart-a-la-hausse-une-augmentation-spectaculaire-depuis-deux-ans_6539774.html)
+append_entries: 8
+Finish: 2024-05-13 01:12:52.669348

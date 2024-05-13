@@ -351,3 +351,12 @@ Summarized using GPT-3.5-turbo
 Append: [“Tout le monde nous attendait” : ils rouvrent un restaurant fermé depuis plus de 15 ans à la campagne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/tout-le-monde-nous-attendait-ils-rouvrent-un-restaurant-ferme-depuis-plus-de-15-ans-a-la-campagne-2965457.html)
 append_entries: 2
 Finish: 2024-05-12 12:36:14.768626
+------------------------------------------------------
+Started: 2024-05-13 01:13:19.002290
+Existing_entries: 71
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: ["Pourquoi aller loin ? On a tout ici" : pour l'Ascension, les touristes suisses ont rempli les campings du Doubs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/70-de-la-clientele-est-suisse-quand-nos-voisins-helvetes-remplissent-les-campings-du-doubs-pour-l-ascension-2968517.html)
+append_entries: 1
+Finish: 2024-05-13 01:13:23.280244

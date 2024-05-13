@@ -507,3 +507,15 @@ Summarized using GPT-3.5-turbo
 Append: [ENQUÊTE. Cantines scolaires : budget limité, casse-tête administratif, manque de personnel, le bio fait chou blanc](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/enquete-cantines-scolaires-budget-limite-casse-tete-administratif-manque-de-personnel-le-bio-fait-chou-blanc-2958998.html)
 append_entries: 1
 Finish: 2024-05-12 12:36:06.103307
+------------------------------------------------------
+Started: 2024-05-13 01:13:13.384915
+Existing_entries: 123
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: ["Nous faisons très attention au bien-être animal", comment la transhumance se modernise grâce aux bétaillères](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/salon-de-provence/nous-faisons-tres-attention-au-bien-etre-animal-comment-la-transhumance-se-modernise-grace-aux-betailleres-2968409.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Saints de glace : journées à risque pour le gel ou légende centenaire mal comprise ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/saints-de-glace-journees-a-risque-pour-le-gel-ou-legende-centenaire-mal-comprise-2968292.html)
+append_entries: 2
+Finish: 2024-05-13 01:13:18.965278

@@ -315,3 +315,12 @@ Existing_entries: 49
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-12 12:36:31.489432
+------------------------------------------------------
+Started: 2024-05-13 01:14:00.738707
+Existing_entries: 49
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Rues piétonnes: les voitures interdites sur 11 artères à Montréal](https://www.journaldemontreal.com/2024/05/11/rues-pietonnes-les-voitures-interdites-sur-11-arteres-a-montreal)
+append_entries: 1
+Finish: 2024-05-13 01:14:04.758996

@@ -431,3 +431,12 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : l'Italie tente toujours d'obtenir le feu vert de l'UE pour regrouper la compagnie aérienne nationale et l'allemande Lufthansa](https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/transports-l-italie-tente-toujours-d-obtenir-le-feu-vert-de-l-ue-pour-regrouper-la-compagnie-aerienne-nationale-et-l-allemande-lufthansa_6446290.html)
 append_entries: 1
 Finish: 2024-05-12 12:35:42.132766
+------------------------------------------------------
+Started: 2024-05-13 01:12:53.175770
+Existing_entries: 91
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [Pont de l’Ascension : un retour de week-end compliqué sur les routes](https://www.francetvinfo.fr/economie/transports/trafic/pont-de-l-ascension-un-retour-de-week-end-complique-sur-les-routes_6540080.html)
+append_entries: 1
+Finish: 2024-05-13 01:12:56.591809

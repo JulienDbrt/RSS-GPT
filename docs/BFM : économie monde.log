@@ -321,3 +321,9 @@ Summarized using GPT-3.5-turbo
 Append: [Aux Etats-Unis, les salariés syndiqués d'un AppleStore votent à 98% pour une grève](https://www.bfmtv.com/economie/international/aux-etats-unis-les-salaries-syndiques-d-un-apple-store-votent-a-98-pour-une-greve_AD-202405120116.html)
 append_entries: 1
 Finish: 2024-05-12 12:32:48.675253
+------------------------------------------------------
+Started: 2024-05-13 01:11:23.360630
+Existing_entries: 61
+Fetching from https://www.bfmtv.com/rss/economie/international/
+append_entries: 0
+Finish: 2024-05-13 01:11:23.590323

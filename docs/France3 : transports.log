@@ -619,3 +619,24 @@ Summarized using GPT-3.5-turbo
 Append: [À vélo, cet étudiant traverse la France, l'Espagne et l'Italie pour sensibiliser à la transition énergétique](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/a-velo-cet-etudiant-traverse-la-france-l-espagne-et-l-italie-pour-sensibiliser-a-la-transition-energetique-2967851.html)
 append_entries: 3
 Finish: 2024-05-12 12:36:30.525316
+------------------------------------------------------
+Started: 2024-05-13 01:13:40.123782
+Existing_entries: 161
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: ["On se croirait au mois d'août", l'affluence des grands jours sur l'A7 pour le week-end de l'ascension](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/on-se-croirait-au-mois-d-aout-l-affluence-des-grands-jours-sur-l-a7-pour-le-week-end-de-l-ascension-2968457.html)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [Autoroute Castres-Toulouse : des députés en visite sur le chantier pour constater le montage juridique et financier du projet](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/autoroute-castres-toulouse-des-deputes-en-visite-sur-le-chantier-pour-constater-le-montage-juridique-et-financier-du-projet-2968478.html)
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: ["Nous faisons très attention au bien-être animal", comment la transhumance se modernise grâce aux bétaillères](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/salon-de-provence/nous-faisons-tres-attention-au-bien-etre-animal-comment-la-transhumance-se-modernise-grace-aux-betailleres-2968409.html)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: [Circulation, quand Bison futé voit noir, les gendarmes multiplient les contrôles](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/circulation-quand-bison-fute-voit-noir-les-gendarmes-multiplient-les-controles-2968415.html)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Journée noire sur les routes pour le retour du week-end de l'Ascension, des bouchons attendus jusqu'en soirée](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/journee-noire-sur-les-routes-pour-le-retour-du-week-end-de-l-ascension-des-bouchons-attendus-jusqu-en-soiree-2968403.html)
+append_entries: 5
+Finish: 2024-05-13 01:14:00.450007

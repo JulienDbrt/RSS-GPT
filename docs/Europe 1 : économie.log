@@ -341,3 +341,12 @@ Summarized using GPT-3.5-turbo
 Append: [Sommet Choose France : un nombre important d'investissements étrangers attendus](https://www.europe1.fr/economie/sommet-choose-france-un-nombre-important-dinvestissements-etrangers-attendus-4246453)
 append_entries: 2
 Finish: 2024-05-12 12:34:38.179450
+------------------------------------------------------
+Started: 2024-05-13 01:12:03.526781
+Existing_entries: 61
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: [Choose France : Amazon investira 1,2 milliard d'euros dans l'IA et ses entrepôts, annonce l'Élysée](https://www.europe1.fr/economie/choose-france-amazon-investira-12-milliard-deuros-dans-lia-et-ses-entrepots-annonce-lelysee-4246557)
+append_entries: 1
+Finish: 2024-05-13 01:12:05.698598

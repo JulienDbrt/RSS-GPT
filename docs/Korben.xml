@@ -5,6 +5,156 @@
 <link>https://korben.info</link>
 
 <item>
+<title>CodingFont – Trouvez la police parfaite pour votre éditeur de code</title>
+<link>https://korben.info/codefont-trouver-police-parfaite-editeur-code.html</link>
+<guid>https://korben.info/codefont-trouver-police-parfaite-editeur-code.html</guid>
+<content:encoded><![CDATA[
+<div> polices de caractères, développeur, confort, productivité, fatigue
+
+Summary:
+Les polices de caractères peuvent avoir un impact important sur le confort et la productivité des développeurs. Il est essentiel de trouver celle qui convient le mieux à ses besoins, car passer de longues heures à coder avec une police inconfortable peut causer de la fatigue. Un site tel que "Fonts Arena" permet de tester et comparer une variété de polices pour trouver celle qui correspond le mieux à ses préférences. Choisir une police adaptée, comme Red Hat Mono recommandée par le site, peut changer la manière dont on perçoit et travaille avec son code. Peu importe les préférences individuelles, l'important est de trouver la police qui offre le plus de confort pour éviter les problèmes d'articulations et de fatigue liés à un mauvais choix. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="327" src="https://korben.info/app/uploads/2024/05/SCR-20240512-srlw.webp" width="1000" /></p>
+<p>Ceci est un truc qui peut paraître anodin mais qui, croyez-moi, peut totalement changer votre vie de développeur : <strong>les polices de caractères</strong> ! Et ouais, on n&rsquo;y pense pas forcément mais ça a un impact énorme sur notre confort et notre productivité. Un peu comme choisir entre un bon vieux clavier mécanique qui claque bien et un clavier tout mou qui vous bousille les articulations. Bref, vous voyez l&rsquo;idée&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-596963686" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Je suis tombé grâce à Lorenper (merci) sur un site vraiment sympa qui s&rsquo;appelle <a href="https://www.codingfont.com/" rel="noopener" target="_blank">Coding Font</a> qui permet de tester des dizaines de polices et de les comparer pour voir laquelle vous convient le mieux. Et croyez-moi, y a du choix ! Des polices fines, des grasses, des arrondies, des plus carrées&#8230; Y en a pour tous les goûts.</p>
+
+
+
+<p>Perso, celle que m&rsquo;a recommandé le site et qui me conviendrait le mieux est Red Hat Mono.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160390" height="578" src="https://korben.info/app/uploads/2024/05/SCR-20240512-parp-1.webp" width="1000" /></figure></div>
+
+
+<p>Après, les goûts et les couleurs hein&#8230; L&rsquo;essentiel, c&rsquo;est de trouver chaussure à son pied ou plutôt police à son éditeur. Ça peut paraître un détail mais je vous assure que quand vous passez 8h par jour le nez dans votre code, avoir une police confortable, c&rsquo;est mieux pour la fatigue.</p>
+
+
+
+<p>Pour tester et trouver la police qui <a href="https://www.codingfont.com/" rel="noopener" target="_blank">vous convient le mieux c&rsquo;est par ici.</a></p>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 19:34:31 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 19:34:31 +0000</pubDate>
+</item>
+<item>
+<title>VirtualBuddy – Virtualisation de macOS 12+ sur Apple Silicon !</title>
+<link>https://korben.info/virtualbuddy-virtualisation-macos-12-apple-silicon.html</link>
+<guid>https://korben.info/virtualbuddy-virtualisation-macos-12-apple-silicon.html</guid>
+<content:encoded><![CDATA[
+<div> macOS, développement, VirtualBuddy, virtualisation, test<br>
+<br>
+Summary:<br>
+VirtualBuddy est un outil open-source qui facilite la virtualisation de macOS 12 et plus sur les machines Apple Silicon, ainsi que sur certaines distros Linux ARM comme Ubuntu. Il permet d'installer différentes versions de macOS facilement, de personnaliser la configuration matérielle, de gérer le réseau et le partage de fichiers, et offre des fonctionnalités avancées de sécurité comme le clonage APFS. Il permet également le partage de dossiers entre la VM et le Mac hôte et offre la possibilité de monter les dossiers partagés dans la VM via une commande dans le Terminal. En résumé, VirtualBuddy est un outil gratuit et open-source idéal pour les développeurs sur Mac qui souhaitent tester leurs applications sur différentes versions de macOS de manière simple et efficace. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="344" src="https://korben.info/app/uploads/2024/05/SCR-20240512-smij-2.webp" width="1000" /></p>
+<p>Vous êtes développeur sur Mac et vous galérez à tester vos apps sur différentes versions de macOS, surtout les bêtas ? J&rsquo;ai ce qu&rsquo;il vous faut, et ça s&rsquo;appelle <a href="https://github.com/insidegui/VirtualBuddy" rel="noopener" target="_blank">VirtualBuddy</a> ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1585451318" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Comme <a href="https://korben.info/apple-silicon-virtualisation-tart-pleine-puissance.html"><strong>Tart</strong></a>, ce petit outil <strong>open-source</strong> vous permet de virtualiser macOS 12 et plus sur les machines Apple Silicon et ça fonctionne même avec certaines <strong>distros Linux ARM</strong> comme Ubuntu.</p>
+
+
+
+<p>L&rsquo;installation est un jeu d&rsquo;enfant grâce à l&rsquo;<strong>assistant intégré</strong> et vous pouvez choisir parmi une collection d&rsquo;images de restauration dispo sur les serveurs d&rsquo;Apple, installer la dernière version stable de macOS, utiliser un fichier IPSW local, ou même une URL d&rsquo;image personnalisée. Pour Linux, c&rsquo;est pareil, vous pouvez utiliser un fichier .iso local ou choisir parmi une sélection de distros.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160387" height="672" src="https://korben.info/app/uploads/2024/05/Showcase-1-1024x672.webp" width="1024" /></figure></div>
+
+
+<p>Et pour les bidouilleurs, vous pouvez même booter en mode récupération pour, par exemple, désactiver le SIP. VirtualBuddy gère le <strong>réseau</strong>, le <strong>partage de fichiers</strong> et même le <strong>presse-papiers</strong> entre l&rsquo;hôte et l&rsquo;invité. Vous pouvez personnaliser la configuration matérielle de la machine virtuelle et même éditer les <strong>variables NVRAM</strong>.</p>
+
+
+
+<p>En parlant de partage, quand vous démarrez une VM sous macOS, VirtualBuddy monte automatiquement une image disque avec l&rsquo;app VirtualBuddyGuest. Il suffit de double-cliquer dessus dans le Finder de la VM pour l&rsquo;installer. Et là, magie, vous avez le partage du presse-papiers et des dossiers partagés configurés pour la VM !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160385" height="491" src="https://korben.info/app/uploads/2024/05/GuestApp-1024x491.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1290043904" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Maintenant, imaginez que vous bidouillez un truc dans la VM et que tout plante. Pas de panique ! Grâce au clonage APFS, vous pouvez dupliquer une VM dans votre bibliothèque (avec Cmd+D dans le Finder), et le clone prendra quasi aucun espace disque supplémentaire. Comme ça, vous avez toujours une copie « propre » de la VM. Vous pouvez faire mumuse avec un doublon, et si ça plante, poubelle et re-duplication du clone clean. Easy peasy !  Des fonctionnalités de <strong>sécurité avancées</strong> comme le chiffrement et l&rsquo;authentification sont également de la partie.</p>
+
+
+
+<p>Pour partager des dossiers entre la VM et le Mac hôte, il y a deux options. Soit vous utilisez le partage de fichiers macOS standard via les Préférences Système. Soit, si la VM et l&rsquo;hôte tournent sous macOS 13+, vous pouvez configurer des dossiers partagés direct dans les réglages de la VM avant de la démarrer. Pour monter les dossiers partagés dans la VM, une petite commande dans le Terminal et c&rsquo;est réglé :</p>
+
+
+
+<p><code>mkdir -p ~/Desktop/VirtualBuddyShared &amp;&amp; mount -t virtiofs VirtualBuddyShared ~/Desktop/VirtualBuddyShared</code></p>
+
+
+
+<p>Bref, si vous êtes développeur sur Mac et que vous en avez marre de vous arracher les cheveux pour tester vos apps sur 36 versions de macOS, foncez sur <strong>VirtualBuddy</strong> ! C&rsquo;est gratuit et c&rsquo;est open-source.</p>
+
+
+
+<p>Merci à <strong>Lorenper</strong> pour l&rsquo;info !!</p>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 19:21:01 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 19:21:01 +0000</pubDate>
+</item>
+<item>
+<title>Zelda 64 Recompilé – Un portage natif avec Ray Tracing et 4K</title>
+<link>https://korben.info/zelda-64-recompiled-portage-natif-ray-tracing-4k.html</link>
+<guid>https://korben.info/zelda-64-recompiled-portage-natif-ray-tracing-4k.html</guid>
+<content:encoded><![CDATA[
+<div> recompilation N64, ROM, Windows / Linux, Majora's Mask, Ocarina of Time
+Summary:<br><br>Un nouvel outil révolutionnaire appelé N64: Recompiled permet désormais de convertir une ROM N64 en un exécutable Windows / Linux fonctionnel en quelques minutes seulement. Grâce à cette recompilation statique, les jeux comme Majora's Mask peuvent être joués sur PC avec une précision quasi parfaite des effets spéciaux, des temps de chargement instantanés, et une stabilité remarquable. De plus, des améliorations telles que le ray tracing en temps réel sont possibles grâce aux recomps profitant des améliorations du moteur RT64. Ces portages rapides offrent une nouvelle vie aux classiques de la N64, tout en permettant une expérience de jeu optimale. Le projet, en constante évolution, prévoit également d'intégrer Ocarina of Time et d'autres jeux, ainsi que des fonctionnalités comme le DLSS, des textures HD et des caméras libres. Les développeurs peuvent contribuer au projet sur GitHub pour recompiler d'autres jeux et explorer de nouvelles possibilités. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="409" src="https://korben.info/app/uploads/2024/05/SCR-20240512-nqzg.webp" width="1000" /></p>
+<p>L&rsquo;émulation N64 a longtemps été limitée par des logiciels datant des années 2000, basés sur d&rsquo;anciens systèmes de plugins. Mais ça, c&rsquo;était avant !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-302699692" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Grâce à un nouvel outil révolutionnaire de « recompilation statique » baptisé N64: Recompiled et développé par le moddeur Wiseguy, on peut désormais transformer une ROM N64 en un exécutable Windows / Linux fonctionnel en quelques minutes seulement. Le premier projet exploitant cet outil s&rsquo;appelle <a href="https://github.com/Mr-Wiseguy/Zelda64Recomp" rel="noopener" target="_blank">Zelda 64: Recompiled</a> et permet de jouer nativement à <strong>Majora&rsquo;s Mask</strong> (et bientôt <strong>Ocarina of Time</strong>) sur PC avec une foule d&rsquo;améliorations.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Le principe est simple : l&rsquo;outil traduit le code de la ROM en langage C pour qu&rsquo;il puisse tourner sur un processeur moderne. À l&rsquo;exécution, le rendu est converti en appels d&rsquo;API bas niveau (Direct3D12 sous Windows, Vulkan sous Linux) grâce au moteur <a href="https://github.com/rt64/rt64" rel="noopener" target="_blank">RT64</a>. C&rsquo;est une approche qui rappelle la couche de compatibilité Proton de Valve ou la Mega Man Legacy Collection.</p>
+
+
+
+<p>Le résultat est bluffant : une précision quasi parfaite des effets spéciaux, une compatibilité totale avec les shaders et microcodes custom, des temps de chargement instantanés, une latence réduite au minimum&#8230; Le tout avec une stabilité à toute épreuve et des options pour jouer en 4K, ultrawide ou à plus de 60 FPS. De plus, le gyroscope est géré nativement sur les manettes compatibles, dont la Nintendo Switch Pro et la Steam Deck. Plus besoin de bidouiller des réglages pendant des heures !</p>
+
+
+
+<p>Bien sûr, la recompilation n&rsquo;est pas parfaite et nécessite encore quelques ajustements manuels, mais c&rsquo;est sans commune mesure avec une décompilation complète qui peut prendre des années. La preuve, alors que le projet <a href="https://github.com/zeldaret/oot" rel="noopener" target="_blank">decompile Ocarina</a> n&rsquo;est pas terminé, Wiseguy a pu sortir un recomp jouable en seulement 2 jours ! Cela ouvre la voie à des portages de jeux N64 obscurs en un temps record.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1312410469" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Autre avantage : les recomps profitent directement des améliorations du moteur RT64, comme le ray tracing en temps réel, sans avoir à réécrire le code du jeu. C&rsquo;est d&rsquo;ailleurs prévu au programme, en plus du DLSS, des textures HD ou des caméras libres. De quoi redonner un sacré coup de jeune à ces classiques !</p>
+
+
+
+<p>Évidemment, les portages « maison » type <a href="https://korben.info/ship-of-harkinian-portage-pc-ocarina-of-time.html">Ship of Harkinian</a> restent pertinents avec leur approche plus fine et leur côté moddable à l&rsquo;infini. Mais ces recomps offrent une alternative plus simple et rapide, idéale pour (re)découvrir les jeux dans les meilleures conditions. D&rsquo;autant qu&rsquo;ils tournent parfaitement sous Linux et Steam Deck !</p>
+
+
+
+<p>Pour l&rsquo;instant, <a href="https://github.com/Mr-Wiseguy/Zelda64Recomp/releases" rel="noopener" target="_blank">seul le recomp Majora&rsquo;s Mask est disponible</a>, mais comme je le disais en intro, Ocarina of Time suivra bientôt. À terme, l&rsquo;idée est de combiner les deux jeux dans un même launcher, de proposer des mods et des packs de textures, voire une version web pour jouer dans le navigateur. Si vous êtes développeur, vous pouvez même contribuer au projet sur GitHub et tenter de recompiler d&rsquo;autres jeux. Les portes sont grandes ouvertes !</p>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 13:28:47 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 13:28:47 +0000</pubDate>
+</item>
+
+<item>
 <title>En manque d’inspiration avec vos prompts IA ? Allez jeter un œil à la bibliothèque d’Anthropic</title>
 <link>https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html</link>
 <guid>https://korben.info/anthropic-prompt-library-le-compagnon-ultime-des-passionnes-ia.html</guid>
@@ -43,7 +193,6 @@ La Prompt Library d'Anthropic propose une collection gratuite de prompts pré-op
 <p>Si ça vous dit de jeter un œil, <a href="https://docs.anthropic.com/claude/prompt-library" rel="noopener" target="_blank">c&rsquo;est par ici que ça se passe.</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Naticord – Un client Discord natif en Python</title>
@@ -51,7 +200,7 @@ La Prompt Library d'Anthropic propose une collection gratuite de prompts pré-op
 <guid>https://korben.info/naticord-client-discord-natif-python-leger-personnalisable.html</guid>
 <content:encoded><![CDATA[
 <div> client Discord, Naticord, léger, personnalisable, efficace
-<br>
+<br />
 Summary:
 Naticord est un client Discord léger et personnalisable créé en Python pour contrer les problèmes de consommation excessive de RAM et de mises à jour fréquentes du client web officiel. Avec une interface minimaliste inspirée de Windows Live Messenger, Naticord offre les fonctionnalités essentielles pour se connecter, discuter en privé, accéder aux serveurs et canaux de base, envoyer des messages et fichiers, et basculer entre plusieurs comptes. Bien que certaines fonctionnalités de Discord ne soient pas présentes, Naticord se concentre sur l'essentiel pour une expérience de discussion simplifiée. Des mises à jour futures devraient améliorer le support des serveurs, l'ajout de photos de profil dans la liste d'amis, et introduire un mode sombre. Cependant, il est important de noter que l'utilisation d'un client tiers comme Naticord pourrait entraîner un bannissement de Discord, malgré l'absence de problèmes signalés jusqu'à présent. La communauté apprécie l'alternative offerte par Naticord pour une utilisation directe et sans complications sur Discord. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_logo_for_discord_client_named_Naticord_0a0f9364-7aac-4c19-aa65-45540475240c.webp" width="1920" /></p>
@@ -129,9 +278,7 @@ Naticord est un client Discord léger et personnalisable créé en Python pour c
 <p>Merci à Lorenper pour le partage !</p>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 06:15:53 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 06:15:53 +0000</pubDate>
 </item>
-
 <item>
 <title>Open WebUI – Une interface graphique pour Ollama</title>
 <link>https://korben.info/open-webui-nouvelle-interface-graphique-ollama.html</link>

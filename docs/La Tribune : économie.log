@@ -658,3 +658,21 @@ Summarized using GPT-3.5-turbo
 Append: [« Les Européens ont oublié que la liberté est très fragile » (Oleksandra Matviichuk, prix Nobel de la paix 2022)](https://www.latribune.fr/economie/international/les-europeens-ont-oublie-que-la-liberte-est-tres-fragile-oleksandra-matviichuk-prix-nobel-de-la-paix-2022-997356.html)
 append_entries: 10
 Finish: 2024-05-12 12:38:43.025373
+------------------------------------------------------
+Started: 2024-05-13 01:14:51.315456
+Existing_entries: 160
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Data centers : investissement colossal de Microsoft en France](https://www.latribune.fr/technos-medias/informatique/data-centers-investissement-colossal-de-microsoft-en-france-997405.html)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [Catalogne : les indépendantistes perdent leur majorité](https://www.latribune.fr/economie/union-europeenne/catalogne-les-independantistes-perdent-leur-majorite-997404.html)
+Token length: 303
+Summarized using GPT-3.5-turbo
+Append: [Surprise au Kremlin : Vladimir Poutine débarque le ministre de la défense Sergueï Choïgou](https://www.latribune.fr/economie/international/surprise-au-kremlin-vladimir-poutine-debarque-le-ministre-de-la-defense-serguei-choigou-997403.html)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Amazon, IBM, Pfizer, AstraZeneca... Gros investissements en vue dans l'IA et la pharmacie lors du sommet Choose France](https://www.latribune.fr/economie/france/amazon-ibm-pfizer-astrazeneca-gros-investissements-en-vue-dans-l-ia-et-la-pharmacie-lors-du-sommet-choose-france-997401.html)
+append_entries: 4
+Finish: 2024-05-13 01:15:08.838547
