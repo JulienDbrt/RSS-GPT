@@ -395,3 +395,12 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : un marathon aussi pour les rats de la capitale](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-9623020)
 append_entries: 6
 Finish: 2024-05-13 12:42:31.752479
+------------------------------------------------------
+Started: 2024-05-14 01:15:37.649596
+Existing_entries: 75
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Numérique, santé, agroalimentaire : ces secteurs qui vont bénéficier des investissements "Choose France"](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2656660)
+append_entries: 1
+Finish: 2024-05-14 01:15:43.777254

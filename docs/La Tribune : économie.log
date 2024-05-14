@@ -712,3 +712,18 @@ Summarized using GPT-3.5-turbo
 Append: [Choose France : édition record avec plus de 15 milliards d’euros d’investissements](https://www.latribune.fr/economie/france/choose-france-edition-record-avec-plus-de-15-milliards-d-euros-d-investissements-997406.html)
 append_entries: 10
 Finish: 2024-05-13 12:48:55.955602
+------------------------------------------------------
+Started: 2024-05-14 01:20:25.245129
+Existing_entries: 174
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Attractivité de la France : « Il y a vraiment eu un bond des projets d'investissements à partir de 2017 » (Nicolas Bouzou)](https://www.latribune.fr/economie/france/attractivite-de-la-france-il-y-a-vraiment-eu-un-bond-des-projets-d-investissements-a-partir-de-2017-nicolas-bouzou-997462.html)
+Token length: 502
+Summarized using GPT-3.5-turbo
+Append: [Choose France : malgré des investissements « record », une réindustrialisation fragile](https://www.latribune.fr/economie/france/choose-france-malgre-des-investissements-record-une-reindustrialisation-fragile-997429.html)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Booking devient la première entreprise européenne soumise au règlement sur les marchés numériques](https://www.latribune.fr/technos-medias/internet/booking-devient-la-premiere-entreprise-europeenne-soumise-au-reglement-sur-les-marches-numeriques-997441.html)
+append_entries: 3
+Finish: 2024-05-14 01:20:41.646054

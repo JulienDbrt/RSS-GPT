@@ -322,3 +322,12 @@ Existing_entries: 46
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-05-13 12:44:43.842766
+------------------------------------------------------
+Started: 2024-05-14 01:17:30.791176
+Existing_entries: 46
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Vente de nourriture préparée à la maison: le MAPAQ exigera un permis de restauration](https://www.journaldemontreal.com/2024/05/11/vente-de-nourriture-preparee-a-la-maison-le-mapaq-exigera-un-permis-de-restauration)
+append_entries: 1
+Finish: 2024-05-14 01:17:33.697429

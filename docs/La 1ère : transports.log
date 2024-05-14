@@ -304,3 +304,15 @@ Summarized using GPT-3.5-turbo
 Append: [La pirogue double Fa'afaite a quitté Tahiti pour Hawaï](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/fa-afaite-a-quitte-tahiti-pour-hawai-1487579.html)
 append_entries: 1
 Finish: 2024-05-13 12:46:01.067429
+------------------------------------------------------
+Started: 2024-05-14 01:18:51.598137
+Existing_entries: 38
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [La compagnie Aircalin annule ses vols de ce mardi](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/paita/la-compagnie-aircalin-annule-ses-vols-de-ce-mardi-1487771.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Navettes maritimes : à nouveau un dispositif d’urgence entre le Vallon-Dore et Nouméa](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/navettes-maritimes-a-nouveau-un-dispositif-d-urgence-entre-le-vallon-dore-et-noumea-1487807.html)
+append_entries: 2
+Finish: 2024-05-14 01:19:01.214308

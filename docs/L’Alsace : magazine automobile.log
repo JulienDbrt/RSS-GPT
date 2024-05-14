@@ -332,3 +332,12 @@ Summarized using GPT-3.5-turbo
 Append: [Droit automobile. Quel est ce « bug » qui empêche le retrait de points en cas d’infraction ?](https://www.lalsace.fr/magazine-automobile/2024/05/13/quel-est-ce-bug-qui-empeche-le-retrait-de-points-en-cas-d-infraction)
 append_entries: 1
 Finish: 2024-05-13 12:44:53.237063
+------------------------------------------------------
+Started: 2024-05-14 01:17:35.165160
+Existing_entries: 54
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Occasion. Les ventes de voitures de seconde main progressent en avril](https://www.lalsace.fr/magazine-automobile/2024/05/13/les-ventes-de-voitures-de-seconde-main-progressent-en-avril)
+append_entries: 1
+Finish: 2024-05-14 01:17:40.346948

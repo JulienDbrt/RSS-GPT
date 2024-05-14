@@ -715,3 +715,24 @@ Summarized using GPT-3.5-turbo
 Append: [Vente maison 12 pièces 400 m² à Henrichemont (18250), 290 000 €](https://immobilier.lefigaro.fr/annonces/annonce-67466836.html)
 append_entries: 3
 Finish: 2024-05-13 12:33:00.619429
+------------------------------------------------------
+Started: 2024-05-14 01:08:03.202824
+Existing_entries: 219
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Quel est le minimum retraite pour une personne qui n'a pas tous ses trimestres ?](https://www.pleinevie.fr/retraite-travail/retraite-ma-retraite-facile/je-nai-pas-tous-mes-trimestres-quel-sera-le-montant-minimum-retraite-104550.html)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Charles Leclerc : en images, le futur appartement du pilote français](https://www.admagazine.fr/article/charles-leclerc-images-futur-appartement)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Il a construit seul pendant 34 ans ce château dans son jardin](https://immobilier.lefigaro.fr/article/il-a-construit-seul-pendant-34-ans-ce-chateau-dans-son-jardin_ba1345d0-1110-11ef-9f6e-e6aaa9aef51d/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Qui paie l'impôt sur la fortune immobilière ?](https://podmust.com/episode/?epis=UXVpIHBhaWUgbCYjMDM5O2ltcMO0dCBzdXIgbGEgZm9ydHVuZSBpbW1vYmlsacOocmXCoD8%3D&podcast=choses-a-savoir-economie)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [À la chasse aux biens : "J'ai une obligation de moyens mais pas de résultats "](https://www.lalibre.be/economie/immo/2024/05/13/a-la-chasse-aux-biens-jai-une-obligation-de-moyens-mais-pas-de-resultats-BLTZRPYPEJFW7N3R7MCV47FO7E/)
+append_entries: 5
+Finish: 2024-05-14 01:08:27.806458

@@ -297,3 +297,9 @@ Summarized using GPT-3.5-turbo
 Append: [Avion frappé par un éclair à Paris: comment la foudre traverse les appareils sans dommage](https://www.bfmtv.com/economie/entreprises/aeronautique/avion-frappe-par-la-foudre-a-paris-un-evenement-impressionant-mais-peu-risque_AV-202405130351.html)
 append_entries: 2
 Finish: 2024-05-13 12:37:49.222724
+------------------------------------------------------
+Started: 2024-05-14 01:12:59.065661
+Existing_entries: 49
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+append_entries: 0
+Finish: 2024-05-14 01:12:59.361403

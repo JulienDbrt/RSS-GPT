@@ -390,3 +390,15 @@ Summarized using GPT-3.5-turbo
 Append: [Une nouvelle usine du groupe pharmaceutique français Sanofi en projet à Vitry-sur-Seine, 350 emplois annoncés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/une-nouvelle-usine-du-groupe-pharmaceutique-francais-sanofi-en-projet-a-vitry-sur-seine-350-emplois-annonces-2968547.html)
 append_entries: 2
 Finish: 2024-05-13 12:44:11.642856
+------------------------------------------------------
+Started: 2024-05-14 01:17:01.740703
+Existing_entries: 80
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [150 emplois directs, 100 millions d'euros... Sanofi annonce de nouveaux investissements en Normandie](https://france3-regions.francetvinfo.fr/normandie/150-emplois-directs-100-millions-d-euros-sanofi-annonce-de-nouveaux-investissements-en-normandie-2968910.html)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: ["On nous jette à la porte comme des malpropres", la dernière usine automobile de Seine-Saint-Denis, l'équipementier MA France, placée en liquidation judiciaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/la-derniere-usine-automobile-de-seine-saint-denis-l-equipementier-ma-france-placee-en-liquidation-judiciaire-2968889.html)
+append_entries: 2
+Finish: 2024-05-14 01:17:07.983856

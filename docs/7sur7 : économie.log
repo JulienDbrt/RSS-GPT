@@ -405,3 +405,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les entreprises organisent leurs élections](https://www.7sur7.be/belgique/les-entreprises-organisent-leurs-elections~a3e809ef/)
 append_entries: 3
 Finish: 2024-05-13 12:36:41.799621
+------------------------------------------------------
+Started: 2024-05-14 01:11:50.366475
+Existing_entries: 85
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Deux nouveaux bons d’État seront émis en juin](https://www.7sur7.be/belgique/deux-nouveaux-bons-detat-seront-emis-en-juin~a5a787bd/)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Booking.com dans le viseur de la Commission européenne](https://www.7sur7.be/economie/booking-com-dans-le-viseur-de-la-commission-europeenne~a82a6ccf/)
+append_entries: 2
+Finish: 2024-05-14 01:12:00.291380

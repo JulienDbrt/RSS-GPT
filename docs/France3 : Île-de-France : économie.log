@@ -360,3 +360,15 @@ Summarized using GPT-3.5-turbo
 Append: [Une nouvelle usine du groupe pharmaceutique français Sanofi en projet à Vitry-sur-Seine, 350 emplois annoncés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/une-nouvelle-usine-du-groupe-pharmaceutique-francais-sanofi-en-projet-a-vitry-sur-seine-350-emplois-annonces-2968547.html)
 append_entries: 2
 Finish: 2024-05-13 12:43:34.161691
+------------------------------------------------------
+Started: 2024-05-14 01:16:28.164036
+Existing_entries: 70
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [JO Paris 2024 : comment obtenir son QR Code pour circuler à Paris pendant les jeux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-paris-2024-comment-obtenir-son-qr-code-pour-circuler-a-paris-pendant-les-jeux-2969126.html)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: ["On nous jette à la porte comme des malpropres", la dernière usine automobile de Seine-Saint-Denis, l'équipementier MA France, placée en liquidation judiciaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/la-derniere-usine-automobile-de-seine-saint-denis-l-equipementier-ma-france-placee-en-liquidation-judiciaire-2968889.html)
+append_entries: 2
+Finish: 2024-05-14 01:16:36.299096

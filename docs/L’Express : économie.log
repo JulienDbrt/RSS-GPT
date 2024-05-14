@@ -508,3 +508,15 @@ Summarized using GPT-3.5-turbo
 Append: [Intelligence artificielle : pourquoi Microsoft investit 4 milliards d’euros en France](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-pourquoi-microsoft-investit-4-milliards-deuros-en-france-EQ5YHAWPXZCDRAUZXXPXAGKMQA/)
 append_entries: 4
 Finish: 2024-05-13 12:45:30.948457
+------------------------------------------------------
+Started: 2024-05-14 01:17:44.038210
+Existing_entries: 166
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3302
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : OpenAI dévoile GPT-4o, un nouveau modèle d’IA générative](https://www.lexpress.fr/economie/high-tech/openai-devoile-gpt-4o-un-nouveau-modele-dia-generative-2GUXGVZSM5DR7JCRL2OD276WAY/)
+Token length: 18295
+Summarized using GPT-3.5-turbo
+Append: [Yoshua Bengio, prix Turing : "Si l’IA devient plus intelligente que nous…"](https://www.lexpress.fr/idees-et-debats/yoshua-bengio-prix-turing-si-lia-devient-plus-intelligente-que-nous-I5YI4JKNCFEXFC2XMS25B7Y4PU/)
+append_entries: 2
+Finish: 2024-05-14 01:17:51.819783

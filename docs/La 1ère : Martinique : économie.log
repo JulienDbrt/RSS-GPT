@@ -283,3 +283,18 @@ Existing_entries: 31
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-05-13 12:45:59.418909
+------------------------------------------------------
+Started: 2024-05-14 01:18:34.740954
+Existing_entries: 31
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 52
+Summarized using GPT-3.5-turbo
+Append: [Syndicalistes et parents mobilisés devant le rectorat contre les fermetures de classes envisagées à la prochaine rentrée](https://la1ere.francetvinfo.fr/martinique/syndicalistes-et-parents-mobilises-devant-le-rectorat-contre-les-fermetures-de-classes-envisagees-a-la-prochaine-rentree-1487858.html)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [Saint-Joseph : une usine de production d'eau bloquée par des manifestants exaspérés par les coupures](https://la1ere.francetvinfo.fr/martinique/saint-joseph-une-usine-de-production-d-eau-bloquee-par-des-manifestants-exasperes-par-les-coupures-1487744.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Transat Cap Martinique : tous les bateaux sont arrivés à Fort-de-France](https://la1ere.francetvinfo.fr/martinique/transat-cap-martinique-tous-les-bateaux-sont-arrives-a-fort-de-france-1487531.html)
+append_entries: 3
+Finish: 2024-05-14 01:18:51.390339

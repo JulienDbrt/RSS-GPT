@@ -452,3 +452,12 @@ Summarized using GPT-3.5-turbo
 Append: [Élections européennes : à un mois du scrutin, le candidat LR François-Xavier Bellamy veut surfer sur les sujets nationaux](https://www.francetvinfo.fr/replay-radio/le-brief-politique/elections-europeennes-a-un-mois-du-scrutin-le-candidat-lr-francois-xavier-bellamy-veut-surfer-sur-les-sujets-nationaux_6514004.html)
 append_entries: 2
 Finish: 2024-05-13 12:42:06.158637
+------------------------------------------------------
+Started: 2024-05-14 01:15:34.583263
+Existing_entries: 94
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [Procès de l'accident du TGV Est : le procureur requiert un an de prison avec sursis contre le conducteur et 400 000 euros d'amende contre la SNCF](https://www.francetvinfo.fr/faits-divers/accident/deraillement-d-un-tgv-en-alsace/proces-de-l-accident-du-tgv-est-un-an-de-prison-avec-sursis-requis-contre-le-conducteur-de-la-rame-400-000-euros-d-amende-requis-contre-la-sncf_6541940.html)
+append_entries: 1
+Finish: 2024-05-14 01:15:37.608535

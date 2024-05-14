@@ -387,3 +387,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le réseau social X remporte une victoire judiciaire en Australie](https://www.20min.ch/fr/933918827789)
 append_entries: 5
 Finish: 2024-05-13 12:36:26.629844
+------------------------------------------------------
+Started: 2024-05-14 01:11:35.797524
+Existing_entries: 79
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-05-14 01:11:36.439452

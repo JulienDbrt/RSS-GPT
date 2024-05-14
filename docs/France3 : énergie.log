@@ -303,3 +303,9 @@ Summarized using GPT-3.5-turbo
 Append: [Choose France : 100 millions d'euros investis en Bourgogne, une usine de gaz renouvelable construite à Dijon annonce François Patriat](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/choose-france-100-millions-d-euros-investis-en-bourgogne-une-usine-de-gaz-renouvelable-construite-a-dijon-annonce-francois-patriat-2968712.html)
 append_entries: 1
 Finish: 2024-05-13 12:43:24.516706
+------------------------------------------------------
+Started: 2024-05-14 01:16:27.719638
+Existing_entries: 51
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-05-14 01:16:28.128428

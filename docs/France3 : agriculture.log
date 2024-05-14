@@ -531,3 +531,18 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. "Bonjour à tortous", à 72 ans, Eliane partage ses recettes en patois vendéen sur les réseaux sociaux](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/sables-olonne-0/video-bonjour-a-tortous-a-72-ans-eliane-partage-ses-recettes-en-patois-vendeen-sur-les-reseaux-sociaux-2967593.html)
 append_entries: 2
 Finish: 2024-05-13 12:43:45.240516
+------------------------------------------------------
+Started: 2024-05-14 01:16:36.367567
+Existing_entries: 127
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: ["Maintenant, on repart à zéro" : un bilan difficile pour les viticulteurs de l'Aisne, touchés par les orages](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/maintenant-on-repart-a-zero-un-bilan-difficile-pour-les-viticulteurs-de-l-aisne-touches-par-les-orages-2969078.html)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: ["J'ai perdu 280 vaches en 8 ans", un rapport met en évidence l'impact des ondes sur les élevages](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/j-ai-perdu-280-vaches-en-8-ans-un-rapport-met-en-evidence-l-impact-des-ondes-sur-les-elevages-2969120.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: ["Agriculture, environnement et biodiversité sont compatibles". Des chercheurs prouvent qu'il est possible de réduire les pesticides sans perdre d'argent](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/agriculture-environnement-et-biodiversite-sont-compatibles-des-chercheurs-prouvent-qu-il-est-possible-de-reduire-les-pesticides-sans-perdre-d-argent-2968949.html)
+append_entries: 3
+Finish: 2024-05-14 01:16:47.057765

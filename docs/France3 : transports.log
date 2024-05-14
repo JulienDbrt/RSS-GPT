@@ -673,3 +673,30 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. Les travaux de la place du 30 octobre ont commencé à Dijon : quel impact sur la circulation ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/video-les-travaux-de-la-place-du-30-octobre-ont-commence-a-dijon-quel-impact-sur-la-circulation-2964311.html)
 append_entries: 9
 Finish: 2024-05-13 12:44:43.627300
+------------------------------------------------------
+Started: 2024-05-14 01:17:08.367448
+Existing_entries: 175
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: ["Il m'est tombé dessus ! ça peut arriver à tout le monde !" a clamé l'auteur de la mort d'un cycliste boulevard vantaux à Limoges](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/il-m-est-tombe-dessus-ca-peut-arriver-a-tout-le-monde-a-clame-l-auteur-de-la-mort-d-un-cycliste-boulevard-vantaux-a-limoges-2969156.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Après le RER en métropole lilloise, Xavier Bertrand souhaite un RER littoral](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/apres-le-rer-en-metropole-lilloise-xavier-bertrand-souhaite-un-rer-littoral-2969114.html)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Procès de l’accident du TGV d’Eckwersheim : le parquet requiert 400 000 euros d’amende contre la SNCF et de la prison avec sursis pour le conducteur](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/proces-de-l-accident-du-tgv-d-eckwersheim-le-parquet-requiert-400-000-euros-d-amende-contre-la-sncf-et-de-la-prison-avec-sursis-pour-le-conducteur-2968847.html)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [JO Paris 2024 : comment obtenir son QR Code pour circuler à Paris pendant les jeux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-paris-2024-comment-obtenir-son-qr-code-pour-circuler-a-paris-pendant-les-jeux-2969126.html)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: ["Le bout du tunnel", la ligne B du métro de Rennes devrait redémarrer à la mi-juin](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/le-bout-du-tunnel-la-ligne-b-du-metro-de-rennes-devrait-redemarrer-a-la-mi-juin-2969075.html)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [ENTRETIEN. Autoroute A69 : un rapport de l'observatoire toulousain des pratiques policières dénonce une utilisation abusive de la force](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/entretien-autoroute-a69-un-rapport-de-l-observatoire-toulousain-des-pratiques-policieres-denonce-une-utilisation-abusive-de-la-force-2968853.html)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : "La fermeture longue durée de la station Concorde risque d’avoir un fort impact sur le réseau de métro"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-la-fermeture-longue-duree-de-la-station-concorde-risque-d-avoir-un-fort-impact-sur-le-reseau-de-metro-2969015.html)
+append_entries: 7
+Finish: 2024-05-14 01:17:30.766139

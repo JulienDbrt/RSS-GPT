@@ -470,3 +470,15 @@ Summarized using GPT-3.5-turbo
 Append: [Sommet Choose France: 15 milliards d'euros de projets d'investissements](https://www.martinique.franceantilles.fr/actualite/economie/sommet-choose-france-15-milliards-deuros-de-projets-dinvestissements-987033.php)
 append_entries: 2
 Finish: 2024-05-13 12:41:14.218427
+------------------------------------------------------
+Started: 2024-05-14 01:14:50.909506
+Existing_entries: 120
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Télédéclaration des aides de la PAC prolongée jusqu’au 24 mai 2024](https://www.martinique.franceantilles.fr/actualite/economie/teledeclaration-des-aides-de-la-pac-prolongee-jusquau-24-mai-2024-987144.php)
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [L'association « Ultramarins Douboût » lance un appel à la mobilisation](https://www.martinique.franceantilles.fr/actualite/economie/lassociation-ultramarins-doubout-lance-un-appel-a-la-mobilisation-986992.php)
+append_entries: 2
+Finish: 2024-05-14 01:14:57.437384

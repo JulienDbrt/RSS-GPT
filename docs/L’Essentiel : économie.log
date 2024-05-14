@@ -481,3 +481,9 @@ Summarized using GPT-3.5-turbo
 Append: [Économie: Microsoft investit 4 milliards d’euros en France](https://www.lessentiel.lu/fr/story/economie-microsoft-investit-4-milliards-deuros-en-france-103104328)
 append_entries: 3
 Finish: 2024-05-13 12:45:10.929096
+------------------------------------------------------
+Started: 2024-05-14 01:17:42.533111
+Existing_entries: 157
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+append_entries: 0
+Finish: 2024-05-14 01:17:43.748108

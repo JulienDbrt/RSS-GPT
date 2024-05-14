@@ -350,3 +350,21 @@ Summarized using GPT-3.5-turbo
 Append: [Sommet Choose France : 15 milliards d’euros de projets d’investissements annoncés, dont 4 par Microsoft](https://www.20minutes.fr/economie/4090690-20240513-sommet-choose-france-15-milliards-euros-projets-investissements-annonces-dont-4-microsoft)
 append_entries: 1
 Finish: 2024-05-13 12:36:30.734021
+------------------------------------------------------
+Started: 2024-05-14 01:11:36.470712
+Existing_entries: 60
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Choose France : 15 milliards d’investissements étrangers pour 10.000 emplois… Ça fait cher le job, non ?](https://www.20minutes.fr/economie/4090759-20240513-choose-france-15-milliards-investissements-etrangers-10-000-emplois-ca-fait-cher-job-non)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Choose France : Frites, informatique, logistique… Les principaux investissements étrangers à retenir](https://www.20minutes.fr/economie/4090776-20240513-choose-france-frites-informatique-pharmacie-logistique-principaux-investissements-etrangers-retenir)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Médicaments : Sanofi annonce la construction d’une nouvelle usine en France](https://www.20minutes.fr/economie/4090742-20240513-medicaments-sanofi-annonce-construction-nouvelle-usine-france)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Cartes Pokémon : entre collection et fiscalité](https://www.20minutes.fr/economie/4090741-20240513-cartes-pokemon-entre-collection-fiscalite)
+append_entries: 4
+Finish: 2024-05-14 01:11:50.322402

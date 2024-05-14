@@ -303,3 +303,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des défenseurs de l’hôpital de Carhaix convoqués par la police : "on se retrouve en position d’accusés alors que nous sommes les victimes"](https://france3-regions.francetvinfo.fr/bretagne/finistere/carhaix-des-defenseurs-de-l-hopital-convoques-au-commissariat-on-se-retrouve-en-position-d-accuses-alors-que-nous-sommes-les-victimes-2968217.html)
 append_entries: 1
 Finish: 2024-05-13 12:44:01.179205
+------------------------------------------------------
+Started: 2024-05-14 01:16:52.145006
+Existing_entries: 51
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: ["Le bout du tunnel", la ligne B du métro de Rennes devrait redémarrer à la mi-juin](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/le-bout-du-tunnel-la-ligne-b-du-metro-de-rennes-devrait-redemarrer-a-la-mi-juin-2969075.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: ["Pas plus de 4.700 visiteurs par jour", l'île de Bréhat va limiter l'afflux de touristes cet été](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/pas-plus-de-4-700-visiteurs-par-jour-l-ile-de-brehat-veut-a-nouveau-limiter-l-afflux-de-touristes-cet-ete-2968688.html)
+append_entries: 2
+Finish: 2024-05-14 01:17:01.698357
