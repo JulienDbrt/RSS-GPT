@@ -546,3 +546,24 @@ Summarized using GPT-3.5-turbo
 Append: ["Agriculture, environnement et biodiversité sont compatibles". Des chercheurs prouvent qu'il est possible de réduire les pesticides sans perdre d'argent](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/agriculture-environnement-et-biodiversite-sont-compatibles-des-chercheurs-prouvent-qu-il-est-possible-de-reduire-les-pesticides-sans-perdre-d-argent-2968949.html)
 append_entries: 3
 Finish: 2024-05-14 01:16:47.057765
+------------------------------------------------------
+Started: 2024-05-14 12:43:49.099928
+Existing_entries: 130
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Une femme de 25 ans meurt percutée par un engin agricole](https://france3-regions.francetvinfo.fr/normandie/eure/une-femme-de-25-ans-meurt-percutee-par-un-engin-agricole-2969327.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Ils font le tour de l’Europe à vélo-roulotte pour découvrir le métier d'agriculteur : "voir tout ce qu'il y a à voir"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/ils-font-le-tour-de-l-europe-a-velo-roulotte-pour-decouvrir-le-metier-d-agriculteur-2968802.html)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: ["On veut garder une agriculture familiale et paysanne" : des agriculteurs inquiets des propositions du gouvernement](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/on-veut-garder-une-agriculture-familiale-et-paysanne-des-agriculteurs-inquiets-des-propositions-du-gouvernement-2969135.html)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: ["On pourrait penser que c'est une idée folle" : des milliers d'oliviers cultivés dans les Alpes, conséquence du réchauffement climatique](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/on-pourrait-penser-que-c-est-une-idee-folle-des-milliers-d-oliviers-cultives-dans-les-alpes-consequence-du-rechauffement-climatique-2968934.html)
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Les pollutions au lisier dans les rivières sont-elles une fatalité ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/video-les-pollutions-au-lisier-dans-les-rivieres-sont-elles-une-fatalite-2968991.html)
+append_entries: 5
+Finish: 2024-05-14 12:44:15.451603

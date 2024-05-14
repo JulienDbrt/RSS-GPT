@@ -389,3 +389,15 @@ Summarized using GPT-3.5-turbo
 Append: [Tête à tête avec Macron, discussions entre chefs d'entreprise... Dans les coulisses du sommet Choose France](https://www.europe1.fr/economie/tete-a-tete-avec-macron-discussions-entre-chefs-dentreprise-dans-les-coulisses-du-sommet-choose-france-4246788)
 append_entries: 1
 Finish: 2024-05-14 01:14:50.851715
+------------------------------------------------------
+Started: 2024-05-14 12:41:03.644767
+Existing_entries: 71
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 367
+Summarized using GPT-3.5-turbo
+Append: [Sommet Choose France : quelles retombées pour les Français ?](https://www.europe1.fr/economie/choose-france-quelles-retombees-pour-les-francais-4246798)
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [Économie : concurrence, géopolitique... Pourquoi la Chine n'attire plus les investisseurs européens ?](https://www.europe1.fr/economie/economie-concurrence-geopolitique-pourquoi-la-chine-nattire-plus-les-investisseurs-europeens-4246840)
+append_entries: 2
+Finish: 2024-05-14 12:41:15.425968

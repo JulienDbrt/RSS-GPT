@@ -393,3 +393,21 @@ Existing_entries: 79
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-05-14 01:11:36.439452
+------------------------------------------------------
+Started: 2024-05-14 12:36:22.176623
+Existing_entries: 79
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Washington augmente ses droits de douane sur des produits chinois](https://www.20min.ch/fr/103105157)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Poutine va se rendre en Chine, en quête d'un soutien plus fort](https://www.20min.ch/fr/103105088)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Non, ces chips ne sont pas plus saines, elles sont juste écolos](https://www.20min.ch/fr/103101954)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Anthropic lance Claude, concurrent de ChatGPT, en Europe](https://www.20min.ch/fr/664886857656)
+append_entries: 4
+Finish: 2024-05-14 12:36:45.477012

@@ -333,3 +333,15 @@ Existing_entries: 59
 Fetching from https://www.bfmtv.com/rss/economie/economie-social/
 append_entries: 0
 Finish: 2024-05-14 01:12:54.483011
+------------------------------------------------------
+Started: 2024-05-14 12:38:19.300360
+Existing_entries: 59
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: ["Supprimer une bouée de sauvetage": le nouveau congé parental inquiète les syndicats](https://www.bfmtv.com/economie/economie-social/supprimer-une-bouee-de-sauvetage-le-nouveau-conge-parental-inquiete-les-syndicats_AN-202405140228.html)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Gabriel Attal à la rencontre "des travaillleurs de première ligne" pour parler conditions de travail](https://www.bfmtv.com/economie/economie-social/gabriel-attal-a-la-rencontre-des-travaillleurs-de-premiere-ligne-pour-parler-conditions-de-travail_AN-202405140055.html)
+append_entries: 2
+Finish: 2024-05-14 12:38:33.591152

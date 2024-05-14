@@ -482,3 +482,24 @@ Summarized using GPT-3.5-turbo
 Append: [L'association « Ultramarins Douboût » lance un appel à la mobilisation](https://www.martinique.franceantilles.fr/actualite/economie/lassociation-ultramarins-doubout-lance-un-appel-a-la-mobilisation-986992.php)
 append_entries: 2
 Finish: 2024-05-14 01:14:57.437384
+------------------------------------------------------
+Started: 2024-05-14 12:41:15.484348
+Existing_entries: 122
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Plus de paysans, moins de contraintes ? Le projet de loi agricole au révélateur de l'Assemblée](https://www.martinique.franceantilles.fr/actualite/economie/plus-de-paysans-moins-de-contraintes-le-projet-de-loi-agricole-au-revelateur-de-lassemblee-987223.php)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Après une nuit de violences en Nouvelle-Calédonie: couvre-feu, appels au calme et nombreuses interpellations](https://www.martinique.franceantilles.fr/actualite/economie/emeutes-en-nouvelle-caledonie-le-gouvernement-local-lance-un-appel-au-calme-987227.php)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [« Les Caraïbes restent  la première destination des croisiéristes »](https://www.martinique.franceantilles.fr/actualite/economie/les-caraibes-restent-la-premiere-destination-des-croisieristes-987154.php)
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Opération séduction à la Foire de Paris](https://www.martinique.franceantilles.fr/actualite/economie/operation-seduction-a-la-foire-de-paris-987193.php)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie: les débats s'étirent à l'Assemblée, tensions et couvre-feu décrété dans l'archipel](https://www.martinique.franceantilles.fr/actualite/economie/nouvelle-caledonie-les-debats-setirent-a-lassemblee-tensions-et-couvre-feu-decrete-dans-larchipel-987218.php)
+append_entries: 5
+Finish: 2024-05-14 12:41:44.547931

@@ -298,3 +298,9 @@ Summarized using GPT-3.5-turbo
 Append: [Transat Cap Martinique : tous les bateaux sont arrivés à Fort-de-France](https://la1ere.francetvinfo.fr/martinique/transat-cap-martinique-tous-les-bateaux-sont-arrives-a-fort-de-france-1487531.html)
 append_entries: 3
 Finish: 2024-05-14 01:18:51.390339
+------------------------------------------------------
+Started: 2024-05-14 12:45:59.742192
+Existing_entries: 34
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-05-14 12:45:59.942869

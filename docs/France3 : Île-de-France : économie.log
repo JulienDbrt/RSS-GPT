@@ -372,3 +372,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On nous jette à la porte comme des malpropres", la dernière usine automobile de Seine-Saint-Denis, l'équipementier MA France, placée en liquidation judiciaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/la-derniere-usine-automobile-de-seine-saint-denis-l-equipementier-ma-france-placee-en-liquidation-judiciaire-2968889.html)
 append_entries: 2
 Finish: 2024-05-14 01:16:36.299096
+------------------------------------------------------
+Started: 2024-05-14 12:43:48.814485
+Existing_entries: 72
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-05-14 12:43:49.031510

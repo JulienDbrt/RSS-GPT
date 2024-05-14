@@ -520,3 +520,18 @@ Summarized using GPT-3.5-turbo
 Append: [Yoshua Bengio, prix Turing : "Si l’IA devient plus intelligente que nous…"](https://www.lexpress.fr/idees-et-debats/yoshua-bengio-prix-turing-si-lia-devient-plus-intelligente-que-nous-I5YI4JKNCFEXFC2XMS25B7Y4PU/)
 append_entries: 2
 Finish: 2024-05-14 01:17:51.819783
+------------------------------------------------------
+Started: 2024-05-14 12:45:26.115826
+Existing_entries: 168
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4437
+Summarized using GPT-3.5-turbo
+Append: [Management : le manque de reconnaissance, un mal français ?](https://www.lexpress.fr/economie/emploi/management/management-le-manque-de-reconnaissance-un-mal-francais-OIQFKVTX2RE7DHEXVPORILCDJY/)
+Token length: 2975
+Summarized using GPT-3.5-turbo
+Append: [Choose France : Macron hausse le ton face à TotalEnergies](https://www.lexpress.fr/economie/choose-france-macron-hausse-le-ton-face-a-totalenergies-F3JMEONC7VADHEI53VTHSTU6GE/)
+Token length: 2424
+Summarized using GPT-3.5-turbo
+Append: [Choose France : sous le tapis rouge, le tas de poussière](https://www.lexpress.fr/economie/politique-economique/choose-france-sous-le-tapis-rouge-le-tas-de-poussiere-NDRYWDNEKNFU5MFNYX3HMW7WWI/)
+append_entries: 3
+Finish: 2024-05-14 12:45:44.108812

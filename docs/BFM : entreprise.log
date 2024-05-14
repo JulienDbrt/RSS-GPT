@@ -684,3 +684,18 @@ Summarized using GPT-3.5-turbo
 Append: [Choose France: dans quels secteurs seront investis les 15 milliards d'euros annoncés ce lundi?](https://www.bfmtv.com/economie/entreprises/choose-france-dans-quels-secteurs-seront-investis-les-15-milliards-d-euros-annonces-ce-lundi_VN-202405130579.html)
 append_entries: 5
 Finish: 2024-05-14 01:13:17.750065
+------------------------------------------------------
+Started: 2024-05-14 12:39:28.273933
+Existing_entries: 188
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: ["Un pays pro-business": les patrons étrangers conquis au sommet Choose France](https://www.bfmtv.com/economie/entreprises/un-pays-pro-business-les-patrons-etrangers-conquis-au-sommet-choose-france_AD-202405130854.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: ["Un grand avantage": Emmanuel Macron se félicite du rôle du nucléaire dans la compétitivité française](https://www.bfmtv.com/economie/entreprises/energie/un-grand-avantage-emmanuel-macron-se-felicite-du-role-du-nucleaire-dans-la-competitivite-francaise_AV-202405130860.html)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Totalenergies: Macron "pas du tout" ravi à l'idée d'une cotation principale à New York](https://www.bfmtv.com/economie/entreprises/totalenergies-macron-pas-du-tout-ravi-a-l-idee-d-une-cotation-principale-a-new-york_AD-202405130813.html)
+append_entries: 3
+Finish: 2024-05-14 12:39:46.923123

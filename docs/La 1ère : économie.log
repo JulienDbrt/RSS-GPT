@@ -784,3 +784,15 @@ Summarized using GPT-3.5-turbo
 Append: [Saint-Joseph : une usine de production d'eau bloquée par des manifestants exaspérés par les coupures](https://la1ere.francetvinfo.fr/martinique/saint-joseph-une-usine-de-production-d-eau-bloquee-par-des-manifestants-exasperes-par-les-coupures-1487744.html)
 append_entries: 9
 Finish: 2024-05-14 01:18:34.722518
+------------------------------------------------------
+Started: 2024-05-14 12:45:44.664831
+Existing_entries: 196
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 34
+Summarized using GPT-3.5-turbo
+Append: [Kavadee : les temples tamouls de La Réunion s'adaptent à la flambée des prix de l'oignon](https://la1ere.francetvinfo.fr/reunion/kavadee-les-temples-tamouls-de-la-reunion-s-adaptent-a-la-flambee-des-prix-de-l-oignon-1487960.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [La ministre déléguée aux Outre-mer en visite pour 2 jours à La Réunion](https://la1ere.francetvinfo.fr/reunion/la-ministre-deleguee-aux-outre-mer-en-visite-pour-2-jours-a-la-reunion-1487945.html)
+append_entries: 2
+Finish: 2024-05-14 12:45:59.721657
