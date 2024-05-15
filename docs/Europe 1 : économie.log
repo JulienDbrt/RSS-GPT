@@ -401,3 +401,15 @@ Summarized using GPT-3.5-turbo
 Append: [Économie : concurrence, géopolitique... Pourquoi la Chine n'attire plus les investisseurs européens ?](https://www.europe1.fr/economie/economie-concurrence-geopolitique-pourquoi-la-chine-nattire-plus-les-investisseurs-europeens-4246840)
 append_entries: 2
 Finish: 2024-05-14 12:41:15.425968
+------------------------------------------------------
+Started: 2024-05-15 01:16:59.075640
+Existing_entries: 73
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [Pouvoir d'achat : les dépenses contraintes des Français baissent de 5%](https://www.europe1.fr/economie/pouvoir-dachat-les-depenses-contraintes-des-francais-baissent-de-5-4246996)
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : 9,9 milliards d’euros de retombées anticipées](https://www.europe1.fr/economie/jo-de-paris-2024-99-milliards-deuros-de-retombees-anticipees-4246984)
+append_entries: 2
+Finish: 2024-05-15 01:17:06.480525

@@ -304,3 +304,15 @@ Existing_entries: 34
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-05-14 12:45:59.942869
+------------------------------------------------------
+Started: 2024-05-15 01:21:28.521944
+Existing_entries: 34
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [Les structures d’aide à la personne en grande difficulté en Martinique, alertent les professionnels](https://la1ere.francetvinfo.fr/martinique/les-structures-d-aide-a-la-personne-en-grande-difficulte-en-martinique-alertent-les-professionnels-1488071.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Pénurie d'eau en Martinique : des habitants du centre et du sud encore privés d'eau](https://la1ere.francetvinfo.fr/martinique/penurie-d-eau-en-martinique-des-habitants-du-centre-et-du-sud-encore-prives-d-eau-1487984.html)
+append_entries: 2
+Finish: 2024-05-15 01:21:35.595638

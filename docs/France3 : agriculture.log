@@ -567,3 +567,24 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. Les pollutions au lisier dans les rivières sont-elles une fatalité ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/video-les-pollutions-au-lisier-dans-les-rivieres-sont-elles-une-fatalite-2968991.html)
 append_entries: 5
 Finish: 2024-05-14 12:44:15.451603
+------------------------------------------------------
+Started: 2024-05-15 01:18:47.383280
+Existing_entries: 135
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Projet de loi d'orientation sur l'agriculture : sur le terrain, la colère gronde "le texte est éloigné de nos demandes"](https://france3-regions.francetvinfo.fr/grand-est/champagne-ardenne/projet-de-loi-d-orientation-sur-l-agriculture-sur-le-terrain-la-colere-gronde-le-texte-est-eloigne-de-nos-demandes-2969477.html)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Attaques de chiens dans le Morbihan : 19 moutons en écopâturage retrouvés morts](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/attaques-de-chiens-dans-le-morbihan-19-moutons-en-ecopaturage-retrouves-morts-2969669.html)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Aveugle et bientôt agricultrice, le fabuleux destin d’Anaïs : "je veux montrer que malgré mon handicap, c'est possible"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/video-aveugle-et-bientot-agricultrice-le-fabuleux-destin-d-anais-je-veux-montrer-que-malgre-mon-handicap-c-est-possible-2969720.html)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Randonnée, bivouac, élevage : comment apaiser la cohabitation en montagne ?](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/randonnee-bivouac-elevage-comment-apaiser-la-cohabitation-en-montagne-2969561.html)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Un “diagnostic climatique” pour les fermes ? "On sait déjà qu'on va devoir évoluer", répondent les agriculteurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/un-diagnostic-climatique-pour-les-fermes-on-sait-deja-qu-on-va-devoir-evoluer-repondent-les-agriculteurs-2969690.html)
+append_entries: 5
+Finish: 2024-05-15 01:19:11.701024

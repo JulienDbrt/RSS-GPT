@@ -796,3 +796,24 @@ Summarized using GPT-3.5-turbo
 Append: [La ministre déléguée aux Outre-mer en visite pour 2 jours à La Réunion](https://la1ere.francetvinfo.fr/reunion/la-ministre-deleguee-aux-outre-mer-en-visite-pour-2-jours-a-la-reunion-1487945.html)
 append_entries: 2
 Finish: 2024-05-14 12:45:59.721657
+------------------------------------------------------
+Started: 2024-05-15 01:21:04.268612
+Existing_entries: 198
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [Prise en charge par la PAF de migrants haïtiens, à peine débarqués à Bouillante](https://la1ere.francetvinfo.fr/guadeloupe/prise-en-charge-par-la-paf-de-migrants-haitiens-a-peine-debarques-a-bouillante-1488188.html)
+Token length: 40
+Summarized using GPT-3.5-turbo
+Append: [RECIT. Violences en Nouvelle-Calédonie : retour en 10 temps sur un mardi éprouvant](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/recit-violences-en-nouvelle-caledonie-retour-en-10-temps-sur-un-mardi-eprouvant-1488161.html)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Violences en Nouvelle-Calédonie : dans le Grand Nouméa, la nuit a été troublée et ce n'est pas terminé](https://la1ere.francetvinfo.fr/nouvellecaledonie/violences-en-nouvelle-caledonie-dans-le-grand-noumea-la-nuit-a-ete-troublee-et-ce-n-est-pas-termine-1488176.html)
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [Les structures d’aide à la personne en grande difficulté en Martinique, alertent les professionnels](https://la1ere.francetvinfo.fr/martinique/les-structures-d-aide-a-la-personne-en-grande-difficulte-en-martinique-alertent-les-professionnels-1488071.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Pénurie d'eau en Martinique : des habitants du centre et du sud encore privés d'eau](https://la1ere.francetvinfo.fr/martinique/penurie-d-eau-en-martinique-des-habitants-du-centre-et-du-sud-encore-prives-d-eau-1487984.html)
+append_entries: 5
+Finish: 2024-05-15 01:21:28.502318

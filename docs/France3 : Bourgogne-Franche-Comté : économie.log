@@ -390,3 +390,15 @@ Existing_entries: 76
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-05-14 12:44:15.796286
+------------------------------------------------------
+Started: 2024-05-15 01:19:11.740260
+Existing_entries: 76
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Un “diagnostic climatique” pour les fermes ? "On sait déjà qu'on va devoir évoluer", répondent les agriculteurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/un-diagnostic-climatique-pour-les-fermes-on-sait-deja-qu-on-va-devoir-evoluer-repondent-les-agriculteurs-2969690.html)
+Token length: 415
+Summarized using GPT-3.5-turbo
+Append: [Affaire Goodyear : des perquisitions en cours sur trois sites européens du géant du pneumatique](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/affaire-goodyear-des-perquisitions-en-cours-sur-trois-sites-europeens-du-geant-du-pneumatique-2969609.html)
+append_entries: 2
+Finish: 2024-05-15 01:19:23.288392

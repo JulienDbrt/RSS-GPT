@@ -344,3 +344,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le Fonds de relance est vital pour la compétitivité de l’UE, selon le chef de l’Eurogroupe](https://www.euractiv.fr/section/economie/news/le-fonds-de-relance-est-vital-pour-la-competitivite-de-lue-selon-le-chef-de-leurogroupe/)
 append_entries: 2
 Finish: 2024-05-14 12:41:01.596264
+------------------------------------------------------
+Started: 2024-05-15 01:16:46.793460
+Existing_entries: 74
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Droits de douane sur les véhicules électriques chinois : l’Allemagne et la Suède réticentes](https://www.euractiv.fr/section/transport/news/droits-de-douane-sur-les-vehicules-electriques-chinois-lallemagne-et-la-suede-reticentes/)
+append_entries: 1
+Finish: 2024-05-15 01:16:52.254284

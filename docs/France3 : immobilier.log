@@ -294,3 +294,12 @@ Existing_entries: 44
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-05-14 12:44:28.990644
+------------------------------------------------------
+Started: 2024-05-15 01:19:45.592262
+Existing_entries: 44
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: ["À chaque fois que le bus passe, ça vibre, ça tremble dans la maison et maintenant, il y a des fissures" alertent des riverains d'une ligne de bus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/a-chaque-fois-que-le-bus-passe-ca-vibre-ca-tremble-dans-la-maison-et-maintenant-il-y-a-des-fissures-alertent-des-riverains-d-une-ligne-de-bus-2969492.html)
+append_entries: 1
+Finish: 2024-05-15 01:19:49.764865

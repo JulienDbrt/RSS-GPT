@@ -736,3 +736,21 @@ Summarized using GPT-3.5-turbo
 Append: ["On additionne les risques" : sur ce chantier, les ouvriers doivent jongler entre blocs instables, présence d'amiante et visibilité réduite](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/on-additionne-les-risques-sur-ce-chantier-les-ouvriers-doivent-jongler-entre-blocs-instables-presence-d-amiante-et-visibilite-reduite-2968919.html)
 append_entries: 10
 Finish: 2024-05-14 12:45:11.916916
+------------------------------------------------------
+Started: 2024-05-15 01:19:49.865098
+Existing_entries: 192
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [Gratuité des transports à Montpellier : hausse de la fréquentation de 23,7% au premier trimestre 2024](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/gratuite-des-transports-a-montpellier-hausse-de-la-frequentation-de-23-7-au-premier-trimestre-2024-2969792.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [Arnaque : non, votre carte de transport n'est pas gratuite, "il faut porter plainte" rappelle la CTS](https://france3-regions.francetvinfo.fr/grand-est/alsace/arnaque-non-votre-badge-de-transport-n-est-pas-gratuit-il-faut-porter-plainte-rappelle-la-cts-2969723.html)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [Vitres brisées, sièges arrachés, urine dans les bus, le transporteur dit stop et suspend deux lignes scolaires dans le Pays de Montbéliard](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/vitres-brisees-sieges-arraches-urine-dans-les-bus-le-transporteur-dit-stop-et-suspend-deux-lignes-scolaires-dans-le-pays-de-montbeliard-2969684.html)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: ["À chaque fois que le bus passe, ça vibre, ça tremble dans la maison et maintenant, il y a des fissures" alertent des riverains d'une ligne de bus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/a-chaque-fois-que-le-bus-passe-ca-vibre-ca-tremble-dans-la-maison-et-maintenant-il-y-a-des-fissures-alertent-des-riverains-d-une-ligne-de-bus-2969492.html)
+append_entries: 4
+Finish: 2024-05-15 01:20:12.047298

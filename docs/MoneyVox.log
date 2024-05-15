@@ -863,3 +863,33 @@ Append: [Carte bancaire : avez-vous encore besoin de la signer ?](https://www.mo
 Append: [Santé : ce député veut plafonner le reste à charge en fonction de vos revenus](https://www.moneyvox.fr/votre-argent/actualites/97736/sante-ce-depute-veut-plafonner-le-reste-a-charge-en-fonction-de-vos-revenus)
 append_entries: 15
 Finish: 2024-05-14 12:43:47.249478
+------------------------------------------------------
+Started: 2024-05-15 01:17:54.659259
+Existing_entries: 241
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Signature de la carte bancaire, blocage de succession... Les 3 infos du jour pour votre argent](https://www.moneyvox.fr/votre-argent/actualites/97752/signature-de-la-carte-bancaire-blocage-de-succession-les-3-infos-du-jour-pour-votre-argent)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière : cette hausse à deux chiffres qui touche les propriétaires](https://www.moneyvox.fr/immobilier/actualites/97755/taxe-fonciere-cette-hausse-a-deux-chiffres-qui-touche-les-proprietaires)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [La Bourse de Paris garde confiance avant l'inflation américaine](https://www.moneyvox.fr/bourse/actualites/97763/la-bourse-de-paris-garde-confiance-avant-inflation-americaine)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [L'action Société Générale s'envole, surprise américaine... Le journal de la Bourse du 14 mai](https://www.moneyvox.fr/bourse/actualites/97762/action-societe-generale-s-envole-surprise-americaine-le-journal-de-la-bourse-du-14-mai)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [USA : la confiance du président de la Fed dans un ralentissement de l'inflation « plus aussi élevée »](https://www.moneyvox.fr/banque/actualites/97761/usa-la-confiance-du-president-de-la-fed-dans-un-ralentissement-de-inflation-plus-aussi-elevee)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Objectifs climatiques : « Nous ne sommes pas l'ONU », se défend le directeur général de BNP Paribas](https://www.moneyvox.fr/banque/actualites/97757/objectifs-climatiques-nous-ne-sommes-pas-onu-se-defend-le-directeur-general-de-bnp-paribas)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Electricité : vous avez sûrement affaire à ce gestionnaire épinglé pour ces mauvaises pratiques](https://www.moneyvox.fr/energie/actualites/97754/electricite-vous-avez-surement-affaire-a-ce-gestionnaire-epingle-pour-ces-mauvaises-pratiques)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Prix du gaz : encore une mauvaise surprise en juin pour les consommateurs](https://www.moneyvox.fr/energie/actualites/97750/prix-du-gaz-encore-une-mauvaise-surprise-en-juin-pour-les-consommateurs)
+append_entries: 8
+Finish: 2024-05-15 01:18:29.104857

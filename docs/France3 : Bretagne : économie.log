@@ -324,3 +324,18 @@ Summarized using GPT-3.5-turbo
 Append: [ENQUÊTE. La cuisine à l'écran : le beurre et l'argent du buzz](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/enquete-la-cuisine-a-l-ecran-le-beurre-et-l-argent-du-buzz-2958941.html)
 append_entries: 1
 Finish: 2024-05-14 12:44:21.009664
+------------------------------------------------------
+Started: 2024-05-15 01:19:23.315389
+Existing_entries: 54
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Aveugle et bientôt agricultrice, le fabuleux destin d’Anaïs : "je veux montrer que malgré mon handicap, c'est possible"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/video-aveugle-et-bientot-agricultrice-le-fabuleux-destin-d-anais-je-veux-montrer-que-malgre-mon-handicap-c-est-possible-2969720.html)
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: ["On s'est laissé faire par la ratatouille des Sea Shepherd et compagnie", à Lorient, une nouvelle coalition pour défendre la pêche bretonne](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/on-s-est-laisse-faire-par-la-ratatouille-des-sea-shepherd-et-compagnie-a-lorient-une-nouvelle-coalition-pour-defendre-la-peche-bretonne-2969525.html)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Des recherches au large de Perros-Guirec pour retrouver un marin-pêcheur tombé à l'eau](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/des-recherches-au-large-de-perros-guirec-pour-retrouver-un-marin-pecheur-tombe-a-l-eau-2969480.html)
+append_entries: 3
+Finish: 2024-05-15 01:19:34.067090
