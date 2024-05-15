@@ -400,3 +400,12 @@ Summarized using GPT-3.5-turbo
 Append: [Paris, Nice, côte Atlantique: la crise du marché de la location est loin d'être terminée](https://www.bfmtv.com/immobilier/location/paris-nice-cote-atlantique-la-crise-du-marche-de-la-location-est-loin-d-etre-terminee_AV-202405140329.html)
 append_entries: 3
 Finish: 2024-05-15 01:15:55.136970
+------------------------------------------------------
+Started: 2024-05-15 12:39:18.812834
+Existing_entries: 90
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Trois ans pour vendre un logement neuf à Lille... Les délais de vente explosent pour les promoteurs](https://www.bfmtv.com/immobilier/construction/trois-ans-pour-vendre-un-logement-neuf-a-lille-les-delais-de-vente-explosent-pour-les-promoteurs_AV-202405150365.html)
+append_entries: 1
+Finish: 2024-05-15 12:39:24.818748

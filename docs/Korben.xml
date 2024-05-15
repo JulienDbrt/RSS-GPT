@@ -5,13 +5,173 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Vers une télépathie artificielle ? Des chercheurs décodent la parole interne</title>
+<link>https://korben.info/telepathie-artificielle-chercheurs-decodent-parole-interne.html</link>
+<guid>https://korben.info/telepathie-artificielle-chercheurs-decodent-parole-interne.html</guid>
+<content:encoded><![CDATA[
+<div> télépathie, neuroscience, interface cerveau-ordinateur, communication, étude
+
+Summary: 
+Des chercheurs de Caltech ont développé un dispositif permettant de décoder les mots pensés par des participants atteints de lésions de la moelle épinière. Grâce à des électrodes implantées dans le cerveau, ils ont réussi à prédire la parole interne avec une précision prometteuse. L'algorithme de décodage utilise un modèle informatique combiné à un modèle linguistique pour interpréter les signaux cérébraux et décoder les mots. Cette avancée ouvre des perspectives médicales et technologiques impressionnantes, bien que des questions éthiques sur la vie privée et le contrôle des pensées se posent. Les chercheurs travaillent sur des améliorations du système, visant même à distinguer les lettres individuelles de l'alphabet pour une communication par la pensée plus précise. Cette recherche révolutionnaire pourrait conduire à des interfaces cerveau-ordinateur permettant une communication télépathique à distance, ouvrant ainsi la voie à de nouvelles possibilités de communication sans parler ni écrire. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_an_internal_dialogue_with_myself_7b8559a2-4781-41f3-b9b9-e9f344552d48.webp" width="1456" /></p>
+<p>Vous avez déjà rêvé de communiquer par la pensée ? Eh bien, accrochez-vous à vos 2 neurones, car la télépathie pourrait bien devenir réalité plus vite que prévu ! En effet, des chercheurs de l&rsquo;Institut de Technologie de Californie (Caltech) viennent de franchir une étape cruciale en créant un dispositif capable d&rsquo;e lire et de traduire d&rsquo;interpréter la petit voix qu&rsquo;on a l&rsquo;intérieur de la tête. Et oui, ils ont réussi à décoder les mots qui se baladent dans votre cerveau !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-315651793" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors, comment ça marche ? Et bien les scientifiques ont recruté 2 personnes atteintes de lésions de la moelle épinière et leur ont implanté des électrodes dans le <em><a href="https://fr.wikipedia.org/wiki/Gyrus_supramarginal" rel="noopener" target="_blank">gyrus supramarginal</a></em> (à vos souhaits), une région du cerveau impliquée dans la formation de la parole interne. Pendant 3 jours, les participants ont été entraînés à s&rsquo;imaginer prononcer une série de six mots (<em>champ de bataille, cow-boy, python, cuillère, natation et téléphone</em>) et 2 termes absurdes (<em>nifzig et bindip</em>), pendant que leur activité cérébrale était enregistrée.</p>
+
+
+
+<p>Ensuite, les données ont été intégrées à un modèle informatique qui a essayé de décoder et d&rsquo;interpréter les signaux cérébraux des participants lorsqu&rsquo;ils pensaient à ces mots. Et devinez quoi ? Ça a marché ! Le modèle a réussi à prédire la parole interne du premier sujet avec une précision de <strong>79%</strong> et celle du deuxième avec une précision de <strong>23%</strong>. Bon, ok, ce n&rsquo;est pas parfait, mais c&rsquo;est un début prometteur ! </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160622" height="827" src="https://korben.info/app/uploads/2024/05/SCR-20240515-k0c.webp" width="777" /><figcaption class="wp-element-caption"><sub><em><strong>a)</strong> Diagramme de l’algorithme de décodage. Premièrement, l’activité neuronale (franchissements de seuils multi-unités et puissance de la bande de spikes) est segmentée temporellement et lissée sur chaque électrode. Deuxièmement, un RNN convertit une série temporelle de cette activité neuronale en une série temporelle de probabilités pour chaque phonème (plus la probabilité d’un jeton de « silence » entre les mots et d’un jeton « vide » associé à la procédure de formation de classification temporelle connexionniste). Le RNN est une architecture à cinq couches d’unités récurrentes à portes, entraînée avec TensorFlow 2. Enfin, les probabilités des phonèmes sont combinées avec un modèle linguistique à large vocabulaire (un modèle trigramme personnalisé de 125 000 mots implémenté dans Kaldi) pour décoder la phrase la plus probable. Les phonèmes dans ce diagramme sont notés en utilisant l’Alphabet Phonétique International. </em><br /><em><strong>b)</strong> Les cercles ouverts indiquent les taux d’erreur de mots pour deux modes de parole (vocalisé versus silencieux) et différentes tailles de vocabulaire (50 versus 125 000 mots). Les taux d’erreur de mots ont été agrégés sur 80 essais par jour pour le vocabulaire de 125 000 mots et 50 essais par jour pour le vocabulaire de 50 mots. Les lignes verticales indiquent les intervalles de confiance (IC) à 95 %. </em><br /><em><strong>c) </strong>Même chose que dans b, mais pour le taux de parole (mots par minute). </em><br /><em><strong>d)</strong> Un essai d’exemple en boucle fermée démontrant la capacité du RNN à décoder des séquences sensées de phonèmes (représentées en notation ARPABET) sans modèle linguistique. Les phonèmes sont décalés verticalement pour lisibilité, et ‘’ indique le jeton de silence (que le RNN a été entraîné à produire à la fin de tous les mots). La séquence de phonèmes a été générée en prenant les phonèmes à probabilité maximale à chaque étape temporelle. Notez que les erreurs de décodage de phonèmes sont souvent corrigées par le modèle linguistique, qui infère toujours le mot correct. Les phonèmes et mots incorrectement décodés sont indiqués en rouge.</em></sub></figcaption></figure></div>
+
+
+<p>Les chercheurs ont ainsi confirmé que le <em>gyrus supramarginal</em> joue un rôle clé dans la production de la parole interne. Mais il reste encore beaucoup à découvrir sur le fonctionnement de nos cerveaux dans ce domaine. On est encore loin de pouvoir utiliser cette technologie pour permettre à des personnes privées de communication, comme celles atteintes du <a href="https://fr.wikipedia.org/wiki/Syndrome_d%27enfermement" rel="noopener" target="_blank">syndrome d&rsquo;enfermement</a>, de s&rsquo;exprimer efficacement. Mais ça ouvre déjà des perspectives médicales et technologiques impressionnantes ! 🚀</p>
+
+
+
+<p>Bientôt, on pourra peut-être carrément faire communiquer nos cerveaux à distance grâce à ce genre d&rsquo;interfaces ! Plus besoin de parler ou d&rsquo;écrire, il suffira de penser très fort « <em>Hé mec, tu me passes le sel ?</em> » pour que votre ami vous envoie la salière par télépathie. Bon, j&rsquo;exagère un peu, mais avouez que ça serait quand même super cool !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1506809882" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et ce n&rsquo;est qu&rsquo;un début. Les chercheurs planchent déjà sur des améliorations de leur système. Ils espèrent notamment réussir à distinguer les lettres individuelles de l&rsquo;alphabet. Une sorte de <em>T9 cérébral</em> pour écrire des SMS par la pensée, vous imaginez ?</p>
+
+
+
+<p>Bien sûr, tout cela soulève aussi des questions éthiques sur la vie privée et le contrôle de nos pensées et aç signe probablement l&rsquo;arrêt de mort prochain de votre couple ^^. Mais en attendant, on ne peut que s&rsquo;émerveiller devant ces avancées qui nous rapprochent un peu plus de la science-fiction. Qui sait, peut-être qu&rsquo;un jour, on n&rsquo;aura même plus besoin de se parler pour se comprendre ?</p>
+
+
+
+<p>Si vous voulez en savoir plus sur cette étude fascinante, je vous invite à consulter l&rsquo;article original publié dans <a href="https://www.nature.com/articles/s41586-023-06377-x" rel="noopener" target="_blank">Nature Medicine</a> 📖</p>
+
+
+
+<p>Allez, maintenant je vais penser à un truc très fort dans ma tête et vous allez devoir le deviner&#8230;</p>
+
+
+
+<p>**** gniiiiiii ****</p>
+
+
+
+<p>Alors ? Bravo, vous avez trouvé !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1074325173" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://gizmodo.com/brain-machine-interface-translate-speech-telepathy-bmi-1851476460?utm_source=vip" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 12:30:00 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 12:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Waydroid – Pour exécuter des applications Android sous Linux comme un pro !</title>
+<link>https://korben.info/waydroid-executer-applications-android-linux.html</link>
+<guid>https://korben.info/waydroid-executer-applications-android-linux.html</guid>
+<content:encoded><![CDATA[
+<div> Waydroid, applications Android, Linux, installation, commande
+<br>
+<br>
+Summary: 
+Waydroid est une solution permettant d'exécuter des applications Android sur Linux. Il offre la possibilité d'utiliser des applications Android et Linux en même temps, en multi-tâche ou en mode plein écran. Optimisé pour offrir une expérience fluide et réactive, Waydroid utilise Wayland et la version AOSP de Mesa. Pour l'installer, il faut utiliser des commandes spécifiques sur une distribution basée sur Ubuntu ou Debian. Une fois installé, il est possible d'installer des applications Android en utilisant des fichiers APK et de les lancer depuis le terminal. Il est important de noter que les fichiers APK issus du web sont souvent conçus pour les processeurs ARM. En résumé, Waydroid permet de profiter de l'écosystème Android sur un système Linux, offrant ainsi le meilleur des deux mondes. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_Google_Android_mascot__Linux_mascot_fb66ed00-1dde-41d3-9689-54af290e5f39.webp" width="1456" /></p>
+<p>Si vous avez très très envie de faire tourner des applications Android sur votre Linux, ne cherchez plus, <strong>Waydroid</strong> est là pour réaliser votre rêve ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-159342234" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Waydroid peut fonctionner en multi-tâche et grâce à son mode multi-fenêtres, vous pourrez utiliser vos applications Android et Linux en même temps, côte à côte. Et si vous êtes plutôt du genre « une app à la fois », pas de problème, Waydroid propose aussi un mode plein écran pour une expérience 100% Android.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157831" height="682" src="https://korben.info/app/uploads/2024/03/main_landing-1024x682.webp" width="1024" /></figure></div>
+
+
+<p>En utilisant Wayland et la version AOSP de Mesa, il tire également le meilleur parti de votre matériel pour une expérience fluide et réactive. Donc, fini les lags et les ralentissements que vous avez d&rsquo;habitude avec vos émulateurs Android, même avec les jeux les plus gourmands. C&rsquo;est comme si vous aviez un vrai appareil Android entre les mains.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157830" height="717" src="https://korben.info/app/uploads/2024/03/Group-1-1024x717.webp" width="1024" /></figure></div>
+
+
+<p>Avant de vous lancer, assurez-vous d&rsquo;avoir une distribution basée sur <strong>Ubuntu</strong> ou <strong>Debian</strong>. Ça tombe bien, c&rsquo;est ce qu&rsquo;on utilise tous, non ?  </p>
+
+
+
+<p>Ensuite, ouvrez un terminal et tapez ces petites commandes magiques :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1551698507" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>sudo apt update </code></p>
+
+
+
+<p><code>sudo apt upgrade </code></p>
+
+
+
+<p><code>sudo apt install waydroid</code></p>
+
+
+
+<p>Et voilà, <strong>Waydroid</strong> est prêt à l&#8217;emploi ! Maintenant, passons aux choses sérieuses : <strong>installer une application Android. </strong></p>
+
+
+
+<p>Première étape, récupérez le fichier APK de l&rsquo;application que vous voulez installer. Vous pouvez le télécharger depuis le Play Store ou depuis des sites spécialisés comme <a href="https://www.apkmirror.com/" rel="noopener" target="_blank">APKMirror</a>. </p>
+
+
+
+<p>Une fois votre précieux APK en poche, retournez dans le terminal et entrez la commande suivante :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2024417064" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><code>waydroid app install chemin/vers/votre/fichier.apk</code></p>
+
+
+
+<p>Et boom ! L&rsquo;application est installée et prête à être utilisée. Vous la retrouverez dans votre menu d&rsquo;applications habituel.</p>
+
+
+
+<p>Maintenant si vous voulez épater vos amis en lançant l&rsquo;application depuis le terminal comme un vrai pro, c&rsquo;est possible aussi ! Il vous suffit de connaître le nom du paquet de l&rsquo;application (<em>com.exemple.app</em>) et de taper :</p>
+
+
+
+<p><code>waydroid app launch com.exemple.app</code></p>
+
+
+
+<p>Un petit conseil quand même avant de vous lancer : les fichiers APK qu&rsquo;on trouve sur le web sont souvent uniquement compatibles avec les processeurs ARM. Donc si vous avez un processeur <em>x86_64</em>, ça risque de coincer. Mais sinon, vous êtes parés pour profiter d&rsquo;<strong>Android</strong> sur votre <strong>Linux</strong> adoré !</p>
+
+
+
+<p>Bref, avec Waydroid, vous avez le meilleur des deux mondes : la flexibilité de Linux et la richesse de l&rsquo;écosystème Android. Pour plus d&rsquo;infos, je vous conseille de jeter un œil au site officiel de <a href="https://waydro.id/" rel="noopener" target="_blank">Waydroid</a></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1024641842" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Allez, amusez-vous bien et n&rsquo;oubliez pas : <em>dans le doute, <code>sudo</code> !</em> </p>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>VMware Workstation et Fusion passent en gratuits pour les usages personnels !</title>
 <link>https://korben.info/vmware-workstation-fusion-gratuits-usage-personnel.html</link>
 <guid>https://korben.info/vmware-workstation-fusion-gratuits-usage-personnel.html</guid>
 <content:encoded><![CDATA[
 <div> Virtualisation, VMware, Workstation, Fusion, gratuit
-<br>
-Summary: VMware, le spécialiste de la virtualisation, offre désormais gratuitement ses logiciels Workstation et Fusion pour un usage personnel. Ces outils permettent de faire tourner plusieurs systèmes d'exploitation sur une seule machine, offrant ainsi un environnement isolé pour tester des configurations sans risque. Connu pour sa performance et sa stabilité, VMware vise à fidéliser les utilisateurs en proposant cette version gratuite, tout en conservant une offre payante pour les professionnels. Cette stratégie marketing pourrait inciter les utilisateurs personnels à adopter VMware également dans un contexte professionnel. Cette offre gratuite est un moyen pour VMware d'attirer de nouveaux utilisateurs et de collecter des données pour le développement futur de ses produits. Profitez-en pour découvrir les fonctionnalités de VMware Workstation et Fusion sans aucune restriction de durée. <br><br> <div>
+<br />
+Summary: VMware, le spécialiste de la virtualisation, offre désormais gratuitement ses logiciels Workstation et Fusion pour un usage personnel. Ces outils permettent de faire tourner plusieurs systèmes d'exploitation sur une seule machine, offrant ainsi un environnement isolé pour tester des configurations sans risque. Connu pour sa performance et sa stabilité, VMware vise à fidéliser les utilisateurs en proposant cette version gratuite, tout en conservant une offre payante pour les professionnels. Cette stratégie marketing pourrait inciter les utilisateurs personnels à adopter VMware également dans un contexte professionnel. Cette offre gratuite est un moyen pour VMware d'attirer de nouveaux utilisateurs et de collecter des données pour le développement futur de ses produits. Profitez-en pour découvrir les fonctionnalités de VMware Workstation et Fusion sans aucune restriction de durée. <br /><br /> <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="234" src="https://korben.info/app/uploads/2024/05/SCR-20240514-p1a.webp" width="854" /></p>
 <p><strong>Alerte bon plan pour tous les passionnés de technologie ! </strong> <strong>VMware</strong>, le spécialiste de la <strong>virtualisation</strong>, a mis en ligne de nouvelles versions de ses logiciels <strong>Workstation</strong> et <strong>Fusion</strong>. La grande nouvelle, c&rsquo;est que l&rsquo;utilisation personnelle est désormais totalement <strong>gratuite</strong> ! Vous pouvez créer des <strong>machines virtuelles</strong> à profusion sur votre PC Windows, Linux ou votre Mac sans débourser un centime.</p>
 
@@ -73,7 +233,6 @@ Summary: VMware, le spécialiste de la virtualisation, offre désormais gratuite
 <p><a href="https://twitter.com/mikeroySoft/status/1790386458546823245" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 16:16:31 +0000</pubDate>
-<pubDate>Tue, 14 May 2024 16:16:31 +0000</pubDate>
 </item>
 <item>
 <title>Vidéosurveillance algorithmique – Pas le temps de souffler, l’Assemblée prépare déjà son extension !</title>
@@ -82,14 +241,14 @@ Summary: VMware, le spécialiste de la virtualisation, offre désormais gratuite
 <content:encoded><![CDATA[
 <div> expérimentation, vidéosurveillance algorithmique, transports publics, députés, surveillanc
 
-Summary:<br>
+Summary:<br />
 - Les députés proposent d'étendre la vidéosurveillance algorithmique aux transports publics, après une première expérimentation pour les JO 2024.
 - Cette technologie permet de repérer des comportements suspects à travers des caméras high-tech, mais son efficacité et ses dangers ne sont pas évalués.
 - Une nouvelle proposition de loi vise à autoriser la RATP et la SNCF à utiliser ces algorithmes pour répondre à des réquisitions judiciaires, malgré l'illégalité de cette surveillance de masse automatisée.
 - Le gouvernement préfère « expérimenter » et contourner les promesses d'évaluation sérieuse de ces dispositifs.
 - La Quadrature du Net appelle à la mobilisation contre la généralisation de la surveillance algorithmique dans l'espace public pour éviter une société de surveillance totale. 
 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="556" src="https://korben.info/app/uploads/2024/05/ppltrans.webp" width="1800" /></p>
 <p>À peine un an après avoir validé une première « <em>expérimentation</em> » de vidéosurveillance algorithmique (VSA) pour les <strong>JO 2024</strong>, nos chers députés élevés au grain, reviennent avec une nouvelle proposition de loi pour étendre ces jouets de flicage high-tech aux <strong>transports publics</strong>. Et moi qui pensais qu&rsquo;on aurait le droit à un petit répit le temps de voir les dérives des premiers déploiements de VSA et leurs conséquences sur nos libertés, c&rsquo;est raté ! Le rouleau compresseur sécuritaire est lancé à pleine vitesse et visiblement, impossible de l&rsquo;arrêter.</p>
 
@@ -135,15 +294,14 @@ Summary:<br>
 <p><a href="https://www.laquadrature.net/2024/05/14/vsa-lassemblee-discute-deja-son-extension-aux-transports/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 13:58:25 +0000</pubDate>
-<pubDate>Tue, 14 May 2024 13:58:25 +0000</pubDate>
 </item>
 <item>
 <title>Un GPU Intel Arc A750 sur un processeur ARM 64 cœurs ? C’était impossible, mais il l’a fait quand même !</title>
 <link>https://korben.info/intel-arc-a750-fonctionne-cpu-arm-64-coeurs-linux.html</link>
 <guid>https://korben.info/intel-arc-a750-fonctionne-cpu-arm-64-coeurs-linux.html</guid>
 <content:encoded><![CDATA[
-<div> ARM, Intel Arc, Ampere Altra, Linux, 3D<br>
-Summary:<br>
+<div> ARM, Intel Arc, Ampere Altra, Linux, 3D<br />
+Summary:<br />
 Un ingénieur a réussi à faire fonctionner une carte graphique Intel Arc sur un processeur ARM 64 cœurs Ampere Altra sous Linux. Malgré les obstacles liés à la compatibilité des pilotes, il a trouvé des solutions en recompilant des logiciels et en apportant des correctifs. Finalement, il a réussi à afficher de la 3D, ce qui est un exploit remarquable. Cela montre que la persévérance et la créativité peuvent surmonter les défis technologiques, ouvrant de nouvelles possibilités pour l'utilisation de différents matériels sur des plateformes inattendues. BraVo à Vlad pour son exploit et sa détermination à repousser les limites de la technologie. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="675" src="https://korben.info/app/uploads/2024/05/BPNght6eSdbXNPb7WcLGo4-1200-80.jpg.webp" width="1200" /></p>
 <p>Vous pensiez que les cartes graphiques Intel Arc étaient réservées aux processeurs x86 ? Et bien détrompez-vous car un ingénieur de génie nommé <a href="https://boredengineer.medium.com/a-quick-update-on-altrad8ud-1l2t-making-it-work-with-gpu-9cc925e6b769" rel="noopener" target="_blank">Vladimir Smirnov</a>, a réussi un exploit tout à fait inattendu. Il est parvenu à faire fonctionner un <a href="https://fr.wikipedia.org/wiki/Intel_Arc" rel="noopener" target="_blank">GPU Arc A750</a> sur un processeur ARM 64 cœurs Ampere Altra, et tout ça sous Linux !</p>
@@ -186,15 +344,14 @@ Un ingénieur a réussi à faire fonctionner une carte graphique Intel Arc sur u
 <p><a href="https://www.tomshardware.com/pc-components/gpu-drivers/intel-arc-gpu-hacked-to-work-on-a-64-core-arm-ampere-system-running-linux" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 13:27:29 +0000</pubDate>
-<pubDate>Tue, 14 May 2024 13:27:29 +0000</pubDate>
 </item>
 <item>
 <title>Megalopolis – La bande annonce de l’épopée cinématographique de Francis Ford Coppola</title>
 <link>https://korben.info/megalopolis-epopee-cinematographique-francis-ford-coppola.html</link>
 <guid>https://korben.info/megalopolis-epopee-cinematographique-francis-ford-coppola.html</guid>
 <content:encoded><![CDATA[
-<div> Cinéphiles, Francis Ford Coppola, Megalopolis, Festival de Cannes, casting<br>
-<br>Summary:
+<div> Cinéphiles, Francis Ford Coppola, Megalopolis, Festival de Cannes, casting<br />
+<br />Summary:
 Le légendaire réalisateur Francis Ford Coppola a enfin réalisé son projet de rêve, Megalopolis, après plus de 40 ans de développement. Le film de science-fiction épique se déroule dans un New York futuriste inspiré de la conjuration de Catilina. Coppola a dû financer lui-même une partie du budget, rassemblant un casting cinq étoiles. Malgré des obstacles lors du tournage, l'équipe a travaillé sans relâche pour donner vie à la vision du réalisateur. Megalopolis est déjà le film le plus attendu du Festival de Cannes, offrant des thèmes visionnaires et des images époustouflantes. Malgré les critiques mitigées, l'œuvre est déjà entrée dans la légende, symbolisant le travail d'un génie de cinéma dévoué à son art et dédié à sa femme décédée. La sortie de Megalopolis promet d'être un événement cinématographique majeur à ne pas manquer. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://korben.info/app/uploads/2024/05/SCR-20240514-kaz.webp" width="1920" /></p>
 <p><strong>Megalopolis</strong>. Un nom qui résonne dans l&rsquo;esprit des cinéphiles depuis plus de 40 ans. Le projet de rêve, l&rsquo;œuvre totale, la quête ultime de <strong>Francis Ford Coppola</strong>, le légendaire réalisateur du <strong>Parrain</strong> et d&rsquo;<strong>Apocalypse Now</strong>. Et après des décennies de préparation, des centaines de réécritures du script, des castings étoilés ayant défilé au fil des années, des tournages avortés et des financements introuvables, Megalopolis <strong>va enfin voir le jour</strong>. </p>
@@ -274,9 +431,7 @@ Le légendaire réalisateur Francis Ford Coppola a enfin réalisé son projet de
 <p><a href="https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 12:40:47 +0000</pubDate>
-<pubDate>Tue, 14 May 2024 12:40:47 +0000</pubDate>
 </item>
-
 <item>
 <title>Rooms – Créez des mondes 3D étonnants</title>
 <link>https://korben.info/rooms-cree-des-mondes-3d-etonnants-gratuitement.html</link>

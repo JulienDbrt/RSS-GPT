@@ -380,3 +380,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le trafic ferroviaire interrompu entre Ottignies et Bruxelles-Luxembourg](https://www.lalibre.be/belgique/mobilite/2024/05/14/le-trafic-ferroviaire-interrompu-entre-ottignies-et-bruxelles-luxembourg-DJJO3KNCXNBW7D37JYD76ARVXE/)
 append_entries: 1
 Finish: 2024-05-15 01:23:35.265630
+------------------------------------------------------
+Started: 2024-05-15 12:48:46.833730
+Existing_entries: 90
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-15 12:48:47.373916

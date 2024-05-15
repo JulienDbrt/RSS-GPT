@@ -269,3 +269,12 @@ Existing_entries: 27
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-05-15 01:17:45.103652
+------------------------------------------------------
+Started: 2024-05-15 12:42:09.369036
+Existing_entries: 27
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Aviation : Ryanair va fermer sa base à Bordeaux-Mérignac](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aviation-ryanair-va-fermer-sa-base-a-bordeaux-merignac_6517838.html)
+append_entries: 1
+Finish: 2024-05-15 12:42:15.426230

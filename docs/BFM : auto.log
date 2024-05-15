@@ -387,3 +387,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Conduisez comme une femme": ces chiffres qui battent en brèche les clichés sexistes](https://www.bfmtv.com/auto/conduisez-comme-une-femme-ces-chiffres-qui-battent-en-breche-les-cliches-sexistes_AV-202405140719.html)
 append_entries: 4
 Finish: 2024-05-15 01:14:13.703362
+------------------------------------------------------
+Started: 2024-05-15 12:37:37.536924
+Existing_entries: 73
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [Problème d'airbag: Citroën rappelle plusieurs centaines de milliers de C3 et DS3](https://www.bfmtv.com/auto/probleme-d-airbag-citroen-rappelle-plusieurs-centaines-de-milliers-de-c3-et-ds3_AV-202405150569.html)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: ["Un positionnement résolument haut de gamme": le "Tesla chinois" Xpeng débarque en France](https://www.bfmtv.com/auto/un-positionnement-resolument-haut-de-gamme-le-tesla-chinois-xpeng-debarque-en-france_AV-202405150266.html)
+append_entries: 2
+Finish: 2024-05-15 12:37:48.436427

@@ -790,3 +790,15 @@ Summarized using GPT-3.5-turbo
 Append: [Où investir son argent pour ne plus déprimer en consultant ses comptes ? | TF1 INFO](https://www.tf1info.fr/conso/epargne-ou-investir-son-argent-pour-ne-plus-deprimer-en-consultant-ses-comptes-scpi-2299214.html)
 append_entries: 8
 Finish: 2024-05-15 01:09:34.338819
+------------------------------------------------------
+Started: 2024-05-15 12:33:10.913461
+Existing_entries: 238
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Les promoteurs immobiliers alertent sur des chiffres "cataclysmiques"](https://www.24matins.fr/les-promoteurs-immobiliers-alertent-sur-des-chiffres-cataclysmiques-1375068)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Crédit immobilier : les nouveaux taux des banques](https://www.lesechos.fr/patrimoine/immobilier/credit-immobilier-les-nouveaux-taux-des-banques-2094788)
+append_entries: 2
+Finish: 2024-05-15 12:33:21.995330

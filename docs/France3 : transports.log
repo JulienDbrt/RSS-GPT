@@ -754,3 +754,24 @@ Summarized using GPT-3.5-turbo
 Append: ["À chaque fois que le bus passe, ça vibre, ça tremble dans la maison et maintenant, il y a des fissures" alertent des riverains d'une ligne de bus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/a-chaque-fois-que-le-bus-passe-ca-vibre-ca-tremble-dans-la-maison-et-maintenant-il-y-a-des-fissures-alertent-des-riverains-d-une-ligne-de-bus-2969492.html)
 append_entries: 4
 Finish: 2024-05-15 01:20:12.047298
+------------------------------------------------------
+Started: 2024-05-15 12:44:23.487707
+Existing_entries: 196
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 441
+Summarized using GPT-3.5-turbo
+Append: ["Les camions regardent s’ils peuvent passer, et en général, ils passent" : dans le Doubs, le pont des Rosiers cause du souci aux poids lourds](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/les-camions-regardent-s-ils-peuvent-passer-et-en-general-ils-passent-dans-le-doubs-le-pont-des-rosiers-cause-du-souci-aux-poids-lourds-2969921.html)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [Tunnel du Mont-Blanc : une anomalie détectée, la circulation perturbée et des déviations mises en place pour les poids lourds](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/chamonix/tunnel-du-mont-blanc-une-anomalie-detectee-la-circulation-perturbee-et-des-deviations-mises-en-place-pour-les-poids-lourds-2970074.html)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [VRAI OU FAUX. La carte Pass Pass à 2 euros pour voyager en illimité dans les Hauts-de-France, arnaque ou pas arnaque ?](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/vrai-ou-faux-la-carte-pass-pass-a-2-euros-pour-voyager-en-illimite-dans-les-hauts-de-france-arnaque-ou-pas-arnaque-2969888.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Poids lourd couché sur l'autoroute A35 : la circulation coupée mercredi jusqu'en début d'après-midi](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/a35-autoroute-coupee-a-partir-de-8h-en-raison-d-un-poids-lourd-couche-sur-les-voies-2969861.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: ["Il y a beaucoup de clients que je ne voyais plus" : un coiffeur joue les taxis pour aller chercher les séniors](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/il-y-a-beaucoup-de-clients-que-je-ne-voyais-plus-un-coiffeur-joue-les-taxis-pour-aller-chercher-les-seniors-2968700.html)
+append_entries: 5
+Finish: 2024-05-15 12:44:44.342983

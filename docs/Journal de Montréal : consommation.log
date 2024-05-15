@@ -352,3 +352,15 @@ Summarized using GPT-3.5-turbo
 Append: [[BALADO] Pollution plastique, la faute à qui?](https://www.journaldemontreal.com/2024/05/14/balado-pollution-plastique-la-faute-a-qui)
 append_entries: 3
 Finish: 2024-05-15 01:20:27.633154
+------------------------------------------------------
+Started: 2024-05-15 12:44:44.370309
+Existing_entries: 50
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [L'inflation pousse les consommateurs vers l'usagé, même en magasin](https://www.journaldemontreal.com/2024/05/14/linflation-pousse-les-consommateurs-vers-lusage-meme-en-magasin)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [Ce restaurant montréalais a été élu le meilleur au pays par le palmarès Canada’s 100 Best pour une 2e fois](https://www.journaldemontreal.com/2024/05/14/ce-restaurant-montrealais-a-ete-elu-le-meilleur-au-pays-par-le-palmares-canadas-100-best-pour-une-2e-fois)
+append_entries: 2
+Finish: 2024-05-15 12:44:53.897439

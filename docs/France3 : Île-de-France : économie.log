@@ -393,3 +393,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les enseignants de l'institut catholique de Montalembert en grève contre l'arrivée d'une nouvelle directrice au "management toxique"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-enseignants-de-l-institut-catholique-de-montalembert-en-greve-contre-l-arrivee-d-une-nouvelle-directrice-au-management-toxique-2969486.html)
 append_entries: 3
 Finish: 2024-05-15 01:18:47.310365
+------------------------------------------------------
+Started: 2024-05-15 12:43:45.378729
+Existing_entries: 75
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-05-15 12:43:45.450967

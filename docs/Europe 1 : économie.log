@@ -413,3 +413,24 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : 9,9 milliards d’euros de retombées anticipées](https://www.europe1.fr/economie/jo-de-paris-2024-99-milliards-deuros-de-retombees-anticipees-4246984)
 append_entries: 2
 Finish: 2024-05-15 01:17:06.480525
+------------------------------------------------------
+Started: 2024-05-15 12:40:34.558448
+Existing_entries: 75
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [Automobile :  Stellantis ouvre les portes de l'Europe à son partenaire chinois Leapmotor](https://www.europe1.fr/economie/automobile-stellantis-ouvre-les-portes-de-leurope-a-son-partenaire-chinois-leapmotor-4247139)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [Fiscalisée, la nouvelle «prime Macron» n'a plus la cote](https://www.europe1.fr/economie/fiscalisee-la-nouvelle-prime-macron-na-plus-la-cote-4247127)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Le nombre de Livrets d'épargne populaire (LEP) atteint 11,5 millions](https://www.europe1.fr/economie/le-nombre-de-livrets-depargne-populaire-lep-atteint-115-millions-4247121)
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [Emmanuel Macron se rend à Fécamp pour inaugurer un parc d'éoliennes en mer, avant l'EPR jeudi](https://www.europe1.fr/economie/emmanuel-macron-se-rend-a-fecamp-pour-inaugurer-un-parc-deoliennes-en-mer-avant-lepr-jeudi-4247074)
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [France : l'Insee confirme une inflation de 2,2% en avril, en léger ralentissement](https://www.europe1.fr/economie/france-linsee-confirme-une-inflation-de-22-en-avril-en-leger-ralentissement-4247067)
+append_entries: 5
+Finish: 2024-05-15 12:40:54.476697

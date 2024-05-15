@@ -369,3 +369,12 @@ Summarized using GPT-3.5-turbo
 Append: [La Suisse et l'Autriche s'intéressent de plus en plus aux cryptomonnaies](https://www.bfmtv.com/crypto/la-suisse-et-l-autriche-s-interessent-de-plus-en-plus-aux-cryptomonnaies_AV-202405140366.html)
 append_entries: 6
 Finish: 2024-05-15 01:14:36.188817
+------------------------------------------------------
+Started: 2024-05-15 12:37:58.717679
+Existing_entries: 67
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [La Suisse va inclure les cryptomonnaies dans les échanges d'informations fiscales](https://www.bfmtv.com/crypto/la-suisse-va-inclure-les-cryptomonnaies-dans-les-echanges-d-informations-fiscales_AD-202405150585.html)
+append_entries: 1
+Finish: 2024-05-15 12:38:03.681254

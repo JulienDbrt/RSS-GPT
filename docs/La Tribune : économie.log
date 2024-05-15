@@ -781,3 +781,27 @@ Summarized using GPT-3.5-turbo
 Append: [JO 2024: entre 6,7 à 11,1 milliards de retombées économiques attendues pour Paris et l'Île-de-France](https://www.latribune.fr/economie/france/jo-2024-entre-6-7-a-11-1-milliards-de-retombees-economiques-attendues-pour-paris-et-l-ile-de-france-997526.html)
 append_entries: 4
 Finish: 2024-05-15 01:23:50.744914
+------------------------------------------------------
+Started: 2024-05-15 12:48:47.481341
+Existing_entries: 191
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 390
+Summarized using GPT-3.5-turbo
+Append: [Émeutes en Nouvelle-Calédonie : Macron demande au gouvernement de déclarer « l’état d’urgence »](https://www.latribune.fr/economie/politique/emeutes-en-nouvelle-caledonie-au-moins-deux-morts-et-des-centaines-de-blesses-997581.html)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [CETA : l'accord de libre-échange UE-Canada ne sera pas voté à l'Assemblée nationale avant « fin 2024 »](https://www.latribune.fr/economie/france/ceta-l-accord-de-libre-echange-ue-canada-ne-sera-pas-vote-a-l-assemblee-nationale-avant-fin-2024-997602.html)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [L'inflation a de nouveau reculé en avril en France, de plus en plus proche de l'objectif de la BCE](https://www.latribune.fr/economie/france/l-inflation-a-de-nouveau-recule-en-avril-en-france-de-plus-en-plus-proche-de-l-objectif-de-la-bce-997598.html)
+Token length: 324
+Summarized using GPT-3.5-turbo
+Append: [Le gouvernement portugais relance pour la énième fois la construction d’un nouvel aéroport à Lisbonne](https://www.latribune.fr/entreprises-finance/services/transport-logistique/le-gouvernement-portugais-relance-pour-la-enieme-fois-la-construction-d-un-nouvel-aeroport-a-lisbonne-997591.html)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Un record d'avions militaires chinois détectés autour de l'île de Taïwan](https://www.latribune.fr/economie/international/un-record-d-avions-militaires-chinois-detectes-autour-de-l-ile-de-taiwan-997573.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Les 5 infos business à retenir ce mercredi matin (Nouvelle-Calédonie, Google, Macron, Renault, audiovisuel)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-mercredi-matin-nouvelle-caledonie-google-macron-renault-audiovisuel-997585.html)
+append_entries: 6
+Finish: 2024-05-15 12:49:11.297653

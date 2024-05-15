@@ -512,3 +512,18 @@ Summarized using GPT-3.5-turbo
 Append: [L'Arcep attribue de nouvelles fréquences 5G en Martinique et en Guadeloupe](https://www.martinique.franceantilles.fr/actualite/economie/larcep-attribue-de-nouvelles-frequences-5g-en-martinique-et-en-guadeloupe-987267.php)
 append_entries: 1
 Finish: 2024-05-15 01:17:13.250001
+------------------------------------------------------
+Started: 2024-05-15 12:40:54.537948
+Existing_entries: 128
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Un feu de forêt menace une ville pétrolière de l'ouest du Canada, nouvelles évacuations](https://www.martinique.franceantilles.fr/actualite/economie/un-feu-de-foret-menace-une-ville-petroliere-de-louest-du-canada-nouvelles-evacuations-987373.php)
+Token length: 54
+Summarized using GPT-3.5-turbo
+Append: [Gérer une coopérative : une formation nécessaire](https://www.martinique.franceantilles.fr/actualite/economie/gerer-une-cooperative-une-formation-necessaire-987302.php)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Macron se rend à Fécamp pour inaugurer un parc d'éoliennes en mer, avant l'EPR jeudi](https://www.martinique.franceantilles.fr/actualite/economie/macron-se-rend-a-fecamp-pour-inaugurer-un-parc-deoliennes-en-mer-avant-lepr-jeudi-987369.php)
+append_entries: 3
+Finish: 2024-05-15 12:41:11.088528

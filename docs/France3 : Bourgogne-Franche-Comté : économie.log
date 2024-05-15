@@ -402,3 +402,18 @@ Summarized using GPT-3.5-turbo
 Append: [Affaire Goodyear : des perquisitions en cours sur trois sites européens du géant du pneumatique](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/affaire-goodyear-des-perquisitions-en-cours-sur-trois-sites-europeens-du-geant-du-pneumatique-2969609.html)
 append_entries: 2
 Finish: 2024-05-15 01:19:23.288392
+------------------------------------------------------
+Started: 2024-05-15 12:43:51.202680
+Existing_entries: 78
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: ["35 à 40 % de pertes" : dans la Nièvre, le seul commerce du village est bloqué... à cause de travaux !](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/35-a-40-de-pertes-dans-la-nievre-le-seul-commerce-du-village-est-bloque-a-cause-de-travaux-2969804.html)
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: [Sortie de prison de la maire d'Avallon Jamilah Habsaoui : "je suis convaincu de son innocence"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/sortie-de-prison-de-la-maire-d-avallon-jamilah-habsaoui-je-suis-convaincu-de-son-innocence-2969999.html)
+Token length: 441
+Summarized using GPT-3.5-turbo
+Append: ["Les camions regardent s’ils peuvent passer, et en général, ils passent" : dans le Doubs, le pont des Rosiers cause du souci aux poids lourds](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/les-camions-regardent-s-ils-peuvent-passer-et-en-general-ils-passent-dans-le-doubs-le-pont-des-rosiers-cause-du-souci-aux-poids-lourds-2969921.html)
+append_entries: 3
+Finish: 2024-05-15 12:44:03.619646
