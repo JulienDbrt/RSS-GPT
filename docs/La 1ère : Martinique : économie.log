@@ -322,3 +322,18 @@ Existing_entries: 36
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-05-15 12:46:13.660674
+------------------------------------------------------
+Started: 2024-05-16 01:20:09.740457
+Existing_entries: 36
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Le gouvernement de Sainte-Lucie décrète l'état d’urgence pour pénurie d’eau](https://la1ere.francetvinfo.fr/martinique/le-gouvernement-de-sainte-lucie-decrete-l-etat-d-urgence-pour-penurie-d-eau-1488506.html)
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [Pénurie d'eau en Martinique : le préfet envisage des mesures plus contraignantes](https://la1ere.francetvinfo.fr/martinique/penurie-d-eau-en-martinique-le-prefet-envisage-des-mesures-plus-contraignantes-1488416.html)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Pénurie d'eau en Martinique : les coupures touchent de plus en plus de foyers](https://la1ere.francetvinfo.fr/martinique/penurie-d-eau-en-martinique-les-coupures-touchent-de-plus-en-plus-de-foyers-1488401.html)
+append_entries: 3
+Finish: 2024-05-16 01:20:20.235938

@@ -333,3 +333,15 @@ Summarized using GPT-3.5-turbo
 Append: [Énergie : en quoi le carbone est à la fois le problème et la solution au dérèglement climatique](https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/energie-en-quoi-le-carbone-est-a-la-fois-le-probleme-et-la-solution-au-dereglement-climatique-2968625.html)
 append_entries: 1
 Finish: 2024-05-15 12:43:45.340955
+------------------------------------------------------
+Started: 2024-05-16 01:18:40.932781
+Existing_entries: 53
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Emmanuel Macron reporte sa visite de l'EPR de Flamanville](https://france3-regions.francetvinfo.fr/normandie/manche/emmanuel-macron-reporte-sa-visite-de-l-epr-de-flamanville-2970479.html)
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: [Localisation, puissance, visibilité... Que sait-on du futur parc éolien flottant de Bretagne-sud](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/que-sait-on-du-parc-eolien-de-bretagne-sud-alors-que-le-futur-exploitant-va-etre-devoile-2970134.html)
+append_entries: 2
+Finish: 2024-05-16 01:18:47.772314

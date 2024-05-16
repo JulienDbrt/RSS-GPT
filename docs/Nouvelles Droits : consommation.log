@@ -3238,3 +3238,93 @@ Append: [Le rapport d’activité de l’année 2023 de la médiatrice de l’en
 Append: [Agnès Pannier-Runacher, ministre déléguée auprès du ministre de l’Agriculture et de la Souveraineté alimentaire, se rendra en Indre-et-Loire (37) mardi 14 mai](https://agriculture.gouv.fr/agnes-pannier-runacher-ministre-deleguee-aupres-du-ministre-de-lagriculture-et-de-la-souverainete-2)
 append_entries: 64
 error when rendering xml, skip docs/Nouvelles Droits : consommation
+------------------------------------------------------
+Started: 2024-05-16 01:11:13.868740
+Existing_entries: 0
+Fetching from https://nouvelles.droit.org/categs/rss/1003
+Token length: 2650
+Summarized using GPT-3.5-turbo
+Append: [$con.titolo1](https://www.agcm.it:443/media-e-comunicazione/dettaglio?id=02b70c71-1af7-4305-b037-cc5648e1cba6)
+Token length: 775
+Summarized using GPT-3.5-turbo
+Append: [Bollettino 19/2024](https://www.agcm.it:443/pubblicazioni/dettaglio?id=23394a99-7b4b-426c-bdcf-6d3ee3be0d51)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [C12637 - Acquisizione da parte del Gruppo Intergea S.p.A. del controllo esclusivo di Autoghinzani Bergamo S.r.l.](https://www.agcm.it:443/competenze/tutela-della-concorrenza/operazioni-di-concentrazione/dettaglio?id=ce1a745e-0504-425a-988e-5f505a0f73ca)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [C12638 - Acquisizione da parte di illimity Società di Gestione del Risparmio S.p.A. e Noberasco Holding S.p.A. del controllo congiunto di Noberasco S.p.A.](https://www.agcm.it:443/competenze/tutela-della-concorrenza/operazioni-di-concentrazione/dettaglio?id=e8ceee30-0ff8-49b4-beed-1d01ca219eb0)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [C12639 - Acquisto da parte di Supermercati Tosano Cerea S.r.l. di un ramo di azienda ad insegna "Bennet"](https://www.agcm.it:443/competenze/tutela-della-concorrenza/operazioni-di-concentrazione/dettaglio?id=8483ae18-630c-4e68-b2a1-df29a74fc6fb)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [La stratégie de Sephora pour occuper le terrain pendant les JO Paris 2024](https://www.lsa-conso.fr/la-strategie-de-sephora-pour-occuper-le-terrain-pendant-les-jeux-olympiques,455659)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Les fruits exotiques made in France sortent de l'ombre](https://www.lsa-conso.fr/les-fruits-exotiques-made-in-france-sortent-de-l-ombre,455310)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [L'iconique enseigne de jouets FAO Schwarz débarque en France, aux Galeries Lafayette Haussmann](https://www.lsa-conso.fr/l-iconique-enseigne-de-jouets-fao-schwarz-fait-ses-premiers-pas-en-france-aux-galeries-lafayette-haussmann,455652)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi Bricomarché, Bricorama et Bricocash s’ouvrent à la franchise](https://www.lsa-conso.fr/pourquoi-bricomarche-bricorama-et-bricocash-s-ouvrent-a-la-franchise,455658)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [La météo et la convivialité portent le rebond des PGC FLS début mai](https://www.lsa-conso.fr/la-meteo-et-la-convivialite-portent-le-rebond-des-pgc-fls-debut-mai,455660)
+Append: [FrenchFood Capital investit 40 M€ dans trois nouvelles PME de l’agroalimentaire](https://www.lsa-conso.fr/french-food-capital-investit-40-m-dans-trois-nouvelles-pme-de-l-agroalimentaire,455656)
+Append: [Le Conseil de l’Union européenne vient d’adopter définitivement les mesures de simplification de la PAC pour répondre à la crise agricole](https://agriculture.gouv.fr/le-conseil-de-lunion-europeenne-vient-dadopter-definitivement-les-mesures-de-simplification-de-la)
+Append: [Gaspillage alimentaire : des nouvelles données pour la France](https://agriculture.gouv.fr/gaspillage-alimentaire-des-nouvelles-donnees-pour-la-france)
+Append: [Les 5 principaux bienfaits de l'eau de coco pour la santé , selon les experts | Vogue France](https://www.google.com/url?rct=j&sa=t&url=https://www.vogue.fr/article/5-bienfaits-eau-de-coco-sante-experts&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3F0Qhi6J9iAIqQ13ofndN8)
+Append: [Les Rendez|vous de l' alimentation - Strasbourg.eu](https://www.google.com/url?rct=j&sa=t&url=https://www.strasbourg.eu/-/rendez-vous-de-l-alimentation-et-tour-des-fermes&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw2lrzHo6t4dBA-UYkHl4MTq)
+Append: [Santé : cet aliment-star de l'apéro est mauvais pour la santé , voici par quoi le remplacer](https://www.google.com/url?rct=j&sa=t&url=https://www.pleinevie.fr/sante/nutrition/sante-cet-aliment-star-de-lapero-est-mauvais-pour-la-sante-voici-par-quoi-le-remplacer-118084.html&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw25-HTXm4521GmKztkle2hk)
+Append: [Hypertension : cet aliment, que nous mangeons tous les jours, est à éviter pour faire baisser ...](https://www.google.com/url?rct=j&sa=t&url=https://www.pleinevie.fr/sante/nutrition/hypertension-cet-aliment-que-nous-mangeons-tous-les-jours-est-a-eviter-pour-faire-baisser-la-tension-arterielle-118000.html&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw2fx0XTz95rzJq1daEaHAc-)
+Append: [Alimentation : le prix prend le pas sur la qualité - La France Agricole](https://www.google.com/url?rct=j&sa=t&url=https://www.lafranceagricole.fr/grande-distribution/article/866894/alimentation-le-prix-prend-le-pas-sur-la-qualite&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0_9qus0cmixP6CHVyahe-I)
+Append: [La santé des plantes pour la vie. - EFSA](https://www.google.com/url?rct=j&sa=t&url=https://www.efsa.europa.eu/fr/plh4l&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw31mJfLKK9ugm8GguikgK-o)
+Append: [Trop de sel dans les plats : les maladies cardiovasculaires tuent 10 000 personnes par jour ...](https://www.google.com/url?rct=j&sa=t&url=https://www.sudouest.fr/economie/alimentation/trop-de-sel-dans-les-plats-les-maladies-cardiovasculaires-tuent-10-000-personnes-par-jour-en-europe-19713191.php&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw17s19OuW6YTFnyoiIeJEjW)
+Append: [La campagne #PlantHealth4Life est de retour, en plus grand, en mieux! L'Europe, unie pour ...](https://www.google.com/url?rct=j&sa=t&url=https://www.efsa.europa.eu/fr/news/planthealth4life-campaign-back-bigger-and-better-europe-unites-support-plant-health&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw07Ey33-ot7IHCjTOj7Guyx)
+Append: [Maladies inflammatoires chroniques de l'intestin, levons le tabou ! - ladepeche.fr](https://www.google.com/url?rct=j&sa=t&url=https://www.ladepeche.fr/2024/05/15/maladies-inflammatoires-chroniques-de-lintestin-levons-le-tabou-11947918.php&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3YxkUHVM5gbkx5dwLe8BdV)
+Append: [L' alimentation anti-'ge qui booste votre collagène selon ce dermatologue](https://www.google.com/url?rct=j&sa=t&url=https://www.journee-mondiale.com/aliments-booste-collagene-peau-jeune-1816.htm&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw36Y-5stpTsro8T62YBO97U)
+Append: [Mémoire : voici le régime le plus adapté à votre cerveau selon des chercheurs](https://www.google.com/url?rct=j&sa=t&url=https://fr.news.yahoo.com/m%25C3%25A9moire-r%25C3%25A9gime-adapt%25C3%25A9-%25C3%25A0-cerveau-145000359.html&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw2BIwzqxKH67PqpNReT1Vbv)
+Append: [Les Ehpad évalués par la HAS sur la qualité de leur prise en charge - La Croix](https://www.google.com/url?rct=j&sa=t&url=https://www.la-croix.com/sante/les-ehpad-evalues-par-la-has-sur-la-qualite-de-leur-prise-en-charge-20240514&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw1J9lhtAbS1m4hbrKLnHzdO)
+Append: [Peut-on encore s'inscrire pour voter aux élections européennes ?](https://www.service-public.fr/particuliers/actualites/A15546?xtor=RSS-111)
+Append: [Les Matinales de la DGCCRF](https://www.economie.gouv.fr/dgccrf/Manifestations)
+Append: [24-D-05 : relative à des pratiques mises en œuvre dans le secteur de l’équarrissage](https://www.autoritedelaconcurrence.fr/fr/decision/relative-des-pratiques-mises-en-oeuvre-dans-le-secteur-de-lequarrissage)
+Append: [Sèches-cheveux, luminaires, barbecues, appareils anti-moustiques : des risques sérieux identifiés](https://www.economie.gouv.fr/dgccrf/seches-cheveux-luminaires-barbecues-appareils-anti-moustiques-des-risques-serieux-identifies)
+Append: [10 bonnes habitudes à adopter pour manger mieux](https://www.60millions-mag.com/2024/05/15/10-bonnes-habitudes-adopter-pour-manger-mieux-22802)
+Append: [L’assurance de la partie adverse tarde à payer, que faire ?](https://www.60millions-mag.com/2024/05/14/l-assurance-de-la-partie-adverse-tarde-payer-que-faire-22816)
+Append: [Dollar Tree Sued Over Lead-Contaminated Cinnamon](https://www.dailyintakeblog.com/2024/05/dollar-tree-sued-over-lead-contaminated-cinnamon/)
+Append: [Rivière du M't, en version liqueur moderne](https://www.lsa-conso.fr/riviere-du-mat-en-version-liqueur-moderne,455650)
+Append: [Vrac et réemploi : Réseau vrac et Deloitte dévoilent leur premier baromètre économique](https://www.lsa-conso.fr/vrac-et-reemploi-reseau-vrac-et-deloitte-devoilent-leur-premier-barometre-economique,455643)
+Append: [Profiter pleinement des JO de Paris : conseils utiles pour les consommateurs](https://www.inc-conso.fr/content/profiter-pleinement-des-jo-de-paris-conseils-utiles-pour-les-consommateurs)
+Append: [Impacts des JO sur vos déplacements à Paris](https://www.inc-conso.fr/content/impacts-des-jo-sur-vos-deplacements-paris)
+Append: [Les Vade-mecums d'inspection](https://agriculture.gouv.fr/les-vade-mecums-dinspection)
+Append: [Insight 14 May 2024 Webinar - Public Procurement: Grant or Contract?](https://dwfgroup.com/en/news-and-insights/insights/2024/5/webinar-public-procurement-grant-or-contract)
+Append: [Actualité14/5/2024Violences dans le cinéma, l’audiovisuel, le spectacle vivant, la mode et la publicité : quelle est la mission de la commission d’enquête ?](https://www.ddg.fr/actualite/violences-dans-le-cinema-laudiovisuel-le-spectacle-vivant-la-mode-et-la-publicite-quelle-est-la-mission-de-la-commission-denquete)
+Append: [Actualité - Reste à charge - Les plus pauvres trop exposés](https://www.quechoisir.org/actualite-reste-a-charge-les-plus-pauvres-trop-exposes-n123206/)
+Append: [Comment nous testons - Crèmes solaires - Le protocole](https://www.quechoisir.org/comment-nous-testons-cremes-solaires-le-protocole-n14861/)
+Append: [Le guide ultime pour choisir son opticien à Nîmes](https://www.senioractu.com/Le-guide-ultime-pour-choisir-son-opticien-a-Nimes_a25779.html)
+Append: [Doit-on arrêter de manger du fromage quand on a du cholestérol? - Notretemps.com](https://www.google.com/url?rct=j&sa=t&url=https://www.notretemps.com/sante-bien-etre/nutrition/doit-on-arreter-de-manger-du-fromage-quand-on-a-du-cholesterol-91268&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0vLFBzGZnp28m4JFu4W4KF)
+Append: [Quelle est la meilleure alimentation pour vivre plus longtemps ? - RTL](https://www.google.com/url?rct=j&sa=t&url=https://www.rtl.fr/actu/sante/quelle-est-la-meilleure-alimentation-pour-vivre-plus-longtemps-7900383385&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3thnbXLYANuZhPr2hpzjCD)
+Append: [Pourquoi vous avez des fringales - Le Soleil](https://www.google.com/url?rct=j&sa=t&url=https://www.lesoleil.com/partenaires/protegez-vous/2024/05/14/pourquoi-vous-avez-des-fringales-2VM6R5KTXJDT5OWBWOWJUXJLZU/&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw2oAoV1YA7HkwyvhOJBpw62)
+Append: ["J'ai pleuré de douleur au bureau": Elle raconte son calvaire avec le psoriasis - Journée Mondiale](https://www.google.com/url?rct=j&sa=t&url=https://www.journee-mondiale.com/temoignage-parcours-vaincre-psoriasis-solutions-naturelles-alimentation-bien-etre-1859.htm&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3zGvRFDNexDBcwc63sJOP8)
+Append: [Découvrez le top 10 des aliments bons pour améliorer la vue - Futura-Sciences](https://www.google.com/url?rct=j&sa=t&url=https://www.futura-sciences.com/sante/questions-reponses/yeux-decouvrez-top-10-aliments-bons-ameliorer-vue-20577/&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw1An6We9k5IUUDtQ4bkZ8iA)
+Append: [Pourquoi vous avez des fringales - Le Quotidien](https://www.google.com/url?rct=j&sa=t&url=https://www.lequotidien.com/partenaires/protegez-vous/2024/05/14/pourquoi-vous-avez-des-fringales-2VM6R5KTXJDT5OWBWOWJUXJLZU/&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0Zb6jLoJR7s7MgF03iNnBl)
+Append: [Comment préparer une recette de salade complète, diététique et sans viande](https://www.google.com/url?rct=j&sa=t&url=https://www.magazine-avantages.fr/comment-preparer-une-recette-de-salade-complete-dietetique-et-sans-viande,205477.asp&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0w1qVcGhLRrmhP9FD0J38J)
+Append: [Voici ce que vous devez savoir avant de suivre un régime amaigrissant](https://www.google.com/url?rct=j&sa=t&url=https://www.ouest-france.fr/leditiondusoir/2024-05-14/voici-ce-que-vous-devez-savoir-avant-de-suivre-un-regime-amaigrissant-c049c4a5-e42d-45c8-8156-eb3f1a30d880&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3Dohi3rrNWjH_h6nS70j9s)
+Append: [Une étude a tranché : ce fruit est le plus contaminé par les pesticides - Top Santé](https://www.google.com/url?rct=j&sa=t&url=https://www.topsante.com/medecine/environnement_et_sante/pesticides/une-etude-a-tranche-ce-fruit-est-le-plus-contamine-par-les-pesticides-879538&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3-_NvR32Q4_lgFLGeXeQxZ)
+Append: [Obésité animale: des solutions efficaces pour y remédier - Salut Bonjour](https://www.google.com/url?rct=j&sa=t&url=https://www.salutbonjour.ca/2024/05/13/obesite-animale-des-solutions-efficaces-pour-y-remedier&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw27FlsXv19GAwTmYXtedfzJ)
+Append: [Décrypter le génome du cancer du sein masculin - Planete sante](https://www.google.com/url?rct=j&sa=t&url=https://www.planetesante.ch/Magazine/Cancer/Cancer-du-sein/Decrypter-le-genome-du-cancer-du-sein-masculin&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0u68bhu8uYDlSBsaxsrCHb)
+Append: [Voici le top 5 des pires aliments pour la santé , selon le docteur Cocaul - Yahoo Actualités](https://www.google.com/url?rct=j&sa=t&url=https://fr.news.yahoo.com/voici-le-top-5-des-pires-aliments-pour-la-sante-selon-le-docteur-cocaul-091410154.html&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw2wzYUxqH1e8kiiQBpRIYJ2)
+Append: [PONTEILS-ET-BRÉSIS À l'hôpital, une journée dédiée à la santé des femmes](https://www.google.com/url?rct=j&sa=t&url=https://www.objectifgard.com/actualites/ponteils-et-bresis-a-lhopital-une-journee-dediee-a-la-sante-des-femmes-128003.php&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3ufFMIFsMI6qm21PGUwM2s)
+Append: [Les 10 aliments miracles pour faire baisser votre pression artérielle naturellement](https://www.google.com/url?rct=j&sa=t&url=https://www.journee-mondiale.com/les-10-aliments-miracles-pour-faire-baisser-votre-pression-arterielle-naturellement-1951.htm&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw1OP3lBoBCYJ4fzf0G0c2wW)
+Append: [Pourquoi nomme-t-on les vitamines avec des lettres ? | National Geographic](https://www.google.com/url?rct=j&sa=t&url=https://www.nationalgeographic.fr/sciences/pourquoi-nomme-t-on-les-vitamines-avec-des-lettres-nutrition-connaissances-scientifiques-dietetique-beriberi&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw34QXvRFR02BeIc75EmEgdL)
+Append: [Quels sont les aliments ultra-transformés à éviter absolument ? - Pourquoi Docteur](https://www.google.com/url?rct=j&sa=t&url=https://www.pourquoidocteur.fr/Articles/Question-d-actu/47743-Quels-aliments-ultra-transformes-eviter-absolument&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3dC14Qodjxmh7_FJraaq17)
+Append: [Voici l'élément transformé qu'il ne faudrait surtout pas manger - PARENTS.fr](https://www.google.com/url?rct=j&sa=t&url=https://www.parents.fr/actualites/etre-parent/voici-lelement-transforme-quil-ne-faudrait-surtout-pas-manger-1089012&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw2V0vF-7-Gp5bP4bqL0wXKD)
+Append: [Souveraineté agricole : « Le projet de loi ne répond pas aux bonnes questions » - La Croix](https://www.google.com/url?rct=j&sa=t&url=https://www.la-croix.com/a-vif/souverainete-agricole-le-projet-de-loi-ne-repond-pas-aux-bonnes-questions-20240514&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0xU-iFibC_An-XyeVmd0px)
+Append: [Combien peut on manger de yaourt au soja par jour ?](https://www.google.com/url?rct=j&sa=t&url=https://www.journee-mondiale.com/combien-peut-on-manger-de-yaourt-au-soja-par-jour-2154.htm&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw1wkxDN4b1zcSCRKIe3Qi7S)
+Append: [Nutrition : notre santé mise à mal par l'agro industrie - Radio France](https://www.google.com/url?rct=j&sa=t&url=https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mardi-14-mai-2024-9611411&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0Aup7MEYqA0p8CEUOE1SqJ)
+Append: [L'intérêt légal de retard et les pénalités de retard ne peuvent pas se cumuler](https://entreprendre.service-public.fr/actualites/A17382?xtor=RSS-111)
+Append: [Recrutement sans concours ouvert aux personnes en situation de handicap](https://www.economie.gouv.fr/dgccrf/recrutement-sans-concours-ouvert-aux-personnes-en-situation-de-handicap)
+append_entries: 64
+error when rendering xml, skip docs/Nouvelles Droits : consommation

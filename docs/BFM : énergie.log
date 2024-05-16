@@ -327,3 +327,18 @@ Existing_entries: 51
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-05-15 12:37:37.240212
+------------------------------------------------------
+Started: 2024-05-16 01:14:17.700547
+Existing_entries: 51
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Un consortium remporte la réalisation du premier parc éolien flottant commercial](https://www.bfmtv.com/economie/entreprises/energie/un-consortium-remporte-la-realisation-du-premier-parc-eolien-flottant-commercial_AD-202405150904.html)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Gaz: le Qatar prévoit de nouveaux contrats d'approvisionnement à long terme](https://www.bfmtv.com/economie/entreprises/energie/gaz-le-qatar-prevoit-de-nouveaux-contrats-d-approvisionnement-a-long-terme_AD-202405150703.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Pétrole: l'AIE revoit légèrement à la baisse sa prévision de croissance de la demande pour 2024](https://www.bfmtv.com/economie/entreprises/energie/petrole-l-aie-revoit-legerement-a-la-baisse-sa-prevision-de-croissance-de-la-demande-pour-2024_AD-202405150701.html)
+append_entries: 3
+Finish: 2024-05-16 01:14:28.223650

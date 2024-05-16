@@ -1333,3 +1333,30 @@ Append: [CARTE. Où se trouvent les différents parcs éoliens offshore en servi
 Append: ["L'info et vous" : consultez les résultats de la consultation sur les médias et l'information de franceinfo et "Ouest-France"](https://www.francetvinfo.fr/economie/medias/l-info-et-vous-consultez-les-resultats-de-la-consultation-sur-les-medias-et-l-information-de-franceinfo-et-ouest-france_6544016.html)
 append_entries: 13
 Finish: 2024-05-15 12:42:09.355041
+------------------------------------------------------
+Started: 2024-05-16 01:17:07.836026
+Existing_entries: 459
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Voitures sans permis : les mauvais élèves du contrôle technique](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/voitures-sans-permis-les-mauvais-eleves-du-controle-technique_6546533.html)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [Panneaux solaires : l'option de la location](https://www.francetvinfo.fr/economie/energie/panneaux-solaires-l-option-de-la-location_6546509.html)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Véhicules électriques : les droits de douane américains sur les voitures chinoises multipliés par quatre](https://www.francetvinfo.fr/economie/vehicules-electriques-les-droits-de-douane-americains-sur-les-voitures-chinoises-multiplies-par-quatre_6546500.html)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [Intercités : une nouvelle génération de trains attendue pour 2027](https://www.francetvinfo.fr/economie/transports/sncf/intercites-une-nouvelle-generation-de-trains-attendue-pour-2027_6546308.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [franceinfo junior. Comment fonctionnent les éoliennes en mer ?](https://www.francetvinfo.fr/replay-radio/france-info-junior/franceinfo-junior-comment-fonctionnent-les-eoliennes-en-mer_6517781.html)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Éoliennes en mer : à Fécamp, des habitants plutôt favorables au nouveau parc de 71 éoliennes](https://www.francetvinfo.fr/economie/energie/eoliennes-en-mer-a-fecamp-des-habitants-plutot-favorables-au-nouveau-parc-de-71-eoliennes_6545894.html)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [L'Insee confirme le ralentissement de l'inflation en France en avril, à 2,2% sur un an](https://www.francetvinfo.fr/economie/inflation/l-insee-confirme-le-ralentissement-de-l-inflation-en-france-en-avril-a-2-2-sur-un-an_6545840.html)
+append_entries: 7
+Finish: 2024-05-16 01:17:37.400505

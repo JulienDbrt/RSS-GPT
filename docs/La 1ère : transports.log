@@ -346,3 +346,9 @@ Summarized using GPT-3.5-turbo
 Append: [90 passagers pour Wallis toujours bloqués aux îles Fidji](https://la1ere.francetvinfo.fr/wallisfutuna/90-passagers-pour-wallis-toujours-bloques-aux-iles-fidji-1488209.html)
 append_entries: 2
 Finish: 2024-05-15 12:46:29.800842
+------------------------------------------------------
+Started: 2024-05-16 01:20:20.395643
+Existing_entries: 44
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-05-16 01:20:20.428791

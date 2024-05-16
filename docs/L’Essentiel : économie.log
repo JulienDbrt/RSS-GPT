@@ -526,3 +526,15 @@ Summarized using GPT-3.5-turbo
 Append: [Accidents mortels: Goodyear Luxembourg rattrapé par un vieux dossier](https://www.lessentiel.lu/fr/story/accidents-mortels-goodyear-luxembourg-rattrape-par-un-vieux-dossier-103105298)
 append_entries: 2
 Finish: 2024-05-15 12:45:15.923053
+------------------------------------------------------
+Started: 2024-05-16 01:19:23.641272
+Existing_entries: 164
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [L'enseigne Esprit dépose le bilan en Europe](https://www.lessentiel.lu/fr/story/lenseigne-esprit-depose-le-bilan-en-europe-103106320)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Énergies au Luxembourg: Les factures de gaz et d'électricité d'Enovos devraient gonfler en 2025](https://www.lessentiel.lu/fr/story/energies-au-luxembourg-les-factures-de-gaz-et-delectricite-denovos-devraient-gonfler-en-2025-103106280)
+append_entries: 2
+Finish: 2024-05-16 01:19:31.787161

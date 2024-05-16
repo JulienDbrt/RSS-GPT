@@ -430,3 +430,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des emplois à Lannemezan   et dans le secteur](https://www.ladepeche.fr/2024/05/15/des-emplois-a-lannemezan-et-dans-le-secteur-11951275.php)
 append_entries: 2
 Finish: 2024-05-15 12:47:56.899285
+------------------------------------------------------
+Started: 2024-05-16 01:20:57.851779
+Existing_entries: 82
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [À Revel, l’ancien atelier de la Maison Daïdé va se transformer en pépinière artisanale](https://www.ladepeche.fr/2024/05/15/a-revel-lancien-atelier-de-la-maison-daide-va-se-transformer-en-pepiniere-artisanale-11952858.php)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: ["Une solution qui convient mieux" : Epyvag a organisé un salon des métiers pour les collégiens d’Argelès](https://www.ladepeche.fr/2024/05/15/une-solution-qui-convient-mieux-epyvag-a-organise-un-salon-des-metiers-pour-les-collegiens-dargeles-11952689.php)
+append_entries: 2
+Finish: 2024-05-16 01:21:03.057486

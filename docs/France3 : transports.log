@@ -775,3 +775,21 @@ Summarized using GPT-3.5-turbo
 Append: ["Il y a beaucoup de clients que je ne voyais plus" : un coiffeur joue les taxis pour aller chercher les séniors](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/il-y-a-beaucoup-de-clients-que-je-ne-voyais-plus-un-coiffeur-joue-les-taxis-pour-aller-chercher-les-seniors-2968700.html)
 append_entries: 5
 Finish: 2024-05-15 12:44:44.342983
+------------------------------------------------------
+Started: 2024-05-16 01:18:55.679877
+Existing_entries: 201
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [Eboulement au Grand Colombier : une paroi rocheuse s'effondre sur la route, la circulation interdite jusqu'à nouvel ordre](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/ain/eboulement-au-grand-colombier-des-blocs-rocheux-bloquent-la-route-la-circulation-interdite-jusqu-a-nouvel-ordre-2970452.html)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [Trois milliards d’euros, cinq corridors : la piste du métro étudiée à Bordeaux Métropole](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/trois-milliards-d-euros-cinq-corridors-la-piste-du-metro-etudiee-a-bordeaux-metropole-2970404.html)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A69 : l'avancement des travaux est un "mythe" selon les opposants, Atosca maintient être dans les temps](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/autoroute-a69-l-avancement-des-travaux-est-un-mythe-selon-les-opposants-atosca-maintient-etre-dans-les-temps-2970140.html)
+Token length: 325
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux : des milliers de voitures Citroën et Dacia rappelées pour des défauts dangereux](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/airbags-defectueux-des-milliers-de-voitures-citroen-et-dacia-rappelees-pour-des-defauts-dangereux-2970029.html)
+append_entries: 4
+Finish: 2024-05-16 01:19:09.680522

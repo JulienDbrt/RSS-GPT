@@ -336,3 +336,12 @@ Summarized using GPT-3.5-turbo
 Append: [FAO Schwarz, le mythique magasin de jouets américain apparu dans plusieurs films, débarque à Paris](https://www.bfmtv.com/economie/consommation/fao-schwarz-le-mythique-magasin-de-jouets-americain-apparu-dans-plusieurs-films-debarque-a-paris_AD-202405150515.html)
 append_entries: 1
 Finish: 2024-05-15 12:37:58.678332
+------------------------------------------------------
+Started: 2024-05-16 01:14:41.510104
+Existing_entries: 54
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Huiles, volaille, surgelés… Ces produits dont les prix ont baissé depuis un an](https://www.bfmtv.com/economie/consommation/huiles-volaille-surgeles-ces-produits-dont-les-prix-ont-baisse-depuis-un-an_AV-202405150640.html)
+append_entries: 1
+Finish: 2024-05-16 01:14:43.015778
