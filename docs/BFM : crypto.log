@@ -390,3 +390,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les traders se ruent vers les memes coins dans le sillage des memes stocks à Wall Street](https://www.bfmtv.com/crypto/les-traders-se-ruent-vers-les-memes-coins-dans-le-sillage-des-memes-stocks-a-wall-street_AV-202405150614.html)
 append_entries: 2
 Finish: 2024-05-16 01:14:51.166201
+------------------------------------------------------
+Started: 2024-05-16 12:39:33.624717
+Existing_entries: 70
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-05-16 12:39:33.897940

@@ -606,3 +606,18 @@ Existing_entries: 142
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-05-16 01:18:48.276116
+------------------------------------------------------
+Started: 2024-05-16 12:45:22.579542
+Existing_entries: 142
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Les agriculteurs en colère manifestent sur l'A9 à la frontière espagnole contre la concurrence déloyale](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/les-agriculteurs-en-colere-manifestent-sur-l-a9-a-la-frontiere-espagnole-contre-la-concurrence-deloyale-2970758.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Mise à mort des animaux, risque sanitaire et impact environnemental : un abattoir autorisé à reprendre son activité après mise aux normes](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/mise-a-mort-des-animaux-risque-sanitaire-et-impact-environnemental-un-abattoir-autorise-a-reprendre-son-activite-apres-mise-aux-normes-2970488.html)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Colère des agriculteurs : "stop aux importations massives marocaines", manifestation et blocage prévus sur l'A9 à la frontière avec l'Espagne](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/colere-des-agriculteurs-stop-aux-importations-massives-marocaines-manifestation-et-blocage-prevus-sur-l-a9-a-la-frontiere-avec-l-espagne-2970326.html)
+append_entries: 3
+Finish: 2024-05-16 12:45:41.154763

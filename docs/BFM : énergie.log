@@ -342,3 +342,18 @@ Summarized using GPT-3.5-turbo
 Append: [Pétrole: l'AIE revoit légèrement à la baisse sa prévision de croissance de la demande pour 2024](https://www.bfmtv.com/economie/entreprises/energie/petrole-l-aie-revoit-legerement-a-la-baisse-sa-prevision-de-croissance-de-la-demande-pour-2024_AD-202405150701.html)
 append_entries: 3
 Finish: 2024-05-16 01:14:28.223650
+------------------------------------------------------
+Started: 2024-05-16 12:39:07.685198
+Existing_entries: 54
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Flamanville: l'Autorité de sûreté nucléaire annonce la fin du chargement du combustible dans l'EPR](https://www.bfmtv.com/economie/entreprises/energie/flamanville-l-autorite-de-surete-nucleaire-annonce-la-fin-du-chargement-du-combustible-dans-l-epr_AD-202405160543.html)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Énergie: Engie, ENI, Ohm Énergie et Wekiwi épinglés par le Médiateur pour "mauvaises pratiques"](https://www.bfmtv.com/economie/entreprises/energie/energie-engie-eni-ohm-energie-et-wekiwi-epingles-par-le-mediateur-pour-mauvaises-pratiques_AD-202405160404.html)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Électricité: que va changer le raccordement au réseau du nouvel EPR de Flamanville?](https://www.bfmtv.com/economie/entreprises/energie/electricite-que-va-changer-le-raccordement-au-reseau-du-nouvel-epr-de-flamanville_AD-202405160026.html)
+append_entries: 3
+Finish: 2024-05-16 12:39:20.907412

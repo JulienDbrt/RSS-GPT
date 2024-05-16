@@ -874,3 +874,21 @@ Summarized using GPT-3.5-turbo
 Append: [Pénurie d'eau en Martinique : les coupures touchent de plus en plus de foyers](https://la1ere.francetvinfo.fr/martinique/penurie-d-eau-en-martinique-les-coupures-touchent-de-plus-en-plus-de-foyers-1488401.html)
 append_entries: 6
 Finish: 2024-05-16 01:20:09.719968
+------------------------------------------------------
+Started: 2024-05-16 12:47:04.564789
+Existing_entries: 218
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Seychelles : six pirates interpellés par les forces de l'UE de lors de l'attaque d'un pétrolier](https://la1ere.francetvinfo.fr/reunion/seychelles-six-pirates-interpelles-par-les-forces-de-l-ue-de-lors-de-l-attaque-d-un-petrolier-1488620.html)
+Token length: 29
+Summarized using GPT-3.5-turbo
+Append: [❓Questions Directes : Comment déclarer ses impôts ?](https://la1ere.francetvinfo.fr/mayotte/questions-directes-comment-declarer-ses-impots-1488629.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: ["On se sent un peu abandonnés dans les Ehpad" lance une directrice de maison de retraite en Nouvelle-Calédonie](https://la1ere.francetvinfo.fr/nouvellecaledonie/sarah-wady-directrice-de-la-maison-de-retraite-de-tina-sur-mer-on-se-sent-un-peu-abandonnes-dans-les-ehpad-1488575.html)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [DIRECT. Violences en Nouvelle-Calédonie : "La CCAT est une organisation de voyous" dénonce le haut-commissaire de la République](https://la1ere.francetvinfo.fr/nouvellecaledonie/direct-emeutes-en-nouvelle-caledonie-troisieme-nuit-d-affrontements-assignations-a-residence-tik-tok-coupe-sur-le-territoire-1488524.html)
+append_entries: 4
+Finish: 2024-05-16 12:47:24.266059

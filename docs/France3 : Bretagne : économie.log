@@ -357,3 +357,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le groupe Ouest-France veut obtenir une chaîne de télévision](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/le-groupe-ouest-france-veut-egalement-devenir-une-chaine-de-television-2970317.html)
 append_entries: 1
 Finish: 2024-05-16 01:18:52.821267
+------------------------------------------------------
+Started: 2024-05-16 12:45:46.329706
+Existing_entries: 59
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [DIRECT VIDÉO. « On comprend mieux à quoi servent les maths, le français, ou la techno », 1.300 élèves bretons présentent leurs projets de mini-entreprises](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/direct-video-on-comprend-mieux-a-quoi-servent-les-maths-le-francais-ou-la-techno-1-300-eleves-bretons-presentent-leurs-projets-de-mini-entreprises-2970368.html)
+append_entries: 1
+Finish: 2024-05-16 12:45:53.472567

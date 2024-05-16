@@ -381,3 +381,18 @@ Existing_entries: 67
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
 append_entries: 0
 Finish: 2024-05-16 01:16:18.238220
+------------------------------------------------------
+Started: 2024-05-16 12:41:17.170142
+Existing_entries: 67
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Eurostar veut commander 50 trains d'ici à 2030 après une activité "historique" en 2023](https://www.bfmtv.com/economie/entreprises/transports/eurostar-veut-commander-50-trains-d-ici-a-2030-apres-une-activite-historique-en-2023_AD-202405160219.html)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Deux tiers des chauffeurs VTC et livreurs insatisfaits de leur situation professionnelle](https://www.bfmtv.com/economie/entreprises/transports/deux-tiers-des-chauffeurs-vtc-et-livreurs-insatisfaits-de-leur-situation-professionnelle_AD-202405160124.html)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [SNCF Connect: vous pouvez désormais réserver une chambre d'hôtel, mais plus un VTC ou un taxi](https://www.bfmtv.com/economie/entreprises/transports/sncf-connect-vous-pouvez-desormais-reserver-une-chambre-d-hotel-mais-plus-un-vtc-ou-un-taxi_AV-202405160042.html)
+append_entries: 3
+Finish: 2024-05-16 12:41:26.544674

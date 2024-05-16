@@ -450,3 +450,12 @@ Summarized using GPT-3.5-turbo
 Append: [Industrie : une usine de vis relocalise sa production en France et crée des emplois](https://france3-regions.francetvinfo.fr/grand-est/ardennes/charleville-mezieres/industrie-une-usine-de-vis-relocalise-sa-production-en-france-et-cree-des-emplois-2970392.html)
 append_entries: 1
 Finish: 2024-05-16 01:18:55.273946
+------------------------------------------------------
+Started: 2024-05-16 12:45:53.519748
+Existing_entries: 90
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [Économie. SKF annonce 27 millions d'euros d'investissement sur son site du Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/economie-skf-annonce-27-millions-d-euros-d-investissement-sur-son-site-du-jura-2970374.html)
+append_entries: 1
+Finish: 2024-05-16 12:45:55.814800

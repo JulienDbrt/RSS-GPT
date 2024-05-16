@@ -418,3 +418,15 @@ Summarized using GPT-3.5-turbo
 Append: [Parti de rien, il construit son propre château pendant 34 ans dans son jardin](https://www.bfmtv.com/immobilier/international-etranger/parti-de-rien-il-construit-son-propre-chateau-pendant-34-ans-dans-son-jardin_AD-202405150626.html)
 append_entries: 1
 Finish: 2024-05-16 01:16:14.188528
+------------------------------------------------------
+Started: 2024-05-16 12:41:08.459737
+Existing_entries: 92
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Face à la crise du logement, les jeunes actifs toujours plus nombreux à vivre chez leurs parents](https://www.bfmtv.com/immobilier/location/face-a-la-crise-du-logement-les-jeunes-actifs-toujours-plus-nombreux-a-vivre-chez-leurs-parents_AD-202405160410.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Dans près de 200.000 HLM, les locataires dépassent les plafonds de revenus maximum](https://www.bfmtv.com/immobilier/location/dans-pres-de-200-000-hlm-les-locataires-depassent-les-plafonds-de-revenus-maximum_AD-202405160347.html)
+append_entries: 2
+Finish: 2024-05-16 12:41:15.677287

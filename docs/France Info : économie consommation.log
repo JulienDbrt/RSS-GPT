@@ -1360,3 +1360,33 @@ Summarized using GPT-3.5-turbo
 Append: [L'Insee confirme le ralentissement de l'inflation en France en avril, à 2,2% sur un an](https://www.francetvinfo.fr/economie/inflation/l-insee-confirme-le-ralentissement-de-l-inflation-en-france-en-avril-a-2-2-sur-un-an_6545840.html)
 append_entries: 7
 Finish: 2024-05-16 01:17:37.400505
+------------------------------------------------------
+Started: 2024-05-16 12:43:19.993647
+Existing_entries: 466
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Sécurité routière : le nombre de morts sur la route en hausse de 9% en avril](https://www.francetvinfo.fr/economie/transports/securite-routiere-le-nombre-de-morts-sur-la-route-en-hausse-de-9-en-avril_6547724.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Retraites : "Nous allons prendre certaines décisions qui vont être très fortes" face au "mépris" du gouvernement, menace l'Unsa-RATP](https://www.francetvinfo.fr/economie/transports/retraites-nous-allons-prendre-certaines-decisions-qui-vont-etre-tres-fortes-face-au-mepris-du-gouvernement-menace-l-unsa-ratp_6547727.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Comme chaque printemps, le jardin de Claude Monet à Giverny, est en pleine transition](https://www.francetvinfo.fr/replay-radio/dans-la-peau-de-l-info/comme-chaque-printemps-le-jardin-de-claude-monet-a-giverny-est-en-pleine-transition_6519632.html)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Salaires : la prime Macron connaît un important coup de frein au premier trimestre 2024](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/salaires-la-prime-macron-connait-un-important-coup-de-frein-au-premier-trimestre-2024_6519614.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Assemblée nationale : bientôt des capteurs de décibels pour mesurer le volume sonore des débats dans l'hémicycle](https://www.francetvinfo.fr/replay-radio/le-brief-politique/assemblee-nationale-bientot-des-capteurs-de-decibels-pour-mesurer-le-volume-sonore-des-debats-dans-l-hemicycle_6519608.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : les salariés de la RATP obtiennent en moyenne 1 000 euros brut de prime par agent](https://www.francetvinfo.fr/economie/transports/paris-2024-les-salaries-de-la-ratp-obtiennent-en-moyenne-1-000-euros-brut-de-prime-par-agent_6546503.html)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Pouvoir d'achat : l’inflation se calme pour de bon](https://www.francetvinfo.fr/replay-radio/le-brief-eco/pouvoir-d-achat-l-inflation-se-calme-pour-de-bon_6519623.html)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Manque d'informations, sentiment d'"urgence et de pénurie"... UFC-Que Choisir porte plainte auprès de l'Arcom contre le géant chinois Temu](https://www.francetvinfo.fr/economie/manque-d-informations-sentiment-d-urgence-et-de-penurie-ufc-que-choisir-porte-plainte-aupres-de-l-arcom-contre-le-geant-chinois-temu_6546446.html)
+append_entries: 8
+Finish: 2024-05-16 12:43:53.513846

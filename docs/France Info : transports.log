@@ -494,3 +494,18 @@ Summarized using GPT-3.5-turbo
 Append: [Intercités : une nouvelle génération de trains attendue pour 2027](https://www.francetvinfo.fr/economie/transports/sncf/intercites-une-nouvelle-generation-de-trains-attendue-pour-2027_6546308.html)
 append_entries: 1
 Finish: 2024-05-16 01:17:43.418595
+------------------------------------------------------
+Started: 2024-05-16 12:43:54.123834
+Existing_entries: 98
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Sécurité routière : le nombre de morts sur la route en hausse de 9% en avril](https://www.francetvinfo.fr/economie/transports/securite-routiere-le-nombre-de-morts-sur-la-route-en-hausse-de-9-en-avril_6547724.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Retraites : "Nous allons prendre certaines décisions qui vont être très fortes" face au "mépris" du gouvernement, menace l'Unsa-RATP](https://www.francetvinfo.fr/economie/transports/retraites-nous-allons-prendre-certaines-decisions-qui-vont-etre-tres-fortes-face-au-mepris-du-gouvernement-menace-l-unsa-ratp_6547727.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : les salariés de la RATP obtiennent en moyenne 1 000 euros brut de prime par agent](https://www.francetvinfo.fr/economie/transports/paris-2024-les-salaries-de-la-ratp-obtiennent-en-moyenne-1-000-euros-brut-de-prime-par-agent_6546503.html)
+append_entries: 3
+Finish: 2024-05-16 12:44:08.189588

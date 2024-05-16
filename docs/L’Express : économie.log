@@ -565,3 +565,12 @@ Summarized using GPT-3.5-turbo
 Append: [La "prime Macron" ne fait plus recette](https://www.lexpress.fr/economie/la-prime-macron-ne-fait-plus-recette-MFRVQUS2FFCB7PNDJQFZPEGQVE/)
 append_entries: 2
 Finish: 2024-05-16 01:19:40.068669
+------------------------------------------------------
+Started: 2024-05-16 12:46:58.575723
+Existing_entries: 175
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3002
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire : le coup de génie du "plan Messmer bis", par Eric Chol](https://www.lexpress.fr/economie/souverainete-energetique-merci-le-nucleaire-NVXRVK6HHJFRVONLGMU5I73NYI/)
+append_entries: 1
+Finish: 2024-05-16 12:47:03.895607

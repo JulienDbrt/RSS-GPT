@@ -365,3 +365,24 @@ Existing_entries: 75
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-05-16 01:17:02.431840
+------------------------------------------------------
+Started: 2024-05-16 12:42:09.452892
+Existing_entries: 75
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Paolo Gentiloni craint que les coupes budgétaires des États membres n’entravent la relance de l’UE](https://www.euractiv.fr/section/economie/news/paolo-gentiloni-craint-que-les-coupes-budgetaires-des-etats-membres-nentravent-la-relance-de-lue/)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [La pauvreté en Italie a atteint des niveaux sans précédent en dix ans](https://www.euractiv.fr/section/economie/news/la-pauvrete-en-italie-a-atteint-des-niveaux-sans-precedent-en-dix-ans/)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [Le directeur de la Banque nationale de Bulgarie déplore le manque de volonté politique pour rejoindre la zone euro](https://www.euractiv.fr/section/economie/news/le-directeur-de-la-banque-nationale-de-bulgarie-deplore-le-manque-de-volonte-politique-pour-rejoindre-la-zone-euro/)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [Allemagne : le Conseil des experts économiques revoit à la baisse les prévisions de croissance pour 2024](https://www.euractiv.fr/section/economie/news/allemagne-le-conseil-des-experts-economiques-revoit-a-la-baisse-les-previsions-de-croissance-pour-2024/)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Les nouveaux droits de douane américains contre la Chine révèlent les divisions franco-allemandes](https://www.euractiv.fr/section/economie/news/les-nouveaux-droits-de-douane-americains-contre-la-chine-refletent-les-divisions-franco-allemandes/)
+append_entries: 5
+Finish: 2024-05-16 12:42:29.111775

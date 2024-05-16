@@ -291,3 +291,9 @@ Summarized using GPT-3.5-turbo
 Append: [Au salon francilien de l'alternance, des offres moins nombreuses et des embauches incertaines](https://www.bfmtv.com/economie/emploi/au-salon-francilien-de-l-alternance-des-offres-moins-nombreuses-et-des-embauches-incertaines_AN-202405150619.html)
 append_entries: 1
 Finish: 2024-05-16 01:14:54.387647
+------------------------------------------------------
+Started: 2024-05-16 12:39:33.918546
+Existing_entries: 37
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-05-16 12:39:34.488630
