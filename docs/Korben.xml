@@ -5,13 +5,251 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Une nouvelle méthode efficace de comptage d’éléments distincts dans un flux de données</title>
+<link>https://korben.info/methode-efficace-comptage-elements-distincts-streaming-cvm.html</link>
+<guid>https://korben.info/methode-efficace-comptage-elements-distincts-streaming-cvm.html</guid>
+<content:encoded><![CDATA[
+<div> précision, efficacité, CVM, algorithme, Big Data
+<br>
+<br>
+Summary:
+L'algorithme CVM, développé par des chercheurs de l'Institut Indien de Statistiques, de l'Université de Nebraska-Lincoln et de l'Université de Toronto, révolutionne le comptage des éléments distincts dans un flux de données en échantillonnant de manière aléatoire et en conservant un sous-ensemble dans une mémoire limitée. Grâce à des ajustements de probabilités et à des suppressions aléatoires, le CVM reste précis et peu gourmand en mémoire, permettant d'estimer des millions d'éléments distincts avec seulement quelques octets. Simple à implémenter, cet algorithme offre de nombreuses applications dans l'analyse des logs, la détection d'anomalies, la mesure d'audience, et plus encore. Les data scientists sont invités à tester cette méthode pour économiser du stockage et du temps de calcul, illustrant ainsi l'élégance algorithmique et la résolution de problèmes complexes par des idées futées.
+ <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="461" src="https://korben.info/app/uploads/2024/05/SCR-20240517-gi1.webp" width="1023" /></p>
+<p>Des chercheurs viennent de pondre un nouvel algorithme révolutionnaire pour compter les éléments distincts dans un flux de données. Ça s&rsquo;appelle le <strong>CVM</strong> et c&rsquo;est super malin !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-532942229" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Imaginez un peu le truc, vous recevez des tonnes de données en continu, genre des milliards d&rsquo;entrées, et vous voulez savoir combien y a d&rsquo;éléments uniques là-dedans. Facile à dire mais pas évident à faire ! Parce que si vous essayez de tout stocker en mémoire pour comparer, bonjour la galère et l&rsquo;explosion de RAM. C&rsquo;est là que le <strong>CVM</strong> entre en scène !</p>
+
+
+
+<p>Le principe est simple comme bonjour (enfin, quand on vous l&rsquo;explique !). Au lieu de tout garder, on va échantillonner aléatoirement les données qui arrivent. Un peu comme quand vous piquez des frites dans l&rsquo;assiette de votre pote pour goûter parce que vous, vous avez pris une salade. Sauf qu&rsquo;ici, c&rsquo;est un échantillon représentatif qu&rsquo;on veut.</p>
+
+
+
+<p>Concrètement, on conserve un petit sous-ensemble des éléments dans une mémoire limitée. Et quand ça déborde, on vire aléatoirement la moitié ! Hop, un petit coup de pile ou face et on libère de l&rsquo;espace. Mais attention, c&rsquo;est pas fini ! On repart pour un tour en ajustant la probabilité de garder un élément. Ainsi, à la fin, chaque rescapé a la même probabilité d&rsquo;être là. Vous me suivez ? Non ? On s&rsquo;en fiche, l&rsquo;essentiel c&rsquo;est que ça marche !</p>
+
+
+
+<p>Les chercheurs qui ont inventé ça ont prouvé mathématiquement que leur bidule était précis et peu gourmand en mémoire. Genre vraiment précis, à quelques pourcents près. C&rsquo;est dingue quand même, avec une poignée d&rsquo;octets, on peut estimer des millions d&rsquo;éléments distincts !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-607752848" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et vous savez quoi ? L&rsquo;algo est tellement simple qu&rsquo;un étudiant pourrait l&rsquo;implémenter. Pas besoin d&rsquo;être un crack en maths ou en informatique, c&rsquo;est à la portée de tous. Bon après, faut quand même en vouloir pour se fader les preuves théoriques. Mais ça ce n&rsquo;est pas notre problème !</p>
+
+
+
+<p>En gros, le <strong>CVM</strong> c&rsquo;est une avancée notable, que ce soit pour analyser les logs, détecter des anomalies, mesurer une audience ou je ne sais quoi, il y a des tonnes d&rsquo;applications. On nage en plein dans le Big Data !</p>
+
+
+
+<p>Je peux déjà vous voir les data scientists qui me lisent, en train de vous frotter les mains et dégainer votre plus beau Python pour tester ce truc. Les entreprises vont pouvoir économiser des téraoctets de stockage et des heures de calcul, tout ça grâce à un petit algorithme simple mais efficace.</p>
+
+
+
+<p>C&rsquo;est quand même beau de voir comment avec une idée futée, on peut résoudre de grands problèmes. C&rsquo;est encore une fois un bel exemple d&rsquo;élégance algorithmique.</p>
+
+
+
+<p>Bref, chapeau bas aux chercheurs de l&rsquo;<strong>Institut Indien de Statistiques</strong>, de l&rsquo;<strong>Université de Nebraska-Lincoln</strong> et de l&rsquo;<strong>Université de Toronto</strong> qui ont pondu cette méthode de comptage. Les détails, c&rsquo;est par ici que ça se passe : <a href="https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/" rel="noopener" target="_blank">Computer Scientists Invent an Efficient New Way to Count</a></p>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 09:53:07 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 09:53:07 +0000</pubDate>
+</item>
+<item>
+<title>Alerte CISA – Plusieurs routeurs D-Link vulnérables, ça craint un max !</title>
+<link>https://korben.info/routeurs-d-link-vulnerables-alerte-cisa-ca-craint.html</link>
+<guid>https://korben.info/routeurs-d-link-vulnerables-alerte-cisa-ca-craint.html</guid>
+<content:encoded><![CDATA[
+<div> failles, routeurs, D-Link, CSRF, SSD Secure Disclosure
+<br>
+Summary:
+<br>
+Les routeurs D-Link DIR-600 et DIR-605 présentent des vulnérabilités dangereuses, comme la possibilité de changer la configuration à distance ou de récupérer les identifiants d'administration. Ces failles sont activement exploitées par des pirates. De plus, des chercheurs ont découvert des failles 0-day dans un autre routeur D-Link, permettant à un attaquant de prendre le contrôle total de l'appareil. Malgré les avertissements, D-Link n'a pas encore réagi. Il est recommandé de maintenir son routeur à jour, de changer les mots de passe par défaut et de désactiver les fonctions inutiles. En cas de modèle affecté, vérifiez la version du firmware et envisagez d'utiliser un firmware alternatif plus sécurisé. La vigilance est de mise pour protéger vos équipements réseau contre les cybermenaces émergentes. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_a_2d_pixel_art_isometric_scene_with_a_D-Link_Router_and__a0e3d768-d129-43e2-82bb-31c343ba3b96.webp" width="1456" /></p>
+<p>Vous l&rsquo;avez peut-être remarqué, mais ces derniers temps, les vulnérabilités dans les routeurs et autres équipements réseau se multiplient comme des petits pains. Et quand je dis petits pains, je parle plutôt du genre rassis et moisi qui traîne depuis des années dans un placard. C&rsquo;est le cas de deux failles qui touchent les routeurs <strong>D-Link DIR-600</strong> et <strong>DIR-605</strong>, qui viennent d&rsquo;être ajoutées par la <a href="https://www.cisa.gov/news-events/alerts/2024/05/16/cisa-adds-three-known-exploited-vulnerabilities-catalog" rel="noopener" target="_blank">CISA</a> à son catalogue des vulnérabilités activement exploitées par les pirates malveillants.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-141884513" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>La première, <strong><a href="https://nvd.nist.gov/vuln/detail/CVE-2014-100005" rel="noopener" target="_blank">CVE-2014-100005</a></strong>, permet à un attaquant de changer la configuration du routeur DIR-600 à distance, sans avoir besoin de se connecter. Comment ? Et bien grâce à une bonne vieille faille <strong>CSRF</strong> (Cross-Site Request Forgery), cette faille bien connue des années 2000 qui fait toujours des ravages en 2024. Il suffit que l&rsquo;admin du routeur visite une page web piégée, et hop, l&rsquo;attaquant peut faire ce qu&rsquo;il veut de la config !</p>
+
+
+
+<p>La deuxième, <strong>CVE-2021-40655</strong>, est une fuite d&rsquo;informations dans l&rsquo;interface web du DIR-605. En forgeant une requête HTTP POST vers la page « /getcfg.php », un petit malin peut récupérer en clair le nom d&rsquo;utilisateur et le mot de passe de l&rsquo;administrateur. Ça fait rêver, n&rsquo;est-ce pas ? </p>
+
+
+
+<p>La CISA précise que ces failles sont activement exploitées, mais ne donne pas plus de détails.</p>
+
+
+
+<p>Le plus rigolo, c&rsquo;est que la première faille date de 2014 et concerne un modèle qui n&rsquo;est plus supporté depuis belle lurette. Donc si vous avez encore un DIR-600 qui traîne, il est plus que temps de le mettre à la retraite et de passer à un modèle plus récent. Pour la deuxième, pas de patch connu à ce jour, donc restez vigilants.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-160739" height="576" src="https://korben.info/app/uploads/2024/05/DIR-600-Front-1024x576.webp" style="width: 426px; height: auto;" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-573579644" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais ce n&rsquo;est pas fini puisque d&rsquo;autres chercheurs de SSD Secure Disclosure ont aussi trouvé des failles 0-day dans le routeur <strong><a href="https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10390" rel="noopener" target="_blank">D-Link DIR-X4860</a></strong>. En combinant un contournement d&rsquo;authentification et une injection de commande, un attaquant pourrait prendre le contrôle total de l&rsquo;appareil, avec les privilèges root s&rsquo;il vous plaît. Bref, le routeur est complètement compromis.</p>
+
+
+
+<p>D-Link a été prévenu il y a un mois, mais n&rsquo;a toujours pas réagi. Les détails techniques sont disponibles sur <a href="https://ssd-disclosure.com/ssd-advisory-d-link-dir-x4860-security-vulnerabilities/" rel="noopener" target="_blank">le blog de SSD</a>, avec même un PoC prêt à l&#8217;emploi. La faille touche la version de firmware 1.04b03. Donc, si vous avez ce modèle, vérifiez votre version et espérez que D-Link réagisse rapidement et publie un correctif.</p>
+
+
+
+<p>En attendant, la meilleure chose à faire est de garder son routeur à jour, de changer les mots de passe par défaut et de désactiver les fonctions dont on n&rsquo;a pas besoin, comme l&rsquo;accès à distance. Et pourquoi pas flasher son vieux routeur avec un firmware alternatif comme <strong><a href="https://openwrt.org/" rel="noopener" target="_blank">OpenWrt</a></strong> ou <strong><a href="https://dd-wrt.com/" rel="noopener" target="_blank">DD-WRT</a></strong>, qui sont généralement plus sûrs et plus à jour que les firmwares constructeurs ?</p>
+
+
+
+<p>Allez, au boulot !</p>
+
+
+
+<p><a href="https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 09:34:57 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 09:34:57 +0000</pubDate>
+</item>
+<item>
+<title>Surfshark One, votre chien de garde numérique</title>
+<link>https://korben.info/surfshark-one-chien-de-garde.html</link>
+<guid>https://korben.info/surfshark-one-chien-de-garde.html</guid>
+<content:encoded><![CDATA[
+<div> VPN, Surfshark One, antivirus, moteur de recherche privé, alerte de fuite de données
+<br>
+Summary:<br>
+Surfshark One est une solution tout-en-un offrant une robuste protection en ligne. Avec un puissant antivirus, un moteur de recherche privé et un système d'alerte contre les fuites de données, cette suite assure une navigation sécurisée. L'antivirus d'Avira intégré détecte les menaces en temps réel, tandis que le moteur de recherche privé respecte la vie privée en fournissant des résultats neutres. Le système d'alerte surveille les fuites de données et informe immédiatement les utilisateurs. La flexibilité de la suite sur différentes plateformes et son interface conviviale la rendent accessible. En outre, les prix abordables et la garantie de remboursement de 30 jours en font une solution attrayante pour ceux qui recherchent une protection en ligne complète. Avec Surfshark One, les utilisateurs peuvent naviguer en toute tranquillité dans l'environnement numérique actuel. <div>
+<p><img alt="Surfshark One 2023" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="501" src="https://korben.info/app/uploads/2023/09/surfshark-one-2023.png" width="1024" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat avec Surfshark &#8212;</p>
+
+
+
+<p>Comme vous le savez déjà, la sécurité en ligne est un océan qui subit assez souvent tempêtes et raz-de-marée. Il est donc essentiel de se munir d&rsquo;outils efficaces pour naviguer en toute tranquillité. C&rsquo;est là que <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Surfshark One</a> se distingue, offrant une solution tout-en-un pour protéger votre présence numérique.</p>
+
+
+
+<p>À la base reconnu comme l&rsquo;un des meilleurs VPN sur le marché, Surfshark a élargi son horizon pour inclure une suite complète de sécurité depuis maintenant quelques années. Avec One, vous ne disposez pas seulement de l&rsquo;option Surfshark VPN, mais d&rsquo;un éventail complet d&rsquo;outils pour garder votre vie en ligne le plus safe possible.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://kbn.im/surfsharkone17mai" width="480" /></figure></div>
+
+
+<p>Au cœur de Surfshark One se trouve son antivirus, alimenté par le moteur reconnu d&rsquo;Avira. Cette protection en temps réel garde un œil vigilant sur votre activité en ligne, détectant les virus, les logiciels malveillants et les menaces zero-day. Avec des mises à jour toutes les trois heures, ses définitions restent constamment au taquet pour faire face aux dernières menaces du cyberespace.</p>
+
+
+
+<p>Et ça, c&rsquo;est plutôt appréciable parce qu&rsquo;en ce moment ça fuse de tous les côtés. Si vous me lisez régulièrement vous avez dû voir passer mes articles sur diverses failles ces dernières semaines. C&rsquo;était encore le cas il y a quelques jours avec une campagne de malware et de phishing assez énorme qui a touché les utilisateurs de Docker Hub. Sur les 15 millions de dépôts existants, pas moins de 20% étaient contaminés par des logiciels foireux, allant du simple spam au malware (<a href="https://www.bleepingcomputer.com/news/security/millions-of-docker-repos-found-pushing-malware-phishing-sites/" rel="noreferrer noopener" target="_blank">source</a>). Et c&rsquo;est d&rsquo;autant plus flippant que cette faille existe depuis &#8230;. 2021, je vous laisse imaginer les dégâts au fil des années.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-157837" height="574" src="https://korben.info/app/uploads/2024/03/manu23_docker_secret_hacking_leak_d83e386c-164a-41f9-808f-f1012aa24f8c-1024x574.webp" style="width: 750px;" width="1024" /></figure></div>
+
+
+<p>C&rsquo;est là que Surfshark One va s&rsquo;avérer assez utile puisqu&rsquo;il vous empêchera de télécharger « par distraction » (je ménage les égos ^^) un fichier foireux sur votre machine. Il va pour cela utiliser une sorte de zone tampon entre le serveur d&rsquo;origine et votre ordinateur. Si l&rsquo;analyse ne lui convient pas, il bloquera simplement le fichier qui n&rsquo;aura pas eu le temps de vous atteindre. Impossible de télécharger une bouse par inadvertance ou parce que vous faites confiance à un site qui ne le mérite pas.</p>
+
+
+
+<p>Mais l&rsquo;outil ne s&rsquo;arrête pas là. La suite comprend également un moteur de recherche privé, qui fournit des résultats non biaisés et sans publicités. Contrairement aux grands moteurs de recherche qui pistent vos activités, Surfshark Search respecte votre vie privée en ne collectant pas vos données de recherche. Je ne vous détaille pas la fonction de <a href="https://korben.info/surfshark-one-se-dote-de-loption-creation-didentite-alternative-promo-rentree-2023.html">création d&rsquo;identité alternative</a>, j&rsquo;en ai déjà fait un article.</p>
+
+
+
+<p>Un autre atout majeur <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">de Surfshark One</a> est son système d&rsquo;alerte intégré. Ce système surveille en permanence les fuites de données sur Internet et vous avertit dès que vos informations personnelles sont compromises. Que ce soit votre adresse e-mail, vos identifiants de connexion ou vos informations de carte de crédit, il vous informe immédiatement pour que vous puissiez prendre les mesures nécessaires pour protéger vos comptes. Et pour vous empêcher de paniquer, l&rsquo;outil vous guide sur les actions à entreprendre en priorité.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160718" height="536" src="https://korben.info/app/uploads/2024/05/1200x628-1024x536.webp" width="1024" /></figure></div>
+
+
+<p>Ce côté monitoring est vraiment intéressant pour la plupart d&rsquo;entre vous. Parce que la majorité n&rsquo;a sans doute pas forcément le temps (ou l&rsquo;envie) de surveiller l&rsquo;actu cybersécurité au quotidien. De mon côté ça fait un peu partie de ma veille (et quand je rate un truc important on me le remonte sur Twitch lors de mes émissions), mais si ce n&rsquo;est pas votre cas vous avez au moins une équipe qui bosse pour vous.</p>
+
+
+
+<p>Autre bon point de cette suite c&rsquo;est sa flexibilité. Disponible sur plusieurs OS et plateformes (Windows, Mac, ordinateur ou smartphone &#8230;), elle couvrira toutes vos machines (nombre illimité) et dispose d&rsquo;une interface ultra simple à maitriser.</p>
+
+
+
+<p><strong>En termes de tarification, Surfshark propose une gamme d&rsquo;options flexibles pour répondre à vos besoins spécifiques. </strong>Des abonnements à partir de 3,19 € par mois (TTC) pour un engagement de 26 mois sont disponibles (abonnement 1 an + 3 mois offerts). Avec toujours la possibilité d&rsquo;essayer la suite avec 30 jours de garantie satisfait ou remboursé.</p>
+
+
+
+<p>En résumé, si vous recherchez une solution complète pour sécuriser votre présence en ligne, l&rsquo;outil offre une réponse robuste et efficace. Avec son antivirus puissant, son moteur de recherche privé et son système d&rsquo;alerte contre les violations de données, Surfshark One vous donne la tranquillité d&rsquo;esprit nécessaire pour naviguer en toute sécurité dans le monde numérique d&rsquo;aujourd&rsquo;hui. Et si vous voulez encore plus, vous avez l&rsquo;option One+ qui intègre le <a href="https://korben.info/incogni-apres-1-an.html">service Incogni</a> (dont j&rsquo;ai aussi parlé de multiples fois).</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Testez Surfshark One !</a></h2>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 08:00:00 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Les secrets dans Docker – Le cauchemar des fuites de données dans vos images</title>
+<link>https://korben.info/secrets-docker-cauchemar-fuites-images.html</link>
+<guid>https://korben.info/secrets-docker-cauchemar-fuites-images.html</guid>
+<content:encoded><![CDATA[
+<div> Docker, images, sécurité, secrets, risques
+<br>
+Summary:<br>
+L'article met en lumière le problème de fuites de secrets dans les images Docker, avec près de 10% des images publiques sur DockerHub contenant des informations sensibles. Les chercheurs ont découvert plus de 50 000 clés d’API et identifiants accessibles publiquement, ainsi que plus de 46 000 Dockerfiles exposant des infos sensibles. Les fuites sont généralement dues à des pratiques permissives dans les opérations de fichiers et à la mise en dur des secrets dans les Dockerfiles. Des solutions existent, comme l'utilisation de builds multi-stages pour isoler les secrets dans une étape intermédiaire et l'utilisation de l'option --secret pour injecter les secrets sans les stocker dans l'image finale, mais des pièges subsistent. Il est recommandé d'auditer régulièrement les images avec des outils adéquats pour limiter les risques de fuites de secrets et protéger la réputation des utilisateurs. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_docker_secret_hacking_leak_d83e386c-164a-41f9-808f-f1012aa24f8c.webp" width="1456" /></p>
+<p>Vous pensiez que vos secrets étaient en sécurité dans vos <strong>images Docker</strong> ? Détrompez-vous ! <a href="https://dl.acm.org/doi/abs/10.1145/3579856.3590329" rel="noopener" target="_blank">Une étude de l&rsquo;Université d&rsquo;Aix-la-Chapelle</a> a révélé que près de 10% des images publiques sur <em>DockerHub</em> contenait des secrets (donc des identifiants, des clés API, des mots de passe, des endpoints sensibles&#8230;Etc). </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1019523096" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ça fait froid dans le dos.</p>
+
+
+
+<p>On parle de plus de 50 000 clés d&rsquo;API et d&rsquo;identifiants accessibles publiquement. Et ce n&rsquo;est que la partie émergée de l&rsquo;iceberg puisque les chercheurs de Redhunt Labs ont aussi trouvé plus de 46 000 Dockerfiles exposant des infos sensibles. Bref, c&rsquo;est la fête du slip côté sécurité !</p>
+
+
+
+<p>Mais comment ces <strong>secrets</strong> se retrouvent-ils à fuiter comme une passoire ? Et bien c&rsquo;est souvent, c&rsquo;est à cause d&rsquo;opérations de fichiers trop permissives, de secrets mis en dur dans les Dockerfiles&#8230;etc</p>
+
+
+
+<p>Par exemple, beaucoup de tutos et même la doc officielle de Docker suggèrent d&rsquo;utiliser <code>COPY . .</code> pour copier tout le répertoire courant dans l&rsquo;image. Sauf que ça inclut aussi les fichiers sensibles comme <code>.env</code> ou l&rsquo;historique Git. Pas top pour la confidentialité.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-370240118" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et même si vous supprimez ces fichiers sensibles après le <code>COPY</code>, ils restent présents dans les couches précédentes de l&rsquo;image. Un attaquant pourra donc toujours y accéder. Merci les layers 🙂</p>
+
+
+
+<p>Autre coup classique : mettre directement les secrets dans le Dockerfile ou les passer en argument au build. Là encore, c&rsquo;est cadeau pour les hackers. Un simple <code>docker history --no-trunc</code> et hop, vos secrets sont à nu.</p>
+
+
+
+<p>Heureusement, il existe des solutions pour sécuriser tout ça. Par exemple, les <em><a href="https://www.linkedin.com/pulse/docker-multi-stage-builds-razorops-d2ldc/" rel="noopener" target="_blank">builds multi-stages</a></em> permettent d&rsquo;isoler les secrets dans une étape intermédiaire qui ne sera pas conservée dans l&rsquo;image finale. Et depuis peu, <a href="https://docs.docker.com/build/buildkit/" rel="noopener" target="_blank">BuildKit</a> propose une option <code>--secret</code> pour injecter les secrets sans les stocker dans l&rsquo;image, mais attention aux pièges ! Si votre app log le secret qu&rsquo;elle utilise, il finira quand même dans l&rsquo;image. Les builds multi-stages restent donc plus safe de ce côté là.</p>
+
+
+
+<p>Bref, vous l&rsquo;aurez compris, la gestion des secrets dans <em>Docker</em>, c&rsquo;est pas de la tarte mais en suivant <a href="https://trufflesecurity.com/blog/how-secrets-leak-out-of-docker-images" rel="noopener" target="_blank">les bonnes pratiques</a>, vous pourrez limiter les risques. </p>
+
+
+
+<p>Bref, pensez <em>builds multi-stages</em>, utilisez <code>.dockerignore</code>, oubliez les secrets en dur et n&rsquo;abusez pas des arguments de build. Et surtout, ayez le réflexe d&rsquo;auditer vos images avec des outils comme <em><a href="https://github.com/trufflesecurity/trufflehog" rel="noopener" target="_blank">TruffleHog</a></em>. Parce qu&rsquo;un secret qui fuite, c&rsquo;est votre réputation qui coule.</p>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Après le ban de TikTok en Nouvelle-Calédonie, les inscriptions sur Proton VPN explosent !</title>
 <link>https://korben.info/proton-vpn-explosion-nouvelle-caledonie-ban-tiktok.html</link>
 <guid>https://korben.info/proton-vpn-explosion-nouvelle-caledonie-ban-tiktok.html</guid>
 <content:encoded><![CDATA[
-<div> TikTok, ingérences, Proton VPN, blocage, dissidents <br>
-<br>
-Summary: <br>
+<div> TikTok, ingérences, Proton VPN, blocage, dissidents <br />
+<br />
+Summary: <br />
 Gabriel Attal a décidé de fermer TikTok en Nouvelle-Calédonie pour lutter contre les ingérences étrangères, sans preuve formelle d'ingérence. Cela a entraîné une augmentation des inscriptions à Proton VPN. Les effets de bord imprévus de cette décision soulignent l'inefficacité des blocages en ligne et la capacité d'Internet à contourner les restrictions. Ce blocage unilatéral est critiqué pour son inutilité, son message répressif et sa contribution aux tensions croissantes. Les dissidents chinois utilisant des outils pour contourner le Grand Firewall sont témoins de la persistance de la liberté en ligne malgré les tentatives de censure. Le gouvernement français devrait reconsidérer sa stratégie de blocage pour éviter des conséquences contre-productives et renforcer la confiance des citoyens. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_word_Proton_for_a_wallpaper_with_logo_b0b8d179-304f-4011-99c6-cfe3de646f67.webp" width="1456" /></p>
 <p>Hier, je vous parlais de <a href="https://korben.info/viginum-lutte-ingerences-etrangeres-nouvelle-caledonie.html"><strong>Viginum</strong></a> et de son rôle dans la lutte contre les ingérences numériques étrangères notamment en ce moment avec la Nouvelle-Calédonie. Face aux campagnes de désinformation orchestrées par la Chine, la Russie et d&rsquo;autres pays sur le débat d&rsquo;indépendance calédonien, Gabriel Attal a donc pris la décision précipitée de fermer <strong>TikTok</strong> là bas. Et pourtant, depuis hier je regarde un peu ce que ça raconte sur ce blocage et, sauf erreur de ma part, aucun spécialiste ni dirigeant n&rsquo;a encore pu apporter de preuve formelle que TikTok jouait activement un rôle d&rsquo;ingérence sur le dossier Calédonien. </p>
@@ -42,15 +280,14 @@ Gabriel Attal a décidé de fermer TikTok en Nouvelle-Calédonie pour lutter con
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bref, j&rsquo;espère qu&rsquo;à un moment, ce gouvernement se rendra compte que ce blocage non seulement ne sert à rien, qu&rsquo;il est facilement contournable, qu&rsquo;il envoie un sale message aux français, et surtout qu&rsquo;il est <strong>contre-productif</strong> et participe malheureusement à l&rsquo;augmentation des tensions.</p>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 16:02:08 +0000</pubDate>
-<pubDate>Thu, 16 May 2024 16:02:08 +0000</pubDate>
 </item>
 <item>
 <title>Jailbreakez votre PS4 avec une simple TV LG !</title>
 <link>https://korben.info/jailbreak-ps4-avec-tv-lg.html</link>
 <guid>https://korben.info/jailbreak-ps4-avec-tv-lg.html</guid>
 <content:encoded><![CDATA[
-<div> jailbreak, PS4, TV LG, rooter, PPLGPwn <br>
-Summary:<br>
+<div> jailbreak, PS4, TV LG, rooter, PPLGPwn <br />
+Summary:<br />
 Pour jailbreaker une PS4, il est maintenant possible d'utiliser une Smart TV LG webOS récente en la rootant d'abord. Grâce à l'outil PPLGPwn et une faille spécifique, il suffit de relier la console à la TV via un câble Ethernet, de lancer l'exploit depuis la TV et de configurer le réseau en PPPoE sur la PS4 pour la jailbreaker automatiquement. Cette méthode, bien que surprenante, offre une alternative amusante et originale pour débrider sa console. Elle permet d'installer des homebrews, des backups et de profiter pleinement de sa PS4. Il est important d'utiliser cette nouvelle technique de manière responsable et avec précaution. Cette approche inattendue démontre qu'il faut croire en ses rêves pour repousser les limites de la technologie et exploiter des dispositifs de manière créative. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1080" src="https://korben.info/app/uploads/2024/05/playstation-sony-ps3-ps4.webp" width="1920" /></p>
 <p><strong>Jailbreaker une PS4</strong>, ça vous paraît compliqué ? Je suis sûr que vous pensez qu&rsquo;il faut un matériel compliqué et des compétences de hacker pour y arriver ? Et bien détrompez-vous ! Vous pouvez maintenant le faire avec un outil des plus improbables : <strong>votre TV LG</strong> !</p>
@@ -96,9 +333,7 @@ Pour jailbreaker une PS4, il est maintenant possible d'utiliser une Smart TV LG 
 <p><a href="https://hackaday.com/2024/05/16/you-can-now-jailbreak-a-ps4-with-an-lg-tv/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 13:01:32 +0000</pubDate>
-<pubDate>Thu, 16 May 2024 13:01:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Protégez votre équipe avec Surfshark VPN</title>
 <link>https://korben.info/surfshark-vpn-equipes.html</link>

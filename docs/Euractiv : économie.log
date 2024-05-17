@@ -395,3 +395,12 @@ Summarized using GPT-3.5-turbo
 Append: [La taxe européenne sur les superprofits pourrait rapporter plus de 100 milliards d’euros par an, selon une étude](https://www.euractiv.fr/section/economie/news/la-taxe-europeenne-sur-les-superprofits-pourrait-rapporter-plus-de-100-milliards-deuros-par-an-selon-une-etude/)
 append_entries: 1
 Finish: 2024-05-17 01:15:03.959891
+------------------------------------------------------
+Started: 2024-05-17 12:36:56.580498
+Existing_entries: 81
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Le mix électrique décarboné de la France est-il un aimant à investissements étrangers ?](https://www.euractiv.fr/section/energie-climat/news/le-mix-electrique-decarbone-de-la-france-est-il-un-aimant-a-investissements-etrangers/)
+append_entries: 1
+Finish: 2024-05-17 12:37:01.253118

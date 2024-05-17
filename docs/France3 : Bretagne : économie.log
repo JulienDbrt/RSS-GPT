@@ -375,3 +375,9 @@ Summarized using GPT-3.5-turbo
 Append: [D'après l'INSEE, les jeunes entreprises bretonnes sont plus solides que la moyenne](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/d-apres-l-insee-les-jeunes-entreprises-bretonnes-sont-plus-solides-que-la-moyenne-2970713.html)
 append_entries: 1
 Finish: 2024-05-17 01:17:16.560379
+------------------------------------------------------
+Started: 2024-05-17 12:40:11.973225
+Existing_entries: 61
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-17 12:40:12.228306

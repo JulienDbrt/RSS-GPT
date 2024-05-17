@@ -446,3 +446,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les Mousquetaires licencient les 174 salariés de Brico Privé, ex-pépite du bricolage en ligne](https://www.20minutes.fr/economie/4091475-20240516-mousquetaires-licencient-174-salaries-brico-prive-ex-pepite-bricolage-ligne)
 append_entries: 2
 Finish: 2024-05-17 01:12:11.429613
+------------------------------------------------------
+Started: 2024-05-17 12:33:32.501311
+Existing_entries: 78
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: [Le taux de chômage en France reste stable au premier trimestre, avec plus de seniors au travail](https://www.20minutes.fr/emploi/4091519-20240517-taux-chomage-france-reste-stable-premier-trimestre-plus-seniors-travail)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [« Aujourd’hui, on lève les yeux au ciel en disant ''Oh non, encore un'' »… En entreprise, le regain du discours LGBTphobe](https://www.20minutes.fr/economie/4091250-20240517-aujourd-hui-leve-yeux-ciel-disant-oh-non-encore-entreprise-regain-discours-lgbtphobe)
+append_entries: 2
+Finish: 2024-05-17 12:33:41.757341

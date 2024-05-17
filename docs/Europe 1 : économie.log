@@ -493,3 +493,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nucléaire : fin du chargement du combustible dans l'EPR de Flamanville](https://www.europe1.fr/economie/nucleaire-fin-du-chargement-du-combustible-dans-lepr-de-flamanville-4247363)
 append_entries: 2
 Finish: 2024-05-17 01:15:15.456330
+------------------------------------------------------
+Started: 2024-05-17 12:37:03.634788
+Existing_entries: 95
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [France : le taux de chômage stable à 7,5% au premier trimestre, annonce l'Insee](https://www.europe1.fr/economie/france-le-taux-de-chomage-stable-a-75-au-premier-trimestre-insee-4247469)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : des dégâts économiques déjà considérables](https://www.europe1.fr/economie/crise-en-nouvelle-caledonie-des-degats-economiques-deja-considerables-4247435)
+append_entries: 2
+Finish: 2024-05-17 12:37:14.491513

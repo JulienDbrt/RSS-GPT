@@ -423,3 +423,9 @@ Summarized using GPT-3.5-turbo
 Append: [La mortalité routière en hausse de 9% en avril](https://www.bfmtv.com/auto/la-mortalite-routiere-en-hausse-de-9-en-avril_AD-202405160669.html)
 append_entries: 1
 Finish: 2024-05-17 01:13:26.095656
+------------------------------------------------------
+Started: 2024-05-17 12:35:09.093849
+Existing_entries: 77
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-05-17 12:35:09.473533

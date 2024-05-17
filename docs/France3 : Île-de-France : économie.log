@@ -420,3 +420,18 @@ Summarized using GPT-3.5-turbo
 Append: [Manifestation des pompiers professionnels : "les forces de l'ordre ont obtenu des primes allant de 1.500 à 1.900 euros. On demande la même chose"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manifestation-des-pompiers-professionnels-les-forces-de-l-ordre-ont-obtenu-des-primes-allant-de-1-500-a-1-900-euros-on-demande-la-meme-chose-2970962.html)
 append_entries: 1
 Finish: 2024-05-17 01:16:46.707189
+------------------------------------------------------
+Started: 2024-05-17 12:39:48.589417
+Existing_entries: 76
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [Grève à la SNCF : un trafic "fortement perturbé" mardi 21 mai en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-a-la-sncf-un-trafic-fortement-perturbe-mardi-21-mai-en-ile-de-france-2971175.html)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Les Parisiens propriétaires de SUV électriques vont finalement devoir payer un droit de stationnement](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-parisiens-proprietaires-de-suv-electriques-vont-finalement-devoir-payer-un-droit-de-stationnement-2971169.html)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [PARIGO. République : bientôt le renouveau ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/parigo-republique-bientot-le-renouveau-2969531.html)
+append_entries: 3
+Finish: 2024-05-17 12:39:59.577299

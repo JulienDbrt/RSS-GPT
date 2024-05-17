@@ -826,3 +826,34 @@ Summarized using GPT-3.5-turbo
 Append: [La grêle fait des dégâts dans le département du Var ce jeudi](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/la-grele-fait-des-degats-dans-le-departement-du-var-ce-jeudi-2971019.html)
 append_entries: 1
 Finish: 2024-05-17 01:17:22.171140
+------------------------------------------------------
+Started: 2024-05-17 12:40:21.186555
+Existing_entries: 212
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [POLÉMIQUE. La mairie d'Orléans dénonce des "commentaires indécents" de membres d'associations après la mort d'un cycliste de 15 ans](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/polemique-la-mairie-d-orleans-denonce-des-commentaires-indecents-de-membres-d-associations-apres-la-mort-d-un-cycliste-de-15-ans-2971421.html)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Licencié par la RATP, il "emprunte" un bus et fait sa tournée](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/licencie-par-la-ratp-il-emprunte-un-bus-et-fait-sa-tournee-2971298.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Une adolescente percutée par un train en gare de Mézidon : le trafic reprend progressivement
+ sur la ligne Paris-Cherbourg](https://france3-regions.francetvinfo.fr/normandie/calvados/caen/accident-sur-la-voie-ferree-a-mezidon-la-circulation-des-trains-est-interrompue-sur-la-ligne-paris-cherbourg-2971199.html)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [Un bus de nouveau visé par des tirs près de Grenoble](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-bus-de-nouveau-vise-par-des-tirs-a-grenoble-2971214.html)
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : trois grands axes de circulation fermés dès ce vendredi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-trois-grands-axes-de-circulation-fermes-des-ce-vendredi-2971226.html)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [Grève à la SNCF : un trafic "fortement perturbé" mardi 21 mai en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-a-la-sncf-un-trafic-fortement-perturbe-mardi-21-mai-en-ile-de-france-2971175.html)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [PARIGO. République : bientôt le renouveau ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/parigo-republique-bientot-le-renouveau-2969531.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Vallée de la Roya : pas de train sur la ligne Nice Tende pendant 16 mois pour cause de travaux](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/vallee-de-la-roya-pas-de-train-sur-la-ligne-nice-tende-pendant-16-mois-pour-cause-de-travaux-2970923.html)
+append_entries: 8
+Finish: 2024-05-17 12:40:49.464760

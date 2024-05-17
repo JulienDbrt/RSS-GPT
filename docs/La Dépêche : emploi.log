@@ -475,3 +475,18 @@ Summarized using GPT-3.5-turbo
 Append: [Toulouse : clap de fin pour les 174 salariés du site de vente en ligne de matériel de bricolage BricoPrivé, leur licenciement par Les Mousquetaires est effectif](https://www.ladepeche.fr/2024/05/16/toulouse-clap-de-fin-pour-les-174-salaries-du-site-de-vente-en-ligne-de-materiel-de-bricolage-bricoprive-leur-licenciement-par-les-mousquetaires-est-effectif-11955024.php)
 append_entries: 1
 Finish: 2024-05-17 01:19:25.079617
+------------------------------------------------------
+Started: 2024-05-17 12:44:09.257166
+Existing_entries: 91
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : l’association 2 Pieds 2 Roues fait de nouvelles propositions pour rendre le Code de la rue plus efficace](https://www.ladepeche.fr/2024/05/17/toulouse-lassociation-2-pieds-2-roues-fait-de-nouvelles-propositions-pour-rendre-le-code-de-la-rue-plus-efficace-11955432.php)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Puy-l'Évêque. Jobs d’été : Une quarataine de postes à pourvoir au "JobSaison Express"](https://www.ladepeche.fr/2024/05/17/jobs-dete-une-quarataine-de-postes-a-pourvoir-au-jobsaison-express-11956270.php)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [A l’assaut du premier job !](https://www.ladepeche.fr/2024/05/17/a-lassaut-du-premier-job-11956240.php)
+append_entries: 3
+Finish: 2024-05-17 12:44:24.361673

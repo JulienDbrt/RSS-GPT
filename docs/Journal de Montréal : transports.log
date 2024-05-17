@@ -378,3 +378,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le vélo électrique pourrait éliminer 25% des déplacements en voiture](https://www.journaldemontreal.com/2024/05/15/le-velo-electrique-pourrait-eliminer-25-des-deplacements-en-voiture)
 append_entries: 1
 Finish: 2024-05-17 01:17:26.930480
+------------------------------------------------------
+Started: 2024-05-17 12:41:04.726527
+Existing_entries: 52
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Entraves de la fin de semaine: évitez l’autoroute 40](https://www.journaldemontreal.com/2024/05/16/entraves-de-la-fin-de-semaine-evitez-lautoroute-40)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Accidents impliquant des camions: des remorqueurs se plaignent de ne pas être remboursés](https://www.journaldemontreal.com/2024/05/16/accidents-impliquant-des-camions-des-remorqueurs-se-plaignent-de-ne-pas-etre-rembourses)
+append_entries: 2
+Finish: 2024-05-17 12:41:14.583537

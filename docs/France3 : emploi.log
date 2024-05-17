@@ -468,3 +468,12 @@ Summarized using GPT-3.5-turbo
 Append: [Fermeture d'une usine Bosch en Haute-Savoie : "Ça fait un choc", 153 salariés plongés dans l'incertitude](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/fermeture-d-une-usine-bosch-en-haute-savoie-ca-fait-un-choc-153-salaries-plonges-dans-l-incertitude-2971007.html)
 append_entries: 1
 Finish: 2024-05-17 01:17:18.513170
+------------------------------------------------------
+Started: 2024-05-17 12:40:12.275227
+Existing_entries: 92
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Ils inventent un textile qui permet de dépolluer l'air : une entreprise basque lève 1,5 million d'euros](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/ils-inventent-un-textile-qui-permet-de-depolluer-l-air-une-entreprise-basque-leve-1-5-million-d-euros-2970794.html)
+append_entries: 1
+Finish: 2024-05-17 12:40:20.769032
