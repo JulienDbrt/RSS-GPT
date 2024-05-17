@@ -430,3 +430,9 @@ Summarized using GPT-3.5-turbo
 Append: [Dans près de 200.000 HLM, les locataires dépassent les plafonds de revenus maximum](https://www.bfmtv.com/immobilier/location/dans-pres-de-200-000-hlm-les-locataires-depassent-les-plafonds-de-revenus-maximum_AD-202405160347.html)
 append_entries: 2
 Finish: 2024-05-16 12:41:15.677287
+------------------------------------------------------
+Started: 2024-05-17 01:14:16.878796
+Existing_entries: 94
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-05-17 01:14:17.282608

@@ -411,3 +411,12 @@ Existing_entries: 75
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-05-16 12:45:22.502972
+------------------------------------------------------
+Started: 2024-05-17 01:16:42.119043
+Existing_entries: 75
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Manifestation des pompiers professionnels : "les forces de l'ordre ont obtenu des primes allant de 1.500 à 1.900 euros. On demande la même chose"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manifestation-des-pompiers-professionnels-les-forces-de-l-ordre-ont-obtenu-des-primes-allant-de-1-500-a-1-900-euros-on-demande-la-meme-chose-2970962.html)
+append_entries: 1
+Finish: 2024-05-17 01:16:46.707189

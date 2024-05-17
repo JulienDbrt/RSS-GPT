@@ -868,3 +868,18 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts : les femmes enfin déchargées des dettes fiscales de leur ex-conjoints ?](https://www.latribune.fr/economie/france/impots-les-femmes-enfin-dechargees-des-dettes-fiscales-de-leur-ex-conjoints-997635.html)
 append_entries: 8
 Finish: 2024-05-16 12:50:55.175989
+------------------------------------------------------
+Started: 2024-05-17 01:20:01.483871
+Existing_entries: 214
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 340
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie : le blocage de TikTok est-il légal ?](https://www.latribune.fr/technos-medias/internet/nouvelle-caledonie-le-blocage-de-tiktok-est-il-legal-997722.html)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Protection des mineurs : Facebook et Instagram visés par une enquête de la Commission européenne](https://www.latribune.fr/economie/union-europeenne/protection-des-mineurs-facebook-et-instagram-vises-par-une-enquete-de-la-commission-europeenne-997695.html)
+Token length: 483
+Summarized using GPT-3.5-turbo
+Append: [Budget : les associations, les syndicats et les mutuelles vent debout contre Bercy sur la fiscalité et le déficit](https://www.latribune.fr/economie/france/budget-les-associations-les-syndicats-et-les-mutuelles-vent-debout-contre-bercy-sur-la-fiscalite-et-le-deficit-997685.html)
+append_entries: 3
+Finish: 2024-05-17 01:20:16.548034

@@ -369,3 +369,12 @@ Existing_entries: 51
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-16 12:46:44.568134
+------------------------------------------------------
+Started: 2024-05-17 01:17:22.333809
+Existing_entries: 51
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [Le vélo électrique pourrait éliminer 25% des déplacements en voiture](https://www.journaldemontreal.com/2024/05/15/le-velo-electrique-pourrait-eliminer-25-des-deplacements-en-voiture)
+append_entries: 1
+Finish: 2024-05-17 01:17:26.930480

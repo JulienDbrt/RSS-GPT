@@ -485,3 +485,12 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle-Calédonie : "150 entreprises détruites", l'économie calédonienne au bord du gouffre](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-6522840)
 append_entries: 5
 Finish: 2024-05-16 12:44:29.343906
+------------------------------------------------------
+Started: 2024-05-17 01:16:10.950361
+Existing_entries: 93
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [À quoi ressemble la France vue des supermarchés ?](https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-jeudi-16-mai-2024-1176027)
+append_entries: 1
+Finish: 2024-05-17 01:16:17.136393

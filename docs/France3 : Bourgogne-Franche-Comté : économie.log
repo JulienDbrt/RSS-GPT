@@ -432,3 +432,15 @@ Summarized using GPT-3.5-turbo
 Append: [Économie. SKF annonce 27 millions d'euros d'investissement sur son site du Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/economie-skf-annonce-27-millions-d-euros-d-investissement-sur-son-site-du-jura-2970374.html)
 append_entries: 1
 Finish: 2024-05-16 12:45:46.299883
+------------------------------------------------------
+Started: 2024-05-17 01:17:02.404771
+Existing_entries: 82
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [INTERVIEW. Infirmiers libéraux en colère : une manifestation "choc" prévue à Dijon pour ne pas disparaître](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/interview-infirmiers-liberaux-en-colere-une-manifestation-choc-prevue-a-dijon-pour-ne-pas-disparaitre-2970917.html)
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: ["Il nous donne des leçons de vie" : pour sauver le poste de leur professeur, ces lycéens sortent le grand jeu](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/c-est-une-onde-de-choc-pour-sauver-le-poste-de-leur-professeur-les-lyceens-de-semur-sortent-le-grand-jeu-2970731.html)
+append_entries: 2
+Finish: 2024-05-17 01:17:13.225907

@@ -832,3 +832,21 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF Connect: vous pouvez désormais réserver une chambre d'hôtel, mais plus un VTC ou un taxi](https://www.bfmtv.com/economie/entreprises/transports/sncf-connect-vous-pouvez-desormais-reserver-une-chambre-d-hotel-mais-plus-un-vtc-ou-un-taxi_AV-202405160042.html)
 append_entries: 9
 Finish: 2024-05-16 12:40:15.130214
+------------------------------------------------------
+Started: 2024-05-17 01:13:27.473247
+Existing_entries: 230
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Allemagne: l'expansion de l'usine Tesla continue d'être chahutée alors que la municipalité a voté pour](https://www.bfmtv.com/economie/entreprises/allemagne-l-expansion-de-l-usine-tesla-continue-d-etre-chahutee-alors-que-la-municipalite-a-vote-pour_AN-202405160907.html)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [La société de biochimie MetEx a demandé son placement en redressement judiciaire](https://www.bfmtv.com/economie/entreprises/la-societe-de-biochimie-met-ex-a-demande-son-placement-en-redressement-judiciaire_AD-202405160882.html)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Stockage électrique: les groupes Eiffage et Entech lancent une coentreprise](https://www.bfmtv.com/economie/entreprises/energie/stockage-electrique-les-groupes-eiffage-et-entech-lancent-une-coentreprise_AD-202405160783.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Subway paye une amende de 450.000 euros pour clore un litige autour de son contrat de franchise](https://www.bfmtv.com/economie/entreprises/subway-paye-une-amende-de-450-000-euros-pour-clore-un-litige-autour-de-son-contrat-de-franchise_AD-202405160672.html)
+append_entries: 4
+Finish: 2024-05-17 01:13:42.089337

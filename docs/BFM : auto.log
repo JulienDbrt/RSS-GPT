@@ -414,3 +414,12 @@ Summarized using GPT-3.5-turbo
 Append: [Week-end de la Pentecôte: un trafic très chargé sur les routes dès vendredi](https://www.bfmtv.com/auto/week-end-de-la-pentecote-un-trafic-tres-charge-sur-les-routes-des-vendredi_AV-202405160039.html)
 append_entries: 1
 Finish: 2024-05-16 12:39:25.759999
+------------------------------------------------------
+Started: 2024-05-17 01:13:24.743166
+Existing_entries: 76
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [La mortalité routière en hausse de 9% en avril](https://www.bfmtv.com/auto/la-mortalite-routiere-en-hausse-de-9-en-avril_AD-202405160669.html)
+append_entries: 1
+Finish: 2024-05-17 01:13:26.095656

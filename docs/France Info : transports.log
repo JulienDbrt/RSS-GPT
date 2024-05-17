@@ -509,3 +509,18 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : les salariés de la RATP obtiennent en moyenne 1 000 euros brut de prime par agent](https://www.francetvinfo.fr/economie/transports/paris-2024-les-salaries-de-la-ratp-obtiennent-en-moyenne-1-000-euros-brut-de-prime-par-agent_6546503.html)
 append_entries: 3
 Finish: 2024-05-16 12:44:08.189588
+------------------------------------------------------
+Started: 2024-05-17 01:16:03.408687
+Existing_entries: 101
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "L'idée, c'est de préparer les stagiaires à répondre à toutes sortes de situations sur le terrain" : les agents de sûreté de la RATP se préparent pour les Jeux olympiques](https://www.francetvinfo.fr/economie/transports/reportage-l-idee-c-est-de-preparer-les-stagiaires-a-repondre-a-toutes-sortes-de-situations-sur-le-terrain-les-agents-de-surete-de-la-ratp-se-preparent-pour-les-jeux-olympiques_6548375.html)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Manifestations des "gilets jaunes" : l'Etat reconnu responsable pour une charge policière sur Geneviève Legay en 2019 à Nice](https://www.francetvinfo.fr/economie/transports/gilets-jaunes/manifestations-des-gilets-jaunes-l-etat-reconnu-responsable-pour-une-charge-policiere-sur-une-septuagenaire-en-2019-a-nice_6548393.html)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [Grève à la SNCF : le trafic sera "fortement perturbé" mardi en Ile-de-France](https://www.francetvinfo.fr/economie/greve/greve-a-la-sncf-le-trafic-sera-fortement-perturbe-mardi-en-ile-de-france_6548285.html)
+append_entries: 3
+Finish: 2024-05-17 01:16:10.901037

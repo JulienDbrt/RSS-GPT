@@ -480,3 +480,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le pouvoir d’achat a grimpé sous la Vivaldi, sauf pour les revenus plus faibles](https://www.7sur7.be/belgique/le-pouvoir-dachat-a-grimpe-sous-la-vivaldi-sauf-pour-les-revenus-plus-faibles~ae466924/)
 append_entries: 4
 Finish: 2024-05-16 12:38:11.072866
+------------------------------------------------------
+Started: 2024-05-17 01:12:11.480077
+Existing_entries: 98
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 333
+Summarized using GPT-3.5-turbo
+Append: [Logement social à Bruxelles: 535 candidats en attente possédaient déjà un bien immobilier](https://www.7sur7.be/economie/logement-social-a-bruxelles-535-candidats-en-attente-possedaient-deja-un-bien-immobilier~ab1ae6a4/)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [Quelque 120 emplois supprimés chez Thalès Alenia Space, principalement à Charleroi](https://www.7sur7.be/economie/quelque-120-emplois-supprimes-chez-thales-alenia-space-principalement-a-charleroi~a96cbaf1/)
+append_entries: 2
+Finish: 2024-05-17 01:12:20.845859

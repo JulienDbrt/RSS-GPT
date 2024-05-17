@@ -434,3 +434,15 @@ Summarized using GPT-3.5-turbo
 Append: [Ligue 2 : 25 millions d’euros pour racheter l'AS Saint-Etienne, vraiment un bon prix ?](https://www.20minutes.fr/sport/football/ligue_2/4091221-20240516-ligue-2-25-millions-euros-racheter-saint-etienne-vraiment-bon-prix)
 append_entries: 6
 Finish: 2024-05-16 12:37:55.590235
+------------------------------------------------------
+Started: 2024-05-17 01:12:08.627400
+Existing_entries: 76
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Nature & Découvertes veut fermer trois magasins, 74 postes menacés](https://www.20minutes.fr/economie/4091483-20240516-nature-decouvertes-veut-fermer-trois-magasins-74-postes-menaces)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Les Mousquetaires licencient les 174 salariés de Brico Privé, ex-pépite du bricolage en ligne](https://www.20minutes.fr/economie/4091475-20240516-mousquetaires-licencient-174-salaries-brico-prive-ex-pepite-bricolage-ligne)
+append_entries: 2
+Finish: 2024-05-17 01:12:11.429613

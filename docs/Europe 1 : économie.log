@@ -481,3 +481,15 @@ Append: [Trophées Europe 1 de l'Avenir 2024 : découvrez les candidats de la ca
 Append: [Le Sénat veut faire la lumière sur le dérapage des comptes publics en 2023](https://www.europe1.fr/economie/le-senat-veut-a-faire-la-lumiere-sur-le-derapage-des-comptes-publics-en-2023-4247210)
 append_entries: 12
 Finish: 2024-05-16 12:43:12.880664
+------------------------------------------------------
+Started: 2024-05-17 01:15:05.531627
+Existing_entries: 93
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie : les dégâts des émeutes estimés à 200 millions d'euros](https://www.europe1.fr/economie/nouvelle-caledonie-les-degats-des-emeutes-estimes-a-200-millions-deuros-4247345)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire : fin du chargement du combustible dans l'EPR de Flamanville](https://www.europe1.fr/economie/nucleaire-fin-du-chargement-du-combustible-dans-lepr-de-flamanville-4247363)
+append_entries: 2
+Finish: 2024-05-17 01:15:15.456330

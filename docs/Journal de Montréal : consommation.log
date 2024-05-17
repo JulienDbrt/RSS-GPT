@@ -391,3 +391,9 @@ Summarized using GPT-3.5-turbo
 Append: [Lotto Max: un gros lot de 65 M$ sera tiré vendredi](https://www.journaldemontreal.com/2024/05/15/lotto-max-un-gros-lot-de-65-m-sera-tire-vendredi)
 append_entries: 5
 Finish: 2024-05-16 12:46:44.414357
+------------------------------------------------------
+Started: 2024-05-17 01:17:22.202054
+Existing_entries: 57
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-05-17 01:17:22.307523

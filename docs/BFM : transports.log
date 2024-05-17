@@ -396,3 +396,9 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF Connect: vous pouvez désormais réserver une chambre d'hôtel, mais plus un VTC ou un taxi](https://www.bfmtv.com/economie/entreprises/transports/sncf-connect-vous-pouvez-desormais-reserver-une-chambre-d-hotel-mais-plus-un-vtc-ou-un-taxi_AV-202405160042.html)
 append_entries: 3
 Finish: 2024-05-16 12:41:26.544674
+------------------------------------------------------
+Started: 2024-05-17 01:14:19.796110
+Existing_entries: 70
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-05-17 01:14:19.976485
