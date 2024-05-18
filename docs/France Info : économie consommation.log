@@ -1464,3 +1464,24 @@ Summarized using GPT-3.5-turbo
 Append: [Elections européennes 2024 : à l'usine Metex d'Amiens, la gauche tente de reprendre des couleurs sociales](https://www.francetvinfo.fr/elections/elections-europeennes-2024-a-l-usine-metex-d-amiens-la-gauche-tente-de-reprendre-des-couleurs-sociales_6545768.html)
 append_entries: 10
 Finish: 2024-05-17 12:38:04.192876
+------------------------------------------------------
+Started: 2024-05-18 01:13:37.633829
+Existing_entries: 496
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Automobile : Citroën rappelle 600 000 véhicules pour cause d'airbags détériorés](https://www.francetvinfo.fr/economie/automobile/automobile-citroen-rappelle-600-000-vehicules-pour-cause-d-airbags-deteriores_6550628.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Le groupe Bolloré officialise son projet de "gigafactory" de batteries électriques en Alsace](https://www.francetvinfo.fr/economie/industrie/le-groupe-bollore-officialise-son-projet-de-gigafactory-de-batteries-electriques-en-alsace_6550163.html)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : toujours de nombreux vacanciers à Venise, malgré l’entrée payante](https://www.francetvinfo.fr/economie/tourisme/tourisme-toujours-de-nombreux-vacanciers-a-venise-malgre-l-entree-payante_6550199.html)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Vacances d’été : le budget moyen des Français en hausse de 12%](https://www.francetvinfo.fr/economie/tourisme/vacances-d-ete-le-budget-moyen-des-francais-en-hausse-de-12_6550196.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Transports : Ryanair quittera l’aéroport de Bordeaux à l’automne](https://www.francetvinfo.fr/economie/aeronautique/transports-ryanair-quittera-l-aeroport-de-bordeaux-a-l-automne_6550184.html)
+append_entries: 5
+Finish: 2024-05-18 01:13:54.426228

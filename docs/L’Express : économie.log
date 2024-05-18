@@ -598,3 +598,12 @@ Summarized using GPT-3.5-turbo
 Append: [Dette : comment LFI "nourrit les conspirationnistes anti-finances"](https://www.lexpress.fr/economie/politique-economique/dette-comment-lfi-nourrit-les-conspirationnistes-anti-finance-V64HYLLJJBBORFP77HB2OYFWT4/)
 append_entries: 3
 Finish: 2024-05-17 12:41:42.785693
+------------------------------------------------------
+Started: 2024-05-18 01:15:51.315723
+Existing_entries: 180
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2264
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : la vente de logements neufs poursuit sa chute libre](https://www.lexpress.fr/economie/immobilier-la-vente-de-logements-neufs-poursuit-sa-chute-libre-4W7ZKJILNZH3PBGCLUEAN6FJUY/)
+append_entries: 1
+Finish: 2024-05-18 01:15:56.291675

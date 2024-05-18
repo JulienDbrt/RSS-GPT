@@ -451,3 +451,12 @@ Summarized using GPT-3.5-turbo
 Append: ["On va avoir une crise majeure du logement et les victimes seront les Français"](https://www.bfmtv.com/immobilier/construction/on-va-avoir-une-crise-majeure-du-logement-et-les-victimes-seront-les-francais_AV-202405170338.html)
 append_entries: 3
 Finish: 2024-05-17 12:36:08.027266
+------------------------------------------------------
+Started: 2024-05-18 01:12:34.133771
+Existing_entries: 97
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Les taxes foncières payées l'an passé par les particuliers ont rapporté 10% de plus qu'en 2022](https://www.bfmtv.com/immobilier/fiscalite/les-taxes-foncieres-payees-l-an-passe-par-les-particuliers-ont-rapporte-10-de-plus-qu-en-2022_AV-202405170720.html)
+append_entries: 1
+Finish: 2024-05-18 01:12:36.456667

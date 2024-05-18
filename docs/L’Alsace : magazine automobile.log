@@ -407,3 +407,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pratique auto. Comment vendre une voiture d’occasion sans se faire arnaquer ?](https://www.lalsace.fr/magazine-automobile/2024/05/17/comment-vendre-une-voiture-d-occasion-sans-se-faire-arnaquer)
 append_entries: 2
 Finish: 2024-05-17 12:41:26.507732
+------------------------------------------------------
+Started: 2024-05-18 01:15:33.902384
+Existing_entries: 63
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [Moto-Scooter. Django 125, Peugeot mise de nouveau sur le scooter vintage](https://www.lalsace.fr/magazine-automobile/2024/05/17/django-125-peugeot-mise-de-nouveau-sur-le-scooter-vintage)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Automobile - Utilitaires. Mercedes et Onomotion sur la piste de la livraison durable](https://www.lalsace.fr/magazine-automobile/2024/05/17/mercedes-et-onomotion-sur-la-piste-de-la-livraison-durable)
+append_entries: 2
+Finish: 2024-05-18 01:15:41.718589

@@ -805,3 +805,18 @@ Summarized using GPT-3.5-turbo
 Append: [Crypto – L’ex-PDG de Binance toujours pas en prison ! Pourrait-il finalement y échapper ?](https://www.cointribune.com/crypto-cz-toujours-pas-en-prison-pourrait-il-finalement-y-echapper/)
 append_entries: 5
 Finish: 2024-05-17 12:28:56.709409
+------------------------------------------------------
+Started: 2024-05-18 01:05:55.594018
+Existing_entries: 205
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Un mois après le « halving » : que fait le bitcoin ?](https://www.latribune.fr/entreprises-finance/banques-finance/industrie-financiere/un-mois-apres-le-halving-que-fait-le-bitcoin-997726.html)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [La Bourse de Chicago envisagerait de s'ouvrir au trading de bitcoin au comptant](https://www.lesechos.fr/finance-marches/marches-financiers/la-bourse-de-chicago-envisagerait-de-souvrir-au-trading-de-bitcoin-au-comptant-2095582)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Cryptomonnaies : un développeur condamné à cinq ans de prison pour blanchiment](https://investir.lesechos.fr/marches-indices/bitcoin-cryptomonnaies/cryptomonnaies-un-developpeur-condamne-a-cinq-ans-de-prison-pour-blanchiment-2095537)
+append_entries: 3
+Finish: 2024-05-18 01:06:07.994570

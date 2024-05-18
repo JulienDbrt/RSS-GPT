@@ -390,3 +390,9 @@ Summarized using GPT-3.5-turbo
 Append: [Accidents impliquant des camions: des remorqueurs se plaignent de ne pas être remboursés](https://www.journaldemontreal.com/2024/05/16/accidents-impliquant-des-camions-des-remorqueurs-se-plaignent-de-ne-pas-etre-rembourses)
 append_entries: 2
 Finish: 2024-05-17 12:41:14.583537
+------------------------------------------------------
+Started: 2024-05-18 01:15:18.995814
+Existing_entries: 54
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-18 01:15:19.542259

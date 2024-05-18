@@ -419,3 +419,18 @@ Summarized using GPT-3.5-turbo
 Append: [Trafic ferroviaire interrompu entre Bruxelles-Midi et Nivelles : la circulation a repris](https://www.lalibre.be/belgique/mobilite/2024/05/17/trafic-ferroviaire-interrompu-entre-bruxelles-midi-et-nivelles-TGIX2KBHE5DNTEZTDZRIWZZY54/)
 append_entries: 3
 Finish: 2024-05-17 12:45:34.789894
+------------------------------------------------------
+Started: 2024-05-18 01:18:02.279732
+Existing_entries: 93
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [La police annonce une opération de grande ampleur la semaine prochaine](https://www.lalibre.be/belgique/mobilite/2024/05/17/la-police-annonce-une-operation-de-grande-ampleur-la-semaine-prochaine-RVOVD4DM6FGYBKAKMAX2YUBU5E/)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Nouveau week-end noir au carrefour Léonard: le point sur les accès qui seront fermés dès ce vendredi soir](https://www.lalibre.be/belgique/mobilite/2024/05/17/nouveau-week-end-noir-au-carrefour-leonard-le-point-sur-les-acces-qui-seront-fermes-des-ce-vendredi-soir-KOHNCZTMMJAOVP7I5FOM4OXWD4/)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Réduction de la vitesse sur l’E40 en direction de Liège : un tronçon passe de 120 km/h à 70 km/h](https://www.lalibre.be/belgique/mobilite/2024/05/17/reduction-de-la-vitesse-sur-le40-en-direction-de-liege-un-troncon-passe-de-120-kmh-a-70-kmh-Y4PJZHVGMVE4XBAUEXBXBDO3GU/)
+append_entries: 3
+Finish: 2024-05-18 01:18:14.114568

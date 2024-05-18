@@ -435,3 +435,15 @@ Summarized using GPT-3.5-turbo
 Append: [PARIGO. République : bientôt le renouveau ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/parigo-republique-bientot-le-renouveau-2969531.html)
 append_entries: 3
 Finish: 2024-05-17 12:39:59.577299
+------------------------------------------------------
+Started: 2024-05-18 01:14:24.683030
+Existing_entries: 79
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : Fermeture des stations de métro Concorde, Tuileries et Champs Elysées-Clémenceau. Qui a pris cette décision ? On vous explique](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris-2024-fermeture-des-stations-de-metro-concorde-tuileries-et-champs-elysees-clemenceau-qui-a-pris-cette-decision-on-vous-explique-2971577.html)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Les pharmaciens en grève des gardes le week-end de la Pentecôte, "avec l'augmentation des charges, on ne plus faire face"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/les-pharmaciens-en-greve-des-gardes-le-week-end-de-la-pentecote-avec-l-augmentation-des-charges-on-ne-plus-faire-face-2971391.html)
+append_entries: 2
+Finish: 2024-05-18 01:14:30.669122

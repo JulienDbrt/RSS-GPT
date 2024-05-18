@@ -490,3 +490,18 @@ Summarized using GPT-3.5-turbo
 Append: [A l’assaut du premier job !](https://www.ladepeche.fr/2024/05/17/a-lassaut-du-premier-job-11956240.php)
 append_entries: 3
 Finish: 2024-05-17 12:44:24.361673
+------------------------------------------------------
+Started: 2024-05-18 01:17:13.233338
+Existing_entries: 94
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: ["Si vous n’êtes pas heureux, ne venez pas au travail" : une entreprise accorde 10 jours de "congés malheur" à ses salariés](https://www.ladepeche.fr/2024/05/17/si-vous-netes-pas-heureux-ne-venez-pas-au-travail-une-entreprise-accorde-10-jours-de-conges-malheur-a-ses-salaries-11957642.php)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [À Foix, l’école de Cadirac va produire de l’électricité pour 50 foyers, les panneaux photovoltaïques seront branchés en septembre](https://www.ladepeche.fr/2024/05/17/a-foix-lecole-de-cadirac-va-produire-de-lelectricite-pour-50-foyers-les-panneaux-photovoltaiques-seront-branches-en-septembre-11957372.php)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Santé au travail : "Aujourd’hui, la quête de sens est essentielle pour les travailleurs"](https://www.ladepeche.fr/2024/05/17/sante-au-travail-aujourdhui-la-quete-de-sens-est-essentielle-pour-les-travailleurs-11954388.php)
+append_entries: 3
+Finish: 2024-05-18 01:17:25.692680

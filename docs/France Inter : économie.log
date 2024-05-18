@@ -518,3 +518,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le 5/6 de Marion L'Hour](https://www.radiofrance.fr/franceinter/podcasts/le-5-6/le-5-6-du-vendredi-17-mai-2024-9428485)
 append_entries: 6
 Finish: 2024-05-17 12:38:49.336240
+------------------------------------------------------
+Started: 2024-05-18 01:14:00.459966
+Existing_entries: 100
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-18 01:14:01.535104

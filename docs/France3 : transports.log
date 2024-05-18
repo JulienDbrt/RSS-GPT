@@ -857,3 +857,21 @@ Summarized using GPT-3.5-turbo
 Append: [Vallée de la Roya : pas de train sur la ligne Nice Tende pendant 16 mois pour cause de travaux](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/vallee-de-la-roya-pas-de-train-sur-la-ligne-nice-tende-pendant-16-mois-pour-cause-de-travaux-2970923.html)
 append_entries: 8
 Finish: 2024-05-17 12:40:49.464760
+------------------------------------------------------
+Started: 2024-05-18 01:15:03.332504
+Existing_entries: 220
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Stationnement à Strasbourg : 12 jours gratuits pour les proches des détenteurs d'un abonnement résident](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/stationnement-a-strasbourg-12-jours-gratuits-pour-les-proches-des-detenteurs-d-un-abonnement-resident-2970179.html)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : Fermeture des stations de métro Concorde, Tuileries et Champs Elysées-Clémenceau. Qui a pris cette décision ? On vous explique](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris-2024-fermeture-des-stations-de-metro-concorde-tuileries-et-champs-elysees-clemenceau-qui-a-pris-cette-decision-on-vous-explique-2971577.html)
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Affaire Goodyear. "Je passe le relais à la justice" : le combat de Sophie Rollet, cette veuve qui a fait vaciller le géant américain du pneu](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/affaire-goodyear-je-passe-le-relais-a-la-justice-sophie-rollet-cette-veuve-qui-a-fait-vaciller-le-geant-americain-du-pneu-2970269.html)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [Accident mortel de trotinette : " Je suis en colère ! " La maman d'Iris alerte sur la dangerosité des voies de circulation partagées](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/accident-mortel-de-trotinette-je-suis-en-colere-la-maman-d-iris-alerte-sur-la-dangerosite-des-voies-de-circulation-partagees-2971346.html)
+append_entries: 4
+Finish: 2024-05-18 01:15:18.347873

@@ -483,3 +483,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le groupe m3 abandonne l'hôtellerie et la restauration](https://www.20min.ch/fr/103107738)
 append_entries: 1
 Finish: 2024-05-17 12:33:32.461919
+------------------------------------------------------
+Started: 2024-05-18 01:10:44.682408
+Existing_entries: 95
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-05-18 01:10:45.755179
