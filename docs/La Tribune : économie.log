@@ -916,3 +916,27 @@ Summarized using GPT-3.5-turbo
 Append: [Face aux Etats-Unis, le risque de déclassement de l'Europe inquiète les économistes](https://www.latribune.fr/economie/union-europeenne/face-aux-etats-unis-le-risque-de-declassement-de-l-europe-inquiete-les-economistes-997752.html)
 append_entries: 1
 Finish: 2024-05-18 01:18:18.363113
+------------------------------------------------------
+Started: 2024-05-19 01:23:35.734433
+Existing_entries: 224
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Baromètre politique : Jordan Bardella double Marine Le Pen](https://www.latribune.fr/economie/politique/barometre-politique-jordan-bardella-double-marine-le-pen-997845.html)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Européennes : Hayer recule encore](https://www.latribune.fr/economie/politique/europeennes-hayer-recule-encore-997846.html)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Football : le PSG réfléchit à bâtir son futur stade à l’hippodrome de Saint-Cloud](https://www.latribune.fr/economie/france/football-le-psg-reflechit-a-batir-son-futur-stade-a-l-hippodrome-de-saint-cloud-997838.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [La Pologne va investir plus de 2 milliards d’euros pour fortifier sa frontière orientale](https://www.latribune.fr/economie/international/la-pologne-va-investir-plus-de-2-milliards-d-euros-pour-fortifier-sa-frontiere-orientale-997807.html)
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [Elections européennes : 37 listes ont déposé leur candidature en France](https://www.latribune.fr/economie/france/elections-europeennes-37-listes-ont-depose-leur-candidature-en-france-997800.html)
+Token length: 76
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie : un mort et deux blessés dans un échange de tirs dans le nord](https://www.latribune.fr/economie/france/nouvelle-caledonie-un-mort-et-deux-blesses-dans-un-echange-de-tirs-dans-le-nord-997799.html)
+append_entries: 6
+Finish: 2024-05-19 01:23:52.563715

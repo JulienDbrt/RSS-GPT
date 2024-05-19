@@ -342,3 +342,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : partenariat inédit entre les villes de Saint-Dizier et Aubervilliers pour construire des logements neufs](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/saint-dizier-0/immobilier-partenariat-inedit-entre-les-villes-de-saint-dizier-et-aubervilliers-pour-construire-des-logements-neufs-2971529.html)
 append_entries: 1
 Finish: 2024-05-18 01:15:03.217838
+------------------------------------------------------
+Started: 2024-05-19 01:20:16.631875
+Existing_entries: 46
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-19 01:20:16.907707

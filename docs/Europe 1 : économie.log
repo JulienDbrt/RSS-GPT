@@ -511,3 +511,15 @@ Existing_entries: 97
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-18 01:13:24.030428
+------------------------------------------------------
+Started: 2024-05-19 01:17:41.361316
+Existing_entries: 97
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [«C’est une super nouvelle» : dans le Haut-Rhin, les habitants de Petit-Landau globalement satisfaits de l’arrivée de Microsoft](https://www.europe1.fr/economie/cest-une-super-nouvelle-les-habitants-de-petit-landau-haut-rhin-globalement-satisfaits-de-larrivee-de-microsoft-4247664)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Les actions fractionnées : la future poule aux œufs d’or pour les épargnants ?](https://www.europe1.fr/economie/les-actions-fractionnees-la-future-poule-aux-oeufs-dor-pour-les-epargnants-4247663)
+append_entries: 2
+Finish: 2024-05-19 01:17:45.181177

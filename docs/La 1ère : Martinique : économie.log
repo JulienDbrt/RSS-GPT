@@ -364,3 +364,15 @@ Existing_entries: 40
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-05-18 01:16:16.912690
+------------------------------------------------------
+Started: 2024-05-19 01:21:32.704191
+Existing_entries: 40
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 12
+Summarized using GPT-3.5-turbo
+Append: [Air Antilles : des délais de redémarrage qui ne cessent de se rallonger](https://la1ere.francetvinfo.fr/guadeloupe/air-antilles-des-delais-de-redemarrage-qui-ne-cessent-de-se-rallonger-1488722.html?Version=mobile)
+Token length: 37
+Summarized using GPT-3.5-turbo
+Append: [Rendez-vous avec les acteurs du bien-être au Salon Serenity Islands de Martinique](https://la1ere.francetvinfo.fr/martinique/rendez-vous-avec-les-acteurs-du-bien-etre-au-salon-serenity-islands-de-martinique-1489151.html)
+append_entries: 2
+Finish: 2024-05-19 01:21:41.303489

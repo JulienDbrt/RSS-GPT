@@ -397,3 +397,15 @@ Summarized using GPT-3.5-turbo
 Append: [TÉMOIGNAGES. Émeutes en Nouvelle-Calédonie : "Je crois qu'on est les touristes les plus malchanceux du monde"](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/temoignages-emeutes-en-nouvelle-caledonie-je-crois-qu-on-est-les-touristes-les-plus-malchanceux-du-monde-1489133.html)
 append_entries: 1
 Finish: 2024-05-18 01:16:20.652005
+------------------------------------------------------
+Started: 2024-05-19 01:21:45.630214
+Existing_entries: 51
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [Festival Terre de Blues : Un bateau supplémentaire entre Pointe-à-Pitre et Saint-Louis de Marie-Galante](https://la1ere.francetvinfo.fr/guadeloupe/marie-galante/festival-terre-de-blues-un-bateau-supplementaire-entre-pointe-a-pitre-et-saint-louis-de-marie-galante-1489322.html)
+Token length: 12
+Summarized using GPT-3.5-turbo
+Append: [Air Antilles : des délais de redémarrage qui ne cessent de se rallonger](https://la1ere.francetvinfo.fr/guadeloupe/air-antilles-des-delais-de-redemarrage-qui-ne-cessent-de-se-rallonger-1488722.html?Version=mobile)
+append_entries: 2
+Finish: 2024-05-19 01:21:53.004714

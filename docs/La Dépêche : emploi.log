@@ -505,3 +505,18 @@ Summarized using GPT-3.5-turbo
 Append: [Santé au travail : "Aujourd’hui, la quête de sens est essentielle pour les travailleurs"](https://www.ladepeche.fr/2024/05/17/sante-au-travail-aujourdhui-la-quete-de-sens-est-essentielle-pour-les-travailleurs-11954388.php)
 append_entries: 3
 Finish: 2024-05-18 01:17:25.692680
+------------------------------------------------------
+Started: 2024-05-19 01:22:31.566992
+Existing_entries: 97
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Lundi de Pentecôte : 7 heures de travail supplémentaires, jour chômé, salaire non majoré… tout savoir sur la journée de solidarité](https://www.ladepeche.fr/2024/05/18/lundi-de-pentecote-7-heures-de-travail-supplementaires-jour-chome-salaire-non-majore-tout-savoir-sur-la-journee-de-solidarite-11957368.php)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Le salon TAF 2024 fait le plein de visiteurs à Figeac](https://www.ladepeche.fr/2024/05/18/le-salon-taf-2024-fait-le-plein-de-visiteurs-a-figeac-11954800.php)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : face à la baisse des candidats aux concours, l’académie a recours aux contractuels pour endiguer le non-remplacement des profs absents](https://www.ladepeche.fr/2024/05/18/toulouse-face-a-la-baisse-des-candidats-aux-concours-lacademie-a-recours-aux-contractuels-pour-endiguer-le-non-remplacement-des-profs-absents-11957603.php)
+append_entries: 3
+Finish: 2024-05-19 01:22:43.041003

@@ -5,14 +5,476 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Brancher un vieux Windows sur le Net ? La roulette russe numérique !</title>
+<link>https://korben.info/brancher-vieux-windows-internet-roulette-russe-numerique.html</link>
+<guid>https://korben.info/brancher-vieux-windows-internet-roulette-russe-numerique.html</guid>
+<content:encoded><![CDATA[
+<div> vieux Windows, sécurité, failles, protection, hackers
+<br>
+<br>
+Summary:
+Les vieux Windows (Windows XP, 2000, 98) restent vulnérables lorsqu'ils sont exposés sur Internet sans protection, comme démontré par des expériences récentes. Windows 98 semblait protégé par son obscurité, mais Windows 2000 et XP ont rapidement été infectés par des malwares et des backdoors, démontrant ainsi la vulnérabilité persistante de ces systèmes. Ces expériences soulignent l'importance des protections réseau modernes et la nécessité de ne pas sous-estimer les anciens systèmes d'exploitation en matière de sécurité. Il est recommandé de faire tourner ces anciens Windows dans des environnements isolés et de rester vigilants face aux hackers qui exploitent les moindres failles, même sur les systèmes d'exploitation récents. Prenez soin de vos ordinateurs et soyez attentifs à la sécurité de vos systèmes. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_An_OLD_1998_PC_exposed_to_the_Internet_malware_Windows_9_74ad34b5-bcdf-4898-ba83-173bccc37a04.webp" width="1920" /></p>
+<p>Vous pensiez que les vieux Windows étaient devenus inoffensifs avec le temps ? Détrompez-vous ! Le bidouilleur <a href="https://www.youtube.com/@EricParker" rel="noopener" target="_blank">Eric Parker</a> s&rsquo;est récemment amusé à exposer directement sur Internet des machines tournant sous Windows XP, 2000 et 98, sans aucune protection&#8230; et le résultat est franchement flippant.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-65374395" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Parce que oui, même en 2024, quand on branche en direct un vieux Windows sur le net, sans pare-feu matériel pour filtrer les connexions non désirées, c&rsquo;est le scénario catastrophe assuré. Votre antiquité numérique se retrouve à poil sur les réseaux, à la merci du premier script kiddie venu. Et ça ne fera pas long feu avant que votre bécane ne soit infestée de malwares !</p>
+
+
+
+<p>Commençons par <strong>Windows 98</strong>. Lors de son test, Eric a eu beau patienter, rien ne s&rsquo;est passé. Pas l&rsquo;ombre d&rsquo;un ver, backdoor ou cheval de Troie à l&rsquo;horizon. Il semblerait que la vieille bécane bénéficie d&rsquo;une forme de « sécurité par l&rsquo;obscurité ». Avec si peu de Windows 98 encore connectés, les hackers ne prennent plus la peine d&rsquo;écrire des exploits dédiés. Ouf !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Passons à <strong>Windows 2000</strong>. Là, c&rsquo;est une tout autre histoire ! À peine connecté, les scans de ports ont révélé la présence de SMB, le protocole d&rsquo;échange de fichiers, réputé pour ses failles béantes. Et quelques minutes plus tard, patatra ! Un bel écran bleu, suivi d&rsquo;un redémarrage en boucle. En inspectant le système, Eric a découvert une backdoor signée « Shang Xen Smartphone Technology », des modifications de fichiers systèmes et même un mystérieux exécutable caché dans un dossier Temp. De quoi transformer la machine en parfait zombie à la solde des pirates !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Et <strong>Windows XP</strong> dans tout ça ? Pareil, 10 minutes chrono pour chopper un premier trojan « conhost.exe ». S&rsquo;en sont suivis la création d&rsquo;un compte administrateur, l&rsquo;apparition d&rsquo;un serveur FTP ouvert aux quatre vents, et tout un tas de saletés en provenance de Russie, le tout bien planqué dans le système. En bonus, un malware s&rsquo;est même amusé à éjecter Malwarebytes, l&rsquo;anti-virus qu&rsquo;Eric avait installé. Bref, un joyeux bazar et une prise de contrôle totale de la machine, malgré un semblant de résistance du pare-feu intégré de XP.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1050262950" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Alors oui, ces expériences peuvent paraître un peu artificielles. Après tout, qui serait assez fou pour connecter directement un Windows préhistorique sur le net aujourd&rsquo;hui ? Mais elles illustrent bien les progrès en matière de sécurité, et l&rsquo;importance cruciale des protections réseau modernes (merci le NAT et les pare-feu !).</p>
+
+
+
+<p>Et la morale de l&rsquo;histoire ? </p>
+
+
+
+<p>Primo, ne jamais sous-estimer les vieux Windows, ils sont toujours aussi vulnérables qu&rsquo;à l&rsquo;époque. Deuxio, faites tourner vos antiquités dans une VM ou un réseau isolé si vous y tenez. Tertio, soyez vigilants même sur les OS récents, les hackers affinent toujours leurs techniques pour exploiter la moindre faille.</p>
+
+
+
+<p>Prenez soin de vos ordi, et à demain 🙂</p>
+
+
+
+<p><a href="https://www.tomshardware.com/software/windows/idle-windows-xp-and-2000-machines-get-infected-with-viruses-within-minutes-of-being-exposed-online" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 19:34:21 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 19:34:21 +0000</pubDate>
+</item>
+<item>
+<title>Des distrib Linux commencent à interdire le code généré par l’IA</title>
+<link>https://korben.info/linux-interdit-code-genere-ia-gentoo-netbsd-ouvrent-voie.html</link>
+<guid>https://korben.info/linux-interdit-code-genere-ia-gentoo-netbsd-ouvrent-voie.html</guid>
+<content:encoded><![CDATA[
+<div> copyright, qualité, éthique, IA, distributions<br>
+<br>
+Summary: <br>
+Les distributions Gentoo et NetBSD ont décidé de bannir le code généré par des IA pour plusieurs raisons. Tout d'abord, il y a la question du copyright, les IA pouvant violer les licences open source en pompant du code. Ensuite, la qualité du code généré par les IA est critiquée pour ses bugs fréquents. Enfin, les problèmes éthiques liés à l'utilisation des IA, tels que la consommation d'énergie excessive et les potentielles violations de copyright pour leur entraînement, ont poussé ces distributions à prendre cette décision. Bien que cette démarche aille à l'encontre de la tendance actuelle, Gentoo et NetBSD restent prudents et privilégient le travail humain. D'autres distributions comme Debian hésitent encore à suivre ce mouvement, mais il est possible que les choses évoluent dans le futur. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_AI_generated_code_for_Linux_7bb86f27-4e68-46ef-8a6f-d97465f4d9f6.webp" width="1920" /></p>
+<p>Ça chauffe du côté des distributions UNIX open source, mes amis. Gentoo et NetBSD viennent de dégainer leur <strong>arme anti-IA</strong> en bannissant purement et simplement le code généré par de l&rsquo;intelligence artificielle. Bye bye <strong>Copilot</strong>, au revoir <strong>ChatGPT</strong>, votre code IA devient persona non grata chez les irréductibles du libre !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1973760237" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais pourquoi tant de haine ? Eh bien nos amis de Gentoo et NetBSD ont plus d&rsquo;un arguments dans leur sac banane. Premier grief : le <strong>copyright</strong>. Avec ces IA qui pompent allègrement du code à droite à gauche, on ne sait plus trop à qui appartient quoi. Pas question donc de se retrouver avec du code « contaminé » qui violerait les sacrosaintes licences open source.</p>
+
+
+
+<p>Deuxième point noir : la <strong>qualité</strong>. Vous avez déjà essayé de faire générer du code par ChatGPT ? C&rsquo;est joli, ça a l&rsquo;air de marcher&#8230; mais y&rsquo;a quand même souvent des bugs ! Hors de question donc pour Gentoo et NetBSD de laisser entrer du code foireux dans leur précieux dépôts. Ils tiennent à leur réputation de stabilité et de fiabilité, nom d&rsquo;un kernel en mousse !</p>
+
+
+
+<p>Ah et puis il y a aussi la question de l&rsquo;<strong>éthique</strong>. Leur point de vue, c&rsquo;est qu&rsquo;entre la consommation gargantuesque d&rsquo;énergie, les violations de copyright pour les entraîner et leur utilisation pour spammer et arnaquer à tout-va, y a de quoi refuser tout ça en bloc. Ils ne veulent pas tremper là-dedans. Et d&rsquo;un côté, je peux les comprendre.</p>
+
+
+
+<p>Alors bien sûr, cette décision va à contre-courant de la hype actuelle mais Gentoo et NetBSD ne sont pas du genre à suivre la mode aveuglément et croient dur comme fer à l&rsquo;importance du <strong>travail humain</strong>. Cela ne veut pas dire qu&rsquo;ils rejettent complètement l&rsquo;IA évidemment&#8230; Ils restent ouverts mais pour l&rsquo;instant, c&rsquo;est trop hasardeux. D&rsquo;autres distrib comme Debian hésitent encore à rejoindre ce mouvement&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-353007577" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Perso, je pense que la question éthique et celle du copyright sont des vraies problématiques pour tous les projets libres car cela pourrait ruiner leurs efforts quand à la licence qu&rsquo;ils s&rsquo;attribuent ou leurs objectifs écolo&#8230; exactement comme Microsoft qui, en ce moment, est en train de ruiner tous ses efforts de développement durable de ces dernières années en poussant l&rsquo;IA à fond&#8230;</p>
+
+
+
+<p>Par contre, je ne suis pas vraiment d&rsquo;accord avec eux sur la qualité du code produit. Certes, il y a des bugs mais exactement comme avec un humain. Donc, à mon sens, c&rsquo;est pas pire ou pas mieux, surtout que le dev qui utilise l&rsquo;IA est quand même censé repasser dessus et corriger les bugs éventuels.</p>
+
+
+
+<p>On verra bien quelles distributions suivront ce mouvement éthique. Perso, je suis plutôt très chaud sur l&rsquo;IA, comme vous le savez, mais en ce qui concerne ce cas spécifique du logiciel libre, je pense que Gentoo et NetBSD prennent la bonne décision en jouant la prudence. Pour le moment, ce n&rsquo;est pas encore pour eux et ce serait prendre trop de risques. </p>
+
+
+
+<p>Mais un jour, ça changera peut-être&#8230; On verra bien.</p>
+
+
+
+<p><a href="https://www.tomshardware.com/software/linux/linux-distros-ban-tainted-ai-generated-code" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 18:50:56 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 18:50:56 +0000</pubDate>
+</item>
+<item>
+<title>Discord LLMCord – Quand les chatbots s’invitent dans Discord</title>
+<link>https://korben.info/discord-llmcord-chatbots-envahissent-serveurs-discord.html</link>
+<guid>https://korben.info/discord-llmcord-chatbots-envahissent-serveurs-discord.html</guid>
+<content:encoded><![CDATA[
+<div> modèles, IA, Discord, LLMCord, installation
+Summary:<br><br>Discord LLMCord est un bot qui permet de converser avec des IA directement dans vos canaux Discord. Il est compatible avec de nombreux modèles de langage, hébergés à distance ou en local. Vous pouvez lancer des conversations, répondre à des messages, poser des questions et créer des fils de discussion. Il prend en charge les modèles distants d'OpenAI, Mistral, Anthropic, et d'autres grâce à LiteLLM. LLMCord gère également les modèles de vision tels que GPT-4, Claude-3, ou LLaVA. Le bot est personnalisable, affiche les réponses en temps réel, et évite les banissements en limitant la longueur des messages. Il utilise un dico global pour mettre en cache les données de manière efficace. Pour l'installer, il suffit de cloner le dépôt GitHub, d'installer les dépendances Python, de configurer les clés API, et de lancer le script. LLMCord est open source, ce qui permet de contribuer et d'adapter le bot à ses besoins. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_logo_fot_a_Discord_bot_named_LLMCord_spelled_L_L_M_C_O_R_72bf0161-41be-42bc-9757-0c0722b29dcb.webp" width="1920" /></p>
+<p>Vous êtes fan de Discord et vous aimez bidouiller des trucs ?? Alors préparez-vous à découvrir <strong>Discord LLMCord</strong>. C&rsquo;est un petit bout de code qui va vous permettre de causer avec des IA directement dans vos canaux, comme si c&rsquo;étaient vos potes. Et ça marche avec à peu près tous les modèles de langage, qu&rsquo;ils soient hébergés à distance ou en local sur votre bécane.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1757154330" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour lancer une conversation, il suffit de tagger le bot et hop, c&rsquo;est parti mon kiki. Vous pouvez continuer la discussion en répondant aux messages et ainsi construire des fils de discussion complets. Vous pouvez par exemple : </p>
+
+
+
+<ul>
+<li>Poursuivre votre propre conversation ou celle de quelqu&rsquo;un d&rsquo;autre.</li>
+
+
+
+<li>« <em>Rembobiner</em> » une discussion en répondant à un vieux message.</li>
+
+
+
+<li>Poser une question sur n&rsquo;importe quel message de votre serveur en taguant le bot.</li>
+</ul>
+
+
+
+<p>En plus, si vous envoyez plusieurs messages à la suite, ils seront automatiquement mis bout à bout et si vous répondez juste au dernier, le bot verra tous les précédents. Vous pouvez aussi déplacer une conversation dans un fil sans perdre le fil (lol). Il vous suffit de créer un thread à partir d&rsquo;un message et de tagger le bot dedans pour continuer à papoter.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-160882" height="858" src="https://korben.info/app/uploads/2024/05/320248322-789d49fe-ef5c-470e-b60e-48ac03057443-1-1024x858.webp" style="width: 616px; height: auto;" width="1024" /></figure></div>
+
+
+<p>Côté compatibilité, ça supporte les modèles distants d&rsquo;<strong>OpenAI</strong>, <strong>Mistral</strong>, <strong>Anthropic</strong> et plein d&rsquo;autres grâce à <strong>LiteLLM</strong>. Si vous voulez faire tourner un modèle en local, pas de souci non plus puisque ça marche avec <strong><a href="https://korben.info/open-webui-nouvelle-interface-graphique-ollama.html">OLLaMa</a></strong>, <strong>OobaBooga</strong>, <strong><a href="https://korben.info/jan-open-source-chatgpt-alternative-hors-ligne-personnalisable.html">Jan</a></strong>, <strong><a href="https://korben.info/lm-studio-local-llms-integration-code-usage.html">LM Studio</a></strong> ou n&rsquo;importe quel serveur d&rsquo;API compatible OpenAI.</p>
+
+
+
+<p>Le bot gère même les images si vous utilisez un modèle de vision comme GPT-4, Claude-3 ou LLaVA. Il a un prompt système personnalisable et vous pouvez lui parler en DM pour plus d&rsquo;intimité (pas besoin de le tagger).</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-101125812" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Si vous utilisez l&rsquo;API OpenAI, LLMCord est également capable de reconnaître l&rsquo;identité des utilisateurs. De plus, les réponses s&rsquo;affichent en temps réel, avec un joli dégradé de vert quand c&rsquo;est fini et s&rsquo;il cause trop, il coupe automatiquement ses messages en plusieurs morceaux. Pratique pour éviter de se faire ban par Discord ! Il affiche aussi des avertissements utiles si besoin, genre « <em>J&rsquo;utilise seulement les 20 derniers messages</em> » quand vous dépassez la limite. Bref, c&rsquo;est un bot bien élevé.</p>
+
+
+
+<p>Sous le capot, il utilise un dico global avec des mutex pour mettre en cache les données des messages de manière efficace et thread-safe, comma ça, ça réduit les appels à l&rsquo;API Discord et ça évite les fuites de mémoire. Le tout totalement en asynchrone.</p>
+
+
+
+<p>Pour l&rsquo;installer, c&rsquo;est fastoche. Vous clonez le repo GitHub, vous installez les dépendances Python avec pip et vous créez un fichier .env avec vos clés d&rsquo;API et les paramètres du bot. Lancez le script et tada, l&rsquo;URL d&rsquo;invitation de votre bot s&rsquo;affiche dans la console. Pour plus de détails, suivez ce guide :</p>
+
+
+
+<ol>
+<li><strong>Installer Python</strong> : Téléchargez et installez Python à partir de <a href="https://www.python.org/downloads/">python.org</a>.</li>
+
+
+
+<li><strong>Cloner le dépôt git</strong> : Ouvrez un terminal et clonez le dépôt :
+    <code>bash
+    git clone https://github.com/jakobdylanc/discord-llm-chatbot.git
+    cd discord-llm-chatbot</code></li>
+
+
+
+<li><strong>Installer les packages nécessaires</strong> :
+    <code>bash
+    pip install -r requirements.txt</code></li>
+
+
+
+<li><strong>Créer un fichier .env</strong> :
+    <code>bash
+    cp .env.example .env</code></li>
+
+
+
+<li><strong>Configurer les variables d&rsquo;environnement</strong> : Ouvrez <code>.env</code> et remplissez les champs nécessaires :
+    <code>plaintext
+    DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN
+    OPENAI_API_KEY=your-openai-api-key
+    MODEL_NAME=local/openai/YOUR_MODEL_NAME</code></li>
+
+
+
+<li><strong>Exécuter le script</strong> : Dans le terminal, lancez :
+    <code>bash
+    python llmcord.py</code></li>
+</ol>
+
+
+
+<p>Ah et j&rsquo;oubliais, LLMCord est open source (vive le libre !), donc si vous voulez contribuer ou l&rsquo;adapter à vos besoins, forkez et PR sans modération.</p>
+
+
+
+<p>Avec ça, votre Discord ne sera plus jamais pareil et je sens que vous allez bien vous marrer ! Alors merci à <strong>Lorenper</strong> pour l&rsquo;info car c&rsquo;est une chouette découverte !</p>
+
+
+
+<p><a href="https://github.com/jakobdylanc/discord-llm-chatbot" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 16:48:30 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 16:48:30 +0000</pubDate>
+</item>
+<item>
+<title>YouTube censure injustement une vidéo d’Adrien de Linuxtricks</title>
+<link>https://korben.info/youtube-censure-injustement-une-video-dadrien-de-linuxtricks.html</link>
+<guid>https://korben.info/youtube-censure-injustement-une-video-dadrien-de-linuxtricks.html</guid>
+<content:encoded><![CDATA[
+<div> YouTube, Adrien, VMware Workstation, censure, injustice
+<br>
+Summary:
+Adrien, un créateur de contenu sur YouTube, a été victime d'une censure injuste de la part de la plateforme. Sa vidéo sur VMware Workstation, une bonne nouvelle pour les Linuxiens, a été supprimée. YouTube a invoqué une infraction aux règles, mais Adrien avait relayé des informations officielles. Malgré sa tentative de recours, sa chaîne a reçu des avertissements et des sanctions, affectant son référencement et ses activités. Ces actions automatisées de YouTube ont un impact négatif sur la chaîne d'Adrien, qui compte de nombreux abonnés et contribue à soutenir des associations. La communauté soutient Adrien dans cette situation difficile et espère que YouTube révisera sa décision de manière équitable. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Youtube_Censorship_dumb_bab6488c-0b70-46a4-9dd2-31262bca7356.webp" width="1456" /></p>
+<p>Salut les rebelles, aujourd&rsquo;hui je voudrais vous parler d&rsquo;<strong><a href="https://www.linuxtricks.fr/news/11-le-sac-de-chips/548-lettre-ouverte-a-youtube-france/" rel="noopener" target="_blank">Adrien de Linuxtricks</a></strong> qui vient de faire les frais d&rsquo;une censure injuste de la part de <strong>YouTube</strong>. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-307771816" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p class="has-text-align-left">Le pauvre a vu <a href="https://www.youtube.com/watch?v=d5D4zcwGqCQ" rel="noopener" target="_blank">sa dernière vidéo</a> au sujet de <strong>VMware Workstation</strong> qui passe en gratuit (<a href="https://korben.info/vmware-workstation-fusion-gratuits-usage-personnel.html">j&rsquo;en ai parlé ici</a>), supprimée et sa chaîne sanctionnée. Cette vidéo, mise en ligne ce vendredi 17 mai, avait pourtant été analysée et jugée conforme par les algo de YouTube&#8230;</p>
+
+
+
+<p>La raison invoquée par Youtube, c&rsquo;est comme d&rsquo;habitude. Soi-disant qu&rsquo;il enfreindrait les <a href="https://www.youtube.com/howyoutubeworks/policies/community-guidelines/" rel="noopener" target="_blank">règles de la communauté</a>. En réalité, Adrien n&rsquo;a fait que relayer une bonne nouvelle pour tous les Linuxiens qui voudraient tester la virtualisation tranquillou. Il a même cité les sources officielles comme le blog de VMware. Sauf que YouTube n&rsquo;a pas aimé… Leurs robots ont bégayé et vu ça comme du piratage. Bref, une fois encore, ces boîtes de conserve américaines ne comprennent rien à rien.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160826" height="271" src="https://korben.info/app/uploads/2024/05/lettre-ouverte-youtube-avertissement.png" width="934" /></figure></div>
+
+
+<p>Pour Adrien, c&rsquo;est vraiment injuste car même si YouTube a des règlements assez stricts, le gros problème, c&rsquo;est que tout est automatisé. Il a dont tenté de faire appel, mais sans succès et sa demande a été rejetée ce samedi. Sa chaîne écope maintenant d&rsquo;un avertissement impactant sûrement son référencement, d&rsquo;une suspension des publications et d&rsquo;une interdiction de diffuser en direct. Imaginez l&rsquo;impact sur une chaîne comme la sienne qui compte plus de 54 760 abonnés et sur son moral ! Surtout que les revenus générés par sa chaîne lui permettent de payer l&rsquo;hébergement de son site, de soutenir des associations comme la Ligue contre le Cancer et de faire des dons à des projets libres. Bref, c&rsquo;est moche.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160828" height="262" src="https://korben.info/app/uploads/2024/05/lettre-ouverte-youtube-appel-refuse.webp" width="830" /></figure></div>
+
+
+<p>Perso, je ne peux pas faire grand chose car je ne connais personne chez Youtube mais je fais tourner. On sait jamais, peut-être qu&rsquo;en en parlant, ça arrivera aux oreilles d&rsquo;un humain de chez Google (s&rsquo;il en reste&#8230;) qui prendra enfin le temps d&rsquo;évaluer la situation de manière juste pour Adrien. L&rsquo;équipe YouTube France peut d&rsquo;ailleurs le contacter via l&rsquo;adresse mail associée à <a href="https://www.youtube.com/@AdrienLinuxtricks" rel="noopener" target="_blank">son compte YouTube</a> ou sous <a href="https://x.com/_adriend_" rel="noopener" target="_blank">son tweet relayant sa lettre ouverte</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1812420198" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bon courage Adrien, on est avec toi !</p>
+
+
+
+<p>Merci à <a href="https://x.com/Brain0verride" rel="noopener" target="_blank">Christophe</a> d&rsquo;avoir attiré mon attention là dessus.</p>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 10:07:59 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 10:07:59 +0000</pubDate>
+</item>
+<item>
+<title>Créez votre avatar IA en un clin d’oeil avec PuLID</title>
+<link>https://korben.info/pulid-personnalisation-id-rapide-alignement-contrastif-pytorch.html</link>
+<guid>https://korben.info/pulid-personnalisation-id-rapide-alignement-contrastif-pytorch.html</guid>
+<content:encoded><![CDATA[
+<div> TikTok, PuLID, ByteDance, machine learning, PyTorch<br>
+<br>
+Summary: 
+PuLID, développé par ByteDance, permet de créer des images personnalisées à partir de photos existantes en utilisant l'alignement contrastif. Il utilise des techniques de machine learning pour aligner des représentations latentes, produisant des images uniques et cohérentes. PuLID est open-source, disponible sur GitHub, et peut être adapté selon les besoins. Il offre des variations stylées d'un personnage en fonction d'instructions spécifiques. Pour l'installer, Python et PyTorch sont requis, avec des étapes simples d'installation. Le dépôt PuLID peut être cloné, l'environnement conda créé et activé, les dépendances installées, et PyTorch configuré. Enfin, l'application peut être lancée pour commencer à l'utiliser. PuLID offre une nouvelle façon de personnaliser les avatars et les images de manière rapide et de haute qualité, ouvrant ainsi de nombreuses possibilités créatives. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="768" src="https://korben.info/app/uploads/2024/05/manu-copie.webp" width="1280" /></p>
+<p>Développé par une équipe de chez ByteDance (mais si, TikTok, votre réseau social préféré), ce modèle baptisé PuLID va vous permettre de créer des images sur-mesure à partir de photos existantes et tout ça en un clin d&rsquo;œil.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1128579672" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Basé sur le principe d&rsquo;<strong>alignement contrastif</strong>, PuLID vous offre une customisation d&rsquo;identité ultra rapide et de haute qualité. Pour cela, il utilise une architecture qui apprend à la volée les caractéristiques clés d&rsquo;une identité source (des photos de vous) pour les transposer efficacement sur de nouvelles images cibles (images générées par IA). On obtient alors des visuels uniques générés en quelques secondes à peine, tout en préservant la cohérence des photos d&rsquo;origine.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160820" height="516" src="https://korben.info/app/uploads/2024/05/SCR-20240518-fly-1024x516.webp" width="1024" /></figure></div>
+
+
+<p>Bon, ok, ça peut paraître un peu barbare dit comme ça mais c&rsquo;est super simple à utiliser. Si vous êtes flemmard, vous pouvez aller directement sur <a href="https://huggingface.co/spaces/yanze/PuLID" rel="noopener" target="_blank">Huggingface</a> ou pour les plus courageux, l&rsquo;installer sur votre machine. Tout ce dont vous avez besoin, c&rsquo;est d&rsquo;un bon vieux <strong>Pytorch</strong> (version 2.0 minimum svp) et de <a href="https://github.com/ToTheBeginning/PuLID" rel="noopener" target="_blank">quelques lignes de code</a> pour démarrer l&rsquo;entraînement.</p>
+
+
+
+<p>PuLID (Pure and Lightning ID Customization via Contrastive Alignment) fonctionne en utilisant des techniques de machine learning pour aligner des représentations latentes en comparant des paires d&rsquo;images ou d&rsquo;identités. L&rsquo;objectif est de maximiser la similarité pour des identités similaires et de minimiser la similarité pour des identités différentes. En ajustant ces représentations grâce à l&rsquo;alignement contrastif, PuLID permet de créer des images uniques avec une grande précision et rapidité.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-160821" height="741" src="https://korben.info/app/uploads/2024/05/SCR-20240518-fo2.webp" width="736" /></figure></div>
+
+
+<p>Si vous bossez dans la comm et que ous avez déjà quelques concepts arts sympas d&rsquo;un personnage, mais vous aimeriez voir à quoi il ressemblerait dans différents environnements ou avec des styles graphiques variés, pas de souci ! Vous balancez vos images dans PuLID avec les bonnes instructions et le tour est joué. Vous obtiendrez alors tout un tas de variations stylées de votre personnage, tout en gardant son visage reconnaissable.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2146733549" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>L&rsquo;équipe de ByteDance a pensé à tout : PuLID est 100% open-source et disponible sur GitHub. Vous pouvez donc bidouiller le code comme bon vous semble pour l&rsquo;adapter à vos besoins. Y&rsquo;a même des tutoriels et des exemples pour vous aider à prendre en main le bouzin rapidement.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160822" height="511" src="https://korben.info/app/uploads/2024/05/SCR-20240518-fpz-1024x511.webp" width="1024" /></figure></div>
+
+
+<p>Et pour les plus impatients d&rsquo;entre vous, voici un petit tuto d&rsquo;installation pour commencer à jouer avec PuLID :</p>
+
+
+
+<h3 class="wp-block-heading">Pré-requis :</h3>
+
+
+
+<ul>
+<li>Python &gt;= 3.7</li>
+
+
+
+<li>PyTorch &gt;= 2.0 (<a href="https://pytorch.org/">télécharger ici</a>)</li>
+
+
+
+<li>Anaconda (<a href="https://www.anaconda.com/download">télécharger ici</a>) ou Miniconda (<a href="https://docs.conda.io/en/latest/miniconda.html">télécharger ici</a>)</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Étapes d&rsquo;installation :</h3>
+
+
+
+<ol>
+<li><strong>Cloner le dépôt PuLID :</strong></li>
+</ol>
+
+
+
+<pre class="wp-block-code"><code>git clone https://github.com/ToTheBeginning/PuLID.git
+cd PuLID
+</code></pre>
+
+
+
+<p><strong>Créer et activer l&rsquo;environnement conda :</strong></p>
+
+
+
+<pre class="wp-block-preformatted">conda create --name pulid python=3.10
+conda activate pulid
+</pre>
+
+
+
+<p><strong>Installer les dépendances :</strong></p>
+
+
+
+<pre class="wp-block-preformatted">pip install -r requirements.txt
+</pre>
+
+
+
+<p><strong>Installer PyTorch :</strong> Suivez les instructions sur le site de <a>PyTorch</a> pour installer la version compatible avec votre système. Par exemple, pour CUDA 11.7 :</p>
+
+
+
+<pre class="wp-block-preformatted">conda install pytorch torchvision torchaudio cudatoolkit=11.7 -c pytorch
+</pre>
+
+
+
+<p><strong>Lancer l&rsquo;application :</strong></p>
+
+
+
+<pre class="wp-block-preformatted">python app.py
+</pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-921435295" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Pour en savoir plus sur PuLID et récupérer le code source, rendez-vous sur le <a href="https://github.com/ToTheBeginning/PuLID" rel="noreferrer noopener" target="_blank">repo GitHub</a>.</p>
+
+
+
+<p>Allez, je vous laisse vous amuser avec votre nouveau jouet. Un grand merci à Lorenper pour l&rsquo;info. Grâce à toi, on va pouvoir personnaliser nos avatars comme jamais.</p>
+
+
+
+<p><a href="https://github.com/ToTheBeginning/PuLID" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 09:38:49 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 09:38:49 +0000</pubDate>
+</item>
+<item>
+<title>Editdit – Pour créer des memes sans watermark</title>
+<link>https://korben.info/editdit-creez-memes-hilarants-sans-watermark.html</link>
+<guid>https://korben.info/editdit-creez-memes-hilarants-sans-watermark.html</guid>
+<content:encoded><![CDATA[
+<div> templates, création, memes, gratuit, réseaux sociaux
+<br>
+Summary:
+Le site mentionné dans l'article est une plateforme en ligne qui permet de créer des memes personnalisés sans watermarks et gratuitement. Avec une grande variété de templates populaires disponibles, les utilisateurs peuvent laisser libre cours à leur créativité en ajoutant du texte personnalisé et en ajustant les paramètres visuels. L'interface conviviale facilite le processus de création, et les utilisateurs ont même la possibilité d'importer leurs propres images pour des memes uniques. Une fois le meme terminé, il peut être téléchargé en haute définition ou partagé directement sur les réseaux sociaux. Cette plateforme offre une expérience ludique et addictive pour les amateurs de memes, éliminant la frustration des watermarks indésirables. En résumé, c'est un outil idéal pour les utilisateurs désireux de créer et de partager des memes de manière simple, rapide et gratuite. 
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_compilation_of_all_best_Internet_Meme_00208c07-ea10-4be8-a362-1e39fc5e9c21.webp" width="1456" /></p>
+<p>Les memes c&rsquo;est cool à faire mais c&rsquo;est souvent gâché par des watermarks moches. Heureusement qu&rsquo;il existe  <a href="https://www.editdit.com/" rel="noopener" target="_blank">Editdit</a> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1969689634" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ce site est une vraie mine d&rsquo;or pour créer vos propres memes <strong>sans aucun marquage ou copyright</strong> et avec tous les templates légendaires qu&rsquo;on adore. Que vous soyez fan de <em>Distracted Boyfriend</em>, de <em>Drake Hotline Bling</em>, de <em>One Does Not Simply</em> ou de <em>Hide the Pain Harold</em>, vous allez pouvoir laisser libre court à votre créativité et votre sens de l&rsquo;humour.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-157839" height="835" src="https://korben.info/app/uploads/2024/03/SCR-20240326-ggj-1024x835.webp" width="1024" /></figure></div>
+
+
+<p>Vous n&rsquo;avez qu&rsquo;à choisir votre template, ajouter votre texte personnalisé et le tour est joué !</p>
+
+
+
+<p>L&rsquo;interface est ultra simple et intuitive. En quelques clics vous pouvez créer un meme sur mesure, en ajustant la police, la taille, la couleur et la position du texte. Vous pouvez même importer vos propres images si vous voulez créer un meme 100% unique. Et le meilleur dans tout ça ? C&rsquo;est totalement <strong>gratuit</strong> !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-157840" height="1024" src="https://korben.info/app/uploads/2024/03/1bc0192e-ded7-49e9-b64d-22566da0a73b-1024x1024.webp" style="width: 524px; height: auto;" width="1024" /></figure></div>
+
+
+<p>Une fois que votre œuvre humoristique est terminée, vous pourrez alors la télécharger en haute définition ou la partager directement sur vos réseaux sociaux préférés. Attention, ça peut vite devenir addictif&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1318057687" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://www.editdit.com/" rel="noopener" target="_blank">A découvrir ici</a>.</p>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>L’IA qui raisonne comme un humain</title>
 <link>https://korben.info/ia-raisonne-humain-mit-lilo-ada-lga.html</link>
 <guid>https://korben.info/ia-raisonne-humain-mit-lilo-ada-lga.html</guid>
 <content:encoded><![CDATA[
 <div> Frameworks, IA, MIT, raisonnement, révolutionnaire
-<br>
+<br />
 Summary: Les scientifiques du MIT ont développé trois frameworks révolutionnaires, nommés LILO, Ada et LGA, pour améliorer les capacités de raisonnement des IA. LILO aide à synthétiser et documenter du code, Ada permet aux IA de planifier des actions de manière flexible et d'improviser, et LGA améliore la perception des robots dans leur environnement. Ces frameworks combinent réseaux de neurones et approches logiques pour faire passer les IA à un niveau supérieur. Ces avancées promettent des applications pratiques telles que des chatbots comprenant mieux les interactions humaines, des robots naviguant de manière plus fluide et des IA aidant dans des tâches complexes. Les publications des recherches sont disponibles sur arXiv. Hâte de voir ces avancées en action! 
-<br> <div>
+<br /> <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Illustrate_a_completely_clueless_robot_or_AI_embodying_t_94cdeb04-c310-48b5-923f-7b9a3cacd26a.webp" width="1920" /></p>
 <p>Les scientifiques du MIT boostent les capacités de raisonnement de l&rsquo;IA avec une architecture hybride révolutionnaire ! Hé oui, les petits génies du MIT ont développé 3 frameworks qui vont donner aux IA le pouvoir de raisonner comme des humains.</p>
 
@@ -55,15 +517,14 @@ Summary: Les scientifiques du MIT ont développé trois frameworks révolutionna
 <p><a href="https://www.livescience.com/technology/artificial-intelligence/mit-gives-ai-the-power-to-reason-like-humans-by-creating-hybrid-architecture" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 22:18:40 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 22:18:40 +0000</pubDate>
 </item>
 <item>
 <title>YggTorrent passe en mode privé – La résistance continue</title>
 <link>https://korben.info/yggtorrent-le-geant-francais-du-torrent-passe-en-mode-prive.html</link>
 <guid>https://korben.info/yggtorrent-le-geant-francais-du-torrent-passe-en-mode-prive.html</guid>
 <content:encoded><![CDATA[
-<div> privé, YggTorrent, pression, ayants droit, site<br>
-<br>
+<div> privé, YggTorrent, pression, ayants droit, site<br />
+<br />
 Summary:
 Le célèbre site de torrent français, YggTorrent, a décidé de passer en mode privé en raison de pressions croissantes de la part des ayants droit et des autorités. Cette décision vise à échapper à la surveillance et à mettre en place une politique de retrait réactive. Le site ne cédera qu'aux demandes légitimes, ignorera les fausses réclamations de droits d'auteur et constate l'inefficacité des blocages contre le piratage. YggTorrent reconnaît que le choix de télécharger du contenu piraté ou de s'abstenir de consommer du divertissement est souvent dicté par des contraintes financières. Seul les utilisateurs enregistrés peuvent actuellement accéder au site, avec des inscriptions par cooptation à venir. Le site espère que ce passage en mode privé lui offrira un répit dans sa lutte permanente contre les pressions extérieures. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="365" src="https://korben.info/app/uploads/2024/05/SCR-20240517-unhe-2.webp" width="1000" /></p>
@@ -107,7 +568,6 @@ Le célèbre site de torrent français, YggTorrent, a décidé de passer en mode
 <p><a href="https://torrentfreak.com/french-torrent-giant-yggtorrent-goes-private-240517/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 21:57:45 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 21:57:45 +0000</pubDate>
 </item>
 <item>
 <title>Des étudiants piratent 1 million de machines à laver</title>
@@ -116,7 +576,7 @@ Le célèbre site de torrent français, YggTorrent, a décidé de passer en mode
 <content:encoded><![CDATA[
 <div> faille de sécurité, laverie automatique, étudiants hackers, API, objets connectés
 
-Summary:<br><br>
+Summary:<br /><br />
 Deux étudiants, Alexander Sherbrooke et Iakov Taranenko, ont réussi à pirater les machines à laver connectées d'une entreprise de laveries automatiques en exploitant une faille de sécurité dans l'API de l'application mobile. En court-circuitant les contrôles de sécurité, ils ont pu recharger leur compte, ajouter des fonds virtuels et interagir avec toutes les machines du réseau pour faire des lessives gratuites. Malgré leurs tentatives de signaler la faille à l'entreprise, cette dernière n'a pas réagi. Cette histoire met en lumière les risques liés à la connectivité des objets et souligne l'importance de sécuriser les API en effectuant des vérifications côté serveur. Alexander et Iakov ont démontré qu'il reste beaucoup à faire en matière de sécurité pour prévenir de telles vulnérabilités. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_washing_machine_in_laundromat_hacked_by_hackers_c6efe93b-4476-431e-b283-602e2f658467.webp" width="1920" /></p>
 <p>Vous débarquez dans votre laverie automatique préférée, les bras chargés de linge sale, et là, magie magie, grâce à une petite bidouille bien sentie, vous pouvez lancer une lessive gratuite, sans débourser un centime. C’est le rêve, non ? Eh bien, figurez-vous que c’est exactement ce qu&rsquo;ont réussi à faire des étudiants un peu hackers sur les bords.</p>
@@ -151,7 +611,6 @@ Deux étudiants, Alexander Sherbrooke et Iakov Taranenko, ont réussi à pirater
 
 <p><a href="https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/?guccounter=1" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 21:34:55 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 21:34:55 +0000</pubDate>
 </item>
 <item>
@@ -207,7 +666,6 @@ Les sphères de Dyson, concept d’astro-ingénierie théorisé par Freeman Dyso
 <p><a href="https://futurism.com/the-byte/star-systems-alien-megastructures" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 21:28:05 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 21:28:05 +0000</pubDate>
 </item>
 <item>
 <title>Flicage High-Tech – Une nouvelle techno pour violer votre vie privée</title>
@@ -215,7 +673,7 @@ Les sphères de Dyson, concept d’astro-ingénierie théorisé par Freeman Dyso
 <guid>https://korben.info/surveillance-police-vehicules-elsag-eoc-plus-vie-privee.html</guid>
 <content:encoded><![CDATA[
 <div> automobile, surveillance, technologie, vie privée, données
-<br>
+<br />
 Summary: 
 La police américaine teste une nouvelle technologie de surveillance automobile très intrusive appelée Elsag EOC Plus. Ce système permet de scanner les véhicules en mouvement pour détecter les signaux émis par divers appareils tels que smartphones, livres de bibliothèque équipés de puces RFID, etc. Ces données permettent d'identifier les modèles d'appareils, suivre les animaux de compagnie et même connaître les objets présents dans le véhicule. Bien que cela puisse être utile pour retrouver des voitures volées ou des suspects en fuite, cela soulève des inquiétudes en matière de vie privée. Les défenseurs de la vie privée craignent une collecte abusive de données sans mandat. L'entreprise fabricante, Leonardo, promet de respecter la loi mais la surveillance électronique de cette ampleur soulève des problèmes éthiques. Cette technologie pourrait voir un déploiement dans d'autres secteurs tels que les gares ou les centres commerciaux, augmentant ainsi la densité des capteurs. Il est donc essentiel de rester vigilant et de protéger sa vie privée, peut-être en optant pour des mesures de sécurité telles qu'une cage de Faraday pour sa voiture. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_A_drone_view_of_an_advanced_car_driving_on_the_road_with_b48387d4-44f2-4c70-915d-2768299b5112.webp" width="1456" /></p>
@@ -363,7 +821,6 @@ La police américaine teste une nouvelle technologie de surveillance automobile 
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://www.forbes.com/sites/thomasbrewster/2024/05/14/police-car-surveillance-tech-uncovers-phones-pet-trackers-and-library-books/?sh=1ff795413786" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 16:49:06 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 16:49:06 +0000</pubDate>
 </item>
 <item>
 <title>Windows XP peut maintenant fonctionnner sur un antique CPU Intel i486 !</title>
@@ -371,7 +828,7 @@ La police américaine teste une nouvelle technologie de surveillance automobile 
 <guid>https://korben.info/windows-xp-ressuscite-sur-antique-cpu-intel-i486.html</guid>
 <content:encoded><![CDATA[
 <div> Windows XP, i486, Allemagne, assembly, bugs
-<br>
+<br />
 Summary:
 Un programmeur allemand a réussi à faire tourner Windows XP SP3 sur un processeur i486 en modifiant l'opcode cmpxchg8b pour le rendre compatible. Cette prouesse technique nécessite des compétences avancées en assembleur et CPU. Malgré le fait que le système soit en allemand et comporte des bugs, il est possible de télécharger l'ISO pour revivre l'expérience. Cependant, il est important de noter que l'OS est obsolète et potentiellement vulnérable. Cette histoire de revival de Windows XP sur i486 est à la fois fascinante sur le plan technique et un peu folle, mais peut être une expérience amusante pour les passionnés de bidouillage informatique. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Wallpaper_Windows_XP__CPU_i486_5796d38b-99d8-42f3-84eb-4dda680205a1.webp" width="1456" /></p>
@@ -402,7 +859,6 @@ Un programmeur allemand a réussi à faire tourner Windows XP SP3 sur un process
 <div class="NKSYD1CP-target" id="NKSYD1CP-89142985" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://www.neowin.net/news/intels-legendary-i486-cpu-gets-unofficial-windows-xp-support-iso-too/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 15:52:49 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 15:52:49 +0000</pubDate>
 </item>
 <item>
@@ -459,9 +915,7 @@ La Quadrature du Net attaque en justice le blocage de TikTok en Nouvelle-Calédo
 <p>Bref, encore merci à La Quadrature du Net pour sa détermination. Et je vous invite une fois de plus à les soutenir dans leur combat, parce que c&rsquo;est aussi le nôtre ! N&rsquo;hésitez pas à consulter leur site web pour en savoir plus et faire un don si le cœur vous en dit. <a href="https://www.laquadrature.net/donner/" rel="noopener" target="_blank">C&rsquo;est par ici</a> !</p>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 14:00:01 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 14:00:01 +0000</pubDate>
 </item>
-
 <item>
 <title>Une nouvelle méthode efficace de comptage d’éléments distincts dans un flux de données</title>
 <link>https://korben.info/methode-efficace-comptage-elements-distincts-streaming-cvm.html</link>

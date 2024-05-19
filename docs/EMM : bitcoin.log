@@ -1635,3 +1635,27 @@ Append: [Chainlink (LINK) se rallie après avoir lancé une recherche avec les p
 Append: [Un mois après le « halving » : que fait le bitcoin ?](https://www.latribune.fr/entreprises-finance/banques-finance/industrie-financiere/un-mois-apres-le-halving-que-fait-le-bitcoin-997726.html)
 append_entries: 19
 Finish: 2024-05-18 01:05:55.488713
+------------------------------------------------------
+Started: 2024-05-19 01:10:39.269418
+Existing_entries: 667
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Le botnet Ebury compromet près de 400 000 serveurs Linux sur 15 ans pour voler des crypto-monnaies](https://www.nouvelles-du-monde.com/le-botnet-ebury-compromet-pres-de-400-000-serveurs-linux-sur-15-ans-pour-voler-des-crypto-monnaies/)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [La société de cybercriminalité Rexxfield récupère plus de 670 000 $ BTC volés à un investisseur américain](https://www.cryptopolitan.com/fr/rexxfield-recupere-plus-de-670-000-btc-voles/)
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [Top 10 des blockchains les plus rapides par TPS moyen quotidien maximum](https://www.cryptopolitan.com/fr/top-10-des-blockchains-les-plus-rapides/)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [Le Bitcoin atteint 67 000 dollars pour la première fois en plus de 3 semaines](https://www.aa.com.tr/fr/%C3%A9conomie/le-bitcoin-atteint-67-000-dollars-pour-la-premi%C3%A8re-fois-en-plus-de-3-semaines-/3223010)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Rencontre avec Robert F. Kennedy Jr, le candidat qui inquiète Trump, Biden... Et son clan](https://www.parismatch.com/actu/international/rencontre-avec-robert-f-kennedy-jr-le-candidat-qui-inquiete-trump-biden-et-son-clan-237509)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [Les actions Bitcoin et Crypto ont de nouveau augmenté cette semaine](https://www.nouvelles-du-monde.com/les-actions-bitcoin-et-crypto-ont-de-nouveau-augmente-cette-semaine/)
+append_entries: 6
+Finish: 2024-05-19 01:11:00.506251

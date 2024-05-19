@@ -414,3 +414,9 @@ Summarized using GPT-3.5-turbo
 Append: [Paul McCartney devient le premier musicien britannique milliardaire](https://www.bfmtv.com/economie/international/paul-mc-cartney-devient-le-premier-musicien-britannique-milliardaire_AD-202405170445.html)
 append_entries: 3
 Finish: 2024-05-18 01:11:37.280464
+------------------------------------------------------
+Started: 2024-05-19 01:15:51.310226
+Existing_entries: 70
+Fetching from https://www.bfmtv.com/rss/economie/international/
+append_entries: 0
+Finish: 2024-05-19 01:15:51.544818

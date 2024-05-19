@@ -468,3 +468,15 @@ Summarized using GPT-3.5-turbo
 Append: ["On a un budget inférieur à celui de la Roumanie", à Besançon comme partout ailleurs, l’administration pénitentiaire attend des actes du gouvernement](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-a-un-budget-inferieur-a-celui-de-la-roumanie-a-besancon-comme-partout-ailleurs-l-administration-penitentiaire-attend-des-actes-du-gouvernement-2971541.html)
 append_entries: 2
 Finish: 2024-05-18 01:14:46.038985
+------------------------------------------------------
+Started: 2024-05-19 01:19:45.363519
+Existing_entries: 88
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: ["Il y a un vrai risque de disparition" : pourquoi les pharmaciens font grève le week-end de la Pentecôte](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/il-y-a-un-vrai-risque-de-disparition-pourquoi-les-pharmaciens-font-greve-le-week-end-de-la-pentecote-2972000.html)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: ["Les vaches, ça mange l'herbe, pas les poubelles" : cet agriculteur pose un panneau pour limiter les déchets dans ses champs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/les-vaches-ca-mange-l-herbe-pas-les-poubelles-cet-agriculteur-pose-un-panneau-pour-limiter-les-dechets-dans-ses-champs-2969777.html)
+append_entries: 2
+Finish: 2024-05-19 01:19:49.801116
