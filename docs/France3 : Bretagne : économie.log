@@ -408,3 +408,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Une voiture, c’est à portée de tous", lutter contre le piratage des voitures, Gaël Musquet en a fait sa spécialité](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/une-voiture-c-est-a-portee-de-tous-lutter-contre-le-piratage-des-voitures-gael-musquet-en-a-fait-sa-specialite-2971664.html)
 append_entries: 2
 Finish: 2024-05-19 01:19:54.787045
+------------------------------------------------------
+Started: 2024-05-19 12:36:23.130579
+Existing_entries: 66
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [Pharmacies de garde en grève : sera-t-il compliqué de se faire soigner en ce week-end de Pentecôte ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/pharmacies-de-garde-en-greve-sera-t-il-complique-de-se-faire-soigner-en-ce-week-end-de-pentecote-2972063.html)
+append_entries: 1
+Finish: 2024-05-19 12:36:25.509361

@@ -1129,3 +1129,21 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts 2024 : voici comment déclarer une prolongation Pinel ou Scellier](https://www.moneyvox.fr/impot/actualites/97751/impots-2024-voici-comment-declarer-une-prolongation-pinel-ou-scellier)
 append_entries: 9
 Finish: 2024-05-19 01:19:11.836013
+------------------------------------------------------
+Started: 2024-05-19 12:35:41.452753
+Existing_entries: 321
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Inondations dans l'Est : « la décrue est bien avancée »](https://www.moneyvox.fr/votre-argent/actualites/97837/inondations-dans-est-la-decrue-est-bien-avancee)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Nouveau taux du LEP, cadeau des impôts, SCPI sans frais... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/97816/nouveau-taux-du-lep-cadeau-des-impots-scpi-sans-frais-les-5-infos-argent-de-la-semaine)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Panneaux photovoltaïques : paierez-vous des impôts sur vos revenus de la vente d'énergie ?](https://www.moneyvox.fr/energie/actualites/97812/panneaux-photovoltaiques-paierez-vous-des-impots-sur-vos-revenus-de-la-vente-energie)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Impôts : « Jusqu'à combien d'abattement peut-on cumuler pour donner à un enfant ? »](https://www.moneyvox.fr/impot/actualites/97777/impots-jusqua-combien-abattement-peut-on-cumuler-pour-donner-a-un-enfant)
+append_entries: 4
+Finish: 2024-05-19 12:35:53.730898

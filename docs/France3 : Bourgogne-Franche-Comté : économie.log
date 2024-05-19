@@ -480,3 +480,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Les vaches, ça mange l'herbe, pas les poubelles" : cet agriculteur pose un panneau pour limiter les déchets dans ses champs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/les-vaches-ca-mange-l-herbe-pas-les-poubelles-cet-agriculteur-pose-un-panneau-pour-limiter-les-dechets-dans-ses-champs-2969777.html)
 append_entries: 2
 Finish: 2024-05-19 01:19:49.801116
+------------------------------------------------------
+Started: 2024-05-19 12:36:20.554185
+Existing_entries: 90
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 443
+Summarized using GPT-3.5-turbo
+Append: ["Comme si on jonglait avec du feu" : ils ont moins de 30 ans et sont souffleurs de verre, rencontre avec les verriers de La Rochère](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/comme-si-on-jonglait-avec-du-feu-ils-ont-moins-de-30-ans-et-sont-souffleurs-de-verre-rencontre-avec-les-verriers-de-la-rochere-2962670.html)
+append_entries: 1
+Finish: 2024-05-19 12:36:23.096716

@@ -5,13 +5,144 @@
 <link>https://korben.info</link>
 
 <item>
+<title>WebCopilot : L’ultime outil d’automatisation pour les chasseurs de bugs 🚀</title>
+<link>https://korben.info/webcopilot-outil-automatisation-chasseurs-bugs.html</link>
+<guid>https://korben.info/webcopilot-outil-automatisation-chasseurs-bugs.html</guid>
+<content:encoded><![CDATA[
+<div> automatisation, sécurité web, WebCopilot, outil, bug bounty
+
+<br>
+Summary: 
+Les chasseurs de bugs et les experts en sécurité web peuvent désormais compter sur l'outil d'automatisation WebCopilot pour optimiser leur travail. Cet outil open source combine les fonctionnalités de plusieurs outils réputés, ce qui permet de gagner du temps en identifiant les vulnérabilités et en effectuant des scans approfondis. WebCopilot prend en charge l'énumération des sous-domaines, le crawl des endpoints, le filtrage des paramètres à risque, et le scan des vulnérabilités critiques. Un rapport complet est généré, répertoriant tous les points d'entrée intéressants. L'outil propose également des options personnalisables, telles que l'énumération séparée des sous-domaines, l'exclusion de certains domaines du scan, la spécification d'un serveur "blind XSS" externe, et la possibilité de régler le nombre de threads pour accélérer les scans. En résumé, WebCopilot simplifie et automatise le processus de bug bounty, permettant aux professionnels de se concentrer sur l'analyse des vulnérabilités. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="255" src="https://korben.info/app/uploads/2024/03/SCR-20240326-ntp.webp" width="715" /></p>
+<p>Les chasseurs de bugs et les experts en sécurité web sont toujours à la recherche d&rsquo;outils pour optimiser leur boulot et dénicher des vulnérabilités et justement, il y a un nouveau venu qui risque bien de faire parler de lui : <strong><a href="https://github.com/h4r5h1t/webcopilot" rel="noopener" target="_blank">WebCopilot</a></strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1833146008" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Open source, cet outil d&rsquo;automatisation combine les fonctionnalités de dizaines d&rsquo;autres outils réputés comme <em><a href="https://github.com/projectdiscovery/subfinder" rel="noopener" target="_blank">Subfinder</a></em>, <em><a href="https://github.com/projectdiscovery/nuclei" rel="noopener" target="_blank">Nuclei</a></em>, <em><a href="https://github.com/owasp-amass/amass" rel="noopener" target="_blank">Amass</a></em> ou encore <em><a href="https://sqlmap.org/" rel="noopener" target="_blank">SQLMap</a></em> histoire de vous faire gagner un temps précieux en prenant en charge de A à Z les tâches répétitives et chronophages de l&rsquo;énumération des sous-domaines, du filtrage des paramètres à risque et du scan des vulnérabilités les plus critiques.</p>
+
+
+
+<p>Pour cela, il suffit de lancer WebCopilot sur un domaine cible et il s&rsquo;occupe de tout :  </p>
+
+
+
+<ul>
+<li>Énumération des sous-domaines via une batterie d&rsquo;outils (Assetfinder, Sublist3r, Amass, Findomain&#8230;)  </li>
+
+
+
+<li>Crawl de tous les endpoints des sous-domaines identifiés</li>
+
+
+
+<li>Filtrage des paramètres potentiellement vulnérables aux failles XSS, SQLi, LFI, SSRF, Open Redirect&#8230; grâce aux patterns de l&rsquo;outil <em>gf</em> </li>
+
+
+
+<li>Et enfin, scan des vulnérabilités via des outils comme <em>Nuclei</em>, <em>Dalfox</em>, <em>kxss</em>, <em>SQLMap</em> ou <em>crlfuzz</em></li>
+</ul>
+
+
+
+<p>Vous obtiendrez ensuite un rapport complet qui répertoriera tous les points d&rsquo;entrée intéressants. </p>
+
+
+
+<pre class="wp-block-code"><code>             
+                                ──────▄▀▄─────▄▀▄
+                                ─────▄█░░▀▀▀▀▀░░█▄
+                                ─▄▄──█░░░░░░░░░░░█──▄▄
+                                █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+ ██╗░░░░░░░██╗███████╗██████╗░░█████╗░░█████╗░██████╗░██╗██╗░░░░░░█████╗░████████╗
+░██║░░██╗░░██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║██║░░░░░██╔══██╗╚══██╔══╝
+░╚██╗████╗██╔╝█████╗░░██████╦╝██║░░╚═╝██║░░██║██████╔╝██║██║░░░░░██║░░██║░░░██║░░░
+░░████╔═████║░██╔══╝░░██╔══██╗██║░░██╗██║░░██║██╔═══╝░██║██║░░░░░██║░░██║░░░██║░░░
+░░╚██╔╝░╚██╔╝░███████╗██████╦╝╚█████╔╝╚█████╔╝██║░░░░░██║███████╗╚█████╔╝░░░██║░░░
+░░░╚═╝░░░╚═╝░░╚══════╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝░╚════╝░░░░╚═╝░░░
+                                                      &#91;●] @h4r5h1t.hrs | G!2m0
+
+Usage:
+webcopilot -d &lt;target>
+webcopilot -d &lt;target> -s
+webcopilot &#91;-d target] &#91;-o output destination] &#91;-t threads] &#91;-b blind server URL] &#91;-x exclude domains]
+
+Flags:  
+  -d        Add your target &#91;Requried]
+  -o        To save outputs in folder &#91;Default: domain.com]
+  -t        Number of threads &#91;Default: 100]
+  -b        Add your server for BXSS &#91;Default: False]
+  -x        Exclude out of scope domains &#91;Default: False]
+  -s        Run only Subdomain Enumeration &#91;Default: False]
+  -h        Show this help message
+
+Example: webcopilot  -d domain.com -o domain -t 333 -x exclude.txt -b testServer.xss
+Use https://xsshunter.com/ or https://interact.projectdiscovery.io/ to get your server</code></pre>
+
+
+
+<p>Fini les heures passées à lancer des dizaines de commandes et à corréler les résultats comme ça, vous pourrez vous concentrer sur l&rsquo;analyse des vulnérabilités.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-932609054" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Côté utilisation, c&rsquo;est ultra simple. Il suffit de cloner le repo Github, d&rsquo;installer les dépendances&#8230;</p>
+
+
+
+<pre class="wp-block-code"><code>git clone https://github.com/h4r5h1t/webcopilot &amp;&amp; cd webcopilot/ &amp;&amp; chmod +x webcopilot install.sh &amp;&amp; mv webcopilot /usr/bin/ &amp;&amp; ./install.sh</code></pre>
+
+
+
+<p>&#8230;et vous pouvez lancer des scans en une seule commande :</p>
+
+
+
+<p><code>webcopilot -d domain.com -o rapport</code></p>
+
+
+
+<p>Et si vous voulez pousser la configuration plus loin, pas de problème ! WebCopilot propose tout un tas d&rsquo;options bien pratiques comme :</p>
+
+
+
+<ul>
+<li><code>-s</code> pour ne faire que de l&rsquo;énumération de sous-domaines </li>
+
+
+
+<li><code>-x</code> pour exclure certains domaines du scan </li>
+
+
+
+<li><code>-b</code> pour spécifier un serveur « blind XSS » externe </li>
+
+
+
+<li><code>-t</code> pour régler le nombre de threads et accélérer les scans</li>
+</ul>
+
+
+
+<p>Bref, c&rsquo;est l&rsquo;outil pratique pour industrialiser encore un peu plus votre processus de bug bounty.</p>
+
+
+
+<p><a href="https://github.com/h4r5h1t/webcopilot" rel="noopener" target="_blank">A découvrir ici !</a></p>
+]]></content:encoded>
+<pubDate>Sun, 19 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 19 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Brancher un vieux Windows sur le Net ? La roulette russe numérique !</title>
 <link>https://korben.info/brancher-vieux-windows-internet-roulette-russe-numerique.html</link>
 <guid>https://korben.info/brancher-vieux-windows-internet-roulette-russe-numerique.html</guid>
 <content:encoded><![CDATA[
 <div> vieux Windows, sécurité, failles, protection, hackers
-<br>
-<br>
+<br />
+<br />
 Summary:
 Les vieux Windows (Windows XP, 2000, 98) restent vulnérables lorsqu'ils sont exposés sur Internet sans protection, comme démontré par des expériences récentes. Windows 98 semblait protégé par son obscurité, mais Windows 2000 et XP ont rapidement été infectés par des malwares et des backdoors, démontrant ainsi la vulnérabilité persistante de ces systèmes. Ces expériences soulignent l'importance des protections réseau modernes et la nécessité de ne pas sous-estimer les anciens systèmes d'exploitation en matière de sécurité. Il est recommandé de faire tourner ces anciens Windows dans des environnements isolés et de rester vigilants face aux hackers qui exploitent les moindres failles, même sur les systèmes d'exploitation récents. Prenez soin de vos ordinateurs et soyez attentifs à la sécurité de vos systèmes. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_An_OLD_1998_PC_exposed_to_the_Internet_malware_Windows_9_74ad34b5-bcdf-4898-ba83-173bccc37a04.webp" width="1920" /></p>
@@ -74,16 +205,15 @@ Les vieux Windows (Windows XP, 2000, 98) restent vulnérables lorsqu'ils sont ex
 <p><a href="https://www.tomshardware.com/software/windows/idle-windows-xp-and-2000-machines-get-infected-with-viruses-within-minutes-of-being-exposed-online" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 19:34:21 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 19:34:21 +0000</pubDate>
 </item>
 <item>
 <title>Des distrib Linux commencent à interdire le code généré par l’IA</title>
 <link>https://korben.info/linux-interdit-code-genere-ia-gentoo-netbsd-ouvrent-voie.html</link>
 <guid>https://korben.info/linux-interdit-code-genere-ia-gentoo-netbsd-ouvrent-voie.html</guid>
 <content:encoded><![CDATA[
-<div> copyright, qualité, éthique, IA, distributions<br>
-<br>
-Summary: <br>
+<div> copyright, qualité, éthique, IA, distributions<br />
+<br />
+Summary: <br />
 Les distributions Gentoo et NetBSD ont décidé de bannir le code généré par des IA pour plusieurs raisons. Tout d'abord, il y a la question du copyright, les IA pouvant violer les licences open source en pompant du code. Ensuite, la qualité du code généré par les IA est critiquée pour ses bugs fréquents. Enfin, les problèmes éthiques liés à l'utilisation des IA, tels que la consommation d'énergie excessive et les potentielles violations de copyright pour leur entraînement, ont poussé ces distributions à prendre cette décision. Bien que cette démarche aille à l'encontre de la tendance actuelle, Gentoo et NetBSD restent prudents et privilégient le travail humain. D'autres distributions comme Debian hésitent encore à suivre ce mouvement, mais il est possible que les choses évoluent dans le futur. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_AI_generated_code_for_Linux_7bb86f27-4e68-46ef-8a6f-d97465f4d9f6.webp" width="1920" /></p>
 <p>Ça chauffe du côté des distributions UNIX open source, mes amis. Gentoo et NetBSD viennent de dégainer leur <strong>arme anti-IA</strong> en bannissant purement et simplement le code généré par de l&rsquo;intelligence artificielle. Bye bye <strong>Copilot</strong>, au revoir <strong>ChatGPT</strong>, votre code IA devient persona non grata chez les irréductibles du libre !</p>
@@ -127,7 +257,6 @@ Les distributions Gentoo et NetBSD ont décidé de bannir le code généré par 
 <p><a href="https://www.tomshardware.com/software/linux/linux-distros-ban-tainted-ai-generated-code" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 18:50:56 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 18:50:56 +0000</pubDate>
 </item>
 <item>
 <title>Discord LLMCord – Quand les chatbots s’invitent dans Discord</title>
@@ -135,7 +264,7 @@ Les distributions Gentoo et NetBSD ont décidé de bannir le code généré par 
 <guid>https://korben.info/discord-llmcord-chatbots-envahissent-serveurs-discord.html</guid>
 <content:encoded><![CDATA[
 <div> modèles, IA, Discord, LLMCord, installation
-Summary:<br><br>Discord LLMCord est un bot qui permet de converser avec des IA directement dans vos canaux Discord. Il est compatible avec de nombreux modèles de langage, hébergés à distance ou en local. Vous pouvez lancer des conversations, répondre à des messages, poser des questions et créer des fils de discussion. Il prend en charge les modèles distants d'OpenAI, Mistral, Anthropic, et d'autres grâce à LiteLLM. LLMCord gère également les modèles de vision tels que GPT-4, Claude-3, ou LLaVA. Le bot est personnalisable, affiche les réponses en temps réel, et évite les banissements en limitant la longueur des messages. Il utilise un dico global pour mettre en cache les données de manière efficace. Pour l'installer, il suffit de cloner le dépôt GitHub, d'installer les dépendances Python, de configurer les clés API, et de lancer le script. LLMCord est open source, ce qui permet de contribuer et d'adapter le bot à ses besoins. <div>
+Summary:<br /><br />Discord LLMCord est un bot qui permet de converser avec des IA directement dans vos canaux Discord. Il est compatible avec de nombreux modèles de langage, hébergés à distance ou en local. Vous pouvez lancer des conversations, répondre à des messages, poser des questions et créer des fils de discussion. Il prend en charge les modèles distants d'OpenAI, Mistral, Anthropic, et d'autres grâce à LiteLLM. LLMCord gère également les modèles de vision tels que GPT-4, Claude-3, ou LLaVA. Le bot est personnalisable, affiche les réponses en temps réel, et évite les banissements en limitant la longueur des messages. Il utilise un dico global pour mettre en cache les données de manière efficace. Pour l'installer, il suffit de cloner le dépôt GitHub, d'installer les dépendances Python, de configurer les clés API, et de lancer le script. LLMCord est open source, ce qui permet de contribuer et d'adapter le bot à ses besoins. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_logo_fot_a_Discord_bot_named_LLMCord_spelled_L_L_M_C_O_R_72bf0161-41be-42bc-9757-0c0722b29dcb.webp" width="1920" /></p>
 <p>Vous êtes fan de Discord et vous aimez bidouiller des trucs ?? Alors préparez-vous à découvrir <strong>Discord LLMCord</strong>. C&rsquo;est un petit bout de code qui va vous permettre de causer avec des IA directement dans vos canaux, comme si c&rsquo;étaient vos potes. Et ça marche avec à peu près tous les modèles de langage, qu&rsquo;ils soient hébergés à distance ou en local sur votre bécane.</p>
 
@@ -238,7 +367,6 @@ Summary:<br><br>Discord LLMCord est un bot qui permet de converser avec des IA d
 <p><a href="https://github.com/jakobdylanc/discord-llm-chatbot" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 16:48:30 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 16:48:30 +0000</pubDate>
 </item>
 <item>
 <title>YouTube censure injustement une vidéo d’Adrien de Linuxtricks</title>
@@ -246,7 +374,7 @@ Summary:<br><br>Discord LLMCord est un bot qui permet de converser avec des IA d
 <guid>https://korben.info/youtube-censure-injustement-une-video-dadrien-de-linuxtricks.html</guid>
 <content:encoded><![CDATA[
 <div> YouTube, Adrien, VMware Workstation, censure, injustice
-<br>
+<br />
 Summary:
 Adrien, un créateur de contenu sur YouTube, a été victime d'une censure injuste de la part de la plateforme. Sa vidéo sur VMware Workstation, une bonne nouvelle pour les Linuxiens, a été supprimée. YouTube a invoqué une infraction aux règles, mais Adrien avait relayé des informations officielles. Malgré sa tentative de recours, sa chaîne a reçu des avertissements et des sanctions, affectant son référencement et ses activités. Ces actions automatisées de YouTube ont un impact négatif sur la chaîne d'Adrien, qui compte de nombreux abonnés et contribue à soutenir des associations. La communauté soutient Adrien dans cette situation difficile et espère que YouTube révisera sa décision de manière équitable. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Youtube_Censorship_dumb_bab6488c-0b70-46a4-9dd2-31262bca7356.webp" width="1456" /></p>
@@ -285,15 +413,14 @@ Adrien, un créateur de contenu sur YouTube, a été victime d'une censure injus
 <p>Merci à <a href="https://x.com/Brain0verride" rel="noopener" target="_blank">Christophe</a> d&rsquo;avoir attiré mon attention là dessus.</p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 10:07:59 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 10:07:59 +0000</pubDate>
 </item>
 <item>
 <title>Créez votre avatar IA en un clin d’oeil avec PuLID</title>
 <link>https://korben.info/pulid-personnalisation-id-rapide-alignement-contrastif-pytorch.html</link>
 <guid>https://korben.info/pulid-personnalisation-id-rapide-alignement-contrastif-pytorch.html</guid>
 <content:encoded><![CDATA[
-<div> TikTok, PuLID, ByteDance, machine learning, PyTorch<br>
-<br>
+<div> TikTok, PuLID, ByteDance, machine learning, PyTorch<br />
+<br />
 Summary: 
 PuLID, développé par ByteDance, permet de créer des images personnalisées à partir de photos existantes en utilisant l'alignement contrastif. Il utilise des techniques de machine learning pour aligner des représentations latentes, produisant des images uniques et cohérentes. PuLID est open-source, disponible sur GitHub, et peut être adapté selon les besoins. Il offre des variations stylées d'un personnage en fonction d'instructions spécifiques. Pour l'installer, Python et PyTorch sont requis, avec des étapes simples d'installation. Le dépôt PuLID peut être cloné, l'environnement conda créé et activé, les dépendances installées, et PyTorch configuré. Enfin, l'application peut être lancée pour commencer à l'utiliser. PuLID offre une nouvelle façon de personnaliser les avatars et les images de manière rapide et de haute qualité, ouvrant ainsi de nombreuses possibilités créatives. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="768" src="https://korben.info/app/uploads/2024/05/manu-copie.webp" width="1280" /></p>
@@ -419,7 +546,6 @@ conda activate pulid
 <p><a href="https://github.com/ToTheBeginning/PuLID" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 09:38:49 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 09:38:49 +0000</pubDate>
 </item>
 <item>
 <title>Editdit – Pour créer des memes sans watermark</title>
@@ -427,10 +553,10 @@ conda activate pulid
 <guid>https://korben.info/editdit-creez-memes-hilarants-sans-watermark.html</guid>
 <content:encoded><![CDATA[
 <div> templates, création, memes, gratuit, réseaux sociaux
-<br>
+<br />
 Summary:
 Le site mentionné dans l'article est une plateforme en ligne qui permet de créer des memes personnalisés sans watermarks et gratuitement. Avec une grande variété de templates populaires disponibles, les utilisateurs peuvent laisser libre cours à leur créativité en ajoutant du texte personnalisé et en ajustant les paramètres visuels. L'interface conviviale facilite le processus de création, et les utilisateurs ont même la possibilité d'importer leurs propres images pour des memes uniques. Une fois le meme terminé, il peut être téléchargé en haute définition ou partagé directement sur les réseaux sociaux. Cette plateforme offre une expérience ludique et addictive pour les amateurs de memes, éliminant la frustration des watermarks indésirables. En résumé, c'est un outil idéal pour les utilisateurs désireux de créer et de partager des memes de manière simple, rapide et gratuite. 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_a_compilation_of_all_best_Internet_Meme_00208c07-ea10-4be8-a362-1e39fc5e9c21.webp" width="1456" /></p>
 <p>Les memes c&rsquo;est cool à faire mais c&rsquo;est souvent gâché par des watermarks moches. Heureusement qu&rsquo;il existe  <a href="https://www.editdit.com/" rel="noopener" target="_blank">Editdit</a> !</p>
 
@@ -463,9 +589,7 @@ Le site mentionné dans l'article est une plateforme en ligne qui permet de cré
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://www.editdit.com/" rel="noopener" target="_blank">A découvrir ici</a>.</p>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>L’IA qui raisonne comme un humain</title>
 <link>https://korben.info/ia-raisonne-humain-mit-lilo-ada-lga.html</link>

@@ -430,3 +430,9 @@ Summarized using GPT-3.5-turbo
 Append: [En ligne avec Richard Scofield: J’aurais aimé jouer une ronde de golf avec mon père](https://www.journaldemontreal.com/2024/05/18/en-ligne-avec-richard-scofield-jaurais-aime-jouer-une-ronde-de-golf-avec-mon-pere)
 append_entries: 1
 Finish: 2024-05-19 01:20:41.813758
+------------------------------------------------------
+Started: 2024-05-19 12:36:50.986142
+Existing_entries: 62
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-05-19 12:36:51.395058

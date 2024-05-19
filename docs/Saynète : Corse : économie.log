@@ -1157,3 +1157,18 @@ Summarized using GPT-3.5-turbo
 Append: [Zone d’embarquement à Marseille-Provence : Air Corsica invite ses passagers à anticiper leur arrivée à l’aéroport de Marseille](https://www.facebook.com/204309342152891/posts/462447006339122)
 append_entries: 5
 Finish: 2024-05-19 01:15:09.611903
+------------------------------------------------------
+Started: 2024-05-19 12:32:05.529293
+Existing_entries: 472
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Des billets d'avion jusqu'à 30  moins chers pour la Corse : pour qui, et comment  On vous en dit plus](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/des-billets-d-avion-jusqu-a-30-moins-cher-pour-la-corse-pour-qui-et-comment-on-vous-en-dit-plus-2972129.html)
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [LaPhotoDHublot](https://www.facebook.com/204309342152891/posts/463532202897269)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [Hervé Berville apporte une enveloppe de deux millions d’euros aux pêcheurs Corses](https://lemarin.ouest-france.fr/peche/herve-berville-apporte-une-enveloppe-de-deux-millions-deuros-aux-pecheurs-corses-c7af6258-14f0-11ef-a482-9d66515b057a)
+append_entries: 3
+Finish: 2024-05-19 12:32:18.618060

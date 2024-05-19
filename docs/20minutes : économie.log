@@ -473,3 +473,15 @@ Existing_entries: 81
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-05-19 01:15:14.318149
+------------------------------------------------------
+Started: 2024-05-19 12:32:19.228620
+Existing_entries: 81
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Taylor Swift en concert à Lyon : « Plus forte que les Stones »… Combien la chanteuse va-t-elle rapporter à la ville ?](https://www.20minutes.fr/economie/4091237-20240519-taylor-swift-concert-lyon-plus-forte-stones-combien-chanteuse-va-rapporter-ville)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Entreprise : Mais au fait, une RH, ça fait quoi concrètement de ses journées ?](https://www.20minutes.fr/economie/4091515-20240519-entreprise-fait-rh-ca-fait-quoi-concretement-journees)
+append_entries: 2
+Finish: 2024-05-19 12:32:28.861889

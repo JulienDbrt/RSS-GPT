@@ -370,3 +370,12 @@ Summarized using GPT-3.5-turbo
 Append: [Villeneuve. Des logements adaptés pour les seniors](https://www.ladepeche.fr/2024/05/18/des-logements-adaptes-pour-les-seniors-11958789.php)
 append_entries: 3
 Finish: 2024-05-19 01:22:55.154093
+------------------------------------------------------
+Started: 2024-05-19 12:38:15.637745
+Existing_entries: 50
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi est-il si difficile de vendre un bien immobilier à Toulouse ?](https://www.ladepeche.fr/2024/05/19/pourquoi-est-il-si-difficile-de-vendre-un-bien-immobilier-a-toulouse-11956772.php)
+append_entries: 1
+Finish: 2024-05-19 12:38:21.145776

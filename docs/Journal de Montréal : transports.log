@@ -411,3 +411,9 @@ Summarized using GPT-3.5-turbo
 Append: [La future agence des transports de Guilbault, attention danger!](https://www.journaldemontreal.com/2024/05/17/la-future-agence-des-transports-de-guilbault-attention-danger)
 append_entries: 3
 Finish: 2024-05-19 01:20:50.449533
+------------------------------------------------------
+Started: 2024-05-19 12:36:51.426395
+Existing_entries: 57
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-05-19 12:36:52.122734

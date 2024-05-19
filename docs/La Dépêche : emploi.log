@@ -520,3 +520,18 @@ Summarized using GPT-3.5-turbo
 Append: [Toulouse : face à la baisse des candidats aux concours, l’académie a recours aux contractuels pour endiguer le non-remplacement des profs absents](https://www.ladepeche.fr/2024/05/18/toulouse-face-a-la-baisse-des-candidats-aux-concours-lacademie-a-recours-aux-contractuels-pour-endiguer-le-non-remplacement-des-profs-absents-11957603.php)
 append_entries: 3
 Finish: 2024-05-19 01:22:43.041003
+------------------------------------------------------
+Started: 2024-05-19 12:38:03.808027
+Existing_entries: 100
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Andros, roi de la confiture, veut devenir champion du tartinable, c’est le nouveau challenge du groupe](https://www.ladepeche.fr/2024/05/19/andros-roi-de-la-confiture-veut-devenir-champion-du-tartinable-cest-le-nouveau-challenge-du-groupe-11952184.php)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [11 communes du Quercy caussadais reconnues "Territoire zéro chômeur" : un souffle nouveau pour l’économie locale](https://www.ladepeche.fr/2024/05/19/11-communes-du-quercy-caussadais-reconnues-territoire-zero-chomeur-un-souffle-nouveau-pour-leconomie-locale-11959815.php)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Montech. Un nouveau forum de l’alternance](https://www.ladepeche.fr/2024/05/19/un-nouveau-forum-de-lalternance-11960165.php)
+append_entries: 3
+Finish: 2024-05-19 12:38:15.611653

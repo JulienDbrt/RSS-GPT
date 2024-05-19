@@ -376,3 +376,9 @@ Summarized using GPT-3.5-turbo
 Append: [Rendez-vous avec les acteurs du bien-être au Salon Serenity Islands de Martinique](https://la1ere.francetvinfo.fr/martinique/rendez-vous-avec-les-acteurs-du-bien-etre-au-salon-serenity-islands-de-martinique-1489151.html)
 append_entries: 2
 Finish: 2024-05-19 01:21:41.303489
+------------------------------------------------------
+Started: 2024-05-19 12:37:19.128840
+Existing_entries: 42
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-05-19 12:37:19.320834

@@ -1001,3 +1001,24 @@ Summarized using GPT-3.5-turbo
 Append: [« J’ai tout de suite mis le ticket à l’abri » : un homme remporte 500 000 € à un jeu à gratter](https://www.ouest-france.fr/societe/jeux-loteries/jai-tout-de-suite-mis-le-ticket-a-labri-un-homme-remporte-500-000-euros-a-un-jeu-a-gratter-4971fc6e-1439-11ef-b581-ab2a4faff578)
 append_entries: 9
 Finish: 2024-05-19 01:12:41.552918
+------------------------------------------------------
+Started: 2024-05-19 12:29:39.541900
+Existing_entries: 311
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [« Une histoire de dingue » : ils achètent une maison en 2015 et découvrent qu’ils n’en sont pas propriétaires](https://www.leparisien.fr/immobilier/une-histoire-de-dingue-ils-achetent-une-maison-en-2015-et-decouvrent-quils-nen-sont-pas-proprietaires-19-05-2024-JEHRXEVHGJEARCBOHJBSUA6UMM.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [«Un prix hors sol»: fronde contre la vente d’une maison à 1,3 million d’euros au Pays basque](https://immobilier.lefigaro.fr/article/un-prix-hors-sol-fronde-contre-la-vente-d-une-maison-a-1-3-million-d-euros-au-pays-basque_ea7ea9ce-1423-11ef-a918-d7466cbac868/)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Logement au Pays basque : après le dépôt de plainte de l’agent immobilier, ils manifestent devant sa porte à Hasparren](https://www.sudouest.fr/societe/logement/logement-au-pays-basque-apres-le-depot-de-plainte-de-l-agent-immobilier-ils-manifestent-devant-sa-porte-a-hasparren-19763308.php)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi est-il si difficile de vendre un bien immobilier à Toulouse ?](https://www.ladepeche.fr/2024/05/19/pourquoi-est-il-si-difficile-de-vendre-un-bien-immobilier-a-toulouse-11956772.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: ["C’est inouï" : ces nouvelles SCPI qui profitent du marché immobilier](https://www.lexpress.fr/argent/placements/cest-inoui-ces-nouvelles-scpi-qui-profitent-du-marche-immobilier-2EX6AMDLEFCYFL662XWL3CDJCU/)
+append_entries: 5
+Finish: 2024-05-19 12:30:00.257426

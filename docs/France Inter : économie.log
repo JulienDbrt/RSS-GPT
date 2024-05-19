@@ -536,3 +536,9 @@ Summarized using GPT-3.5-turbo
 Append: [La chronique Eco du samedi 18 mai 2024](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-18-mai-2024-9070105)
 append_entries: 2
 Finish: 2024-05-19 01:18:39.178128
+------------------------------------------------------
+Started: 2024-05-19 12:35:40.228751
+Existing_entries: 102
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-19 12:35:40.729806

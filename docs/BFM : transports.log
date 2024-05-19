@@ -426,3 +426,9 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle-Calédonie: 3.200 personnes bloquées en l'absence de vols](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-3-200-personnes-bloquees-en-l-absence-de-vols_AD-202405180163.html)
 append_entries: 2
 Finish: 2024-05-19 01:16:56.217663
+------------------------------------------------------
+Started: 2024-05-19 12:34:26.362755
+Existing_entries: 72
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-05-19 12:34:26.420352
