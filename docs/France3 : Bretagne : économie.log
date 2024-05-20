@@ -417,3 +417,12 @@ Summarized using GPT-3.5-turbo
 Append: [Pharmacies de garde en grève : sera-t-il compliqué de se faire soigner en ce week-end de Pentecôte ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/pharmacies-de-garde-en-greve-sera-t-il-complique-de-se-faire-soigner-en-ce-week-end-de-pentecote-2972063.html)
 append_entries: 1
 Finish: 2024-05-19 12:36:25.509361
+------------------------------------------------------
+Started: 2024-05-20 01:11:37.577373
+Existing_entries: 67
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [Dans le Finistère, l'industrie de la pêche au thon tropical en voie de disparition ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/a-concarneau-la-filiere-de-la-peche-au-thon-tropical-en-voie-de-disparition-2972240.html)
+append_entries: 1
+Finish: 2024-05-20 01:11:41.342717

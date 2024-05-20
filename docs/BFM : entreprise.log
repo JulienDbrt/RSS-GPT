@@ -922,3 +922,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les fraises françaises se font rares en rayon (et c'est la faute de la météo)](https://www.bfmtv.com/economie/entreprises/agriculture/les-fraises-francaises-se-font-rares-en-rayon-et-c-est-la-faute-de-la-meteo_AV-202405190101.html)
 append_entries: 4
 Finish: 2024-05-19 12:33:50.768740
+------------------------------------------------------
+Started: 2024-05-20 01:10:23.280181
+Existing_entries: 250
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+append_entries: 0
+Finish: 2024-05-20 01:10:23.358631

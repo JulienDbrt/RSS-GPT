@@ -459,3 +459,15 @@ Existing_entries: 81
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-05-19 12:35:55.613496
+------------------------------------------------------
+Started: 2024-05-20 01:11:24.915870
+Existing_entries: 81
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Grève pour les primes JO: 1 train sur 5 sur certaines lignes mardi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-pour-les-primes-jo-1-rer-sur-5-sur-certaines-lignes-mardi-2972357.html)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024: répétition générale en Gare de Versailles pour gérer les flux de voyageurs du RER C](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/jo-de-paris-2024-repetition-generale-en-gare-de-versailles-pour-gerer-les-flux-de-voyageurs-du-rer-c-2972264.html)
+append_entries: 2
+Finish: 2024-05-20 01:11:29.581402

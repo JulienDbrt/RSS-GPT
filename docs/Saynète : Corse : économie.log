@@ -1172,3 +1172,15 @@ Summarized using GPT-3.5-turbo
 Append: [Hervé Berville apporte une enveloppe de deux millions d’euros aux pêcheurs Corses](https://lemarin.ouest-france.fr/peche/herve-berville-apporte-une-enveloppe-de-deux-millions-deuros-aux-pecheurs-corses-c7af6258-14f0-11ef-a482-9d66515b057a)
 append_entries: 3
 Finish: 2024-05-19 12:32:18.618060
+------------------------------------------------------
+Started: 2024-05-20 01:10:05.281629
+Existing_entries: 475
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Dans le cadre de la semaine de l’alternance, à ...](https://twitter.com/FTravail_Corse/status/1792162392283000920)
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [#ADEC nous poursuivons notre action de soutien aux entreprises corses en accompagnant 10 #startups à Viva Technology Pour la 3...](https://www.facebook.com/704747348330721/posts/902979425174178)
+append_entries: 2
+Finish: 2024-05-20 01:10:13.929089

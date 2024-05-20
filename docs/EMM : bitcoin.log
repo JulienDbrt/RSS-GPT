@@ -1666,3 +1666,39 @@ Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=adva
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/EMM : bitcoin
+------------------------------------------------------
+Started: 2024-05-20 01:06:48.068786
+Existing_entries: 673
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [Le fondateur de Twitter voit le Bitcoin dépasser le million de dollars en 2030](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/le-fondateur-de-twitter-voit-le-bitcoin-depasser-le-million-de-dollars-en-2030)
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [Un événement Bitcoin rare soulève des questions de sécurité](https://www.nouvelles-du-monde.com/un-evenement-bitcoin-rare-souleve-des-questions-de-securite/)
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [Les transactions en chaîne XRP Ledger augmentent de 108 % au premier trimestre](https://www.cryptopolitan.com/fr/les-transactions-xrpl-augmentent-de-40-au-premier-trimestre/)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [Peter Schiff est fatigué des traders qui l'accusent d'utiliser Bitcoin pour chasser son influence](https://www.cryptopolitan.com/fr/peter-schiff-n-39-utilise-pas-btc-pour-chasser-son-influence/)
+Token length: 50
+Summarized using GPT-3.5-turbo
+Append: [Le trading au comptant de crypto ralentit en avril](https://www.nouvelles-du-monde.com/le-trading-au-comptant-de-crypto-ralentit-en-avril/)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Ebury, le malware invisible : 400 000 serveurs Linux compromis pour le vol de cryptomonnaies et le gain financier](https://www.dpo-partage.fr/ebury/)
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [Dollar aujourd’hui, dollar bleu aujourd’hui : combien se négocie-t-il ce dimanche 19 mai](https://www.nouvelles-du-monde.com/dollar-aujourdhui-dollar-bleu-aujourdhui-combien-se-negocie-t-il-ce-dimanche-19-mai/)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Tether se classe désormais au 19e rang des avoirs du Trésor américain, devant l'Allemagne](https://www.cryptopolitan.com/fr/tether-detient-plus-de-tresors-americains/)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [Une victime d’arnaque dépose 30 000 $ en espèces dans une machine à bitcoins : Pepper Pike Police Blotter](https://www.nouvelles-du-monde.com/une-victime-darnaque-depose-30-000-en-especes-dans-une-machine-a-bitcoins-pepper-pike-police-blotter/)
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [Sentinum d’Ault Alliance a extrait 89 Bitcoins en avril 2024 sur Investing.com](https://www.nouvelles-du-monde.com/sentinum-dault-alliance-a-extrait-89-bitcoins-en-avril-2024-sur-investing-com/)
+append_entries: 10
+Finish: 2024-05-20 01:07:28.293388

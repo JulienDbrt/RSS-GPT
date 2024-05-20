@@ -5,13 +5,112 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Zippy – Boostez vos ebooks avec la bionification</title>
+<link>https://korben.info/zippy-boostez-vos-ebooks-avec-la-bionification-en-python.html</link>
+<guid>https://korben.info/zippy-boostez-vos-ebooks-avec-la-bionification-en-python.html</guid>
+<content:encoded><![CDATA[
+<div> GitHub, bionification, Zippy, environnement virtuel, Python
+Summary:
+La bionification est une nouvelle technique de lecture numérique qui consiste à mettre en gras les premières lettres des mots pour améliorer la reconnaissance visuelle et accélérer la lecture. Un outil appelé Zippy, développé en Python, automatise ce processus pour les livres au format ePub. En clonant le dépôt de Zippy sur GitHub et en suivant quelques étapes, on peut bionifier n'importe quel livre. L'algorithme par défaut détermine le nombre de lettres à mettre en gras en fonction de différents critères. Cette méthode permet d'optimiser la lecture des ebooks sur une liseuse, offrant une expérience de lecture améliorée. De plus, il est possible de personnaliser l'algorithme de bionification et même de créer d'autres optimisations pour les livres. En libérant les ebooks des DRM et en les bionifiant, on peut profiter d'une lecture augmentée et agréable, adaptée à nos préférences. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="347" src="https://korben.info/app/uploads/2024/05/SCR-20240519-qgkt.webp" width="1000" /></p>
+<p>Les <strong>livres électroniques</strong> ont vraiment modifié mon rapport à la lecture&#8230; Je peux emporter toute une bibliothèque dans ma poche, acheter des livres directement depuis le kindle, prendre des notes, lire dans le noir&#8230;etc. Mais est ce que vous saviez qu&rsquo;il est également possible d&rsquo;optimiser encore plus votre expérience de lecture numérique grâce à la <strong>bionification</strong> ? Oui terme chelou mais je crois que c&rsquo;est comme ça qu&rsquo;on dit.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-181868936" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p><a href="https://korben.info/comment-lire-plus-vite.html">Je vous en ai déjà parlé y&rsquo;a quelques années</a> mais cette technique nouvelle, inspirée de recherches en sciences cognitives, consiste à mettre en gras les premières lettres des mots pour faciliter leur reconnaissance visuelle et accélérer la vitesse de lecture. Des études ont ainsi montré que notre cerveau ne lit pas lettre par lettre mais plutôt mot par mot, en se basant sur sa forme globale. Ainsi, en accentuant le début des mots, la bionification guide l&rsquo;œil pour une lecture plus fluide et efficace.</p>
+
+
+
+<p>Évidemment, bionifier manuellement chaque livre de votre bibliothèque serait un travail titanesque. C&rsquo;est là qu&rsquo;intervient <strong><a href="https://github.com/nimish-ks/zippy" rel="noopener" target="_blank">Zippy</a></strong>, un outil en ligne de commande développé en <strong>Python</strong> qui automatise le processus pour les ebooks au format ePub. Avec juste quelques lignes de code, vous pouvez transformer n&rsquo;importe quel livre en version bionique, prête à être transférée sur votre liseuse <strong>Kindle</strong> ou autre.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160940" height="1024" src="https://korben.info/app/uploads/2024/05/kindle-1-798x1024.webp" width="798" /></figure></div>
+
+
+<p>Pour en profiter, la première étape est de cloner le dépôt de Zippy sur GitHub :</p>
+
+
+
+<p><code>git clone https://github.com/nimish-ks/zippy.git
+cd zippy</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-515334274" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour éviter tout conflit intergalactique entre les dépendances Python, on va ensuite créer un <strong>environnement virtuel</strong> et y installer les bibliothèques requises via pip :</p>
+
+
+
+<p><code>python -m venv venv
+source venv/bin/activate  # Sous Windows, utilisez plutôt `venv\Scripts\activate` 
+pip install -r requirements.txt</code></p>
+
+
+
+<p>Voilà, votre laboratoire secret est fin prêt pour lancer la bionification à grande échelle ! La formule magique est la suivante :</p>
+
+
+
+<p><code>python zippy.py &lt;fichier_entrée&gt; &lt;fichier_sortie&gt; [--algorithm &lt;algorithme&gt;]</code></p>
+
+
+
+<p>Remplacez <code>&lt;fichier_entrée&gt;</code> par le chemin vers le livre ePub original et <code>&lt;fichier_sortie&gt;</code> par le nom du fichier bionifié à générer. Par exemple :</p>
+
+
+
+<p><code>python zippy.py "Hypérion.epub" "Hypérion_Bionique.epub"</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-58310970" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Et hop, quelques nanosecondes plus tard, vous obtenez une version dopée aux hormones de croissance de votre bouquin préféré de science-fiction ! L&rsquo;algorithme de bionification par défaut, noté <code>"- 0 1 1 2 0.4"</code>, détermine le nombre de lettres à mettre en gras en fonction de la longueur des mots et d&rsquo;autres critères. Mais tel un savant fou, vous pouvez concocter votre propre formule en passant le paramètre <code>--algorithm</code>.</p>
+
+
+
+<p>Maintenant que vous maîtrisez le pouvoir de la bionification, vous allez pouvoir dévorer « <a href="https://amzn.to/4dJdASz" rel="noopener" target="_blank">Hypérion</a> » et tous les autres tomes du cycle d&rsquo;<a href="https://amzn.to/4bK8Lq2" rel="noopener" target="_blank">Endymion</a> à une vitesse supraluminique ! Fini les voyages interstellaires qui durent des plombes, les bouquins bioniques vous téléporteront en un éclair dans des univers extraordinaires.</p>
+
+
+
+<p>Comme Zippy s&rsquo;intègre dans votre flux de travail, vous pouvez adapter les ebooks à vos préférences avant de les transférer sur votre liseuse. Vos yeux vous diront merci ! </p>
+
+
+
+<p>Évidemment, en bon cyberrebelle, vous pouvez bionifier tous les ebooks qui vous passent sous la main, même ceux protégés par des DRM abusifs. Un petit coup de Calibre et de DeDRM pour les libérer, et hop, à vous la lecture augmentée !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>En bidouillant un peu le code de Zippy, vous pourriez même imaginer plein d&rsquo;autres optimisations à appliquer à vos bouquins voire en faire un plugin pour Calibre. Si c&rsquo;est le cas, dites le moi, ça m&rsquo;intéresse.</p>
+
+
+
+<p>A vous de jouer !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-111768078" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p><a href="https://github.com/nimish-ks/zippy" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sun, 19 May 2024 16:57:36 +0000</pubDate>
+<pubDate>Sun, 19 May 2024 16:57:36 +0000</pubDate>
+</item>
+
+<item>
 <title>WebCopilot : L’ultime outil d’automatisation pour les chasseurs de bugs 🚀</title>
 <link>https://korben.info/webcopilot-outil-automatisation-chasseurs-bugs.html</link>
 <guid>https://korben.info/webcopilot-outil-automatisation-chasseurs-bugs.html</guid>
 <content:encoded><![CDATA[
 <div> automatisation, sécurité web, WebCopilot, outil, bug bounty
 
-<br>
+<br />
 Summary: 
 Les chasseurs de bugs et les experts en sécurité web peuvent désormais compter sur l'outil d'automatisation WebCopilot pour optimiser leur travail. Cet outil open source combine les fonctionnalités de plusieurs outils réputés, ce qui permet de gagner du temps en identifiant les vulnérabilités et en effectuant des scans approfondis. WebCopilot prend en charge l'énumération des sous-domaines, le crawl des endpoints, le filtrage des paramètres à risque, et le scan des vulnérabilités critiques. Un rapport complet est généré, répertoriant tous les points d'entrée intéressants. L'outil propose également des options personnalisables, telles que l'énumération séparée des sous-domaines, l'exclusion de certains domaines du scan, la spécification d'un serveur "blind XSS" externe, et la possibilité de régler le nombre de threads pour accélérer les scans. En résumé, WebCopilot simplifie et automatise le processus de bug bounty, permettant aux professionnels de se concentrer sur l'analyse des vulnérabilités. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="255" src="https://korben.info/app/uploads/2024/03/SCR-20240326-ntp.webp" width="715" /></p>
@@ -132,9 +231,7 @@ Use https://xsshunter.com/ or https://interact.projectdiscovery.io/ to get your 
 <p><a href="https://github.com/h4r5h1t/webcopilot" rel="noopener" target="_blank">A découvrir ici !</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 19 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 19 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Brancher un vieux Windows sur le Net ? La roulette russe numérique !</title>
 <link>https://korben.info/brancher-vieux-windows-internet-roulette-russe-numerique.html</link>

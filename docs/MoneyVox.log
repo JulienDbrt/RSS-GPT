@@ -1147,3 +1147,18 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts : « Jusqu'à combien d'abattement peut-on cumuler pour donner à un enfant ? »](https://www.moneyvox.fr/impot/actualites/97777/impots-jusqua-combien-abattement-peut-on-cumuler-pour-donner-a-un-enfant)
 append_entries: 4
 Finish: 2024-05-19 12:35:53.730898
+------------------------------------------------------
+Started: 2024-05-20 01:11:10.609041
+Existing_entries: 325
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Déclaration de revenus : alerte pour la première date limite mardi 21 mai, êtes-vous concerné ?](https://www.moneyvox.fr/impot/actualites/97829/declaration-de-revenus-alerte-pour-la-premiere-date-limite-mardi-21-mai-etes-vous-concerne)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : passer aux frais réels, un bon plan avec le gel du barème kilométrique ?](https://www.moneyvox.fr/impot/actualites/97833/impots-2024-passer-aux-frais-reels-un-bon-plan-avec-le-gel-du-bareme-kilometrique)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Impôt 2024 : comment déclarer vos plus-values ou vos pertes en Bourse ?](https://www.moneyvox.fr/impot/actualites/97811/impot-2024-comment-declarer-vos-plus-values-ou-vos-pertes-en-bourse)
+append_entries: 3
+Finish: 2024-05-20 01:11:20.286488
