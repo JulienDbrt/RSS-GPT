@@ -655,3 +655,15 @@ Summarized using GPT-3.5-turbo
 Append: [Airbus : le groupe Saudia va passer une commande "historique"](https://www.lexpress.fr/economie/airbus-le-groupe-saudia-va-passer-une-commande-historique-6RAAMKLAIJHRXAR66GIX7XXFKA/)
 append_entries: 3
 Finish: 2024-05-21 01:19:45.032953
+------------------------------------------------------
+Started: 2024-05-21 12:43:41.138985
+Existing_entries: 189
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3135
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : ces engagements pris par les géants de la tech](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-ces-engagements-pris-par-les-geants-de-la-tech-WFR62HCTJBFB3LMWSPCHI7MMGE/)
+Token length: 4385
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : Microsoft dévoile son PC du futur](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-microsoft-devoile-son-pc-du-futur-SZEMBMPRIVAY3NYK7TG7KCPGHE/)
+append_entries: 2
+Finish: 2024-05-21 12:43:49.800086

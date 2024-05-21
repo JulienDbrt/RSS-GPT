@@ -599,3 +599,24 @@ Existing_entries: 137
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-21 01:15:44.083703
+------------------------------------------------------
+Started: 2024-05-21 12:39:13.250436
+Existing_entries: 137
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [La dégradation des grands pâturages mondiaux est "gravement sous-estimée", alerte l'ONU](https://www.martinique.franceantilles.fr/actualite/economie/la-degradation-des-grands-paturages-mondiaux-est-gravement-sous-estimee-alerte-lonu-988043.php)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [TotalEnergies, accusée de contribuer au "chaos" climatique, visée par une nouvelle plainte](https://www.martinique.franceantilles.fr/actualite/economie/nouvelle-plainte-a-paris-contre-totalenergies-accusee-de-contribuer-au-chaos-climatique-ong-988029.php)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie: premières évacuations de touristes en vue](https://www.martinique.franceantilles.fr/actualite/politique/nouvelle-caledonie-apres-six-morts-letat-passe-a-loffensive-987839.php)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Grève à la SNCF autour des primes JO: pagaille dans les transports, la droite s'indigne](https://www.martinique.franceantilles.fr/actualite/economie/avec-une-greve-pour-la-prime-jo-mardi-difficile-sur-les-rer-et-trains-de-banlieue-988022.php)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie: premières évacuations de touristes en vue](https://www.martinique.franceantilles.fr/actualite/politique/nouvelle-caledonie-vaste-operation-pour-retablir-lordre-quoi-quil-en-coute-987843.php)
+append_entries: 5
+Finish: 2024-05-21 12:39:41.099501

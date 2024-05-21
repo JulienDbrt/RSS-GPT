@@ -397,3 +397,9 @@ Summarized using GPT-3.5-turbo
 Append: [Séméac. Votes budgétaires importants au dernier conseil](https://www.ladepeche.fr/2024/05/20/votes-budgetaires-importants-au-dernier-conseil-11961858.php)
 append_entries: 2
 Finish: 2024-05-21 01:21:10.825618
+------------------------------------------------------
+Started: 2024-05-21 12:45:52.932799
+Existing_entries: 53
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-05-21 12:45:53.529245

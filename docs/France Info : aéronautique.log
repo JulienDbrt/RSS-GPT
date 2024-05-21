@@ -341,3 +341,12 @@ Summarized using GPT-3.5-turbo
 Append: [Aviation : malgré des résultats positifs, Ryanair annonce la fermeture de sa base de Bordeaux](https://www.francetvinfo.fr/economie/transports/aviation-malgre-des-resultats-positifs-ryanair-annonce-la-fermeture-de-sa-base-de-bordeaux_6555491.html)
 append_entries: 1
 Finish: 2024-05-21 01:16:23.295357
+------------------------------------------------------
+Started: 2024-05-21 12:40:30.534511
+Existing_entries: 31
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Aéronautique : la compagnie aérienne Saudia commande 105 avions à Airbus](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-la-compagnie-aerienne-saudia-commande-105-avions-a-airbus_6529166.html)
+append_entries: 1
+Finish: 2024-05-21 12:40:34.444059

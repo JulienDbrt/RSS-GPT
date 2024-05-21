@@ -547,3 +547,15 @@ Summarized using GPT-3.5-turbo
 Append: [Assurance-chômage : le gouvernement s'apprête bel et bien à donner un nouveau tour de vis](https://www.europe1.fr/economie/assurance-chomage-le-gouvernement-sapprete-bel-et-bien-a-donner-un-nouveau-tour-de-vis-4247728)
 append_entries: 2
 Finish: 2024-05-21 01:15:43.428731
+------------------------------------------------------
+Started: 2024-05-21 12:39:06.782195
+Existing_entries: 101
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 352
+Summarized using GPT-3.5-turbo
+Append: [Pascal Praud et vous - Grève SNCF : «J'ai presque honte de dire que je suis cheminot», affirme un cadre et ancien conducteur de train](https://www.europe1.fr/economie/pascal-praud-et-vous-greve-sncf-un-ancien-conducteur-de-train-reproche-aux-syndicats-mobilises-de-demander-toujours-plus-4248199)
+Token length: 340
+Summarized using GPT-3.5-turbo
+Append: [Pascal Praud et vous - «Des enfants gâtés !» : le vif échange entre une auditrice et un syndicaliste SNCF en grève](https://www.europe1.fr/economie/pascal-praud-et-vous-des-enfants-gates-le-vif-echange-entre-une-auditrice-et-un-syndicaliste-sncf-en-greve-4248195)
+append_entries: 2
+Finish: 2024-05-21 12:39:13.185242

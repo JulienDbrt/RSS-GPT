@@ -607,3 +607,15 @@ Summarized using GPT-3.5-turbo
 Append: [Astrazeneca à Singapour: Une usine à 1,5 milliard de dollars pour lutter contre le cancer](https://www.lessentiel.lu/fr/story/astrazeneca-a-singapour-une-usine-a-15-milliard-de-dollars-pour-lutter-contre-le-cancer-103109793)
 append_entries: 2
 Finish: 2024-05-21 01:19:32.843833
+------------------------------------------------------
+Started: 2024-05-21 12:43:30.633249
+Existing_entries: 173
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: Le chômage encore en forte hausse en avril, plus de 17 500 demandeurs d'emploi](https://www.lessentiel.lu/fr/story/au-luxembourg-le-chomage-encore-en-forte-hausse-en-avril-plus-de-17-500-demandeurs-demploi-103110426)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Aux États-Unis: Des pièces issues du travail forcé en Chine dans des véhicules européens importés](https://www.lessentiel.lu/fr/story/aux-etats-unis-des-pieces-issues-du-travail-force-en-chine-dans-des-vehicules-europeens-importes-103110256)
+append_entries: 2
+Finish: 2024-05-21 12:43:40.814711

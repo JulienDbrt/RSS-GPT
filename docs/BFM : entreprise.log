@@ -958,3 +958,24 @@ Summarized using GPT-3.5-turbo
 Append: [Les salariés des aéroports parisiens appelés à la grève mardi](https://www.bfmtv.com/economie/entreprises/transports/les-salaries-des-aeroports-parisiens-appeles-a-la-greve-mardi_AD-202405200070.html)
 append_entries: 8
 Finish: 2024-05-21 01:14:08.138977
+------------------------------------------------------
+Started: 2024-05-21 12:37:21.223263
+Existing_entries: 258
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Airbus annonce une commande de 21 hélicoptères](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-annonce-une-commande-de-21-helicopteres_AV-202405210564.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Airbus entame des tests pour son avion autonome](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-entame-des-tests-pour-son-avion-autonome_AV-202405210470.html)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Casino: baisse des prix et embauches en caisse attendues pour relancer le réseau de proximité](https://www.bfmtv.com/economie/entreprises/casino-baisse-des-prix-et-embauches-en-caisse-attendues-pour-relancer-le-reseau-de-proximite_AV-202405210411.html)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Des ONG et des "victimes du changement climatique" déposent une plainte contre Totalenergies](https://www.bfmtv.com/economie/entreprises/des-ong-et-des-victimes-du-changement-climatique-deposent-une-plainte-contre-totalenergies_AD-202405210399.html)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie: l'aéroport de Nouméa restera fermé jusqu'à samedi matin pour les vols commerciaux](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-jusqu-a-samedi-matin-pour-les-vols-commerciaux_AD-202405210369.html)
+append_entries: 5
+Finish: 2024-05-21 12:37:41.732721

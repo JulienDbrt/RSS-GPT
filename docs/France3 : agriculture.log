@@ -753,3 +753,24 @@ Summarized using GPT-3.5-turbo
 Append: [L'alpaga, un animal de la cordillère des Andes qui s'adapte bien à la vie en Nouvelle-Aquitaine](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/l-alpaga-un-animal-de-la-cordillere-des-andes-qui-s-adapte-bien-a-la-vie-en-nouvelle-aquitaine-2969651.html)
 append_entries: 7
 Finish: 2024-05-21 01:18:09.177316
+------------------------------------------------------
+Started: 2024-05-21 12:42:13.771372
+Existing_entries: 175
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "Ils ne savent pas différencier un cheval d'un âne" : la foire aux bestiaux, quand les animaux de la ferme descendent en ville](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/reportage-ils-ne-savent-pas-differencier-un-cheval-d-un-ane-la-foire-aux-bestiaux-quand-les-animaux-de-la-ferme-descendent-en-ville-2972852.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. Un loup qui court sur la route aux portes d'un village, ces images qui inquiètent les éleveurs et les habitants](https://france3-regions.francetvinfo.fr/occitanie/lozere/video-un-loup-qui-court-sur-la-route-aux-portes-d-un-village-ces-images-qui-inquietent-les-eleveurs-et-les-habitants-2972912.html)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Tableau de Monet aspergé de soupe : deux militantes de riposte alimentaire jugées à Lyon](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/tableau-de-monet-asperge-de-soupe-deux-militantes-de-riposte-alimentaire-jugees-a-lyon-2972861.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Frelon asiatique, pesticides... Comment faire pour que les abeilles restent les piliers de notre alimentation ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/frelon-asiatique-pesticides-comment-faire-pour-que-les-abeilles-restent-les-piliers-de-notre-alimentation-2972672.html)
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: ["Il a plus plu à Marrakech qu'à Béziers" : après une année "catastrophique", la météo redonne le sourire à cet apiculteur](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/il-a-plus-plu-a-marrakech-qu-a-beziers-apres-une-annee-catastrophique-la-meteo-redonne-le-sourire-a-cet-apiculteur-2972714.html)
+append_entries: 5
+Finish: 2024-05-21 12:42:32.118985

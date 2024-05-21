@@ -493,3 +493,12 @@ Summarized using GPT-3.5-turbo
 Append: [Ils achètent une maison à Sevran mais, selon le cadastre, ils n'en sont en fait pas propriétaires](https://www.bfmtv.com/immobilier/achat-vente/ils-achetent-une-maison-a-sevran-mais-selon-le-cadastre-ils-n-en-sont-en-fait-pas-proprietaires_AN-202405200360.html)
 append_entries: 1
 Finish: 2024-05-21 01:14:43.690480
+------------------------------------------------------
+Started: 2024-05-21 12:38:15.401283
+Existing_entries: 101
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Régulation des locations Airbnb: ce que prévoit la proposition de loi examinée au Sénat](https://www.bfmtv.com/immobilier/location/regulation-des-locations-airbnb-ce-que-prevoit-la-proposition-de-loi-examinee-au-senat_AD-202405210403.html)
+append_entries: 1
+Finish: 2024-05-21 12:38:20.218481

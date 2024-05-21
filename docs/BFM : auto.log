@@ -480,3 +480,15 @@ Summarized using GPT-3.5-turbo
 Append: [Un automobiliste britannique se retrouve avec 55.000 euros d'amendes envoyées à son ancienne adresse](https://www.bfmtv.com/auto/un-automobiliste-britannique-se-retrouve-avec-55-000-euros-d-amendes-envoyees-a-son-ancienne-adresse_AN-202405200713.html)
 append_entries: 1
 Finish: 2024-05-21 01:13:29.242477
+------------------------------------------------------
+Started: 2024-05-21 12:36:58.704919
+Existing_entries: 84
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Des Fiat Topolino saisies par la police italienne à cause d'un autocollant… du drapeau italien](https://www.bfmtv.com/auto/des-fiat-topolino-saisies-par-la-police-italienne-a-cause-d-un-autocollant-du-drapeau-italien_AN-202405210458.html)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Leasing social: l'État doit plus de 100 millions d'euros aux concessionnaires](https://www.bfmtv.com/auto/leasing-social-l-etat-doit-plus-de-100-millions-d-euros-aux-concessionnaires_AV-202405210364.html)
+append_entries: 2
+Finish: 2024-05-21 12:37:07.536560

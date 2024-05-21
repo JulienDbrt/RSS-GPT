@@ -316,3 +316,12 @@ Existing_entries: 16
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-05-21 01:22:15.507713
+------------------------------------------------------
+Started: 2024-05-21 12:47:07.943991
+Existing_entries: 16
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [SNCF : une grève pour la prime JO perturbe fortement le trafic des RER](https://www.latribune.fr/entreprises-finance/services/transport-logistique/sncf-une-greve-pour-la-prime-jo-perturbe-fortement-le-trafic-des-rer-997972.html)
+append_entries: 1
+Finish: 2024-05-21 12:47:12.798480

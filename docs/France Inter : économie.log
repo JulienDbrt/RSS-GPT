@@ -560,3 +560,27 @@ Summarized using GPT-3.5-turbo
 Append: [Les prix de l'électricité ont fortement baissé, ils sont même parfois négatifs](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-lundi-20-mai-2024-5290620)
 append_entries: 2
 Finish: 2024-05-21 01:16:52.588843
+------------------------------------------------------
+Started: 2024-05-21 12:40:50.814177
+Existing_entries: 104
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Les alternatives aux pesticides](https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mardi-21-mai-2024-5551475)
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle Calédonie : "On est dans une situation critique", assure Patrick Martin, le président du Medef](https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-mardi-21-mai-2024-5552567)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [Plusieurs syndicats de la SNCF appellent à la grève en Ile de France aujourd’hui](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-mardi-21-mai-2024-6243493)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [1 million d’apprentis en 2027, à quel prix ?](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-mardi-21-mai-2024-6874784)
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [Artisans du monde, épisode 2 : pour soutenir les pays du Sud, un vrai partenariat](https://www.radiofrance.fr/franceinter/podcasts/l-esprit-d-initiative/esprit-d-initiative-du-mardi-21-mai-2024-2245391)
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [La frénésie des consultants : EDF et son ancien PDG Henri Proglio jugés pour favoritisme](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-9100430)
+append_entries: 6
+Finish: 2024-05-21 12:41:10.322512

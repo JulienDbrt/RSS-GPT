@@ -5,15 +5,260 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Reverse engineering de Choplifter, le classique de l’Apple II</title>
+<link>https://korben.info/reverse-engineering-choplifter-decortiquer-classique-apple-ii.html</link>
+<guid>https://korben.info/reverse-engineering-choplifter-decortiquer-classique-apple-ii.html</guid>
+<content:encoded><![CDATA[
+<div> jeux vidéo, Choplifter, Apple II, Quinn Dunki, rétro-ingénierie
+
+Summary:
+Choplifter est l'un des jeux vidéo les plus mythiques de l'Apple II, sorti en 1982 et développé par Dan Gorlin. Quinn Dunki a réalisé une rétro-ingénierie complète du jeu pour en décortiquer les mécanismes internes, mettant en avant l'incroyable prouesse technique réalisée par Gorlin pour exploiter les capacités limitées de l'Apple II. Le gameplay de Choplifter a été peaufiné avec soin, rendant le pilotage fun et accessible. Des innovations techniques telles que des sprites animés et un moteur 3D maison ont été découvertes, montrant l'avant-gardisme du développeur. Quinn a même réussi à recompiler le jeu pour obtenir un binaire quasi identique à l'original. Pour les passionnés de technologie et de culture geek, plongez dans les coulisses de ce classique du jeu vidéo et découvrez le développement old-school sur le blog de Quinn Dunki. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Choplifter_game_on_Apple_II_a9e416da-7ce7-4f21-bf42-f8b725e02569.webp" width="1456" /></p>
+<p>Vous avez déjà entendu parler de <strong>Choplifter</strong> ? Non, c&rsquo;est PÔ PÔSSIBLE puisque c&rsquo;est l&rsquo;un des jeux vidéo les plus mythiques de l&rsquo;<strong>Apple II</strong> ! Sorti en 1982, année glorifiée par ma naissance, ce classique de <strong>Dan Gorlin</strong> a marqué toute une génération de <em>gamers</em> avec un gameplay novateur et son <em>scrolling</em> horizontal révolutionnaire pour l&rsquo;époque.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1033587027" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour mieux comprendre l&rsquo;importance de <strong>Choplifter</strong>, il faut connaître un peu l&rsquo;histoire de l&rsquo;Apple II. Cette série d&rsquo;ordinateurs, commercialisée de 1977 à 1993, a vu la création de centaines de milliers de logiciels, dont des dizaines de milliers de jeux. Parmi tous ceux là, seuls quelques-uns sont alors vraiment marquants, et Choplifter figure assurément en tête de liste aux côtés d&rsquo;autres classiques comme <strong><a href="https://korben.info/lode-runner-retour-jeu-mythique.html">Lode Runner</a></strong>. Ce qui est particulièrement impressionnant avec ce jeu, c&rsquo;est sa longévité puisqu&rsquo;il est resté l&rsquo;un des meilleurs jeux sur Apple II pendant seize ans, malgré la sortie de jeux étonnants comme <a href="https://en.wikipedia.org/wiki/Knights_of_Legend" rel="noopener" target="_blank">Knights of Legend</a> et <a href="https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1162" rel="noopener" target="_blank">Space Rogue</a> vers la fin de la vie de cette machine.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161035" height="649" src="https://korben.info/app/uploads/2024/05/Screenshot-2024-05-13-at-10.47.03-AM-1-1024x649.webp" width="1024" /></figure></div>
+
+
+<p>Mais comment cet œuvre a-t-elle été codée ? </p>
+
+
+
+<p>C&rsquo;est la question que s&rsquo;est posée <strong>Quinn Dunki</strong>, développeuse et hackeuse de talent qui armée de ses outils et de sa curiosité, elle s&rsquo;est lancée dans une <strong>rétro-ingénierie</strong> complète de Choplifter, pour en décortiquer les mécanismes internes et percer tous ses secrets ! Elle a donc passé 8 semaines intenses à désassembler, analyser et commenter le <strong>code source</strong> de ce jeu culte. </p>
+
+
+
+<p>La première chose qui saute aux yeux, c&rsquo;est avant tout l&rsquo;incroyable prouesse technique réalisée par Dan Gorlin à l&rsquo;époque. Rappelons qu&rsquo;on est en 1982, l&rsquo;Apple II est encore jeune, les outils de développement sont rudimentaires et malgré tout cela, ce génie a réussi à tirer le maximum de la machine en exploitant astucieusement ses capacités graphiques et sonores. Choplifter intègre des innovations folles pour l&rsquo;époque : des <em>sprites</em> animés pixel par pixel, de la rotation et de l&rsquo;inclinaison des hélicos en temps réel, un <em>scrolling</em> horizontal fluide et des collisions parfaitement gérées. Tout cela avec un processeur 8 bits cadencé à 1 MHz et 48 Ko de RAM, vous vous rendez compte ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-754454973" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Une autre prouesse du jeu est la qualité de son <strong>game design</strong>. Dan Gorlin a passé un temps fou à peaufiner le gameplay, à équilibrer la difficulté et à rendre le pilotage fun et accessible. Les mécanismes sous le capot sont d&rsquo;une finesse incroyable et Quinn a pu retracer les choix et les astuces du développeur, tel que son système de vecteurs pour passer les paramètres aux fonctions et ses algorithmes de tri des <strong>entités</strong> pour gérer le rendu dans le bon ordre.</p>
+
+
+
+<p>Parmi les découvertes les plus étonnantes, on trouve un moteur 3D maison que Dan avait commencé à coder pour gérer la rotation des sprites. Oui, de la 3D sur Apple II en 1982 ! Bien que cette fonctionnalité n&rsquo;ait pas été utilisée dans la version finale, elle témoigne de l&rsquo;avant-gardisme du dev.</p>
+
+
+
+<p>En plus de décortiquer le code, Quinn a également réussi l&rsquo;exploit de recompiler le jeu pour obtenir un binaire <strong>à l&rsquo;octet près</strong> identique à l&rsquo;original. Elle a même découvert un petit bug dans les listes chaînées que Dan cherchait probablement à l&rsquo;époque!</p>
+
+
+
+<p>Pour les passionnés de technologie et de culture geek que vous êtes, je vous invite à découvrir les coulisses d&rsquo;un monument du jeu vidéo et à vous familiariser avec le développement 6502 old-school en allant lire <a href="https://blondihacks.com/reversing-choplifter/" rel="noopener" target="_blank">l&rsquo;<strong>autopsie de Choplifter</strong></a> sur le blog de Quinn Dunki. C&rsquo;est un voyage fascinant dans l&rsquo;univers de la programmation des années 80.</p>
+
+
+
+<p>Le code source complet de Choplifter est également sur <a href="https://github.com/blondie7575/ChoplifterReverse" rel="noopener" target="_blank">GitHub</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 07:56:50 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 07:56:50 +0000</pubDate>
+</item>
+<item>
+<title>Vibe – Une app de transcription audio compatible macOS, Windows et Linux</title>
+<link>https://korben.info/vibe-ia-open-source-transcription-audio-multilingue.html</link>
+<guid>https://korben.info/vibe-ia-open-source-transcription-audio-multilingue.html</guid>
+<content:encoded><![CDATA[
+<div> transcription, Vibe, audio, multilingue, open source
+<br>
+Summary:
+Vibe est un nouvel outil open source de transcription audio multilingue utilisant l'IA Whisper d'OpenAI pour une précision élevée. Il permet de transcrire des fichiers audio et vidéo par lots, prévisualiser en temps réel, exporter dans divers formats et personnaliser les modèles. Fonctionnant hors ligne sur macOS, Windows et Linux, il offre des performances optimisées pour Apple Silicon et Windows 8+. Les utilisateurs Linux peuvent l'installer via un fichier .deb ou un convertisseur de paquets. Vibe s'adapte aux ressources des ordinateurs, offrant une optimisation GPU sur Mac et des réglages avancés sur Windows. Bientôt, le support de l'audio système et du micro sera disponible pour les utilisateurs Linux. Un outil idéal pour le business des sous-titres ou de la transcription. 
+
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_no_text_b173497e-0b23-4ccf-aad8-33880d303950.webp" width="1456" /></p>
+<p>Vibe est un nouvel outil open source de transcription audio multilingue qui va vous faire vibrer ! Terminé le temps où vous deviez vous contenter de sous-titres approximatifs ou attendre des plombes pour obtenir une transcription potable.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-71077925" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour cela, il utilise l&rsquo;IA Whisper, développé par les <strong>génies d&rsquo;OpenAI</strong> et dont je vous ai parlé à maintes reprises. Ce modèle de reconnaissance vocale dernier cri est capable de transcrire un nombre ahurissant de langues avec une précision bluffante, ce qui permet de faire de Vibe une véritable <strong>solution audio polyvalente</strong> bourrée de fonctionnalités. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161025" height="812" src="https://korben.info/app/uploads/2024/05/SCR-20240521-d3d.webp" style="width: 556px; height: auto;" width="912" /></figure></div>
+
+
+<p>Vous pouvez par exemple transcrire des fichiers audio et vidéo par lots, prévisualiser le résultat en temps réel, exporter dans une flopée de formats (SRT, VTT, TXT…), et même personnaliser les modèles selon vos besoins. Il fonctionne entièrement hors ligne, donc pas de risque que vos données sensibles se retrouvent dans les griffes des GAFAM et ça tourne sous <strong>macOS, Windows et Linux</strong>. Pour cela, il vous suffit de vous rendre sur la <a href="https://github.com/thewh1teagle/vibe/releases" rel="noopener" target="_blank">page des releases GitHub</a> et de télécharger la version qui correspond à votre OS.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161026" height="857" src="https://korben.info/app/uploads/2024/05/SCR-20240521-d3z.webp" style="width: 663px; height: auto;" width="912" /></figure></div>
+
+
+<p>Le support pour Apple Silicon est optimisé ce qui offre une performance accrue et pour Windows, la version 8 ou plus sera nécessaire, mais bon, je pense que vous êtes tous ou presque déjà sous Windows 10/11. Les utilisateurs Linux, quand à eux, peuvent installer Vibe via un fichier .deb, et les utilisateurs d&rsquo;Arch Linux peuvent utiliser <a href="https://aur.archlinux.org/packages/debtap" rel="noopener" target="_blank">debtap</a> pour convertir le paquet en fonction de leurs besoins.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161027" height="905" src="https://korben.info/app/uploads/2024/05/SCR-20240521-d4t.webp" style="width: 664px; height: auto;" width="912" /></figure></div>
+
+
+<p>Côté performance, c&rsquo;est du gâteau puisque comme vous vous en doutiez, les ordinateurs Mac ont droit à une petite optimisation GPU qui booste les résultats. Mais même sur un vieux coucou Windows, Vibe est capable de s&rsquo;adapter à vos ressources sans broncher via à ses réglages avancés. Et pour les Linuxiens, sachez que le support de l&rsquo;audio système et du micro est prévu pour bientôt.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1624197856" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bref, c&rsquo;est à tester si vous êtes dans le business du sous-titre ou de la transcription.</p>
+
+
+
+<p><a href="https://thewh1teagle.github.io/vibe/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 07:31:16 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 07:31:16 +0000</pubDate>
+</item>
+<item>
+<title>GritQL – Le langage de requête pour manipuler du code source</title>
+<link>https://korben.info/gritql-langage-requete-revolutionnaire-manipuler-code-source.html</link>
+<guid>https://korben.info/gritql-langage-requete-revolutionnaire-manipuler-code-source.html</guid>
+<content:encoded><![CDATA[
+<div> install, patterns, refactoriser, langages, auto-fix
+Summary:
+GritQL est un langage de requête puissant qui permet aux développeurs de rechercher, évaluer et modifier du code source sans nécessiter de compétences avancées en parsing. Il offre la possibilité de chercher des patterns spécifiques, de les remplacer facilement pour refactoriser le code, et dispose d'une bibliothèque de plus de 200 patterns réutilisables. Grâce à son moteur en Rust, GritQL peut analyser rapidement des repos de 10 millions de lignes. Il supporte une variété de langages de programmation, tels que JavaScript, Python, Java, Go, Rust et SQL, permettant aux développeurs de travailler avec un seul outil polyvalent. De plus, GritQL permet d'intégrer des règles de "auto-fix" dans les patterns, facilitant ainsi la correction et le nettoyage du code en même temps que la recherche. En résumé, GritQL est un outil incontournable pour les développeurs souhaitant optimiser leurs processus de recherche et de manipulation de code source. 
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="171" src="https://korben.info/app/uploads/2024/03/SCR-20240328-uxt.webp" width="634" /></p>
+<p>Aujourd&rsquo;hui, je vous présente <strong>GritQL</strong> qui va vous permettre de fouiller et triturer du code source, sans avoir besoin d&rsquo;être un crack en <a href="https://deepsource.com/glossary/ast" rel="noopener" target="_blank">AST</a> ou en parsing. Le truc génial avec ce langage de requête pour la recherche, l&rsquo;évaluation et la modification du code, c&rsquo;est que n&rsquo;importe quel bout de code est une requête valide. Vous mettez un extrait de code entre guillemets simples, et hop, GritQL vous trouve tous les endroits où ce pattern apparaît ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-133555353" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Bon OK, vous allez me dire : « <em>Mouais, mon grep il sait faire ça aussi&#8230;</em> » sauf que GritQL est boosté aux stéroïdes notamment grâce à son moteur en Rust capable d&rsquo;analyser des repos de 10 millions de lignes en un clin d&rsquo;œil. Votre vieux grep, il peut aller se rhabiller ! 😜</p>
+
+
+
+<p>Vous pouvez même utiliser des variables ($comme_ça) dans vos patterns pour identifier des bouts de code puis appliquer des transformations en mode « rechercher/remplacer » pour refactoriser à la volée. </p>
+
+
+
+<p>Pour l&rsquo;installer :</p>
+
+
+
+<pre class="wp-block-code"><code>curl -fsSL https://docs.grit.io/install | bash</code></pre>
+
+
+
+<p>Et si par exemple, vous voulez remplacer tous vos <code>console.log</code> par des <code>winston.log</code>, c&rsquo;est facile : </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-752408860" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>grit </code>&lsquo;<code>console.log($msg)</code>&lsquo;<code> => </code>&lsquo;<code>winston.log($msg)</code>&lsquo;</p>
+
+
+
+<p>Et bim, votre code est mis à jour ! </p>
+
+
+
+<p>GritQL dispose également d&rsquo;une <a href="https://github.com/getgrit/stdlib" rel="noopener" target="_blank">bibliothèque standard</a> avec plus de 200 patterns réutilisables, comme ça, plus besoin de réinventer la roue pour les tâches courantes. Et si vous avez des patterns spécifiques, vous pouvez même <a href="https://docs.grit.io/guides/sharing#anchor-publishing-patterns" rel="noopener" target="_blank">les partager</a> avec la communauté.</p>
+
+
+
+<p>Autre point fort : une fois que vous maîtrisez GritQL, vous pouvez l&rsquo;utiliser avec tout un tas de langages. Que vous codiez en <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>Go</strong>, <strong>Rust</strong> ou même en <strong>SQL</strong>, plus besoin d&rsquo;apprendre 15 outils différents, un seul suffit !</p>
+
+
+
+<p>Et cerise sur le gâteau, il permet d&rsquo;inclure facilement des règles de « auto-fix » dans vos patterns. Comme ça, vous pouvez corriger et nettoyer votre code en même temps que vous le cherchez. Pratique pour maintenir la qualité sans se prendre la tête ! 👌</p>
+
+
+
+<p>Bref, je vous conseille vraiment d&rsquo;aller jeter un œil à <a href="https://github.com/getgrit/gritql" rel="noopener" target="_blank">GritQL sur GitHub</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-560188117" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Happy hacking !</p>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Recall de Microsoft – Un outil super pratique ou un gros risque pour votre vie privée ?</title>
+<link>https://korben.info/microsoft-mac-creent-outils-espions-qui-enregistrent-pc.html</link>
+<guid>https://korben.info/microsoft-mac-creent-outils-espions-qui-enregistrent-pc.html</guid>
+<content:encoded><![CDATA[
+<div> IA, Microsoft, Recall, vie privée, enregistrement
+Summary: 
+
+Microsoft a révélé une nouvelle fonctionnalité appelée "Recall" lors de la conférence Build, permettant aux utilisateurs de Windows 11 de rechercher et récupérer leurs activités passées sur leur PC. Recall enregistre toutes les actions des utilisateurs, y compris les applications utilisées, les communications en réunion et les recherches web. Les captures d'écran sont stockées localement et chiffrées, mais cela soulève des inquiétudes quant à la vie privée. Un système similaire existe également sur Mac. Bien que les développeurs promettent que les données restent sécurisées, certains craignent une intrusion excessive dans la vie privée des utilisateurs. Malgré des mesures de contrôle et de confidentialité, l'utilisation de ces fonctionnalités rappelle l'épisode de Black Mirror où la technologie de surveillance déclenche une paranoïa généralisée. La question de l'utilisation de ces outils est soulevée, notamment en ce qui concerne l'espace de stockage nécessaire et les risques potentiels pour la vie privée. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Logo_for_a_big_brother_spying_tool_named_Recall_fa25808a-0e51-4371-9291-0aed5decb53e.webp" width="1920" /></p>
+<p>Microsoft nous la jouent à nouveau façon Big Brother et il est possible que les dernières nouvelles vous fassent froid dans le dos ! Vous vous souvenez de l&rsquo;épisode flippant de Black Mirror où les gens avaient une puce derrière l&rsquo;oreille qui enregistrait tout ? Et bien dites-vous que c&rsquo;est en train de devenir réalité, sauf que c&rsquo;est sur nos ordis !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1543143920" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Lors de la conférence Build de lundi, Microsoft a révélé une nouvelle feature alimentée par l&rsquo;IA appelée « <strong>Recall</strong> » qui permettra aux utilisateurs de Windows 11 de rechercher et récupérer leurs activités passées sur leur PC. Concrètement, Recall va enregistrer tout ce que vous faites : les applications que vous utilisez, vos communications en réunion, vos recherches web, tout ! Soi-disant pour vous permettre de retrouver facilement un truc que vous avez fait il y a 3 mois. Mais bon, de prime abord ça pue un peu le cramé côté vie privée&#8230;</p>
+
+
+
+<figure class="wp-block-video aligncenter"><video controls="controls" src="https://korben.info/app/uploads/2024/05/output-1.mp4"></video></figure>
+
+
+
+<p>Recall prend des images de votre écran toutes les quelques secondes, les chiffre et les stocke sur votre disque dur. Vous pourrez ensuite les retrouver via une recherche ou une timeline. Ça scannera même vos réunions en ligne pour les retranscrire et les traduire grâce à une fonctionnalité alimentée par l&rsquo;IA. Pratique ? Peut-être. Flippant ? Carrément !</p>
+
+
+
+<p>Imaginez que quelqu&rsquo;un accède à votre session Windows et fouille dans votre historique Recall. Il pourra voir TOUT ce que vous faites, même les trucs pas très catholiques ^^&#8230; Évidemment, Microsoft jure que les données restent en local (pour le moment ?) et sont chiffrées et heureusement, il y aura des options pour mettre en pause ou supprimer des contenus. </p>
+
+
+
+<p>Plus précisément, Microsoft précise que les captures d&rsquo;écran sont uniquement liées à un profil utilisateur spécifique et ne sont pas partagées avec d&rsquo;autres utilisateurs ni utilisées par Microsoft pour des publicités ciblées (pour le moment ?). Recall ne prendra pas de captures des sessions de navigation InPrivate dans Microsoft Edge ou des contenus protégés par DRM mais ne cachera pas les informations sensibles comme les mots de passe.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-307044985" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Si vous voulez quand même utiliser cette fonctionnalité, il faudra acheter un « Copilot+ PC », les seuls capables de faire tourner ce truc. Et il faudra aussi avoir de la place sur le disque, au moins 256 Go dont 50 Go pour Recall. </p>
+
+
+
+<p>Mais attendez moussaillons, ce n&rsquo;est pas fini ! Sur les Mac, ça s&rsquo;y met aussi avec <em><a href="https://recallmemory.app/" rel="noopener" target="_blank">Recall Memory</a></em> ! Ce n&rsquo;est pas un outil officiel Apple, mais comme son nom l&rsquo;indique très subtilement, il enregistre aussi ce que vous faites pour la « mémoriser ». Il capture l&rsquo;écran actif chaque seconde, mais ne stocke que les changements significatifs, sûrement pour ne pas exploser le disque dur. </p>
+
+
+
+<p>Et comme chez Microsoft, les dev de cet outil jurent que les données resteront sur votre Mac, chiffrée et jamais uploadées. Vous contrôlez quelles applications sont capturées et combien de données sont sauvegardées. De plus, les sessions de navigation privée sur Safari et Chrome sont automatiquement ignorées.</p>
+
+
+
+<figure class="wp-block-video aligncenter"><video controls="controls" src="https://korben.info/app/uploads/2024/05/Intro.mp4"></video></figure>
+
+
+
+<p>En bref, ces nouvelles fonctionnalités rappellent un peu la Timeline de Windows 10, mais en 1000 fois plus intrusif. Il y a bien des systèmes de favoris, de recherche et de contrôle de ce qui est capturé. Alors oui, il y a des garde-fous, des promesses de confidentialité, de chiffrement, de données qui restent locales, mais comme je le disais en intro, je ne peux pas m&#8217;empêcher de penser à <a href="https://fr.wikipedia.org/wiki/Retour_sur_image" rel="noopener" target="_blank">cet épisode de Black Mirror</a> (S01E03) où le mec devient parano et pète un câble parce qu&rsquo;il peut voir les souvenirs de sa femme.Pour rappel, cet épisode montre une société où une technologie permet d&rsquo;enregistrer tout ce qu&rsquo;un individu voit et entend, et où ces souvenirs deviennent sources de paranoïa.</p>
+
+
+
+<p>On n&rsquo;en est pas encore là, mais ça y ressemble de plus en plus&#8230; </p>
+
+
+
+<p>Après, je ne dis pas, ça peut être pratique pour retrouver un truc qu&rsquo;on a vu il y a longtemps, ou pour les personnes qui ont des trous de mémoire, mais je trouve ça assez risqué comme truc&#8230; Puis la place que ça prend sur le disque dur&#8230; mdr.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-629250061" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://arstechnica.com/gadgets/2024/05/microsofts-new-recall-feature-will-record-everything-you-do-on-your-pc/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 06:06:47 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 06:06:47 +0000</pubDate>
+</item>
+
+<item>
 <title>Le web s’efface au fil des années – Est-ce un problème ?</title>
 <link>https://korben.info/menace-declin-numerique-preservation-contenu-web.html</link>
 <guid>https://korben.info/menace-declin-numerique-preservation-contenu-web.html</guid>
 <content:encoded><![CDATA[
 <div> étude, déclin numérique, pages web, liens, sauvegarder
-<br>
-<br>
+<br />
+<br />
 Le web que nous connaissons est menacé par le déclin numérique, avec 38% des pages web disparues en une décennie. Les liens également sont touchés, avec 23% des liens d'actualités et 21% des liens gouvernementaux menant vers des destinations disparues. Même Wikipédia est affectée, avec 54% des articles ayant des références obsolètes. Sur les réseaux sociaux, près de 20% des tweets disparaissent rapidement, particulièrement en turc ou en arabe. Face à cette perte de données, des initiatives comme la fondation  tentent de sauvegarder le web. Il est important de sauvegarder régulièrement ses contenus et de signaler les liens morts pour protéger notre patrimoine numérique. En dépit de l'effort de préservation, maintenir l'intégrité du web reste un défi crucial face à sa croissance exponentielle. 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_illustration_of_the_cover_of_an_old_book_with_word_title_24ed2562-2937-43a1-a0ee-048502cb02bf.webp" width="1456" /></p>
 <p>Vous l&rsquo;ignorez peut-être mais le web que nous connaissons et aimons est en réalité d&rsquo;une nature bien plus <strong>éphémère</strong> qu&rsquo;il n&rsquo;y paraît, car derrière cette apparente stabilité se cache une menace insidieuse qui ronge lentement mais sûrement notre précieux patrimoine numérique : le redoutable <strong>déclin numérique</strong> !</p>
 
@@ -51,15 +296,14 @@ Le web que nous connaissons est menacé par le déclin numérique, avec 38% des 
 <p><a href="https://it.slashdot.org/story/24/05/20/1412222/38-of-webpages-that-existed-in-2013-are-no-longer-accessible-a-decade-later?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 15:14:01 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 15:14:01 +0000</pubDate>
 </item>
 <item>
 <title>Votre lecteur PDF.js préféré peut exécuter du code malveillant !</title>
 <link>https://korben.info/alerte-vulnerabilite-pdf-js-execution-code-malveillant-javascript.html</link>
 <guid>https://korben.info/alerte-vulnerabilite-pdf-js-execution-code-malveillant-javascript.html</guid>
 <content:encoded><![CDATA[
-<div> PDF.js, faille de sécurité, code de rendu, police, JavaScript, attaquant<br>
-<br>
+<div> PDF.js, faille de sécurité, code de rendu, police, JavaScript, attaquant<br />
+<br />
 Summary:
 Une nouvelle vulnérabilité de sécurité a été découverte dans la bibliothèque JavaScript de visualisation de PDF, PDF.js, utilisée par plusieurs applications. Cette faille permet à un attaquant d'exécuter du code JavaScript malveillant simplement en ouvrant un PDF compromis. En exploitant une manipulation des commandes de rendu de polices, un hacker peut insérer du code JavaScript dans la description des glyphes d'une police spéciale. Cela peut conduire à l'exécution de code arbitraire, au vol de données ou même à la prise de contrôle du système. La vulnérabilité affecte les versions de PDF.js antérieures à la 4.2.67 et les utilisateurs de Firefox, ainsi que d'autres applications basées sur Electron utilisant PDF.js pour l'aperçu des fichiers. Il est recommandé de mettre à jour PDF.js et les outils associés pour se protéger contre cette faille de sécurité. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_a_cybersecurity_shield_with_word_PDF_JS_written_on_it_357fa1df-a14e-48b6-859b-8e46baf1dd46.webp" width="1456" /></p>
@@ -92,16 +336,15 @@ Une nouvelle vulnérabilité de sécurité a été découverte dans la biblioth�
 <p><a href="https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 14:57:14 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 14:57:14 +0000</pubDate>
 </item>
 <item>
 <title>Faille RCE critique dans llama-cpp-python – Plus de 6000 modèles d’IA affectés</title>
 <link>https://korben.info/faille-rce-critique-llama-cpp-python-affecte-6000-modeles-ia.html</link>
 <guid>https://korben.info/faille-rce-critique-llama-cpp-python-affecte-6000-modeles-ia.html</guid>
 <content:encoded><![CDATA[
-<div> package llama-cpp-python, faille critique, Jinja2, modèle d’IA, sécurité<br>
-<br>
-Summary: <br>Une faille critique a été découverte dans le package llama-cpp-python, utilisé pour intégrer des modèles d'IA en C++ dans des projets Python. Cette faille, causée par une mauvaise configuration de Jinja2, permet à des attaquants d'exécuter du code arbitraire sur le système hôte. Plus de 6000 modèles sur Hugging Face sont vulnérables à cette faille, ce qui pourrait entraîner des vols de données ou prises de contrôle. La version 0.2.72 de llama-cpp-python a été publiée pour corriger cette vulnérabilité en ajoutant des validations des entrées et un bac à sable robuste autour de Jinja2. Les utilisateurs doivent mettre à jour leur version pour se protéger. Il est recommandé de vérifier si les modèles utilisent cette version du package, le format de fichier .gguf et des templates Jinja2 dans les métadonnées pour prendre les mesures nécessaires. La sécurité des systèmes d'IA doit être renforcée à tous les niveaux pour éviter des conséquences catastrophiques en cas de faille. <div>
+<div> package llama-cpp-python, faille critique, Jinja2, modèle d’IA, sécurité<br />
+<br />
+Summary: <br />Une faille critique a été découverte dans le package llama-cpp-python, utilisé pour intégrer des modèles d'IA en C++ dans des projets Python. Cette faille, causée par une mauvaise configuration de Jinja2, permet à des attaquants d'exécuter du code arbitraire sur le système hôte. Plus de 6000 modèles sur Hugging Face sont vulnérables à cette faille, ce qui pourrait entraîner des vols de données ou prises de contrôle. La version 0.2.72 de llama-cpp-python a été publiée pour corriger cette vulnérabilité en ajoutant des validations des entrées et un bac à sable robuste autour de Jinja2. Les utilisateurs doivent mettre à jour leur version pour se protéger. Il est recommandé de vérifier si les modèles utilisent cette version du package, le format de fichier .gguf et des templates Jinja2 dans les métadonnées pour prendre les mesures nécessaires. La sécurité des systèmes d'IA doit être renforcée à tous les niveaux pour éviter des conséquences catastrophiques en cas de faille. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_illustration_of_a_llama_backdoor_exploit_4acc719b-f3d0-4680-b467-63c2f5c822cf.webp" width="1456" /></p>
 <p>Imaginez télécharger un modèle d&rsquo;IA apparemment inoffensif sur une plateforme de confiance comme <strong>Hugging Face</strong> et découvrir qu&rsquo;il ouvre en fait une porte dérobée permettant à des attaquants de prendre le contrôle de votre système ! C&rsquo;est le risque que pose la faille critique <strong><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34359" rel="noopener" target="_blank">CVE-2024-34359</a></strong>, découverte récemment dans le célèbre package Python <strong><a href="https://github.com/abetlen/llama-cpp-python" rel="noopener" target="_blank">llama-cpp-python</a></strong>.</p>
 
@@ -168,7 +411,6 @@ Summary: <br>Une faille critique a été découverte dans le package llama-cpp-p
 <p><a href="https://www.scmagazine.com/news/6k-plus-ai-models-may-be-affected-by-critical-rce-vulnerability" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 14:45:00 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 14:45:00 +0000</pubDate>
 </item>
 <item>
 <title>GPS – Les risques de brouillage et de leurrage expliqués</title>
@@ -176,8 +418,8 @@ Summary: <br>Une faille critique a été découverte dans le package llama-cpp-p
 <guid>https://korben.info/gps-risques-brouillage-leurrage-expliques.html</guid>
 <content:encoded><![CDATA[
 <div> brouillage, leurrage, GPS, signal, sécurité
-<br>
-<br>
+<br />
+<br />
 Summary: 
 Le GPS, technologie omniprésente, est vulnérable au brouillage et au leurrage de signal. Le brouillage, qui consiste à perturber les signaux GPS, peut avoir des conséquences graves, notamment en cas de conflit. Le leurrage, technique plus avancée, permet de générer de faux signaux pour induire en erreur les récepteurs. Ces attaques peuvent impacter non seulement la navigation, mais aussi les réseaux de téléphonie mobile. Des mesures de protection sont nécessaires, telles que l'utilisation d'antennes directionnelles et l'analyse minutieuse des signaux. Il est crucial de sensibiliser sur les risques liés à la dépendance excessive au GPS et de se préparer à d'éventuelles attaques. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_illustration_of_GPS_Warfare_b60a9c27-f71d-40bf-b971-4f3995ec1910.webp" width="1920" /></p>
@@ -249,7 +491,6 @@ Le GPS, technologie omniprésente, est vulnérable au brouillage et au leurrage 
 <p><a href="https://hackaday.com/2024/05/19/scott-manley-explains-gps-jamming/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 08:08:39 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 08:08:39 +0000</pubDate>
 </item>
 <item>
 <title>Extensions Chrome – Attention aux ralentissements !</title>
@@ -257,12 +498,12 @@ Le GPS, technologie omniprésente, est vulnérable au brouillage et au leurrage 
 <guid>https://korben.info/extensions-chrome-ralentissement-navigation-ublock-origin.html</guid>
 <content:encoded><![CDATA[
 <div> extensions Chrome, performances, ralentissement, impact, navigateur
-Summary:<br>
-- Les extensions Chrome peuvent sérieusement ralentir les performances de navigation, certaines ajoutant jusqu'à plusieurs secondes de temps de traitement par page. <br>
-- Certaines extensions populaires comme Honey ou Rakuten causent des retards importants lors de la navigation sur des sites de shopping. <br>
-- Les bloqueurs de publicités comme uBlock Origin accélèrent la navigation en réduisant considérablement le temps de traitement et la quantité de données téléchargées. <br>
-- Les extensions VPN et de gestionnaires de mots de passe sont souvent responsables de ralentissements en raison du transit des données par des serveurs distants. <br>
-- Les développeurs d'extensions sont encouragés à optimiser leur code pour garantir des performances optimales et à ne pas activer automatiquement leurs outils sur tous les sites. <br> <div>
+Summary:<br />
+- Les extensions Chrome peuvent sérieusement ralentir les performances de navigation, certaines ajoutant jusqu'à plusieurs secondes de temps de traitement par page. <br />
+- Certaines extensions populaires comme Honey ou Rakuten causent des retards importants lors de la navigation sur des sites de shopping. <br />
+- Les bloqueurs de publicités comme uBlock Origin accélèrent la navigation en réduisant considérablement le temps de traitement et la quantité de données téléchargées. <br />
+- Les extensions VPN et de gestionnaires de mots de passe sont souvent responsables de ralentissements en raison du transit des données par des serveurs distants. <br />
+- Les développeurs d'extensions sont encouragés à optimiser leur code pour garantir des performances optimales et à ne pas activer automatiquement leurs outils sur tous les sites. <br /> <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_A_Google_Chrome_Speed_Bump_88c7f6b5-8fc1-4e6b-8971-de1c918b8944.webp" width="1920" /></p>
 <p>On s&rsquo;en doutait, mais là c&rsquo;est prouvé scientifiquement : <strong>Les extensions Chrome peuvent sérieusement ralentir vos séances de surf !</strong> </p>
 
@@ -324,7 +565,6 @@ Summary:<br>
 <p><a href="https://www.ghacks.net/2024/05/20/chrome-extensions-may-slow-down-browsing-significantly/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 07:15:21 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 07:15:21 +0000</pubDate>
 </item>
 <item>
 <title>LLMLingua – Compresser les prompts pour accélérer les LLM et réduire les coûts</title>
@@ -332,7 +572,7 @@ Summary:<br>
 <guid>https://korben.info/llmlingua-compresser-prompts-accelerer-llm.html</guid>
 <content:encoded><![CDATA[
 <div> Réduction des coûts, Support de contextes étendus, Robustesse, Préservation des connaissances, Compression du cache KV
-<br>
+<br />
 Summary:
 LLMLingua est un outil de compression de prompts révolutionnaire développé par des chercheurs de Microsoft. Il permet d'accélérer l'inférence des grands modèles de langage comme GPT-3 et GPT-4 en réduisant jusqu'à 20 fois la taille des prompts tout en préservant les performances. Les avantages incluent une réduction des coûts significative, la gestion efficace des longs contextes, une robustesse sans besoin d'entraînement supplémentaire, la conservation des informations clés des prompts originaux, et une accélération du processus d'inférence à travers la compression du cache clé-valeur. Malgré une légère différence entre les prompts compressés et non compressés, les résultats générés restent précis à hauteur de 70 à 80%. L'installation de LLMLingua est simple avec pip, offrant aux utilisateurs la possibilité d'explorer différentes applications telles que le Retrieval Augmented Generation (RAG), les réunions en ligne, le Chain-of-Thought, et même la génération de code. <div>
 <p>Vous êtes-vous déjà retrouvé frustré par les <strong>limites de tokens</strong> lorsque vous demandiez à ChatGPT de résumer de longs textes ? Ou découragé par les <strong>coûts élevés</strong> de l&rsquo;API GPT-3.5/4 malgré d&rsquo;excellents résultats ? Si c&rsquo;est le cas, <strong>LLMLingua</strong> est fait pour vous !</p>
@@ -446,7 +686,6 @@ print(compressed_prompt)</code></pre>
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://huggingface.co/spaces/microsoft/LLMLingua" rel="noopener" target="_blank">A tester ici</a> !</p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Créez vos niveaux Super Mario 64 avec Mario Builder 64</title>
@@ -454,7 +693,7 @@ print(compressed_prompt)</code></pre>
 <guid>https://korben.info/creez-vos-niveaux-super-mario-64-avec-mario-builder-64.html</guid>
 <content:encoded><![CDATA[
 <div> Super Mario 64, hack, créativité, niveaux, communauté
-<br>
+<br />
 Summary: 
 Mario Builder 64 est un hack de Super Mario 64 qui permet aux joueurs de créer leurs propres niveaux dans ce jeu emblématique. Grâce à un outil intuitif, les joueurs peuvent concevoir des niveaux personnalisés en plaçant des plateformes, des ennemis, des power-ups, et plus encore. Techniquement, le hack nécessite une ROM de Super Mario 64 et un émulateur Nintendo 64 pour fonctionner. Une fois installé, les joueurs peuvent accéder à une bibliothèque d'éléments pour créer des niveaux divers et variés. Les créations peuvent être partagées avec la communauté, permettant aux joueurs d'explorer et de jouer aux niveaux créés par d'autres. De plus, Mario Builder 64 propose un thème spécial avec des éléments uniques pour dynamiser les possibilités de création. En somme, Mario Builder 64 offre aux joueurs la liberté de laisser libre cours à leur imagination et de partager leurs créations avec le monde entier. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="439" src="https://korben.info/app/uploads/2024/05/SCR-20240520-hhku.webp" width="1000" /></p>
@@ -527,9 +766,7 @@ Mario Builder 64 est un hack de Super Mario 64 qui permet aux joueurs de créer 
 <p><a href="https://x.com/Rovertronic/status/1792208591442825268" rel="noreferrer noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 06:02:08 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 06:02:08 +0000</pubDate>
 </item>
-
 <item>
 <title>Zippy – Boostez vos ebooks avec la bionification</title>
 <link>https://korben.info/zippy-boostez-vos-ebooks-avec-la-bionification-en-python.html</link>

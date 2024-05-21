@@ -396,3 +396,15 @@ Summarized using GPT-3.5-turbo
 Append: [Commande historique de 105 avions Airbus par la compagnie Saudia](https://www.bfmtv.com/economie/entreprises/aeronautique/commande-historique-de-105-avions-airbus-par-la-compagnie-saudia_AD-202405200388.html)
 append_entries: 1
 Finish: 2024-05-21 01:13:24.456908
+------------------------------------------------------
+Started: 2024-05-21 12:36:49.943539
+Existing_entries: 56
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Airbus annonce une commande de 21 hélicoptères](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-annonce-une-commande-de-21-helicopteres_AV-202405210564.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Airbus entame des tests pour son avion autonome](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-entame-des-tests-pour-son-avion-autonome_AV-202405210470.html)
+append_entries: 2
+Finish: 2024-05-21 12:36:58.654816

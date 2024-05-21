@@ -587,3 +587,21 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : le réseau de transports francilien sera perturbé mardi 21 mai](https://www.francetvinfo.fr/economie/transports/sncf/greve-a-la-sncf/sncf-le-reseau-de-transports-francilien-sera-perturbe-mardi-21-mai_6555362.html)
 append_entries: 6
 Finish: 2024-05-21 01:16:46.272402
+------------------------------------------------------
+Started: 2024-05-21 12:40:35.280965
+Existing_entries: 113
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Un mort et plusieurs blessés après de "fortes turbulences" sur un vol de Singapore Airlines en provenance de Londres](https://www.francetvinfo.fr/faits-divers/un-mort-et-plusieurs-blesses-apres-de-fortes-turbulences-sur-un-vol-de-singapore-airlines-en-provenance-de-londres_6557456.html)
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [Les grèves à l'approche des Jeux, la CPI requiert des mandats d'arrêts contre le Hamas et Israël... Les informés du matin du mardi 21 mai](https://www.francetvinfo.fr/replay-radio/les-informes-du-matin/les-greves-a-l-approche-des-jeux-la-cpi-requiert-des-mandats-d-arrets-contre-le-hamas-et-israel-les-informes-du-matin-du-mardi-21-mai_6529145.html)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [Grève à la SNCF : pour Paris 2024, "il va y avoir 4 000 trains supplémentaires, il faut des moyens pour pouvoir assurer", pointe la CGT-Cheminots](https://www.francetvinfo.fr/economie/transports/sncf/greve-a-la-sncf/greve-a-la-sncf-pour-paris-2024-il-va-y-avoir-4-000-trains-supplementaires-il-faut-des-moyens-pour-pouvoir-assurer-pointe-la-cgt-cheminots_6557129.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le succès des "OUIGO Train Classique", plus lents mais moins chers](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/sncf-le-succes-des-ouigo-train-classique-plus-lents-mais-moins-chers_6529154.html)
+append_entries: 4
+Finish: 2024-05-21 12:40:50.759070

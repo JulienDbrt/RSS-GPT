@@ -453,3 +453,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les salariés des aéroports parisiens appelés à la grève mardi](https://www.bfmtv.com/economie/entreprises/transports/les-salaries-des-aeroports-parisiens-appeles-a-la-greve-mardi_AD-202405200070.html)
 append_entries: 3
 Finish: 2024-05-21 01:14:55.912807
+------------------------------------------------------
+Started: 2024-05-21 12:38:32.691540
+Existing_entries: 75
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie: l'aéroport de Nouméa restera fermé jusqu'à samedi matin pour les vols commerciaux](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-jusqu-a-samedi-matin-pour-les-vols-commerciaux_AD-202405210369.html)
+append_entries: 1
+Finish: 2024-05-21 12:38:34.523615

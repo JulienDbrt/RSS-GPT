@@ -537,3 +537,15 @@ Summarized using GPT-3.5-turbo
 Append: [Tensions sur le logement dans les communes du littoral : une déclaration obligatoire de tous les meublés de tourisme](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/tensions-sur-le-logement-dans-les-communes-du-littoral-une-declaration-obligatoire-de-tous-les-meubles-de-tourisme-2972150.html)
 append_entries: 2
 Finish: 2024-05-21 01:18:24.172173
+------------------------------------------------------
+Started: 2024-05-21 12:42:49.635841
+Existing_entries: 103
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 318
+Summarized using GPT-3.5-turbo
+Append: [Festival de Cannes. Une révolution en attente de régulation : l'intelligence artificielle, un acteur majeur du cinéma ?](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/festival-de-cannes-une-revolution-en-attente-de-regulation-l-intelligence-artificielle-un-acteur-majeur-du-cinema-2972279.html)
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: [Les salariés de la filiale portuaire d’ArcelorMittal refusent d’être vendus à une autre entreprise](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/les-salaries-de-la-filiale-portuaire-d-arcelormittal-refusent-d-etre-vendus-a-une-autre-entreprise-2972915.html)
+append_entries: 2
+Finish: 2024-05-21 12:42:56.107663

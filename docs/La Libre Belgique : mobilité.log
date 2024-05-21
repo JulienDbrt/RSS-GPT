@@ -467,3 +467,12 @@ Summarized using GPT-3.5-turbo
 Append: [Michel Hubert : “À Bruxelles, si le vélo est autant utilisé, c’est parce qu’il y a les infrastructures nécessaires. La Wallonie est à la traîne"](https://www.lalibre.be/belgique/mobilite/2024/05/20/michel-hubert-a-bruxelles-si-le-velo-est-autant-utilise-cest-parce-quil-y-a-les-infrastructures-necessaires-la-wallonie-est-a-la-traine-CVS5FLVC2FBWNN6Y4ZPR2LKEBI/)
 append_entries: 2
 Finish: 2024-05-21 01:21:46.019628
+------------------------------------------------------
+Started: 2024-05-21 12:46:39.392026
+Existing_entries: 99
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Les vols de câble causent chaque jour 1h15 de retard sur le rail](https://www.lalibre.be/belgique/mobilite/2024/05/21/les-vols-de-cable-causent-chaque-jour-1h15-de-retard-sur-le-rail-R4YODPAFRBBH7HCW3K2S7OGIRQ/)
+append_entries: 1
+Finish: 2024-05-21 12:46:43.846071

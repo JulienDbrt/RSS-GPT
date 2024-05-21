@@ -430,3 +430,21 @@ Summarized using GPT-3.5-turbo
 Append: [Émeutes en Nouvelle-Calédonie : l'aéroport de Nouméa fermé aux vols commerciaux jusqu'à jeudi](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/paita/emeutes-en-nouvelle-caledonie-aircalin-annonce-l-annulation-de-tous-ses-vols-jusqu-au-23-mai-l-aeroport-restant-ferme-1489646.html)
 append_entries: 1
 Finish: 2024-05-21 01:20:15.796598
+------------------------------------------------------
+Started: 2024-05-21 12:44:40.556630
+Existing_entries: 54
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Émeutes en Nouvelle-Calédonie : la fermeture de l'aéroport international prolongée jusqu'au 25 mai](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/paita/emeutes-en-nouvelle-caledonie-la-fermeture-de-l-aeroport-international-prolongee-jusqu-au-25-mai-1489898.html)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: [Émeutes en Nouvelle-Calédonie : l'Etat annonce la procédure à suivre pour les touristes français bloqués](https://la1ere.francetvinfo.fr/nouvellecaledonie/emeutes-en-nouvelle-caledonie-l-etat-annonce-la-procedure-a-suivre-pour-les-touristes-francais-bloques-1489871.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Emeutes en Nouvelle-Calédonie : l'Australie et la Nouvelle-Zélande organisent des vols d'évacuation de leurs ressortissants](https://la1ere.francetvinfo.fr/nouvellecaledonie/emeutes-en-nouvelle-caledonie-l-australie-et-la-nouvelle-zelande-organisent-des-vols-d-evacuation-de-leurs-ressortissants-1489841.html)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: [Fin de la grève des contrôleurs aériens mais "le combat continue" pour l'USAC Cgt](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/fin-de-la-greve-des-controleurs-aeriens-mais-le-combat-continue-pour-l-usac-cgt-1489805.html)
+append_entries: 4
+Finish: 2024-05-21 12:44:59.477707
