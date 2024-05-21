@@ -498,3 +498,18 @@ Summarized using GPT-3.5-turbo
 Append: [PHOTOS. 2CV, Dyane, Traction... les passionnés de voitures anciennes se réunissent sur l'ancienne Nationale 6](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/photos-2cv-dyane-traction-les-passionnes-de-voitures-anciennes-se-reunissent-sur-l-ancienne-nationale-6-2972282.html)
 append_entries: 1
 Finish: 2024-05-20 01:11:37.543501
+------------------------------------------------------
+Started: 2024-05-21 01:18:09.226066
+Existing_entries: 92
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Un petit air de chutes du Niagara, ces cascades à ne pas rater en ce moment dans le Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/en-images-un-petit-air-de-chutes-du-niagara-ces-cascades-a-ne-pas-rater-en-ce-moment-dans-le-jura-2972678.html)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [Un des plus beaux campings du Jura touché par un incendie, Narlay ferme provisoirement](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/un-des-plus-beaux-campings-du-jura-touche-par-un-incendie-narlay-ferme-provisoirement-2972531.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Dans les coulisses des hôtels de luxe de Beaune : "on doit être dans l'authenticité"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/beaune/dans-les-coulisses-des-hotels-de-luxe-de-beaune-on-doit-etre-dans-l-authenticite-2972174.html)
+append_entries: 3
+Finish: 2024-05-21 01:18:20.392312

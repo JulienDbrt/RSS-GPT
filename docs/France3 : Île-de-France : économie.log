@@ -471,3 +471,21 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024: répétition générale en Gare de Versailles pour gérer les flux de voyageurs du RER C](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/jo-de-paris-2024-repetition-generale-en-gare-de-versailles-pour-gerer-les-flux-de-voyageurs-du-rer-c-2972264.html)
 append_entries: 2
 Finish: 2024-05-20 01:11:29.581402
+------------------------------------------------------
+Started: 2024-05-21 01:17:27.170651
+Existing_entries: 83
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [À Pontoise, des amendes contre les chariots de supermarché abandonnés : "Si on les laisse trop traîner, ça peut être dangereux"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/a-pontoise-des-amendes-contre-les-chariots-de-supermarche-abandonnes-si-on-les-laisse-trop-trainer-ca-peut-etre-dangereux-2972660.html)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Aéroports de Paris : les salariés de Roissy-Charles-de-Gaulle et Orly appelés à la grève mardi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/aeroports-de-paris-les-salaries-de-roissy-charles-de-gaulle-et-orly-appeles-a-la-greve-mardi-2972462.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi les métros et les RER ne roulent-ils pas du même côté ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/pourquoi-les-metros-et-les-rer-ne-roulent-ils-pas-du-meme-cote-2969567.html)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: ["On n'arrive pas à avoir des médicaments": Les pharmaciens de garde en grève](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/on-n-arrive-pas-a-avoir-des-medicaments-les-pharmaciens-de-garde-en-greve-2972180.html)
+append_entries: 4
+Finish: 2024-05-21 01:17:42.053722

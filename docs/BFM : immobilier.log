@@ -484,3 +484,12 @@ Existing_entries: 100
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-05-20 01:10:34.666859
+------------------------------------------------------
+Started: 2024-05-21 01:14:39.149063
+Existing_entries: 100
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Ils achètent une maison à Sevran mais, selon le cadastre, ils n'en sont en fait pas propriétaires](https://www.bfmtv.com/immobilier/achat-vente/ils-achetent-une-maison-a-sevran-mais-selon-le-cadastre-ils-n-en-sont-en-fait-pas-proprietaires_AN-202405200360.html)
+append_entries: 1
+Finish: 2024-05-21 01:14:43.690480

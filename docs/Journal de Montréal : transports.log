@@ -426,3 +426,15 @@ Summarized using GPT-3.5-turbo
 Append: [Conduite en état d’ébriété: l’Ontario propose une suspension de permis à vie](https://www.journaldemontreal.com/2024/05/18/conduite-en-etat-debriete-lontario-propose-une-suspension-de-permis-a-vie)
 append_entries: 1
 Finish: 2024-05-20 01:12:06.503718
+------------------------------------------------------
+Started: 2024-05-21 01:18:59.838686
+Existing_entries: 58
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Train Montréal-New York: le service interrompu plusieurs semaines](https://www.journaldemontreal.com/2024/05/20/train-montreal-new-york-le-service-interrompu-plusieurs-semaines)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Un avion d’Air Canada à destination de la France fait demi-tour](https://www.journaldemontreal.com/2024/05/19/un-vol-dair-canada-fait-demi-tour-en-plein-vol-vers-la-france)
+append_entries: 2
+Finish: 2024-05-21 01:19:10.704127

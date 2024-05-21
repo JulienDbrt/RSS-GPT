@@ -535,3 +535,15 @@ Existing_entries: 99
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-20 01:10:49.066460
+------------------------------------------------------
+Started: 2024-05-21 01:15:36.683677
+Existing_entries: 99
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 318
+Summarized using GPT-3.5-turbo
+Append: [Les fraudes aux mutuelles de santé explosent, notamment dans le secteur dentaire](https://www.europe1.fr/economie/les-fraudes-aux-mutuelles-de-sante-explosent-notamment-dans-le-secteur-dentaire-4247913)
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage : le gouvernement s'apprête bel et bien à donner un nouveau tour de vis](https://www.europe1.fr/economie/assurance-chomage-le-gouvernement-sapprete-bel-et-bien-a-donner-un-nouveau-tour-de-vis-4247728)
+append_entries: 2
+Finish: 2024-05-21 01:15:43.428731

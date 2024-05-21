@@ -726,3 +726,30 @@ Summarized using GPT-3.5-turbo
 Append: ["C'est traumatisant", 620 poulets morts de morsures, crise cardiaque ou étouffement suite à une attaque de chien errant, à Albias](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/c-est-traumatisant-620-poulets-morts-de-morsures-crise-cardiaque-ou-etouffement-suite-a-une-attaque-de-chien-errant-a-albias-2972348.html)
 append_entries: 2
 Finish: 2024-05-20 01:11:35.398028
+------------------------------------------------------
+Started: 2024-05-21 01:17:42.144173
+Existing_entries: 168
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Journée mondiale des abeilles. L'inquiétude des apiculteurs en ce printemps pluvieux](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/journee-mondiale-des-abeilles-l-inquietude-des-apiculteurs-en-ce-printemps-pluvieux-2972564.html)
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Quand la météo pluvieuse menace la récolte de lentilles](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-loire/quand-la-meteo-pluvieuse-menace-la-recolte-de-lentilles-2972630.html)
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: [Agriculteur abattu par un gendarme : ce qu'il faut savoir sur l'affaire Jérôme Laronze, toujours sans procès](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/agriculteur-abattu-par-un-gendarme-ce-qu-il-faut-savoir-sur-l-affaire-jerome-laronze-toujours-sans-proces-2971688.html)
+Token length: 444
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Européennes 2024 : agriculture, environnement, transports, immigration, les propositions de la liste Besoin d'Europe](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/video-europeennes-2024-agriculture-environnement-transports-immigration-les-propositions-de-la-liste-besoin-d-europe-2970785.html)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: ["Cela commence à impacter les cultures" : quand la pluie inquiète les maraîchers](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/cela-commence-a-impacter-les-cultures-quand-la-pluie-inquiete-les-maraichers-2972423.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Un incendie détruit un hangar agricole, une cuve de gasoil et des dizaines de sacs d'engrais sortis à temps par les pompiers](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/un-incendie-detruit-un-hangar-agricole-une-cuve-de-gasoil-et-des-dizaines-de-sacs-d-engrais-sortis-a-temps-par-les-pompiers-2972426.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [L'alpaga, un animal de la cordillère des Andes qui s'adapte bien à la vie en Nouvelle-Aquitaine](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/l-alpaga-un-animal-de-la-cordillere-des-andes-qui-s-adapte-bien-a-la-vie-en-nouvelle-aquitaine-2969651.html)
+append_entries: 7
+Finish: 2024-05-21 01:18:09.177316

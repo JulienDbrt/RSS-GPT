@@ -563,3 +563,27 @@ Existing_entries: 107
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-05-20 01:11:08.550829
+------------------------------------------------------
+Started: 2024-05-21 01:16:23.904335
+Existing_entries: 107
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Grève SNCF : "On ne profite pas de l'occasion, on a une surcharge de travail", se défend le syndicat SUD-Rail](https://www.francetvinfo.fr/economie/transports/sncf/greve-sncf-on-ne-profite-pas-de-l-occasion-on-a-une-surcharge-de-travail-se-defend-le-syndicat-sud-rail_6556094.html)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [SNCF : une grève en région parisienne mardi 21 mai pour la "prime JO"](https://www.francetvinfo.fr/economie/transports/sncf/sncf-une-greve-en-region-parisienne-mardi-21-mai-pour-la-prime-jo_6555929.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : "Quand un salarié pose un effort supplémentaire, il est normal qu'il y ait une prime", assure le directeur de l'Institut national du travail](https://www.francetvinfo.fr/economie/transports/sncf/paris-2024-quand-un-salarie-pose-un-effort-supplementaire-il-est-normal-qu-il-y-ait-une-prime-assure-le-directeur-de-l-institut-national-du-travail_6555941.html)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Aviation : malgré des résultats positifs, Ryanair annonce la fermeture de sa base de Bordeaux](https://www.francetvinfo.fr/economie/transports/aviation-malgre-des-resultats-positifs-ryanair-annonce-la-fermeture-de-sa-base-de-bordeaux_6555491.html)
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [La SNCF met en vente mardi et mercredi 50 000 billets "Ouigo Train Classique" à cinq euros](https://www.francetvinfo.fr/economie/transports/sncf/la-sncf-met-en-vente-mardi-et-mercredi-50-000-billets-ouigo-train-classique-a-cinq-euros_6555584.html)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le réseau de transports francilien sera perturbé mardi 21 mai](https://www.francetvinfo.fr/economie/transports/sncf/greve-a-la-sncf/sncf-le-reseau-de-transports-francilien-sera-perturbe-mardi-21-mai_6555362.html)
+append_entries: 6
+Finish: 2024-05-21 01:16:46.272402

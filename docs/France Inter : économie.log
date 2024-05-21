@@ -548,3 +548,15 @@ Existing_entries: 102
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-05-20 01:11:09.453381
+------------------------------------------------------
+Started: 2024-05-21 01:16:46.326064
+Existing_entries: 102
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [L'Edito Eco du lundi 20 mai 2024](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-20-mai-2024-2448236)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Les prix de l'électricité ont fortement baissé, ils sont même parfois négatifs](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-lundi-20-mai-2024-5290620)
+append_entries: 2
+Finish: 2024-05-21 01:16:52.588843

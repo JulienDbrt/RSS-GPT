@@ -985,3 +985,27 @@ Summarized using GPT-3.5-turbo
 Append: [Les opérations de sauvetage pour retrouver le président de l'Iran à bord d'un hélicoptère accidenté sont toujours en cours](https://www.latribune.fr/economie/international/les-operations-de-sauvetage-pour-retrouver-le-president-de-l-iran-a-bord-d-un-helicoptere-accidente-sont-toujours-en-cours-997937.html)
 append_entries: 1
 Finish: 2024-05-20 01:12:54.338062
+------------------------------------------------------
+Started: 2024-05-21 01:21:46.150236
+Existing_entries: 241
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [La Nouvelle-Calédonie toujours bloquée avant un nouveau Conseil de défense à Paris](https://www.latribune.fr/economie/france/la-nouvelle-caledonie-toujours-bloquee-avant-un-nouveau-conseil-de-defense-a-paris-997964.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Le procureur de la Cour pénale internationale réclame des mandats d'arrêt contre Netanyahou et des dirigeants du Hamas](https://www.latribune.fr/economie/international/le-procureur-de-la-cour-penale-internationale-reclame-des-mandats-d-arret-contre-netanyahou-et-des-dirigeants-du-hamas-997962.html)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [Crise diplomatique entre l'Espagne et l'Argentine après les déclarations polémiques de Milei](https://www.latribune.fr/economie/international/crise-diplomatique-entre-l-espagne-et-l-argentine-apres-les-declarations-polemiques-de-milei-997953.html)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Jean-Claude Gaudin, maire éternel de Marseille qu'il a dirigé pendant 25 ans, est mort](https://www.latribune.fr/economie/politique/jean-claude-gaudin-maire-de-marseille-pendant-25-ans-est-mort-997950.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Taïwan : après l'investiture du nouveau président, la Chine intensifie la pression](https://www.latribune.fr/economie/international/taiwan-apres-l-investiture-du-nouveau-president-la-chine-intensifie-la-pression-997945.html)
+Token length: 335
+Summarized using GPT-3.5-turbo
+Append: [Iran : le président Ebrahim Raïssi est mort dans le crash de son hélicoptère](https://www.latribune.fr/economie/international/iran-le-president-ebrahim-raissi-est-mort-dans-le-crash-de-son-helicoptere-997942.html)
+append_entries: 6
+Finish: 2024-05-21 01:22:15.138667

@@ -569,3 +569,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nucléaire : les petits réacteurs veulent se faire une place](https://www.la-croix.com/economie/nucleaire-les-petits-reacteurs-veulent-se-faire-une-place-20240519)
 append_entries: 1
 Finish: 2024-05-20 01:12:28.326803
+------------------------------------------------------
+Started: 2024-05-21 01:20:15.865190
+Existing_entries: 129
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Grève à la SNCF et chez ADP : le bras de fer social continue avant les JO de Paris](https://www.la-croix.com/economie/greve-a-la-sncf-et-chez-adp-le-bras-de-fer-social-continue-avant-les-jo-de-paris-20240520)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage : l’Unédic évalue l’impact des futures règles d’indemnisation](https://www.la-croix.com/economie/assurance-chomage-l-unedic-evalue-limpact-des-futures-regles-dindemnisation-20240520)
+append_entries: 2
+Finish: 2024-05-21 01:20:20.817030

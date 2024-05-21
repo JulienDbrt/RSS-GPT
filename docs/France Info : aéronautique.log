@@ -332,3 +332,12 @@ Existing_entries: 30
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-05-20 01:11:06.907526
+------------------------------------------------------
+Started: 2024-05-21 01:16:18.516196
+Existing_entries: 30
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Aviation : malgré des résultats positifs, Ryanair annonce la fermeture de sa base de Bordeaux](https://www.francetvinfo.fr/economie/transports/aviation-malgre-des-resultats-positifs-ryanair-annonce-la-fermeture-de-sa-base-de-bordeaux_6555491.html)
+append_entries: 1
+Finish: 2024-05-21 01:16:23.295357

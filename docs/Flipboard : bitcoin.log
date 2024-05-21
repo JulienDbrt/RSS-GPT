@@ -853,3 +853,21 @@ Existing_entries: 213
 Fetching from https://flipboard.com/topic/fr-bitcoin.rss
 append_entries: 0
 Finish: 2024-05-20 01:07:33.143943
+------------------------------------------------------
+Started: 2024-05-21 01:07:00.394835
+Existing_entries: 213
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Vous avez du bitcoin ? Voici ce qui arriverait une fois le seuil des 67 500 $ franchi !](https://www.cointribune.com/vous-avez-du-bitcoin-voici-ce-qui-arriverait-une-fois-le-seuil-des-67-500-franchi/)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Wall Street : Nvidia en ligne de mire !](https://www.boursier.com/indices/actualites/news/wall-street-nvidia-en-ligne-de-mire-929093.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Ils prédisent un nouveau "krach boursier" : de plus en plus nombreux, les "survivalistes" économiques misent sur l'or et les crypto-monnaies](https://www.geo.fr/geopolitique/ils-predisent-un-nouveau-krach-boursier-de-plus-en-plus-nombreux-les-survivalistes-economiques-misent-sur-l-or-et-les-crypto-monnaies-220263)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Solana bondit de 20% sur une semaine, poussée par la demande en stablecoins et en "meme coins"](https://www.bfmtv.com/crypto/solana-bondit-de-20-sur-une-semaine-poussee-par-la-demande-en-stablecoins-et-en-meme-coins_AV-202405200640.html)
+append_entries: 4
+Finish: 2024-05-21 01:07:13.204882

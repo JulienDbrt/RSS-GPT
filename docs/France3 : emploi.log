@@ -525,3 +525,15 @@ Summarized using GPT-3.5-turbo
 Append: [Dans le Finistère, l'industrie de la pêche au thon tropical en voie de disparition ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/a-concarneau-la-filiere-de-la-peche-au-thon-tropical-en-voie-de-disparition-2972240.html)
 append_entries: 1
 Finish: 2024-05-20 01:11:44.729467
+------------------------------------------------------
+Started: 2024-05-21 01:18:20.729421
+Existing_entries: 101
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Chantier de la ligne C du métro à Toulouse, l'incendie d'une foreuse revendiqué par des militants d'extrême gauche](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/chantier-de-la-ligne-c-du-metro-a-toulouse-l-incendie-d-une-foreuse-revendique-par-des-militants-d-extreme-gauche-2972699.html)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Tensions sur le logement dans les communes du littoral : une déclaration obligatoire de tous les meublés de tourisme](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/tensions-sur-le-logement-dans-les-communes-du-littoral-une-declaration-obligatoire-de-tous-les-meubles-de-tourisme-2972150.html)
+append_entries: 2
+Finish: 2024-05-21 01:18:24.172173

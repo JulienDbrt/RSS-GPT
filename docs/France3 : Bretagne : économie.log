@@ -426,3 +426,9 @@ Summarized using GPT-3.5-turbo
 Append: [Dans le Finistère, l'industrie de la pêche au thon tropical en voie de disparition ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/a-concarneau-la-filiere-de-la-peche-au-thon-tropical-en-voie-de-disparition-2972240.html)
 append_entries: 1
 Finish: 2024-05-20 01:11:41.342717
+------------------------------------------------------
+Started: 2024-05-21 01:18:20.426969
+Existing_entries: 68
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-21 01:18:20.677498

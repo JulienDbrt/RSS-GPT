@@ -385,3 +385,15 @@ Existing_entries: 51
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-05-20 01:12:40.489433
+------------------------------------------------------
+Started: 2024-05-21 01:21:04.117184
+Existing_entries: 51
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [En Occitanie, la Banque des territoires a permis de construire plus de 9 000 logements sociaux en 2023](https://www.ladepeche.fr/2024/05/20/en-occitanie-la-banque-des-territoires-a-permis-de-construire-plus-de-9-000-logements-sociaux-en-2023-11953203.php)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Séméac. Votes budgétaires importants au dernier conseil](https://www.ladepeche.fr/2024/05/20/votes-budgetaires-importants-au-dernier-conseil-11961858.php)
+append_entries: 2
+Finish: 2024-05-21 01:21:10.825618
