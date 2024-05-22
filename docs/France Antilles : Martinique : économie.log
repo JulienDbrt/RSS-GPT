@@ -626,3 +626,15 @@ Existing_entries: 142
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-22 01:14:59.492017
+------------------------------------------------------
+Started: 2024-05-22 12:40:21.832138
+Existing_entries: 142
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Vingt personnes du vol Singapore Airlines en soins intensifs à Bangkok](https://www.martinique.franceantilles.fr/actualite/economie/des-passagers-traumatises-apres-le-vol-de-singapore-airlines-le-pdg-sexcuse-988116.php)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [L'intelligence artificielle, star de VivaTech](https://www.martinique.franceantilles.fr/actualite/economie/lintelligence-artificielle-regne-sur-la-8e-edition-de-vivatech-988103.php)
+append_entries: 2
+Finish: 2024-05-22 12:40:32.078186

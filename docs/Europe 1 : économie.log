@@ -568,3 +568,12 @@ Summarized using GPT-3.5-turbo
 Append: [Emeutes en Nouvelle-Calédonie : 1 milliard d'euros de dégâts, une partie des habitants pas assurés](https://www.europe1.fr/economie/emeutes-en-nouvelle-caledonie-1-milliard-deuros-de-degats-une-partie-des-habitants-pas-assures-4248293)
 append_entries: 1
 Finish: 2024-05-22 01:14:58.830826
+------------------------------------------------------
+Started: 2024-05-22 12:40:16.370835
+Existing_entries: 104
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [Vivatech 2024 : l’intelligence artificielle permet de gagner plus pour les entreprises](https://www.europe1.fr/economie/vivatech-2024-lintelligence-artificielle-permet-de-gagner-plus-pour-les-entreprises-4248285)
+append_entries: 1
+Finish: 2024-05-22 12:40:21.763835

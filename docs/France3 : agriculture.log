@@ -795,3 +795,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Certains vont perdre l'intégralité de la récolte" : la situation est catastrophique pour ces agriculteurs victimes des crues et inondations](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/crues-et-inondations-certains-vont-perdre-l-integralite-de-la-recolte-la-situation-est-catastrophique-pour-ces-agriculteurs-2972927.html)
 append_entries: 5
 Finish: 2024-05-22 01:16:54.608758
+------------------------------------------------------
+Started: 2024-05-22 12:42:49.912667
+Existing_entries: 185
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [La centifolia, appelée aussi rose de mai, se cultive dans les environs de Grasse](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/grasse/la-centifolia-appelee-aussi-rose-de-mai-se-cultive-dans-les-environs-de-grasse-2973251.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Sécheresse : le ministre de la Transition écologique dans les Pyrénées-Orientales pour détailler son plan de résilience en pleine crise de l'eau](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/secheresse-le-ministre-de-la-transition-ecologique-dans-les-pyrenees-orientales-pour-detailler-son-plan-de-resilience-en-pleine-crise-de-l-eau-2973374.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: ["Ils ne veulent plus arroser. Ça leur coûte trop cher" : des agriculteurs se mobilisent après l'explosion du prix de l'eau](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/ils-ne-veulent-plus-arroser-ca-leur-coute-trop-cher-des-agriculteurs-se-mobilisent-apres-l-explosion-du-prix-de-l-eau-2972894.html)
+append_entries: 3
+Finish: 2024-05-22 12:43:05.989828

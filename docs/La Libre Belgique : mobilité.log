@@ -485,3 +485,9 @@ Summarized using GPT-3.5-turbo
 Append: [Au carrefour Léonard, la galère dans les tunnels est loin d’être terminée : les souterrains du Ring seront fortement perturbés cet été également](https://www.lalibre.be/belgique/mobilite/2024/05/21/au-carrefour-leonard-la-galere-dans-les-tunnels-est-loin-detre-terminee-les-souterrains-du-ring-seront-fortement-perturbes-cet-ete-egalement-QZP5R6YACNAX5GIN776DO3UTBY/)
 append_entries: 1
 Finish: 2024-05-22 01:19:50.818266
+------------------------------------------------------
+Started: 2024-05-22 12:46:55.711439
+Existing_entries: 101
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-22 12:46:56.289671

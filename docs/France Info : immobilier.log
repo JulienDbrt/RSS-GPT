@@ -419,3 +419,18 @@ Summarized using GPT-3.5-turbo
 Append: [Face à la crise du logement, la proposition de loi sur la location des meublés touristiques examinée par le Sénat](https://www.francetvinfo.fr/economie/pouvoir-achat/logement/face-a-la-crise-du-logement-la-proposition-de-loi-sur-la-location-des-meubles-touristiques-examinee-par-le-senat_6557447.html)
 append_entries: 3
 Finish: 2024-05-22 01:15:49.371373
+------------------------------------------------------
+Started: 2024-05-22 12:41:14.148345
+Existing_entries: 53
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [Régulation d'Airbnb, accès au logement social, logements vacants... Le "8h30 franceinfo" de Guillaume Kasbarian](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/regulation-d-airbnb-acces-au-logement-social-logements-vacants-le-8h30-franceinfo-de-guillaume-kasbarian_6531152.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Logements : face au phénomène de décohabitation, la nécessité de construire des nouveaux bâtiments](https://www.francetvinfo.fr/economie/immobilier/logements-face-au-phenomene-de-decohabitation-la-necessite-de-construire-des-nouveaux-batiments_6559295.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Crise du logement : le Sénat approuve à son tour le texte sur la "niche fiscale Airbnb"](https://www.francetvinfo.fr/economie/immobilier/crise-du-logement-le-senat-approuve-a-son-tour-le-texte-sur-la-niche-fiscale-airbnb_6559091.html)
+append_entries: 3
+Finish: 2024-05-22 12:41:29.015511

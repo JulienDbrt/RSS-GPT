@@ -455,3 +455,15 @@ Summarized using GPT-3.5-turbo
 Append: [L’industrie chinoise en surcapacité, une « menace » pour les énergies propres dans le monde, selon la secrétaire américaine au Trésor](https://www.euractiv.fr/section/chine/news/lindustrie-chinoise-en-surcapacite-une-menace-pour-les-energies-propres-dans-le-monde-selon-la-secretaire-americaine-au-tresor/)
 append_entries: 1
 Finish: 2024-05-22 01:14:54.066698
+------------------------------------------------------
+Started: 2024-05-22 12:40:02.883810
+Existing_entries: 85
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [Les libéraux allemands fustigent Ursula von der Leyen pour ne pas avoir exclu une nouvelle dette commune de l’UE](https://www.euractiv.fr/section/economie/news/les-liberaux-allemands-fustigent-ursula-von-der-leyen-pour-ne-pas-avoir-exclu-une-nouvelle-dette-commune-de-lue/)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [L’eurodéputée conservatrice Eva Poptcheva propose d’augmenter les dépenses publiques pour stimuler les investissements privés](https://www.euractiv.fr/section/economie/interview/leurodeputee-conservatrice-eva-poptcheva-propose-daugmenter-les-depenses-publiques-pour-stimuler-les-investissements-prives/)
+append_entries: 2
+Finish: 2024-05-22 12:40:13.926417

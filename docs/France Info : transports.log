@@ -623,3 +623,24 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : OUIGO Train Classique met en vente 50 000 billets à 5 euros](https://www.francetvinfo.fr/economie/transports/sncf/transports-ouigo-train-classique-met-en-vente-50-000-billets-a-5-euros_6557576.html)
 append_entries: 4
 Finish: 2024-05-22 01:16:02.935933
+------------------------------------------------------
+Started: 2024-05-22 12:41:29.079149
+Existing_entries: 121
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [Transport aérien : 20% de la population mondiale souffrirait d'aviophobie](https://www.francetvinfo.fr/economie/transports/transport-aerien-20-de-la-population-mondiale-souffrirait-d-aviophobie_6559286.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Grève SNCF pour la prime "JO" : une première journée de mobilisation difficile pour les Franciliens](https://www.francetvinfo.fr/les-jeux-olympiques/greve-sncf-pour-la-prime-jo-une-premiere-journee-de-mobilisation-difficile-pour-les-franciliens_6559163.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [INTERVIEW. "Ce n'est pas le Far West" : la Russie a-t-elle le droit d'exploiter les réserves de pétrole dans l'Antarctique ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/empreinte-carbone/transports/interview-ce-n-est-pas-le-far-west-la-russie-a-t-elle-le-droit-d-exploiter-les-reserves-de-petrole-dans-l-antarctique_6555779.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Transports : le passe Navigo et les tickets disponibles sur iPhone pour les usagers franciliens](https://www.francetvinfo.fr/replay-radio/aujourd-hui-c-est-demain/transports-le-passe-navigo-et-les-tickets-disponibles-sur-iphone-pour-les-usagers-franciliens_6531206.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: ["Primes JO" à la SNCF : espoir d'un accord avant une nouvelle session de négociations entre les syndicats et la direction](https://www.francetvinfo.fr/les-jeux-olympiques/primes-jo-dernieres-negociations-entre-la-direction-et-les-syndicats-sncf_6558011.html)
+append_entries: 5
+Finish: 2024-05-22 12:41:43.087815

@@ -1013,3 +1013,21 @@ Summarized using GPT-3.5-turbo
 Append: [Transports en Île-de-France : le passe Navigo désormais disponible sur son Iphone](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/transports-en-ile-de-france-le-passe-navigo-desormais-disponible-sur-son-iphone-2973080.html)
 append_entries: 3
 Finish: 2024-05-22 01:17:20.501134
+------------------------------------------------------
+Started: 2024-05-22 12:43:15.623202
+Existing_entries: 258
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. "C’est un désastre d'avoir toutes ces voitures là-haut", un projet de télésiège divise en Chartreuse](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/video-surtourisme-l-ete-c-est-un-desastre-d-avoir-toutes-ces-voitures-la-haut-un-projet-de-telesiege-divise-en-chartreuse-2973425.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Modernisation du métro de Lille : le Conseil d'État rejette le pourvoi déposé par la Métropole, pour le retard pris par Alstom](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/modernisation-du-metro-de-lille-le-conseil-d-etat-rejette-le-pourvoi-depose-par-la-metropole-pour-le-retard-pris-par-alstom-2973506.html)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [Déraillement du tramway après une collision. La circulation coupée sur la ligne 1, le tram-train interrompu entre Nantes et Châteaubriant](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/deraillement-du-tramway-apres-une-collision-la-circulation-coupee-sur-la-ligne-1-le-tram-train-interrompu-entre-nantes-et-chateaubriant-2973437.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Grand excès de vitesse : deux bolides de luxe mis en fourrière après un contrôle à 207 km/h](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/langres/grand-exces-de-vitesse-deux-bolides-de-luxe-mis-en-fourriere-apres-controle-a-207-km-h-2973407.html)
+append_entries: 4
+Finish: 2024-05-22 12:43:33.281133

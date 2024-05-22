@@ -631,3 +631,15 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: Pourquoi l'État a dépensé 9 millions de moins que prévu pour les aides au logement](https://www.lessentiel.lu/fr/story/au-luxembourg-pourquoi-letat-a-depense-9-millions-de-moins-que-prevu-pour-les-aides-au-logement-103110482)
 append_entries: 2
 Finish: 2024-05-22 01:17:48.429108
+------------------------------------------------------
+Started: 2024-05-22 12:43:43.145394
+Existing_entries: 177
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Luxe: LVMH étend son partenariat avec Alibaba pour mieux vendre en Chine](https://www.lessentiel.lu/fr/story/luxe-lvmh-etend-son-partenariat-avec-alibaba-pour-mieux-vendre-en-chine-103111489)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Automobile: L'hybride excelle en avril en Europe, l'électrique patine](https://www.lessentiel.lu/fr/story/automobile-lhybride-excelle-en-avril-en-europe-lelectrique-patine-103111475)
+append_entries: 2
+Finish: 2024-05-22 12:43:51.255951

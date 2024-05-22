@@ -376,3 +376,12 @@ Existing_entries: 45
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-05-22 01:08:52.956702
+------------------------------------------------------
+Started: 2024-05-22 12:32:49.857037
+Existing_entries: 45
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Un nouveau compteur d’eau est installé chez elle sans son consentement, elle fait condamner la métropole de Toulouse pour violation de domicile](https://www.ladepeche.fr/2024/05/22/je-suis-tombee-de-larbre-la-metropole-de-toulouse-epinglee-pour-violation-de-domicile-11964801.php)
+append_entries: 1
+Finish: 2024-05-22 12:32:54.226405

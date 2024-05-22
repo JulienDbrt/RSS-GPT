@@ -420,3 +420,15 @@ Summarized using GPT-3.5-turbo
 Append: [Un mort dans un avion de Singapore Airlines: pourquoi les turbulences peuvent être si violentes?](https://www.bfmtv.com/economie/entreprises/aeronautique/un-mort-dans-un-avion-de-singapore-airlines-pourquoi-les-turbulences-peuvent-etre-si-violentes_AV-202405210620.html)
 append_entries: 2
 Finish: 2024-05-22 01:12:43.683470
+------------------------------------------------------
+Started: 2024-05-22 12:37:40.977729
+Existing_entries: 60
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Vol Londres-Singapour: les avions pourront-ils bientôt éviter toutes les turbulences?](https://www.bfmtv.com/economie/entreprises/aeronautique/vol-londres-singapour-les-avions-pourront-ils-bientot-eviter-toutes-les-turbulences_AD-202405220457.html)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Vol Londres-Singapour: y a-t-il de plus en plus de turbulences aériennes?](https://www.bfmtv.com/economie/entreprises/aeronautique/vol-londres-singapour-y-a-t-il-de-plus-en-plus-de-turbulences-aeriennes_AD-202405220422.html)
+append_entries: 2
+Finish: 2024-05-22 12:37:46.732244

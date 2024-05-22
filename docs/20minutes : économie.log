@@ -527,3 +527,15 @@ Summarized using GPT-3.5-turbo
 Append: [Qui est Sadri Fegaier, passé de « plus jeune milliardaire de France » à « escroc » suspecté ?](https://www.20minutes.fr/economie/4091988-20240521-sadri-fegaier-passe-plus-jeune-milliardaire-france-escroc-suspecte)
 append_entries: 2
 Finish: 2024-05-22 01:11:45.535068
+------------------------------------------------------
+Started: 2024-05-22 12:35:40.705843
+Existing_entries: 89
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [« Des centaines de prélèvements »… Dépouillés par Hubside ou la Sfam, ils ont le sentiment d’avoir pactisé avec le diable](https://www.20minutes.fr/societe/4092182-20240522-centaines-prelevements-depouilles-hubside-sfam-sentiment-avoir-pactise-diable)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Réforme de l’assurance chômage : Quels scénarios va proposer l’exécutif aux partenaires sociaux ?](https://www.20minutes.fr/economie/4092145-20240522-reforme-assurance-chomage-scenarios-va-proposer-executif-partenaires-sociaux)
+append_entries: 2
+Finish: 2024-05-22 12:35:49.624979

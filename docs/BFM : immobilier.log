@@ -517,3 +517,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les transactions immobilières ont chuté de plus de 30% par rapport à leur pic de l'été 2021](https://www.bfmtv.com/immobilier/achat-vente/les-transactions-immobilieres-ont-chute-de-plus-de-30-par-rapport-a-leur-pic-de-l-ete-2021_AV-202405210591.html)
 append_entries: 3
 Finish: 2024-05-22 01:13:56.466042
+------------------------------------------------------
+Started: 2024-05-22 12:38:43.318155
+Existing_entries: 105
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: ["Ce texte vise à mettre un peu d'ordre": le ministre du Logement salue la loi régulant Airbnb](https://www.bfmtv.com/immobilier/investissement-placement/ce-texte-vise-a-mettre-un-peu-d-ordre-le-ministre-du-logement-salue-la-loi-regulant-airbnb_AD-202405220551.html)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [Depuis 1999, les Français ont perdu 25 m² de pouvoir d'achat immobilier](https://www.bfmtv.com/immobilier/achat-vente/depuis-1999-les-francais-ont-perdu-25-m2-de-pouvoir-d-achat-immobilier_AV-202405220549.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Les notaires misent sur un début de reprise du marché immobilier en fin d'année](https://www.bfmtv.com/immobilier/achat-vente/les-notaires-misent-sur-un-debut-de-reprise-du-marche-immobilier-en-fin-d-annee_AV-202405220404.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Loi Airbnb: l'abattement sur les revenus réduit à 30% pour tous les meublés, sauf ceux "classés"](https://www.bfmtv.com/immobilier/investissement-placement/loi-airbnb-l-abattement-sur-les-revenus-reduit-a-30-pour-tous-les-meubles-sauf-ceux-classes_AD-202405220331.html)
+append_entries: 4
+Finish: 2024-05-22 12:38:58.653523

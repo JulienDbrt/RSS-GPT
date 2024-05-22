@@ -531,3 +531,12 @@ Summarized using GPT-3.5-turbo
 Append: ["On parle souvent des petites communes mais là on est à Besançon" : ils s'opposent à la fermeture d'un bureau de poste en ville](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-parle-souvent-des-petites-communes-mais-la-on-est-a-besancon-ils-s-opposent-a-la-fermeture-d-un-bureau-de-poste-en-ville-2973077.html)
 append_entries: 1
 Finish: 2024-05-22 01:16:57.306468
+------------------------------------------------------
+Started: 2024-05-22 12:43:06.040598
+Existing_entries: 97
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Un emploi sur cinq a disparu dans le secteur de la construction automobile en Bourgogne-Franche-Comté](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/un-emploi-sur-cinq-a-disparu-dans-le-secteur-de-la-construction-automobile-en-bourgogne-franche-comte-2973197.html)
+append_entries: 1
+Finish: 2024-05-22 12:43:08.924558

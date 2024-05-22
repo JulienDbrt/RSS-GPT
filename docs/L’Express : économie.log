@@ -676,3 +676,21 @@ Summarized using GPT-3.5-turbo
 Append: [Où se place la France parmi les meilleures économies touristiques mondiales ?](https://www.lexpress.fr/economie/la-france-quatrieme-economie-la-plus-favorable-au-tourisme-et-au-voyage-253D6ZFMQZGLRBWHCEFDJUTHXY/)
 append_entries: 1
 Finish: 2024-05-22 01:17:53.344464
+------------------------------------------------------
+Started: 2024-05-22 12:43:51.582734
+Existing_entries: 192
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 44580
+Summarized using GPT-3.5-turbo
+Append: [EXCLUSIF. Emmanuel Macron : "Total n’a jamais eu à se plaindre d’être français"](https://www.lexpress.fr/economie/exclusif-emmanuel-macron-impots-reformes-croissance-notre-strategie-est-la-bonne-HBOH6F724RFR3KVKIZPVCFKWJQ/)
+Token length: 5554
+Summarized using GPT-3.5-turbo
+Append: [Réforme de l’assurance chômage : les scénarios chiffrés encore sur la table](https://www.lexpress.fr/economie/reforme-de-lassurance-chomage-les-scenarios-chiffres-encore-sur-la-table-BK5QRRCQAVCZJMPYCDIYIK72BU/)
+Token length: 3913
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : comment Macron compte faire de la France une championne](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-comment-macron-compte-faire-de-la-france-une-championne-YOO5HFRATBEZTF2YW2G6OZQMNU/)
+Token length: 13377
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie : les batailles autour du nickel ne font que commencer](https://www.lexpress.fr/economie/nouvelle-caledonie-les-batailles-autour-du-nickel-ne-font-que-commencer-W7XV6X4HBJCCNMBIEI2HTVGCLI/)
+append_entries: 4
+Finish: 2024-05-22 12:44:23.237846
