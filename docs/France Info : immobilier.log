@@ -404,3 +404,18 @@ Existing_entries: 50
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-05-21 12:40:35.221093
+------------------------------------------------------
+Started: 2024-05-22 01:15:38.218344
+Existing_entries: 50
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : emprunter dans une autre région pour avoir un meilleur taux](https://www.francetvinfo.fr/economie/immobilier/immobilier-emprunter-dans-une-autre-region-pour-avoir-un-meilleur-taux_6557984.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Loi "anti Airbnb" : comment les autres pays régulent-ils la location des meublés touristiques ?](https://www.francetvinfo.fr/economie/immobilier/loi-anti-airbnb-comment-les-autres-pays-regulent-ils-la-location-des-meubles-touristiques_6557699.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [Face à la crise du logement, la proposition de loi sur la location des meublés touristiques examinée par le Sénat](https://www.francetvinfo.fr/economie/pouvoir-achat/logement/face-a-la-crise-du-logement-la-proposition-de-loi-sur-la-location-des-meubles-touristiques-examinee-par-le-senat_6557447.html)
+append_entries: 3
+Finish: 2024-05-22 01:15:49.371373

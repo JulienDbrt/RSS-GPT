@@ -501,3 +501,15 @@ Summarized using GPT-3.5-turbo
 Append: [Jeux paralympiques de Paris 2024 : "Il ne me manque rien, sauf vous", seulement un tiers des billets vendus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jeux-paralympiques-de-paris-2024-il-ne-me-manque-rien-sauf-vous-seulement-un-tiers-des-billets-vendus-2972786.html)
 append_entries: 2
 Finish: 2024-05-21 12:42:13.676390
+------------------------------------------------------
+Started: 2024-05-22 01:16:29.776795
+Existing_entries: 89
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [#Jailadalle, une campagne de dons contre la précarité alimentaire étudiante : "La situation est alarmante"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jailadalle-une-campagne-de-dons-contre-la-precarite-alimentaire-etudiante-la-situation-est-alarmante-2973275.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Transports en Île-de-France : le passe Navigo désormais disponible sur son Iphone](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/transports-en-ile-de-france-le-passe-navigo-desormais-disponible-sur-son-iphone-2973080.html)
+append_entries: 2
+Finish: 2024-05-22 01:16:38.534906

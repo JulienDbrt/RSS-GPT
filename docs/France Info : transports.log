@@ -605,3 +605,21 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : le succès des "OUIGO Train Classique", plus lents mais moins chers](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/sncf-le-succes-des-ouigo-train-classique-plus-lents-mais-moins-chers_6529154.html)
 append_entries: 4
 Finish: 2024-05-21 12:40:50.759070
+------------------------------------------------------
+Started: 2024-05-22 01:15:49.433596
+Existing_entries: 117
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Mort en avion à cause de turbulences : "Il a fait la procédure qui est prévue", assure Gérard Feldzer, expert en aéronautique](https://www.francetvinfo.fr/economie/transports/mort-en-avion-a-cause-de-turbulences-il-a-fait-la-procedure-qui-est-prevue-assure-gerard-feldzer-expert-en-aeronautique_6558155.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Aviation : comment expliquer des turbulences aussi importantes ?](https://www.francetvinfo.fr/economie/transports/aviation-comment-expliquer-des-turbulences-aussi-importantes_6558014.html)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Un mort après de fortes turbulences sur un vol Londres-Singapour](https://www.francetvinfo.fr/economie/transports/un-mort-apres-de-fortes-turbulences-sur-un-vol-londres-singapour_6557975.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Transports : OUIGO Train Classique met en vente 50 000 billets à 5 euros](https://www.francetvinfo.fr/economie/transports/sncf/transports-ouigo-train-classique-met-en-vente-50-000-billets-a-5-euros_6557576.html)
+append_entries: 4
+Finish: 2024-05-22 01:16:02.935933

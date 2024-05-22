@@ -559,3 +559,12 @@ Existing_entries: 105
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-21 12:45:52.905619
+------------------------------------------------------
+Started: 2024-05-22 01:19:09.696474
+Existing_entries: 105
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Commerce : ce primeur de Revel ferme définitivement ses portes](https://www.ladepeche.fr/2024/05/21/commerce-ce-primeur-de-revel-ferme-definitivement-ses-portes-11964990.php)
+append_entries: 1
+Finish: 2024-05-22 01:19:11.744050

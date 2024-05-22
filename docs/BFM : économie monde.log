@@ -474,3 +474,12 @@ Summarized using GPT-3.5-turbo
 Append: ["On va manquer de produits": des pêcheurs français craignent d'être exclus des eaux anglaises](https://www.bfmtv.com/economie/international/on-va-manquer-de-produits-des-pecheurs-francais-craignent-d-etre-exclus-des-eaux-anglaises_AD-202405210126.html)
 append_entries: 2
 Finish: 2024-05-21 12:36:40.330105
+------------------------------------------------------
+Started: 2024-05-22 01:12:26.013938
+Existing_entries: 80
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Ouragan, canicule... Près de 1 Américain sur 5 touché financièrement par un évènement climatique en 2023](https://www.bfmtv.com/economie/international/ouragan-canicule-pres-de-1-americain-sur-5-touche-financierement-par-un-evenement-climatique-en-2023_AD-202405210921.html)
+append_entries: 1
+Finish: 2024-05-22 01:12:29.589421

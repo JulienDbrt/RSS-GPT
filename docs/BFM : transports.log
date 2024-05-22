@@ -462,3 +462,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle-Calédonie: l'aéroport de Nouméa restera fermé jusqu'à samedi matin pour les vols commerciaux](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-jusqu-a-samedi-matin-pour-les-vols-commerciaux_AD-202405210369.html)
 append_entries: 1
 Finish: 2024-05-21 12:38:34.523615
+------------------------------------------------------
+Started: 2024-05-22 01:14:02.528058
+Existing_entries: 76
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Nouveau système aux frontières de l'UE: Eurostar dévoile ses aménagements et tente de rassurer](https://www.bfmtv.com/economie/entreprises/transports/nouveau-systeme-aux-frontieres-de-l-ue-eurostar-devoile-ses-amenagements-et-tente-de-rassurer_AD-202405210794.html)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Groupe ADP: Augustin de Romanet restera PDG jusqu'au 31 décembre "au plus tard"](https://www.bfmtv.com/economie/entreprises/transports/groupe-adp-augustin-de-romanet-restera-pdg-jusqu-au-31-decembre-au-plus-tard_AD-202405210778.html)
+append_entries: 2
+Finish: 2024-05-22 01:14:07.674457

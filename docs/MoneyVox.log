@@ -1228,3 +1228,30 @@ Summarized using GPT-3.5-turbo
 Append: [Livret A, LEP, assurance vie, compte à terme... Ce qui va changer pour les taux de vos placements](https://www.moneyvox.fr/placement/actualites/97800/livret-a-lep-assurance-vie-compte-a-terme-ce-qui-va-changer-pour-les-taux-de-vos-placements)
 append_entries: 10
 Finish: 2024-05-21 12:42:03.625204
+------------------------------------------------------
+Started: 2024-05-22 01:16:05.854702
+Existing_entries: 346
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [LEP à 5% : « Comment continuer à verser de l'argent quand j'ai atteint la limite de 10 000 euros ? »](https://www.moneyvox.fr/livret/actualites/97848/lep-a-5-comment-continuer-a-verser-de-argent-quand-ai-atteint-la-limite-de-10-000-euros)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Nouveaux taux pour vos placements, astuce pour vos impôts.... Les trois infos argent du jour](https://www.moneyvox.fr/votre-argent/actualites/97859/nouveaux-taux-pour-vos-placements-astuce-pour-vos-impots-les-trois-infos-argent-du-jour)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Nvidia, TotalEnergies, Sanofi.... La Bourse de Paris prudente](https://www.moneyvox.fr/bourse/actualites/97860/nvidia-totalenergies-sanofi-la-bourse-de-paris-prudente)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Salaire : où faut-il habiter pour espérer être le mieux payé ?](https://www.moneyvox.fr/votre-argent/actualites/97857/salaire-ou-faut-il-habiter-pour-esperer-etre-le-mieux-paye)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [USA : un gouverneur de la Fed juge de nouvelles hausses des taux « probablement inutiles »](https://www.moneyvox.fr/actu/97855/usa-un-gouverneur-de-la-fed-juge-de-nouvelles-hausses-des-taux-probablement-inutiles)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Patrick Martin (Medef) propose à Gabriel Attal trois pistes chiffrées de réformes](https://www.moneyvox.fr/votre-argent/actualites/97854/patrick-martin-propose-a-gabriel-attal-trois-pistes-chiffrees-de-reformes)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Nouveau PTZ, MaPrimeRenov'... Ce que changerait la réforme du régime des catastrophes naturelles](https://www.moneyvox.fr/assurance/actualites/97853/nouveau-ptz-maprimerenov-ce-que-changerait-la-reforme-du-regime-des-catastrophes-naturelles)
+append_entries: 7
+Finish: 2024-05-22 01:16:25.041576

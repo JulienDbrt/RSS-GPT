@@ -549,3 +549,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les salariés de la filiale portuaire d’ArcelorMittal refusent d’être vendus à une autre entreprise](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/les-salaries-de-la-filiale-portuaire-d-arcelormittal-refusent-d-etre-vendus-a-une-autre-entreprise-2972915.html)
 append_entries: 2
 Finish: 2024-05-21 12:42:56.107663
+------------------------------------------------------
+Started: 2024-05-22 01:16:57.620700
+Existing_entries: 105
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Danone mise sur la nutrition médicale et investit 70 millions dans son usine de Steenvoorde](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/danone-mise-sur-la-nutrition-medicale-et-investit-70-millions-dans-son-usine-de-steenvoorde-2973071.html)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Festival de Cannes. "Sous les écrans, la dèche", le collectif dénonce les conditions de travail et la réforme du chômage](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/festival-de-cannes-sous-les-ecrans-la-deche-le-collectif-denonce-les-conditions-de-travail-et-la-reforme-du-chomage-2973143.html)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [ArcelorMittal Centres de Services annonce une réduction de 15% des effectifs](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/arcelormittal-annonce-une-reduction-de-15-de-ses-effectifs-en-france-2973155.html)
+append_entries: 3
+Finish: 2024-05-22 01:17:09.869122

@@ -998,3 +998,18 @@ Summarized using GPT-3.5-turbo
 Append: [FLAMME OLYMPIQUE. Barbezieux-Saint-Hilaire, Cognac, Confolens, Ruffec, Angoulême : découvrez le parcours détaillé en Charente](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente/angouleme/flamme-olympique-barbezieux-saint-hilaire-cognac-confolens-ruffec-angouleme-decouvrez-le-parcours-detaille-en-charente-2972417.html)
 append_entries: 6
 Finish: 2024-05-21 12:43:22.057033
+------------------------------------------------------
+Started: 2024-05-22 01:17:10.339198
+Existing_entries: 255
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [Gens du voyage installés à Sereilhac : la communauté et le maire ont trouvé un terrain d'entente](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/gens-du-voyage-installes-a-sereilhac-la-communaute-et-le-maire-ont-trouve-un-terrain-d-entente-2973296.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Un camion en feu sur l'autoroute A64 perturbe la circulation](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/un-camion-en-feu-sur-l-autoroute-a64-bloque-la-circulation-2973185.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Transports en Île-de-France : le passe Navigo désormais disponible sur son Iphone](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/transports-en-ile-de-france-le-passe-navigo-desormais-disponible-sur-son-iphone-2973080.html)
+append_entries: 3
+Finish: 2024-05-22 01:17:20.501134

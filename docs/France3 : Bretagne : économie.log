@@ -444,3 +444,9 @@ Summarized using GPT-3.5-turbo
 Append: ["J'aime bien être un vieux con", 15 ans de nostalgie critique sur YouTube pour le "Joueur du Grenier"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/j-aime-bien-etre-un-vieux-con-15-ans-de-nostalgie-critique-sur-youtube-pour-le-joueur-du-grenier-2972477.html)
 append_entries: 2
 Finish: 2024-05-21 12:42:49.582446
+------------------------------------------------------
+Started: 2024-05-22 01:16:57.342925
+Existing_entries: 70
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-22 01:16:57.566513

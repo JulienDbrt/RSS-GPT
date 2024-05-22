@@ -350,3 +350,12 @@ Summarized using GPT-3.5-turbo
 Append: [Aéronautique : la compagnie aérienne Saudia commande 105 avions à Airbus](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-la-compagnie-aerienne-saudia-commande-105-avions-a-airbus_6529166.html)
 append_entries: 1
 Finish: 2024-05-21 12:40:34.444059
+------------------------------------------------------
+Started: 2024-05-22 01:15:32.377271
+Existing_entries: 32
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Aviation : comment expliquer des turbulences aussi importantes ?](https://www.francetvinfo.fr/economie/transports/aviation-comment-expliquer-des-turbulences-aussi-importantes_6558014.html)
+append_entries: 1
+Finish: 2024-05-22 01:15:36.231610

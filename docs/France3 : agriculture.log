@@ -774,3 +774,24 @@ Summarized using GPT-3.5-turbo
 Append: ["Il a plus plu à Marrakech qu'à Béziers" : après une année "catastrophique", la météo redonne le sourire à cet apiculteur](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/il-a-plus-plu-a-marrakech-qu-a-beziers-apres-une-annee-catastrophique-la-meteo-redonne-le-sourire-a-cet-apiculteur-2972714.html)
 append_entries: 5
 Finish: 2024-05-21 12:42:32.118985
+------------------------------------------------------
+Started: 2024-05-22 01:16:38.632246
+Existing_entries: 180
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [Viticulture : plusieurs vignerons placés en garde à vue après une réunion musclée avec un syndicat de producteurs de vin](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/viticulture-plusieurs-vignerons-places-en-garde-a-vue-apres-une-reunion-musclee-avec-un-syndicat-de-producteurs-de-vin-2973203.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: ["L'aide bovine en Corse s'est effondrée" Les éleveurs de Corse demandent une revalorisation des aides PAC](https://france3-regions.francetvinfo.fr/corse/haute-corse/bastia/l-aide-bovine-en-corse-s-est-effondree-les-eleveurs-de-corse-demandent-une-revalorisation-des-aides-pac-2973350.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [La pluie incessante, nouveau calvaire pour les agriculteurs, les semis pourrissent, les fruits éclatent](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/la-pluie-incessante-nouveau-calvaire-pour-les-agriculteurs-les-semis-pourrissent-les-fruits-eclatent-2973107.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGE. Une de ses vaches est positive à la tuberculose bovine, une éleveuse doit abattre ses 200 bêtes : "le ciel nous tombe sur la tête"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/temoignage-une-de-ses-vaches-est-positive-a-la-tuberculose-bovine-une-eleveuse-doit-abattre-ses-200-betes-le-ciel-nous-tombe-sur-la-tete-2972834.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: ["Certains vont perdre l'intégralité de la récolte" : la situation est catastrophique pour ces agriculteurs victimes des crues et inondations](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/crues-et-inondations-certains-vont-perdre-l-integralite-de-la-recolte-la-situation-est-catastrophique-pour-ces-agriculteurs-2972927.html)
+append_entries: 5
+Finish: 2024-05-22 01:16:54.608758
