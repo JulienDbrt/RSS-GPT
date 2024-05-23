@@ -580,3 +580,9 @@ Summarized using GPT-3.5-turbo
 Append: [Ces métiers qui recrutent dans l’aéro : technicien de maintenance](https://www.ladepeche.fr/2024/05/22/ces-metiers-qui-recrutent-dans-laero-technicien-de-maintenance-11964449.php)
 append_entries: 2
 Finish: 2024-05-22 12:46:01.722240
+------------------------------------------------------
+Started: 2024-05-23 01:19:12.153088
+Existing_entries: 108
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-05-23 01:19:12.742594

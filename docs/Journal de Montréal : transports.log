@@ -462,3 +462,15 @@ Existing_entries: 62
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-22 12:43:38.507467
+------------------------------------------------------
+Started: 2024-05-23 01:17:22.665564
+Existing_entries: 62
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Papineau, Peel, De l'Église: voici les stations de métro en «mauvais état» à Montréal](https://www.journaldemontreal.com/2024/05/22/papineau-peel-de-leglise-voici-les-stations-de-metro-en-mauvais-etat-a-montreal)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Les turbulences aériennes, c'est quoi?](https://www.journaldemontreal.com/2024/05/21/les-turbulences-aeriennes-cest-quoi)
+append_entries: 2
+Finish: 2024-05-23 01:17:29.731782

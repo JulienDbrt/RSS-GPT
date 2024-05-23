@@ -491,3 +491,12 @@ Existing_entries: 101
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-05-22 12:46:56.289671
+------------------------------------------------------
+Started: 2024-05-23 01:19:47.877558
+Existing_entries: 101
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Le tram 25 ne sera finalement pas supprimé cet automne : “Une excellente nouvelle pour tous les Schaerbeekois”](https://www.lalibre.be/regions/bruxelles/2024/05/22/le-tram-25-ne-sera-finalement-pas-supprime-cet-automne-une-excellente-nouvelle-pour-tous-les-schaerbeekois-5JY4D5W3FVCUXKCY2NANR6Z3HU/)
+append_entries: 1
+Finish: 2024-05-23 01:19:55.735938

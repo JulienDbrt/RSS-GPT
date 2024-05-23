@@ -810,3 +810,24 @@ Summarized using GPT-3.5-turbo
 Append: ["Ils ne veulent plus arroser. Ça leur coûte trop cher" : des agriculteurs se mobilisent après l'explosion du prix de l'eau](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/ils-ne-veulent-plus-arroser-ca-leur-coute-trop-cher-des-agriculteurs-se-mobilisent-apres-l-explosion-du-prix-de-l-eau-2972894.html)
 append_entries: 3
 Finish: 2024-05-22 12:43:05.989828
+------------------------------------------------------
+Started: 2024-05-23 01:16:36.428038
+Existing_entries: 188
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: [Vignerons en garde à vue : deux viticulteurs inculpés de violation de domicile et menaces convoqués au tribunal en juillet](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/vignerons-en-garde-a-vue-deux-viticulteurs-inculpes-de-violation-de-domicile-et-menaces-convoques-au-tribunal-en-juillet-2973890.html)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [Eau garantie à 14°, une pisciculture s'adapte au changement climatique](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/eau-garantie-a-14-une-pisciculture-s-adapte-au-changement-climatique-2974016.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Humidité, limaces, récoltes décalées... les agriculteurs subissent la météo : "ça nous empêche de travailler correctement"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/dax/humidite-limaces-recoltes-decalees-les-agriculteurs-subissent-la-meteo-ca-nous-empeche-de-travailler-correctement-2973719.html)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Elevage : des moutons dévorés dans un troupeau, la piste du loup écartée, l'indemnisation refusée à l'éleveur](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/elevage-des-moutons-devores-dans-un-troupeau-la-piste-du-loup-ecartee-l-indemnisation-refusee-a-l-eleveur-2973626.html)
+Token length: 342
+Summarized using GPT-3.5-turbo
+Append: [Privés de chasse traditionnelle, les chasseurs suspendent les battues aux sangliers, les agriculteurs se sentent "pris en otage"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/dax/prives-de-chasse-traditionnelle-les-chasseurs-suspendent-les-battues-de-sanglier-les-agriculteurs-se-sentent-pris-en-otage-2973452.html)
+append_entries: 5
+Finish: 2024-05-23 01:16:51.846901

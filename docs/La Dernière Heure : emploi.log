@@ -316,3 +316,9 @@ Summarized using GPT-3.5-turbo
 Append: [Quelle est la différence financière par mois entre travail et inactivité en Belgique? Une étude lève un coin du voile](https://www.dhnet.be/conso/travail/2024/05/22/la-difference-entre-travail-et-inactivite-est-deja-souvent-de-500-euros-par-mois-en-belgique-DBIPIY7Q4FGLNPH55ILHKHJVFE/)
 append_entries: 3
 Finish: 2024-05-22 12:46:21.120434
+------------------------------------------------------
+Started: 2024-05-23 01:19:18.190890
+Existing_entries: 10
+Fetching from https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml
+append_entries: 0
+Finish: 2024-05-23 01:19:20.048179

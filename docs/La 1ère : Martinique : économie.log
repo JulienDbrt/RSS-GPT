@@ -415,3 +415,12 @@ Existing_entries: 43
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-05-22 12:44:55.974264
+------------------------------------------------------
+Started: 2024-05-23 01:18:30.267403
+Existing_entries: 43
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 40
+Summarized using GPT-3.5-turbo
+Append: [Un incendie détruit plusieurs véhicules sur le parking de RCI](https://la1ere.francetvinfo.fr/martinique/un-incendie-detruit-plusieurs-vehicules-sur-le-parking-de-rci-1490303.html)
+append_entries: 1
+Finish: 2024-05-23 01:18:31.165148

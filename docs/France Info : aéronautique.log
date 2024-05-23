@@ -368,3 +368,15 @@ Summarized using GPT-3.5-turbo
 Append: [Transport aérien : 20% de la population mondiale souffrirait d'aviophobie](https://www.francetvinfo.fr/economie/transports/transport-aerien-20-de-la-population-mondiale-souffrirait-d-aviophobie_6559286.html)
 append_entries: 1
 Finish: 2024-05-22 12:41:13.407351
+------------------------------------------------------
+Started: 2024-05-23 01:15:33.417960
+Existing_entries: 34
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [L'armée française a procédé à un essai d'un nouveau missile air-sol nucléaire](https://www.francetvinfo.fr/societe/armee-securite-defense/l-armee-francaise-a-procede-a-un-essai-d-un-nouveau-missile-air-sol-nucleaire_6560069.html)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Vol de Singapore Airlines : ce que l'on sait après des turbulences qui ont fait un mort et une centaine de blessés](https://www.francetvinfo.fr/faits-divers/vol-de-singapore-airlines-ce-que-l-on-sait-apres-des-turbulences-qui-ont-fait-un-mort-et-une-centaine-de-blesses_6559595.html)
+append_entries: 2
+Finish: 2024-05-23 01:15:41.409987

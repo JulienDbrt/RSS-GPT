@@ -466,3 +466,9 @@ Summarized using GPT-3.5-turbo
 Append: [Émeutes en Nouvelle-Calédonie : "On est oublié, piégé, coincé", les Polynésiens attendent leur rapatriement](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/emeutes-en-nouvelle-caledonie-on-est-oublie-piege-coince-les-polynesiens-attendent-leur-rapatriement-1490129.html)
 append_entries: 1
 Finish: 2024-05-22 12:45:02.316324
+------------------------------------------------------
+Started: 2024-05-23 01:18:31.284839
+Existing_entries: 60
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-05-23 01:18:31.378105

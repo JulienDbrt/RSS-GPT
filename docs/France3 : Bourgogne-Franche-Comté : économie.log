@@ -540,3 +540,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un emploi sur cinq a disparu dans le secteur de la construction automobile en Bourgogne-Franche-Comté](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/un-emploi-sur-cinq-a-disparu-dans-le-secteur-de-la-construction-automobile-en-bourgogne-franche-comte-2973197.html)
 append_entries: 1
 Finish: 2024-05-22 12:43:08.924558
+------------------------------------------------------
+Started: 2024-05-23 01:16:51.904413
+Existing_entries: 98
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Ce nouveau robot chirurgical est devenu indispensable au CHU de Dijon : il permet d'opérer les patients les plus fragiles](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/ce-nouveau-robot-chirurgical-est-devenu-indispensable-au-chu-de-dijon-il-permet-d-operer-les-patients-les-plus-fragiles-2973314.html)
+append_entries: 1
+Finish: 2024-05-23 01:16:55.572444

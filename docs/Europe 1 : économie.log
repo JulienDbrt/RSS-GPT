@@ -577,3 +577,18 @@ Summarized using GPT-3.5-turbo
 Append: [Vivatech 2024 : l’intelligence artificielle permet de gagner plus pour les entreprises](https://www.europe1.fr/economie/vivatech-2024-lintelligence-artificielle-permet-de-gagner-plus-pour-les-entreprises-4248285)
 append_entries: 1
 Finish: 2024-05-22 12:40:21.763835
+------------------------------------------------------
+Started: 2024-05-23 01:14:43.427800
+Existing_entries: 105
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage : la réforme se précise, 3,6 milliards d'euros d'économies attendues](https://www.europe1.fr/economie/assurance-chomage-la-reforme-se-precise-36-milliards-deuros-deconomies-attendues-4248495)
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [Corse : une offre sur les billets d'avion pour attirer de nouveau les touristes](https://www.europe1.fr/economie/corse-une-offre-sur-les-billets-davion-pour-attirer-de-nouveau-les-touristes-4248480)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [INFO EUROPE 1 - SNCF : une prime de 95 euros brut par jour pendant les JO pour les cheminots](https://www.europe1.fr/economie/info-europe-1-sncf-une-prime-de-95-euros-brut-par-jour-pendant-les-jo-pour-les-cheminots-4248478)
+append_entries: 3
+Finish: 2024-05-23 01:14:53.849241

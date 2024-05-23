@@ -644,3 +644,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Primes JO" à la SNCF : espoir d'un accord avant une nouvelle session de négociations entre les syndicats et la direction](https://www.francetvinfo.fr/les-jeux-olympiques/primes-jo-dernieres-negociations-entre-la-direction-et-les-syndicats-sncf_6558011.html)
 append_entries: 5
 Finish: 2024-05-22 12:41:43.087815
+------------------------------------------------------
+Started: 2024-05-23 01:15:42.807052
+Existing_entries: 126
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Turbulences sur un vol de Singapore Airlines : "Une descente contrôlée, délibérément choisie par les pilotes", analyse un aviateur](https://www.francetvinfo.fr/economie/transports/turbulences-sur-un-vol-de-singapore-airlines-une-descente-controlee-deliberement-choisie-par-les-pilotes-analyse-un-aviateur_6559649.html)
+append_entries: 1
+Finish: 2024-05-23 01:15:50.927531

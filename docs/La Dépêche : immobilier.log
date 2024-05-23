@@ -421,3 +421,15 @@ Summarized using GPT-3.5-turbo
 Append: [Airbnb et meublés de tourisme : fin de la niche fiscale, pénurie du logement… Ce qui pourrait changer pour les propriétaires](https://www.ladepeche.fr/2024/05/22/airbnb-et-meubles-de-tourisme-fin-de-la-niche-fiscale-penurie-du-logement-ce-qui-va-changer-pour-les-proprietaires-11966099.php)
 append_entries: 1
 Finish: 2024-05-22 12:46:07.040628
+------------------------------------------------------
+Started: 2024-05-23 01:19:12.772203
+Existing_entries: 55
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Immobilier neuf : les ventes continuent de s’effondrer à Toulouse](https://www.ladepeche.fr/2024/05/22/immobilier-neuf-les-ventes-continuent-de-seffondrer-a-toulouse-11967015.php)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Maisons fissurées : découvrez si votre habitation est située dans une zone exposée au risque de retrait-gonflement des argiles grâce à notre carte](https://www.ladepeche.fr/2023/10/11/carte-maisons-fissurees-votre-habitation-est-elle-situee-dans-une-zone-exposee-au-risque-de-retrait-gonflement-des-argiles-11509303.php)
+append_entries: 2
+Finish: 2024-05-23 01:19:18.184319

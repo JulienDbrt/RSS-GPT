@@ -434,3 +434,9 @@ Summarized using GPT-3.5-turbo
 Append: [Crise du logement : le Sénat approuve à son tour le texte sur la "niche fiscale Airbnb"](https://www.francetvinfo.fr/economie/immobilier/crise-du-logement-le-senat-approuve-a-son-tour-le-texte-sur-la-niche-fiscale-airbnb_6559091.html)
 append_entries: 3
 Finish: 2024-05-22 12:41:29.015511
+------------------------------------------------------
+Started: 2024-05-23 01:15:42.176382
+Existing_entries: 56
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-05-23 01:15:42.731698

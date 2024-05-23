@@ -643,3 +643,18 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile: L'hybride excelle en avril en Europe, l'électrique patine](https://www.lessentiel.lu/fr/story/automobile-lhybride-excelle-en-avril-en-europe-lelectrique-patine-103111475)
 append_entries: 2
 Finish: 2024-05-22 12:43:51.255951
+------------------------------------------------------
+Started: 2024-05-23 01:17:45.287993
+Existing_entries: 179
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Bientôt au Luxembourg?: Une nouvelle méthode révolutionnaire pour faire du béton](https://www.lessentiel.lu/fr/story/bientot-au-luxembourg-une-nouvelle-methode-revolutionnaire-pour-faire-du-beton-103111931)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [En Espagne: Amazon va investir 15,7 milliards d'euros](https://www.lessentiel.lu/fr/story/en-espagne-amazon-va-investir-157-milliards-deuros-103111835)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Dommages et intérêts: Cet oligarque russe réclame des milliards au Luxembourg](https://www.lessentiel.lu/fr/story/dommages-et-interets-cet-oligarque-russe-reclame-des-milliards-au-luxembourg-103111641)
+append_entries: 3
+Finish: 2024-05-23 01:17:58.173695
