@@ -671,3 +671,24 @@ Summarized using GPT-3.5-turbo
 Append: [Concours talents des cités: les inscriptions sont ouvertes](https://www.martinique.franceantilles.fr/actualite/economie/concours-talents-des-cites-les-inscriptions-sont-ouvertes-988280.php)
 append_entries: 6
 Finish: 2024-05-24 01:19:16.377328
+------------------------------------------------------
+Started: 2024-05-24 12:38:15.726563
+Existing_entries: 151
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Négociations au pas de course à l'OMS pour un accord sur la prévention des pandémies](https://www.martinique.franceantilles.fr/actualite/economie/negociations-au-pas-de-course-a-loms-pour-un-accord-sur-la-prevention-des-pandemies-988412.php)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Brevets: accord à l'ONU sur un traité pour lutter contre la biopiraterie](https://www.martinique.franceantilles.fr/actualite/economie/brevets-accord-a-lonu-sur-un-traite-pour-lutter-contre-la-biopiraterie-988418.php)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Ebola: portrait d'un virus tueur](https://www.martinique.franceantilles.fr/actualite/economie/ebola-portrait-dun-virus-tueur-988417.php)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [À l'argent, les exilés cubains privilégient l'envoi de nourriture à leurs familles](https://www.martinique.franceantilles.fr/actualite/economie/a-largent-les-exiles-cubains-privilegient-lenvoi-de-nourriture-a-leurs-familles-988416.php)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Carrefour: rémunération, modèle social et climat au programme de l'assemblée générale](https://www.martinique.franceantilles.fr/actualite/economie/carrefour-remuneration-modele-social-et-climat-au-programme-de-lassemblee-generale-988407.php)
+append_entries: 5
+Finish: 2024-05-24 12:38:36.049366

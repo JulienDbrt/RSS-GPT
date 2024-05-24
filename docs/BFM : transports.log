@@ -516,3 +516,15 @@ Summarized using GPT-3.5-turbo
 Append: [Cadenas, traceurs GPS... Face aux vols de bagages dans les trains, les voyageurs s'organisent](https://www.bfmtv.com/economie/entreprises/transports/cadenas-traceurs-gps-face-aux-vols-de-bagages-dans-les-trains-les-voyageurs-s-organisent_AV-202405230046.html)
 append_entries: 5
 Finish: 2024-05-24 01:17:36.738869
+------------------------------------------------------
+Started: 2024-05-24 12:37:16.185855
+Existing_entries: 86
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [TER: nouvelle victoire pour Transdev face à la SNCF, cette fois dans le Grand Est](https://www.bfmtv.com/economie/entreprises/transports/ter-nouvelle-victoire-pour-transdev-face-a-la-sncf-cette-fois-dans-le-grand-est_AV-202405240562.html)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Grève des contrôleurs aériens: les compagnies contraintes d'annuler 70% des vols à Paris-Orly](https://www.bfmtv.com/economie/entreprises/transports/greve-des-controleurs-aeriens-les-compagnies-contraintes-d-annuler-70-des-vols-a-paris-orly_AD-202405240465.html)
+append_entries: 2
+Finish: 2024-05-24 12:37:24.911382

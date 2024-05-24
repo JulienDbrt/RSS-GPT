@@ -565,3 +565,18 @@ Summarized using GPT-3.5-turbo
 Append: ["C'est dangereux": la Safer s'oppose à des placements financiers liés aux terres agricoles](https://www.bfmtv.com/immobilier/achat-vente/c-est-dangereux-la-safer-s-oppose-a-des-placements-financiers-lies-aux-terres-agricoles_AD-202405230281.html)
 append_entries: 5
 Finish: 2024-05-24 01:16:59.449686
+------------------------------------------------------
+Started: 2024-05-24 12:37:06.967159
+Existing_entries: 115
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Pouvoir d'achat immobilier dans votre ville: avez-vous perdu ou gagné des mètres carrés en 2024?](https://www.bfmtv.com/immobilier/achat-vente/pouvoir-d-achat-immobilier-dans-votre-ville-avez-vous-perdu-ou-gagne-des-metres-carres-en-2024_AV-202405240332.html)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Mareterra, ce nouveau quartier sur la mer érigé à Monaco](https://www.bfmtv.com/immobilier/international-etranger/mareterra-ce-nouveau-quartier-sur-la-mer-erige-a-monaco_AD-202405240273.html)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [Une commune décide d'exempter de taxe foncière ses nouveaux habitants](https://www.bfmtv.com/immobilier/villes/une-commune-decide-d-exempter-de-taxe-fonciere-ses-nouveaux-habitants_AV-202405240215.html)
+append_entries: 3
+Finish: 2024-05-24 12:37:14.086765

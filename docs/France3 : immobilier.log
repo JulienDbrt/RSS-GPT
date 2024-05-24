@@ -411,3 +411,9 @@ Summarized using GPT-3.5-turbo
 Append: [La mise en vente de logements a chuté de plus de 80%, un chiffre alarmant, constat d'un marché immobilier asséché pour longtemps](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/la-mise-en-vente-de-logements-a-chute-de-plus-de-80-un-chiffre-alarmant-constat-d-un-marche-immobilier-asseche-pour-longtemps-2973650.html)
 append_entries: 2
 Finish: 2024-05-24 01:22:25.930322
+------------------------------------------------------
+Started: 2024-05-24 12:40:07.416713
+Existing_entries: 51
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-24 12:40:08.037637

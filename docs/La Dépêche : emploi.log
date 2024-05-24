@@ -610,3 +610,18 @@ Summarized using GPT-3.5-turbo
 Append: [Un forum pour l’aide  à l’embauche à Rodez, aujourd’hui](https://www.ladepeche.fr/2024/05/23/un-forum-pour-laide-a-lembauche-a-rodez-aujourdhui-11968307.php)
 append_entries: 6
 Finish: 2024-05-24 01:26:46.895410
+------------------------------------------------------
+Started: 2024-05-24 12:42:29.746905
+Existing_entries: 114
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Animations, balade, découverte… La 3e édition de la journée citoyenne arrive samedi à Cahors](https://www.ladepeche.fr/2024/05/24/animations-balade-decouverte-la-3e-edition-de-la-journee-citoyenne-arrive-samedi-a-cahors-11957236.php)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Saint-Orens-de-Gameville. Jobs d’été: les jeunes de 16 à 25 ans concernés](https://www.ladepeche.fr/2024/05/24/jobs-dete-les-jeunes-de-16-a-25-ans-concernes-11970533.php)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Revel. Le primeur sera-t-il repris ?](https://www.ladepeche.fr/2024/05/24/le-primeur-sera-t-il-repris-11970527.php)
+append_entries: 3
+Finish: 2024-05-24 12:42:42.220231

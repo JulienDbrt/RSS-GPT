@@ -867,3 +867,21 @@ Summarized using GPT-3.5-turbo
 Append: [Élections européennes : comment votent les agriculteurs ? y a-t-il des consignes de vote ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/elections-europeennes-comment-votent-les-agriculteurs-y-a-t-il-des-consignes-de-vote-2973863.html)
 append_entries: 10
 Finish: 2024-05-24 01:21:42.008434
+------------------------------------------------------
+Started: 2024-05-24 12:39:43.297260
+Existing_entries: 203
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [Pommes pourries au sol, récoltes désastreuses, un arboriculteur bio réclame l'interdiction des herbicides qui ont contaminé ses vergers](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/pommes-pourries-au-sol-recoltes-desastreuses-un-arboriculteur-bio-reclame-l-interdiction-des-herbicides-qui-ont-contamine-ses-vergers-2974790.html)
+Token length: 434
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES. Salon de l’Agriculture de Nouvelle-Aquitaine : après les manifestations de janvier, "l’important, c'est de se retrouver entre nous"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/temoignages-salon-de-l-agriculture-de-nouvelle-aquitaine-apres-les-manifestations-de-janvier-l-important-c-est-de-se-retrouver-entre-nous-2974262.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Un tracteur fait des tonneaux dans un champ : le conducteur tué](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/un-tracteur-fait-des-tonneaux-dans-un-champ-le-conducteur-tue-2974739.html)
+Token length: 304
+Summarized using GPT-3.5-turbo
+Append: ["Soigner la terre, l’humain et la biodiversité" : une micro-ferme en pleine ville pour cultiver les liens dans le quartier](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/soigner-la-terre-l-humain-et-la-biodiversite-une-micro-ferme-en-pleine-ville-pour-cultiver-les-liens-dans-le-quartier-2974499.html)
+append_entries: 4
+Finish: 2024-05-24 12:39:58.228721

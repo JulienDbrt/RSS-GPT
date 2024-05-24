@@ -543,3 +543,15 @@ Summarized using GPT-3.5-turbo
 Append: ["On se retrouve à faire des tâches qui ne font pas partie de nos prérogatives", on vous explique pourquoi les bibliothécaires de la Ville de Paris sont en grève](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/on-se-retrouve-a-faire-des-taches-qui-ne-font-pas-partie-de-nos-prerogatives-on-vous-explique-pourquoi-les-bibliothecaires-de-la-ville-de-paris-sont-en-greve-2973287.html)
 append_entries: 3
 Finish: 2024-05-24 01:21:05.494492
+------------------------------------------------------
+Started: 2024-05-24 12:39:35.634129
+Existing_entries: 95
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [PARIGO. La Défense : un accès révolutionné ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/parigo-la-defense-un-acces-revolutionne-2974292.html)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Handiroad, un "Waze pour les personnes en situation de handicap", cette application facilite les déplacements des personnes en fauteuil roulant](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/handiroad-un-wase-pour-les-personnes-en-situation-de-handicap-cette-application-facilite-les-deplacements-des-personnes-en-fauteuil-roulant-2974547.html)
+append_entries: 2
+Finish: 2024-05-24 12:39:43.187897

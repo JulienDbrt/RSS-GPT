@@ -5,12 +5,249 @@
 <link>https://korben.info</link>
 
 <item>
+<title>CompilerFax ou comment compiler du code C par fax !</title>
+<link>https://korben.info/compiler-code-c-par-fax-compilerfax.html</link>
+<guid>https://korben.info/compiler-code-c-par-fax-compilerfax.html</guid>
+<content:encoded><![CDATA[
+<div> CompilerFax, fax, OCR, Raspberry Pi, bidouille <br>
+<br>
+Summary: CompilerFax est un projet délirant qui utilise la technologie du fax détournée pour compiler du code C. Les utilisateurs écrivent leur code C sur papier avec une police adaptée à l'OCR, l'envoient par fax à CompilerFax, où un Raspberry Pi extrait le code, le compile et l'exécute. Le résultat est renvoyé par fax. Le taux d'erreur de l'OCR varie selon les polices utilisées. Le débit du fax limite l'envoi à une page et la qualité de l'OCR n'est pas parfaite. Le projet allie technologie rétro et moderne pour une expérience unique. Le code source est disponible en ligne pour ceux intéressés par la bidouille de haut vol. Cette initiative permet de ralentir le rythme effréné de la technologie actuelle et de retourner aux sources du développement informatique. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_hyper_techy_geeky_fax_machine_wallpaper_stylized_11092bd7-c468-476f-922f-7b68c3f8c725.webp" width="1920" /></p>
+<p>Vous connaissez le principe du fax ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1763968729" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous mettez votre document dans la machine, vous composez le numéro du destinataire, et hop le document est transmis via la ligne téléphonique et imprimé à distance. C&rsquo;était fou pour l&rsquo;époque ! Alors si je vous dis qu&rsquo;un bidouilleur a détourné cette bonne vieille technologie pour en faire un <strong>compilateur C par fax</strong>, j&rsquo;suis sûr que vous n&rsquo;allez pas me croire.</p>
+
+
+
+<p>Eh oui, grâce au projet délirant <strong>CompilerFax</strong>, vous pouvez désormais envoyer votre code C par fax, le faire compiler et exécuter sur un Raspberry Pi distant, et recevoir le résultat&#8230; à nouveau par fax ! Un vrai délire rétro-tech, un <em>mashup</em> improbable entre une technologie d&rsquo;un autre siècle et du logiciel moderne. J&rsquo;adore ce genre de projets <strong>WTF</strong> alors j&rsquo;étais obligé de vous en parler !</p>
+
+
+
+<p>Vous écrivez donc votre code C sur une belle feuille de papier, en utilisant une police adaptée à la reconnaissance optique de caractères (OCR). La police Calibri semble donner de bons résultats et n&rsquo;oubliez pas d&rsquo;ajouter en commentaire la ligne magique <code>//REPLY=</code> suivie de votre numéro de fax, sinon vous ne recevrez pas la réponse ! </p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Selon les tests, le taux d&rsquo;erreur de l&rsquo;OCR varie selon les polices utilisées car certains caractères comme O, i ou x sont souvent mal interprétés. Il vaut donc mieux vaut les éviter dans vos noms de variables, et pensez aussi à bien espacer votre code pour faciliter la reconnaissance.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1720810631" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ensuite, direction votre fax préféré, vous composez le numéro de CompilerFax et vous envoyez votre code. De l&rsquo;autre côté, un Raspberry Pi équipé d&rsquo;un modem fax reçoit votre document, en extrait le code avec un outil d&rsquo;OCR comme <a href="https://github.com/tesseract-ocr/tesseract" rel="noopener" target="_blank">Tesseract OCR</a>, le compile avec GCC et l&rsquo;exécute dans un environnement <strong>sandboxé</strong> sous Alpine Linux (pour éviter que des petits malins exploitent des failles). Le résultat vous revient ensuite par fax illico presto ! Enfin, dans un délai raisonnable puisque la compilation est limitée à 20 secondes et l&rsquo;exécution à 60 secondes. Au-delà, le programme est interrompu.</p>
+
+
+
+<p>Derrière ce projet farfelu se cache de la bidouille de haut vol car le créateur de CompilerFax, Lex Bailey, a dû déployer des trésors d&rsquo;ingéniosité pour faire dialoguer ces technologies que tout oppose. Et si ça vous branche, l&rsquo;intégralité du code source est disponible sur <a href="https://github.com/lexbailey/compilerfax" rel="noopener" target="_blank">Github</a>.</p>
+
+
+
+<p>Bon, je vous l&rsquo;accorde, le débit de 9600 bits/s du fax, ce n&rsquo;est pas idéal pour envoyer des gros programmes c&rsquo;est pour cela que pour l&rsquo;instant, seul l&rsquo;envoi d&rsquo;une page est supporté et la qualité de l&rsquo;OCR n&rsquo;est pas toujours au rendez-vous mais <strong>au final, CompilerFax fonctionne </strong>et permet de retourner un peu aux sources, à un rythme plus humain dans notre monde où tout est quasi-immédiat.</p>
+
+
+
+<p>Belle bidouille en tout cas !</p>
+
+
+
+<p><a href="https://github.com/lexbailey/compilerfax" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 08:34:13 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 08:34:13 +0000</pubDate>
+</item>
+<item>
+<title>Comment créer des icônes macOS icns sur-mesure avec Img2icns</title>
+<link>https://korben.info/creer-icones-macos-sur-mesure-avec-img2icns.html</link>
+<guid>https://korben.info/creer-icones-macos-sur-mesure-avec-img2icns.html</guid>
+<content:encoded><![CDATA[
+<div> outil en ligne, convertir images, icônes macOS, format ICNS, personnalisées<br>
+<br>
+Summary: 
+Vous cherchez un moyen simple et gratuit de convertir vos images en icônes pour macOS ? Img2icns est un outil en ligne pratique qui vous permet de transformer facilement vos images aux formats PNG, SVG, JPG et WebP en icônes macOS au format ICNS. Vous pouvez personnaliser les icônes de vos applications, changer les icônes par défaut de votre système et créer des icônes sur mesure pour vos projets. Le site gère les images transparentes et redimensionne automatiquement les images non carrées pour les adapter au format carré des icônes ICNS. Une fois votre icône générée, vous pouvez simplement la glisser-déposer sur le dossier ou fichier dont vous souhaitez changer l'icône dans le Finder. Img2icns est l'outil idéal pour créer facilement des icônes personnalisées pour macOS à partir de n'importe quelle image. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_mosaic_of_macOS_icons_908b8eaa-369e-4c86-b31a-c0aa4b6e6add.webp" width="1920" /></p>
+<p>Vous cherchez un moyen simple et gratuit de convertir vos images en icônes pour <strong>macOS</strong> ? Ne cherchez plus, je vous ai déniché un petit outil en ligne bien pratique qui fait exactement ça : <strong><a href="https://www.img2icns.com/" rel="noopener" target="_blank">Img2icns</a></strong>. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1263138415" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ce site web gratuit vous permet de convertir facilement vos images aux formats <strong>PNG, SVG, JPG et WebP</strong> en icônes macOS au format ICNS. Il vous suffit pour cela de glisser-déposer votre image sur la page ou de cliquer pour la sélectionner depuis votre ordinateur, et hop, le tour est joué !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161188" height="671" src="https://korben.info/app/uploads/2024/05/SCR-20240524-iwim.webp" width="1000" /></figure></div>
+
+
+<p>C&rsquo;est pratique si vous développez une application pour <strong>Mac</strong> et que vous voulez lui donner une icône personnalisée bien classe, au lieu du triste dossier bleu par défaut. Ou alors si vous êtes un maniaque de la customisation et que vous voulez changer toutes les icônes de votre système avec vos images préférées. Ça peut aussi être utile pour les graphistes et les webdesigners qui ont besoin de créer des <strong>icônes sur mesure</strong> pour leurs projets.</p>
+
+
+
+<p>Une fois que vous avez lâché votre image sur la page web de <strong>Img2icns</strong>, le site va automatiquement la convertir en <strong>icône ICNS</strong> qui est le format standard utilisé par macOS pour les icônes. Ça va générer un fichier .icns qui contiendra en fait plusieurs versions de votre image de différentes tailles, du 16&#215;16 jusqu&rsquo;au 512&#215;512 pixels. Comme ça, le système pourra afficher l&rsquo;icône de manière optimale quelle que soit la taille nécessaire.</p>
+
+
+
+<p>Img2icns gère aussi les <strong>images transparentes</strong>, ce qui peut être bien pratique pour créer des icônes avec des formes originales qui se fondront parfaitement dans l&rsquo;interface de macOS. Par contre, si votre image de départ n&rsquo;est pas carrée, elle sera automatiquement redimensionnée et centrée pour rentrer dans le format carré des icônes ICNS. Donc n&rsquo;hésitez pas à recadrer votre image à l&rsquo;avance aux bonnes dimensions pour un résultat optimal.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1009822514" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ensuite il suffit d&rsquo;aller dans le Finder, de faire un clic droit sur le dossier ou le fichier dont vous voulez changer l&rsquo;icone, et cliquer sur « Lire les informations ». Vous devriez alors tomber sur ce genre de fenêtre.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161191" height="405" src="https://korben.info/app/uploads/2024/05/SCR-20240524-iyak-2.webp" style="width: 530px; height: auto;" width="1000" /></figure></div>
+
+
+<p>Glissez alors votre icone icns à la place du dossier ou de l&rsquo;icone de votre fichier et tadaaaa.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161192" height="380" src="https://korben.info/app/uploads/2024/05/SCR-20240524-iyec.webp" style="width: 505px; height: auto;" width="1000" /></figure></div>
+
+
+<p>Bref, si vous avez besoin de créer facilement des <strong>icônes personnalisées</strong> pour macOS à partir de n&rsquo;importe quelle image, <a href="https://www.img2icns.com/" rel="noopener" target="_blank">Img2icns</a> c&rsquo;est l&rsquo;outil rêvé.</p>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 07:44:18 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 07:44:18 +0000</pubDate>
+</item>
+<item>
+<title>Twterm : Le client TUI Twitter ultime pour les geeks de la ligne de commande 🐦💻</title>
+<link>https://korben.info/twterm-client-tui-twitter-ultime-geeks-ligne-commande.html</link>
+<guid>https://korben.info/twterm-client-tui-twitter-ultime-geeks-ligne-commande.html</guid>
+<content:encoded><![CDATA[
+<div> Twterm, client Twitter en mode texte, Ruby, TUI, timeline, mentions, follower, tweeter, trending topics
+<br>
+Summary:
+Twterm est un client Twitter en mode texte développé en Ruby, offrant toutes les fonctionnalités de base de Twitter. Il permet de suivre sa timeline, les mentions, les DM, les recherches, de follower/unfollower, tweeter, retweeter, répondre aux gens et voir les trending topics. Son interface ASCII art est intuitive, avec des raccourcis clavier efficaces. L'installation est simple via Homebrew ou RubyGems. Twterm offre de bonnes performances et la possibilité de personnaliser les raccourcis. Seul point faible : la visualisation d'images n'est pas encore optimale, mais des améliorations sont à venir. Avec Twterm, les accros à la ligne de commande peuvent profiter d'une expérience Twitter efficace et rapide. 
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_Twitter_wallpaper_with_Logo_with_text_Twterm_written_30043731-eca2-4354-ba3b-ce3f32d5f10a.png" width="1456" /></p>
+<p>Chers <strong>accro à la ligne de commande</strong>, voici un outil qui devrait vous plaire ! Ça s&rsquo;appelle <strong>Twterm</strong> et c&rsquo;est un client Twitter en mode texte (<strong>TUI</strong> pour les intimes). Parfait pour suivre son p&rsquo;tit flux Twitter au milieu des <code>ls -al</code> et autres <code>cd ..</code> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-885954220" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Développé en <strong>Ruby</strong> par un certain <em>Ryota Kameoka</em>, Twterm rassemble toutes les features de base de Twitter : </p>
+
+
+
+<ul>
+<li>Suivi de la timeline</li>
+
+
+
+<li>Les mentions, DM, recherches&#8230;etc.</li>
+
+
+
+<li>Follower/Unfollower</li>
+
+
+
+<li>Tweeter, Retweet, et répondre aux gens</li>
+
+
+
+<li>Et également voir et suivre les trending topics</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158134" height="900" src="https://korben.info/app/uploads/2024/03/687474703a2f2f74777465726d2e72796f74612d6b612e6d652f73637265656e636173742e676966.gif" width="1440" /></figure></div>
+
+
+<p><strong>La totale</strong> quoi, et le tout contrôlable au clavier, donc super efficace pour les <strong>power users</strong>. 💪 L&rsquo;installation est plutôt simple, surtout sous<strong> macOS</strong> avec une install via <strong>Homebrew</strong> :</p>
+
+
+
+<p><code>brew install ryota-ka/twterm/twterm</code> </p>
+
+
+
+<p>Sinon en <strong>RubyGems</strong> ça se fait bien aussi. Après faut lancer la commande magique <strong><code>twterm</code> et là&#8230; Bienvenue dans la Matrice, Neo !</strong></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-847788938" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>L&rsquo;UI est nickel, toute en <strong>ASCII art</strong>, ça nous change des interfaces modernes surchargées. On navigue entre les onglets avec les touches <code>h</code>, <code>j</code>, <code>k</code>, <code>l</code> façon Vim et il suffit de faire CTRL + N pour commencer à écrire un nouveau tweet. Bref c&rsquo;est super intuitif, la prise en main est immediate, pour peu que vous soyez familier avec l&rsquo;environnement Unix.</p>
+
+
+
+<p>Niveau perfs, c&rsquo;est une vraie fusée et cerise sur le gâteau, on peut facilement <strong>customiser les raccourcis</strong> via un fichier de conf en TOML. Seul petit bémol, la visualisation d&rsquo;images est encore un peu à la ramasse, mais ça viendra.</p>
+
+
+
+<p>Si ça vous dit de tester, <a href="https://github.com/ryota-ka/twterm" rel="noopener" target="_blank">Twterm, c&rsquo;est par ici !</a></p>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Redstone OS, le système d’exploitation nord-coréen au look très macOS</title>
+<link>https://korben.info/teste-redstone-os-systeme-exploitation-nord-coreen.html</link>
+<guid>https://korben.info/teste-redstone-os-systeme-exploitation-nord-coreen.html</guid>
+<content:encoded><![CDATA[
+<div> Redstone OS, système d'exploitation, Nord-Coréen, YouTubeur, Kim Jong-un <br>
+<br>
+Summary: Eric Parker, un youtubeur, a pu tester le Redstone OS, un système d'exploitation nord-coréen inspiré de macOS. Le boot affiche des couleurs de la Corée du Nord et le bureau ressemble fortement à Mac OS, avec une suite d'applications incluse. Malgré des paramètres réseau restrictifs, Eric parvient à accéder à quelques sites en HTTP grâce à des ajustements. Sous le capot, Redstone OS semble basé sur un noyau Linux, avec des outils comme SELinux et Wine pour exécuter des programmes Windows. Malgré ses limitations, l'OS est intrigant pour son esthétique et son fonctionnement, montrant l'influence probable d'un Mac possédé par Kim Jong-un sur son développement. Les développeurs nord-coréens travaillent avec des technos anciennes, ce qui souligne l'aspect unique de cet OS. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="302" src="https://korben.info/app/uploads/2024/05/SCR-20240524-hevz.webp" width="1000" /></p>
+<p>Voilà un truc qui va vous intéresser si vous aimez les systèmes d&rsquo;exploitation étranges&#8230;. Le youtubeur <strong>Eric Parker</strong> a mis la main sur un <strong>Redstone OS</strong>, le fameux système d&rsquo;exploitation nord-coréen. Les dev&rsquo; de Kim Jong-un ont pris KDE, l&rsquo;ont customisé façon macOS et hop, voilà le résultat. Et rassurez-vous, pas besoin de passer par la case goulag pour le tester.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1357074019" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors, première surprise au moment du boot : un écran aux couleurs de la Corée du Nord. Ça change des logos constructeurs habituels. Une fois sur le bureau, c&rsquo;est marrant puisqu&rsquo;il ont calqué le look de Mac OS à la perfection, aussi bien l&rsquo;agencement des icônes que la barre des menus, en passant même par l&rsquo;ancien thème Graphite de Mac OS. </p>
+
+
+
+<p>Niveau applis, on est servi également puisqu&rsquo;il y a un éditeur de texte, un lecteur multimédia, un client mails et même une suite bureautique qui ressemble comme deux gouttes d&rsquo;eau à LibreOffice. En fouillant un peu, Eric découvre également qu&rsquo;ils ont développé l&rsquo;interface de leur éditeur de texte en Python + GTK.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161182" height="750" src="https://korben.info/app/uploads/2024/05/SCR-20240524-hfem-2.webp" width="995" /></figure></div>
+
+
+<p>Maintenant, le plus intéressant pour le youtubeur c&rsquo;est de savoir si on <strong>peut-on aller sur Internet avec ce fameux Redstone OS</strong>&#8230; Déjà, le système est configuré pour utiliser uniquement des adresses IP en 10.0.0.0, celles qui sont réservées aux intranets. Malin les Nord-Coréens, ils ont pensé à tout pour garder leurs sujets dans le web merveilleux de Kim Jong Un. Mais bon, suffit de bidouiller un peu les paramètres réseau et ça passe. Mais c&rsquo;était sans compter sur le firewall qui a des paramètres plus strictes qu&rsquo;un videur de boîte de nuit. Genre blocage <strong>DNS</strong>, d&rsquo;IPs et compagnie via un paquet de règles iptables dédié.</p>
+
+
+
+<p>Eric fait sauter tout ça, et là, magie, <strong>Google s&rsquo;affiche !</strong> Mais ne vous attendez pas à aller bien loin&#8230; La plupart des sites modernes réclament du HTTPS et des certificats valide, ce qui est un cauchemar sur un OS exotique comme Redstone. Mais Eric peut quand même consulter quelques pages web à l&rsquo;ancienne en HTTP, lire des articles sur Wikipédia ou regarder quelques vidéos YouTube. C&rsquo;est toujours ça de pris !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1835560414" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Sous le capot, ce bon vieux <strong>Redstone OS</strong> a quand même quelques aspects sympas. Le noyau a l&rsquo;air d&rsquo;être un Linux, probablement une vieille Red Hat vu la présence de SELinux et d&rsquo;autres outils typiques à cette distrib, mais pas de dépôt pour installer de nouveaux outils ou mettre à jour les anciens. Il y a même un Wine intégré pour exécuter des programmes Windows. Pratique pour ceux qui voudraient jouer au démineur entre deux réunions du Parti. Et si vous êtes adepte de la ligne de commande, y&rsquo;a même un terminal fourni avec les outils habituels.</p>
+
+
+
+<p>Bref, un OS qui vaut le coup d’œil surtout ce look à la Mac OS ! Parait que Kim Jong-un lui-même se serait acheté un Mac en 2011 et aurait demandé à ses devs de s&rsquo;en inspirer pour Redstone OS ^^&#8230; Force aux geeks nords coréens qui se tapent ces technos d&rsquo;un autre age.</p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=rs8Y1TZ3ySg" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 05:53:01 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 05:53:01 +0000</pubDate>
+</item>
+
+<item>
 <title>La Tesla Model 3 à nouveau hackée – L’Ultra-Wideband est visiblement inutile…</title>
 <link>https://korben.info/tesla-model-3-piratee-malgre-ultra-wideband-voleurs-s-en-frottent-les-mains.html</link>
 <guid>https://korben.info/tesla-model-3-piratee-malgre-ultra-wideband-voleurs-s-en-frottent-les-mains.html</guid>
 <content:encoded><![CDATA[
-<div> voleurs, attaques relais, Tesla, Ultra-Wideband, code PIN <br>
-<br>
+<div> voleurs, attaques relais, Tesla, Ultra-Wideband, code PIN <br />
+<br />
 Summary: Tesla cars, including the latest models, are vulnerable to relay attacks by thieves who can intercept the signal from the key or smartphone to unlock and start the vehicle from a distance. Despite Tesla's use of Ultra-Wideband technology to prevent such attacks, researchers have successfully hacked a Tesla Model 3. Tesla is still working on improving the reliability of this technology. To protect against relay attacks, users are advised to activate the code PIN for starting the car and keep the key away from the vehicle at night. Other car manufacturers using Ultra-Wideband technology are also at risk. Theft of Tesla cars for spare parts is a concern, despite their lower theft rates compared to other models. Vigilance and precautions, such as using signal-blocking boxes for keys, are recommended to prevent relay attacks. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_someone_is_robbing_a_Tesla_Car_638ec8ae-3089-4d9d-a57d-cb3ff2c9abb1.webp" width="1920" /></p>
 <p>Mauvaise nouvelle, les derniers modèles de <strong>Tesla</strong> ne sont pas épargnés par les voleurs. </p>
@@ -45,7 +282,6 @@ Summary: Tesla cars, including the latest models, are vulnerable to relay attack
 
 <p><a href="https://qz.com/tesla-keyless-entry-upgrade-steal-theft-1851496376" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 16:50:14 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 16:50:14 +0000</pubDate>
 </item>
 <item>
@@ -139,7 +375,6 @@ Un développeur a réussi à coder un serveur web en utilisant uniquement des fi
 <div class="NKSYD1CP-target" id="NKSYD1CP-712248066" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://github.com/vitprajzler/node-in-english?tab=readme-ov-file" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 16:35:01 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 16:35:01 +0000</pubDate>
 </item>
 <item>
@@ -287,16 +522,15 @@ Phil Zimmermann est un pionnier de la cryptographie connu pour avoir créé PGP,
 </ul>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 13:15:38 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 13:15:38 +0000</pubDate>
 </item>
 <item>
 <title>TimeGPT – L’IA qui prédit l’avenir</title>
 <link>https://korben.info/timegpt-ia-revolutionnaire-prediction-series-temporelles.html</link>
 <guid>https://korben.info/timegpt-ia-revolutionnaire-prediction-series-temporelles.html</guid>
 <content:encoded><![CDATA[
-<div> modèle fondateur prédiction séries temporelles deep learning analyse temporelle<br>
-<br>Summary:
-TimeGPT est un modèle révolutionnaire dédié à la prédiction des séries temporelles, combinant l'apprentissage profond et l'analyse temporelle. Grâce à sa capacité à ingérer et analyser de grandes quantités de données temporelles, il offre des prédictions précises pour l'avenir. Le modèle s'appuie sur une architecture déjà efficace dans le domaine du traitement du langage naturel, mais appliquée aux séries temporelles. TimeGPT peut être ajusté pour répondre à des besoins spécifiques et s'améliore continuellement avec l'entraînement sur de nouvelles données. Il est polyvalent, convenant à de nombreux domaines tels que la finance, la logistique, ou la médecine. Les créateurs de TimeGPT, Azul Garza et Max Mergenthaler-Canseco, ont prouvé son efficacité et sa supériorité par rapport à d'autres modèles statistiques. Enfin, son utilisation est simplifiée, ne nécessitant que quelques lignes de code pour anticiper un avenir plus prévisible et maîtrisé.<br> <div>
+<div> modèle fondateur prédiction séries temporelles deep learning analyse temporelle<br />
+<br />Summary:
+TimeGPT est un modèle révolutionnaire dédié à la prédiction des séries temporelles, combinant l'apprentissage profond et l'analyse temporelle. Grâce à sa capacité à ingérer et analyser de grandes quantités de données temporelles, il offre des prédictions précises pour l'avenir. Le modèle s'appuie sur une architecture déjà efficace dans le domaine du traitement du langage naturel, mais appliquée aux séries temporelles. TimeGPT peut être ajusté pour répondre à des besoins spécifiques et s'améliore continuellement avec l'entraînement sur de nouvelles données. Il est polyvalent, convenant à de nombreux domaines tels que la finance, la logistique, ou la médecine. Les créateurs de TimeGPT, Azul Garza et Max Mergenthaler-Canseco, ont prouvé son efficacité et sa supériorité par rapport à d'autres modèles statistiques. Enfin, son utilisation est simplifiée, ne nécessitant que quelques lignes de code pour anticiper un avenir plus prévisible et maîtrisé.<br /> <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="408" src="https://korben.info/app/uploads/2024/03/SCR-20240329-bp.webp" width="1393" /></p>
 <p>Mesdames et Messieurs, préparez-vous à plonger dans l&rsquo;univers fascinant de <strong>TimeGPT</strong>, le premier modèle fondateur dédié à la prédiction des séries temporelles ! Fruit d&rsquo;un mariage audacieux entre l&rsquo;apprentissage profond (deep learning) et l&rsquo;analyse temporelle, TimeGPT promet de révolutionner notre façon d&rsquo;appréhender l&rsquo;avenir.</p>
 
@@ -335,9 +569,7 @@ TimeGPT est un modèle révolutionnaire dédié à la prédiction des séries te
 <p>Je vous invite <a href="https://docs.nixtla.io/" rel="noopener" target="_blank">à tester TimeGPT par vous-même</a>, à lui soumettre vos propres séries temporelles et vous verrez bien ce que ça donne. Et c&rsquo;est facile de prendre en main puisque quelques lignes de code suffisent pour ouvrir les portes d&rsquo;un avenir plus prévisible et plus maîtrisé.</p>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>City Game Studio – Créez votre studio de jeux vidéo !</title>
 <link>https://korben.info/city-game-studio-creez-votre-studio-de-jeux-video.html</link>

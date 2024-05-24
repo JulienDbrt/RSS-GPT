@@ -613,3 +613,12 @@ Summarized using GPT-3.5-turbo
 Append: [«Loi Airbnb» : le Sénat a-t-il raison de vouloir taxer davantage les propriétaires pour résoudre la crise du logement ?](https://www.europe1.fr/economie/loi-airbnb-le-senat-a-t-il-raison-de-vouloir-taxer-davantage-les-proprietaires-pour-resoudre-la-crise-du-logement-4248511)
 append_entries: 5
 Finish: 2024-05-24 01:18:54.392983
+------------------------------------------------------
+Started: 2024-05-24 12:38:11.183624
+Existing_entries: 113
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [Leasing social : le remboursement de l'État tarde, les concessionnaires s'impatientent](https://www.europe1.fr/economie/leasing-social-le-remboursement-de-letat-tarde-les-concessionnaires-simpatientent-4248782)
+append_entries: 1
+Finish: 2024-05-24 12:38:15.652867

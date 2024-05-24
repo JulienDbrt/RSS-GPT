@@ -585,3 +585,12 @@ Summarized using GPT-3.5-turbo
 Append: [«L’infirmière devient médecin, la secrétaire spécialiste en finance»](https://www.20min.ch/fr/103111567)
 append_entries: 5
 Finish: 2024-05-24 01:12:38.125060
+------------------------------------------------------
+Started: 2024-05-24 12:34:09.619397
+Existing_entries: 109
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [La chienne à l'origine d'une crypto prisée par Elon Musk est morte](https://www.20min.ch/fr/103113264)
+append_entries: 1
+Finish: 2024-05-24 12:34:14.335341

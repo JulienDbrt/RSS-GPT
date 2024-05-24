@@ -662,3 +662,9 @@ Summarized using GPT-3.5-turbo
 Append: [VIDEO. Jeux Olympiques : un métro de retard pour la RATP ?](https://www.francetvinfo.fr/economie/transports/video-jeux-olympiques-un-metro-de-retard-pour-la-ratp_6561275.html)
 append_entries: 1
 Finish: 2024-05-24 01:19:55.370593
+------------------------------------------------------
+Started: 2024-05-24 12:38:46.929911
+Existing_entries: 128
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-05-24 12:38:47.272748

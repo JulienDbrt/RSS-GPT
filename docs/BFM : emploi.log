@@ -399,3 +399,12 @@ Summarized using GPT-3.5-turbo
 Append: [Sophie Binet: "Ce sont plus de 60.000 emplois qui sont en train de disparaître en France, essentiellement dans l'industrie"](https://www.bfmtv.com/economie/emploi/sophie-binet-ce-sont-plus-de-60-000-emplois-qui-sont-en-train-de-disparaitre-en-france-essentiellement-dans-l-industrie_VN-202405230241.html)
 append_entries: 2
 Finish: 2024-05-24 01:15:16.691239
+------------------------------------------------------
+Started: 2024-05-24 12:35:42.605289
+Existing_entries: 47
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [8.000 postes à pourvoir: à l'approche de la saison estivale, les restaurants et hôtels manquent de saisonniers](https://www.bfmtv.com/economie/emploi/8-000-postes-a-pourvoir-a-l-approche-de-la-saison-estivale-les-restaurants-et-hotels-manquent-de-saisonniers_VN-202405240073.html)
+append_entries: 1
+Finish: 2024-05-24 12:35:45.604504

@@ -1898,3 +1898,9 @@ Append: [L'Ether bondit dans la perspective d'un nouveau placement et le bitcoin
 Append: [L’Ethereum poursuit son envolée](http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=664ecb3435be42eab696cd53149eaad4&url=https%3a%2f%2fbourse.lefigaro.fr%2fdevises-taux%2fl-ethereum-poursuit-son-envolee-20240521&c=19400138709744671&mkt=fr-fr)
 append_entries: 12
 Finish: 2024-05-24 01:06:32.300943
+------------------------------------------------------
+Started: 2024-05-24 12:28:04.492923
+Existing_entries: 600
+Fetching from https://feeds.feedburner.com/Bitcoin-Bingactualits
+append_entries: 0
+Finish: 2024-05-24 12:28:04.725227

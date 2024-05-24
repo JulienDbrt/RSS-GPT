@@ -360,3 +360,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le Livret d'épargne populaire recule pour la première fois en deux ans](https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-livret-d-epargne-populaire-recule-pour-la-premiere-fois-en-deux-ans_AD-202405220590.html)
 append_entries: 1
 Finish: 2024-05-24 01:17:15.882745
+------------------------------------------------------
+Started: 2024-05-24 12:37:14.829879
+Existing_entries: 34
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/placements-epargne/
+append_entries: 0
+Finish: 2024-05-24 12:37:14.999590

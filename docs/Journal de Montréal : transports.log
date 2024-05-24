@@ -492,3 +492,15 @@ Summarized using GPT-3.5-turbo
 Append: [La 50, «l’autoroute de la mort»: une vraie honte nationale](https://www.journaldemontreal.com/2024/05/23/la-50-lautoroute-de-la-mort-une-vraie-honte-nationale)
 append_entries: 4
 Finish: 2024-05-24 01:23:12.685598
+------------------------------------------------------
+Started: 2024-05-24 12:40:18.438738
+Existing_entries: 68
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [QS et le PLQ réclament aussi un abaissement du tablier du pont de Québec](https://www.journaldemontreal.com/2024/05/24/qs-et-le-plq-reclament-aussi-un-abaissement-du-tablier-du-pont-de-quebec)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Où sont les «trappes à tickets» à Montréal?](https://www.journaldemontreal.com/2024/05/25/ou-sont-les-trappes-a-tickets-a-montreal)
+append_entries: 2
+Finish: 2024-05-24 12:40:25.008825

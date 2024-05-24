@@ -1079,3 +1079,18 @@ Summarized using GPT-3.5-turbo
 Append: [La Poste livre ses colis par drone dans des villages de montagne : "C'est deux fois moins de temps"](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/la-poste-livre-ses-colis-par-drone-dans-des-villages-de-montagne-c-est-deux-fois-moins-de-temps-2972819.html)
 append_entries: 5
 Finish: 2024-05-24 01:22:46.013842
+------------------------------------------------------
+Started: 2024-05-24 12:40:08.182967
+Existing_entries: 274
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [70 % des vols de l'aéroport Paris-Orly annulés en raison d'un mouvement de grève](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/70-des-vols-de-l-aeroport-paris-orly-annules-en-raison-d-un-mouvement-de-greve-2974850.html)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [Incendie du magasin Darty à Brest. Le feu couve toujours et le trafic du tram est perturbé](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/incendie-du-magasin-darty-a-brest-le-feu-couve-toujours-et-le-trafic-du-tram-perturbe-2974613.html)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [PARIGO. La Défense : un accès révolutionné ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/parigo-la-defense-un-acces-revolutionne-2974292.html)
+append_entries: 3
+Finish: 2024-05-24 12:40:18.198306

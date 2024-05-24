@@ -483,3 +483,15 @@ Summarized using GPT-3.5-turbo
 Append: [Chambres d'agriculture, banques, coopératives, médias : comment la FNSEA organise son omniprésence dans les cercles du pouvoir](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/chambres-d-agriculture-banques-cooperatives-medias-comment-la-fnsea-organise-son-omnipresence-dans-les-cercles-du-pouvoir-2973782.html)
 append_entries: 5
 Finish: 2024-05-24 01:22:15.188579
+------------------------------------------------------
+Started: 2024-05-24 12:39:58.945174
+Existing_entries: 75
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [Pommes pourries au sol, récoltes désastreuses, un arboriculteur bio réclame l'interdiction des herbicides qui ont contaminé ses vergers](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/pommes-pourries-au-sol-recoltes-desastreuses-un-arboriculteur-bio-reclame-l-interdiction-des-herbicides-qui-ont-contamine-ses-vergers-2974790.html)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [Incendie du magasin Darty à Brest. Le feu couve toujours et le trafic du tram est perturbé](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/incendie-du-magasin-darty-a-brest-le-feu-couve-toujours-et-le-trafic-du-tram-perturbe-2974613.html)
+append_entries: 2
+Finish: 2024-05-24 12:40:07.057052

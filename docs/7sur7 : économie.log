@@ -615,3 +615,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les enfants qui n'éteignent jamais les lumières: quel coût annuel y est lié?](https://www.7sur7.be/economie/les-enfants-qui-n-eteignent-jamais-les-lumieres-quel-cout-annuel-y-est-lie~ad6573aa/)
 append_entries: 3
 Finish: 2024-05-24 01:13:13.077671
+------------------------------------------------------
+Started: 2024-05-24 12:34:14.908124
+Existing_entries: 119
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [Sally et Dirk vivent dans une maison serre avec un intérieur très coloré](https://www.7sur7.be/economie/sally-et-dirk-vivent-dans-une-maison-serre-avec-un-interieur-tres-colore~a0cfc7c0/)
+Token length: 353
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi certains comptes d'épargne sont-ils plus rentables que d'autres? Et comment choisir le meilleur compte?](https://www.7sur7.be/economie/pourquoi-certains-comptes-d-epargne-sont-ils-plus-rentables-que-d-autres-et-comment-choisir-le-meilleur-compte~a75afcbe/)
+append_entries: 2
+Finish: 2024-05-24 12:34:22.605841

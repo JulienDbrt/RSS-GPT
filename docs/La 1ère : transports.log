@@ -496,3 +496,21 @@ Summarized using GPT-3.5-turbo
 Append: [Alternéo : le réseau suspendu ce vendredi de 11h à 14h, suite à des jets de pierre contre les bus](https://la1ere.francetvinfo.fr/reunion/alterneo-le-reseau-suspendu-ce-vendredi-de-11h-a-14h-suite-a-des-jets-de-pierre-contre-les-bus-1490492.html)
 append_entries: 6
 Finish: 2024-05-24 01:25:35.787082
+------------------------------------------------------
+Started: 2024-05-24 12:41:20.458743
+Existing_entries: 66
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [L’aller-retour des étudiants ultramarins vers leur lieu d’étude désormais pris en charge jusqu’à 28 ans](https://la1ere.francetvinfo.fr/l-aller-retour-des-etudiants-ultramarins-vers-leur-lieu-d-etude-desormais-pris-en-charge-jusqu-a-28-ans-1490864.html)
+Token length: 47
+Summarized using GPT-3.5-turbo
+Append: [Le réseau de bus Alternéo à l’arrêt de 11h à 14h ce vendredi](https://la1ere.francetvinfo.fr/reunion/le-reseau-de-bus-alterneo-a-l-arret-de-11h-a-14h-ce-vendredi-1490831.html)
+Token length: 303
+Summarized using GPT-3.5-turbo
+Append: [La réouverture de l'aéroport de Nouméa à nouveau repoussée](https://la1ere.francetvinfo.fr/nouvellecaledonie/emeutes-en-nouvelle-caledonie-l-aeroport-international-ferme-jusqu-au-28-mai-108-vols-et-12-000-passagers-concernes-1490783.html)
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: [Saint-Pierre : un bus en feu sur la 4 voies du Tampon](https://la1ere.francetvinfo.fr/reunion/saint-pierre-un-bus-en-feu-sur-la-4-voies-du-tampon-1490795.html)
+append_entries: 4
+Finish: 2024-05-24 12:41:36.670270
