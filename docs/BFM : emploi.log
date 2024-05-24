@@ -387,3 +387,15 @@ Existing_entries: 45
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-05-23 01:12:33.903237
+------------------------------------------------------
+Started: 2024-05-24 01:15:08.543219
+Existing_entries: 45
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Propos sexistes, illégitimité: les femmes managers sont également victimes de discriminations notamment de la part des plus jeunes](https://www.bfmtv.com/economie/emploi/propos-sexistes-illegitimite-les-femmes-managers-sont-egalement-victimes-de-discriminations-notamment-de-la-part-des-plus-jeunes_AV-202405230456.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Sophie Binet: "Ce sont plus de 60.000 emplois qui sont en train de disparaître en France, essentiellement dans l'industrie"](https://www.bfmtv.com/economie/emploi/sophie-binet-ce-sont-plus-de-60-000-emplois-qui-sont-en-train-de-disparaitre-en-france-essentiellement-dans-l-industrie_VN-202405230241.html)
+append_entries: 2
+Finish: 2024-05-24 01:15:16.691239

@@ -399,3 +399,15 @@ Existing_entries: 49
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-05-23 01:16:57.083590
+------------------------------------------------------
+Started: 2024-05-24 01:22:17.556844
+Existing_entries: 49
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: [Affaire à saisir, maison de 5 pièces avec piscine à Toulouse pour le prix imbattable de 310 000 euros, une annonce qui interpelle](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/maison-hors-norme-a-saisir-villa-5-pieces-piscine-4000-m2-de-terrain-survolee-par-le-telepherique-pour-310-000-euros-2974154.html)
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [La mise en vente de logements a chuté de plus de 80%, un chiffre alarmant, constat d'un marché immobilier asséché pour longtemps](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/la-mise-en-vente-de-logements-a-chute-de-plus-de-80-un-chiffre-alarmant-constat-d-un-marche-immobilier-asseche-pour-longtemps-2973650.html)
+append_entries: 2
+Finish: 2024-05-24 01:22:25.930322

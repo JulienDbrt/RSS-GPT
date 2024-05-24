@@ -592,3 +592,24 @@ Summarized using GPT-3.5-turbo
 Append: [INFO EUROPE 1 - SNCF : une prime de 95 euros brut par jour pendant les JO pour les cheminots](https://www.europe1.fr/economie/info-europe-1-sncf-une-prime-de-95-euros-brut-par-jour-pendant-les-jo-pour-les-cheminots-4248478)
 append_entries: 3
 Finish: 2024-05-23 01:14:53.849241
+------------------------------------------------------
+Started: 2024-05-24 01:18:36.629271
+Existing_entries: 108
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [Marché du travail : pour les jeunes ruraux, les kilomètres sont lourds à porter](https://www.europe1.fr/economie/marche-du-travail-pour-les-jeunes-ruraux-les-kilometres-sont-lourds-a-porter-4248702)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : la taxe foncière ne cesse d'augmenter, selon une étude](https://www.europe1.fr/economie/immobilier-la-taxe-fonciere-ne-cesse-daugmenter-selon-une-etude-4248696)
+Token length: 362
+Summarized using GPT-3.5-turbo
+Append: [Pascal Praud et vous - Primes SNCF : «On demande plus de conducteurs à un moment où l'on est en congés normalement», justifie un salarié](https://www.europe1.fr/economie/pascal-praud-et-vous-primes-sncf-on-demande-plus-de-conducteurs-a-un-moment-ou-lon-est-en-conges-normalement-justifie-un-salarie-4248618)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Impôts : Ain, Aisne... Les Français de 19 premiers départements ont jusqu'à ce jeudi soir pour remplir leur déclaration](https://www.europe1.fr/economie/impots-ain-aisne-les-francais-de-19-premiers-departements-ont-jusqua-ce-soir-pour-remplir-leur-declaration-4248622)
+Token length: 351
+Summarized using GPT-3.5-turbo
+Append: [«Loi Airbnb» : le Sénat a-t-il raison de vouloir taxer davantage les propriétaires pour résoudre la crise du logement ?](https://www.europe1.fr/economie/loi-airbnb-le-senat-a-t-il-raison-de-vouloir-taxer-davantage-les-proprietaires-pour-resoudre-la-crise-du-logement-4248511)
+append_entries: 5
+Finish: 2024-05-24 01:18:54.392983

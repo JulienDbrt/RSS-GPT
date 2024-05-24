@@ -1058,3 +1058,24 @@ Summarized using GPT-3.5-turbo
 Append: [Des gens du voyage bloquent un boulevard à Reims, 50 policiers sur place](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/des-gens-du-voyage-bloquent-un-boulevard-a-reims-50-policiers-sur-place-2973743.html)
 append_entries: 7
 Finish: 2024-05-23 01:17:20.138731
+------------------------------------------------------
+Started: 2024-05-24 01:22:26.071081
+Existing_entries: 269
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [Quelle est cette goélette bretonne, le Gallant, qui a coulé aux Bahamas ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/quelle-est-cette-goelette-bretonne-le-gallant-qui-a-coule-aux-bahamas-2974283.html)
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: [Affaire à saisir, maison de 5 pièces avec piscine à Toulouse pour le prix imbattable de 310 000 euros, une annonce qui interpelle](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/maison-hors-norme-a-saisir-villa-5-pieces-piscine-4000-m2-de-terrain-survolee-par-le-telepherique-pour-310-000-euros-2974154.html)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Grève pour les primes JO : la direction de la SNCF propose jusqu'à 1900 euros d'indemnités pour les cheminots mobilisés pendant les Jeux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-pour-les-primes-jo-la-direction-de-la-sncf-propose-jusqu-a-1-900-euros-d-indemnites-pour-les-cheminots-franciliens-2974103.html)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Un métro prend feu à Part Dieu, trafic perturbé sur la ligne B](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/un-metro-prend-feu-a-part-dieu-trafic-perturbe-sur-la-ligne-b-2974106.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [La Poste livre ses colis par drone dans des villages de montagne : "C'est deux fois moins de temps"](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/la-poste-livre-ses-colis-par-drone-dans-des-villages-de-montagne-c-est-deux-fois-moins-de-temps-2972819.html)
+append_entries: 5
+Finish: 2024-05-24 01:22:46.013842

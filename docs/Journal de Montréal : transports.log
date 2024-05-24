@@ -474,3 +474,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les turbulences aériennes, c'est quoi?](https://www.journaldemontreal.com/2024/05/21/les-turbulences-aeriennes-cest-quoi)
 append_entries: 2
 Finish: 2024-05-23 01:17:29.731782
+------------------------------------------------------
+Started: 2024-05-24 01:22:57.641557
+Existing_entries: 64
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Circulation difficile entre Laval et Montréal: évitez le pont Papineau-Leblanc ce week-end](https://www.journaldemontreal.com/2024/05/23/circulation-difficile-entre-laval-et-montreal-evitez-le-pont-papineau-leblanc-ce-week-end)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [Prévoyez vos déplacements: voici les routes touchées par les entraves dès mercredi soir](https://www.journaldemontreal.com/2024/05/22/prevoyez-vos-deplacements-voici-les-routes-concernees-par-les-entraves-de-mercredi-soir)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Enquête de la STM: des explorateurs urbains dans la loge de l’opérateur du métro](https://www.journaldemontreal.com/2024/05/22/enquete-de-la-stm-des-explorateurs-urbains-dans-la-loge-de-loperateur-du-metro)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [La 50, «l’autoroute de la mort»: une vraie honte nationale](https://www.journaldemontreal.com/2024/05/23/la-50-lautoroute-de-la-mort-une-vraie-honte-nationale)
+append_entries: 4
+Finish: 2024-05-24 01:23:12.685598

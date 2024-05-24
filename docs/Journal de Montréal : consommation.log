@@ -481,3 +481,21 @@ Summarized using GPT-3.5-turbo
 Append: [Lotto Max: tentez votre chance, un gros lot de 70 M$ sera en jeu vendredi](https://www.journaldemontreal.com/2024/05/22/lotto-max-tentez-votre-chance-un-gros-lot-de-70-m-sera-en-jeu-vendredi)
 append_entries: 1
 Finish: 2024-05-23 01:17:22.631239
+------------------------------------------------------
+Started: 2024-05-24 01:22:46.048833
+Existing_entries: 65
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Voici les meilleurs types de lait pour la santé, selon une diététicienne américaine](https://www.journaldemontreal.com/2024/05/23/voici-les-meilleurs-types-de-lait-pour-la-sante-selon-une-dieteticienne)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Les paniers de légumes fermiers : des fruits et légumes bios, locaux, de saison et moins chers qu'en épicerie](https://www.journaldemontreal.com/2024/05/23/les-paniers-de-legumes-fermiers--des-fruits-et-legumes-bios-locaux-de-saison-et-moins-chers-quen-epicerie)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Le combat des circulaires - Du 23 au 29 mai 2024](https://www.journaldemontreal.com/2024/05/23/le-combat-des-circulaires---du-23-au-29-mai-2024)
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [Le retour des rabais sur le beurre: un bon moment pour en stocker](https://www.journaldemontreal.com/2024/05/22/le-retour-des-rabais-sur-le-beurre-un-bon-moment-pour-en-stocker)
+append_entries: 4
+Finish: 2024-05-24 01:22:57.607212

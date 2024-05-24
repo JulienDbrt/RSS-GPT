@@ -440,3 +440,12 @@ Existing_entries: 56
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-05-23 01:15:42.731698
+------------------------------------------------------
+Started: 2024-05-24 01:19:48.966570
+Existing_entries: 56
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière : gare à la hausse](https://www.francetvinfo.fr/economie/impots/taxe-fonciere-gare-a-la-hausse_6561227.html)
+append_entries: 1
+Finish: 2024-05-24 01:19:52.320393

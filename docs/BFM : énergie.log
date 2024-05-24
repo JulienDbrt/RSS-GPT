@@ -435,3 +435,12 @@ Existing_entries: 61
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-05-23 01:12:05.499484
+------------------------------------------------------
+Started: 2024-05-24 01:14:44.585028
+Existing_entries: 61
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [TotalEnergies atteint 2 GW de capacité d'électricité renouvelable en France](https://www.bfmtv.com/economie/entreprises/energie/total-energies-atteint-2-gw-de-capacite-d-electricite-renouvelable-en-france_AD-202405230059.html)
+append_entries: 1
+Finish: 2024-05-24 01:14:47.851428

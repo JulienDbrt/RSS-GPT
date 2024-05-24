@@ -472,3 +472,27 @@ Existing_entries: 60
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
 append_entries: 0
 Finish: 2024-05-23 01:18:31.378105
+------------------------------------------------------
+Started: 2024-05-24 01:25:12.096132
+Existing_entries: 60
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 50
+Summarized using GPT-3.5-turbo
+Append: [Après de longs mois d'attente, Air Antilles obtient son certificat de transport aérien](https://la1ere.francetvinfo.fr/guadeloupe/apres-de-longs-mois-d-attente-air-antilles-obtient-son-certificat-de-transport-aerien-1490702.html)
+Token length: 12
+Summarized using GPT-3.5-turbo
+Append: [La compagnie aérienne Air Antilles a obtenu son Certificat de Transport Aérien](https://la1ere.francetvinfo.fr/martinique/la-compagnie-aerienne-air-antilles-a-obtenu-son-certificat-de-transport-aerien-1490726.html)
+Token length: 49
+Summarized using GPT-3.5-turbo
+Append: [Croisière 2023/2024 : Avec 242 escales, la destination Guadeloupe retrouve son niveau d'avant Covid](https://la1ere.francetvinfo.fr/guadeloupe/croisiere-2023-2024-avec-242-escales-la-destination-guadeloupe-retrouve-son-niveau-d-avant-covid-1490714.html)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Témoignages."On est complètement perdu..." L'attente interminable des Calédoniens bloqués en transit](https://la1ere.francetvinfo.fr/temoignages-on-est-completement-perdu-l-attente-interminable-des-caledoniens-bloques-en-transit-1490030.html)
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [Citalis : trois blessés légers après un freinage d'urgence](https://la1ere.francetvinfo.fr/reunion/citalis-trois-blesses-legers-apres-un-freinage-d-urgence-1490504.html)
+Token length: 44
+Summarized using GPT-3.5-turbo
+Append: [Alternéo : le réseau suspendu ce vendredi de 11h à 14h, suite à des jets de pierre contre les bus](https://la1ere.francetvinfo.fr/reunion/alterneo-le-reseau-suspendu-ce-vendredi-de-11h-a-14h-suite-a-des-jets-de-pierre-contre-les-bus-1490492.html)
+append_entries: 6
+Finish: 2024-05-24 01:25:35.787082

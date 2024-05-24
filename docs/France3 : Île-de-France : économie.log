@@ -528,3 +528,18 @@ Summarized using GPT-3.5-turbo
 Append: [Itinéraires bis Waze : le ras-le-bol des communes prises d'assaut pour gagner quelques minutes](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/itineraires-bis-waze-le-ras-le-bol-des-communes-prises-d-assaut-pour-gagner-quelques-minutes-2973713.html)
 append_entries: 1
 Finish: 2024-05-23 01:16:36.324257
+------------------------------------------------------
+Started: 2024-05-24 01:20:53.691517
+Existing_entries: 92
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [Réforme du choc des savoirs."Nous ne voulons pas que nos enfants soient des victimes", une journée "collèges morts" organisée dans le Val-d'Oise](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/reforme-du-choc-des-savoirs-nous-ne-voulons-pas-que-nos-enfants-soient-des-victimes-une-journee-colleges-morts-organisee-dans-le-val-d-oise-2974250.html)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Grève pour les primes JO : la direction de la SNCF propose jusqu'à 1900 euros d'indemnités pour les cheminots mobilisés pendant les Jeux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-pour-les-primes-jo-la-direction-de-la-sncf-propose-jusqu-a-1-900-euros-d-indemnites-pour-les-cheminots-franciliens-2974103.html)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: ["On se retrouve à faire des tâches qui ne font pas partie de nos prérogatives", on vous explique pourquoi les bibliothécaires de la Ville de Paris sont en grève](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/on-se-retrouve-a-faire-des-taches-qui-ne-font-pas-partie-de-nos-prerogatives-on-vous-explique-pourquoi-les-bibliothecaires-de-la-ville-de-paris-sont-en-greve-2973287.html)
+append_entries: 3
+Finish: 2024-05-24 01:21:05.494492

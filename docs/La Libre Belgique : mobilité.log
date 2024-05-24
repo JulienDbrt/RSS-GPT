@@ -500,3 +500,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le tram 25 ne sera finalement pas supprimé cet automne : “Une excellente nouvelle pour tous les Schaerbeekois”](https://www.lalibre.be/regions/bruxelles/2024/05/22/le-tram-25-ne-sera-finalement-pas-supprime-cet-automne-une-excellente-nouvelle-pour-tous-les-schaerbeekois-5JY4D5W3FVCUXKCY2NANR6Z3HU/)
 append_entries: 1
 Finish: 2024-05-23 01:19:55.735938
+------------------------------------------------------
+Started: 2024-05-24 01:27:31.794246
+Existing_entries: 102
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: ["Les habitants sont à bout et leur santé est affectée. Les promesses de la Stib ne sont pas tenues"](https://www.lalibre.be/regions/bruxelles/2024/05/23/les-habitants-sont-a-bout-et-leur-sante-est-affectee-les-promesses-de-la-stib-ne-sont-pas-tenues-YPHVTF674VAPLLQ2NQUABCVSQU/)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Un camion en feu sur l'E40 entre Gand et Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/05/23/un-camion-en-feu-sur-le40-entre-gand-et-bruxelles-4WMIRWHDHBGTDPSNOITLWIPO54/)
+append_entries: 2
+Finish: 2024-05-24 01:27:40.718037

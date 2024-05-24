@@ -5,14 +5,348 @@
 <link>https://korben.info</link>
 
 <item>
+<title>La Tesla Model 3 à nouveau hackée – L’Ultra-Wideband est visiblement inutile…</title>
+<link>https://korben.info/tesla-model-3-piratee-malgre-ultra-wideband-voleurs-s-en-frottent-les-mains.html</link>
+<guid>https://korben.info/tesla-model-3-piratee-malgre-ultra-wideband-voleurs-s-en-frottent-les-mains.html</guid>
+<content:encoded><![CDATA[
+<div> voleurs, attaques relais, Tesla, Ultra-Wideband, code PIN <br>
+<br>
+Summary: Tesla cars, including the latest models, are vulnerable to relay attacks by thieves who can intercept the signal from the key or smartphone to unlock and start the vehicle from a distance. Despite Tesla's use of Ultra-Wideband technology to prevent such attacks, researchers have successfully hacked a Tesla Model 3. Tesla is still working on improving the reliability of this technology. To protect against relay attacks, users are advised to activate the code PIN for starting the car and keep the key away from the vehicle at night. Other car manufacturers using Ultra-Wideband technology are also at risk. Theft of Tesla cars for spare parts is a concern, despite their lower theft rates compared to other models. Vigilance and precautions, such as using signal-blocking boxes for keys, are recommended to prevent relay attacks. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_someone_is_robbing_a_Tesla_Car_638ec8ae-3089-4d9d-a57d-cb3ff2c9abb1.webp" width="1920" /></p>
+<p>Mauvaise nouvelle, les derniers modèles de <strong>Tesla</strong> ne sont pas épargnés par les voleurs. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-17167341" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Comment ça ? Et bien ces derniers utilisent une technique d&rsquo;<strong>attaque relais</strong> pour duper votre voiture en captant le signal de votre <strong>clé</strong> ou de votre <strong>smartphone</strong> (si vous utilisez l&rsquo;app Tesla) et cela même si vous êtes à des dizaines de mètres. Ensuite, ils relaient ce signal jusqu&rsquo;à votre caisse garée gentiment devant chez vous et là, surprise, la voiture croit que vous êtes à côté avec la clé et hop, elle se déverrouille en moins de deux.</p>
+
+
+
+<p>Alors ce genre d&rsquo;attaques, c&rsquo;est pas nouveau et la techno <a href="https://fr.wikipedia.org/wiki/Ultra_wideband" rel="noopener" target="_blank"><strong>Ultra-Wideband</strong></a>, ça devait justement empêcher ça&#8230; Mais c&rsquo;était sans compter sur les chercheurs chinois de GoGoByte ont réussi à pirater une <strong>Tesla Model 3</strong> flambant neuve avec du matos radio à moins de 100 balles. Ils ont ainsi pu déverrouiller la voiture et même la démarrer en quelques secondes, et ce jusqu&rsquo;à une distance de 5 mètres. Une démo de l&rsquo;attaque est visible en vidéo <a href="https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/" rel="noopener" target="_blank">dans l&rsquo;article de Wired</a>.</p>
+
+
+
+<p>Pourtant, Tesla avait vanté les mérites de l&rsquo;Ultra-Wideband, censée empêcher ces attaques relais grâce à une mesure ultra-précise de la distance entre la clé et la voiture, mais visiblement, c&rsquo;est pas encore au point&#8230; Et quand les chercheurs ont signalé la faille, Tesla leur a répondu un truc du genre « <em>Ouais, on bosse encore dessus pour améliorer la fiabilité. Pour l&rsquo;instant c&rsquo;est normal que ça marche pas</em>« . C&rsquo;est pas sérieux.</p>
+
+
+
+<p>La seule parade pour vous protéger de ça,  c&rsquo;est soit d&rsquo;avoir une caisse pourrie que personne ne veut voler, soit c&rsquo;est d&rsquo;activer le code PIN (désactivé par défaut) pour autoriser le démarrage. Pour l&rsquo;activer, appuyez sur « Contrôles » > « Sécurité » > « Code PIN pour la conduite ». Vous serez alors invité à créer votre code de vérification à 4 chiffres. Validez, et ne l&rsquo;oubliez pas !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2014522078" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bien sûr, Tesla n&rsquo;est pas le seul constructeur à s&rsquo;être planté car d&rsquo;autres marques ont également adopté l&rsquo;Ultra-Wideband et sont donc tout aussi vulnérables aux attaques relais. Après faut pas oublier que grâce GPS intégré, les Tesla sont statistiquement moins volées que les autres bagnoles même si certains réseaux mafieux les ciblent quand même pour les pièces détachées.</p>
+
+
+
+<p>En attendant, soyez vigilants, et le soir, emmenez votre clé le plus loin possible de votre véhicule au lieu de les laisser trainer dans l&rsquo;entrée de la maison. Vous pouvez même opter pour une petite boite qui fera office de <a href="https://amzn.to/3wEqaBY" rel="noopener" target="_blank">cage de faraday</a> <em>(lien affilié)</em>, histoire de bloquer les ondes de la clé.</p>
+
+
+
+<p><a href="https://qz.com/tesla-keyless-entry-upgrade-steal-theft-1851496376" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 16:50:14 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 16:50:14 +0000</pubDate>
+</item>
+<item>
+<title>Il code un serveur Node JS uniquement avec des fichiers texte !</title>
+<link>https://korben.info/node-js-en-anglais-coder-un-serveur-avec-des-fichiers-texte.html</link>
+<guid>https://korben.info/node-js-en-anglais-coder-un-serveur-avec-des-fichiers-texte.html</guid>
+<content:encoded><![CDATA[
+<div> Node.js, OpenAI, serveur web, langage naturel, développement
+
+Summary:
+Un développeur a réussi à coder un serveur web en utilisant uniquement des fichiers .txt contenant des instructions en anglais. Grâce à Node.js et OpenAI, un script de build compile ces fichiers pour générer automatiquement le code du serveur. Les instructions doivent être précises pour guider le modèle de langage. Le serveur généré propose plusieurs endpoints basiques et peut inclure des endpoints DELETE et POST de manière aléatoire. Les fichiers .txt du dossier text-src sont combinés dans l’index.js, le seul morceau de code écrit par un humain. L'auteur compte améliorer le système pour permettre des routes plus complexes et fiables. Coder en français ou en anglais pourrait être l'avenir du développement web, mais pour le moment, c'est un projet expérimental. Ce Proof of Concept est à la fois amusant et instructif, montrant qu'il est possible de créer un serveur sans écrire de code traditionnellement. Peut-être que dans le futur, le métier de développeur consistera à remplir des fichiers .txt plutôt qu'à écrire des lignes de code complexes. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_crazy_nodeJS_coder_coding_in_plain_english_text_no_cod_97da063e-95a3-4490-8b10-2df55df15e84.webp" width="1920" /></p>
+<p>Et si on pouvait <strong>coder un serveur web</strong> sans écrire une seule ligne de JavaScript, de TypeScript ou tout autre langage de programmation ? Juste des <strong>instructions en anglais (ou en français) tout ce qu&rsquo;il y a de plus classique</strong> dans de simples fichiers texte ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1409993966" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ça paraît dingue mais c&rsquo;est exactement ce qu&rsquo;a réussi à faire un développeur un peu fou avec <strong>Node.js</strong> et OpenAI !</p>
+
+
+
+<p>Son projet baptisé <strong><a href="https://github.com/vitprajzler/node-in-english?tab=readme-ov-file" rel="noopener" target="_blank">Node-in-English</a></strong> est donc composé de fichiers sources qui sont des <code>.txt</code> contenant des commandes détaillées en<strong> anglais dans le texte</strong>. Un script de build Node.js se charge alors de « compiler » ces fichiers pour générer automatiquement le code du serveur et le déployer. Cette technologie repose ainsi sur l&rsquo;utilisation du langage naturel pour définir les actions et comportements d&rsquo;un serveur web et le script utilise l&rsquo;API d&rsquo;OpenAI pour interpréter ces instructions textuelles et générer le code nécessaire pour créer les endpoints du serveur. Chaque build consomme ainsi environ 4000 tokens chez OpenAI.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161170" height="452" src="https://korben.info/app/uploads/2024/05/SCR-20240523-qblb.webp" style="width: 535px; height: auto;" width="1000" /></figure></div>
+
+
+<p>Évidemment, on ne peut pas juste demander « build me a server »&#8230; Les instructions doivent être suffisamment précises pour guider le modèle de langage vers le résultat attendu. Cela implique une certaine compréhension des <strong>librairies et frameworks</strong> sous-jacents, et l&rsquo;auteur admet d&rsquo;ailleurs que l&rsquo;expérience de coder en langage naturel est plus frustrante comparée à un vrai langage de programmation car la quantité de texte et le nombre d&rsquo;essais nécessaire pour obtenir un résultat précis est bien plus important.</p>
+
+
+
+<p>Mais l&rsquo;idée c&rsquo;était plutôt de montrer ce qu&rsquo;il est possible de faire à des gens qui ne peuvent pas, ne veulent pas ou n&rsquo;osent pas se lancer dans le développement classique. Un genre de porte d&rsquo;entrée vers le développement en douceur, en quelque sorte. L&rsquo;auteur voulait surtout voir s&rsquo;il était possible de construire un serveur sans écrire de code et comprendre dans quelle mesure des compétences techniques étaient nécessaires pour créer un serveur web fonctionnel.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161172" height="302" src="https://korben.info/app/uploads/2024/05/SCR-20240523-qfqr.webp" width="1000" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-952532395" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Le serveur généré, accessible sur <a href="https://nie.avoguard.com/" rel="noopener" target="_blank">https://nie.avoguard.com/</a>, propose plusieurs endpoints basiques :</p>
+
+
+
+<ul>
+<li><code>/</code> : une page d&rsquo;accueil HTML listant les différentes routes</li>
+
+
+
+<li><code>/list</code> : retourne la liste des endpoints au format JSON (ou parfois un tableau JSON, selon son humeur du jour)</li>
+
+
+
+<li><code>/quote</code> : affiche une citation aléatoire à partir d&rsquo;une liste générée lors du build</li>
+
+
+
+<li><code>/ping</code> : répond « pong », ce qui est toujours rassurant</li>
+
+
+
+<li><code>/about</code> : retourne une courte description du serveur, ou une erreur 404</li>
+
+
+
+<li><code>/contact</code> : retourne des informations de contact, ou une erreur 404</li>
+</ul>
+
+
+
+<p>Des endpoints DELETE et POST font aussi parfois leur apparition de manière aléatoire selon les compilations.</p>
+
+
+
+<p>C&rsquo;est là tout le charme (et le côté flippant) de la chose&#8230; On a beau fournir les mêmes instructions en entrée, on n&rsquo;est jamais certain de ce qu&rsquo;on va obtenir à l&rsquo;arrivée. </p>
+
+
+
+<p>Maintenant, d&rsquo;un point de vue technique, les fichiers <code>.txt</code> du dossier <code>text-src</code> sont combinés dans l&rsquo;ordre défini dans le script <code>/index.js</code>, qui représente l&rsquo;unique morceau de code écrit par un humain. L&rsquo;auteur compte améliorer son système pour permettre de définir des routes plus complexes et plus fiables et y&rsquo;a même une petite doc pour ceux qui veulent essayer de compiler ça eux-même.</p>
+
+
+
+<p>Alors, est-ce que <strong>coder en français ou en anglais</strong> est l&rsquo;avenir du développement web ? Peut-être un jour mais pour le moment, on reste quand même sur un projet bien expérimental, avec un <strong>Proof of Concept</strong> à la fois amusant mais surtout instructif au niveau de ses prompts.</p>
+
+
+
+<p>Alors qui sait, peut-être que dans quelques années le métier de développeur consistera à remplir des fichiers <code>.txt</code> plutôt qu&rsquo;à pisser des lignes de code obscures. Une sorte de <strong>no-code</strong> nouvelle génération en somme&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-712248066" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://github.com/vitprajzler/node-in-english?tab=readme-ov-file" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 16:35:01 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 16:35:01 +0000</pubDate>
+</item>
+<item>
+<title>Phil Zimmermann – Père de PGP et gardien de notre vie privée</title>
+<link>https://korben.info/histoire-phil-zimmermann-pgp-cryptographie.html</link>
+<guid>https://korben.info/histoire-phil-zimmermann-pgp-cryptographie.html</guid>
+<content:encoded><![CDATA[
+<div> PGP, Phil Zimmermann, cryptographie, sécurité, internet
+Summary:
+Phil Zimmermann est un pionnier de la cryptographie connu pour avoir créé PGP, un logiciel de chiffrement d'e-mails révolutionnaire. Il a lutté contre les autorités américaines pour la liberté de diffusion de son logiciel, marquant ainsi l'histoire de la sécurité numérique. Zimmermann a fondé des entreprises telles que PGP Inc. et Silent Circle, promouvant la confidentialité des communications. Il a également contribué à des projets visant à sécuriser les communications VoIP et les réseaux sociaux. Zimmermann a reçu de nombreuses récompenses pour ses contributions à la cryptographie et a défendu activement la vie privée dans l'ère numérique. Il continue d'œuvrer pour un Internet plus sûr en alertant sur les dangers de la surveillance gouvernementale et des géants de la technologie. Son influence dans le domaine de la sécurité et de la confidentialité est indéniable, inspirant de nombreux développeurs et activistes à défendre la liberté et la sécurité en ligne. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Press_drawing_of_Phil_Zimmermann_0587a702-96a4-4adf-9938-193051e0e82a.webp" width="1456" /></p>
+<p>Je me souviens très bien, la première fois que j&rsquo;ai entendu parler de <strong>Phil Zimmermann</strong>&#8230; C&rsquo;était à la fin des années 90 quand pour la première fois, j&rsquo;ai installé PGP sur mon ordinateur en me disant « <em>Trop cool, on peut chiffrer en 4096 bits, c&rsquo;est dingue (en plus d&rsquo;être interdit à l&rsquo;époque) !</em>« .</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-451785746" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Philip R. Zimmermann est né en 1954 à Camden dans le New Jersey aux Etats-Unis et il est surtout connu de tous les techos que nous sommes pour avoir marqué l&rsquo;histoire de l&rsquo;informatique grâce à son invention : PGP (Pretty Good Privacy).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161150" height="456" src="https://korben.info/app/uploads/2024/05/phil_zimmerman_pgp-1.webp" width="382" /></figure></div>
+
+
+<p>Téléchargé au début par quelques geeks, PGP est rapidement devenu le logiciel de chiffrement d&#8217;email le plus utilisé au monde. Imaginez-le en 1991, à 37 ans bien tassé, développant ce qu&rsquo;il espérait devenir un outil pour aider les droits de l&rsquo;homme&#8230; Notre utopiste l&rsquo;a d&rsquo;ailleurs rendu disponible gratuitement très rapidement, en le diffusant sur le net&#8230; Et c&rsquo;était un truc de dingue ! On pouvait enfin sécuriser sérieusement nos communications électroniques grâce à ce tout petit outil de rien du tout. C&rsquo;est cet événement qui a à tout jamais façonné la réputation de Zimmermann en tant que pionnier de la cryptographie moderne.</p>
+
+
+
+<p>Un des aspects fascinants de PGP, c&rsquo;était que ce logiciel fonctionnait déjà comme un système de chiffrement hybride. Plutôt que de choisir entre de la cryptographie symétrique (<em>rapide mais nécessitant une distribution sécurisée des clés</em>) et asymétrique (<em>sécurisée mais lente</em>), Zimmermann a opté pour une combinaison des deux, histoire d&rsquo;avoir la vitesse ET l&rsquo;efficacité. La première version de PGP incluait même un algorithme de chiffrement qu&rsquo;il avait développé lui-même, baptisé <a href="https://virtuallyfun.com/wordpress/2014/08/22/fun-with-pgp-1-0/" rel="noopener" target="_blank">Bass-O-matic</a>.</p>
+
+
+
+<p>Bah oui, parce qu&rsquo;avant l&rsquo;arrivée de PGP, envoyer un e-mail c&rsquo;était comme envoyer une carte postale. Tout le monde pouvait lire ce que vous écriviez. Mais avec cet outil, les informations envoyées sont devenues tellement indéchiffrables que même les services secrets ne pouvaient plus rien y faire. Et c&rsquo;est là que Zimmermann a marqué des points dans mon cœur, en offrant à monsieur et madame tout-le-monde la possibilité de protéger ses échanges personnels de manière facile et surtout ultra sécurisée.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161151" height="430" src="https://korben.info/app/uploads/2024/05/Image39.webp" width="615" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1263147629" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Toutefois, cette brillante invention a rapidement attiré l&rsquo;attention des autorités. L&rsquo;histoire se corse en 1993, lorsque le gouvernement américain, qui voyait déjà d&rsquo;un mauvais œil la prolifération d&rsquo;outils de chiffrement, a mené une enquête criminelle à l&rsquo;encontre de Phil pour violation de la loi sur le contrôle des exportations. Car oui, selon les autorités, faire circuler PGP sur le net, c&rsquo;était comme faire passer des armes à l&rsquo;étranger. Cette enquête, déclenchée par un rapport de RSA Security concernant un différend de licence sur l&rsquo;utilisation de l&rsquo;algorithme RSA dans PGP, a duré trois ans. Finalement, elle a été abandonnée en 1996, après que le code source de PGP ait été publié par le MIT Press.</p>
+
+
+
+<p>Zimmermann, en bon résistant, a utilisé cette publication comme une manière de contourner les restrictions d&rsquo;exportation de code numérique. Il a confié plus tard qu&rsquo;il était confus sur la façon dont USENET gérait les limitations géographiques, pensant à tort qu&rsquo;un tag « US only » empêcherait réellement la diffusion mondiale. Mais sa démarche était claire : PGP devait appartenir au monde entier.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161152" height="1024" src="https://korben.info/app/uploads/2024/05/1506911641.0.x-1024x1024.webp" width="1024" /></figure></div>
+
+
+<p>Après cet épisode tumultueux, il a ensuite fondé PGP Inc. en 1996, sa société destinée à commercialiser sa technologie de chiffrement. Puis, les rachats de boîtes se sont succédé comme dans une partie de Monopoly: PGP Inc. a été rachetée par Network Associates en 1997, avant d&rsquo;être acquise par PGP Corporation en 2002, pour finalement atterrir chez Symantec en 2010. Et bien sûr, Phil est toujours resté à bord de sa coquille de noix en tant que conseiller et consultant, veillant sur PGP comme un gardien du temple.</p>
+
+
+
+<p>Puis il a créé Zfone en 2006, un projet visant à sécuriser les communications VoIP. Grâce au protocole ZRTP, Zfone était capable de sécuriser les appels vocaux en créant une clé cryptographique unique pour chaque conversation.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161154" height="377" src="https://korben.info/app/uploads/2024/05/45472-zfone-pc-gui-secure.webp" style="width: 169px; height: auto;" width="172" /></figure></div>
+
+
+<p>Néanmoins, entre les licences logicielles et les attentes de la communauté, ce projet a connu quelques déboires. Ensuite, en 2012, avec ses amis Mike Janke et Jon Callas, il co-fonde <strong>Silent Circle</strong>, une entreprise spécialisée dans la sécurisation des communications mobiles. Leurs services de messagerie, d&rsquo;appels et d&#8217;emails chiffrés sont alors utilisés par tout le monde, des journalistes en zones de conflit aux agences gouvernementales.</p>
+
+
+
+<p>Avec Silent Circle, Zimmermann a alors une nouvelle fois transformé l&rsquo;art de la communication sécurisée en quelque chose d&rsquo;accessible à tous et de fluide peu importe le réseau&#8230; On est bien loin des soucis de configuration complexe de PGP qu&rsquo;on pouvait rencontré au début. Suite à l&rsquo;affaire Lavabit en 2013, où le FBI a exigé l&rsquo;accès aux e-mails d&rsquo;Edward Snowden, Silent Circle a pris peur et a déplacé ses serveurs en Suisse car ils sont moins susceptibles d&rsquo;y rencontrer des pressions juridiques qu&rsquo;aux États-Unis, comme l&rsquo;a expliqué à l&rsquo;époque Phil.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-352127447" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Puis en 2013, il a rejoint le mouvement Dark Mail Alliance avec Ladar Levison de Lavabit, pour créer un nouveau protocole qui dépasse les limitations de PGP en sécurisant non seulement les emails, mais aussi les métadonnées. Il s&rsquo;est également impliqué dans le réseau social Okuna, aujourd&rsquo;hui disparu, qui était une alternative éthique et respectueuse de la vie privée aux réseaux sociaux existants comme Facebook ou Twitter.</p>
+
+
+
+<p>Alors comme l&rsquo;a déclaré Zimmermann il y a fort longtemps : « <strong>La cryptographie forte fait plus de bien que de mal à la démocratie, même si elle peut servir aux terroristes.</strong>« </p>
+
+
+
+<p>Ce postulat est pour lui autant un angle de défense face à tous ceux qui privilégient leur sécurité à leur liberté (enfin surtout celle des autres), qu&rsquo;une vision claire de son engagement. Il a d&rsquo;ailleurs toujours insisté sur l&rsquo;importance de la vie privée à l&rsquo;ère du numérique.</p>
+
+
+
+<p>Les contributions de Zimmermann à la cryptographie lui ont valu de nombreuses récompenses : du Chrysler Design Award en 1995 aux distinctions les plus prestigieuses comme son entrée au Temple de la renommée de l&rsquo;Internet en 2012. Y&rsquo;a beaucoup trop de distinctions pour que je vous les tartine toutes ici mais croyez moi sur parole, il en a eu une flopée et a même été dans des TOP 50 de personnalités les plus influentes.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161156" height="279" src="https://korben.info/app/uploads/2024/05/e01d16c1-e6ba-4654-8e77-585ca28d97d9-1020x612-1.webp" width="465" /></figure></div>
+
+
+<p>En plus de ses réalisations techniques, Zimmermann a aussi joué un rôle éducatif et politique important. Entre 2016 et 2021, il a travaillé à l&rsquo;Université de Technologie de Delft en tant que professeur dans la section cybersécurité de la Faculté de génie électrique, de mathématiques et d&rsquo;informatique. Il a également été impliqué dans plusieurs conseils consultatifs, notamment pour le département d&rsquo;ingénierie informatique de l&rsquo;Université de Santa Clara et pour Hush Communications. Il a même contribué au développement du protocole d&rsquo;accord de clé cryptographique pour la norme Wireless USB, ce qui démontre une fois encore l&rsquo;étendue de ses compétences et de son influence dans le domaine de la sécurité.</p>
+
+
+
+<p>Il a également participé à des discussions politiques et scientifiques sur la communication sécurisée et la sécurité nationale aux Etats-Unis et en tant que membre de l&rsquo;Association Internationale de Recherche en Cryptologie et de la Ligue pour la Liberté de Programmer, il a continuellement défendu les droits des individus à une communication privée et sécurisée.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-966072137" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Aujourd&rsquo;hui, sa plus grande inquiétude n&rsquo;est pas les portes dérobées dans les logiciels, mais les pétaoctets d&rsquo;informations stockées par des entreprises comme Google et Facebook. Il met également en garde contre les poursuites judiciaires facilitées par la technologie et craint qu&rsquo;une infrastructure de surveillance aux mains d&rsquo;un gouvernement malveillant ne puisse être utilisée pour créer un régime immuable. Il plaide également pour le rétablissement d&rsquo;une certaine « friction » dans le travail policier, afin d&rsquo;éviter de glisser trop facilement vers un état policier.</p>
+
+
+
+<p>Pour conclure, Phil Zimmermann reste un pionnier inébranlable dans le domaine de la cryptographie. Il a inspiré des générations de développeurs et d&rsquo;activistes à poursuivre leur quête d&rsquo;un Internet libre et sécurisé. Donc un grand merci à lui pour avoir fait de notre Internet un monde plus sûr pour notre vie privée !</p>
+
+
+
+<p class="has-small-font-size"><em>Sources</em> :</p>
+
+
+
+<ul>
+<li class="has-small-font-size"><a href="https://en.wikipedia.org/wiki/Phil_Zimmermann">https://en.wikipedia.org/wiki/Phil_Zimmermann</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://philzimmermann.com/FR/background/index.html">https://philzimmermann.com/FR/background/index.html</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://philzimmermann.com/EN/findpgp/index.html">https://philzimmermann.com/EN/findpgp/index.html</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://philzimmermann.com/EN/testimony/index.html">https://philzimmermann.com/EN/testimony/index.html</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://cyberlaw.stanford.edu/about/people/phil-zimmermann">https://cyberlaw.stanford.edu/about/people/phil-zimmermann</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://www.internethalloffame.org/official-biography-philip-zimmermann/">https://www.internethalloffame.org/official-biography-philip-zimmermann/</a></li>
+
+
+
+<li class="has-small-font-size"><a href="http://vadeker.net/humanite/geopolitique/pgp1.html">http://vadeker.net/humanite/geopolitique/pgp1.html</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy">https://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy</a></li>
+
+
+
+<li class="has-small-font-size"><a href="https://hiddenheroes.netguru.com/philip-zimmermann">https://hiddenheroes.netguru.com/philip-zimmermann</a></li>
+</ul>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 13:15:38 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 13:15:38 +0000</pubDate>
+</item>
+<item>
+<title>TimeGPT – L’IA qui prédit l’avenir</title>
+<link>https://korben.info/timegpt-ia-revolutionnaire-prediction-series-temporelles.html</link>
+<guid>https://korben.info/timegpt-ia-revolutionnaire-prediction-series-temporelles.html</guid>
+<content:encoded><![CDATA[
+<div> modèle fondateur prédiction séries temporelles deep learning analyse temporelle<br>
+<br>Summary:
+TimeGPT est un modèle révolutionnaire dédié à la prédiction des séries temporelles, combinant l'apprentissage profond et l'analyse temporelle. Grâce à sa capacité à ingérer et analyser de grandes quantités de données temporelles, il offre des prédictions précises pour l'avenir. Le modèle s'appuie sur une architecture déjà efficace dans le domaine du traitement du langage naturel, mais appliquée aux séries temporelles. TimeGPT peut être ajusté pour répondre à des besoins spécifiques et s'améliore continuellement avec l'entraînement sur de nouvelles données. Il est polyvalent, convenant à de nombreux domaines tels que la finance, la logistique, ou la médecine. Les créateurs de TimeGPT, Azul Garza et Max Mergenthaler-Canseco, ont prouvé son efficacité et sa supériorité par rapport à d'autres modèles statistiques. Enfin, son utilisation est simplifiée, ne nécessitant que quelques lignes de code pour anticiper un avenir plus prévisible et maîtrisé.<br> <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="408" src="https://korben.info/app/uploads/2024/03/SCR-20240329-bp.webp" width="1393" /></p>
+<p>Mesdames et Messieurs, préparez-vous à plonger dans l&rsquo;univers fascinant de <strong>TimeGPT</strong>, le premier modèle fondateur dédié à la prédiction des séries temporelles ! Fruit d&rsquo;un mariage audacieux entre l&rsquo;apprentissage profond (deep learning) et l&rsquo;analyse temporelle, TimeGPT promet de révolutionner notre façon d&rsquo;appréhender l&rsquo;avenir.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2032596" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Imaginez que vous soyez à la tête d&rsquo;une entreprise florissante, mais l&rsquo;incertitude plane quant à l&rsquo;évolution future de vos ventes. C&rsquo;est là que TimeGPT entre en scène, tel un chevalier en armure étincelante ! Grâce à sa capacité à ingérer des quantités astronomiques de données temporelles et à en extraire les tendances les plus subtiles, il est capable de vous offrir des prédictions d&rsquo;une précision redoutable. Fini le temps où seules les grandes entreprises pouvaient s&rsquo;offrir les services d&rsquo;une armée de data scientists pour décrypter l&rsquo;avenir. </p>
+
+
+
+<p>Alors comment ça fonctionne ? Vous allez voir, c&rsquo;est pas compliqué. Cette IA s&rsquo;appuie sur une architecture de type <a href="https://fr.wikipedia.org/wiki/Transformeur" rel="noopener" target="_blank">Transformeur</a>, ce fameux modèle qui a déjà fait des merveilles dans le domaine du traitement du langage naturel. Mais ici, au lieu de jongler avec des mots, TimeGPT jongle avec des séries temporelles !</p>
+
+
+
+<p>Ainsi, il suffit de donnez à TimeGPT un aperçu du passé, comme un enfant à qui vous raconteriez une histoire. Le modèle, avec sa curiosité insatiable, absorbe alors ces informations, les analyse sous toutes les coutures, et y recherche des motifs cachés et les relations subtiles entre les différents points dans le temps. Météo, jours fériés, tendances du web&#8230; tout est bon pour nourrir ses algorithmes.</p>
+
+
+
+<p>Et puis, tel un magicien extrayant un lapin de son chapeau, TimeGPT génère une prédiction pour le futur, prolongeant la trajectoire des données ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1144124707" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mieux encore, TimeGPT est loin d&rsquo;être figé. Grâce au <em>fine-tuning</em>, il peut s&rsquo;adapter à vos besoins spécifiques. Vous pouvez l&rsquo;entraîner sur vos propres données pour obtenir des résultats encore plus pertinents. Et bien sûr, grâce à son apprentissage continu, il s&rsquo;améliore au fil du temps pour toujours coller au plus près de la réalité.</p>
+
+
+
+<p>Cet imitateur du passé est surtout capable de s&rsquo;adapter à une multitude de domaines et de cas d&rsquo;usage : financier cherchant à anticiper les tendances du marché, responsable de la chaîne d&rsquo;approvisionnement optimisant ses stocks, ou médecin prédisant l&rsquo;évolution d&rsquo;une maladie&#8230;etc</p>
+
+
+
+<p>Les créateurs de TimeGPT, Azul Garza et Max Mergenthaler-Canseco, ont mis leur créature à l&rsquo;épreuve face à un véritable arsenal de modèles statistiques, d&rsquo;algorithmes d&rsquo;apprentissage automatique et de réseaux de neurones. Et devinez quoi ? <strong>TimeGPT a triomphé haut la main</strong>, surpassant ses concurrents en termes de précision, d&rsquo;efficacité et de simplicité d&rsquo;utilisation.</p>
+
+
+
+<p>Je vous invite <a href="https://docs.nixtla.io/" rel="noopener" target="_blank">à tester TimeGPT par vous-même</a>, à lui soumettre vos propres séries temporelles et vous verrez bien ce que ça donne. Et c&rsquo;est facile de prendre en main puisque quelques lignes de code suffisent pour ouvrir les portes d&rsquo;un avenir plus prévisible et plus maîtrisé.</p>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>City Game Studio – Créez votre studio de jeux vidéo !</title>
 <link>https://korben.info/city-game-studio-creez-votre-studio-de-jeux-video.html</link>
 <guid>https://korben.info/city-game-studio-creez-votre-studio-de-jeux-video.html</guid>
 <content:encoded><![CDATA[
 <div> City Game Studio, développement de jeux vidéo, simulation, gestion, employés
-<br>
-<br>
-Dans le jeu City Game Studio, les joueurs peuvent créer et gérer leur propre studio de développement de jeux vidéo depuis les années 70 jusqu'à aujourd'hui. Ils doivent recruter du personnel, concevoir des jeux, gérer le marketing et les finances pour faire prospérer leur entreprise. Le jeu permet de créer des jeux de A à Z, en choisissant le genre, le thème et en développant le gameplay. Les joueurs doivent attirer des fans, gérer des contrats d'édition et concurrencer d'autres studios pour devenir leader du marché. En prenant soin de leurs employés, en suivant les tendances du marché et en améliorant les compétences de leur équipe, les joueurs peuvent optimiser leurs chances de succès. Le jeu a reçu des critiques positives et offre une expérience immersive dans l'industrie du jeu vidéo.<br><br>Summary: City Game Studio est un jeu de simulation de gestion de studio de développement de jeux vidéo qui permet aux joueurs de créer, gérer et faire prospérer leur entreprise tout en prenant soin de leurs employés, en suivant les tendances du marché et en développant des jeux uniques. <div>
+<br />
+<br />
+Dans le jeu City Game Studio, les joueurs peuvent créer et gérer leur propre studio de développement de jeux vidéo depuis les années 70 jusqu'à aujourd'hui. Ils doivent recruter du personnel, concevoir des jeux, gérer le marketing et les finances pour faire prospérer leur entreprise. Le jeu permet de créer des jeux de A à Z, en choisissant le genre, le thème et en développant le gameplay. Les joueurs doivent attirer des fans, gérer des contrats d'édition et concurrencer d'autres studios pour devenir leader du marché. En prenant soin de leurs employés, en suivant les tendances du marché et en améliorant les compétences de leur équipe, les joueurs peuvent optimiser leurs chances de succès. Le jeu a reçu des critiques positives et offre une expérience immersive dans l'industrie du jeu vidéo.<br /><br />Summary: City Game Studio est un jeu de simulation de gestion de studio de développement de jeux vidéo qui permet aux joueurs de créer, gérer et faire prospérer leur entreprise tout en prenant soin de leurs employés, en suivant les tendances du marché et en développant des jeux uniques. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1260" src="https://korben.info/app/uploads/2024/05/SCR-20240522-nzn.webp" width="2240" /></p>
 <p>Vous rêvez de créer votre propre <strong>studio de développement de jeux vidéo</strong> ? </p>
 
@@ -103,7 +437,6 @@ Dans le jeu City Game Studio, les joueurs peuvent créer et gérer leur propre s
 <p>Bonne chance et amusez-vous bien dans votre conquête de l&rsquo;industrie du jeu vidéo !</p>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 15:36:01 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 15:36:01 +0000</pubDate>
 </item>
 <item>
 <title>Le code source perdu de Sierra retrouvé par miracle !</title>
@@ -112,7 +445,7 @@ Dans le jeu City Game Studio, les joueurs peuvent créer et gérer leur propre s
 <content:encoded><![CDATA[
 <div> code source, disquettes, Sierra, AGI, jeu 
 
-Summary:<br>
+Summary:<br />
 Dans les années 80, les disquettes du jeu Space Quest II de Sierra ont révélé un secret incroyable : près de 70% du code source de leur moteur de jeu AGI était accidentellement inclus. Les fichiers effacés mais non supprimés ont permis de découvrir ce trésor caché, comprenant des fichiers écrits en langage C avec des commentaires détaillés des développeurs. Ce code AGI a été développé principalement par Jeff Stephenson et Chris Iden et a permis de créer des chefs-d'œuvre du jeu d'aventure Sierra tels que King's Quest. Malgré le risque que ce code source tombe entre de mauvaises mains, aucun incident n'a eu lieu. Un passionné a partagé ses découvertes et a même développé un interpréteur AGI moderne basé sur ce code, permettant de jouer aux classiques directement dans le navigateur. Il est conseillé d'explorer ses anciennes disquettes avec un éditeur hexadécimal pour découvrir d'éventuelles surprises. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_a_retro_gaming_screen_capture_of_Space_Quest_II_by_Sierr_340935c2-fc17-47e6-8678-98703cca0163.webp" width="1456" /></p>
 <p>Il y a longtemps, à l&rsquo;époque héroïque des jeux d&rsquo;aventure Sierra, au milieu des <strong>années 80</strong>, un jeu venait juste de sortir : <strong>Space Quest II</strong>. Des milliers de joueurs s&#8217;empressent alors de se le procurer (en disquettes) pour partir dans de nouvelles aventures spatiales déjantées. Jusque là, rien d&rsquo;anormal.</p>
@@ -176,7 +509,6 @@ Dans les années 80, les disquettes du jeu Space Quest II de Sierra ont révél�
 <p><a href="https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 14:10:51 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 14:10:51 +0000</pubDate>
 </item>
 <item>
 <title>Firefox en 2024 – Des nouveautés DINGUES à venir !</title>
@@ -188,7 +520,7 @@ Dans les années 80, les disquettes du jeu Space Quest II de Sierra ont révél�
 Summary:
 Firefox se prépare à offrir une expérience de navigation plus rapide grâce à l'optimisation de ses performances et à une meilleure compatibilité entre navigateurs. Le regroupement d'onglets permettra une organisation efficace, tandis que le respect de la vie privée sera renforcé avec le traitement local des données et l'utilisation responsable de l'intelligence artificielle. Les utilisateurs pourront également bénéficier de fonctionnalités telles que la génération automatique de texte alternatif pour les images dans les PDF, améliorant ainsi l'accessibilité sans compromettre la confidentialité. La version Nightly de Firefox est déjà disponible pour les plus impatients, offrant un avant-goût des améliorations à venir. Avec ces nouvelles fonctionnalités et améliorations, Firefox continue de se positionner comme un navigateur sécurisé, performant et respectueux de la vie privée, offrant une expérience de navigation optimale à ses utilisateurs. 
 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Mozilla_Logo_c4e679d2-7a36-4b91-8754-fc14ee594c54.webp" width="1456" /></p>
 <p><strong>Firefox</strong>, le célèbre navigateur web <strong>open source</strong> développé par la <strong>Fondation Mozilla</strong>, nous prépare encore de belles surprises pour cette année ! Les équipes de Mozilla ont décidé de mettre les bouchées doubles pour nous offrir un navigateur toujours plus rapide, plus sécurisé et encore plus <strong>compatible</strong> avec tous nos sites préférés.</p>
 
@@ -223,17 +555,16 @@ Firefox se prépare à offrir une expérience de navigation plus rapide grâce �
 <p><a href="https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 13:53:30 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 13:53:30 +0000</pubDate>
 </item>
 <item>
 <title>Floorp – Le navigateur web qui va vous faire kiffer !</title>
 <link>https://korben.info/floorp-le-navigateur-web-qui-va-vous-faire-kiffer.html</link>
 <guid>https://korben.info/floorp-le-navigateur-web-qui-va-vous-faire-kiffer.html</guid>
 <content:encoded><![CDATA[
-<div> personnalisation, vie privée, performances, fonctionnalités, open-source<br>
-<br>
-Summary:<br>
-Le navigateur Floorp, développé par des codeurs japonais, offre une personnalisation poussée avec la possibilité de modifier l'apparence et les paramètres selon ses préférences. En termes de vie privée, il propose un blocage efficace des trackers et une protection contre le fingerprinting, garantissant ainsi la confidentialité des données. En outre, Floorp se distingue par ses performances supérieures à celles de Firefox et Chrome, sa légèreté et ses nombreuses fonctionnalités telles que les onglets verticaux, le mode split view et la double barre latérale personnalisable. Il est également 100% open-source, assurant une transparence totale et une sécurité optimale grâce à des mises à jour régulières. Avec Floorp, les utilisateurs ont la possibilité de profiter d'une expérience de navigation personnalisée, sécurisée et performante, tout en soutenant un projet indépendant et innovant. <br><br>Summary: <div>
+<div> personnalisation, vie privée, performances, fonctionnalités, open-source<br />
+<br />
+Summary:<br />
+Le navigateur Floorp, développé par des codeurs japonais, offre une personnalisation poussée avec la possibilité de modifier l'apparence et les paramètres selon ses préférences. En termes de vie privée, il propose un blocage efficace des trackers et une protection contre le fingerprinting, garantissant ainsi la confidentialité des données. En outre, Floorp se distingue par ses performances supérieures à celles de Firefox et Chrome, sa légèreté et ses nombreuses fonctionnalités telles que les onglets verticaux, le mode split view et la double barre latérale personnalisable. Il est également 100% open-source, assurant une transparence totale et une sécurité optimale grâce à des mises à jour régulières. Avec Floorp, les utilisateurs ont la possibilité de profiter d'une expérience de navigation personnalisée, sécurisée et performante, tout en soutenant un projet indépendant et innovant. <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="299" src="https://korben.info/app/uploads/2024/05/SCR-20240521-prj.webp" width="867" /></p>
 <p>Est ce que vous avez déjà entendu parler de ce navigateur baptisé <strong>Floorp</strong> ? </p>
 
@@ -301,9 +632,7 @@ Le navigateur Floorp, développé par des codeurs japonais, offre une personnali
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://floorp.app/en/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 13:31:00 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 13:31:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Un Apple PowerBook de 1994 sous macOS Monterey</title>
 <link>https://korben.info/powerbook-1994-macos-monterey-i5-ecran-retina-projet-diy.html</link>

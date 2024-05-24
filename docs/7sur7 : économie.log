@@ -600,3 +600,18 @@ Existing_entries: 116
 Fetching from https://www.7sur7.be/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-23 01:11:22.667045
+------------------------------------------------------
+Started: 2024-05-24 01:13:00.066454
+Existing_entries: 116
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [Baromètre de la pauvreté: voici les communes où l’ont risque le plus et le moins de basculer dans la précarité](https://www.7sur7.be/belgique/barometre-de-la-pauvrete-voici-les-communes-ou-lont-risque-le-plus-et-le-moins-de-basculer-dans-la-precarite~a427dbfc/)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [La situation économique inquiète les Belges: la confiance des consommateurs continue de reculer](https://www.7sur7.be/economie/la-situation-economique-inquiete-les-belges-la-confiance-des-consommateurs-continue-de-reculer~a622bc23/)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Les enfants qui n'éteignent jamais les lumières: quel coût annuel y est lié?](https://www.7sur7.be/economie/les-enfants-qui-n-eteignent-jamais-les-lumieres-quel-cout-annuel-y-est-lie~ad6573aa/)
+append_entries: 3
+Finish: 2024-05-24 01:13:13.077671

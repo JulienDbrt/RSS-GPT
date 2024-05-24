@@ -380,3 +380,9 @@ Summarized using GPT-3.5-turbo
 Append: [Vol de Singapore Airlines : ce que l'on sait après des turbulences qui ont fait un mort et une centaine de blessés](https://www.francetvinfo.fr/faits-divers/vol-de-singapore-airlines-ce-que-l-on-sait-apres-des-turbulences-qui-ont-fait-un-mort-et-une-centaine-de-blesses_6559595.html)
 append_entries: 2
 Finish: 2024-05-23 01:15:41.409987
+------------------------------------------------------
+Started: 2024-05-24 01:19:47.769037
+Existing_entries: 36
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-05-24 01:19:47.862311

@@ -433,3 +433,15 @@ Summarized using GPT-3.5-turbo
 Append: [Maisons fissurées : découvrez si votre habitation est située dans une zone exposée au risque de retrait-gonflement des argiles grâce à notre carte](https://www.ladepeche.fr/2023/10/11/carte-maisons-fissurees-votre-habitation-est-elle-situee-dans-une-zone-exposee-au-risque-de-retrait-gonflement-des-argiles-11509303.php)
 append_entries: 2
 Finish: 2024-05-23 01:19:18.184319
+------------------------------------------------------
+Started: 2024-05-24 01:26:46.925010
+Existing_entries: 57
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : audience au tribunal judiciaire pour la désignation d’un expert à la demande des propriétaires de l’immeuble de la rue du Puits Clos, toujours inhabitable](https://www.ladepeche.fr/2024/05/23/toulouse-audience-au-tribunal-judiciaire-pour-la-designation-dun-expert-a-la-demande-des-proprietaires-de-limmeuble-de-la-rue-du-puits-clos-toujours-inhabitable-11969381.php)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Au château de Bataillé, un concept innovant de « vivre ensemble »](https://www.ladepeche.fr/2024/05/23/au-chateau-de-bataille-un-concept-innovant-de-vivre-ensemble-11966202.php)
+append_entries: 2
+Finish: 2024-05-24 01:26:50.577814

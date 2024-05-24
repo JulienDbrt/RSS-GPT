@@ -549,3 +549,15 @@ Summarized using GPT-3.5-turbo
 Append: [Ce nouveau robot chirurgical est devenu indispensable au CHU de Dijon : il permet d'opérer les patients les plus fragiles](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/ce-nouveau-robot-chirurgical-est-devenu-indispensable-au-chu-de-dijon-il-permet-d-operer-les-patients-les-plus-fragiles-2973314.html)
 append_entries: 1
 Finish: 2024-05-23 01:16:55.572444
+------------------------------------------------------
+Started: 2024-05-24 01:21:42.060216
+Existing_entries: 99
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Cauet accusé de viols et d'agressions sexuelles : en garde à vue, l'animateur entendu par la brigade des mineurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/cauet-accuse-de-viols-et-d-agressions-sexuelles-l-animateur-vedette-de-nrj-en-garde-a-vue-devant-la-brigade-des-mineurs-2974388.html)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [Vacances dans le Jura : la plage de Clairvaux-les-Lacs conserve son label de tourisme durable "Pavillon Bleu"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/la-plage-de-clairvaux-les-lacs-conserve-son-label-de-tourisme-durable-pavillon-bleu-2974151.html)
+append_entries: 2
+Finish: 2024-05-24 01:21:49.697011

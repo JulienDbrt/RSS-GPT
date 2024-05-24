@@ -480,3 +480,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le marché des cryptos a les yeux rivés sur une potentielle autorisation des ETF ether ce jeudi](https://www.bfmtv.com/crypto/ethereum/le-marche-des-cryptos-a-les-yeux-rives-sur-une-potentielle-autorisation-des-etf-ether-ce-jeudi_AV-202405220540.html)
 append_entries: 3
 Finish: 2024-05-23 01:12:33.807220
+------------------------------------------------------
+Started: 2024-05-24 01:15:00.150599
+Existing_entries: 76
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: ["Une bataille de polochons": les États-Unis avancent sur une loi pour réguler les cryptomonnaies](https://www.bfmtv.com/crypto/regulation/une-bataille-de-polochons-les-etats-unis-avancent-sur-une-loi-pour-reguler-les-cryptomonnaies_AD-202405230662.html)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Un revirement politique historique aux États-Unis](https://www.bfmtv.com/crypto/un-revirement-politique-historique-aux-etats-unis_VL-202405230588.html)
+append_entries: 2
+Finish: 2024-05-24 01:15:08.517536
