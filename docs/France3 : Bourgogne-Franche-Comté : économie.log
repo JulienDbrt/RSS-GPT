@@ -576,3 +576,15 @@ Summarized using GPT-3.5-turbo
 Append: [Ils regardent du sport illégalement pour 0€ et le revendiquent : "même si je prends une amende, c'est plus rentable !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/ils-regardent-du-sport-illegalement-pour-0-et-le-revendiquent-meme-si-je-prends-une-amende-c-est-plus-rentable-2974658.html)
 append_entries: 1
 Finish: 2024-05-25 01:13:42.604748
+------------------------------------------------------
+Started: 2024-05-25 12:34:57.832778
+Existing_entries: 102
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: [La voiture autonome en test dans le Morvan : une solution contre l'isolement ? "Utiliser la technologie dans le domaine rural"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/la-voiture-autonome-en-test-dans-le-morvan-une-solution-contre-l-isolement-utiliser-la-technologie-dans-le-domaine-rural-2973539.html)
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [ENTRETIEN (1/2). Télévision, santé et réseaux sociaux... la nouvelle vie de Marine Lorphelin, Miss France 2013](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/entretien-1-2-television-sante-et-reseaux-sociaux-la-nouvelle-vie-de-marine-lorphelin-miss-france-2013-2973209.html)
+append_entries: 2
+Finish: 2024-05-25 12:35:05.090673

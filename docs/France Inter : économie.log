@@ -635,3 +635,15 @@ Existing_entries: 115
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-05-25 01:13:04.550867
+------------------------------------------------------
+Started: 2024-05-25 12:34:12.240251
+Existing_entries: 115
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [Avec Clément Eulry, directeur général d'Airbnb France](https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-25-mai-2024-6990516)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [La chronique Eco du samedi 25 mai 2024](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-25-mai-2024-2033895)
+append_entries: 2
+Finish: 2024-05-25 12:34:19.169502

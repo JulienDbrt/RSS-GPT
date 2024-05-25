@@ -530,3 +530,12 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile. Nissan Towstar Evalia : la seule électrique sept places du constructeur](https://www.lalsace.fr/magazine-automobile/2024/05/24/nissan-towstar-evalia-la-seule-electrique-sept-places-du-constructeur)
 append_entries: 2
 Finish: 2024-05-25 01:14:07.873910
+------------------------------------------------------
+Started: 2024-05-25 12:35:26.194083
+Existing_entries: 80
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Automobile - Insolite. Pagani Huayra : puissante, sauvage et… très chère](https://www.lalsace.fr/magazine-automobile/2024/05/25/pagani-huayra-puissante-sauvage-et-tres-chere)
+append_entries: 1
+Finish: 2024-05-25 12:35:31.172504

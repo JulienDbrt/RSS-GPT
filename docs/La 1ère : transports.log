@@ -529,3 +529,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les vols à destination des Outre-mer épargnés par la grève des contrôleurs aériens](https://la1ere.francetvinfo.fr/les-vols-a-destination-des-outre-mer-epargnes-par-la-greves-des-controleurs-aeriens-1490897.html)
 append_entries: 3
 Finish: 2024-05-25 01:15:28.291426
+------------------------------------------------------
+Started: 2024-05-25 12:36:14.107462
+Existing_entries: 73
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Émeutes en Nouvelle-Calédonie : le rapatriement des touristes français et étrangers s'accélère](https://la1ere.francetvinfo.fr/nouvellecaledonie/emeutes-en-nouvelle-caledonie-le-rapatriement-des-touristes-francais-et-etrangers-s-accelere-1491002.html)
+append_entries: 1
+Finish: 2024-05-25 12:36:18.164385

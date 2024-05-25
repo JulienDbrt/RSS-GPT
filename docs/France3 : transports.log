@@ -1106,3 +1106,21 @@ Summarized using GPT-3.5-turbo
 Append: [Un camion de matières dangereuses en feu sur l’autoroute A9 : la circulation fortement perturbée entre Narbonne et Perpignan](https://france3-regions.francetvinfo.fr/occitanie/aude/narbonne/un-camion-en-feu-sur-l-autoroute-a9-la-circulation-fortement-perturbee-entre-narbonne-et-perpignan-2974862.html)
 append_entries: 2
 Finish: 2024-05-25 01:13:50.198238
+------------------------------------------------------
+Started: 2024-05-25 12:35:13.222973
+Existing_entries: 279
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [CARTES. Pavillon Bleu 2024 : découvrez les 127 sites primés en Occitanie, région championne de France](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/cartes-pavillon-bleu-2024-decouvrez-les-127-sites-primes-en-occitanie-region-championne-de-france-2974697.html)
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [3 questions à DFDS, la compagnie qui va mettre en place des ferries électriques entre la France et l'Angleterre](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/dunkerque/3-questions-a-dfds-la-compagnie-qui-va-mettre-en-place-des-ferries-electriques-entre-la-france-et-l-angleterre-2974778.html)
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: [La voiture autonome en test dans le Morvan : une solution contre l'isolement ? "Utiliser la technologie dans le domaine rural"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/la-voiture-autonome-en-test-dans-le-morvan-une-solution-contre-l-isolement-utiliser-la-technologie-dans-le-domaine-rural-2973539.html)
+Token length: 342
+Summarized using GPT-3.5-turbo
+Append: ["Dans le combat de David contre Goliath, des fois, c'est David qui gagne", se réjouit une Toulousaine menant un combat pour sécuriser sa rue trop étroite](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/dans-le-combat-de-david-contre-goliath-des-fois-c-est-david-qui-gagne-se-rejouit-une-toulousaine-menant-un-combat-pour-securiser-sa-rue-trop-etroite-2974829.html)
+append_entries: 4
+Finish: 2024-05-25 12:35:24.733664

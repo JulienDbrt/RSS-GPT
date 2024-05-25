@@ -1201,3 +1201,15 @@ Summarized using GPT-3.5-turbo
 Append: [Créations d'entreprises : la France enregistre un rebond en avril, après un recul en mars](https://www.latribune.fr/economie/france/creations-d-entreprises-la-france-enregistre-un-rebond-en-avril-apres-un-recul-en-mars-998231.html)
 append_entries: 4
 Finish: 2024-05-25 01:17:22.851885
+------------------------------------------------------
+Started: 2024-05-25 12:37:37.143963
+Existing_entries: 297
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 324
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie : les premières évacuations débutent dans un climat de tensions](https://www.latribune.fr/economie/france/nouvelle-caledonie-les-premieres-evacuations-debutent-dans-un-climat-de-tensions-998279.html)
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [Actifs russes : le G7 est proche d’un accord de principe pour aider Kiev](https://www.latribune.fr/economie/international/actifs-russes-le-g7-est-proche-d-un-accord-de-principe-pour-aider-kiev-998271.html)
+append_entries: 2
+Finish: 2024-05-25 12:37:42.873459

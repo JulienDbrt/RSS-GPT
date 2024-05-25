@@ -564,3 +564,12 @@ Summarized using GPT-3.5-turbo
 Append: [Grève des contrôleurs aériens : 70% des vols à Paris-Orly annulés samedi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/greve-des-controleurs-aeriens-70-des-vols-a-paris-orly-annules-samedi-2974889.html)
 append_entries: 1
 Finish: 2024-05-25 01:13:33.313779
+------------------------------------------------------
+Started: 2024-05-25 12:34:39.852071
+Existing_entries: 98
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : les locataires ont-ils le droit de sous-louer leur logement ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/jo-de-paris-2024-les-locataires-ont-ils-le-droit-de-sous-louer-leur-logement-2974874.html)
+append_entries: 1
+Finish: 2024-05-25 12:34:43.836785

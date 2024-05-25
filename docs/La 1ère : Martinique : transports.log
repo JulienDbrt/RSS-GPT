@@ -355,3 +355,9 @@ Summarized using GPT-3.5-turbo
 Append: [L’aller-retour des étudiants ultramarins vers leur lieu d’étude désormais pris en charge jusqu’à 28 ans](https://la1ere.francetvinfo.fr/l-aller-retour-des-etudiants-ultramarins-vers-leur-lieu-d-etude-desormais-pris-en-charge-jusqu-a-28-ans-1490864.html)
 append_entries: 1
 Finish: 2024-05-25 01:15:16.744055
+------------------------------------------------------
+Started: 2024-05-25 12:36:13.822057
+Existing_entries: 15
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+append_entries: 0
+Finish: 2024-05-25 12:36:14.067080

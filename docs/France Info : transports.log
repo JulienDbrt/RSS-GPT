@@ -683,3 +683,12 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : vers une réouverture des lignes ferroviaires régionales du Grand-Est ?](https://www.francetvinfo.fr/replay-jt/france-2/13-heures/transports-vers-une-reouverture-des-lignes-ferroviaires-regionales-du-grand-est_6563363.html)
 append_entries: 3
 Finish: 2024-05-25 01:13:04.180296
+------------------------------------------------------
+Started: 2024-05-25 12:34:08.312844
+Existing_entries: 131
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Grève : 70% des vols sont suspendus à Orly](https://www.francetvinfo.fr/economie/greve/greve-70-des-vols-sont-suspendus-a-orly_6564956.html)
+append_entries: 1
+Finish: 2024-05-25 12:34:12.180767

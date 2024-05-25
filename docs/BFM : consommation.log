@@ -471,3 +471,15 @@ Existing_entries: 67
 Fetching from https://www.bfmtv.com/rss/economie/consommation/
 append_entries: 0
 Finish: 2024-05-25 01:09:58.399549
+------------------------------------------------------
+Started: 2024-05-25 12:31:49.753375
+Existing_entries: 67
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: ["Origin'Info": 80 marques s'engagent à mieux informer les consommateurs sur l'origine des produits](https://www.bfmtv.com/economie/consommation/origin-info-80-marques-s-engagent-a-mieux-informer-les-consommateurs-sur-l-origine-des-produits_AD-202405250138.html)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Primark, Ladurée, Lacoste.... Ces marques qui craquent pour les séries Netflix](https://www.bfmtv.com/economie/consommation/primark-laduree-lacoste-ces-marques-qui-craquent-pour-les-series-netflix_AV-202405250124.html)
+append_entries: 2
+Finish: 2024-05-25 12:31:58.365918

@@ -897,3 +897,18 @@ Summarized using GPT-3.5-turbo
 Append: [Algues vertes : une prolifération atypique dans la baie de Saint-Brieuc en 2023](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/algues-vertes-une-proliferation-atypique-dans-la-baie-de-saint-brieuc-en-2023-2974784.html)
 append_entries: 2
 Finish: 2024-05-25 01:13:38.504407
+------------------------------------------------------
+Started: 2024-05-25 12:34:43.950446
+Existing_entries: 209
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Bienvenue à la ferme des Roziers, où l'on fête les 110 ans du domaine](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/bienvenue-a-la-ferme-des-roziers-ou-l-on-fete-les-110-ans-du-domaine-2973770.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Cette start-up normande cartonne avec son CBD : "On répond à une demande française"](https://france3-regions.francetvinfo.fr/normandie/eure/video-cette-start-up-normande-cartonne-avec-son-cbd-on-repond-a-une-demande-francaise-2973413.html)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: ["On est à la campagne et on n'entend que des bazookas" : les canons effaroucheurs anti-oiseaux font du bruit dans les Deux-Sèvres](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/on-est-a-la-campagne-et-on-n-entend-que-des-bazookas-les-canons-effaroucheurs-anti-oiseaux-font-du-bruit-dans-les-deux-sevres-2974616.html)
+append_entries: 3
+Finish: 2024-05-25 12:34:57.778944

@@ -519,3 +519,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les ETF Ethereum spot sont donc validés](https://www.bfmtv.com/crypto/les-etf-ethereum-spot-sont-donc-valides_VL-202405240615.html)
 append_entries: 3
 Finish: 2024-05-25 01:10:08.539760
+------------------------------------------------------
+Started: 2024-05-25 12:31:58.413850
+Existing_entries: 83
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-05-25 12:31:58.551882

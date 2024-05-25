@@ -586,3 +586,15 @@ Existing_entries: 118
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-05-25 01:11:07.694381
+------------------------------------------------------
+Started: 2024-05-25 12:32:44.682615
+Existing_entries: 118
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Si une maison a été construite trop en hauteur, il faudra l'abaisser quel qu'en soit le coût](https://www.bfmtv.com/immobilier/construction/si-une-maison-a-ete-construite-trop-en-hauteur-il-faudra-l-abaisser-quel-qu-en-soit-le-cout_AD-202405250266.html)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [Huit salles de bains, deux caves à vin... Cet appartement en passe de devenir le plus cher du Royaume-Uni ne trouve pas preneur](https://www.bfmtv.com/immobilier/huit-salles-de-bains-deux-caves-a-vin-cet-appartement-en-passe-de-devenir-le-plus-cher-du-royaume-uni-ne-trouve-pas-preneur_AV-202405250222.html)
+append_entries: 2
+Finish: 2024-05-25 12:32:51.590721

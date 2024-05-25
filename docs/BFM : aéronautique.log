@@ -465,3 +465,12 @@ Summarized using GPT-3.5-turbo
 Append: [Analyses des données et des enregistrements: le vol Singapore Airlines victime de fortes turbulences sous enquête](https://www.bfmtv.com/economie/entreprises/aeronautique/apres-des-turbulences-sur-un-vol-de-singapore-airlines-une-enquete-est-en-cours_AD-202405240648.html)
 append_entries: 2
 Finish: 2024-05-25 01:09:57.375104
+------------------------------------------------------
+Started: 2024-05-25 12:31:45.200352
+Existing_entries: 65
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Turbulences en vol: comment les pilotes font pour les éviter](https://www.bfmtv.com/economie/entreprises/aeronautique/turbulences-en-vol-comment-les-pilotes-font-pour-les-eviter_AV-202405250200.html)
+append_entries: 1
+Finish: 2024-05-25 12:31:48.921544

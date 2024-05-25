@@ -685,3 +685,15 @@ Summarized using GPT-3.5-turbo
 Append: [Dans l'Union européenne: Le Luxembourg s'inquiète des différences de prix pour un même produit](https://www.lessentiel.lu/fr/story/dans-lunion-europeenne-le-luxembourg-sinquiete-des-differences-de-prix-pour-un-meme-produit-103113478)
 append_entries: 1
 Finish: 2024-05-25 01:14:16.546505
+------------------------------------------------------
+Started: 2024-05-25 12:35:35.379682
+Existing_entries: 185
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [Selon Eurostat: Le Luxembourg, un champion des TIC en Europe](https://www.lessentiel.lu/fr/story/selon-eurostat-le-luxembourg-un-champion-des-tic-en-europe-103113385)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Initiative au Luxembourg: De la main-d'œuvre pour l'horeca grâce à une appli](https://www.lessentiel.lu/fr/story/initiative-au-luxembourg-de-la-main-doeuvre-pour-lhoreca-grace-a-une-appli-103112894)
+append_entries: 2
+Finish: 2024-05-25 12:35:41.949114
