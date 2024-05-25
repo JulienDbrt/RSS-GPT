@@ -495,3 +495,9 @@ Summarized using GPT-3.5-turbo
 Append: [Incendie du magasin Darty à Brest. Le feu couve toujours et le trafic du tram est perturbé](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/incendie-du-magasin-darty-a-brest-le-feu-couve-toujours-et-le-trafic-du-tram-perturbe-2974613.html)
 append_entries: 2
 Finish: 2024-05-24 12:40:07.057052
+------------------------------------------------------
+Started: 2024-05-25 01:13:42.645050
+Existing_entries: 77
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-25 01:13:42.887190

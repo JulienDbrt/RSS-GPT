@@ -625,3 +625,15 @@ Summarized using GPT-3.5-turbo
 Append: [Revel. Le primeur sera-t-il repris ?](https://www.ladepeche.fr/2024/05/24/le-primeur-sera-t-il-repris-11970527.php)
 append_entries: 3
 Finish: 2024-05-24 12:42:42.220231
+------------------------------------------------------
+Started: 2024-05-25 01:16:24.915343
+Existing_entries: 117
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Albi Eco race : cinq véhicules innovants à la loupe](https://www.ladepeche.fr/2024/05/24/albi-eco-race-cinq-vehicules-innovants-a-la-loupe-11971620.php)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Des étoiles et des rêves : le premier salon dédié à l’espace a ouvert ses portes au MEET](https://www.ladepeche.fr/2024/05/24/des-etoiles-et-des-reves-le-premier-salon-dedie-a-lespace-a-ouvert-ses-portes-au-meet-11971260.php)
+append_entries: 2
+Finish: 2024-05-25 01:16:31.441241

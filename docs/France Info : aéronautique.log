@@ -392,3 +392,12 @@ Existing_entries: 36
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-05-24 12:38:45.649646
+------------------------------------------------------
+Started: 2024-05-25 01:12:46.512993
+Existing_entries: 36
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Grève des contrôleurs aériens : les compagnies appelées à supprimer 70% de leurs vols prévus à Paris-Orly ce week-end](https://www.francetvinfo.fr/economie/greve/greve-des-transports/greve-des-controleurs-aeriens-les-compagnies-appelees-a-supprimer-70-de-leurs-vols-prevus-a-paris-orly-ce-week-end_6563555.html)
+append_entries: 1
+Finish: 2024-05-25 01:12:53.816964

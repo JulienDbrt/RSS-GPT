@@ -528,3 +528,15 @@ Summarized using GPT-3.5-turbo
 Append: [Grève des contrôleurs aériens: les compagnies contraintes d'annuler 70% des vols à Paris-Orly](https://www.bfmtv.com/economie/entreprises/transports/greve-des-controleurs-aeriens-les-compagnies-contraintes-d-annuler-70-des-vols-a-paris-orly_AD-202405240465.html)
 append_entries: 2
 Finish: 2024-05-24 12:37:24.911382
+------------------------------------------------------
+Started: 2024-05-25 01:11:09.304008
+Existing_entries: 88
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Grève dans l'aérien: les annulations préventives concerneront aussi dimanche à Orly](https://www.bfmtv.com/economie/entreprises/transports/greve-dans-l-aerien-les-annulations-preventives-concerneront-aussi-dimanche-a-orly_AD-202405240903.html)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [Annulation de 70% des vols à Orly samedi: le ministre des Transports appelle "à la responsabilité"](https://www.bfmtv.com/economie/entreprises/transports/annulation-de-70-des-vols-a-orly-samedi-le-ministre-des-transports-appelle-a-la-responsabilite_AD-202405240643.html)
+append_entries: 2
+Finish: 2024-05-25 01:11:13.801975

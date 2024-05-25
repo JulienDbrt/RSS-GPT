@@ -514,3 +514,18 @@ Summarized using GPT-3.5-turbo
 Append: [Saint-Pierre : un bus en feu sur la 4 voies du Tampon](https://la1ere.francetvinfo.fr/reunion/saint-pierre-un-bus-en-feu-sur-la-4-voies-du-tampon-1490795.html)
 append_entries: 4
 Finish: 2024-05-24 12:41:36.670270
+------------------------------------------------------
+Started: 2024-05-25 01:15:16.783419
+Existing_entries: 70
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [La grève des contrôleurs aériens d'Orly n'impacte pas les Outre-mer](https://la1ere.francetvinfo.fr/guadeloupe/la-greve-des-controleurs-aeriens-d-orly-n-impacte-pas-les-outre-mer-1490954.html)
+Token length: 32
+Summarized using GPT-3.5-turbo
+Append: [Travaux Pont de la Gabarre : Circulation interdite ce vendredi soir dans le sens Pointe-à-Pitre / Baie-Mahault de 21h à 5h du matin](https://la1ere.francetvinfo.fr/guadeloupe/travaux-pont-de-la-gabarre-circulation-interdite-ce-vendredi-soir-dans-le-sens-pointe-a-pitre-baie-mahault-de-21h-a-5h-du-matin-1490915.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Les vols à destination des Outre-mer épargnés par la grève des contrôleurs aériens](https://la1ere.francetvinfo.fr/les-vols-a-destination-des-outre-mer-epargnes-par-la-greves-des-controleurs-aeriens-1490897.html)
+append_entries: 3
+Finish: 2024-05-25 01:15:28.291426

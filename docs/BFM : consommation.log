@@ -465,3 +465,9 @@ Summarized using GPT-3.5-turbo
 Append: [À quoi ressemble le premier supermarché Atacadao que Carrefour s’apprête à ouvrir en France?](https://www.bfmtv.com/economie/consommation/a-quoi-ressemble-le-premier-supermarche-atacadao-que-carrefour-s-apprete-a-ouvrir-en-france_AV-202405240166.html)
 append_entries: 2
 Finish: 2024-05-24 12:35:35.530745
+------------------------------------------------------
+Started: 2024-05-25 01:09:58.334856
+Existing_entries: 67
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-05-25 01:09:58.399549

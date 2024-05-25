@@ -555,3 +555,12 @@ Summarized using GPT-3.5-turbo
 Append: [Handiroad, un "Waze pour les personnes en situation de handicap", cette application facilite les déplacements des personnes en fauteuil roulant](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/handiroad-un-wase-pour-les-personnes-en-situation-de-handicap-cette-application-facilite-les-deplacements-des-personnes-en-fauteuil-roulant-2974547.html)
 append_entries: 2
 Finish: 2024-05-24 12:39:43.187897
+------------------------------------------------------
+Started: 2024-05-25 01:13:29.870952
+Existing_entries: 97
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Grève des contrôleurs aériens : 70% des vols à Paris-Orly annulés samedi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/greve-des-controleurs-aeriens-70-des-vols-a-paris-orly-annules-samedi-2974889.html)
+append_entries: 1
+Finish: 2024-05-25 01:13:33.313779

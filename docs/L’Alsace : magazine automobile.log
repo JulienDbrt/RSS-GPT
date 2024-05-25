@@ -518,3 +518,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pratique auto. Qu’est ce que le code VIN, indispensable pour acheter une voiture ?](https://www.lalsace.fr/magazine-automobile/2024/05/24/qu-est-ce-que-le-code-vin-indispensable-pour-acheter-une-voiture)
 append_entries: 1
 Finish: 2024-05-24 12:40:31.914306
+------------------------------------------------------
+Started: 2024-05-25 01:13:59.373738
+Existing_entries: 78
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [Moto - Essai. La Yamaha XSR 900 GP : le plaisir sportif et vintage](https://www.lalsace.fr/magazine-automobile/2024/05/24/la-yamaha-xsr-900-gp-le-plaisir-sportif-et-vintage)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Automobile. Nissan Towstar Evalia : la seule électrique sept places du constructeur](https://www.lalsace.fr/magazine-automobile/2024/05/24/nissan-towstar-evalia-la-seule-electrique-sept-places-du-constructeur)
+append_entries: 2
+Finish: 2024-05-25 01:14:07.873910

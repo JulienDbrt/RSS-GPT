@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>CompilerFax ou comment compiler du code C par fax !</title>
 <link>https://korben.info/compiler-code-c-par-fax-compilerfax.html</link>
 <guid>https://korben.info/compiler-code-c-par-fax-compilerfax.html</guid>
 <content:encoded><![CDATA[
-<div> CompilerFax, fax, OCR, Raspberry Pi, bidouille <br>
-<br>
+<div> CompilerFax, fax, OCR, Raspberry Pi, bidouille <br />
+<br />
 Summary: CompilerFax est un projet délirant qui utilise la technologie du fax détournée pour compiler du code C. Les utilisateurs écrivent leur code C sur papier avec une police adaptée à l'OCR, l'envoient par fax à CompilerFax, où un Raspberry Pi extrait le code, le compile et l'exécute. Le résultat est renvoyé par fax. Le taux d'erreur de l'OCR varie selon les polices utilisées. Le débit du fax limite l'envoi à une page et la qualité de l'OCR n'est pas parfaite. Le projet allie technologie rétro et moderne pour une expérience unique. Le code source est disponible en ligne pour ceux intéressés par la bidouille de haut vol. Cette initiative permet de ralentir le rythme effréné de la technologie actuelle et de retourner aux sources du développement informatique. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_hyper_techy_geeky_fax_machine_wallpaper_stylized_11092bd7-c468-476f-922f-7b68c3f8c725.webp" width="1920" /></p>
 <p>Vous connaissez le principe du fax ? </p>
@@ -60,15 +61,14 @@ Summary: CompilerFax est un projet délirant qui utilise la technologie du fax d
 <p><a href="https://github.com/lexbailey/compilerfax" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 08:34:13 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 08:34:13 +0000</pubDate>
 </item>
 <item>
 <title>Comment créer des icônes macOS icns sur-mesure avec Img2icns</title>
 <link>https://korben.info/creer-icones-macos-sur-mesure-avec-img2icns.html</link>
 <guid>https://korben.info/creer-icones-macos-sur-mesure-avec-img2icns.html</guid>
 <content:encoded><![CDATA[
-<div> outil en ligne, convertir images, icônes macOS, format ICNS, personnalisées<br>
-<br>
+<div> outil en ligne, convertir images, icônes macOS, format ICNS, personnalisées<br />
+<br />
 Summary: 
 Vous cherchez un moyen simple et gratuit de convertir vos images en icônes pour macOS ? Img2icns est un outil en ligne pratique qui vous permet de transformer facilement vos images aux formats PNG, SVG, JPG et WebP en icônes macOS au format ICNS. Vous pouvez personnaliser les icônes de vos applications, changer les icônes par défaut de votre système et créer des icônes sur mesure pour vos projets. Le site gère les images transparentes et redimensionne automatiquement les images non carrées pour les adapter au format carré des icônes ICNS. Une fois votre icône générée, vous pouvez simplement la glisser-déposer sur le dossier ou fichier dont vous souhaitez changer l'icône dans le Finder. Img2icns est l'outil idéal pour créer facilement des icônes personnalisées pour macOS à partir de n'importe quelle image. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_mosaic_of_macOS_icons_908b8eaa-369e-4c86-b31a-c0aa4b6e6add.webp" width="1920" /></p>
@@ -114,7 +114,6 @@ Vous cherchez un moyen simple et gratuit de convertir vos images en icônes pour
 <p>Bref, si vous avez besoin de créer facilement des <strong>icônes personnalisées</strong> pour macOS à partir de n&rsquo;importe quelle image, <a href="https://www.img2icns.com/" rel="noopener" target="_blank">Img2icns</a> c&rsquo;est l&rsquo;outil rêvé.</p>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 07:44:18 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 07:44:18 +0000</pubDate>
 </item>
 <item>
 <title>Twterm : Le client TUI Twitter ultime pour les geeks de la ligne de commande 🐦💻</title>
@@ -122,10 +121,10 @@ Vous cherchez un moyen simple et gratuit de convertir vos images en icônes pour
 <guid>https://korben.info/twterm-client-tui-twitter-ultime-geeks-ligne-commande.html</guid>
 <content:encoded><![CDATA[
 <div> Twterm, client Twitter en mode texte, Ruby, TUI, timeline, mentions, follower, tweeter, trending topics
-<br>
+<br />
 Summary:
 Twterm est un client Twitter en mode texte développé en Ruby, offrant toutes les fonctionnalités de base de Twitter. Il permet de suivre sa timeline, les mentions, les DM, les recherches, de follower/unfollower, tweeter, retweeter, répondre aux gens et voir les trending topics. Son interface ASCII art est intuitive, avec des raccourcis clavier efficaces. L'installation est simple via Homebrew ou RubyGems. Twterm offre de bonnes performances et la possibilité de personnaliser les raccourcis. Seul point faible : la visualisation d'images n'est pas encore optimale, mais des améliorations sont à venir. Avec Twterm, les accros à la ligne de commande peuvent profiter d'une expérience Twitter efficace et rapide. 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_Twitter_wallpaper_with_Logo_with_text_Twterm_written_30043731-eca2-4354-ba3b-ce3f32d5f10a.png" width="1456" /></p>
 <p>Chers <strong>accro à la ligne de commande</strong>, voici un outil qui devrait vous plaire ! Ça s&rsquo;appelle <strong>Twterm</strong> et c&rsquo;est un client Twitter en mode texte (<strong>TUI</strong> pour les intimes). Parfait pour suivre son p&rsquo;tit flux Twitter au milieu des <code>ls -al</code> et autres <code>cd ..</code> !</p>
 
@@ -185,15 +184,14 @@ Twterm est un client Twitter en mode texte développé en Ruby, offrant toutes l
 <p>Si ça vous dit de tester, <a href="https://github.com/ryota-ka/twterm" rel="noopener" target="_blank">Twterm, c&rsquo;est par ici !</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Redstone OS, le système d’exploitation nord-coréen au look très macOS</title>
 <link>https://korben.info/teste-redstone-os-systeme-exploitation-nord-coreen.html</link>
 <guid>https://korben.info/teste-redstone-os-systeme-exploitation-nord-coreen.html</guid>
 <content:encoded><![CDATA[
-<div> Redstone OS, système d'exploitation, Nord-Coréen, YouTubeur, Kim Jong-un <br>
-<br>
+<div> Redstone OS, système d'exploitation, Nord-Coréen, YouTubeur, Kim Jong-un <br />
+<br />
 Summary: Eric Parker, un youtubeur, a pu tester le Redstone OS, un système d'exploitation nord-coréen inspiré de macOS. Le boot affiche des couleurs de la Corée du Nord et le bureau ressemble fortement à Mac OS, avec une suite d'applications incluse. Malgré des paramètres réseau restrictifs, Eric parvient à accéder à quelques sites en HTTP grâce à des ajustements. Sous le capot, Redstone OS semble basé sur un noyau Linux, avec des outils comme SELinux et Wine pour exécuter des programmes Windows. Malgré ses limitations, l'OS est intrigant pour son esthétique et son fonctionnement, montrant l'influence probable d'un Mac possédé par Kim Jong-un sur son développement. Les développeurs nord-coréens travaillent avec des technos anciennes, ce qui souligne l'aspect unique de cet OS. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="302" src="https://korben.info/app/uploads/2024/05/SCR-20240524-hevz.webp" width="1000" /></p>
 <p>Voilà un truc qui va vous intéresser si vous aimez les systèmes d&rsquo;exploitation étranges&#8230;. Le youtubeur <strong>Eric Parker</strong> a mis la main sur un <strong>Redstone OS</strong>, le fameux système d&rsquo;exploitation nord-coréen. Les dev&rsquo; de Kim Jong-un ont pris KDE, l&rsquo;ont customisé façon macOS et hop, voilà le résultat. Et rassurez-vous, pas besoin de passer par la case goulag pour le tester.</p>
@@ -238,9 +236,7 @@ Summary: Eric Parker, un youtubeur, a pu tester le Redstone OS, un système d'ex
 <p><a href="https://www.youtube.com/watch?v=rs8Y1TZ3ySg" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 05:53:01 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 05:53:01 +0000</pubDate>
 </item>
-
 <item>
 <title>La Tesla Model 3 à nouveau hackée – L’Ultra-Wideband est visiblement inutile…</title>
 <link>https://korben.info/tesla-model-3-piratee-malgre-ultra-wideband-voleurs-s-en-frottent-les-mains.html</link>

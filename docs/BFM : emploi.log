@@ -408,3 +408,9 @@ Summarized using GPT-3.5-turbo
 Append: [8.000 postes à pourvoir: à l'approche de la saison estivale, les restaurants et hôtels manquent de saisonniers](https://www.bfmtv.com/economie/emploi/8-000-postes-a-pourvoir-a-l-approche-de-la-saison-estivale-les-restaurants-et-hotels-manquent-de-saisonniers_VN-202405240073.html)
 append_entries: 1
 Finish: 2024-05-24 12:35:45.604504
+------------------------------------------------------
+Started: 2024-05-25 01:10:08.567650
+Existing_entries: 48
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-05-25 01:10:08.750297

@@ -504,3 +504,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les ETF ether spot autorisés par la SEC aux Etats-Unis](https://www.bfmtv.com/crypto/les-etf-ether-spot-autorises-par-la-sec-aux-etats-unis_AD-202405240116.html)
 append_entries: 2
 Finish: 2024-05-24 12:35:42.578122
+------------------------------------------------------
+Started: 2024-05-25 01:09:58.447180
+Existing_entries: 80
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Les démocrates moins opposés aux cryptos](https://www.bfmtv.com/crypto/les-democrates-moins-opposes-aux-cryptos_VN-202405240787.html)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [ETF Ethereum validé : et maintenant ?](https://www.bfmtv.com/crypto/etf-ethereum-valide-et-maintenant_VN-202405240785.html)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Les ETF Ethereum spot sont donc validés](https://www.bfmtv.com/crypto/les-etf-ethereum-spot-sont-donc-valides_VL-202405240615.html)
+append_entries: 3
+Finish: 2024-05-25 01:10:08.539760

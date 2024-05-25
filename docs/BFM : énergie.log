@@ -453,3 +453,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les investissements de Totalenergies toujours très orientés vers les énergies fossiles](https://www.bfmtv.com/economie/entreprises/energie/les-investissements-de-totalenergies-toujours-tres-orientes-vers-les-energies-fossiles_AV-202405240060.html)
 append_entries: 1
 Finish: 2024-05-24 12:35:29.041932
+------------------------------------------------------
+Started: 2024-05-25 01:09:45.340208
+Existing_entries: 63
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: ["Il n'est pas question" que Totalenergies "quitte la France": Patrick Pouyanné rejette à nouveau toute délocalisation de l'entreprise](https://www.bfmtv.com/economie/il-n-est-pas-question-que-totalenergies-quitte-la-france-patrick-pouyanne-rejette-a-nouveau-toute-delocalisation-de-l-entreprise_AD-202405240668.html)
+append_entries: 1
+Finish: 2024-05-25 01:09:48.352799

@@ -453,3 +453,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Un travail sera fait sur la visibilité des pylônes" : la ligne très haute tension verra le jour, avec quelques aménagements](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/arles/un-travail-sera-fait-sur-la-visibilite-des-pylones-la-ligne-tres-haute-tension-verra-le-jour-avec-quelques-amenagements-2974523.html)
 append_entries: 2
 Finish: 2024-05-24 12:39:35.585257
+------------------------------------------------------
+Started: 2024-05-25 01:13:29.439130
+Existing_entries: 63
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-05-25 01:13:29.820751
