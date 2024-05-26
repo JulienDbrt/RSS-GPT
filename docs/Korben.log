@@ -754,3 +754,12 @@ Existing_entries: 146
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-05-26 01:12:30.938751
+------------------------------------------------------
+Started: 2024-05-26 12:28:42.400188
+Existing_entries: 146
+Fetching from https://korben.info/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CoreCtrl – Libérez le potentiel de votre GPU sous Linux](https://korben.info/corectrl-liberez-le-potentiel-de-votre-gpu-sous-linux.html)
+append_entries: 1
+Finish: 2024-05-26 12:28:48.388348

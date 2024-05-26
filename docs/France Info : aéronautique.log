@@ -422,3 +422,12 @@ Summarized using GPT-3.5-turbo
 Append: [Grève à Orly : de nombreux vols annulés ce week-end](https://www.francetvinfo.fr/economie/greve/greve-a-orly-de-nombreux-vols-annules-ce-week-end_6565352.html)
 append_entries: 3
 Finish: 2024-05-26 01:16:42.811975
+------------------------------------------------------
+Started: 2024-05-26 12:37:19.149316
+Existing_entries: 40
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Grève à Orly : de nombreux vols annulés](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-a-orly-de-nombreux-vols-annules_6566516.html)
+append_entries: 1
+Finish: 2024-05-26 12:37:25.524771

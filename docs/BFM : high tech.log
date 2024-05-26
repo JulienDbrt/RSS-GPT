@@ -2173,3 +2173,43 @@ Summarized using GPT-3.5-turbo
 Append: ["Il y a un lien direct": des familles de victimes d'une tuerie au Texas attaquent Meta et Activision](https://www.bfmtv.com/tech/il-y-a-un-lien-direct-des-familles-de-victimes-d-une-tuerie-au-texas-attaquent-meta-et-activision_AD-202405250273.html)
 append_entries: 6
 Finish: 2024-05-26 01:15:16.658448
+------------------------------------------------------
+Started: 2024-05-26 12:34:22.762063
+Existing_entries: 867
+Fetching from https://www.bfmtv.com/rss/tech/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Samsung Galaxy S23 : découvrez cette promotion que la concurrence aurait préféré ne pas vous dévoiler](https://www.bfmtv.com/tech/bons-plans/samsung-galaxy-s23-decouvrez-cette-promotion-que-la-concurrence-aurait-prefere-ne-pas-vous-devoiler_AB-202405260008.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vivatech: avec 165.000 participants, l'édition 2024 signe un record de fréquentation](https://www.bfmtv.com/tech/evenements/vivatech/vivatech-avec-165-000-participants-l-edition-2024-signe-un-record-de-frequentation_AD-202405260243.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Squeezie, Tibo InShape: qui est le vrai roi de Youtube, selon les chiffres?](https://www.bfmtv.com/tech/youtube/squeezie-tibo-in-shape-qui-est-le-vrai-roi-de-youtube-selon-les-chiffres_AV-202405260231.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [On a découvert le volant ultra futuriste de Peugeot au salon Vivatech](https://www.bfmtv.com/tech/actualites/on-a-decouvert-le-volant-ultra-futuriste-de-peugeot-au-salon-vivatech_VN-202405260205.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Samsung Galaxy S21 : quand il est à ce prix là, il ne faut pas hésiter](https://www.bfmtv.com/tech/bons-plans/samsung-galaxy-s21-quand-il-est-a-ce-prix-la-il-ne-faut-pas-hesiter_AB-202405260017.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le prix de ces écouteurs est si bas qu’on penserait à une erreur de prix sur ce site](https://www.bfmtv.com/tech/bons-plans/le-prix-de-ces-ecouteurs-est-si-bas-qu-on-penserait-a-une-erreur-de-prix-sur-ce-site_AB-202405260011.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [iPhone 13 : avec un si petit prix ça ne peut être que l'affaire du siècle, les stocks baissent à vu d'oeil](https://www.bfmtv.com/tech/bons-plans/i-phone-13-avec-un-si-petit-prix-ca-ne-peut-etre-que-l-affaire-du-siecle-les-stocks-baissent-a-vu-d-oeil_AB-202405260005.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [iPhone 15 : quelle est cette offre dingue sur le smartphone Apple ?](https://www.bfmtv.com/tech/bons-plans/i-phone-15-quelle-est-cette-offre-dingue-sur-le-smartphone-apple_AB-202405260015.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ce forfait mobile 70 Go est à moins de 7 euros : voici l'offre à ne pas manquer](https://www.bfmtv.com/tech/bons-plans/ce-forfait-mobile-70-go-est-a-moins-de-7-euros-voici-l-offre-a-ne-pas-manquer_AB-202405260020.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les AirPods Pro 2 sont au meilleur prix sur ce site ? C'est sûrement le cas](https://www.bfmtv.com/tech/bons-plans/les-air-pods-pro-2-sont-au-meilleur-prix-sur-ce-site-c-est-surement-le-cas_AB-202405260019.html)
+Append: [Switch OLED : quel est ce prix fou sur la console Nintendo ?](https://www.bfmtv.com/tech/bons-plans/switch-oled-quel-est-ce-prix-fou-sur-la-console-nintendo_AB-202405260016.html)
+Append: ["Mettre un visage sur des voix": les comédiens de doublage, nouvelles stars de Tiktok](https://www.bfmtv.com/tech/tiktok/mettre-un-visage-sur-des-voix-les-comediens-de-doublage-nouvelles-stars-de-tiktok_AV-202405250040.html)
+Append: [AirPods Pro 2 : le prix de ces écouteurs Apple prend un sacré coup, profitez-en sans attendre](https://www.bfmtv.com/tech/bons-plans/air-pods-pro-2-le-prix-de-ces-ecouteurs-apple-prend-un-sacre-coup-profitez-en-sans-attendre_AB-202405260012.html)
+Append: [Devant Squeezie: Tibo InShape est désormais le premier youtubeur de France](https://www.bfmtv.com/tech/youtube/devant-squeezie-tibo-in-shape-est-desormais-le-premier-youtubeur-de-france_AV-202405260041.html)
+append_entries: 14
+Finish: 2024-05-26 12:35:21.102446

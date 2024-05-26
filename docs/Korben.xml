@@ -4,6 +4,66 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>CoreCtrl – Libérez le potentiel de votre GPU sous Linux</title>
+<link>https://korben.info/corectrl-liberez-le-potentiel-de-votre-gpu-sous-linux.html</link>
+<guid>https://korben.info/corectrl-liberez-le-potentiel-de-votre-gpu-sous-linux.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_AMD_RADEON_on_fire_logo_with_text_CoreCTRL_written_8b657a38-551a-4bc3-a008-4ab17c8ef373.png" width="1456" /></p>
+<p>Vous en avez marre que votre <strong>carte graphique</strong> soit bridée sous Linux ? Vous rêvez de pouvoir <strong>overclocker</strong> votre GPU comme un pro pour booster les perfs dans vos jeux préférés ? Alors laissez-moi vous présenter votre nouveau meilleur pote : <a href="https://gitlab.com/corectrl/corectrl" rel="noopener" target="_blank"><strong>CoreCtrl</strong></a> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-963191613" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ce logiciel <strong>open source</strong> va vous permettre d&rsquo;exploiter enfin tout le potentiel de votre <strong>GPU AMD</strong> sans vous prendre la tête. Plus besoin d&rsquo;être un champion de la ligne de commande pour régler les fréquences, les voltages et autres joyeusetés. Avec CoreCtrl, tout se fait en quelques clics depuis une interface super facile à prendre en main.</p>
+
+
+
+<p>L&rsquo;outil embarque une <strong>tripotée de fonctionnalités</strong> pour les power users. Vous pourrez par exemple créer des profils d&rsquo;overclocking personnalisés, monitorer en temps réel les températures et les performances, gérer finement la vitesse des ventilateurs, et même undervolt votre GPU pour réduire sa consommation.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Et le top du top, c&rsquo;est que CoreCtrl est <strong>compatible</strong> avec un tas de cartes graphiques AMD, des anciennes générations aux derniers modèles. Bref, que vous ayez une vieille Radeon HD qui traîne ou une RX 6900 XT flambant neuve, vous pourrez en tirer le meilleur.</p>
+
+
+
+<p>Certains relous me diront : « <em>Oui, euuuh, mais overclocker son GPU, euuuuh, ça fait fondre la carte et ça annule la garantieuuuu</em>« . </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1680621204" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Alors oui, forcément si vous poussez les curseurs dans le rouge en permanence, votre GPU risque de partir en fumée. Mais utilisé avec sagesse, l&rsquo;overclocking peut vraiment donner un boost appréciable notamment pour tout ce qui est traitement GPU et gaming (sous linux, lol), sans forcement réduire la durée de vie de votre matos.</p>
+
+
+
+<p>D&rsquo;ailleurs, CoreCtrl intègre des <strong>garde-fous</strong> bien pensés pour éviter ce genre de déconvenues. Vous pourrez donc  définir des seuils de sécurité pour les températures et les voltages, histoire de ne pas tout cramer. Et si jamais vous sentez que vous êtes allé trop loin dans l&rsquo;optimisation, pas de panique : il suffit de recharger le profil par défaut et hop, votre carte retrouve son état d&rsquo;origine.</p>
+
+
+
+<p>Si ça vous branche de tester, c&rsquo;est sur <a href="https://gitlab.com/corectrl/corectrl" rel="noopener" target="_blank">le dépôt GitLab du projet</a> ou installable avec cette commande : </p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt install corectrl</code></pre>
+
+
+
+<p>Par contre, je ne serais pas responsable si vous faites de la merde, hein.</p>
+
+
+
+<p>Happy overclocking les amis ! 😄</p>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>GPT-4 défie les analystes financiers à leur propre jeu !</title>

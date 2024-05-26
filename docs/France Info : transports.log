@@ -698,3 +698,15 @@ Existing_entries: 132
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-05-26 01:16:44.741465
+------------------------------------------------------
+Started: 2024-05-26 12:37:26.200440
+Existing_entries: 132
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Aéroport de Nice : grève des agents de sécurité pour une revalorisation de leurs salaires et une prime Jeux olympiques](https://www.francetvinfo.fr/economie/transports/aeroport-de-nice-greve-des-agents-de-securite-pour-une-revalorisation-de-leurs-salaires-et-une-prime-jeux-olympiques_6566519.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Grève à Orly : de nombreux vols annulés](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-a-orly-de-nombreux-vols-annules_6566516.html)
+append_entries: 2
+Finish: 2024-05-26 12:37:37.645703

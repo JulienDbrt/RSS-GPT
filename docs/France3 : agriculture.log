@@ -921,3 +921,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Dès qu’il y a un terrain plat, ils veulent absolument bâtir" : habitants et paysans manifestent contre un parc industriel](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/des-qu-il-y-a-un-terrain-plat-ils-veulent-absolument-batir-habitants-et-paysans-manifestent-contre-un-parc-industriel-2975405.html)
 append_entries: 1
 Finish: 2024-05-26 01:16:58.570077
+------------------------------------------------------
+Started: 2024-05-26 12:37:58.319187
+Existing_entries: 213
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["On a vraiment des sols pour faire des grands crus", des moines vendent 5000 bouteilles  de vin pour financer leur tracteur](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/vaucluse/on-a-vraiment-des-sols-pour-faire-des-grands-crus-des-moines-vendent-5000-bouteilles-de-vin-pour-financer-leur-tracteur-2975231.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mauvais fourrage, tracteurs embourbés et pertes de récoltes : la pluie donne du souci aux agriculteurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/franche-comte/mauvais-fourrage-tracteurs-embourbes-et-pertes-de-recoltes-la-pluie-donne-du-souci-aux-agriculteurs-2974565.html)
+append_entries: 2
+Finish: 2024-05-26 12:38:09.912253

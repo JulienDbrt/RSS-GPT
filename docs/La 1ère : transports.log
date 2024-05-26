@@ -547,3 +547,15 @@ Summarized using GPT-3.5-turbo
 Append: [Émeutes en Nouvelle-Calédonie : un premier vol pour rapatrier "plusieurs dizaines" de Polynésiens](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/nouvelle-caledonie-un-premier-vol-pour-rapatrier-plusieurs-dizaines-de-polynesiens-1491191.html)
 append_entries: 1
 Finish: 2024-05-26 01:17:48.362774
+------------------------------------------------------
+Started: 2024-05-26 12:39:58.925348
+Existing_entries: 75
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Émeutes : l’aéroport international de la Nouvelle-Calédonie restera fermé jusqu’au 2 juin](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/paita/emeutes-en-nouvelle-caledonie-l-aeroport-international-ferme-jusqu-au-2-juin-1491272.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Émeutes en Nouvelle-Calédonie : le "Betico" en mer pour rapatrier touristes, élèves et résidents bloqués](https://la1ere.francetvinfo.fr/nouvellecaledonie/emeutes-en-nouvelle-caledonie-le-betico-en-mer-pour-rapatrier-touristes-eleves-et-residents-bloques-1491251.html)
+append_entries: 2
+Finish: 2024-05-26 12:40:10.100000

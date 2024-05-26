@@ -426,3 +426,27 @@ Existing_entries: 48
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-05-26 01:14:52.121754
+------------------------------------------------------
+Started: 2024-05-26 12:33:35.059117
+Existing_entries: 48
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Populiste", "violente"... La réforme de l'assurance-chômage étrillée par les syndicats](https://www.bfmtv.com/economie/emploi/populiste-violente-la-reforme-de-l-assurance-chomage-etrillee-par-les-syndicats_AD-202405260250.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage: Sophie Binet dénonce une réforme "violente" qui "va pénaliser tout le monde"](https://www.bfmtv.com/economie/emploi/assurance-chomage-sophie-binet-denonce-une-reforme-violente-qui-va-penaliser-tout-le-monde_AV-202405260244.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Il faut qu'on travaille davantage": Attal ne "veut pas augmenter les impôts" pour financer le modèle social](https://www.bfmtv.com/economie/emploi/il-faut-qu-on-travaille-davantage-attal-ne-veut-pas-augmenter-les-impots-pour-financer-le-modele-social_AV-202405260214.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage: durcir les règles pour relancer l'emploi, une méthode efficace?](https://www.bfmtv.com/economie/emploi/assurance-chomage-durcir-les-regles-pour-relancer-l-emploi-une-methode-efficace_AV-202405260187.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chômage: "C'est la réforme la plus violente que le gouvernement ait faite sur l'assurance-chômage", déclare Denis Gravouil, secrétaire confédéral de la CGT, en charge de l'assurance-chômage](https://www.bfmtv.com/economie/emploi/chomage-c-est-la-reforme-la-plus-violente-que-le-gouvernement-ait-faite-sur-l-assurance-chomage-declare-denis-gravouil-secretaire-confederal-de-la-cgt-en-charge-de-l-assurance-chomage_VN-202405260164.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Durée d'indemnisation, ouverture des droits... Ce que va changer la réforme de l'assurance-chômage](https://www.bfmtv.com/economie/emploi/duree-d-indemnisation-ouverture-des-droits-ce-que-va-changer-la-reforme-de-l-assurance-chomage_AD-202405260111.html)
+append_entries: 6
+Finish: 2024-05-26 12:34:09.440551

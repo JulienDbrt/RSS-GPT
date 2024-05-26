@@ -1836,3 +1836,33 @@ Append: [Avec jusqu’à 150h d’autonomie, la tablette Xiaomi Pad 6 est parfai
 Append: [RSE : quand les salariés contraignent leurs entreprises à s'adapter](https://www.lexpress.fr/economie/entreprises/rse-quand-les-salaries-contraignent-leurs-entreprises-a-sadapter-UVF2B3JUFBCIRLL3GCDPKDL6DA/)
 append_entries: 19
 Finish: 2024-05-26 01:12:20.972779
+------------------------------------------------------
+Started: 2024-05-26 12:27:46.282794
+Existing_entries: 618
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le gouvernement a prolongé discrètement un impôt sur tous les salaires - il aurait dû disparaitre cette année](https://www.journaldunet.com/patrimoine/finances-personnelles/1530585-hf1-impot-secret-salaires/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage: Attal annonce un durcissement des règles "pour aller vers le plein emploi"](https://www.bfmtv.com/economie/assurance-chomage-attal-annonce-un-durcissement-des-regles-pour-aller-vers-le-plein-emploi_AD-202405250441.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Manuel Bompard sur la réforme de l'assurance-chômage : «Gabriel Attal veut piquer de l'argent sur les cotisations pour venir abonder le problème de déficit de l'Etat»](https://www.cnews.fr/videos/france/2024-05-26/manuel-bompard-sur-la-reforme-de-lassurance-chomage-gabriel-attal-veut)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal confirme un durcissement des règles du chômage : la durée d'indemnisation réduite à 15 mois](https://www.lechorepublicain.fr/paris-75000/actualites/gabriel-attal-confirme-un-durcissement-des-regles-du-chomage-la-duree-d-indemnisation-reduite-a-15-mois_14506944/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Voici ce que risquent les chômeurs qui partent en vacances](https://www.journaldunet.com/management/salaire-cadres/1530555-ip1-chomage-vacances/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage : la der des ders d'Emmanuel Macron](https://www.lesechos.fr/economie-france/social/assurance-chomage-la-der-des-ders-demmanuel-macron-2097068)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Que faire à Grenoble ce week-end (samedi 25 et dimanche 26 mai 2024)](https://mesinfos.fr/38000-grenoble/que-faire-a-grenoble-ce-week-end-samedi-25-et-dimanche-26-mai-2024-199177.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trajets des navetteurs, interruption de carrière, plafonds des entrepreneurs de travaux : voici ce qui va changer le premier juin](https://www.lalibre.be/belgique/societe/2024/05/26/trajets-des-navetteurs-interruption-de-carriere-plafonds-des-entrepreneurs-de-travaux-voici-ce-qui-va-changer-le-premier-juin-BRYOHK3IWRBAZFLYLIE3CTQVG4/)
+append_entries: 8
+Finish: 2024-05-26 12:28:35.003389

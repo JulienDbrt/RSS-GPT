@@ -1486,3 +1486,12 @@ Summarized using GPT-3.5-turbo
 Append: [#By Air Corsica      ’ Explorer, partager, créer, savourer... avec](https://www.facebook.com/204309342152891/posts/467259209191235)
 append_entries: 2
 Finish: 2024-05-26 01:14:11.438542
+------------------------------------------------------
+Started: 2024-05-26 12:31:46.398657
+Existing_entries: 591
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Evènement - Fête des Mères  ’](https://www.facebook.com/204309342152891/posts/467853939131762)
+append_entries: 1
+Finish: 2024-05-26 12:31:53.211890

@@ -1923,3 +1923,15 @@ Summarized using GPT-3.5-turbo
 Append: [Où acheter une maison près de Marseille ? Notre classement exclusif](https://www.leparisien.fr/immobilier/securite-bord-de-mer-transports-ou-acheter-une-maison-pres-de-marseille-notre-classement-exclusif-25-05-2024-LMNVKAQB6RFGXG67J4MBAUG4MU.php)
 append_entries: 7
 Finish: 2024-05-26 01:11:43.125865
+------------------------------------------------------
+Started: 2024-05-26 12:27:28.926300
+Existing_entries: 651
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [10 preuves que les Français sont de plus en plus pauvres, même les plus riches](https://www.journaldunet.com/patrimoine/finances-personnelles/1530529-pauvre-france/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [En Vendée, Arcade Cycles ouvre une nouvelle usine à 17 millions d'euros pour produire 120000 vélos par an - L'Usine Nouvelle](https://www.usinenouvelle.com/article/en-vendee-arcade-cycles-ouvre-une-nouvelle-usine-a-17-millions-d-euros-pour-produire-120000-velos-par-an.N2212417)
+append_entries: 2
+Finish: 2024-05-26 12:27:45.978427

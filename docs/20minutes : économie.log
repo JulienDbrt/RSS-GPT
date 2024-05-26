@@ -599,3 +599,18 @@ Existing_entries: 99
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-05-26 01:14:13.359143
+------------------------------------------------------
+Started: 2024-05-26 12:31:59.706531
+Existing_entries: 99
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : Le gouvernement durcit les règles « pour aller vers le plein-emploi »](https://www.20minutes.fr/economie/4092897-20240526-assurance-chomage-gouvernement-durcit-regles-aller-vers-plein-emploi)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L’alerte Géocœur rend les défibrillateurs plus efficaces pour sauver des vies](https://www.20minutes.fr/sante/4092256-20240526-alerte-geoc-ur-rend-defibrillateurs-plus-efficaces-sauver-vies)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Goût pastis, pesto, camembert… Comment Bret’s a dynamité le marché (endormi) de la chips](https://www.20minutes.fr/economie/4091241-20240526-gout-pastis-pesto-camembert-comment-bret-dynamite-marche-endormi-chips)
+append_entries: 3
+Finish: 2024-05-26 12:32:17.575997

@@ -489,3 +489,15 @@ Existing_entries: 69
 Fetching from https://www.bfmtv.com/rss/economie/consommation/
 append_entries: 0
 Finish: 2024-05-26 01:14:51.489745
+------------------------------------------------------
+Started: 2024-05-26 12:33:23.542905
+Existing_entries: 69
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Jysk, c'est quoi cet "Ikea danois" qui ouvre magasin sur magasin en France?](https://www.bfmtv.com/economie/consommation/jysk-c-est-quoi-cet-ikea-danois-qui-ouvre-magasin-sur-magasin-en-france_AN-202405240712.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fleurs, bijoux... Ces cadeaux indétrônables de la fête des mères](https://www.bfmtv.com/economie/consommation/fleurs-bijoux-ces-cadeaux-indetronables-de-la-fete-des-meres_AV-202405260040.html)
+append_entries: 2
+Finish: 2024-05-26 12:33:34.798911

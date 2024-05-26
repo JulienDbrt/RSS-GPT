@@ -1036,3 +1036,12 @@ Summarized using GPT-3.5-turbo
 Append: [Jeux vidéo : 3,2 millions d’euros supplémentaires pour la start-up Cross The Ages](https://www.capital.fr/crypto/jeux-video-32-millions-deuros-supplementaires-pour-la-start-up-cross-the-ages-1497118)
 append_entries: 1
 Finish: 2024-05-26 01:11:21.248687
+------------------------------------------------------
+Started: 2024-05-26 12:27:21.670838
+Existing_entries: 254
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le protocole DRC-20 en pleine effervescence : Rejoignez le mouvement !](https://www.cointribune.com/le-protocole-drc-20-en-pleine-effervescence-rejoignez-le-mouvement/)
+append_entries: 1
+Finish: 2024-05-26 12:27:28.604463

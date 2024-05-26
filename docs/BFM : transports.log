@@ -558,3 +558,12 @@ Summarized using GPT-3.5-turbo
 Append: [TGV: la concurrence fait-elle baisser les prix?](https://www.bfmtv.com/economie/entreprises/transports/tgv-la-concurrence-fait-elle-baisser-les-prix_AV-202405250314.html)
 append_entries: 1
 Finish: 2024-05-26 01:15:22.924617
+------------------------------------------------------
+Started: 2024-05-26 12:35:24.080415
+Existing_entries: 92
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouvelle-Calédonie: l'aéroport de Nouméa fermé aux vols commerciaux au moins jusqu'au dimanche 2 juin](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-aux-vols-commerciaux-au-moins-jusqu-au-dimanche-2-juin_AN-202405260140.html)
+append_entries: 1
+Finish: 2024-05-26 12:35:29.963779

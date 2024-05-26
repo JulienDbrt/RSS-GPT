@@ -1678,3 +1678,39 @@ Summarized using GPT-3.5-turbo
 Append: [G7 finances : pas de réelles avancées sur le dossier Chine](https://www.latribune.fr/economie/international/g7-finances-pas-de-reelles-avancees-sur-la-dossier-chine-998300.html)
 append_entries: 4
 Finish: 2024-05-26 01:18:57.669893
+------------------------------------------------------
+Started: 2024-05-26 12:42:48.878864
+Existing_entries: 452
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « Le RN vomit tellement l’Europe qu’il ne se préoccupe pas des intérêts de la France »](https://www.latribune.fr/economie/politique/gabriel-attal-le-rn-vomit-tellement-l-europe-qu-il-ne-se-preoccupe-pas-des-interets-de-la-france-998365.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chine, Japon et Corée du Sud se rencontrent dans un climat géopolitique tendu](https://www.latribune.fr/economie/international/chine-japon-et-coree-du-sud-se-rencontrent-dans-un-climat-geopolitique-tendu-998419.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « Mon déplacement à Nouméa doit permettre la progression du dialogue et l’atteinte d’un accord global »](https://www.latribune.fr/economie/politique/gabriel-attal-mon-deplacement-a-noumea-doit-permettre-la-progression-du-dialogue-et-l-atteinte-d-un-accord-global-998364.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Face aux tensions persistantes en Nouvelle-Calédonie, Emmanuel Macron sort la carte du référendum](https://www.latribune.fr/economie/france/face-aux-tensions-persistantes-en-nouvelle-caledonie-emmanuel-macron-sort-la-carte-du-referendum-998410.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « La majorité présidentielle est très largement rassemblée derrière le projet de loi sur la fin de vie »](https://www.latribune.fr/economie/politique/gabriel-attal-la-majorite-presidentielle-est-tres-largement-rassemblee-derriere-le-projet-de-loi-sur-la-fin-de-vie-998363.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « Nous ne devons pas caler sur la route du plein-emploi »](https://www.latribune.fr/economie/politique/gabriel-attal-nous-ne-devons-pas-caler-sur-la-route-du-plein-emploi-998361.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Allemagne : dans le bastion de l'AfD](https://www.latribune.fr/economie/international/allemagne-dans-le-bastion-de-l-afd-998327.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Deux ans d’entraînement, c’est très court » (Sophie Adenot, spationaute)](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/deux-ans-d-entrainement-c-est-tres-court-sophie-adenot-spationaute-998338.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Un audiovisuel public plus fort, plus visible » (par Rachida Dati)](https://www.latribune.fr/opinions/tribunes/un-audiovisuel-public-plus-fort-plus-visible-par-rachida-dati-998342.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avec « Anora », le Festival de Cannes choisit l'Amérique](https://www.latribune.fr/culture-lifestyle/avec-anora-le-festival-de-cannes-choisit-l-amerique-998362.html)
+append_entries: 10
+Finish: 2024-05-26 12:43:47.179884

@@ -2624,3 +2624,44 @@ Append: [Check-up Santé - Samedi 25 mai](https://www.bfmtv.com/economie/replay-
 Append: [L'intégrale de Check-up Santé du samedi 25 mai](https://www.bfmtv.com/economie/replay-emissions/check-up-sante/l-integrale-de-check-up-sante-du-samedi-25-mai_EN-202405250274.html)
 append_entries: 25
 Finish: 2024-05-26 01:14:46.137449
+------------------------------------------------------
+Started: 2024-05-26 12:32:24.728996
+Existing_entries: 1025
+Fetching from https://www.bfmtv.com/rss/economie/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Populiste", "violente"... La réforme de l'assurance-chômage étrillée par les syndicats](https://www.bfmtv.com/economie/emploi/populiste-violente-la-reforme-de-l-assurance-chomage-etrillee-par-les-syndicats_AD-202405260250.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage: Sophie Binet dénonce une réforme "violente" qui "va pénaliser tout le monde"](https://www.bfmtv.com/economie/emploi/assurance-chomage-sophie-binet-denonce-une-reforme-violente-qui-va-penaliser-tout-le-monde_AV-202405260244.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Il faut qu'on travaille davantage": Attal ne "veut pas augmenter les impôts" pour financer le modèle social](https://www.bfmtv.com/economie/emploi/il-faut-qu-on-travaille-davantage-attal-ne-veut-pas-augmenter-les-impots-pour-financer-le-modele-social_AV-202405260214.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["J'ai été trahi": Luciano Benetton quitte la présidence de l'empire familial avec fracas](https://www.bfmtv.com/economie/entreprises/j-ai-ete-trahi-luciano-benetton-quitte-la-presidence-de-l-empire-familial-avec-fracas_AD-202405260206.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage: durcir les règles pour relancer l'emploi, une méthode efficace?](https://www.bfmtv.com/economie/emploi/assurance-chomage-durcir-les-regles-pour-relancer-l-emploi-une-methode-efficace_AV-202405260187.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage: "Est-ce que dans des secteurs en tension, un salarié a besoin d'être protégé 24 ou 18 mois? Pour moi la réponse est non", déclare Stéphane Manigold, restaurateur et président du Groupe Éclore](https://www.bfmtv.com/economie/assurance-chomage-est-ce-que-dans-des-secteurs-en-tension-un-salarie-a-besoin-d-etre-protege-24-ou-18-mois-pour-moi-la-reponse-est-non-declare-stephane-manigold-restaurateur-et-president-du-groupe-eclore_VN-202405260170.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chômage: "C'est la réforme la plus violente que le gouvernement ait faite sur l'assurance-chômage", déclare Denis Gravouil, secrétaire confédéral de la CGT, en charge de l'assurance-chômage](https://www.bfmtv.com/economie/emploi/chomage-c-est-la-reforme-la-plus-violente-que-le-gouvernement-ait-faite-sur-l-assurance-chomage-declare-denis-gravouil-secretaire-confederal-de-la-cgt-en-charge-de-l-assurance-chomage_VN-202405260164.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouvelle-Calédonie: l'aéroport de Nouméa fermé aux vols commerciaux au moins jusqu'au dimanche 2 juin](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-aux-vols-commerciaux-au-moins-jusqu-au-dimanche-2-juin_AN-202405260140.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Primes pour les JO 2024 : une facture sociale trop salée ?](https://www.bfmtv.com/economie/primes-pour-les-jo-2024-une-facture-sociale-trop-salee_VN-202405260114.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Durée d'indemnisation, ouverture des droits... Ce que va changer la réforme de l'assurance-chômage](https://www.bfmtv.com/economie/emploi/duree-d-indemnisation-ouverture-des-droits-ce-que-va-changer-la-reforme-de-l-assurance-chomage_AD-202405260111.html)
+Append: [De Quoi J'me Mail - Dimanche 26 mai](https://www.bfmtv.com/economie/replay-emissions/de-quoi-jme-mail/de-quoi-j-me-mail-dimanche-26-mai_VN-202405260085.html)
+Append: [De quoi j'me mail : Les coups de cœur du salon Vivatech Part 2 (2/2) - 26/05](https://www.bfmtv.com/economie/replay-emissions/de-quoi-jme-mail/de-quoi-j-me-mail-les-coups-de-c-ur-du-salon-vivatech-part-2-2-2-26-05_VN-202405260083.html)
+Append: [De Quoi J'me Mail : Les coups de cœur du salon Vivatech Part 1 (1/2) - 26/05](https://www.bfmtv.com/economie/replay-emissions/de-quoi-jme-mail/de-quoi-j-me-mail-les-coups-de-c-ur-du-salon-vivatech-part-1-1-2-26-05_VN-202405260079.html)
+Append: [Jysk, c'est quoi cet "Ikea danois" qui ouvre magasin sur magasin en France?](https://www.bfmtv.com/economie/consommation/jysk-c-est-quoi-cet-ikea-danois-qui-ouvre-magasin-sur-magasin-en-france_AN-202405240712.html)
+Append: [Fleurs, bijoux... Ces cadeaux indétrônables de la fête des mères](https://www.bfmtv.com/economie/consommation/fleurs-bijoux-ces-cadeaux-indetronables-de-la-fete-des-meres_AV-202405260040.html)
+append_entries: 15
+Finish: 2024-05-26 12:33:22.122649

@@ -594,3 +594,18 @@ Existing_entries: 104
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-05-26 01:16:58.908156
+------------------------------------------------------
+Started: 2024-05-26 12:38:09.966624
+Existing_entries: 104
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Après un incendie criminel et des mois de travaux, la boulangerie de cette petite ville de Bourgogne a enfin ouvert](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/apres-un-incendie-criminel-et-des-mois-de-travaux-la-boulangerie-de-cette-petite-ville-de-bourgogne-a-enfin-ouvert-2975051.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [À Donzy, tous les habitants (ou presque) dansent dans un clip pour faire connaître leur village : "une première en Europe !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/a-donzy-tous-les-habitants-ou-presque-dansent-dans-un-clip-pour-faire-connaitre-leur-village-une-premiere-en-europe-2972909.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mauvais fourrage, tracteurs embourbés et pertes de récoltes : la pluie donne du souci aux agriculteurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/franche-comte/mauvais-fourrage-tracteurs-embourbes-et-pertes-de-recoltes-la-pluie-donne-du-souci-aux-agriculteurs-2974565.html)
+append_entries: 3
+Finish: 2024-05-26 12:38:26.882297

@@ -1490,3 +1490,15 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts 2024 : « Je suis parti à la retraite en 2023. Puis-je lisser mes indemnités ? »](https://www.moneyvox.fr/impot/actualites/97928/impots-2024-je-suis-parti-a-la-retraite-en-2023-puis-je-lisser-mes-indemnites)
 append_entries: 2
 Finish: 2024-05-26 01:16:54.235635
+------------------------------------------------------
+Started: 2024-05-26 12:37:44.936207
+Existing_entries: 436
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taux de l'épargne 2024, impôt Airbnb, comptes non rémunérés... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/97930/taux-de-epargne-2024-impot-airbnb-comptes-non-remuneres-les-5-infos-argent-de-la-semaine)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les assurances auto connectées, un bon moyen pour faire des économies ?](https://www.moneyvox.fr/actu/97832/les-assurances-auto-connectees-un-bon-moyen-pour-faire-des-economies)
+append_entries: 2
+Finish: 2024-05-26 12:37:56.853321

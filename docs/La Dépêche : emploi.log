@@ -661,3 +661,15 @@ Existing_entries: 123
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-26 01:18:28.553334
+------------------------------------------------------
+Started: 2024-05-26 12:41:07.793938
+Existing_entries: 123
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l’assurance chômage : "Il faut qu’on travaille davantage"… Gabriel Attal défend le durcissement des règles d’indemnisation](https://www.ladepeche.fr/2024/05/26/reforme-de-lassurance-chomage-il-faut-quon-travaille-davantage-gabriel-attal-defend-le-durcissement-des-regles-dindemnisation-11975318.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [À Labathude, le jeune Emile Truel développe sa passion pour le bois](https://www.ladepeche.fr/2024/05/26/a-labathude-le-jeune-emile-truel-developpe-sa-passion-pour-le-bois-11973565.php)
+append_entries: 2
+Finish: 2024-05-26 12:41:19.309350

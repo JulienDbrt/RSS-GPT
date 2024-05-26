@@ -1934,3 +1934,41 @@ Summarized using GPT-3.5-turbo
 Append: ["Le tourisme a été comme une sorte de colonisateur" : les Baléares disent "basta" au surtourisme](https://www.francetvinfo.fr/monde/espagne/le-tourisme-a-ete-comme-une-sorte-de-colonisateur-les-baleares-disent-basta-au-surtourisme_6564704.html)
 append_entries: 9
 Finish: 2024-05-26 01:16:33.664806
+------------------------------------------------------
+Started: 2024-05-26 12:36:23.482324
+Existing_entries: 658
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage : "Nous attaquerons les décrets devant le Conseil d'Etat", promet Force ouvrière](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-nous-attaquerons-les-decrets-devant-le-conseil-d-etat-promet-force-ouvriere_6566687.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : "Ce n'est pas la seule réforme possible" pour favoriser l'emploi, estime Bertrand Martinot](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/assurance-chomage-ce-n-est-pas-la-seule-reforme-possible-pour-favoriser-l-emploi-estime-bertrand-martinot_6526580.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Logo Origin'Info : quatre questions sur le dispositif censé informer les consommateurs de la provenance des ingrédients contenus dans les produits transformés](https://www.francetvinfo.fr/economie/crise/blocus-des-agriculteurs/logo-origin-info-quatre-questions-sur-le-dispositif-cense-informer-les-consommateurs-de-la-provenance-des-ingredients-contenus-dans-les-produits-transformes_6564686.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L’Insee s’attend à une forte hausse du taux d’activité des seniors dans les dix ans à venir](https://www.francetvinfo.fr/replay-radio/france-info-seniors/l-insee-s-attend-a-une-forte-hausse-du-taux-d-activite-des-seniors-dans-les-dix-ans-a-venir_6446329.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [OpenAI a-t-il clôné la voix de Scarlett Johansson malgré son refus pour chatGPT4o ?](https://www.francetvinfo.fr/replay-radio/nouveau-monde/openai-a-t-il-clone-la-voix-de-scarlett-johansson-malgre-son-refus-pour-chatgpt4o_6446224.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Consommation : un nouveau label pour y voir plus clair sur l'origine des produits](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/consommation-un-nouveau-label-pour-y-voir-plus-clair-sur-l-origine-des-produits_6566555.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Aéroport de Nice : grève des agents de sécurité pour une revalorisation de leurs salaires et une prime Jeux olympiques](https://www.francetvinfo.fr/economie/transports/aeroport-de-nice-greve-des-agents-de-securite-pour-une-revalorisation-de-leurs-salaires-et-une-prime-jeux-olympiques_6566519.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : "C'est la réforme la plus violente qui va pénaliser absolument tout le monde", dénonce Sophie Binet](https://www.francetvinfo.fr/economie/emploi/chomage/assurance-chomage-c-est-la-reforme-la-plus-violente-qui-va-penaliser-absolument-tout-le-monde-denonce-sophie-binet_6566447.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance-chômage : Gabriel Attal propose "le senior discount, à moitié prix", dénonce François Hommeril, président de la CFE-CGC](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-gabriel-attal-propose-le-senior-discount-a-moitie-prix-denonce-francois-hommeril-president-de-la-cfe-cgc_6566402.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Plus de quatre ans après son lancement, faut-il remanier le "Projet de Transition professionnelle"?](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/plus-de-quatre-ans-apres-son-lancement-faut-il-remanier-le-projet-de-transition-professionnelle_6446200.html)
+Append: [Réforme de l'assurance-chômage : Gabriel Attal confirme un durcissement des règles "pour aller vers le plein-emploi"](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-gabriel-attal-confirme-un-durcissement-des-regles-pour-aller-vers-le-plein-emploi_6566369.html)
+Append: ["Les Champs-Élysées perdent un peu de leur âme" : comment la célèbre avenue parisienne se transforme en paradis des marques de luxe](https://www.francetvinfo.fr/economie/les-champs-elysees-perdent-un-peu-de-leur-ame-comment-la-celebre-avenue-parisienne-se-transforme-en-paradis-des-marques-de-luxe_6563033.html)
+append_entries: 12
+Finish: 2024-05-26 12:37:19.127710

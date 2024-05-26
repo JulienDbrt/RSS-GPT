@@ -2156,3 +2156,40 @@ Summarized using GPT-3.5-turbo
 Append: [Les traders de DogWifHat investissent dans la prévente de Mollars alors que le jeton WIF est en baisse de 12 % 25 mai 2024](https://www.cryptopolitan.com/fr/les-commercants-dogwifhat-investissent-dans-la-prevente-de-mollars-en-tant-que-jeton-wif-en-baisse-de-12/)
 append_entries: 6
 Finish: 2024-05-26 01:11:17.811379
+------------------------------------------------------
+Started: 2024-05-26 12:26:22.979398
+Existing_entries: 885
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trump tente d’amadouer les libertariens en promettant de libérer un ex-roi de la drogue](https://www.huffingtonpost.fr/international/article/donald-trump-promet-la-liberation-d-un-ex-roi-de-la-drogue-pour-seduire-le-parti-libertarien_234511.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BEVM dévoile un consensus révolutionnaire sur la racine pivotante pour une solution décentralisée Bitcoin Layer 2](https://www.cryptopolitan.com/fr/bevm-devoile-un-consensus-de-base-kin-la-racine-pivotante-pour-une-solution-decentralisee-de-couche-2-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitcoin Bull de l'ère Satoshi réalise des bénéfices alors que BTC pompe et investit ses bénéfices dans le concurrent tendance Ethereum (ETH)](https://www.cryptopolitan.com/fr/le-taureau-bitcoin-de-l-39-ere-satoshi-prend-des-benefices-alors-que-les-pompes-btc-investissent-leurs-benefices-dans-le-concurrent-tendance-ethereum-eth/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le vice-président de MAGA ($MVP) envisage une capitalisation boursière de 100 millions de dollars après le discours pro-crypto de Trump : prévision des prix de la cryptographie, procès XRP et SEC 26 mai 2024](https://www.cryptopolitan.com/fr/maga-vp-mvp-envisage-une-capitalisation-boursiere-de-100-millions-suite-aux-atouts-pro-crypto-discours-crypto-prevision-des-prix-xrp-et-sec-proces/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [États-UnisSous les huées, Trump promet la libération d'un condamné à perpétuité 1 0](https://www.lematin.ch/story/etats-unis-hue-trump-promet-la-liberation-dun-condamne-a-la-perpetuite-103114665)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Donald Trump hué à la convention du parti libertarien](https://www.lefigaro.fr/flash-actu/donald-trump-hue-a-la-convention-du-parti-libertarien-20240526)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Élection présidentielle américaine: Trump promet de libérer un roi de la drogue en cas de réélection](https://www.tdg.ch/etats-unis-trump-promet-de-liberer-un-roi-de-la-drogue-946475286515)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Élection présidentielle américaine: Trump promet de libérer un roi de la drogue en cas de réélection](https://www.24heures.ch/etats-unis-trump-promet-de-liberer-un-roi-de-la-drogue-946475286515)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trump offre la libération d'un trafiquant de drogue contre un soutien 0](https://www.watson.ch/fr/international/donald-trump/479603410-trump-offre-la-liberation-d-un-trafiquant-de-drogue-contre-un-soutien)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Élections américaines: Trump promet de libérer le créateur d'un site de trafic de drogues en échange du vote des libertariens](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/elections-americaines-trump-promet-de-liberer-le-createur-d-un-site-de-trafic-de-drogues-en-echange-du-vote-des-libertariens_AN-202405260184.html)
+Append: [12:20 États-Unis Pour le soutien des libertariens, Trump promet de libérer un roi de la drogue](https://www.lorientlejour.com/article/1415148/pour-le-soutien-des-libertariens-trump-promet-de-liberer-un-roi-de-la-drogue.html)
+append_entries: 11
+Finish: 2024-05-26 12:27:21.527645

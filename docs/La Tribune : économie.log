@@ -1228,3 +1228,39 @@ Summarized using GPT-3.5-turbo
 Append: [G7 finances : pas de réelles avancées sur le dossier Chine](https://www.latribune.fr/economie/international/g7-finances-pas-de-reelles-avancees-sur-la-dossier-chine-998300.html)
 append_entries: 3
 Finish: 2024-05-26 01:18:43.554203
+------------------------------------------------------
+Started: 2024-05-26 12:41:51.538417
+Existing_entries: 302
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « Le RN vomit tellement l’Europe qu’il ne se préoccupe pas des intérêts de la France »](https://www.latribune.fr/economie/politique/gabriel-attal-le-rn-vomit-tellement-l-europe-qu-il-ne-se-preoccupe-pas-des-interets-de-la-france-998365.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chine, Japon et Corée du Sud se rencontrent dans un climat géopolitique tendu](https://www.latribune.fr/economie/international/chine-japon-et-coree-du-sud-se-rencontrent-dans-un-climat-geopolitique-tendu-998419.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « Mon déplacement à Nouméa doit permettre la progression du dialogue et l’atteinte d’un accord global »](https://www.latribune.fr/economie/politique/gabriel-attal-mon-deplacement-a-noumea-doit-permettre-la-progression-du-dialogue-et-l-atteinte-d-un-accord-global-998364.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Face aux tensions persistantes en Nouvelle-Calédonie, Emmanuel Macron sort la carte du référendum](https://www.latribune.fr/economie/france/face-aux-tensions-persistantes-en-nouvelle-caledonie-emmanuel-macron-sort-la-carte-du-referendum-998410.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « La majorité présidentielle est très largement rassemblée derrière le projet de loi sur la fin de vie »](https://www.latribune.fr/economie/politique/gabriel-attal-la-majorite-presidentielle-est-tres-largement-rassemblee-derriere-le-projet-de-loi-sur-la-fin-de-vie-998363.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal : « Nous ne devons pas caler sur la route du plein-emploi »](https://www.latribune.fr/economie/politique/gabriel-attal-nous-ne-devons-pas-caler-sur-la-route-du-plein-emploi-998361.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Allemagne : dans le bastion de l'AfD](https://www.latribune.fr/economie/international/allemagne-dans-le-bastion-de-l-afd-998327.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : une réforme qui va demander des efforts](https://www.latribune.fr/economie/politique/assurance-chomage-une-reforme-qui-va-demander-des-efforts-998314.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal, 140 jours à Matignon](https://www.latribune.fr/economie/politique/gabriel-attal-140-jours-a-matignon-998367.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fin de vie, le grand débat commence à l’Assemblée](https://www.latribune.fr/economie/politique/fin-de-vie-le-grand-debat-commence-a-l-assemblee-998316.html)
+append_entries: 10
+Finish: 2024-05-26 12:42:48.256813

@@ -656,3 +656,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Il y avait une grande part d'utopie" : Artisans du monde, ce pionnier du commerce équitable, fête ses 50 ans](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-8678360)
 append_entries: 1
 Finish: 2024-05-26 01:16:46.876734
+------------------------------------------------------
+Started: 2024-05-26 12:37:37.707232
+Existing_entries: 118
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : "C’est une réforme que la réalité appelle", affirme François Bayrou](https://www.radiofrance.fr/franceinter/podcasts/questions-politiques/questions-politiques-du-dimanche-26-mai-2024-7797624)
+append_entries: 1
+Finish: 2024-05-26 12:37:44.077879

@@ -1181,3 +1181,15 @@ Summarized using GPT-3.5-turbo
 Append: [Batteries électriques: Verkor obtient un prêt de 1,3 milliard d'euros pour sa gigafactory de Dunkerque](https://www.bfmtv.com/economie/entreprises/batteries-electriques-verkor-obtient-un-pret-de-1-3-milliard-d-euros-pour-sa-gigafactory-de-dunkerque_AD-202405250283.html)
 append_entries: 3
 Finish: 2024-05-26 01:15:00.182678
+------------------------------------------------------
+Started: 2024-05-26 12:34:09.640748
+Existing_entries: 319
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["J'ai été trahi": Luciano Benetton quitte la présidence de l'empire familial avec fracas](https://www.bfmtv.com/economie/entreprises/j-ai-ete-trahi-luciano-benetton-quitte-la-presidence-de-l-empire-familial-avec-fracas_AD-202405260206.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouvelle-Calédonie: l'aéroport de Nouméa fermé aux vols commerciaux au moins jusqu'au dimanche 2 juin](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-aux-vols-commerciaux-au-moins-jusqu-au-dimanche-2-juin_AN-202405260140.html)
+append_entries: 2
+Finish: 2024-05-26 12:34:21.168263

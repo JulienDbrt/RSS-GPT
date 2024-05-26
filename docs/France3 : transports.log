@@ -1136,3 +1136,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Ce projet est tellement pharaonique, inutile et coûteux qu'on est optimiste !" Les opposants à la LGV Paris-Toulouse ne faiblissent pas](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/ce-projet-est-tellement-pharaonique-inutile-et-couteux-qu-on-est-optimiste-les-opposants-a-la-lgv-paris-toulouse-ne-faiblissent-pas-2975207.html)
 append_entries: 2
 Finish: 2024-05-26 01:17:12.096547
+------------------------------------------------------
+Started: 2024-05-26 12:38:33.459245
+Existing_entries: 285
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trois chiffres sur l'Azamara Quest et sa croisière de 35 jours, ciblés par une action des écologistes en Europe](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/trois-chiffres-sur-l-azamara-quest-et-sa-croisiere-de-35-jours-cibles-par-une-action-des-ecologistes-en-europe-2975459.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Aéroport de Nantes-Atlantique. Un couvre-feu plus strict à partir du 1ᵉʳ juin](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/aeroport-de-nantes-atlantique-un-couvre-feu-plus-strict-a-partir-du-1-juin-2975471.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Transports en commun. Bus, tram, train, au Mans, un ticket unique pour parcourir jusqu'à 250 km](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/le-mans/transports-en-commun-bus-tram-train-au-mans-un-ticket-unique-pour-parcourir-jusqu-a-250-km-2975294.html)
+append_entries: 3
+Finish: 2024-05-26 12:38:50.845425

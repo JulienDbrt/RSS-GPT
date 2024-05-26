@@ -1653,3 +1653,27 @@ Append: [Molsheim. Les talents molshémiens s’exposeront à Mols’Art](https:
 Append: [Consommation. Origin'Info indiquera la provenance des ingrédients sur 10 000 produits dès cet été](https://www.dna.fr/economie/2024/05/25/origin-info-indiquera-la-provenance-des-ingredients-sur-10000-produits-des-cet-ete)
 append_entries: 12
 Finish: 2024-05-26 01:15:55.859878
+------------------------------------------------------
+Started: 2024-05-26 12:35:30.592338
+Existing_entries: 499
+Fetching from https://www.dna.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Colmar. Les lanternes de Bartholdi organisent leur première nocturne des commerçants](https://www.dna.fr/economie/2024/05/26/les-lanternes-de-bartholdi-organisent-leur-premiere-nocturne-des-commercants)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bénévolat. À Illzach, la journée citoyenne s’est déclinée en 27 ateliers](https://www.dna.fr/culture-loisirs/2024/05/26/a-illzach-la-journee-citoyenne-s-est-declinee-en-27-ateliers)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Loisirs. Centre nautique de Saint-Louis : tous à l’eau à partir du 2 juin](https://www.dna.fr/culture-loisirs/2024/05/26/centre-nautique-de-saint-louis-tous-a-l-eau-a-partir-du-2-juin)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Croquer la ville | (78). Mulhouse : banque éthique, le crédit municipal fait des heureux](https://www.dna.fr/economie/2024/05/26/mulhouse-banque-ethique-le-credit-municipal-fait-des-heureux)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Landersheim. Bernard Magrez cultive les start-up à l’académie des vins](https://www.dna.fr/economie/2024/05/26/bernard-magrez-cultive-les-start-up-a-l-academie-des-vins)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Politique. Microsoft à Petit-Landau : un accueil peu chaleureux](https://www.dna.fr/politique/2024/05/26/un-accueil-peu-chaleureux)
+append_entries: 6
+Finish: 2024-05-26 12:36:06.338665
