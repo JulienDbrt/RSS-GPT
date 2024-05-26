@@ -1273,3 +1273,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les ventes de cuisines sont en chute libre : les Français ont trouvé une astuce redoutable pour ne plus en acheter](https://www.maison-travaux.fr/renovation-par-piece/cuisine-renovation-par-piece/ventes-cuisine-chute-alternatives-560880.html)
 append_entries: 6
 Finish: 2024-05-25 12:28:47.863050
+------------------------------------------------------
+Started: 2024-05-26 01:12:21.164352
+Existing_entries: 389
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Kad Merad et Julia Vignali : le couple aurait été victime d'une escroquerie estimée à 1,5 million d'euros](https://www.voici.fr/news-people/kad-merad-et-julia-vignali-le-couple-aurait-ete-victime-d-une-escroquerie-estimee-a-15-million-d-euros-783340)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [205 millions d'euros : découvrez l'appartement le plus cher de Londres... que personne ne veut acheter](https://actu.fr/monde/205-millions-d-euros-decouvrez-l-appartement-le-plus-cher-de-londres-que-personne-ne-veut-acheter_61113741.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Stéphane Plaza au plus mal ? L'animateur dévoile une photo inquiétante depuis un lit d'hôpital](https://www.voici.fr/news-people/stephane-plaza-au-plus-mal-l-animateur-devoile-une-photo-inquietante-depuis-un-lit-d-hopital-780382)
+append_entries: 3
+Finish: 2024-05-26 01:12:29.276973

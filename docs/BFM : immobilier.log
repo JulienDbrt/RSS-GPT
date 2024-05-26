@@ -598,3 +598,9 @@ Summarized using GPT-3.5-turbo
 Append: [Huit salles de bains, deux caves à vin... Cet appartement en passe de devenir le plus cher du Royaume-Uni ne trouve pas preneur](https://www.bfmtv.com/immobilier/huit-salles-de-bains-deux-caves-a-vin-cet-appartement-en-passe-de-devenir-le-plus-cher-du-royaume-uni-ne-trouve-pas-preneur_AV-202405250222.html)
 append_entries: 2
 Finish: 2024-05-25 12:32:51.590721
+------------------------------------------------------
+Started: 2024-05-26 01:15:16.727285
+Existing_entries: 120
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-05-26 01:15:17.033325

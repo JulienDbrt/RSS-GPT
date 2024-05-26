@@ -1478,3 +1478,15 @@ Summarized using GPT-3.5-turbo
 Append: [Retraite : une bonne nouvelle pour votre épargne](https://www.moneyvox.fr/retraite/actualites/97925/une-bonne-nouvelle-pour-votre-epargne)
 append_entries: 5
 Finish: 2024-05-25 12:34:38.328972
+------------------------------------------------------
+Started: 2024-05-26 01:16:47.886759
+Existing_entries: 434
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière : une bonne surprise](https://www.moneyvox.fr/impot/actualites/97937/taxe-fonciere-une-bonne-surprise)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : « Je suis parti à la retraite en 2023. Puis-je lisser mes indemnités ? »](https://www.moneyvox.fr/impot/actualites/97928/impots-2024-je-suis-parti-a-la-retraite-en-2023-puis-je-lisser-mes-indemnites)
+append_entries: 2
+Finish: 2024-05-26 01:16:54.235635

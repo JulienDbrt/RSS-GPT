@@ -549,3 +549,12 @@ Summarized using GPT-3.5-turbo
 Append: [Grève à l'aéroport d'Orly: quels sont les droits des passagers dont le vol est annulé?](https://www.bfmtv.com/economie/entreprises/transports/greve-a-l-aeroport-d-orly-quels-sont-les-droits-des-passagers-dont-le-vol-est-annule_AV-202405250187.html)
 append_entries: 1
 Finish: 2024-05-25 12:33:05.502357
+------------------------------------------------------
+Started: 2024-05-26 01:15:19.475996
+Existing_entries: 91
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [TGV: la concurrence fait-elle baisser les prix?](https://www.bfmtv.com/economie/entreprises/transports/tgv-la-concurrence-fait-elle-baisser-les-prix_AV-202405250314.html)
+append_entries: 1
+Finish: 2024-05-26 01:15:22.924617

@@ -1213,3 +1213,18 @@ Summarized using GPT-3.5-turbo
 Append: [Actifs russes : le G7 est proche d’un accord de principe pour aider Kiev](https://www.latribune.fr/economie/international/actifs-russes-le-g7-est-proche-d-un-accord-de-principe-pour-aider-kiev-998271.html)
 append_entries: 2
 Finish: 2024-05-25 12:37:42.873459
+------------------------------------------------------
+Started: 2024-05-26 01:18:36.462264
+Existing_entries: 299
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [Gabriel Attal : « J'appelle au sursaut »](https://www.latribune.fr/economie/politique/gabriel-attal-j-appelle-au-plein-emploi-998358.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Sondage Européennes : aucun « effet Attal » après le débat](https://www.latribune.fr/economie/politique/sondage-europeennes-aucun-effet-attal-apres-le-debat-998309.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [G7 finances : pas de réelles avancées sur le dossier Chine](https://www.latribune.fr/economie/international/g7-finances-pas-de-reelles-avancees-sur-la-dossier-chine-998300.html)
+append_entries: 3
+Finish: 2024-05-26 01:18:43.554203

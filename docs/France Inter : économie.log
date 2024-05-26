@@ -647,3 +647,12 @@ Summarized using GPT-3.5-turbo
 Append: [La chronique Eco du samedi 25 mai 2024](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-25-mai-2024-2033895)
 append_entries: 2
 Finish: 2024-05-25 12:34:19.169502
+------------------------------------------------------
+Started: 2024-05-26 01:16:44.801501
+Existing_entries: 117
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: ["Il y avait une grande part d'utopie" : Artisans du monde, ce pionnier du commerce équitable, fête ses 50 ans](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-8678360)
+append_entries: 1
+Finish: 2024-05-26 01:16:46.876734

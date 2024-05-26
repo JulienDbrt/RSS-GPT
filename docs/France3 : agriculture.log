@@ -912,3 +912,12 @@ Summarized using GPT-3.5-turbo
 Append: ["On est à la campagne et on n'entend que des bazookas" : les canons effaroucheurs anti-oiseaux font du bruit dans les Deux-Sèvres](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/on-est-a-la-campagne-et-on-n-entend-que-des-bazookas-les-canons-effaroucheurs-anti-oiseaux-font-du-bruit-dans-les-deux-sevres-2974616.html)
 append_entries: 3
 Finish: 2024-05-25 12:34:57.778944
+------------------------------------------------------
+Started: 2024-05-26 01:16:55.890586
+Existing_entries: 212
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: ["Dès qu’il y a un terrain plat, ils veulent absolument bâtir" : habitants et paysans manifestent contre un parc industriel](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/des-qu-il-y-a-un-terrain-plat-ils-veulent-absolument-batir-habitants-et-paysans-manifestent-contre-un-parc-industriel-2975405.html)
+append_entries: 1
+Finish: 2024-05-26 01:16:58.570077

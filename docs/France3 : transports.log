@@ -1124,3 +1124,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Dans le combat de David contre Goliath, des fois, c'est David qui gagne", se réjouit une Toulousaine menant un combat pour sécuriser sa rue trop étroite](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/dans-le-combat-de-david-contre-goliath-des-fois-c-est-david-qui-gagne-se-rejouit-une-toulousaine-menant-un-combat-pour-securiser-sa-rue-trop-etroite-2974829.html)
 append_entries: 4
 Finish: 2024-05-25 12:35:24.733664
+------------------------------------------------------
+Started: 2024-05-26 01:17:06.219877
+Existing_entries: 283
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: [Ligne POLT. Un "train de la colère" en novembre si le ras-le-bol des usagers n'est pas entendu](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/ligne-polt-un-train-de-la-colere-en-novembre-si-le-ras-le-bol-des-usagers-n-est-pas-entendu-2975285.html)
+Token length: 347
+Summarized using GPT-3.5-turbo
+Append: ["Ce projet est tellement pharaonique, inutile et coûteux qu'on est optimiste !" Les opposants à la LGV Paris-Toulouse ne faiblissent pas](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/ce-projet-est-tellement-pharaonique-inutile-et-couteux-qu-on-est-optimiste-les-opposants-a-la-lgv-paris-toulouse-ne-faiblissent-pas-2975207.html)
+append_entries: 2
+Finish: 2024-05-26 01:17:12.096547

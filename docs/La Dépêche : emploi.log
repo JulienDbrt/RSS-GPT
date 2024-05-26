@@ -655,3 +655,9 @@ Summarized using GPT-3.5-turbo
 Append: [Montauban. Le monde du BTP balance entre résilience et espoir](https://www.ladepeche.fr/2024/05/25/le-monde-du-btp-balance-entre-resilience-et-espoir-11972892.php)
 append_entries: 4
 Finish: 2024-05-25 12:37:15.935794
+------------------------------------------------------
+Started: 2024-05-26 01:18:27.879721
+Existing_entries: 123
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-05-26 01:18:28.553334

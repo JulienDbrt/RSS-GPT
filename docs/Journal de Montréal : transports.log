@@ -516,3 +516,18 @@ Existing_entries: 70
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-25 12:35:25.508790
+------------------------------------------------------
+Started: 2024-05-26 01:17:15.553719
+Existing_entries: 70
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [Un tracteur écrase des cônes orange](https://www.journaldemontreal.com/2024/05/24/un-tracteur-ecrase-des-cones-oranges)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Reprise des travaux du pont-tunnel Louis-Hippolyte-La Fontaine](https://www.journaldemontreal.com/2024/05/24/reprise-des-travaux-du-pont-tunnel-louis-hippolyte-la-fontaine)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Mandat de grève: des employés pourraient perturber la circulation aux frontières](https://www.journaldemontreal.com/2024/05/24/mandat-de-greve-des-employes-pourraient-perturber-la-circulation-aux-frontieres)
+append_entries: 3
+Finish: 2024-05-26 01:17:24.290769

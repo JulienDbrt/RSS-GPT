@@ -407,3 +407,18 @@ Existing_entries: 37
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-05-25 12:34:07.707502
+------------------------------------------------------
+Started: 2024-05-26 01:16:33.684372
+Existing_entries: 37
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Grève : des annulations en série à Orly, quelles sont les revendications des syndicats ?](https://www.francetvinfo.fr/economie/greve/greve-des-annulations-en-serie-a-orly-quelles-sont-les-revendications-des-syndicats_6565427.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Grève à Orly : "Il y a un mépris total envers nos positions", s'insurge Léo Juille, secrétaire local de l'USAC-CGT](https://www.francetvinfo.fr/economie/greve/greve-a-orly-il-y-a-un-mepris-total-envers-nos-positions-s-insurge-leo-juille-secretaire-local-de-l-usac-cgt_6565394.html)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Grève à Orly : de nombreux vols annulés ce week-end](https://www.francetvinfo.fr/economie/greve/greve-a-orly-de-nombreux-vols-annules-ce-week-end_6565352.html)
+append_entries: 3
+Finish: 2024-05-26 01:16:42.811975

@@ -399,3 +399,9 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts: la date limite pour déclarer ses revenus repoussée d'une semaine pour certains contribuables](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impots-la-date-limite-pour-declarer-ses-revenus-repoussee-d-une-semaine-pour-certains-contribuables_AD-202405250167.html)
 append_entries: 1
 Finish: 2024-05-25 12:32:55.707110
+------------------------------------------------------
+Started: 2024-05-26 01:15:17.055931
+Existing_entries: 41
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/impots-fiscalite/
+append_entries: 0
+Finish: 2024-05-26 01:15:17.473221
