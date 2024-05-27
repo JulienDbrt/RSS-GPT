@@ -1884,3 +1884,36 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Face au nouveau tour de vis sur l'assurance chômage, les syndicats contre-attaquent](https://www.latribune.fr/economie/france/face-au-nouveau-tour-de-vis-sur-l-assurance-chomage-les-syndicats-contre-attaquent-998422.html)
 append_entries: 4
 Finish: 2024-05-27 01:09:30.541401
+------------------------------------------------------
+Started: 2024-05-27 12:31:40.555604
+Existing_entries: 630
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [En Saône-et-Loire, le miracle industriel du Creusot : « On a au moins 40 ans de travail assuré »](https://www.leparisien.fr/saone-et-loire-71/en-saone-et-loire-le-miracle-industriel-du-creusot-on-a-au-moins-40-ans-de-travail-assure-27-05-2024-ZMWRRP3R3JDCHLXJYFFYXB46RE.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Législatives en Afrique du Sud : l'opposition promet la fin du règne de l'ANC aux élections](https://www.france24.com/fr/afrique/20240527-l%C3%A9gislatives-en-afrique-du-sud-l-opposition-promet-la-fin-du-r%C3%A8gne-de-l-anc-aux-%C3%A9lections)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Je suis tombé à 460 euros par mois » : les précaires, perdants systématiques des réformes de l’assurance chômage](https://www.humanite.fr/social-et-economie/assurance-chomage-2/je-suis-tombe-a-460-euros-par-mois-les-precaires-perdants-systematiques-des-reformes-de-lassurance-chomage)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [20000 recrutements annoncés par EDF, 70 millions d'euros investis par Danone… Les sept bonnes nouvelles de la semaine - L'Usine Nouvelle](https://www.usinenouvelle.com/article/20000-recrutements-annonces-par-edf-70-millions-d-euros-investis-par-danone-les-sept-bonnes-nouvelles-de-la-semaine.N2213408)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage: "Aujourd'hui nous avons près de 400.000 emplois qui ne trouvent pas preneurs" affirme Catherine Vautrin](https://www.bfmtv.com/politique/reforme-de-l-assurance-chomage-aujourd-hui-nous-avons-pres-de-400-000-emplois-qui-ne-trouvent-pas-preneurs-affirme-catherine-vautrin_VN-202405270211.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alexandra Roulet, lauréate du Prix du meilleur jeune économiste 2024 : « L’assurance-chômage comporte un aléa moral »](https://www.lemonde.fr/economie/article/2024/05/27/alexandra-roulet-laureate-du-prix-du-meilleur-jeune-economiste-2024-l-assurance-chomage-comporte-un-alea-moral_6235793_3234.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vacances : faut-il obligatoirement poser ses congés payés avant le 31 mai (au risque de les perdre) ?](https://actu.fr/societe/vacances-faut-il-obligatoirement-poser-ses-conges-payes-avant-le-31-mai-au-risque-de-les-perdre_61111633.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal confirme un durcissement des règles du chômage : la durée d'indemnisation réduite à 15 mois](https://www.leveil.fr/paris-75000/actualites/gabriel-attal-confirme-un-durcissement-des-regles-du-chomage-la-duree-d-indemnisation-reduite-a-15-mois_14506944/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Est-ce que je peux imposer à mes salariés de prendre leurs congés payés pendant les JO ?](https://www.bfmtv.com/economie/est-ce-que-je-peux-imposer-a-mes-salaries-de-prendre-leurs-conges-payes-pendant-les-jo_VN-202405270451.html)
+append_entries: 9
+Finish: 2024-05-27 12:32:44.698608

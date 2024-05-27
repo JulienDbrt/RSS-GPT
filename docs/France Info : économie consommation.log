@@ -1999,3 +1999,36 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Réforme de l'assurance-chômage : les syndicats crient haro sur le nouveau tour de vis après les annonces de Gabriel Attal](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-les-syndicats-crient-haro-sur-le-nouveau-tour-de-vis-apres-les-annonces-de-gabriel-attal_6566726.html)
 append_entries: 7
 Finish: 2024-05-27 01:15:52.524668
+------------------------------------------------------
+Started: 2024-05-27 12:40:57.623776
+Existing_entries: 677
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Du poulpe à la japonaise servi dans le stade de baseball de Los Angeles](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/du-poulpe-a-la-japonaise-servi-dans-le-stade-de-baseball-de-los-angeles_6540140.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L’Express TV sur les rangs pour une décrocher une fréquences sur la TNT : "C'est important de se diversifier", selon le patron du groupe Alain Weill](https://www.francetvinfo.fr/replay-radio/info-medias/l-express-tv-sur-les-rangs-pour-une-decrocher-une-frequences-sur-la-tnt-c-est-important-de-se-diversifier-selon-le-patron-du-groupe-alain-weill_6540173.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance-chômage : le gouvernement durcit les conditions](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-le-gouvernement-durcit-les-conditions_6568553.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Selon une étude, le coût des réparations des voitures électriques supérieur de 15% par rapport aux voitures thermiques](https://www.francetvinfo.fr/economie/automobile/selon-une-etude-le-cout-des-reparations-des-voitures-electriques-superieur-de-15-par-rapport-aux-voitures-thermiques_6568454.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance-chômage : le gouvernement entend durcir les règles](https://www.francetvinfo.fr/economie/emploi/chomage/controle-des-chomeurs/reforme-de-l-assurance-chomage-le-gouvernement-entend-durcir-les-regles_6568394.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La taxe foncière va augmenter de manière modérée en 2024, selon le cabinet Finances et Stratégies Locales](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/la-taxe-fonciere-va-augmenter-de-maniere-moderee-en-2024-selon-le-cabinet-finances-et-strategies-locales_6540197.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [REPORTAGE. "Je ressens de la colère quand les choses n'avancent pas dans le bon sens" : rencontre avec des "Capitalistes anonymes" qui se retrouvent en groupes de parole](https://www.francetvinfo.fr/economie/reportage-je-ressens-de-la-colere-quand-les-choses-n-avancent-pas-dans-le-bon-sens-rencontre-avec-des-capitalistes-anonymes-qui-se-retrouvent-en-groupes-de-parole_6568034.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Luciano Benetton quitte la présidence de l'entreprise familiale](https://www.francetvinfo.fr/replay-radio/le-brief-eco/luciano-benetton-quitte-la-presidence-de-l-entreprise-familiale_6540206.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Citroën : après le rappel massif de C3 et DS3, l'inquiétude de ces automobilistes dans "le flou le plus artistique"](https://www.francetvinfo.fr/economie/automobile/citroen-apres-le-rappel-massif-de-c3-et-ds3-l-inquietude-de-ces-automobilistes-dans-le-flou-le-plus-artistique_6567074.html)
+append_entries: 9
+Finish: 2024-05-27 12:41:48.517068

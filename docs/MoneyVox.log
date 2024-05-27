@@ -1517,3 +1517,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Impôt 2024 : les étapes à suivre pour déclarer les loyers que vous avez touchés](https://www.moneyvox.fr/impot/actualites/97904/impot-2024-les-etapes-a-suivre-pour-declarer-les-loyers-que-vous-avez-touches)
 append_entries: 3
 Finish: 2024-05-27 01:16:17.355734
+------------------------------------------------------
+Started: 2024-05-27 12:42:13.630600
+Existing_entries: 441
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt 2024 : ces deux pièges sur les revenus Airbnb à éviter dans votre déclaration](https://www.moneyvox.fr/impot/actualites/97926/impot-2024-ces-deux-pieges-sur-les-revenus-airbnb-a-eviter-dans-votre-declaration)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : ce qui va changer avec la nouvelle durée d'indemnisation](https://www.moneyvox.fr/votre-argent/actualites/97941/assurance-chomage-ce-qui-va-changer-avec-la-nouvelle-duree-indemnisation)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt sur le revenu 2024 : voici le calendrier des nouvelles dates limites](https://www.moneyvox.fr/impot/actualites/97213/impot-sur-le-revenu-2024-voici-le-calendrier-des-nouvelles-dates-limites)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Bourse de Paris attendue proche de l'équilibre](https://www.moneyvox.fr/bourse/actualites/97940/la-bourse-de-paris-attendue-proche-de-equilibre)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt sur le revenu : voici 10 cases piégeuses que le fisc ne peut pas remplir à votre place](https://www.moneyvox.fr/impot/actualites/97861/impot-sur-le-revenu-voici-10-cases-piegeuses-que-le-fisc-ne-peut-pas-remplir-a-votre-place)
+append_entries: 5
+Finish: 2024-05-27 12:42:41.656233

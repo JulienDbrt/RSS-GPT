@@ -663,3 +663,15 @@ Existing_entries: 123
 Fetching from https://www.7sur7.be/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-27 01:13:02.911421
+------------------------------------------------------
+Started: 2024-05-27 12:36:57.827248
+Existing_entries: 123
+Fetching from https://www.7sur7.be/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les prix du gaz en Europe approchent de leur plus haut niveau pour cette année](https://www.7sur7.be/economie/les-prix-du-gaz-en-europe-approchent-de-leur-plus-haut-niveau-pour-cette-annee~aa8e556a/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bons d’État: plus de 42,5 millions d’euros récoltés après le premier jour](https://www.7sur7.be/economie/bons-detat-plus-de-42-5-millions-deuros-recoltes-apres-le-premier-jour~ae36aa53/)
+append_entries: 2
+Finish: 2024-05-27 12:37:09.964122

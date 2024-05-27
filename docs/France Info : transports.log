@@ -719,3 +719,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Turbulences en avion : 12 personnes blessées lors d'un vol entre Doha et Dublin](https://www.francetvinfo.fr/economie/transports/turbulences-en-avion-douze-personnes-blessees-lors-d-un-vol-entre-doha-et-dublin_6566804.html)
 append_entries: 1
 Finish: 2024-05-27 01:15:58.897454
+------------------------------------------------------
+Started: 2024-05-27 12:42:00.493070
+Existing_entries: 135
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-05-27 12:42:00.843852

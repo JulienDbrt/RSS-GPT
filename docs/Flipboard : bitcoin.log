@@ -1054,3 +1054,33 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Cuesta abajo y sin frenos: Prix des devises sur le marché informel de Cuba subit une baisse record](https://fr.cibercuba.com/noticias/2024-05-26-u1-e207888-s27061-nid282546-cuesta-abajo-frenos-precio-divisas-mercado-informal)
 append_entries: 1
 Finish: 2024-05-27 01:07:53.917329
+------------------------------------------------------
+Started: 2024-05-27 12:29:58.409919
+Existing_entries: 256
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Krach immobilier va décimer les investisseurs obligataires selon Kiyosaki - Alerte](https://fr.investing.com/news/economy/le-krach-immobilier-va-decimer-les-investisseurs-obligataires-selon-kiyosaki--alerte-2432299)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les cerveaux du scandale onecoin ont investi à Dubaï malgré les enquêtes judiciaires](https://www.lemonde.fr/les-decodeurs/article/2024/05/27/les-cerveaux-du-scandale-onecoin-ont-investi-a-dubai-malgre-les-enquetes-judiciaires_6235784_4355770.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : comment investir malin dans le neuf ou l'ancien ?](https://immobilier.lefigaro.fr/annonces/edito/acheter/club-immo/immobilier--comment-investir-malin-dans-le-neuf-ou)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Lunu, Lyzi, Ledger... Ces boîtes françaises qui croient dans le paiement en cryptos](https://www.bfmtv.com/crypto/lunu-lyzi-ledger-ces-boites-francaises-qui-croient-dans-le-paiement-en-cryptos_AV-202405270317.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La police veut renforcer sa lutte contre la cybercriminalité](https://www.20min.ch/fr/story/geneve-la-police-veut-renforcer-sa-lutte-contre-la-cybercriminalite-103115550)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitcoin : Les fonds spéculatifs misent sur une chute imminente](https://www.cointribune.com/bitcoin-les-fonds-speculatifs-misent-sur-une-chute-imminente/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitcoin, Binance, Ethereum, Solana et Ripple : Les plus grosses actus crypto de la semaine écoulée](https://www.cointribune.com/bitcoin-binance-ethereum-solana-et-ripple-les-plus-grosses-actus-crypto-de-la-semaine-ecoulee-4/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cette employée d'un restaurant qui voulait acheter un manoir à Londres avec des bitcoins volés](https://www.bfmtv.com/crypto/cette-employee-d-un-restaurant-qui-voulait-acheter-un-manoir-a-londres-avec-des-bitcoins-voles_AD-202405270390.html)
+append_entries: 8
+Finish: 2024-05-27 12:30:45.139544

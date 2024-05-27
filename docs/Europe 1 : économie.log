@@ -661,3 +661,15 @@ Existing_entries: 117
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-27 01:15:04.864285
+------------------------------------------------------
+Started: 2024-05-27 12:40:32.241610
+Existing_entries: 117
+Fetching from https://www.europe1.fr/rss/economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La future réforme de l'assurance-chômage placera la France «à peu près dans la moyenne européenne»](https://www.europe1.fr/economie/la-future-reforme-de-lassurance-chomage-placera-la-france-a-peu-pres-dans-la-moyenne-europeenne-4249331)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance-chômage : une réforme qui peut soulager les finances publiques](https://www.europe1.fr/economie/assurance-chomage-une-reforme-qui-peut-soulager-les-finances-publiques-4249197)
+append_entries: 2
+Finish: 2024-05-27 12:40:43.784768

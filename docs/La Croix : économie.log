@@ -707,3 +707,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Sur le continent américain, le jus d’orange victime du « dragon jaune »](https://www.la-croix.com/economie/le-jus-d-orange-victime-du-dragon-jaune-20240526)
 append_entries: 2
 Finish: 2024-05-27 01:17:48.181127
+------------------------------------------------------
+Started: 2024-05-27 12:45:51.583525
+Existing_entries: 151
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Européennes 2024 : le libre-échange ne fait plus recette](https://www.la-croix.com/economie/europeennes-2024-le-libre-echange-ne-fait-plus-recette-20240527)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pour redresser son économie, l’Allemagne débat sur les investissements publics](https://www.la-croix.com/economie/pour-redresser-son-economie-l-allemagne-debat-sur-les-investissements-publics-20240526)
+append_entries: 2
+Finish: 2024-05-27 12:46:03.283844

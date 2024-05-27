@@ -544,3 +544,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Coût du panier d’épicerie: quels aliments acheter et lesquels éviter cet été?](https://www.journaldemontreal.com/2024/05/25/cout-du-panier-depicerie-quels-aliments-acheter-et-lesquels-eviter-cet-ete)
 append_entries: 2
 Finish: 2024-05-27 01:17:06.896531
+------------------------------------------------------
+Started: 2024-05-27 12:44:17.969788
+Existing_entries: 72
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Danger de blessures graves: rappel de tasses pouvant contenir un nettoyant chimique](https://www.journaldemontreal.com/2024/05/26/danger-de-blessures-graves-rappel-de-tasses-pouvant-contenir-un-nettoyant-chimique)
+append_entries: 1
+Finish: 2024-05-27 12:44:24.102351

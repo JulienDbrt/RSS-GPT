@@ -2243,3 +2243,51 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Cette box internet inclut la fibre, Disney+ & Prime Video : elle est signée Free](https://www.bfmtv.com/tech/bons-plans/cette-box-internet-inclut-la-fibre-disney-prime-video-elle-est-signee-free_AB-202405260021.html)
 append_entries: 8
 Finish: 2024-05-27 01:14:28.484205
+------------------------------------------------------
+Started: 2024-05-27 12:38:56.151976
+Existing_entries: 889
+Fetching from https://www.bfmtv.com/rss/tech/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un nouveau Doom pour la conférence Xbox du 9 juin](https://www.bfmtv.com/tech/gaming/un-nouveau-doom-pour-la-conference-xbox-du-9-juin_AV-202405270510.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Windows: Microsoft supprime Wordpad, l’un de ses logiciels historiques](https://www.bfmtv.com/tech/microsoft/windows-microsoft-supprime-wordpad-l-un-de-ses-logiciels-historiques_AV-202405270502.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Elon Musk veut son supercalculateur pour son intelligence artificielle](https://www.bfmtv.com/tech/intelligence-artificielle/elon-musk-veut-son-supercalculateur-pour-son-intelligence-artificielle_AD-202405270501.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Que feriez-vous avec des millions de dollars?" : MrBeast annonce "le plus grand jeu télévisé de l'histoire"](https://www.bfmtv.com/tech/youtube/5-millions-de-dollars-a-la-cle-mr-beast-annonce-le-plus-grand-jeu-televise-de-l-histoire_AV-202405270477.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [24 milliards de dollars: face à ChatGPT, la start-up d'IA d'Elon Musk atteint une valorisation inédite](https://www.bfmtv.com/tech/intelligence-artificielle/intelligence-artificielle-la-startup-d-elon-musk-valorisee-a-24-milliards-de-dollars_AV-202405270466.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avec iOS 18, Apple va bouleverser l'écran d'accueil de votre iPhone](https://www.bfmtv.com/tech/apple/avec-i-os-18-apple-va-bouleverser-l-ecran-d-accueil-de-votre-i-phone_AV-202405270453.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Vous êtes une voleuse": quand la reconnaissance faciale identifie des "coupables" par erreur](https://www.bfmtv.com/tech/intelligence-artificielle/vous-etes-une-voleuse-quand-la-reconnaissance-faciale-identifie-des-coupables-par-erreur_AN-202405270436.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'iPhone pourrait bientôt créer une infinité d'émojis basés sur vos conversations, grâce à l'IA](https://www.bfmtv.com/tech/apple/l-i-phone-pourrait-bientot-creer-une-infinite-d-emojis-bases-sur-vos-conversations-grace-a-l-ia_AV-202405270427.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Galaxy S24 : qui aurait pensé que Samsung pouvait dégainer une offre aussi intéressante ?](https://www.bfmtv.com/tech/bons-plans/galaxy-s24-qui-aurait-pense-que-samsung-pouvait-degainer-une-offre-aussi-interessante_AB-202405270008.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'iPhone 12 est toujours aussi bon et à moins de 300 € avec cette astuce](https://www.bfmtv.com/tech/bons-plans/l-i-phone-12-est-toujours-aussi-bon-et-a-moins-de-300-avec-cette-astuce_AB-202405270420.html)
+Append: [Votre réveil d’iPhone ne sonne plus toujours? Voici pourquoi](https://www.bfmtv.com/tech/apple/votre-reveil-d-i-phone-ne-sonne-plus-toujours-voici-pourquoi_AV-202405270417.html)
+Append: [Blockout: l'appel au boycott des stars qui ne soutiennent pas les Palestiniens s'importe en France](https://www.bfmtv.com/tech/vie-numerique/blockout-le-mouvement-qui-punit-les-stars-qui-ne-soutiennent-pas-les-palestiniens-s-importe-en-france_AV-202405270342.html)
+Append: [Tibo InShape est désormais le premier youtubeur français](https://www.bfmtv.com/tech/tibo-in-shape-est-desormais-le-premier-youtubeur-francais_VN-202405270336.html)
+Append: [Vous ne devinerez jamais le prix de ce casque Bose reconditionné proposé par ce marchand](https://www.bfmtv.com/tech/bons-plans/vous-ne-devinerez-jamais-le-prix-de-ce-casque-bose-reconditionne-propose-par-ce-marchand_AB-202405270012.html)
+Append: [ICQ, ancêtre de Whatsapp et MSN, ferme ses portes après trois décennies](https://www.bfmtv.com/tech/vie-numerique/icq-ancetre-de-whatsapp-et-msn-ferme-ses-portes-apres-trois-decennies_AV-202405270323.html)
+Append: [Inoxtag sur l'Everest: les questions que l'on se pose après le mystérieux message à son sujet](https://www.bfmtv.com/tech/youtube/inoxtag-sur-l-everest-les-questions-que-l-on-se-pose-apres-le-mysterieux-message-a-son-sujet_AV-202405270320.html)
+Append: [iPhone 15 Pro Max : comment fait ce marchand pour baisser autant le prix de ce smartphone surpuissant ?](https://www.bfmtv.com/tech/bons-plans/i-phone-15-pro-max-comment-fait-ce-marchand-pour-baisser-autant-le-prix-de-ce-smartphone-surpuissant_AB-202405270015.html)
+Append: ["Pandémie mondiale": 300 millions d'enfants confrontés à des contenus sexuels sur internet](https://www.bfmtv.com/tech/vie-numerique/pandemie-mondiale-300-millions-d-enfants-confrontes-a-des-contenus-sexuels-sur-internet_AD-202405270268.html)
+Append: [Samsung vous propose une offre folle qui ne se refuse pas sur le Samsung Galaxy S24 Ultra, comment résister ?](https://www.bfmtv.com/tech/bons-plans/samsung-vous-propose-une-offre-folle-qui-ne-se-refuse-pas-sur-le-samsung-galaxy-s24-ultra-comment-resister_AB-202405270006.html)
+Append: [Sportifs, étrangers, hommes? Qui sont les abonnés de Tibo InShape, le nouveau "roi" de Youtube](https://www.bfmtv.com/tech/actualites/reseaux-sociaux/passionnes-de-sport-etrangers-hommes-qui-sont-vraiment-les-abonnes-de-tibo-in-shape_AN-202405270231.html)
+Append: [Remise exceptionnelle : profitez du Samsung Galaxy A54 pour moins de 250 euros](https://www.bfmtv.com/tech/bons-plans/remise-exceptionnelle-profitez-du-samsung-galaxy-a54-pour-moins-de-250-euros_AB-202405270010.html)
+Append: [Vente flash Samsung : le Galaxy S23 Ultra effraie ses concurrents, vu son prix on comprend pourquoi](https://www.bfmtv.com/tech/bons-plans/vente-flash-samsung-le-galaxy-s23-ultra-effraie-ses-concurrents-vu-son-prix-on-comprend-pourquoi_AB-202405270016.html)
+append_entries: 22
+Finish: 2024-05-27 12:39:52.314787

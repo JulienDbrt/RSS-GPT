@@ -422,3 +422,15 @@ Existing_entries: 56
 Fetching from https://portail.basta.media/spip.php?page=backend&id_mot=163
 append_entries: 0
 Finish: 2024-05-27 01:07:03.334796
+------------------------------------------------------
+Started: 2024-05-27 12:28:37.280405
+Existing_entries: 56
+Fetching from https://portail.basta.media/spip.php?page=backend&id_mot=163
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Louvre, Champs-Élysées, Pont-Neuf : comment l'homme le plus riche du monde s'est offert Paris](https://www.mediapart.fr/journal/france/260524/louvre-champs-elysees-pont-neuf-comment-l-homme-le-plus-riche-du-monde-s-est-offert-paris)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Orban rachète Euronews pour « atténuer les biais de gauche » ?](https://www.arretsurimages.net/articles/orban-rachete-euronews-pour-attenuer-les-biais-de-gauche)
+append_entries: 2
+Finish: 2024-05-27 12:28:49.618906

@@ -603,3 +603,15 @@ Existing_entries: 103
 Fetching from https://www.bfmtv.com/rss/economie/economie-social/
 append_entries: 0
 Finish: 2024-05-27 01:13:27.471717
+------------------------------------------------------
+Started: 2024-05-27 12:38:06.783584
+Existing_entries: 103
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage: qui sera concerné?](https://www.bfmtv.com/economie/economie-social/reforme-de-l-assurance-chomage-qui-sera-concerne_AV-202405270464.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Un modèle pas suffisamment incitatif au retour à l'emploi": Vautrin défend la réforme de l'assurance-chômage](https://www.bfmtv.com/economie/economie-social/nous-avons-un-modele-social-pas-suffisamment-incitatif-au-retour-a-l-emploi-catherine-vautrin-defend-la-reforme_AV-202405270272.html)
+append_entries: 2
+Finish: 2024-05-27 12:38:19.212241

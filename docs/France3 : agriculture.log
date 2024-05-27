@@ -939,3 +939,24 @@ Existing_entries: 215
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-05-27 01:16:24.946171
+------------------------------------------------------
+Started: 2024-05-27 12:42:54.691812
+Existing_entries: 215
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'eau qui stagne dans ce marais inquiète les éleveurs : "je ne vais quand même pas emmener mes vaches brouter ailleurs"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/l-eau-qui-stagne-dans-ce-marais-inquiete-les-eleveurs-je-ne-vais-quand-meme-pas-emmener-mes-vaches-brouter-ailleurs-2976011.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Ceci sera notre dernier avertissement" : action coup de poing de la Coordination rurale contre l'Office français de la biodiversité](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/ceci-sera-notre-dernier-avertissement-action-coup-de-poing-de-la-coordination-rurale-contre-l-office-francais-de-la-biodiversite-2976002.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDÉO. "C'est féerique et magique" : la montée en alpage d'un troupeau de vaches Hérens attire une foule de curieux au col du Lautaret](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/video-c-est-feerique-et-magique-la-montee-en-alpage-d-un-troupeau-de-vaches-herens-attirent-une-foule-de-curieux-au-col-du-lautaret-2975927.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Planter des oliviers : le pari osé de cette agricultrice d'Auvergne](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/planter-des-oliviers-le-pari-ose-de-cette-agricultrice-d-auvergne-2975807.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEO. Plus de 300 variétés de rosiers en fleurs à découvrir dans le jardin remarquable de l'abbaye de Valsaintes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/video-plus-de-300-varietes-de-rosiers-en-fleurs-a-decouvrir-dans-le-jardin-remarquable-de-l-abbaye-de-valsaintes-2975558.html)
+append_entries: 5
+Finish: 2024-05-27 12:43:23.934709

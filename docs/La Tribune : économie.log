@@ -1279,3 +1279,36 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Face au nouveau tour de vis sur l'assurance chômage, les syndicats contre-attaquent](https://www.latribune.fr/economie/france/face-au-nouveau-tour-de-vis-sur-l-assurance-chomage-les-syndicats-contre-attaquent-998422.html)
 append_entries: 3
 Finish: 2024-05-27 01:18:53.033166
+------------------------------------------------------
+Started: 2024-05-27 12:48:39.916370
+Existing_entries: 315
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Guerre en Ukraine : le patron de l'OTAN veut permettre à Kiev d'utiliser les armes occidentales sur le territoire russe](https://www.latribune.fr/economie/international/guerre-en-ukraine-le-patron-de-l-otan-veut-permettre-a-kiev-d-utiliser-les-armes-occidentales-sur-le-territoire-russe-998470.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pour attirer les entreprises étrangères, la Chine s'engage à élargir l'accès à son marché](https://www.latribune.fr/economie/international/pour-attirer-les-entreprises-etrangeres-la-chine-s-engage-a-elargir-l-acces-a-son-marche-998458.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crèches : le système est « à bout de souffle », selon la rapporteure de la Commission d'enquête de l'Assemblée nationale](https://www.latribune.fr/economie/france/creches-le-systeme-est-a-bout-de-souffle-selon-la-rapporteure-de-la-commission-d-enquete-de-l-assemblee-nationale-998445.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les 5 infos business à retenir ce lundi matin (Voitures thermiques, Corée du Nord, Nouvelle-Calédonie, Taïwan, Renault)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-lundi-matin-voitures-thermiques-coree-du-nord-nouvelle-caledonie-taiwan-renault-998439.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pression autour de Taïwan : le président Lai Ching-te veut œuvrer à la « réconciliation » avec la Chine](https://www.latribune.fr/economie/international/pression-autour-de-taiwan-le-president-lai-ching-te-veut-oeuvrer-a-la-reconciliation-avec-la-chine-998443.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Corée du Sud, la Chine et le Japon s'accordent sur la dénucléarisation de la Corée du Nord lors d'un sommet tripartite](https://www.latribune.fr/economie/international/la-coree-du-sud-la-chine-et-le-japon-s-accordent-sur-la-denuclearisation-de-la-coree-du-nord-lors-d-un-sommet-tripartite-998437.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Tout ramène le RN à sa fascination pour les tyrans » (Jean-Noël Barrot)](https://www.latribune.fr/economie/union-europeenne/tout-ramene-le-rn-a-sa-fascination-pour-les-tyrans-jean-noel-barrot-998283.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouvelle-Calédonie : les tensions retombent, l'état d'urgence sera levé mardi](https://www.latribune.fr/economie/france/nouvelle-caledonie-les-tensions-retombent-l-etat-d-urgence-sera-leve-mardi-998435.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'interdiction de la vente des voitures thermiques en 2035 peut-elle être reportée ?](https://www.latribune.fr/entreprises-finance/industrie/automobile/l-interdiction-de-la-vente-des-voitures-thermiques-en-2035-peut-elle-etre-reportee-998130.html)
+append_entries: 9
+Finish: 2024-05-27 12:49:31.119734

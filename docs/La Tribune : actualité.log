@@ -1729,3 +1729,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Face au nouveau tour de vis sur l'assurance chômage, les syndicats contre-attaquent](https://www.latribune.fr/economie/france/face-au-nouveau-tour-de-vis-sur-l-assurance-chomage-les-syndicats-contre-attaquent-998422.html)
 append_entries: 3
 Finish: 2024-05-27 01:19:11.215682
+------------------------------------------------------
+Started: 2024-05-27 12:49:32.013126
+Existing_entries: 465
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Guerre en Ukraine : le patron de l'OTAN veut permettre à Kiev d'utiliser les armes occidentales sur le territoire russe](https://www.latribune.fr/economie/international/guerre-en-ukraine-le-patron-de-l-otan-veut-permettre-a-kiev-d-utiliser-les-armes-occidentales-sur-le-territoire-russe-998470.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Textile : Decathlon relocalise sa production asiatique au Maroc](https://afrique.latribune.fr/economie/2024-05-27/textile-decathlon-relocalise-sa-production-asiatique-au-maroc-998468.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pollution: les eaux européennes massivement contaminées par un produit chimique dérivé des PFAS, dénoncent des associations](https://www.latribune.fr/climat/energie-environnement/pollution-les-eaux-europeennes-massivement-contaminees-par-un-produit-chimique-derive-des-pfas-denoncent-des-associations-998463.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réindustrialisation : l'Occitanie se rêve en terre d'accueil de startups industrielles](https://toulouse.latribune.fr/entreprises/2024-05-27/reindustrialisation-l-occitanie-se-reve-en-terre-d-accueil-de-startups-industrielles-998448.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Voitures électriques : Evergrande NEV s'envole à la Bourse de Hong Kong après l'annonce de son possible rachat](https://www.latribune.fr/entreprises-finance/industrie/automobile/voitures-electriques-evergrande-nev-s-envole-a-la-bourse-de-hong-kong-apres-l-annonce-de-son-possible-rachat-998457.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pour attirer les entreprises étrangères, la Chine s'engage à élargir l'accès à son marché](https://www.latribune.fr/economie/international/pour-attirer-les-entreprises-etrangeres-la-chine-s-engage-a-elargir-l-acces-a-son-marche-998458.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Réserve africaine de Sigean, 50 ans et 400.000 visiteurs par an](https://objectif-languedoc-roussillon.latribune.fr/entreprises/tourisme/2024-05-27/la-reserve-africaine-de-sigean-50-ans-et-400-000-visiteurs-par-an-998449.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comment choisir un VPN pour iPhone ?](https://www.latribune.fr/partenaires/bons-plans/comment-choisir-un-vpn-pour-iphone-998465.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Photovoltaïque : avec un taux d’installation au plus haut, l’Allier milite pour un développement maîtrisé](https://region-aura.latribune.fr/strategie/energie/2024-05-27/photovoltaique-avec-un-taux-d-installation-au-plus-haut-l-allier-milite-pour-un-developpement-maitrise-997024.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crèches : le système est « à bout de souffle », selon la rapporteure de la Commission d'enquête de l'Assemblée nationale](https://www.latribune.fr/economie/france/creches-le-systeme-est-a-bout-de-souffle-selon-la-rapporteure-de-la-commission-d-enquete-de-l-assemblee-nationale-998445.html)
+append_entries: 10
+Finish: 2024-05-27 12:50:29.469458

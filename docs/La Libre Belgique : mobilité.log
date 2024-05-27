@@ -551,3 +551,12 @@ Existing_entries: 105
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-05-27 01:18:35.315017
+------------------------------------------------------
+Started: 2024-05-27 12:48:33.353036
+Existing_entries: 105
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Changement de programme sur l'E411 : les travaux à Daussoulx-Thorembais-St-Trond prévus pour ce lundi sont finalement reportés](https://www.lalibre.be/belgique/mobilite/2024/05/27/changement-de-programme-sur-le411-les-travaux-a-daussoulx-thorembais-st-trond-prevus-pour-ce-lundi-sont-finalement-reportes-JEBIVTSFERE5TBHGOMASVEFUME/)
+append_entries: 1
+Finish: 2024-05-27 12:48:39.747296

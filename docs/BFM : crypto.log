@@ -543,3 +543,15 @@ Existing_entries: 83
 Fetching from https://www.bfmtv.com/rss/crypto/
 append_entries: 0
 Finish: 2024-05-27 01:13:35.910628
+------------------------------------------------------
+Started: 2024-05-27 12:38:26.841404
+Existing_entries: 83
+Fetching from https://www.bfmtv.com/rss/crypto/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cette employée d'un restaurant qui voulait acheter un manoir à Londres avec des bitcoins volés](https://www.bfmtv.com/crypto/cette-employee-d-un-restaurant-qui-voulait-acheter-un-manoir-a-londres-avec-des-bitcoins-voles_AD-202405270390.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Lunu, Lyzi, Ledger... Ces boîtes françaises qui croient dans le paiement en cryptos](https://www.bfmtv.com/crypto/lunu-lyzi-ledger-ces-boites-francaises-qui-croient-dans-le-paiement-en-cryptos_AV-202405270317.html)
+append_entries: 2
+Finish: 2024-05-27 12:38:38.461642

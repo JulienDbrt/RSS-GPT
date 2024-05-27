@@ -2279,3 +2279,49 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Cabine sens dessus dessous, masques pendant du plafond… 12 personnes blessées à cause de turbulences à bord d’un avion reliant Doha à Dublin](https://www.ladepeche.fr/2024/05/26/cabine-sens-dessus-dessous-masques-pendant-du-plafond-12-personnes-blessees-a-cause-de-turbulences-a-bord-dun-avion-reliant-doha-a-dublin-11975529.php)
 append_entries: 6
 Finish: 2024-05-27 01:18:24.800456
+------------------------------------------------------
+Started: 2024-05-27 12:46:03.976937
+Existing_entries: 917
+Fetching from https://www.ladepeche.fr/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts 2024 : faut-il déclarer les dons aux enfants ou petits-enfants ?](https://www.ladepeche.fr/2024/05/27/impots-2024-faut-il-declarer-les-dons-aux-enfants-ou-petits-enfants-11957260.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [INFO LA DEPECHE. Crashs d’avions : il invente une encre fluorescente pour localiser les appareils en mer](https://www.ladepeche.fr/2024/05/27/info-la-depeche-de-lencre-fluorescente-pour-localiser-les-avions-apres-un-crash-en-mer-11976626.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [À Toulouse, des habitants du Mirail manifestent contre les démolitions d’immeubles Candilis](https://www.ladepeche.fr/2024/05/27/a-toulouse-des-habitants-du-mirail-manifestent-contre-les-demolitions-dimmeubles-candilis-11974126.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Irrigation : l’ASA du bassin de Valence et des coteaux du Moissagais lance un projet novateur](https://www.ladepeche.fr/2024/05/27/irrigation-lasa-du-bassin-de-valence-et-des-coteaux-du-moissagais-lance-un-projet-novateur-11975315.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Une chance de faire partie de leur quotidien": quand les habitués, touristes étrangers et artistes se croisent au Café des Artistes, à Toulouse](https://www.ladepeche.fr/2024/05/27/une-chance-de-faire-partie-de-leur-quotidien-quand-les-habitues-touristes-etrangers-et-artistes-se-croisent-au-cafe-des-artistes-a-toulouse-11968669.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Il a disparu du jour au lendemain" : dans le Tarn, un vignoble fantôme hante le village de Montels](https://www.ladepeche.fr/2024/05/27/il-a-disparu-du-jour-au-lendemain-dans-le-tarn-un-vignoble-fantome-hante-le-village-de-montels-11969932.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Figeac : le Concours général des métiers « Technicien en réalisation de produits mécaniques » cette semaine au Lycée Champollion](https://www.ladepeche.fr/2024/05/27/figeac-le-concours-general-des-metiers-technicien-en-realisation-de-produits-mecaniques-cette-semaine-au-lycee-champollion-11971534.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [David Cognasse rejoint Irdi Capital Investissement](https://www.ladepeche.fr/2024/05/27/david-cognasse-rejoint-irdi-capital-investissement-11976608.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Dernière sommation…"La Coordination rurale du Gers s’en prend au bâtiment de l’Office français de la biodiversité](https://www.ladepeche.fr/2024/05/27/la-coordination-rurale-du-gers-sen-prend-au-batiment-de-loffice-francais-de-la-biodiversite-11975657.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dimanche, la brebis caussenarde sera la star de la journée à Espédaillac](https://www.ladepeche.fr/2024/05/27/dimanche-la-brebis-caussenarde-sera-la-star-de-la-journee-a-espedaillac-11975410.php)
+Append: [A Toulouse, une enseigne de street-food très fleuri face au musée Saint Raymond](https://www.ladepeche.fr/2024/05/27/a-toulouse-une-enseigne-de-street-food-tres-fleuri-face-au-musee-saint-raymond-11971689.php)
+Append: [Les habitants de Palma de Majorque exaspérés : "On tente de survivre malgré le tourisme"](https://www.ladepeche.fr/2024/05/27/les-habitants-de-palma-de-majorque-exasperes-on-tente-de-survivre-malgre-le-tourisme-11975807.php)
+Append: [C’était l’heure d’un nouveau cycle avec la 5e bourse aux vélos, qui s’est tenue à Foix](https://www.ladepeche.fr/2024/05/27/cetait-lheure-dun-nouveau-cycle-avec-la-5e-bourse-aux-velos-qui-sest-tenue-a-foix-11975810.php)
+Append: [Nuisances sonores de l’aéroport Toulouse-Blagnac : les décibels des avions dans le rouge](https://www.ladepeche.fr/2024/05/27/nuisances-sonores-de-laeroport-toulouse-blagnac-les-decibels-des-avions-dans-le-rouge-11972179.php)
+Append: [Une vente de vêtements vintage fait son grand retour à Toulouse](https://www.ladepeche.fr/2024/05/27/une-vente-de-vetements-vintage-fait-son-grand-retour-a-toulouse-11964981.php)
+Append: [Pont-de-Larn. "The Barber Shop" : un nouveau cadre chaleureux](https://www.ladepeche.fr/2024/05/27/the-barber-shop-un-nouveau-cadre-chaleureux-11976486.php)
+Append: [Montans. L’épicerie a bientôt 20 ans : toujours le même service](https://www.ladepeche.fr/2024/05/27/lepicerie-a-bientot-20-ans-toujours-le-meme-service-11976490.php)
+Append: [Réquista. Provinlait : un premier bilan positif prometteur](https://www.ladepeche.fr/2024/05/27/provinlait-un-premier-bilan-positif-prometteur-11976461.php)
+Append: [Foix. L’atelier du Rocher forme aux teintures naturelles sur divers supports en tissus](https://www.ladepeche.fr/2024/05/27/latelier-du-rocher-forme-aux-teintures-naturelles-sur-divers-supports-en-tissus-11976459.php)
+Append: [L’épicerie du village change de main](https://www.ladepeche.fr/2024/05/27/lepicerie-du-village-change-de-main-11976455.php)
+append_entries: 20
+Finish: 2024-05-27 12:47:00.847807

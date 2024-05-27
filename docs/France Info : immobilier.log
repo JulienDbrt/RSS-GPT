@@ -485,3 +485,12 @@ Existing_entries: 57
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-05-27 01:15:53.153767
+------------------------------------------------------
+Started: 2024-05-27 12:41:49.068241
+Existing_entries: 57
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La taxe foncière va augmenter de manière modérée en 2024, selon le cabinet Finances et Stratégies Locales](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/la-taxe-fonciere-va-augmenter-de-maniere-moderee-en-2024-selon-le-cabinet-finances-et-strategies-locales_6540197.html)
+append_entries: 1
+Finish: 2024-05-27 12:42:00.423719

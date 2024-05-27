@@ -492,3 +492,12 @@ Existing_entries: 66
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
 append_entries: 0
 Finish: 2024-05-27 01:13:28.886979
+------------------------------------------------------
+Started: 2024-05-27 12:38:19.553836
+Existing_entries: 66
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Easyjet: de nouveaux investissements en vue d'un été record](https://www.bfmtv.com/economie/entreprises/aeronautique/easyjet-de-nouveaux-investissements-en-vue-d-un-ete-record_AD-202405270067.html)
+append_entries: 1
+Finish: 2024-05-27 12:38:25.299856

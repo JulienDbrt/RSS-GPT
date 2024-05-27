@@ -749,3 +749,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Attaque au couteau à Lyon: quatre blessés, l'agresseur arrêté](https://www.martinique.franceantilles.fr/actualite/economie/lyon-quatre-blesses-dans-une-attaque-au-couteau-lagresseur-arrete-988653.php)
 append_entries: 1
 Finish: 2024-05-27 01:15:11.262583
+------------------------------------------------------
+Started: 2024-05-27 12:40:43.863282
+Existing_entries: 165
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Séoul, Tokyo et Pékin d'accord sur la "dénucléarisation de la péninsule coréenne"](https://www.martinique.franceantilles.fr/actualite/international/ouverture-du-premier-sommet-des-dirigeants-de-la-coree-du-sud-de-la-chine-et-du-japon-depuis-cinq-ans-988704.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Serge Letchimy dénonce « les tentatives de blocage » d'un lobby de l'agrobusiness](https://www.martinique.franceantilles.fr/actualite/economie/serge-letchimy-denonce-les-tentatives-de-blocage-dun-lobby-de-lagrobusiness-988669.php)
+append_entries: 2
+Finish: 2024-05-27 12:40:56.391088

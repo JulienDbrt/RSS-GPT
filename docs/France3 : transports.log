@@ -1166,3 +1166,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Rouler à 30 km/h en centre-ville ? Certaines communes de la Vienne ont déjà franchi le pas](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/rouler-a-30-km-h-en-centre-ville-certaines-communes-de-la-vienne-ont-deja-franchi-le-pas-2975579.html)
 append_entries: 3
 Finish: 2024-05-27 01:16:55.304117
+------------------------------------------------------
+Started: 2024-05-27 12:43:49.179654
+Existing_entries: 291
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trois gendarmes blessés, dont un grave, suite à un refus d'obtempérer à Mouchin](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/trois-gendarmes-blesses-dont-un-grave-suite-a-un-refus-d-obtemperer-a-mouchin-2975768.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Travaux sur l'autoroute A75, circulation et vitesse limitées jusqu'au 7 juin 2024 entre le Caylar et la Couvertoirade](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/travaux-sur-l-autoroute-a75-circulation-et-vitesse-limitees-jusqu-au-7-juin-2024-entre-le-caylar-et-la-couvertoirade-2975789.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les pompiers prennent en charge un conducteur pris d'un malaise sur l'autoroute](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/les-pompiers-prennent-en-charge-un-conducteur-pris-d-un-malaise-sur-l-autoroute-2975750.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fermé ce lundi matin, le tunnel de Bastia de nouveau ouvert à la circulation](https://france3-regions.francetvinfo.fr/corse/le-tunnel-de-bastia-ferme-a-la-circulation-ce-lundi-matin-en-raison-d-une-rupture-de-canalisation-2975753.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [RATP : petit guide des objets perdus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ratp-petit-guide-des-objets-perdus-2974709.html)
+append_entries: 5
+Finish: 2024-05-27 12:44:17.931855

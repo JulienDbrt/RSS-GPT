@@ -5038,3 +5038,93 @@ Append: [Aide au logement : qu'est-ce que l'aide MOBILI-JEUNE ?](https://www.ser
 Append: [Garantie décennale des constructeurs](https://www.service-public.fr/particuliers/vosdroits/F2034)
 append_entries: 64
 error when rendering xml, skip docs/Nouvelles Droits : immobilier
+------------------------------------------------------
+Started: 2024-05-27 12:35:39.487221
+Existing_entries: 0
+Fetching from https://nouvelles.droit.org/categs/rss/33
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Permis de démolir](https://www.service-public.fr/particuliers/vosdroits/F17669)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Peut-on encore bénéficier de la prime Coup de pouce thermostat avec régulation performante ?](https://www.service-public.fr/particuliers/vosdroits/F35338)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Peut-on changer l'affectation d'un lot de copropriété ?](https://www.service-public.fr/particuliers/vosdroits/F3107)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dépôt de garantie dans un bail d'habitation](https://www.service-public.fr/particuliers/vosdroits/F31269)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Propriétaire : quelles sont les règles de location d'un logement meublé ?](https://www.service-public.fr/particuliers/vosdroits/F2315)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Toutes les associations syndicales libres pourront recourir à l'emprunt collectif](https://www.efl.fr/actualite/actu_f7563c178-46b1-46f2-b9c8-9e915f41a70d)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[DOSSIER SPECIAL] Loi Habitat dégradé](https://www.efl.fr/actualite/actu_fd098e139-97f3-4d98-9dbc-44addcbff741)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ne pas respecter une servitude de cour commune ?](http://www.bdidu.fr/archive/2024/05/26/ne-pas-respecter-une-servitude-de-cour-commune-6500105.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vous n'avez pas signalé votre déménagement, pouvez-vous voter ?](https://www.service-public.fr/particuliers/actualites/A15584?xtor=RSS-111)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le licenciement pour faute grave n’inclut pas obligatoirement une mise à pied immédiate du salarié](https://entreprendre.service-public.fr/actualites/A17395?xtor=RSS-111)
+Append: [Détention d’une autorisation d’exploitation : pas d’impact sur la constitutionnalité de l’action en démolition](https://www.dalloz-actualite.fr/flash/detention-d-une-autorisation-d-exploitation-pas-d-impact-sur-constitutionnalite-de-l-action-en)
+Append: [Dalo](https://www.service-public.fr/particuliers/vosdroits/F37237)
+Append: [Loyer d'un logement conventionné (Anah) : y a t-il un montant maximum ?](https://www.service-public.fr/particuliers/vosdroits/F2541)
+Append: [Ne pas permettre à son propriétaire de faire visiter l'appartement en vue de sa vente ?](http://www.bdidu.fr/archive/2024/05/26/ne-pas-permettre-a-son-proprietaire-de-faire-visiter-l-appar-6500102.html)
+Append: [Aide personnalisée au logement (APL)](https://www.service-public.fr/particuliers/vosdroits/F12006)
+Append: [Troubles de voisinage : bruits créés par des comportements anormaux](https://www.service-public.fr/particuliers/vosdroits/F612)
+Append: [Préavis et formalités du congé donné par le locataire](https://www.service-public.fr/particuliers/vosdroits/F1168)
+Append: [Recouvrement des charges de copropriété impayées](https://www.service-public.fr/particuliers/vosdroits/F2603)
+Append: [Indice de référence des loyers (IRL)](https://www.service-public.fr/particuliers/vosdroits/F13723)
+Append: [ASSURANCE-VIE ET PRIMES MANIFESTEMENT EXAGEREES : RAPPEL](https://www.resodinfo.fr/assurance-vie-et-primes-manifestement-exagerees-rappel/)
+Append: [Chèque énergie (gaz, chaleur, électricité)](https://www.service-public.fr/particuliers/vosdroits/F33667)
+Append: [Copropriété en difficulté : mesures préventives avec l'intervention d'un mandataire ad hoc](https://www.service-public.fr/particuliers/vosdroits/F20388)
+Append: [Faut-il une autorisation d'urbanisme pour aménager des combles ?](https://www.service-public.fr/particuliers/vosdroits/F36775)
+Append: [Biens immobiliers : l'obligation d'informer sur le risque de feu de forêt est élargie](https://www.service-public.fr/particuliers/actualites/A17393?xtor=RSS-111)
+Append: [Podcast | Prélèvements et consommation d'eau : quels enjeux et usages ?](https://www.strategie.gouv.fr/podcasts/podcast-prelevements-consommation-deau-enjeux-usages)
+Append: [Taxe de 3 % – Fondation – Nécessité d’avoir un bénéficiaire économique actuel](https://www.gide-realestate.com/taxe-de-3-fondation-necessite-davoir-un-beneficiaire-economique-actuel/)
+Append: [En quoi consiste l'encadrement des loyers à respecter en zone tendue ?](https://www.service-public.fr/particuliers/vosdroits/F1314)
+Append: [Complément de loyer : quelles sont les règles ?](https://www.service-public.fr/particuliers/vosdroits/F34401)
+Append: [Éco-prêt à taux zéro (éco-PTZ)](https://www.service-public.fr/particuliers/vosdroits/F19905)
+Append: [Foncier rural : l’artificialisation des sols avance masquée](https://www.lemoniteur.fr/article/foncier-rural-l-artificialisation-des-sols-avance-masquee.2329199)
+Append: [Contrats publics : le recours sécurisé au bail en l'état futur d'achèvement sur une ligne de crête](https://www.lemoniteur.fr/article/contrats-publics-le-recours-securise-au-bail-en-l-etat-futur-d-achevement-sur-une-ligne-de-crete.2329160)
+Append: [DSP : l'indemnisation du candidat évincé doit tenir compte des spécificités du contrat irrégulièrement conclu](https://www.lemoniteur.fr/article/dsp-l-indemnisation-du-candidat-evince-doit-tenir-compte-des-specificites-du-contrat-irregulierement-conclu.2328817)
+Append: [Financement : davantage de pub pour rénover plus ?](https://www.lemoniteur.fr/article/financement-davantage-de-pub-pour-renover-plus.2329163)
+Append: [Urbanisme : un refus peut être notifié par voie électronique](https://www.lemoniteur.fr/article/urbanisme-un-refus-peut-etre-notifie-par-voie-electronique.2329161)
+Append: [Vos textes officiels du vendredi 24 mai 2024](https://www.lemoniteur.fr/article/vos-textes-officiels-du-vendredi-24-mai-2024.2328929)
+Append: [Commande publique : Bercy encourage les règlements amiables](https://www.lemoniteur.fr/article/commande-publique-bercy-encourage-les-reglements-amiables.2329162)
+Append: [Vous avez accès à de nouvelles informations sur le téléservice « Mes points permis »](https://www.service-public.fr/particuliers/actualites/A16957?xtor=RSS-111)
+Append: [Le délai de reprise de l'administration fiscale part de la date de présentation de l'acte notarié](https://lext.so/DEF220f0)
+Append: [Derniers indices](https://lext.so/DEF220f1)
+Append: [Précisions relatives au cautionnement solidaire](https://lext.so/DEF220e8)
+Append: [Succession : effet de la déclaration d'une créance sur le cours de sa prescription](https://lext.so/DEF220e9)
+Append: [Obligations de la banque en l'absence d'adhésion à l'assurance-groupe par l'emprunteur](https://lext.so/DEF220e6)
+Append: [Conditions d'agrandissement d'une construction existante dans les communes littorales](https://lext.so/DEF220e7)
+Append: [Le droit réel temporaire dont dispose le bailleur sur le local affecte directement le bail objet du contrat](https://lext.so/DEF220b8)
+Append: [Conditions de la mise à disposition gratuite au profit d'un associé d'un immeuble de la SCI](https://lext.so/DEF220e5)
+Append: [La refonte du droit disciplinaire, signe d'émancipation du notariat](https://lext.so/DEF220b6)
+Append: [Opérations sur fonds de commerce](https://lext.so/DEF220b7)
+Append: [L'autorisation judiciaire de céder le bail compris dans le fonds ne vaut que pour le cessionnaire visé par le juge](https://lext.so/DEF220b3)
+Append: [Retour sur l'application du délai réduit de l'engagement de revendre](https://lext.so/DEF219x3)
+Append: [Cession du fonds : qui paie trop tôt pourrait payer deux fois !](https://lext.so/DEF220a7)
+Append: [Plateforme RSE | Volet sociétal de la loi PACTE et CSRD. Complémentarités et synergies - Séminaire interne du 12 mars 2024](https://www.strategie.gouv.fr/publications/plateforme-rse-volet-societal-de-loi-pacte-csrd-complementarites-synergies-seminaire)
+Append: [Prochain Club Notarial Immobilier : mardi 28 mai 2024 à 11h](http://paris.notaires.fr/fr/actualites/prochain-club-notarial-immobilier-mardi-28-mai-2024-11h)
+Append: [Montant du loyer à Lille, Hellemmes et Lomme](https://www.service-public.fr/particuliers/vosdroits/F34408)
+Append: [Prime "Coup de pouce chauffage"](https://www.service-public.fr/particuliers/vosdroits/F34421)
+Append: [Permis de construire](https://www.service-public.fr/particuliers/vosdroits/F1986)
+Append: [Centre d'incendie et de secours - Dosse Architectes Associés](https://www.lemoniteur.fr/article/centre-d-incendie-et-de-secours-dosse-architectes-associes.2329159)
+Append: [Logements pour étudiants - LCR Architectes](https://www.lemoniteur.fr/article/logements-pour-etudiants-lcr-architectes.2329157)
+Append: [Maison de santé - Atelier B2A](https://www.lemoniteur.fr/article/maison-de-sante-atelier-b2a.2329158)
+Append: [Cité des sports et cultures urbaines - Jakob+MacFarlane](https://www.lemoniteur.fr/article/cite-des-sports-et-cultures-urbaines-jakob-macfarlane.2329155)
+Append: [Piscine et Maison de la forêt - V2S Architectes](https://www.lemoniteur.fr/article/piscine-et-maison-de-la-foret-v2s-architectes.2329156)
+Append: [Neutelings Riedijk Architects réalisera la Cité des Imaginaires de Nantes](https://www.lemoniteur.fr/article/neutelings-riedijk-architects-realisera-la-cite-des-imaginaires-de-nantes.2329303)
+Append: [Antennes-relais - L'emprise au sol des pylônes n'a pas à être prise en compte dans l'appréciation des seuils applicables](https://www.lemoniteur.fr/article/antennes-relais-l-emprise-au-sol-des-pylones-n-a-pas-a-etre-prise-en-compte-dans-l-appreciation-des-seuils-applicables.2329166)
+Append: [Permis de construire - La régularisation est possible même si elle implique de revoir l'économie générale du projet](https://www.lemoniteur.fr/article/permis-de-construire-la-regularisation-est-possible-meme-si-elle-implique-de-revoir-l-economie-generale-du-projet.2329164)
+Append: [Contentieux - Un permis ne peut pas être régularisé s'il a été obtenu par fraude](https://www.lemoniteur.fr/article/contentieux-un-permis-ne-peut-pas-etre-regularise-s-il-a-ete-obtenu-par-fraude.2329165)
+append_entries: 64
+error when rendering xml, skip docs/Nouvelles Droits : immobilier

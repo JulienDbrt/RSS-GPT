@@ -1300,3 +1300,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les premiers Polynésiens rapatriés de Nouvelle-Calédonie : "On est soulagés"](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/les-premiers-polynesiens-rapatries-de-nouvelle-caledonie-on-est-soulages-1491374.html)
 append_entries: 1
 Finish: 2024-05-27 01:17:31.077201
+------------------------------------------------------
+Started: 2024-05-27 12:44:55.051374
+Existing_entries: 322
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Des drones au service de l'agriculture dans les bananeraies en Martinique](https://la1ere.francetvinfo.fr/martinique/des-drones-au-service-de-l-agriculture-dans-les-bananeraies-en-martinique-1491323.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Génération 2000 : Leïla et Freddy subliment les fruits](https://la1ere.francetvinfo.fr/guadeloupe/generation-2000-leila-et-freddy-subliment-les-fruits-1491377.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Transport aérien : 57 millions de $ pour le plan de relance de Madagascar Airlines](https://la1ere.francetvinfo.fr/reunion/transport-aerien-57-millions-de-pour-le-plan-de-relance-de-madagascar-airlines-1491488.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dysfonctionnements à la CGSS : l'intersyndicale se mobilise, plus de 10 000 dossiers retraites en attente](https://la1ere.francetvinfo.fr/reunion/dysfonctionnements-a-la-cgss-l-intersyndicale-se-mobilise-plus-de-10-000-dossiers-retraites-en-attente-1491473.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comment une société du Var surveille à distance des entrepôts de Nouvelle-Calédonie](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/draguignan/comment-une-societe-du-var-surveille-des-entrepots-de-nouvelle-caledonie-a-plus-de-17-000-kilometres-de-distance-2974916.html?utm_term=Autofeed&utm_medium=Social&utm_source=Facebook&fbclid=IwZXh0bgNhZW0CMTEAAR0ge8cEpATneat6e430ZBjrCWkw4VvuqqEPJht_VtyEuEwCiIB9Jw6UP3o_aem_AQxhskGJv2nfVygVKb1WDpc_hutpEoCAgtMDKECCUQoo-fQy2EcljYwzH5x9ZJeTdoIAOhZcVJ_Yw947_VS2WlR6)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [INTERVIEW. Crise en Nouvelle-Calédonie : des ambulanciers "très très très sollicités"](https://la1ere.francetvinfo.fr/nouvellecaledonie/interview-crise-en-nouvelle-caledonie-des-ambulanciers-tres-tres-tres-sollicites-1491440.html)
+append_entries: 6
+Finish: 2024-05-27 12:45:28.120916

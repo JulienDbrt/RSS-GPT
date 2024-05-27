@@ -594,3 +594,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Opposants, présentation, objectifs... Ce qu'il faut savoir sur le projet Greendock](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/opposants-presentation-objectifs-ce-qu-il-faut-savoir-sur-le-projet-greendock-2975678.html)
 append_entries: 1
 Finish: 2024-05-27 01:16:24.458704
+------------------------------------------------------
+Started: 2024-05-27 12:42:43.440845
+Existing_entries: 100
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les militants propalestiniens qui campaient au sein de l'Ecole normale supérieure à Paris, évacués par la police](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-militants-propalestiniens-qui-campaient-au-sein-de-l-ecole-normale-superieure-a-paris-evacues-par-la-police-2975756.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [RATP : petit guide des objets perdus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ratp-petit-guide-des-objets-perdus-2974709.html)
+append_entries: 2
+Finish: 2024-05-27 12:42:54.578468

@@ -5,11 +5,137 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Tor, proxys, VPN … que choisir ?</title>
+<link>https://korben.info/tor-proxys-vpn-que-choisir.html</link>
+<guid>https://korben.info/tor-proxys-vpn-que-choisir.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="Surfshark One 2023" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="501" src="https://korben.info/app/uploads/2023/09/surfshark-one-2023.png" width="1024" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat avec <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Surfshark VPN</a> &#8212;</p>
+
+
+
+<p>Aujourd&rsquo;hui, vous savez que préserver sa vie privée en ligne est devenu une priorité pour beaucoup d&rsquo;entre nous (en tous cas tout bon korbenaute se sent visé). Entre les <a href="https://korben.info/types-de-data-brokers.html">data brokers</a>, les gouvernements <s>véreux</s> curieux, les fuites&nbsp;et les pirates informatiques, il y a de quoi vouloir protéger ses données. Voici donc un petit tour d&rsquo;horizon de différentes méthodes pour modifier son adresse IP et ainsi mieux protéger une part de vos données</p>
+
+
+
+<h4 class="wp-block-heading">Tor (The Onion Router)</h4>
+
+
+
+<p>Tor, c&rsquo;est depuis de longues années un des champions de l&rsquo;anonymat. Si vous voulez vraiment que personne (ou quasi)&nbsp;ne sache ce que vous faites en ligne, c&rsquo;est l&rsquo;outil qu&rsquo;il vous faut. Tor fait passer votre trafic à travers une série de nœuds (ordinateurs bénévoles) disséminés aux quatre coins du globe. Chaque nœud ne connaît que l&rsquo;adresse IP du nœud précédent et du suivant, ce qui rend la traçabilité plus compliquée.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBibG9hM3B1NDc0NmYwNzN6bGkyM2Z4aG1lN204cjhpNmZpaWVteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rm1RiGurvFmM7fhd0P/giphy.gif" width="480" /></figure></div>
+
+
+<p>Comme vous l&rsquo;avez compris, les avantages sont un anonymat élevé (votre adresse IP est cachée,&nbsp;votre trafic est chiffré à chaque étape, etc.) et un accès à des contenus censurés. Parfait pour contourner les censures étatiques et accéder à des sites bloqués par exemple. Par contre l&rsquo;outil a ses limites, notamment pour ce qui est de la vitesse. Tor est <s>toujours</s> souvent plus lent que les VPN, car votre trafic fait des détours. Si votre objectif est de télécharger de gros fichiers dégoulinants de Go, ou de regarder du contenu vidéo/streaming &#8230; ça va être tendu du slibard.</p>
+
+
+
+<p>Après niveau utilisation c&rsquo;est assez simple pour tout le monde, vous pouvez passer par le <a href="https://korben.info/surfer-darkweb-tor.html">navigateur Tor</a> maison qui inclus toutes les fonctionnalités permettant de surfer sainement sans laisser de traces (rapport au slibard si vous n&rsquo;aviez pas fait le rapprochement).</p>
+
+
+
+<h4 class="wp-block-heading">Proxys</h4>
+
+
+
+<p>Les proxys sont un peu les cousins des VPN. Ils font office d&rsquo;intermédiaires entre vous et le site web que vous visitez, mais ne chiffrent pas forcément votre trafic.&nbsp;En utilisant un proxy, votre trafic passe par un serveur intermédiaire. Ce serveur&nbsp;va relayer&nbsp;vos requêtes web et masque votre adresse IP réelle.</p>
+
+
+
+<p>Les différents types de proxys (les plus connus sont HTTP plutôt axé navigation web, et SOCKS qui gèrent aussi les emails, le P2P, etc.) ont sensiblement les mêmes avantages que Tor. Une couche d&rsquo;anonymat&nbsp;(masque votre adresse IP réelle) et offre l&rsquo;accès&nbsp;à du&nbsp;contenu géorestreint&nbsp;afin de&nbsp;contourner certaines restrictions.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21yZDNxcXMyb2JpampiYmZiOXlmZWt1MGplNHVmZXV6YzV6dDFrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QOy97mw7oOEXZyl70O/giphy.gif" width="480" /></figure></div>
+
+
+<p>Mais eux aussi ont leur lot de limitations. Déjà parce que la qualité et la vitesse des proxys peuvent varier, ensuite parce que&nbsp;les proxys ne chiffrent pas toujours le trafic, donc potentiellement moins sécurisés que les VPN.</p>
+
+
+
+<h4 class="wp-block-heading">VPN (Virtual Private Network)</h4>
+
+
+
+<p>Le <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">VPN de&nbsp;Surfshark</a>, c&rsquo;est la boite à outil de l&rsquo;internaute prudent. Moins technique que les proxys pour Mr et Mme tout le monde, et sans les freins de Tor. En gros, un VPN crée un tunnel chiffré entre vous et un serveur distant. Ça fait croire à tous les curieux que vous surfez depuis un autre endroit. Quand vous vous connectez à un VPN, votre trafic Internet est redirigé via un serveur situé dans un autre pays (3200 serveurs, dans 100+ pays). Votre adresse IP réelle est cachée et remplacée par celle du serveur VPN. Avec Surfshark (comme pour Tor)&nbsp;il&nbsp;est possible de passer par plusieurs serveurs (fonction MultiHop) et même d&rsquo;être invisible pour votre fournisseur d&rsquo;accès Internet (mode camouflage).</p>
+
+
+
+<p>Donc ici aussi&nbsp;votre identité est préservée (vous pouvez même&nbsp;<a href="https://korben.info/surfshark-one-se-dote-de-loption-creation-didentite-alternative-promo-rentree-2023.html">créer des identités alternatives</a> si ça vous chante). Votre adresse IP réelle est masquée. Impossible pour les sites web de savoir d&rsquo;où vous venez vraiment.&nbsp;Tout votre trafic est chiffré de bout en bout&nbsp;(algorithme AES 256, protocoles Wireguard/OpenVPN, IKEv2 &#8230;), ce qui protège vos données des pirates, surtout sur les réseaux Wi-Fi publics. Et vous avez accès au contenu géolimité&nbsp;(catalogues Netflix, Amazon Prime&nbsp;Video &amp; co). Vous vous ouvrez les portes de tous les contenus bloqués. Sans compter que votre surf&nbsp;habituel s&rsquo;en trouve amélioré également (plus de publicités, de cookies inutiles&#8230; voir mon article sur la fonction&nbsp;Cleanweb de Surfshark).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="262" src="https://kbn.im/surfshark3" width="700" /></figure></div>
+
+
+<p>Bref <strong>le VPN c&rsquo;est le meilleur des 2 mondes</strong>. Super pratique, léger et complet, il permet de tout gérer et surveiller&nbsp;depuis une interface simple à prendre en main. Et si vous n&rsquo;êtes pas encore convaincu, Surfshark propose ce que peu d&rsquo;autres font : il supporte l&rsquo;illimité en simultané. Vous pourrez donc protéger toute votre famille (ou votre équipe avec Surfshark Teams), sans subir de ralentissements parce que trop de gens sont connectés en même temps.</p>
+
+
+
+<p>En ce qui concerne les prix, Surfshark reste parmi les moins chers du marché. Vous allez payer moins de 71€ TTC pour 27 mois de protection (abo 2 ans + 3 mois offerts), soit 2.63€/mois pour un nombre illimité de machines ! Difficile de faire mieux. C&rsquo;est d&rsquo;ailleurs mon VPN depuis maintenant plusieurs années, et je n&rsquo;ai jamais eu de raisons de m&rsquo;en plaindre !</p>
+
+
+
+<p>Pour rester incognito et protéger vos données, rien de mieux que de combiner plusieurs de ces outils. Utilisez un VPN comme Surfshark pour le quotidien, Tor pour les moments où l&rsquo;anonymat est crucial, et des proxys pour des besoins spécifiques. En jonglant avec ces technologies, vous pourrez naviguer en toute tranquillité, loin des regards indiscrets.</p>
+
+
+
+<p>Allez, maintenant, à vos claviers et protégez votre vie privée comme des pros !</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768">Testez Surfshark VPN</a></h2>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 10:18:54 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 10:18:54 +0000</pubDate>
+</item>
+<item>
+<title>FlyingCarpet – Pour transférer des fichiers sans connexion et sans câble</title>
+<link>https://korben.info/flyingcarpet-transfert-fichiers-sans-fil-multi-plateformes.html</link>
+<guid>https://korben.info/flyingcarpet-transfert-fichiers-sans-fil-multi-plateformes.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_A_geek_with_a_computer_on_a_flying_carpet_shot_with_ipho_650e088a-a11e-436c-b5d4-8102852d8bbc.png" width="1456" /></p>
+<p>Quand on n&rsquo;a pas de réseau sous la main pour se transférer un gros fichier, c&rsquo;est souvent galère. Faut trouve une clé USB et quand c&rsquo;est pour balancer un truc d&rsquo;un smartphone à un ordinateur, c&rsquo;est mission impossible. Heureusement, <strong>FlyingCarpet</strong> pourrait bien devenir votre nouvel allié dans ce genre de situations !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2116486988" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Disponible sur <a href="https://play.google.com/store/apps/details?id=dev.spiegl.flyingcarpet" rel="noopener" target="_blank">Android</a>, <a href="https://apps.apple.com/us/app/flying-carpet-file-transfer/id1637377410" rel="noopener" target="_blank">iOS</a>, Linux, macOS et Windows, cette application libre permet d&rsquo;échanger des fichiers entre tous ces appareils <strong>sans avoir besoin d&rsquo;un réseau WiFi commun ou d&rsquo;une connexion mobile</strong>. Il suffit que les deux terminaux soient assez proches et équipés d&rsquo;une puce WiFi.</p>
+
+
+
+<p>Le principe est simple : l&rsquo;un des appareils crée un réseau ad hoc auquel l&rsquo;autre se connecte. La connexion est sécurisée par WPA2 et un mot de passe échangé via un QR Code. Les données sont même chiffrées de bout en bout avec AES-256 et tout ça sans avoir besoin d&rsquo;être un expert !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-158144" height="1024" src="https://korben.info/app/uploads/2024/03/mac-799x1024.png" style="width: 599px; height: auto;" width="799" /></figure></div>
+
+
+<p>Une fois appairés, les deux appareils peuvent alors s&rsquo;envoyer des fichiers dans les deux sens, comme s&rsquo;ils étaient sur un réseau local classique. Les débits sont suffisants pour transférer rapidement plusieurs gigaoctets et c&rsquo;est même l&rsquo;idéal pour déplacer de gros fichiers entre différents systèmes de fichiers sans avoir à configurer un partage réseau.</p>
+
+
+
+<p>L&rsquo;outil gère les reprises en cas de déconnexion et affiche une barre de progression pendant les transferts. Sur ordinateur, on peut même envoyer des dossiers entiers de manière récursive. Alors évidemment, cela désactive la connexion internet sur certaines plateformes mais la restaure une fois le transfert terminé. Sur Android, l&rsquo;appareil qui crée le réseau peut même continuer à accéder au web en partageant sa connexion cellulaire.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-390970358" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>C&rsquo;est open source et disponible sur <a href="https://github.com/spieglt/FlyingCarpet" rel="noopener" target="_blank">GitHub</a> pour ceux qui veulent.</p>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>RustPython – Python puissance Rust</title>
 <link>https://korben.info/rustpython-interpreteur-python-en-rust-webassembly.html</link>
 <guid>https://korben.info/rustpython-interpreteur-python-en-rust-webassembly.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="286" src="https://korben.info/app/uploads/2024/05/SCR-20240526-qilj.webp" width="1000" /></p>
 <p>Un interpréteur Python 3 flambant neuf, entièrement réécrit en Rust, ça claque, non ? Pour ceux qui hibernent, Rust, c&rsquo;est le langage de programmation qui monte, qui monte et qui cartonne notamment grâce à sa rapidité légendaire et son bon niveau de sécurité. </p>
 
@@ -55,14 +181,12 @@
 <p><a href="https://rustpython.github.io/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 16:47:39 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 16:47:39 +0000</pubDate>
 </item>
 <item>
 <title>Video DownloadHelper – Une mise à jour à ne pas manquer !</title>
 <link>https://korben.info/video-downloadhelper-v9-mise-a-jour-incontournable.html</link>
 <guid>https://korben.info/video-downloadhelper-v9-mise-a-jour-incontournable.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="297" src="https://korben.info/app/uploads/2024/05/SCR-20240526-pogp.webp" width="1000" /></p>
 <p>Ça y est, la <strong>nouvelle version de <a href="https://www.downloadhelper.net/" rel="noopener" target="_blank">Video DownloadHelper</a> est enfin disponible</strong> !</p>
 
@@ -134,14 +258,12 @@
 <p><a href="https://www.downloadhelper.net/v9" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 16:03:57 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 16:03:57 +0000</pubDate>
 </item>
 <item>
 <title>SocialScreenshots – Mettez en valeur vos captures écran sans effort</title>
 <link>https://korben.info/socialscreenshots-capturer-editer-screenshots-reseaux-sociaux.html</link>
 <guid>https://korben.info/socialscreenshots-capturer-editer-screenshots-reseaux-sociaux.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="270" src="https://korben.info/app/uploads/2024/05/SCR-20240526-oyjo-2.webp" width="1000" /></p>
 <p>Vous rêvez de créer des visuels de fou pour vos réseaux sociaux ? </p>
 
@@ -175,9 +297,7 @@
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://socialscreenshots.com/editor" rel="noopener" target="_blank">À découvrir ici</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 15:03:38 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 15:03:38 +0000</pubDate>
 </item>
-
 <item>
 <title>CoreCtrl – Libérez le potentiel de votre GPU sous Linux</title>
 <link>https://korben.info/corectrl-liberez-le-potentiel-de-votre-gpu-sous-linux.html</link>

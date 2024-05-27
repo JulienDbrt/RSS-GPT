@@ -1689,3 +1689,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Vidéo. Réforme de l'assurance chômage : quelles sont les principales annonces ?](https://www.dna.fr/social/2024/05/26/reforme-de-l-assurance-chomage-quelles-sont-les-principales-annonces)
 append_entries: 2
 Finish: 2024-05-27 01:14:56.435767
+------------------------------------------------------
+Started: 2024-05-27 12:40:06.434815
+Existing_entries: 507
+Fetching from https://www.dna.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Commerce. La Miellerie des moulins d’Uffheim dans la halle du marché de Mulhouse](https://www.dna.fr/economie/2024/05/27/la-miellerie-des-moulins-d-uffheim-dans-la-halle-du-marche-de-mulhouse)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Enchères. Journées Marteau : comment savoir si un objet a vraiment de la valeur ?](https://www.dna.fr/magazine-lifestyle/2024/05/27/journees-marteau-comment-savoir-si-un-objet-a-vraiment-de-la-valeur)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bourgheim. Un salon de coiffure rouvre, en provenance d’Obernai](https://www.dna.fr/economie/2024/05/27/un-salon-de-coiffure-rouvre-en-provenance-d-obernai)
+append_entries: 3
+Finish: 2024-05-27 12:40:25.690610

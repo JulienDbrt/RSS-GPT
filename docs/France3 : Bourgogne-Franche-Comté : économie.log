@@ -618,3 +618,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [INTERVIEW. Alphonse, grand gagnant de The Voice à 17 ans : "une surprise, je n'y crois toujours pas !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/sa-victoire-le-bac-et-son-avenir-alphonse-dijonnais-de-17-ans-gagnant-de-the-voice-a-repondu-a-nos-questions-2975681.html)
 append_entries: 1
 Finish: 2024-05-27 01:16:31.072947
+------------------------------------------------------
+Started: 2024-05-27 12:43:23.990480
+Existing_entries: 108
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["C'est un prodige", le coach de chant d'Alphonse, le gagnant dijonnais de The Voice, se confie sur le talent de son élève](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/c-est-un-prodige-le-coach-de-chant-d-alphonse-le-gagnant-dijonnais-de-the-voice-se-confie-sur-le-talent-de-son-eleve-2975696.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La folie des colis perdus, vendus comme paquets mystère : "en une journée, on fait une somme à 5 chiffres !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/la-folie-des-colis-perdus-vendus-comme-paquets-mystere-en-une-journee-on-fait-une-somme-a-5-chiffres-2973755.html)
+append_entries: 2
+Finish: 2024-05-27 12:43:35.828551

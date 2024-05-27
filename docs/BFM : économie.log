@@ -2680,3 +2680,59 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Cela sape la légitimité du système fiscal": la Norvège s'accroche à ses super-riches tentés par l'exil](https://www.bfmtv.com/economie/international/cela-sape-la-legitimite-du-systeme-fiscal-la-norvege-s-accroche-a-ses-super-riches-tentes-par-l-exil_AD-202405260265.html)
 append_entries: 3
 Finish: 2024-05-27 01:13:21.571255
+------------------------------------------------------
+Started: 2024-05-27 12:37:11.007176
+Existing_entries: 1003
+Fetching from https://www.bfmtv.com/rss/economie/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Durcissement de l'assurance chômage : une réforme efficace ?](https://www.bfmtv.com/economie/durcissement-de-l-assurance-chomage-une-reforme-efficace_VN-202405270504.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les réparations sur une voiture électrique coûtent en moyenne 29% plus chères que sur un modèle thermique](https://www.bfmtv.com/economie/les-reparations-sur-une-voiture-electrique-coutent-en-moyenne-29-plus-cheres-que-sur-un-modele-thermique_VN-202405270493.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage: qui sera concerné?](https://www.bfmtv.com/economie/economie-social/reforme-de-l-assurance-chomage-qui-sera-concerne_AV-202405270464.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avec vous - Lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/soixante-minutes-business/avec-vous-lundi-27-mai_VN-202405270473.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avec vous du lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/bfm-business-avec-vous/avec-vous-du-lundi-27-mai_EN-202405270461.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vendeur, enseignant, cuisinier... Quels sont les métiers qui peinent le plus à recruter en France?](https://www.bfmtv.com/economie/vendeur-enseignant-cuisinier-quels-sont-les-metiers-qui-peinent-le-plus-a-recruter-en-france_AV-202405270457.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Est-ce que je peux imposer à mes salariés de prendre leurs congés payés pendant les JO ?](https://www.bfmtv.com/economie/est-ce-que-je-peux-imposer-a-mes-salaries-de-prendre-leurs-conges-payes-pendant-les-jo_VN-202405270451.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Est ce que je peux imposer des congés à mes salariés pendant les JO ?](https://www.bfmtv.com/economie/est-ce-que-je-peux-imposer-des-conges-a-mes-salaries-pendant-les-jo_VL-202405270410.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tout pour investir - Lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-lundi-27-mai_VN-202405270422.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'intégrale de Tout pour investir du lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-integrale-de-tout-pour-investir-du-lundi-27-mai_EN-202405270406.html)
+Append: [Tout pour investir : Partie 2 - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-partie-2-27-05_VN-202405270411.html)
+Append: [Tout pour investir : 11h/12h - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-11h-12h-27-05_EN-202405270404.html)
+Append: [Investissement thématique : Comment investir dans une location meublée ? - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/investissement-thematique-comment-investir-dans-une-location-meublee-27-05_EN-202405270396.html)
+Append: [Investissement thématique : Comment investir dans une location meublée ? - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/investissement-thematique-comment-investir-dans-une-location-meublee-27-05_VN-202405270398.html)
+Append: [Vos questions, nos réponses - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/vos-questions-nos-reponses-27-05_EN-202405270391.html)
+Append: [Vos questions, nos réponses - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/vos-questions-nos-reponses-27-05_VN-202405270392.html)
+Append: [Mister V crée son "burger Delamama" pour KFC](https://www.bfmtv.com/economie/mister-v-cree-son-burger-delamama-pour-kfc_VN-202405270386.html)
+Append: [La place de l'immo : Immobilier de luxe à Paris, état des lieux - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-place-de-l-immo-immobilier-de-luxe-a-paris-etat-des-lieux-27-05_VN-202405270385.html)
+Append: [La place de l'immo : Immobilier de luxe à Paris, état des lieux - 27/05](https://www.bfmtv.com/economie/replay-emissions/la-vie-immo/la-place-de-l-immo-immobilier-de-luxe-a-paris-etat-des-lieux-27-05_VN-202405270383.html)
+Append: [La place de l'immo : Immobilier de luxe à Paris, état des lieux - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-place-de-l-immo-immobilier-de-luxe-a-paris-etat-des-lieux-27-05_EN-202405270373.html)
+Append: [La place de l'immo : Immobilier de luxe à Paris, état des lieux - 27/05](https://www.bfmtv.com/economie/replay-emissions/la-vie-immo/la-place-de-l-immo-immobilier-de-luxe-a-paris-etat-des-lieux-27-05_EN-202405270372.html)
+Append: [L'histoire financière : Elior s'envole en bourse - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-histoire-financiere-elior-s-envole-en-bourse-27-05_EN-202405270356.html)
+Append: [L'histoire financière : Elior s'envole en bourse - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-histoire-financiere-elior-s-envole-en-bourse-27-05_VN-202405270354.html)
+Append: [Tout pour investir : Partie 1 - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-partie-1-27-05_VN-202405270355.html)
+Append: [Le coach : PIB US jeudi, retour de la stagflation - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-coach-pib-us-jeudi-retour-de-la-stagflation-27-05_EN-202405270347.html)
+Append: [Tout pour investir : 10h/11h - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-10h-11h-27-05_EN-202405270343.html)
+Append: [Le coach : PIB US jeudi, retour de la stagflation - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-coach-pib-us-jeudi-retour-de-la-stagflation-27-05_VN-202405270344.html)
+Append: [En portefeuille : La croissance s'améliore en zone euro - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/en-portefeuille-la-croissance-s-ameliore-en-zone-euro-27-05_EN-202405270333.html)
+Append: [En portefeuille : La croissance s'améliore en zone euro - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/en-portefeuille-la-croissance-s-ameliore-en-zone-euro-27-05_VN-202405270335.html)
+Append: [Doze d'économie : Rebelote sur l'assurance chômage - 27/05](https://www.bfmtv.com/economie/replay-emissions/la-polemique/doze-d-economie-rebelote-sur-l-assurance-chomage-27-05_VN-202405270332.html)
+append_entries: 30
+Finish: 2024-05-27 12:38:06.600352

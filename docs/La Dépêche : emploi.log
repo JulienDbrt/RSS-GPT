@@ -682,3 +682,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Favoriser l’insertion par l’activité économique": un an après sa mue, Garros Services garde le cap social](https://www.ladepeche.fr/2024/05/26/favoriser-linsertion-par-lactivite-economique-un-an-apres-sa-mue-garros-services-garde-le-cap-social-11971894.php)
 append_entries: 1
 Finish: 2024-05-27 01:18:31.120332
+------------------------------------------------------
+Started: 2024-05-27 12:47:00.913681
+Existing_entries: 126
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : réduction de la durée d’indemnisation, "bonus-malus"… Gabriel Attal dévoile les nouvelles règles de la réforme](https://www.ladepeche.fr/2024/05/26/assurance-chomage-diminution-de-la-duree-dindemnisation-bonus-malus-gabriel-attal-devoile-les-nouvelles-regles-de-la-reforme-11974616.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Figeac : le Concours général des métiers « Technicien en réalisation de produits mécaniques » cette semaine au Lycée Champollion](https://www.ladepeche.fr/2024/05/27/figeac-le-concours-general-des-metiers-technicien-en-realisation-de-produits-mecaniques-cette-semaine-au-lycee-champollion-11971534.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [C’était l’heure d’un nouveau cycle avec la 5e bourse aux vélos, qui s’est tenue à Foix](https://www.ladepeche.fr/2024/05/27/cetait-lheure-dun-nouveau-cycle-avec-la-5e-bourse-aux-velos-qui-sest-tenue-a-foix-11975810.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [État et région main dans la main pour le territoire](https://www.ladepeche.fr/2024/05/27/etat-et-region-main-dans-la-main-pour-le-territoire-11976454.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Portet-sur-Garonne. Forum Alternance : à la rencontre des professionnels](https://www.ladepeche.fr/2024/05/27/forum-alternance-a-la-rencontre-des-professionnels-11976279.php)
+append_entries: 5
+Finish: 2024-05-27 12:47:29.500201

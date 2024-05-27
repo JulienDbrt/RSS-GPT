@@ -808,3 +808,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Réforme de l'assurance chômage : quel possibles effets sur le retour à l’emploi ?](https://www.lexpress.fr/economie/emploi/droit-travail/reforme-de-lassurance-chomage-quel-possibles-effets-sur-le-retour-a-lemploi-ETG2AR7RI5AFPBDD6YBSRFUJJE/)
 append_entries: 1
 Finish: 2024-05-27 01:17:24.927333
+------------------------------------------------------
+Started: 2024-05-27 12:44:47.853674
+Existing_entries: 218
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Transition climatique : dans le secteur de l’énergie, une impossible transformation ?](https://www.lexpress.fr/economie/entreprises/transition-climatique-dans-le-secteur-de-lenergie-une-impossible-transformation-EIKXOEOLWZGRJCPDC5MOBU647U/)
+append_entries: 1
+Finish: 2024-05-27 12:44:53.691852

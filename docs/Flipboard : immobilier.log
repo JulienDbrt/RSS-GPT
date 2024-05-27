@@ -1306,3 +1306,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Immobilier : «Emmanuel Macron ne veut pas sauver le logement du naufrage»](https://www.capital.fr/immobilier/immobilier-emmanuel-macron-ne-veut-pas-sauver-le-logement-du-naufrage-1497260)
 append_entries: 1
 Finish: 2024-05-27 01:09:36.934254
+------------------------------------------------------
+Started: 2024-05-27 12:32:44.891036
+Existing_entries: 394
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Krach immobilier va décimer les investisseurs obligataires selon Kiyosaki - Alerte](https://fr.investing.com/news/economy/le-krach-immobilier-va-decimer-les-investisseurs-obligataires-selon-kiyosaki--alerte-2432299)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ces 2 signes du zodiaque vont faire un investissement qui portera ses fruits en juin](https://www.masculin.com/horoscope/775543-ces-2-signes-du-zodiaque-vont-faire-un-investissement-qui-portera-ses-fruits-en-juin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les 9 meilleures applications iPhone pour trouver et acheter sa maison](https://www.iphon.fr/post/meilleurs-applications-iphone-acheter-maison)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Personne ne veut habiter dans cette maison](https://www.20min.ch/fr/story/passe-tragique-personne-ne-veut-habiter-dans-cette-maison-103113307)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Voitures électriques : Evergrande NEV s'envole à la Bourse de Hong Kong après l'annonce de son possible rachat](https://www.latribune.fr/entreprises-finance/industrie/automobile/voitures-electriques-evergrande-nev-s-envole-a-la-bourse-de-hong-kong-apres-l-annonce-de-son-possible-rachat-998457.html)
+append_entries: 5
+Finish: 2024-05-27 12:33:25.643450

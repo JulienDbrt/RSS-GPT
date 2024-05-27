@@ -5038,3 +5038,93 @@ Append: [Voici le meilleur yaourt que vous pouvez prendre chaque jour, partage u
 Append: [Le crudivorisme est-il bon pour la santé ? - YouTube](https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7ft04vvuwkw&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw3y9sImuHEknA1sJ1hAkgSD)
 append_entries: 64
 error when rendering xml, skip docs/Nouvelles Droits : consommation
+------------------------------------------------------
+Started: 2024-05-27 12:34:41.412394
+Existing_entries: 0
+Fetching from https://nouvelles.droit.org/categs/rss/1003
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557897] Karine Abderemane, Pierre-François Laval, La déclaration Union européenne-Turquie. Ambiguïtés et devenir d'un modèle de gestion des flux migratoires](https://shs.hal.science/halshs-04557897)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557906] Plongée au cœur du rapport « Naviguer en haute mer : réforme et élargissement de l'UE au XXIe siècle »](https://shs.hal.science/halshs-04557906)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557904] Citoyenneté de l'Union et nationalités des États membres](https://shs.hal.science/halshs-04557904)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557898] A. Bouveresse, A. Iliopoulou-Penot, J. Rondu (dir.), La citoyenneté européenne : quelle valeur ajoutée ? European Citizenship: what added value?](https://shs.hal.science/halshs-04557898)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557903] Le sport, 30 ans après](https://shs.hal.science/halshs-04557903)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557905] L'adhésion de l'Union européenne à la Convention d'Istanbul : une avancée majeure dans la lutte contre les violences de genre](https://shs.hal.science/halshs-04557905)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557896] Hélène Christodoulou, Le Parquet européen : prémices d'une autorité judiciaire de l'Union européenne](https://shs.hal.science/halshs-04557896)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557901] Daniel Thym, European Migration Law](https://shs.hal.science/halshs-04557901)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04557900] Alison Harcourt, Brexit and The Digital Single Market](https://shs.hal.science/halshs-04557900)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [[halshs-04469960] Chronique Contentieux de l'UE – L'arrêt préjudiciel en interprétation, base juridique du rétablissement de la légalité](https://shs.hal.science/halshs-04469960)
+Append: [[halshs-04495487] Règlement (UE) n°655/2014 "OESC" : procédure d’astreinte et notion de "décision judiciaire exigeant du débiteur le paiement de la créance](https://shs.hal.science/halshs-04495487)
+Append: [[halshs-04469967] Chronique Droit européen de la concurrence : pratiques anticoncurrentielles – L'actualité du Réseau européen de concurrence](https://shs.hal.science/halshs-04469967)
+Append: [[halshs-04469971] Chronique Droit européen de la propriété intellectuelle – Droit d'auteur et communication au public](https://shs.hal.science/halshs-04469971)
+Append: [[halshs-04469968] Chronique Droit européen de la concurrence : pratiques anticoncurrentielles – Le contentieux privé toujours en première ligne](https://shs.hal.science/halshs-04469968)
+Append: [[halshs-04469977] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Contrôle normal du juge administratif sur les décisions enjoignant aux opérateurs économiques de procéder à une conservation généralisée des données à caractère personnel afin de préserver la sécurité nationale, mais validation d'une potentielle conservation illimitée dans le temps](https://shs.hal.science/halshs-04469977)
+Append: [[halshs-04469980] Chronique Jurisprudence administrative française intéressant le droit de l'UE – La conformité au droit européen du monopole de la Française de jeux : la question des aides d'État laissée en suspens](https://shs.hal.science/halshs-04469980)
+Append: [[halshs-04469965] Chronique Droit européen de la concurrence : pratiques anticoncurrentielles – L'article 102 TFUE toujours au cœur de l'actualité](https://shs.hal.science/halshs-04469965)
+Append: [[halshs-04469974] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Incompétence du Conseil d'État pour contrôler un acte de gouvernement au regard du droit de l'Union](https://shs.hal.science/halshs-04469974)
+Append: [[halshs-04469979] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Accès à l'électricité nucléaire historique et augmentation exceptionnelle du volume : le Conseil d'État n'y voit aucune aide d'État](https://shs.hal.science/halshs-04469979)
+Append: [[halshs-04469953] Level playing field : une antienne protectrice du droit de l'Union](https://shs.hal.science/halshs-04469953)
+Append: [[halshs-04469963] Chronique Espace judiciaire européen en matière civile – Règlement (UE) no 655/2014 « OESC » : procédure d'astreinte et notion de « décision judiciaire exigeant du débiteur le paiement de la créance »](https://shs.hal.science/halshs-04469963)
+Append: [[halshs-04469957] Level playing field en matière de devoir de vigilance des entreprises : entre harmonisation des droits et coordination des ordres juridiques](https://shs.hal.science/halshs-04469957)
+Append: [[halshs-04469982] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Prescription des actions en indemnisation du fait de pratiques anticoncurrentielles : le code de commerce lu à la lumière de la jurisprudence européenne](https://shs.hal.science/halshs-04469982)
+Append: [[halshs-04469961] Chronique Contentieux de l'UE – L'impossible évolution du renvoi préjudiciel en interprétation en un mécanisme de contrôle de la correcte application d'un précédent arrêt préjudiciel](https://shs.hal.science/halshs-04469961)
+Append: [[halshs-04469954] Le level playing field climatique dans l'Accord UE-RU](https://shs.hal.science/halshs-04469954)
+Append: [[halshs-04469955] Anatomie du level playing field pour l'accès aux contrats de la commande publique dans l'Union : à propos des règlements « IMPI » et « subventions étrangères »](https://shs.hal.science/halshs-04469955)
+Append: [[halshs-04469966] Chronique Droit européen de la concurrence : pratiques anticoncurrentielles – Le renouveau de la problématique de l'articulation entre le droit de la concurrence et le droit de la régulation](https://shs.hal.science/halshs-04469966)
+Append: [[halshs-04469978] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Toujours pas assez pour les cétacés ! Les injonctions se précisent, mais sans astreinte](https://shs.hal.science/halshs-04469978)
+Append: [[halshs-04469972] Chronique Droit européen de la propriété intellectuelle – Le for de connexité et la propriété intellectuelle : vers une plus grande souplesse](https://shs.hal.science/halshs-04469972)
+Append: [[halshs-04469962] Chronique Contentieux de l'UE – Le renvoi préjudiciel, instrument de remise en cause des hiérarchies juridictionnelles nationales](https://shs.hal.science/halshs-04469962)
+Append: [[halshs-04469970] Chronique Droit européen de la propriété intellectuelle – Plateforme et usage en droit des marques : suite](https://shs.hal.science/halshs-04469970)
+Append: [[halshs-04469969] Chronique Droit européen de la propriété intellectuelle – Le règlement Digital Services Act (DSA) et la propriété intellectuelle : quel progrès ?](https://shs.hal.science/halshs-04469969)
+Append: [[halshs-04469973] Chronique Droit européen de la propriété intellectuelle – La détermination du public visé en matière de cyber-contrefaçon de marques de l'Union](https://shs.hal.science/halshs-04469973)
+Append: [[halshs-04469975] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Contrairement à la Cour de justice, le juge administratif juge que la violation des normes européennes de qualité de l'air peut être source de responsabilité de l'État et condamne l'État à réparer le préjudice](https://shs.hal.science/halshs-04469975)
+Append: [[halshs-04469964] Chronique Droit européen de la concurrence : pratiques anticoncurrentielles – Un droit en mutation ?](https://shs.hal.science/halshs-04469964)
+Append: [[halshs-04376336] Chronique Droit européen des transports - Le règlement sur les droits du passager aérien n'est pas sans limite territoriale...](https://shs.hal.science/halshs-04376336)
+Append: [[halshs-04469976] Chronique Jurisprudence administrative française intéressant le droit de l'UE – Nouvelle injonction adressée à l'État de prendre des « mesures supplémentaires utiles » pour satisfaire aux objectifs européens de réduction des émissions de gaz à effet de serre](https://shs.hal.science/halshs-04469976)
+Append: [[halshs-04376344] Chronique Droit européen des transports - Variations jurisprudentielles quant à l'emprise du droit des aides d'État sur le marché des transports aériens](https://shs.hal.science/halshs-04376344)
+Append: [[halshs-04376298] Chronique Union européenne et droits fondamentaux - Cour de justice et validité du mécanisme de conditionnalité](https://shs.hal.science/halshs-04376298)
+Append: [[halshs-04376305] Chronique Union européenne et droits fondamentaux - Conservation généralisée des données personnelles (art. 7 et 8 de la Charte)](https://shs.hal.science/halshs-04376305)
+Append: [[halshs-04376317] Chronique Union européenne et droits fondamentaux - Droit à une limitation de la durée maximale du travail et à des périodes de repos journalier et hebdomadaire, ainsi qu'à une période annuelle de congés payés (art. 31 de la Charte)](https://shs.hal.science/halshs-04376317)
+Append: [[halshs-04376293] Unanimité ?](https://shs.hal.science/halshs-04376293)
+Append: [[halshs-04376312] Chronique Union européenne et droits fondamentaux - Discrimination fondée sur l''ge et la nationalité (art. 21 de la Charte)](https://shs.hal.science/halshs-04376312)
+Append: [[halshs-04376322] Chronique Marché intérieur - La nouvelle centralité du marché intérieur dans la stratégie de sécurité économique de l'UE](https://shs.hal.science/halshs-04376322)
+Append: [[halshs-04376326] Chronique Jurisprudence nationale intéressant le droit de l'Union européenne - Liquidation de l'astreinte à laquelle l'État avait été condamné pour le contraindre au respect de ses obligations européennes en matière de qualité de l'air](https://shs.hal.science/halshs-04376326)
+Append: [[halshs-04376301] Chronique Union européenne et droits fondamentaux - Rapport annuel de la Commission sur l'application de la Charte de droits fondamentaux du 6 décembre 2022](https://shs.hal.science/halshs-04376301)
+Append: [[halshs-04376335] Chronique Droit européen des transports - Le principe du droit international coutumier de souveraineté complète et exclusive des États sur leur espace aérien ne fait pas obstacle à l'extraterritorialité du règlement sur les droits du passager aérien](https://shs.hal.science/halshs-04376335)
+Append: [[halshs-04376310] Chronique Union européenne et droits fondamentaux - Actions contre les atteintes à la protection des données personnelles (art. 7 et 8 de la Charte)](https://shs.hal.science/halshs-04376310)
+Append: [[hal-04336287] La communautarisation de la défense européenne dans le contexte de la guerre en Ukraine](https://hal.univ-lille.fr/hal-04336287v2)
+Append: [[halshs-04376313] Chronique Union européenne et droits fondamentaux - Discrimination fondée sur la nationalité](https://shs.hal.science/halshs-04376313)
+Append: [Vos droits à l’hôtel : réservation, annulation, problèmes...](https://www.60millions-mag.com/2024/05/27/comment-faire-face-aux-imprevus-lors-d-un-sejour-l-hotel-22973)
+Append: [Comment Decathlon avance avec l'IA](https://www.lsa-conso.fr/comment-decathlon-avance-avec-l-ia,455688)
+Append: [Decathlon pour la forme, Nike pour le style : focus sur le marché du sport en France](https://www.lsa-conso.fr/decathlon-pour-la-forme-nike-pour-le-style-focus-sur-le-marche-du-sport-en-france,455843)
+Append: [Le sans-gluten sucré repousse encore ses limites](https://www.lsa-conso.fr/le-sans-gluten-sucre-repousse-encore-ses-limites,455610)
+Append: [Nutri-score : ce qu'il faut savoir avec Familles de France](https://www.inc-conso.fr/content/nutri-score-ce-quil-faut-savoir-avec-familles-de-france)
+Append: [Actualité - Succession - Le caractère excessif des primes versées sur l’assurance vie difficile à prouver](https://www.quechoisir.org/actualite-succession-le-caractere-excessif-des-primes-versees-sur-l-assurance-vie-difficile-a-prouver-n124054/)
+Append: [Assurer un prêt immobilier : que sont la garantie décès, invalidité, incapacité ?](https://www.service-public.fr/particuliers/vosdroits/F21128)
+Append: [Date limite de consommation (DLC), de durabilité minimale (DDM), de congélation](https://www.service-public.fr/particuliers/vosdroits/F10990)
+Append: [Plan épargne logement (PEL)](https://www.service-public.fr/particuliers/vosdroits/F16140)
+Append: [Sécurité domestique : pourquoi conserver les produits ménagers dans leurs emballages d'origine ?](https://www.senioractu.com/Securite-domestique-pourquoi-conserver-les-produits-menagers-dans-leurs-emballages-d-origine_a25788.html)
+Append: [Réforme de l'Assurance chômage : les seniors ne seront pas épargnés](https://www.senioractu.com/Reforme-de-l-Assurance-chomage-les-seniors-ne-seront-pas-epargnes_a25802.html)
+Append: [Comment choisir une famille d'accueil pour votre proche 'gé ?](https://www.senioractu.com/Comment-choisir-une-famille-d-accueil-pour-votre-proche-age_a25798.html)
+Append: [Quillan. Manger équilibré pour presque rien avec la Maison paysanne - ladepeche.fr](https://www.google.com/url?rct=j&sa=t&url=https://www.ladepeche.fr/2024/05/27/manger-equilibre-pour-presque-rien-avec-la-maison-paysanne-11976428.php&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw0TAiFNhZdM8ffobJRQ9W56)
+Append: [Les hommes des cavernes raffolaient des végétaux! | JDM - Le Journal de Montréal](https://www.google.com/url?rct=j&sa=t&url=https://www.journaldemontreal.com/2024/05/26/les-hommes-des-cavernes-raffolaient-des-vegetaux&ct=ga&cd=CAIyGWFmMjMxNDQzODhkZGM4YTY6ZnI6ZnI6RlI&usg=AOvVaw13CflP7yBnXBRwzD2Zzc8X)
+append_entries: 64
+error when rendering xml, skip docs/Nouvelles Droits : consommation

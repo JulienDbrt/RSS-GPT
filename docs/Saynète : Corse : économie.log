@@ -1504,3 +1504,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [°Article Corse-Matin merci à ’ï Julie Orlandi](https://www.facebook.com/704747348330721/posts/908055417999912)
 append_entries: 1
 Finish: 2024-05-27 01:12:59.965017
+------------------------------------------------------
+Started: 2024-05-27 12:36:36.349109
+Existing_entries: 593
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le tunnel de Bastia fermé à la circulation ce lundi en raison d'une rupture de canalisation](https://france3-regions.francetvinfo.fr/corse/le-tunnel-de-bastia-ferme-a-la-circulation-ce-lundi-matin-en-raison-d-une-rupture-de-canalisation-2975753.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [PUBLICITÉ DES DÉCLARATIONS DE CRÉATIONS ET VACANCES D’EMPLOIS  RÉGION CORSE ET corse du sud  24 MAI 2024](https://www.cdg2a.com/publicite-des-declarations-de-creations-et-vacances-demplois-region-corse-et-corse-du-sud-24-mai-2024/)
+append_entries: 2
+Finish: 2024-05-27 12:36:49.434098

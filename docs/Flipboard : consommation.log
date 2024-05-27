@@ -1985,3 +1985,36 @@ Append: [Train de vie | À 70 ans, un couple songe enfin à la retraite](https:/
 Append: ["Les Capitalistes anonymes": ce groupe de parole qui réfléchit aux modes de vie et à la surconsommation](https://www.bfmtv.com/environnement/climat/les-capitalistes-anonymes-ce-groupe-de-parole-qui-reflechit-aux-modes-de-vie-et-a-la-surconsommation_AV-202405260267.html)
 append_entries: 24
 Finish: 2024-05-27 01:08:57.358304
+------------------------------------------------------
+Started: 2024-05-27 12:30:45.493681
+Existing_entries: 677
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Krach immobilier va décimer les investisseurs obligataires selon Kiyosaki - Alerte](https://fr.investing.com/news/economy/le-krach-immobilier-va-decimer-les-investisseurs-obligataires-selon-kiyosaki--alerte-2432299)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ces 2 signes du zodiaque vont faire un investissement qui portera ses fruits en juin](https://www.masculin.com/horoscope/775543-ces-2-signes-du-zodiaque-vont-faire-un-investissement-qui-portera-ses-fruits-en-juin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les voitures ne sont pas près de s’arrêter de rouler à l’essence ou au gazole](https://www.challenges.fr/automobile/les-voitures-ne-sont-pas-pres-de-s-arreter-de-rouler-a-l-essence-ou-au-gazole_894134?xtor=RSS-66)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Reportage "Je ressens de la colère quand les choses n'avancent pas dans le bon sens" : rencontre avec des "Capitalistes anonymes" qui se retrouvent en groupes de parole](https://www.francetvinfo.fr/economie/reportage-je-ressens-de-la-colere-quand-les-choses-n-avancent-pas-dans-le-bon-sens-rencontre-avec-des-capitalistes-anonymes-qui-se-retrouvent-en-groupes-de-parole_6568034.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rebondissements dans le scandale H2O : 3 000 nouveaux plaignants en France et des questions en Belgique](https://www.lemonde.fr/economie/article/2024/05/27/rebondissements-dans-le-scandale-h2o-3-000-nouveaux-plaignants-en-france-et-des-questions-en-belgique_6235707_3234.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Personne ne veut habiter dans cette maison](https://www.20min.ch/fr/story/passe-tragique-personne-ne-veut-habiter-dans-cette-maison-103113307)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Est-il possible de percevoir sa retraite en résidant à l'étranger ?](https://www.caminteresse.fr/societe/est-il-possible-de-percevoir-sa-retraite-en-residant-a-l-etranger-11193699/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Voitures électriques : Evergrande NEV s'envole à la Bourse de Hong Kong après l'annonce de son possible rachat](https://www.latribune.fr/entreprises-finance/industrie/automobile/voitures-electriques-evergrande-nev-s-envole-a-la-bourse-de-hong-kong-apres-l-annonce-de-son-possible-rachat-998457.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les 9 meilleures applications iPhone pour trouver et acheter sa maison](https://www.iphon.fr/post/meilleurs-applications-iphone-acheter-maison)
+append_entries: 9
+Finish: 2024-05-27 12:31:40.243683

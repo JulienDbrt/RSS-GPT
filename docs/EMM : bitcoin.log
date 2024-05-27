@@ -2214,3 +2214,45 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Trump prêt à libérer un roi de la drogue pour trouver des alliés](https://www.20minutes.fr/monde/election-presidentielle-americaine/4092921-20240526-election-presidentielle-americaine-2024-donald-trump-promet-libertariens-liberer-baron-drogue)
 append_entries: 5
 Finish: 2024-05-27 01:07:43.408401
+------------------------------------------------------
+Started: 2024-05-27 12:28:59.889750
+Existing_entries: 901
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La campagne Trump Crypto – Tout ce que vous devez savoir](https://www.cryptopolitan.com/fr/la-campagne-crypto-trump/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Uniswap s'associe aux meilleurs réseaux L2 et les jetons de couche 2 ont doublé leurs volumes de transactions sur le DEX d'une année sur l'autre](https://www.cryptopolitan.com/fr/les-jetons-des-reseaux-l2-des-partenaires-uniswap-ont-double/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ross Ulrbicht, ce roi de la drogue que Trump promet de libérer s’il est élu](https://www.20minutes.fr/politique/4093048-20240527-etats-unis-ross-ulrbicht-roi-drogue-trump-promet-liberer-elu)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'Argentine apprend l'adoption Bitcoin par le Salvador](https://www.cryptopolitan.com/fr/l-39-argentine-apprend-l-39-adoption-bitcoin-au-salvador/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Il entraînait la police à la cybersécurité… et gérait un marché de drogue du Dark Web](https://www.lebigdata.fr/il-entrainait-la-police-a-la-cybersecurite-et-gerait-un-marche-de-drogue-du-dark-web)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BEVM dévoile un consensus révolutionnaire sur la racine pivotante pour une solution décentralisée Bitcoin Layer 2](https://www.nouvelles-du-monde.com/bevm-devoile-un-consensus-revolutionnaire-sur-la-racine-pivotante-pour-une-solution-decentralisee-bitcoin-layer-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Il y a des problèmes – Les influenceurs crypto et les comptes Celebrity X piratés](https://www.cryptopolitan.com/fr/comptes-d-39-influenceurs-crypto-celebrites-x-pirates/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Crypto GameFi et l'Intersection du Jeu et de la Finance en 2023](https://www.alwihdainfo.com/Le-Crypto-GameFi-et-l-Intersection-du-Jeu-et-de-la-Finance-en-2023_a132588.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cryptomonnaie et Changement Climatique : Une Préoccupation Croissante pour les Investisseurs](https://www.alwihdainfo.com/Cryptomonnaie-et-Changement-Climatique-Une-Preoccupation-Croissante-pour-les-Investisseurs_a132585.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Cryptomonnaie et la Finance Durable : Les Femmes au Cœur du Changement dans les Investissements](https://www.alwihdainfo.com/La-Cryptomonnaie-et-la-Finance-Durable-Les-Femmes-au-Coeur-du-Changement-dans-les-Investissements_a132584.html)
+Append: [L'Avenir des Objets de Collection de Jeux Vidéo : NFTs et Possession d'Actifs Numériques](https://www.alwihdainfo.com/L-Avenir-des-Objets-de-Collection-de-Jeux-Video-NFTs-et-Possession-d-Actifs-Numeriques_a132586.html)
+Append: [Lunu, Lyzi, Ledger... Ces boîtes françaises qui croient dans le paiement en cryptos](https://www.bfmtv.com/crypto/lunu-lyzi-ledger-ces-boites-francaises-qui-croient-dans-le-paiement-en-cryptos_AV-202405270317.html)
+Append: [WisdomTree cotera demain à Londres son ETP spot sur l'ether](https://www.agefi.fr/etf/wisdomtree-cotera-demain-a-londres-son-etp-spot-sur-lether)
+Append: [BFM Crypto: Poussée sur Dogecoin et Shiba Inu - 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-la-chronique/bfm-crypto-poussee-sur-dogecoin-et-shiba-inu-27-05_EN-202405270071.html)
+Append: [Analyste crypto : les memecoins Solana vont à nouveau exploser](https://www.nouvelles-du-monde.com/analyste-crypto-les-memecoins-solana-vont-a-nouveau-exploser/)
+Append: [Pourquoi le Bitcoin à 69 000 $ n’est-il pas encore hors de danger ?](https://www.nouvelles-du-monde.com/pourquoi-le-bitcoin-a-69-000-nest-il-pas-encore-hors-de-danger/)
+append_entries: 16
+Finish: 2024-05-27 12:29:58.278672

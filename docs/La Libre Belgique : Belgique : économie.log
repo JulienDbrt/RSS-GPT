@@ -1683,3 +1683,39 @@ Existing_entries: 559
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
 append_entries: 0
 Finish: 2024-05-27 01:18:34.718159
+------------------------------------------------------
+Started: 2024-05-27 12:47:36.770065
+Existing_entries: 559
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les faux pas impardonnables des pires patrons du monde](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/aucun-employe-na-envie-de-subir-les-foudres-de-ces-chefs-dentreprise-U6DD5MOF2BFFLDXNRZIJUJVZDM/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les abonnements mobiles coûtent moins cher… si vous consommez plus](https://www.lalibre.be/economie/mes-finances/2024/05/27/les-abonnements-mobiles-coutent-moins-chers-si-vous-consommez-plus-GJ4PKTJGWZBHFDTJLJYR4WTIH4/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Voici les lobbyistes les plus actifs à Bruxelles](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/voici-les-lobbyistes-les-plus-actifs-a-bruxelles-ZUUV4F4WIJDSLL7OAG2SU6BSQQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les prix européens du gaz approchent leur plus haut niveau cette année](https://www.lalibre.be/economie/conjoncture/2024/05/27/les-prix-europeens-du-gaz-approchent-leur-plus-haut-niveau-cette-annee-Z5XFGXODYBDN3ETAY64JZG2R74/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bons d'Etat: plus de 42,5 millions d'euros récoltés après le premier jour](https://www.lalibre.be/economie/mes-finances/2024/05/27/bons-detat-plus-de-425-millions-eur-recoltes-apres-le-premier-jour-75U5RQPMCRFLJDACHTJWT2CJKQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gaëtan de Lantsheere (Colliers Belgium) : "La demande en bureaux verts va dépasser l’offre"](https://www.lalibre.be/economie/immo/2024/05/27/gaetan-de-lantsheere-colliers-belgium-la-demande-en-bureaux-verts-va-depasser-loffre-PVQIE6T4XJDZHB3MRCFWFDYBII/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La menace russe plane sur les élections](https://www.lalibre.be/economie/digital/2024/05/27/la-menace-russe-plane-sur-les-elections-NV653VVYKBAMZDZOABULPJIFRQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vers une situation de monopole sur le marché européen de l'IA ?](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/microsoft-va-t-il-prendre-le-monopole-du-marche-de-lia-XVVR3PKK7RFDRMNDWHCV6J5V7I/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Bel 20 entame la semaine dans le rouge](https://www.lalibre.be/economie/placements/2024/05/27/le-bel-20-entame-la-semaine-dans-le-rouge-TEXXFWA55JCFVJI435IK3PFRWM/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Une levée de fonds à 6 milliards de dollars pour la société d'Elon Musk sur l'IA](https://www.lalibre.be/economie/digital/2024/05/27/une-levee-de-fonds-a-6-milliards-de-dollars-pour-la-societe-delon-musk-sur-lia-EFAEMH5HG5DCDFCWLAKMVCPX7U/)
+append_entries: 10
+Finish: 2024-05-27 12:48:33.304053

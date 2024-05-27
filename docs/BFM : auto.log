@@ -576,3 +576,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [En 2026, Peugeot va commercialiser une voiture avec un volant rectangulaire](https://www.bfmtv.com/auto/en-2026-peugeot-va-commercialiser-une-voiture-avec-un-volant-rectangulaire_AD-202405260276.html)
 append_entries: 1
 Finish: 2024-05-27 01:13:34.298446
+------------------------------------------------------
+Started: 2024-05-27 12:38:25.355154
+Existing_entries: 94
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-05-27 12:38:26.121029

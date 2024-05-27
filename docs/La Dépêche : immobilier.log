@@ -487,3 +487,12 @@ Existing_entries: 61
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-05-27 01:18:32.112791
+------------------------------------------------------
+Started: 2024-05-27 12:47:29.531349
+Existing_entries: 61
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [À Toulouse, des habitants du Mirail manifestent contre les démolitions d’immeubles Candilis](https://www.ladepeche.fr/2024/05/27/a-toulouse-des-habitants-du-mirail-manifestent-contre-les-demolitions-dimmeubles-candilis-11974126.php)
+append_entries: 1
+Finish: 2024-05-27 12:47:35.922597
