@@ -1677,3 +1677,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Trajets des navetteurs, interruption de carrière, plafonds des entrepreneurs de travaux : voici ce qui va changer le premier juin](https://www.lalibre.be/belgique/societe/2024/05/26/trajets-des-navetteurs-interruption-de-carriere-plafonds-des-entrepreneurs-de-travaux-voici-ce-qui-va-changer-le-premier-juin-BRYOHK3IWRBAZFLYLIE3CTQVG4/)
 append_entries: 5
 Finish: 2024-05-26 12:41:51.207792
+------------------------------------------------------
+Started: 2024-05-27 01:18:33.363914
+Existing_entries: 559
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+append_entries: 0
+Finish: 2024-05-27 01:18:34.718159

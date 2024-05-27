@@ -532,3 +532,15 @@ Existing_entries: 70
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-05-26 12:38:51.072031
+------------------------------------------------------
+Started: 2024-05-27 01:16:55.341411
+Existing_entries: 70
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cette boisson sucrée pourrait vous aider à perdre du poids](https://www.journaldemontreal.com/2024/05/25/cette-boisson-sucree-pourrait-vous-aider-a-perdre-du-poids)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Coût du panier d’épicerie: quels aliments acheter et lesquels éviter cet été?](https://www.journaldemontreal.com/2024/05/25/cout-du-panier-depicerie-quels-aliments-acheter-et-lesquels-eviter-cet-ete)
+append_entries: 2
+Finish: 2024-05-27 01:17:06.896531

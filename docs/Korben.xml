@@ -5,11 +5,184 @@
 <link>https://korben.info</link>
 
 <item>
+<title>RustPython – Python puissance Rust</title>
+<link>https://korben.info/rustpython-interpreteur-python-en-rust-webassembly.html</link>
+<guid>https://korben.info/rustpython-interpreteur-python-en-rust-webassembly.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="286" src="https://korben.info/app/uploads/2024/05/SCR-20240526-qilj.webp" width="1000" /></p>
+<p>Un interpréteur Python 3 flambant neuf, entièrement réécrit en Rust, ça claque, non ? Pour ceux qui hibernent, Rust, c&rsquo;est le langage de programmation qui monte, qui monte et qui cartonne notamment grâce à sa rapidité légendaire et son bon niveau de sécurité. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-982849200" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et en fusionnant avec Python, on obtient le meilleur des deux mondes, puisque ça permet d&rsquo;utiliser Python comme un langage de script dans vos applications Rust. Vous pourrez ainsi, grâce à RustPython, profiter de la simplicité et de l&rsquo;expressivité de Python, tout en bénéficiant des performances et de la robustesse de Rust. </p>
+
+
+
+<p><strong>RustPython</strong> peut aussi être compilé en <a href="https://rustpython.github.io/demo/" rel="noopener" target="_blank">WebAssembly</a>, ce qui permet d&rsquo;avoir du Python directement dans votre navigateur, sans installer quoi que ce soit et ainsi, votre code s&rsquo;exécutera à la vitesse de la lumière. Évidemment ce projet est open-source et libre comme l&rsquo;air et pour l&rsquo;utiliser, c&rsquo;est simple comme bonjour. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161247" height="549" src="https://korben.info/app/uploads/2024/05/SCR-20240526-qimf.webp" style="width: 649px; height: auto;" width="1000" /></figure></div>
+
+
+<p>Tout d&rsquo;abord, assurez-vous d&rsquo;avoir installé Rust sur votre machine. Si ce n&rsquo;est pas le cas, filez sur <a href="https://rustup.rs/" rel="noopener" target="_blank">rustup.rs</a> dare-dare ! Ensuite, clonez le dépôt GitHub de <strong>RustPython</strong> :</p>
+
+
+
+<p><code>git clone https://github.com/RustPython/RustPython</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1888059709" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Placez-vous dans le répertoire RustPython fraîchement cloné, puis lancez la démo :</p>
+
+
+
+<p><code>cd RustPython <br />cargo run --release demo_closures.py</code></p>
+
+
+
+<p>Et voilà, vous venez d&rsquo;exécuter du code Python à la vitesse du son grâce à <strong>RustPython</strong> ! Notez que cet outil dispose également d&rsquo;un compilateur JIT expérimental qui compile les fonctions python en code rust natif.</p>
+
+
+
+<p>Si vous avez envie d&rsquo;en savoir plus, rendez-vous sur <a href="https://rustpython.github.io/" rel="noopener" target="_blank">https://rustpython.github.io</a>.</p>
+
+
+
+<p><a href="https://rustpython.github.io/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 16:47:39 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 16:47:39 +0000</pubDate>
+</item>
+<item>
+<title>Video DownloadHelper – Une mise à jour à ne pas manquer !</title>
+<link>https://korben.info/video-downloadhelper-v9-mise-a-jour-incontournable.html</link>
+<guid>https://korben.info/video-downloadhelper-v9-mise-a-jour-incontournable.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="297" src="https://korben.info/app/uploads/2024/05/SCR-20240526-pogp.webp" width="1000" /></p>
+<p>Ça y est, la <strong>nouvelle version de <a href="https://www.downloadhelper.net/" rel="noopener" target="_blank">Video DownloadHelper</a> est enfin disponible</strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1923613756" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ça fait plus de 15 ans que Mig et son équipe bossent d&rsquo;arrache-pied sur cette extension de téléchargement de vidéos, et ça se voit puisque des années après, elle drainent encore et toujours des <strong>millions d&rsquo;utilisateurs</strong> sur Firefox, Chrome et Edge. Video DownloadHelper est un incontournable.</p>
+
+
+
+<p>Pour cette version 9, l&rsquo;équipe a fait appel à Paul Rouget (Salut Paul !), un vétéran de chez Mozilla qui a passé 17 ans à enrichir Firefox&#8230; alors, autant vous dire qu&rsquo;avec un tel CV, il s&rsquo;y connaît en extensions ! Et concrètement, qu&rsquo;est-ce que ça nous apporte ? </p>
+
+
+
+<p>Eh bien, un paquet de <strong>nouveautés bien intéressantes</strong>.</p>
+
+
+
+<p>Déjà, l&rsquo;interface a eu droit à un bon coup de polish. C&rsquo;est plus moderne, ça supporte enfin les thèmes sombres (indispensable pour préserver nos petits yeux fatigués), et en prime, c&rsquo;est navigable au clavier pour une meilleure accessibilité. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-161242" height="1024" src="https://korben.info/app/uploads/2024/05/themes2-1-797x1024.webp" style="width: 562px; height: auto;" width="797" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1046301550" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais la fonctionnalité la plus cool, c&rsquo;est la <strong>barre latérale</strong> dans laquelle vous pouvez accrocher Video DownloadHelper pour avoir une vue en temps réel des vidéos disponibles au téléchargement, de celles en cours de download et des vidéos déjà récupérées. C&rsquo;est hyper pratique pour garder un œil sur ses téléchargements sans quitter la page sur laquelle on est.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161238" height="538" src="https://korben.info/app/uploads/2024/05/SCR-20240526-plyy.webp" width="1000" /></figure></div>
+
+
+<p>Et si vous souhaitez juste récupérer l&rsquo;audio d&rsquo;une vidéo pour créer une playlist ou écouter un discours sans stocker la vidéo complète, c&rsquo;est maintenant possible puisque Video DownloadHelper peut extraire uniquement la piste audio, ce qui est parfait pour gagner en espace disque et vous créer des petits podcasts personnels à écouter en voiture ou dans les transports.</p>
+
+
+
+<p>En parlant de format, la dernière version gère également la conversion d&rsquo;un format à l&rsquo;autre (merci FFmpeg) et supporte tout un tas de qualités (de l&rsquo;Ultra HD à la basse définition) et de conteneurs (MKV, MP4, WebM, etc.). Bref, vous aurez l&#8217;embarras du choix.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161239" height="750" src="https://korben.info/app/uploads/2024/05/SCR-20240526-plgh.webp" style="width: 615px; height: auto;" width="797" /></figure></div>
+
+
+<p>De plus, l&rsquo;extension supporte le téléchargement de vidéos depuis <strong>plus de 1 000 sites web</strong>, y compris les vidéos YouTube et les flux en direct, ce qui vous permettra de mater tout ça offline tranquillement plus tard.</p>
+
+
+
+<p>Bref, vous l&rsquo;aurez compris, l&rsquo;équipe de Video DownloadHelper a vraiment mis les petits plats dans les grands pour nous offrir une version 9 de haute volée. C&rsquo;est chouette de voir une extension durer aussi longtemps et continuer d&rsquo;évoluer pour toujours mieux répondre aux besoins. Et le taf de Paul sur cette release se ressent vraiment surtout au niveau de l&rsquo;interface qui est vraiment hyper agréable et hyper pratique à utiliser.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161240" height="348" src="https://korben.info/app/uploads/2024/05/SCR-20240526-pkye.png" style="width: 610px; height: auto;" width="736" /></figure></div>
+
+
+<p>Bref, si ça fait longtemps que vous n&rsquo;avez pas jeté un œil à Video DownloadHelper, je pense que c&rsquo;est le moment de la réinstaller et de retester le téléchargement de vidéo sur votre site préféré (Youtube, X, Facebook, Vimeo&#8230;etc.)</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1818378778" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Encore bravo à Mig, à Paul et à tous ceux qui participent à ce projet, pour ce nouvel opus de qualité !</p>
+
+
+
+<p><a href="https://www.downloadhelper.net/" rel="noopener" target="_blank">A télécharger ici !</a></p>
+
+
+
+<p><a href="https://www.downloadhelper.net/v9" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 16:03:57 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 16:03:57 +0000</pubDate>
+</item>
+<item>
+<title>SocialScreenshots – Mettez en valeur vos captures écran sans effort</title>
+<link>https://korben.info/socialscreenshots-capturer-editer-screenshots-reseaux-sociaux.html</link>
+<guid>https://korben.info/socialscreenshots-capturer-editer-screenshots-reseaux-sociaux.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="270" src="https://korben.info/app/uploads/2024/05/SCR-20240526-oyjo-2.webp" width="1000" /></p>
+<p>Vous rêvez de créer des visuels de fou pour vos réseaux sociaux ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1607479868" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ne cherchez plus, <strong><a href="https://socialscreenshots.com/editor" rel="noopener" target="_blank">SocialScreenshots</a></strong> est là ! Développé par Gabriel, un jeune développeur toulousain de 29 ans, cet outil ingénieux vous permet de capturer, recadrer et améliorer vos captures d&rsquo;écran en quelques clics, directement depuis votre navigateur.</p>
+
+
+
+<p>Inspiré par l&rsquo;interface de Screen Studio, Gab a développé son site uniquement avec <strong>ReactJS</strong> et <strong>canvas</strong>, en créant lui-même tout l&rsquo;habillage et le résultat est très sympa !</p>
+
+
+
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-161230" height="750" src="https://korben.info/app/uploads/2024/05/SCR-20240526-onzb.webp" width="1000" /></figure>
+
+
+
+<p>Grâce à ce site, vous pouvez créer un screenshot directement depuis un site web, puis le recadrer automatiquement au format voulu (Pour X, Facebook, Instagram, Linkedin et les résolutions d&rsquo;écran classiques), et l&rsquo;améliorer grâce à l&rsquo;éditeur afin d&rsquo;obtenir des rendus dignes d&rsquo;un graphiste en herbe en ajoutant une ombre, en arrondissant les coins, et en choisissant un joli fond ou un dégradé pour l’arrière-plan.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161233" height="576" src="https://korben.info/app/uploads/2024/05/my-image-name-1-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>C&rsquo;est gratuit, y&rsquo;a pas de filigrane ni de limite de temps, vous n&rsquo;avez rien à installer et pas même besoin de créer un compte. Et toutes les manipulations se font localement dans votre navigateur, pour un maximum de simplicité et de confidentialité.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1933147703" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://socialscreenshots.com/editor" rel="noopener" target="_blank">À découvrir ici</a></p>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 15:03:38 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 15:03:38 +0000</pubDate>
+</item>
+
+<item>
 <title>CoreCtrl – Libérez le potentiel de votre GPU sous Linux</title>
 <link>https://korben.info/corectrl-liberez-le-potentiel-de-votre-gpu-sous-linux.html</link>
 <guid>https://korben.info/corectrl-liberez-le-potentiel-de-votre-gpu-sous-linux.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_AMD_RADEON_on_fire_logo_with_text_CoreCTRL_written_8b657a38-551a-4bc3-a008-4ab17c8ef373.png" width="1456" /></p>
 <p>Vous en avez marre que votre <strong>carte graphique</strong> soit bridée sous Linux ? Vous rêvez de pouvoir <strong>overclocker</strong> votre GPU comme un pro pour booster les perfs dans vos jeux préférés ? Alors laissez-moi vous présenter votre nouveau meilleur pote : <a href="https://gitlab.com/corectrl/corectrl" rel="noopener" target="_blank"><strong>CoreCtrl</strong></a> !</p>
 
@@ -62,9 +235,7 @@
 <p>Happy overclocking les amis ! 😄</p>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>GPT-4 défie les analystes financiers à leur propre jeu !</title>
 <link>https://korben.info/gpt-4-defie-analystes-financiers-prediction-benefices.html</link>

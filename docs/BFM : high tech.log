@@ -2213,3 +2213,33 @@ Append: [AirPods Pro 2 : le prix de ces écouteurs Apple prend un sacré coup, p
 Append: [Devant Squeezie: Tibo InShape est désormais le premier youtubeur de France](https://www.bfmtv.com/tech/youtube/devant-squeezie-tibo-in-shape-est-desormais-le-premier-youtubeur-de-france_AV-202405260041.html)
 append_entries: 14
 Finish: 2024-05-26 12:35:21.102446
+------------------------------------------------------
+Started: 2024-05-27 01:13:44.056507
+Existing_entries: 881
+Fetching from https://www.bfmtv.com/rss/tech/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Inoxtag est "de retour" et "en bonne santé" après son expédition à l'Everest](https://www.bfmtv.com/tech/actualites/inoxtag-est-de-retour-et-en-bonne-sante-apres-son-expedition-a-l-everest_AN-202405260444.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ferez-vous partie des chanceux à voir cette offre sur le Samsung Galaxy S23 Ultra ?](https://www.bfmtv.com/tech/bons-plans/ferez-vous-partie-des-chanceux-a-voir-cette-offre-sur-le-samsung-galaxy-s23-ultra_AB-202405260018.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vente flash iPhone 15 : erreur de prix ou offre totalement folle sur le dernier smartphone Apple ?](https://www.bfmtv.com/tech/bons-plans/vente-flash-i-phone-15-erreur-de-prix-ou-offre-totalement-folle-sur-le-dernier-smartphone-apple_AB-202405260010.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Protégez votre domicile grâce à ce système d'alarme complet et à un très bon prix](https://www.bfmtv.com/tech/bons-plans/protegez-votre-domicile-grace-a-ce-systeme-d-alarme-complet-et-a-un-tres-bon-prix_AB-202405260024.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vous avez besoin d'un VPN ? Cette offre NordVPN est topissime](https://www.bfmtv.com/tech/bons-plans/vpn/vous-avez-besoin-d-un-vpn-cette-offre-nord-vpn-est-topissime_AB-202405260023.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Appel manqué de maman": Deliveroo s'excuse après l'envoi d'une notification "maladroite" pour la Fête des mères](https://www.bfmtv.com/tech/appel-manque-de-maman-deliveroo-s-excuse-apres-l-envoi-d-une-notification-maladroite-pour-la-fete-des-meres_AN-202405260304.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AirPods 3 : Auchan vous propose une remise que vous ne pourrez pas laisser passer](https://www.bfmtv.com/tech/bons-plans/air-pods-3-auchan-vous-propose-une-remise-que-vous-ne-pourrez-pas-laisser-passer_AB-202405260002.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cette box internet inclut la fibre, Disney+ & Prime Video : elle est signée Free](https://www.bfmtv.com/tech/bons-plans/cette-box-internet-inclut-la-fibre-disney-prime-video-elle-est-signee-free_AB-202405260021.html)
+append_entries: 8
+Finish: 2024-05-27 01:14:28.484205

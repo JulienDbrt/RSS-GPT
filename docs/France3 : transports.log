@@ -1151,3 +1151,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Transports en commun. Bus, tram, train, au Mans, un ticket unique pour parcourir jusqu'à 250 km](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/le-mans/transports-en-commun-bus-tram-train-au-mans-un-ticket-unique-pour-parcourir-jusqu-a-250-km-2975294.html)
 append_entries: 3
 Finish: 2024-05-26 12:38:50.845425
+------------------------------------------------------
+Started: 2024-05-27 01:16:38.156930
+Existing_entries: 288
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Une lettre ouverte publiée la veille de la fermeture du pont De Gaulle, promis à la démolition](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/une-lettre-ouverte-publiee-la-veille-de-la-fermeture-du-pont-de-gaulle-promis-a-la-demolition-2975720.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Les vélos épaves occupent la moitié des arceaux de Strasbourg" : quelles sont les solutions pour s'en débarrasser](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/les-velos-epaves-occupent-la-moitie-des-arceaux-de-strasbourg-quelles-sont-les-solutions-pour-s-en-debarrasser-2975666.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rouler à 30 km/h en centre-ville ? Certaines communes de la Vienne ont déjà franchi le pas](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/rouler-a-30-km-h-en-centre-ville-certaines-communes-de-la-vienne-ont-deja-franchi-le-pas-2975579.html)
+append_entries: 3
+Finish: 2024-05-27 01:16:55.304117

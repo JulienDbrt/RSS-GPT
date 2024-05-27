@@ -621,3 +621,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les millions que les SIG ont choisi de ne pas rétrocéder](https://www.20min.ch/fr/103106429)
 append_entries: 1
 Finish: 2024-05-26 12:31:59.655832
+------------------------------------------------------
+Started: 2024-05-27 01:13:00.022504
+Existing_entries: 111
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-05-27 01:13:01.024459

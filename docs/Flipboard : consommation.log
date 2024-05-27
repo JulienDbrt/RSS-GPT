@@ -1935,3 +1935,53 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [En Vendée, Arcade Cycles ouvre une nouvelle usine à 17 millions d'euros pour produire 120000 vélos par an - L'Usine Nouvelle](https://www.usinenouvelle.com/article/en-vendee-arcade-cycles-ouvre-une-nouvelle-usine-a-17-millions-d-euros-pour-produire-120000-velos-par-an.N2212417)
 append_entries: 2
 Finish: 2024-05-26 12:27:45.978427
+------------------------------------------------------
+Started: 2024-05-27 01:07:54.248880
+Existing_entries: 653
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : «Emmanuel Macron ne veut pas sauver le logement du naufrage»](https://www.capital.fr/immobilier/immobilier-emmanuel-macron-ne-veut-pas-sauver-le-logement-du-naufrage-1497260)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Des ETF suisses pour assurer des rendements élevés et durables - Le Temps](https://www.letemps.ch/economie/finance/des-etf-suisses-pour-assurer-des-rendements-eleves-et-durables)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dérivés du cannabis : de nouveaux produits bientôt interdits en France sur internet et boutiques de CBD](https://actu.fr/societe/derives-du-cannabis-de-nouveaux-produits-bientot-interdits-en-france-sur-internet-et-boutiques-de-cbd_61112003.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La mythique maison de « Maman, j’ai raté l’avion » est en vente (à un prix astronomique)](https://www.huffingtonpost.fr/culture/article/la-maison-de-maman-j-ai-rate-l-avion-est-en-vente-a-un-prix-astronomique_234530.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pourquoi "Sniffy", cette poudre légale qui se "sniffe", inquiète-t-elle les autorités ?](https://www.francetvinfo.fr/sante/drogue-addictions/pourquoi-sniffy-cette-poudre-legale-qui-se-sniffe-inquiete-t-elle-les-autorites_6565043.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Améliorer la maison de son conjoint n'entraîne pas toujours un remboursement en cas de séparation](https://www.bfmtv.com/immobilier/achat-vente/ameliorer-la-maison-de-son-conjoint-n-entraine-pas-toujours-un-remboursement-en-cas-de-separation_AD-202405260295.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Boire du café après 16h est-il vraiment déconseillé ?](https://originals.bababam.com/bababam-maintenant-vous-savez-sante/202402110359-boire-du-cafe-apres-16h-est-il-vraiment-deconseille)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L’île thaïlandaise de Phuket, paradis des exilés russes](https://www.la-croix.com/international/l-ile-thailandaise-de-phuket-paradis-des-exiles-russes-20240526)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Écolo, oui mais » : ces petits arrangements avec nos consciences](https://theconversation.com/ecolo-oui-mais-ces-petits-arrangements-avec-nos-consciences-226835)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Jeune retraité : cette erreur peut vous faire perdre 5 000 euros](https://www.capital.fr/votre-carriere/jeune-retraite-cette-erreur-peut-vous-faire-perdre-5-000-euros-1497267)
+Append: [Assurance-vie : pour s'y retrouver, UFC-Que Choisir lance un comparateur en ligne](https://www.europe1.fr/economie/assurance-vie-pour-sy-retrouver-ufc-que-choisir-lance-un-comparateur-en-ligne-4249125)
+Append: [Nouvel (et énième) incendie volontaire dans l’immeuble squatté de la rue Jean-Yvart à Boulogne](https://www.lavoixdunord.fr/1465920/article/2024-05-26/nouvel-et-enieme-incendie-volontaire-dans-l-immeuble-squatte-de-la-rue-jean)
+Append: [Touraine, Bourgogne, Périgord, Cantal… Pour une résidence secondaire entre nature et patrimoine](https://www.challenges.fr/immobilier/touraine-bourgogne-perigord-cantal-pour-une-residence-secondaire-entre-nature-et-patrimoine_893998?xtor=RSS-25)
+Append: [Le protectionnisme ne protège pas (surtout votre pouvoir d’achat) - Le Temps](https://www.letemps.ch/economie/le-protectionnisme-ne-protege-pas-surtout-votre-pouvoir-d-achat)
+Append: [La maison du film «Maman, j’ai raté l’avion !» à vendre pour 4,8 millions d’euros](https://www.lefigaro.fr/conjoncture/la-maison-du-film-maman-j-ai-rate-l-avion-a-vendre-pour-4-8-millions-d-euros-20240526)
+Append: [ZAD, occupation tournante des terrains… : à Cambo, les opposants au projet immobilier Marienia face aux différents scenarii de « résistance »](https://www.sudouest.fr/pyrenees-atlantiques/bayonne/zad-occupation-tournante-des-terrains-a-cambo-les-opposants-au-projet-immobilier-marienia-face-aux-differents-scenarii-de-resistance-19874820.php)
+Append: [Finances et consommation – Comment les frais bancaires sont-ils absorbés?](https://www.24heures.ch/comment-les-frais-bancaires-sont-ils-absorbes-907194167471)
+Append: [Abandon de chantier par une entreprise : comment réagir ? Quels recours ?](https://lemagdelaconso.ouest-france.fr/dossier-1044-abandon-chantier-entreprise-comment-reagir-quels-recours.html)
+Append: [Savoir-faire - À Saint-Germain-Laprade, la société D’Ennery a réussi une percée dans le monde de la mode](https://www.lamontagne.fr/saint-germain-laprade-43700/actualites/a-saint-germain-laprade-la-societe-dennery-a-reussi-une-percee-dans-le-monde-de-la-mode_14506250/)
+Append: [Immobilier : Pas de jackpot pour les propriétaires pendant les JO](https://www.fibee.fr/immobilier-pas-de-jackpot-pour-les-proprietaires-pendant-les-jo/)
+Append: [Floirac : le premier arbre du projet Dulong a été planté](https://www.sudouest.fr/gironde/floirac/floirac-le-premier-arbre-du-projet-dulong-a-ete-plante-19878004.php)
+Append: [Agilytic compile et interprète les données pour les mettre au service de l’immobilier](https://www.lalibre.be/economie/immo/2024/05/26/agilytic-compile-et-interprete-les-donnees-pour-les-mettre-au-service-de-limmobilier-VBWRGNWMR5EE5EVUGFOQ4IOKPE/)
+Append: [Train de vie | À 70 ans, un couple songe enfin à la retraite](https://www.lapresse.ca/affaires/finances-personnelles/2024-05-26/train-de-vie/a-70-ans-un-couple-songe-enfin-a-la-retraite.php)
+Append: ["Les Capitalistes anonymes": ce groupe de parole qui réfléchit aux modes de vie et à la surconsommation](https://www.bfmtv.com/environnement/climat/les-capitalistes-anonymes-ce-groupe-de-parole-qui-reflechit-aux-modes-de-vie-et-a-la-surconsommation_AV-202405260267.html)
+append_entries: 24
+Finish: 2024-05-27 01:08:57.358304

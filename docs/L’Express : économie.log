@@ -799,3 +799,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Assurance chômage : Gabriel Attal confirme le durcissement des règles](https://www.lexpress.fr/economie/emploi/assurance-chomage-gabriel-attal-confirme-le-durcissement-des-regles-JA6FOYUTYZDLLFWOD2SCMFB4R4/)
 append_entries: 2
 Finish: 2024-05-26 12:39:36.058602
+------------------------------------------------------
+Started: 2024-05-27 01:17:19.093625
+Existing_entries: 217
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage : quel possibles effets sur le retour à l’emploi ?](https://www.lexpress.fr/economie/emploi/droit-travail/reforme-de-lassurance-chomage-quel-possibles-effets-sur-le-retour-a-lemploi-ETG2AR7RI5AFPBDD6YBSRFUJJE/)
+append_entries: 1
+Finish: 2024-05-27 01:17:24.927333

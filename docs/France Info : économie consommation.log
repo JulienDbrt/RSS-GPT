@@ -1972,3 +1972,30 @@ Append: [Réforme de l'assurance-chômage : Gabriel Attal confirme un durcissem
 Append: ["Les Champs-Élysées perdent un peu de leur âme" : comment la célèbre avenue parisienne se transforme en paradis des marques de luxe](https://www.francetvinfo.fr/economie/les-champs-elysees-perdent-un-peu-de-leur-ame-comment-la-celebre-avenue-parisienne-se-transforme-en-paradis-des-marques-de-luxe_6563033.html)
 append_entries: 12
 Finish: 2024-05-26 12:37:19.127710
+------------------------------------------------------
+Started: 2024-05-27 01:15:12.577862
+Existing_entries: 670
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme du chômage : "Ce gouvernement a RSA-isé la France", dénonce Aurélie Trouvé, députée LFI de Seine-Saint-Denis](https://www.francetvinfo.fr/politique/reforme-du-chomage-ce-gouvernement-a-rsa-ise-la-france-denonce-aurelie-trouve-deputee-lfi-de-seine-saint-denis_6567152.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Économie : travailler en Suisse, vraiment un eldorado ?](https://www.francetvinfo.fr/economie/economie-travailler-en-suisse-vraiment-un-eldorado_6567023.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l’assurance-chômage : le gouvernement assume un modèle social "plus tourné vers l'activité"](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-le-gouvernement-assume-un-modele-social-plus-tourne-vers-l-activite_6567050.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance-chômage : le gouvernement durcit les règles](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-le-gouvernement-durcit-les-regles_6566984.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage : pour Jean Viard, "si on arrivait à un accord européen sur le temps de travail, sur le chômage, on ferait un grand pas pour vivre dans la même société"](https://www.francetvinfo.fr/replay-radio/question-de-societe/reforme-de-l-assurance-chomage-pour-jean-viard-si-on-arrivait-a-un-accord-europeen-sur-le-temps-de-travail-sur-le-chomage-on-ferait-un-grand-pas-pour-vivre-dans-la-meme-societe_6526652.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Turbulences en avion : 12 personnes blessées lors d'un vol entre Doha et Dublin](https://www.francetvinfo.fr/economie/transports/turbulences-en-avion-douze-personnes-blessees-lors-d-un-vol-entre-doha-et-dublin_6566804.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance-chômage : les syndicats crient haro sur le nouveau tour de vis après les annonces de Gabriel Attal](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-les-syndicats-crient-haro-sur-le-nouveau-tour-de-vis-apres-les-annonces-de-gabriel-attal_6566726.html)
+append_entries: 7
+Finish: 2024-05-27 01:15:52.524668

@@ -933,3 +933,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Mauvais fourrage, tracteurs embourbés et pertes de récoltes : la pluie donne du souci aux agriculteurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/franche-comte/mauvais-fourrage-tracteurs-embourbes-et-pertes-de-recoltes-la-pluie-donne-du-souci-aux-agriculteurs-2974565.html)
 append_entries: 2
 Finish: 2024-05-26 12:38:09.912253
+------------------------------------------------------
+Started: 2024-05-27 01:16:24.574291
+Existing_entries: 215
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+append_entries: 0
+Finish: 2024-05-27 01:16:24.946171

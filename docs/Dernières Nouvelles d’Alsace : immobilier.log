@@ -470,3 +470,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Conseils décoration. Nos astuces pour installer une mini-piscine sur votre terrasse !](https://www.dna.fr/magazine-immobilier/2024/05/26/nos-astuces-pour-installer-une-mini-piscine-sur-votre-terrasse)
 append_entries: 1
 Finish: 2024-05-26 12:36:12.947573
+------------------------------------------------------
+Started: 2024-05-27 01:14:56.464256
+Existing_entries: 54
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-05-27 01:14:58.073418

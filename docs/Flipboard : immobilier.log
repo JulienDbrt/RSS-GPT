@@ -1297,3 +1297,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Où acheter une maison près de Marseille ? Notre classement exclusif](https://www.leparisien.fr/immobilier/securite-bord-de-mer-transports-ou-acheter-une-maison-pres-de-marseille-notre-classement-exclusif-25-05-2024-LMNVKAQB6RFGXG67J4MBAUG4MU.php)
 append_entries: 1
 Finish: 2024-05-26 12:28:41.571091
+------------------------------------------------------
+Started: 2024-05-27 01:09:30.735973
+Existing_entries: 393
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : «Emmanuel Macron ne veut pas sauver le logement du naufrage»](https://www.capital.fr/immobilier/immobilier-emmanuel-macron-ne-veut-pas-sauver-le-logement-du-naufrage-1497260)
+append_entries: 1
+Finish: 2024-05-27 01:09:36.934254

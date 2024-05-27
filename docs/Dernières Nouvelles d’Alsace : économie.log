@@ -1677,3 +1677,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Politique. Microsoft à Petit-Landau : un accueil peu chaleureux](https://www.dna.fr/politique/2024/05/26/un-accueil-peu-chaleureux)
 append_entries: 6
 Finish: 2024-05-26 12:36:06.338665
+------------------------------------------------------
+Started: 2024-05-27 01:14:42.725037
+Existing_entries: 505
+Fetching from https://www.dna.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Social. Assurance chômage : les règles encore durcies, on vous donne le détail](https://www.dna.fr/economie/2024/05/26/les-regles-d-indemnisation-du-chomage-seront-encore-durcies)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vidéo. Réforme de l'assurance chômage : quelles sont les principales annonces ?](https://www.dna.fr/social/2024/05/26/reforme-de-l-assurance-chomage-quelles-sont-les-principales-annonces)
+append_entries: 2
+Finish: 2024-05-27 01:14:56.435767

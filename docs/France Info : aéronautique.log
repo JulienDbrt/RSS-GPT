@@ -431,3 +431,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Grève à Orly : de nombreux vols annulés](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-a-orly-de-nombreux-vols-annules_6566516.html)
 append_entries: 1
 Finish: 2024-05-26 12:37:25.524771
+------------------------------------------------------
+Started: 2024-05-27 01:15:52.546541
+Existing_entries: 41
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-05-27 01:15:52.600476

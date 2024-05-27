@@ -1714,3 +1714,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Avec « Anora », le Festival de Cannes choisit l'Amérique](https://www.latribune.fr/culture-lifestyle/avec-anora-le-festival-de-cannes-choisit-l-amerique-998362.html)
 append_entries: 10
 Finish: 2024-05-26 12:43:47.179884
+------------------------------------------------------
+Started: 2024-05-27 01:18:53.946712
+Existing_entries: 462
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Conflit Israël-Hamas : les bombardements se poursuivent malgré les efforts internationaux pour une trêve](https://www.latribune.fr/economie/international/conflit-israel-hamas-les-bombardent-se-poursuivent-malgre-les-efforts-internationaux-pour-une-treve-998431.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Emmanuel Macron est arrivé en Allemagne pour renouer les liens entre Paris et Berlin](https://www.latribune.fr/economie/union-europeenne/emmanuel-macron-est-arrive-en-allemagne-pour-renouer-les-liens-entre-paris-et-berlin-998427.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Face au nouveau tour de vis sur l'assurance chômage, les syndicats contre-attaquent](https://www.latribune.fr/economie/france/face-au-nouveau-tour-de-vis-sur-l-assurance-chomage-les-syndicats-contre-attaquent-998422.html)
+append_entries: 3
+Finish: 2024-05-27 01:19:11.215682

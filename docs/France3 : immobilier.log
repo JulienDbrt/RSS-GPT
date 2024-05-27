@@ -447,3 +447,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Quartier du Puech du Teil à Nîmes : mobilisation pour sauver 6000m² de végétation face à un projet immobilier](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/quartier-du-puech-du-teil-a-nimes-mobilisation-pour-sauver-6000m-de-vegetation-face-a-un-projet-immobilier-2975243.html)
 append_entries: 1
 Finish: 2024-05-26 12:38:33.307949
+------------------------------------------------------
+Started: 2024-05-27 01:16:37.595533
+Existing_entries: 53
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-27 01:16:37.983888

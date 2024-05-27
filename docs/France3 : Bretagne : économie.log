@@ -522,3 +522,12 @@ Existing_entries: 78
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-05-26 12:38:27.074926
+------------------------------------------------------
+Started: 2024-05-27 01:16:31.113368
+Existing_entries: 78
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Coupe de l'America : construit à Vannes, le bateau du défi français se dévoile enfin à Barcelone](https://france3-regions.francetvinfo.fr/bretagne/morbihan/coupe-de-l-america-construit-a-vannes-le-bateau-du-defi-francais-se-devoile-enfin-a-barcelone-2975639.html)
+append_entries: 1
+Finish: 2024-05-27 01:16:37.088868

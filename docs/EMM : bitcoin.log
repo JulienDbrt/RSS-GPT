@@ -2193,3 +2193,24 @@ Append: [Élections américaines: Trump promet de libérer le créateur d'un sit
 Append: [12:20 États-Unis Pour le soutien des libertariens, Trump promet de libérer un roi de la drogue](https://www.lorientlejour.com/article/1415148/pour-le-soutien-des-libertariens-trump-promet-de-liberer-un-roi-de-la-drogue.html)
 append_entries: 11
 Finish: 2024-05-26 12:27:21.527645
+------------------------------------------------------
+Started: 2024-05-27 01:07:13.240032
+Existing_entries: 896
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Altcoins vs penny stocks : lequel convient aux investisseurs en 2024 ? 26 mai 2024](https://www.cryptopolitan.com/fr/altcoins-vs-penny-stocks-ce-qui-convient-aux-investisseurs-en-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Prévision des prix des vagues 2024-2030 : WAVES atteindra-t-il un autre ATH ?](https://www.cryptopolitan.com/fr/prevision-du-prix-des-vagues/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Ebay de la drogue", libre marché... Qui est Ross Ulbricht, ce condamné à perpétuité que Trump veut faire libérer s'il est réélu?](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/ebay-de-la-drogue-libre-marche-qui-est-ross-ulbricht-que-trump-veut-faire-liberer-s-il-est-reelu_AD-202405260341.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Donald Trump exprime un tron soutien aux sociétés de cryptographie](https://www.cryptopolitan.com/fr/trump-soutient-tron-les-societes-de-cryptographie/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trump prêt à libérer un roi de la drogue pour trouver des alliés](https://www.20minutes.fr/monde/election-presidentielle-americaine/4092921-20240526-election-presidentielle-americaine-2024-donald-trump-promet-libertariens-liberer-baron-drogue)
+append_entries: 5
+Finish: 2024-05-27 01:07:43.408401

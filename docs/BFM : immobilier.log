@@ -610,3 +610,12 @@ Existing_entries: 120
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-05-26 12:35:21.347538
+------------------------------------------------------
+Started: 2024-05-27 01:14:28.553753
+Existing_entries: 120
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Améliorer la maison de son conjoint n'entraîne pas toujours un remboursement en cas de séparation](https://www.bfmtv.com/immobilier/achat-vente/ameliorer-la-maison-de-son-conjoint-n-entraine-pas-toujours-un-remboursement-en-cas-de-separation_AD-202405260295.html)
+append_entries: 1
+Finish: 2024-05-27 01:14:34.482865

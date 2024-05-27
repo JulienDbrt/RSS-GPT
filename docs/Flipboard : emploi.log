@@ -1866,3 +1866,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Trajets des navetteurs, interruption de carrière, plafonds des entrepreneurs de travaux : voici ce qui va changer le premier juin](https://www.lalibre.be/belgique/societe/2024/05/26/trajets-des-navetteurs-interruption-de-carriere-plafonds-des-entrepreneurs-de-travaux-voici-ce-qui-va-changer-le-premier-juin-BRYOHK3IWRBAZFLYLIE3CTQVG4/)
 append_entries: 8
 Finish: 2024-05-26 12:28:35.003389
+------------------------------------------------------
+Started: 2024-05-27 01:08:57.702969
+Existing_entries: 626
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage : les seniors durement frappés par la réforme de Gabriel Attal](https://www.liberation.fr/economie/social/assurance-chomage-les-seniors-durement-frappes-par-la-reforme-de-gabriel-attal-20240526_G4XTHT633FBQNNILYKXXQHTPLI/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ces 6 tâches "invisibles" qui grignotent le temps et l'énergie des mamans à la maison](https://www.aufeminin.com/enfant/ces-6-taches-invisibles-qui-grignotent-le-temps-et-l-energie-des-mamans-a-la-maison-s4085887.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal annonce un nouveau durcissement des règles de l'Assurance chômage | TF1 INFO](https://www.tf1info.fr/politique/emploi-le-premier-ministre-gabriel-attal-annonce-un-nouveau-durcissement-des-regles-de-l-assurance-chomage-2300999.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Face au nouveau tour de vis sur l'assurance chômage, les syndicats contre-attaquent](https://www.latribune.fr/economie/france/face-au-nouveau-tour-de-vis-sur-l-assurance-chomage-les-syndicats-contre-attaquent-998422.html)
+append_entries: 4
+Finish: 2024-05-27 01:09:30.541401

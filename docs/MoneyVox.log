@@ -1502,3 +1502,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les assurances auto connectées, un bon moyen pour faire des économies ?](https://www.moneyvox.fr/actu/97832/les-assurances-auto-connectees-un-bon-moyen-pour-faire-des-economies)
 append_entries: 2
 Finish: 2024-05-26 12:37:56.853321
+------------------------------------------------------
+Started: 2024-05-27 01:16:00.462265
+Existing_entries: 438
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Renault sur le point de s'allier avec Santander dans le leasing automobile](https://www.moneyvox.fr/votre-argent/actualites/97938/renault-sur-le-point-de-s-allier-avec-santander-dans-le-leasing-automobile)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gaz : quelles offres permettent les plus belles économies ?](https://www.moneyvox.fr/energie/actualites/97918/gaz-quelles-offres-permettent-les-plus-belles-economies)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt 2024 : les étapes à suivre pour déclarer les loyers que vous avez touchés](https://www.moneyvox.fr/impot/actualites/97904/impot-2024-les-etapes-a-suivre-pour-declarer-les-loyers-que-vous-avez-touches)
+append_entries: 3
+Finish: 2024-05-27 01:16:17.355734

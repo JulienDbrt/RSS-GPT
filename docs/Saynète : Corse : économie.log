@@ -1495,3 +1495,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Evènement - Fête des Mères  ’](https://www.facebook.com/204309342152891/posts/467853939131762)
 append_entries: 1
 Finish: 2024-05-26 12:31:53.211890
+------------------------------------------------------
+Started: 2024-05-27 01:12:52.663207
+Existing_entries: 592
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [°Article Corse-Matin merci à ’ï Julie Orlandi](https://www.facebook.com/704747348330721/posts/908055417999912)
+append_entries: 1
+Finish: 2024-05-27 01:12:59.965017

@@ -2255,3 +2255,27 @@ Append: [Saint-Sylvestre-sur-Lot. La Tarterie de Julien : six ans de saveurs et 
 Append: [Réalmont. A la découverte du Chai aux pigeonniers](https://www.ladepeche.fr/2024/05/26/a-la-decouverte-du-chai-aux-pigeonniers-11974829.php)
 append_entries: 16
 Finish: 2024-05-26 12:41:07.727731
+------------------------------------------------------
+Started: 2024-05-27 01:17:48.893386
+Existing_entries: 911
+Fetching from https://www.ladepeche.fr/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bienvenue aux véhicules de collection à Rimont, première commune d’Ariège à détenir la dénomination « Village d’accueil des véhicules d’époque »](https://www.ladepeche.fr/2024/05/26/bienvenue-aux-vehicules-de-collection-a-rimont-premiere-commune-dariege-a-detenir-la-denomination-village-daccueil-des-vehicules-depoque-11975702.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [David Taupiac en soutien de la filière bio dans le cadre des débats du projet de loi d’Orientation agricole](https://www.ladepeche.fr/2024/05/26/david-taupiac-en-soutien-de-la-filiere-bio-dans-le-cadre-des-debats-du-projet-de-loi-dorientation-agricole-11975627.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Toulousain Jean-Christophe Lambert prend la tête des start-up aéronautiques et spatiales](https://www.ladepeche.fr/2024/05/26/le-toulousain-jean-christophe-lambert-prend-la-tete-des-start-up-aeronautiques-et-spatiales-11975607.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Favoriser l’insertion par l’activité économique": un an après sa mue, Garros Services garde le cap social](https://www.ladepeche.fr/2024/05/26/favoriser-linsertion-par-lactivite-economique-un-an-apres-sa-mue-garros-services-garde-le-cap-social-11971894.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [“Ni vu ni connu”, les artisans d’art d’Occitanie ont leur vitrine à Toulouse](https://www.ladepeche.fr/2024/05/26/ni-vu-ni-connu-les-artisans-dart-doccitanie-ont-leur-vitrine-a-toulouse-11915430.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cabine sens dessus dessous, masques pendant du plafond… 12 personnes blessées à cause de turbulences à bord d’un avion reliant Doha à Dublin](https://www.ladepeche.fr/2024/05/26/cabine-sens-dessus-dessous-masques-pendant-du-plafond-12-personnes-blessees-a-cause-de-turbulences-a-bord-dun-avion-reliant-doha-a-dublin-11975529.php)
+append_entries: 6
+Finish: 2024-05-27 01:18:24.800456

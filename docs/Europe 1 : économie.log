@@ -655,3 +655,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Assurance-vie : pour s'y retrouver, UFC-Que Choisir lance un comparateur en ligne](https://www.europe1.fr/economie/assurance-vie-pour-sy-retrouver-ufc-que-choisir-lance-un-comparateur-en-ligne-4249125)
 append_entries: 1
 Finish: 2024-05-26 12:36:21.622504
+------------------------------------------------------
+Started: 2024-05-27 01:15:04.671029
+Existing_entries: 117
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-05-27 01:15:04.864285

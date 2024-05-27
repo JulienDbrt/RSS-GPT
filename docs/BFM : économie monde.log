@@ -558,3 +558,12 @@ Existing_entries: 90
 Fetching from https://www.bfmtv.com/rss/economie/international/
 append_entries: 0
 Finish: 2024-05-26 12:33:22.322803
+------------------------------------------------------
+Started: 2024-05-27 01:13:21.624891
+Existing_entries: 90
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Cela sape la légitimité du système fiscal": la Norvège s'accroche à ses super-riches tentés par l'exil](https://www.bfmtv.com/economie/international/cela-sape-la-legitimite-du-systeme-fiscal-la-norvege-s-accroche-a-ses-super-riches-tentes-par-l-exil_AD-202405260265.html)
+append_entries: 1
+Finish: 2024-05-27 01:13:27.335850

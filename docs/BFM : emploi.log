@@ -450,3 +450,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Durée d'indemnisation, ouverture des droits... Ce que va changer la réforme de l'assurance-chômage](https://www.bfmtv.com/economie/emploi/duree-d-indemnisation-ouverture-des-droits-ce-que-va-changer-la-reforme-de-l-assurance-chomage_AD-202405260111.html)
 append_entries: 6
 Finish: 2024-05-26 12:34:09.440551
+------------------------------------------------------
+Started: 2024-05-27 01:13:35.941079
+Existing_entries: 54
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-05-27 01:13:36.155244

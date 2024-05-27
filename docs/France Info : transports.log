@@ -710,3 +710,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Grève à Orly : de nombreux vols annulés](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-a-orly-de-nombreux-vols-annules_6566516.html)
 append_entries: 2
 Finish: 2024-05-26 12:37:37.645703
+------------------------------------------------------
+Started: 2024-05-27 01:15:53.223757
+Existing_entries: 134
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Turbulences en avion : 12 personnes blessées lors d'un vol entre Doha et Dublin](https://www.francetvinfo.fr/economie/transports/turbulences-en-avion-douze-personnes-blessees-lors-d-un-vol-entre-doha-et-dublin_6566804.html)
+append_entries: 1
+Finish: 2024-05-27 01:15:58.897454

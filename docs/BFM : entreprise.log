@@ -1193,3 +1193,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Nouvelle-Calédonie: l'aéroport de Nouméa fermé aux vols commerciaux au moins jusqu'au dimanche 2 juin](https://www.bfmtv.com/economie/entreprises/transports/nouvelle-caledonie-l-aeroport-de-noumea-restera-ferme-aux-vols-commerciaux-au-moins-jusqu-au-dimanche-2-juin_AN-202405260140.html)
 append_entries: 2
 Finish: 2024-05-26 12:34:21.168263
+------------------------------------------------------
+Started: 2024-05-27 01:13:36.348506
+Existing_entries: 321
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Qatar Airways: 12 personnes blessées après des turbulences à bord d'un Boeing reliant Doha à Dublin](https://www.bfmtv.com/economie/entreprises/transports/qatar-airways-12-personnes-blessees-apres-des-turbulences-a-bord-d-un-boeing-reliant-doha-a-dublin_AV-202405260271.html)
+append_entries: 1
+Finish: 2024-05-27 01:13:42.132317

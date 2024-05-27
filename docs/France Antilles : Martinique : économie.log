@@ -740,3 +740,12 @@ Existing_entries: 164
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-26 12:36:22.383249
+------------------------------------------------------
+Started: 2024-05-27 01:15:04.943429
+Existing_entries: 164
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Attaque au couteau à Lyon: quatre blessés, l'agresseur arrêté](https://www.martinique.franceantilles.fr/actualite/economie/lyon-quatre-blesses-dans-une-attaque-au-couteau-lagresseur-arrete-988653.php)
+append_entries: 1
+Finish: 2024-05-27 01:15:11.262583

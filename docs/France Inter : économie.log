@@ -665,3 +665,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Assurance chômage : "C’est une réforme que la réalité appelle", affirme François Bayrou](https://www.radiofrance.fr/franceinter/podcasts/questions-politiques/questions-politiques-du-dimanche-26-mai-2024-7797624)
 append_entries: 1
 Finish: 2024-05-26 12:37:44.077879
+------------------------------------------------------
+Started: 2024-05-27 01:15:58.960907
+Existing_entries: 119
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-27 01:15:59.331422
