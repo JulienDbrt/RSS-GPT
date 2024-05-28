@@ -1516,3 +1516,56 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [PUBLICITÉ DES DÉCLARATIONS DE CRÉATIONS ET VACANCES D’EMPLOIS  RÉGION CORSE ET corse du sud  24 MAI 2024](https://www.cdg2a.com/publicite-des-declarations-de-creations-et-vacances-demplois-region-corse-et-corse-du-sud-24-mai-2024/)
 append_entries: 2
 Finish: 2024-05-27 12:36:49.434098
+------------------------------------------------------
+Started: 2024-05-28 01:13:26.719244
+Existing_entries: 595
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Promotion du tourisme corse : "C’est du grand n’importe quoi "](https://www.tourmag.com/Promotion-du-tourisme-corse-C-est-du-grand-n-importe-quoi--????_a122841.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [RETOUR SUR LA     "](https://www.facebook.com/704747348330721/posts/908699501268837)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Semaine des métiers du transport et de la logistique](https://www.francetravail.fr/region/corse/actu-evenements/semaine-des-metiers-du-transport.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Semaine des Métiers de la Propreté 2024](https://www.francetravail.fr/region/corse/actu-evenements/semaine--des-metiers-de-la-propr.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Appel à Projets "Accès aux Droits" Politique de la Ville](https://cress.corsica/appel-a-projets-acces-aux-droits-politique-de-la-ville/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AAP Régional 2024 Service Civique](https://cress.corsica/aap-regional-2024-service-civique/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réunion PIT VAE Aiacciu 30 mai](https://www.facebook.com/553326290272859/posts/800354008903418)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Institution    Ce matin, l’Assemblée Générale Ordinaire de la CCI de Corse](https://www.facebook.com/169059715787373/posts/482546381105370)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Journées Nationales de l’Agriculture #JNAgri 2024](https://www.facebook.com/528763972708049/posts/771005735150537)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [#EVENEMENT       Le Fablab de l’Afpa Corsica était présent à la](https://www.facebook.com/765411788918626/posts/984526507007152)
+Append: [VIVATECH est terminé](https://www.facebook.com/704747348330721/posts/908549331283854)
+Append: [Réunion PIT VAE Bastia 27 mai](https://www.facebook.com/553326290272859/posts/800220345583451)
+Append: [Valérie Boned :  Nous regrettons le manque de dialogue avec Air Corsica](https://www.lechotouristique.com/article/valerie-boned-nous-regrettons-le-manque-de-dialogue-avec-air-corsica)
+Append: [ÉCHANGES AVEC LES ENTREPRISES](https://www.facebook.com/704747348330721/posts/908432161295571)
+Append: [Vous avez des enfants et vous cherchez un emploi](https://www.facebook.com/611684761153502/posts/756392823349361)
+Append: [Vous avez des enfants et vous cherchez un emploi](https://www.facebook.com/703441545138324/posts/861897732626037)
+Append: [Vous avez des enfants et vous cherchez un emploi](https://www.facebook.com/517319926979917/posts/1005633698148535)
+Append: [Vous avez des enfants et vous cherchez un emploi](https://www.facebook.com/528763972708049/posts/770884885162622)
+Append: [Le lauréat de la Fondation du Crédit Coopératif Outre mer](http://blogs.alternatives-economiques.fr/abherve/2024/05/27/le-laureat-de-la-fondation-du-credit-cooperatif-outre-mer)
+Append: [Les lauréats de la Fondation du Crédit Coopératif Outre mer](http://blogs.alternatives-economiques.fr/abherve/2024/05/27/les-laureats-de-la-fondation-du-credit-cooperatif-outre-mer)
+Append: [Programme pour les ateliers thématiques et permanences à la M3 E   de la](https://www.facebook.com/462507925917911/posts/859094919592541)
+Append: [PROGRAMME DE LA SEMAINE  Le réseau Avvià , animé par la Cumunità](https://www.facebook.com/469640381992713/posts/760570059566409)
+Append: [#VoleVersTonAvenir - Air Corsica recrute en #alternance](https://www.facebook.com/528763972708049/posts/770824575168653)
+Append: [2 OFFRES D’EMPLOI pour l’ ONF de Corse  ONF di Corsica :](https://www.facebook.com/528763972708049/posts/770824305168680)
+Append: [Bonà Savoir](https://www.facebook.com/204309342152891/posts/468443389072817)
+Append: [Dossier : Les plus belles randonnées de Corse](https://www.routard.com/contenu-dossier/cid141083-les-plus-belles-randonnees-de-corse.html)
+Append: [Tourisme . Loire, Corse... Les meilleures destinations à découvrir en van](https://www.leprogres.fr/magazine-tourisme-et-patrimoine/2024/05/26/loire-corse-les-meilleures-destinations-a-decouvrir-en-van)
+append_entries: 27
+Finish: 2024-05-28 01:14:25.797693

@@ -2256,3 +2256,46 @@ Append: [Analyste crypto : les memecoins Solana vont à nouveau exploser](https:
 Append: [Pourquoi le Bitcoin à 69 000 $ n’est-il pas encore hors de danger ?](https://www.nouvelles-du-monde.com/pourquoi-le-bitcoin-a-69-000-nest-il-pas-encore-hors-de-danger/)
 append_entries: 16
 Finish: 2024-05-27 12:29:58.278672
+------------------------------------------------------
+Started: 2024-05-28 01:06:16.128880
+Existing_entries: 917
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trump promet de déloger les bureaucrates anti-cryptos une fois élu](https://be-crypto.lesoir.be/fr/marches/trump-promet-de-deloger-les-bureaucrates-anti-cryptos-une-fois-elu)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Que faudrait-il pour rallier les utilisateurs aux CBDC pour une utilisation quotidienne ?](https://www.nouvelles-du-monde.com/que-faudrait-il-pour-rallier-les-utilisateurs-aux-cbdc-pour-une-utilisation-quotidienne/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Bourse de Toronto termine en hausse, aidée par l’énergie et les industries](https://www.lapresse.ca/affaires/marches/2024-05-27/la-bourse-de-toronto-termine-en-hausse-aidee-par-l-energie-et-les-industries.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le projet CBDC, monnaie numérique des banques centrales et la solution du divergent](https://www.mondialisation.ca/le-projet-cbdc-monnaie-numerique-des-banques-centrales-et-la-solution-du-divergent/5689352?doing_wp_cron=1716840680.4343729019165039062500)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le dollar numérique déclaré hors-la-loi 14h50](https://www.lesaffaires.com/dossier/les-cles-de-la-crypto/le-dollar-numerique-declare-hors-la-loi-/650105)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mieux comprendre le Bitcoin : Monnaie numérique et révolution technologique](https://lanouvelletribune.info/2024/05/mieux-comprendre-le-bitcoin-monnaie-numerique-et-revolution-technologique/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les marchés européens finissent en hausse à l'issue d'une séance calme](https://www.allnews.ch/content/march%C3%A9s/les-march%C3%A9s-europ%C3%A9ens-finissent-en-hausse-%C3%A0-lissue-dune-s%C3%A9ance-calme)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Découvrez les memecoins à surveiller après le halving de 2024 !](https://www.fredzone.org/memecoins-surveillerhalving-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les Memecoins renouvellent leurs sommets alors que Bitcoin recherche 70 000 $ Par Investing.com](https://www.nouvelles-du-monde.com/les-memecoins-renouvellent-leurs-sommets-alors-que-bitcoin-recherche-70-000-par-investing-com/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Bourse de Toronto est en hausse, aidée par les télécommunications](https://www.lapresse.ca/affaires/marches/2024-05-27/la-bourse-de-toronto-est-en-hausse-aidee-par-les-telecommunications.php)
+Append: [Clôture Paris : le CAC40 progresse dans le calme](https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac40-progresse-dans-le-calme-929661.html)
+Append: [Le prix Ethereum se rapproche de 4 000 $ après l'approbation de l'ETF – le rallye se poursuivra-t-il ? 27 mai 2024](https://www.cryptopolitan.com/fr/le-prix-ethereum-se-rapproche-de-4k-apres-l-39-approbation-de-l-39-etf-le-rallye-se-poursuivra-t-il-/)
+Append: [BFM Crypto, le Club : ETF Ethereum Spot, à quoi s'attendre ? – 27/05](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-etf-ethereum-spot-a-quoi-s-attendre-27-05_EN-202405270546.html)
+Append: [Data tokenization : tout ce qu’il faut savoir](https://www.lebigdata.fr/data-tokenization)
+Append: [Ebay de la drogue, dark web… Donald Trump promet de libérer le grand nom du dark web Ross Ulbricht pour séduire le parti libertarien](https://www.ladepeche.fr/2024/05/27/ebay-de-la-drogue-dark-web-donald-trump-promet-de-liberer-le-grand-nom-du-dark-web-ross-ulbricht-pour-seduire-le-parti-libertarien-11976955.php)
+Append: [Trump promet de commuer la peine à perpétuité de Ross Ulbricht, fondateur du marché en ligne « Silk Road » qui s'appuyait sur Tor et Bitcoin pour permettre le commerce apparemment anonyme de biens et services](https://droit.developpez.com/actu/358362/Trump-promet-de-commuer-la-peine-a-perpetuite-de-Ross-Ulbricht-fondateur-du-marche-en-ligne-Silk-Road-qui-s-appuyait-sur-Tor-et-Bitcoin-pour-permettre-le-commerce-apparemment-anonyme-de-biens-et-services/)
+Append: [Bourse italienne, commentaire de la séance du 27 mai 2024](https://www.nouvelles-du-monde.com/bourse-italienne-commentaire-de-la-seance-du-27-mai-2024/)
+append_entries: 17
+Finish: 2024-05-28 01:07:15.068397

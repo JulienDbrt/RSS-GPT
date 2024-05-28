@@ -1704,3 +1704,40 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Bourgheim. Un salon de coiffure rouvre, en provenance d’Obernai](https://www.dna.fr/economie/2024/05/27/un-salon-de-coiffure-rouvre-en-provenance-d-obernai)
 append_entries: 3
 Finish: 2024-05-27 12:40:25.690610
+------------------------------------------------------
+Started: 2024-05-28 01:18:49.054961
+Existing_entries: 510
+Fetching from https://www.dna.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ebersheim. Le village pionnier de l’engagement “gaz vert”](https://www.dna.fr/economie/2024/05/27/le-village-pionnier-de-l-engagement-gaz-vert)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Viticulture. Crémant d’Alsace, le vin en poupe](https://www.dna.fr/economie/2024/05/27/cremant-d-alsace-le-vin-en-poupe)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Viticulture. Un projet européen de 5,6 millions d’euros pour des vignes plus résistantes](https://www.dna.fr/economie/2024/05/27/un-projet-europeen-de-5-6-millions-d-euros-pour-des-vignes-plus-resistantes)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gertwiller. Steve Rosfelder, la note qui change la vie](https://www.dna.fr/economie/2024/05/27/steve-rosfelder-la-note-qui-change-la-vie)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Centre-Alsace. Remise en navigation du canal du Rhône au Rhin : un avis favorable après l’enquête publique](https://www.dna.fr/economie/2024/05/27/remise-en-navigation-du-canal-du-rhone-au-rhin-un-avis-favorable-apres-l-enquete-publique)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Steinseltz. Des fraises de beau calibre à cueillir librement chez les Hege](https://www.dna.fr/economie/2024/05/27/des-fraises-de-beau-calibre-a-cueillir-librement-chez-les-hege)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La question conso. Quel recours si l’entreprise n’a pas désigné de médiateur de consommation ?](https://www.dna.fr/economie/2024/05/27/quel-recours-si-l-entreprise-n-a-pas-designe-de-mediateur-de-consommation)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Herrlisheim-près-Colmar. Une journée aux Jardins En-Chantants](https://www.dna.fr/economie/2024/05/27/une-journee-aux-jardins-en-chantants)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Siltzheim. Un deuxième parking pour le complexe Charles-Krayanoff](https://www.dna.fr/economie/2024/05/28/un-deuxieme-parking-pour-le-complexe-charles-krayanoff)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Seine-Saint-Denis. Une entreprise qui contournait l'embargo contre la Russie sanctionnée](https://www.dna.fr/faits-divers-justice/2024/05/27/une-entreprise-qui-contournait-l-embargo-contre-la-russie-sanctionnee)
+Append: [Oberhergheim. Dix ans de travaux publics pour la société Tradec](https://www.dna.fr/economie/2024/05/27/dix-ans-de-travaux-publics-pour-la-societe-tradec)
+append_entries: 11
+Finish: 2024-05-28 01:19:48.450323

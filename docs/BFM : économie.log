@@ -2736,3 +2736,59 @@ Append: [En portefeuille : La croissance s'améliore en zone euro - 27/05](https
 Append: [Doze d'économie : Rebelote sur l'assurance chômage - 27/05](https://www.bfmtv.com/economie/replay-emissions/la-polemique/doze-d-economie-rebelote-sur-l-assurance-chomage-27-05_VN-202405270332.html)
 append_entries: 30
 Finish: 2024-05-27 12:38:06.600352
+------------------------------------------------------
+Started: 2024-05-28 01:14:45.831652
+Existing_entries: 1030
+Fetching from https://www.bfmtv.com/rss/economie/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bernard Froment (ipsum tek) : Onyro, le robot pour servir le café - 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/bernard-froment-ipsum-tek-onyro-le-robot-pour-servir-le-cafe-27-05_VN-202405270924.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bernard Froment, président d'ipsum tek – 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/bernard-froment-president-d-ipsum-tek-27-05_EN-202405270920.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fanny Bouton, responsable du programme startup d'OVHcloud et Jean-Philippe Marie de Chastenay, président et co-fondateur de Sounduct – 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/fanny-bouton-responsable-du-programme-startup-d-ov-hcloud-et-jean-philippe-marie-de-chastenay-president-et-co-fondateur-de-sounduct-27-05_EN-202405270918.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fanny Bouton (OVHcloud) et Jean-Philippe Marie de Chastenay (Sounduct) : Sounduct veut restaurer l'audition des sourds - 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/fanny-bouton-ov-hcloud-et-jean-philippe-marie-de-chastenay-sounduct-sounduct-veut-restaurer-l-audition-des-sourds-27-05_VN-202405270911.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Julien Nicolas (Groupe SNCF) : VivaTech, la SNCF dévoile ses innovations - 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/julien-nicolas-groupe-sncf-viva-tech-la-sncf-devoile-ses-innovations-27-05_VN-202405270906.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tech & Co, la quotidienne - Lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/tech-co-la-quotidienne-lundi-27-mai_VN-202405270915.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Julien Nicolas, directeur numérique du Groupe SNCF – 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/julien-nicolas-directeur-numerique-du-groupe-sncf-27-05_EN-202405270903.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'intégrale de Tech & Co, la quotidienne, du lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-de-tech-co-la-quotidienne-du-lundi-27-mai_EN-202405270893.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Débrief de la tech - lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/le-debrief-de-la-tech-lundi-27-mai_VN-202405270881.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'intégrale du Débrief de la tech du lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-du-debrief-de-la-tech-du-lundi-27-mai_EN-202405270876.html)
+Append: [Taxes, marges, charges... Comment les têtes de listes aux européennes veulent faire baisser la facture des Français](https://www.bfmtv.com/economie/economie-social/france/taxes-marges-charges-les-propositions-des-tetes-de-listes-aux-europeennes-pour-le-pouvoir-d-achat-des-francais_AV-202405270867.html)
+Append: [VivaTech, le croisement de la technologie - 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/viva-tech-le-croisement-de-la-technologie-27-05_VN-202405270868.html)
+Append: [VivaTech, le croisement de la technologie – 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/viva-tech-le-croisement-de-la-technologie-27-05_EN-202405270864.html)
+Append: [Elon Musk de retour à VivaTech - 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/elon-musk-de-retour-a-viva-tech-27-05_VN-202405270853.html)
+Append: [Elon Musk de retour à VivaTech – 27/05](https://www.bfmtv.com/economie/replay-emissions/tech-and-co/elon-musk-de-retour-a-viva-tech-27-05_EN-202405270848.html)
+Append: [L'intégrale du Good Evening Business du lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/l-integrale-du-good-evening-business-du-lundi-27-mai_EN-202405270842.html)
+Append: [Good Evening Business : 19h/20h - lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/good-evening-business-19h-20h-lundi-27-mai_EN-202405270837.html)
+Append: [Good Evening Business : Partie 2  - 27/05](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/good-evening-business-partie-2-27-05_VN-202405270839.html)
+Append: [Les experts du soir - lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/les-experts-du-soir/les-experts-du-soir-lundi-27-mai_VN-202405270835.html)
+Append: [L'Europe sociale a-t-elle un avenir ? - 27/05](https://www.bfmtv.com/economie/replay-emissions/les-experts-du-soir/l-europe-sociale-a-t-elle-un-avenir-27-05_VN-202405270828.html)
+Append: [Assurance-chômage : les règles se durcissent - 27/05](https://www.bfmtv.com/economie/replay-emissions/les-experts-du-soir/assurance-chomage-les-regles-se-durcissent-27-05_VN-202405270796.html)
+Append: [Good Evening Business : 18h/19h - Lundi 27 mai](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/good-evening-business-18h-19h-lundi-27-mai_EN-202405270785.html)
+Append: [Good Evening Business : Partie 1 – 27/05](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/good-evening-business-partie-1-27-05_VN-202405270793.html)
+Append: [Emmanuel Macron appelle à "une préférence commerciale" européenne](https://www.bfmtv.com/economie/economie-social/union-europeenne/emmanuel-macron-appelle-a-une-preference-commerciale-europeenne_AD-202405270771.html)
+Append: [Club Med: Giscard seul face à Fosun](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/club-med-giscard-seul-face-a-fosun_VN-202405270765.html)
+Append: [Assurance-chômage : la réforme dévoilée - 27/05](https://www.bfmtv.com/economie/replay-emissions/les-experts-du-soir/assurance-chomage-la-reforme-devoilee-27-05_VN-202405270767.html)
+Append: [Frédéric Jousset (Art Explora) : F. Jousset rachète Smac, leader de l’étanchéité - 27/05](https://www.bfmtv.com/economie/replay-emissions/good-evening-business/frederic-jousset-art-explora-f-jousset-rachete-smac-leader-de-l-etancheite-27-05_VN-202405270759.html)
+Append: [La compagnie aérienne Lufthansa "teste" le retour du café gratuit en classe éco](https://www.bfmtv.com/economie/entreprises/transports/la-compagnie-aerienne-lufthansa-teste-le-retour-du-cafe-gratuit-en-classe-eco_AD-202405270752.html)
+Append: ["Je ne vois pas l'intérêt": Jean-Marc Jancovici étrille l'énergie hydrogène pour les transports](https://www.bfmtv.com/economie/entreprises/energie/je-ne-vois-pas-l-interet-jean-marc-jancovici-etrille-l-energie-hydrogene-pour-les-transports_AV-202405270750.html)
+Append: ["Une piste qui continue de faire l’objet de travaux": le ministère des Armées ne confirme pas l'arrivée prochaine d'instructeurs militaires français à Kiev](https://www.bfmtv.com/economie/entreprises/defense/l-ukraine-annonce-l-arrivee-prochaine-d-instructeurs-militaires-francais-a-kiev_AD-202405270704.html)
+append_entries: 30
+Finish: 2024-05-28 01:15:42.701487

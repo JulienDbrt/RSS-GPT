@@ -5,11 +5,251 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Sink – Un raccourcisseur d’URL simple et sécurisé avec des statistiques</title>
+<link>https://korben.info/sink-raccourcisseur-url-simple-rapide-securise-analytiques.html</link>
+<guid>https://korben.info/sink-raccourcisseur-url-simple-rapide-securise-analytiques.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="308" src="https://korben.info/app/uploads/2024/05/SCR-20240527-pext.webp" width="1000" /></p>
+<p>Vous cherchez une méthode simple et efficace pour raccourcir vos URLs tout en gardant un œil sur les statistiques ? <strong>Sink</strong> peut vous aider ! Ce raccourcisseur d&rsquo;URL nouvelle génération combine simplicité d&rsquo;utilisation, rapidité et sécurité, et il est entièrement déployable sur <strong>Cloudflare</strong>, donc pas besoin de gérer de serveurs !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-615158803" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec cet outil, les URLs longues et illisibles laissent la place à des liens propres et mémorisables, que vous pouvez <strong>personnaliser</strong> avec vos slugs comme bon vous semble. Et si l&rsquo;inspiration vous manque, pas de souci puisque Sink dispose d&rsquo;un assistant IA intégré pour vous suggérer des slugs intelligents basés sur le contenu de votre page.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161274" height="750" src="https://korben.info/app/uploads/2024/05/SCR-20240527-pemk.webp" width="844" /></figure></div>
+
+
+<p>Maintenant parlons analytics&#8230; Avec Sink, vous pouvez suivre les <strong>statistiques</strong> de vos liens comme un pro : Combien de clics, d&rsquo;où viennent-ils, à quelle heure sont-ils arrivés&#8230;etc, vous aurez toutes les stats pour frimer (ou optimiser vos campagnes, au choix).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161276" height="750" src="https://korben.info/app/uploads/2024/05/SCR-20240527-pepe.webp" width="971" /></figure></div>
+
+
+<p>Sink utilise les dernières technologies à la mode : </p>
+
+
+
+<ul>
+<li><strong>Nuxt</strong> pour le framework </li>
+
+
+
+<li><strong>Cloudflare Workers KV</strong> pour la base de données</li>
+
+
+
+<li><strong>Cloudflare Workers Analytics Engine</strong> pour les analytiques </li>
+
+
+
+<li><strong>Shadcn-vue</strong> pour les composants d&rsquo;interface</li>
+
+
+
+<li><strong>Tailwind CSS</strong> pour le style</li>
+
+
+
+<li>Et bien sûr, le tout est déployé sur <strong>Cloudflare</strong> !</li>
+</ul>
+
+
+
+<p>Avec un combo pareil, vous êtes parés à affronter le trafic le plus intense et vos liens tiendront la route !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-806934380" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>En plus c&rsquo;est open source, alors pourquoi hésiter ?</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161275" height="750" src="https://korben.info/app/uploads/2024/05/SCR-20240527-pens.webp" width="856" /></figure></div>
+
+
+<p>Pour déployer cet outil, c&rsquo;est simple : </p>
+
+
+
+<p><strong>Étape 1 &#8211; Forkez le Dépôt</strong><br />1. Rendez-vous sur la page GitHub de <a href="https://github.com/ccbikai/Sink" rel="noopener" target="_blank">Sink</a>.<br />2. Cliquez sur le bouton « Fork » en haut à droite pour forker le dépôt dans votre propre compte GitHub.</p>
+
+
+
+<p><strong>Étape 2 &#8211; Créez un Projet Cloudflare Pages</strong><br />1. Accédez à <a href="https://developers.cloudflare.com/pages/" rel="noopener" target="_blank">Cloudflare Pages</a>.<br />2. Cliquez sur « Create a project ».<br />3. Sélectionnez le dépôt « Sink » forké précédemment.<br />4. Choisissez le preset « Nuxt.js ».</p>
+
+
+
+<p><strong>Étape 3 &#8211; Configurez les Variables d&rsquo;Environnement</strong><br />Ajoutez les variables environnementales suivantes :<br />   &#8211; <code>NUXT_SITE_TOKEN</code> : configurez un token de site supérieur à 8 caractères.<br />   &#8211; <code>NUXT_CF_ACCOUNT_ID</code> : trouvez votre Cloudflare Account ID <a href="https://developers.cloudflare.com/fundamentals/setup/find-account-and-zone-ids/" rel="noopener" target="_blank">ici</a>.<br />   &#8211; <code>NUXT_CF_API_TOKEN</code> : générez un token d&rsquo;API Cloudflare avec les permissions nécessaires en suivant <a href="https://developers.cloudflare.com/fundamentals/api/get-started/create-token/" rel="noopener" target="_blank">ce guide</a>.</p>
+
+
+
+<p><strong>Étape 4 &#8211; Déploiement Initial</strong> <br />Cliquez sur « Save and deploy ». Si le déploiement échoue, annulez-le et passez à l&rsquo;étape suivante.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1367417255" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><strong>Étape 5 &#8211; Configurez les Fonctionnalités</strong> </p>
+
+
+
+<p>1. Allez dans <code>Settings -&gt; Functions</code> dans Cloudflare Pages. <br />2. <strong>KV namespace bindings</strong> : Associez <code>KV</code> à une namespace KV existante ou nouvelle. <br />3. <strong>Workers AI Bindings</strong> (optionnel) : Associez <code>AI</code> au catalogue Workers AI. <br />4. <strong>Analytics Engine Binding</strong> : Associez <code>ANALYTICS</code> au dataset <code>sink</code> et activez le <a href="https://developers.cloudflare.com/analytics/analytics-engine/get-started/" rel="noopener" target="_blank">Cloudflare Analytics Engine Beta</a> pour votre compte.</p>
+
+
+
+<p><strong>Étape 6 &#8211; Redéployez le Projet</strong> : Après avoir configuré les bindings, redéployez le projet depuis Cloudflare Pages.</p>
+
+
+
+<p><strong>Étape 7 : </strong>y&rsquo;a plus qu&rsquo;à accédez à votre tableau de bord déployé, à raccourcir un lien en utilisant l&rsquo;interface, à le personnaliser avec un slug, à le diffuser puis à consulter l&rsquo;analytique de vos liens pour suivre les clics et l&rsquo;engagement.</p>
+
+
+
+<p><a href="https://sink.cool/" rel="noopener" target="_blank">Pour tester Sink</a> c&rsquo;est par ici !</p>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 15:20:02 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 15:20:02 +0000</pubDate>
+</item>
+<item>
+<title>Quand les voitures connectées nous espionnent…</title>
+<link>https://korben.info/voitures-connectees-espionnage-menace-vie-privee.html</link>
+<guid>https://korben.info/voitures-connectees-espionnage-menace-vie-privee.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_K2000_car_with_all_spying_stuff_inside_04d575c9-2735-4afc-8bc4-16cd39092a91.webp" width="1456" /></p>
+<p>Les voitures connectées sont devenues de véritables <strong>cauchemars pour la vie privée</strong>. On nous vend ça comme le summum de la technologie, avec des fonctionnalités dignes de K2000, mais en réalité, c&rsquo;est plutôt Orwell qui se cramponne dans les virages. Parce qu&rsquo;au lieu de voitures intelligentes, on se retrouve surtout avec des mouchards à quatre roues bardés de capteurs qui enregistrent le moindre de nos faits et gestes.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-396382627" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous pensiez que les traqueurs sur le web étaient intrusifs ? Attendez de voir ce que les constructeurs auto ont mijoté pour nous espionner à notre insu. Caméras, micros, GPS, données de conduite, les voitures modernes collectent un max d&rsquo;infos sur nous et nos passagers, et attention, ce n&rsquo;est pas juste pour optimiser les performances ou assurer notre sécurité hein. Non, l&rsquo;objectif c&rsquo;est de <strong>monétiser toutes ces données personnelles</strong> en les refilant à des tiers, souvent sans notre consentement.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161267" height="574" src="https://korben.info/app/uploads/2024/05/manu23_press_drawing_to_illustrate_a_car_full_of_spy_tech_camer_00ceedc4-1c88-4005-8a7c-452b46a94729-1024x574.webp" width="1024" /></figure></div>
+
+
+<p>Chez Mozilla, ils ont passé en revue les <a href="https://foundation.mozilla.org/fr/privacynotincluded/categories/cars/" rel="noopener" target="_blank">25 plus grandes marques automobiles</a> du marché. Résultat : toutes sans exception ont été étiquetées « <em>Confidentialité non incluse</em> ». Comme quoi, en matière de respect de la vie privée, les constructeurs de voitures trustent la pole position au palmarès de la lose. Ils s&rsquo;en donnent à cœur joie pour nous profiler et revendre nos données personnelles à tout va.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161265" height="712" src="https://korben.info/app/uploads/2024/05/SCR-20240527-mnx.webp" width="908" /></figure></div>
+
+
+<p>Entre le partage douteux de nos infos avec la police et les gouvernements, la revente de nos données de géolocalisation aux courtiers et le manque flagrant de protection de toutes ces données, les voitures connectées nous la jouent vraiment à la Mad Max côté vie privée. Concrètement, ça veut dire que n&rsquo;importe qui ou presque peut savoir où vous êtes allés, à quelle vitesse, avec qui, ce que vous avez fait dans l&rsquo;habitacle…etc </p>
+
+
+
+<p>Bref, votre intimité est mise à nue comme un chassis sur un pont.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-15146982" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>C&rsquo;est encore pire quand on découvre que certains constructeurs comme <strong>Nissan ou Hyundai</strong> se permettent carrément de collecter <a href="https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/" rel="noopener" target="_blank">des données sur votre</a> « activité sexuelle », votre « niveau d&rsquo;intelligence » ou vos « caractéristiques génétiques » ! Et refourguer ces infos ultrasensibles à des « partenaires marketing » pour du ciblage publicitaire. Non mais allô quoi ? Depuis quand ma voiture a besoin de connaître mes exploits sur la banquette arrière et la qualité de mes chromosomes ?</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161268" height="574" src="https://korben.info/app/uploads/2024/05/manu23_press_drawing_to_illustrate_a_woman_and_a_man_kissing_ea_aaa62131-a5e8-4ac4-885e-8bbf657ec962-1024x574.webp" width="1024" /></figure></div>
+
+
+<p>Et le pompon, c&rsquo;est que les applis de ces voitures exigent qu&rsquo;on « éduque et informe » tous les passagers sur leur politique de confidentialité à rallonge. Genre on va se taper un PowerPoint sur le RGPD entre deux feux rouges. Et puis quoi encore ? Un quiz Questions Pour Un Champion de 150 questions avant de démarrer le moteur ?</p>
+
+
+
+<p>Le pire, c&rsquo;est qu&rsquo;en tant que conducteurs, on n&rsquo;a quasi aucun contrôle là-dessus. Soit on accepte de se faire traquer comme un mouchard à chaque km, soit on se passe des fonctionnalités connectées qui nous ont fait acheter la tuture à la base. C&rsquo;est comme si on vous obligeait à installer un spyware sur votre PC pour pouvoir utiliser Word. Vive le chantage à la vie privée !</p>
+
+
+
+<p>Parce que oui, <strong>refuser le partage de données avec le constructeur peut littéralement transformer votre Tesla en brique</strong>. Ils le disent noir sur blanc dans leurs CGU absconses : pas de données, pas de mises à jour, pas d&rsquo;assistance, pas de garantie. Bref, tu payes une fortune pour une bagnole technologique, mais si tu refuses qu&rsquo;elle t&rsquo;espionne, c&rsquo;est à tes risques et périls mon coco. C&rsquo;est tout un concept.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161266" height="686" src="https://korben.info/app/uploads/2024/05/SCR-20240527-my8.webp" width="893" /></figure></div>
+
+
+<p>Alors certes, certaines marques comme Toyota font des efforts niveau transparence. En effet, <a href="https://foundation.mozilla.org/fr/privacynotincluded/toyota/" rel="noopener" target="_blank">Toyota</a> offre aux utilisateurs américains la possibilité de supprimer leurs données personnelles, même en dehors des lois de confidentialité de Californie. Certes, les constructeurs européens comme <a href="https://foundation.mozilla.org/fr/privacynotincluded/renault/" rel="noopener" target="_blank">Renault</a> et <a href="https://foundation.mozilla.org/fr/privacynotincluded/dacia/" rel="noopener" target="_blank">Dacia</a> respectent mieux la vie privée pour se conformer au RGPD. Mais globalement, protéger nos données personnelles dans nos véhicules reste l&rsquo;exception, pas la règle.</p>
+
+
+
+<p>En avril 2023, <a href="https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/" rel="noopener" target="_blank">Reuters</a> a rapporté que des employés de Tesla partageaient des images sensibles enregistrées par les voitures des clients. En mai 2023, un lanceur d&rsquo;alerte Tesla a partagé plus de 100 gigaoctets de fichiers confidentiels, révélant des problèmes avec <a href="https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints" rel="noopener" target="_blank">le système Autopilot</a>. Des propriétaires de Tesla ont aussi intenté <a href="https://news.bloomberglaw.com/privacy-and-data-security/tesla-hit-with-biometric-privacy-suit-over-alleged-face-scans" rel="noopener" target="_blank">une action en justice collective en mars 2022</a>, alléguant que Tesla scanne les visages des conducteurs sans leur consentement.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-805019332" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Au final, on est loin de l&rsquo;image sexy et futuriste qu&rsquo;on essaie de nous vendre. En réalité, les voitures connectées ressemblent plus au <strong>cauchemar de 1984 qu</strong>&lsquo;aux voitures dans Demolition Man. Les constructeurs nous prennent pour des idiots en mode « circulez y&rsquo;a rien à voir » pendant qu&rsquo;ils s&rsquo;en mettent plein les poches avec le magot de nos données.</p>
+
+
+
+<p>Il est urgent que les régulateurs sifflent la fin de la récré et imposent des garde-fous, sinon toute notre vie privée va finir par disparaître dans le rétroviseur des voitures connectées. En attendant, je vous conseille d&rsquo;opter pour un bon vieux modèle sans fioritures, quitte à avoir l&rsquo;air d&rsquo;un has been au volant d&rsquo;une Citroën AX Diesel. Au moins, elle vous emmènera d&rsquo;un point A à un point B sans vendre la mèche sur vos déplacements à une armada de profiteurs de données.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161270" height="574" src="https://korben.info/app/uploads/2024/05/manu23_press_drawing_of_a_driver_reading_a_amazing_long_checkli_e3e5b433-ce4d-4e2b-88fd-b38478839b41-1024x574.webp" width="1024" /></figure></div>
+
+
+<p>Mais bon, si vous tenez absolument à votre engin connecté, n&rsquo;oubliez pas d&rsquo;étudier ses CGU par cœur et de briefer vos passagers avant chaque trajet. Avec <strong>un peu de chance</strong>, vous arriverez à destination avant qu&rsquo;ils ne s&rsquo;endorment. </p>
+
+
+
+<p><strong>Avec un peu de chance</strong>&#8230;</p>
+
+
+
+<p><a href="https://foundation.mozilla.org/fr/privacynotincluded/categories/cars/" rel="noopener" target="_blank">Source</a> (Merci à G1doot pour le partage)</p>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 14:44:10 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 14:44:10 +0000</pubDate>
+</item>
+<item>
+<title>Gus Fring défie les plus grands héros de la pop culture</title>
+<link>https://korben.info/gus-fring-defie-les-plus-grands-mechants-pop-culture.html</link>
+<guid>https://korben.info/gus-fring-defie-les-plus-grands-mechants-pop-culture.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="675" src="https://korben.info/app/uploads/2024/05/294725-gus-fring.webp" width="1200" /></p>
+<p>Préparez-vous à une rencontre explosive entre les plus grands personnages de la culture pop : Gus Fring, le légendaire baron de la drogue de <em>Breaking Bad</em>, et une armada d&rsquo;adversaires redoutables venus des quatre coins de l&rsquo;imaginaire collectif : Terminator, Daenerys Targaryen et son dragon, et bien d&rsquo;autres icônes se sont donné rendez-vous pour un affrontement sans merci contre l&rsquo;imperturbable et méthodique <strong>Gus Fring</strong>, magistralement interprété par <strong>Giancarlo Esposito</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1626155370" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Dans cette vidéo délicieusement décalée, <strong>Gus Fring vs The World</strong>, on assiste à un déferlement de moyens pour tenter d&rsquo;éliminer Gus Fring. Mais c&rsquo;était sans compter sur le sang-froid légendaire et les ressources insoupçonnées de celui qui a bâti un empire de la méthamphétamine à Albuquerque. Tel un T-1000 en costume trois pièces, Gus encaisse les assauts et retourne la situation à son avantage avec une économie de mouvements frisant la poésie.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Au-delà du grand spectacle VFX, cette vidéo est un bel hommage au charisme magnétique de <strong>Giancarlo Esposito</strong> et à la profondeur qu&rsquo;il a su insuffler à son personnage culte. Gus Fring est entré dans la légende des antihéros comme un stratège hors pair, un adversaire aussi brillant que redoutable.</p>
+
+
+
+<p>En quelques minutes jubilatoires, ce court-métrage réussit l&rsquo;exploit de condenser tout ce qui fait la singularité de Gus Fring et l&rsquo;aura quasi mystique du personnage. Bref, si <em>Breaking Bad</em> vous manque autant qu&rsquo;à moi, et que vous rêvez de le revoir, cette vidéo est pour vous. </p>
+
+
+
+<p>Et si vous n&rsquo;avez pas encore eu la chance de découvrir la série, bah déconnez pas, ce serait con de mourir sans l&rsquo;avoir vu ! Allez hop hop hop !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-866434987" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://www.geeksaresexy.net/2024/05/27/gus-fring-vs-the-world-video/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 13:32:42 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 13:32:42 +0000</pubDate>
+</item>
+
+<item>
 <title>Tor, proxys, VPN … que choisir ?</title>
 <link>https://korben.info/tor-proxys-vpn-que-choisir.html</link>
 <guid>https://korben.info/tor-proxys-vpn-que-choisir.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="Surfshark One 2023" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="501" src="https://korben.info/app/uploads/2023/09/surfshark-one-2023.png" width="1024" /></p>
 <p class="has-text-align-center">&#8212; Article en partenariat avec <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Surfshark VPN</a> &#8212;</p>
 
@@ -91,14 +331,12 @@
 <h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768">Testez Surfshark VPN</a></h2>
 ]]></content:encoded>
 <pubDate>Mon, 27 May 2024 10:18:54 +0000</pubDate>
-<pubDate>Mon, 27 May 2024 10:18:54 +0000</pubDate>
 </item>
 <item>
 <title>FlyingCarpet – Pour transférer des fichiers sans connexion et sans câble</title>
 <link>https://korben.info/flyingcarpet-transfert-fichiers-sans-fil-multi-plateformes.html</link>
 <guid>https://korben.info/flyingcarpet-transfert-fichiers-sans-fil-multi-plateformes.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_A_geek_with_a_computer_on_a_flying_carpet_shot_with_ipho_650e088a-a11e-436c-b5d4-8102852d8bbc.png" width="1456" /></p>
 <p>Quand on n&rsquo;a pas de réseau sous la main pour se transférer un gros fichier, c&rsquo;est souvent galère. Faut trouve une clé USB et quand c&rsquo;est pour balancer un truc d&rsquo;un smartphone à un ordinateur, c&rsquo;est mission impossible. Heureusement, <strong>FlyingCarpet</strong> pourrait bien devenir votre nouvel allié dans ce genre de situations !</p>
 
@@ -128,9 +366,7 @@
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>C&rsquo;est open source et disponible sur <a href="https://github.com/spieglt/FlyingCarpet" rel="noopener" target="_blank">GitHub</a> pour ceux qui veulent.</p>
 ]]></content:encoded>
 <pubDate>Mon, 27 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 27 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>RustPython – Python puissance Rust</title>
 <link>https://korben.info/rustpython-interpreteur-python-en-rust-webassembly.html</link>

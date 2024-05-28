@@ -628,3 +628,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Rénovation d’ampleur : l’axe prioritaire pour moins consommer l’énergie](https://www.bfmtv.com/immobilier/services/renovation-d-ampleur-l-axe-prioritaire-pour-moins-consommer-l-energie_AB-202405270503.html)
 append_entries: 1
 Finish: 2024-05-27 12:39:58.312461
+------------------------------------------------------
+Started: 2024-05-28 01:18:10.961688
+Existing_entries: 122
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts: la fiscalité locale des ménages a baissé de 18,4% depuis 2017](https://www.bfmtv.com/immobilier/fiscalite/impots-la-fiscalite-locale-des-menages-a-baisse-de-18-4-depuis-2017_AD-202405270904.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Prix de l’électricité : et si vous passiez aux panneaux solaires ?](https://www.bfmtv.com/immobilier/services/prix-de-l-electricite-et-si-vous-passiez-aux-panneaux-solaires_AB-202405270665.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Shanghai prend à son tour des mesures pour relancer le marché de l'immobilier](https://www.bfmtv.com/immobilier/international-etranger/shanghai-prend-a-son-tour-des-mesures-pour-relancer-le-marche-de-l-immobilier_AD-202405270586.html)
+append_entries: 3
+Finish: 2024-05-28 01:18:28.535112

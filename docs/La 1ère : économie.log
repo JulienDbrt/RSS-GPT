@@ -1324,3 +1324,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [INTERVIEW. Crise en Nouvelle-Calédonie : des ambulanciers "très très très sollicités"](https://la1ere.francetvinfo.fr/nouvellecaledonie/interview-crise-en-nouvelle-caledonie-des-ambulanciers-tres-tres-tres-sollicites-1491440.html)
 append_entries: 6
 Finish: 2024-05-27 12:45:28.120916
+------------------------------------------------------
+Started: 2024-05-28 01:23:46.016056
+Existing_entries: 328
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEO. Crise en Nouvelle-Calédonie : le désespoir des chefs d'entreprises](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/video-emeutes-en-nouvelle-caledonie-le-desespoir-des-chefs-d-entreprises-1491737.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : difficile approvisionnement en farine pour les boulangers](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-difficile-approvisionnement-en-farine-pour-les-boulangers-1491725.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vidéo. Léon Bertrand se reconvertit dans les chambres d'hôtes à Saint-Laurent-du-Maroni](https://la1ere.francetvinfo.fr/guyane/ouest-guyanais/guyane/video-leon-bertrand-se-reconvertit-dans-les-chambres-d-hotes-a-saint-laurent-du-maroni-1491698.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [1ère campagne sucrière canne-sucre-bio : bilan mitigé, pour une production enfin lancée](https://la1ere.francetvinfo.fr/guadeloupe/1ere-campagne-sucriere-canne-sucre-bio-bilan-mitige-mais-une-production-qui-a-le-merite-d-avoir-ete-lancee-1491689.html)
+append_entries: 4
+Finish: 2024-05-28 01:24:08.636016

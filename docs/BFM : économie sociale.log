@@ -615,3 +615,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Un modèle pas suffisamment incitatif au retour à l'emploi": Vautrin défend la réforme de l'assurance-chômage](https://www.bfmtv.com/economie/economie-social/nous-avons-un-modele-social-pas-suffisamment-incitatif-au-retour-a-l-emploi-catherine-vautrin-defend-la-reforme_AV-202405270272.html)
 append_entries: 2
 Finish: 2024-05-27 12:38:19.212241
+------------------------------------------------------
+Started: 2024-05-28 01:15:42.900307
+Existing_entries: 105
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taxes, marges, charges... Comment les têtes de listes aux européennes veulent faire baisser la facture des Français](https://www.bfmtv.com/economie/economie-social/france/taxes-marges-charges-les-propositions-des-tetes-de-listes-aux-europeennes-pour-le-pouvoir-d-achat-des-francais_AV-202405270867.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Emmanuel Macron appelle à "une préférence commerciale" européenne](https://www.bfmtv.com/economie/economie-social/union-europeenne/emmanuel-macron-appelle-a-une-preference-commerciale-europeenne_AD-202405270771.html)
+append_entries: 2
+Finish: 2024-05-28 01:15:54.768784

@@ -719,3 +719,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Pour redresser son économie, l’Allemagne débat sur les investissements publics](https://www.la-croix.com/economie/pour-redresser-son-economie-l-allemagne-debat-sur-les-investissements-publics-20240526)
 append_entries: 2
 Finish: 2024-05-27 12:46:03.283844
+------------------------------------------------------
+Started: 2024-05-28 01:24:15.112795
+Existing_entries: 153
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [G7 : premiers pas vers une taxation mondiale des milliardaires](https://www.la-croix.com/economie/g7-premiers-pas-vers-une-taxation-mondiale-des-milliardaires-20240527)
+append_entries: 1
+Finish: 2024-05-28 01:24:20.986341

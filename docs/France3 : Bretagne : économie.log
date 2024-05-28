@@ -540,3 +540,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [L'eau qui stagne dans ce marais inquiète les éleveurs : "je ne vais quand même pas emmener mes vaches brouter ailleurs"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/l-eau-qui-stagne-dans-ce-marais-inquiete-les-eleveurs-je-ne-vais-quand-meme-pas-emmener-mes-vaches-brouter-ailleurs-2976011.html)
 append_entries: 1
 Finish: 2024-05-27 12:43:42.317029
+------------------------------------------------------
+Started: 2024-05-28 01:22:34.158967
+Existing_entries: 80
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage : "la vraie incitation, c'est de rendre l'emploi désirable"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/reforme-de-l-assurance-chomage-la-vraie-incitation-c-est-de-rendre-l-emploi-desirable-2976338.html)
+append_entries: 1
+Finish: 2024-05-28 01:22:40.190566

@@ -703,3 +703,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Portet-sur-Garonne. Forum Alternance : à la rencontre des professionnels](https://www.ladepeche.fr/2024/05/27/forum-alternance-a-la-rencontre-des-professionnels-11976279.php)
 append_entries: 5
 Finish: 2024-05-27 12:47:29.500201
+------------------------------------------------------
+Started: 2024-05-28 01:25:24.498953
+Existing_entries: 131
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-05-28 01:25:24.997662

@@ -1217,3 +1217,41 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Leasing auto: vers un accord entre Renault et Santander](https://www.bfmtv.com/economie/entreprises/leasing-auto-vers-un-accord-entre-renault-et-santander_AD-202405270044.html)
 append_entries: 3
 Finish: 2024-05-27 12:38:55.135190
+------------------------------------------------------
+Started: 2024-05-28 01:16:31.751514
+Existing_entries: 325
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La compagnie aérienne Lufthansa "teste" le retour du café gratuit en classe éco](https://www.bfmtv.com/economie/entreprises/transports/la-compagnie-aerienne-lufthansa-teste-le-retour-du-cafe-gratuit-en-classe-eco_AD-202405270752.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Je ne vois pas l'intérêt": Jean-Marc Jancovici étrille l'énergie hydrogène pour les transports](https://www.bfmtv.com/economie/entreprises/energie/je-ne-vois-pas-l-interet-jean-marc-jancovici-etrille-l-energie-hydrogene-pour-les-transports_AV-202405270750.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Une piste qui continue de faire l’objet de travaux": le ministère des Armées ne confirme pas l'arrivée prochaine d'instructeurs militaires français à Kiev](https://www.bfmtv.com/economie/entreprises/defense/l-ukraine-annonce-l-arrivee-prochaine-d-instructeurs-militaires-francais-a-kiev_AD-202405270704.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [INFO BFM BUSINESS. Le numéro deux du Club Med démissionne, son propriétaire Fosun enclenche un bras de fer](https://www.bfmtv.com/economie/entreprises/info-bfm-business-le-numero-deux-du-club-med-demissionne-son-proprietaire-fosun-enclenche-un-bras-de-fer_AN-202405270687.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Arabie saoudite: le fonds souverain se lance dans l'industrie spatiale](https://www.bfmtv.com/economie/entreprises/industries/arabie-saoudite-le-fonds-souverain-se-lance-dans-l-industrie-spatiale_AD-202405270674.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MetEx: une semaine de plus pour les offres de reprise de l'usine d'Amiens](https://www.bfmtv.com/economie/entreprises/industries/met-ex-une-semaine-de-plus-pour-les-offres-de-reprise-de-l-usine-d-amiens_AD-202405270667.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Des "millions d'euros": les douanes sanctionnent une entreprise qui contournait l'embargo contre la Russie](https://www.bfmtv.com/economie/entreprises/des-millions-d-euros-les-douanes-sanctionnent-une-entreprise-qui-contournait-l-embargo-contre-la-russie_AD-202405270605.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les banques vont-elles devenir des régies publicitaires?](https://www.bfmtv.com/economie/entreprises/assurance-banque/les-banques-vont-elles-devenir-des-regies-publicitaires_AN-202405270602.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Levi's fait revivre le jean historique des pionniers créé au début des années 1870](https://www.bfmtv.com/economie/entreprises/levi-s-fait-revivre-le-jean-historique-des-pionniers-cree-au-debut-des-annees-1870_GN-202405270583.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agressions de contrôleurs: les syndicats posent un préavis de grève sur l'axe TGV Nord ce mercredi](https://www.bfmtv.com/economie/entreprises/transports/agression-de-controleurs-les-syndicats-posent-un-preavis-de-greve-sur-l-axe-tgv-nord-ce-mercredi_AV-202405270579.html)
+Append: ["Cercle vicieux": la commission d'enquête sur les crèches constate un système "à bout de souffle"](https://www.bfmtv.com/economie/entreprises/services/cercle-vicieux-la-commission-d-enquete-sur-les-creches-constate-un-systeme-a-bout-de-souffle_AD-202405270556.html)
+Append: [L'Espagne s'engage à apporter une aide militaire d'un milliard d'euros à Kiev](https://www.bfmtv.com/economie/entreprises/defense/l-espagne-s-engage-a-apporter-une-aide-militaire-de-1-milliard-d-euros-a-kiev_AD-202405270512.html)
+append_entries: 12
+Finish: 2024-05-28 01:17:29.343462

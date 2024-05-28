@@ -1084,3 +1084,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Cette employée d'un restaurant qui voulait acheter un manoir à Londres avec des bitcoins volés](https://www.bfmtv.com/crypto/cette-employee-d-un-restaurant-qui-voulait-acheter-un-manoir-a-londres-avec-des-bitcoins-voles_AD-202405270390.html)
 append_entries: 8
 Finish: 2024-05-27 12:30:45.139544
+------------------------------------------------------
+Started: 2024-05-28 01:07:15.203768
+Existing_entries: 264
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La blanchisseuse de cryptos piégée par l'achat d'un manoir à 23 millions de livres](https://www.lesechos.fr/finance-marches/marches-financiers/la-blanchisseuse-de-cryptos-piegee-par-lachat-dun-manoir-a-23-millions-de-livres-2097259)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La part des Français détenant des cryptomonnais est désormais plus importante que celle des Américains](https://www.bfmtv.com/crypto/la-part-des-francais-detenant-des-cryptomonnais-est-desormais-plus-importante-que-celle-des-americains_AV-202405270563.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Six ans de prison pour le complice de la "Reine de la Crypto" dans un stratagème de blanchiment d'argent en Bitcoin](https://www.begeek.fr/six-ans-de-prison-pour-le-complice-de-la-reine-de-la-crypto-dans-un-stratageme-de-blanchiment-dargent-en-bitcoin-398082)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crypto : le prêt hypothécaire d’un NFT, l’avenir de la finance décentralisée ?](https://www.capital.fr/crypto/crypto-le-pret-hypothecaire-dun-nft-lavenir-de-la-finance-decentralisee-1497209)
+append_entries: 4
+Finish: 2024-05-28 01:07:39.084307

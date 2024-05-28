@@ -1719,3 +1719,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Une levée de fonds à 6 milliards de dollars pour la société d'Elon Musk sur l'IA](https://www.lalibre.be/economie/digital/2024/05/27/une-levee-de-fonds-a-6-milliards-de-dollars-pour-la-societe-delon-musk-sur-lia-EFAEMH5HG5DCDFCWLAKMVCPX7U/)
 append_entries: 10
 Finish: 2024-05-27 12:48:33.304053
+------------------------------------------------------
+Started: 2024-05-28 01:25:26.368104
+Existing_entries: 569
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouveauté chez Ferrero : un Nutella vegan](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/nouveaute-chez-ferrero-un-nutella-vegan-NFVEZLYCM5AONMGB2KEZP6NSOQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Feu vert à l'acquisition de Van Hool par VDL](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/feu-vert-a-lacquisition-de-van-hool-par-vdl-LN3RWV3DAFD4RJOG3DUZIQEXIE/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bourse : le BEL20 soutenu par Elia](https://www.lalibre.be/economie/placements/2024/05/27/bourse-le-bel20-soutenu-par-elia-HGLGJ2CXBJCG7LNQKWX752USAY/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L’agence Booking accusée d’avoir proposé 70 logements dans des territoires palestiniens occupés et de “profiter des crimes de guerre”](https://www.lalibre.be/international/moyen-orient/2024/05/27/lagence-booking-accusee-davoir-propose-70-logements-dans-des-territoires-palestiniens-occupes-et-de-profiter-des-crimes-de-guerre-FOOKY7GNTJDGVLOSCIMNOYZNMA/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Quelles sont les équipes sportives les plus rentables au monde ? (Infographie)](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/quelles-sont-les-equipes-sportives-les-plus-rentables-au-monde-infographie-UICXCM7VTVCPNABFQN2RGD43UU/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Il n’y a pas d’école en Belgique qui explique comment produire des poudres explosives"](https://www.lalibre.be/economie/entreprises-startup/2024/05/27/il-ny-a-pas-decole-qui-explique-comment-produire-des-poudres-explosives-YIM2ZBCCJFALTFTJRJWJHQ5JTM/)
+append_entries: 6
+Finish: 2024-05-28 01:26:01.342234

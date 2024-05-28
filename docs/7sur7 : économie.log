@@ -675,3 +675,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Bons d’État: plus de 42,5 millions d’euros récoltés après le premier jour](https://www.7sur7.be/economie/bons-detat-plus-de-42-5-millions-deuros-recoltes-apres-le-premier-jour~ae36aa53/)
 append_entries: 2
 Finish: 2024-05-27 12:37:09.964122
+------------------------------------------------------
+Started: 2024-05-28 01:14:44.546108
+Existing_entries: 125
+Fetching from https://www.7sur7.be/economie/rss.xml
+append_entries: 0
+Finish: 2024-05-28 01:14:44.809507

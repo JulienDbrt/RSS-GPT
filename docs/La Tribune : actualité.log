@@ -1765,3 +1765,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Crèches : le système est « à bout de souffle », selon la rapporteure de la Commission d'enquête de l'Assemblée nationale](https://www.latribune.fr/economie/france/creches-le-systeme-est-a-bout-de-souffle-selon-la-rapporteure-de-la-commission-d-enquete-de-l-assemblee-nationale-998445.html)
 append_entries: 10
 Finish: 2024-05-27 12:50:29.469458
+------------------------------------------------------
+Started: 2024-05-28 01:26:31.229540
+Existing_entries: 475
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taxe foncière : ces villes où elle augmente le plus en 2024](https://www.latribune.fr/vos-finances/impots/fiscalite/taxe-fonciere-ces-villes-ou-elle-augmente-le-plus-en-2024-998496.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Industrie pharmaceutique: après la reprise de Recipharm, les ambitions du labo marocain Laprophan en France](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/industrie-pharmaceutique-apres-la-reprise-de-recipharm-les-ambitions-du-labo-marocain-laprophan-en-france-998502.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise de l'immobilier en Chine : Shanghai assouplit les restrictions à l'achat pour stimuler la demande](https://www.latribune.fr/economie/international/crise-de-l-immobilier-en-chine-shanghai-assouplit-les-restrictions-a-l-achat-pour-stimuler-la-demande-998492.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gaz : privée du marché européen, la Russie va augmenter ses livraisons à l'Ouzbékistan](https://www.latribune.fr/climat/energie-environnement/gaz-privee-du-marche-europeen-la-russie-va-augmenter-ses-livraisons-a-l-ouzbekistan-998486.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le crédit à la consommation cherche son salut dans les mobilités et la rénovation des logements](https://www.latribune.fr/entreprises-finance/banques-finance/banque/le-credit-a-la-consommation-cherche-son-salut-dans-les-mobilites-et-la-renovation-des-logements-998493.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hyperloop : la désillusion des salariés à Toulouse après des mois d'impayés](https://toulouse.latribune.fr/entreprises/social/2024-05-27/hyperloop-la-desillusion-des-salaries-a-toulouse-apres-des-mois-d-impayes-998012.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise du logement neuf : Liaisons Habitat dynamise la recherche de foncier pour les promoteurs immobiliers](https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2024-05-27/liaisons-habitat-dynamise-la-recherche-de-foncier-pour-les-promoteurs-immobiliers-998489.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [En difficulté, la filière du blé dur défend un plan de souveraineté](https://region-sud.latribune.fr/economie/2024-05-27/en-difficulte-la-filiere-du-ble-dur-defend-un-plan-de-souverainete-998490.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Offrez-vous un séjour de rêve durant le Black Friday](https://www.latribune.fr/supplement/offrez-vous-un-sejour-de-reve-durant-le-black-friday-998500.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Autobus électriques : le néerlandais Ebusco lance son offensive sur le marché français](https://www.latribune.fr/entreprises-finance/industrie/autobus-electriques-le-neerlandais-ebusco-lance-son-offensive-sur-le-marche-francais-998483.html)
+append_entries: 10
+Finish: 2024-05-28 01:27:28.434015

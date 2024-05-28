@@ -2018,3 +2018,44 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les 9 meilleures applications iPhone pour trouver et acheter sa maison](https://www.iphon.fr/post/meilleurs-applications-iphone-acheter-maison)
 append_entries: 9
 Finish: 2024-05-27 12:31:40.243683
+------------------------------------------------------
+Started: 2024-05-28 01:07:39.422296
+Existing_entries: 686
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Jordan Bardella et Manon Aubry s’écharpent : “Vous allez commenter toute la soirée ?](https://www.gala.fr/l_actu/news_de_stars/jordan-bardella-et-manon-aubry-secharpent-vous-allez-commenter-toute-la-soiree_544300)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["J'ai raté le coche" : ces Parisiens qui pensaient louer très cher leur logement pour les JO... et tombent de haut | TF1 INFO](https://www.tf1info.fr/jeux-olympiques/video-reportage-temoignage-j-ai-rate-le-coche-ces-parisiens-qui-pensaient-louer-tres-cher-leur-logement-pour-les-jo-de-paris-2024-et-tombent-de-haut-2300843.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cette viande consommée par 94% de la population une fois par semaine est la plus mauvaise pour la santé](https://www.aufeminin.com/sante-femme/cette-viande-consommee-par-94-de-la-population-une-fois-par-semaine-est-la-plus-mauvaise-pour-la-sante-s4085958.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Faut-il vraiment se laver tous les jours ?](https://www.marieclaire.fr/faut-il-se-laver-tous-les-jours,1476208.asp)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Nous sommes très sensibles à la hausse du prix de l’électricité, comme le drogué est sensible à la hausse du prix de la drogue », estime Jean-Marc Jancovici](https://www.publicsenat.fr/actualites/environnement/nous-sommes-tres-sensibles-a-la-hausse-du-prix-de-lelectricite-comme-le-drogue-est-sensible-a-la-hausse-du-prix-de-la-drogue-estime-jean-marc-jancovici)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Droits de succession : vers une démocratisation de l'héritage](https://investir.lesechos.fr/budget/vie-pratique/droits-de-succession-vers-une-democratisation-de-lheritage-2097165)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [C'est mon histoire : « Divorcés, on cohabite »](https://www.elle.fr/Love-Sexe/C-est-mon-histoire/C-est-mon-histoire-Divorces-on-cohabite-4236145)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [REPORTAGE. Guerre en Ukraine : dans Marioupol occupée, les Russes font main basse sur l’immobilier](https://www.ouest-france.fr/europe/ukraine/reportage-guerre-en-ukraine-dans-marioupol-occupee-les-russes-font-main-basse-sur-limmobilier-8e4f78d0-1929-11ef-89e1-9d0ea397ae43)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Marion Maréchal à Manon Aubry: "Ce n'est pas en allant diaboliser des entreprises [...] qu'on va régler le problème du pouvoir d'achat"](https://www.bfmtv.com/politique/elections/europeennes/marion-marechal-a-manon-aubry-ce-n-est-pas-en-allant-diaboliser-des-entreprises-qu-on-va-regler-le-probleme-du-pouvoir-d-achat_VN-202405270845.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Retraites : bientôt une photo plus réaliste (et plus noire) de la situation financière](https://www.lopinion.fr/economie/retraites-bientot-une-photo-plus-realiste-et-plus-noire-de-la-situation-financiere)
+Append: [Stéphane Freiss sur la paille : ce mauvais placement qui lui a fait “tout perdre”](https://www.gala.fr/l_actu/news_de_stars/stephane-freiss-sur-la-paille-ce-mauvais-placement-qui-lui-a-fait-tout-perdre_544294)
+Append: [Lidl vous transporte tout droit en Asie avec ses produits !](https://mcetv.ouest-france.fr/decouvertes/mon-mag-lifestyle/lidl-vous-transporte-tout-droit-en-asie-avec-sa-selection-de-produits-27052024/)
+Append: [Voici le Supertruck 2, un camion aérodynamique qui divise par deux sa consommation de carburant !](https://www.futura-sciences.com/tech/actualites/smartmotion-voici-supertruck-2-camion-aerodynamique-divise-deux-consommation-carburant-113673/)
+Append: [Les voitures ne sont pas près de s’arrêter de rouler à l’essence ou au gazole](https://www.challenges.fr/automobile/les-voitures-ne-sont-pas-pres-de-s-arreter-de-rouler-a-l-essence-ou-au-gazole_894134)
+Append: [«Certains se croient tout permis» : Versailles fait la chasse aux boîtes à clés Airbnb](https://www.leparisien.fr/yvelines-78/locations-touristiques-apres-paris-versailles-fait-la-chasse-aux-boites-a-cles-airbnb-27-05-2024-ZFKSU6U3XNEWVGS3OX73M2HZMY.php)
+append_entries: 15
+Finish: 2024-05-28 01:08:38.580164

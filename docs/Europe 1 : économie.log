@@ -673,3 +673,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Assurance-chômage : une réforme qui peut soulager les finances publiques](https://www.europe1.fr/economie/assurance-chomage-une-reforme-qui-peut-soulager-les-finances-publiques-4249197)
 append_entries: 2
 Finish: 2024-05-27 12:40:43.784768
+------------------------------------------------------
+Started: 2024-05-28 01:19:58.789751
+Existing_entries: 119
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-05-28 01:19:58.941910

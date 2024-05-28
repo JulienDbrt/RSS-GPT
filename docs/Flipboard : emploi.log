@@ -1917,3 +1917,41 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Est-ce que je peux imposer à mes salariés de prendre leurs congés payés pendant les JO ?](https://www.bfmtv.com/economie/est-ce-que-je-peux-imposer-a-mes-salaries-de-prendre-leurs-conges-payes-pendant-les-jo_VN-202405270451.html)
 append_entries: 9
 Finish: 2024-05-27 12:32:44.698608
+------------------------------------------------------
+Started: 2024-05-28 01:08:38.901514
+Existing_entries: 639
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Passer son permis avec le CPF : face à l’envolée des demandes, le gouvernement fait marche arrière](https://www.challenges.fr/automobile/actu-auto/passer-son-permis-avec-le-cpf-face-a-l-envolee-des-demandes-le-gouvernement-fait-marche-arriere_894363)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Je sentais bien que j’avais été recrutée pour remplacer un réceptionniste, à moindre coût » : comment éviter que l’alternance tourne au fiasco](https://www.leparisien.fr/etudiant/orientation/alternance/je-sentais-bien-que-javais-ete-recrutee-pour-remplacer-un-receptionniste-a-moindre-cout-comment-eviter-que-lalternance-tourne-au-fiasco-R6SAZKPQ2VGZHCPHG3YDJ3MMYU.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [420.000 € de fonds publics détournés par un couple en Eure-et-Loir](https://www.lechorepublicain.fr/chartres-28000/actualites/420-000-de-fonds-publics-detournes-par-un-couple-en-eure-et-loir_14507592/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Spie : conclut un accord de RH avec le ministère des Armées](https://www.boursier.com/actions/actualites/news/spie-conclut-un-accord-de-rh-avec-le-ministere-des-armees-929658.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Des Français très partagés face au travail](https://www.gazettenpdc.fr/article/des-francais-tres-partages-face-au-travail)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La levée éventuelle des restrictions d'emploi des armes livrées à Kiev divise les membres de l'Otan - Zone Militaire](https://www.opex360.com/2024/05/27/la-levee-eventuelle-des-restrictions-demploi-des-armes-livrees-a-kiev-divise-les-membres-de-lotan/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Du changement pour les demandes d’interruption de carrière](https://www.lesoir.be/590689/article/2024-05-27/du-changement-pour-les-demandes-dinterruption-de-carriere)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Leadership inné : les 6 signes révélateurs en vous](https://www.masculin.com/argent-carriere/596586-leadership-inne-les-6-signes-revelateurs-en-vous/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Elon Musk évoque le futur de l’IA : « Il est probable qu'aucun d'entre nous n'aura d'emploi » - PaperGeek](https://www.papergeek.fr/elon-musk-evoque-le-futur-de-lia-il-est-probable-quaucun-dentre-nous-naura-demploi-2466987)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gabriel Attal durcit les règles de l'assurance-chômage, ce qu'il faut retenir !](https://www.hellowork.com/fr-fr/medias/reforme-chomage-durcissement.html)
+Append: [Comment Participer aux Journées du Québec au Maroc pour Immigrer au Canada](https://fr.media7.ma/comment-participer-aux-journees-du-quebec-au-maroc-pour-immigrer-au-canada/)
+Append: [Les seniors, un public très impacté par la réforme de l’Assurance chômage](https://www.publicsenat.fr/actualites/emploi/les-seniors-un-public-tres-impacte-par-la-reforme-de-lassurance-chomage)
+append_entries: 12
+Finish: 2024-05-28 01:09:35.496657

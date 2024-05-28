@@ -761,3 +761,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Serge Letchimy dénonce « les tentatives de blocage » d'un lobby de l'agrobusiness](https://www.martinique.franceantilles.fr/actualite/economie/serge-letchimy-denonce-les-tentatives-de-blocage-dun-lobby-de-lagrobusiness-988669.php)
 append_entries: 2
 Finish: 2024-05-27 12:40:56.391088
+------------------------------------------------------
+Started: 2024-05-28 01:19:59.022084
+Existing_entries: 167
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-05-28 01:19:59.705803

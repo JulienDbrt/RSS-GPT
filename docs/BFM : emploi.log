@@ -462,3 +462,12 @@ Existing_entries: 54
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-05-27 12:38:38.533780
+------------------------------------------------------
+Started: 2024-05-28 01:16:25.604800
+Existing_entries: 54
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance chômage: pour les seniors, il n'y aura pas de plafond pour le "bonus emploi"](https://www.bfmtv.com/economie/emploi/assurance-chomage-pour-les-seniors-le-plafond-du-bonus-emploi-n-est-pas-encore-fixe_AV-202405270596.html)
+append_entries: 1
+Finish: 2024-05-28 01:16:31.558891

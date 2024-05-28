@@ -1538,3 +1538,33 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Impôt sur le revenu : voici 10 cases piégeuses que le fisc ne peut pas remplir à votre place](https://www.moneyvox.fr/impot/actualites/97861/impot-sur-le-revenu-voici-10-cases-piegeuses-que-le-fisc-ne-peut-pas-remplir-a-votre-place)
 append_entries: 5
 Finish: 2024-05-27 12:42:41.656233
+------------------------------------------------------
+Started: 2024-05-28 01:21:23.192275
+Existing_entries: 446
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Carte bancaire : « Pourquoi le code PIN comporte 6 chiffres dans certains pays ? »](https://www.moneyvox.fr/carte-bancaire/actualites/97947/pourquoi-le-code-pin-comporte-6-chiffres-dans-certains-pays)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt et cases pièges, assurance chômage, congés payés perdus... Les 3 infos argent du jour](https://www.moneyvox.fr/votre-argent/actualites/97945/impot-et-cases-pieges-assurance-chomage-conges-payes-perdus-les-3-infos-argent-du-jour)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alstom en hausse, Atos en difficulté... Le Journal de la Bourse du 27 mai](https://www.moneyvox.fr/bourse/actualites/97955/alstom-en-hausse-atos-en-difficulte-le-journal-de-la-bourse-du-27-mai)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt sur le revenu : un cadeau de 61 à 183 euros pour les parents, voici les cases à cocher](https://www.moneyvox.fr/actu/97954/impot-sur-le-revenu-un-cadeau-de-61-a-183-euros-pour-les-parents-voici-les-cases-a-cocher)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Heurts entre supporters : entre 500 000 et 1 million d'euros de dégâts au péage, selon la Sanef](https://www.moneyvox.fr/votre-argent/actualites/97952/heurts-entre-supporters-entre-500-000-et-1-million-euros-de-degats-au-peage-selon-la-sanef)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Congés payés : attention, plus que quelques jours pour ne pas les perdre !](https://www.moneyvox.fr/votre-argent/actualites/97942/conges-payes-attention-plus-que-quelques-jours-pour-ne-pas-les-perdre)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Monabanq : un bonus de bienvenue de 200 euros pour les nouveaux clients](https://www.moneyvox.fr/banque-en-ligne/actualites/97927/monabanq-un-bonus-de-bienvenue-de-200-euros-pour-les-nouveaux-clients)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Si vous êtes enfin retraite, voici la case spéciale à remplir pour réduire vos impôts](https://www.moneyvox.fr/impot/actualites/97946/si-vous-etes-enfin-retraite-voici-la-case-speciale-a-remplir-pour-reduire-vos-impots)
+append_entries: 8
+Finish: 2024-05-28 01:22:09.250077

@@ -583,3 +583,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [INTERVIEW. Crise en Nouvelle-Calédonie : des ambulanciers "très très très sollicités"](https://la1ere.francetvinfo.fr/nouvellecaledonie/interview-crise-en-nouvelle-caledonie-des-ambulanciers-tres-tres-tres-sollicites-1491440.html)
 append_entries: 3
 Finish: 2024-05-27 12:45:51.503653
+------------------------------------------------------
+Started: 2024-05-28 01:24:09.141114
+Existing_entries: 81
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEO. Crise en Nouvelle-Calédonie : comment l'approvisionnement de Tiga en médicaments et denrées alimentaires s'organise](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/lifou/video-crise-en-nouvelle-caledonie-comment-l-approvisionnement-de-tiga-en-medicaments-et-denrees-alimentaires-s-organise-1491743.html)
+append_entries: 1
+Finish: 2024-05-28 01:24:15.032503

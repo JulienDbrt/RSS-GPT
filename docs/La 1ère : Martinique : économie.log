@@ -487,3 +487,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Des drones au service de l'agriculture dans les bananeraies en Martinique](https://la1ere.francetvinfo.fr/martinique/des-drones-au-service-de-l-agriculture-dans-les-bananeraies-en-martinique-1491323.html)
 append_entries: 1
 Finish: 2024-05-27 12:45:34.044236
+------------------------------------------------------
+Started: 2024-05-28 01:24:08.663420
+Existing_entries: 49
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-05-28 01:24:08.927118

@@ -1327,3 +1327,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Voitures électriques : Evergrande NEV s'envole à la Bourse de Hong Kong après l'annonce de son possible rachat](https://www.latribune.fr/entreprises-finance/industrie/automobile/voitures-electriques-evergrande-nev-s-envole-a-la-bourse-de-hong-kong-apres-l-annonce-de-son-possible-rachat-998457.html)
 append_entries: 5
 Finish: 2024-05-27 12:33:25.643450
+------------------------------------------------------
+Started: 2024-05-28 01:09:35.705836
+Existing_entries: 399
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["J'ai raté le coche" : ces Parisiens qui pensaient louer très cher leur logement pour les JO... et tombent de haut | TF1 INFO](https://www.tf1info.fr/jeux-olympiques/video-reportage-temoignage-j-ai-rate-le-coche-ces-parisiens-qui-pensaient-louer-tres-cher-leur-logement-pour-les-jo-de-paris-2024-et-tombent-de-haut-2300843.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [REPORTAGE. Guerre en Ukraine : dans Marioupol occupée, les Russes font main basse sur l’immobilier](https://www.ouest-france.fr/europe/ukraine/reportage-guerre-en-ukraine-dans-marioupol-occupee-les-russes-font-main-basse-sur-limmobilier-8e4f78d0-1929-11ef-89e1-9d0ea397ae43)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [C'est mon histoire : « Divorcés, on cohabite »](https://www.elle.fr/Love-Sexe/C-est-mon-histoire/C-est-mon-histoire-Divorces-on-cohabite-4236145)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Stéphane Freiss sur la paille : ce mauvais placement qui lui a fait “tout perdre”](https://www.gala.fr/l_actu/news_de_stars/stephane-freiss-sur-la-paille-ce-mauvais-placement-qui-lui-a-fait-tout-perdre_544294)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [«Certains se croient tout permis» : Versailles fait la chasse aux boîtes à clés Airbnb](https://www.leparisien.fr/yvelines-78/locations-touristiques-apres-paris-versailles-fait-la-chasse-aux-boites-a-cles-airbnb-27-05-2024-ZFKSU6U3XNEWVGS3OX73M2HZMY.php)
+append_entries: 5
+Finish: 2024-05-28 01:10:05.458685

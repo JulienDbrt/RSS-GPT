@@ -553,3 +553,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Danger de blessures graves: rappel de tasses pouvant contenir un nettoyant chimique](https://www.journaldemontreal.com/2024/05/26/danger-de-blessures-graves-rappel-de-tasses-pouvant-contenir-un-nettoyant-chimique)
 append_entries: 1
 Finish: 2024-05-27 12:44:24.102351
+------------------------------------------------------
+Started: 2024-05-28 01:23:15.461846
+Existing_entries: 73
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-05-28 01:23:15.763205

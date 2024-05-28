@@ -2032,3 +2032,36 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Citroën : après le rappel massif de C3 et DS3, l'inquiétude de ces automobilistes dans "le flou le plus artistique"](https://www.francetvinfo.fr/economie/automobile/citroen-apres-le-rappel-massif-de-c3-et-ds3-l-inquietude-de-ces-automobilistes-dans-le-flou-le-plus-artistique_6567074.html)
 append_entries: 9
 Finish: 2024-05-27 12:41:48.517068
+------------------------------------------------------
+Started: 2024-05-28 01:20:00.641266
+Existing_entries: 686
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [République tchèque : le pays du plein-emploi](https://www.francetvinfo.fr/monde/europe/republique-tcheque-le-pays-du-plein-emploi_6569183.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tendances : quand les voitures s’aménagent en camping-car](https://www.francetvinfo.fr/economie/tendances/tendances-quand-les-voitures-s-amenagent-en-camping-car_6569186.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Les 17% de voitures électriques qui se vendent aujourd'hui seront dans quelques années des véhicules d'occasion", se réjouit le coprésident d'Aramis](https://www.francetvinfo.fr/replay-radio/l-interview-eco/les-17-de-voitures-electriques-qui-se-vendent-aujourd-hui-seront-dans-quelques-annees-des-vehicules-d-occasion-se-rejouit-le-copresident-d-aramis_6540215.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [REPORTAGE. "Ils ne nous respectent pas" : à Marseille, des femmes de ménage d'un hôtel quatre étoiles se mettent en grève à l'approche des JO](https://www.francetvinfo.fr/economie/greve/reportage-ils-ne-nous-respectent-pas-a-marseille-des-femmes-de-menage-d-un-hotel-quatre-etoiles-se-mettent-en-greve-a-l-approche-des-jo_6568805.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Production de vaccins : où en est la réflexion de l'OMS et en Afrique pour mieux anticiper les pandémies ?](https://www.francetvinfo.fr/replay-radio/le-club-des-correspondants/production-de-vaccins-ou-en-est-la-reflexion-de-l-oms-et-en-afrique-pour-mieux-anticiper-les-pandemies_6540194.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Européennes 2024 : temps de parole, débats, propagande électorale... Comment se déroule la campagne officielle qui commence aujourd'hui ?](https://www.francetvinfo.fr/elections/europeennes-2024-temps-de-parole-debats-propagande-electorale-comment-se-deroule-la-campagne-officielle-qui-commence-lundi_6568577.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Aviation : douze personnes blessées après de fortes turbulences](https://www.francetvinfo.fr/economie/transports/aviation-douze-personnes-blessees-apres-de-fortes-turbulences_6568787.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Surtourisme : le ras-le-bol des habitants d’Aix-en-Provence face à l’afflux de croisiéristes](https://www.francetvinfo.fr/economie/tourisme/surtourisme-le-ras-le-bol-des-habitants-d-aix-en-provence-face-a-l-afflux-de-croisieristes_6568703.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Automobile : les véhicules électriques sont plus chers à réparer](https://www.francetvinfo.fr/economie/automobile/automobile-les-vehicules-electriques-sont-plus-chers-a-reparer_6568649.html)
+append_entries: 9
+Finish: 2024-05-28 01:20:53.241754

@@ -423,3 +423,12 @@ Existing_entries: 41
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/
 append_entries: 0
 Finish: 2024-05-27 12:38:26.709939
+------------------------------------------------------
+Started: 2024-05-28 01:16:01.440648
+Existing_entries: 41
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les banques vont-elles devenir des régies publicitaires?](https://www.bfmtv.com/economie/entreprises/assurance-banque/les-banques-vont-elles-devenir-des-regies-publicitaires_AN-202405270602.html)
+append_entries: 1
+Finish: 2024-05-28 01:16:07.537541

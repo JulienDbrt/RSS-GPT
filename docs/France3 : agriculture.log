@@ -960,3 +960,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [VIDEO. Plus de 300 variétés de rosiers en fleurs à découvrir dans le jardin remarquable de l'abbaye de Valsaintes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/video-plus-de-300-varietes-de-rosiers-en-fleurs-a-decouvrir-dans-le-jardin-remarquable-de-l-abbaye-de-valsaintes-2975558.html)
 append_entries: 5
 Finish: 2024-05-27 12:43:23.934709
+------------------------------------------------------
+Started: 2024-05-28 01:22:10.683711
+Existing_entries: 220
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["C’est ça la nature, c’est ça la vraie vie !" : la grande Fête des Bergers organisée avant les transhumances](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/c-est-ca-la-nature-c-est-ca-la-vraie-vie-la-grande-fete-des-bergers-organisee-avant-les-transhumances-2976125.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dans le Var, une start-up injecte des champignons au pied des vignes pour les sauver de la sécheresse](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/draguignan/dans-le-var-une-start-up-injecte-des-champignons-au-pied-des-vignes-pour-les-sauver-de-la-secheresse-2975915.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDÉO. Attaque de loup : onze brebis tuées, la caméra de l'éleveur filme le prédateur](https://france3-regions.francetvinfo.fr/grand-est/meuse/verdun/video-attaque-de-loup-onze-brebis-tuees-la-camera-de-l-eleveur-filme-le-predateur-2976083.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Ils mangent tout !" Escargots et limaces envahissent la Bourgogne : comment protéger son jardin ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/ils-mangent-tout-escargots-et-limaces-envahissent-la-bourgogne-comment-proteger-son-jardin-2975816.html)
+append_entries: 4
+Finish: 2024-05-28 01:22:33.800435

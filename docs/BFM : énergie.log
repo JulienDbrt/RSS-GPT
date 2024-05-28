@@ -492,3 +492,12 @@ Existing_entries: 64
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-05-27 12:38:19.516122
+------------------------------------------------------
+Started: 2024-05-28 01:15:54.806617
+Existing_entries: 64
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Je ne vois pas l'intérêt": Jean-Marc Jancovici étrille l'énergie hydrogène pour les transports](https://www.bfmtv.com/economie/entreprises/energie/je-ne-vois-pas-l-interet-jean-marc-jancovici-etrille-l-energie-hydrogene-pour-les-transports_AV-202405270750.html)
+append_entries: 1
+Finish: 2024-05-28 01:16:00.753054

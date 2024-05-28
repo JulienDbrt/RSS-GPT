@@ -2325,3 +2325,49 @@ Append: [Foix. L’atelier du Rocher forme aux teintures naturelles sur divers s
 Append: [L’épicerie du village change de main](https://www.ladepeche.fr/2024/05/27/lepicerie-du-village-change-de-main-11976455.php)
 append_entries: 20
 Finish: 2024-05-27 12:47:00.847807
+------------------------------------------------------
+Started: 2024-05-28 01:24:25.947370
+Existing_entries: 937
+Fetching from https://www.ladepeche.fr/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Primes à l’arrachage, négociation européenne… Les trois premières mesures pour sauver les vignobles lotois](https://www.ladepeche.fr/2024/05/27/primes-a-larrachage-negociation-europeenne-les-trois-premieres-mesures-pour-sauver-les-vignobles-lotois-11977160.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Sa chienne de troupeau se blesse, une cagnotte pour aider Timothée à poursuivre sa vocation de berger](https://www.ladepeche.fr/2024/05/27/sa-chienne-de-troupeau-se-blesse-une-cagnotte-pour-aider-timothee-a-poursuivre-sa-vocation-de-berger-11977618.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nocturne du marché Victor-Hugo à Toulouse : tout ce qu’il faut savoir sur la 30e édition, ce mercredi soir](https://www.ladepeche.fr/2024/05/27/toulouse-tout-ce-quil-faut-savoir-sur-la-30e-edition-de-la-nocturne-du-marche-victor-hugo-ce-mercredi-soir-11977355.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Coordination rurale 32 s’en prend à l’Office français de la biodiversité, le ministre Christophe Béchu condamne l’action du syndicat](https://www.ladepeche.fr/2024/05/27/la-coordination-rurale-32-sen-prennent-a-loffice-francais-de-la-biodiversite-le-ministre-christophe-bechu-condamne-laction-du-syndicat-11977323.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« On fait 30 % de chiffre d’affaires en moins » : le désarroi des restaurateurs et agence de croisières face aux intempéries](https://www.ladepeche.fr/2024/05/27/on-fait-30-de-chiffre-daffaires-en-moins-le-desarroi-des-restaurateurs-et-agence-de-croisieres-face-aux-intemperies-11977174.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEO. Après Cauchemar en cuisine, comment le restaurateur se forme pour sauver son affaire](https://www.ladepeche.fr/2024/05/27/video-apres-cauchemar-en-cuisine-comment-le-restaurateur-se-forme-pour-sauver-son-affaire-11977393.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comité de soutien à l’abattoir de Bagnères : "On ne se laissera pas abattre"](https://www.ladepeche.fr/2024/05/27/comite-de-soutien-a-labattoir-de-bagneres-on-ne-se-laissera-pas-abattre-11976977.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Saint-Girons : les Ateliers de la Liberté fêtent leurs deux années d’existence](https://www.ladepeche.fr/2024/05/27/saint-girons-les-ateliers-de-la-liberte-fetent-leurs-deux-annees-dexistence-11977477.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [McDonald’s, Burger King… pourquoi les ventes des chaînes de fast-foods cartonnent-elles en France ?](https://www.ladepeche.fr/2024/05/27/mcdonalds-burger-king-pourquoi-les-ventes-des-chaines-de-fast-foods-cartonnent-elles-en-france-11976864.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La mobilité fait son show au MEETT de Toulouse pour deux jours les 29 et 30 mai](https://www.ladepeche.fr/2024/05/27/la-mobilite-fait-son-show-au-meett-de-toulouse-pour-deux-jours-les-29-et-30-mai-11977385.php)
+Append: [Montgailhard : le bar à vin de la Roucateille ouvrira le 7 juin](https://www.ladepeche.fr/2024/05/27/montgailhard-le-bar-a-vin-de-la-roucateille-ouvrira-le-7-juin-11977374.php)
+Append: [Hamamélis, Cassissiers, Bleuets : des Hydrolats "Made in Bigorre" fabriqués par l’entreprise Py’still](https://www.ladepeche.fr/2024/05/27/hamamelis-cassissiers-bleuets-des-hydrolats-made-in-bigorre-fabriques-par-lentreprise-pystill-11964033.php)
+Append: [SEPTUORS TARN & GARONNE – Qui seront les Pépites 2024 ?](https://www.ladepeche.fr/2024/05/27/septuors-tarn-garonne-qui-seront-les-pepites-2024-11977356.php)
+Append: [Il invente une méthode pour l’extraction du safran, grâce à une machine baptisée la safranetière](https://www.ladepeche.fr/2024/05/27/il-invente-une-methode-pour-lextraction-du-safran-grace-a-une-machine-baptisee-la-safranetiere-11977332.php)
+Append: [Ce samedi, la grande fête de la transhumance au lac d’Estaing](https://www.ladepeche.fr/2024/05/27/ce-samedi-la-grande-fete-de-la-transhumance-au-lac-destaing-11977333.php)
+Append: [Machin, une boutique graphique et créative, s’est installée sous les Cornières à Agen](https://www.ladepeche.fr/2024/05/27/machin-une-boutique-graphique-et-creative-sest-installee-sous-les-cornieres-a-agen-11977136.php)
+Append: [Le Parrain du Prix ARTISANAT & SAVOIR-FAIRE](https://www.ladepeche.fr/2024/05/27/le-parrain-du-prix-artisanat-savoir-faire-11977114.php)
+Append: [Du supermarché au restaurant oriental, l’essor de l’enseigne et de la famille Rahouyi à Boé](https://www.ladepeche.fr/2024/05/27/du-supermarche-au-restaurant-oriental-lessor-de-lenseigne-et-la-famille-rahouyi-a-boe-11977018.php)
+Append: [TBS : Stéphanie Lavigne lance la nouvelle association "TBSeeds Entreprendre"](https://www.ladepeche.fr/2024/05/27/tbs-stephanie-lavigne-lance-la-nouvelle-association-tbseeds-entreprendre-11977058.php)
+Append: [Le Parrain du Prix COMMERCE](https://www.ladepeche.fr/2024/05/27/septuors-haute-garonne-mercredi-05-juin-18h30-11977091.php)
+append_entries: 20
+Finish: 2024-05-28 01:25:24.430066

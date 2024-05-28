@@ -585,3 +585,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Des chihuahuas, un golden retriever et des teckels: "succès" du premier vol dédié aux chiens](https://www.bfmtv.com/economie/entreprises/transports/des-chihuahuas-un-golden-retriever-et-des-teckels-succes-du-premier-vol-dedie-aux-chiens_AN-202405270263.html)
 append_entries: 1
 Finish: 2024-05-27 12:40:06.094901
+------------------------------------------------------
+Started: 2024-05-28 01:18:37.213086
+Existing_entries: 95
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La compagnie aérienne Lufthansa "teste" le retour du café gratuit en classe éco](https://www.bfmtv.com/economie/entreprises/transports/la-compagnie-aerienne-lufthansa-teste-le-retour-du-cafe-gratuit-en-classe-eco_AD-202405270752.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agressions de contrôleurs: les syndicats posent un préavis de grève sur l'axe TGV Nord ce mercredi](https://www.bfmtv.com/economie/entreprises/transports/agression-de-controleurs-les-syndicats-posent-un-preavis-de-greve-sur-l-axe-tgv-nord-ce-mercredi_AV-202405270579.html)
+append_entries: 2
+Finish: 2024-05-28 01:18:48.323211

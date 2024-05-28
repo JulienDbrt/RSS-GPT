@@ -739,3 +739,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Immobilier au Luxembourg: Payer 2 500 euros chaque mois pour un logement inachevé, «on risque de tout perdre»](https://www.lessentiel.lu/fr/story/immobilier-au-luxembourg-payer-2-500-euros-chaque-mois-pour-un-logement-inacheve-on-risque-de-tout-perdre-103110652)
 append_entries: 2
 Finish: 2024-05-27 12:44:47.468762
+------------------------------------------------------
+Started: 2024-05-28 01:23:31.888935
+Existing_entries: 193
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Amendes salées: La Suisse prévient ceux qui veulent frauder avec leur vignette d'autoroute](https://www.lessentiel.lu/fr/story/autoroutes-suisses-pince-un-automobiliste-paie-cher-sa-vignette-trafiquee-103115788)
+append_entries: 1
+Finish: 2024-05-28 01:23:38.355268
