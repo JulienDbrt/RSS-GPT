@@ -549,3 +549,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Réforme de l'assurance chômage : "la vraie incitation, c'est de rendre l'emploi désirable"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/reforme-de-l-assurance-chomage-la-vraie-incitation-c-est-de-rendre-l-emploi-desirable-2976338.html)
 append_entries: 1
 Finish: 2024-05-28 01:22:40.190566
+------------------------------------------------------
+Started: 2024-05-28 12:47:00.159739
+Existing_entries: 81
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-28 12:47:00.574317

@@ -1801,3 +1801,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Autobus électriques : le néerlandais Ebusco lance son offensive sur le marché français](https://www.latribune.fr/entreprises-finance/industrie/autobus-electriques-le-neerlandais-ebusco-lance-son-offensive-sur-le-marche-francais-998483.html)
 append_entries: 10
 Finish: 2024-05-28 01:27:28.434015
+------------------------------------------------------
+Started: 2024-05-28 12:53:37.805892
+Existing_entries: 485
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ukraine : la Suède débloque une nouvelle aide pour maintenir l'« approvisionnement énergétique » du pays](https://www.latribune.fr/economie/union-europeenne/ukraine-la-suede-debloque-une-nouvelle-aide-pour-maintenir-l-approvisionnement-energetique-du-pays-998541.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mobile : les opérateurs télécoms justifient l’extinction de la 2G et de la 3G](https://www.latribune.fr/technos-medias/telecoms/mobile-les-operateurs-telecoms-justifient-l-extinction-de-la-2g-et-de-la-3g-998531.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Space Pharma EU met en orbite les entreprises de la santé et du skin care](https://region-sud.latribune.fr/innovation/2024-05-28/space-pharma-eu-met-en-orbite-les-entreprises-de-la-sante-et-du-skin-care-998546.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Découvrez les premiers intervenants du Bordeaux Solar Summit le 25 juin](https://objectifaquitaine.latribune.fr/business/2024-05-28/decouvrez-les-premiers-intervenants-du-bordeaux-solar-summit-le-25-juin-998177.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [PFAS : « Nous sommes au début d'une prise en charge publique du problème à plusieurs échelles » (Gwenola Le Naour, politiste)](https://region-aura.latribune.fr/territoire/2024-05-28/pfas-nous-sommes-au-debut-d-une-prise-en-charge-publique-du-probleme-a-plusieurs-echelles-gwenola-le-naour-politiste-998453.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Guerre en Ukraine : la Pologne n'exclut pas la possibilité d'envoyer des troupes](https://www.latribune.fr/economie/international/guerre-en-ukraine-la-pologne-n-exclut-pas-la-possibilite-d-envoyer-des-troupes-998540.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le fabricant de chariots Caddie placé en redressement judiciaire, 110 emplois menacés](https://www.latribune.fr/entreprises-finance/services/distribution/le-fabricant-de-chariots-caddie-place-en-redressement-judiciaire-110-emplois-menaces-998534.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Démantèlement d'Atos : l'Etat va récupérer le contrôle des activités stratégiques dont le nucléaire, affirme Bruno Le Maire](https://www.latribune.fr/technos-medias/informatique/demantelement-d-atos-l-etat-veut-recuperer-le-controle-des-activites-strategiques-dont-le-nucleaire-affirme-bruno-le-maire-998523.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Guerre en Ukraine : en tournée en Europe, Volodymyr Zelensky obtient de la Belgique la livraison de 30 avions F-16 d'ici 2028](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/guerre-en-ukraine-en-tournee-en-europe-volodymyr-zelensky-obtient-de-la-belgique-la-livraison-de-30-avions-f-16-d-ici-2028-998529.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance chômage : « le gouvernement fait la poche des chômeurs », déplore la CFDT](https://www.latribune.fr/economie/france/reforme-de-l-assurance-chomage-le-gouvernement-fait-la-poche-des-chomeurs-deplore-la-cfdt-998533.html)
+append_entries: 10
+Finish: 2024-05-28 12:54:35.498949

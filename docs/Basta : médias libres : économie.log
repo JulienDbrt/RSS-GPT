@@ -440,3 +440,12 @@ Existing_entries: 58
 Fetching from https://portail.basta.media/spip.php?page=backend&id_mot=163
 append_entries: 0
 Finish: 2024-05-28 01:06:07.741781
+------------------------------------------------------
+Started: 2024-05-28 12:28:32.161156
+Existing_entries: 58
+Fetching from https://portail.basta.media/spip.php?page=backend&id_mot=163
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Liquider Fret SNCF est un scandale écologique et social »](https://regards.fr/liquider-fret-sncf-est-un-scandale-ecologique-et-social/)
+append_entries: 1
+Finish: 2024-05-28 12:28:38.919517

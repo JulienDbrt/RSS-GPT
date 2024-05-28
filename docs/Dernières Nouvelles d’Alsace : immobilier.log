@@ -491,3 +491,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Crédit immobilier. Comment choisir le prêt adapté à votre projet ?](https://www.dna.fr/magazine-immobilier/2024/05/27/comment-choisir-le-pret-adapte-a-votre-projet)
 append_entries: 1
 Finish: 2024-05-28 01:19:54.965611
+------------------------------------------------------
+Started: 2024-05-28 12:42:42.078868
+Existing_entries: 55
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-05-28 12:42:43.576797

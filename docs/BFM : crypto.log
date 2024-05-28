@@ -567,3 +567,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les cryptos, le nouvel argument de campagne](https://www.bfmtv.com/crypto/les-cryptos-le-nouvel-argument-de-campagne_VL-202405270530.html)
 append_entries: 2
 Finish: 2024-05-28 01:16:25.574702
+------------------------------------------------------
+Started: 2024-05-28 12:39:39.570957
+Existing_entries: 87
+Fetching from https://www.bfmtv.com/rss/crypto/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Un produit que tout le monde peut utiliser": à quoi ressemble le nouveau portefeuille de Ledger (déjà en rupture de stock)?](https://www.bfmtv.com/crypto/un-produit-que-tout-le-monde-peut-utiliser-a-quoi-ressemble-le-nouveau-portefeuille-de-ledger-deja-en-rupture-de-stock_AV-202405280487.html)
+append_entries: 1
+Finish: 2024-05-28 12:39:45.137502

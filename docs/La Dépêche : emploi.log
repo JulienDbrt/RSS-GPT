@@ -709,3 +709,21 @@ Existing_entries: 131
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-28 01:25:24.997662
+------------------------------------------------------
+Started: 2024-05-28 12:51:20.833700
+Existing_entries: 131
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ces métiers qui recrutent dans l’aéronautique : électricien](https://www.ladepeche.fr/2024/05/28/ces-metiers-qui-recrutent-dans-laeronautique-electricien-11971859.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Des cibles prioritaires" : comment la Banque des Territoires encourage la rénovation énergétique des écoles du Gers](https://www.ladepeche.fr/2024/05/28/des-cibles-prioritaires-comment-la-banque-des-territoires-encourage-la-renovation-energetique-des-ecoles-du-gers-11977530.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [A Toulouse, la remontée des cadences Airbus et le chantier du métro boostent l’emploi intérimaire](https://www.ladepeche.fr/2024/05/28/a-toulouse-la-remontee-des-cadences-airbus-et-le-chantier-du-metro-boostent-lemploi-interimaire-11977243.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Villeneuve. Un salon de l’emploi animé](https://www.ladepeche.fr/2024/05/28/un-salon-de-lemploi-anime-11978459.php)
+append_entries: 4
+Finish: 2024-05-28 12:51:43.803176

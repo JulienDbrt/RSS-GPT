@@ -432,3 +432,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les banques vont-elles devenir des régies publicitaires?](https://www.bfmtv.com/economie/entreprises/assurance-banque/les-banques-vont-elles-devenir-des-regies-publicitaires_AN-202405270602.html)
 append_entries: 1
 Finish: 2024-05-28 01:16:07.537541
+------------------------------------------------------
+Started: 2024-05-28 12:39:33.696758
+Existing_entries: 42
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/
+append_entries: 0
+Finish: 2024-05-28 12:39:33.943543

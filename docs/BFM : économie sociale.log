@@ -627,3 +627,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Emmanuel Macron appelle à "une préférence commerciale" européenne](https://www.bfmtv.com/economie/economie-social/union-europeenne/emmanuel-macron-appelle-a-une-preference-commerciale-europeenne_AD-202405270771.html)
 append_entries: 2
 Finish: 2024-05-28 01:15:54.768784
+------------------------------------------------------
+Started: 2024-05-28 12:39:15.599569
+Existing_entries: 107
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+append_entries: 0
+Finish: 2024-05-28 12:39:15.883945

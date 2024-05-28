@@ -681,3 +681,24 @@ Existing_entries: 125
 Fetching from https://www.7sur7.be/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-28 01:14:44.809507
+------------------------------------------------------
+Started: 2024-05-28 12:37:48.128559
+Existing_entries: 125
+Fetching from https://www.7sur7.be/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Via sa marque BASE, Telenet se lance dans l’internet fixe et la télévision partout en Belgique](https://www.7sur7.be/economie/via-sa-marque-base-telenet-se-lance-dans-linternet-fixe-et-la-television-partout-en-belgique~a302764c/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les timbres coûtent trop cher en Belgique: en 7 ans, le prix d’un prior a augmenté de... 187%](https://www.7sur7.be/economie/les-timbres-coutent-trop-cher-en-belgique-en-7-ans-le-prix-dun-prior-a-augmente-de-187~a1bfdb54/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La consommation moyenne d'internet passe à 278 GB par mois : quel abonnement choisir ?](https://www.7sur7.be/home/la-consommation-moyenne-d-internet-passe-a-278-gb-par-mois-quel-abonnement-choisir~a130b761/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les comptes de la Ville de Bruxelles sont à l’équilibre, mais la dette a augmenté](https://www.7sur7.be/economie/les-comptes-de-la-ville-de-bruxelles-sont-a-lequilibre-mais-la-dette-a-augmente~a3d073915/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Engie facture un demi-milliard à l’État pour le démantèlement des centrales nucléaires](https://www.7sur7.be/economie/engie-facture-un-demi-milliard-a-letat-pour-le-demantelement-des-centrales-nucleaires~a92ea2b9/)
+append_entries: 5
+Finish: 2024-05-28 12:38:16.355792

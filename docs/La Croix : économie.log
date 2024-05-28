@@ -728,3 +728,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [G7 : premiers pas vers une taxation mondiale des milliardaires](https://www.la-croix.com/economie/g7-premiers-pas-vers-une-taxation-mondiale-des-milliardaires-20240527)
 append_entries: 1
 Finish: 2024-05-28 01:24:20.986341
+------------------------------------------------------
+Started: 2024-05-28 12:50:03.747844
+Existing_entries: 154
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les communes s’inquiètent de la hausse des tarifs d’assurance](https://www.la-croix.com/economie/les-communes-s-inquietent-de-la-hausse-des-tarifs-dassurance-20240528)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Logement ancien : les prix ont encore baissé au premier trimestre 2024](https://www.la-croix.com/economie/logement-ancien-les-prix-ont-encore-baisse-au-premier-trimestre-2024-20240528)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les espèces protégées fragilisées par la loi d’orientation agricole](https://www.la-croix.com/planete/les-especes-protegees-fragilisees-par-la-loi-d-orientation-agricole-20240527)
+append_entries: 3
+Finish: 2024-05-28 12:50:21.939926

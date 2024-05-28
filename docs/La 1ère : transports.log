@@ -592,3 +592,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [VIDEO. Crise en Nouvelle-Calédonie : comment l'approvisionnement de Tiga en médicaments et denrées alimentaires s'organise](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/lifou/video-crise-en-nouvelle-caledonie-comment-l-approvisionnement-de-tiga-en-medicaments-et-denrees-alimentaires-s-organise-1491743.html)
 append_entries: 1
 Finish: 2024-05-28 01:24:15.032503
+------------------------------------------------------
+Started: 2024-05-28 12:49:52.162933
+Existing_entries: 82
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un vol prévu mardi pour rapatrier les Calédoniens bloqués à Tahiti](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/un-vol-prevu-mardi-pour-rapatrier-les-caledoniens-bloques-a-tahiti-1491785.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'émotion des premiers Polynésiens rapatriés, les promesses de l'État et du Pays](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/l-emotion-des-premiers-polynesiens-rapatries-les-promesses-de-l-etat-et-du-pays-1491755.html)
+append_entries: 2
+Finish: 2024-05-28 12:50:03.666123

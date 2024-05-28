@@ -2059,3 +2059,56 @@ Append: [Les voitures ne sont pas près de s’arrêter de rouler à l’essence
 Append: [«Certains se croient tout permis» : Versailles fait la chasse aux boîtes à clés Airbnb](https://www.leparisien.fr/yvelines-78/locations-touristiques-apres-paris-versailles-fait-la-chasse-aux-boites-a-cles-airbnb-27-05-2024-ZFKSU6U3XNEWVGS3OX73M2HZMY.php)
 append_entries: 15
 Finish: 2024-05-28 01:08:38.580164
+------------------------------------------------------
+Started: 2024-05-28 12:30:47.350832
+Existing_entries: 701
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : les ventes s’écroulent encore dans l’ancien, les prix dégringolent](https://www.capital.fr/immobilier/immobilier-les-ventes-secroulent-encore-dans-lancien-les-prix-degringolent-1497342)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rappel produit : ce riz basmati vendu dans toute la France ne doit pas être consommé](https://www.marmiton.org/focus-ingredient/rappel-produit-ce-riz-basmati-vendu-dans-toute-la-france-ne-doit-pas-etre-consomme-s4086006.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Une villa à 11 millions: Kylian Mbappé aurait déjà trouvé sa maison à Madrid](https://immobilier.lefigaro.fr/article/une-villa-a-11-millions-kylian-mbappe-aurait-deja-trouve-sa-maison-a-madrid_98078966-1ccc-11ef-b892-dd1b20a2f43b/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Placements : les raisons de détenir de l'or physique](https://www.lesechos.fr/patrimoine/placement/placements-les-raisons-de-detenir-de-lor-physique-2097517)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Carrefour, Leclerc, Auchan... Des saucisses rappelées en raison de la présence "de corps étrangers"](https://actu.fr/economie/carrefour-leclerc-auchan-des-saucisses-rappelees-en-raison-de-la-presence-de-corps-etrangers_61121121.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ce chiffre de l'Insee montre que les jeunes paient trop de cotisations à de riches retraités](https://www.journaldunet.com/patrimoine/finances-personnelles/1530557-hf1-injustice-en-france/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Composition, danger pour la santé, interdiction... Cinq questions sur "Sniffy", la poudre blanche légale à sniffer qui fait polémique](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/composition-danger-pour-la-sante-interdiction-cinq-questions-sur-sniffy-la-poudre-blanche-legale-a-sniffer-qui-fait-polemique-2976485.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cette ville de France compte le plus de fumeurs](https://www.caminteresse.fr/societe/cette-ville-de-france-compte-le-plus-de-fumeurs-11194899/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [On a découvert cette tondeuse à main qui ne consomme ni électricité ni essence à moins de 100 euros](https://www.ouest-france.fr/shopping/maison-jardin/jardin/on-a-decouvert-cette-tondeuse-a-main-qui-ne-consomme-ni-electricite-ni-essence-a-moins-de-100-euros-b5697f50-19e8-11ef-8e43-1b4062ea12e6)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comment composer son petit-déjeuner quand on a du cholestérol ?](https://www.femmeactuelle.fr/sante/alimentation-equilibree/comment-composer-son-petit-dejeuner-quand-on-a-du-cholesterol-2176003)
+Append: [Est-il rentable d'investir dans le vin ? Comment procéder ?](https://lemagdelaconso.ouest-france.fr/dossier-1048-investir-vin.html)
+Append: [Électricité : les heures creuses bonne ou mauvaise idée pour faire des économies ?](https://www.pleinevie.fr/conso-argent/budget/electricite-les-heures-creuses-bonne-ou-mauvaise-idee-pour-faire-des-economies-119281.html)
+Append: [La fraude au compteur Linky peut coûter cher !](https://www.mac4ever.com/ecotech/182724-la-fraude-au-compteur-linky-peut-couter-cher)
+Append: [Tarif saisonnier de l’eau à Toulouse : ce qui change dès le 1er juin](https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/tarif-saisonnier-eau-toulouse-ce-qui-change-1er-juin-266387/)
+Append: [Dette, suicide et fraude : les Sud-Coréens dans l'enfer des prêts immobiliers](https://www.challenges.fr/societe/dette-suicide-et-fraude-les-sud-coreens-dans-l-enfer-des-prets-immobiliers_894416)
+Append: [Reconnaissance de l’État de Palestine, prix de l’immobilier, Marion Maréchal sur l’audiovisuel public... Les 3 infos à retenir à la mi-journée](https://www.lefigaro.fr/flash-actu/reconnaissance-de-l-etat-de-palestine-prix-de-l-immobilier-marion-marechal-sur-l-audiovisuel-public-les-3-infos-a-retenir-a-la-mi-journee-20240528)
+Append: [Chemsex : des députés appellent le gouvernement à mettre en place une politique de prévention](https://www.liberation.fr/societe/sante/chemsex-des-deputes-appellent-le-gouvernement-a-mettre-en-place-une-politique-de-prevention-20240528_WY6Q5XO7BJBBXFFVTV3UAR3OW4/)
+Append: [20 tonnes de bouteilles de protoxyde d’azote retrouvées sur les trottoirs de la Ville de Bruxelles en 2023 : “il faut une campagne l’alerte”](https://www.dhnet.be/regions/bruxelles/2024/05/28/20-tonnes-de-bouteilles-de-protoxyde-dazote-retrouvees-sur-les-trottoirs-de-la-ville-de-bruxelles-en-2023-il-faut-une-campagne-lalerte-SY5SJXPWTZEJFCCTRLCOR7ME3I/)
+Append: [Coup de foudre à We Love Green](https://www.radiofrance.fr/franceinter/podcasts/musicaline/musicaline-du-mardi-28-mai-2024-8836001)
+Append: [La hausse minimale de la taxe foncière est de 3,9% en 2024 dans certaines communes](https://www.bfmtv.com/economie/la-hausse-minimale-de-la-taxe-fonciere-est-de-3-9-en-2024-dans-certaines-communes_VN-202405280529.html)
+Append: [En Bretagne, une mine d’Imerys accapare et pollue la ressource en eau](https://reporterre.net/En-Bretagne-une-mine-d-Imerys-accapare-et-pollue-la-ressource-en-eau)
+Append: [Alimentation : alors que les fast-foods séduisent de plus en plus, la restauration de table recule](https://www.francetvinfo.fr/sante/alimentation/alimentation-alors-que-les-fast-foods-seduisent-de-plus-en-plus-la-restauration-de-table-recule_6570284.html)
+Append: [Dans le projet immobilier de Maxine et Maxime, jeune couple sans crédit : « Cela va nous occuper les 20 prochaines années »](https://www.leparisien.fr/immobilier/dans-le-projet-immobilier-de-maxine-et-maxime-jeune-couple-sans-credit-cela-va-nous-occuper-les-20-prochaines-annees-28-05-2024-4R6ZMLZA7ZHQFCX3MKGW6CHPVY.php)
+Append: [Lille : Une centrale solaire mobile alimente une résidence HLM](https://www.20minutes.fr/lille/4093195-20240528-lille-centrale-solaire-mobile-alimente-residence-hlm)
+Append: [Sophie Binet : « Le carburant de l'extrême droite, c'est la crise environnementale »](https://reporterre.net/Sophie-Binet-Le-carburant-de-l-extreme-droite-c-est-la-crise-environnementale)
+Append: [A Paris, le prix au mètre carré passe sous les 9.500€ (Notaires)](https://www.boursier.com/patrimoine/immobilier/actualites/a-paris-le-prix-au-metre-carre-passe-sous-les-9-500-notaires-8743.html)
+Append: [Quand la maison de rêve vire au cauchemar: 2 promoteurs immobiliers accusés par des familles valaisannes](https://www.lenouvelliste.ch/valais/quand-la-maison-de-reve-vire-au-cauchemar-2-promoteurs-immobiliers-accuses-par-des-familles-valaisannes-1390831)
+append_entries: 27
+Finish: 2024-05-28 12:31:45.170725

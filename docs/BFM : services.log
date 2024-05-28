@@ -402,3 +402,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Cercle vicieux": la commission d'enquête sur les crèches constate un système "à bout de souffle"](https://www.bfmtv.com/economie/entreprises/services/cercle-vicieux-la-commission-d-enquete-sur-les-creches-constate-un-systeme-a-bout-de-souffle_AD-202405270556.html)
 append_entries: 1
 Finish: 2024-05-28 01:18:36.708873
+------------------------------------------------------
+Started: 2024-05-28 12:41:42.524260
+Existing_entries: 32
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/services/
+append_entries: 0
+Finish: 2024-05-28 12:41:42.619940

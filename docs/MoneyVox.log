@@ -1568,3 +1568,36 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Si vous êtes enfin retraite, voici la case spéciale à remplir pour réduire vos impôts](https://www.moneyvox.fr/impot/actualites/97946/si-vous-etes-enfin-retraite-voici-la-case-speciale-a-remplir-pour-reduire-vos-impots)
 append_entries: 8
 Finish: 2024-05-28 01:22:09.250077
+------------------------------------------------------
+Started: 2024-05-28 12:45:24.564700
+Existing_entries: 454
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Héritage et impôts : deux nouveautés très attendues pour les mariages qui virent au drame](https://www.moneyvox.fr/impot/actualites/97794/heritage-et-impots-deux-nouveautes-tres-attendues-pour-les-mariages-qui-virent-au-drame)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance vie : grosse surprise à l'Afer, qui va lancer un nouveau contrat](https://www.moneyvox.fr/assurance-vie/actualites/97961/grosse-surprise-a-afer-qui-va-lancer-un-nouveau-contrat)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts 2024 : êtes-vous concerné par la nouvelle date limite de déclaration du jeudi 30 mai ?](https://www.moneyvox.fr/impot/actualites/97963/impots-2024-etes-vous-concerne-par-la-nouvelle-date-limite-de-declaration-du-jeudi-30-mai)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Bourse de Paris prudente avant des indices d'inflation attendus en fin de semaine](https://www.moneyvox.fr/bourse/actualites/97960/la-bourse-de-paris-prudente-avant-des-indices-inflation-attendus-en-fin-de-semaine)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts locaux : payez-vous plus ou moins que la moyenne ?](https://www.moneyvox.fr/impot/actualites/97959/impots-locaux-payez-vous-plus-ou-moins-que-la-moyenne)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : nouvelle baisse des prix dans l'ancien](https://www.moneyvox.fr/immobilier/actualites/97957/nouvelle-baisse-des-prix-dans-ancien)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts 2024 : le nouveau casse-tête des frais de télétravail sur votre déclaration de revenus](https://www.moneyvox.fr/impot/actualites/97943/impots-2024-le-nouveau-casse-tete-des-frais-de-teletravail-sur-votre-declaration-de-revenus)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts 2024 : les conséquences de la déclaration de revenus sur votre éligibilité au LEP](https://www.moneyvox.fr/livret/actualites/97905/impots-2024-les-consequences-de-la-declaration-de-revenus-sur-votre-eligibilite-au-lep)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Si vous êtes enfin à la retraite, voici la case spéciale à remplir pour réduire vos impôts](https://www.moneyvox.fr/impot/actualites/97946/si-vous-etes-enfin-a-la-retraite-voici-la-case-speciale-a-remplir-pour-reduire-vos-impots)
+append_entries: 9
+Finish: 2024-05-28 12:46:16.755369

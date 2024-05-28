@@ -805,3 +805,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Gus Fring défie les plus grands héros de la pop culture](https://korben.info/gus-fring-defie-les-plus-grands-mechants-pop-culture.html)
 append_entries: 3
 Finish: 2024-05-28 01:10:25.648022
+------------------------------------------------------
+Started: 2024-05-28 12:33:55.017351
+Existing_entries: 155
+Fetching from https://korben.info/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Reconnaissance faciale en France – Une menace pour nos libertés](https://korben.info/reconnaissance-faciale-france-menace-libertes.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Microsoft Auto SR – L’upscaling automatique débarque sous Windows 11](https://korben.info/microsoft-auto-sr-upscaling-dlss-fsr-windows-11.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Votre routeur Wi-Fi vous espionne – La géolocalisation en mode stalker !](https://korben.info/box-wifi-espionne-geolocalisation-stalker.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Memories – Le gestionnaire de photos qu’il faut à votre serveur Nextcloud](https://korben.info/memories-solution-gestion-photos-videos-nextcloud.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gérez vos PRs et issues GitHub comme un pro avec gh-dash](https://korben.info/gerez-vos-prs-et-issues-github-comme-un-pro-avec-gh-dash.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Elia – Un assistant IA pour votre terminal sous Linux](https://korben.info/elia-assistant-ia-conversationnel-puissant-terminal-linux.html)
+append_entries: 6
+Finish: 2024-05-28 12:34:29.740130

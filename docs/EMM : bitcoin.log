@@ -2299,3 +2299,42 @@ Append: [Trump promet de commuer la peine à perpétuité de Ross Ulbricht, fond
 Append: [Bourse italienne, commentaire de la séance du 27 mai 2024](https://www.nouvelles-du-monde.com/bourse-italienne-commentaire-de-la-seance-du-27-mai-2024/)
 append_entries: 17
 Finish: 2024-05-28 01:07:15.068397
+------------------------------------------------------
+Started: 2024-05-28 12:28:48.606801
+Existing_entries: 934
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [12:11 La liquidation des avoirs de Mt Gox. fait chuter le Bitcoin](https://www.lesechos.fr/finance-marches/marches-financiers/la-liquidation-des-avoirs-de-mt-gox-fait-chuter-le-bitcoin-2097520)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Donald Trump s’engage à protéger Bitcoin d’Elizabeth Warren et des excès de réglementation](https://www.nouvelles-du-monde.com/donald-trump-sengage-a-proteger-bitcoin-delizabeth-warren-et-des-exces-de-reglementation/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitpanda s'associe à Solaris pour assurer la conservation accrue des cryptos](https://www.boursier.com/opcvm/actualites/generales/bitpanda-s-associe-a-solaris-pour-assurer-la-conservation-accrue-des-cryptos-929718.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les élections américaines influencent-elles le cours de l’or ?](https://www.boursier.com/patrimoine/epargne/points-de-vue/les-elections-americaines-influencent-elles-le-cours-de-lor-8742.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [09:45 Chronique Des idées folles pour 2035](https://www.lesechos.fr/idees-debats/editos-analyses/des-idees-folles-pour-2035-2097478)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Blockchain et l’avenir d’internet](https://connectionivoirienne.net/2024/05/28/blockchain-et-lavenir-dinternet/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bernard Thibault, coprésident du comité de suivi de la Charte sociale pour les JO 2024 - 28/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/bernard-thibault-copresident-du-comite-de-suivi-de-la-charte-sociale-pour-les-jo-2024-28-05_EN-202405280214.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Marc-Antoine Jamet, président du Comité des Champs-Élysées - 28/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/marc-antoine-jamet-president-du-comite-des-champs-elysees-28-05_EN-202405280178.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Plus de la moitié des grands hedge funds américains sont investis en ETF bitcoin](https://www.agefi.fr/asset-management/actualites/plus-de-la-moitie-des-grands-hedge-funds-americains-sont-investis-en-etf-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [06:44 IA, identité, vote : comment la licorne française Ledger veut dépasser les cryptos](https://www.lesechos.fr/start-up/ecosysteme/ia-identite-vote-comment-la-licorne-francaise-ledger-veut-depasser-les-cryptos-2097430)
+Append: [BFM Crypto: Tendance, rebond éclair puis baisse - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-la-chronique/bfm-crypto-tendance-rebond-eclair-puis-baisse-28-05_VN-202405280063.html)
+Append: [BFM Crypto : Tendance, rebond éclair puis baisse - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-la-chronique/bfm-crypto-tendance-rebond-eclair-puis-baisse-28-05_EN-202405280061.html)
+Append: [Investir dans Bitcoin ou Bitbot : lequel offre les meilleurs gains lors de cette course haussière ? 28 mai 2024](https://www.cryptopolitan.com/fr/investir-dans-bitcoin-vs-bitbot-qui-offre-les-meilleurs-gains-dans-cette-course-haussiere/)
+append_entries: 13
+Finish: 2024-05-28 12:29:47.148572

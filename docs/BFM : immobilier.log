@@ -643,3 +643,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Shanghai prend à son tour des mesures pour relancer le marché de l'immobilier](https://www.bfmtv.com/immobilier/international-etranger/shanghai-prend-a-son-tour-des-mesures-pour-relancer-le-marche-de-l-immobilier_AD-202405270586.html)
 append_entries: 3
 Finish: 2024-05-28 01:18:28.535112
+------------------------------------------------------
+Started: 2024-05-28 12:41:29.789297
+Existing_entries: 125
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Au 1er trimestre 2024, les prix de l'immobilier baissent encore](https://www.bfmtv.com/immobilier/prix-immobilier/au-1er-trimestre-2024-les-prix-de-l-immobilier-baissent-encore_AD-202405280232.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Nos chantiers prennent du retard": la pluie devient un cauchemar pour les artisans](https://www.bfmtv.com/immobilier/construction/nos-chantiers-prennent-du-retard-la-pluie-devient-un-cauchemar-pour-les-artisans_AV-202405280147.html)
+append_entries: 2
+Finish: 2024-05-28 12:41:41.114765

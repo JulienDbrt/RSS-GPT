@@ -642,3 +642,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [La folle histoire d'un tableau d’une «valeur extraordinaire»](https://www.20min.ch/fr/103115902)
 append_entries: 1
 Finish: 2024-05-28 01:14:32.328446
+------------------------------------------------------
+Started: 2024-05-28 12:37:29.722933
+Existing_entries: 112
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-05-28 12:37:30.473215

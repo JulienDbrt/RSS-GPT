@@ -826,3 +826,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Dépenses publiques : "Les déclarations d’Emmanuel Macron détruisent la confiance avec les collectivités"](https://www.lexpress.fr/economie/depenses-publiques-les-declarations-demmanuel-macron-detruisent-la-confiance-avec-les-collectivites-R7VW7G5WKNEWPL7JEAIZQT36YM/)
 append_entries: 1
 Finish: 2024-05-28 01:23:45.441266
+------------------------------------------------------
+Started: 2024-05-28 12:48:18.988948
+Existing_entries: 220
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mobilités durables : la RSE, un atout aussi pour les services RH](https://www.lexpress.fr/economie/entreprises/mobilites-durables-la-rse-un-atout-aussi-pour-les-services-rh-3UF6LOOQOZG5ZGUAXBHQKS6KVQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Travail à distance : ces métiers bouleversés par la nouvelle délocalisation numérique](https://www.lexpress.fr/economie/high-tech/travail-a-distance-ces-metiers-bouleverses-par-la-nouvelle-delocalisation-numerique-EF5GERD4IJFBVD3RF5YJCVJGUA/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Macron a-t-il fait baisser les impôts locaux des ménages ? Cette note qui lève le voile](https://www.lexpress.fr/economie/macron-a-t-il-fait-baisser-les-impots-locaux-des-menages-cette-note-qui-leve-le-voile-3X66BHQCOVB7HG5XSET265J4VU/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Atos : l’Etat se positionne sur les activités nucléaires stratégiques](https://www.lexpress.fr/economie/high-tech/atos-letat-se-positionne-sur-les-activites-nucleaires-strategiques-KR6X7YQKXVDZJGZD4OYPA33SRA/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alberto Alemanno : "Le discours alarmiste de Macron sur l’état de l’Europe est contre-productif"](https://www.lexpress.fr/economie/alberto-alemanno-le-discours-alarmiste-de-macron-sur-letat-de-leurope-est-contre-productif-CWXAKOR4ZFDQ5LMQXGZOGE74DM/)
+append_entries: 5
+Finish: 2024-05-28 12:48:47.962494

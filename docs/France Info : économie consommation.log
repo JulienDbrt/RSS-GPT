@@ -2065,3 +2065,44 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Automobile : les véhicules électriques sont plus chers à réparer](https://www.francetvinfo.fr/economie/automobile/automobile-les-vehicules-electriques-sont-plus-chers-a-reparer_6568649.html)
 append_entries: 9
 Finish: 2024-05-28 01:20:53.241754
+------------------------------------------------------
+Started: 2024-05-28 12:43:54.136045
+Existing_entries: 695
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le fabricant de chariots de supermarchés Caddie placé en redressement judiciaire](https://www.francetvinfo.fr/societe/justice/le-fabricant-de-chariots-de-supermarches-caddie-place-en-redressement-judiciaire_6570563.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Asics lance une paire de chaussures de running qu'elle assure recyclable à près de 90%](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/asics-lance-une-paire-de-chaussures-de-running-qu-elle-assure-recyclable-a-pres-de-90_6542267.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réforme de l'assurance-chômage : pourquoi les jeunes, les précaires et les seniors sont ceux qui ont le plus à perdre](https://www.francetvinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-pourquoi-les-jeunes-les-precaires-et-les-seniors-sont-ceux-qui-ont-le-plus-a-perdre_6568559.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Paris 2024 : "Il nous faut une compensation financière", avancent des restaurateurs qui craignent de devoir fermer pendant les Jeux olympiques](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-il-nous-faut-une-compensation-financiere-glissent-des-restaurateurs-qui-craignent-de-devoir-fermer-pendant-les-jeux-olympiques_6570182.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La "vision du hibou" : des chercheurs inventent un casque de réalité virtuelle qui permet de voir à 360°](https://www.francetvinfo.fr/replay-radio/aujourd-hui-c-est-demain/la-vision-du-hibou-des-chercheurs-inventent-un-casque-de-realite-virtuelle-qui-permet-de-voir-a-360_6542258.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Restauration rapide : "Depuis 2021, le nombre de fast-foods a dépassé, en France, le nombre de restaurants traditionnels", selon une experte](https://www.francetvinfo.fr/replay-radio/le-grand-temoin/restauration-rapide-depuis-2021-le-nombre-de-fast-foods-a-depasse-en-france-le-nombre-de-restaurants-traditionnels-selon-une-experte_6542276.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Au Japon, la bâche installée pour cacher le Mont Fuji déjà vandalisée](https://www.francetvinfo.fr/culture/au-japon-la-bache-installee-pour-cacher-le-mont-fuji-deja-vandalisee_6570320.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [EN IMAGES. Plus d'arbres et moins de voitures… Voici à quoi pourrait ressembler les Champs-Élysées en 2030](https://www.francetvinfo.fr/france/ile-de-france/champs-elysees-un-rapport-qui-va-servir-de-base-de-travail-a-la-mairie-preconise-de-passer-de-6-a-4-voies-pour-les-voitures_6569012.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Paris 2024 : les tarifs des logements à louer chutent](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-les-tarifs-des-logements-a-louer-chutent_6570305.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Contrôle technique : le boycott des collectionneurs de Solex](https://www.francetvinfo.fr/economie/transports/controle-technique-le-boycott-des-collectionneurs-de-solex_6570287.html)
+Append: [Alimentation : alors que les fast-foods séduisent de plus en plus, la restauration de table recule](https://www.francetvinfo.fr/sante/alimentation/alimentation-alors-que-les-fast-foods-seduisent-de-plus-en-plus-la-restauration-de-table-recule_6570284.html)
+Append: [Déplacement d'Emmanuel Macron en Allemagne : le nécessaire renforcement de l’union franco-allemande, moteur de l'économie européenne](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/deplacement-d-emmanuel-macron-en-allemagne-le-necessaire-renforcement-de-l-union-franco-allemande-moteur-de-l-economie-europeenne_6542243.html)
+Append: ["Un gadget pour faire la une des journaux" : l'idée de Rishi Sunak d'un service national pour les 18 ans ne fait pas l'unanimité en Grande-Bretagne](https://www.francetvinfo.fr/monde/royaume-uni/un-gadget-pour-faire-la-une-des-journaux-l-idee-de-rishi-sunak-d-un-service-national-pour-les-18-ans-ne-fait-pas-du-tout-l-unanimite-en-grande-bretagne_6570173.html)
+Append: [Déclaration de revenus : report de la date butoir pour certains contribuables des départements un à dix-neuf](https://www.francetvinfo.fr/replay-radio/le-brief-eco/declaration-de-revenus-report-de-la-date-butoir-pour-certains-contribuables-des-departements-un-a-dix-neuf_6542252.html)
+Append: [Paris 2024 : "summer camp" et crèches "mobilisées"... Ces solutions de la préfecture de police de Paris pour la garde d'enfants lors des JO](https://www.francetvinfo.fr/les-jeux-olympiques/creches-mobilisees-en-plein-ete-colonies-ces-solutions-de-la-prefecture-de-police-de-paris-pour-la-garde-d-enfants-des-fonctionnaires-mobilises-pour-les-jo_6543506.html)
+append_entries: 15
+Finish: 2024-05-28 12:44:51.311857

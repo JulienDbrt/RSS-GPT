@@ -1205,3 +1205,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Ils voulaient concurrencer la SNCF, les lignes de train Railcoop ne verront pas le jour](https://france3-regions.francetvinfo.fr/centre-val-de-loire/ils-voulaient-concurrencer-la-sncf-les-lignes-de-train-railcoop-ne-verront-pas-le-jour-2976077.html)
 append_entries: 4
 Finish: 2024-05-28 01:23:15.423740
+------------------------------------------------------
+Started: 2024-05-28 12:47:13.388140
+Existing_entries: 300
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un poids lourd percute un véhicule de société d'autoroute : l'A40 coupée à la circulation, le conducteur blessé](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/accident-entre-un-poids-lourd-et-le-vehicule-d-une-societe-d-autoroute-l-a40-coupee-a-la-circulation-le-conducteur-legerement-blesse-2976533.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Normandie promet 70 trains supplémentaires par semaine dès la fin d'année](https://france3-regions.francetvinfo.fr/normandie/la-normandie-promet-70-trains-supplementaires-par-semaine-des-la-fin-d-annee-2976368.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Accident de la route : un sexagénaire dans un état grave après avoir effectué plusieurs tonneaux à bord de son véhicule](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/accident-de-la-route-un-sexagenaire-dans-un-etat-grave-apres-avoir-effectue-plusieurs-tonneaux-a-bord-de-son-vehicule-2976389.html)
+append_entries: 3
+Finish: 2024-05-28 12:47:30.862719

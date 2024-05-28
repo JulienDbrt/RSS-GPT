@@ -2792,3 +2792,58 @@ Append: ["Je ne vois pas l'intérêt": Jean-Marc Jancovici étrille l'énergie h
 Append: ["Une piste qui continue de faire l’objet de travaux": le ministère des Armées ne confirme pas l'arrivée prochaine d'instructeurs militaires français à Kiev](https://www.bfmtv.com/economie/entreprises/defense/l-ukraine-annonce-l-arrivee-prochaine-d-instructeurs-militaires-francais-a-kiev_AD-202405270704.html)
 append_entries: 30
 Finish: 2024-05-28 01:15:42.701487
+------------------------------------------------------
+Started: 2024-05-28 12:38:17.589102
+Existing_entries: 1030
+Fetching from https://www.bfmtv.com/rss/economie/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'A321 XLR, le nouvel avion révolutionnaire d'Airbus](https://www.bfmtv.com/economie/l-a321-xlr-le-nouvel-avion-revolutionnaire-d-airbus_VN-202405280539.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comment faire pour creuser les trous sur les CV des candidats ?](https://www.bfmtv.com/economie/replay-emissions/bfm-business-avec-vous/comment-faire-pour-creuser-les-trous-sur-les-cv-des-candidats_EN-202405280534.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comment s'améliorer dans le décryptage du non-verbal en entretien ?](https://www.bfmtv.com/economie/replay-emissions/bfm-business-avec-vous/comment-s-ameliorer-dans-le-decryptage-du-non-verbal-en-entretien_EN-202405280532.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Qu'est ce que l'A/B testing ?](https://www.bfmtv.com/economie/replay-emissions/bfm-business-avec-vous/qu-est-ce-que-l-a-b-testing_EN-202405280531.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La hausse minimale de la taxe foncière est de 3,9% en 2024 dans certaines communes](https://www.bfmtv.com/economie/la-hausse-minimale-de-la-taxe-fonciere-est-de-3-9-en-2024-dans-certaines-communes_VN-202405280529.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Licenciement pour insuffisance professionnelle](https://www.bfmtv.com/economie/licenciement-pour-insuffisance-professionnelle_VN-202405280515.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La ville de Séoul trouve des substances toxiques dans des produits Shein pour enfants](https://www.bfmtv.com/economie/entreprises/la-ville-de-seoul-trouve-des-substances-toxiques-dans-des-produits-shein-pour-enfants_AD-202405280513.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avion électrique: Airbus va épauler Aura Aéro](https://www.bfmtv.com/economie/entreprises/aeronautique/avion-electrique-airbus-va-epauler-aura-aero_AV-202405280512.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vacances d'été: les Français seront moins nombreux à partir que l'an dernier](https://www.bfmtv.com/economie/vacances-d-ete-les-francais-seront-moins-nombreux-a-partir-que-l-an-dernier_VN-202405280503.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avec vous - Mardi 28 mai](https://www.bfmtv.com/economie/replay-emissions/soixante-minutes-business/avec-vous-mardi-28-mai_VN-202405280502.html)
+Append: [Avec vous du mardi 28 mai](https://www.bfmtv.com/economie/replay-emissions/bfm-business-avec-vous/avec-vous-du-mardi-28-mai_EN-202405280493.html)
+Append: [Guerre en Ukraine: la Belgique promet de  livrer 30 avions de combat F-16 à Kiev d'ici à 2028](https://www.bfmtv.com/economie/entreprises/defense/guerre-en-ukraine-la-belgique-promet-de-livrer-30-avions-de-combat-f-16-a-kiev-d-ici-a-2028_AD-202405280467.html)
+Append: [Recrutement: les cadres pointent des processus longs et déséquilibrés](https://www.bfmtv.com/economie/emploi/recrutement-les-cadres-pointent-des-processus-longs-et-desequilibres_AV-202405280464.html)
+Append: [Faut-il faciliter les licenciements dans la fonction publique pour insuffisance professionnelle ?](https://www.bfmtv.com/economie/faut-il-faciliter-les-licenciements-dans-la-fonction-publique-pour-insuffisance-professionnelle_VL-202405280412.html)
+Append: [Edition spéciale “Objectif Zero Carbone” - 23/05](https://www.bfmtv.com/economie/replay-emissions/les-emissions-partenaires/edition-speciale-objectif-zero-carbone-23-05_VN-202405280410.html)
+Append: [Tout pour investir - Mardi 28 mai](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-mardi-28-mai_VN-202405280434.html)
+Append: [L'intégrale de Tout pour investir du mardi 28 mai](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-integrale-de-tout-pour-investir-du-mardi-28-mai_EN-202405280405.html)
+Append: [Tout pour investir : Partie 2 - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-partie-2-28-05_VN-202405280418.html)
+Append: [Tout pour investir : 11h/12h - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/tout-pour-investir-11h-12h-28-05_EN-202405280402.html)
+Append: [La place de l'immo : Transformer la recherche de bureaux - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-place-de-l-immo-transformer-la-recherche-de-bureaux-28-05_EN-202405280395.html)
+Append: [La place de l'immo : Transformer la recherche de bureaux - 28/05](https://www.bfmtv.com/economie/replay-emissions/la-vie-immo/la-place-de-l-immo-transformer-la-recherche-de-bureaux-28-05_EN-202405280394.html)
+Append: [Investissement Iconic : Investir dans les arts d'Asie - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/investissement-iconic-investir-dans-les-arts-d-asie-28-05_VN-202405280397.html)
+Append: [Cette entreprise prolonge la durée de vie des satellites](https://www.bfmtv.com/economie/cette-entreprise-prolonge-la-duree-de-vie-des-satellites_VN-202405280396.html)
+Append: [Investissement Iconic : Investir dans les arts d'Asie - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/investissement-iconic-investir-dans-les-arts-d-asie-28-05_EN-202405280390.html)
+Append: [La place de l'immo : Transformer la recherche de bureaux - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-place-de-l-immo-transformer-la-recherche-de-bureaux-28-05_VN-202405280399.html)
+Append: [La place de l'immo : Transformer la recherche de bureaux - 28/05](https://www.bfmtv.com/economie/replay-emissions/la-vie-immo/la-place-de-l-immo-transformer-la-recherche-de-bureaux-28-05_VN-202405280400.html)
+Append: [Vos questions, nos réponses - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/vos-questions-nos-reponses-28-05_VN-202405280388.html)
+Append: [Vos questions, nos réponses - 28/05](https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/vos-questions-nos-reponses-28-05_EN-202405280384.html)
+Append: [Le coaching, un atout clé pour bien gérer la transformation d’une entreprise](https://www.bfmtv.com/economie/replay-emissions/hashtag-jmleco/le-coaching-un-atout-cle-pour-bien-gerer-la-transformation-d-une-entreprise_VN-202405280377.html)
+append_entries: 29
+Finish: 2024-05-28 12:39:15.347350

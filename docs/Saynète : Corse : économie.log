@@ -1569,3 +1569,9 @@ Append: [Dossier : Les plus belles randonnées de Corse](https://www.routard.com
 Append: [Tourisme . Loire, Corse... Les meilleures destinations à découvrir en van](https://www.leprogres.fr/magazine-tourisme-et-patrimoine/2024/05/26/loire-corse-les-meilleures-destinations-a-decouvrir-en-van)
 append_entries: 27
 Finish: 2024-05-28 01:14:25.797693
+------------------------------------------------------
+Started: 2024-05-28 12:37:28.256787
+Existing_entries: 622
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+append_entries: 0
+Finish: 2024-05-28 12:37:29.664836

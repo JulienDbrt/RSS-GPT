@@ -641,3 +641,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [La compagnie Lufthansa va « tester » le retour du café gratuit en classe éco](https://www.20minutes.fr/economie/4093136-20240527-lufthansa-compagnie-aerienne-va-tester-offrir-cafe-clients-classe-eco)
 append_entries: 2
 Finish: 2024-05-28 01:14:44.481461
+------------------------------------------------------
+Started: 2024-05-28 12:37:30.525948
+Existing_entries: 105
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alsace : Caddie une nouvelle fois placée en redressement judiciaire](https://www.20minutes.fr/economie/4093221-20240528-alsace-caddie-nouvelle-fois-placee-redressement-judiciaire)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : Les prix dans l’ancien baissent pour le troisième trimestre consécutif](https://www.20minutes.fr/economie/immobilier/4093187-20240528-immobilier-prix-ancien-baissent-troisieme-trimestre-consecutif)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Lorraine : Le site Ascometal à Hagondange bloqué par ses employés](https://www.20minutes.fr/economie/4093178-20240528-lorraine-site-ascometal-hagondange-bloque-salaries)
+append_entries: 3
+Finish: 2024-05-28 12:37:48.063752

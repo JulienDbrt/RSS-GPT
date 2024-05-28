@@ -1348,3 +1348,47 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [«Certains se croient tout permis» : Versailles fait la chasse aux boîtes à clés Airbnb](https://www.leparisien.fr/yvelines-78/locations-touristiques-apres-paris-versailles-fait-la-chasse-aux-boites-a-cles-airbnb-27-05-2024-ZFKSU6U3XNEWVGS3OX73M2HZMY.php)
 append_entries: 5
 Finish: 2024-05-28 01:10:05.458685
+------------------------------------------------------
+Started: 2024-05-28 12:32:44.458657
+Existing_entries: 404
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Reconnaissance de l’État de Palestine, prix de l’immobilier, Marion Maréchal sur l’audiovisuel public... Les 3 infos à retenir à la mi-journée](https://www.lefigaro.fr/flash-actu/reconnaissance-de-l-etat-de-palestine-prix-de-l-immobilier-marion-marechal-sur-l-audiovisuel-public-les-3-infos-a-retenir-a-la-mi-journee-20240528)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt sur la fortune immobilière : comment estimer ses biens à leur juste valeur](https://www.lemonde.fr/argent/article/2024/05/28/impot-sur-la-fortune-immobiliere-comment-estimer-ses-biens-a-leur-juste-valeur_6235973_1657007.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : foncières solidaires, cette voie méconnue pour réduire ses impôts](https://www.lesechos.fr/patrimoine/placement/immobilier-foncieres-solidaires-cette-voie-meconnue-pour-reduire-ses-impots-2097519)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mon immo : quels critères pour trouver un agent immobilier fiable ?](https://www.lesoir.be/590810/article/2024-05-28/mon-immo-quels-criteres-pour-trouver-un-agent-immobilier-fiable)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le projet commercial et immobilier du site “Delescolle” à Braine-le-Comte obtient enfin les faveurs du conseil communal](https://www.dhnet.be/regions/centre/2024/05/28/le-projet-commercial-et-immobilier-du-site-delescolle-a-braine-le-comte-obtient-enfin-les-faveurs-du-conseil-communal-DCN6BC3TBJBWDBZAGQUC7GP35A/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le prix des propriétés alpines au sommet en début d'année (UBS)](https://www.radiolac.ch/actualite/suisse/le-prix-des-proprietes-alpines-au-sommet-en-debut-dannee-ubs/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Malfaçons, retards, surcoûts: comment éviter les pièges face aux faillites ou aux fausses promesses de promoteurs immobiliers?](https://www.lenouvelliste.ch/valais/malfacons-retards-surcouts-comment-eviter-les-pieges-face-aux-faillites-ou-aux-fausses-promesses-de-promoteurs-immobiliers-1390925)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ce bâtiment mis aux enchères pour 265.000 euros vaut un euro symbolique selon la mairie](https://immobilier.lefigaro.fr/article/ce-batiment-mis-aux-encheres-pour-265-000-euros-vaut-un-euro-symbolique-selon-la-mairie_68b38384-1c01-11ef-b892-dd1b20a2f43b/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La mythique maison de Maman j’ai raté l’avion est mise en vente !](https://www.lebonbon.fr/paris/news/mythique-maison-maman-j-ai-rate-avion-vente/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Placements : les raisons de détenir de l'or physique](https://www.lesechos.fr/patrimoine/placement/placements-les-raisons-de-detenir-de-lor-physique-2097517)
+Append: [Une villa à 11 millions: Kylian Mbappé aurait déjà trouvé sa maison à Madrid](https://immobilier.lefigaro.fr/article/une-villa-a-11-millions-kylian-mbappe-aurait-deja-trouve-sa-maison-a-madrid_98078966-1ccc-11ef-b892-dd1b20a2f43b/)
+Append: [A Paris, le prix au mètre carré passe sous les 9.500€ (Notaires)](https://www.boursier.com/patrimoine/immobilier/actualites/a-paris-le-prix-au-metre-carre-passe-sous-les-9-500-notaires-8743.html)
+Append: [Douche froide pour l'immobilier… comment la BCE a aggravé la crise du logement](https://www.marianne.net/economie/economie-europeenne/douche-froide-pour-l-immobilier-comment-la-bce-a-aggrave-la-crise-du-logement)
+Append: [Dette, suicide et fraude : les Sud-Coréens dans l'enfer des prêts immobiliers](https://www.challenges.fr/societe/dette-suicide-et-fraude-les-sud-coreens-dans-l-enfer-des-prets-immobiliers_894416)
+Append: [Immobilier : les ventes s’écroulent encore dans l’ancien, les prix dégringolent](https://www.capital.fr/immobilier/immobilier-les-ventes-secroulent-encore-dans-lancien-les-prix-degringolent-1497342)
+Append: [Immobilier: l'Assemblée compte aider les propriétaires à récupérer leur logement déserté par leur locataire](https://www.latribune.fr/entreprises-finance/industrie/biens-d-equipement-btp-immobilier/immobilier-l-assemblee-compte-aider-les-proprietaires-a-recuperer-leur-logement-deserte-par-leur-locataire-998462.html)
+Append: [Dans le projet immobilier de Maxine et Maxime, jeune couple sans crédit : « Cela va nous occuper les 20 prochaines années »](https://www.leparisien.fr/immobilier/dans-le-projet-immobilier-de-maxine-et-maxime-jeune-couple-sans-credit-cela-va-nous-occuper-les-20-prochaines-annees-28-05-2024-4R6ZMLZA7ZHQFCX3MKGW6CHPVY.php)
+Append: [Quand la maison de rêve vire au cauchemar: 2 promoteurs immobiliers accusés par des familles valaisannes](https://www.lenouvelliste.ch/valais/quand-la-maison-de-reve-vire-au-cauchemar-2-promoteurs-immobiliers-accuses-par-des-familles-valaisannes-1390831)
+append_entries: 18
+Finish: 2024-05-28 12:33:42.889612

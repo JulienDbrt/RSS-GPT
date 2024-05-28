@@ -1102,3 +1102,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Crypto : le prêt hypothécaire d’un NFT, l’avenir de la finance décentralisée ?](https://www.capital.fr/crypto/crypto-le-pret-hypothecaire-dun-nft-lavenir-de-la-finance-decentralisee-1497209)
 append_entries: 4
 Finish: 2024-05-28 01:07:39.084307
+------------------------------------------------------
+Started: 2024-05-28 12:29:47.285505
+Existing_entries: 268
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Un produit que tout le monde peut utiliser": à quoi ressemble le nouveau portefeuille de Ledger (déjà en rupture de stock)?](https://www.bfmtv.com/crypto/un-produit-que-tout-le-monde-peut-utiliser-a-quoi-ressemble-le-nouveau-portefeuille-de-ledger-deja-en-rupture-de-stock_AV-202405280487.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Livraison du Ledger Stack, ce portefeuille de cryptos inspiré de l'iPhone ! (enfin)](https://www.mac4ever.com/divers/182726-livraison-du-ledger-stack-ce-portefeuille-de-cryptos-inspire-de-l-iphone-enfin)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La liquidation des avoirs de Mt Gox. fait chuter le Bitcoin](https://www.lesechos.fr/finance-marches/marches-financiers/la-liquidation-des-avoirs-de-mt-gox-fait-chuter-le-bitcoin-2097520)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le nouveau portefeuille Ledger arrive enfin: pourquoi est-ce une révolution pour les crypto ?](https://www.presse-citron.net/le-nouveau-portefeuille-ledger-arrive-enfin-pourquoi-est-ce-une-revolution-pour-les-crypto/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trump promet de déloger les bureaucrates anti-cryptos une fois élu - Be-Crypto](https://be-crypto.lesoir.be/fr/marches/trump-promet-de-deloger-les-bureaucrates-anti-cryptos-une-fois-elu)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Catherine Malabou : “Kant aurait été passionné par les recherches sur le cerveau”](https://www.philomag.com/articles/catherine-malabou-kant-aurait-ete-passionne-par-les-recherches-sur-le-cerveau)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitpanda s'associe à Solaris pour assurer la conservation accrue des cryptos](https://www.boursier.com/opcvm/actualites/generales/bitpanda-s-associe-a-solaris-pour-assurer-la-conservation-accrue-des-cryptos-929718.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Découvrez les memecoins à surveiller après le halving de 2024 !](https://www.fredzone.org/memecoins-surveillerhalving-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crypto : Participez à une public sale inédite dès le 28 mai avec SingularityDAO & Ledgity Yield](https://www.cointribune.com/crypto-participez-a-une-public-sale-inedite-des-le-28-mai-avec-singularitydao-ledgity-yield/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crypto : Voici l’immense complot qu’organise l’Argentine avec le Salvador !](https://www.cointribune.com/crypto-voici-limmense-complot-quorganise-largentine-avec-le-salvador/)
+append_entries: 10
+Finish: 2024-05-28 12:30:46.963696

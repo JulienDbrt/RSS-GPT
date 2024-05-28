@@ -767,3 +767,33 @@ Existing_entries: 167
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-28 01:19:59.705803
+------------------------------------------------------
+Started: 2024-05-28 12:43:06.397594
+Existing_entries: 167
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Boukan se lance dans un nouveau financement participatif](https://www.martinique.franceantilles.fr/actualite/economie/boukan-se-lance-dans-un-nouveau-financement-participatif-988856.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agriculture : la réponse du gouvernement soumise au vote des députés](https://www.martinique.franceantilles.fr/actualite/economie/agriculture-la-reponse-du-gouvernement-soumise-au-vote-des-deputes-988860.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Plus de 76 millions d'euros octroyés par l'AFD en 2023](https://www.martinique.franceantilles.fr/actualite/economie/plus-de-76-millions-deuros-octroyes-par-lafd-en-2023-988776.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vaut-il mieux louer ou acheter ?](https://www.martinique.franceantilles.fr/actualite/economie/vaut-il-mieux-louer-ou-acheter-988837.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Nous sommes en pleine transition agro-technologique »](https://www.martinique.franceantilles.fr/actualite/economie/nous-sommes-en-pleine-transition-agro-technologique-988839.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dans les supermarchés, la guerre des sucres](https://www.martinique.franceantilles.fr/actualite/economie/dans-les-supermarches-la-guerre-des-sucres-988841.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les Philippines mobilisent des agents pour lutter contre la pollution plastique dans les rivières](https://www.martinique.franceantilles.fr/actualite/economie/les-philippines-mobilisent-des-agents-pour-lutter-contre-la-pollution-plastique-dans-les-rivieres-988851.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouvelle-Calédonie: des signes d'un lent retour à la normale](https://www.martinique.franceantilles.fr/actualite/economie/nouvelle-caledonie-des-signes-dun-lent-retour-a-la-normale-988847.php)
+append_entries: 8
+Finish: 2024-05-28 12:43:52.753447

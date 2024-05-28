@@ -555,3 +555,15 @@ Existing_entries: 73
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-28 01:23:15.985663
+------------------------------------------------------
+Started: 2024-05-28 12:47:37.063393
+Existing_entries: 73
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Amendes pour les vélos électriques: les ressources policières sont-elles investies au bon endroit, demande Vélo Québec?](https://www.journaldemontreal.com/2024/05/27/amendes-pour-les-velos-electriques-les-ressources-policieres-sont-elles-investies-au-bon-endroit-demande-velo-quebec)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Franchir une clôture du REM: «Pour sauver 5 minutes, es-tu prêt à passer 5 mois dans le coma?»](https://www.journaldemontreal.com/2024/05/27/sauter-la-cloture-du-rem-pour-sauver-5-minutes-es-tu-pret-a-passer-5-mois-dans-le-coma)
+append_entries: 2
+Finish: 2024-05-28 12:47:48.449497

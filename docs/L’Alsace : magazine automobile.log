@@ -578,3 +578,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Nouveauté. Grenadier 1924 : une première série spéciale pour Inéos](https://www.lalsace.fr/magazine-automobile/2024/05/27/grenadier-1924-une-premiere-serie-speciale-pour-ineos)
 append_entries: 1
 Finish: 2024-05-28 01:23:25.510443
+------------------------------------------------------
+Started: 2024-05-28 12:47:50.609157
+Existing_entries: 84
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Restylage. Citroën AMI 2024 : de nouveaux aménagements encore plus pratiques](https://www.lalsace.fr/magazine-automobile/2024/05/28/citroen-ami-2024-de-nouveaux-amenagements-encore-plus-pratique)
+append_entries: 1
+Finish: 2024-05-28 12:47:58.455916

@@ -737,3 +737,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Aviation : douze personnes blessées après de fortes turbulences](https://www.francetvinfo.fr/economie/transports/aviation-douze-personnes-blessees-apres-de-fortes-turbulences_6568787.html)
 append_entries: 2
 Finish: 2024-05-28 01:21:10.542056
+------------------------------------------------------
+Started: 2024-05-28 12:44:58.830613
+Existing_entries: 137
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Contrôle technique : le boycott des collectionneurs de Solex](https://www.francetvinfo.fr/economie/transports/controle-technique-le-boycott-des-collectionneurs-de-solex_6570287.html)
+append_entries: 1
+Finish: 2024-05-28 12:45:05.254708

@@ -978,3 +978,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Ils mangent tout !" Escargots et limaces envahissent la Bourgogne : comment protéger son jardin ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/ils-mangent-tout-escargots-et-limaces-envahissent-la-bourgogne-comment-proteger-son-jardin-2975816.html)
 append_entries: 4
 Finish: 2024-05-28 01:22:33.800435
+------------------------------------------------------
+Started: 2024-05-28 12:46:19.171953
+Existing_entries: 224
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'appel de producteurs à une IGP pour l'immortelle corse afin de mieux la protéger](https://france3-regions.francetvinfo.fr/corse/haute-corse/l-appel-de-producteurs-a-une-igp-pour-l-immortelle-corse-afin-de-mieux-la-proteger-2976386.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Il faut bien tenir la brebis avec toujours la peau tendue pour ne pas la blesser" : de jeunes bergers du monde entier en compétition en Haute-Vienne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/il-faut-bien-tenir-la-brebis-avec-toujours-la-peau-tendue-pour-ne-pas-la-blesser-de-jeunes-bergers-du-monde-entier-en-competition-en-haute-vienne-2976107.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDÉO. Pour "défendre un terroir et de faire vivre des gens", les écoliers de cette ville mangent bio et local depuis un an](https://france3-regions.francetvinfo.fr/occitanie/lozere/mende/video-pour-defendre-un-terroir-et-de-faire-vivre-des-gens-les-ecoliers-de-cette-ville-mangent-bio-et-local-depuis-un-an-2976329.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["L'État est dans l'irrégularité" : trois associations devant la justice pour annuler des autorisations de tirs contre le loup](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/l-etat-est-dans-l-irregularite-trois-associations-devant-la-justice-pour-annuler-des-autorisations-de-tirs-contre-le-loup-2976275.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Quand la contrefaçon fait rage dans le secteur des vins : un domaine condamné à payer 790.000 euros à une grande marque de vignoble](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/quand-la-contrefacon-fait-rage-dans-le-secteur-des-vins-un-domaine-condamne-a-payer-790-000-euros-a-une-grande-marque-de-vignoble-2974847.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Ils attendent que je meure" : Patrick Laugier, éleveur de taureaux, menacé de devoir quitter ses terres et ses bêtes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/arles/ils-attendent-que-je-meure-patrick-laugier-eleveur-de-taureaux-menace-de-devoir-quitter-ses-terres-et-ses-betes-2976218.html)
+append_entries: 6
+Finish: 2024-05-28 12:46:53.671323
