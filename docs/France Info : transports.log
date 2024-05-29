@@ -755,3 +755,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Santé : comment protéger son audition de la pollution sonore ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/sante-comment-proteger-son-audition-de-la-pollution-sonore_6570779.html)
 append_entries: 1
 Finish: 2024-05-29 01:24:41.217796
+------------------------------------------------------
+Started: 2024-05-29 12:45:31.565337
+Existing_entries: 139
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-05-29 12:45:31.833037

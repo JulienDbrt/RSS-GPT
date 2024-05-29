@@ -697,3 +697,12 @@ Existing_entries: 121
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-05-29 01:23:11.756445
+------------------------------------------------------
+Started: 2024-05-29 12:44:06.890216
+Existing_entries: 121
+Fetching from https://www.europe1.fr/rss/economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Jeux olympiques : Uber prévoit 30% d'activité supplémentaire](https://www.europe1.fr/economie/jeux-olympiques-uber-prevoit-30-dactivite-supplementaire-4249669)
+append_entries: 1
+Finish: 2024-05-29 12:44:13.034163

@@ -775,3 +775,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [À Howald: Le Cactus hobbi va fermer ses portes](https://www.lessentiel.lu/fr/story/a-howald-le-cactus-hobbi-va-fermer-ses-portes-103116215)
 append_entries: 2
 Finish: 2024-05-29 01:27:54.571462
+------------------------------------------------------
+Started: 2024-05-29 12:48:44.647349
+Existing_entries: 199
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Environnement: L'Allemagne ouvre la voie à la captation et au stockage du CO2](https://www.lessentiel.lu/fr/story/environnement-lallemagne-ouvre-la-voie-a-la-captation-et-au-stockage-du-co2-103116704)
+append_entries: 1
+Finish: 2024-05-29 12:48:51.787525

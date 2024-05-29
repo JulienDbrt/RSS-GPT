@@ -708,3 +708,27 @@ Existing_entries: 130
 Fetching from https://www.7sur7.be/economie/rss.xml
 append_entries: 0
 Finish: 2024-05-29 01:18:18.671549
+------------------------------------------------------
+Started: 2024-05-29 12:39:09.405673
+Existing_entries: 130
+Fetching from https://www.7sur7.be/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Une centaine d’emplois menacés au sein du groupe de boissons Konings](https://www.7sur7.be/economie/une-centaine-demplois-menaces-au-sein-du-groupe-de-boissons-konings~ad316276/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le jus d’orange, la prochaine victime du changement climatique? L’industrie se cherche déjà un fruit de substitution](https://www.7sur7.be/ecologie/le-jus-dorange-la-prochaine-victime-du-changement-climatique-lindustrie-se-cherche-deja-un-fruit-de-substitution~a43fa43ce/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Booking.com sous le feu des critiques: comment la plateforme vous “piège” lorsque vous voulez réserver une chambre d’hôtel](https://www.7sur7.be/economie/booking-com-sous-le-feu-des-critiques-comment-la-plateforme-vous-piege-lorsque-vous-voulez-reserver-une-chambre-dhotel~a9b028f62/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La tendance piscines 2024: 3 experts présentent la piscine intelligente](https://www.7sur7.be/economie/la-tendance-piscines-2024-3-experts-presentent-la-piscine-intelligente~a614ca506/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le compte d'épargne le plus rentable limite les dépôts à 500 euros par mois: que faire de mieux avec le reste de vos épargnes?](https://www.7sur7.be/economie/le-compte-d-epargne-le-plus-rentable-limite-les-depots-a-500-euros-par-mois-que-faire-de-mieux-avec-le-reste-de-vos-epargnes~afa00b37/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les jobistes à l’année représentent désormais plus de 70.000 équivalents temps plein](https://www.7sur7.be/economie/les-jobistes-a-lannee-representent-desormais-plus-de-70-000-equivalents-temps-plein~a575869a/)
+append_entries: 6
+Finish: 2024-05-29 12:39:43.818947

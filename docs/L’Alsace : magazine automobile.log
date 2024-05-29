@@ -596,3 +596,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Automobile - achat. Le marché automobile est-il vraiment en hausse ?](https://www.lalsace.fr/magazine-automobile/2024/05/28/le-marche-automobile-est-il-vraiment-en-hausse)
 append_entries: 1
 Finish: 2024-05-29 01:27:35.624237
+------------------------------------------------------
+Started: 2024-05-29 12:48:35.901932
+Existing_entries: 86
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance. Vacances à l’étranger : êtes-vous assuré avec un véhicule de location ?](https://www.lalsace.fr/magazine-tourisme-et-patrimoine/2024/05/29/vacances-a-l-etranger-etes-vous-assure-avec-un-vehicule-de-location)
+append_entries: 1
+Finish: 2024-05-29 12:48:43.199236

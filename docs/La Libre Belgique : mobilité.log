@@ -578,3 +578,18 @@ Existing_entries: 106
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-05-29 01:31:00.913021
+------------------------------------------------------
+Started: 2024-05-29 12:53:03.829460
+Existing_entries: 106
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [C’est reparti, perturbations supplémentaires au carrefour Léonard : les tunnels du Ring seront à nouveau fermés](https://www.lalibre.be/belgique/mobilite/2024/05/29/cest-reparti-perturbations-supplementaires-au-carrefour-leonard-les-tunnels-du-ring-seront-a-nouveau-fermes-WNLKW34FSNFDNJ7XQ2EXWMT5JE/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alain Maron sur le projet du métro bruxellois : “Je pense que Bruxelles n’a pas les moyens de se payer un métro à 4,6 milliards”](https://www.lalibre.be/belgique/mobilite/2024/05/29/alain-maron-sur-le-projet-du-metro-bruxellois-je-pense-que-bruxelles-na-pas-les-moyens-de-se-payer-un-metro-a-46-milliards-ZY4PT5DT6RACNGMR4HHGGYV7RA/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trois accidents en état d’ivresse en six mois, l’échevin Pierre Mévisse (Lasne) assume : "Je ne suis pas fier du tout"](https://www.lalibre.be/belgique/mobilite/2024/05/29/trois-accidents-en-etat-divresse-en-six-mois-lechevin-pierre-mevisse-lasne-assume-je-ne-suis-pas-fier-du-tout-CAG4CGA4TZEXXPV3Q7EWRA5JIA/)
+append_entries: 3
+Finish: 2024-05-29 12:53:21.024259

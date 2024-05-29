@@ -1814,3 +1814,41 @@ Append: [Strasbourg. Toto Tissus en liquidation totale avant sa fermeture défin
 Append: [Marckolsheim. La RD424 sera coupée de nuit du 29 mai au 5 juin à hauteur de l’usine hydroélectrique](https://www.dna.fr/economie/2024/05/28/la-rd424-sera-coupee-de-nuit-du-29-mai-au-5-juin-a-hauteur-de-l-usine-hydroelectrique)
 append_entries: 11
 Finish: 2024-05-29 01:23:02.060440
+------------------------------------------------------
+Started: 2024-05-29 12:42:44.963464
+Existing_entries: 542
+Fetching from https://www.dna.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Automobile. Voiture et niveau de vie : pourquoi le tout-électrique n’est pas pour demain](https://www.dna.fr/economie/2024/05/29/voiture-et-niveau-de-vie-des-francais-pourquoi-le-tout-electrique-n-est-pas-pour-demain)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Social. Il a créé une association de soutien aux patrons chômeurs : « Ne banalisons pas l'échec »](https://www.dna.fr/social/2024/05/29/il-a-cree-une-association-de-soutien-aux-patrons-chomeurs-ne-banalisons-pas-l-echec)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tourisme. Qui a dit que partir en vacances avec son chien était impossible ?](https://www.dna.fr/magazine-lifestyle/2024/05/29/qui-a-dit-que-partir-en-vacances-avec-son-chien-etait-impossible)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Social. « Il faut se couvrir » : ces patrons en faillite qui se retrouvent sans droit au chômage](https://www.dna.fr/social/2024/05/29/il-faut-se-couvrir-ces-patrons-en-faillite-qui-se-retrouvent-sans-droit-au-chomage)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vallée de la Bruche. L’usine de nouilles coréennes de Wisches sera en activité en 2025](https://www.dna.fr/economie/2024/05/29/l-usine-de-nouilles-coreennes-de-wisches-sera-en-activite-en-2025)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Handicap. Transport de personnes non-voyantes : 30 chauffeurs sensibilisés à Blotzheim](https://www.dna.fr/economie/2024/05/29/transport-de-personnes-non-voyantes-30-chauffeurs-sensibilises)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Mobilités douces. Mulhouse : le CADRes fête ses 40 ans au service de la défense du vélo](https://www.dna.fr/culture-loisirs/2024/05/29/mulhouse-le-cadres-fete-40-ans-au-service-de-la-defense-du-velo)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier. Altkirch : Karbone transforme l’ancien lycée professionnel en logements privés](https://www.dna.fr/economie/2024/05/29/altkirch-le-promoteur-karbone-transforme-l-ancien-lycee-professionnel-en-logements-prives)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Conseil municipal. A partir du 1er juillet, le pont de la rue Turenne fermé à la circulation](https://www.dna.fr/culture-loisirs/2024/05/29/a-partir-du-1er-juillet-le-pont-de-la-rue-turenne-ferme-a-la-circulation)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Drusenheim. Villa Wenger, terrains et comptes administratifs au conseil communautaire](https://www.dna.fr/economie/2024/05/29/villa-wenger-terrains-et-comptes-administratifs-au-conseil-communautaire)
+Append: [Lampertsloch. La Collectivité européenne d’Alsace s’engage pour préserver le bâti traditionnel](https://www.dna.fr/economie/2024/05/29/la-cea-s-engage-pour-preserver-le-bati-traditionnel)
+Append: [Conseil municipal. Colmar : la taxe de séjour presque à son maximum](https://www.dna.fr/politique/2024/05/28/la-taxe-de-sejour-presque-a-son-maximum)
+append_entries: 12
+Finish: 2024-05-29 12:43:44.257131

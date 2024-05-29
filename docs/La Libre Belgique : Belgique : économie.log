@@ -1794,3 +1794,36 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Canva se lance dans un nouveau marché pour "atteindre un milliard de personnes chaque mois”](https://www.lalibre.be/economie/entreprises-startup/2024/05/28/canva-se-lance-dans-un-nouveau-marche-pour-atteindre-un-milliard-de-personnes-chaque-mois-KTKMWGWLC5CVFIQE5OPT4RVN6A/)
 append_entries: 5
 Finish: 2024-05-29 01:31:00.507806
+------------------------------------------------------
+Started: 2024-05-29 12:52:11.466838
+Existing_entries: 588
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Près de la moitié des entreprises technologiques belges offrent déjà des services d’IA générative](https://www.lalibre.be/economie/entreprises-startup/2024/05/29/pres-de-la-moitie-des-entreprises-technologiques-belges-offrent-deja-des-services-dia-generative-JLBVGSDZUVHUZNLMT5XXTLHIGI/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crédit hypothécaire et assurances : la loi qui va instaurer plus de concurrence ? À voir…](https://www.lalibre.be/economie/mes-finances/2024/05/29/credit-hypothecaire-et-assurances-la-loi-qui-va-instaurer-plus-de-concurrence-a-voir-QM5P644I6RGBJNXLHTOXXOYGLE/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un conseil d'entreprise extraordinaire chez Mestdagh ce mercredi](https://www.lalibre.be/economie/entreprises-startup/2024/05/29/un-conseil-dentreprise-extraordinaire-chez-mestdagh-ce-mercredi-Q2H6FM3HPJDBLLFHA3AVCNDPGU/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le bio retrouve des couleurs](https://www.lalibre.be/economie/entreprises-startup/2024/05/29/le-bio-retrouve-des-couleurs-5PFXKK4XVRBWZF5YBTTJQBDOWY/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le PIB du Danemark a augmenté de 1,9 % en 2023… grâce à Novo Nordisk](https://www.lalibre.be/economie/entreprises-startup/2024/05/29/novo-nordisk-devient-le-pilier-de-leconomie-danoise-NK44UWEYQNFDVKOSAKMAERN5AA/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Umicore plombe le Bel 20 à l'ouverture](https://www.lalibre.be/economie/placements/2024/05/29/umicore-plombe-le-bel-20-a-louverture-X4U6GXMLYBGDVNDRLUSN3PSRRU/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Capital à risque : ce en quoi il faut croire pour qu’une idée audacieuse devienne un succès](https://www.lalibre.be/economie/decideurs-chroniqueurs/2024/05/29/capital-a-risque-ce-en-quoi-il-faut-croire-pour-quune-idee-audacieuse-devienne-un-succes-LX6R3WMK6FDRBM7WYX3HTASF2E/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Intelligence artificielle : “Il est temps que l’Union européenne accélère la cadence”](https://www.lalibre.be/economie/digital/2024/05/29/intelligence-artificielle-il-est-temps-que-lunion-europeenne-accelere-la-cadence-IT6PDG5OGJAKXMZ5VGC5C5LQUY/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un prince belge, une femme de paille, un club de foot...: comment 28 millions d’euros suspects ont atterri récemment en Belgique](https://www.lalibre.be/economie/2024/05/29/un-prince-belge-une-femme-de-paille-un-club-de-foot-comment-28-millions-deuros-suspects-ont-atterri-recemment-en-belgique-64YKXWR2NZEJFHDAQFR6YDJWQM/)
+append_entries: 9
+Finish: 2024-05-29 12:53:03.779435

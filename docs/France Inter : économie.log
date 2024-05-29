@@ -719,3 +719,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Cashless, le paiement dématérialisé](https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-mardi-28-mai-2024-6060482)
 append_entries: 1
 Finish: 2024-05-29 01:24:47.555689
+------------------------------------------------------
+Started: 2024-05-29 12:45:31.904859
+Existing_entries: 127
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agriculture : "40 à 60 % des agriculteurs pourront partir à la retraite d'ici 2030", affirme Marc Fesneau](https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-mercredi-29-mai-2024-8232200)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La rencontre entre E. Macron et O. Scholz aboutit à un projet d'épargne européen](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-mercredi-29-mai-2024-7449105)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Biden dans le piège de l’économie](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-mercredi-29-mai-2024-1616492)
+append_entries: 3
+Finish: 2024-05-29 12:45:50.687090

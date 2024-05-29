@@ -672,3 +672,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Un abattoir d'ovins menacé de fermeture, éleveurs et commerçants se mobilisent pour préserver leur outil de travail](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/un-abattoir-d-ovins-menace-de-fermeture-eleveurs-et-commercants-se-mobilisent-pour-preserver-leur-outil-de-travail-2976728.html)
 append_entries: 1
 Finish: 2024-05-29 01:26:45.830266
+------------------------------------------------------
+Started: 2024-05-29 12:47:33.024826
+Existing_entries: 118
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ExxonMobil : des salariés toujours en grève après l'annulation des négociations](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/exxonmobil-des-salaries-toujours-en-greve-apres-l-annulation-des-negociations-2977121.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Procès pour harcèlement et agression sexuelle : 12 mois de prison avec sursis requis contre Pierre Cabaré l'ancien député LREM](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/proces-pour-harcelement-et-agression-sexuelle-12-mois-de-prison-avec-sursis-requis-contre-pierre-cabare-l-ancien-depute-lrem-2977007.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Stéphane Ravier condamné à six mois de prison avec sursis pour prise illégale d'intérêts](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/stephane-ravier-reconquete-risque-cinq-ans-d-ineligibilite-pour-avoir-embauche-son-fils-a-la-mairie-de-secteur-de-marseille-2977010.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les jeunes et le travail : "sans garantie d'une carrière, ils ne se sentent plus redevables envers leur entreprise"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/les-jeunes-et-le-travail-sans-garantie-d-une-carriere-ils-ne-se-sentent-plus-redevables-envers-leur-entreprise-2976224.html)
+append_entries: 4
+Finish: 2024-05-29 12:47:56.774215

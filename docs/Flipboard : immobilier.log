@@ -1416,3 +1416,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Immobilier : les promoteurs cassent les prix dans le neuf](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-les-promoteurs-cassent-les-prix-dans-le-neuf_6571115.html)
 append_entries: 6
 Finish: 2024-05-29 01:13:31.703580
+------------------------------------------------------
+Started: 2024-05-29 12:33:11.209497
+Existing_entries: 428
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : "Pour la première fois depuis 18 mois", le site de Particulier à Particulier constate une hausse des recherches de biens](https://www.francetvinfo.fr/economie/immobilier/immobilier-pour-la-premiere-fois-depuis-18-mois-le-site-de-particulier-a-particulier-constate-une-hausse-des-recherches-de-biens_6572198.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : une villa d'exception vue mer au nord de La Rochelle](https://www.lesechos.fr/patrimoine/immobilier/immobilier-une-villa-dexception-vue-mer-au-nord-de-la-rochelle-2097728)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Une année après l’accident du «Titan», l’appétit des milliardaires pour l’épave du Titanic ne faiblit pas - Le Temps](https://www.letemps.ch/sciences/une-annee-apres-l-accident-du-titan-l-appetit-des-milliardaires-pour-l-epave-du-titanic-ne-faiblit-pas)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Affaire du maire d'Agde : la fille de la voyante mise en examen](https://france3-regions.francetvinfo.fr/occitanie/herault/agde/affaire-du-maire-d-agde-la-fille-de-la-voyante-mise-en-examen-2977058.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taxer les riches, salaire minimum,... : ce que veulent nos différents partis politiques au niveau de la fiscalité et du pouvoir d’achat (COMPARATIF)](https://www.dhnet.be/actu/elections-belges/2024/05/29/taxer-les-riches-salaire-minimum-ce-que-veulent-nos-differents-partis-politiques-au-niveau-de-la-fiscalite-et-du-pouvoir-dachat-comparatif-RIC2XO6XHBDNNPJ7EGV7TW53GA/)
+append_entries: 5
+Finish: 2024-05-29 12:33:46.631282

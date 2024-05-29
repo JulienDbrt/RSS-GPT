@@ -642,3 +642,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Macron et Scholz appellent à créer un produit d'épargne européen pour doper la croissance](https://www.bfmtv.com/economie/economie-social/union-europeenne/macron-et-scholz-appellent-a-creer-un-produit-d-epargne-europeen-pour-doper-la-croissance_AD-202405280809.html)
 append_entries: 1
 Finish: 2024-05-29 01:19:28.976256
+------------------------------------------------------
+Started: 2024-05-29 12:40:42.279496
+Existing_entries: 108
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Allemagne: l'inflation remonte à 2,4% sur un an en mai](https://www.bfmtv.com/economie/economie-social/union-europeenne/allemagne-l-inflation-remonte-a-2-4-sur-un-an-en-mai_AD-202405290555.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["C'est une réforme criminelle": Sophie Binet fustige la réforme de l'assurance chômage](https://www.bfmtv.com/economie/economie-social/social/c-est-une-reforme-criminelle-sophie-binet-de-la-cgt-fustige-la-reforme-de-l-assurance-chomage_AV-202405290334.html)
+append_entries: 2
+Finish: 2024-05-29 12:40:53.840130

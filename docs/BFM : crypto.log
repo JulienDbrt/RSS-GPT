@@ -588,3 +588,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les crypto, booster des conseillers financiers ?](https://www.bfmtv.com/crypto/les-crypto-booster-des-conseillers-financiers_VL-202405280570.html)
 append_entries: 2
 Finish: 2024-05-29 01:19:59.150932
+------------------------------------------------------
+Started: 2024-05-29 12:40:55.052243
+Existing_entries: 90
+Fetching from https://www.bfmtv.com/rss/crypto/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [300.000 dollars en cryptomonnaies évaporés en quelques secondes: qu’est-ce que les “cryptos drainers" et comment s’en protéger?](https://www.bfmtv.com/crypto/300-000-dollars-en-cryptomonnaies-evapores-en-quelques-secondes-qu-est-ce-que-les-cryptos-drainers-et-comment-s-en-proteger_AN-202405290056.html)
+append_entries: 1
+Finish: 2024-05-29 12:41:01.137060

@@ -543,3 +543,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Happy Dés: la FDJ lance un nouveau jeu à gratter](https://www.bfmtv.com/economie/consommation/happy-des-la-fdj-lance-un-nouveau-jeu-a-gratter_AV-202405280551.html)
 append_entries: 2
 Finish: 2024-05-29 01:19:46.953131
+------------------------------------------------------
+Started: 2024-05-29 12:40:54.885473
+Existing_entries: 75
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-05-29 12:40:55.000402

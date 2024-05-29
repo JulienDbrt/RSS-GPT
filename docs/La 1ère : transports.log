@@ -616,3 +616,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les premiers wallisiens et futuniens rapatriés de Nouvelle-Calédonie : un "gros" soulagement pour les étudiants et les parents](https://la1ere.francetvinfo.fr/wallisfutuna/les-premiers-wallisiens-et-futuniens-rapatries-de-nouvelle-caledonie-un-gros-soulagement-pour-les-etudiants-et-les-parents-1492025.html)
 append_entries: 2
 Finish: 2024-05-29 01:29:23.332499
+------------------------------------------------------
+Started: 2024-05-29 12:50:15.512347
+Existing_entries: 86
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEO. Crise en Nouvelle-Calédonie : pour circuler, choisissez entre les options taxi, vélo ou bateau](https://la1ere.francetvinfo.fr/nouvellecaledonie/video-crise-en-nouvelle-caledonie-pour-circuler-choisissez-entre-les-options-taxi-velo-ou-bateau-1492109.html)
+append_entries: 1
+Finish: 2024-05-29 12:50:21.254085

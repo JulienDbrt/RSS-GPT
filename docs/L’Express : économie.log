@@ -862,3 +862,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Seconde Guerre mondiale : l'étonnant rôle du guide Michelin dans le débarquement des Alliés](https://www.lexpress.fr/economie/entreprises/seconde-guerre-mondiale-letonnant-role-du-guide-michelin-dans-le-debarquement-des-allies-FHK7QJ5CHVGXFBQBKFMXB4VAIU/)
 append_entries: 3
 Finish: 2024-05-29 01:28:13.078614
+------------------------------------------------------
+Started: 2024-05-29 12:48:52.189839
+Existing_entries: 228
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Transition écologique : dans le BTP, des pratiques plus vert(e)ueuses](https://www.lexpress.fr/economie/entreprises/transition-ecologique-dans-le-btp-des-pratiques-plus-verteueuses-PIYI5FA6UBEANH544LLSA6XHBQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dépenses publiques : le vrai coût du "millefeuille administratif"](https://www.lexpress.fr/economie/depenses-publiques-le-vrai-cout-du-millefeuille-administratif-W75HCYYYXVC6FOQ4Q7IVH2GF4M/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Intelligence artificielle : l'UE se dote d'un nouveau gendarme](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-lue-se-dote-dun-nouveau-gendarme-XIRWAY4NUJETLGU53AOBOTRZ2M/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Baisse de la natalité : l’Europe à l’heure de l’hiver démographique, par Eric Chol](https://www.lexpress.fr/economie/baisse-de-la-natalite-leurope-a-lheure-de-lhiver-demographique-par-eric-chol-KV4NASYWVZFB3JR7XULK6IWXUI/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ces cadres qui font le choix de devenir des "managers de transition"](https://www.lexpress.fr/economie/emploi/ces-cadres-qui-font-le-choix-de-devenir-des-managers-de-transition-LVCT6XPULFEETAWKQ26M6DN7IY/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réindustrialisation : les bricolages de Bercy pour avoir un bilan plus flatteur](https://www.lexpress.fr/economie/politique-economique/reindustrialisation-les-bricolages-de-bercy-pour-avoir-un-bilan-plus-flatteur-QUDKXMAXEBGL5KOQ6JAYCE4N34/)
+append_entries: 6
+Finish: 2024-05-29 12:49:27.752910

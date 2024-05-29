@@ -468,3 +468,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Frais, gestion… L'UFC-Que Choisir lance un comparateur d'assurance-vie](https://www.bfmtv.com/economie/patrimoine/frais-gestion-l-ufc-que-choisir-lance-un-comparateur-d-assurance-vie_AV-202405280694.html)
 append_entries: 1
 Finish: 2024-05-29 01:21:50.451042
+------------------------------------------------------
+Started: 2024-05-29 12:42:42.145316
+Existing_entries: 50
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+append_entries: 0
+Finish: 2024-05-29 12:42:42.605629

@@ -627,3 +627,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [La ligne 11 du métro parisien prolongée vers l'est le 13 juin](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/la-ligne-11-du-metro-parisien-prolongee-vers-l-est-le-13-juin-2976704.html)
 append_entries: 1
 Finish: 2024-05-29 01:25:57.917711
+------------------------------------------------------
+Started: 2024-05-29 12:46:27.791730
+Existing_entries: 103
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bombardements israéliens à Rafah : périphérique bloqué, gaz lacrymogènes, nouvelle soirée de manifestation pour soutenir la Palestine à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/bombardements-israeliens-a-rafah-peripherique-bloque-gaz-lacrymogenes-nouvelle-soiree-de-manifestation-pour-soutenir-la-palestine-a-paris-2977016.html)
+append_entries: 1
+Finish: 2024-05-29 12:46:33.905569

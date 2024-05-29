@@ -472,3 +472,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Limitation de puissance des compteurs Linky : Jérôme a accepté de jouer les cobayes pour Enedis | TF1 INFO](https://www.tf1info.fr/conso/video-reportage-test-de-limitation-de-puissance-des-compteurs-linky-cet-habitant-du-puy-de-dome-a-joue-les-cobayes-pour-enedis-2301271.html)
 append_entries: 3
 Finish: 2024-05-29 01:13:49.442682
+------------------------------------------------------
+Started: 2024-05-29 12:33:46.655153
+Existing_entries: 51
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-05-29 12:33:48.488377

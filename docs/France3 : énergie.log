@@ -510,3 +510,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les 62 éoliennes de la baie de Saint-Brieuc tournent à plein régime : "la mise en service du parc est complète"](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/les-62-eoliennes-de-la-baie-de-saint-brieuc-tournent-a-plein-regime-la-mise-en-service-du-parc-est-complete-2976836.html)
 append_entries: 1
 Finish: 2024-05-29 01:25:52.108677
+------------------------------------------------------
+Started: 2024-05-29 12:46:27.165377
+Existing_entries: 64
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-05-29 12:46:27.731887

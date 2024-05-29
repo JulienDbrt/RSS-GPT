@@ -516,3 +516,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Le parc éolien en mer de Saint-Brieuc entre en service, le deuxième en France](https://www.bfmtv.com/economie/entreprises/energie/le-parc-eolien-en-mer-de-saint-brieuc-entre-en-service-le-2e-en-france_AD-202405280645.html)
 append_entries: 1
 Finish: 2024-05-29 01:19:35.060465
+------------------------------------------------------
+Started: 2024-05-29 12:40:53.878488
+Existing_entries: 66
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+append_entries: 0
+Finish: 2024-05-29 12:40:54.067327

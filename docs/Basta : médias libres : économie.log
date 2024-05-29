@@ -455,3 +455,12 @@ Existing_entries: 59
 Fetching from https://portail.basta.media/spip.php?page=backend&id_mot=163
 append_entries: 0
 Finish: 2024-05-29 01:09:36.163217
+------------------------------------------------------
+Started: 2024-05-29 12:29:06.242456
+Existing_entries: 59
+Fetching from https://portail.basta.media/spip.php?page=backend&id_mot=163
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Une école de la « transformation écologique » pilotée par Veolia et Jean-Michel Blanquer](https://reporterre.net/Une-ecole-de-la-transformation-ecologique-pilotee-par-Veolia-et-Jean-Michel-Blanquer)
+append_entries: 1
+Finish: 2024-05-29 12:29:13.366254

@@ -660,3 +660,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Un revers pour la mairie de Dijon : la vente des terrains des "berges du Suzon" annulée en justice](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/une-grande-victoire-le-collectif-sauvons-les-berges-du-suzon-obtient-l-annulation-de-la-vente-des-terrains-au-promoteur-immobilier-2976776.html)
 append_entries: 3
 Finish: 2024-05-29 01:26:38.940341
+------------------------------------------------------
+Started: 2024-05-29 12:47:03.321402
+Existing_entries: 114
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [“Les crevettes avaient un goût de moisi” : manquements graves à l'hygiène et à la dignité des travailleurs, un restaurant asiatique fermé](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/les-crevettes-avaient-un-gout-de-moisi-un-restaurant-ferme-pour-manquement-grave-a-l-hygiene-pres-de-lons-le-saunier-2977109.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La commune n'avait plus de commerce : il investit 60 000€ pour ouvrir une supérette, un Carrefour s'installe à 300 mètres](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/la-commune-n-avait-plus-de-commerce-il-investit-60-000-pour-ouvrir-une-superette-un-carrefour-s-installe-a-300-metres-2976941.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Kad Merad escroqué d'1,5 million d'euros en Saône-et-Loire ? Ce que l'on sait de l'affaire](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/kad-merad-escroque-d-1-5-million-d-euros-en-saone-et-loire-ce-que-l-on-sait-de-l-affaire-2976707.html)
+append_entries: 3
+Finish: 2024-05-29 12:47:20.971276

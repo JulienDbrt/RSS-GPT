@@ -733,3 +733,27 @@ Existing_entries: 135
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-05-29 01:30:28.586843
+------------------------------------------------------
+Started: 2024-05-29 12:51:21.924771
+Existing_entries: 135
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Au centre de tri de La Poste, les lycéens du Montat sensibilisent à la biodiversité](https://www.ladepeche.fr/2024/05/29/au-centre-de-tri-de-la-poste-les-lyceens-du-montat-sensibilisent-a-la-biodiversite-11969451.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Même avec un BAC + 2, je n’arrive pas à être engagé" : comment le café de l’emploi de "l’Acor" favorise l’insertion professionnelle](https://www.ladepeche.fr/2024/05/29/meme-avec-un-bac-2-je-narrive-pas-a-etre-engage-comment-le-cafe-de-lemploi-de-lacor-favorise-linsertion-professionnelle-11978888.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comminges. Chantier d’insertion professionnelle : l’exemple des jardins de Cocagne](https://www.ladepeche.fr/2024/05/29/comminges-chantier-dinsertion-professionnelle-lexemple-des-jardins-de-cocagne-11979722.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Villeneuve-sur-Lot. L’innovant "Apéro Jobs" revient le 5 juin](https://www.ladepeche.fr/2024/05/29/linnovant-apero-jobs-revient-le-5-juin-11980444.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Sainte-Livrade-sur-Lot. Aurélie Louviers, experte en recrutement, s’installe au KUBE](https://www.ladepeche.fr/2024/05/29/aurelie-louviers-experte-en-recrutement-sinstalle-au-kube-11980442.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Prêt pour le rallye de l’emploi](https://www.ladepeche.fr/2024/05/29/pret-pour-le-rallye-de-lemploi-11980423.php)
+append_entries: 6
+Finish: 2024-05-29 12:51:57.800961

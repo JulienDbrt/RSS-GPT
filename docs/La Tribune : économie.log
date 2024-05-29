@@ -1387,3 +1387,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Inflation : « La bataille a été gagnée », se félicite Bruno Le Maire](https://www.latribune.fr/economie/france/inflation-la-bataille-a-ete-gagnee-se-felicite-bruno-le-maire-998537.html)
 append_entries: 4
 Finish: 2024-05-29 01:31:24.604703
+------------------------------------------------------
+Started: 2024-05-29 12:53:21.205141
+Existing_entries: 343
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Simplification : le « millefeuille administratif » coûterait 7,5 milliards d'euros à l'Etat](https://www.latribune.fr/economie/france/simplification-le-millefeuille-administratif-couterait-7-5-milliards-d-euros-a-l-etat-998620.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Médecins libéraux : le principal syndicat de généralistes valide les nouveaux tarifs](https://www.latribune.fr/economie/france/medecins-liberaux-le-principal-syndicat-de-generalistes-valide-les-nouveaux-tarifs-998613.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taïwan : le nouveau président tend les bras aux Etats-Unis pour lutter contre « l'expansionnisme autoritaire » de la Chine](https://www.latribune.fr/economie/international/taiwan-le-nouveau-president-tend-les-bras-aux-etats-unis-pour-lutter-contre-l-expansionnisme-autoritaire-de-la-chine-998610.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rachat du minier Anglo American : BHP n'aura finalement pas plus de temps pour parfaire sa proposition](https://www.latribune.fr/economie/international/rachat-du-minier-anglo-american-bhp-revient-a-la-charge-et-demande-plus-de-temps-pour-parfaire-sa-proposition-998597.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ukraine: la Suède débloque 1,16 milliard d'euros d'aide militaire en faveur de Kiev](https://www.latribune.fr/economie/union-europeenne/ukraine-la-suede-debloque-1-16-milliard-d-euros-d-aide-militaire-en-faveur-de-kiev-998605.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cabinets de conseil: le Sénat adopte la proposition de loi sans certains amendements défendus par le gouvernement](https://www.latribune.fr/economie/france/cabinets-de-conseil-le-senat-adopte-la-proposition-de-loi-sans-certains-amendements-defendus-par-le-gouvernement-998588.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les 5 infos business à retenir ce mercredi matin (UE, produit d'épargne européen, Ukraine, Chine, Nouvelle-Calédonie)](https://www.latribune.fr/economie/france/les-5-infos-business-a-retenir-ce-mercredi-matin-ue-produit-d-epargne-europeen-ukraine-chine-nouvelle-caledonie-998587.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chine : les signes de reprise poussent le FMI à relever à 5% sa prévision de croissance pour 2024](https://www.latribune.fr/economie/international/chine-les-signes-de-reprise-poussent-le-fmi-a-relever-a-5-sa-prevision-de-croissance-pour-2024-998578.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nouvelle-Calédonie : la vie reprend doucement son cours, l'économie du nickel à genoux](https://www.latribune.fr/economie/france/nouvelle-caledonie-la-vie-reprend-doucement-son-cours-l-economie-du-nickel-a-genoux-998572.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La poussée populiste en Europe, une menace pour la transition écologique ?](https://www.latribune.fr/climat/energie-environnement/la-poussee-populiste-en-europe-une-menace-pour-la-transition-ecologique-998559.html)
+append_entries: 10
+Finish: 2024-05-29 12:54:20.095710

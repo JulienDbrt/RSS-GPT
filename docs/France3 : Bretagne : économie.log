@@ -561,3 +561,15 @@ Existing_entries: 81
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-05-29 01:26:39.656157
+------------------------------------------------------
+Started: 2024-05-29 12:47:21.012360
+Existing_entries: 81
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [De la galette de Pont-Aven aux macarons... Le groupe breton Galapagos s'offre l'épicier de luxe Fauchon](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/de-la-galette-de-pont-aven-aux-macarons-le-groupe-breton-galapagos-s-offre-l-epicier-de-luxe-fauchon-2977148.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les jeunes et le travail : "sans garantie d'une carrière, ils ne se sentent plus redevables envers leur entreprise"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/les-jeunes-et-le-travail-sans-garantie-d-une-carriere-ils-ne-se-sentent-plus-redevables-envers-leur-entreprise-2976224.html)
+append_entries: 2
+Finish: 2024-05-29 12:47:32.964733

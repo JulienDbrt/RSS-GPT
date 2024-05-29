@@ -1241,3 +1241,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Accident de la route : un camion transportant 13 tonnes de viande se renverse et coupe la circulation](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/accident-de-la-route-un-camion-transportant-13-tonnes-de-viande-se-renverse-et-coupe-la-circulation-2976692.html)
 append_entries: 5
 Finish: 2024-05-29 01:27:26.838796
+------------------------------------------------------
+Started: 2024-05-29 12:48:08.832334
+Existing_entries: 308
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["La gendarmerie est une entreprise privée" : nouveau coup d'éclat du mouvement complotiste One Nation, un homme refuse un contrôle routier](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/la-gendarmerie-est-une-entreprise-privee-nouveau-coup-d-eclat-du-mouvement-complotiste-one-nation-un-homme-refuse-un-controle-routier-2977067.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [214 km/h sur l'autoroute : les deux conducteurs "irresponsables" stoppés avant le rassemblement de "tuning"](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/214-km-h-sur-l-autoroute-les-deux-conducteurs-irresponsables-stoppes-avant-le-rassemblement-de-tuning-2977166.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [PHOTOS. Les images impressionnantes du déneigement des cols de Savoie](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/photos-les-images-impressionnantes-du-deneigement-des-cols-de-savoie-2976797.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'arrivée de nouveaux chauffeurs Uber à Poitiers agace les taxis](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/l-arrivee-de-nouveaux-chauffeurs-uber-a-poitiers-agace-les-taxis-2976956.html)
+append_entries: 4
+Finish: 2024-05-29 12:48:32.350827

@@ -1020,3 +1020,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Un abattoir d'ovins menacé de fermeture, éleveurs et commerçants se mobilisent pour préserver leur outil de travail](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/un-abattoir-d-ovins-menace-de-fermeture-eleveurs-et-commercants-se-mobilisent-pour-preserver-leur-outil-de-travail-2976728.html)
 append_entries: 4
 Finish: 2024-05-29 01:26:21.714930
+------------------------------------------------------
+Started: 2024-05-29 12:46:34.028212
+Existing_entries: 234
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AGRICULTURE. "Un entrepreneur hors pair" : le "roi du melon", Claude Boyer est mort à 83 ans](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/agriculture-un-entrepreneur-hors-pair-le-roi-du-melon-claude-boyer-est-mort-a-83-ans-2977268.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["L’embarras du choix pour remplir les barquettes" : la saison des fraises bat son plein sous les serres du Montreuillois](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/l-embarras-du-choix-pour-remplir-les-barquettes-la-saison-des-fraises-bat-son-plein-sous-les-serres-du-montreuillois-2977229.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["En 40 ans de production, je n'ai jamais vu ça !", les agriculteurs souffrent des fortes pluies du mois de mai](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/en-40-ans-de-production-je-n-ai-jamais-vu-ca-les-agriculteurs-souffrent-des-fortes-pluies-du-mois-de-mai-2977163.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nombre de loups en France, attaques de troupeaux... Dans le dossier du loup, même les chiffres font débat](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/nombre-de-loups-en-france-attaques-de-troupeaux-dans-le-dossier-du-loup-meme-les-chiffres-font-debats-2976632.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le grand hamster en danger : une association dépose deux plaintes contre l'État français](https://france3-regions.francetvinfo.fr/grand-est/alsace/le-grand-hamster-en-danger-une-association-depose-deux-plaintes-contre-l-etat-francais-2976185.html)
+append_entries: 5
+Finish: 2024-05-29 12:47:03.237971

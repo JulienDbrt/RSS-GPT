@@ -2025,3 +2025,42 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Réindustrialisation : pourquoi la Bretagne n'est pas la championne des investissements étrangers](https://www.latribune.fr/entreprises-finance/reindustrialisation-pourquoi-la-bretagne-n-est-pas-la-championne-des-investissements-etrangers-998479.html)
 append_entries: 8
 Finish: 2024-05-29 01:12:58.085149
+------------------------------------------------------
+Started: 2024-05-29 12:32:01.972909
+Existing_entries: 673
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Quelle est la rémunération moyenne d'un directeur de supermarché ?](https://www.caminteresse.fr/societe/quelle-est-la-remuneration-moyenne-d-un-directeur-de-supermarche-11193054/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ukraine : Macron autorise l'emploi d'armes françaises contre des cibles en Russie](https://www.lopinion.fr/international/ukraine-macron-autorise-lemploi-darmes-francaises-contre-des-cibles-en-russie)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Anglo rejette une nouvelle demande de délais de BHP sur les négociations de rachat](https://investir.lesechos.fr/actu-des-valeurs/la-vie-des-actions/anglo-rejette-une-nouvelle-demande-de-delais-de-bhp-sur-les-negociations-de-rachat-2097795)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [JO de Paris 2024 : les salariés face aux conséquences](https://anousparis.fr/emploi-paris/jo-paris-2024-defi-teletravail-conges-imposes-40408)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Son entretien d’embauche annulé à cause de son âge : quand l’âgisme fait des ravages](https://www.capital.fr/votre-carriere/son-entretien-dembauche-annule-a-cause-de-son-age-quand-lagisme-fait-des-ravages-1497381)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Recrutement : quand les entreprises raffolent du « travail gratuit » demandé aux candidats](https://www.lemonde.fr/emploi/article/2024/05/29/recrutement-quand-les-entreprises-raffolent-du-travail-gratuit-demande-aux-candidats_6236125_1698637.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [François Lecointre : "Un chef qui ne s'expose pas à la contradiction risque l’indiscipline de ses subordonnés"](https://www.lexpress.fr/politique/francois-lecointre-un-chef-qui-ne-sexpose-pas-a-la-contradiction-risque-lindiscipline-de-ses-HMEHWWC5INGG3F6VCDVE7MLDXM/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [J'ai perdu mon permis de conduire, mon employeur peut-il me licencier ?](https://lemagdelaconso.ouest-france.fr/dossier-1054-perdu-permis-conduire-employeur-peut-il-me-licencier.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le sénateur Reconquête! Stéphane Ravier menacé d'inéligibilité](https://www.challenges.fr/politique/le-senateur-reconquete-stephane-ravier-menace-d-ineligibilite_894476?xtor=RSS-40)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Eurozapping : le Vatican s'excuse après l'emploi par le pape d'un terme insultant envers les personnes homosexuelles](https://www.francetvinfo.fr/monde/vatican/pape-francois/eurozapping-le-vatican-s-excuse-apres-l-emploi-par-le-pape-d-un-terme-insultant-envers-les-personnes-homosexuelles_6572372.html)
+Append: [L’impact négatif du ghosting dans le milieu professionnel](https://www.forbes.fr/business/limpact-negatif-du-ghosting-dans-le-milieu-professionnel/)
+Append: [« Nous ne percevons pas d’urgence à la mise en œuvre d’une nouvelle réforme de l’indemnisation du chômage »](https://www.lemonde.fr/idees/article/2024/05/29/nous-ne-percevons-pas-d-urgence-a-la-mise-en-uvre-d-une-nouvelle-reforme-de-l-indemnisation-du-chomage_6236115_3232.html)
+Append: [Le “pacte faustien” des jeunes avocats de Londres](https://www.courrierinternational.com/article/salaires-le-pacte-faustien-des-jeunes-avocats-de-londres)
+append_entries: 13
+Finish: 2024-05-29 12:33:11.002970

@@ -2381,3 +2381,46 @@ Append: [Trump veut utiliser Bitcoin pour sauver l'économie américaine](https:
 Append: [Pourquoi Pendle et une nouvelle sélection de projets de mise à l'échelle surpassent Bitcoin (BTC)](https://www.cryptopolitan.com/fr/les-projets-de-mise-a-l-39-echelle-pendle-surperforment-btc/)
 append_entries: 17
 Finish: 2024-05-29 01:10:43.099868
+------------------------------------------------------
+Started: 2024-05-29 12:29:23.507573
+Existing_entries: 964
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Solana prend de l'ampleur grâce aux transactions à haut débit de Cloudbet](https://www.cryptopolitan.com/fr/solana-prend-de-l-39-ampleur-sur-les-transactions-a-grande-vitesse-cloudbets/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Panique sur les marchés : pourquoi le prix du Bitcoin a subitement baissé](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/panique-sur-les-marches-pourquoi-le-prix-du-bitcoin-a-subitement-baisse)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Marché haussier ou baissier Bitcoin (BTC) ? Google Trends peut contenir des indices](https://www.cryptopolitan.com/fr/bitcoin-btc-bull-bear-market-tendances-google/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Après l’ETF, le bull run pour l’ether ? L’opinion du cabinet d’analystes Kaiko](https://investir.lesechos.fr/marches-indices/bitcoin-cryptomonnaies/apres-letf-le-bull-run-pour-lether-lopinion-du-cabinet-danalystes-kaiko-2097741)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AEX ouvrira probablement à nouveau à plat, mais Nvidia est au sommet et vaut plus que la bourse allemande](https://www.nouvelles-du-monde.com/aex-ouvrira-probablement-a-nouveau-a-plat-mais-nvidia-est-au-sommet-et-vaut-plus-que-la-bourse-allemande/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BIT Capital: succès surprise de l'approbation de l'ETF spot Ethereum](https://www.allnews.ch/content/produits/bit-capital-succ%C3%A8s-surprise-de-lapprobation-de-letf-spot-ethereum)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alexandra Roulet, lauréate du Prix du meilleur jeune économiste 2024 - 29/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/alexandra-roulet-laureate-du-prix-du-meilleur-jeune-economiste-2024-29-05_EN-202405290218.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Sébastien Paillet, président et co-fondateur de ScaleX - 29/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/sebastien-paillet-president-et-co-fondateur-de-scale-x-29-05_EN-202405290177.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [El Salvador mine 474 Bitcoin à l’aide de l’énergie géothermique](https://energynews.pro/el-salvador-mine-474-bitcoin-a-laide-de-lenergie-geothermique/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Elie Mélois, co-fondateur et CTO de LumApps - 29/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/elie-melois-co-fondateur-et-cto-de-lum-apps-29-05_EN-202405290148.html)
+Append: [Les cryptomonnaies: une technologie au service de la criminalité?](https://www.allnews.ch/content/points-de-vue/les-cryptomonnaies-une-technologie-au-service-de-la-criminalit%C3%A9)
+Append: [Les banques centrales en alerte face aux risques qui menacent leurs réserves](https://www.lesechos.fr/finance-marches/marches-financiers/les-banques-centrales-en-alerte-face-aux-risques-qui-menacent-leurs-reserves-2097668)
+Append: [Morning Retail : Les commissaires-priseurs à l'honneur - 29/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/morning-retail-les-commissaires-priseurs-a-l-honneur-29-05_EN-202405290087.html)
+Append: [BFM Crypto : 43 bitcoins retrouvés 10 après - 29/05](https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-la-chronique/bfm-crypto-43-bitcoins-retrouves-10-apres-29-05_EN-202405290079.html)
+Append: [BFM Crypto: 43 bitcoins retrouvés 10 après - 29/05](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/bfm-crypto-43-bitcoins-retrouves-10-apres-29-05_VN-202405290080.html)
+Append: [LONDRES : Les soldes en bitcoins sur les exchanges a…](https://presseagence.fr/londres-les-soldes-en-bitcoins-sur-les-exchanges-atteignent-leur-plus-bas-niveau/)
+Append: [Les Bourses prudentes avant des données sur l'inflation et un record pour le Nasdaq](https://www.lefigaro.fr/flash-eco/les-bourses-prudentes-avant-des-donnees-sur-l-inflation-et-un-record-pour-le-nasdaq-20240528)
+append_entries: 17
+Finish: 2024-05-29 12:30:23.802416

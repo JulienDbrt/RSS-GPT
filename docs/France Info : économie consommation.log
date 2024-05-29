@@ -2147,3 +2147,47 @@ Append: [APPEL A TEMOIGNAGES. Logement social : vous vivez dans un HLM et le pro
 Append: [De nombreux lots de saucisses rappelés en raison de la présence de verre, métal, plastique, papier et textile dans les produits](https://www.francetvinfo.fr/economie/de-nombreux-lots-de-saucisses-rappeles-en-raison-de-la-presence-de-verre-metal-plastique-papier-et-textile-dans-les-produits_6570590.html)
 append_entries: 15
 Finish: 2024-05-29 01:24:22.377290
+------------------------------------------------------
+Started: 2024-05-29 12:44:20.629299
+Existing_entries: 725
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Miel : le groupe français Famille Michaud accusé d'utiliser des étiquettes trompeuses](https://www.francetvinfo.fr/economie/miel-le-groupe-francais-famille-michaud-accuse-d-utiliser-des-etiquettes-trompeuses_6572663.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Le Monde" premier média français à signer un accord avec OpenAI : "Il ne faut pas laisser une chaise vide auprès de l’intelligence artificielle"](https://www.francetvinfo.fr/replay-radio/info-medias/le-monde-premier-media-francais-a-signer-un-accord-avec-openai-il-ne-faut-pas-laisser-une-chaise-vide-aupres-de-l-intelligence-artificielle_6544334.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agriculture : dans l'Eure, l'expérience "110 mètres haies" pour faire connaître l'agroforesterie](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/agriculture-dans-l-eure-l-experience-110-metres-haies-pour-faire-connaitre-l-agroforesterie_6572543.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : la difficulté des habitants à trouver de quoi se nourrir](https://www.francetvinfo.fr/france/nouvelle-caledonie/crise-en-nouvelle-caledonie-la-difficulte-des-habitants-a-trouver-de-quoi-se-nourrir_6572525.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Éducation : 75% des élèves de seconde n'ont toujours pas trouvé de stage, d'après les syndicats](https://www.francetvinfo.fr/societe/education/education-75-des-eleves-de-seconde-n-ont-toujours-pas-trouve-de-stage-d-apres-les-syndicats_6572522.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Audiovisuel public : "Pourquoi quand ça marche aussi bien vouloir brusquer, brutaliser, je ne vois pas l'intérêt", commente François Hollande](https://www.francetvinfo.fr/economie/medias/audiovisuel-public-pourquoi-quand-ca-marche-aussi-bien-vouloir-brusquer-brutaliser-je-ne-vois-pas-l-interet-commente-francois-hollande_6572420.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : une baisse des prix de 5,2% en un an](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-une-baisse-des-prix-de-5-2-en-un-an_6572336.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : poumon économique du territoire, la zone d'activité de Ducos durement touchée](https://www.francetvinfo.fr/france/nouvelle-caledonie/crise-en-nouvelle-caledonie-poumon-economique-du-territoire-la-zone-d-activite-de-ducos-durement-touchee_6572330.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Question palestinienne à l'hémicycle, projet de loi d'orientation agricole, ... Les informés du matin du mercredi 29 mai 2024](https://www.francetvinfo.fr/replay-radio/les-informes-du-matin/question-palestinienne-a-l-hemicycle-projet-de-loi-d-orientation-agricole-les-informes-du-matin-du-mercredi-29-mai-2024_6544349.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Recrutement : les entreprises sont montrées du doigt par les cadres qui cherchent du travail](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/recrutement-les-entreprises-sont-montrees-du-doigt-par-les-cadres-qui-cherchent-du-travail_6544364.html)
+Append: [Radio France et cinq autres groupements de médias signent une charte pour améliorer la traçabilité de l'information](https://www.francetvinfo.fr/economie/medias/radio-france-et-cinq-autres-groupements-de-medias-signent-une-charte-pour-ameliorer-la-tracabilite-de-l-information_6572081.html)
+Append: [Dépenses publiques : le bras de fer entre l'exécutif et les collectivités locales](https://www.francetvinfo.fr/replay-radio/le-brief-politique/depenses-publiques-le-bras-de-fer-entre-l-executif-et-les-collectivites-locales_6544358.html)
+Append: [Projet de loi agricole : "Ce n'est pas un permis de détruire la nature", se défend le ministre de l'Agriculture](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/projet-de-loi-agricole-ce-n-est-pas-un-permis-de-detruire-la-nature-se-defend-le-ministre-de-l-agriculture_6572222.html)
+Append: [Immobilier : "Pour la première fois depuis 18 mois", le site de Particulier à Particulier constate une hausse des recherches de biens](https://www.francetvinfo.fr/economie/immobilier/immobilier-pour-la-premiere-fois-depuis-18-mois-le-site-de-particulier-a-particulier-constate-une-hausse-des-recherches-de-biens_6572198.html)
+Append: [Le fabricant de chariots de supermarché Caddie de nouveau placé en redressement judiciaire](https://www.francetvinfo.fr/replay-radio/le-brief-eco/le-fabricant-de-chariots-de-supermarche-caddie-de-nouveau-place-en-redressement-judiciaire_6544370.html)
+Append: [Projet de loi d'orientation agricole : "On vient complètement détruire l'environnement", fustige l'association Terre de Liens](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/projet-de-loi-d-orientation-agricole-on-vient-completement-detruire-l-environnement-fustige-l-association-terre-de-liens_6572174.html)
+Append: [ENQUETE. Piratage de France Travail : la direction avait été alertée sur une faille de sécurité](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/piratage-de-france-travail-la-direction-avait-ete-alertee-sur-une-faille-de-securite_6536786.html)
+Append: [Le groupe français Famille Michaud, numéro 1 du miel en Europe, accusé d'utiliser des étiquettes trompeuses sur l'origine de ses produits](https://www.francetvinfo.fr/economie/le-groupe-francais-michaud-numero-1-du-miel-en-europe-accuse-d-utiliser-des-etiquettes-trompeuses-sur-l-origine-de-ses-produits_6571169.html)
+append_entries: 18
+Finish: 2024-05-29 12:45:19.096279

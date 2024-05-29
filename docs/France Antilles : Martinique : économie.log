@@ -809,3 +809,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Gardel réalise la première production de sucre de canne bio](https://www.martinique.franceantilles.fr/actualite/economie/gardel-realise-la-premiere-production-de-sucre-de-canne-bio-988817.php)
 append_entries: 2
 Finish: 2024-05-29 01:23:23.617350
+------------------------------------------------------
+Started: 2024-05-29 12:44:13.116816
+Existing_entries: 177
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chine: le FMI plus optimiste sur la croissance mais inquiet face aux défis à relever](https://www.martinique.franceantilles.fr/actualite/economie/chine-le-fmi-plus-optimiste-sur-la-croissance-mais-inquiet-face-aux-defis-a-relever-988989.php)
+append_entries: 1
+Finish: 2024-05-29 12:44:19.746799

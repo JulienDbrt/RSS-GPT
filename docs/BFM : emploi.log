@@ -489,3 +489,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Baisse sensible du nombre de chômeurs en avril](https://www.bfmtv.com/economie/emploi/baisse-sensible-du-nombre-de-chomeurs-en-avril_AD-202405280580.html)
 append_entries: 1
 Finish: 2024-05-29 01:20:05.727019
+------------------------------------------------------
+Started: 2024-05-29 12:41:01.168524
+Existing_entries: 57
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-05-29 12:41:01.293087

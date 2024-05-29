@@ -594,3 +594,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Chine: un ex-dirigeant d'un groupe financier condamné à mort pour corruption](https://www.bfmtv.com/international/chine-un-ex-dirigeant-d-un-groupe-financier-condamne-a-mort-pour-corruption_AD-202405280567.html)
 append_entries: 1
 Finish: 2024-05-29 01:19:22.918165
+------------------------------------------------------
+Started: 2024-05-29 12:40:42.128570
+Existing_entries: 92
+Fetching from https://www.bfmtv.com/rss/economie/international/
+append_entries: 0
+Finish: 2024-05-29 12:40:42.216603

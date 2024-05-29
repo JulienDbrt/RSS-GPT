@@ -5,11 +5,242 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Sauvegardez facilement votre parc machines avec Arx One</title>
+<link>https://korben.info/sauvegardez-facilement-votre-parc-machines-avec-arx-one.html</link>
+<guid>https://korben.info/sauvegardez-facilement-votre-parc-machines-avec-arx-one.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="372" src="https://korben.info/app/uploads/2024/05/SCR-20240523-dml-2.webp" width="1326" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat avec Arx One &#8212;</p>
+
+
+
+<p><strong><a href="https://www.arxone.com/" rel="noopener" target="_blank">Arx One</a></strong> est une solution de sauvegarde permettant aux petites comme aux grandes entreprises de protéger les données de leur parc machines. Conçue et développée en France, cette suite complète d&rsquo;outils permet de sauvegarder simplement et efficacement tous types de données, peu importe la machine où elles se trouvent.</p>
+
+
+
+<p>L&rsquo;outil s&rsquo;appuie en premier lieu sur une console centrale. C&rsquo;est elle qui permet de superviser et d&rsquo;administrer l&rsquo;ensemble machines et leur sauvegardes. À travers cette console d&rsquo;administration, on peut définir, entre autres, les machines à rattacher, la politique de sauvegarde, les plannings, les points de restauration, etc. </p>
+
+
+
+<p>Ensuite, il y a les agents qui ce sont de petits logiciels discrets, déployés sur les machines à sauvegarder (Windows, Linux, macOS&#8230;) qui sont alors capables de réaliser des sauvegardes selon les paramètres définis à distance dans la console. Les données sont évidemment dé-dupliquées et tout est chiffré à la source avant d&rsquo;être envoyées vers le stockage distant.</p>
+
+
+
+<p>La solution est particulièrement adaptée aux boites qui manipulent des données sensibles et qui doivent les sécuriser (données de santé, données financières&#8230;) car tout est stocké sur le sol français. C&rsquo;est parfait aussi pour les sociétés qui doivent respecter des normes strictes en termes de sécurité et de conformité (ISO27001, HDS, RGPD&#8230;).</p>
+
+
+
+<p>Arx One est très complet puisqu&rsquo;il permet ainsi de sauvegarder des choses aussi diverses que :</p>
+
+
+
+<ul>
+<li>Des serveurs physiques Windows et Linux</li>
+
+
+
+<li>Des machines virtuelles Proxmox, Hyper-V</li>
+
+
+
+<li>Des postes de travail et ordinateurs portables Windows, macOS, Linux</li>
+
+
+
+<li>Des NAS Synology, QNAP</li>
+
+
+
+<li>Et également des applications telles que des bases de données (MySQL, HFSQL, SQL Server&#8230;etc.), des messageries Exchange / Microsoft 365, etc.</li>
+</ul>
+
+
+
+<p>Ensuite, pour le stockage, <a href="https://www.arxone.com/" rel="noopener" target="_blank">Arx One offre 2 possibilités</a>. Soit de la sauvegarde externalisée et dans ce cas là, les données sont stockées dans leur cloud sécurisé. Ce sont leurs propres serveurs situés dans des datacenters en France (Nantes et Lyon) ce qui permet d&rsquo;offrir à leur client un cloud souverain, certifié ISO27001 et HDS (Hébergeur de Données de Santé).</p>
+
+
+
+<p>Ou sinon, y&rsquo;a aussi moyen d&rsquo;opter pour la sauvegarde centralisée. et dans ce cas, les données sont stockées sur vos propres infrastructures de stockage et tout est géré par vous.</p>
+
+
+
+<p>Quoiqu&rsquo;il en soit, dans les 2 cas, vos données seront toujours sécurisées avec du chiffrement de bout en bout en AES256, de la déduplication, des mises à jour automatique, des tests d&rsquo;intégrité, une conformité RGPD, et ainsi de suite.</p>
+
+
+
+<p>Alors maintenant comment ça s&rsquo;installe ? Et bien j&rsquo;ai fait des tests et je vais vous parler de mon expérience. J&rsquo;ai commencé par la console de gestion qui s&rsquo;installer en 2 secondes sur n&rsquo;importe quel Windows. C&rsquo;est cette machine qui fait alors office de poste de gestion central.</p>
+
+
+
+<p>Visuellement, ça fonctionne sur un principe d&rsquo;onglet comme un navigateur. L&rsquo;écran de bienvenue permet de visualiser d&rsquo;un seul coup d&rsquo;oeil l&rsquo;ensemble du parc des « agents », les opérations de backup ou de restauration en cours et les problèmes éventuels, ainsi que la place restante sur les serveurs d&rsquo;Arx One pour le stockage. À partir de là, on commence à administrer des comptes et leur appliquer des stratégies de sauvegarde (j&rsquo;y reviendrai plus tard). L&rsquo;idée c&rsquo;est que pour chaque machine à sauvegarder, vous allez devoir créer un compte descendant. Ce sont des comptes qui sont rattachés à votre compte principal. 1 compte par agent et donc par machine.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="758" src="https://kbn.im/arxone" width="1024" /></figure></div>
+
+
+<p>Une fois tout ça crée, y&rsquo;a plus qu&rsquo;à installer les agents sur les machines. Cela peut se faire en récupérant un binaire pour Windows, macOS ou Linux sur le site de Arx One, ou en lançant quelques lignes de commande si vous voulez par exemple déployer ça sur un serveur ou sur un NAS. <a href="https://doc.arx.one/fr/backup/agent" rel="noopener" target="_blank">La documentation concernant les agents est ici</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161135" height="608" src="https://korben.info/app/uploads/2024/05/arxagent-1024x608.webp" width="1024" /></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161136" height="857" src="https://korben.info/app/uploads/2024/05/arxplanif-1024x857.webp" width="1024" /></figure></div>
+
+
+<p>Ensuite, y&rsquo;a plus qu&rsquo;à rattacher votre agent à la console en saisissant au moment de l&rsquo;installation de l&rsquo;agent, l&rsquo;identifiant du compte descendant et son mot de passe créé pour l&rsquo;occasion. Pensez à bien rafraîchir la console pour avoir les données à jour ensuite.</p>
+
+
+
+<p>Après au niveau de l&rsquo;usage, la console web offre une excellente supervision et cela en temps réel. On peut y voir tous les agents rattachés, les paramétrer, mais également afficher différents tableaux de bord qui permettent d&rsquo;avoir une bonne vue d&rsquo;ensemble de l&rsquo;état des sauvegardes, de l&rsquo;espace de stockage qu&rsquo;il vous reste, des derniers points de restauration, mais également de voir les alertes (sauvegarde en erreur, espace disque faible…).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161137" height="758" src="https://korben.info/app/uploads/2024/05/console-1024x758.webp" width="1024" /></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161138" height="758" src="https://korben.info/app/uploads/2024/05/etat-1024x758.webp" width="1024" /></figure></div>
+
+
+<p>Et bien sûr, même si on ne le souhaite pas, à un moment, il faudra restaurer des données. Et bien encore une fois, tout peut se faire à distance via la console. Il suffira de sélectionner les fichiers à récupérer et d&rsquo;indiquer à l&rsquo;outil leur destination. La restauration sera alors lancée sur le poste ou le serveur distant.</p>
+
+
+
+<p>Concernant les stratégies de sauvegarde, c&rsquo;est peut-être la partie la plus barbue de l&rsquo;outil puisque cela va nécessiter de lire la documentation, mais si vous êtes administrateur système, vous avez forcément l&rsquo;habitude de ce genre de chose. En gros, c&rsquo;est une série de clés et de valeurs que vous pouvez définir pour permettre à l&rsquo;agent plus ou moins de choses comme l&rsquo;accès à l&rsquo;interface, la sauvegarde continue, la taille maximale des objets à sauvegarder, l&rsquo;endroit où sera créé le cache local&#8230;etc. </p>
+
+
+
+<p>Voici un exemple qui permet d&rsquo;avoir une sauvegarde continue sur les documents, avec un délai de déclenchement à 60 secondes, une taille max de fichiers à sauvegarder de 50 MB sans éclater le quota de 10 GB autorisé :</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161140" height="546" src="https://korben.info/app/uploads/2024/05/Capture-d‚cran-2024-05-23-093632-1024x546.webp" width="1024" /></figure></div>
+
+
+<p>Voilà pour le tour d&rsquo;horizon&#8230; Arx One est donc un excellent choix pour vos sauvegardes qui a réussi à éviter le côté usine à gaz d&rsquo;autres solutions concurrentes que j&rsquo;ai pu tester par le passé. Ça se déploie facilement, et le fait que le sauvegarde puisse être externalisée chez eux (en France !), de manière chiffrée et sécurisée, ça élimine pour leurs clients, la problématique parfois épineuse de la gestion et de la sécurisation du stockage.</p>
+
+
+
+<p>Si ça vous dit de tester Arx One, <a href="https://www.arxone.com/" rel="noopener" target="_blank"><strong>je vous invite à cliquer ici pour en savoir plus</strong></a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 08:42:04 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 08:42:04 +0000</pubDate>
+</item>
+<item>
+<title>Picotron, la nouvelle station de travail 8-bit pour créer des jeux et des outils</title>
+<link>https://korben.info/picotron-workstation-8bit-creation-jeux-outils.html</link>
+<guid>https://korben.info/picotron-workstation-8bit-creation-jeux-outils.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/03/manu23_8-bit_console_retro_wallpaper_with_text_written_Picotron_f2f362ed-0534-4169-a253-d09c3a782f0e.png" width="1456" /></p>
+<p>Souvenez-vous, il y a quelque temps, je vous avais parlé de la fantastique petite <a href="https://korben.info/console-pico-8.html">console <strong>Pico-8</strong></a>. Eh bien, les créateurs de ce petit bijou sont de retour avec un nouveau projet tout aussi excitant : <strong><a href="https://www.lexaloffle.com/picotron.php" rel="noopener" target="_blank">Picotron</a></strong> ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-560660196" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Il s&rsquo;agit d&rsquo;une <a href="https://fr.wikipedia.org/wiki/Station_de_travail" rel="noopener" target="_blank">station de travail</a> 8-bit (workstation), c&rsquo;est à dire un environnement de développement complet permettant de créer des jeux et des outils très cools. Tout comme Pico-8, Picotron repose sur le concept d&rsquo;une machine imaginaire dotée d&rsquo;outils intégrés mais attention, cela va encore plus loin que Pico-8 en termes de flexibilité et de puissance.</p>
+
+
+
+<p>Déjà, côté specs, on a droit à un affichage plus grand (480&#215;270 pixels contre 128&#215;128 pour Pico-8) et une capacité de stockage des cartouches étendue à 256Ko. Mais la vraie force de Picotron, c&rsquo;est son approche des outils intégrés. Contrairement à Pico-8, tous les outils de création de Picotron sont écrits en Lua et peuvent être modifiés directement dans la machine. Même des éléments comme l&rsquo;explorateur de fichiers ou l&rsquo;éditeur de code font partie de l&rsquo;espace utilisateur.</p>
+
+
+
+<p>Comme ça, vous pouvez créer vos propres logiciels from scratch, et ils tourneront en plein écran au même titre que les outils fournis. C&rsquo;est cette orientation vers la personnalisation et l&rsquo;extension qui vaut à Picotron le titre de « Workstation » plutôt que de simple « Console ». Cela dit, les aficionados de Pico-8 ne seront pas dépaysés puisque Picotron supporte la même syntaxe et une bonne partie de ses API. Moyennant quelques ajustements (Picotron utilise des nombres à virgule flottante là où Pico-8 se contente de nombres entiers), il est assez facile de porter les cartouches Pico-8 vers ce nouvel environnement.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158154" height="576" src="https://korben.info/app/uploads/2024/03/picotron_desktop-1024x576.png" width="1024" /></figure></div>
+
+
+<p>Et ce n&rsquo;est pas qu&rsquo;un simple Pico-8 Plus puisque la machine apporte également son lot de fonctionnalités, à commencer par son moteur graphique avec 64 couleurs affichables simultanément, entièrement paramétrables via des valeurs RGB. On peut même basculer entre 4 palettes de 64 couleurs à la volée, et ce à chaque ligne de balayage ! De quoi faire des effets de ouf. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-565639384" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Il intègre aussi un « moteur » sonore maison baptisé PFX6416 qui vous permettra de produire des sons riches et variés tout en restant concis en terme de données. Les instruments sont définis via des arbres de « nœuds » qui génèrent ou modifient un signal, le tout séquencé à la façon d&rsquo;un tracker. Un seul instrument peut ainsi mobiliser jusqu&rsquo;à 64 nœuds répartis sur 16 canaux !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158153" height="576" src="https://korben.info/app/uploads/2024/03/picotron_desktop2-1024x576.png" width="1024" /></figure></div>
+
+
+<p>Évidemment, on retrouve dans Picotron le workflow typique des consoles fantaisies. Un fichier de cartouche unique (*.p64) qui encapsule le code, les graphismes, les sons, etc. Et ces fichiers peuvent aussi également manipulés comme des dossiers depuis l&rsquo;OS de la machine. C&rsquo;est pratique pour copier des ressources directement d&rsquo;une cartouche à l&rsquo;autre.</p>
+
+
+
+<p>Niveau performances, Picotron se veut à la fois plus véloce que Pico-8 (environ 2x plus rapide en instructions Lua pure) et suffisamment efficient pour tourner sur des configs modestes, y compris dans un navigateur web. Des primitives comme le rendu de triangles texturés permettent de réaliser des prouesses techniques sans sacrifier la fluidité. </p>
+
+
+
+<p>C&rsquo;est dispo sous Windows, Mac, Linux ainsi qu&rsquo;en HTML5 alors vous n&rsquo;avez aucune excuse pour ne pas essayer.</p>
+
+
+
+<p>En effet, Picotron incarne, selon moi, le fantasme parfait du geek : un ordi 8-bit idéal et hyper versatile, qui carbure à l&rsquo;imagination de ses utilisateurs et dont le code est totalement ouvert et hackable. Bref, j&rsquo;ai hâte de voir l&rsquo;écosystème qui va se développer autour de ce truc : Outils dédiés, démos techniques, jeux old school ou petites pépites&#8230; les possibilités offertes par Picotron semblent infinies.</p>
+
+
+
+<p><a href="https://www.lexaloffle.com/picotron.php" rel="noopener" target="_blank">A vous de jouer maintenant !</a></p>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>RansomLord v3 – Un outil open source qui exploite les failles des ransomwares</title>
+<link>https://korben.info/ransomlord-v3-outil-anti-rancongiciel-open-source-exploite-failles.html</link>
+<guid>https://korben.info/ransomlord-v3-outil-anti-rancongiciel-open-source-exploite-failles.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_ransomware_logo_named_RansomLord_2784ad8b-5981-4644-88dc-b7865b071c28.webp" width="1920" /></p>
+<p>Les <strong>ransomwares</strong>, ces programmes nuisibles qui prennent vos précieux fichiers en otage contre une rançon, font trembler pas mal de monde, même les plus expérimentés. Mais c&rsquo;était sans compter sur <strong>RansomLord</strong> qui pourrait peut-être bien vous sauver la mise si vous avez été infecté.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1138441918" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Cet outil <strong>open source</strong>, conçu par John Page (alias <strong>hyp3rlinx</strong>), a pour mission de mettre des bâtons dans les roues des cybercriminels en exploitant les failles de sécurité présentes dans le code de ces virus modernes. Et on parle quand même de ransomwares assez balaises comme Conti, REvil ou LockBit, mais aussi de nouveaux venus comme StopCrypt, RisePro, RuRansom, MoneyMessage, CryptoFortress et Onyx.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-161348" height="1024" src="https://korben.info/app/uploads/2024/05/328358962-30006d20-8dc4-45aa-ae52-7bacf38e9dde-1-781x1024.webp" style="width: 621px; height: auto;" width="781" /></figure></div>
+
+
+<p>Pour réussir cet exploit (sans mauvais jeu de mot), RansomLord génère des fichiers « DLL » qui se font passer pour des fichiers légitimes dont les rançongiciels ont besoin. En réalité, ces DLL sont remplis de code malicieux qui court-circuite le processus de chiffrement et met fin à la carrière du malware avant même qu&rsquo;il n&rsquo;ait pu crier « Bitcoin » !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Le plus impressionnant, c&rsquo;est que RansomLord est capable de cibler spécifiquement les rançongiciels qui menacent votre entreprise ou votre secteur d&rsquo;activité grâce à sa base de données de plus de 49 familles de ransomwares. Comme ça, il vous concocte le DLL parfait pour mettre hors d&rsquo;état de nuire ces logiciels du démon.</p>
+
+
+
+<p>Cette dernière version 3 de RansomLord intègre également une fonction de journalisation qui enregistre le hash SHA256 et le chemin d&rsquo;accès complet du malware intercepté. Comme ça, vous pouvez garder une trace de l&rsquo;attaque et communiquer ces détails à des experts cyber qui viendraient mener l&rsquo;enquête ensuite.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-339946754" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Respect à hyp3rlinx pour cette trouvaille ingénieuse ! Et pour <a href="https://github.com/malvuln/RansomLord/releases/tag/v3" rel="noopener" target="_blank">télécharger RansomLord v3 c&rsquo;est par ici.</a></p>
+
+
+
+<p><a href="https://www.helpnetsecurity.com/2024/05/29/ransomlord-open-source-anti-ransomware-exploit-tool/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 06:00:41 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 06:00:41 +0000</pubDate>
+</item>
+
+<item>
 <title>Le son des images #IA</title>
 <link>https://korben.info/quand-les-images-sonnent-nouvelle-bidouille-ia-dingo.html</link>
 <guid>https://korben.info/quand-les-images-sonnent-nouvelle-bidouille-ia-dingo.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="543" src="https://korben.info/app/uploads/2024/05/SCR-20240528-l3a.png" width="896" /></p>
 <p>Des chercheurs de l&rsquo;Université du Michigan ont mis au point <a href="https://ificl.github.io/images-that-sound/" rel="noopener" target="_blank">une technique absolument dingue</a> qui permet de générer des spectrogrammes ayant l&rsquo;allure d&rsquo;images capables de produire des sons qui leur correspondent lorsqu&rsquo;ils sont écoutés. Ils appellent cela des « images qui sonnent ».</p>
 
@@ -55,14 +286,12 @@
 <p><a href="https://ificl.github.io/images-that-sound/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 13:33:11 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 13:33:11 +0000</pubDate>
 </item>
 <item>
 <title>Ils exploitent une faille dans Roboform et récupèrent 3 millions en Bitcoin</title>
 <link>https://korben.info/faille-roboform-recuperer-3-millions-bitcoin.html</link>
 <guid>https://korben.info/faille-roboform-recuperer-3-millions-bitcoin.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Bitcoin_money_3_millions_dollars_password_cracking_209942ec-8759-46c6-b771-123b3149ee0e.webp" width="1456" /></p>
 <p>2 bidouilleurs viennent de prouver qu&rsquo;avec un peu d&rsquo;astuce et beaucoup de persévérance, on pouvait cracker les coffres-forts numériques les mieux gardés. </p>
 
@@ -114,14 +343,12 @@
 <p><a href="https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 13:20:46 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 13:20:46 +0000</pubDate>
 </item>
 <item>
 <title>WebNN – L’IA s’invite dans votre navigateur avec DirectML</title>
 <link>https://korben.info/webnn-ia-navigateur-directml-api-javascript.html</link>
 <guid>https://korben.info/webnn-ia-navigateur-directml-api-javascript.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/webnn.webp" width="1245" /></p>
 <p>Ça y est, les amis, l&rsquo;API WebNN débarque enfin en preview pour les développeurs, et croyez-moi, ça va <strong>changer totalement</strong> la manière dont on fait tourner de l&rsquo;IA dans nos navigateurs web !Grâce à cette techno, on va pouvoir profiter de la puissance de nos GPU et autres accélérateurs matériels directement depuis nos pages web, sans avoir à installer le moindre plugin ou logiciel supplémentaire.</p>
 
@@ -187,9 +414,7 @@
 <p><a href="https://blogs.windows.com/windowsdeveloper/2024/05/24/introducing-the-webnn-developer-preview-with-directml/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 12:49:26 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 12:49:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Reconnaissance faciale en France – Une menace pour nos libertés</title>
 <link>https://korben.info/reconnaissance-faciale-france-menace-libertes.html</link>

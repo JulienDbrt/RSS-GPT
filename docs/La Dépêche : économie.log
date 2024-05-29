@@ -2463,3 +2463,49 @@ Append: [Centrale nucléaire de Golfech : EDF stoppe le réacteur n°2 pour une
 Append: [Ce qui vous attend ce jeudi avec la grève des pharmaciens dans le Tarn](https://www.ladepeche.fr/2024/05/28/ce-qui-vous-attend-ce-jeudi-avec-la-greve-des-pharmaciens-dans-le-tarn-11979142.php)
 append_entries: 20
 Finish: 2024-05-29 01:30:28.028377
+------------------------------------------------------
+Started: 2024-05-29 12:50:23.000960
+Existing_entries: 997
+Fetching from https://www.ladepeche.fr/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Compteur Linky : vers une limitation temporaire de puissance chez les particuliers pour faire baisser la consommation ?](https://www.ladepeche.fr/2024/05/29/compteur-linky-vers-une-limitation-temporaire-de-puissance-chez-les-particuliers-pour-faire-baisser-la-consommation-11978876.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L’abattoir de Boulogne-sur-Gesse ouvre ses portes vendredi pour les "Rencontres à table"](https://www.ladepeche.fr/2024/05/29/labattoir-de-boulogne-sur-gesse-ouvre-ses-portes-vendredi-pour-les-rencontres-a-table-11980822.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts 2024 : si je suis entré en Ehpad en 2023, comment remplir ma déclaration de revenus ?](https://www.ladepeche.fr/2024/05/29/impots-2024-si-je-suis-entre-en-ehpad-en-2023-comment-remplir-ma-declaration-de-revenus-11957263.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cybercriminalité, fausses déclarations, croisement des données : comment la CAF de Haute-Garonne mène une guerre à la fraude](https://www.ladepeche.fr/2024/05/29/cybercriminalite-fausses-declarations-croisement-des-donnees-comment-la-caf-de-haute-garonne-mene-une-guerre-a-la-fraude-11979323.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Au centre de tri de La Poste, les lycéens du Montat sensibilisent à la biodiversité](https://www.ladepeche.fr/2024/05/29/au-centre-de-tri-de-la-poste-les-lyceens-du-montat-sensibilisent-a-la-biodiversite-11969451.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cahors : la Fédération Départementale des Associations de Commerçants remet son trophée à la CCI](https://www.ladepeche.fr/2024/05/29/cahors-la-federation-departementale-des-associations-de-commercants-remet-son-trophee-a-la-cci-11969721.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [APPEL À TÉMOIGNAGE. Ariège : vous êtes Ariégeois et aimez boire du kombucha ? Venez nous raconter pourquoi !](https://www.ladepeche.fr/2024/05/29/appel-a-temoignage-ariege-vous-etes-ariegeois-et-aimez-boire-du-kombucha-venez-nous-raconter-pourquoi-11981060.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [INFO LA DEPECHE. Fondateur de la société Boyer SAS à Moissac, pionnier de la culture du melon aux Antilles, Claude Boyer est mort](https://www.ladepeche.fr/2024/05/29/info-la-depeche-fondateur-de-la-societe-boyer-sas-a-moissac-pionnier-de-la-culture-du-melon-aux-antilles-claude-boyer-est-mort-11981026.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Même avec un BAC + 2, je n’arrive pas à être engagé" : comment le café de l’emploi de "l’Acor" favorise l’insertion professionnelle](https://www.ladepeche.fr/2024/05/29/meme-avec-un-bac-2-je-narrive-pas-a-etre-engage-comment-le-cafe-de-lemploi-de-lacor-favorise-linsertion-professionnelle-11978888.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dans ses ateliers de Tarbes, Spoticar reconditionne des véhicules d’occasion mis en vente vendredi et samedi](https://www.ladepeche.fr/2024/05/29/dans-ses-ateliers-de-tarbes-spoticar-reconditionne-des-vehicules-doccasion-mis-en-vente-vendredi-et-samedi-11979506.php)
+Append: [APPEL A QUESTIONS. Immobilier, succession, droit de la famille… posez vos questions, les notaires répondent gratuitement](https://www.ladepeche.fr/2024/05/29/appel-a-questions-immobilier-succession-droit-de-la-famille-posez-vos-questions-les-notaires-repondent-gratuitement-11977652.php)
+Append: [Saint-Gaudens. Sève de bouleau et ortie en Comminges](https://www.ladepeche.fr/2024/05/29/seve-de-bouleau-et-ortie-en-comminges-11980934.php)
+Append: [Bouzin. Bienvenue à la Ferme de l’Omière](https://www.ladepeche.fr/2024/05/29/bienvenue-a-la-ferme-de-lomiere-11980917.php)
+Append: [Cassagnabère-Tournas. Bienvenue aux Collines d’Epona](https://www.ladepeche.fr/2024/05/29/bienvenue-aux-collines-depona-11980904.php)
+Append: [Proupiary. Rendez-vous aux jardins de l’Abbaye de Bonnefont](https://www.ladepeche.fr/2024/05/29/rendez-vous-aux-jardins-de-labbaye-de-bonnefont-11980906.php)
+Append: [Martres-Tolosane. Un café-épicerie engagé](https://www.ladepeche.fr/2024/05/29/un-cafe-epicerie-engage-11980899.php)
+Append: [Mane. Ouverture d’une épicerie en centre-ville](https://www.ladepeche.fr/2024/05/29/ouverture-dune-epicerie-en-centre-ville-11980895.php)
+Append: [Pointis-Inard. Un point sur la MHE et la FCO](https://www.ladepeche.fr/2024/05/29/un-point-sur-la-mhe-et-la-fco-11980896.php)
+Append: [Mazères-sur-Salat. Mazères, village d’entreprises](https://www.ladepeche.fr/2024/05/29/mazeres-village-dentreprises-11980894.php)
+Append: [Aspet. Fête de la transhumance](https://www.ladepeche.fr/2024/05/29/fete-de-la-transhumance-11980891.php)
+append_entries: 20
+Finish: 2024-05-29 12:51:21.854990

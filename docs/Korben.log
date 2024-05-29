@@ -844,3 +844,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [WebNN – L’IA s’invite dans votre navigateur avec DirectML](https://korben.info/webnn-ia-navigateur-directml-api-javascript.html)
 append_entries: 3
 Finish: 2024-05-29 01:14:06.981158
+------------------------------------------------------
+Started: 2024-05-29 12:33:48.975066
+Existing_entries: 164
+Fetching from https://korben.info/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Sauvegardez facilement votre parc machines avec Arx One](https://korben.info/sauvegardez-facilement-votre-parc-machines-avec-arx-one.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Picotron, la nouvelle station de travail 8-bit pour créer des jeux et des outils](https://korben.info/picotron-workstation-8bit-creation-jeux-outils.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [RansomLord v3 – Un outil open source qui exploite les failles des ransomwares](https://korben.info/ransomlord-v3-outil-anti-rancongiciel-open-source-exploite-failles.html)
+append_entries: 3
+Finish: 2024-05-29 12:34:07.392376

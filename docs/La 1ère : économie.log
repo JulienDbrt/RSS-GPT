@@ -1411,3 +1411,33 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les plages de l'ouest de l'île de La Réunion conservent leur label Pavillon Bleu en 2024](https://la1ere.francetvinfo.fr/reunion/les-plages-de-l-ouest-de-l-ile-de-la-reunion-conservent-leur-pavillon-bleu-en-2024-1491893.html)
 append_entries: 10
 Finish: 2024-05-29 01:29:11.613664
+------------------------------------------------------
+Started: 2024-05-29 12:49:28.623304
+Existing_entries: 351
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La vanille de La Réunion en danger](https://la1ere.francetvinfo.fr/la-vanille-de-la-reunion-en-danger-1492190.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : l'incompréhension des touristes français toujours bloqués sur le Caillou](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-l-incomprehension-des-touristes-francais-toujours-bloques-sur-le-caillou-1492094.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Saint-André : un incendie détruit une pizzeria à Cambuston](https://la1ere.francetvinfo.fr/reunion/saint-andre/saint-andre-un-incendie-detruit-dans-une-pizzeria-a-cambuston-1492145.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Grève des pharmacies le 30 mai : la liste des officines réquisitionnées par l’ARS et la préfecture à La Réunion](https://la1ere.francetvinfo.fr/reunion/greve-des-pharmacies-le-30-mai-la-liste-des-officines-requisitionnees-par-l-ars-et-la-prefecture-a-la-reunion-1492124.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEO. Crise en Nouvelle-Calédonie : pour circuler, choisissez entre les options taxi, vélo ou bateau](https://la1ere.francetvinfo.fr/nouvellecaledonie/video-crise-en-nouvelle-caledonie-pour-circuler-choisissez-entre-les-options-taxi-velo-ou-bateau-1492109.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pêche : le « Rāhui No Tumaraa » prend vie à Raiatea](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/peche-le-rahui-no-tumaraa-prend-vie-a-raiatea-1492097.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : le site minier de la SLN à Népoui a-t-il repris son activité ?](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-les-sites-miniers-de-la-sln-sur-la-cote-ouest-ont-ils-repris-leur-activite-1492070.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : quels sont les droits et devoirs des salariés et des employeurs en cette période troublée ?](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-quels-sont-les-droits-et-devoirs-des-salaries-et-des-employeurs-en-cette-periode-troublee-1492064.html)
+append_entries: 8
+Finish: 2024-05-29 12:50:14.929449

@@ -1873,3 +1873,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Aéronautique : Aura Aero s'allie avec Airbus pour certifier son futur avion régional électrique](https://toulouse.latribune.fr/entreprises/business/2024-05-28/aeronautique-aura-aero-s-allie-avec-airbus-pour-certifier-son-futur-avion-regional-electrique-998549.html)
 append_entries: 10
 Finish: 2024-05-29 01:32:22.695597
+------------------------------------------------------
+Started: 2024-05-29 12:54:21.049472
+Existing_entries: 505
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Voitures électriques : la France serait-elle davantage compétitive face à la Chine si l'Europe relevait ses droits de douane ?](https://www.latribune.fr/entreprises-finance/industrie/automobile/voitures-electriques-la-france-serait-elle-davantage-competitive-face-a-la-chine-si-l-europe-relevait-ses-droits-de-douane-998485.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Simplification : le « millefeuille administratif » coûterait 7,5 milliards d'euros à l'Etat](https://www.latribune.fr/economie/france/simplification-le-millefeuille-administratif-couterait-7-5-milliards-d-euros-a-l-etat-998620.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'UE se dote d'un bureau d'experts pour encadrer l'intelligence artificielle, une première](https://www.latribune.fr/technos-medias/informatique/l-ue-se-dote-d-un-bureau-d-experts-pour-encadrer-l-intelligence-artificielle-une-premiere-998619.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Intelligence artificielle : à Grenoble, le Cluster MIAI élargira son spectre au quantique, à l'éducation et aux industries créatives](https://region-aura.latribune.fr/innovation/innovation-technologique/2024-05-29/intelligence-artificielle-a-grenoble-le-cluster-miai-elargira-son-spectre-au-quantique-a-l-education-et-aux-industries-creatives-998532.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Médecins libéraux : le principal syndicat de généralistes valide les nouveaux tarifs](https://www.latribune.fr/economie/france/medecins-liberaux-le-principal-syndicat-de-generalistes-valide-les-nouveaux-tarifs-998613.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rachat du minier Anglo American : BHP n'aura finalement pas plus de temps pour parfaire sa proposition](https://www.latribune.fr/economie/international/rachat-du-minier-anglo-american-bhp-revient-a-la-charge-et-demande-plus-de-temps-pour-parfaire-sa-proposition-998597.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taïwan : le nouveau président tend les bras aux Etats-Unis pour lutter contre « l'expansionnisme autoritaire » de la Chine](https://www.latribune.fr/economie/international/taiwan-le-nouveau-president-tend-les-bras-aux-etats-unis-pour-lutter-contre-l-expansionnisme-autoritaire-de-la-chine-998610.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [En Normandie, les gîtes, hôtels et campings pris d’assaut pour l’anniversaire du DDay](https://www.latribune.fr/entreprises-finance/services/tourisme-loisirs/en-normandie-les-gites-hotels-et-campings-pris-d-assaut-pour-l-anniversaire-du-dday-998591.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Facture électronique : la PME Axonaut revoit sa stratégie face au report de l'obligation](https://toulouse.latribune.fr/entreprises/2024-05-29/facture-electronique-la-pme-axonaut-revoit-sa-strategie-face-au-report-de-l-obligation-998590.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« L’IA générative a brisé le plafond de verre des TPE et PME » (Y. Ferguson)](https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2024-05-29/l-ia-generative-a-brise-le-plafond-de-verre-des-tpe-et-pme-y-ferguson-998612.html)
+append_entries: 10
+Finish: 2024-05-29 12:55:19.072498

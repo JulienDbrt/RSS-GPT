@@ -615,3 +615,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [TGV et TER: le trafic sera "perturbé" ce mercredi sur l'axe Nord](https://www.bfmtv.com/economie/entreprises/transports/tgv-et-ter-le-trafic-sera-perturbe-ce-mercredi-sur-l-axe-nord_AN-202405280658.html)
 append_entries: 2
 Finish: 2024-05-29 01:22:02.668263
+------------------------------------------------------
+Started: 2024-05-29 12:42:44.495594
+Existing_entries: 99
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-05-29 12:42:44.572024

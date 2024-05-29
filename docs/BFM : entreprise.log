@@ -1312,3 +1312,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Le parc éolien en mer de Saint-Brieuc entre en service, le deuxième en France](https://www.bfmtv.com/economie/entreprises/energie/le-parc-eolien-en-mer-de-saint-brieuc-entre-en-service-le-2e-en-france_AD-202405280645.html)
 append_entries: 8
 Finish: 2024-05-29 01:20:51.466052
+------------------------------------------------------
+Started: 2024-05-29 12:41:01.496199
+Existing_entries: 352
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Production à l'arrêt: la grève se poursuit à la raffinerie Port-Jérôme d'ExxonMobil](https://www.bfmtv.com/economie/entreprises/production-a-l-arret-la-greve-se-poursuit-a-la-raffinerie-port-jerome-d-exxon-mobil_AD-202405290540.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pétrole: l'américain ConocoPhillips s'offre Marathon Oil pour 22,5 milliards de dollars](https://www.bfmtv.com/economie/entreprises/petrole-l-americain-conoco-phillips-s-offre-marathon-oil-pour-22-5-milliards-de-dollars_AD-202405290539.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les missions de service public de La Poste deviennent trop lourdes pour la Caisse des dépôts](https://www.bfmtv.com/economie/entreprises/les-missions-de-service-public-de-la-poste-deviennent-trop-lourdes-pour-la-caisse-des-depots_AD-202405290537.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Publicis: Maurice Levy se met en retrait de la gouvernance, Arthur Sadoun devient PDG](https://www.bfmtv.com/economie/entreprises/publicis-maurice-levy-se-met-en-retrait-de-la-gouvernance-arthur-sadoun-devient-pdg_AD-202405290522.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Première grève de son histoire chez Samsung Electronics](https://www.bfmtv.com/economie/entreprises/premiere-greve-de-son-histoire-chez-samsung-electronics_AD-202405290090.html)
+append_entries: 5
+Finish: 2024-05-29 12:41:31.026174

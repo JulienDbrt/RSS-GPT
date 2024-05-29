@@ -1638,3 +1638,27 @@ Append: [Banque en ligne : libérée des sanctions, cette néobanque va pouvoir 
 Append: [SG (Société Générale) : jusqu'à 160 euros de prime pour l'ouverture d'un compte en ligne](https://www.moneyvox.fr/banque-en-ligne/actualites/97953/sg-jusqua-160-euros-de-prime-pour-ouverture-un-compte-en-ligne)
 append_entries: 11
 Finish: 2024-05-29 01:25:45.164199
+------------------------------------------------------
+Started: 2024-05-29 12:45:51.899525
+Existing_entries: 474
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Poste : les missions de service public deviennent trop lourdes](https://www.moneyvox.fr/actu/97982/la-poste-les-missions-de-service-public-deviennent-trop-lourdes)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bugs, précipitation, manque de pédagogie... Deux députés taclent le lancement de la déclaration de biens immobiliers](https://www.moneyvox.fr/impot/actualites/97980/bugs-precipitation-manque-de-pedagogie-deux-deputes-taclent-le-lancement-de-la-declaration-de-biens-immobiliers)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Banque et assurance : le superviseur vante la solidité de ces secteurs en France comme en Europe](https://www.moneyvox.fr/actu/97979/banque-et-assurance-le-superviseur-vante-la-solidite-de-ces-secteurs-en-france-comme-en-europe)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Bourse de Paris dans le rouge, peu aidée par des taux obligataires en hausse](https://www.moneyvox.fr/bourse/actualites/97978/la-bourse-de-paris-dans-le-rouge-peu-aidee-par-des-taux-obligataires-en-hausse)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assurance auto : peut-on perdre son bonus même sans avoir un accident ?](https://www.moneyvox.fr/assurance/actualites/97965/assurance-auto-peut-on-perdre-son-bonus-meme-sans-avoir-un-accident)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt sur le revenu : 2OP, cette case magique qui vous évite de payer à tort](https://www.moneyvox.fr/impot/actualites/97944/impot-sur-le-revenu-2op-cette-case-magique-qui-vous-evite-de-payer-a-tort)
+append_entries: 6
+Finish: 2024-05-29 12:46:26.077474
