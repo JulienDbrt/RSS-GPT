@@ -1282,3 +1282,33 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Airbus: pourquoi le nouvel A321 XLR va bouleverser l'univers des vols long-courriers](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-pourquoi-le-nouvel-a321-xlr-va-bouleverser-l-univers-des-vols-long-courriers_AV-202405280037.html)
 append_entries: 7
 Finish: 2024-05-28 12:40:31.637137
+------------------------------------------------------
+Started: 2024-05-29 01:20:05.933410
+Existing_entries: 344
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cabinets de conseil: deuxième feu vert du Sénat, qui renvoie la balle au gouvernement](https://www.bfmtv.com/economie/entreprises/cabinets-de-conseil-deuxieme-feu-vert-du-senat-qui-renvoie-la-balle-au-gouvernement_AD-202405280844.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agriculture: l'Assemblée nationale adopte le projet de loi d'orientation du gouvernement](https://www.bfmtv.com/economie/entreprises/agriculture/agriculture-l-assemblee-nationale-adopte-le-projet-de-loi-d-orientation-du-gouvernement_AD-202405280796.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [LDC souhaite s'emparer du leader du taboulé Pierre Martinet](https://www.bfmtv.com/economie/entreprises/ldc-souhaite-s-emparer-du-leader-du-taboule-pierre-martinet_AD-202405280791.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Épicerie de luxe: Fauchon est cédé au groupe breton Galapagos](https://www.bfmtv.com/economie/entreprises/epicerie-de-luxe-fauchon-est-cede-au-groupe-breton-galapagos_AV-202405280770.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vers une nouvelle grève des contrôleurs aériens?](https://www.bfmtv.com/economie/entreprises/transports/vers-une-nouvelle-greve-des-controleurs-aeriens_AV-202405280735.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TGV et TER: le trafic sera "perturbé" ce mercredi sur l'axe Nord](https://www.bfmtv.com/economie/entreprises/transports/tgv-et-ter-le-trafic-sera-perturbe-ce-mercredi-sur-l-axe-nord_AN-202405280658.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Avions de combat: la Suède suspend l'envoi de Gripen pour l'Ukraine](https://www.bfmtv.com/economie/entreprises/defense/avions-de-combat-la-suede-reporte-l-envoi-de-gripen-pour-l-ukraine_AD-202405280647.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le parc éolien en mer de Saint-Brieuc entre en service, le deuxième en France](https://www.bfmtv.com/economie/entreprises/energie/le-parc-eolien-en-mer-de-saint-brieuc-entre-en-service-le-2e-en-france_AD-202405280645.html)
+append_entries: 8
+Finish: 2024-05-29 01:20:51.466052

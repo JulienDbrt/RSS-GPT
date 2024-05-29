@@ -1002,3 +1002,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Ils attendent que je meure" : Patrick Laugier, éleveur de taureaux, menacé de devoir quitter ses terres et ses bêtes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/arles/ils-attendent-que-je-meure-patrick-laugier-eleveur-de-taureaux-menace-de-devoir-quitter-ses-terres-et-ses-betes-2976218.html)
 append_entries: 6
 Finish: 2024-05-28 12:46:53.671323
+------------------------------------------------------
+Started: 2024-05-29 01:25:58.037071
+Existing_entries: 230
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TÉMOIGNAGE. Le chien de cet éleveur tué par balles dans la tête, le berger dénonce "un acte de barbarie"](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/grasse/temoignage-le-chien-de-cet-eleveur-tue-par-balles-dans-la-tete-le-proprietaire-denonce-un-acte-de-barbarie-2976749.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Ils perdent leur maison familiale si ça s'arrête". Le producteur de champignons Champidor dans la tourmente, 16 emplois menacés](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/ils-perdent-leur-maison-familiale-si-ca-s-arrete-le-producteur-de-champignons-champidor-dans-la-tourmente-16-emplois-menaces-2976770.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Polluants éternels. Une étude révèle "la plus grande contamination connue de l’eau à l’échelle européenne" par un produit chimique très persistant](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/polluants-eternels-une-etude-revele-la-plus-grande-contamination-connue-de-l-eau-a-l-echelle-europeenne-par-un-produit-chimique-tres-persistant-2976620.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un abattoir d'ovins menacé de fermeture, éleveurs et commerçants se mobilisent pour préserver leur outil de travail](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/un-abattoir-d-ovins-menace-de-fermeture-eleveurs-et-commercants-se-mobilisent-pour-preserver-leur-outil-de-travail-2976728.html)
+append_entries: 4
+Finish: 2024-05-29 01:26:21.714930

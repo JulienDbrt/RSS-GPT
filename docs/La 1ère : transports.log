@@ -604,3 +604,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [L'émotion des premiers Polynésiens rapatriés, les promesses de l'État et du Pays](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/l-emotion-des-premiers-polynesiens-rapatries-les-promesses-de-l-etat-et-du-pays-1491755.html)
 append_entries: 2
 Finish: 2024-05-28 12:50:03.666123
+------------------------------------------------------
+Started: 2024-05-29 01:29:12.102798
+Existing_entries: 84
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : sur la route avec André, convoyeur de farine en Brousse](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-sur-la-route-avec-andre-convoyeur-de-farine-en-brousse-1492046.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les premiers wallisiens et futuniens rapatriés de Nouvelle-Calédonie : un "gros" soulagement pour les étudiants et les parents](https://la1ere.francetvinfo.fr/wallisfutuna/les-premiers-wallisiens-et-futuniens-rapatries-de-nouvelle-caledonie-un-gros-soulagement-pour-les-etudiants-et-les-parents-1492025.html)
+append_entries: 2
+Finish: 2024-05-29 01:29:23.332499

@@ -5,11 +5,196 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Le son des images #IA</title>
+<link>https://korben.info/quand-les-images-sonnent-nouvelle-bidouille-ia-dingo.html</link>
+<guid>https://korben.info/quand-les-images-sonnent-nouvelle-bidouille-ia-dingo.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="543" src="https://korben.info/app/uploads/2024/05/SCR-20240528-l3a.png" width="896" /></p>
+<p>Des chercheurs de l&rsquo;Université du Michigan ont mis au point <a href="https://ificl.github.io/images-that-sound/" rel="noopener" target="_blank">une technique absolument dingue</a> qui permet de générer des spectrogrammes ayant l&rsquo;allure d&rsquo;images capables de produire des sons qui leur correspondent lorsqu&rsquo;ils sont écoutés. Ils appellent cela des « images qui sonnent ».</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1034563234" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Leur approche est simple et fonctionne sans entraînement spécifique. Elle s&rsquo;appuie sur des modèles de diffusion text-to-image et text-to-spectrogram pré-entraînés, opérant dans <a href="https://hyper.hypotheses.org/171" rel="noopener" target="_blank">un espace latent partagé</a>. Durant le processus de génération, les deux modèles « débruitent » des latents partagés de manière simultanée, guidés par deux textes décrivant l&rsquo;image et le son désirés.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161342" height="560" src="https://korben.info/app/uploads/2024/05/method-1024x560.webp" width="1024" /></figure></div>
+
+
+<p>Le résultat est bluffant ! Ça donne des spectrogrammes qui, vus comme des images, ressemblent à un château avec des tours, et écoutés comme des sons, font entendre des cloches. Ou des tigres dont les rayures cachent les motifs sonores de leurs rugissements.</p>
+
+
+
+<figure class="wp-block-video aligncenter"><video controls="controls" src="https://korben.info/app/uploads/2024/05/tiger.mp4"></video></figure>
+
+
+
+<p>Pour évaluer leur bidouille, les chercheurs ont utilisé des métriques quantitatives comme CLIP et CLAP, ainsi que des études de perception humaine. Leur méthode dépasse les approches alternatives et génère des échantillons qui collent finement aux prompts textuels dans les deux modalités. Ils montrent aussi que coloriser les spectrogrammes donne des images plus agréables à l&rsquo;œil, tout en préservant l&rsquo;audio.</p>
+
+
+
+<p>Cette prouesse révèle qu&rsquo;il existe une intersection entre la distribution des images et celle des spectrogrammes audio et en dépit de leurs différences, ils partagent des caractéristiques bas niveau comme les contours, les courbes et les coins. Cela permet de composer de façon inattendue des éléments visuels ET acoustiques, comme une ligne qui marque à la fois l&rsquo;attaque d&rsquo;un son de cloche et le contour d&rsquo;un clocher.</p>
+
+
+
+<figure class="wp-block-video aligncenter"><video controls="controls" src="https://korben.info/app/uploads/2024/05/race.mp4"></video></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-37264909" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Les auteurs y voient une avancée pour la génération multimodale par composition et une nouvelle forme d&rsquo;expression artistique audio-visuelle. Une sorte de stéganographie qui cacherait des images dans une piste son, dévoilées uniquement lorsqu&rsquo;elles sont transformées en spectrogramme.</p>
+
+
+
+<p>Pour recréer cette méthode chez vous, il « suffit » d&rsquo;aller sur le <a href="https://github.com/IFICL/images-that-sound" rel="noopener" target="_blank">Github</a> du projet et de suivre les instructions techniques.</p>
+
+
+
+<p><a href="https://ificl.github.io/images-that-sound/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 13:33:11 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 13:33:11 +0000</pubDate>
+</item>
+<item>
+<title>Ils exploitent une faille dans Roboform et récupèrent 3 millions en Bitcoin</title>
+<link>https://korben.info/faille-roboform-recuperer-3-millions-bitcoin.html</link>
+<guid>https://korben.info/faille-roboform-recuperer-3-millions-bitcoin.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Bitcoin_money_3_millions_dollars_password_cracking_209942ec-8759-46c6-b771-123b3149ee0e.webp" width="1456" /></p>
+<p>2 bidouilleurs viennent de prouver qu&rsquo;avec un peu d&rsquo;astuce et beaucoup de persévérance, on pouvait cracker les coffres-forts numériques les mieux gardés. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-31710408" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Leur cible ? Un wallet Bitcoin contenant la bagatelle de 3 millions de dollars, verrouillé par un mot de passe de 20 caractères généré par le gestionnaire de mots de passe Roboform en 2013. Le propriétaire, un certain Michael, avait perdu ce sésame et pensait son magot à jamais inaccessible. Mais c&rsquo;était sans compter sur la détermination de Joe Grand et de son pote Bruno, bien décidés à relever le défi.</p>
+
+
+
+<p>Michael, propriétaire de la cryptomonnaie depuis 2013, avait stocké ses 43,6 BTC (valant environ 5 300 dollars à l&rsquo;époque et environ 3 millions aujourd’hui) dans un fichier chiffré par TrueCrypt contenant le mot de passe généré par Roboform, qu&rsquo;il n&rsquo;avait pas entré dans le gestionnaire de mots de passe par peur d&rsquo;un hack. Malheureusement, le fichier chiffré s’est retrouvé corrompu, et Michael perdit l&rsquo;accès à son portefeuille.</p>
+
+
+
+<p>Joe Grand, ingénieur électrique et hacker de renom, avait refusé la première demande d’aide de Michael en 2021, jugeant la tâche irréalisable sans une faille dans Roboform. Cependant, en 2022, Michael a retenté sa chance. Après des mois à décortiquer le code de Roboform, Joe Grand et Bruno découvrirent que les anciennes versions d&rsquo;avant 2015, utilisaient une méthode de génération de mots de passe basée sur l&rsquo;horloge du système. En connaissant la date et l&rsquo;heure exacte de création, ainsi que les paramètres du mot de passe, ils ont alors pu reconstituer le mot de passe d&rsquo;origine.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161334" height="625" src="https://korben.info/app/uploads/2024/05/roboform_img2-1024x625.webp" width="1024" /></figure></div>
+
+
+<p>Initialement, Michael ne se souvenait pas de la date précise de génération de son mot de passe. Selon les journaux de son portefeuille, il avait commencé à y transférer des Bitcoins le 14 avril 2013. En analysant la chronologie et les paramètres habituels, Joe et Bruno cherchèrent d&rsquo;abord dans la plage du 1er mars au 20 avril 2013, puis jusqu&rsquo;au 1er juin 2013, sans succès. Ce n&rsquo;est qu’après de multiples ajustements, et en excluant les caractères spéciaux, qu’ils parvinrent à générer le mot de passe correct créé le 15 mai 2013 à 16:10:40 GMT.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1886589408" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>La faille se trouvait dans l&rsquo;algorithme de génération des mots de passe des anciennes versions de Roboform, qui n&rsquo;était pas aussi aléatoire que prétendu. Elle permettait de reconstituer un mot de passe en manipulant l&rsquo;horloge de l&rsquo;ordinateur pour remonter dans le temps. Tout est expliqué dans la vidéo ci-dessous : </p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Il est à noter que depuis la version 7.9.14 de juin 2015, Roboform affirme avoir corrigé cette faille et avoir amélioré la génération aléatoire des mots de passe. Cepandand, Joe Grand reste sceptique face à cette déclaration de Roboform car ces derniers n&rsquo;ont pas recommandé explicitement aux utilisateurs de générer de nouveaux mots de passe pour leurs comptes après cette mise à jour, ce qui laisse potentiellement des mots de passe vulnérables en circulation.</p>
+
+
+
+<p>Bref, un mot de passe n&rsquo;est pas infaillible même s&rsquo;il est généré par un outil réputé et il vaut mieux utiliser des phrases de passe longues et complexes, les changer régulièrement et activer la double authentification partout où c&rsquo;est possible. N&rsquo;ayez pas non plus une confiance aveugle dans les générateurs de mots de passe, surtout s&rsquo;ils ont quelques années au compteur. </p>
+
+
+
+<p>Bref, soyez prudent et bien joué Michael, pour qui la vie va sûrement changer à partir de maintenant.</p>
+
+
+
+<p><a href="https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 13:20:46 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 13:20:46 +0000</pubDate>
+</item>
+<item>
+<title>WebNN – L’IA s’invite dans votre navigateur avec DirectML</title>
+<link>https://korben.info/webnn-ia-navigateur-directml-api-javascript.html</link>
+<guid>https://korben.info/webnn-ia-navigateur-directml-api-javascript.html</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/webnn.webp" width="1245" /></p>
+<p>Ça y est, les amis, l&rsquo;API WebNN débarque enfin en preview pour les développeurs, et croyez-moi, ça va <strong>changer totalement</strong> la manière dont on fait tourner de l&rsquo;IA dans nos navigateurs web !Grâce à cette techno, on va pouvoir profiter de la puissance de nos GPU et autres accélérateurs matériels directement depuis nos pages web, sans avoir à installer le moindre plugin ou logiciel supplémentaire.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1198378643" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Concrètement, WebNN est une API JavaScript qui va permettre aux applications web d&rsquo;exécuter des tâches d&rsquo;inférence de réseaux neuronaux de manière super efficace, en exploitant à fond les capacités des CPU, GPU et autres processeurs dédiés à l&rsquo;IA (les fameux NPU et TPU). Fini les calculs qui rament, bonjour la fluidité et la réactivité, même pour les modèles les plus gourmands !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161321" height="294" src="https://korben.info/app/uploads/2024/05/WebNNDiagram-300x294-1.webp" width="300" /></figure></div>
+
+
+<p>WebNN est complètement <strong>agnostique</strong> côté matériel et côté modèles. Quel que soit le hardware qu&rsquo;on a sous le capot (Intel, AMD, NVIDIA, Qualcomm&#8230;) et le format des modèles (ONNX, TensorFlow&#8230;), cette API va nous permettre de tirer parti un maximum des ressources disponibles, tout ça de manière transparente, sans avoir à se prendre la tête avec des lignes de code spécifiques à chaque plateforme.</p>
+
+
+
+<p>Cette API suit un modèle de programmation super simple en deux grandes étapes : </p>
+
+
+
+<ul>
+<li>1. <strong>La construction du modèle</strong> : on utilise l&rsquo;API MLGraphBuilder pour définir notre réseau de neurones, ses opérations, ses entrées et ses sorties et une fois que c&rsquo;est fait, on peut le compiler en un graphe exécutable.</li>
+
+
+
+<li></li>
+
+
+
+<li>2. <strong>L&rsquo;exécution du modèle</strong> : maintenant qu&rsquo;on a notre super graphe optimisé, il ne reste plus qu&rsquo;à lui envoyer nos données d&rsquo;entrée, et il va nous fournir ses prédictions et classifications à toute vitesse !</li>
+</ul>
+
+
+
+<p>Grâce à WebNN, les tâches d&rsquo;inférence de machine learning sont accélérées par le matériel local, ce qui offre des performances améliorées et une faible latence, même sans connexion internet ou avec une connexion non fiable. De plus, les données restent sur la machine de l&rsquo;utilisateur, ce qui préserve ainsi sa vie privée.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161322" height="809" src="https://korben.info/app/uploads/2024/05/SCR-20240528-kej-1024x809.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-254938231" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>WebNN est conçu pour fonctionner avec DirectML sur Windows, lequel assure des performances optimales sur divers matériels, notamment les RTX GPUs de NVIDIA, les Intel Core Ultra avec Intel AI Boost, et les Copilot+ PC avec des NPU Qualcomm Hexagon. Ça ouvre la porte à des applications évoluées de <strong>génération d&rsquo;IA</strong>, de <strong>reconnaissance d&rsquo;images</strong>, de <strong>traitement du langage naturel</strong>, et bien d&rsquo;autres cas d&rsquo;utilisation tout à fait passionnants.</p>
+
+
+
+<p>Si vous voulez vous lancer dès maintenant avec WebNN, je vous conseille fortement de visiter le dépôt <a href="https://microsoft.github.io/webnn-developer-preview/" rel="noopener" target="_blank">WebNN Developer Preview</a> sur GitHub. Vous y trouverez plein de démos et d&rsquo;exemples de code pour vous familiariser avec l&rsquo;API et ses fonctionnalités. Par contre, vous devrez télécharger Edge en version Canary et la dernière Insider de Windows 11 puis dans la barre d&rsquo;URL, tapez <code>edge://flags/</code> pour pouvoir ensuite activer WebNN.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161320" height="394" src="https://korben.info/app/uploads/2024/05/SCR-20240528-jun.webp" width="877" /></figure></div>
+
+
+<p>Pour plus de détails, vous pouvez consulter le <a href="https://learn.microsoft.com/fr-fr/windows/ai/directml/webnn-tutorial" rel="noopener" target="_blank">tutoriel officiel de Microsoft</a>.</p>
+
+
+
+<p>Un grand merci au super neurone <strong>NexusSeven</strong> pour les sources de cet article !</p>
+
+
+
+<p><a href="https://blogs.windows.com/windowsdeveloper/2024/05/24/introducing-the-webnn-developer-preview-with-directml/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 12:49:26 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 12:49:26 +0000</pubDate>
+</item>
+
+<item>
 <title>Reconnaissance faciale en France – Une menace pour nos libertés</title>
 <link>https://korben.info/reconnaissance-faciale-france-menace-libertes.html</link>
 <guid>https://korben.info/reconnaissance-faciale-france-menace-libertes.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_imagine_une_societe_de_surveillance_algorithmique_ou_cha_1b2d44aa-6eae-4dc3-844d-8ccadc32c1ea.webp" width="1920" /></p>
 <p>Et si la <strong>reconnaissance faciale</strong> devenait monnaie courante en France ? Partout où vous allez, des caméras scrutent votre visage, comparent vos traits à une gigantesque base de données, et vous identifient en temps réel. Aux chiottes l&rsquo;anonymat dans l&rsquo;espace public, <strong>Big Brother</strong> vous observe, tout le temps, où que vous soyez. Ça fout les jetons, pas vrai ?</p>
 
@@ -70,14 +255,12 @@
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://www.youtube.com/watch?v=JEEOcwOAKng" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 07:39:28 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 07:39:28 +0000</pubDate>
 </item>
 <item>
 <title>Microsoft Auto SR – L’upscaling automatique débarque sous Windows 11</title>
 <link>https://korben.info/microsoft-auto-sr-upscaling-dlss-fsr-windows-11.html</link>
 <guid>https://korben.info/microsoft-auto-sr-upscaling-dlss-fsr-windows-11.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_no_text_16a7eb54-1326-4cf6-994d-ef59b7d3b836.webp" width="1920" /></p>
 <p><strong>Microsoft</strong> dévoile une nouvelle fonctionnalité qui va faire frétiller d&rsquo;impatience les gamers sur <strong>Windows 11</strong>, et plus particulièrement les utilisateurs de machines équipées d&rsquo;une puce <strong>Qualcomm Snapdragon X</strong> : j&rsquo;ai nommé <strong>Auto SR</strong>, pour « Automatic Super Resolution ». Derrière ce nom qui claque se cache ni plus ni moins qu&rsquo;une solution d&rsquo;upscaling basée sur l&rsquo;<strong>IA</strong>, dans la lignée de <strong>DLSS</strong> chez NVIDIA ou de <strong>FSR</strong> chez AMD.</p>
 
@@ -122,14 +305,12 @@
 <p><a href="https://www.tomshardware.com/video-games/pc-gaming/microsofts-automatic-super-resolution-arrives-to-improve-gaming-performance" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 07:35:04 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 07:35:04 +0000</pubDate>
 </item>
 <item>
 <title>Votre routeur Wi-Fi vous espionne – La géolocalisation en mode stalker !</title>
 <link>https://korben.info/box-wifi-espionne-geolocalisation-stalker.html</link>
 <guid>https://korben.info/box-wifi-espionne-geolocalisation-stalker.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_a_logo_named_BSSID_spelled_B-S-S-I-D_spy_challenge_stalk_aa2141e8-ea16-4f20-bef1-5341b4dfabaf.webp" width="1920" /></p>
 <p>Vous pensiez être tranquille chez vous, à l&rsquo;abri des regards indiscrets et bien désolé de casser l&rsquo;ambiance, mais j&rsquo;ai une mauvaise nouvelle pour vous : votre box Wi-Fi vous espionne ! Enfin, pas directement, hein, mais figurez-vous que des chercheurs en sécurité ont trouvé le moyen de vous géolocaliser en douce, simplement en capturant l&rsquo;identifiant unique de votre routeur appelé également BSSID (Basic Service Set Identifier).</p>
 
@@ -175,14 +356,12 @@
 <p>Pour plus de détails, vous pouvez consulter l&rsquo;étude complète sur <a href="https://arxiv.org/abs/2405.14975" rel="noopener" target="_blank">arXiv</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 07:15:00 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 07:15:00 +0000</pubDate>
 </item>
 <item>
 <title>Memories – Le gestionnaire de photos qu’il faut à votre serveur Nextcloud</title>
 <link>https://korben.info/memories-solution-gestion-photos-videos-nextcloud.html</link>
 <guid>https://korben.info/memories-solution-gestion-photos-videos-nextcloud.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="294" src="https://korben.info/app/uploads/2024/03/SCR-20240331-ugip-2.webp" width="1000" /></p>
 <p>Vous cherchez une solution <strong>tout-en-un</strong> pour gérer vos photos sur Nextcloud ? Ça tombe bien puisque aujourd&rsquo;hui, je vous présente <a href="https://memories.gallery/" rel="noopener" target="_blank">Memories</a> !</p>
 
@@ -243,14 +422,12 @@
 <p>Amusez-vous bien !</p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Gérez vos PRs et issues GitHub comme un pro avec gh-dash</title>
 <link>https://korben.info/gerez-vos-prs-et-issues-github-comme-un-pro-avec-gh-dash.html</link>
 <guid>https://korben.info/gerez-vos-prs-et-issues-github-comme-un-pro-avec-gh-dash.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Logo_for_a_developer_tool_in_terminal_related_to_github__d6bc0cc1-cc5e-43e3-a62b-479e69bf4123.webp" width="1920" /></p>
 <p>gh-dash est une extension pour l&rsquo;interface en ligne de commande <code>gh</code> de GitHub qui va vous permettre de visualiser et d&rsquo;interagir avec vos Pull Requests et Issues dans un tableau de bord ultra-pratique, entièrement <strong>configurable</strong> selon vos besoins.</p>
 
@@ -292,14 +469,12 @@
 <p><a href="https://github.com/dlvhdr/gh-dash" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 06:30:29 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 06:30:29 +0000</pubDate>
 </item>
 <item>
 <title>Elia – Un assistant IA pour votre terminal sous Linux</title>
 <link>https://korben.info/elia-assistant-ia-conversationnel-puissant-terminal-linux.html</link>
 <guid>https://korben.info/elia-assistant-ia-conversationnel-puissant-terminal-linux.html</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Logo_for_a_Terminal_Command_Line_Interface_tool_named_El_d5ebcf23-3a62-4688-a618-9ef0713b9190.webp" width="1920" /></p>
 <p>Vous cherchez une manière simple et efficace de discuter avec des <strong>assistants IA</strong> directement depuis votre <strong>terminal Linux</strong> alors <strong><a href="https://github.com/darrenburns/elia" rel="noopener" target="_blank">Elia</a></strong> est fait pour vous ! Cette application vous permet d&rsquo;interagir avec une variété de <strong>modèles de langage</strong> comme Claude, ChatGPT, GPT-4, ou même des modèles locaux tels que Llama, Phi, Mistral ou Gemma, tout cela sans quitter votre terminal préféré.</p>
 
@@ -397,9 +572,7 @@ api_key = "ma-cle-api-si-besoin"</code></pre>
 <p><a href="https://github.com/darrenburns/elia" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 06:20:32 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 06:20:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Sink – Un raccourcisseur d’URL simple et sécurisé avec des statistiques</title>
 <link>https://korben.info/sink-raccourcisseur-url-simple-rapide-securise-analytiques.html</link>

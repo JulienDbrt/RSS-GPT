@@ -2106,3 +2106,44 @@ Append: [Déclaration de revenus : report de la date butoir pour certains contri
 Append: [Paris 2024 : "summer camp" et crèches "mobilisées"... Ces solutions de la préfecture de police de Paris pour la garde d'enfants lors des JO](https://www.francetvinfo.fr/les-jeux-olympiques/creches-mobilisees-en-plein-ete-colonies-ces-solutions-de-la-prefecture-de-police-de-paris-pour-la-garde-d-enfants-des-fonctionnaires-mobilises-pour-les-jo_6543506.html)
 append_entries: 15
 Finish: 2024-05-28 12:44:51.311857
+------------------------------------------------------
+Started: 2024-05-29 01:23:24.387955
+Existing_entries: 710
+Fetching from https://www.francetvinfo.fr/economie.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Médias : le groupe Lagardère veut lancer le "JDNEWS", un hebdomadaire concurrent de "Paris Match"](https://www.francetvinfo.fr/economie/medias/medias-le-groupe-lagardere-veut-lancer-le-jdnews-un-hebdomadaire-concurrent-de-paris-match_6571283.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Emploi : quand l’intérim mène au CDI](https://www.francetvinfo.fr/economie/emploi/emploi-quand-l-interim-mene-au-cdi_6571136.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : les promoteurs cassent les prix dans le neuf](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-les-promoteurs-cassent-les-prix-dans-le-neuf_6571115.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fraude : démantèlement en France d’un réseau qui exportait illégalement vers la Russie](https://www.francetvinfo.fr/economie/fraude/fraude-demantelement-en-france-d-un-reseau-qui-exportait-illegalement-vers-le-russie_6571133.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Assistance voyageurs : "Un porteur de carte bancaire basique peut se croire couvert, il ne l'est pas", avertit le président d'Europ Assistance France](https://www.francetvinfo.fr/replay-radio/l-interview-eco/assistance-voyageurs-un-porteur-de-carte-bancaire-basique-peut-se-croire-couvert-il-ne-l-est-pas-avertit-le-president-d-europ-assistance-france_6542264.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Européennes : le grand oral de sept candidats français pour répondre à la colère des agriculteurs](https://www.francetvinfo.fr/elections/europeennes-le-grand-oral-de-sept-candidats-francais-pour-repondre-a-la-colere-des-agriculteurs_6570995.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Agriculture : l'Assemblée nationale adopte le projet de loi d'orientation du gouvernement](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/agriculture-l-assemblee-nationale-adopte-le-projet-de-loi-d-orientation-du-gouvernement_6571052.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [L'animateur Antoine de Caunes  lance "Vieux", un nouveau magazine "anti-jeunisme"](https://www.francetvinfo.fr/culture/vieux-le-nouveau-magazine-anti-jeunisme-lance-par-l-animateur-antoine-de-caunes_6570668.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Santé : comment protéger son audition de la pollution sonore ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/sante-comment-proteger-son-audition-de-la-pollution-sonore_6570779.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Éducation : le stage de juin "arrive sans forcément d’objet", déplore le porte-parole de la Fédération des Parents d'Elèves de l'Enseignement Public](https://www.francetvinfo.fr/societe/education/education-le-stage-de-juin-arrive-sans-forcement-d-objet-deplore-le-porte-parole-de-la-federation-des-parents-d-eleves-de-l-enseignement-public_6570737.html)
+Append: [Tourisme : un voyage dans le temps à toute vapeur dans les gorges de l’Allier](https://www.francetvinfo.fr/economie/tourisme/tourisme-un-voyage-dans-le-temps-a-toute-vapeur-dans-les-gorges-de-l-allier_6570698.html)
+Append: [Économie : l’entreprise Caddie placée une quatrième fois en redressement judiciaire](https://www.francetvinfo.fr/economie/economie-l-entreprise-caddie-placee-une-quatrieme-fois-en-redressement-judiciaire_6570695.html)
+Append: [Le projet de loi d'orientation agricole va-t-il apaiser durablement la colère des agriculteurs ?](https://www.francetvinfo.fr/economie/crise/blocus-des-agriculteurs/le-projet-de-loi-d-orientation-agricole-va-t-il-apaiser-durablement-la-colere-des-agriculteurs_6570416.html)
+Append: [APPEL A TEMOIGNAGES. Logement social : vous vivez dans un HLM et le projet de loi du gouvernement vous inquiète ? Racontez-nous](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/appel-a-temoignages-logement-social-vous-vivez-dans-un-hlm-et-le-projet-de-loi-du-gouvernement-vous-inquiete-racontez-nous_6568883.html)
+Append: [De nombreux lots de saucisses rappelés en raison de la présence de verre, métal, plastique, papier et textile dans les produits](https://www.francetvinfo.fr/economie/de-nombreux-lots-de-saucisses-rappeles-en-raison-de-la-presence-de-verre-metal-plastique-papier-et-textile-dans-les-produits_6570590.html)
+append_entries: 15
+Finish: 2024-05-29 01:24:22.377290

@@ -5308,3 +5308,93 @@ Append: [Contrats publics : le recours sécurisé au bail en l'état futur d'ach
 Append: [DSP : l'indemnisation du candidat évincé doit tenir compte des spécificités du contrat irrégulièrement conclu](https://www.lemoniteur.fr/article/dsp-l-indemnisation-du-candidat-evince-doit-tenir-compte-des-specificites-du-contrat-irregulierement-conclu.2328817)
 append_entries: 64
 error when rendering xml, skip docs/Nouvelles Droits : immobilier
+------------------------------------------------------
+Started: 2024-05-29 01:16:08.044452
+Existing_entries: 0
+Fetching from https://nouvelles.droit.org/categs/rss/33
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CNP | Un groupe de travail dédié aux questions de productivité](https://www.strategie.gouv.fr/actualites/cnp-un-groupe-de-travail-dedie-aux-questions-de-productivite)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Conjoncture immobilière francilienne au 1er trimestre 2024](http://paris.notaires.fr/fr/presse/communication-immobiliere-mensuelle/conjoncture-immobiliere-francilienne-au-1er-trimestre-2024)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Responsabilité extracontractuelle : codification de la responsabilité pour trouble anormal du voisinage](https://www.gide-realestate.com/responsabilite-extracontractuelle-codification-de-la-responsabilite-pour-trouble-anormal-du-voisinage/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le délai de forclusion prévu par l'article 1648, alinéa 2, du code civil est applicable aux désordres apparents à la réception](http://castonblog.blogspot.com/2024/05/le-delai-de-forclusion-prevu-par.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Interdiction de se contredire dans une même procédure ("estoppel")](http://castonblog.blogspot.com/2024/05/interdiction-de-se-contredire-dans-une.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Police "dommages-ouvrage" - Travaux de reprise inefficaces - prescription - prise de possession et réception](http://castonblog.blogspot.com/2024/05/police-dommages-ouvrage-travaux-de.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vente immobilière et vice caché](http://castonblog.blogspot.com/2024/05/vente-immobiliere-et-vice-cache.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Diagnostic de performance énergétique collectif (DPE collectif)](https://www.service-public.fr/particuliers/vosdroits/F37504)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Peut-on installer un jacuzzi dans son jardin ?](https://www.service-public.fr/particuliers/vosdroits/F31475)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Peut-on encore toucher l'aide Mon job, Mon logement ?](https://www.service-public.fr/particuliers/vosdroits/F35848)
+Append: [Affichage de l'autorisation d'urbanisme sur le terrain](https://www.service-public.fr/particuliers/vosdroits/F1988)
+Append: [Contrat de réservation d'un logement en Vente en l'état futur d'achèvement (Vefa)](https://www.service-public.fr/particuliers/vosdroits/F2963)
+Append: [Habitat : l'adobe, adoubée pour le logement](https://www.lemoniteur.fr/article/habitat-l-adobe-adoubee-pour-le-logement.2329153)
+Append: [Charente : « Le transport à vélo est un moyen de revitaliser les centres-bourgs », Emmanuelle Patte, architecte conseil de l'Etat en Charente et membre de l'association CycloTransEurope](https://www.lemoniteur.fr/article/charente-le-transport-a-velo-est-un-moyen-de-revitaliser-les-centres-bourgs-entretien-avec-emmanuelle-patte-architecte-conseil-de-l-etat-en-charente-et-membre-de-l-association-cyclotranseu.2329143)
+Append: [Toulouse : nouvelle vie pour la mutualité agricole](https://www.lemoniteur.fr/article/toulouse-nouvelle-vie-pour-la-mutualite-agricole.2329140)
+Append: [Bordeaux : Brazza se prépare aux phases 2 et 3](https://www.lemoniteur.fr/article/bordeaux-brazza-se-prepare-aux-phases-2et-3.2329141)
+Append: [Vos textes officiels du mardi 28 mai 2024](https://www.lemoniteur.fr/article/vos-textes-officiels-du-mardi-28-mai-2024.2329472)
+Append: [Construction irrégulière : l’exécution provisoire d’une mesure de démolition est-elle conforme à la Constitution ?](https://www.lemoniteur.fr/article/construction-irreguliere-l-execution-provisoire-d-une-mesure-de-demolition-est-elle-conforme-a-la-constitution.2329357)
+Append: [Déclaration et paiement de la taxe sur les surfaces commerciales (Tascom) au plus tard le 14 juin !](https://entreprendre.service-public.fr/actualites/A17400?xtor=RSS-111)
+Append: [Les propriétés numériques : qualification des objets](https://lext.so/DEF219u0)
+Append: [Mutations de l'emploi liées à la transition écologique : les territoires multiplient les initiatives](https://www.strategie.gouv.fr/debats/mutations-de-lemploi-liees-transition-ecologique-territoires-multiplient-initiatives)
+Append: [REGLEMENTATION DES FRAIS BANCAIRE SUR SUCCESSIONS : UNE LOI TRES DISCUTABLE EST ENTRAIN DE NAITRE](https://www.resodinfo.fr/reglementation-des-frais-bancaire-sur-successions-une-loi-tres-discutable-est-entrain-de-naitre/)
+Append: [LA DATE D’UN TESTAMENT OLOGRAPHE N’EST PAS TOTALEMENT ECRITE DE LA MAIN DU TESTATEUR : NULLITE OU PAS ?](https://www.resodinfo.fr/la-date-dun-testament-olographe-nest-pas-totalement-ecrite-de-la-main-du-testateur-nullite-ou-pas/)
+Append: [LE GERANT D’UNE SCI PEUT-IL CONSENTIR UN COMMODAT S’IL NE FIGURE PAS DANS SON OBJET SOCIAL ?](https://www.resodinfo.fr/le-gerant-dune-sci-peut-il-consentir-un-commodat-sil-ne-figure-pas-dans-son-objet-social/)
+Append: [Veille juridique 27 Mai 2024 L’adaptation d’un bail emphytéotique ou à construction à la lumière du droit réel de jouissance spéciale](https://www.cheuvreux.fr/actualites/ladaptation-dun-bail-emphyteotique-ou-a-construction-a-la-lumiere-du-droit-reel-de-jouissance-speciale/)
+Append: [Un colocataire doit-il payer les dettes après avoir donné son préavis ?](https://www.service-public.fr/particuliers/vosdroits/F35138)
+Append: [Prime « Coup de pouce Pilotage connecté du chauffage pièce par pièce »](https://www.service-public.fr/particuliers/vosdroits/F37655)
+Append: [Transfert d'un permis de construire ou d'aménager](https://www.service-public.fr/particuliers/vosdroits/F2698)
+Append: [Déclaration d'ouverture de chantier](https://www.service-public.fr/particuliers/vosdroits/F1992)
+Append: [Quelle est la hauteur réglementaire d'un garde-corps ou d'une barre d'appui ?](https://www.service-public.fr/particuliers/vosdroits/F481)
+Append: [DÉCLARATION FISCALE DES BIENS IMMOBILIERS À USAGE D’HABITATION : votre guide pratique 2024](https://onb-france.com/actualites/declaration-fiscale-des-biens-immobiliers-usage-dhabitation-votre-guide-pratique-2024)
+Append: [Loir-et-Cher : un collège rural reste ouvert pendant les travaux](https://www.lemoniteur.fr/article/loir-et-cher-un-college-rural-reste-ouvert-pendant-les-travaux.2329102)
+Append: [Strasbourg : la caserne fait du neuf avec du vieux](https://www.lemoniteur.fr/article/strasbourg-la-caserne-fait-du-neuf-avec-du-vieux.2329079)
+Append: [Côte-d'Or : les investissements s'accélèrent à Beaune](https://www.lemoniteur.fr/article/cote-d-or-les-investissements-s-accelerent-a-beaune.2329080)
+Append: [Rennes : les services sociaux comme dans un village](https://www.lemoniteur.fr/article/rennes-les-services-sociaux-comme-dans-un-village.2329101)
+Append: [L'implantation du photovoltaïque sur les terres agricoles encadrée par décret](https://www.efl.fr/actualite/actu_f70dade72-14b7-41de-b6f6-923a5be79867)
+Append: [Acquérir une servitude de vue par prescription ?](http://www.bdidu.fr/archive/2024/05/28/acquerir-une-servitude-de-vue-par-prescription-6500110.html)
+Append: [Le Pass'colo aide à financer une colonie pour les jeunes collégiens](https://www.service-public.fr/particuliers/actualites/A17309?xtor=RSS-111)
+Append: [« L'Homme qui plantait des arbres », le livre de l'opération Un livre pour les vacances 2024](https://www.service-public.fr/particuliers/actualites/A16447?xtor=RSS-111)
+Append: [Comment améliorer le bien-être des animaux de compagnie ?](https://www.service-public.fr/particuliers/actualites/A17399?xtor=RSS-111)
+Append: [Déclaration de revenus 2023 : quelles sont les dates limites ?](https://entreprendre.service-public.fr/actualites/A17398?xtor=RSS-111)
+Append: [Prêt : devoir de conseil du banquier sur les conséquences d'un défaut d'assurance](http://castonblog.blogspot.com/2024/05/pret-devoir-de-conseil-du-banquier-sur.html)
+Append: [Droit judiciaire privé : Panorama, du 14/11/2023 au 12/5/2024](http://castonblog.blogspot.com/2024/05/droit-judiciaire-prive-panorama-du.html)
+Append: [Dans quel cas saisir la commission départementale de conciliation (CDC) ?](https://www.service-public.fr/particuliers/vosdroits/F1216)
+Append: [Location immobilière : documents remis par le propriétaire](https://www.service-public.fr/particuliers/vosdroits/F2066)
+Append: [Quelles sont les règles de vote en assemblée générale de copropriété ?](https://www.service-public.fr/particuliers/vosdroits/F2137)
+Append: [À quoi sert l'immatriculation des copropriétés ?](https://www.service-public.fr/particuliers/vosdroits/F32058)
+Append: [Dans quel cas le débroussaillage est-il obligatoire ?](https://www.service-public.fr/particuliers/vosdroits/F33298)
+Append: [Innovation, EnR, DUP... Vos textes officiels du lundi 27 mai 2024](https://www.lemoniteur.fr/article/innovation-enr-dup-vos-textes-officiels-du-lundi-27-mai-2024.2327041)
+Append: [Le Sénat refuse la réduction uniforme du délai maximal de paiement](https://www.lemoniteur.fr/article/le-senat-refuse-la-reduction-uniforme-du-delai-maximal-de-paiement.2328943)
+Append: [Commande publique : « L’offre verte n’est pas toujours plus chère », François Adam, directeur des achats de l'Etat](https://www.lemoniteur.fr/article/commande-publique-l-offre-verte-n-est-pas-toujours-plus-chere-francois-adam-directeur-des-achats-de-l-etat.2329362)
+Append: [Parcoursup 2024 : les résultats d'admission à partir du 30 mai](https://www.service-public.fr/particuliers/actualites/A16984?xtor=RSS-111)
+Append: [Permis de démolir](https://www.service-public.fr/particuliers/vosdroits/F17669)
+Append: [Peut-on encore bénéficier de la prime Coup de pouce thermostat avec régulation performante ?](https://www.service-public.fr/particuliers/vosdroits/F35338)
+Append: [Peut-on changer l'affectation d'un lot de copropriété ?](https://www.service-public.fr/particuliers/vosdroits/F3107)
+Append: [Dépôt de garantie dans un bail d'habitation](https://www.service-public.fr/particuliers/vosdroits/F31269)
+Append: [Propriétaire : quelles sont les règles de location d'un logement meublé ?](https://www.service-public.fr/particuliers/vosdroits/F2315)
+Append: [Toutes les associations syndicales libres pourront recourir à l'emprunt collectif](https://www.efl.fr/actualite/actu_f7563c178-46b1-46f2-b9c8-9e915f41a70d)
+Append: [[DOSSIER SPECIAL] Loi Habitat dégradé](https://www.efl.fr/actualite/actu_fd098e139-97f3-4d98-9dbc-44addcbff741)
+Append: [Ne pas respecter une servitude de cour commune ?](http://www.bdidu.fr/archive/2024/05/26/ne-pas-respecter-une-servitude-de-cour-commune-6500105.html)
+Append: [Vous n'avez pas signalé votre déménagement, pouvez-vous voter ?](https://www.service-public.fr/particuliers/actualites/A15584?xtor=RSS-111)
+Append: [Le licenciement pour faute grave n’inclut pas obligatoirement une mise à pied immédiate du salarié](https://entreprendre.service-public.fr/actualites/A17395?xtor=RSS-111)
+Append: [Détention d’une autorisation d’exploitation : pas d’impact sur la constitutionnalité de l’action en démolition](https://www.dalloz-actualite.fr/flash/detention-d-une-autorisation-d-exploitation-pas-d-impact-sur-constitutionnalite-de-l-action-en)
+Append: [Dalo](https://www.service-public.fr/particuliers/vosdroits/F37237)
+append_entries: 64
+error when rendering xml, skip docs/Nouvelles Droits : immobilier

@@ -655,3 +655,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Nos chantiers prennent du retard": la pluie devient un cauchemar pour les artisans](https://www.bfmtv.com/immobilier/construction/nos-chantiers-prennent-du-retard-la-pluie-devient-un-cauchemar-pour-les-artisans_AV-202405280147.html)
 append_entries: 2
 Finish: 2024-05-28 12:41:41.114765
+------------------------------------------------------
+Started: 2024-05-29 01:21:38.522961
+Existing_entries: 127
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Plus d'inconvénients que d'avantages": les banques méfiantes sur la portabilité des crédits immobiliers](https://www.bfmtv.com/immobilier/plus-d-inconvenients-que-d-avantages-les-banques-mefiantes-sur-la-portabilite-des-credits-immobiliers_AD-202405280695.html)
+append_entries: 1
+Finish: 2024-05-29 01:21:44.417649

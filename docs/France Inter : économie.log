@@ -710,3 +710,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les puces, l’autre guerre mondiale](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-mardi-28-mai-2024-9495240)
 append_entries: 3
 Finish: 2024-05-28 12:45:23.216030
+------------------------------------------------------
+Started: 2024-05-29 01:24:41.281571
+Existing_entries: 126
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cashless, le paiement dématérialisé](https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-mardi-28-mai-2024-6060482)
+append_entries: 1
+Finish: 2024-05-29 01:24:47.555689

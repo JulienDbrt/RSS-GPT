@@ -576,3 +576,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["Un produit que tout le monde peut utiliser": à quoi ressemble le nouveau portefeuille de Ledger (déjà en rupture de stock)?](https://www.bfmtv.com/crypto/un-produit-que-tout-le-monde-peut-utiliser-a-quoi-ressemble-le-nouveau-portefeuille-de-ledger-deja-en-rupture-de-stock_AV-202405280487.html)
 append_entries: 1
 Finish: 2024-05-28 12:39:45.137502
+------------------------------------------------------
+Started: 2024-05-29 01:19:47.003677
+Existing_entries: 88
+Fetching from https://www.bfmtv.com/rss/crypto/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ledger Stax, à fond l'adoption ?](https://www.bfmtv.com/crypto/ledger-stax-a-fond-l-adoption_VN-202405280621.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les crypto, booster des conseillers financiers ?](https://www.bfmtv.com/crypto/les-crypto-booster-des-conseillers-financiers_VL-202405280570.html)
+append_entries: 2
+Finish: 2024-05-29 01:19:59.150932

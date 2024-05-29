@@ -1601,3 +1601,40 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Si vous êtes enfin à la retraite, voici la case spéciale à remplir pour réduire vos impôts](https://www.moneyvox.fr/impot/actualites/97946/si-vous-etes-enfin-a-la-retraite-voici-la-case-speciale-a-remplir-pour-reduire-vos-impots)
 append_entries: 9
 Finish: 2024-05-28 12:46:16.755369
+------------------------------------------------------
+Started: 2024-05-29 01:24:48.524158
+Existing_entries: 463
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Salaire : le Sénat s'oppose à l'allègement de la fiche de paie](https://www.moneyvox.fr/votre-argent/actualites/97975/salaire-le-senat-s-oppose-a-allegement-de-la-fiche-de-paie)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rénovation énergétique : les industriels formulent des pistes pour « massifier » les chantiers](https://www.moneyvox.fr/immobilier/actualites/97974/renovation-energetique-les-industriels-formulent-des-pistes-pour-massifier-les-chantiers)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La Bourse de Paris finit dans le rouge, les investisseurs prudents](https://www.moneyvox.fr/bourse/actualites/97973/la-bourse-de-paris-finit-dans-le-rouge-les-investisseurs-prudents)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôts 2024 : ces aides gratuites qui peuvent vous sauver la mise pour la déclaration de revenus](https://www.moneyvox.fr/impot/actualites/97962/impots-2024-ces-aides-gratuites-qui-peuvent-vous-sauver-la-mise-pour-la-declaration-de-revenus)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Impôt 2024 : Puis-je échapper à la taxation du fisc en cas de plus-value immobilière ?](https://www.moneyvox.fr/impot/actualites/97948/impot-2024-puis-je-echapper-a-la-taxation-du-fisc-en-cas-de-plus-value-immobiliere)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [LEP et impôts, code carte à 6 chiffres, nouveau contrat AFER : les 3 infos du jour pour votre argent](https://www.moneyvox.fr/votre-argent/actualites/97969/lep-et-impots-code-carte-a-6-chiffres-nouveau-contrat-afer-les-3-infos-du-jour-pour-votre-argent)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Puis-je encore toucher l'AAH versée par la CAF si je m'installe à l'étranger »](https://www.moneyvox.fr/votre-argent/actualites/97967/puis-je-encore-toucher-aah-versee-par-la-caf-si-je-m-installe-a-etranger)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crédit immobilier : les banques opposées aux principes de portabilité et de transférabilité](https://www.moneyvox.fr/credit/actualites/97970/credit-immobilier-les-banques-opposees-aux-principes-de-portabilite-et-de-transferabilite)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Soldes 2024 : voici les dates de début et de fin des soldes d'été](https://www.moneyvox.fr/votre-argent/actualites/95832/soldes-2024-voici-les-dates-de-debut-et-de-fin-des-soldes-ete)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Banque en ligne : libérée des sanctions, cette néobanque va pouvoir se relancer](https://www.moneyvox.fr/banque-en-ligne/actualites/97966/liberee-des-sanctions-cette-neobanque-va-pouvoir-se-relancer)
+Append: [SG (Société Générale) : jusqu'à 160 euros de prime pour l'ouverture d'un compte en ligne](https://www.moneyvox.fr/banque-en-ligne/actualites/97953/sg-jusqua-160-euros-de-prime-pour-ouverture-un-compte-en-ligne)
+append_entries: 11
+Finish: 2024-05-29 01:25:45.164199

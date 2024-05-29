@@ -1138,3 +1138,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Crypto : Voici l’immense complot qu’organise l’Argentine avec le Salvador !](https://www.cointribune.com/crypto-voici-limmense-complot-quorganise-largentine-avec-le-salvador/)
 append_entries: 10
 Finish: 2024-05-28 12:30:46.963696
+------------------------------------------------------
+Started: 2024-05-29 01:10:43.238385
+Existing_entries: 278
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ces 2 hackers remontent le temps pour débloquer un portefeuille contenant près de 3 millions d'euros en Bitcoin](https://www.phonandroid.com/ces-2-hackers-remontent-le-temps-pour-debloquer-un-portefeuille-contenant-pres-de-3-millions-deuros-en-bitcoin.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Wall Street hésite malgré Nvidia](https://www.boursier.com/indices/actualites/news/wall-street-hesite-malgre-nvidia-929805.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitcoin : toutes les réponses aux polémiques](https://investir.lesechos.fr/marches-indices/bitcoin-cryptomonnaies/bitcoin-toutes-les-reponses-aux-polemiques-2097488)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitcoin chute drastiquement ! Le marché des altcoins en difficulté !](https://www.cointribune.com/bitcoin-chute-drastiquement-le-marche-des-altcoins-en-difficulte/)
+append_entries: 4
+Finish: 2024-05-29 01:11:06.730896

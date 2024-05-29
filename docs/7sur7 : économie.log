@@ -702,3 +702,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Engie facture un demi-milliard à l’État pour le démantèlement des centrales nucléaires](https://www.7sur7.be/economie/engie-facture-un-demi-milliard-a-letat-pour-le-demantelement-des-centrales-nucleaires~a92ea2b9/)
 append_entries: 5
 Finish: 2024-05-28 12:38:16.355792
+------------------------------------------------------
+Started: 2024-05-29 01:18:18.207755
+Existing_entries: 130
+Fetching from https://www.7sur7.be/economie/rss.xml
+append_entries: 0
+Finish: 2024-05-29 01:18:18.671549

@@ -663,3 +663,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Un volant rectangulaire ? Pourquoi l'annonce inquiète les syndicats de Stellantis](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/un-volant-rectangulaire-pourquoi-l-annonce-inquiete-les-syndicats-de-stellantis-2975918.html)
 append_entries: 2
 Finish: 2024-05-28 12:47:12.794458
+------------------------------------------------------
+Started: 2024-05-29 01:26:39.715840
+Existing_entries: 117
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un abattoir d'ovins menacé de fermeture, éleveurs et commerçants se mobilisent pour préserver leur outil de travail](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/un-abattoir-d-ovins-menace-de-fermeture-eleveurs-et-commercants-se-mobilisent-pour-preserver-leur-outil-de-travail-2976728.html)
+append_entries: 1
+Finish: 2024-05-29 01:26:45.830266

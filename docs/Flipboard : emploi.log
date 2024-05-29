@@ -1995,3 +1995,33 @@ Append: [Marylise Léon (secrétaire nationale de la CFDT) sur l'assurance chôm
 Append: [Flexispot : des bureaux gaming et des fauteuils cinéphiles en promotion (jusqu'à moins 300€)](https://www.jeuxactu.com/flexispot-des-bureaux-gaming-et-des-fauteuils-cinephiles-en-promotion-130073.htm)
 append_entries: 14
 Finish: 2024-05-28 12:32:44.257890
+------------------------------------------------------
+Started: 2024-05-29 01:12:09.110284
+Existing_entries: 665
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trop de Français ignorent qu'ils peuvent travailler 2 ans de moins que prévu - et sans perdre d'argent](https://emploi.lefigaro.fr/retraite/guide-de-la-retraite/2103-deux-ans/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Alban, 25 ans, mort au travail en Bretagne : « Il faut dire à nos enfants qu’on ne se tue pas pour un Smic »](https://www.letelegramme.fr/bretagne/alban-25-ans-mort-au-travail-en-bretagne-il-faut-dire-a-nos-enfants-quon-ne-se-tue-pas-pour-un-smic-6592126.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pourquoi les stewards portent-ils de fausses cravates ?](https://madame.lefigaro.fr/style/news/pourquoi-les-stewards-portent-ils-de-fausses-cravates-20240528)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un premier programme au Québec pour apprendre à nettoyer les équipements médicaux](https://www.noovo.info/video/un-premier-programme-au-quebec-pour-apprendre-a-nettoyer-les-equipements-medicaux.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Et si les fayots du bureau avaient tout compris ?](https://www.hellowork.com/fr-fr/medias/fayots-entreprise-manager.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Indemnités de licenciement : il y aura moins de banquiers touchés par le futur plafond](https://www.lesechos.fr/finance-marches/banque-assurances/indemnites-de-licenciement-il-y-aura-moins-de-banquiers-touches-par-le-futur-plafond-2097593)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les programmes des partis à la loupe : faut-il limiter les allocations de chômage dans le temps ?](https://www.lesoir.be/591103/article/2024-05-28/les-programmes-des-partis-la-loupe-faut-il-limiter-les-allocations-de-chomage)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réindustrialisation : pourquoi la Bretagne n'est pas la championne des investissements étrangers](https://www.latribune.fr/entreprises-finance/reindustrialisation-pourquoi-la-bretagne-n-est-pas-la-championne-des-investissements-etrangers-998479.html)
+append_entries: 8
+Finish: 2024-05-29 01:12:58.085149

@@ -2417,3 +2417,49 @@ Append: [Toulouse : Chez Bobonne, c’est l’Occitanie dans votre assiette, ru
 Append: [Villeneuve. Un salon de l’emploi animé](https://www.ladepeche.fr/2024/05/28/un-salon-de-lemploi-anime-11978459.php)
 append_entries: 20
 Finish: 2024-05-28 12:51:20.764177
+------------------------------------------------------
+Started: 2024-05-29 01:29:30.057030
+Existing_entries: 977
+Fetching from https://www.ladepeche.fr/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Est-ce que Bill Gates peut passer ?" : pourquoi Microsoft va s’installer dans un petit village alsacien de 800 habitants](https://www.ladepeche.fr/2024/05/28/est-ce-que-bill-gates-peut-passer-pourquoi-microsoft-va-sinstaller-dans-un-petit-village-alsacien-de-800-habitants-11979155.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Daumazan-sur-Arize : la Scierie de la Plagne prend son envol](https://www.ladepeche.fr/2024/05/28/daumazan-sur-arize-la-scierie-de-la-plagne-prend-son-envol-11979972.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hibana, un coffee shop écoresponsable va s’installer dans un ancien hangar de la SNCF sur la voie verte](https://www.ladepeche.fr/2024/05/28/hibana-un-coffee-shop-ecoresponsable-va-sinstaller-dans-un-ancien-hangar-de-la-sncf-sur-la-voie-verte-11979308.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Réguler la population" : les syndicats agricoles interpellent le préfet de l’Aveyron "suite aux attaques de loups et vautours"](https://www.ladepeche.fr/2024/05/28/reguler-la-population-les-syndicats-agricoles-interpellent-le-prefet-de-laveyron-suite-aux-attaques-de-loups-et-vautours-11979814.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Si demain on est labellisés, comment passer à côté de l’hôtellerie ?" : à Lavelanet, le projet de requalification de l’Hôtel du parc est sur les rails](https://www.ladepeche.fr/2024/05/28/si-demain-on-est-labellises-comment-passer-a-cote-de-lhotellerie-a-lavelanet-le-projet-de-requalification-de-lhotel-du-parc-est-sur-les-rails-11979805.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nocturne du marché Victor-Hugo à Toulouse : les commerçants du marché prêts pour cette 30e édition](https://www.ladepeche.fr/2024/05/28/nocturne-du-marche-victor-hugo-a-toulouse-les-commercants-du-marche-prets-pour-cette-30e-edition-11978856.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Le tourisme est le levier économique qui va sauver l’Ariège", 5 choses à savoir sur le nouveau schéma départemental de développement touristique](https://www.ladepeche.fr/2024/05/28/le-tourisme-est-le-levier-economique-qui-va-sauver-lariege-5-choses-a-savoir-sur-le-nouveau-schema-departemental-de-developpement-touristique-11979604.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Guerre en Ukraine : avions F-16, 977 millions d'euros d’aide… Ce que l’on sait de l’accord bilatéral de sécurité entre la Belgique et Kiev](https://www.ladepeche.fr/2024/05/28/guerre-en-ukraine-avions-f-16-977-millions-deuros-daide-ce-que-lon-sait-de-laccord-bilateral-de-securite-entre-la-belgique-et-kiev-11979587.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Albi : un fournil ouvre place de la Résistance](https://www.ladepeche.fr/2024/05/28/albi-un-fournil-ouvre-place-de-la-resistance-11979371.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Première mondiale : Mersen Boostec a livré la dernière "pièce maîtresse" du futur télescope géant qui sera implanté au Chili](https://www.ladepeche.fr/2024/05/28/premiere-mondiale-mersen-boostec-a-livre-la-derniere-piece-maitresse-du-futur-telescope-geant-qui-sera-implante-au-chili-11979215.php)
+Append: [Un tournoi géant de jeu vidéo à Castres pour sensibiliser les parents aux écrans](https://www.ladepeche.fr/2024/05/28/un-tournoi-geant-de-jeu-video-a-castres-pour-sensibiliser-les-parents-aux-ecrans-11979565.php)
+Append: [Photovoltaïsme. Au sud de la Haute-Garonne, citoyens et élus s’opposent à la construction d’un parc à 10 mètres d’habitations](https://www.ladepeche.fr/2024/05/28/photovoltaisme-au-sud-de-la-haute-garonne-citoyens-et-elus-sopposent-a-la-construction-dun-parc-a-10-metres-dhabitations-11979549.php)
+Append: [Tour de France 2024 : "On se devait d’être présent !" Le gros chèque de l’interprofession du pruneau pour la Grande Boucle à Villeneuve-sur-Lot](https://www.ladepeche.fr/2024/05/28/on-se-devait-detre-present-le-gros-cheque-de-linterprofession-du-pruneau-pour-le-tour-de-france-a-villeneuve-sur-lot-11978996.php)
+Append: [Journée départementale de l’élevage : l’occasion de faire briller une filière "qui se redynamise" en Lot-et-Garonne](https://www.ladepeche.fr/2024/05/28/journee-departementale-de-lelevage-loccasion-de-faire-briller-une-filiere-qui-se-redynamise-en-lot-et-garonne-11979107.php)
+Append: ["On ressent un intérêt croissant pour le retour du train sur notre territoire": le collectif "Osons le train" plaide pour la réouverture de la ligne "Bagnères-de-Bigorre-Tarbes"](https://www.ladepeche.fr/2024/05/28/on-ressent-un-interet-croissant-pour-le-retour-du-train-sur-notre-territoire-le-collectif-osons-le-train-plaide-pour-la-reouverture-de-la-ligne-bagneres-de-bigorre-tarbes-11976745.php)
+Append: [Tests auto. Seat Ibiza TSI 150 FR DSG 7 : pas de tempêtes sur les bords de l’île](https://www.ladepeche.fr/2024/05/28/tests-auto-seat-ibiza-tsi-150-fr-dsg-7-pas-de-tempetes-sur-les-bords-de-lile-11977944.php)
+Append: [Colère des agriculteurs : un blocage des Pyrénées le 3 juin ? "On veut montrer aux députés européens qu’on ne lâchera pas" lance Jérôme Bayle](https://www.ladepeche.fr/2024/05/28/colere-des-agriculteurs-un-blocage-des-pyrenees-le-3-juin-on-veut-montrer-aux-deputes-europeens-quon-ne-lachera-pas-lance-jerome-bayle-11979125.php)
+Append: [Albi : Comment l’hypermarché Carrefour espère relancer l’ancien Géant Casino](https://www.ladepeche.fr/2024/05/28/comment-lhypermarche-carrefour-veut-conquerir-les-albigeois-11976714.php)
+Append: [Centrale nucléaire de Golfech : EDF stoppe le réacteur n°2 pour une courte durée](https://www.ladepeche.fr/2024/05/28/une-faible-demande-ponctuelle-en-electricite-edf-stoppe-pour-une-courte-duree-le-reacteur-n2-de-la-centrale-de-golfech-11979114.php)
+Append: [Ce qui vous attend ce jeudi avec la grève des pharmaciens dans le Tarn](https://www.ladepeche.fr/2024/05/28/ce-qui-vous-attend-ce-jeudi-avec-la-greve-des-pharmaciens-dans-le-tarn-11979142.php)
+append_entries: 20
+Finish: 2024-05-29 01:30:28.028377

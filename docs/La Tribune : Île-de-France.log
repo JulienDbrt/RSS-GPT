@@ -412,3 +412,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Immobilier : la baisse des prix continue, et accélère même en Île-de-France](https://www.latribune.fr/entreprises-finance/industrie/biens-d-equipement-btp-immobilier/immobilier-la-baisse-des-prix-continue-et-accelere-meme-en-ile-de-france-998520.html)
 append_entries: 1
 Finish: 2024-05-28 12:53:37.545943
+------------------------------------------------------
+Started: 2024-05-29 01:31:24.617185
+Existing_entries: 20
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+append_entries: 0
+Finish: 2024-05-29 01:31:24.989977

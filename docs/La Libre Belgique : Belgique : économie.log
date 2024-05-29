@@ -1773,3 +1773,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Engie facture 500 millions d'euros à l'État pour le démantèlement des centrales nucléaires](https://www.lalibre.be/economie/entreprises-startup/2024/05/28/engie-facture-500-millions-a-letat-pour-le-demantelement-des-centrales-nucleaires-RVMJX5O5FRE4HKHXWCY2KIKRHQ/)
 append_entries: 8
 Finish: 2024-05-28 12:52:31.840569
+------------------------------------------------------
+Started: 2024-05-29 01:30:30.400352
+Existing_entries: 583
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Telenet lance une offre fixe agressive, via sa marque Base](https://www.lalibre.be/economie/2024/05/28/telenet-lance-une-offre-fixe-agressive-via-sa-marque-base-GVTXZ6RZXJBF7P5ROGFJWS7JGA/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ce qui freine l’enthousiasme des Belges à partir en vacances](https://www.lalibre.be/economie/entreprises-startup/2024/05/28/vacances-dete-lenthousiasme-a-lidee-de-partir-est-la-les-freins-aussi-HI5XZBWXF5GSVMSMZIAGAM5LBM/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Bel 20 clôture dans le rouge, comme ses voisins européens](https://www.lalibre.be/economie/placements/2024/05/28/le-bel-20-cloture-dans-le-rouge-comme-ses-voisins-europeens-DCBCUQ2V3RAQ7E4UOJDEJO62GQ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nvidia grimpe en Bourse de plus de 4%](https://www.lalibre.be/economie/placements/2024/05/28/nvidia-grimpe-en-bourse-de-plus-de-5-POLGDTWQ7VBQVDOCU4BJ6JBCH4/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Canva se lance dans un nouveau marché pour "atteindre un milliard de personnes chaque mois”](https://www.lalibre.be/economie/entreprises-startup/2024/05/28/canva-se-lance-dans-un-nouveau-marche-pour-atteindre-un-milliard-de-personnes-chaque-mois-KTKMWGWLC5CVFIQE5OPT4RVN6A/)
+append_entries: 5
+Finish: 2024-05-29 01:31:00.507806

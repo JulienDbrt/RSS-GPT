@@ -480,3 +480,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Recrutement: les cadres pointent des processus longs et déséquilibrés](https://www.bfmtv.com/economie/emploi/recrutement-les-cadres-pointent-des-processus-longs-et-desequilibres_AV-202405280464.html)
 append_entries: 1
 Finish: 2024-05-28 12:39:51.083431
+------------------------------------------------------
+Started: 2024-05-29 01:19:59.181959
+Existing_entries: 56
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Baisse sensible du nombre de chômeurs en avril](https://www.bfmtv.com/economie/emploi/baisse-sensible-du-nombre-de-chomeurs-en-avril_AD-202405280580.html)
+append_entries: 1
+Finish: 2024-05-29 01:20:05.727019

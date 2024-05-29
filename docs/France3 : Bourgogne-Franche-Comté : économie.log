@@ -645,3 +645,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Un volant rectangulaire ? Pourquoi l'annonce inquiète les syndicats de Stellantis](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/un-volant-rectangulaire-pourquoi-l-annonce-inquiete-les-syndicats-de-stellantis-2975918.html)
 append_entries: 1
 Finish: 2024-05-28 12:47:00.117986
+------------------------------------------------------
+Started: 2024-05-29 01:26:21.771947
+Existing_entries: 111
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pénurie de médicaments, vente en ligne... Pourquoi les pharmaciens sont en grève le 30 mai](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/penurie-de-medicaments-vente-en-ligne-pourquoi-les-pharmacies-sont-en-greve-le-30-mai-2976761.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Des parents d'élèves se mobilisent contre les groupes de niveaux : opération "collège mort" dans le Doubs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/les-groupes-de-niveau-ca-creuse-les-inegalites-parents-d-eleves-et-enseignants-se-mobilisent-pour-une-action-college-mort-ce-mercredi-2976551.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Un revers pour la mairie de Dijon : la vente des terrains des "berges du Suzon" annulée en justice](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/une-grande-victoire-le-collectif-sauvons-les-berges-du-suzon-obtient-l-annulation-de-la-vente-des-terrains-au-promoteur-immobilier-2976776.html)
+append_entries: 3
+Finish: 2024-05-29 01:26:38.940341

@@ -2362,3 +2362,33 @@ Append: [Rolls-Royce, diamants, manoir... La Chine s'en prend aux influenceurs r
 Append: [Le prix de cette montre connectée prend un sacré coup](https://www.bfmtv.com/tech/bons-plans/le-prix-de-cette-montre-connectee-prend-un-sacre-coup_AB-202405280005.html)
 append_entries: 18
 Finish: 2024-05-28 12:41:29.717280
+------------------------------------------------------
+Started: 2024-05-29 01:20:52.570238
+Existing_entries: 936
+Fetching from https://www.bfmtv.com/rss/tech/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le Samsung Galaxy S23 est à moins de 600 euros sur Amazon, vite ce ne sera pas éternel](https://www.bfmtv.com/tech/bons-plans/le-samsung-galaxy-s23-est-a-moins-de-600-euros-sur-amazon-vite-ce-ne-sera-pas-eternel_AB-202405280003.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Pourquoi Spotify s'en prend au "gouvernement français" en augmentant ses tarifs](https://www.bfmtv.com/tech/actualites/streaming/pourquoi-spotify-menace-d-augmenter-encore-ses-tarifs-en-france_AV-202405280652.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AlphaFold 3: pourquoi l'IA de Google pour concevoir des médicaments irrite certains chercheurs](https://www.bfmtv.com/tech/intelligence-artificielle/alpha-fold-3-pourquoi-l-ia-de-google-pour-concevoir-des-medicaments-irrite-certains-chercheurs_AV-202405280708.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gemini, l'IA de Google, arrive sur les Chromebook Plus](https://www.bfmtv.com/tech/google/gemini-l-ia-de-google-arrive-sur-les-chromebook-plus_AV-202405280706.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Le prix des AirPods Pro 2 prend un sacré coup](https://www.bfmtv.com/tech/bons-plans/le-prix-des-air-pods-pro-2-prend-un-sacre-coup_AB-202405280006.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Spotify augmente ses prix pour contrer une taxe "imposée par le gouvernement français"](https://www.bfmtv.com/tech/actualites/streaming/spotify-augmente-encore-ses-prix-pour-contrer-la-taxe-streaming_AV-202405280557.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["La prochaine frontière": OpenAI est déjà au travail sur ChatGPT-5](https://www.bfmtv.com/tech/intelligence-artificielle/la-prochaine-frontiere-open-ai-est-deja-au-travail-sur-chat-gpt-5_AV-202405280577.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Helldivers 2: après le succès fulgurant, les joueurs abandonnent le jeu](https://www.bfmtv.com/tech/gaming/helldivers-2-apres-le-succes-fulgurant-les-joueurs-abandonnent-le-jeu_AV-202405280569.html)
+append_entries: 8
+Finish: 2024-05-29 01:21:38.451146

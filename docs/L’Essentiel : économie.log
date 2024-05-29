@@ -763,3 +763,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Banque au Luxembourg: Quelle suite pour les futurs ex-clients d'ING?](https://www.lessentiel.lu/fr/story/banque-au-luxembourg-quelle-suite-pour-les-futurs-ex-clients-ding-103115752)
 append_entries: 3
 Finish: 2024-05-28 12:48:18.597987
+------------------------------------------------------
+Started: 2024-05-29 01:27:42.553975
+Existing_entries: 197
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Justice: Flavio Becca attaque l'État dans l'affaire des montres](https://www.lessentiel.lu/fr/story/justice-flavio-becca-attaque-letat-dans-laffaire-des-montres-103116241)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [À Howald: Le Cactus hobbi va fermer ses portes](https://www.lessentiel.lu/fr/story/a-howald-le-cactus-hobbi-va-fermer-ses-portes-103116215)
+append_entries: 2
+Finish: 2024-05-29 01:27:54.571462

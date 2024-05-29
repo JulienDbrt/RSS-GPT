@@ -746,3 +746,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Contrôle technique : le boycott des collectionneurs de Solex](https://www.francetvinfo.fr/economie/transports/controle-technique-le-boycott-des-collectionneurs-de-solex_6570287.html)
 append_entries: 1
 Finish: 2024-05-28 12:45:05.254708
+------------------------------------------------------
+Started: 2024-05-29 01:24:35.247463
+Existing_entries: 138
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Santé : comment protéger son audition de la pollution sonore ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/sante-comment-proteger-son-audition-de-la-pollution-sonore_6570779.html)
+append_entries: 1
+Finish: 2024-05-29 01:24:41.217796

@@ -743,3 +743,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les espèces protégées fragilisées par la loi d’orientation agricole](https://www.la-croix.com/planete/les-especes-protegees-fragilisees-par-la-loi-d-orientation-agricole-20240527)
 append_entries: 3
 Finish: 2024-05-28 12:50:21.939926
+------------------------------------------------------
+Started: 2024-05-29 01:29:23.414476
+Existing_entries: 157
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [« Notre performance économique va dépendre de notre capacité à tirer parti du vieillissement démographique »](https://www.la-croix.com/a-vif/notre-performance-economique-va-dependre-de-notre-capacite-a-tirer-parti-du-vieillissement-demographique-20240528)
+append_entries: 1
+Finish: 2024-05-29 01:29:29.371561

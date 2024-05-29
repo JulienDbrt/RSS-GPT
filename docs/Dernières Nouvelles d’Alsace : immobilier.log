@@ -497,3 +497,12 @@ Existing_entries: 55
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-05-28 12:42:43.576797
+------------------------------------------------------
+Started: 2024-05-29 01:23:02.088552
+Existing_entries: 55
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier. Quelle est cette nouvelle loi qui veut débloquer le marché français ?](https://www.dna.fr/magazine-immobilier/2024/05/28/quelle-est-cette-nouvelle-loi-qui-veut-debloquer-le-marche-francais)
+append_entries: 1
+Finish: 2024-05-29 01:23:08.843455

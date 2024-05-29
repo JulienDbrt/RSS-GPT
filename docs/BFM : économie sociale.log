@@ -633,3 +633,12 @@ Existing_entries: 107
 Fetching from https://www.bfmtv.com/rss/economie/economie-social/
 append_entries: 0
 Finish: 2024-05-28 12:39:15.883945
+------------------------------------------------------
+Started: 2024-05-29 01:19:22.979447
+Existing_entries: 107
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Macron et Scholz appellent à créer un produit d'épargne européen pour doper la croissance](https://www.bfmtv.com/economie/economie-social/union-europeenne/macron-et-scholz-appellent-a-creer-un-produit-d-epargne-europeen-pour-doper-la-croissance_AD-202405280809.html)
+append_entries: 1
+Finish: 2024-05-29 01:19:28.976256

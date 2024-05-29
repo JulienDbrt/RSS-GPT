@@ -603,3 +603,15 @@ Existing_entries: 97
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
 append_entries: 0
 Finish: 2024-05-28 12:41:43.454331
+------------------------------------------------------
+Started: 2024-05-29 01:21:51.818424
+Existing_entries: 97
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vers une nouvelle grève des contrôleurs aériens?](https://www.bfmtv.com/economie/entreprises/transports/vers-une-nouvelle-greve-des-controleurs-aeriens_AV-202405280735.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TGV et TER: le trafic sera "perturbé" ce mercredi sur l'axe Nord](https://www.bfmtv.com/economie/entreprises/transports/tgv-et-ter-le-trafic-sera-perturbe-ce-mercredi-sur-l-axe-nord_AN-202405280658.html)
+append_entries: 2
+Finish: 2024-05-29 01:22:02.668263

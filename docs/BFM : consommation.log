@@ -531,3 +531,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [La polémique sur les ustensiles "Tefal" fait bondir les ventes des bonnes vieilles poêles en inox de cette entreprise](https://www.bfmtv.com/economie/consommation/la-polemique-sur-les-ustensiles-tefal-fait-bondir-les-ventes-des-bonnes-vieilles-poeles-en-inox_AD-202405280060.html)
 append_entries: 1
 Finish: 2024-05-28 12:39:39.519623
+------------------------------------------------------
+Started: 2024-05-29 01:19:35.544946
+Existing_entries: 73
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les chaînes de fast food ne se sont jamais aussi bien portées en France](https://www.bfmtv.com/economie/consommation/les-chaines-de-fast-food-ne-se-sont-jamais-aussi-bien-portees-en-france_AV-202405280626.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Happy Dés: la FDJ lance un nouveau jeu à gratter](https://www.bfmtv.com/economie/consommation/happy-des-la-fdj-lance-un-nouveau-jeu-a-gratter_AV-202405280551.html)
+append_entries: 2
+Finish: 2024-05-29 01:19:46.953131

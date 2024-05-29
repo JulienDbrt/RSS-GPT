@@ -459,3 +459,12 @@ Existing_entries: 49
 Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
 append_entries: 0
 Finish: 2024-05-28 12:41:41.894705
+------------------------------------------------------
+Started: 2024-05-29 01:21:44.636085
+Existing_entries: 49
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Frais, gestion… L'UFC-Que Choisir lance un comparateur d'assurance-vie](https://www.bfmtv.com/economie/patrimoine/frais-gestion-l-ufc-que-choisir-lance-un-comparateur-d-assurance-vie_AV-202405280694.html)
+append_entries: 1
+Finish: 2024-05-29 01:21:50.451042

@@ -509,3 +509,15 @@ Existing_entries: 59
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-05-28 12:44:58.758830
+------------------------------------------------------
+Started: 2024-05-29 01:24:23.064347
+Existing_entries: 59
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Immobilier : les promoteurs cassent les prix dans le neuf](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-les-promoteurs-cassent-les-prix-dans-le-neuf_6571115.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [APPEL A TEMOIGNAGES. Logement social : vous vivez dans un HLM et le projet de loi du gouvernement vous inquiète ? Racontez-nous](https://www.francetvinfo.fr/economie/immobilier/reforme-du-logement/appel-a-temoignages-logement-social-vous-vivez-dans-un-hlm-et-le-projet-de-loi-du-gouvernement-vous-inquiete-racontez-nous_6568883.html)
+append_entries: 2
+Finish: 2024-05-29 01:24:35.176539

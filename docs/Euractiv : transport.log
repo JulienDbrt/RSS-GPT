@@ -431,3 +431,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les régions productrices de voitures cherchent à limiter les dégâts de la transition écologique pour leur secteur](https://www.euractiv.fr/section/mobilite-du-futur/news/les-regions-productrices-de-voitures-cherchent-a-limiter-les-degats-de-la-transition-ecologique-pour-leur-secteur/)
 append_entries: 1
 Finish: 2024-05-28 12:42:52.952193
+------------------------------------------------------
+Started: 2024-05-29 01:23:10.401392
+Existing_entries: 53
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+append_entries: 0
+Finish: 2024-05-29 01:23:10.834092

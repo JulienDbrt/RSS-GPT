@@ -1375,3 +1375,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Crise en Nouvelle-Calédonie : la déclaration en ligne des revenus est reportée au 30 juin](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-la-declaration-en-ligne-des-impots-est-reportee-au-30-juin-1491749.html)
 append_entries: 9
 Finish: 2024-05-28 12:49:40.615841
+------------------------------------------------------
+Started: 2024-05-29 01:28:13.657647
+Existing_entries: 341
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Passeport mobilité études : la limite d'âge passe de 26 à 28 ans](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/passeport-mobilite-etudes-la-limite-d-age-passe-de-26-a-28-ans-1492061.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : sur la route avec André, convoyeur de farine en Brousse](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-sur-la-route-avec-andre-convoyeur-de-farine-en-brousse-1492046.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [VIDEOS. Crise en Nouvelle-Calédonie : À Poindimié comme à Nouméa, les commerces non essentiels tentent de survivre](https://la1ere.francetvinfo.fr/nouvellecaledonie/videos-crise-en-nouvelle-caledoine-a-poindimie-comme-a-noumea-les-commerces-non-essentiels-tentent-de-survivre-1492049.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les premiers wallisiens et futuniens rapatriés de Nouvelle-Calédonie : un "gros" soulagement pour les étudiants et les parents](https://la1ere.francetvinfo.fr/wallisfutuna/les-premiers-wallisiens-et-futuniens-rapatries-de-nouvelle-caledonie-un-gros-soulagement-pour-les-etudiants-et-les-parents-1492025.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Calédoniens bloqués en Polynésie : un couple témoigne](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/caledoniens-bloques-en-polynesie-un-couple-temoigne-1492037.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Crise en Nouvelle-Calédonie : circulation, collecte des déchets, services ouverts... Retrouvez les informations pratiques du mercredi 29 mai](https://la1ere.francetvinfo.fr/nouvellecaledonie/circulation-collecte-des-dechets-services-ouverts-retrouvez-les-informations-pratiques-du-mercredi-29-mai-1492022.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Sébastien Loeb sera au départ de la 39e édition du rallye des Grands Fonds](https://la1ere.francetvinfo.fr/guadeloupe/sebastien-loeb-sera-au-depart-de-la-39e-edition-du-rallye-des-grands-fonds-1492007.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Brésil : La nouvelle présidente de Petrobras souhaite relancer l’exploration pétrolière y compris à l’embouchure de l’Amazone](https://la1ere.francetvinfo.fr/guyane/bresil-la-nouvelle-presidente-de-petrobras-souhaite-relancer-l-exploration-petroliere-y-compris-a-l-embouchure-de-l-amazone-1491914.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Des scientifiques au chevet du Grand Barachois de Miquelon](https://la1ere.francetvinfo.fr/saintpierremiquelon/des-scientifiques-au-chevet-du-grand-barachois-de-miquelon-1491899.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Les plages de l'ouest de l'île de La Réunion conservent leur label Pavillon Bleu en 2024](https://la1ere.francetvinfo.fr/reunion/les-plages-de-l-ouest-de-l-ile-de-la-reunion-conservent-leur-pavillon-bleu-en-2024-1491893.html)
+append_entries: 10
+Finish: 2024-05-29 01:29:11.613664

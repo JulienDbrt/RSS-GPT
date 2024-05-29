@@ -1837,3 +1837,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Réforme de l'assurance chômage : « le gouvernement fait la poche des chômeurs », déplore la CFDT](https://www.latribune.fr/economie/france/reforme-de-l-assurance-chomage-le-gouvernement-fait-la-poche-des-chomeurs-deplore-la-cfdt-998533.html)
 append_entries: 10
 Finish: 2024-05-28 12:54:35.498949
+------------------------------------------------------
+Started: 2024-05-29 01:31:25.252281
+Existing_entries: 495
+Fetching from https://www.latribune.fr/feed.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Spécialiste de la fabrication additive, comment Volumic 3D s’impose sur le marché français et européen](https://region-sud.latribune.fr/economie/2024-05-28/specialiste-de-la-fabrication-additive-comment-volumic-3d-s-impose-sur-le-marche-francais-et-europeen-998571.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Réindustrialisation : pourquoi la Bretagne n'est pas la championne des investissements étrangers](https://www.latribune.fr/entreprises-finance/reindustrialisation-pourquoi-la-bretagne-n-est-pas-la-championne-des-investissements-etrangers-998479.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Altice (SFR) voit ses revenus baisser au premier trimestre](https://www.latribune.fr/technos-medias/telecoms/altice-sfr-voit-ses-revenus-baisser-au-premier-trimestre-998569.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Projet de loi agricole : l'Assemblée nationale adopte un texte critiqué à droite comme à gauche](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/projet-de-loi-agricole-le-texte-soumis-au-vote-a-l-assemblee-nationale-ou-il-est-loin-de-faire-l-unanimite-998556.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Transition écologique : l'UE et l'Australie s'entendent sur un partenariat autour des minerais stratégiques](https://www.latribune.fr/climat/energie-environnement/transition-ecologique-l-ue-et-l-australie-s-entendent-sur-un-partenariat-autour-des-minerais-strategiques-998560.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Chômage : légère baisse du nombre de demandeurs d'emploi en avril en France](https://www.latribune.fr/economie/france/chomage-legere-baisse-du-nombre-de-demandeurs-d-emploi-en-avril-en-france-998566.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gestion d’actifs : 9.000 plaignants demandent des comptes à H2O AM](https://www.latribune.fr/entreprises-finance/banques-finance/banque/gestion-d-actifs-9-000-plaignants-demandent-des-comptes-a-h2o-am-998563.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Biodol Therapeutics : 7 millions d’euros pour avancer sur les douleurs neuropathiques chroniques](https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-medicale/2024-05-28/biodol-therapeutics-7-millions-d-euros-pour-avancer-sur-les-douleurs-neuropathiques-chroniques-998562.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Profitez des promotions spéciales Bosch chez Cdiscount](https://www.latribune.fr/partenaires/bons-plans/profitez-des-promotions-speciales-bosch-chez-cdiscount-998561.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Aéronautique : Aura Aero s'allie avec Airbus pour certifier son futur avion régional électrique](https://toulouse.latribune.fr/entreprises/business/2024-05-28/aeronautique-aura-aero-s-allie-avec-airbus-pour-certifier-son-futur-avion-regional-electrique-998549.html)
+append_entries: 10
+Finish: 2024-05-29 01:32:22.695597

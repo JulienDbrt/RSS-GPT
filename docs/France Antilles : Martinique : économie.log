@@ -797,3 +797,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Nouvelle-Calédonie: des signes d'un lent retour à la normale](https://www.martinique.franceantilles.fr/actualite/economie/nouvelle-caledonie-des-signes-dun-lent-retour-a-la-normale-988847.php)
 append_entries: 8
 Finish: 2024-05-28 12:43:52.753447
+------------------------------------------------------
+Started: 2024-05-29 01:23:11.837900
+Existing_entries: 175
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [La quatrième édition du Martinique Boat Show démarre ce jeudi](https://www.martinique.franceantilles.fr/actualite/economie/la-quatrieme-edition-du-martinique-boat-show-demarre-ce-jeudi-988878.php)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Gardel réalise la première production de sucre de canne bio](https://www.martinique.franceantilles.fr/actualite/economie/gardel-realise-la-premiere-production-de-sucre-de-canne-bio-988817.php)
+append_entries: 2
+Finish: 2024-05-29 01:23:23.617350

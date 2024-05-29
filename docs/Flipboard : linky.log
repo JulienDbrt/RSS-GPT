@@ -457,3 +457,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [L’inquiétante prolifération des escrocs qui proposent de truquer votre compteur Linky pour faire «au moins 60% d'économies»](https://www.lefigaro.fr/conso/l-inquietante-proliferation-des-escrocs-qui-proposent-de-truquer-votre-compteur-linky-pour-faire-au-moins-60-d-economies-20240528)
 append_entries: 2
 Finish: 2024-05-28 12:33:54.556536
+------------------------------------------------------
+Started: 2024-05-29 01:13:31.726116
+Existing_entries: 48
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Enedis dévoile les résultats de son test sur les limitations électriques (et c’est une bonne surprise)](https://www.journaldugeek.com/2024/05/28/enedis-devoile-les-resultats-de-son-test-sur-les-limitations-electriques-et-cest-une-bonne-surprise/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Compteurs Linky : ces ménages qui ont baissé leur consommation d'électricité pour 10 euros](https://www.capital.fr/votre-argent/compteurs-linky-ces-menages-qui-ont-baisse-leur-consommation-d-electricite-pour-10-euros-1497343)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Limitation de puissance des compteurs Linky : Jérôme a accepté de jouer les cobayes pour Enedis | TF1 INFO](https://www.tf1info.fr/conso/video-reportage-test-de-limitation-de-puissance-des-compteurs-linky-cet-habitant-du-puy-de-dome-a-joue-les-cobayes-pour-enedis-2301271.html)
+append_entries: 3
+Finish: 2024-05-29 01:13:49.442682

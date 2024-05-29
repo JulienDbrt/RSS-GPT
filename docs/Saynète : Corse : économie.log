@@ -1575,3 +1575,30 @@ Existing_entries: 622
 Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
 append_entries: 0
 Finish: 2024-05-28 12:37:29.664836
+------------------------------------------------------
+Started: 2024-05-29 01:17:07.796100
+Existing_entries: 622
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [RECRUTEMENT -](https://www.facebook.com/528763972708049/posts/771603641757413)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ADEC   APPEL À PROJETS "        ’            ’" dispositif de soutien à l’économie productive & de proximité](https://www.facebook.com/704747348330721/posts/909225791216208)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Business Game - Entreprendre au Coeur des Territoires](https://www.facebook.com/469640381992713/posts/761277376162344)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Quelle énergie à l’événement Viva Technology 2024](https://www.facebook.com/704747348330721/posts/909121381226649)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Journal de la plateforme  Vous n’y étiez pas  Ce n’est pas grave](https://www.facebook.com/462507925917911/posts/859691656199534)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [#EVENEMENT       L’Afpa Corsica organise une Journée Portes Ouvertes,](https://www.facebook.com/765411788918626/posts/984999850293151)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Prepa Apprentissage](https://www.youtube.com/watch?v=z1g3wZQ6gxs)
+append_entries: 7
+Finish: 2024-05-29 01:17:48.844962
