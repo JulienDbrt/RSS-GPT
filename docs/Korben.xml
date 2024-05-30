@@ -5,12 +5,132 @@
 <link>https://korben.info</link>
 
 <item>
+<title>ReverserAI – Du Reverse Engineering à base d’IA</title>
+<link>https://korben.info/reverserai-ia-ingenierie-inverse-revolutionnaire.html</link>
+<guid>https://korben.info/reverserai-ia-ingenierie-inverse-revolutionnaire.html</guid>
+<content:encoded><![CDATA[
+<div> Confidentialité, Sécurité, Suggestion automatique, Architecture modulaire, Performance<br>
+Summary:<br>
+ReverserAI est un outil de reverse engineering basé sur des modèles de langage locaux (LLM) qui suggère automatiquement des noms de fonctions significatifs à partir de la sortie du décompilateur. Fonctionnant hors ligne, il garantit la confidentialité des données et offre une intégration transparente avec Binary Ninja via un plugin dédié. Son architecture modulaire permet une extension facile vers d'autres outils d'ingénierie inverse, et il est compatible avec les architectures Apple Silicon. Il nécessite une configuration matérielle robuste pour des performances optimales, mais les optimisations GPU peuvent réduire le temps de requête. L'outil est un proof of concept prometteur pour l'avenir des LLM locaux dans le domaine du reverse engineering. Son code source est disponible sur GitHub pour des suggestions d'améliorations. Joyeux hacking à tous !<br> <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_wallpaper_with_bytecode_and_binary_code_with_text_logo_w_bfe5b69c-2761-49e9-8e70-5cb731224142.png" width="1456" /></p>
+<p><strong>ReverserAI</strong> est un projet de recherche assez avant-gardiste qui vise à automatiser et améliorer les tâches de reverse engineering grâce à l&rsquo;utilisation de modèles de langage locaux (<strong>LLM</strong>).</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1210786638" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Fonctionnant entièrement hors ligne, cette première version se distingue par sa capacité à suggérer automatiquement des noms de fonctions de haut niveau et sémantiquement significatifs à partir de la sortie du décompilateur. ReverserAI se présente également comme un plugin pour Binary Ninja, mais son architecture modulaire est conçue pour être étendue à d&rsquo;autres plateformes comme IDA ou encore <a href="https://korben.info/ghidra-le-game-genie-des-hackers.html">Ghidra</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158159" height="349" src="https://korben.info/app/uploads/2024/04/plugin_menu.png" width="925" /></figure></div>
+
+
+<p>Et bien que les LLM locaux n&rsquo;égalent pas encore les performances de leurs concurrents basés sur le cloud comme ChatGPT4 ou Claude3, ils représentent une avancée majeure avec un bon équilibre entre les performances et la confidentialité. </p>
+
+
+
+<p>Parmi les fonctionnalités clés de cet outil, on retrouve :</p>
+
+
+
+<ul>
+<li>Un fonctionnement totalement <strong>hors ligne</strong>, ce qui garantit la confidentialité et la sécurité des données</li>
+
+
+
+<li>La suggestion automatique de noms de fonctions sémantiquement significatifs à partir de la sortie du décompilateur  </li>
+
+
+
+<li>Une intégration transparente avec Binary Ninja via un plugin dédié</li>
+
+
+
+<li>Une architecture modulaire permettant une extension facile vers d&rsquo;autres outils d&rsquo;ingénierie inverse</li>
+
+
+
+<li>Une compatibilité avec le matériel grand public, y compris les architectures Apple Silicon</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158158" height="656" src="https://korben.info/app/uploads/2024/04/plugin_results-1024x656.png" width="1024" /></figure></div>
+
+
+<p>Cependant, une configuration matérielle avec plusieurs cœurs CPU ou un GPU puissant est recommandée, car sur un système avec au moins 16 Go de RAM et de 12 cœurs CPU, les requêtes prennent environ 20 à 30 secondes. Grâce aux optimisations GPU, en particulier sur les appareils Apple Silicon, ce temps peut être réduit à 2 à 5 secondes par requête.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2079569000" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ça s&rsquo;installe à l&rsquo;aide du gestionnaire de plugins de Binary Ninja et une fois lancé, l&rsquo;outil téléchargera automatiquement le modèle de langage nécessaire (~5 Go). Les paramètres de configuration permettent également d&rsquo;optimiser les performances en fonction de votre configuration matérielle, en répartissant la charge entre le CPU et le GPU.</p>
+
+
+
+<p>Cet outil encore un peu jeune, est un excellent proof of concept qui illustre bien le potentiel des LLM locaux pour tout ce qui est reverse engineering. On verra évidemment ce que ça deviendra d&rsquo;ici quelques années.</p>
+
+
+
+<p>Le code source est disponible sur GitHub à <a href="https://github.com/mrphrazer/reverser_ai" rel="noopener" target="_blank">l&rsquo;adresse suivante</a> alors n&rsquo;hésitez pas à suggérer des améliorations.</p>
+
+
+
+<p>Happy hacking à tous !</p>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Codestral – Le modèle IA des développeurs</title>
+<link>https://korben.info/codestral-le-nouveau-prodige-ia-pour-les-developpeurs.html</link>
+<guid>https://korben.info/codestral-le-nouveau-prodige-ia-pour-les-developpeurs.html</guid>
+<content:encoded><![CDATA[
+<div> modèle, code, Mistral AI, Codestral, performance
+Summary: 
+Codestral est le nouveau modèle de génération de code de Mistral AI, capable de maîtriser plus de 80 langages de programmation. Il peut compléter des fonctions en un temps record et générer des tests automatiquement. Avec ses 22 milliards de paramètres et une fenêtre contextuelle de 32 000 tokens, il affiche des performances exceptionnelles sur divers benchmarks, surpassant même GPT-4-Turbo et GPT-3.5. Disponible sur HuggingFace et intégré aux plugins Continue.dev et Tabnine pour VSCode et JetBrains, Codestral est facilement accessible pour les développeurs. Il est également compatible avec l'API de Mistral AI, permettant une intégration simple dans les projets. Codestral représente une avancée majeure dans le domaine de la génération de code, offrant des fonctionnalités avancées et une qualité de performance remarquable. Les développeurs intéressés peuvent expérimenter ce modèle de pointe et découvrir ses nombreuses possibilités pour améliorer leur flux de travail de développement de logiciels. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="343" src="https://korben.info/app/uploads/2024/05/SCR-20240530-hscb.webp" width="1000" /></p>
+<p><strong>Codestral</strong>, le tout nouveau modèle de code de Mistral AI, débarque pour le plus grand plaisir (ou pas) des développeurs ! Créé par l&rsquo;équipe de Mistral AI et lancé hier, Codestral est donc un modèle de génération de code ouvert spécialement conçu pour les tâches de génération de code. Il maîtrise plus de 80 langages de programmation, dont les incontournables Python, Java, C++, JavaScript et même le vénérable Fortran.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-765284520" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Si vous galérez sur une fonction, il vous aidera à la compléter en 2 coups de cuillère à pot et si vous avez besoin de tests, cet expert les génèrera à votre place pendant que vous serez parti à la machine à café. Grâce à sa capacité de <em>remplissage au milieu</em> (fill in the middle), il pourrait ainsi compléter n&rsquo;importe quel bout de code, même le plus complexe.</p>
+
+
+
+<p>En termes de performance, il établit de nouveaux records. C&rsquo;est un modèle de 22 milliards de paramètres, mais grâce à sa fenêtre contextuelle de 32 000 tokens, il surpasse les autres modèles sur de nombreux benchmarks, y compris le RepoBench pour la génération de code à longue portée. Sur des tests spécifiques comme HumanEval, MBPP pour le Python et Spider pour le SQL, Codestral affiche également des performances impressionnantes devant GPT-4-Turbo et GPT-3.5. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161381" height="508" src="https://korben.info/app/uploads/2024/05/SCR-20240530-hskq.webp" width="1000" /></figure></div>
+
+
+<p>Ce modèle est accessible sur HuggingFace, où vous pouvez le télécharger et avec l&rsquo;API de Mistral AI, quelques lignes de code suffisent pour l&rsquo;intégrer dans votre projet. Les adeptes de VSCode et JetBrains seront ravis puisque les plugins Continue.dev et Tabnine ont également intégré ce modèle, pour coder et interagir avec lui directement dans votre IDE préféré. Vous pouvez également y avoir accès via le <a href="https://chat.mistral.ai/" rel="noopener" target="_blank">Chat de Mistral</a>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-161378" height="746" src="https://korben.info/app/uploads/2024/05/SCR-20240530-hsod.webp" width="1000" /></figure>
+
+
+
+<p>Perso, j&rsquo;utilise Claude 3 Opus et GPT-4o pour mon code mais je vais commencer à tester celui-là également. En tout cas, si ça vous intéresse, rendez-vous sur la <a href="https://docs.mistral.ai/capabilities/code_generation/" rel="noopener" target="_blank">documentation officielle de Mistral AI</a> ici.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-158188999" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://mistral.ai/news/codestral/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 06:44:29 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 06:44:29 +0000</pubDate>
+</item>
+
+<item>
 <title>FlowTunes – Des heures de musiques IA de qualité pour rester concentré dans votre flow quotidien</title>
 <link>https://korben.info/flowtunes-musique-ia-booster-flow-productivite.html</link>
 <guid>https://korben.info/flowtunes-musique-ia-booster-flow-productivite.html</guid>
 <content:encoded><![CDATA[
-<div> musique, concentration, productivité, FlowTunes, application<br>
-<br>
+<div> musique, concentration, productivité, FlowTunes, application<br />
+<br />
 Summary:
 FlowTunes est une application de musique conçue pour améliorer la concentration et la productivité. Avec plus de 3000 morceaux de Lo-Fi en continu, l'application garantit une ambiance propice au travail. L'auteur a soigneusement travaillé pour rendre la musique agréable à écouter, en gérant notamment les dégradations de qualité. FlowTunes est gratuit, sans publicité et offre la possibilité de personnaliser son environnement sonore avec des fonds sonores apaisants. L'application propose une variété de chaînes musicales pour tous les goûts, des beats de lo-fi aux symphonies classiques. Idéal pour se concentrer sur le travail, le code ou simplement se détendre, FlowTunes est une option à considérer pour booster sa productivité tout en profitant d'une ambiance musicale agréable. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_logo_FlowTunes_chill_music_Lo-Fi_style_7a731764-9497-4cfa-8cb9-a9cbfaf14cdd.webp" width="1456" /></p>
@@ -49,9 +169,7 @@ FlowTunes est une application de musique conçue pour améliorer la concentratio
 <p><a href="https://news.ycombinator.com/item?id=40504503" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 13:58:13 +0000</pubDate>
-<pubDate>Wed, 29 May 2024 13:58:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Sauvegardez facilement votre parc machines avec Arx One</title>
 <link>https://korben.info/sauvegardez-facilement-votre-parc-machines-avec-arx-one.html</link>

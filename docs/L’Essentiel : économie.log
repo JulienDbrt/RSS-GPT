@@ -790,3 +790,18 @@ Existing_entries: 200
 Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
 append_entries: 0
 Finish: 2024-05-30 01:20:37.953733
+------------------------------------------------------
+Started: 2024-05-30 12:42:59.811260
+Existing_entries: 200
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Monnaie: 26% des résidents veulent le retour du franc luxembourgeois](https://www.lessentiel.lu/fr/story/monnaie-26-des-residents-veulent-le-retour-du-franc-luxembourgeois-103117158)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Corée du Sud: Un PDG condamné à verser un milliard de dollars à son ex-épouse](https://www.lessentiel.lu/fr/story/coree-du-sud-un-pdg-condamne-a-verser-un-milliard-de-dollars-a-son-ex-epouse-103117157)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Piratage: Les données de 560 millions de clients de Ticketmaster auraient été volées](https://www.lessentiel.lu/fr/story/informatique-probleme-de-cybersecurite-l-australie-enquete-avec-ticketmaster-178395942445)
+append_entries: 3
+Finish: 2024-05-30 12:43:12.317941

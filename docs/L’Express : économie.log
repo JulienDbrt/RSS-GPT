@@ -901,3 +901,18 @@ Summarized using GPT-3.5-turbo
 Append: [La Poste a-t-elle trop de missions ? L’alerte de la Caisse des dépôts](https://www.lexpress.fr/economie/la-poste-a-t-elle-trop-de-missions-lalerte-de-la-caisse-des-depots-G3FBHKKAZJCPBM3CYXLEDMQ53U/)
 append_entries: 3
 Finish: 2024-05-30 01:20:51.470006
+------------------------------------------------------
+Started: 2024-05-30 12:43:12.737770
+Existing_entries: 237
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4482
+Summarized using GPT-3.5-turbo
+Append: [Sécurité sociale : l’inquiétante dérive des comptes](https://www.lexpress.fr/economie/securite-sociale-linquietante-derive-des-comptes-7HUTCVFVDRADPJXH7HW23SFXQI/)
+Token length: 3723
+Summarized using GPT-3.5-turbo
+Append: [Ticketmaster : derrière la cyberattaque, l’ombre du groupe de hackers "ShinyHunters"](https://www.lexpress.fr/economie/high-tech/ticketmaster-derriere-la-cyberattaque-lombre-du-groupe-de-hackers-shinyhunters-6ESTCDIEY5BPBEZEG7D2C4BOXQ/)
+Token length: 5629
+Summarized using GPT-3.5-turbo
+Append: [Guerre en Ukraine : "Les déboires de Gazprom compliquent la donne pour Poutine"](https://www.lexpress.fr/economie/guerre-en-ukraine-les-deboires-de-gazprom-compliquent-la-donne-pour-poutine-OBK27WUNZBCOTDAG54RRMDX2ZA/)
+append_entries: 3
+Finish: 2024-05-30 12:43:27.165124

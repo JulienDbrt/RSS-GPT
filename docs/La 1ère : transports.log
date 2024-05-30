@@ -631,3 +631,24 @@ Existing_entries: 87
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
 append_entries: 0
 Finish: 2024-05-30 01:21:21.907418
+------------------------------------------------------
+Started: 2024-05-30 12:44:10.196247
+Existing_entries: 87
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : des touristes bloqués manifestent à Nouméa](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/crise-en-nouvelle-caledonie-des-touristes-metropolitains-manifestent-a-noumea-il-est-question-d-un-ou-deux-vols-vers-l-hexagone-d-ici-dimanche-soir-1492433.html)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : le gouvernement organise des vols de rapatriement vers Ouvéa et l'île des Pins](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-le-gouvernement-organise-des-vols-de-rapatriement-vers-ouvea-et-l-ile-des-pins-1492454.html)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Maurice : atterrissage d'urgence du vol MK 140 à destination de Rodrigues](https://la1ere.francetvinfo.fr/reunion/maurice-atterrissage-d-urgence-du-vol-mk-140-a-destination-de-rodrigues-1492442.html)
+Token length: 7
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : le Betico reprend progressivement ses rotations](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-le-betico-reprend-progressivement-ses-rotations-1492445.html)
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : les rapatriements de personnes bloquées à Wallis et Futuna ont commencé](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-les-rapatriements-de-personnes-bloquees-a-wallis-et-futuna-ont-commence-1492412.html)
+append_entries: 5
+Finish: 2024-05-30 12:44:30.110766

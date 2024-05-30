@@ -539,3 +539,15 @@ Existing_entries: 63
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-05-30 01:18:34.828356
+------------------------------------------------------
+Started: 2024-05-30 12:40:31.641123
+Existing_entries: 63
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [TEMOIGNAGE. "J'ai perdu mon intimité et mon indépendance" : face à la crise du logement, ces Portugais contraints de retourner vivre chez leurs parents](https://www.francetvinfo.fr/economie/immobilier/temoignage-j-ai-perdu-mon-intimite-et-mon-independance-face-a-la-crise-du-logement-ces-portugais-contraints-de-retourner-vivre-chez-leurs-parents_6574700.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Logements fissurés : comment mieux indemniser les propriétaires de maisons victimes de retrait-gonflement des argiles ?](https://www.francetvinfo.fr/replay-radio/le-billet-vert/logements-fissures-comment-mieux-indemniser-les-proprietaires-de-maisons-victimes-de-retrait-gonflement-des-argiles_6546428.html)
+append_entries: 2
+Finish: 2024-05-30 12:40:39.856020

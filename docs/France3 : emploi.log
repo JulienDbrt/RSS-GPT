@@ -708,3 +708,21 @@ Summarized using GPT-3.5-turbo
 Append: [Châteauroux veut attirer les gigafactories de batteries électriques](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre/chateauroux/chateauroux-veut-attirer-les-gigafactories-de-batteries-electriques-2977226.html)
 append_entries: 4
 Finish: 2024-05-30 01:19:53.339347
+------------------------------------------------------
+Started: 2024-05-30 12:42:21.314453
+Existing_entries: 126
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Le groupe agroalimentaire sarthois LDC continue son expansion en s'apprêtant à racheter le groupe Martinet](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/sable-sur-sarthe/le-groupe-agroalimentaire-sarthois-ldc-continue-son-expansion-en-s-appretant-a-racheter-le-groupe-martinet-2977886.html)
+Token length: 325
+Summarized using GPT-3.5-turbo
+Append: [Grève nationale des pharmaciens : pour cette petite ville, la fermeture de trois pharmacies résout la pénurie de main-d'œuvre](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/greve-nationale-des-pharmaciens-pour-cette-petite-ville-la-fermeture-de-trois-pharmacies-resout-la-penurie-de-main-d-uvre-2977757.html)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: ["Je laisse tous les patients dans un désarroi total" : sans repreneurs, ces cabinets de médecins sont menacés de fermeture](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/je-laisse-tous-les-patients-dans-un-desarroi-total-sans-repreneurs-ces-cabinets-de-medecins-sont-menaces-de-fermeture-2973758.html)
+Token length: 379
+Summarized using GPT-3.5-turbo
+Append: [Créer une ZAC sur un site industriel en plein essor : la stratégie des élus pour "garder la main" sur le développement économique](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/creer-une-zac-sur-un-site-industriel-en-plein-essor-la-strategie-des-elus-pour-garder-la-main-sur-le-developpement-economique-2977568.html)
+append_entries: 4
+Finish: 2024-05-30 12:42:34.508564

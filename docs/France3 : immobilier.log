@@ -501,3 +501,18 @@ Existing_entries: 57
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-05-30 01:19:56.086972
+------------------------------------------------------
+Started: 2024-05-30 12:42:34.537011
+Existing_entries: 57
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: ["J'ai eu les informations qu'il n'y avait pas de danger" : à Nice, des habitants délogés peuvent revenir chez eux](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/j-ai-eu-les-informations-qu-il-n-y-avait-pas-de-danger-a-nice-des-habitants-deloges-peuvent-revenir-chez-eux-2977724.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Avec une fréquentation en hausse de 30%, Gîtes de France affiche sa différence avec "les plateformes et la fameuse boîte à clés"](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/avec-une-frequentation-en-hausse-de-30-gites-de-france-affiche-sa-difference-avec-les-plateformes-et-la-fameuse-boite-a-cles-2977184.html)
+Token length: 390
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGE. "Il faut que je repaye tout" : des propriétaires de maisons inachevées à la rue, après l'expulsion de l'imam Mahjoubi](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/temoignage-il-faut-que-je-repaye-tout-des-proprietaires-de-maisons-inachevees-a-la-rue-apres-l-expulsion-de-l-imam-mahjoubi-2977544.html)
+append_entries: 3
+Finish: 2024-05-30 12:42:44.084514

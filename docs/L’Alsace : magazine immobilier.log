@@ -524,3 +524,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier. Que dit la nouvelle loi sur la fiscalité des biens meublés ?](https://www.lalsace.fr/magazine-immobilier/2024/05/29/que-dit-la-nouvelle-loi-sur-la-fiscalite-des-biens-meubles)
 append_entries: 1
 Finish: 2024-05-30 01:20:37.002332
+------------------------------------------------------
+Started: 2024-05-30 12:42:58.557092
+Existing_entries: 58
+Fetching from https://www.lalsace.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-05-30 12:42:59.721853
