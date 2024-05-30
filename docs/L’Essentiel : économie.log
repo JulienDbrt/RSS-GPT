@@ -784,3 +784,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Environnement: L'Allemagne ouvre la voie à la captation et au stockage du CO2](https://www.lessentiel.lu/fr/story/environnement-lallemagne-ouvre-la-voie-a-la-captation-et-au-stockage-du-co2-103116704)
 append_entries: 1
 Finish: 2024-05-29 12:48:51.787525
+------------------------------------------------------
+Started: 2024-05-30 01:20:37.089032
+Existing_entries: 200
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+append_entries: 0
+Finish: 2024-05-30 01:20:37.953733

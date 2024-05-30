@@ -654,3 +654,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: ["C'est une réforme criminelle": Sophie Binet fustige la réforme de l'assurance chômage](https://www.bfmtv.com/economie/economie-social/social/c-est-une-reforme-criminelle-sophie-binet-de-la-cgt-fustige-la-reforme-de-l-assurance-chomage_AV-202405290334.html)
 append_entries: 2
 Finish: 2024-05-29 12:40:53.840130
+------------------------------------------------------
+Started: 2024-05-30 01:14:40.755442
+Existing_entries: 110
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Non-indemnisation, délais de carence… La Cour des comptes veut enrayer la flambée des arrêts maladie](https://www.bfmtv.com/economie/economie-social/non-indemnisation-delais-de-carence-la-cour-des-comptes-veut-enrayer-la-flambee-des-arrets-maladie_AD-202405290813.html)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Grève des pharmaciens: le mouvement s'annonce très suivi, beaucoup d'officines garderont portes closes jeudi](https://www.bfmtv.com/economie/economie-social/greve-des-pharmaciens-le-mouvement-s-annonce-tres-suivi-beaucoup-d-officines-garderont-portes-closes-jeudi_AD-202405290636.html)
+append_entries: 2
+Finish: 2024-05-30 01:14:47.453586

@@ -1662,3 +1662,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Impôt sur le revenu : 2OP, cette case magique qui vous évite de payer à tort](https://www.moneyvox.fr/impot/actualites/97944/impot-sur-le-revenu-2op-cette-case-magique-qui-vous-evite-de-payer-a-tort)
 append_entries: 6
 Finish: 2024-05-29 12:46:26.077474
+------------------------------------------------------
+Started: 2024-05-30 01:18:37.394612
+Existing_entries: 480
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Case pour payer moins d'impôts, succès de l'assurance vie... Les 3 infos du jour pour votre argent](https://www.moneyvox.fr/votre-argent/actualites/97989/case-pour-payer-moins-impots-succes-de-assurance-vie-les-3-infos-du-jour-pour-votre-argent)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [NGE remporte un contrat de 1,4 milliard d'euros pour construire une partie de la ligne 15 du Grand Paris Express](https://www.moneyvox.fr/votre-argent/actualites/97993/nge-remporte-un-contrat-de-1,4-milliard-euros-pour-construire-une-partie-de-la-ligne-15-du-grand-paris-express)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [Nvidia, Michelin, Renault... Le Journal de la Bourse du 29 mai 2024](https://www.moneyvox.fr/bourse/actualites/97992/nvidia-michelin-renault-le-journal-de-la-bourse-du-29-mai-2024)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Impôts : l'AMF dénonce une suppression des recettes locales depuis 2017](https://www.moneyvox.fr/impot/actualites/97991/impots-amf-denonce-une-suppression-des-recettes-locales-depuis-2017)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [Attente pour la Bourse de Paris, humeur positive à Wall Street : le Journal de la Bourse du 28 mai 2024](https://www.moneyvox.fr/bourse/actualites/97990/attente-pour-la-bourse-de-paris-humeur-positive-a-wall-street-le-journal-de-la-bourse-du-28-mai-2024)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Yomoni Vie : jusqu'à 500 euros offerts avec votre contrat d'assurance vie !](https://www.moneyvox.fr/assurance-vie/actualites/97981/yomoni-vie-jusqua-500-euros-offerts-avec-votre-contrat-assurance-vie)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Pour être écolo il vaut mieux payer par carte bancaire, voilà pourquoi](https://www.moneyvox.fr/carte-bancaire/actualites/97987/pour-etre-ecolo-il-vaut-mieux-payer-par-carte-bancaire-voila-pourquoi)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Impôts : « Comment régulariser ma situation après 10 ans sans déclaration de revenus ? »](https://www.moneyvox.fr/impot/actualites/97983/impots-comment-regulariser-ma-situation-apres-10-ans-sans-declaration-de-revenus)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie : certaines dates de paiement et de déclaration des impôts reportées](https://www.moneyvox.fr/votre-argent/actualites/97985/nouvelle-caledonie-certaines-dates-de-paiement-et-de-declaration-des-impots-reportees)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Un mois d'avril record pour les contrats d'assurance vie](https://www.moneyvox.fr/assurance-vie/actualites/97984/un-mois-avril-record-pour-les-contrats-assurance-vie)
+append_entries: 10
+Finish: 2024-05-30 01:19:22.370008

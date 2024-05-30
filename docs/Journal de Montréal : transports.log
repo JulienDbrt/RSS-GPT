@@ -579,3 +579,15 @@ Existing_entries: 75
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-05-29 12:48:33.712981
+------------------------------------------------------
+Started: 2024-05-30 01:20:18.567071
+Existing_entries: 75
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Tour de l’Île de Montréal: automobilistes, planifiez vos déplacements](https://www.journaldemontreal.com/2024/05/28/tour-de-lile-de-montreal-automobilistes-planifiez-vos-deplacements)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Problème de moteur: un avion d’Air Canada atterrit d’urgence peu après son départ](https://www.journaldemontreal.com/2024/05/28/probleme-de-moteur-un-avion-dair-canada-atterrit-durgence-peu-apres-son-depart)
+append_entries: 2
+Finish: 2024-05-30 01:20:24.704950

@@ -818,3 +818,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Chine: le FMI plus optimiste sur la croissance mais inquiet face aux défis à relever](https://www.martinique.franceantilles.fr/actualite/economie/chine-le-fmi-plus-optimiste-sur-la-croissance-mais-inquiet-face-aux-defis-a-relever-988989.php)
 append_entries: 1
 Finish: 2024-05-29 12:44:19.746799
+------------------------------------------------------
+Started: 2024-05-30 01:17:54.209982
+Existing_entries: 178
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Aéroport de Martinique : la Cour des comptes passe au crible la gestion de l'infrastructure](https://www.martinique.franceantilles.fr/actualite/economie/aeroport-de-martinique-la-cour-des-comptes-passe-au-crible-la-gestion-de-linfrastructure-989038.php)
+append_entries: 1
+Finish: 2024-05-30 01:17:58.273213

@@ -1909,3 +1909,39 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [« L’IA générative a brisé le plafond de verre des TPE et PME » (Y. Ferguson)](https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2024-05-29/l-ia-generative-a-brise-le-plafond-de-verre-des-tpe-et-pme-y-ferguson-998612.html)
 append_entries: 10
 Finish: 2024-05-29 12:55:19.072498
+------------------------------------------------------
+Started: 2024-05-30 01:23:21.359289
+Existing_entries: 515
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 454
+Summarized using GPT-3.5-turbo
+Append: [« Aroma-Zone n’est pas un épiphénomène, c’est une marque universelle » (Sabrina Herlory)](https://region-sud.latribune.fr/entreprises-finance/2024-05-29/aroma-zone-n-est-pas-un-epiphenomene-c-est-une-marque-universelle-sabrina-herlory-998662.html)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [La Bourse de Paris signe sa pire séance depuis le début de l'année](https://www.latribune.fr/entreprises-finance/banques-finance/industrie-financiere/la-bourse-de-paris-signe-sa-pire-seance-depuis-le-debut-de-l-annee-998661.html)
+Token length: 489
+Summarized using GPT-3.5-turbo
+Append: [Comment OOmade veut disrupter le SAV des opticiens avec l’impression 3D](https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2024-05-29/comment-oomade-veut-disrupter-le-sav-des-opticiens-avec-l-impression-3d-998652.html)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [Métro du Grand Paris : NGE, le Petit Poucet du BTP, gagne l'ultime gros contrat](https://www.latribune.fr/entreprises-finance/industrie/biens-d-equipement-btp-immobilier/metro-du-grand-paris-nge-le-petit-poucet-du-btp-gagne-l-ultime-gros-contrat-998535.html)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [Climat : avec deux ans de retard... les pays riches remplissent leur objectif d'aide annuelle aux pays pauvres](https://www.latribune.fr/climat/energie-environnement/climat-avec-deux-ans-de-retard-les-pays-riches-remplissent-leur-objectif-d-aide-annuelle-aux-pays-pauvres-998635.html)
+Token length: 347
+Summarized using GPT-3.5-turbo
+Append: [Demet'Air veut verdir les toits avec son substrat biodégradable](https://toulouse.latribune.fr/innovation/start-up/2024-05-29/demet-air-veut-verdir-les-toits-avec-son-substrat-biodegradable-998644.html)
+Token length: 484
+Summarized using GPT-3.5-turbo
+Append: [Vente de Biogaran : Gabriel Attal promet une « vigilance exceptionnelle » en cas de repreneur non-européen](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/vente-de-biogaran-gabriel-attal-promet-une-vigilance-exceptionnelle-en-cas-de-repreneur-non-europeen-998649.html)
+Token length: 573
+Summarized using GPT-3.5-turbo
+Append: [Median Technologies, cette pépite française de l’imagerie médicale qui assoit son leadership grâce à l’IA](https://region-sud.latribune.fr/entreprises-finance/2024-05-29/median-technologies-cette-pepite-francaise-de-l-imagerie-medicale-qui-assoit-son-leadership-grace-a-l-ia-998650.html)
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: [Hémorragie d’abonnés chez Altice : l’équation se complique pour Patrick Drahi](https://www.latribune.fr/technos-medias/telecoms/hemorragie-d-abonnes-chez-altice-l-equation-se-complique-pour-patrick-drahi-998639.html)
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [AI Overviews : pourquoi Google s'est tiré une balle dans le pied en intégrant l'IA à son moteur de recherche](https://www.latribune.fr/technos-medias/informatique/ai-overviews-pourquoi-google-s-est-tire-une-balle-dans-le-pied-en-integrant-l-ia-a-son-moteur-de-recherche-998641.html)
+append_entries: 10
+Finish: 2024-05-30 01:23:55.097862

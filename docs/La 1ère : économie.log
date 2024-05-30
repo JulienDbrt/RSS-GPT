@@ -1441,3 +1441,33 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Crise en Nouvelle-Calédonie : quels sont les droits et devoirs des salariés et des employeurs en cette période troublée ?](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-quels-sont-les-droits-et-devoirs-des-salaries-et-des-employeurs-en-cette-periode-troublee-1492064.html)
 append_entries: 8
 Finish: 2024-05-29 12:50:14.929449
+------------------------------------------------------
+Started: 2024-05-30 01:20:52.027786
+Existing_entries: 359
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : le gouvernement détaille ses mesures économiques](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-le-gouvernement-detaille-ses-mesures-economiques-1492361.html)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: [Jeudi 30 mai, les pharmacies de Guadeloupe tirent le rideau](https://la1ere.francetvinfo.fr/guadeloupe/jeudi-30-mai-les-pharmacies-de-guadeloupe-tirent-le-rideau-1492355.html)
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [Minute Santé. Le sucre est-il une "drogue" comme les autres ?](https://la1ere.francetvinfo.fr/minute-sante-le-sucre-est-il-une-drogue-comme-les-autres-1471176.html)
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [Agriculture à La Réunion : une extension d'irrigation à Saint-Pierre et au Tampon](https://la1ere.francetvinfo.fr/reunion/agriculture-a-la-reunion-une-extension-d-irrigation-a-saint-pierre-et-au-tampon-1492280.html)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [Air Caraïbes et Corsair : la guerre économique est déclarée entre les deux compagnies](https://la1ere.francetvinfo.fr/guadeloupe/air-caraibes-et-corsair-la-guerre-economique-est-declaree-entre-les-deux-compagnies-1492283.html)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Bras-Panon : le monde de l'entreprise s'ouvre aux jeunes Réunionnais atteints de troubles du spectre de l'autisme](https://la1ere.francetvinfo.fr/reunion/bras-panon-le-monde-de-l-entreprise-s-ouvre-aux-jeunes-reunionnais-autistes-1492229.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle-Calédonie: mesures exceptionnelles, notamment fiscales, prises par le gouvernement local](https://la1ere.francetvinfo.fr/nouvelle-caledonie-mesures-exceptionnelles-notamment-fiscales-prises-par-le-gouvernement-local-1492244.html)
+Token length: 2
+Summarized using GPT-3.5-turbo
+Append: [Des conférences sur la maladie d'Alzheimer et la méthode Carpe Diem à Saint-Pierre et Miquelon](https://la1ere.francetvinfo.fr/saintpierremiquelon/des-conferences-sur-la-maladie-d-alzheimer-et-la-methode-carpe-diem-a-saint-pierre-et-miquelon-1492019.html)
+append_entries: 8
+Finish: 2024-05-30 01:21:21.442780

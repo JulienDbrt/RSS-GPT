@@ -886,3 +886,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Réindustrialisation : les bricolages de Bercy pour avoir un bilan plus flatteur](https://www.lexpress.fr/economie/politique-economique/reindustrialisation-les-bricolages-de-bercy-pour-avoir-un-bilan-plus-flatteur-QUDKXMAXEBGL5KOQ6JAYCE4N34/)
 append_entries: 6
 Finish: 2024-05-29 12:49:27.752910
+------------------------------------------------------
+Started: 2024-05-30 01:20:38.365538
+Existing_entries: 234
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3636
+Summarized using GPT-3.5-turbo
+Append: [Arrêts maladie : la proposition choc de la Cour des comptes](https://www.lexpress.fr/economie/arrets-maladie-la-proposition-choc-de-la-cour-des-comptes-IT7UDLBWG5CLVPMHGHX43ZQANM/)
+Token length: 4303
+Summarized using GPT-3.5-turbo
+Append: [Emmanuel Macron ou la stratégie du déni, par Emmanuelle Mignon](https://www.lexpress.fr/economie/politique-economique/emmanuel-macron-ou-la-strategie-du-deni-par-emmanuelle-mignon-5PIRRBW6A5DABEL2U3YOZZ5RDA/)
+Token length: 2414
+Summarized using GPT-3.5-turbo
+Append: [La Poste a-t-elle trop de missions ? L’alerte de la Caisse des dépôts](https://www.lexpress.fr/economie/la-poste-a-t-elle-trop-de-missions-lalerte-de-la-caisse-des-depots-G3FBHKKAZJCPBM3CYXLEDMQ53U/)
+append_entries: 3
+Finish: 2024-05-30 01:20:51.470006

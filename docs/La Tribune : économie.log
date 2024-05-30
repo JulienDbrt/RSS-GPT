@@ -1423,3 +1423,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [La poussée populiste en Europe, une menace pour la transition écologique ?](https://www.latribune.fr/climat/energie-environnement/la-poussee-populiste-en-europe-une-menace-pour-la-transition-ecologique-998559.html)
 append_entries: 10
 Finish: 2024-05-29 12:54:20.095710
+------------------------------------------------------
+Started: 2024-05-30 01:23:04.728272
+Existing_entries: 353
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 376
+Summarized using GPT-3.5-turbo
+Append: [Allemagne : l'inflation remonte mais ne devrait pas perturber les plans de la BCE](https://www.latribune.fr/economie/union-europeenne/allemagne-l-inflation-remonte-mais-ne-devrait-pas-perturber-les-plans-de-la-bce-998640.html)
+Token length: 384
+Summarized using GPT-3.5-turbo
+Append: [Emploi : « Le marché du travail reste inégal, en particulier pour les femmes », constate l'Organisation internationale du travail](https://www.latribune.fr/economie/international/emploi-le-marche-du-travail-reste-inegal-en-particulier-pour-les-femmes-constate-l-organisation-internationale-du-travail-998623.html)
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: [Déclaration des biens immobiliers : un outil victime de « difficultés techniques », selon deux députés](https://www.latribune.fr/economie/france/declaration-des-biens-immobiliers-un-outil-victime-de-difficultes-techniques-selon-deux-deputes-998632.html)
+Token length: 387
+Summarized using GPT-3.5-turbo
+Append: [Hydrogène : la grande désillusion ?](https://www.latribune.fr/climat/energie-environnement/hydrogene-la-grande-desillusion-998626.html)
+append_entries: 4
+Finish: 2024-05-30 01:23:18.888319

@@ -625,3 +625,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [VIDEO. Crise en Nouvelle-Calédonie : pour circuler, choisissez entre les options taxi, vélo ou bateau](https://la1ere.francetvinfo.fr/nouvellecaledonie/video-crise-en-nouvelle-caledonie-pour-circuler-choisissez-entre-les-options-taxi-velo-ou-bateau-1492109.html)
 append_entries: 1
 Finish: 2024-05-29 12:50:21.254085
+------------------------------------------------------
+Started: 2024-05-30 01:21:21.875686
+Existing_entries: 87
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-05-30 01:21:21.907418

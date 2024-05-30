@@ -478,3 +478,15 @@ Existing_entries: 51
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-05-29 12:33:48.488377
+------------------------------------------------------
+Started: 2024-05-30 01:09:57.201376
+Existing_entries: 51
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [Fraudes au compteur Linky : la vérité sur ces offres alléchantes](https://www.presse-citron.net/linky-pourquoi-trafiquer-votre-compteur-est-la-pire-idee-qui-soit/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Compteur Linky : vers une limitation temporaire de puissance chez les particuliers pour faire baisser la consommation ?](https://www.ladepeche.fr/2024/05/29/compteur-linky-vers-une-limitation-temporaire-de-puissance-chez-les-particuliers-pour-faire-baisser-la-consommation-11978876.php)
+append_entries: 2
+Finish: 2024-05-30 01:10:04.277960

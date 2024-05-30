@@ -495,3 +495,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Kad Merad escroqué d'1,5 million d'euros en Saône-et-Loire ? Ce que l'on sait de l'affaire](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/kad-merad-escroque-d-1-5-million-d-euros-en-saone-et-loire-ce-que-l-on-sait-de-l-affaire-2976707.html)
 append_entries: 2
 Finish: 2024-05-29 12:48:08.675351
+------------------------------------------------------
+Started: 2024-05-30 01:19:53.366692
+Existing_entries: 57
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-05-30 01:19:56.086972

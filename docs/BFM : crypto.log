@@ -597,3 +597,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [300.000 dollars en cryptomonnaies évaporés en quelques secondes: qu’est-ce que les “cryptos drainers" et comment s’en protéger?](https://www.bfmtv.com/crypto/300-000-dollars-en-cryptomonnaies-evapores-en-quelques-secondes-qu-est-ce-que-les-cryptos-drainers-et-comment-s-en-proteger_AN-202405290056.html)
 append_entries: 1
 Finish: 2024-05-29 12:41:01.137060
+------------------------------------------------------
+Started: 2024-05-30 01:15:13.411310
+Existing_entries: 91
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [Revirement politique aux USA : quel impact pour la France et l’Europe ?](https://www.bfmtv.com/crypto/revirement-politique-aux-usa-quel-impact-pour-la-france-et-l-europe_VL-202405290598.html)
+append_entries: 1
+Finish: 2024-05-30 01:15:16.381642

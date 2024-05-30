@@ -573,3 +573,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les jeunes et le travail : "sans garantie d'une carrière, ils ne se sentent plus redevables envers leur entreprise"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/les-jeunes-et-le-travail-sans-garantie-d-une-carriere-ils-ne-se-sentent-plus-redevables-envers-leur-entreprise-2976224.html)
 append_entries: 2
 Finish: 2024-05-29 12:47:32.964733
+------------------------------------------------------
+Started: 2024-05-30 01:19:36.915066
+Existing_entries: 83
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-30 01:19:37.148745

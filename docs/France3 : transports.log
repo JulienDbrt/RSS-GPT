@@ -1259,3 +1259,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [L'arrivée de nouveaux chauffeurs Uber à Poitiers agace les taxis](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/l-arrivee-de-nouveaux-chauffeurs-uber-a-poitiers-agace-les-taxis-2976956.html)
 append_entries: 4
 Finish: 2024-05-29 12:48:32.350827
+------------------------------------------------------
+Started: 2024-05-30 01:19:56.247673
+Existing_entries: 312
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [A89 : accident mortel sur l'axe Bordeaux-Clermont, à hauteur de Gimel-les-Cascades](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/brive/a89-accident-mortel-sur-l-axe-bordeaux-clermont-a-hauteur-de-gimel-les-cascades-2977646.html)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Bus de nuit, horaires prolongés... Comment la RTM va renforcer ses lignes de transports en commun à Marseille](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/bus-de-nuit-horaires-prolonges-comment-la-rtm-va-renforcer-ses-lignes-de-transports-en-commun-2977550.html)
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [TEMOIGNAGE. Bloqués par les violences en Nouvelle-Calédonie, des touristes français racontent la galère pour rentrer chez eux](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/temoignage-bloques-par-les-violences-en-nouvelle-caledonie-des-touristes-francais-racontent-la-galere-pour-rentrer-chez-eux-2977256.html)
+append_entries: 3
+Finish: 2024-05-30 01:20:08.373798

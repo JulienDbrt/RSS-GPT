@@ -636,3 +636,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Bombardements israéliens à Rafah : périphérique bloqué, gaz lacrymogènes, nouvelle soirée de manifestation pour soutenir la Palestine à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/bombardements-israeliens-a-rafah-peripherique-bloque-gaz-lacrymogenes-nouvelle-soiree-de-manifestation-pour-soutenir-la-palestine-a-paris-2977016.html)
 append_entries: 1
 Finish: 2024-05-29 12:46:33.905569
+------------------------------------------------------
+Started: 2024-05-30 01:19:23.895653
+Existing_entries: 104
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Formation en alternance : trouver un employeur, un parcours du combattant pour les étudiants](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/formation-en-alternance-trouver-un-employeur-un-parcours-du-combattant-pour-les-etudiants-2977526.html)
+append_entries: 1
+Finish: 2024-05-30 01:19:27.455205

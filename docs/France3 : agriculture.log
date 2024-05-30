@@ -1041,3 +1041,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Le grand hamster en danger : une association dépose deux plaintes contre l'État français](https://france3-regions.francetvinfo.fr/grand-est/alsace/le-grand-hamster-en-danger-une-association-depose-deux-plaintes-contre-l-etat-francais-2976185.html)
 append_entries: 5
 Finish: 2024-05-29 12:47:03.237971
+------------------------------------------------------
+Started: 2024-05-30 01:19:27.576743
+Existing_entries: 239
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 429
+Summarized using GPT-3.5-turbo
+Append: [Près de Nice, 700 animaux saisis dans un abattoir dont l'agrément avant l'Aïd-el-Kébir n'a pas été renouvelé](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/pres-de-nice-700-animaux-saisis-dans-un-abattoir-dont-l-agrement-avant-l-aid-el-kebir-n-a-pas-ete-renouvele-2977253.html)
+append_entries: 1
+Finish: 2024-05-30 01:19:33.020356

@@ -609,3 +609,15 @@ Existing_entries: 95
 Fetching from https://www.bfmtv.com/rss/auto/
 append_entries: 0
 Finish: 2024-05-29 12:40:54.568781
+------------------------------------------------------
+Started: 2024-05-30 01:14:48.175313
+Existing_entries: 95
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [L'Union européenne va repousser après les élections sa décision sur les véhicules électriques chinois](https://www.bfmtv.com/auto/l-union-europeenne-va-repousser-apres-les-elections-sa-decision-sur-les-vehicules-electriques-chinois_AV-202405290900.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [En pilotage automatique, une Tesla roule sans s'arrêter vers un train en mouvement](https://www.bfmtv.com/auto/en-pilotage-automatique-une-tesla-roule-sans-s-arreter-vers-un-train-en-mouvement_AV-202405290622.html)
+append_entries: 2
+Finish: 2024-05-30 01:14:52.413704

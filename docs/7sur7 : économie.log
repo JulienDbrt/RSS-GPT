@@ -732,3 +732,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Les jobistes à l’année représentent désormais plus de 70.000 équivalents temps plein](https://www.7sur7.be/economie/les-jobistes-a-lannee-representent-desormais-plus-de-70-000-equivalents-temps-plein~a575869a/)
 append_entries: 6
 Finish: 2024-05-29 12:39:43.818947
+------------------------------------------------------
+Started: 2024-05-30 01:13:37.536021
+Existing_entries: 136
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Le marché de l'emploi bruxellois s'est amélioré en 2023 : découvrez les chiffres](https://www.7sur7.be/belgique/le-marche-de-l-emploi-bruxellois-s-est-ameliore-en-2023-decouvrez-les-chiffres~ae21584b/)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [Mestdagh et Intermarché Belgique fusionnent, 33 postes pourraient être supprimés](https://www.7sur7.be/economie/mestdagh-et-intermarche-belgique-fusionnent-33-postes-pourraient-etre-supprimes~ab861861/)
+append_entries: 2
+Finish: 2024-05-30 01:13:45.696166

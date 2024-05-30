@@ -680,3 +680,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Epicerie de luxe : Croquée par la biscuiterie Galapagos, Fauchon prend l’accent breton](https://www.20minutes.fr/tempo/food/4093412-20240529-croquee-biscuiterie-galapagos-epicerie-luxe-fauchon-prend-accent-breton)
 append_entries: 1
 Finish: 2024-05-29 12:39:09.339275
+------------------------------------------------------
+Started: 2024-05-30 01:13:32.117807
+Existing_entries: 112
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Le retour de l’optimisme ? Le moral des ménages est resté stable en mai](https://www.20minutes.fr/economie/4093519-20240529-retour-optimisme-moral-menages-reste-stable-mai)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Prêt-à-porter : Pimkie placée en procédure de sauvegarde après 2 plans sociaux en 2 ans](https://www.20minutes.fr/economie/4093558-20240529-pimkie-placee-procedure-sauvegarde-apres-2-plans-sociaux-2-ans)
+append_entries: 2
+Finish: 2024-05-30 01:13:37.467281

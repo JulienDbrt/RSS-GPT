@@ -757,3 +757,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Prêt pour le rallye de l’emploi](https://www.ladepeche.fr/2024/05/29/pret-pour-le-rallye-de-lemploi-11980423.php)
 append_entries: 6
 Finish: 2024-05-29 12:51:57.800961
+------------------------------------------------------
+Started: 2024-05-30 01:22:16.449524
+Existing_entries: 141
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Gastro’Mômes 2024 : le chef Thierry Marx donne le coup d’envoi du concours de cuisine des collégiens gersois](https://www.ladepeche.fr/2024/05/29/gastromomes-2024-le-chef-thierry-marx-donne-le-coup-denvoi-du-concours-de-cuisine-des-collegiens-gersois-11981307.php)
+append_entries: 1
+Finish: 2024-05-30 01:22:18.712914

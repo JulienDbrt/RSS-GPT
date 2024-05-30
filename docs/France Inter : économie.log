@@ -734,3 +734,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Biden dans le piège de l’économie](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-mercredi-29-mai-2024-1616492)
 append_entries: 3
 Finish: 2024-05-29 12:45:50.687090
+------------------------------------------------------
+Started: 2024-05-30 01:18:36.105320
+Existing_entries: 130
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-05-30 01:18:36.460441

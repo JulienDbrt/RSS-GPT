@@ -593,3 +593,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Trois accidents en état d’ivresse en six mois, l’échevin Pierre Mévisse (Lasne) assume : "Je ne suis pas fier du tout"](https://www.lalibre.be/belgique/mobilite/2024/05/29/trois-accidents-en-etat-divresse-en-six-mois-lechevin-pierre-mevisse-lasne-assume-je-ne-suis-pas-fier-du-tout-CAG4CGA4TZEXXPV3Q7EWRA5JIA/)
 append_entries: 3
 Finish: 2024-05-29 12:53:21.024259
+------------------------------------------------------
+Started: 2024-05-30 01:22:56.253207
+Existing_entries: 109
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Travaux sur les voies : voici les trains concernés par une interruption de circulation cet été](https://www.lalibre.be/belgique/mobilite/2024/05/29/travaux-sur-les-voies-voici-les-trains-concernes-par-une-interruption-de-circulation-cet-ete-YVWBQUN7DBB7FE43U75VUHEJ4Q/)
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [La TEC annonce une grève sur son réseau en juin](https://www.lalibre.be/belgique/mobilite/2024/05/29/la-tec-annonce-une-greve-sur-son-reseau-en-juin-JOXKNOYPOFFUPDYTNEYWEM6CAI/)
+append_entries: 2
+Finish: 2024-05-30 01:23:04.541186

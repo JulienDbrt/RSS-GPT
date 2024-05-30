@@ -859,3 +859,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [RansomLord v3 – Un outil open source qui exploite les failles des ransomwares](https://korben.info/ransomlord-v3-outil-anti-rancongiciel-open-source-exploite-failles.html)
 append_entries: 3
 Finish: 2024-05-29 12:34:07.392376
+------------------------------------------------------
+Started: 2024-05-30 01:10:04.766868
+Existing_entries: 167
+Fetching from https://korben.info/feed
+Token length: 1313
+Summarized using GPT-3.5-turbo
+Append: [FlowTunes – Des heures de musiques IA de qualité pour rester concentré dans votre flow quotidien](https://korben.info/flowtunes-musique-ia-booster-flow-productivite.html)
+append_entries: 1
+Finish: 2024-05-30 01:10:09.751639

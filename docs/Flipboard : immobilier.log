@@ -1437,3 +1437,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Taxer les riches, salaire minimum,... : ce que veulent nos différents partis politiques au niveau de la fiscalité et du pouvoir d’achat (COMPARATIF)](https://www.dhnet.be/actu/elections-belges/2024/05/29/taxer-les-riches-salaire-minimum-ce-que-veulent-nos-differents-partis-politiques-au-niveau-de-la-fiscalite-et-du-pouvoir-dachat-comparatif-RIC2XO6XHBDNNPJ7EGV7TW53GA/)
 append_entries: 5
 Finish: 2024-05-29 12:33:46.631282
+------------------------------------------------------
+Started: 2024-05-30 01:09:43.674269
+Existing_entries: 433
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière : voici à partir de quel âge vous pouvez être totalement exonéré (de sacrées économies à la clé)](https://www.aufeminin.com/news-societe/taxe-fonciere-voici-a-partir-de-quel-age-vous-pouvez-etre-totalement-exonere-de-sacrees-economies-a-la-cle-s4086108.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Voici les villes les plus abordables au Canada en 2024; y déménagerez-vous?](https://www.noovo.info/nouvelle/demenager-pour-economiser-sur-sa-propriete-la-solution-en-2024.html)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Pour payer ses amendes, Donald Trump se sépare de l’un des jets privés](https://www.parismatch.com/actu/international/pour-payer-ses-amendes-donald-trump-se-separe-de-lun-des-jets-prives-238017)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Impôts : les ratés de la déclaration des biens immobiliers](https://www.lesechos.fr/economie-france/budget-fiscalite/impots-les-rates-de-la-declaration-des-biens-immobiliers-2097910)
+append_entries: 4
+Finish: 2024-05-30 01:09:57.178142

@@ -676,3 +676,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Taxe d'habitation: les erreurs du fisc ont coûté 724 millions d'euros en trop aux contribuables](https://www.bfmtv.com/immobilier/fiscalite/taxe-d-habitation-les-erreurs-du-fisc-ont-coute-724-millions-d-euros-en-trop-aux-contribuables_AV-202405290262.html)
 append_entries: 2
 Finish: 2024-05-29 12:42:41.492387
+------------------------------------------------------
+Started: 2024-05-30 01:16:39.546746
+Existing_entries: 130
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-05-30 01:16:39.643537
