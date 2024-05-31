@@ -5,13 +5,52 @@
 <link>https://korben.info</link>
 
 <item>
+<title>APISR – Upscaling d’animes en temps réel</title>
+<link>https://korben.info/apisr-ia-revolutionnaire-upscaling-anime-temps-reel.html</link>
+<guid>https://korben.info/apisr-ia-revolutionnaire-upscaling-anime-temps-reel.html</guid>
+<content:encoded><![CDATA[
+<div> Club Dorothée, animes, APISR, remasteriser, fans <br>
+<br>
+Summary: <br>
+Le projet APISR permet de remasteriser les animes classiques en améliorant leur qualité graphique grâce à des techniques inspirées de la production d'animes. En sélectionnant les frames les plus riches en informations, APISR élimine les artéfacts de dégradation et améliore les dessins pour offrir aux fans la possibilité de redécouvrir leurs animes préférés avec une qualité digne des productions actuelles. Les résultats sont impressionnants et les amateurs pourront profiter de ces versions remasterisées en temps réel. Bien que les outils pour visionner ces versions remasterisées ne soient pas encore disponibles, les fans peuvent d'ores et déjà tester APISR pour se plonger dans l'univers des animes de leur jeunesse avec une toute nouvelle perspective. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_anime_manga_80s_with_logo_text_APISR_604abb58-37ea-44f5-9ba8-1969f51e6c2c.png" width="1456" /></p>
+<p>Comme beaucoup d&rsquo;entre vous, j&rsquo;ai été élévé au Club Dorothée et malheureusement, en 2024, tous ces animés de notre enfance, de Goldorak aux Chevaliers du Zodiaque, en passant par Nicky Larson, ont quand même mal vieilli. Ah si seulement, on pouvait les améliorer pour les remettre graphiquement au goût du jour&#8230; Et bien bonne nouvelle, c&rsquo;est possible grâce au projet <strong>APISR</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1092836469" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Cet outil utilise différentes techniques directement inspirées du processus de production des animes afin de proposer un upscaling vraiment spécialisé pour ce type de vidéos. APISR sélectionne ainsi les frames les moins compressées et les plus riches en informations pour en faire un dataset qui servira alors à améliorer les images, en éliminant les artéfacts de dégradation et en retravaillant les lignes déformées ou estompées des dessins.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158182" height="417" src="https://korben.info/app/uploads/2024/04/workflow-1024x417.jpg" width="1024" /></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158177" height="749" src="https://korben.info/app/uploads/2024/04/SCR-20240401-pxuv.webp" width="1000" /></figure></div>
+
+
+<p>Et le résultat est bluffant comme vous pouvez le voir ici <a href="https://github.com/Kiteretsu77/APISR?tab=readme-ov-file" rel="noopener" target="_blank">sur la démo</a>. C&rsquo;est génial puisque les fans d&rsquo;animes vont pouvoir revoir les classiques de leur jeunesse avec une qualité digne des meilleures productions actuelles, le tout en temps réel. </p>
+
+
+
+<figure class="wp-block-image size-full"><img alt="" class="wp-image-158178" height="473" src="https://korben.info/app/uploads/2024/04/SCR-20240401-pxbt.webp" width="1000" /></figure>
+
+
+
+<p>En attendant de voir ces versions remasterisées grâce à des players ou des outils qui n&rsquo;existent pas encore, vous pouvez déjà tester APISR grâce <a href="https://github.com/Kiteretsu77/APISR" rel="noopener" target="_blank">au code source disponible sur GitHub</a> ou via <a href="https://huggingface.co/spaces/HikariDawn/APISR" rel="noopener" target="_blank">Huggingface</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>QuickTune – Un mini player Apple Music qui ressuscite QuickTime</title>
 <link>https://korben.info/quicktune-mini-player-apple-music-ressuscite-quicktime.html</link>
 <guid>https://korben.info/quicktune-mini-player-apple-music-ressuscite-quicktime.html</guid>
 <content:encoded><![CDATA[
 <div> QuickTune, mini lecteur, Apple Music, macOS, interface iconique
 Summary:
-QuickTune est un mini lecteur pour Apple Music inspiré de l'interface iconique de QuickTime. Développé à Copenhague, il offre une expérience vintage tout en se connectant à votre bibliothèque Apple Music. Malgré son design rétro, QuickTune propose des fonctionnalités pratiques telles que l'affichage des pochettes d'album, une vue détaillée des informations sur les morceaux et la gestion des playlists. Écrit en Swift + AppKit, il est compatible avec macOS Big Sur et versions ultérieures, fonctionnant sur les processeurs Apple Silicon et Intel. Disponible dans plusieurs langues, QuickTune offre un bel hommage à QuickTime tout en étant une application bien pensée pour les utilisateurs d'Apple Music. Les nostalgiques des lecteurs multimédias des années 90 apprécieront cette expérience unique proposée par QuickTune. <br><br>Summary: <div>
+QuickTune est un mini lecteur pour Apple Music inspiré de l'interface iconique de QuickTime. Développé à Copenhague, il offre une expérience vintage tout en se connectant à votre bibliothèque Apple Music. Malgré son design rétro, QuickTune propose des fonctionnalités pratiques telles que l'affichage des pochettes d'album, une vue détaillée des informations sur les morceaux et la gestion des playlists. Écrit en Swift + AppKit, il est compatible avec macOS Big Sur et versions ultérieures, fonctionnant sur les processeurs Apple Silicon et Intel. Disponible dans plusieurs langues, QuickTune offre un bel hommage à QuickTime tout en étant une application bien pensée pour les utilisateurs d'Apple Music. Les nostalgiques des lecteurs multimédias des années 90 apprécieront cette expérience unique proposée par QuickTune. <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="536" src="https://korben.info/app/uploads/2024/05/SCR-20240530-oj3.webp" width="1465" /></p>
 <p>Développé à Copenhague, <a href="https://marioaguzman.github.io/quicktune/" rel="noopener" target="_blank">QuickTune</a> est un mini lecteur pour Apple Music dispo sur macOS et qui adopte l’interface iconique de <strong>QuickTime</strong>.</p>
 
@@ -48,15 +87,14 @@ QuickTune est un mini lecteur pour Apple Music inspiré de l'interface iconique 
 <p>Bref, je vous invite à jeter un œil à <a href="https://marioaguzman.github.io/quicktune/" rel="noopener" target="_blank">QuickTune</a> car c&rsquo;est un bel hommage à ce lecteur culte, et également une application bien pensée pour profiter de votre musique Apple Music.</p>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 15:40:40 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 15:40:40 +0000</pubDate>
 </item>
 <item>
 <title>Outline VPN – Le logiciel libre pour contourner la censure sur Internet</title>
 <link>https://korben.info/outline-vpn-logiciel-libre-contourner-censure-internet.html</link>
 <guid>https://korben.info/outline-vpn-logiciel-libre-contourner-censure-internet.html</guid>
 <content:encoded><![CDATA[
-<div> application, confidentialité, sécurité, liberté, réseaux<br>
-<br>
+<div> application, confidentialité, sécurité, liberté, réseaux<br />
+<br />
 Summary:
 Outline est un logiciel libre et open source permettant de contourner la censure en ligne. Il offre la possibilité de créer un serveur VPN personnalisé, partageable avec des amis. La solution assure la sécurité et la confidentialité des données, vérifiée par des audits indépendants. Avec Outline, les utilisateurs peuvent naviguer sur Internet en toute liberté, sans craindre d'être surveillés. Un guide étape par étape est fourni pour faciliter l'installation et la configuration du serveur. Les clés d'accès uniques générées permettent aux utilisateurs de se connecter au serveur Outline depuis divers appareils. Les développeurs peuvent également utiliser le SDK Outline pour intégrer des stratégies de mise en réseau avancées dans leurs applications. En somme, Outline est une solution pratique et efficace pour garantir une navigation sécurisée et libre sur le web. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="427" src="https://korben.info/app/uploads/2024/05/SCR-20240530-nt9.webp" width="1415" /></p>
@@ -125,16 +163,15 @@ Outline est un logiciel libre et open source permettant de contourner la censure
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Merci à Lorenper pour l&rsquo;info sur cet outil !</p>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 15:23:25 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 15:23:25 +0000</pubDate>
 </item>
 <item>
 <title>FrankenPHP – Le serveur PHP surpuissant écrit en Go</title>
 <link>https://korben.info/frankenphp-serveur-php-surpuissant-kevin-dunglas.html</link>
 <guid>https://korben.info/frankenphp-serveur-php-surpuissant-kevin-dunglas.html</guid>
 <content:encoded><![CDATA[
-<div> Dunglas, PHP, serveur d'applications, performance, Go <br>
-<br>
-Summary: <br>
+<div> Dunglas, PHP, serveur d'applications, performance, Go <br />
+<br />
+Summary: <br />
 FrankenPHP, développé par le français Kévin Dunglas, est un serveur d'applications PHP moderne en Go qui promet d'optimiser les projets PHP tels que Laravel, Symfony, Drupal, WordPress, Sulu et API Platform. Il offre des fonctionnalités avancées comme les Early Hints, la prise en charge d'HTTP/2 et HTTP/3, la compression Brotli, Zstandard et Gzip, les logs structurés, le support de Prometheus, et même du temps réel. Le serveur PHP ne nécessite qu'un seul service et un seul binaire, fonctionne sans PHP-FPM, peut être déployé facilement en tant qu'application Cloud Native via Docker, et est compatible avec Kubernetes et les plateformes Cloud modernes. Il prend en charge le déploiement de l'application PHP comme un binaire statique autonome et auto-exécutable. Avec une configuration simple, il offre des performances améliorées et une gestion automatique de l'HTTPS. Dunglas a créé un serveur innovant qui pourrait révolutionner l'écosystème PHP. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="629" src="https://korben.info/app/uploads/2024/05/SCR-20240530-kx9.webp" width="1699" /></p>
 <p>Concocté par le français <strong>Kévin Dunglas</strong>, contributeur de longue date à l&rsquo;écosystème PHP et membre de la Core Team Symfony, <a href="https://frankenphp.dev/fr/" rel="noopener" target="_blank"><strong>FrankenPHP</strong></a> va peut-être dépoussiérer un peu votre bon vieux serveur LAMP tout fatigué.</p>
@@ -220,9 +257,7 @@ localhost {
 <p>En tout cas, <a href="https://frankenphp.dev/fr/" rel="noopener" target="_blank">c&rsquo;est à tester</a> ! Bravo Kévin, j&rsquo;ai hâte de voir comment ça va évoluer pour la suite !</p>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 13:04:23 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 13:04:23 +0000</pubDate>
 </item>
-
 <item>
 <title>ReverserAI – Du Reverse Engineering à base d’IA</title>
 <link>https://korben.info/reverserai-ia-ingenierie-inverse-revolutionnaire.html</link>

@@ -636,3 +636,12 @@ Summarized using GPT-3.5-turbo
 Append: [Etats-Unis: au premier trimestre, la croissance ralentit plus qu'initialement annoncé](https://www.bfmtv.com/economie/international/etats-unis-au-premier-trimestre-la-croissance-ralentit-plus-qu-initialement-annonce_AN-202405300577.html)
 append_entries: 2
 Finish: 2024-05-31 01:14:18.564970
+------------------------------------------------------
+Started: 2024-05-31 12:34:40.360269
+Existing_entries: 98
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Chine: contraction de l'activité manufacturière en mai](https://www.bfmtv.com/economie/international/chine-contraction-de-l-activite-manufacturiere-en-mai_AD-202405310164.html)
+append_entries: 1
+Finish: 2024-05-31 12:34:42.135313

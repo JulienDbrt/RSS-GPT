@@ -594,3 +594,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Ils se font passer pour le patron", comment l'arnaque au président est devenue la bête noire des entreprises](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/ils-se-font-passer-pour-le-patron-comment-l-arnaque-au-president-est-devenue-la-bete-noire-des-entreprises-2977955.html)
 append_entries: 1
 Finish: 2024-05-31 01:17:58.444643
+------------------------------------------------------
+Started: 2024-05-31 12:40:25.667911
+Existing_entries: 84
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-05-31 12:40:25.962967

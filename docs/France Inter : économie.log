@@ -767,3 +767,18 @@ Summarized using GPT-3.5-turbo
 Append: [Entreprendre au féminin](https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-18-20-le-telephone-sonne-du-jeudi-30-mai-2024-8960283)
 append_entries: 1
 Finish: 2024-05-31 01:17:01.598799
+------------------------------------------------------
+Started: 2024-05-31 12:38:56.813176
+Existing_entries: 135
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Dominique Seux x Thomas Porcher](https://www.radiofrance.fr/franceinter/podcasts/le-debat-economique/le-debat-eco-du-vendredi-31-mai-2024-7736608)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Assurance vie, mode d'emploi](https://www.radiofrance.fr/franceinter/podcasts/esprit-pratique/esprit-pratique-du-vendredi-31-mai-2024-5850700)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [Le 5/6 de Marion L'Hour](https://www.radiofrance.fr/franceinter/podcasts/le-5-6/le-5-6-du-vendredi-31-mai-2024-9102302)
+append_entries: 3
+Finish: 2024-05-31 12:39:08.283482

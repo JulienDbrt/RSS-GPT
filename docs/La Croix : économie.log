@@ -794,3 +794,15 @@ Summarized using GPT-3.5-turbo
 Append: [Dette : Emmanuel Macron a-t-il « cramé la caisse » ?](https://www.la-croix.com/economie/dette-emmanuel-macron-a-t-il-crame-la-caisse-20240530)
 append_entries: 1
 Finish: 2024-05-31 01:20:10.136142
+------------------------------------------------------
+Started: 2024-05-31 12:42:49.953729
+Existing_entries: 164
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [Européennes 2024 : sur la défense, un renforcement en ordre dispersé](https://www.la-croix.com/economie/europeennes-2024-sur-la-defense-un-renforcement-en-ordre-disperse-20240531)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire : Macron annonce que les turbines de GE repassent sous pavillon français](https://www.la-croix.com/nucleaire-les-turbines-arabelle-reviennent-finalement-dans-le-giron-francais-20240530)
+append_entries: 2
+Finish: 2024-05-31 12:42:57.438513

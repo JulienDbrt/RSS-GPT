@@ -616,3 +616,15 @@ Summarized using GPT-3.5-turbo
 Append: [Compagnies aériennes canadiennes au bas du classement: «Le manque de compétition ne pousse pas les lignes à s’améliorer»](https://www.journaldemontreal.com/2024/05/29/compagnies-aeriennes-canadiennes-au-bas-du-classement-le-manque-de-competition-ne-pousse-pas-les-lignes-a-sameliorer)
 append_entries: 4
 Finish: 2024-05-31 01:18:25.294552
+------------------------------------------------------
+Started: 2024-05-31 12:41:16.384034
+Existing_entries: 80
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Ce condiment pourrait prévenir une allergie, s'il est consommé dès un jeune âge, selon une étude](https://www.journaldemontreal.com/2024/05/30/ce-condiment-pourrait-prevenir-une-allergie-si-consomme-a-un-jeune-age-selon-une-etude)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Alerte de Nissan: attention, ne conduisez pas ces modèles de voiture](https://www.journaldemontreal.com/2024/05/30/alerte-de-nissan-attention-ne-conduisez-pas-ces-modeles-de-voiture)
+append_entries: 2
+Finish: 2024-05-31 12:41:27.328533

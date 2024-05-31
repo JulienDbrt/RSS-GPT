@@ -706,3 +706,15 @@ Summarized using GPT-3.5-turbo
 Append: [Taxe d'habitation: comment savoir si je paie trop et comment récupérer mon argent](https://www.bfmtv.com/immobilier/fiscalite/taxe-d-habitation-comment-savoir-si-je-paie-trop-et-comment-recuperer-mon-argent_AV-202405300791.html)
 append_entries: 1
 Finish: 2024-05-31 01:15:08.611987
+------------------------------------------------------
+Started: 2024-05-31 12:36:57.461008
+Existing_entries: 134
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: ["Le cauchemar recommence pour six mois": comment les mairies luttent contre les moustiques-tigres](https://www.bfmtv.com/immobilier/le-cauchemar-recommence-pour-6-mois-comment-les-mairies-luttent-contre-les-moustiques-tigres_AV-202405310511.html)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Le Sénat enterre l'idée d'une meilleure indemnisation des victimes de retrait-gonflement des sols](https://www.bfmtv.com/immobilier/renovation-travaux/le-senat-enterre-l-idee-d-une-meilleure-indemnisation-des-victimes-de-retrait-gonflement-des-sols_AD-202405310286.html)
+append_entries: 2
+Finish: 2024-05-31 12:37:07.245459

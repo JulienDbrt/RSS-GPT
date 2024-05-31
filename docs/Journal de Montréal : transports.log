@@ -624,3 +624,18 @@ Summarized using GPT-3.5-turbo
 Append: [Des travaux tout partout à Montréal](https://www.journaldemontreal.com/2024/05/30/des-travaux-tout--partout)
 append_entries: 6
 Finish: 2024-05-31 01:18:51.439278
+------------------------------------------------------
+Started: 2024-05-31 12:41:27.372228
+Existing_entries: 84
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [La hausse de 154% sur l’immatriculation «va contribuer à détruire la classe moyenne», dénonce le maire de St-Bruno-de-Montarville](https://www.journaldemontreal.com/2024/05/30/la-hausse-de-154-sur-limmatriculation-va-contribuer-a-detruire-la-classe-moyenne-denonce-le-maire-de-st-bruno-de-montarville)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [VIA Rail: des passagers coincés pendant plus de cinq heures](https://www.journaldemontreal.com/2024/05/30/via-rail--des-passagers-coinces-pendant-plus-de-cinq-heures)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Travaux, funérailles et tours de vélo: un casse-tête à venir pour les automobilistes à Montréal](https://www.journaldemontreal.com/2024/05/30/travaux-funerailles-et-tours-de-velo-un-casse-tete-a-venir-pour-les-automobilistes-a-montreal)
+append_entries: 3
+Finish: 2024-05-31 12:41:35.361890

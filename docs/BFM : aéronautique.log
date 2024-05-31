@@ -549,3 +549,18 @@ Existing_entries: 69
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
 append_entries: 0
 Finish: 2024-05-31 01:14:26.766541
+------------------------------------------------------
+Started: 2024-05-31 12:34:56.710678
+Existing_entries: 69
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Airbus fait face à de nouvelles tensions sur la production à cause de pénuries de pièces](https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-fait-face-a-de-nouvelles-tensions-sur-la-production-a-cause-de-penuries-de-pieces_AV-202405310529.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Boeing: l'avionneur présente un plan d'action pour résoudre ses problèmes de production](https://www.bfmtv.com/economie/entreprises/aeronautique/boeing-l-avionneur-presente-un-plan-d-action-pour-resoudre-ses-problemes-de-production_AD-202405310082.html)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Meilleures compagnies aériennes de la planète: voici le classement](https://www.bfmtv.com/economie/entreprises/aeronautique/meilleures-compagnies-aeriennes-de-la-planete-voici-le-classement_AV-202405300648.html)
+append_entries: 3
+Finish: 2024-05-31 12:35:07.480815

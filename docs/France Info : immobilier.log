@@ -560,3 +560,9 @@ Summarized using GPT-3.5-turbo
 Append: [Maisons fissurées : une application pour évaluer le niveau de risque](https://www.francetvinfo.fr/economie/immobilier/maisons-fissurees-une-application-pour-evaluer-le-niveau-de-risque_6574859.html)
 append_entries: 1
 Finish: 2024-05-31 01:16:58.592254
+------------------------------------------------------
+Started: 2024-05-31 12:38:56.223456
+Existing_entries: 66
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-05-31 12:38:56.364281

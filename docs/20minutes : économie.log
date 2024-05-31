@@ -710,3 +710,15 @@ Summarized using GPT-3.5-turbo
 Append: [Seine-Maritime : Les salariés d’un site ExxonMobil mobilisés contre la suppression de 677 emplois](https://www.20minutes.fr/economie/4093685-20240530-seine-maritime-salaries-site-exxonmobil-mobilises-contre-suppression-677-emplois)
 append_entries: 2
 Finish: 2024-05-31 01:13:28.173285
+------------------------------------------------------
+Started: 2024-05-31 12:33:40.092018
+Existing_entries: 116
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Bouches-du-Rhône : Le site Ascometal de Fos-sur-Mer est sauvé, la reprise validée](https://www.20minutes.fr/economie/4093911-20240531-bouches-rhone-site-ascometal-fos-mer-sauve-reprise-validee)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Travail : La réforme de l’assurance-chômage va-t-elle détruire l’emploi saisonnier ?](https://www.20minutes.fr/economie/4093527-20240531-travail-reforme-assurance-chomage-va-detruire-emploi-saisonnier)
+append_entries: 2
+Finish: 2024-05-31 12:33:48.437661

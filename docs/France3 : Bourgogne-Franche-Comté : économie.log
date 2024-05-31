@@ -702,3 +702,21 @@ Summarized using GPT-3.5-turbo
 Append: [Runjob, une course à l'emploi unique en France : "Le CV est secondaire, c'est le savoir-faire qui prime"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/runjob-une-course-a-l-emploi-unique-en-france-le-cv-est-secondaire-c-est-le-savoir-faire-qui-prime-2977994.html)
 append_entries: 2
 Finish: 2024-05-31 01:17:54.313665
+------------------------------------------------------
+Started: 2024-05-31 12:40:11.609894
+Existing_entries: 120
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: ["C'est une excellente nouvelle" pour Belfort : entre soulagement et interrogations, les réactions après le rachat des activités nucléaires de GE par EDF](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/belfort/c-est-une-excellente-nouvelle-pour-belfort-entre-soulagement-et-interrogations-les-reactions-apres-le-rachat-des-activites-nucleaires-de-ge-par-edf-2978336.html)
+Token length: 347
+Summarized using GPT-3.5-turbo
+Append: ["Dans cinq ans, elle aura disparu" : inquiétudes autour de la ligne SNCF des Hirondelles, joyau ferroviaire du Haut-Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/dole/dans-cinq-ans-elle-aura-disparu-inquietudes-autour-de-la-ligne-sncf-des-hirondelles-joyau-ferroviaire-du-haut-jura-2978012.html)
+Token length: 509
+Summarized using GPT-3.5-turbo
+Append: [Rachat de la branche nucléaire de General Electric par EDF : quelles conséquences pour Belfort ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/belfort/rachat-de-la-branche-nucleaire-de-general-electric-par-edf-quelles-consequences-pour-belfort-2978315.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Chez SEB, les friteuses électriques Actifry se vendent moins bien : le site d'Is-sur-Tille menacé ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/chez-seb-les-friteuses-electriques-actifry-se-vendent-moins-bien-le-site-d-is-sur-tille-menace-2978162.html)
+append_entries: 4
+Finish: 2024-05-31 12:40:25.625854

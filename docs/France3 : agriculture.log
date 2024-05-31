@@ -1086,3 +1086,18 @@ Summarized using GPT-3.5-turbo
 Append: [L'identification d'un 5e loup gris dans un département du Sud de la France confirme que ce territoire est un front de colonisation](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/l-identification-d-un-5e-loup-gris-dans-un-departement-du-sud-de-la-france-confirme-que-ce-territoire-est-un-front-de-colonisation-2978180.html)
 append_entries: 2
 Finish: 2024-05-31 01:17:46.948207
+------------------------------------------------------
+Started: 2024-05-31 12:40:00.731283
+Existing_entries: 248
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [Pluies abondantes : "Rien n'a fonctionné cette année", les maraîchers et arboriculteurs inquiets face au retard des récoltes](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/pluies-abondantes-rien-n-a-fonctionne-cette-annee-les-maraichers-et-arboriculteurs-inquiets-face-au-retard-des-recoltes-2978414.html)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Un arboriculteur mis en examen pour homicide involontaire après la mort d'un de ses ouvriers en août 2023](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/un-arboriculteur-mis-en-examen-pour-homicide-involontaire-apres-la-mort-d-un-de-ses-ouvriers-en-aout-2023-2978318.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Kooma : Les producteurs quittent leur campagne pour trouver des clients en ville, dans ce lieu éclectique autour du manger bio](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/kooma-les-producteurs-quittent-leur-campagne-pour-trouver-des-clients-en-ville-dans-ce-lieu-eclectique-autour-du-manger-bio-2966780.html)
+append_entries: 3
+Finish: 2024-05-31 12:40:11.548029

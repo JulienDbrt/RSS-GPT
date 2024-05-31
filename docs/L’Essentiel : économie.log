@@ -814,3 +814,15 @@ Summarized using GPT-3.5-turbo
 Append: [Banque au Luxembourg: «Nous nous attendons à un plan social chez ING»](https://www.lessentiel.lu/fr/story/banque-au-luxembourg-nous-nous-attendons-a-un-plan-social-chez-ing-103117350)
 append_entries: 1
 Finish: 2024-05-31 01:19:09.540362
+------------------------------------------------------
+Started: 2024-05-31 12:41:46.869324
+Existing_entries: 204
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Banques au Luxembourg: Après la décision d'ING, quel avenir pour la banque de détail?](https://www.lessentiel.lu/fr/story/banques-au-luxembourg-la-decision-ding-montre-deux-choses-quel-avenir-pour-la-banque-de-detail-103117667)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Temps de travail moyen: Au Luxembourg, on travaille un peu plus de 35 heures par semaine](https://www.lessentiel.lu/fr/story/temps-de-travail-au-luxembourg-on-travaille-en-moyenne-353-heures-par-semaine-103117246)
+append_entries: 2
+Finish: 2024-05-31 12:41:56.926523

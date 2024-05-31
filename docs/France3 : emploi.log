@@ -738,3 +738,21 @@ Summarized using GPT-3.5-turbo
 Append: [Runjob, une course à l'emploi unique en France : "Le CV est secondaire, c'est le savoir-faire qui prime"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/runjob-une-course-a-l-emploi-unique-en-france-le-cv-est-secondaire-c-est-le-savoir-faire-qui-prime-2977994.html)
 append_entries: 2
 Finish: 2024-05-31 01:18:07.956547
+------------------------------------------------------
+Started: 2024-05-31 12:40:26.034566
+Existing_entries: 132
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: ["Un investissement exceptionnel de 800 millions d'euros" : l'offre du repreneur italien Marcegaglia validée pour Ascometal à Fos-du-Mer](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/fos-sur-mer/l-offre-du-repreneur-italien-marcegaglia-validee-pour-le-site-d-ascometal-a-fos-du-mer-2978381.html)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : "C'est moi qui l'ai fait !" Une entreprise roubaisienne coordonne la production des serviettes éponges des jeux](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/jo-de-paris-2024-c-est-moi-qui-l-ai-fait-une-entreprise-roubaisienne-coordonne-la-production-des-serviettes-eponges-des-jeux-2978132.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: ["Il faut un sens du collectif et l'envie de s'impliquer" : les douanes françaises à la recherche de nouveaux agents en Auvergne-Rhône-Alpes](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/il-faut-un-sens-du-collectif-et-l-envie-de-s-impliquer-les-douanes-francaises-a-la-recherche-de-nouveaux-agents-en-auvergne-rhone-alpes-2977754.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Chez SEB, les friteuses électriques Actifry se vendent moins bien : le site d'Is-sur-Tille menacé ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/chez-seb-les-friteuses-electriques-actifry-se-vendent-moins-bien-le-site-d-is-sur-tille-menace-2978162.html)
+append_entries: 4
+Finish: 2024-05-31 12:40:39.979540

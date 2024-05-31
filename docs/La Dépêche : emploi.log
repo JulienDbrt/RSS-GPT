@@ -799,3 +799,12 @@ Summarized using GPT-3.5-turbo
 Append: [Comment l’association EnviPlus réinsère-t-elle professionnellement les habitants du Lot-et-Garonne ?](https://www.ladepeche.fr/2024/05/30/comment-lassociation-enviplus-reinsere-t-elle-professionnellement-les-habitants-du-lot-et-garonne-11983287.php)
 append_entries: 2
 Finish: 2024-05-31 01:20:57.598427
+------------------------------------------------------
+Started: 2024-05-31 12:43:40.671652
+Existing_entries: 149
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Trois missions en service civique](https://www.ladepeche.fr/2024/05/31/trois-missions-en-service-civique-11985198.php)
+append_entries: 1
+Finish: 2024-05-31 12:43:44.061119

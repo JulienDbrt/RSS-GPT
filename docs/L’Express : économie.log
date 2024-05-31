@@ -925,3 +925,18 @@ Summarized using GPT-3.5-turbo
 Append: [Citadines électriques : cette étude qui donne tort à Carlos Tavares](https://www.lexpress.fr/economie/entreprises/citadines-electriques-cette-etude-qui-donne-tort-a-carlos-tavares-FRIZXVTD2BCB5H5JVY6O43GGPY/)
 append_entries: 1
 Finish: 2024-05-31 01:19:16.085926
+------------------------------------------------------
+Started: 2024-05-31 12:41:57.375602
+Existing_entries: 241
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2936
+Summarized using GPT-3.5-turbo
+Append: [Boeing : la "feuille de route" de l’avionneur pour sortir de la crise](https://www.lexpress.fr/economie/entreprises/boeing-la-feuille-de-route-de-lavionneur-pour-sortir-de-la-crise-LQOTWWE46NFANNXSR56ITXMXNQ/)
+Token length: 3081
+Summarized using GPT-3.5-turbo
+Append: [EDF reprend officiellement les activités nucléaires de General Electric](https://www.lexpress.fr/economie/edf-reprend-officiellement-les-activites-nucleaires-de-general-electric-KGBKIYGSDRGTJL7TJ2UNLVJYOM/)
+Token length: 6470
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : comment le Club France s’est retrouvé dans le rouge](https://www.lexpress.fr/economie/jo-de-paris-2024-comment-le-club-france-sest-retrouve-dans-le-rouge-TFOYN74L7NFW5IRVV7VHJMDTZ4/)
+append_entries: 3
+Finish: 2024-05-31 12:42:09.444528

@@ -2306,3 +2306,30 @@ Append: [Automobile : des airbags défectueux provoquent la colère des automobi
 Append: [Grève des pharmaciens : "Ça fait trois ans qu'on a une pénurie de médicaments", déplore Bruno Fellous, pharmacien](https://www.francetvinfo.fr/sante/greve-des-pharmaciens-ca-fait-trois-ans-qu-on-a-une-penurie-de-medicaments-deplore-bruno-fellous-pharmacien_6574736.html)
 append_entries: 12
 Finish: 2024-05-31 01:16:53.786208
+------------------------------------------------------
+Started: 2024-05-31 12:38:32.388409
+Existing_entries: 780
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: ["On peut faire une omelette sans s'en apercevoir !" : sur les îles Glénan, on repère les nids de gravelot avant l'arrivée massive des touristes](https://www.francetvinfo.fr/monde/environnement/biodiversite/on-peut-faire-une-omelette-sans-s-en-apercevoir-sur-les-iles-glenan-on-repere-les-nids-de-gravelot-avant-l-arrivee-massive-des-touristes_6576419.html)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [États-Unis : dans une prison, des détenues apprennent à réparer des voitures grâce à la réalité virtuelle](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/etats-unis-dans-une-prison-des-detenues-apprennent-a-reparer-des-voitures-grace-a-la-realite-virtuelle_6548684.html)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [La France dans l’attente de la notation de sa dette par l’agence S&P](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/la-france-dans-l-attente-de-la-notation-de-sa-dette-par-l-agence-s-p_6548654.html)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Transition énergétique : en Europe, les PME et les ETI sont de plus en plus nombreuses à investir dans leur propre décarbonation, selon une étude](https://www.francetvinfo.fr/replay-radio/le-brief-eco/transition-energetique-en-europe-les-pme-et-les-eti-sont-de-plus-en-plus-nombreuses-a-investir-dans-leur-propre-decarbonation-selon-une-etude_6548666.html)
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "À part des promesses et des paroles en l'air, on n’a rien eu" : la déception des agriculteurs allemands après la forte mobilisation de l'hiver](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-part-des-promesses-et-des-paroles-en-l-air-on-n-a-rien-eu-la-deception-des-agriculteurs-allemands-apres-la-forte-mobilisation-de-l-hiver_6548663.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Pharmacies en grève : une forte mobilisation sur toute la France](https://www.francetvinfo.fr/economie/greve/pharmacies-en-greve-une-forte-mobilisation-sur-toute-la-france_6576362.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [CARTE. Mont-Blanc, Etretat, Mont-Saint-Michel… Ces dix lieux en France qui vont faire face au surtourisme cet été](https://www.francetvinfo.fr/economie/tourisme/carte-mont-blanc-etretat-mont-saint-michel-ces-dix-lieux-en-france-qui-vont-faire-face-au-surtourisme-cet-ete_6574592.html)
+append_entries: 7
+Finish: 2024-05-31 12:38:55.198212
