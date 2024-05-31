@@ -551,3 +551,12 @@ Summarized using GPT-3.5-turbo
 Append: [Logements fissurés : comment mieux indemniser les propriétaires de maisons victimes de retrait-gonflement des argiles ?](https://www.francetvinfo.fr/replay-radio/le-billet-vert/logements-fissures-comment-mieux-indemniser-les-proprietaires-de-maisons-victimes-de-retrait-gonflement-des-argiles_6546428.html)
 append_entries: 2
 Finish: 2024-05-30 12:40:39.856020
+------------------------------------------------------
+Started: 2024-05-31 01:16:54.565249
+Existing_entries: 65
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Maisons fissurées : une application pour évaluer le niveau de risque](https://www.francetvinfo.fr/economie/immobilier/maisons-fissurees-une-application-pour-evaluer-le-niveau-de-risque_6574859.html)
+append_entries: 1
+Finish: 2024-05-31 01:16:58.592254

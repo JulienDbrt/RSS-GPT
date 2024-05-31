@@ -742,3 +742,12 @@ Summarized using GPT-3.5-turbo
 Append: [Dérapage des déficits : Bruno Le Maire auditionné, ce vendredi, par une mission d'information du Sénat](https://www.europe1.fr/economie/derapage-des-deficits-bruno-le-maire-auditionne-ce-vendredi-par-une-mission-dinformation-du-senat-4249884)
 append_entries: 4
 Finish: 2024-05-30 12:39:51.584889
+------------------------------------------------------
+Started: 2024-05-31 01:16:00.910498
+Existing_entries: 130
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Dérapage du déficit : Bruno Le Maire réfute toute dissimulation d'informations](https://www.europe1.fr/economie/derapage-du-deficit-bruno-le-maire-refute-toute-dissimulation-dinformations-4249983)
+append_entries: 1
+Finish: 2024-05-31 01:16:03.402253

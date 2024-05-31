@@ -779,3 +779,9 @@ Summarized using GPT-3.5-turbo
 Append: [Taxis ou VTC : une association dénonce "une recrudescence des refus de prise en charge" des personnes malvoyantes avec un chien](https://www.francetvinfo.fr/sante/handicap/taxis-ou-vtc-une-association-denonce-une-recrudescence-des-refus-de-prise-en-charge-des-personnes-malvoyantes-avec-un-chien_6574511.html)
 append_entries: 1
 Finish: 2024-05-30 12:40:43.521734
+------------------------------------------------------
+Started: 2024-05-31 01:16:58.666445
+Existing_entries: 141
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-05-31 01:16:58.753635

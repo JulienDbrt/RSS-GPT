@@ -787,3 +787,15 @@ Summarized using GPT-3.5-turbo
 Append: [Carcassonne. "Du Stade vers l’emploi" à Domec : le sport au service du recrutement](https://www.ladepeche.fr/2024/05/30/du-stade-vers-lemploi-a-domec-le-sport-au-service-du-recrutement-11982935.php)
 append_entries: 5
 Finish: 2024-05-30 12:45:53.383715
+------------------------------------------------------
+Started: 2024-05-31 01:20:50.196308
+Existing_entries: 147
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [" Je renoue avec l’enfant que j’étais" : Jean, un Albigeois de 27 ans, lance une nouvelle moto électrique](https://www.ladepeche.fr/2024/05/30/du-jeu-video-a-la-construction-dune-moto-electrique-11983877.php)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Comment l’association EnviPlus réinsère-t-elle professionnellement les habitants du Lot-et-Garonne ?](https://www.ladepeche.fr/2024/05/30/comment-lassociation-enviplus-reinsere-t-elle-professionnellement-les-habitants-du-lot-et-garonne-11983287.php)
+append_entries: 2
+Finish: 2024-05-31 01:20:57.598427

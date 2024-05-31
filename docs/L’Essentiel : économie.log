@@ -805,3 +805,12 @@ Summarized using GPT-3.5-turbo
 Append: [Piratage: Les données de 560 millions de clients de Ticketmaster auraient été volées](https://www.lessentiel.lu/fr/story/informatique-probleme-de-cybersecurite-l-australie-enquete-avec-ticketmaster-178395942445)
 append_entries: 3
 Finish: 2024-05-30 12:43:12.317941
+------------------------------------------------------
+Started: 2024-05-31 01:19:03.725234
+Existing_entries: 203
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Banque au Luxembourg: «Nous nous attendons à un plan social chez ING»](https://www.lessentiel.lu/fr/story/banque-au-luxembourg-nous-nous-attendons-a-un-plan-social-chez-ing-103117350)
+append_entries: 1
+Finish: 2024-05-31 01:19:09.540362

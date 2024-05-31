@@ -429,3 +429,9 @@ Summarized using GPT-3.5-turbo
 Append: [Non, les Belges ne changent pas d’emploi de plus en plus rapidement](https://www.7sur7.be/carriere/non-les-belges-ne-changent-pas-demploi-de-plus-en-plus-rapidement~a268ab26/)
 append_entries: 1
 Finish: 2024-05-30 12:35:42.895672
+------------------------------------------------------
+Started: 2024-05-31 01:13:29.071513
+Existing_entries: 31
+Fetching from https://www.7sur7.be/carriere/rss.xml
+append_entries: 0
+Finish: 2024-05-31 01:13:29.327591

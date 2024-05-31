@@ -690,3 +690,15 @@ Existing_entries: 118
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-05-30 12:42:20.973688
+------------------------------------------------------
+Started: 2024-05-31 01:17:47.007881
+Existing_entries: 118
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [LiNo, rond-point d'Ahuy et rocade de Dijon : "les travaux n'allaient pas faire sauter les bouchons !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/1-an-apres-l-amenagement-du-rond-point-d-ahuy-sur-la-lino-quel-bilan-les-travaux-n-allaient-pas-faire-sauter-les-bouchons-2977934.html)
+Token length: 364
+Summarized using GPT-3.5-turbo
+Append: [Runjob, une course à l'emploi unique en France : "Le CV est secondaire, c'est le savoir-faire qui prime"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/runjob-une-course-a-l-emploi-unique-en-france-le-cv-est-secondaire-c-est-le-savoir-faire-qui-prime-2977994.html)
+append_entries: 2
+Finish: 2024-05-31 01:17:54.313665

@@ -442,3 +442,15 @@ Summarized using GPT-3.5-turbo
 Append: [Mise en concurrence des bus : Keolis et RATP déjà prêts à s'affronter dans la petite couronne parisienne](https://www.latribune.fr/entreprises-finance/services/transport-logistique/mise-en-concurrence-des-bus-keolis-et-ratp-deja-prets-a-s-affronter-dans-la-petite-couronne-parisienne-995262.html)
 append_entries: 1
 Finish: 2024-05-30 12:47:26.576213
+------------------------------------------------------
+Started: 2024-05-31 01:21:48.237328
+Existing_entries: 22
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 415
+Summarized using GPT-3.5-turbo
+Append: [Suppression du Grand Paris, cumul des mandats, nationalisation du périphérique parisien… les pistes choc du rapport Woerth sur la décentralisation](https://www.latribune.fr/economie/france/suppression-du-grand-paris-cumul-des-mandats-nationalisation-du-peripherique-parisien-les-pistes-choc-du-rapport-woerth-sur-la-decentralisation-998716.html)
+Token length: 318
+Summarized using GPT-3.5-turbo
+Append: [De Paris au Havre, le pari solaire des métropoles de la vallée de Seine](https://www.latribune.fr/climat/energie-environnement/de-paris-au-havre-le-pari-solaire-des-metropoles-de-la-vallee-de-seine-998717.html)
+append_entries: 2
+Finish: 2024-05-31 01:21:58.132225

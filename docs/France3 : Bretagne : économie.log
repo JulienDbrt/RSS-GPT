@@ -585,3 +585,12 @@ Existing_entries: 83
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-05-30 12:42:21.250678
+------------------------------------------------------
+Started: 2024-05-31 01:17:54.355667
+Existing_entries: 83
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: ["Ils se font passer pour le patron", comment l'arnaque au président est devenue la bête noire des entreprises](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/ils-se-font-passer-pour-le-patron-comment-l-arnaque-au-president-est-devenue-la-bete-noire-des-entreprises-2977955.html)
+append_entries: 1
+Finish: 2024-05-31 01:17:58.444643

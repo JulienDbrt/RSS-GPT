@@ -758,3 +758,12 @@ Summarized using GPT-3.5-turbo
 Append: [IA générative : les entreprises françaises prennent du retard, selon une étude](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-1301900)
 append_entries: 4
 Finish: 2024-05-30 12:41:05.878000
+------------------------------------------------------
+Started: 2024-05-31 01:16:58.821870
+Existing_entries: 134
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [Entreprendre au féminin](https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-18-20-le-telephone-sonne-du-jeudi-30-mai-2024-8960283)
+append_entries: 1
+Finish: 2024-05-31 01:17:01.598799

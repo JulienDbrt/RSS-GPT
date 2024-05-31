@@ -5,13 +5,232 @@
 <link>https://korben.info</link>
 
 <item>
+<title>QuickTune – Un mini player Apple Music qui ressuscite QuickTime</title>
+<link>https://korben.info/quicktune-mini-player-apple-music-ressuscite-quicktime.html</link>
+<guid>https://korben.info/quicktune-mini-player-apple-music-ressuscite-quicktime.html</guid>
+<content:encoded><![CDATA[
+<div> QuickTune, mini lecteur, Apple Music, macOS, interface iconique
+Summary:
+QuickTune est un mini lecteur pour Apple Music inspiré de l'interface iconique de QuickTime. Développé à Copenhague, il offre une expérience vintage tout en se connectant à votre bibliothèque Apple Music. Malgré son design rétro, QuickTune propose des fonctionnalités pratiques telles que l'affichage des pochettes d'album, une vue détaillée des informations sur les morceaux et la gestion des playlists. Écrit en Swift + AppKit, il est compatible avec macOS Big Sur et versions ultérieures, fonctionnant sur les processeurs Apple Silicon et Intel. Disponible dans plusieurs langues, QuickTune offre un bel hommage à QuickTime tout en étant une application bien pensée pour les utilisateurs d'Apple Music. Les nostalgiques des lecteurs multimédias des années 90 apprécieront cette expérience unique proposée par QuickTune. <br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="536" src="https://korben.info/app/uploads/2024/05/SCR-20240530-oj3.webp" width="1465" /></p>
+<p>Développé à Copenhague, <a href="https://marioaguzman.github.io/quicktune/" rel="noopener" target="_blank">QuickTune</a> est un mini lecteur pour Apple Music dispo sur macOS et qui adopte l’interface iconique de <strong>QuickTime</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-158021227" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour ceux qui n’ont pas connu cette époque (bouuuh les jeunes), sachez que <a href="https://en.wikipedia.org/wiki/QuickTime" rel="noopener" target="_blank">QuickTime Player</a> était autrefois le lecteur multimédia par défaut sur Mac OS X. Avant l’avènement d’iTunes, puis d’Apple Music, c’était QuickTime qui gérait nos vidéos, nos morceaux de musique et même des contenus VR. C&rsquo;est d&rsquo;ailleurs encore un outil présent par défaut dans macOS, même si son look n&rsquo;a plus rien à voir avec ce qu&rsquo;il était à l&rsquo;époque.</p>
+
+
+
+<p>Avec QuickTune, on retrouve tout le charme de cette interface rétro, de la texture métallique brossée aux boutons vitreux, sans oublier l&rsquo;affichage LCD très utilitaire. C&rsquo;est un bond dans le passé en termes de design, mais au lieu de lire des fichiers locaux, QuickTune se connecte directement à votre bibliothèque Apple Music.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-161399" height="1024" src="https://korben.info/app/uploads/2024/05/quicktune_hero_lg@2x-832x1024.webp" style="width: 448px; height: auto;" width="832" /></figure></div>
+
+
+<p>Bien que vintage en apparence, il propose des fonctionnalités plutôt bien pensées comme l&rsquo;affichage de la pochette de l’album en cours de lecture, une vue détaillée, inspirée de l&rsquo;inspecteur de fichiers de QuickTime, vous donne également accès à de nombreuses informations sur le morceau, telles que l’année de sortie, le genre ou les artistes. L’application permet également d’ouvrir un HUD permettant de gérer et de changer de playlists directement, sans avoir à lancer Apple Music.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" class="wp-image-161398" height="1024" src="https://korben.info/app/uploads/2024/05/quicktune7_playlists@2x-832x1024.webp" style="width: 480px; height: auto;" width="832" /></figure></div>
+
+
+<p>Techniquement, ce logiciel est écrit en Swift + AppKit et utilise des composants natifs macOS pour se synchroniser avec Apple Music. Il est compatible à partir de macOS Big Sur et versions plus récentes, et fonctionne à la fois sur les Mac équipés de processeurs Apple Silicon et Intel. Et c&rsquo;est disponible en anglais, espagnol, italien, finnois, allemand et polonais.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-327317025" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Perso, je trouve le concept de QuickTune irrésistible, même s’il n’est pas nécessairement indispensable au quotidien. Pour ceux d’entre vous qui ont utilisé intensivement QuickTime dans les années 90, voir cette interface ressuscitée dans une application moderne est une expérience unique, comme on l&rsquo;a vécu récemment avec <a href="https://korben.info/re-amp-lecteur-audio-old-school-macos.html">Winamp</a> par exemple. Un petit plaisir coupable !</p>
+
+
+
+<p>Bref, je vous invite à jeter un œil à <a href="https://marioaguzman.github.io/quicktune/" rel="noopener" target="_blank">QuickTune</a> car c&rsquo;est un bel hommage à ce lecteur culte, et également une application bien pensée pour profiter de votre musique Apple Music.</p>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 15:40:40 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 15:40:40 +0000</pubDate>
+</item>
+<item>
+<title>Outline VPN – Le logiciel libre pour contourner la censure sur Internet</title>
+<link>https://korben.info/outline-vpn-logiciel-libre-contourner-censure-internet.html</link>
+<guid>https://korben.info/outline-vpn-logiciel-libre-contourner-censure-internet.html</guid>
+<content:encoded><![CDATA[
+<div> application, confidentialité, sécurité, liberté, réseaux<br>
+<br>
+Summary:
+Outline est un logiciel libre et open source permettant de contourner la censure en ligne. Il offre la possibilité de créer un serveur VPN personnalisé, partageable avec des amis. La solution assure la sécurité et la confidentialité des données, vérifiée par des audits indépendants. Avec Outline, les utilisateurs peuvent naviguer sur Internet en toute liberté, sans craindre d'être surveillés. Un guide étape par étape est fourni pour faciliter l'installation et la configuration du serveur. Les clés d'accès uniques générées permettent aux utilisateurs de se connecter au serveur Outline depuis divers appareils. Les développeurs peuvent également utiliser le SDK Outline pour intégrer des stratégies de mise en réseau avancées dans leurs applications. En somme, Outline est une solution pratique et efficace pour garantir une navigation sécurisée et libre sur le web. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="427" src="https://korben.info/app/uploads/2024/05/SCR-20240530-nt9.webp" width="1415" /></p>
+<p>Vous en avez marre d&rsquo;être surveillé et censuré quand vous parcourez le web ? Vous rêvez d&rsquo;accéder à tous les contenus que vous souhaitez sans que personne ne vienne fouiner dans vos affaires ? Alors, laissez-moi vous présenter <strong><a href="https://getoutline.org/fr/" rel="noopener" target="_blank">Outline VPN</a></strong>, le logiciel libre et open source qui va transformer votre expérience en ligne !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1874330537" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Cette solution utilise un protocole discret et difficile à détecter, vous permettant ainsi de contourner les restrictions des censeurs. Ainsi, vous pourrez naviguer incognito et accéder à tous vos sites préférés, même ceux habituellement bloqués dans votre cher pays.</p>
+
+
+
+<p>Mais ce n&rsquo;est pas tout puisque Outline vous offre la possibilité de créer votre propre serveur VPN en quelques clics, et de le partager avec vos amis. Ainsi, vous disposez de votre propre <strong>réseau privé</strong>, où vous pouvez échanger en toute tranquillité loin des regards indiscrets.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161393" height="370" src="https://korben.info/app/uploads/2024/05/outliineimage1.webp" width="611" /></figure></div>
+
+
+<p>Et si jamais votre serveur est repéré et bloqué par ceux qui n&rsquo;apprécient pas votre amour de la liberté, ne vous inquiétez pas car avec cet outil, vous allez pouvoir le recréer facilement et rapidement. Evidemment, côté sécurité et confidentialité, Outline assure&#8230; Le code a été audité par des sociétés indépendantes, telles que Radically Open Security en mars 2018 et décembre 2022, ainsi que Cure53 en décembre 2018, qui ont confirmé que vos données sont protégées et que votre activité en ligne n&rsquo;est pas enregistrée. Bref, une fois en place, vous pouvez surfer l&rsquo;esprit tranquille, personne ne viendra fouiner dans votre historique.</p>
+
+
+
+<p>Voici un guide étape par étape pour vous lancer :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-158748546" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Il faut savoir avant tout que Outline se compose de deux produits interdépendants qui fonctionnent ensemble pour vous fournir, à vous et votre communauté, un accès sans interruption à Internet.</p>
+
+
+
+<h4 class="wp-block-heading">Etape 1 : L&rsquo;installation</h4>
+
+
+
+<p>Téléchargez <a href="https://getoutline.org/fr/get-started/#step-1" rel="noopener" target="_blank">Outline Manager</a>, l&rsquo;application en version desktop pour Windows, Linux et macOS, qui vous permettra de configurer votre serveur en quelques clics. Vous pourrez ainsi gérer tous les aspects de votre serveur de manière centralisée et choisir parmi une liste de fournisseurs de services cloud de confiance (Google, Amazon, Digital Ocean&#8230;) ou utiliser votre propre infrastructure sous Linux pour le déployer.</p>
+
+
+
+<h4 class="wp-block-heading">Etape 2 : Générez des clés d&rsquo;accès</h4>
+
+
+
+<p>Après avoir configuré votre serveur, vous devez générer des clés d&rsquo;accès uniques directement à partir de l&rsquo;application Desktop. Vous pourrez alors envoyer des invitations à vos amis et les clés d&rsquo;accès leur permettront de connecter leurs appareils (et le votre) à votre serveur Outline. Chaque clé est gérée individuellement et peut être limitée en termes de bande passante pour éviter qu&rsquo;un utilisateur ne consomme toutes les ressources.</p>
+
+
+
+<h4 class="wp-block-heading">Etape 3 : Téléchargez l&rsquo;appli du client Outline sur PC / Mac et smartphone</h4>
+
+
+
+<p>Ensuite <a href="https://getoutline.org/fr/get-started/#step-3" rel="noopener" target="_blank">l&rsquo;application Outline</a> à partir de l&rsquo;App Store ou de Google Play Store, et connectez-vous à l&rsquo;aide de votre clé d&rsquo;accès unique.</p>
+
+
+
+<p>Et bonne nouvelle si vous êtes développeur, le SDK Outline offre une bibliothèque et un ensemble d&rsquo;outils multiplateformes permettant aux codeurs d&rsquo;applications d&rsquo;intégrer les stratégies avancées de mise en réseau d&rsquo;Outline pour limiter les interférences réseau les plus complexes.</p>
+
+
+
+<p>Bref, ça peut servir&#8230; A tester en tout cas.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-965262164" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Merci à Lorenper pour l&rsquo;info sur cet outil !</p>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 15:23:25 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 15:23:25 +0000</pubDate>
+</item>
+<item>
+<title>FrankenPHP – Le serveur PHP surpuissant écrit en Go</title>
+<link>https://korben.info/frankenphp-serveur-php-surpuissant-kevin-dunglas.html</link>
+<guid>https://korben.info/frankenphp-serveur-php-surpuissant-kevin-dunglas.html</guid>
+<content:encoded><![CDATA[
+<div> Dunglas, PHP, serveur d'applications, performance, Go <br>
+<br>
+Summary: <br>
+FrankenPHP, développé par le français Kévin Dunglas, est un serveur d'applications PHP moderne en Go qui promet d'optimiser les projets PHP tels que Laravel, Symfony, Drupal, WordPress, Sulu et API Platform. Il offre des fonctionnalités avancées comme les Early Hints, la prise en charge d'HTTP/2 et HTTP/3, la compression Brotli, Zstandard et Gzip, les logs structurés, le support de Prometheus, et même du temps réel. Le serveur PHP ne nécessite qu'un seul service et un seul binaire, fonctionne sans PHP-FPM, peut être déployé facilement en tant qu'application Cloud Native via Docker, et est compatible avec Kubernetes et les plateformes Cloud modernes. Il prend en charge le déploiement de l'application PHP comme un binaire statique autonome et auto-exécutable. Avec une configuration simple, il offre des performances améliorées et une gestion automatique de l'HTTPS. Dunglas a créé un serveur innovant qui pourrait révolutionner l'écosystème PHP. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="629" src="https://korben.info/app/uploads/2024/05/SCR-20240530-kx9.webp" width="1699" /></p>
+<p>Concocté par le français <strong>Kévin Dunglas</strong>, contributeur de longue date à l&rsquo;écosystème PHP et membre de la Core Team Symfony, <a href="https://frankenphp.dev/fr/" rel="noopener" target="_blank"><strong>FrankenPHP</strong></a> va peut-être dépoussiérer un peu votre bon vieux serveur LAMP tout fatigué.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-977940424" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Il s&rsquo;agit d&rsquo;un <strong>serveur d&rsquo;applications PHP moderne</strong> développé en Go qui s&rsquo;appuie sur le serveur web de pointe <a href="https://caddyserver.com/" rel="noopener" target="_blank">Caddy</a>. D&rsquo;après son auteur, tous vos projets PHP, y compris Laravel, Symfony, Drupal, WordPress, Sulu et API Platform, seront optimisés comme jamais grâce à l&rsquo;intégration native du mode worker.</p>
+
+
+
+<p>Moins de lenteurs, plus de perf, et surtout pas mal de fonctionnalités avancées telles que les <strong>Early Hints</strong> pour un affichage éclair, la prise en charge d&rsquo;<strong>HTTP/2 et HTTP/3</strong> pour une navigation optimale, la <strong>compression Brotli, Zstandard et Gzip</strong>, les <strong>logs structurés</strong>, le support de <strong>Prometheus</strong> pour les métriques, et même du <strong>temps réel</strong> avec <a href="https://mercure.rocks/" rel="noopener" target="_blank">Mercure</a>. Que vous soyez accro à Symfony, fan d&rsquo;<a href="https://api-platform.com/" rel="noopener" target="_blank">API Platform</a> ou un inconditionnel de Laravel, FrankenPHP s&rsquo;occupera de tout et d&rsquo;après les benchmarks visibles sur le site officiel, il booste même les performances jusqu&rsquo;à <strong>3,5 fois plus vite que FPM</strong> sur les applications de type API Platform.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-161387" src="https://korben.info/app/uploads/2024/05/dab.svg" style="width: 360px; height: auto;" /></figure></div>
+
+
+<p>Conçu dans un souci de simplicité, ce serveur PHP n&rsquo;a besoin que d&rsquo;un seul service et d&rsquo;un seul binaire. Pas besoin de PHP-FPM, il utilise son propre SAPI (Server API) spécialement conçu pour les serveurs web Go. Il peut être déployé facilement comme une application Cloud Native via une image Docker, et est compatible avec Kubernetes et toutes les plateformes Cloud modernes. Vous pouvez même packager votre application PHP comme un binaire statique autonome et auto-exécutable.</p>
+
+
+
+<p>Si vous voulez le tester, vous pouvez soit lancer le <a href="https://github.com/dunglas/frankenphp/releases" rel="noopener" target="_blank">binaire</a>, soit utiliser Docker comme ceci : </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-988378801" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>docker run -v $PWD:/app/public -p 80:80 -p 443:443 -p 443:443/udp dunglas/frankenphp</code></p>
+
+
+
+<p>En deux temps trois mouvements, vous voilà avec un serveur web + PHP 8.2 aux petits oignons ! Y&rsquo;a plus qu&rsquo;à mettre votre PHP dans le répertoire de Franken et tadaaa&#8230;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161386" height="166" src="https://korben.info/app/uploads/2024/05/SCR-20240530-klq.webp" width="477" /></figure></div>
+
+
+<p>Si c&rsquo;est le binaire que vous récupérez, vous pouvez servir le contenu du répertoire courant avec la commande suivante :</p>
+
+
+
+<p><code>./frankenphp php-server</code></p>
+
+
+
+<p>Ou lancer vos scripts en ligne de commande comme ceci :</p>
+
+
+
+<p><code>./frankenphp php-cli /chemin/vers/votre/script.php</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-312672695" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Bref, vous démarrez votre app une fois, et hop, elle reste en mémoire, prête à faire tourner votre site. Caddy gère l&rsquo;HTTPS automatiquement avec génération, renouvellement et révocation des certificats. Il sert aussi les assets, pendant que PHP fait ce qu&rsquo;il fait de mieux : exécuter votre code sans faillir. Vous pouvez même intégrer PHP dans n&rsquo;importe quelle application Go en mode bibliothèque.</p>
+
+
+
+<p>Et pour démarrer un serveur Caddy en prod avec FrankenPHP sans utiliser Docker, il suffit de cette configuration ultra simple:</p>
+
+
+
+<pre class="wp-block-code"><code>{
+    # Activer FrankenPHP 
+    frankenphp
+    order php_server before file_server
+}
+
+localhost {
+    # Activer la compression (optionnel)
+    encode zstd br gzip  
+    # Exécuter les fichiers PHP dans le répertoire courant et servir les ressources
+    php_server
+}</code></pre>
+
+
+
+<p>Ça change un peu ! </p>
+
+
+
+<p>En tout cas, <a href="https://frankenphp.dev/fr/" rel="noopener" target="_blank">c&rsquo;est à tester</a> ! Bravo Kévin, j&rsquo;ai hâte de voir comment ça va évoluer pour la suite !</p>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 13:04:23 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 13:04:23 +0000</pubDate>
+</item>
+
+<item>
 <title>ReverserAI – Du Reverse Engineering à base d’IA</title>
 <link>https://korben.info/reverserai-ia-ingenierie-inverse-revolutionnaire.html</link>
 <guid>https://korben.info/reverserai-ia-ingenierie-inverse-revolutionnaire.html</guid>
 <content:encoded><![CDATA[
-<div> Confidentialité, Sécurité, Suggestion automatique, Architecture modulaire, Performance<br>
-Summary:<br>
-ReverserAI est un outil de reverse engineering basé sur des modèles de langage locaux (LLM) qui suggère automatiquement des noms de fonctions significatifs à partir de la sortie du décompilateur. Fonctionnant hors ligne, il garantit la confidentialité des données et offre une intégration transparente avec Binary Ninja via un plugin dédié. Son architecture modulaire permet une extension facile vers d'autres outils d'ingénierie inverse, et il est compatible avec les architectures Apple Silicon. Il nécessite une configuration matérielle robuste pour des performances optimales, mais les optimisations GPU peuvent réduire le temps de requête. L'outil est un proof of concept prometteur pour l'avenir des LLM locaux dans le domaine du reverse engineering. Son code source est disponible sur GitHub pour des suggestions d'améliorations. Joyeux hacking à tous !<br> <div>
+<div> Confidentialité, Sécurité, Suggestion automatique, Architecture modulaire, Performance<br />
+Summary:<br />
+ReverserAI est un outil de reverse engineering basé sur des modèles de langage locaux (LLM) qui suggère automatiquement des noms de fonctions significatifs à partir de la sortie du décompilateur. Fonctionnant hors ligne, il garantit la confidentialité des données et offre une intégration transparente avec Binary Ninja via un plugin dédié. Son architecture modulaire permet une extension facile vers d'autres outils d'ingénierie inverse, et il est compatible avec les architectures Apple Silicon. Il nécessite une configuration matérielle robuste pour des performances optimales, mais les optimisations GPU peuvent réduire le temps de requête. L'outil est un proof of concept prometteur pour l'avenir des LLM locaux dans le domaine du reverse engineering. Son code source est disponible sur GitHub pour des suggestions d'améliorations. Joyeux hacking à tous !<br /> <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_wallpaper_with_bytecode_and_binary_code_with_text_logo_w_bfe5b69c-2761-49e9-8e70-5cb731224142.png" width="1456" /></p>
 <p><strong>ReverserAI</strong> est un projet de recherche assez avant-gardiste qui vise à automatiser et améliorer les tâches de reverse engineering grâce à l&rsquo;utilisation de modèles de langage locaux (<strong>LLM</strong>).</p>
 
@@ -78,7 +297,6 @@ ReverserAI est un outil de reverse engineering basé sur des modèles de langage
 <p>Happy hacking à tous !</p>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Codestral – Le modèle IA des développeurs</title>
@@ -121,9 +339,7 @@ Codestral est le nouveau modèle de génération de code de Mistral AI, capable 
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://mistral.ai/news/codestral/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 06:44:29 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 06:44:29 +0000</pubDate>
 </item>
-
 <item>
 <title>FlowTunes – Des heures de musiques IA de qualité pour rester concentré dans votre flow quotidien</title>
 <link>https://korben.info/flowtunes-musique-ia-booster-flow-productivite.html</link>

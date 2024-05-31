@@ -836,3 +836,18 @@ Summarized using GPT-3.5-turbo
 Append: [La Corée du Nord a tiré une salve de missiles balistiques de courte portée](https://www.martinique.franceantilles.fr/actualite/economie/la-coree-du-nord-a-tire-une-salve-de-missiles-balistiques-de-courte-portee-989119.php)
 append_entries: 1
 Finish: 2024-05-30 12:39:56.429990
+------------------------------------------------------
+Started: 2024-05-31 01:16:03.486776
+Existing_entries: 180
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Grève massive des pharmacies en France, des milliers de manifestants dans la rue](https://www.martinique.franceantilles.fr/actualite/sante/pharmaciens-en-greve-une-premiere-depuis-dix-ans-989133.php)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [Au Brésil, des passerelles flottantes pour surmonter les inondations](https://www.martinique.franceantilles.fr/actualite/economie/au-bresil-des-passerelles-flottantes-pour-surmonter-les-inondations-989178.php)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Inde: mises en garde d'experts face à la vague de chaleur](https://www.martinique.franceantilles.fr/actualite/economie/inde-mises-en-garde-dexperts-face-a-la-vague-de-chaleur-989169.php)
+append_entries: 3
+Finish: 2024-05-31 01:16:20.151473

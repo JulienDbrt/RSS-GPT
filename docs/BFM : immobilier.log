@@ -697,3 +697,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Il y a un taux de non-recours énorme": ces aides au logement méconnues des travailleurs saisonniers](https://www.bfmtv.com/immobilier/fiscalite/il-y-a-un-taux-de-non-recours-enorme-ces-aides-au-logement-meconnues-des-travailleurs-saisonniers_AD-202405300293.html)
 append_entries: 3
 Finish: 2024-05-30 12:38:27.118218
+------------------------------------------------------
+Started: 2024-05-31 01:15:05.528189
+Existing_entries: 133
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Taxe d'habitation: comment savoir si je paie trop et comment récupérer mon argent](https://www.bfmtv.com/immobilier/fiscalite/taxe-d-habitation-comment-savoir-si-je-paie-trop-et-comment-recuperer-mon-argent_AV-202405300791.html)
+append_entries: 1
+Finish: 2024-05-31 01:15:08.611987

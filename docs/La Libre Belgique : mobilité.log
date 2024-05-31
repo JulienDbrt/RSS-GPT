@@ -614,3 +614,9 @@ Summarized using GPT-3.5-turbo
 Append: [Plus de 2.000 conducteurs verbalisés à l'issue de l'action "Distraction au volant" : voici leurs infractions](https://www.lalibre.be/belgique/mobilite/2024/05/30/plus-de-2000-conducteurs-verbalises-a-lissue-de-laction-distraction-au-volant-voici-leurs-infractions-FZDGXEVGMFGSZCBTYAYBBNW3VA/)
 append_entries: 1
 Finish: 2024-05-30 12:46:46.673859
+------------------------------------------------------
+Started: 2024-05-31 01:21:27.410755
+Existing_entries: 112
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-05-31 01:21:27.987978
