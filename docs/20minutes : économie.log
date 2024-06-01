@@ -737,3 +737,12 @@ Summarized using GPT-3.5-turbo
 Append: [Alimentation : Les meilleurs morceaux de l’audition du numéro un de la viande qui démonte la loi Egalim](https://www.20minutes.fr/economie/4094008-20240531-alimentation-meilleurs-morceaux-audition-numero-viande-demonte-loi-egalim)
 append_entries: 3
 Finish: 2024-06-01 01:14:51.621014
+------------------------------------------------------
+Started: 2024-06-01 12:31:00.982017
+Existing_entries: 121
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [Dette : Après la dégradation de la note de la France, toute hausse d’impôts écartée](https://www.20minutes.fr/economie/4094060-20240601-dette-apres-degradation-note-france-toute-hausse-impots-ecartee)
+append_entries: 1
+Finish: 2024-06-01 12:31:05.127705

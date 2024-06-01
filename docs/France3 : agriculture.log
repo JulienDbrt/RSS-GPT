@@ -1116,3 +1116,18 @@ Summarized using GPT-3.5-turbo
 Append: [Inondations, coulées de boues, érosion des sols : comment agir ? Une question posée par un maire du Pas-de-Calais](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/inondations-coulees-de-boues-erosion-des-sols-comment-agir-une-question-posee-par-un-maire-du-pas-de-calais-2978420.html)
 append_entries: 3
 Finish: 2024-06-01 01:19:28.586546
+------------------------------------------------------
+Started: 2024-06-01 12:34:34.684583
+Existing_entries: 254
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 345
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. "Tout est en train de pourrir". Cultures impactées, étables inondées... Les agriculteurs en détresse face à la météo](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/video-tout-est-en-train-de-pourrir-champs-et-etables-inondes-cereales-gatees-en-haute-saone-les-agriculteurs-en-detresse-2979008.html)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [RECETTE.  Et si vous passiez plutôt la fraise du Périgord à la casserole ? Voici le foie gras à la fraise poêlée](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/recette-et-si-vous-passiez-plutot-la-fraise-du-perigord-a-la-casserole-voici-le-foie-gras-a-la-fraise-poelee-2977343.html)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Attaques de chèvres à Sormiou : faut-il s'inquiéter de la présence de loups dans les calanques de Marseille ?](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/attaques-de-chevres-a-sormiou-faut-il-s-inquieter-de-la-presence-de-loups-dans-les-calanques-de-marseille-2978858.html)
+append_entries: 3
+Finish: 2024-06-01 12:34:42.430315

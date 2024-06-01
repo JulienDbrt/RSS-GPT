@@ -669,3 +669,9 @@ Summarized using GPT-3.5-turbo
 Append: [Trains: l'espagnol Renfe renforce sa présence en France](https://www.bfmtv.com/economie/entreprises/transports/trains-l-espagnol-renfe-renforce-sa-presence-en-france_AV-202405310632.html)
 append_entries: 1
 Finish: 2024-06-01 01:16:39.652480
+------------------------------------------------------
+Started: 2024-06-01 12:32:38.050858
+Existing_entries: 105
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-06-01 12:32:38.097896

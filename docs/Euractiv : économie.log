@@ -605,3 +605,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les ministres de l’UE défendent le principe du libre-échange envers et contre tout](https://www.euractiv.fr/section/economie/news/les-ministres-de-lue-defendent-le-principe-du-libre-echange-envers-et-contre-tout/)
 append_entries: 1
 Finish: 2024-06-01 01:17:21.864711
+------------------------------------------------------
+Started: 2024-06-01 12:33:01.335941
+Existing_entries: 97
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+append_entries: 0
+Finish: 2024-06-01 12:33:02.181466

@@ -727,3 +727,15 @@ Summarized using GPT-3.5-turbo
 Append: [En Chine, le géant déchu de l'immobilier Evergrande condamné pour fraude](https://www.bfmtv.com/immobilier/en-chine-le-geant-dechu-de-l-immobilier-evergrande-condamne-pour-fraude_AD-202405310752.html)
 append_entries: 1
 Finish: 2024-06-01 01:16:35.041719
+------------------------------------------------------
+Started: 2024-06-01 12:32:32.031249
+Existing_entries: 137
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Découvrez les prix de l’immobilier à Mulhouse au 1er juin 2024](https://www.bfmtv.com/immobilier/prix-immobilier/decouvrez-les-prix-de-l-immobilier-a-mulhouse-en-octobre-2023_AN-202310020074.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Boulogne-sur-Mer, Dunkerque, Le Havre… Ces villes où les prix immobiliers repartent à la hausse](https://www.bfmtv.com/immobilier/prix-immobilier/boulogne-sur-mer-dunkerque-le-havre-ces-villes-ou-les-prix-immobiliers-repartent-a-la-hausse_AN-202406010227.html)
+append_entries: 2
+Finish: 2024-06-01 12:32:35.673357

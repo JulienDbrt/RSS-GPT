@@ -572,3 +572,12 @@ Existing_entries: 66
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-06-01 01:18:19.488475
+------------------------------------------------------
+Started: 2024-06-01 12:33:50.647794
+Existing_entries: 66
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [Crédits immobiliers : c’est le bon moment pour négocier](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/credits-immobiliers-c-est-le-bon-moment-pour-negocier_6550718.html)
+append_entries: 1
+Finish: 2024-06-01 12:33:53.498035

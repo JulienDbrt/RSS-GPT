@@ -949,3 +949,21 @@ Summarized using GPT-3.5-turbo
 Append: [La note de la France abaissée par l'agence Standard & Poor's](https://www.lexpress.fr/economie/politique-economique/la-note-de-la-france-abaissee-par-lagence-standard-poors-S6XEUON4PBD3VLKEURRUCG6PHY/)
 append_entries: 1
 Finish: 2024-06-01 01:20:48.161065
+------------------------------------------------------
+Started: 2024-06-01 12:35:22.946131
+Existing_entries: 245
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2644
+Summarized using GPT-3.5-turbo
+Append: [Déjà un "effet JO" sur l’emploi en France ? Ce que disent les derniers chiffres](https://www.lexpress.fr/economie/emploi/deja-un-effet-jo-sur-lemploi-en-france-ce-que-disent-les-derniers-chiffres-SPRUSXQOSZH7TOPCTNHJW3CAPQ/)
+Token length: 1998
+Summarized using GPT-3.5-turbo
+Append: [Dette française dégradée par S&P : Bruno Le Maire exclut toute hausse d’impôts en 2025](https://www.lexpress.fr/economie/dette-francaise-degradee-par-s-p-bruno-le-maire-exclut-toute-hausse-dimpots-en-2025-CTUG3DNQ3NAWFFEXXMZ3ROQXZQ/)
+Token length: 4133
+Summarized using GPT-3.5-turbo
+Append: [Trois bonnes raisons d’alléger l’impôt sur les successions, par Nicolas Bouzou](https://www.lexpress.fr/economie/politique-economique/trois-bonnes-raisons-dalleger-limpot-sur-les-successions-par-nicolas-bouzou-PUCHFZ5XEVBBBDF2D7RJUOU6QQ/)
+Token length: 8703
+Summarized using GPT-3.5-turbo
+Append: [La dette française dégradée par Standard & Poor’s : y a-t-il lieu de s'inquiéter ?](https://www.lexpress.fr/economie/politique-economique/la-dette-francaise-degradee-par-standard-poors-y-a-t-il-lieu-de-sinquieter-EVGLQ5JEBZCDHBXS5HRS7OO7GA/)
+append_entries: 4
+Finish: 2024-06-01 12:35:38.821642

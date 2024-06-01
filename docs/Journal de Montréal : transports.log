@@ -645,3 +645,15 @@ Existing_entries: 87
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-06-01 01:20:17.007327
+------------------------------------------------------
+Started: 2024-06-01 12:35:03.915178
+Existing_entries: 87
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Guilbault dit qu’elle n’a rien à avoir avec la hausse à 150 $ de la taxe sur l’immatriculation à Montréal](https://www.journaldemontreal.com/2024/05/31/guilbault-dit-quelle-na-rien-a-avoir-avec-la-hausse-a-150--de-la-taxe-sur-limmatriculation-a-montreal)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Projet structurant de l’est: l’ARTM propose un tramway à 18,6 milliards $](https://www.journaldemontreal.com/2024/05/31/projet-structurant-de-lest-un-tramway-a-186-milliards--propose-lartm)
+append_entries: 2
+Finish: 2024-06-01 12:35:08.584240

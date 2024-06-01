@@ -794,3 +794,18 @@ Summarized using GPT-3.5-turbo
 Append: [Sécheresse : le coût des dégâts causés par la sécheresse pourrait tripler d'ici 2050](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-1682844)
 append_entries: 2
 Finish: 2024-06-01 01:18:29.309896
+------------------------------------------------------
+Started: 2024-06-01 12:33:57.612298
+Existing_entries: 140
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 299
+Summarized using GPT-3.5-turbo
+Append: [Avec Roland Lescure, ministre de l'Industrie et de l'Energie](https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-01-juin-2024-1665658)
+Token length: 1
+Summarized using GPT-3.5-turbo
+Append: [La note française dégradée par S&P. Est-ce grave ?](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-01-juin-2024-8406915)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Déficits publics : l'agence S&P dégrade la note de la France de AA à AA-](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-8994840)
+append_entries: 3
+Finish: 2024-06-01 12:34:05.297806

@@ -645,3 +645,9 @@ Summarized using GPT-3.5-turbo
 Append: [Premier bilan pour les ETF Ethereum spot](https://www.bfmtv.com/crypto/premier-bilan-pour-les-etf-ethereum-spot_VL-202405310585.html)
 append_entries: 3
 Finish: 2024-06-01 01:16:04.139016
+------------------------------------------------------
+Started: 2024-06-01 12:32:03.168249
+Existing_entries: 97
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-06-01 12:32:03.335753

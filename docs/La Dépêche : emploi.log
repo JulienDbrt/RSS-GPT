@@ -826,3 +826,18 @@ Summarized using GPT-3.5-turbo
 Append: [Malgré l’interdiction de la préfecture de l’Ariège, le rassemblement d’Extinction Rébellion contre les gravières est maintenu](https://www.ladepeche.fr/2024/05/31/malgre-linterdiction-de-la-prefecture-de-lariege-le-rassemblement-dextinction-rebellion-contre-les-gravieres-est-maintenu-11986227.php)
 append_entries: 4
 Finish: 2024-06-01 01:22:20.078626
+------------------------------------------------------
+Started: 2024-06-01 12:37:07.050466
+Existing_entries: 154
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Figeac : France Travail ouvre une nouvelle agence pour mieux répondre aux besoins des usagers](https://www.ladepeche.fr/2024/06/01/figeac-france-travail-ouvre-une-nouvelle-agence-pour-mieux-repondre-aux-besoins-des-usagers-11980807.php)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Tarbes. "Même avec un BAC + 2, je n’arrive pas à être engagé"](https://www.ladepeche.fr/2024/06/01/meme-avec-un-bac-2-je-narrive-pas-a-etre-engage-11987880.php)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [De nouveaux locaux pour un meilleur service de proximité pour le centre interinstitutionnel de bilan de compétence de L’Isle-Jourdain](https://www.ladepeche.fr/2024/06/01/de-nouveaux-locaux-pour-un-meilleur-service-de-proximite-pour-le-centre-interinstitutionnel-de-bilan-de-competence-de-lisle-jourdain-11987774.php)
+append_entries: 3
+Finish: 2024-06-01 12:37:20.165809

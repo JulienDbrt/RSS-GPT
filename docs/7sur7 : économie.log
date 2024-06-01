@@ -798,3 +798,12 @@ Summarized using GPT-3.5-turbo
 Append: [La Belgique et l’Allemagne envisagent une connexion sous-marine à haute tension](https://www.7sur7.be/belgique/la-belgique-et-lallemagne-envisagent-une-connexion-sous-marine-a-haute-tension~a42c81f2/)
 append_entries: 3
 Finish: 2024-06-01 01:15:01.871903
+------------------------------------------------------
+Started: 2024-06-01 12:31:05.202791
+Existing_entries: 148
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 395
+Summarized using GPT-3.5-turbo
+Append: [Combien d'argent de poche donnez-vous à vos enfants? Et à partir de quel âge?](https://www.7sur7.be/economie/combien-d-argent-de-poche-donnez-vous-a-vos-enfants-et-a-partir-de-quel-age~aa513135/)
+append_entries: 1
+Finish: 2024-06-01 12:31:09.296643

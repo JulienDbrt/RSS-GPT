@@ -5,15 +5,54 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Reko – Un outil de décompilation multiplateforme</title>
+<link>https://korben.info/reko-outil-decompilation-multiplateforme.html</link>
+<guid>https://korben.info/reko-outil-decompilation-multiplateforme.html</guid>
+<content:encoded><![CDATA[
+<div> décortiquer, binaires, traduire, interfaces, architectures <br>
+<br>
+Summary: <br>
+Reko est une boîte à outils complète pour décortiquer les binaires en les traduisant en langages de plus haut niveau. Il est compatible avec les systèmes d'exploitation Windows, Linux et Mac, et propose une interface graphique conviviale pour les novices ainsi qu'une interface en ligne de commande pour les utilisateurs avancés. La bibliothèque embarquée prend en charge une variété d'architectures processeur et de formats de fichiers binaires, offrant ainsi une polyvalence dans l'analyse des programmes. De plus, Reko peut exécuter automatiquement des scripts de décompression, ce qui facilite le reverse engineering. En résumé, Reko est un outil polyvalent et puissant qui permet de mieux comprendre le fonctionnement des programmes et de s'adonner au reverse engineering de manière efficace. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="277" src="https://korben.info/app/uploads/2024/04/SCR-20240401-qkaw.webp" width="1000" /></p>
+<p><strong>Reko</strong> est une boîte à outils complète qui va vous permettre de décortiquer les<strong> binaires</strong> et de les traduire en langages de plus haut niveau, que vous soyez sur Windows, Linux ou Mac (c&rsquo;est codé en .NET).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158187" height="699" src="https://korben.info/app/uploads/2024/04/mem-map-full-1024x699.png" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-322999423" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ses développeurs ont pensé à tout puisque vous avez le choix entre une interface graphique super intuitive pour les novices, et une interface en ligne de commande pour les pros du terminal qui aiment se la jouer old school.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158188" height="699" src="https://korben.info/app/uploads/2024/04/structure-full-1024x699.png" width="1024" /></figure></div>
+
+
+<p>Reko embarque aussi une bibliothèque qui gère un tas d&rsquo;<strong>architectures processeur</strong> (x86, 68k, PowerPC, ARM, MIPS, Z80&#8230;), de formats de fichiers binaires (MZ, ELF, AmigaOS Hunk, Classic MacOS&#8230;) et de systèmes d&rsquo;exploitation. Il peut même lancer automatiquement des scripts de décompression écrits en OllyScript. </p>
+
+
+
+<p>Génial pour comprendre comment fonctionne un programme et faire un peu de reverse engineering pour se détendre.</p>
+
+
+
+<p><a href="https://github.com/uxmal/reko" rel="noopener" target="_blank">A découvrir ici.</a></p>
+]]></content:encoded>
+<pubDate>Sat, 01 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 01 Jun 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Bravez l’obsolescence programmée d’Intel avec du ruban adhésif</title>
 <link>https://korben.info/braver-obsolescence-programmee-intel-ruban-kapton.html</link>
 <guid>https://korben.info/braver-obsolescence-programmee-intel-ruban-kapton.html</guid>
 <content:encoded><![CDATA[
 <div> ruban adhésif isolant Kapton, BIOS, CPU Coffee Lake, carte mère Z170, Z270
-<br>
-<br>
+<br />
+<br />
 Pour contourner l'obsolescence programmée imposée par Intel qui limite les cartes mères Z170 et Z270 aux processeurs jusqu'à Kaby Lake, il est possible de faire fonctionner un CPU Coffee Lake sur ces anciennes cartes mères en modifiant le BIOS et en utilisant du ruban Kapton pour créer des ponts entre les broches du socket. Cette manipulation technique nécessite un cerveau en état de marche, une bonne vieille carte mère Z170 ou Z270, un processeur Coffee Lake ainsi que le bon BIOS modifié, ainsi que du ruban adhésif isolant Kapton. Malgré la complexité de l'opération, des astucieux passionnés ont réussi à contourner les restrictions d'Intel et à prolonger la durée de vie de leurs équipements. Video link showing step-by-step guide to achieve this feat is also provided for further assistance. 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="409" src="https://korben.info/app/uploads/2024/05/SCR-20240531-lku.webp" width="1198" /></p>
 <p>Vous pensez que votre carte mère Intel de série Z170 ou Z270 ne supporte que les CPU jusqu&rsquo;à Kaby Lake (6e et 7e génération) ? C&rsquo;est ce qu&rsquo;Intel voudrait nous faire croire pour nous obliger à acheter une nouvelle carte mère à chaque changement évolution de leur CPU. Mais y&rsquo;a des petits malins qui ont trouvé la parade. C&rsquo;est un peu technique mais très rigolo.</p>
 
@@ -59,9 +98,7 @@ Pour contourner l'obsolescence programmée imposée par Intel qui limite les car
 <p><a href="https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 13:48:06 +0000</pubDate>
-<pubDate>Fri, 31 May 2024 13:48:06 +0000</pubDate>
 </item>
-
 <item>
 <title>APISR – Upscaling d’animes en temps réel</title>
 <link>https://korben.info/apisr-ia-revolutionnaire-upscaling-anime-temps-reel.html</link>

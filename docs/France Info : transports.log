@@ -800,3 +800,12 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : "On fait confiance aux VTC en leur accordant le même accès aux sites aux gares que les taxis", se réjouit la directrice générale d'Uber France](https://www.francetvinfo.fr/replay-radio/l-interview-eco/paris-2024-on-fait-confiance-aux-vtc-en-leur-accordant-le-meme-acces-aux-sites-aux-gares-que-les-taxis-se-rejouit-la-directrice-generale-d-uber-france_6548678.html)
 append_entries: 1
 Finish: 2024-06-01 01:18:23.217837
+------------------------------------------------------
+Started: 2024-06-01 12:33:53.570895
+Existing_entries: 142
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Voitures électriques : pourquoi "il est essentiel de garder le cap" et d'augmenter rapidement la proportion de véhicules en circulation](https://www.francetvinfo.fr/replay-radio/zero-emission-podcast/voitures-electriques-pourquoi-il-est-essentiel-de-garder-le-cap-et-d-augmenter-rapidement-la-proportion-de-vehicules-en-circulation_6550700.html)
+append_entries: 1
+Finish: 2024-06-01 12:33:57.541228
