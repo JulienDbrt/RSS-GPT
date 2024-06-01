@@ -1101,3 +1101,18 @@ Summarized using GPT-3.5-turbo
 Append: [Kooma : Les producteurs quittent leur campagne pour trouver des clients en ville, dans ce lieu éclectique autour du manger bio](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/kooma-les-producteurs-quittent-leur-campagne-pour-trouver-des-clients-en-ville-dans-ce-lieu-eclectique-autour-du-manger-bio-2966780.html)
 append_entries: 3
 Finish: 2024-05-31 12:40:11.548029
+------------------------------------------------------
+Started: 2024-06-01 01:19:16.479390
+Existing_entries: 251
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 299
+Summarized using GPT-3.5-turbo
+Append: ["Il va manquer de l’eau pour quelqu’un" : des agriculteurs inquiets face au projet de mine de lithium dans l’Allier](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/allier/vichy/il-va-manquer-de-l-eau-pour-quelqu-un-des-agriculteurs-inquiets-face-au-projet-de-mine-de-lithium-dans-l-allier-2978705.html)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Agriculteurs en colère : ils avaient déversé du fumier dans une station-service, six agriculteurs convoqués par les gendarmes](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/agriculteurs-en-colere-ils-avaient-deverse-du-fumier-dans-une-station-service-six-agriculteurs-convoques-par-les-gendarmes-2978822.html)
+Token length: 312
+Summarized using GPT-3.5-turbo
+Append: [Inondations, coulées de boues, érosion des sols : comment agir ? Une question posée par un maire du Pas-de-Calais](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/inondations-coulees-de-boues-erosion-des-sols-comment-agir-une-question-posee-par-un-maire-du-pas-de-calais-2978420.html)
+append_entries: 3
+Finish: 2024-06-01 01:19:28.586546

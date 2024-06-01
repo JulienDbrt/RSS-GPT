@@ -564,3 +564,9 @@ Summarized using GPT-3.5-turbo
 Append: [Meilleures compagnies aériennes de la planète: voici le classement](https://www.bfmtv.com/economie/entreprises/aeronautique/meilleures-compagnies-aeriennes-de-la-planete-voici-le-classement_AV-202405300648.html)
 append_entries: 3
 Finish: 2024-05-31 12:35:07.480815
+------------------------------------------------------
+Started: 2024-06-01 01:15:45.921445
+Existing_entries: 72
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+append_entries: 0
+Finish: 2024-06-01 01:15:46.020811

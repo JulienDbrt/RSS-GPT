@@ -1279,3 +1279,12 @@ Summarized using GPT-3.5-turbo
 Append: [Mastercard lance Crypto Credential, une révolution des transactions !](https://www.cointribune.com/mastercard-lance-crypto-credential-une-revolution-des-transactions/)
 append_entries: 3
 Finish: 2024-05-31 12:29:40.301271
+------------------------------------------------------
+Started: 2024-06-01 01:11:35.286420
+Existing_entries: 315
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Les ETF ether, un succès attendu en demi-teinte dans l'univers crypto](https://www.bfmtv.com/crypto/ethereum/les-etf-ether-un-succes-attendu-en-demi-teinte-dans-l-univers-crypto_AV-202405310760.html)
+append_entries: 1
+Finish: 2024-06-01 01:11:38.145162

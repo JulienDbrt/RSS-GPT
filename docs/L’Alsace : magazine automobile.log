@@ -641,3 +641,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveauté. Renault Rafale E-Tech 4x4 300 : va-t-il dépasser le mur du son ?](https://www.lalsace.fr/magazine-automobile/2024/05/31/renault-rafale-e-tech-4x4-300-va-t-il-depasser-le-mur-du-son)
 append_entries: 1
 Finish: 2024-05-31 12:41:45.548739
+------------------------------------------------------
+Started: 2024-06-01 01:20:25.617477
+Existing_entries: 91
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [Essai Moto. Avec la Svartpilen 801, Husqvarna s’attaque à la route](https://www.lalsace.fr/magazine-automobile/2024/05/31/avec-la-svartpilen-801-husqvarna-s-attaque-a-la-route)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Van et Camping-car. Nouveau VW California : toujours plus sophistiqué et plus pratique](https://www.lalsace.fr/magazine-tourisme-et-patrimoine/2024/05/31/nouveau-vw-california-toujours-plus-sophistiquee-et-plus-pratique)
+append_entries: 2
+Finish: 2024-06-01 01:20:33.910198

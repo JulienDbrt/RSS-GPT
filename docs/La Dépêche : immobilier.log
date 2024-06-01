@@ -556,3 +556,9 @@ Summarized using GPT-3.5-turbo
 Append: [DIRECT. Les notaires répondent à vos questions de la vie quotidienne](https://www.ladepeche.fr/2024/05/31/direct-les-notaires-repondent-a-vos-questions-de-la-vie-quotidienne-11985678.php)
 append_entries: 1
 Finish: 2024-05-31 12:43:48.227473
+------------------------------------------------------
+Started: 2024-06-01 01:22:20.112612
+Existing_entries: 66
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-06-01 01:22:20.865600

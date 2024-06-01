@@ -791,3 +791,12 @@ Existing_entries: 141
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-05-31 12:38:56.745298
+------------------------------------------------------
+Started: 2024-06-01 01:18:19.561315
+Existing_entries: 141
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : "On fait confiance aux VTC en leur accordant le même accès aux sites aux gares que les taxis", se réjouit la directrice générale d'Uber France](https://www.francetvinfo.fr/replay-radio/l-interview-eco/paris-2024-on-fait-confiance-aux-vtc-en-leur-accordant-le-meme-acces-aux-sites-aux-gares-que-les-taxis-se-rejouit-la-directrice-generale-d-uber-france_6548678.html)
+append_entries: 1
+Finish: 2024-06-01 01:18:23.217837

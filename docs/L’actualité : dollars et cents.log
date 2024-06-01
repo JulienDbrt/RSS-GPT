@@ -497,3 +497,15 @@ Summarized using GPT-3.5-turbo
 Append: [Action collective contre Apple : avez-vous droit à l’indemnisation, oui ou non ?](https://lactualite.com/finances-personnelles/action-collective-contre-apple-avez-vous-droit-a-lindemnisation-oui-ou-non/)
 append_entries: 1
 Finish: 2024-05-31 12:41:41.268106
+------------------------------------------------------
+Started: 2024-06-01 01:20:17.483326
+Existing_entries: 63
+Fetching from https://lactualite.com/dollars-et-cents/feed/
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [Faites de l’argent grâce aux animaux de vos voisins](https://lactualite.com/finances-personnelles/faites-de-largent-grace-aux-animaux-de-vos-voisins/)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [Magasiner son véhicule en fonction de la prime d’assurance](https://lactualite.com/finances-personnelles/magasiner-son-vehicule-en-fonction-de-la-prime-dassurance/)
+append_entries: 2
+Finish: 2024-06-01 01:20:25.569779

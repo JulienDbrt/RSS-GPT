@@ -7800,3 +7800,10 @@ Append: [Pourquoi le marché de la cryptographie est-il en hausse aujourd’hui 
 Append: [Ripple dévoile sa feuille de route XRP Ledger DeFi](https://www.lacryptomonnaie.net/italien/ripple-devoile-sa-feuille-de-route-xrp-ledger-defi/)
 append_entries: 99
 Finish: 2024-05-31 12:31:58.635432
+------------------------------------------------------
+Started: 2024-06-01 01:13:00.871638
+Existing_entries: 1099
+Fetching from https://www.lacryptomonnaie.net/feed/
+Feed error: 500
+append_entries: 0
+error when rendering xml, skip docs/La cryptomonnaie

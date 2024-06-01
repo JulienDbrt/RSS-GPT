@@ -722,3 +722,18 @@ Summarized using GPT-3.5-turbo
 Append: [Travail : La réforme de l’assurance-chômage va-t-elle détruire l’emploi saisonnier ?](https://www.20minutes.fr/economie/4093527-20240531-travail-reforme-assurance-chomage-va-detruire-emploi-saisonnier)
 append_entries: 2
 Finish: 2024-05-31 12:33:48.437661
+------------------------------------------------------
+Started: 2024-06-01 01:14:44.878428
+Existing_entries: 118
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Dette : L’agence de notation S & P abaisse la note de la France de « AA » à « AA- »](https://www.20minutes.fr/economie/4094019-20240531-dette-agence-notation-p-abaisse-note-france-aa-aa)
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [Salon de Genève 2024 : Boudé par les constructeurs automobiles, le salon se saborde](https://www.20minutes.fr/economie/4094007-20240531-salon-geneve-2024-boude-constructeurs-automobiles-salon-saborde)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Alimentation : Les meilleurs morceaux de l’audition du numéro un de la viande qui démonte la loi Egalim](https://www.20minutes.fr/economie/4094008-20240531-alimentation-meilleurs-morceaux-audition-numero-viande-demonte-loi-egalim)
+append_entries: 3
+Finish: 2024-06-01 01:14:51.621014

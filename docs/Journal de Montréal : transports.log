@@ -639,3 +639,9 @@ Summarized using GPT-3.5-turbo
 Append: [Travaux, funérailles et tours de vélo: un casse-tête à venir pour les automobilistes à Montréal](https://www.journaldemontreal.com/2024/05/30/travaux-funerailles-et-tours-de-velo-un-casse-tete-a-venir-pour-les-automobilistes-a-montreal)
 append_entries: 3
 Finish: 2024-05-31 12:41:35.361890
+------------------------------------------------------
+Started: 2024-06-01 01:20:16.683171
+Existing_entries: 87
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-01 01:20:17.007327

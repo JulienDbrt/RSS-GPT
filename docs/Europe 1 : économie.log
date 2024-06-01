@@ -772,3 +772,12 @@ Summarized using GPT-3.5-turbo
 Append: [Standard & Poor's : qu'est-ce que changerait une dégradation de la note de la France ?](https://www.europe1.fr/economie/standard-and-poors-quest-ce-que-changerait-une-degradation-de-la-note-de-la-france-4250039)
 append_entries: 5
 Finish: 2024-05-31 12:38:26.114986
+------------------------------------------------------
+Started: 2024-06-01 01:17:23.847280
+Existing_entries: 136
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [La note de la France abaissée par l'agence de notation Standard & Poor's, de «AA» à «AA-»](https://www.europe1.fr/economie/la-note-de-la-france-abaissee-par-lagence-de-notation-standard-and-poors-de-aa-a-aa-4250271)
+append_entries: 1
+Finish: 2024-06-01 01:17:27.094812

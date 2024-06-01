@@ -541,3 +541,12 @@ Existing_entries: 51
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-05-31 12:42:49.516249
+------------------------------------------------------
+Started: 2024-06-01 01:21:11.360313
+Existing_entries: 51
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [Les prix des produits pétroliers en baisse au 1er juin 2024 en Martinique](https://la1ere.francetvinfo.fr/martinique/les-prix-des-produits-petroliers-en-baisse-au-1er-juin-2024-en-martinique-1492949.html)
+append_entries: 1
+Finish: 2024-06-01 01:21:16.309370

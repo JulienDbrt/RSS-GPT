@@ -5,13 +5,71 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Bravez l’obsolescence programmée d’Intel avec du ruban adhésif</title>
+<link>https://korben.info/braver-obsolescence-programmee-intel-ruban-kapton.html</link>
+<guid>https://korben.info/braver-obsolescence-programmee-intel-ruban-kapton.html</guid>
+<content:encoded><![CDATA[
+<div> ruban adhésif isolant Kapton, BIOS, CPU Coffee Lake, carte mère Z170, Z270
+<br>
+<br>
+Pour contourner l'obsolescence programmée imposée par Intel qui limite les cartes mères Z170 et Z270 aux processeurs jusqu'à Kaby Lake, il est possible de faire fonctionner un CPU Coffee Lake sur ces anciennes cartes mères en modifiant le BIOS et en utilisant du ruban Kapton pour créer des ponts entre les broches du socket. Cette manipulation technique nécessite un cerveau en état de marche, une bonne vieille carte mère Z170 ou Z270, un processeur Coffee Lake ainsi que le bon BIOS modifié, ainsi que du ruban adhésif isolant Kapton. Malgré la complexité de l'opération, des astucieux passionnés ont réussi à contourner les restrictions d'Intel et à prolonger la durée de vie de leurs équipements. Video link showing step-by-step guide to achieve this feat is also provided for further assistance. 
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="409" src="https://korben.info/app/uploads/2024/05/SCR-20240531-lku.webp" width="1198" /></p>
+<p>Vous pensez que votre carte mère Intel de série Z170 ou Z270 ne supporte que les CPU jusqu&rsquo;à Kaby Lake (6e et 7e génération) ? C&rsquo;est ce qu&rsquo;Intel voudrait nous faire croire pour nous obliger à acheter une nouvelle carte mère à chaque changement évolution de leur CPU. Mais y&rsquo;a des petits malins qui ont trouvé la parade. C&rsquo;est un peu technique mais très rigolo.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-380102439" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec un peu de ruban adhésif isolant Kapton et une modification du BIOS, vous pouvez parfaitement faire tourner un <strong>CPU Coffee Lake</strong> flambant neuf sur votre ancienne carte mère. Adios l&rsquo;obsolescence programmée !</p>
+
+
+
+<p>Pour réaliser cette prouesse, vous aurez besoin de 4 éléments essentiels :</p>
+
+
+
+<ol>
+<li>Un cerveau en état de marche</li>
+
+
+
+<li>Une bonne vieille carte mère Z170 ou Z270</li>
+
+
+
+<li>Un processeur Coffee Lake (8e ou 9e génération) ainsi que le bon BIOS modifié</li>
+
+
+
+<li>Un peu de ruban Kapton et de quoi réaliser des ponts entre des broches du socket</li>
+</ol>
+
+
+
+<p>C&rsquo;est un peu technique mais il y a <a href="https://linustechtips.com/topic/1118475-guide-running-coffeelakerefresh-cpus-on-skykabylake-motherboards/" rel="noopener" target="_blank">toutes les explications ici</a>, ainsi que dans cette vidéo : </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p><a href="https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 13:48:06 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 13:48:06 +0000</pubDate>
+</item>
+
+<item>
 <title>APISR – Upscaling d’animes en temps réel</title>
 <link>https://korben.info/apisr-ia-revolutionnaire-upscaling-anime-temps-reel.html</link>
 <guid>https://korben.info/apisr-ia-revolutionnaire-upscaling-anime-temps-reel.html</guid>
 <content:encoded><![CDATA[
-<div> Club Dorothée, animes, APISR, remasteriser, fans <br>
-<br>
-Summary: <br>
+<div> Club Dorothée, animes, APISR, remasteriser, fans <br />
+<br />
+Summary: <br />
 Le projet APISR permet de remasteriser les animes classiques en améliorant leur qualité graphique grâce à des techniques inspirées de la production d'animes. En sélectionnant les frames les plus riches en informations, APISR élimine les artéfacts de dégradation et améliore les dessins pour offrir aux fans la possibilité de redécouvrir leurs animes préférés avec une qualité digne des productions actuelles. Les résultats sont impressionnants et les amateurs pourront profiter de ces versions remasterisées en temps réel. Bien que les outils pour visionner ces versions remasterisées ne soient pas encore disponibles, les fans peuvent d'ores et déjà tester APISR pour se plonger dans l'univers des animes de leur jeunesse avec une toute nouvelle perspective. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_anime_manga_80s_with_logo_text_APISR_604abb58-37ea-44f5-9ba8-1969f51e6c2c.png" width="1456" /></p>
 <p>Comme beaucoup d&rsquo;entre vous, j&rsquo;ai été élévé au Club Dorothée et malheureusement, en 2024, tous ces animés de notre enfance, de Goldorak aux Chevaliers du Zodiaque, en passant par Nicky Larson, ont quand même mal vieilli. Ah si seulement, on pouvait les améliorer pour les remettre graphiquement au goût du jour&#8230; Et bien bonne nouvelle, c&rsquo;est possible grâce au projet <strong>APISR</strong>.</p>
@@ -40,9 +98,7 @@ Le projet APISR permet de remasteriser les animes classiques en améliorant leur
 <p>En attendant de voir ces versions remasterisées grâce à des players ou des outils qui n&rsquo;existent pas encore, vous pouvez déjà tester APISR grâce <a href="https://github.com/Kiteretsu77/APISR" rel="noopener" target="_blank">au code source disponible sur GitHub</a> ou via <a href="https://huggingface.co/spaces/HikariDawn/APISR" rel="noopener" target="_blank">Huggingface</a>.</p>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 31 May 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>QuickTune – Un mini player Apple Music qui ressuscite QuickTime</title>
 <link>https://korben.info/quicktune-mini-player-apple-music-ressuscite-quicktime.html</link>

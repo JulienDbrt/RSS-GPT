@@ -783,3 +783,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les signalements de blanchiment d’argent ont grimpé de 50% en un an](https://www.7sur7.be/economie/les-signalements-de-blanchiment-dargent-ont-grimpe-de-50-en-un-an~a3f43588/)
 append_entries: 3
 Finish: 2024-05-31 12:33:59.132511
+------------------------------------------------------
+Started: 2024-06-01 01:14:51.694991
+Existing_entries: 145
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Coup dur pour la France: l'agence S&P abaisse la note du pays en raison des déficits, une première depuis 2013](https://www.7sur7.be/economie/coup-dur-pour-la-france-l-agence-setp-abaisse-la-note-du-pays-en-raison-des-deficits-une-premiere-depuis-2013~afb3a639/)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [La chaîne Bristol, qui compte 117 magasins en Belgique, demande une réorganisation judiciaire](https://www.7sur7.be/belgique/la-chaine-bristol-qui-compte-117-magasins-en-belgique-demande-une-reorganisation-judiciaire~a316c37a/)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [La Belgique et l’Allemagne envisagent une connexion sous-marine à haute tension](https://www.7sur7.be/belgique/la-belgique-et-lallemagne-envisagent-une-connexion-sous-marine-a-haute-tension~a42c81f2/)
+append_entries: 3
+Finish: 2024-06-01 01:15:01.871903

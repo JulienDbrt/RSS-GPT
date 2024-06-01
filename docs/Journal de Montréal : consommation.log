@@ -628,3 +628,9 @@ Summarized using GPT-3.5-turbo
 Append: [Alerte de Nissan: attention, ne conduisez pas ces modèles de voiture](https://www.journaldemontreal.com/2024/05/30/alerte-de-nissan-attention-ne-conduisez-pas-ces-modeles-de-voiture)
 append_entries: 2
 Finish: 2024-05-31 12:41:27.328533
+------------------------------------------------------
+Started: 2024-06-01 01:20:16.331984
+Existing_entries: 82
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-06-01 01:20:16.637859

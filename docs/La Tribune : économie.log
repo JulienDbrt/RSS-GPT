@@ -1540,3 +1540,24 @@ Summarized using GPT-3.5-turbo
 Append: [Chine : tensions commerciales, crise de l'immobilier, chômage des jeunes pèsent sur l'activité manufacturière](https://www.latribune.fr/economie/international/chine-tensions-commerciales-crise-de-l-immobilier-chomage-des-jeunes-pesent-sur-l-activite-manufacturiere-998768.html)
 append_entries: 10
 Finish: 2024-05-31 12:45:15.194241
+------------------------------------------------------
+Started: 2024-06-01 01:22:59.177428
+Existing_entries: 384
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 347
+Summarized using GPT-3.5-turbo
+Append: [L'agence Standard & Poor's dégrade la note de la France et sanctionne ses déficits](https://www.latribune.fr/economie/france/l-agence-standard-poor-s-degrade-la-note-de-la-france-998798.html)
+Token length: 368
+Summarized using GPT-3.5-turbo
+Append: [Dette, déficit... les Français sont toujours dans le flou en matière d'économie, à dix jours des européennes (sondage)](https://www.latribune.fr/economie/france/dette-deficit-les-francais-sont-toujours-dans-le-flou-en-matiere-d-economie-a-dix-jours-des-europeennes-sondage-998796.html)
+Token length: 322
+Summarized using GPT-3.5-turbo
+Append: [Etats-Unis : malgré une inflation stable, la Fed n'est pas encore prête à baisser ses taux](https://www.latribune.fr/economie/international/etats-unis-malgre-une-inflation-stable-la-fed-n-est-pas-encore-prete-a-baisser-ses-taux-998792.html)
+Token length: 342
+Summarized using GPT-3.5-turbo
+Append: [Croissance : Bercy peut-il tenir son objectif de 1% en 2024 ?](https://www.latribune.fr/economie/france/croissance-bercy-peut-il-tenir-son-objectif-de-1-en-2024-998764.html)
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : le géant Evergrande poursuit sa descente aux enfers avec une amende d'un demi-milliard d'euros](https://www.latribune.fr/economie/international/immobilier-le-geant-evergrande-poursuit-sa-descente-aux-enfers-avec-une-amende-d-un-demi-milliard-d-euros-998783.html)
+append_entries: 5
+Finish: 2024-06-01 01:23:12.444976
