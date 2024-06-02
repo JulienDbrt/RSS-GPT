@@ -790,3 +790,12 @@ Summarized using GPT-3.5-turbo
 Append: [Été : les Français prévoient un budget de 2.102 euros pour deux semaines de vacances en 2024](https://www.europe1.fr/economie/ete-les-francais-prevoient-un-budget-de-2102-euros-pour-deux-semaines-de-vacances-cette-annee-4250263)
 append_entries: 1
 Finish: 2024-06-01 12:33:06.926606
+------------------------------------------------------
+Started: 2024-06-02 01:16:20.419812
+Existing_entries: 138
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 366
+Summarized using GPT-3.5-turbo
+Append: [Repli du marché automobile français en mai, une première depuis l'été 2022](https://www.europe1.fr/economie/repli-du-marche-automobile-francais-en-mai-une-premiere-depuis-lete-2022-4250360)
+append_entries: 1
+Finish: 2024-06-02 01:16:22.618887

@@ -1873,3 +1873,12 @@ Summarized using GPT-3.5-turbo
 Append: [Virements décalés pour les pensions de retraite, CAF... Le calendrier des versements en juin](https://www.moneyvox.fr/votre-argent/actualites/98034/virements-decales-pour-les-pensions-de-retraite-caf-le-calendrier-des-versements-en-juin)
 append_entries: 8
 Finish: 2024-06-01 12:34:32.425508
+------------------------------------------------------
+Started: 2024-06-02 01:16:46.094078
+Existing_entries: 543
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Assurance auto : voici ce que vous devez savoir avant de souscrire](https://www.moneyvox.fr/assurance/actualites/98032/assurance-auto-voici-ce-que-vous-devez-savoir-avant-de-souscrire)
+append_entries: 1
+Finish: 2024-06-02 01:16:48.760259

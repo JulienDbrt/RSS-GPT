@@ -581,3 +581,9 @@ Summarized using GPT-3.5-turbo
 Append: [Crédits immobiliers : c’est le bon moment pour négocier](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/credits-immobiliers-c-est-le-bon-moment-pour-negocier_6550718.html)
 append_entries: 1
 Finish: 2024-06-01 12:33:53.498035
+------------------------------------------------------
+Started: 2024-06-02 01:16:43.895627
+Existing_entries: 67
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-02 01:16:44.146026

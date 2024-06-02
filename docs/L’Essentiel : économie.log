@@ -841,3 +841,15 @@ Existing_entries: 207
 Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
 append_entries: 0
 Finish: 2024-06-01 12:35:22.515900
+------------------------------------------------------
+Started: 2024-06-02 01:17:18.901175
+Existing_entries: 207
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Cryptomonnaies: Ils perdent 280 millions d’euros en bitcoins après un piratage](https://www.lessentiel.lu/fr/story/piratage-de-crypto-une-plateforme-perd-280-millions-deuros-en-bitcoins-103118210)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Tourisme: Le projet de lancer des «hôtels sur rails» en Europe est abandonné](https://www.lessentiel.lu/fr/story/tourisme-projet-de-lancer-des-hotels-sur-rails-en-europe-est-abandonne-103118180)
+append_entries: 2
+Finish: 2024-06-02 01:17:27.579924

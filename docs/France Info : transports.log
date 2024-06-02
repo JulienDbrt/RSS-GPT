@@ -809,3 +809,9 @@ Summarized using GPT-3.5-turbo
 Append: [Voitures électriques : pourquoi "il est essentiel de garder le cap" et d'augmenter rapidement la proportion de véhicules en circulation](https://www.francetvinfo.fr/replay-radio/zero-emission-podcast/voitures-electriques-pourquoi-il-est-essentiel-de-garder-le-cap-et-d-augmenter-rapidement-la-proportion-de-vehicules-en-circulation_6550700.html)
 append_entries: 1
 Finish: 2024-06-01 12:33:57.541228
+------------------------------------------------------
+Started: 2024-06-02 01:16:44.220413
+Existing_entries: 143
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-06-02 01:16:44.604552

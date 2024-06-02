@@ -739,3 +739,12 @@ Summarized using GPT-3.5-turbo
 Append: [Boulogne-sur-Mer, Dunkerque, Le Havre… Ces villes où les prix immobiliers repartent à la hausse](https://www.bfmtv.com/immobilier/prix-immobilier/boulogne-sur-mer-dunkerque-le-havre-ces-villes-ou-les-prix-immobiliers-repartent-a-la-hausse_AN-202406010227.html)
 append_entries: 2
 Finish: 2024-06-01 12:32:35.673357
+------------------------------------------------------
+Started: 2024-06-02 01:15:54.062134
+Existing_entries: 139
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Un propriétaire peut aussi risquer des amendes en cas de sous-location illégale sur Airbnb](https://www.bfmtv.com/immobilier/location/un-proprietaire-peut-aussi-risquer-des-amendes-en-cas-de-sous-location-illegale-sur-airbnb_AD-202406010322.html)
+append_entries: 1
+Finish: 2024-06-02 01:15:56.253571

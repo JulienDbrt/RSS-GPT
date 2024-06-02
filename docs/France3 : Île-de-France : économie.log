@@ -696,3 +696,18 @@ Existing_entries: 112
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-01 12:34:34.554765
+------------------------------------------------------
+Started: 2024-06-02 01:16:50.365342
+Existing_entries: 112
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. Sur la ligne 4, des voyageurs évacués suite à un "incident technique"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/video-sur-la-ligne-4-des-voyageurs-evacues-suite-a-un-incident-technique-2979206.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Mort de Clément Méric: des milliers de manifestants à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/mort-de-clement-meric-des-milliers-de-manifestants-a-paris-2979170.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Notre-Dame de Paris: 110 duos d'artistes candidats pour la conception des vitraux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/notre-dame-de-paris-110-duos-d-artistes-candidats-pour-la-conception-des-vitraux-2979068.html)
+append_entries: 3
+Finish: 2024-06-02 01:16:55.970210

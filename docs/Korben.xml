@@ -4,14 +4,15 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Reko – Un outil de décompilation multiplateforme</title>
 <link>https://korben.info/reko-outil-decompilation-multiplateforme.html</link>
 <guid>https://korben.info/reko-outil-decompilation-multiplateforme.html</guid>
 <content:encoded><![CDATA[
-<div> décortiquer, binaires, traduire, interfaces, architectures <br>
-<br>
-Summary: <br>
+<div> décortiquer, binaires, traduire, interfaces, architectures <br />
+<br />
+Summary: <br />
 Reko est une boîte à outils complète pour décortiquer les binaires en les traduisant en langages de plus haut niveau. Il est compatible avec les systèmes d'exploitation Windows, Linux et Mac, et propose une interface graphique conviviale pour les novices ainsi qu'une interface en ligne de commande pour les utilisateurs avancés. La bibliothèque embarquée prend en charge une variété d'architectures processeur et de formats de fichiers binaires, offrant ainsi une polyvalence dans l'analyse des programmes. De plus, Reko peut exécuter automatiquement des scripts de décompression, ce qui facilite le reverse engineering. En résumé, Reko est un outil polyvalent et puissant qui permet de mieux comprendre le fonctionnement des programmes et de s'adonner au reverse engineering de manière efficace. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="277" src="https://korben.info/app/uploads/2024/04/SCR-20240401-qkaw.webp" width="1000" /></p>
 <p><strong>Reko</strong> est une boîte à outils complète qui va vous permettre de décortiquer les<strong> binaires</strong> et de les traduire en langages de plus haut niveau, que vous soyez sur Windows, Linux ou Mac (c&rsquo;est codé en .NET).</p>
@@ -40,9 +41,7 @@ Reko est une boîte à outils complète pour décortiquer les binaires en les tr
 <p><a href="https://github.com/uxmal/reko" rel="noopener" target="_blank">A découvrir ici.</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 01 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 01 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Bravez l’obsolescence programmée d’Intel avec du ruban adhésif</title>
 <link>https://korben.info/braver-obsolescence-programmee-intel-ruban-kapton.html</link>

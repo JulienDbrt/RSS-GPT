@@ -657,3 +657,12 @@ Summarized using GPT-3.5-turbo
 Append: [Projet structurant de l’est: l’ARTM propose un tramway à 18,6 milliards $](https://www.journaldemontreal.com/2024/05/31/projet-structurant-de-lest-un-tramway-a-186-milliards--propose-lartm)
 append_entries: 2
 Finish: 2024-06-01 12:35:08.584240
+------------------------------------------------------
+Started: 2024-06-02 01:17:12.580153
+Existing_entries: 89
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Fermeture d'urgence des ponts Pitfield dans Pierrefonds-Roxboro](https://www.journaldemontreal.com/2024/05/31/fermeture-durgence-des-ponts-pitfield-dans-pierrefonds-roxboro)
+append_entries: 1
+Finish: 2024-06-02 01:17:14.947822
