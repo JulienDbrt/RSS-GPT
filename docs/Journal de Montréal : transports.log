@@ -666,3 +666,9 @@ Summarized using GPT-3.5-turbo
 Append: [Fermeture d'urgence des ponts Pitfield dans Pierrefonds-Roxboro](https://www.journaldemontreal.com/2024/05/31/fermeture-durgence-des-ponts-pitfield-dans-pierrefonds-roxboro)
 append_entries: 1
 Finish: 2024-06-02 01:17:14.947822
+------------------------------------------------------
+Started: 2024-06-02 12:34:22.547832
+Existing_entries: 90
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-02 12:34:22.631780

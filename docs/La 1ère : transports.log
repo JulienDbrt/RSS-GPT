@@ -697,3 +697,15 @@ Summarized using GPT-3.5-turbo
 Append: [Dès le 1er juillet 2024, les vols d'Air Antilles reprendront progressivement](https://la1ere.francetvinfo.fr/guadeloupe/new-air-antilles-embarquement-des-le-1er-juillet-1493177.html)
 append_entries: 1
 Finish: 2024-06-02 01:17:44.401470
+------------------------------------------------------
+Started: 2024-06-02 12:34:50.886052
+Existing_entries: 97
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 31
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : l'imbroglio au port autonome expliqué en six points](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/crise-en-nouvelle-caledonie-l-imbroglio-au-port-autonome-explique-en-5-points-1493282.html)
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : premières évacuations sanitaires depuis les émeutes](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-premieres-evacuations-sanitaires-depuis-les-emeutes-1492730.html)
+append_entries: 2
+Finish: 2024-06-02 12:34:56.809204

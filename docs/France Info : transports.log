@@ -815,3 +815,15 @@ Existing_entries: 143
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-06-02 01:16:44.604552
+------------------------------------------------------
+Started: 2024-06-02 12:33:20.999160
+Existing_entries: 143
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [Boeing : après des incidents en série, l’avionneur placé sous tutelle](https://www.francetvinfo.fr/economie/transports/boeing-apres-des-incidents-en-serie-l-avionneur-place-sous-tutelle_6580181.html)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Antilles : des saisies de produits stupéfiants en série ces dernières semaines](https://www.francetvinfo.fr/economie/transports/trafic/antilles-des-saisies-de-produits-stupefiants-en-serie-ces-dernieres-semaines_6580142.html)
+append_entries: 2
+Finish: 2024-06-02 12:33:27.419272

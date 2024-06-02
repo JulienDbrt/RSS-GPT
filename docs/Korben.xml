@@ -4,6 +4,105 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Terminalizer – Enregistrez et partagez vos sessions de terminal en GIF animé</title>
+<link>https://korben.info/terminalizer-enregistrez-partagez-sessions-terminal-gif.html</link>
+<guid>https://korben.info/terminalizer-enregistrez-partagez-sessions-terminal-gif.html</guid>
+<content:encoded><![CDATA[
+<div> Terminalizer, enregistrement, partage, GIF, collaborer <br>
+<br>Summary: Terminalizer est un outil en ligne de commande qui permet d'enregistrer des sessions de terminal et de les partager facilement. Avec la possibilité de générer des GIF animés ou des liens web, il est idéal pour collaborer, documenter son travail ou simplement faire de la documentation. Facile à installer sur Linux, Windows ou MacOS, il offre une grande flexibilité de personnalisation avec la possibilité de choisir la police, la taille du texte, les couleurs, etc. De plus, il propose des templates pour rendre les enregistrements encore plus attractifs. La fonctionnalité de partage permet de partager les sessions en un clic avec un lien web. En résumé, Terminalizer est un outil incontournable pour ceux qui passent beaucoup de temps sur un terminal et qui souhaitent collaborer, documenter et partager leurs sessions efficacement. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="343" src="https://korben.info/app/uploads/2024/04/SCR-20240401-rjfp.webp" width="1000" /></p>
+<p>Si vous avez envie de <strong>partager une session de votre terminal</strong> avec des collègues ou votre communauté ou tout simplement <strong>enregistrer vos lignes de commandes</strong> pour pouvoir les rejouer plus tard, j&rsquo;ai ce qu&rsquo;il vous faut. Cela s&rsquo;appelle <strong><a href="https://www.terminalizer.com/" rel="noopener" target="_blank">Terminalizer</a></strong>, et c&rsquo;est un outil en ligne de commande qui va changer votre façon de collaborer et d&rsquo;apprendre.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-44720395" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec Terminalizer, vous pouvez facilement <strong>capturer tout ce qui se passe dans votre terminal</strong> et générer un <strong>GIF animé</strong> ou un <strong>lien web</strong> pour le partager en un clic. Super pratique pour montrer en temps réel à un collègue comment résoudre un problème, archiver vos sessions pour documenter votre travail ou tout simplement faire de la doc. Les possibilités sont infinies !</p>
+
+
+
+<p>L&rsquo;un des gros points forts de Terminalizer, c&rsquo;est qu&rsquo;il est <strong>cross-platform</strong>. Que vous soyez sur Linux, Windows ou MacOS, vous pouvez l&rsquo;installer et l&rsquo;utiliser en toute simplicité. D&rsquo;ailleurs, pour l&rsquo;installer, rien de plus simple. Il vous suffit d&rsquo;avoir Node.js sur votre machine, puis de lancer </p>
+
+
+
+<p><code>npm install -g terminalizer</code> </p>
+
+
+
+<p>et le tour est joué !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1338710771" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Une fois installé, lancez une nouvelle session avec </p>
+
+
+
+<p><code>terminalizer record mavideo</code> </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158193" height="316" src="https://korben.info/app/uploads/2024/04/SCR-20240401-rhzf-2.webp" style="width: 560px; height: auto;" width="1000" /></figure></div>
+
+
+<p>et <strong>tout ce que vous ferez dans votre terminal sera alors enregistré</strong>. Une fois que vous avez terminé, vous pourrez alors rejouer la session avec </p>
+
+
+
+<p><code>terminalizer play mavideo</code></p>
+
+
+
+<p>l&rsquo;éditer si besoin, puis générée un rendu avec </p>
+
+
+
+<p><code>terminalizer render mavideo</code> </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158194" height="194" src="https://korben.info/app/uploads/2024/04/SCR-20240401-rikm.webp" style="width: 546px; height: auto;" width="1000" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1572213419" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>pour avoir le fameux GIF qui va bien.</p>
+
+
+
+<p>C&rsquo;est également un outil <strong>hautement configurable</strong> qui vous permet de personnaliser chaque aspect de vos enregistrements. Vous pouvez ainsi choisir la <strong>police</strong>, la <strong>taille du texte</strong>, les <strong>couleurs</strong>, ajouter une <strong>image de fond</strong>, un <strong>titre</strong>&#8230; Bref, donner vie à vos sessions de terminal comme jamais. Vous pouvez même choisir d&rsquo;<strong>ajuster la vitesse</strong>, de <strong>couper certaines parties</strong>, d&rsquo;<strong>ajouter des délaies</strong> entre les commandes, etc.</p>
+
+
+
+<p>Terminalizer propose aussi des <strong>templates</strong> pour rendre vos GIF encore plus attractifs. Vous pourrez choisir entre différents styles de fenêtres, de la classique fenêtre de terminal à des frames plus originales. Bref, de quoi donner un style vraiment pro à vos enregistrements sans aucune compétence en graphisme.</p>
+
+
+
+<p>Côté partage, c&rsquo;est également un jeu d&rsquo;enfant. En plus de pouvoir générer un GIF animé, Terminalizer vous permet de générer un <strong>lien</strong> pour partager votre session avec qui vous voulez. Pour cela, utilisez la commande </p>
+
+
+
+<p><code>terminalizer share mavideo</code></p>
+
+
+
+<p>Et hop, votre session sera uploadée sur leurs serveurs, et vous obtiendrez un lien que vous pourrez partager. Les personnes qui l&rsquo;ouvriront verront alors votre session se jouer dans leur navigateur. Génial pour montrer votre travail au plus grand nombre !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2066386322" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Bref, c&rsquo;est <strong>un incontournable</strong> pour tous ceux qui passent leurs journées sur un terminal.</p>
+
+
+
+<p><a href="https://www.terminalizer.com/" rel="noopener" target="_blank">A découvrir ici !</a></p>
+
+
+
+<p>Happy recording !</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 02 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Reko – Un outil de décompilation multiplateforme</title>

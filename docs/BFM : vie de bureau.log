@@ -474,3 +474,9 @@ Summarized using GPT-3.5-turbo
 Append: [En couple dans la même entreprise, deux salariés licenciés pour faute grave](https://www.bfmtv.com/economie/emploi/vie-de-bureau/en-couple-dans-la-meme-entreprise-deux-salaries-licencies-pour-faute-grave_AV-202406010289.html)
 append_entries: 1
 Finish: 2024-06-02 01:16:02.298452
+------------------------------------------------------
+Started: 2024-06-02 12:31:51.725105
+Existing_entries: 36
+Fetching from https://www.bfmtv.com/rss/economie/emploi/vie-de-bureau/
+append_entries: 0
+Finish: 2024-06-02 12:31:51.776795

@@ -752,3 +752,12 @@ Existing_entries: 122
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-06-02 01:14:41.966828
+------------------------------------------------------
+Started: 2024-06-02 12:29:55.245177
+Existing_entries: 122
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Dette : Bruno Le Maire dit non aux hausses d’impôts mais oui à une baisse des dépenses publiques](https://www.20minutes.fr/economie/4094098-20240602-dette-bruno-maire-dit-non-hausses-impots-oui-baisse-depenses-publiques)
+append_entries: 1
+Finish: 2024-06-02 12:30:02.555823

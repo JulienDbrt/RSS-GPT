@@ -896,3 +896,15 @@ Existing_entries: 190
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-06-02 01:16:23.541540
+------------------------------------------------------
+Started: 2024-06-02 12:32:41.839728
+Existing_entries: 190
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Atterrissage sur la face cachée de la Lune de la sonde chinoise lancée début mai](https://www.martinique.franceantilles.fr/actualite/economie/atterrissage-sur-la-face-cachee-de-la-lune-de-la-sonde-chinoise-lancee-debut-mai-989461.php)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Une plante qui en vaut trente pour purifier l'air des molécules toxiques](https://www.martinique.franceantilles.fr/actualite/economie/une-plante-qui-en-vaut-trente-pour-purifier-lair-des-molecules-toxiques-989462.php)
+append_entries: 2
+Finish: 2024-06-02 12:32:51.155830

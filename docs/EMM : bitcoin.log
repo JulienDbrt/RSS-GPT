@@ -2694,3 +2694,12 @@ Summarized using GPT-3.5-turbo
 Append: [Pourquoi le White Paper du Bitcoin a été supprimé de son site officiel](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/pourquoi-le-white-paper-du-bitcoin-a-ete-supprime-de-son-site-officiel)
 append_entries: 6
 Finish: 2024-06-02 01:12:08.755576
+------------------------------------------------------
+Started: 2024-06-02 12:27:15.291165
+Existing_entries: 1006
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Une femme anglo-chinoise condamnée à 6 ans de prison pour blanchiment de Bitcoin dans le cadre d’une escroquerie de 6 milliards de dollars](https://www.nouvelles-du-monde.com/une-femme-anglo-chinoise-condamnee-a-6-ans-de-prison-pour-blanchiment-de-bitcoin-dans-le-cadre-dune-escroquerie-de-6-milliards-de-dollars/)
+append_entries: 1
+Finish: 2024-06-02 12:27:19.856408

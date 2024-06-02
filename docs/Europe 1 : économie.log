@@ -799,3 +799,18 @@ Summarized using GPT-3.5-turbo
 Append: [Repli du marché automobile français en mai, une première depuis l'été 2022](https://www.europe1.fr/economie/repli-du-marche-automobile-francais-en-mai-une-premiere-depuis-lete-2022-4250360)
 append_entries: 1
 Finish: 2024-06-02 01:16:22.618887
+------------------------------------------------------
+Started: 2024-06-02 12:32:34.115387
+Existing_entries: 139
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Les Français payent moins d’impôts locaux qu’il y a cinq ans, mais que font-ils de ces économies ?](https://www.europe1.fr/economie/les-francais-payent-moins-dimpots-locaux-aujourdhui-quil-y-a-5-ans-mais-que-font-ils-de-ces-economies-4250401)
+Token length: 433
+Summarized using GPT-3.5-turbo
+Append: [Concerts de Taylor Swift en France : des bénéfices pour le tourisme lyonnais](https://www.europe1.fr/economie/concert-de-taylor-swift-en-france-des-benefices-pour-le-tourisme-lyonnais-4250359)
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [Automobile : le constructeur chinois high-tech XPeng débarque en France](https://www.europe1.fr/economie/automobile-le-constructeur-chinois-high-tech-xpeng-debarque-en-france-4250376)
+append_entries: 3
+Finish: 2024-06-02 12:32:41.749828

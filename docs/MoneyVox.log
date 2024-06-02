@@ -1882,3 +1882,18 @@ Summarized using GPT-3.5-turbo
 Append: [Assurance auto : voici ce que vous devez savoir avant de souscrire](https://www.moneyvox.fr/assurance/actualites/98032/assurance-auto-voici-ce-que-vous-devez-savoir-avant-de-souscrire)
 append_entries: 1
 Finish: 2024-06-02 01:16:48.760259
+------------------------------------------------------
+Started: 2024-06-02 12:33:35.419919
+Existing_entries: 544
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Retraite : ces 8 erreurs à éviter pour toucher votre pension](https://www.moneyvox.fr/retraite/actualites/98040/ces-8-erreurs-a-eviter-pour-toucher-votre-pension)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Mauvaise nouvelle pour le taux du LEP, livret bancaire nul... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/98026/mauvaise-nouvelle-pour-le-taux-du-lep-livret-bancaire-nul-les-5-infos-argent-de-la-semaine)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Impôt sur le revenu : comment corriger votre déclaration 2024 (même après la date limite)](https://www.moneyvox.fr/impot/actualites/98011/impot-sur-le-revenu-comment-corriger-votre-declaration-2024)
+append_entries: 3
+Finish: 2024-06-02 12:33:45.039452

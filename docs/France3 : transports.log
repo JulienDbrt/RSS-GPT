@@ -1391,3 +1391,21 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. Découvrez le monstre souterrain qui va creuser les galeries du prolongement du métro](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/video-decouvrez-le-monstre-souterrain-qui-va-creuser-les-galeries-du-prolongement-du-metro-2979146.html)
 append_entries: 4
 Finish: 2024-06-02 01:17:12.307346
+------------------------------------------------------
+Started: 2024-06-02 12:34:10.710525
+Existing_entries: 342
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Comment cette gare régionale est devenue la plus importante de France](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/comment-cette-gare-regionale-est-devenue-la-plus-importante-de-france-2978537.html)
+Token length: 386
+Summarized using GPT-3.5-turbo
+Append: [Des manifestants écologistes dégradent les installations d'un site d'exploitation de gravier](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/des-manifestants-ecologistes-degradent-les-installations-d-un-site-d-exploitation-de-gravier-2979260.html)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Dans le Val-d'Oise, plusieurs centaines de personnes mobilisées contre un projet de voie rapide](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/dans-le-val-d-oise-plusieurs-centaines-de-personnes-mobilisees-contre-un-projet-de-voie-rapide-2979233.html)
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [Et si l'âge d'or de la mobylette n'était pas révolu ? Entre nostalgie et amour du vintage, la mob revient en force](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/et-si-l-age-d-or-de-la-mobylette-n-etait-pas-revolu-entre-nostalgie-et-amour-du-vintage-la-mob-revient-en-force-2811323.html)
+append_entries: 4
+Finish: 2024-06-02 12:34:22.357988

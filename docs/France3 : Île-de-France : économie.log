@@ -711,3 +711,15 @@ Summarized using GPT-3.5-turbo
 Append: [Notre-Dame de Paris: 110 duos d'artistes candidats pour la conception des vitraux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/notre-dame-de-paris-110-duos-d-artistes-candidats-pour-la-conception-des-vitraux-2979068.html)
 append_entries: 3
 Finish: 2024-06-02 01:16:55.970210
+------------------------------------------------------
+Started: 2024-06-02 12:33:46.202938
+Existing_entries: 115
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Dans le Val-d'Oise, plusieurs centaines de personnes mobilisées contre un projet de voie rapide](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/dans-le-val-d-oise-plusieurs-centaines-de-personnes-mobilisees-contre-un-projet-de-voie-rapide-2979233.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [CARTE. Cyberdéfense, lutte contre le réchauffement climatique, biodiversité, sécurité... Comment sont utilisés les fonds européens en Île-de-France ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/carte-cyberdefense-lutte-contre-le-rechauffement-climatique-biodiversite-securite-comment-sont-utilises-les-fonds-europeens-en-ile-de-france-2977700.html)
+append_entries: 2
+Finish: 2024-06-02 12:33:52.429662
