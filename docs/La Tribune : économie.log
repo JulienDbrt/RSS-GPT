@@ -1639,3 +1639,15 @@ Summarized using GPT-3.5-turbo
 Append: [Européennes : Valérie Hayer, une campagne vent de face](https://www.latribune.fr/economie/politique/europeennes-valerie-hayer-une-campagne-vent-de-face-998883.html)
 append_entries: 10
 Finish: 2024-06-02 12:36:58.945634
+------------------------------------------------------
+Started: 2024-06-03 01:15:37.795781
+Existing_entries: 409
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [Halla Tomasdottir, femme d'affaires, élue présidente de l'Islande](https://www.latribune.fr/economie/international/halla-tomasdottir-femme-d-affaires-elue-presidente-de-l-islande-998950.html)
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [Pétrole: les coupes de production de l'Opep+ prolongées](https://www.latribune.fr/economie/international/petrole-les-coupes-de-production-de-l-opep-prolongees-998949.html)
+append_entries: 2
+Finish: 2024-06-03 01:15:43.442087

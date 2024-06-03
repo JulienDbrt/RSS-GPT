@@ -908,3 +908,12 @@ Summarized using GPT-3.5-turbo
 Append: [Une plante qui en vaut trente pour purifier l'air des molécules toxiques](https://www.martinique.franceantilles.fr/actualite/economie/une-plante-qui-en-vaut-trente-pour-purifier-lair-des-molecules-toxiques-989462.php)
 append_entries: 2
 Finish: 2024-06-02 12:32:51.155830
+------------------------------------------------------
+Started: 2024-06-03 01:13:11.859367
+Existing_entries: 192
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [A Lyon, ambiance survoltée pour un week-end "intégrale Taylor Swift"](https://www.martinique.franceantilles.fr/actualite/economie/a-lyon-les-drag-queen-mettent-lambiance-avant-le-concert-de-taylor-swift-989489.php)
+append_entries: 1
+Finish: 2024-06-03 01:13:15.828064

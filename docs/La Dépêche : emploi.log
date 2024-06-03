@@ -880,3 +880,9 @@ Summarized using GPT-3.5-turbo
 Append: [Métiers de la mer : une patronne pour 15 salariés hommes](https://www.ladepeche.fr/2024/06/02/une-patronne-pour-15-salaries-hommes-11989200.php)
 append_entries: 9
 Finish: 2024-06-02 12:36:08.471425
+------------------------------------------------------
+Started: 2024-06-03 01:15:28.605915
+Existing_entries: 166
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-06-03 01:15:29.159052

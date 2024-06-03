@@ -1342,3 +1342,12 @@ Summarized using GPT-3.5-turbo
 Append: [La plateforme DMM Bitcoin perd 277 millions de francs en bitcoins](https://www.pme.ch/latest-news/2024/06/01/la-plateforme-dmm-bitcoin-perd-277-millions-de-francs-en-bitcoins-717333)
 append_entries: 2
 Finish: 2024-06-02 12:27:25.183693
+------------------------------------------------------
+Started: 2024-06-03 01:09:20.235818
+Existing_entries: 328
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Du nouveau pour les clients de Base dès ce lundi](https://www.lesoir.be/592152/article/2024-06-02/du-nouveau-pour-les-clients-de-base-des-ce-lundi)
+append_entries: 1
+Finish: 2024-06-03 01:09:28.849943

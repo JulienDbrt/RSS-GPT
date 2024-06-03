@@ -827,3 +827,12 @@ Summarized using GPT-3.5-turbo
 Append: [Antilles : des saisies de produits stupéfiants en série ces dernières semaines](https://www.francetvinfo.fr/economie/transports/trafic/antilles-des-saisies-de-produits-stupefiants-en-serie-ces-dernieres-semaines_6580142.html)
 append_entries: 2
 Finish: 2024-06-02 12:33:27.419272
+------------------------------------------------------
+Started: 2024-06-03 01:13:44.745129
+Existing_entries: 145
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : le transport en voiture ou à vélo déjà perturbé](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-le-transport-en-voiture-ou-a-velo-deja-perturbe_6580685.html)
+append_entries: 1
+Finish: 2024-06-03 01:13:47.651433

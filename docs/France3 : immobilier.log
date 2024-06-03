@@ -555,3 +555,12 @@ Existing_entries: 61
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-06-02 12:34:10.536585
+------------------------------------------------------
+Started: 2024-06-03 01:14:27.706993
+Existing_entries: 61
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [La façade arrière d'une maison inhabitée s'effondre dans le centre-ville de Lille, les immeubles voisins évacués](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/lille/la-facade-arriere-d-une-maison-inhabitee-s-effondre-dans-le-centre-ville-de-lille-les-immeubles-voisins-evacues-2979383.html)
+append_entries: 1
+Finish: 2024-06-03 01:14:29.584158
