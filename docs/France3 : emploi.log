@@ -804,3 +804,12 @@ Existing_entries: 142
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-06-03 01:14:27.677041
+------------------------------------------------------
+Started: 2024-06-03 12:43:08.435921
+Existing_entries: 142
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [Les salariés de l'usine amiénoise Metex dans l'attente de l'annonce d'un repreneur, Avril a déposé une offre](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/les-salaries-de-l-usine-amienoise-metex-dans-l-attente-de-l-annonce-d-un-repreneur-avril-a-depose-une-offre-2979662.html)
+append_entries: 1
+Finish: 2024-06-03 12:43:10.780852

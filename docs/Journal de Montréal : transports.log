@@ -681,3 +681,9 @@ Summarized using GPT-3.5-turbo
 Append: [Présence de fumée: le REM interrompu pendant plusieurs heures](https://www.journaldemontreal.com/2024/06/01/le-rem-interrompu-pour-une-duree-indeterminee)
 append_entries: 1
 Finish: 2024-06-03 01:14:45.241676
+------------------------------------------------------
+Started: 2024-06-03 12:43:35.248522
+Existing_entries: 91
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-03 12:43:35.368979

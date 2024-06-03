@@ -886,3 +886,21 @@ Existing_entries: 166
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-06-03 01:15:29.159052
+------------------------------------------------------
+Started: 2024-06-03 12:46:02.804095
+Existing_entries: 166
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Recrutements massifs à Toulouse dans l’informatique : 730 emplois à saisir](https://www.ladepeche.fr/2024/06/03/recrutements-massifs-a-toulouse-dans-linformatique-730-emplois-a-saisir-11991352.php)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: ["C’est plus difficile pour la charpente" : au BTP-CFA 47, cette filière boudée par les jeunes](https://www.ladepeche.fr/2024/06/03/cest-plus-difficile-pour-la-charpente-au-btp-cfa-47-le-secteur-du-batiment-est-boude-par-les-jeunes-11991449.php)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: ["L’entreprise consacre 4 à 5 fois le budget légal en matière de formation", cette entreprise de construction emploi jusqu’à 10 % d’apprentis](https://www.ladepeche.fr/2024/06/03/lentreprise-consacre-4-a-5-fois-le-budget-legal-en-matiere-de-formation-cette-entreprise-de-construction-emploi-jusqua-10-dapprentis-11989853.php)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Un nouveau service pour les propriétaires forestiers privés](https://www.ladepeche.fr/2024/06/03/un-nouveau-service-pour-les-proprietaires-forestiers-prives-11990894.php)
+append_entries: 4
+Finish: 2024-06-03 12:46:22.745224

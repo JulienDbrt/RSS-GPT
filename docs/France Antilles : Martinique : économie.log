@@ -917,3 +917,18 @@ Summarized using GPT-3.5-turbo
 Append: [A Lyon, ambiance survoltée pour un week-end "intégrale Taylor Swift"](https://www.martinique.franceantilles.fr/actualite/economie/a-lyon-les-drag-queen-mettent-lambiance-avant-le-concert-de-taylor-swift-989489.php)
 append_entries: 1
 Finish: 2024-06-03 01:13:15.828064
+------------------------------------------------------
+Started: 2024-06-03 12:40:06.060293
+Existing_entries: 193
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Automobile: Toyota et quatre autres fabricants épinglés par un scandale de tests frauduleux au Japon](https://www.martinique.franceantilles.fr/actualite/economie/automobile-toyota-et-quatre-autres-fabricants-epingles-par-un-scandale-de-tests-frauduleux-au-japon-989589.php)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [Le transport aérien s'attend à battre des records en 2024](https://www.martinique.franceantilles.fr/actualite/economie/le-transport-aerien-sattend-a-battre-des-records-en-2024-989565.php)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [Affaire Karachi: le procès en appel du volet financier s'ouvre à Paris](https://www.martinique.franceantilles.fr/actualite/economie/affaire-karachi-le-proces-en-appel-du-volet-financier-souvre-a-paris-989562.php)
+append_entries: 3
+Finish: 2024-06-03 12:40:19.077232

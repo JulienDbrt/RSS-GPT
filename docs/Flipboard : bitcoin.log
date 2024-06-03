@@ -1351,3 +1351,12 @@ Summarized using GPT-3.5-turbo
 Append: [Du nouveau pour les clients de Base dès ce lundi](https://www.lesoir.be/592152/article/2024-06-02/du-nouveau-pour-les-clients-de-base-des-ce-lundi)
 append_entries: 1
 Finish: 2024-06-03 01:09:28.849943
+------------------------------------------------------
+Started: 2024-06-03 12:31:36.300240
+Existing_entries: 329
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [À quoi ressemble le logiciel Bitcoin Core ?](https://www.cointribune.com/a-quoi-ressemble-le-logiciel-bitcoin-core/)
+append_entries: 1
+Finish: 2024-06-03 12:31:40.702159

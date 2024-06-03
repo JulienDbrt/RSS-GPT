@@ -599,3 +599,15 @@ Existing_entries: 67
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-06-03 01:13:44.670076
+------------------------------------------------------
+Started: 2024-06-03 12:41:00.669819
+Existing_entries: 67
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : les Jeux "lubrifient les rouages d'une grosse machine à broyer la vie de personnes déjà extrêmement précarisées", dénonce le collectif le Revers de la médaille](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-les-jeux-lubrifient-les-rouages-d-une-grosse-machine-a-broyer-la-vie-de-personnes-deja-extremement-precarisees-denonce-le-collectif-le-revers-de-la-medaille_6582039.html)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [INFO FRANCEINFO. Paris 2024 : plus de 5 200 personnes ont été déplacées d'Île-de-France vers d'autres régions](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/info-franceinfo-paris-2024-plus-de-5-200-migrants-ont-ete-deplaces-d-ile-de-france-vers-d-autres-regions_6580445.html)
+append_entries: 2
+Finish: 2024-06-03 12:41:10.697587

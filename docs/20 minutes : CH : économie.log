@@ -856,3 +856,24 @@ Existing_entries: 186
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-06-03 01:12:02.016887
+------------------------------------------------------
+Started: 2024-06-03 12:35:22.389111
+Existing_entries: 186
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Les agriculteurs espagnols et français bloquent la frontière](https://www.20min.ch/fr/story/franceespagne-les-agriculteurs-espagnols-et-francais-bloquent-la-frontiere-103119264)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [AMD dévoile de nouvelles puces d’IA pour concurrencer Nvidia](https://www.20min.ch/fr/story/salon-computex-amd-devoile-de-nouvelles-puces-dia-pour-concurrencer-nvidia-103119249)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Le nouvel abo flexible des CFF trouve son public](https://www.20min.ch/fr/story/suisse-le-nouvel-abo-flexible-des-cff-trouve-son-public-103119151)
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [«La prochaine révolution industrielle a commencé»](https://www.20min.ch/fr/story/salon-computex-la-prochaine-revolution-industrielle-a-commence-103119111)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Tests frauduleux: Toyota parmi les cinq fabricants épinglés](https://www.20min.ch/fr/story/japon-tests-frauduleux-toyota-parmi-les-cinq-fabricants-epingles-103119087)
+append_entries: 5
+Finish: 2024-06-03 12:35:47.595546

@@ -767,3 +767,18 @@ Existing_entries: 123
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-06-03 01:12:02.377523
+------------------------------------------------------
+Started: 2024-06-03 12:35:47.655565
+Existing_entries: 123
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Transport aérien : Les quatre records que les compagnies vont battre cette année](https://www.20minutes.fr/economie/4094200-20240603-transport-aerien-pres-cinq-milliards-voyageurs-2024-record-2019-pulverise)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [La glace au Nutella, tube de l’été ou futur flop ?](https://www.20minutes.fr/economie/4093946-20240603-glace-nutella-tube-futur-flop)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [VTC : Pour mieux concurrencer Uber, LeCab rachète Marcel](https://www.20minutes.fr/economie/4094194-20240603-vtc-mieux-concurrencer-uber-lecab-rachete-marcel)
+append_entries: 3
+Finish: 2024-06-03 12:36:01.276420

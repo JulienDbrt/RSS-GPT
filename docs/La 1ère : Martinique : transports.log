@@ -463,3 +463,12 @@ Existing_entries: 15
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-03 01:15:00.932475
+------------------------------------------------------
+Started: 2024-06-03 12:44:48.098107
+Existing_entries: 15
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+Token length: 52
+Summarized using GPT-3.5-turbo
+Append: [Retour d'Air Antilles : quel impact sur les prix des billets d'avion ?](https://la1ere.francetvinfo.fr/martinique/retour-d-air-antilles-quel-impact-sur-les-prix-des-billets-d-avion-1492934.html)
+append_entries: 1
+Finish: 2024-06-03 12:44:53.005316

@@ -547,3 +547,15 @@ Existing_entries: 56
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-06-03 01:10:41.083890
+------------------------------------------------------
+Started: 2024-06-03 12:33:07.979705
+Existing_entries: 56
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Compteurs Linky : bientôt une limitation de la puissance pour faire baisser la consommation ?](https://www.lesnumeriques.com/societe-numerique/compteurs-linky-bientot-une-limitation-de-la-puissance-pour-faire-baisser-la-consommation-n222349.html)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [EXCLUSIF - Limitation de puissance des compteurs Linky : les résultats de l'expérimentation d'Enedis | TF1 INFO](https://www.tf1info.fr/economie/exclusif-limitation-de-puissance-des-compteurs-linky-les-resultats-de-l-experimentation-d-enedis-2301249.html)
+append_entries: 2
+Finish: 2024-06-03 12:33:18.392499

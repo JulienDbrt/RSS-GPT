@@ -1649,3 +1649,12 @@ Summarized using GPT-3.5-turbo
 Append: [Voici combien il faut posséder pour ne plus avoir besoin de travailler en France en 2024](https://www.journaldunet.com/patrimoine/finances-personnelles/1529467-ne-plus-travailler/)
 append_entries: 1
 Finish: 2024-06-03 01:10:40.549658
+------------------------------------------------------
+Started: 2024-06-03 12:33:02.503835
+Existing_entries: 501
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Qui sont les multipropriétaires qui possèdent une grande partie des logements privés des centres-villes ?](https://www.lemonde.fr/les-decodeurs/article/2024/06/03/qui-sont-les-multiproprietaires-qui-possedent-une-grande-partie-des-logements-prives-des-centres-villes_6237006_4355770.html)
+append_entries: 1
+Finish: 2024-06-03 12:33:07.953698

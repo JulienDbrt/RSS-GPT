@@ -702,3 +702,15 @@ Summarized using GPT-3.5-turbo
 Append: [Quelle est cette compagnie qui propose des vols Paris-New York à moins de 100 euros?](https://www.bfmtv.com/economie/entreprises/transports/quelle-est-cette-compagnie-qui-propose-des-vols-paris-new-york-a-moins-de-100-euros_AV-202406020307.html)
 append_entries: 1
 Finish: 2024-06-03 01:12:58.955456
+------------------------------------------------------
+Started: 2024-06-03 12:38:53.269126
+Existing_entries: 108
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Blablacar souhaite vendre des billets de train combinés au covoiturage](https://www.bfmtv.com/economie/entreprises/transports/blablacar-souhaite-vendre-des-billets-de-train-combines-au-covoiturage_AV-202406030405.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Près de cinq milliards de voyageurs aériens prévus dans le monde en 2024, un record](https://www.bfmtv.com/economie/entreprises/transports/pres-de-cinq-milliards-de-voyageurs-aeriens-prevus-dans-le-monde-en-2024-un-record_AD-202406030192.html)
+append_entries: 2
+Finish: 2024-06-03 12:39:01.680863

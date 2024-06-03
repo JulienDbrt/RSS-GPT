@@ -589,3 +589,15 @@ Existing_entries: 67
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-06-03 01:15:29.658385
+------------------------------------------------------
+Started: 2024-06-03 12:46:22.778904
+Existing_entries: 67
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Laurent Jourda nouveau directeur commercial du groupe LP Promotion](https://www.ladepeche.fr/2024/06/03/laurent-jourda-nouveau-directeur-commercial-du-groupe-lp-promotion-11991640.php)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [La foncière toulousaine Midi 2i voit son bénéfice bondir de 20 % en 2023](https://www.ladepeche.fr/2024/06/03/la-fonciere-toulousaine-midi-2i-voit-son-benefice-bondir-de-20-en-2023-11991325.php)
+append_entries: 2
+Finish: 2024-06-03 12:46:29.765158

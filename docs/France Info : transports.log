@@ -836,3 +836,15 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : le transport en voiture ou à vélo déjà perturbé](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-le-transport-en-voiture-ou-a-velo-deja-perturbe_6580685.html)
 append_entries: 1
 Finish: 2024-06-03 01:13:47.651433
+------------------------------------------------------
+Started: 2024-06-03 12:41:10.778191
+Existing_entries: 146
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Transports : le vélo, la nouvelle voiture de fonction](https://www.francetvinfo.fr/economie/transports/transports-le-velo-la-nouvelle-voiture-de-fonction_6581934.html)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [Le transport aérien se prépare à battre des records en 2024, avec près de cinq milliards de voyageurs attendus](https://www.francetvinfo.fr/economie/transports/avec-pres-de-cinq-milliards-de-voyageurs-attendus-en-avion-le-transport-aerien-se-prepare-a-battre-des-records-en-2024_6581840.html)
+append_entries: 2
+Finish: 2024-06-03 12:41:17.239019

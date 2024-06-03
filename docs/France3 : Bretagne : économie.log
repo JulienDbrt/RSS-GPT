@@ -630,3 +630,12 @@ Existing_entries: 84
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-03 01:14:27.375649
+------------------------------------------------------
+Started: 2024-06-03 12:43:02.865248
+Existing_entries: 84
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [L'atelier Le Minor réalise des sacs à main pour Christian Louboutin](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/l-atelier-le-minor-realise-des-sacs-a-main-pour-christian-louboutin-2978957.html)
+append_entries: 1
+Finish: 2024-06-03 12:43:08.364550

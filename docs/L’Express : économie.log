@@ -994,3 +994,18 @@ Summarized using GPT-3.5-turbo
 Append: [Pétrole : l’Opep+ poursuit sa baisse de production jusqu’à fin 2025](https://www.lexpress.fr/economie/petrole-lopep-poursuit-sa-baisse-de-production-jusqua-fin-2025-EGZHX7DEYJDEBKM3UBEJCYRKKI/)
 append_entries: 1
 Finish: 2024-06-03 01:14:56.726532
+------------------------------------------------------
+Started: 2024-06-03 12:43:54.974663
+Existing_entries: 252
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3866
+Summarized using GPT-3.5-turbo
+Append: [Transport aérien : le secteur a-t-il tourné la page du Covid ?](https://www.lexpress.fr/economie/transport-aerien-le-secteur-a-t-il-tourne-la-page-du-covid-BS6HCSJD3BFKNHUE6ACX6PESB4/)
+Token length: 3661
+Summarized using GPT-3.5-turbo
+Append: [Nvidia : les ambitieux projets autour de l’intelligence artificielle](https://www.lexpress.fr/economie/high-tech/nvidia-les-ambitieux-projets-autour-de-lintelligence-artificielle-UTMFBIADQRHWDEUEYRVGO4233Q/)
+Token length: 3964
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : ces grandes entreprises qui risquent le décrochage](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-ces-grandes-entreprises-qui-risquent-le-decrochage-3KT7KZRCBJGWFG2DXY7G7ATBWQ/)
+append_entries: 3
+Finish: 2024-06-03 12:44:07.243566

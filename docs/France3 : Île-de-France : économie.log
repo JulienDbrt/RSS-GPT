@@ -732,3 +732,18 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024: un exercice avant d'accueillir le flux de visiteurs sur le RER B](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/jo-de-paris-2024-un-exercice-avant-d-accueillir-le-flux-de-visiteurs-sur-le-rer-b-2979401.html)
 append_entries: 1
 Finish: 2024-06-03 01:14:13.290090
+------------------------------------------------------
+Started: 2024-06-03 12:42:10.483449
+Existing_entries: 118
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Météo : "On est dans l'incapacité de préparer les sols et de sortir les machines", l'agriculture souffre de la pluie](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/meteo-on-est-dans-l-incapacite-de-preparer-les-sols-et-de-sortir-les-machines-l-agriculture-souffre-de-la-pluie-2978771.html)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : près de 13 000 personnes expulsées hors Île-de-France selon des associations qui dénoncent un "nettoyage social"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-pres-de-13-000-personnes-expulsees-hors-ile-de-france-selon-des-associations-qui-denoncent-un-nettoyage-social-2979509.html)
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [ENTRETIEN. Esport : les jeux vidéo à l'école, outil pédagogique pour les profs ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/entretien-esport-les-jeux-video-a-l-ecole-outil-pedagogique-pour-les-profs-2979164.html)
+append_entries: 3
+Finish: 2024-06-03 12:42:23.352873
