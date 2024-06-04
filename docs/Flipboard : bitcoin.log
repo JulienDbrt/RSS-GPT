@@ -1360,3 +1360,18 @@ Summarized using GPT-3.5-turbo
 Append: [À quoi ressemble le logiciel Bitcoin Core ?](https://www.cointribune.com/a-quoi-ressemble-le-logiciel-bitcoin-core/)
 append_entries: 1
 Finish: 2024-06-03 12:31:40.702159
+------------------------------------------------------
+Started: 2024-06-04 01:09:08.417617
+Existing_entries: 330
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [On sait désormais quelles cryptomonnaies possède Donald Trump et pour quel montant](https://www.bfmtv.com/crypto/on-sait-desormais-quelles-cryptomonnaies-possede-donald-trump-et-pour-quel-montant_AV-202406030729.html)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin : Une remontada à 150 000 dollars ou un crash exponentiel ? – Analyse de Peter Brandt](https://www.cointribune.com/bitcoin-une-remontada-a-150-000-dollars-ou-un-crash-exponentiel-analyse-de-peter-brandt/)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Le cap des 500 millions de personnes possédant des cryptomonnaies a été passé](https://www.bfmtv.com/crypto/le-cap-des-500-millions-de-personnes-possedant-des-cryptomonnaies-a-ete-passe_AN-202406030667.html)
+append_entries: 3
+Finish: 2024-06-04 01:09:18.808287

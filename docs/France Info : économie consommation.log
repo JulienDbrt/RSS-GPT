@@ -2532,3 +2532,33 @@ Append: [Emeutes en Nouvelle-Calédonie : "7 000 emplois directs et indirects pe
 Append: [INFO FRANCEINFO. Paris 2024 : plus de 5 200 personnes ont été déplacées d'Île-de-France vers d'autres régions](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/info-franceinfo-paris-2024-plus-de-5-200-migrants-ont-ete-deplaces-d-ile-de-france-vers-d-autres-regions_6580445.html)
 append_entries: 14
 Finish: 2024-06-03 12:41:00.059820
+------------------------------------------------------
+Started: 2024-06-04 01:16:44.666959
+Existing_entries: 850
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Consommation : pourquoi le jus d'orange coûte de plus en plus cher](https://www.francetvinfo.fr/economie/pouvoir-achat/consommation-pourquoi-le-jus-d-orange-coute-de-plus-en-plus-cher_6582756.html)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [Colère des agriculteurs européens : "Nous n'acceptons pas que des produits normés européens avec l'étiquetage Maroc soient bloqués", s'agace le principal syndicat patronal agricole marocain](https://www.francetvinfo.fr/replay-radio/l-interview-eco/colere-des-agriculteurs-europeens-nous-n-acceptons-pas-que-des-produits-normes-europeens-avec-l-etiquetage-maroc-soient-bloques-s-agace-le-principal-syndicat-patronal-agricole-marocain_6554387.html)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "La révolution elle est là" : on a visité le nouveau tronçon sud de la ligne 14 du métro parisien](https://www.francetvinfo.fr/economie/transports/reportage-la-revolution-elle-est-la-on-a-visite-le-nouveau-troncon-sud-de-la-ligne-14-du-metro-parisien_6582630.html)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: ["Si jamais ça ne bouge pas, on promet de revenir en force" : les agriculteurs mettent la pression aux candidats aux élections européennes](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/si-jamais-ca-ne-bouge-pas-on-promet-de-revenir-en-force-les-agriculteurs-mettent-la-pression-aux-candidats-aux-elections-europeennes_6582591.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Émeutes en Nouvelle-Calédonie : des touristes patientent pour être rapatriés](https://www.francetvinfo.fr/france/nouvelle-caledonie/emeutes-en-nouvelle-caledonie-des-touristes-patientent-pour-etre-rapatries_6582672.html)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [La suppression de l'allocation de solidarité spécifique n'est "plus d'actualité immédiate", annonce la ministre du Travail](https://www.francetvinfo.fr/economie/emploi/chomage/allocation-solidarite-specifique-sa-suppression-n-est-plus-d-actualite-immediate-annonce-la-ministre-du-travail_6582639.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Emmanuel Macron propose de reconduire Jean Castex à la tête de la RATP](https://www.francetvinfo.fr/economie/transports/emmanuel-macron-propose-de-reconduire-jean-castex-a-la-tete-de-la-ratp_6582324.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Consommation : les prix du jus d'orange s’envolent](https://www.francetvinfo.fr/economie/pouvoir-achat/consommation-les-prix-du-jus-d-orange-s-envolent_6582297.html)
+append_entries: 8
+Finish: 2024-06-04 01:17:09.268208

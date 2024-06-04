@@ -1687,3 +1687,15 @@ Summarized using GPT-3.5-turbo
 Append: [Mobilités : l’interconnexion ferroviaire reste encore à bâtir au sein de l'UE](https://www.latribune.fr/entreprises-finance/services/transport-logistique/elections-europeennes-l-interconnexion-ferroviaire-reste-encore-a-batir-au-sein-de-l-ue-998121.html)
 append_entries: 10
 Finish: 2024-06-03 12:47:54.794301
+------------------------------------------------------
+Started: 2024-06-04 01:21:58.060902
+Existing_entries: 421
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 440
+Summarized using GPT-3.5-turbo
+Append: [Budget : les motions de censure de LFI et du RN rejetées par l'Assemblée nationale](https://www.latribune.fr/economie/france/budget-la-motion-de-censure-de-lfi-rejetee-par-l-assemblee-nationale-999016.html)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire iranien : les Européens haussent le ton face « à la gravité de la situation »](https://www.latribune.fr/economie/international/nucleaire-iranien-les-europeens-haussent-le-ton-face-a-la-gravite-de-la-situation-998998.html)
+append_entries: 2
+Finish: 2024-06-04 01:22:04.735466

@@ -747,3 +747,15 @@ Summarized using GPT-3.5-turbo
 Append: [ENTRETIEN. Esport : les jeux vidéo à l'école, outil pédagogique pour les profs ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/entretien-esport-les-jeux-video-a-l-ecole-outil-pedagogique-pour-les-profs-2979164.html)
 append_entries: 3
 Finish: 2024-06-03 12:42:23.352873
+------------------------------------------------------
+Started: 2024-06-04 01:18:01.711640
+Existing_entries: 121
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Ligne 14 : un métro express et un ticket à 11,50 euros pour rallier Orly](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/ligne-14-un-metro-express-et-un-ticket-a-11-50-euros-pour-rallier-orly-2980214.html)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [RATP : Jean Castex en route vers un deuxième mandat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ratp-jean-castex-en-route-vers-un-deuxieme-mandat-2980181.html)
+append_entries: 2
+Finish: 2024-06-04 01:18:08.597829

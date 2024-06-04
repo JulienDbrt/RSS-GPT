@@ -789,3 +789,12 @@ Summarized using GPT-3.5-turbo
 Append: [La France notée AA- par l'agence S&P est-ce que c'est grave ?](https://www.bfmtv.com/economie/economie-social/la-france-notee-aa-par-l-agence-s-p-est-ce-que-c-est-grave_VN-202406030414.html)
 append_entries: 1
 Finish: 2024-06-03 12:36:49.354654
+------------------------------------------------------
+Started: 2024-06-04 01:13:48.476952
+Existing_entries: 135
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: ["Nous gouvernons pour les Français, pas pour les agences": Gabriel Attal monte au créneau après la dégradation de S&P](https://www.bfmtv.com/economie/economie-social/france/nous-gouvernons-pour-les-francais-pas-pour-les-agences-gabriel-attal-monte-au-creneau-apres-la-degradation-de-s-p_AV-202406030629.html)
+append_entries: 1
+Finish: 2024-06-04 01:13:51.752463

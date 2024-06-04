@@ -778,3 +778,18 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier: partout en Europe, la baisse des taux attendue avec impatience](https://www.bfmtv.com/immobilier/international-etranger/immobilier-partout-en-europe-la-baisse-des-taux-attendue-avec-impatience_AD-202406030317.html)
 append_entries: 3
 Finish: 2024-06-03 12:38:46.103288
+------------------------------------------------------
+Started: 2024-06-04 01:15:18.954018
+Existing_entries: 144
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [Impôts: comment déclarer ses revenus immobiliers au fisc en 2024](https://www.bfmtv.com/immobilier/fiscalite/impots-comment-declarer-ses-revenus-immobiliers-au-fisc-en-2024_AV-202406030658.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: ["Un texte dangereux pour l'ensemble des locataires": un collectif dénonce la réforme du monde HLM](https://www.bfmtv.com/immobilier/location/un-texte-dangereux-pour-l-ensemble-des-locataires-un-collectif-denonce-la-reforme-du-monde-hlm_AD-202406030699.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Combien cela coûte-t-il de faire construire une maison?](https://www.bfmtv.com/immobilier/construction/combien-cela-coute-t-il-de-faire-construire-une-maison_AV-202406030684.html)
+append_entries: 3
+Finish: 2024-06-04 01:15:29.661275

@@ -537,3 +537,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'Arabie Saoudite ou encore un "moneyball" de la finance, c'est le Journal de votre argent](https://www.bfmtv.com/economie/patrimoine/l-arabie-saoudite-ou-encore-un-moneyball-de-la-finance-c-est-le-journal-de-votre-argent_VN-202406030399.html)
 append_entries: 1
 Finish: 2024-06-03 12:38:51.542635
+------------------------------------------------------
+Started: 2024-06-04 01:15:30.109870
+Existing_entries: 51
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+append_entries: 0
+Finish: 2024-06-04 01:15:30.153645

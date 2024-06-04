@@ -932,3 +932,15 @@ Summarized using GPT-3.5-turbo
 Append: [Affaire Karachi: le procès en appel du volet financier s'ouvre à Paris](https://www.martinique.franceantilles.fr/actualite/economie/affaire-karachi-le-proces-en-appel-du-volet-financier-souvre-a-paris-989562.php)
 append_entries: 3
 Finish: 2024-06-03 12:40:19.077232
+------------------------------------------------------
+Started: 2024-06-04 01:16:35.876396
+Existing_entries: 196
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Les agriculteurs espagnols et français bloquent la frontière pour "peser" sur les européennes](https://www.martinique.franceantilles.fr/actualite/economie/les-agriculteurs-espagnols-et-francais-bloquent-la-frontiere-pour-peser-sur-les-europeennes-989624.php)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Insécurité, déplacements compliqués: à Nouméa, la difficile reprise de l'activité économique](https://www.martinique.franceantilles.fr/actualite/economie/insecurite-deplacements-compliques-a-noumea-la-difficile-reprise-de-lactivite-economique-989598.php)
+append_entries: 2
+Finish: 2024-06-04 01:16:43.354305

@@ -687,3 +687,12 @@ Existing_entries: 91
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-06-03 12:43:35.368979
+------------------------------------------------------
+Started: 2024-06-04 01:18:56.833648
+Existing_entries: 91
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Hausse de la taxe d’immatriculation: «Nous sommes contre», dit la Chambre de commerce du Montréal métropolitain](https://www.journaldemontreal.com/2024/06/03/hausse-de-la-taxe-dimmatriculation-nous-sommes-contre-dit-la-chambre-de-commerce-du-montreal-metropolitain)
+append_entries: 1
+Finish: 2024-06-04 01:19:02.577888

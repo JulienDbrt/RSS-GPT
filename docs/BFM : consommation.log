@@ -651,3 +651,15 @@ Summarized using GPT-3.5-turbo
 Append: [La relance du train de nuit fait un flop en France](https://www.bfmtv.com/economie/consommation/la-relance-du-train-de-nuit-fait-un-flop-en-france_VN-202406030516.html)
 append_entries: 1
 Finish: 2024-06-03 12:37:05.584358
+------------------------------------------------------
+Started: 2024-06-04 01:13:52.718485
+Existing_entries: 89
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Élections générales britanniques: le Parti travailliste veut interdire les importations de foie gras](https://www.bfmtv.com/economie/consommation/le-parti-travailliste-veut-interdire-les-importations-de-foie-gras-en-cas-de-victoire-aux-elections-generales_AD-202406030978.html)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le géant du textile Shein se lance dans la seconde main et veut s'installer en Turquie](https://www.bfmtv.com/economie/consommation/pourquoi-le-geant-du-textile-shein-se-lance-dans-la-seconde-main-et-veut-s-installer-en-turquie_AV-202406030722.html)
+append_entries: 2
+Finish: 2024-06-04 01:14:00.187856

@@ -680,3 +680,15 @@ Summarized using GPT-3.5-turbo
 Append: [Transports en commun perturbés, retards importants à l’aéroport de Charleroi : les perturbations attendues ce lundi en raison de la grève nationale](https://www.lalibre.be/belgique/mobilite/2024/06/03/transports-en-commun-perturbes-retards-importants-a-laeroport-de-charleroi-les-perturbations-attendues-ce-lundi-en-raison-de-la-greve-nationale-GA2EYUO5XBASPCV3BGJ6CUMIQE/)
 append_entries: 1
 Finish: 2024-06-03 12:47:21.855052
+------------------------------------------------------
+Started: 2024-06-04 01:21:47.858602
+Existing_entries: 118
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [”Attention aux embarras de circulation vers Bruxelles” : la mobilité entravée dans la capitale ce mardi en raison de la manifestation d’agriculteurs](https://www.lalibre.be/belgique/mobilite/2024/06/03/attention-aux-embarras-de-circulation-vers-bruxelles-la-mobilite-entravee-dans-la-capitale-ce-mardi-en-raison-de-la-manifestation-dagriculteurs-6D5XQJMSKJDRZMUSUYUJMLWX3Y/)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Une nouvelle arme contre les chauffards de la route : voici le radar “anti-freinage”](https://www.lalibre.be/belgique/mobilite/2024/06/03/une-nouvelle-arme-contre-les-chauffards-de-la-route-voici-le-radar-anti-freinage-GM7A2Z3BUBAYZDBDMTKSXENWME/)
+append_entries: 2
+Finish: 2024-06-04 01:21:57.838745

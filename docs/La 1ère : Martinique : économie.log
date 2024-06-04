@@ -583,3 +583,9 @@ Summarized using GPT-3.5-turbo
 Append: [Retour d'Air Antilles : quel impact sur les prix des billets d'avion ?](https://la1ere.francetvinfo.fr/martinique/retour-d-air-antilles-quel-impact-sur-les-prix-des-billets-d-avion-1492934.html)
 append_entries: 1
 Finish: 2024-06-03 12:44:48.089064
+------------------------------------------------------
+Started: 2024-06-04 01:19:49.580087
+Existing_entries: 53
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-06-04 01:19:49.809964

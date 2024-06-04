@@ -1658,3 +1658,15 @@ Summarized using GPT-3.5-turbo
 Append: [Qui sont les multipropriétaires qui possèdent une grande partie des logements privés des centres-villes ?](https://www.lemonde.fr/les-decodeurs/article/2024/06/03/qui-sont-les-multiproprietaires-qui-possedent-une-grande-partie-des-logements-prives-des-centres-villes_6237006_4355770.html)
 append_entries: 1
 Finish: 2024-06-03 12:33:07.953698
+------------------------------------------------------
+Started: 2024-06-04 01:10:46.486147
+Existing_entries: 502
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Au tribunal de Paris, les surprenants travaux gratuits au domicile d'un maire d’Île-de-France](https://www.lefigaro.fr/faits-divers/au-tribunal-de-paris-les-surprenants-travaux-gratuits-au-domicile-d-un-maire-d-ile-de-france-20240603)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Statu quo pour le taux de référence des loyers, qui ne vont pas augmenter](https://www.rts.ch/info/economie/2024/article/statu-quo-pour-le-taux-de-reference-des-loyers-qui-ne-vont-pas-augmenter-28525624.html)
+append_entries: 2
+Finish: 2024-06-04 01:10:54.781740

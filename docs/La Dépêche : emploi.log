@@ -904,3 +904,15 @@ Summarized using GPT-3.5-turbo
 Append: [Un nouveau service pour les propriétaires forestiers privés](https://www.ladepeche.fr/2024/06/03/un-nouveau-service-pour-les-proprietaires-forestiers-prives-11990894.php)
 append_entries: 4
 Finish: 2024-06-03 12:46:22.745224
+------------------------------------------------------
+Started: 2024-06-04 01:20:59.445048
+Existing_entries: 170
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: ["Nous menons un combat contre la nature. Si nous le gagnons, nous sommes perdus": Hubert Reeves, les pieds dans le Gers et la tête dans les étoiles](https://www.ladepeche.fr/2024/06/03/nous-menons-un-combat-contre-la-nature-si-nous-le-gagnons-nous-sommes-perdus-hubert-reeves-les-pieds-dans-le-gers-et-la-tete-dans-les-etoiles-11992081.php)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Emploi : décrocher un CDI en discutant autour d’un café, la nouvelle méthode chez O2 à Aureilhan](https://www.ladepeche.fr/2024/06/03/emploi-decrocher-un-cdi-en-discutant-autour-dun-cafe-la-nouvelle-methode-chez-o2-a-aureilhan-11991783.php)
+append_entries: 2
+Finish: 2024-06-04 01:21:09.174328

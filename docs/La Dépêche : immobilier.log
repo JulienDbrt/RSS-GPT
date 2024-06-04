@@ -601,3 +601,12 @@ Summarized using GPT-3.5-turbo
 Append: [La foncière toulousaine Midi 2i voit son bénéfice bondir de 20 % en 2023](https://www.ladepeche.fr/2024/06/03/la-fonciere-toulousaine-midi-2i-voit-son-benefice-bondir-de-20-en-2023-11991325.php)
 append_entries: 2
 Finish: 2024-06-03 12:46:29.765158
+------------------------------------------------------
+Started: 2024-06-04 01:21:09.209839
+Existing_entries: 69
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [APPEL A TÉMOIGNAGES. Immobilier : vous avez acheté un appartement ou une maison en Espagne ? Racontez-nous !](https://www.ladepeche.fr/2024/06/03/appel-a-temoignages-immobilier-vous-avez-achete-un-appartement-ou-une-maison-en-espagne-racontez-nous-11992514.php)
+append_entries: 1
+Finish: 2024-06-04 01:21:12.926121
