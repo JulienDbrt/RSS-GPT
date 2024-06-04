@@ -610,3 +610,12 @@ Summarized using GPT-3.5-turbo
 Append: [APPEL A TÉMOIGNAGES. Immobilier : vous avez acheté un appartement ou une maison en Espagne ? Racontez-nous !](https://www.ladepeche.fr/2024/06/03/appel-a-temoignages-immobilier-vous-avez-achete-un-appartement-ou-une-maison-en-espagne-racontez-nous-11992514.php)
 append_entries: 1
 Finish: 2024-06-04 01:21:12.926121
+------------------------------------------------------
+Started: 2024-06-04 12:45:17.948397
+Existing_entries: 70
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Valence-d'Albigeois. La rénovation aux "Journée de l’habitat"](https://www.ladepeche.fr/2024/06/04/la-renovation-aux-journee-de-lhabitat-11992889.php)
+append_entries: 1
+Finish: 2024-06-04 12:45:22.859936

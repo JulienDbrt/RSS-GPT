@@ -860,3 +860,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le transport aérien s'attend à battre des records en 2024](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-9358959)
 append_entries: 1
 Finish: 2024-06-04 01:17:22.178470
+------------------------------------------------------
+Started: 2024-06-04 12:41:07.496246
+Existing_entries: 150
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Les Mamie Guitares : un atelier itinérant d'écriture en musique](https://www.radiofrance.fr/franceinter/podcasts/carnets-de-campagne/carnets-de-campagne-du-mardi-04-juin-2024-7933700)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Sauvés par la BCE ?](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-mardi-04-juin-2024-5775030)
+append_entries: 2
+Finish: 2024-06-04 12:41:18.379792

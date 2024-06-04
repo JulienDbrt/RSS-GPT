@@ -693,3 +693,12 @@ Summarized using GPT-3.5-turbo
 Append: [Crypto : Joe Biden change d'avis ?](https://www.bfmtv.com/crypto/crypto-joe-biden-change-d-avis_VL-202406030603.html)
 append_entries: 4
 Finish: 2024-06-04 01:14:14.101865
+------------------------------------------------------
+Started: 2024-06-04 12:36:15.402186
+Existing_entries: 101
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Une plateforme japonaise de cryptos se fait voler 280 millions d'euros en bitcoins par des hackers](https://www.bfmtv.com/crypto/bitcoin/une-plateforme-japonaise-de-cryptos-se-fait-voler-280-millions-d-euros-en-bitcoins-par-des-hackers_AD-202406040401.html)
+append_entries: 1
+Finish: 2024-06-04 12:36:19.826001

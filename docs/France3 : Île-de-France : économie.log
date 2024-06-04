@@ -759,3 +759,9 @@ Summarized using GPT-3.5-turbo
 Append: [RATP : Jean Castex en route vers un deuxième mandat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ratp-jean-castex-en-route-vers-un-deuxieme-mandat-2980181.html)
 append_entries: 2
 Finish: 2024-06-04 01:18:08.597829
+------------------------------------------------------
+Started: 2024-06-04 12:41:55.515911
+Existing_entries: 123
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-04 12:41:55.754652

@@ -645,3 +645,18 @@ Existing_entries: 85
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-04 01:18:16.994187
+------------------------------------------------------
+Started: 2024-06-04 12:42:15.668735
+Existing_entries: 85
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 431
+Summarized using GPT-3.5-turbo
+Append: [Eaux de baignade polluées, Saint-Malo veut rassurer avant le début de la saison](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/eaux-de-baignade-polluees-saint-malo-veut-rassurer-avant-le-debut-de-la-saison-2980475.html)
+Token length: 358
+Summarized using GPT-3.5-turbo
+Append: [Carte. Concrètement, où va l'argent de l'Europe au plus près de chez nous ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/comment-l-argent-de-l-europe-soutient-des-projets-inedits-en-bretagne-2979719.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: ["Ça tue le centre-ville. Tout va fermer !" Bras de fer autour d'une zone commerciale dans cette commune du Morbihan](https://france3-regions.francetvinfo.fr/bretagne/morbihan/faut-il-un-centre-commercial-a-pluvigner-la-question-divise-cette-commune-du-morbihan-2980265.html)
+append_entries: 3
+Finish: 2024-06-04 12:42:26.437963

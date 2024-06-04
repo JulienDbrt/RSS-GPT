@@ -853,3 +853,18 @@ Summarized using GPT-3.5-turbo
 Append: [JO Paris-2024 : pourquoi les clients 4G Orange bénéficient de la 5G jusqu'au 8 septembre ?](https://www.europe1.fr/economie/jo-paris-2024-pourquoi-les-clients-4g-orange-beneficient-de-la-5g-jusquau-8-septembre-4250738)
 append_entries: 1
 Finish: 2024-06-04 01:16:35.782572
+------------------------------------------------------
+Started: 2024-06-04 12:39:43.523939
+Existing_entries: 149
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Le Pass rail à 49 euros par mois pour les jeunes de 16 à 27 ans disponible mercredi](https://www.europe1.fr/economie/le-passe-rail-a-49-euros-par-mois-pour-les-jeunes-de-16-a-27-ans-disponible-mercredi-4250845)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Quand le prix du jus d'orange explose de près de 300% en deux ans](https://www.europe1.fr/economie/quand-le-prix-du-jus-dorange-explose-de-pres-de-300-en-deux-ans-4250854)
+Token length: 350
+Summarized using GPT-3.5-turbo
+Append: [Économie : pourvoir les emplois vacants, la clef du plein emploi ?](https://www.europe1.fr/economie/economie-pourvoir-les-emplois-vacants-la-clef-du-plein-emploi-4250739)
+append_entries: 3
+Finish: 2024-06-04 12:39:56.607250

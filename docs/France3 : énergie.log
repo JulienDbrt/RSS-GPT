@@ -591,3 +591,15 @@ Existing_entries: 67
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-06-04 01:18:01.650457
+------------------------------------------------------
+Started: 2024-06-04 12:41:46.158870
+Existing_entries: 67
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: ["On nous balade de réunion en réunion depuis plusieurs mois", des salariés occupent la centrale de Gardanne](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/des-salaries-occupent-la-centrale-de-gardanne-a-l-appel-de-la-cgt-2980295.html)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Ligne électrique THT : "c'est quelque chose de complètement démesuré", la colère persiste chez les opposants après le rapport de l'enquête publique](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/ligne-electrique-tht-c-est-quelque-chose-de-completement-demesure-la-colere-persiste-chez-les-opposants-apres-le-rapport-de-l-enquete-publique-2980067.html)
+append_entries: 2
+Finish: 2024-06-04 12:41:55.454509

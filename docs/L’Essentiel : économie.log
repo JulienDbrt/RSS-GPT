@@ -892,3 +892,15 @@ Summarized using GPT-3.5-turbo
 Append: [Mise en garde: Vendre un «colis perdu» venant du Luxembourg est illégal](https://www.lessentiel.lu/fr/story/mise-en-garde-vendre-un-colis-perdu-venant-du-luxembourg-est-illegal-103119376)
 append_entries: 1
 Finish: 2024-06-04 01:19:17.178546
+------------------------------------------------------
+Started: 2024-06-04 12:43:21.250482
+Existing_entries: 214
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [En Allemagne: L'État revend 110 millions d'actions de Deutsche Telekom](https://www.lessentiel.lu/fr/story/en-allemagne-letat-revend-110-millions-dactions-de-deutsche-telekom-103119708)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [À Luxembourg: Le marathon va-t-il devoir faire sans ING? Pas forcément](https://www.lessentiel.lu/fr/story/a-luxembourg-le-marathon-va-t-il-devoir-faire-sans-ing-pas-forcement-103119467)
+append_entries: 2
+Finish: 2024-06-04 12:43:28.912736

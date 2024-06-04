@@ -1375,3 +1375,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le cap des 500 millions de personnes possédant des cryptomonnaies a été passé](https://www.bfmtv.com/crypto/le-cap-des-500-millions-de-personnes-possedant-des-cryptomonnaies-a-ete-passe_AN-202406030667.html)
 append_entries: 3
 Finish: 2024-06-04 01:09:18.808287
+------------------------------------------------------
+Started: 2024-06-04 12:30:35.745998
+Existing_entries: 333
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [«C’est un business criminel»: que sont les crypto-drainers, et comment y échapper?](https://www.lefigaro.fr/secteur/high-tech/c-est-un-business-criminel-que-sont-les-crypto-drainers-et-comment-y-echapper-20240604)
+append_entries: 1
+Finish: 2024-06-04 12:30:41.279576

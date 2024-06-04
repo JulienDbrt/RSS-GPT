@@ -1670,3 +1670,18 @@ Summarized using GPT-3.5-turbo
 Append: [Statu quo pour le taux de référence des loyers, qui ne vont pas augmenter](https://www.rts.ch/info/economie/2024/article/statu-quo-pour-le-taux-de-reference-des-loyers-qui-ne-vont-pas-augmenter-28525624.html)
 append_entries: 2
 Finish: 2024-06-04 01:10:54.781740
+------------------------------------------------------
+Started: 2024-06-04 12:31:54.026401
+Existing_entries: 504
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Quels sont les frais de notaire que l'on doit payer lors d'une succession ?](https://lemagdelaconso.ouest-france.fr/dossier-1077-frais-notaire-payer-succession.html)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : Où acheter pour vivre en bord de mer ? Nos conseils](https://investir.lesechos.fr/placements/immobilier/immobilier-ou-acheter-pour-vivre-en-bord-de-mer-nos-conseils-2098755)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi la taxe d'aménagement sur les abris de jardin connaît des ratés](https://www.bfmtv.com/immobilier/fiscalite/pourquoi-la-taxe-d-amenagement-sur-les-abris-de-jardin-connait-des-rates_AV-202406040046.html)
+append_entries: 3
+Finish: 2024-06-04 12:32:08.396966

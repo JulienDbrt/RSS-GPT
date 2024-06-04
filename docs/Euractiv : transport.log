@@ -515,3 +515,12 @@ Existing_entries: 55
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-06-04 01:16:33.126745
+------------------------------------------------------
+Started: 2024-06-04 12:39:36.772568
+Existing_entries: 55
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Transport : quels sont les dossiers inachevés de cette législature ?](https://www.euractiv.fr/section/transport/news/transport-quels-sont-les-dossiers-inacheves-de-cette-legislature/)
+append_entries: 1
+Finish: 2024-06-04 12:39:42.803649

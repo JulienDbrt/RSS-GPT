@@ -486,3 +486,15 @@ Existing_entries: 32
 Fetching from https://www.bfmtv.com/rss/economie/patrimoine/immobilier/
 append_entries: 0
 Finish: 2024-06-04 01:15:30.610115
+------------------------------------------------------
+Started: 2024-06-04 12:38:26.563940
+Existing_entries: 32
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/immobilier/
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [Immobilier: "Les taux n'iront pas très en dessous de trois" pour Jean-Luc Guitard, directeur général du groupe Consultim](https://www.bfmtv.com/economie/patrimoine/immobilier/immobilier-les-taux-n-iront-pas-tres-en-dessous-de-trois-pour-jean-luc-guitard-directeur-general-du-groupe-consultim_VN-202406040415.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Crédit immobilier: obtenir un taux proche de 1%, c'est encore possible](https://www.bfmtv.com/economie/patrimoine/immobilier/credit-immobilier-obtenir-un-taux-proche-de-1-c-est-encore-possible_VN-202406040127.html)
+append_entries: 2
+Finish: 2024-06-04 12:38:34.095669

@@ -793,3 +793,24 @@ Summarized using GPT-3.5-turbo
 Append: [Combien cela coûte-t-il de faire construire une maison?](https://www.bfmtv.com/immobilier/construction/combien-cela-coute-t-il-de-faire-construire-une-maison_AV-202406030684.html)
 append_entries: 3
 Finish: 2024-06-04 01:15:29.661275
+------------------------------------------------------
+Started: 2024-06-04 12:37:55.126284
+Existing_entries: 147
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: ["21.500 ménages expulsés de leur logement" en 2023: un collectif dénonce la loi anti-squat](https://www.bfmtv.com/immobilier/location/21-500-menages-expulses-de-leur-logement-en-2023-un-collectif-denonce-la-loi-anti-squat_AD-202406040542.html)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Un "bidonville à la verticale": amende et prison requis contre deux marchands de sommeil](https://www.bfmtv.com/immobilier/location/un-bidonville-a-la-verticale-amende-et-prison-requis-contre-deux-marchands-de-sommeil_AD-202406040397.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Comment trouver un prêt immobilier à 1% sur 25 ans](https://www.bfmtv.com/immobilier/credit-emprunt/comment-trouver-un-pret-immobilier-a-1-sur-25-ans_AV-202406040388.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [Des dizaines de milliers d'étudiants "se retrouvent à la rue"? La Ville de Paris s'inquiète du manque de logements](https://www.bfmtv.com/immobilier/location/des-dizaines-de-milliers-d-etudiants-se-retrouvent-a-la-rue-la-ville-de-paris-s-inquiete-du-manque-de-logements_AD-202406040266.html)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi la taxe d'aménagement sur les abris de jardin connaît des ratés](https://www.bfmtv.com/immobilier/fiscalite/pourquoi-la-taxe-d-amenagement-sur-les-abris-de-jardin-connait-des-rates_AV-202406040046.html)
+append_entries: 5
+Finish: 2024-06-04 12:38:14.312936

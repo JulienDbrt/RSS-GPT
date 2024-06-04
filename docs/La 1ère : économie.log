@@ -1708,3 +1708,27 @@ Summarized using GPT-3.5-turbo
 Append: [Saint-Denis : fermeture exceptionnelle du téléphérique Papang mercredi après-midi](https://la1ere.francetvinfo.fr/reunion/saint-denis/saint-denis-fermeture-exceptionnelle-du-telepherique-papang-mercredi-apres-midi-1493606.html)
 append_entries: 5
 Finish: 2024-06-04 01:19:49.550801
+------------------------------------------------------
+Started: 2024-06-04 12:43:39.384278
+Existing_entries: 426
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 22
+Summarized using GPT-3.5-turbo
+Append: [Fermeture administrative d'un restaurant très populaire à M'tsapéré](https://la1ere.francetvinfo.fr/mayotte/fermeture-administrative-d-un-restaurant-tres-populaire-a-m-tsapere-1493819.html)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : Aircalin annonce une reprise partielle de ses vols internationaux](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-aircalin-annonce-une-reprise-partielle-de-ses-vols-internationaux-1493825.html)
+Token length: 13
+Summarized using GPT-3.5-turbo
+Append: [VIDEO : Minerais et matériaux : l’âge d’or ? [Outre-mer et si on bougeait les lignes ?]](https://la1ere.francetvinfo.fr/video-minerais-et-materiaux-l-age-d-or-outre-mer-et-si-on-bougeait-les-lignes-1493648.html)
+Token length: 34
+Summarized using GPT-3.5-turbo
+Append: [Les agriculteurs martiniquais attendent une meilleure répartition du Poséi européen](https://la1ere.francetvinfo.fr/martinique/les-agriculteurs-martiniquais-attendent-une-meilleure-repartition-du-posei-europeen-1493777.html)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [A Dumbéa, des odeurs pestilentielles après l’incendie d’une boucherie industrielle](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/dumbea/a-dumbea-des-odeurs-pestilentielles-apres-l-incendie-d-une-boucherie-industrielle-1493780.html)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [Démissions au CHPF : le blues des blouses blanches](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/demissions-au-chpf-le-blues-des-blouses-blanches-1493774.html)
+append_entries: 6
+Finish: 2024-06-04 12:44:00.401766
