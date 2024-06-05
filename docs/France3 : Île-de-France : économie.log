@@ -765,3 +765,15 @@ Existing_entries: 123
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-04 12:41:55.754652
+------------------------------------------------------
+Started: 2024-06-05 01:18:14.880453
+Existing_entries: 123
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Chez Raymond, gérant du "bar le moins cher de Paris" : "Ce n'est pas qu'une question de prix, c'est tout une ambiance"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/chez-raymond-gerant-du-bar-le-moins-cher-de-paris-ce-n-est-pas-qu-une-question-de-prix-c-est-tout-une-ambiance-2980892.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Impôt 2024 : que risque-t-on si on oublie de déclarer ses revenus ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/impot-2024-que-risque-t-on-si-on-oublie-de-declarer-ses-revenus-2980655.html)
+append_entries: 2
+Finish: 2024-06-05 01:18:33.611176

@@ -659,3 +659,12 @@ Summarized using GPT-3.5-turbo
 Append: [La commissaire européenne à la Cohésion évoque les enjeux de la politique budgétaire de l’UE pour les années à venir](https://www.euractiv.fr/section/economie/news/a-berlin-la-commissaire-europeenne-a-la-cohesion-evoque-les-enjeux-de-la-politique-budgetaire-de-lue-pour-les-annees-a-venir/)
 append_entries: 2
 Finish: 2024-06-04 12:39:36.749101
+------------------------------------------------------
+Started: 2024-06-05 01:16:25.837768
+Existing_entries: 101
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Enquête de l’UE sur les véhicules électriques chinois : attaquer ou négocier ?](https://www.euractiv.fr/section/economie/news/enquete-de-lue-sur-les-vehicules-electriques-chinois-attaquer-ou-negocier/)
+append_entries: 1
+Finish: 2024-06-05 01:16:30.996335

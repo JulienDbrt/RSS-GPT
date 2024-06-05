@@ -809,3 +809,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pourquoi le prix des jus d’orange a explosé de 300 % en deux ans ?](https://www.20minutes.fr/economie/4094389-20240604-pourquoi-prix-jus-orange-explose-300-deux-ans)
 append_entries: 1
 Finish: 2024-06-04 12:34:41.233435
+------------------------------------------------------
+Started: 2024-06-05 01:12:55.674438
+Existing_entries: 131
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Fausses réductions, prix incomplets… Comment Booking.com trompe les consommateurs](https://www.20minutes.fr/consommation/4094507-20240604-fausses-reductions-prix-incomplets-comment-booking-com-trompe-consommateurs)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Strasbourg : Contre la faillite, le Gang des taverniers se serre les coudes](https://www.20minutes.fr/economie/4094294-20240604-strasbourg-contre-faillite-gang-taverniers-serre-coudes)
+append_entries: 2
+Finish: 2024-06-05 01:13:05.264255

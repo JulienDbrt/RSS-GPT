@@ -1239,3 +1239,15 @@ Summarized using GPT-3.5-turbo
 Append: [La récolte des premières cerises est à moitié perdue, "seuls le soleil et le vent peuvent sauver la saison"](https://france3-regions.francetvinfo.fr/grand-est/alsace/la-recolte-des-premieres-cerises-est-a-moitie-perdue-seuls-le-soleil-et-le-vent-peuvent-sauver-la-saison-2979755.html)
 append_entries: 4
 Finish: 2024-06-04 12:42:10.762336
+------------------------------------------------------
+Started: 2024-06-05 01:18:33.753320
+Existing_entries: 281
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Un agriculteur de 35 ans gravement blessé lors d'un accident du travail : sa jambe est restée coincée entre son tracteur et un déchaumeur](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/un-agriculteur-de-35-ans-gravement-blesse-lors-d-un-accident-du-travail-sa-jambe-est-restee-coincee-entre-son-tracteur-et-un-dechaumeur-2980970.html)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [Les vignes victimes d'une attaque de mildiou très précoce, "les 16 000 hectares du vignoble alsacien sont concernés"](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/les-vignes-victimes-d-une-attaque-de-mildiou-tres-precoce-les-16-000-hectares-du-vignoble-alsacien-sont-concernes-2980628.html)
+append_entries: 2
+Finish: 2024-06-05 01:18:41.939259

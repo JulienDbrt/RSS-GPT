@@ -702,3 +702,15 @@ Summarized using GPT-3.5-turbo
 Append: [Une plateforme japonaise de cryptos se fait voler 280 millions d'euros en bitcoins par des hackers](https://www.bfmtv.com/crypto/bitcoin/une-plateforme-japonaise-de-cryptos-se-fait-voler-280-millions-d-euros-en-bitcoins-par-des-hackers_AD-202406040401.html)
 append_entries: 1
 Finish: 2024-06-04 12:36:19.826001
+------------------------------------------------------
+Started: 2024-06-05 01:14:09.410348
+Existing_entries: 102
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Ripple en passe de vendre 400 millions de XRP en juin, le plus gros montant depuis 7 ans?](https://www.bfmtv.com/crypto/ripple-en-passe-de-vendre-400-millions-de-xrp-en-juin-le-plus-gros-montant-depuis-7-ans_AV-202406040687.html)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [Faut-il décentraliser le système financier ?](https://www.bfmtv.com/crypto/faut-il-decentraliser-le-systeme-financier_VL-202406040574.html)
+append_entries: 2
+Finish: 2024-06-05 01:14:13.190001

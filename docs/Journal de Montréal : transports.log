@@ -702,3 +702,15 @@ Existing_entries: 92
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-06-04 12:43:12.403936
+------------------------------------------------------
+Started: 2024-06-05 01:19:00.303791
+Existing_entries: 92
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Vieux-Montréal: un petit chantier fantôme à temps partiel, mais dérangeant à temps plein](https://www.journaldemontreal.com/2024/06/03/petit-chantier-grosse-perturbation)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Déréglementation de l’industrie du taxi au Québec: la redevance imposée depuis l’arrivée d’Uber moins payante qu’espérée](https://www.journaldemontreal.com/2024/06/04/dereglementation-de-lindustrie-du-taxi-la-redevance-imposee-depuis-larrivee-duber-moins-payante-quesperee)
+append_entries: 2
+Finish: 2024-06-05 01:19:06.844506

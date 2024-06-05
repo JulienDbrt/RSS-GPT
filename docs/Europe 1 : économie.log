@@ -868,3 +868,15 @@ Summarized using GPT-3.5-turbo
 Append: [Économie : pourvoir les emplois vacants, la clef du plein emploi ?](https://www.europe1.fr/economie/economie-pourvoir-les-emplois-vacants-la-clef-du-plein-emploi-4250739)
 append_entries: 3
 Finish: 2024-06-04 12:39:56.607250
+------------------------------------------------------
+Started: 2024-06-05 01:16:32.565076
+Existing_entries: 152
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Budget JO-2024 : des tractations pour une rallonge de l'Etat pour les Jeux paralympiques](https://www.europe1.fr/economie/budget-jo-2024-des-tractations-pour-une-rallonge-de-letat-pour-les-jeux-paralympiques-4250943)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [Tarif élevé, les TGV exclus du dispositif... Faut-il craindre un grand flop pour le pass rail ?](https://www.europe1.fr/economie/tarif-eleve-les-tgv-exclus-du-dispositif-faut-il-craindre-un-grand-flop-pour-le-pass-rail-4250933)
+append_entries: 2
+Finish: 2024-06-05 01:16:41.292543

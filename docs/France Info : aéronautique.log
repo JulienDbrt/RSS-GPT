@@ -545,3 +545,12 @@ Summarized using GPT-3.5-turbo
 Append: [Aéronautique : victime de son succès, le transport aérien ne sait plus répondre à la demande](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-victime-de-son-succes-le-transport-aerien-ne-sait-plus-repondre-a-la-demande_6556169.html)
 append_entries: 1
 Finish: 2024-06-04 12:40:58.016373
+------------------------------------------------------
+Started: 2024-06-05 01:17:14.265609
+Existing_entries: 43
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Franceinfo junior. Pourquoi y-a-t-il des turbulences en avion ?](https://www.francetvinfo.fr/replay-radio/france-info-junior/franceinfo-junior-pourquoi-y-a-t-il-des-turbulences-en-avion_6556202.html)
+append_entries: 1
+Finish: 2024-06-05 01:17:18.507422

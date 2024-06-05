@@ -605,3 +605,12 @@ Existing_entries: 63
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-06-04 12:39:26.116878
+------------------------------------------------------
+Started: 2024-06-05 01:16:19.453869
+Existing_entries: 63
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Immobilier. Prêt à taux zéro : nos conseils pour obtenir un délai de remboursement](https://www.dna.fr/magazine-immobilier/2024/06/04/pret-a-taux-zero-nos-conseils-pour-obtenir-un-delai-de-remboursement)
+append_entries: 1
+Finish: 2024-06-05 01:16:24.183771

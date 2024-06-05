@@ -861,3 +861,12 @@ Summarized using GPT-3.5-turbo
 Append: [Recherchez-vous encore des manières de payer moins d'impôts après l’âge de 65 ans?](https://www.7sur7.be/economie/recherchez-vous-encore-des-manieres-de-payer-moins-d-impots-apres-lage-de-65-ans~a221bed3/)
 append_entries: 4
 Finish: 2024-06-04 12:34:56.929108
+------------------------------------------------------
+Started: 2024-06-05 01:13:05.342619
+Existing_entries: 155
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 407
+Summarized using GPT-3.5-turbo
+Append: [Le Bureau du Plan maintient ses prévisions d’inflation pour 2024](https://www.7sur7.be/economie/le-bureau-du-plan-maintient-ses-previsions-dinflation-pour-2024~adffd24a/)
+append_entries: 1
+Finish: 2024-06-05 01:13:08.590218

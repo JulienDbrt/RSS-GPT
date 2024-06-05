@@ -962,3 +962,9 @@ Summarized using GPT-3.5-turbo
 Append: [Pour le D-Day, une semaine de "galère" sur la côte normande](https://www.martinique.franceantilles.fr/actualite/economie/pour-le-d-day-une-semaine-de-galere-sur-la-cote-normande-989723.php)
 append_entries: 4
 Finish: 2024-06-04 12:40:13.904955
+------------------------------------------------------
+Started: 2024-06-05 01:16:41.387687
+Existing_entries: 202
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-06-05 01:16:42.547515

@@ -704,3 +704,9 @@ Summarized using GPT-3.5-turbo
 Append: [Galère au carrefour Léonard : après plus d'un mois, toujours pas de renforcement des lignes de bus Express entre Wavre et Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/06/04/galere-au-carrefour-leonard-apres-plus-dun-mois-toujours-pas-de-renforcement-des-lignes-de-bus-express-entre-la-wavre-et-bruxelles-6GVVA2TI7ZHUPOZILX5XNZ3OUM/)
 append_entries: 2
 Finish: 2024-06-04 12:46:13.549015
+------------------------------------------------------
+Started: 2024-06-05 01:21:54.450788
+Existing_entries: 122
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-06-05 01:21:55.022696

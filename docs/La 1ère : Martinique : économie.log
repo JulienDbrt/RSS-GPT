@@ -598,3 +598,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les agriculteurs martiniquais attendent une meilleure répartition du Poséi européen](https://la1ere.francetvinfo.fr/martinique/les-agriculteurs-martiniquais-attendent-une-meilleure-repartition-du-posei-europeen-1493777.html)
 append_entries: 1
 Finish: 2024-06-04 12:44:07.754250
+------------------------------------------------------
+Started: 2024-06-05 01:19:54.026858
+Existing_entries: 54
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-06-05 01:19:54.260557
