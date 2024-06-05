@@ -493,3 +493,9 @@ Summarized using GPT-3.5-turbo
 Append: [15 lignes de bus à l'arrêt sur le réseau Centre en Martinique](https://la1ere.francetvinfo.fr/martinique/15-lignes-de-bus-a-l-arret-sur-le-reseau-centre-en-martinique-1493909.html)
 append_entries: 1
 Finish: 2024-06-05 01:19:58.061545
+------------------------------------------------------
+Started: 2024-06-05 12:44:32.599790
+Existing_entries: 17
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+append_entries: 0
+Finish: 2024-06-05 12:44:32.750676

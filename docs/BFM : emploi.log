@@ -579,3 +579,12 @@ Summarized using GPT-3.5-turbo
 Append: [J'ai menti sur mon CV: mon employeur peut-il me licencier?](https://www.bfmtv.com/economie/emploi/vie-de-bureau/j-ai-menti-sur-mon-cv-mon-employeur-peut-il-me-licencier_AV-202406040760.html)
 append_entries: 1
 Finish: 2024-06-05 01:14:17.091589
+------------------------------------------------------
+Started: 2024-06-05 12:36:16.239077
+Existing_entries: 59
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Le nombre de salariés re-toquant chez un ex-employeur a augmenté de 36% en 3 ans](https://www.bfmtv.com/economie/emploi/le-nombre-de-salaries-re-toquant-chez-un-ex-employeur-a-augmente-de-36-en-3-ans_VN-202406050522.html)
+append_entries: 1
+Finish: 2024-06-05 12:36:24.265687

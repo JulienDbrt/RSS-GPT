@@ -899,3 +899,24 @@ Summarized using GPT-3.5-turbo
 Append: [Pass rail pour les jeunes : "Ca ne peut pas être la seule mesure, il faut aller plus loin", estime la Fage](https://www.francetvinfo.fr/economie/transports/pass-rail-pour-les-jeunes-ca-ne-peut-pas-etre-la-seule-mesure-il-faut-aller-plus-loin-estime-la-fage_6584202.html)
 append_entries: 6
 Finish: 2024-06-05 01:17:38.895874
+------------------------------------------------------
+Started: 2024-06-05 12:40:29.139007
+Existing_entries: 159
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Transports : l'avion bat des records](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/transports-l-avion-bat-des-records_6586077.html)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Visite de Joe Biden : les axes routiers ont rouvert au sud et à l'ouest de Paris mais encore des bouchons](https://www.francetvinfo.fr/economie/transports/trafic/visite-de-joe-biden-en-france-plusieurs-axes-routiers-fermes-en-ile-de-france-l-ouest-et-le-sud-de-paris-congestionnes_6586047.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Le Pass Rail à 49 euros pour les jeunes timidement lancé en France : contrairement au modèle allemand, il n'est valable que pour l'été](https://www.francetvinfo.fr/replay-radio/le-brief-eco/le-pass-rail-a-49-euros-pour-les-jeunes-timidement-lance-en-france-contrairement-au-modele-allemand-il-n-est-valable-que-pour-l-ete_6558101.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "Faire en sorte de ne pas être dépassé" : le virage de Midas qui ouvre son tout premier centre d'entretien dédié à l'électrique](https://www.francetvinfo.fr/economie/automobile/reportage-faire-en-sorte-de-ne-pas-etre-depasse-le-virage-de-midas-qui-ouvre-son-tout-premier-centre-d-entretien-dedie-uniquement-a-l-electrique_6584742.html)
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Pass rail : "C'est une première étape", affirme le ministre des Transports](https://www.francetvinfo.fr/economie/transports/sncf/pass-rail-c-est-une-premiere-etape-affirme-le-ministre-des-transports_6585876.html)
+append_entries: 5
+Finish: 2024-06-05 12:40:50.478882

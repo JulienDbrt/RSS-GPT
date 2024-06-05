@@ -632,3 +632,12 @@ Summarized using GPT-3.5-turbo
 Append: [Logement étudiant : une course contre-la-montre](https://www.francetvinfo.fr/economie/immobilier/logement-etudiant-une-course-contre-la-montre_6584757.html)
 append_entries: 1
 Finish: 2024-06-05 01:17:22.684796
+------------------------------------------------------
+Started: 2024-06-05 12:40:26.784309
+Existing_entries: 70
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Rentrée scolaire : la ruée sur les logements étudiants](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/rentree-scolaire-la-ruee-sur-les-logements-etudiants_6586065.html)
+append_entries: 1
+Finish: 2024-06-05 12:40:29.056106

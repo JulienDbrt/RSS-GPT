@@ -609,3 +609,12 @@ Existing_entries: 69
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-06-05 01:18:14.819321
+------------------------------------------------------
+Started: 2024-06-05 12:41:49.890284
+Existing_entries: 69
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. La "plus grosse pile à hydrogène du monde" se construit en Gironde, sur l'ancien site de l'usine Ford](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/la-plus-grosse-pile-a-hydrogene-du-monde-se-construit-en-gironde-sur-l-ancien-site-de-l-usine-ford-2981045.html)
+append_entries: 1
+Finish: 2024-06-05 12:41:52.127394

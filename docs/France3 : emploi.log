@@ -840,3 +840,18 @@ Summarized using GPT-3.5-turbo
 Append: ["J'ai été refusée partout" : stages de seconde, la galère pour ces jeunes qui cherchent encore une entreprise](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/j-ai-ete-refusee-partout-stages-de-seconde-la-galere-pour-ces-jeunes-qui-cherchent-encore-une-entreprise-2980616.html)
 append_entries: 1
 Finish: 2024-06-05 01:18:46.356224
+------------------------------------------------------
+Started: 2024-06-05 12:42:36.629094
+Existing_entries: 146
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Les combats de Francis Chevalier, résistant et ancien maire d'Escaudain](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/les-combats-de-francis-chevalier-resistant-et-ancien-maire-d-escaudain-2980625.html)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. La "plus grosse pile à hydrogène du monde" se construit en Gironde, sur l'ancien site de l'usine Ford](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/la-plus-grosse-pile-a-hydrogene-du-monde-se-construit-en-gironde-sur-l-ancien-site-de-l-usine-ford-2981045.html)
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Pierre Martinet, le "traiteur intraitable" connu pour ses plats préparés, en passe de vendre son entreprise](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/video-pierre-martinet-le-traiteur-intraitable-connu-pour-ses-plats-prepares-en-passe-de-vendre-son-entreprise-2980832.html)
+append_entries: 3
+Finish: 2024-06-05 12:42:49.453297

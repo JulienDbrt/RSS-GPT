@@ -567,3 +567,15 @@ Summarized using GPT-3.5-turbo
 Append: [42% des épargnants français placent de l'argent au moins une fois par mois](https://www.bfmtv.com/economie/patrimoine/placements-epargne/42-des-epargnants-francais-placent-de-l-argent-au-moins-une-fois-par-mois_AV-202406040656.html)
 append_entries: 1
 Finish: 2024-06-05 01:15:28.378338
+------------------------------------------------------
+Started: 2024-06-05 12:37:46.936603
+Existing_entries: 55
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Impôts: trois Français sur quatre trouvent les droits de succession trop élevés](https://www.bfmtv.com/economie/patrimoine/impots-trois-francais-sur-quatre-trouvent-les-droits-de-succession-trop-eleves_AV-202406050538.html)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [Impôts: les habitants de ces départements n'ont plus que quelques heures pour déclarer leurs revenus](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impots-les-habitants-de-ces-departements-n-ont-plus-que-quelques-heures-pour-declarer-leurs-revenus_AV-202406050051.html)
+append_entries: 2
+Finish: 2024-06-05 12:37:52.819858

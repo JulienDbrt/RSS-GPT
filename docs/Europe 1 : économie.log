@@ -880,3 +880,18 @@ Summarized using GPT-3.5-turbo
 Append: [Tarif élevé, les TGV exclus du dispositif... Faut-il craindre un grand flop pour le pass rail ?](https://www.europe1.fr/economie/tarif-eleve-les-tgv-exclus-du-dispositif-faut-il-craindre-un-grand-flop-pour-le-pass-rail-4250933)
 append_entries: 2
 Finish: 2024-06-05 01:16:41.292543
+------------------------------------------------------
+Started: 2024-06-05 12:39:01.201857
+Existing_entries: 154
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [La fortune des riches à son plus haut historique, montre une étude](https://www.europe1.fr/economie/la-fortune-des-riches-a-son-plus-haut-historique-montre-une-etude-4251027)
+Token length: 445
+Summarized using GPT-3.5-turbo
+Append: [Automobile : la nouvelle Citroën C3 électrique, à moins de 20.000 euros, est-elle un bon plan ?](https://www.europe1.fr/economie/automobile-la-nouvelle-citroen-c3-electrique-a-moins-de-20000-est-elle-un-bon-plan-4250975)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [Les banques anticipent la décision de la BCE et baissent déjà leurs taux](https://www.europe1.fr/economie/les-banques-anticipent-la-decision-de-la-bce-et-baissent-deja-leurs-taux-4250935)
+append_entries: 3
+Finish: 2024-06-05 12:39:13.969488

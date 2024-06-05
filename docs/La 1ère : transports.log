@@ -775,3 +775,21 @@ Summarized using GPT-3.5-turbo
 Append: [15 lignes de bus à l'arrêt sur le réseau Centre en Martinique](https://la1ere.francetvinfo.fr/martinique/15-lignes-de-bus-a-l-arret-sur-le-reseau-centre-en-martinique-1493909.html)
 append_entries: 3
 Finish: 2024-06-05 01:20:09.671676
+------------------------------------------------------
+Started: 2024-06-05 12:44:32.808552
+Existing_entries: 111
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. Crise en Nouvelle-Calédonie: les premiers vols Aircal ont décollé pour les îles](https://la1ere.francetvinfo.fr/nouvellecaledonie/video-crise-en-nouvelle-caledonie-les-premiers-vols-aircal-ont-decolle-pour-les-iles-1494128.html)
+Token length: 8
+Summarized using GPT-3.5-turbo
+Append: [Imbroglio sur la reprise des vols en Nouvelle-Calédonie](https://la1ere.francetvinfo.fr/imbroglio-sur-la-reprise-des-vols-en-nouvelle-caledonie-1494158.html)
+Token length: 74
+Summarized using GPT-3.5-turbo
+Append: [Caribus : annulation du marché attribué à la société Optimom](https://la1ere.francetvinfo.fr/mayotte/caribus-annulation-du-marche-attribue-a-la-societe-optimom-1494164.html)
+Token length: 42
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : le réseau de transports Tanéo suspendu "jusqu’à nouvel ordre"](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/crise-en-nouvelle-caledonie-le-reseau-de-transports-taneo-suspendu-jusqu-a-nouvel-ordre-1494116.html)
+append_entries: 4
+Finish: 2024-06-05 12:44:48.775399

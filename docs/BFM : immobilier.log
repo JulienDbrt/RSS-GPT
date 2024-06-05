@@ -823,3 +823,15 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier: les dossiers de litiges déposés auprès de l'AMF explosent pour les SCPI](https://www.bfmtv.com/immobilier/investissement-placement/immobilier-les-dossiers-de-litiges-deposes-aupres-de-l-amf-explosent-pour-les-scpi_AD-202406040567.html)
 append_entries: 1
 Finish: 2024-06-05 01:15:22.868379
+------------------------------------------------------
+Started: 2024-06-05 12:37:36.202105
+Existing_entries: 153
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [Les travailleurs saisonniers ont désormais accès à la garantie Visale pour les loyers impayés](https://www.bfmtv.com/immobilier/location/les-travailleurs-saisonniers-ont-desormais-acces-a-la-garantie-visale-pour-les-loyers-impayes_AD-202406050575.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Baisse des taux de la BCE: cela va-t-il faire diminuer le taux de votre crédit immobilier?](https://www.bfmtv.com/immobilier/credit-emprunt/baisse-des-taux-de-la-bce-cela-va-t-il-faire-diminuer-le-taux-de-votre-credit-immobilier_AV-202406050352.html)
+append_entries: 2
+Finish: 2024-06-05 12:37:42.194909

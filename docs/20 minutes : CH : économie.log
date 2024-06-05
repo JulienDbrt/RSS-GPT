@@ -913,3 +913,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des salariés d’OpenAI veulent émettre des critiques publiques](https://www.20min.ch/fr/story/intelligence-artificielle-des-salaries-d-open-ai-veulent-emettre-des-critiques-publiques-450933311527)
 append_entries: 1
 Finish: 2024-06-05 01:12:55.610021
+------------------------------------------------------
+Started: 2024-06-05 12:34:37.096027
+Existing_entries: 197
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Les billets à l'effigie de Charles III entrent en circulation](https://www.20min.ch/fr/story/royaume-uni-les-billets-a-leffigie-de-charles-iii-entrent-en-circulation-103120356)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [La fortune des plus riches à son plus haut historique](https://www.20min.ch/fr/story/etude-la-fortune-des-plus-riches-a-son-plus-haut-historique-834508757352)
+append_entries: 2
+Finish: 2024-06-05 12:34:44.570521

@@ -821,3 +821,15 @@ Summarized using GPT-3.5-turbo
 Append: [Strasbourg : Contre la faillite, le Gang des taverniers se serre les coudes](https://www.20minutes.fr/economie/4094294-20240604-strasbourg-contre-faillite-gang-taverniers-serre-coudes)
 append_entries: 2
 Finish: 2024-06-05 01:13:05.264255
+------------------------------------------------------
+Started: 2024-06-05 12:34:44.636749
+Existing_entries: 133
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [« Furiosa » fait un four, dépassée par « Garfield » et « Blue et compagnie »](https://www.20minutes.fr/arts-stars/cinema/4094702-20240605-furiosa-fait-four-depassee-garfield-blue-compagnie)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [« Le pass rail est une mesure de liberté et de fraternité », selon Mathieu Maucort, délégué interministériel à la jeunesse](https://www.20minutes.fr/economie/4094530-20240605-pass-rail-mesure-liberte-fraternite-selon-mathieu-maucort-delegue-interministeriel-jeunesse)
+append_entries: 2
+Finish: 2024-06-05 12:34:53.283774
