@@ -4,6 +4,179 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Rmlint – Pour optimiser votre espace disque sous Linux</title>
+<link>https://korben.info/rmlint-outil-ultime-optimiser-espace-disque-linux.html</link>
+<guid>https://korben.info/rmlint-outil-ultime-optimiser-espace-disque-linux.html</guid>
+<content:encoded><![CDATA[
+<div> dupliqués, répertoires, symboles de débogage, liens brisés, espace disque
+<br>
+<br>
+rmlint est un outil open source disponible sur la plupart des distributions Linux qui permet d'optimiser l'espace disque en trouvant rapidement les fichiers inutiles. Il peut détecter les fichiers dupliqués, les répertoires en double, les binaires non strippés, les liens symboliques brisés, les fichiers et répertoires vides, ainsi que les fichiers avec des ID utilisateur ou groupe invalides. Il offre un mode paranoïa pour éviter les suppressions accidentelles de fichiers importants et propose diverses options d'analyse. Compatible avec les systèmes de fichiers modernes comme btrfs, rmlint peut libérer encore plus d'espace en exploitant les fonctionnalités avancées de ces systèmes. Facile à installer et à utiliser, il fournit un rapport détaillé des fichiers à supprimer, permettant de nettoyer efficacement le disque dur et de récupérer de l'espace de stockage précieux. Essayer rmlint peut vous aider à maintenir votre système propre et performant tout en optimisant l'utilisation de votre espace disque. 
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_text_Rmlint_hard_disk_5a70dc7c-a3a9-43a0-a246-d5b361935ad1.png" width="1456" /></p>
+<p>Si votre disque dur se rempli à vue d&rsquo;œil et que vous ne savez pas comment faire le ménage, <strong>rmlint</strong> peut vous aider. Cet outil open source, disponible sur la plupart des distributions Linux, va vous permettre d&rsquo;optimiser votre espace disque en un rien de temps.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1153165408" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Contrairement à d&rsquo;autres outils du même genre, il se distingue par sa rapidité d&rsquo;exécution en scannant vos disques en un clin d&rsquo;œil pour dénicher tous les fichiers qui encombrent inutilement votre précieux espace de stockage. Au menu des fonctionnalités, rmlint est capable de détecter : </p>
+
+
+
+<ul>
+<li>Les <strong>fichiers dupliqués</strong> et les répertoires en double</li>
+
+
+
+<li>Les <strong>binaires non strippés</strong> (c&rsquo;est-à-dire avec des symboles de débogage)</li>
+
+
+
+<li>Les <strong>liens symboliques brisés</strong></li>
+
+
+
+<li>Les <strong>fichiers et répertoires vides</strong></li>
+
+
+
+<li>Les fichiers avec des <strong>ID utilisateur ou groupe invalides</strong></li>
+</ul>
+
+
+
+<p>Mais ce n&rsquo;est pas tout puisqu&rsquo;il propose également un mode paranoïa pour ceux qui veulent être sûrs à 100% de ne pas supprimer de fichiers importants par erreur. Il offre également de multiples options pour s&rsquo;adapter à vos besoins et peut même se limiter aux fichiers plus récents qu&rsquo;une certaine date.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158207" height="555" src="https://korben.info/app/uploads/2024/04/SCR-20240401-saje.webp" width="1000" /></figure></div>
+
+
+<p>Pour les fans de systèmes de fichiers modernes comme <strong>btrfs</strong>, sachez que rmlint les gère comme un chef et peut tirer parti des fonctionnalités avancées de ce dernier pour vous faire gagner encore plus d&rsquo;espace disque.</p>
+
+
+
+<p>Pour l&rsquo;installer sous Debian / Ubuntu, un petit</p>
+
+
+
+<pre class="wp-block-code"><code>sudo apt install rmlint</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-916605997" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>fera l&rsquo;affaire. Ensuite pour le lancer, tapez simplement la commande <code>rmlint</code> suivie du répertoire que vous voulez analyser. Par exemple : </p>
+
+
+
+<p><code>rmlint /home/utilisateur/dossier-bordel</code></p>
+
+
+
+<p>Vous pouvez ajouter des options pour affiner l&rsquo;analyse, comme <code>-o</code> pour spécifier un format de sortie ou </p>
+
+
+
+<p><code>--paranoid</code> </p>
+
+
+
+<p>pour activer le mode paranoïa si vous ne faites pas confiance aux hashs retournés par l&rsquo;outil et que vous craignez que des fichiers non-duplicate soient supprimés.</p>
+
+
+
+<p>Et voilà, en quelques secondes (ou minutes selon la taille du répertoire), rmlint vous pondra un joli rapport listant tous les fichiers qui méritent de passer à la trappe. Il ne vous restera plus qu&rsquo;à les supprimer d&rsquo;un coup de <code>rm</code> bien placé et à profiter de vos gigaoctets fraîchement libérés !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1847089303" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Foncez sur <a href="https://rmlint.readthedocs.io/en/latest/" rel="noopener" target="_blank">https://rmlint.readthedocs.io/en/latest/</a> pour télécharger rmlint et découvrir toutes ses options. Votre disque dur vous dira merci !</p>
+]]></content:encoded>
+<pubDate>Thu, 06 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 06 Jun 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Comment un VPN protège votre maison ?</title>
+<link>https://korben.info/vpn-protection-maison.html</link>
+<guid>https://korben.info/vpn-protection-maison.html</guid>
+<content:encoded><![CDATA[
+<div> Surfshark, protection famille, données sécurisées, adresse IP, chiffrement<br>
+<br>
+Summary: Surfshark offre une protection familiale en assurant la sécurité des données, en modifiant l'adresse IP et en chiffrant les données. Le VPN permet de protéger tous les appareils de la maison, offrant une protection contre les interceptions de trafic et les restrictions de contenu en ligne. Avec ses serveurs mondiaux, Surfshark garantit une navigation anonyme et sécurisée. Il propose également des fonctionnalités supplémentaires telles qu'un antivirus, un système d'alerte et un moteur de recherche privé. En tant qu'adulte, il est essentiel d'éduquer les membres de la famille sur les risques potentiels en ligne. Malgré la position de la France en tant que leader en qualité de vie numérique, Surfshark offre un rapport qualité-prix compétitif pour une protection en ligne fiable et abordable. <div>
+<p><img alt="Surfshark One 2023" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="501" src="https://korben.info/app/uploads/2023/09/surfshark-one-2023.png" width="1024" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">avec Surfshark</a> &#8212;</p>
+
+
+
+<p>Lorsque l&rsquo;on parle d&rsquo;un VPN, c&rsquo;est principalement avec l&rsquo;idée de disposer d&rsquo;un outil qui va protéger vos données d&rsquo;un point de vue professionnel (<a href="https://korben.info/surfshark-vpn-equipes.html">protéger votre équipe avec Surfshark</a>). Ou pour&nbsp;son côté « amusement » comme débloquer les catalogues VOD/streaming, protéger sa TV intelligente, etc.</p>
+
+
+
+<p>Mais une autre très bonne&nbsp;façon d&rsquo;utiliser un VPN est de protéger la famille au sein même de votre habitation. Ce que fait plutôt bien Surfshark pour plusieurs raisons. Et la première n&rsquo;est autre que le fait qu&rsquo;il s&rsquo;agit quasi du seul service du genre à proposer la protection d&rsquo;un nombre illimité de machines et simultané. Donc que vous soyez célibataire ou que vous viviez avec une famille nombreuse&nbsp;c&rsquo;est pareil, un seul abonnement et tout le monde en bénéficie.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" height="480" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhld2Z3aDk1OGoycW5hYXAwdXo5c2thbTFjYnQ5ZmV0d3V5cDFqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5H7WGU02ybMulNZPvX/giphy.gif" style="width: 226px; height: auto;" width="480" /></figure></div>
+
+
+<p>Bon après même si le nombre d&rsquo;appareils pris en compte peut être illimité &#8230; si la protection est foireuse ça n&rsquo;a pas grand intérêt. Mais là encore Surfshark répond aux attentes. Outre le fait de n&rsquo;avoir jamais été prit en flag de mentir sur sa politique de non-conservation de vos activités (multiples audits au fil des années), il repose sur la panoplie des meilleurs standards du domaine : chiffrement AES 256, protocole&nbsp;IKEv2/IPsec, support de Wireguard/OpenVPN/L2TP, etc.</p>
+
+
+
+<p>Maintenant, comment est-ce qu&rsquo;un VPN protège concrètement les utilisateurs de votre maison ?</p>
+
+
+
+<p>Déjà en modifiant votre adresse IP. Vous savez sans doute déjà qu&rsquo;une adresse IP est celle qui identifie votre machine sur Internet. Toutes vos actions y sont liées : achat en ligne, message sur un réseau social, etc. Il est donc assez facile de relier&nbsp;votre comportement en ligne à votre appareil.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="427" src="https://kbn.im/surfshark6juin" width="750" /></figure></div>
+
+
+<p><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Surfshark</a> vous permet de modifier cette dernière en changeant de serveur, de manière aléatoire tous les x temps &#8230; ou de la garder fixe si besoin. En changeant d&rsquo;IP, vous donnez aux sites que vous visitez (même à votre fournisseur d&rsquo;accès via le mode&nbsp;camouflage) une localisation qui est différente de votre vraie position.</p>
+
+
+
+<p>Le chiffrement de vos&nbsp;données est un autre aspect de cette protection. Par défaut tout ce que vous faites en ligne sera chiffré avec les meilleurs algorithmes du moment. Si une personne mal intentionnée venait à intercepter votre trafic, il ne pourrait rien en faire. Ce qui est plutôt appréciable, surtout si vous habitez un pays où le gouvernement en place aime jouer au petit curieux.</p>
+
+
+
+<p>L&rsquo;idéal dans ce cas est bien entendu de sécuriser le routeur de la maison, celui par lequel tout passe. Mais simplement installer&nbsp;le VPN sur tous vos appareils fera aussi très bien le taf. Et ce qui est plutôt cool c&rsquo;est que Surfshark supporte toutes les religions, de Windows à Linux en passant par macOS, Android, iOS, BlackBerry, vos smart TV, navigateurs&nbsp;et mêmes consoles de jeux. Bref il est plus flexible qu&rsquo;un contorsionniste.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img alt="" height="360" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxxNjFpMW1zdXI3cjAycjJnaTY5cjJ4Y25lcTk3aXpuMjNwbHk5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMXzkuWIQaR01EY/giphy.gif" style="width: 312px; height: auto;" width="480" /></figure></div>
+
+
+<p>Un point à prendre en compte&nbsp;est de choisir un VPN qui corresponde à votre situation. On pense souvent à des serveurs situés un peu partout dans le monde sans faire attention à sa propre géoloc. Or vous pouvez très bien avoir envie de regarder un contenu&nbsp;réservé à la France &#8230; depuis la France. Sans donner votre position. De ce côté Surfshark est blindé avec ses 3200+ serveurs (quasi tous en 10 Gb/s) répartis dans 100+ pays. Pas le plus grand parc de serveurs des VPN, mais le mieux réparti et avec l&rsquo;un des&nbsp;meilleurs rapport qualité/prix du marché.</p>
+
+
+
+<p>Comme vous êtes l&rsquo;adulte de la maison (hum hum), ce sera à vous d&rsquo;éduquer vos enfants sur le sujet.&nbsp; Surtout les plus jeunes (et les plus vieux) qui ne sont pas forcément au courant des risques potentiels dans ce&nbsp;bourg mal famé que sont les Internets. Et avec&nbsp;le pack&nbsp;<a href="https://korben.info/surfshark-one-chien-de-garde.html">Surfshark One</a> dont j&rsquo;ai parlé dernièrement et intégré par défaut depuis peu, il vous permet de disposer en plus d&rsquo;un antivirus, d&rsquo;un système d&rsquo;alerte, de la création d&rsquo;identité alternative, d&rsquo;un moteur de recherche privé, d&rsquo;un surf sans publicités ni traqueurs&nbsp;et un tas d&rsquo;autres options !</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-161255" height="262" src="https://korben.info/app/uploads/2024/05/surfshark-reprenez-le-controle.webp" width="700" /></figure>
+</figure>
+
+
+
+<p>Récemment le site du VPN aux dents de requin&nbsp;a publié un <a href="https://surfshark.com/dql2023" rel="noreferrer noopener" target="_blank">classement mondial</a> de la qualité de vie numérique. Et notre hexagone s&rsquo;y classe &#8230; premier devant la Finlande et le Danemark. Place que l&rsquo;on doit surtout au prix de nos connexions (merci Free), parce que niveau cybersécu et infrastructure électronique&nbsp;nous sommes bien plus mal placés (autour de la 15e place). Comme quoi il y a encore de la marge.</p>
+
+
+
+<p>Et tout cela vous est accessible pour moins de 3.25€/mois TTC (abonnement 2 ans). Satisfait ou remboursé durant 30 jours, donc pas de prise de risques, vous pouvez tester ça au calme et vous faire votre idée. Niveau des modes de paiement il y en a pour tout le monde : de PayPal à la CB, en passant par les solutions comme Google Pay/Amazon Pay&nbsp;et les cryptomonnaies.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">N&rsquo;attendez plus, essayez Surfshark VPN !</a></h2>
+]]></content:encoded>
+<pubDate>Thu, 06 Jun 2024 06:20:28 +0000</pubDate>
+<pubDate>Thu, 06 Jun 2024 06:20:28 +0000</pubDate>
+</item>
 
 <item>
 <title>Windows Vista Extended Kernel – Donnez un coup de jeune à votre PC sous Windows Vista</title>

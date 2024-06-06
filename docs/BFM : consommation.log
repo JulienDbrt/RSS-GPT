@@ -717,3 +717,12 @@ Summarized using GPT-3.5-turbo
 Append: [Maxi Bazar: quelle est cette enseigne d'articles à petits prix qui débarque à Paris?](https://www.bfmtv.com/economie/consommation/maxi-bazar-quelle-est-cette-enseigne-d-articles-a-petits-prix-qui-debarque-a-paris_AD-202406050757.html)
 append_entries: 1
 Finish: 2024-06-06 01:14:05.443974
+------------------------------------------------------
+Started: 2024-06-06 12:36:31.920265
+Existing_entries: 101
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [4 Français sur 10 vont au restaurant tous les mois (et les jeunes encore plus)](https://www.bfmtv.com/economie/consommation/4-francais-sur-10-vont-au-restaurant-tous-les-mois-et-les-jeunes-encore-plus_AV-202406060052.html)
+append_entries: 1
+Finish: 2024-06-06 12:36:36.120989

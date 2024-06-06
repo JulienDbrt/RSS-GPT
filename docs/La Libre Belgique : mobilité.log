@@ -737,3 +737,15 @@ Summarized using GPT-3.5-turbo
 Append: [Drame sur le ring de Zaventem: Dirk, le conducteur décédé, laisse neuf enfants derrière lui](https://www.lalibre.be/belgique/mobilite/2024/06/05/drame-sur-le-ring-de-zaventem-dirk-le-conducteur-decede-laisse-neuf-enfants-derriere-lui-WISYQ3R7SRHNHKOYE7FD5A4EUQ/)
 append_entries: 1
 Finish: 2024-06-06 01:22:15.932773
+------------------------------------------------------
+Started: 2024-06-06 12:46:17.312108
+Existing_entries: 127
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Carrefour Léonard: trois samedis noirs à venir, voici les perturbations prévues](https://www.lalibre.be/belgique/mobilite/2024/06/06/carrefour-leonard-trois-samedis-noirs-a-venir-voici-les-perturbations-prevues-YP4SIWVL25FHFMYBKX5XRV6CDU/)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Trois conducteurs wallons sur cinq l'ignorent mais un changement important entrera en vigueur sur nos routes dès le 7 juillet](https://www.lalibre.be/belgique/mobilite/2024/06/06/trois-conducteurs-wallons-sur-cinq-lignorent-mais-un-changement-important-entrera-en-vigueur-sur-nos-routes-des-le-7-juillet-NL6U35LQLBFGFCZ4YATSGFAVLE/)
+append_entries: 2
+Finish: 2024-06-06 12:46:26.524217

@@ -653,3 +653,12 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : comment le bassin d'Arcachon est devenu la nouvelle Côte d’Azur](https://www.francetvinfo.fr/economie/immobilier/immobilier-comment-le-bassin-d-arcachon-est-devenu-la-nouvelle-cote-d-azur_6586545.html)
 append_entries: 2
 Finish: 2024-06-06 01:17:33.228459
+------------------------------------------------------
+Started: 2024-06-06 12:40:35.461809
+Existing_entries: 73
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Crédits immobiliers, épargne, investissement... La baisse des taux directeurs de la BCE va-t-elle redynamiser l'activité économique ?](https://www.francetvinfo.fr/economie/credits-immobiliers-epargne-investissement-la-baisse-des-taux-directeurs-de-la-bce-va-t-elle-redynamiser-l-activite-economique_6582189.html)
+append_entries: 1
+Finish: 2024-06-06 12:40:41.553282

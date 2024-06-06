@@ -753,3 +753,15 @@ Summarized using GPT-3.5-turbo
 Append: ["C'était terrifiant": deux Renault Zoé électriques explosent en deux jours, que s'est-il passé?](https://www.bfmtv.com/auto/c-etait-terrifiant-deux-renault-zoe-electriques-explosent-en-deux-jours-que-s-est-il-passe_AV-202406050700.html)
 append_entries: 1
 Finish: 2024-06-06 01:14:02.155275
+------------------------------------------------------
+Started: 2024-06-06 12:36:24.500603
+Existing_entries: 113
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux sur les Citroën C3 et DS3: comment savoir si vous êtes concerné?](https://www.bfmtv.com/auto/airbags-defectueux-sur-les-citroen-c3-et-ds3-comment-savoir-si-vous-etes-concerne_AN-202406060469.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Stellantis: le scandale des airbags défectueux prend de l'ampleur, 8 millions de véhicules concernés](https://www.bfmtv.com/auto/stellantis-le-scandale-des-airbags-defectueux-prend-de-l-ampleur-8-millions-de-vehicules-concernes_AV-202406060234.html)
+append_entries: 2
+Finish: 2024-06-06 12:36:31.429351

@@ -798,3 +798,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un nouvel appel à la grève à l'aéroport d'Orly pour les 11, 12 et 13 juin : un syndicat dénonce "une forte dégradation des conditions de travail"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/un-nouvel-appel-a-la-greve-a-l-aeroport-d-orly-pour-les-11-12-et-13-juin-un-syndicat-denonce-une-forte-degradation-des-conditions-de-travail-2981531.html)
 append_entries: 2
 Finish: 2024-06-06 01:18:34.570034
+------------------------------------------------------
+Started: 2024-06-06 12:41:42.516037
+Existing_entries: 128
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Le Val-de-Marne souhaite classer 16% de son territoire pour protéger ses derniers espaces naturels et agricoles](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/le-val-de-marne-souhaite-classer-16-de-son-territoire-pour-proteger-ses-derniers-espaces-naturels-et-agricoles-2981792.html)
+append_entries: 1
+Finish: 2024-06-06 12:41:48.064651

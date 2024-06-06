@@ -1596,3 +1596,24 @@ Summarized using GPT-3.5-turbo
 Append: [Un nouvel appel à la grève à l'aéroport d'Orly pour les 11, 12 et 13 juin : un syndicat dénonce "une forte dégradation des conditions de travail"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/un-nouvel-appel-a-la-greve-a-l-aeroport-d-orly-pour-les-11-12-et-13-juin-un-syndicat-denonce-une-forte-degradation-des-conditions-de-travail-2981531.html)
 append_entries: 5
 Finish: 2024-06-06 01:19:14.778906
+------------------------------------------------------
+Started: 2024-06-06 12:42:43.678410
+Existing_entries: 395
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Enfants à vélo renversés à La Rochelle : au lendemain du drame, les habitants sont encore sous le choc](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/enfants-a-velo-renverses-a-la-rochelle-au-lendemain-du-drame-les-habitants-sont-encore-sous-le-choc-2982068.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Dans la Meuse, la SNCF mène un ambitieux chantier de rénovation à l'aide d'un train usine](https://france3-regions.francetvinfo.fr/grand-est/meuse/bar-le-duc/dans-la-meuse-la-sncf-mene-un-ambitieux-chantier-de-renovation-a-l-aide-d-un-train-usine-2981960.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [A35 : carambolage entre six véhicules dans le sens Strasbourg-Colmar](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/a35-carambolage-entre-cinq-vehicules-dans-le-sens-strasbourg-colmar-2981924.html)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Accident de la route dans le Bas-Rhin : choc frontal entre deux voitures, au moins deux blessés](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/accident-de-la-route-dans-le-bas-rhin-choc-frontal-entre-deux-voitures-au-moins-deux-blesses-2981915.html)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi les dockers en grève veulent bloquer le port de Bordeaux en juin](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/pourquoi-les-dockers-en-greve-veulent-bloquer-le-port-de-bordeaux-en-juin-2981210.html)
+append_entries: 5
+Finish: 2024-06-06 12:42:59.840462

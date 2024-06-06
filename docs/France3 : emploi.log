@@ -873,3 +873,18 @@ Summarized using GPT-3.5-turbo
 Append: [La SCOP, avenir de Duralex ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/la-scop-avenir-de-duralex-2981384.html)
 append_entries: 4
 Finish: 2024-06-06 01:19:02.846516
+------------------------------------------------------
+Started: 2024-06-06 12:42:29.664043
+Existing_entries: 153
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Neyrpic : 800 emplois à pourvoir avant l'ouverture du centre commercial à Saint-Martin-d'Hères](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/video-neyrpic-800-emplois-a-pourvoir-avant-l-ouverture-du-centre-commercial-a-saint-martin-d-heres-2981903.html)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: ["Je fais des recherches mais c'est compliqué", la galère des lycéens de seconde pour décrocher leur stage en entreprise](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/je-fais-des-recherches-mais-c-est-complique-la-galere-des-lyceens-de-seconde-pour-decrocher-leur-stage-en-entreprise-2981885.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Élections européennes 2024 : depuis 10 ans, les Hauts-de-France plébiscitent l'extrême droite](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/elections-europeennes-2024-depuis-10-ans-les-hauts-de-france-plebiscitent-l-extreme-droite-2981279.html)
+append_entries: 3
+Finish: 2024-06-06 12:42:42.769408

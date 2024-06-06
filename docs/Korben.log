@@ -991,3 +991,15 @@ Existing_entries: 181
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-06-06 01:10:56.327512
+------------------------------------------------------
+Started: 2024-06-06 12:32:49.357998
+Existing_entries: 181
+Fetching from https://korben.info/feed
+Token length: 2249
+Summarized using GPT-3.5-turbo
+Append: [Rmlint – Pour optimiser votre espace disque sous Linux](https://korben.info/rmlint-outil-ultime-optimiser-espace-disque-linux.html)
+Token length: 4622
+Summarized using GPT-3.5-turbo
+Append: [Comment un VPN protège votre maison ?](https://korben.info/vpn-protection-maison.html)
+append_entries: 2
+Finish: 2024-06-06 12:32:59.617974

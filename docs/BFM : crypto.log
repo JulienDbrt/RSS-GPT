@@ -735,3 +735,15 @@ Summarized using GPT-3.5-turbo
 Append: [Europe VS Etats-Unis : qui prendra l’avantage ?](https://www.bfmtv.com/crypto/europe-vs-etats-unis-qui-prendra-l-avantage_VL-202406050610.html)
 append_entries: 3
 Finish: 2024-06-06 01:14:17.087030
+------------------------------------------------------
+Started: 2024-06-06 12:36:36.183091
+Existing_entries: 107
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Coinbase fait un don de 25 millions de dollars pour tenter d’influencer la politique américaine](https://www.bfmtv.com/crypto/regulation/coinbase-fait-un-don-de-25-millions-de-dollars-pour-tenter-d-influencer-la-politique-americaine_AV-202406060452.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Fidelity relance la bataille des ETF bitcoin aux États-Unis](https://www.bfmtv.com/crypto/bitcoin/fidelity-relance-la-bataille-des-etf-bitcoin-aux-etats-unis_AV-202406060383.html)
+append_entries: 2
+Finish: 2024-06-06 12:36:45.725733

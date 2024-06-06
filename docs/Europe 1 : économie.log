@@ -913,3 +913,12 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts : attention, il vous reste moins de 48 heures pour remplir votre déclaration](https://www.europe1.fr/economie/impots-attention-il-vous-reste-moins-de-48-heures-pour-remplir-votre-declaration-4251081)
 append_entries: 4
 Finish: 2024-06-06 01:16:52.439187
+------------------------------------------------------
+Started: 2024-06-06 12:39:27.248917
+Existing_entries: 161
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Baisse des taux : ce que la décision de la BCE va changer dans la vie des Français](https://www.europe1.fr/economie/baisse-des-taux-ce-que-la-decision-de-la-bce-va-changer-dans-la-vie-des-francais-4251155)
+append_entries: 1
+Finish: 2024-06-06 12:39:30.576092

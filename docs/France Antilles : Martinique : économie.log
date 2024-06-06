@@ -1001,3 +1001,21 @@ Summarized using GPT-3.5-turbo
 Append: [Planète en surchauffe: interdisons la pub pour les énergies fossiles, lance le chef de l'ONU](https://www.martinique.franceantilles.fr/actualite/economie/planete-en-surchauffe-interdisons-la-pub-pour-les-energies-fossiles-lance-le-chef-de-lonu-989895.php)
 append_entries: 1
 Finish: 2024-06-06 01:16:57.069381
+------------------------------------------------------
+Started: 2024-06-06 12:39:30.679767
+Existing_entries: 209
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 74
+Summarized using GPT-3.5-turbo
+Append: [Outre-mer: une part des grands marchés publics réservée aux artisans locaux](https://www.martinique.franceantilles.fr/actualite/economie/outre-mer-une-part-des-grands-marches-publics-reserves-aux-artisans-locaux-990060.php)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Avec le 4e décollage de la mégafusée Starship, SpaceX vise un vol mieux contrôlé](https://www.martinique.franceantilles.fr/actualite/economie/avec-le-4eme-decollage-de-la-megafusee-starship-spacex-vise-un-vol-mieux-controle-990044.php)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Plus d'un enfant de moins de 5 ans sur quatre vit dans une "pauvreté alimentaire sévère" (Unicef)](https://www.martinique.franceantilles.fr/actualite/economie/plus-dun-enfant-de-moins-de-5-ans-sur-quatre-vit-dans-une-pauvrete-alimentaire-severe-unicef-990049.php)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [Quatre morts et des dizaines de blessés dans une collision ferroviaire en République tchèque](https://www.martinique.franceantilles.fr/actualite/economie/quatre-morts-et-des-dizaines-de-blesses-dans-une-collision-ferroviaire-en-republique-tcheque-990048.php)
+append_entries: 4
+Finish: 2024-06-06 12:39:51.715894

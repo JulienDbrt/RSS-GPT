@@ -932,3 +932,21 @@ Summarized using GPT-3.5-turbo
 Append: [Carburants : les prix en baisse](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-les-prix-en-baisse_6586533.html)
 append_entries: 2
 Finish: 2024-06-06 01:17:40.186255
+------------------------------------------------------
+Started: 2024-06-06 12:40:41.642815
+Existing_entries: 166
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Circulation : plus de 455 km de bouchons enregistrés jeudi matin en Île-de-France](https://www.francetvinfo.fr/economie/transports/trafic/circulation-plus-de-384-km-de-bouchons-enregistres-jeudi-matin-en-ile-de-france_6588153.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [En République tchèque, une collision ferroviaire fait quatre morts et des dizaines de blessés](https://www.francetvinfo.fr/economie/transports/en-republique-tcheque-une-collision-ferroviaire-fait-quatre-morts-et-des-dizaines-de-blesses_6588114.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: ["Pas d'alcool sur le chemin de l'école" : cinq associations portent plainte contre la RATP pour affichage de pubs trop incitatives](https://www.francetvinfo.fr/sante/drogue-addictions/pas-d-alcool-sur-le-chemin-de-l-ecole-cinq-associations-portent-plainte-contre-la-ratp-pour-affichage-de-pubs-trop-incitatives_6588012.html)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: ["Il y a un vrai enjeu" : une proposition de loi déposée pour lutter contre l'arnaque des "doublettes" de plaques d'immatriculation](https://www.francetvinfo.fr/economie/automobile/il-y-a-un-vrai-enjeu-une-proposition-de-loi-deposee-pour-lutter-contre-l-arnaque-des-doublettes-de-plaques-d-immatriculation_6586620.html)
+append_entries: 4
+Finish: 2024-06-06 12:40:56.448621

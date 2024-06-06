@@ -783,3 +783,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les contrôleurs aériens annoncent une nouvelle grève à l'aéroport d'Orly](https://www.bfmtv.com/economie/entreprises/transports/les-controleurs-aeriens-annoncent-une-nouvelle-greve-a-l-aeroport-d-orly_VN-202406050829.html)
 append_entries: 1
 Finish: 2024-06-06 01:15:40.963861
+------------------------------------------------------
+Started: 2024-06-06 12:38:29.882978
+Existing_entries: 123
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [SNCF: la concurrence est-elle possible ?](https://www.bfmtv.com/economie/entreprises/transports/sncf-la-concurrence-est-elle-possible_VN-202406060384.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Aucun avion au départ et à l'arrivée de l'aéroport de Beauvais ce jeudi](https://www.bfmtv.com/economie/entreprises/transports/aucun-avion-au-depart-et-a-l-arrivee-de-l-aeroport-de-beauvais-ce-jeudi_AV-202406060368.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [TGV: qui est Proxima, l'opérateur qui a levé 1 milliard d'euros pour concurrencer la SNCF vers l'ouest?](https://www.bfmtv.com/economie/entreprises/transports/tgv-qui-est-proxima-l-operateur-qui-a-leve-1-milliard-d-euros-pour-concurrencer-la-sncf-vers-l-ouest_AV-202406060292.html)
+append_entries: 3
+Finish: 2024-06-06 12:38:42.977564

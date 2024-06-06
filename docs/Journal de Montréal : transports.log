@@ -735,3 +735,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le maire Bruno Marchand veut «un réseau structurant»... même si ce n’est pas un tramway](https://www.journaldemontreal.com/2024/06/04/marchand-veut-un-reseau-structurant-meme-si-ce-nest-pas-un-tramway)
 append_entries: 3
 Finish: 2024-06-06 01:19:26.736364
+------------------------------------------------------
+Started: 2024-06-06 12:43:00.263504
+Existing_entries: 97
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-06 12:43:00.359447

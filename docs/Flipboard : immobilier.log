@@ -1765,3 +1765,15 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : comment le bassin d'Arcachon est devenu la nouvelle Côte d’Azur](https://www.francetvinfo.fr/economie/immobilier/immobilier-comment-le-bassin-d-arcachon-est-devenu-la-nouvelle-cote-d-azur_6586545.html)
 append_entries: 4
 Finish: 2024-06-06 01:10:54.570876
+------------------------------------------------------
+Started: 2024-06-06 12:32:28.028965
+Existing_entries: 535
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Baisse des taux : ce que la décision de la BCE va changer dans la vie des Français](https://www.europe1.fr/economie/baisse-des-taux-ce-que-la-decision-de-la-bce-va-changer-dans-la-vie-des-francais-4251155)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Gims annonce un nouveau projet immobilier à 100 millions d’euros au cœur du Maroc](https://www.forbes.fr/brandvoice/gims-annonce-un-nouveau-projet-immobilier-a-100-millions-deuros-au-coeur-du-maroc/)
+append_entries: 2
+Finish: 2024-06-06 12:32:48.385720
