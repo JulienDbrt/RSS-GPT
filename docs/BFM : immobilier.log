@@ -835,3 +835,15 @@ Summarized using GPT-3.5-turbo
 Append: [Baisse des taux de la BCE: cela va-t-il faire diminuer le taux de votre crédit immobilier?](https://www.bfmtv.com/immobilier/credit-emprunt/baisse-des-taux-de-la-bce-cela-va-t-il-faire-diminuer-le-taux-de-votre-credit-immobilier_AV-202406050352.html)
 append_entries: 2
 Finish: 2024-06-05 12:37:42.194909
+------------------------------------------------------
+Started: 2024-06-06 01:15:29.244119
+Existing_entries: 155
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [425 euros pour un 32 m2 à Paris: le premier immeuble coopératif de la capitale est enfin habité](https://www.bfmtv.com/immobilier/location/425-euros-pour-un-32-m2-a-paris-le-premier-immeuble-cooperatif-de-la-capitale-est-enfin-habite_AN-202406050706.html)
+Token length: 547
+Summarized using GPT-3.5-turbo
+Append: [Panneaux solaires : c'est aussi possible pour une copropriété !](https://www.bfmtv.com/immobilier/services/financement-de-travaux-et-renovation-energetique/panneaux-solaires-c-est-aussi-possible-pour-une-copropriete_AB-202406050710.html)
+append_entries: 2
+Finish: 2024-06-06 01:15:33.623021

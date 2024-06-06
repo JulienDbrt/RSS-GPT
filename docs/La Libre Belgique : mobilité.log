@@ -728,3 +728,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un accident mortel impliquant un camion cause d’importantes perturbations sur le ring de Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/06/05/un-accident-mortel-impliquant-un-camion-cause-dimportantes-perturbations-sur-le-ring-de-bruxelles-ZNHT6HLIV5EABNGMYWXUXPXJ6A/)
 append_entries: 4
 Finish: 2024-06-05 12:47:15.742050
+------------------------------------------------------
+Started: 2024-06-06 01:22:12.823569
+Existing_entries: 126
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Drame sur le ring de Zaventem: Dirk, le conducteur décédé, laisse neuf enfants derrière lui](https://www.lalibre.be/belgique/mobilite/2024/06/05/drame-sur-le-ring-de-zaventem-dirk-le-conducteur-decede-laisse-neuf-enfants-derriere-lui-WISYQ3R7SRHNHKOYE7FD5A4EUQ/)
+append_entries: 1
+Finish: 2024-06-06 01:22:15.932773

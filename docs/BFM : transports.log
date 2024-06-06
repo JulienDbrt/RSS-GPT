@@ -774,3 +774,12 @@ Summarized using GPT-3.5-turbo
 Append: [Aéroport d'Orly: un nouveau préavis de grève déposé pour les 11, 12 et 13 juin](https://www.bfmtv.com/economie/entreprises/transports/aeroport-d-orly-un-nouveau-preavis-de-greve-depose-pour-les-11-12-et-13-juin_AD-202406050391.html)
 append_entries: 3
 Finish: 2024-06-05 12:38:07.110270
+------------------------------------------------------
+Started: 2024-06-06 01:15:36.045207
+Existing_entries: 122
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Les contrôleurs aériens annoncent une nouvelle grève à l'aéroport d'Orly](https://www.bfmtv.com/economie/entreprises/transports/les-controleurs-aeriens-annoncent-une-nouvelle-greve-a-l-aeroport-d-orly_VN-202406050829.html)
+append_entries: 1
+Finish: 2024-06-06 01:15:40.963861

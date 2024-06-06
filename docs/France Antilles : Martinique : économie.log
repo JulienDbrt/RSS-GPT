@@ -992,3 +992,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le vaisseau Starliner de Boeing tente, pour la troisième fois, de décoller](https://www.martinique.franceantilles.fr/actualite/economie/le-vaisseau-starliner-de-boeing-tente-pour-la-troisieme-fois-de-decoller-989858.php)
 append_entries: 6
 Finish: 2024-06-05 12:39:43.093337
+------------------------------------------------------
+Started: 2024-06-06 01:16:52.538211
+Existing_entries: 208
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [Planète en surchauffe: interdisons la pub pour les énergies fossiles, lance le chef de l'ONU](https://www.martinique.franceantilles.fr/actualite/economie/planete-en-surchauffe-interdisons-la-pub-pour-les-energies-fossiles-lance-le-chef-de-lonu-989895.php)
+append_entries: 1
+Finish: 2024-06-06 01:16:57.069381

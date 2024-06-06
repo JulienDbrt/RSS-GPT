@@ -920,3 +920,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pass rail : "C'est une première étape", affirme le ministre des Transports](https://www.francetvinfo.fr/economie/transports/sncf/pass-rail-c-est-une-premiere-etape-affirme-le-ministre-des-transports_6585876.html)
 append_entries: 5
 Finish: 2024-06-05 12:40:50.478882
+------------------------------------------------------
+Started: 2024-06-06 01:17:33.313227
+Existing_entries: 164
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Six questions sur le Pass rail qui doit permettre aux jeunes de voyager en train à volonté cet été, presque partout en France](https://www.francetvinfo.fr/economie/transports/sncf/cinq-questions-sur-le-pass-rail-qui-doit-permettre-aux-jeunes-de-voyager-en-train-a-volonte-cet-ete-presque-partout-en-france_6586218.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Carburants : les prix en baisse](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-les-prix-en-baisse_6586533.html)
+append_entries: 2
+Finish: 2024-06-06 01:17:40.186255

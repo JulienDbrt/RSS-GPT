@@ -1795,3 +1795,24 @@ Summarized using GPT-3.5-turbo
 Append: [Les riches sont de plus en plus riches et de plus en plus nombreux, selon une étude](https://www.latribune.fr/economie/international/les-riches-sont-de-plus-en-plus-riches-et-de-plus-en-plus-nombreux-selon-une-etude-999115.html)
 append_entries: 10
 Finish: 2024-06-05 12:47:48.725577
+------------------------------------------------------
+Started: 2024-06-06 01:22:16.165208
+Existing_entries: 449
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 520
+Summarized using GPT-3.5-turbo
+Append: [Soutenir le « gaz vert » sans dépenser plus : le projet de l’Etat bientôt dévoilé](https://www.latribune.fr/climat/energie-environnement/soutenir-le-gaz-vert-sans-depenser-plus-le-projet-de-l-etat-bientot-devoile-999185.html)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [En France, les inégalités de patrimoine se creusent](https://www.latribune.fr/economie/france/en-france-les-inegalites-de-patrimoine-se-creusent-999142.html)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [États-Unis : les créations d’emplois marquent un coup de frein en mai](https://www.latribune.fr/economie/international/etats-unis-les-creations-d-emplois-marquent-un-coup-de-frein-en-mai-999181.html)
+Token length: 336
+Summarized using GPT-3.5-turbo
+Append: [TotalEnergies étend ses activités au Royaume-Uni et rachète une centrale électrique au gaz](https://www.latribune.fr/climat/energie-environnement/totalenergies-etend-ses-activites-au-royaume-uni-et-rachete-une-centrale-electrique-au-gaz-999165.html)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [L'Australie abandonne les poursuites judiciaires contre X pour le retrait de vidéos violentes](https://www.latribune.fr/economie/international/l-australie-abandonne-les-poursuites-judiciaires-contre-x-pour-le-retrait-de-videos-violentes-999166.html)
+append_entries: 5
+Finish: 2024-06-06 01:22:36.429873

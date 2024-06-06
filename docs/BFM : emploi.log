@@ -588,3 +588,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le nombre de salariés re-toquant chez un ex-employeur a augmenté de 36% en 3 ans](https://www.bfmtv.com/economie/emploi/le-nombre-de-salaries-re-toquant-chez-un-ex-employeur-a-augmente-de-36-en-3-ans_VN-202406050522.html)
 append_entries: 1
 Finish: 2024-06-05 12:36:24.265687
+------------------------------------------------------
+Started: 2024-06-06 01:14:17.120065
+Existing_entries: 60
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: ["Signal fort": en commission, les députés se prononcent contre la réforme de l'assurance-chômage](https://www.bfmtv.com/economie/emploi/signal-fort-en-commission-les-deputes-se-prononcent-contre-la-reforme-de-l-assurance-chomage_AD-202406050954.html)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Unedic: on connaît le projet exact de la nouvelle réforme de l'assurance chômage](https://www.bfmtv.com/economie/emploi/unedic-on-connait-le-projet-exact-de-la-nouvelle-reforme-de-l-assurance-chomage_VN-202406050816.html)
+append_entries: 2
+Finish: 2024-06-06 01:14:21.309944

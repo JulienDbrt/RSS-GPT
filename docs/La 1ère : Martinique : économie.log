@@ -616,3 +616,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le dispositif d'aide de la CTM, à l'achat de citernes, est suspendu](https://la1ere.francetvinfo.fr/martinique/le-dispositif-d-aide-de-la-ctm-a-l-achat-de-citernes-est-a-l-arret-1494092.html)
 append_entries: 2
 Finish: 2024-06-05 12:44:32.588215
+------------------------------------------------------
+Started: 2024-06-06 01:20:37.885834
+Existing_entries: 56
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [Dernier paquebot de la saison à Fort-de-France : bilan mitigé pour les commerçants](https://la1ere.francetvinfo.fr/martinique/dernier-paquebot-de-la-saison-a-fort-de-france-bilan-mitige-pour-les-commencants-1494332.html)
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [Un ferry de transports de marchandises pour conforter les échanges entre la Guadeloupe et la Martinique](https://la1ere.francetvinfo.fr/martinique/un-ferry-de-transports-de-marchandises-pour-conforter-les-echanges-entre-la-guadeloupe-et-la-martinique-1494317.html)
+append_entries: 2
+Finish: 2024-06-06 01:20:45.144783

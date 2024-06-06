@@ -855,3 +855,21 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. Pierre Martinet, le "traiteur intraitable" connu pour ses plats préparés, en passe de vendre son entreprise](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/video-pierre-martinet-le-traiteur-intraitable-connu-pour-ses-plats-prepares-en-passe-de-vendre-son-entreprise-2980832.html)
 append_entries: 3
 Finish: 2024-06-05 12:42:49.453297
+------------------------------------------------------
+Started: 2024-06-06 01:18:47.148172
+Existing_entries: 149
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Duralex : le tribunal de commerce d'Orléans octroie un délai de 23 jours aux potentiels repreneurs pour finaliser leur offre de reprise](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/duralex-le-tribunal-de-commerce-d-orleans-octroie-un-delai-de-23-jours-aux-potentiels-repreneurs-pour-finaliser-leur-offre-de-reprise-2981522.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Un groupe hôtelier recrute sans CV, "un mode de recrutement qui fait ses preuves"](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/un-groupe-hotelier-recrute-sans-cv-un-mode-de-recrutement-qui-fait-ses-preuves-2981657.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire : feu vert aux travaux préparatoires des deux futurs réacteurs EPR 2 à Penly](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/dieppe/nucleaire-feu-vert-aux-travaux-preparatoires-des-deux-futurs-reacteurs-epr-2-a-penly-2981672.html)
+Token length: 385
+Summarized using GPT-3.5-turbo
+Append: [La SCOP, avenir de Duralex ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/la-scop-avenir-de-duralex-2981384.html)
+append_entries: 4
+Finish: 2024-06-06 01:19:02.846516

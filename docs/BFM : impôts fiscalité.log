@@ -534,3 +534,9 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts: les habitants de ces départements n'ont plus que quelques heures pour déclarer leurs revenus](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impots-les-habitants-de-ces-departements-n-ont-plus-que-quelques-heures-pour-declarer-leurs-revenus_AV-202406050051.html)
 append_entries: 1
 Finish: 2024-06-05 12:37:46.904788
+------------------------------------------------------
+Started: 2024-06-06 01:15:33.646371
+Existing_entries: 42
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/impots-fiscalite/
+append_entries: 0
+Finish: 2024-06-06 01:15:34.044882

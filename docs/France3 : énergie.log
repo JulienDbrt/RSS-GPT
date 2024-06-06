@@ -618,3 +618,18 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. La "plus grosse pile à hydrogène du monde" se construit en Gironde, sur l'ancien site de l'usine Ford](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/la-plus-grosse-pile-a-hydrogene-du-monde-se-construit-en-gironde-sur-l-ancien-site-de-l-usine-ford-2981045.html)
 append_entries: 1
 Finish: 2024-06-05 12:41:52.127394
+------------------------------------------------------
+Started: 2024-06-06 01:18:17.340366
+Existing_entries: 70
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Energie : les travaux de la centrale du Ricanto sont ils menacés ?](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/energie-les-travaux-de-la-centrale-du-ricanto-sont-ils-menaces-2981867.html)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [Reprise de la grève des salariés chez ExxonMobil : "Exxon peut payer et doit payer"](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/reprise-de-la-greve-des-salaries-chez-exxonmobil-exxon-peut-payer-et-doit-payer-2981684.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: ["Quand le pot de terre gagne, ça fait vraiment plaisir", ils obtiennent le démantèlement de trois éoliennes après 16 ans de procédures](https://france3-regions.francetvinfo.fr/bretagne/morbihan/quand-le-pot-de-terre-gagne-ca-fait-vraiment-plaisir-ils-obtiennent-le-demantelement-de-trois-eoliennes-apres-16-ans-de-procedures-2980955.html)
+append_entries: 3
+Finish: 2024-06-06 01:18:29.454140

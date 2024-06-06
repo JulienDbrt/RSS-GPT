@@ -979,3 +979,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'Union. Le rallye emploi fait étape en ville, jeudi 13 juin](https://www.ladepeche.fr/2024/06/05/le-rallye-emploi-fait-etape-en-ville-jeudi-13-juin-11995203.php)
 append_entries: 8
 Finish: 2024-06-05 12:46:05.088192
+------------------------------------------------------
+Started: 2024-06-06 01:21:46.168383
+Existing_entries: 187
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-06-06 01:21:46.561972

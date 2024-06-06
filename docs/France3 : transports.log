@@ -1575,3 +1575,24 @@ Summarized using GPT-3.5-turbo
 Append: [La ligne de train entre Nancy et Contrexéville va reprendre du service, "une heure de trajet"](https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/la-ligne-de-train-entre-nancy-et-contrexeville-va-reprendre-du-service-une-heure-de-trajet-2980667.html)
 append_entries: 9
 Finish: 2024-06-05 12:43:24.132697
+------------------------------------------------------
+Started: 2024-06-06 01:19:03.319261
+Existing_entries: 390
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: [Une mobilisation "festive" malgré l'interdiction, un chantier "dans les temps" malgré l'opposition : la guerre de communication entre anti et pro autoroute A69 continue](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/une-mobilisation-festive-malgre-l-interdiction-un-chantier-dans-les-temps-malgre-l-opposition-la-guerre-de-communication-entre-anti-et-pro-autoroute-a69-continue-2981768.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Face au nombre de chantiers à Lyon, les critiques pleuvent, la métropole répond : "amélioration du cadre de vie"](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/face-au-nombre-de-chantiers-a-lyon-les-critiques-pleuvent-la-metropole-repond-amelioration-du-cadre-de-vie-2981213.html)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [Projet de la Ligne Nouvelle Paris-Normandie : "on veut emmener nos concitoyens dans cette bataille", la fronde des élus des Yvelines](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/projet-de-la-nouvelle-ligne-paris-normandie-on-veut-emmener-nos-concitoyens-dans-cette-bataille-la-fronde-des-elus-des-yvelines-2981252.html)
+Token length: 324
+Summarized using GPT-3.5-turbo
+Append: [La CGT Muvitarra occupe les locaux de la Capa et réclame la mise en place de mesures](https://france3-regions.francetvinfo.fr/corse/la-cgt-muvitarra-occupe-les-locaux-de-la-capa-et-reclame-la-mise-en-place-de-mesures-2981708.html)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Un nouvel appel à la grève à l'aéroport d'Orly pour les 11, 12 et 13 juin : un syndicat dénonce "une forte dégradation des conditions de travail"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/un-nouvel-appel-a-la-greve-a-l-aeroport-d-orly-pour-les-11-12-et-13-juin-un-syndicat-denonce-une-forte-degradation-des-conditions-de-travail-2981531.html)
+append_entries: 5
+Finish: 2024-06-06 01:19:14.778906

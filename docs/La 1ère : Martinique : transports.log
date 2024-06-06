@@ -499,3 +499,12 @@ Existing_entries: 17
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-05 12:44:32.750676
+------------------------------------------------------
+Started: 2024-06-06 01:20:45.154822
+Existing_entries: 17
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [Un ferry de transports de marchandises pour conforter les échanges entre la Guadeloupe et la Martinique](https://la1ere.francetvinfo.fr/martinique/un-ferry-de-transports-de-marchandises-pour-conforter-les-echanges-entre-la-guadeloupe-et-la-martinique-1494317.html)
+append_entries: 1
+Finish: 2024-06-06 01:20:48.955292
