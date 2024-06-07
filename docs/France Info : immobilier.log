@@ -662,3 +662,9 @@ Summarized using GPT-3.5-turbo
 Append: [Crédits immobiliers, épargne, investissement... La baisse des taux directeurs de la BCE va-t-elle redynamiser l'activité économique ?](https://www.francetvinfo.fr/economie/credits-immobiliers-epargne-investissement-la-baisse-des-taux-directeurs-de-la-bce-va-t-elle-redynamiser-l-activite-economique_6582189.html)
 append_entries: 1
 Finish: 2024-06-06 12:40:41.553282
+------------------------------------------------------
+Started: 2024-06-07 01:19:06.006481
+Existing_entries: 74
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-07 01:19:06.422145

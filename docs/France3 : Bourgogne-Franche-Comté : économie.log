@@ -828,3 +828,18 @@ Summarized using GPT-3.5-turbo
 Append: [Il ne souhaite pas forcément "rester dans le métier jusqu'à 67 ans" : qui est Pierrick Horel, le nouveau président des Jeunes Agriculteurs ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/bourgogne/qui-est-pierrick-horel-le-nouveau-president-des-jeunes-agriculteurs-de-france-2981699.html)
 append_entries: 1
 Finish: 2024-06-06 12:42:24.232732
+------------------------------------------------------
+Started: 2024-06-07 01:20:20.169283
+Existing_entries: 136
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [Après un premier succès monstre, les colis mystère de retour en Bourgogne : "on voulait éviter le mouvement de foule"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/apres-un-premier-succes-monstre-les-colis-mysteres-de-retour-en-bourgogne-on-voulait-eviter-le-mouvement-de-foule-2982287.html)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: ["En étant optimiste, on devrait avoir 20% de la récolte" : après le gel, les fortes pluies endommagent les cerises](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/en-etant-optimiste-on-devrait-avoir-20-de-la-recolte-apres-le-gel-les-fortes-pluies-endommagent-les-cerises-2981978.html)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Gorgées d'eau, les cerises éclatent ou ne mûrissent pas assez... et les prix s'en ressentent](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/gorgees-d-eau-les-cerises-eclatent-ou-ne-murissent-pas-assez-et-les-prix-s-en-ressentent-2982299.html)
+append_entries: 3
+Finish: 2024-06-07 01:20:29.100848

@@ -4,16 +4,17 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Rmlint – Pour optimiser votre espace disque sous Linux</title>
 <link>https://korben.info/rmlint-outil-ultime-optimiser-espace-disque-linux.html</link>
 <guid>https://korben.info/rmlint-outil-ultime-optimiser-espace-disque-linux.html</guid>
 <content:encoded><![CDATA[
 <div> dupliqués, répertoires, symboles de débogage, liens brisés, espace disque
-<br>
-<br>
+<br />
+<br />
 rmlint est un outil open source disponible sur la plupart des distributions Linux qui permet d'optimiser l'espace disque en trouvant rapidement les fichiers inutiles. Il peut détecter les fichiers dupliqués, les répertoires en double, les binaires non strippés, les liens symboliques brisés, les fichiers et répertoires vides, ainsi que les fichiers avec des ID utilisateur ou groupe invalides. Il offre un mode paranoïa pour éviter les suppressions accidentelles de fichiers importants et propose diverses options d'analyse. Compatible avec les systèmes de fichiers modernes comme btrfs, rmlint peut libérer encore plus d'espace en exploitant les fonctionnalités avancées de ces systèmes. Facile à installer et à utiliser, il fournit un rapport détaillé des fichiers à supprimer, permettant de nettoyer efficacement le disque dur et de récupérer de l'espace de stockage précieux. Essayer rmlint peut vous aider à maintenir votre système propre et performant tout en optimisant l'utilisation de votre espace disque. 
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_text_Rmlint_hard_disk_5a70dc7c-a3a9-43a0-a246-d5b361935ad1.png" width="1456" /></p>
 <p>Si votre disque dur se rempli à vue d&rsquo;œil et que vous ne savez pas comment faire le ménage, <strong>rmlint</strong> peut vous aider. Cet outil open source, disponible sur la plupart des distributions Linux, va vous permettre d&rsquo;optimiser votre espace disque en un rien de temps.</p>
 
@@ -94,15 +95,14 @@ rmlint est un outil open source disponible sur la plupart des distributions Linu
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Foncez sur <a href="https://rmlint.readthedocs.io/en/latest/" rel="noopener" target="_blank">https://rmlint.readthedocs.io/en/latest/</a> pour télécharger rmlint et découvrir toutes ses options. Votre disque dur vous dira merci !</p>
 ]]></content:encoded>
 <pubDate>Thu, 06 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 06 Jun 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Comment un VPN protège votre maison ?</title>
 <link>https://korben.info/vpn-protection-maison.html</link>
 <guid>https://korben.info/vpn-protection-maison.html</guid>
 <content:encoded><![CDATA[
-<div> Surfshark, protection famille, données sécurisées, adresse IP, chiffrement<br>
-<br>
+<div> Surfshark, protection famille, données sécurisées, adresse IP, chiffrement<br />
+<br />
 Summary: Surfshark offre une protection familiale en assurant la sécurité des données, en modifiant l'adresse IP et en chiffrant les données. Le VPN permet de protéger tous les appareils de la maison, offrant une protection contre les interceptions de trafic et les restrictions de contenu en ligne. Avec ses serveurs mondiaux, Surfshark garantit une navigation anonyme et sécurisée. Il propose également des fonctionnalités supplémentaires telles qu'un antivirus, un système d'alerte et un moteur de recherche privé. En tant qu'adulte, il est essentiel d'éduquer les membres de la famille sur les risques potentiels en ligne. Malgré la position de la France en tant que leader en qualité de vie numérique, Surfshark offre un rapport qualité-prix compétitif pour une protection en ligne fiable et abordable. <div>
 <p><img alt="Surfshark One 2023" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="501" src="https://korben.info/app/uploads/2023/09/surfshark-one-2023.png" width="1024" /></p>
 <p class="has-text-align-center">&#8212; Article en partenariat <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">avec Surfshark</a> &#8212;</p>
@@ -175,9 +175,7 @@ Summary: Surfshark offre une protection familiale en assurant la sécurité des 
 <h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">N&rsquo;attendez plus, essayez Surfshark VPN !</a></h2>
 ]]></content:encoded>
 <pubDate>Thu, 06 Jun 2024 06:20:28 +0000</pubDate>
-<pubDate>Thu, 06 Jun 2024 06:20:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Windows Vista Extended Kernel – Donnez un coup de jeune à votre PC sous Windows Vista</title>
 <link>https://korben.info/windows-vista-extended-kernel-optimisez-ancien-pc.html</link>

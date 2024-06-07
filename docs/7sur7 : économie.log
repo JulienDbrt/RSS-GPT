@@ -921,3 +921,18 @@ Summarized using GPT-3.5-turbo
 Append: [Le nombre de nouvelles entreprises belges en hausse, principalement à Bruxelles](https://www.7sur7.be/belgique/le-nombre-de-nouvelles-entreprises-belges-en-hausse-principalement-a-bruxelles~adb1eac9/)
 append_entries: 5
 Finish: 2024-06-06 12:35:22.347986
+------------------------------------------------------
+Started: 2024-06-07 01:15:20.960436
+Existing_entries: 167
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [L’intégration d’Axa Banque au sein de Crelan se fera samedi et dimanche](https://www.7sur7.be/belgique/lintegration-daxa-banque-au-sein-de-crelan-se-fera-samedi-et-dimanche~a4701599/)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Le nombre d’allocataires du chômage au plus bas, mais le nombre d’inactifs bat des records en Belgique par rapport au reste de l’Europe](https://www.7sur7.be/belgique/le-nombre-dallocataires-du-chomage-au-plus-bas-mais-le-nombre-dinactifs-bat-des-records-en-belgique-par-rapport-au-reste-de-leurope~a3281843/)
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [La Banque centrale européenne baisse ses taux: une première depuis 2019](https://www.7sur7.be/economie/la-banque-centrale-europeenne-baisse-ses-taux-une-premiere-depuis-2019~a03dff1d/)
+append_entries: 3
+Finish: 2024-06-07 01:15:27.132835

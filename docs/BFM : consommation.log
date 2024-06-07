@@ -726,3 +726,9 @@ Summarized using GPT-3.5-turbo
 Append: [4 Français sur 10 vont au restaurant tous les mois (et les jeunes encore plus)](https://www.bfmtv.com/economie/consommation/4-francais-sur-10-vont-au-restaurant-tous-les-mois-et-les-jeunes-encore-plus_AV-202406060052.html)
 append_entries: 1
 Finish: 2024-06-06 12:36:36.120989
+------------------------------------------------------
+Started: 2024-06-07 01:16:42.179389
+Existing_entries: 102
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-06-07 01:16:42.583465

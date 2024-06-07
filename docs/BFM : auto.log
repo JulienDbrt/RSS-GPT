@@ -765,3 +765,12 @@ Summarized using GPT-3.5-turbo
 Append: [Stellantis: le scandale des airbags défectueux prend de l'ampleur, 8 millions de véhicules concernés](https://www.bfmtv.com/auto/stellantis-le-scandale-des-airbags-defectueux-prend-de-l-ampleur-8-millions-de-vehicules-concernes_AV-202406060234.html)
 append_entries: 2
 Finish: 2024-06-06 12:36:31.429351
+------------------------------------------------------
+Started: 2024-06-07 01:16:38.879741
+Existing_entries: 115
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Rappel des Citroën C3 et DS3: 50.000 airbags ont "déjà" été remplacés](https://www.bfmtv.com/auto/rappel-des-citroen-c3-et-ds3-50-000-airbags-ont-deja-ete-remplaces_AV-202406060802.html)
+append_entries: 1
+Finish: 2024-06-07 01:16:41.970088

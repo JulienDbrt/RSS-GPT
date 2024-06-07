@@ -857,3 +857,18 @@ Summarized using GPT-3.5-turbo
 Append: [Proxima, la nouvelle compagnie ferroviaire qui veut concurrencer la SNCF dans l’Ouest](https://www.20minutes.fr/economie/4094841-20240606-proxima-nouvelle-compagnie-ferroviaire-veut-concurrencer-sncf-ouest)
 append_entries: 3
 Finish: 2024-06-06 12:35:01.215304
+------------------------------------------------------
+Started: 2024-06-07 01:15:08.931373
+Existing_entries: 139
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : La Banque centrale européenne abaisse (enfin) ses taux directeurs](https://www.20minutes.fr/economie/4094948-20240606-immobilier-banque-centrale-europeenne-abaisse-enfin-taux-directeurs)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Le CDD, « un emploi voulu » pour la majorité des Français ?](https://www.20minutes.fr/economie/4094942-20240606-non-majorite-francais-cdd-emploi-voulu)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Jean-Michel Aulas rachète la LDLC Arena et l’OL en retire 54 millions d'euros en cash](https://www.20minutes.fr/sport/4094830-20240606-jean-michel-aulas-rachete-ldlc-arena-ol-retire-54-millions-cash)
+append_entries: 3
+Finish: 2024-06-07 01:15:20.869006

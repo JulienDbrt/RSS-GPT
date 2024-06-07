@@ -950,3 +950,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Il y a un vrai enjeu" : une proposition de loi déposée pour lutter contre l'arnaque des "doublettes" de plaques d'immatriculation](https://www.francetvinfo.fr/economie/automobile/il-y-a-un-vrai-enjeu-une-proposition-de-loi-deposee-pour-lutter-contre-l-arnaque-des-doublettes-de-plaques-d-immatriculation_6586620.html)
 append_entries: 4
 Finish: 2024-06-06 12:40:56.448621
+------------------------------------------------------
+Started: 2024-06-07 01:19:06.511798
+Existing_entries: 170
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-06-07 01:19:06.937418

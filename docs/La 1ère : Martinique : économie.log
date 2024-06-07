@@ -634,3 +634,15 @@ Existing_entries: 58
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-06 12:43:48.831559
+------------------------------------------------------
+Started: 2024-06-07 01:22:16.411715
+Existing_entries: 58
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [Le journal sportif L’Équipe désormais imprimé par France-Antilles en Martinique](https://la1ere.francetvinfo.fr/martinique/le-journal-sportif-l-equipe-est-desormais-imprime-par-france-antilles-en-martinique-1494698.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: ["Partez en vacances en Martinique"... pour stimuler la basse saison](https://la1ere.francetvinfo.fr/martinique/partez-en-vacances-en-martinique-pour-stimuler-la-basse-saison-1494539.html)
+append_entries: 2
+Finish: 2024-06-07 01:22:24.901497

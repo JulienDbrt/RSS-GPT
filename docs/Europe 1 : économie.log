@@ -922,3 +922,15 @@ Summarized using GPT-3.5-turbo
 Append: [Baisse des taux : ce que la décision de la BCE va changer dans la vie des Français](https://www.europe1.fr/economie/baisse-des-taux-ce-que-la-decision-de-la-bce-va-changer-dans-la-vie-des-francais-4251155)
 append_entries: 1
 Finish: 2024-06-06 12:39:30.576092
+------------------------------------------------------
+Started: 2024-06-07 01:18:38.915172
+Existing_entries: 162
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [La BCE abaisse ses taux directeurs pour assouplir le crédit](https://www.europe1.fr/economie/la-bce-abaisse-ses-taux-directeurs-pour-assouplir-le-credit-4251325)
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux chez Stellantis : la campagne de rappel s'étend à près de 8 millions de véhicules](https://www.europe1.fr/economie/airbags-defectueux-chez-stellantis-la-campagne-de-rappel-setend-a-pres-de-8-millions-de-vehicules-4251305)
+append_entries: 2
+Finish: 2024-06-07 01:18:43.627987

@@ -687,3 +687,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Espèces en danger et atteinte grave à l'environnement", le projet de Super U, Mr Bricolage et LIDL devra attendre](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/especes-en-danger-et-atteinte-grave-a-l-environnement-le-projet-de-super-u-mr-bricolage-et-lidl-devra-attendre-2981909.html)
 append_entries: 1
 Finish: 2024-06-06 12:42:29.586124
+------------------------------------------------------
+Started: 2024-06-07 01:20:29.146163
+Existing_entries: 89
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-07 01:20:29.601064

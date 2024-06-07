@@ -2753,3 +2753,21 @@ Append: [Des millions d'automobilistes doivent changer leur carte grise depuis l
 Append: [VRAI OU FAUX. Elections européennes 2024 : l'Europe a-t-elle toujours un problème de dumping social et fiscal ?](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-elections-europeennes-2024-l-europe-a-t-elle-toujours-un-probleme-de-dumping-social-et-fiscal_6575141.html)
 append_entries: 12
 Finish: 2024-06-06 12:40:30.647040
+------------------------------------------------------
+Started: 2024-06-07 01:18:47.582374
+Existing_entries: 921
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Baisse des taux d'intérêts : des crédits immobiliers moins chers ?](https://www.francetvinfo.fr/economie/bourse/marches/baisse-des-taux-d-interets-des-credits-immobiliers-moins-chers_6589020.html)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [La Banque centrale européenne baisse ses taux d'intérêt directeurs : "Une très bonne nouvelle", selon directeur général d'Euronext](https://www.francetvinfo.fr/replay-radio/l-interview-eco/la-banque-centrale-europeenne-baisse-ses-taux-d-interet-directeurs-une-tres-bonne-nouvelle-selon-directeur-general-d-euronext_6560171.html)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux : huit millions de véhicules au total en Europe sont concernés pour des "rappels de routine"](https://www.francetvinfo.fr/economie/automobile/airbags-defectueux-huit-millions-de-vehicules-au-total-en-europe-sont-concernes-pour-des-rappels-de-routine_6588630.html)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Crédits immobiliers, épargne, investissement... Ce que peut changer la légère baisse des taux d'intérêt directeurs de la Banque centrale européenne](https://www.francetvinfo.fr/economie/credits-immobiliers-epargne-investissement-la-baisse-des-taux-directeurs-de-la-bce-va-t-elle-redynamiser-l-activite-economique_6582189.html)
+append_entries: 4
+Finish: 2024-06-07 01:19:04.236654

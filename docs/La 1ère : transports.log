@@ -832,3 +832,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le conseil des ministres propose de fermer les écoles pour le relais de la flamme](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/le-conseil-des-ministres-propose-de-fermer-les-ecoles-pour-le-relais-de-la-flamme-1494398.html)
 append_entries: 4
 Finish: 2024-06-06 12:44:08.406201
+------------------------------------------------------
+Started: 2024-06-07 01:22:25.191248
+Existing_entries: 124
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : Transports, alimentation, ordures ménagères... les informations pratiques du vendredi 7 juin](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-transports-alimentation-ordures-menageres-les-informations-pratiques-du-vendredi-7-juin-1494683.html)
+append_entries: 1
+Finish: 2024-06-07 01:22:28.492961
