@@ -1078,3 +1078,24 @@ Summarized using GPT-3.5-turbo
 Append: [La BCE abaisse ses taux directeurs, une première depuis deux ans](https://www.lexpress.fr/economie/la-bce-abaisse-ses-taux-directeurs-une-premiere-depuis-deux-ans-DGCHKOCEABGXLIJQR2GLAQZA3M/)
 append_entries: 1
 Finish: 2024-06-07 01:21:50.041962
+------------------------------------------------------
+Started: 2024-06-07 12:42:12.334077
+Existing_entries: 264
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 5913
+Summarized using GPT-3.5-turbo
+Append: [BCE : "S’il n’y avait pas eu de baisse des taux, cela aurait beaucoup secoué les marchés"](https://www.lexpress.fr/economie/bce-sil-ny-avait-pas-eu-de-baisse-des-taux-cela-aurait-beaucoup-secoue-les-marches-4CD6C2SMKVDYBLEHJPZIC34OEQ/)
+Token length: 10043
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : "Les musiques générées par IA ne cannibaliseront pas les créations humaines"](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-les-musiques-generees-par-ia-ne-cannibaliseront-pas-les-creations-humaines-AFTTHQ24QVG5ZBDX4N2H5A2OTM/)
+Token length: 5168
+Summarized using GPT-3.5-turbo
+Append: [Interdire les voitures thermiques ? "Le sujet n’est plus celui-ci, mais..."](https://www.lexpress.fr/economie/entreprises/interdire-les-voitures-thermiques-le-sujet-nest-plus-celui-ci-mais-GJRH76Q3QJAXNENVPJ54CNA7MY/)
+Token length: 4106
+Summarized using GPT-3.5-turbo
+Append: [Productivité : l’IA aura les vertus que nous voudrons bien lui donner, par Nicolas Bouzou](https://www.lexpress.fr/economie/entreprises/productivite-lia-aura-les-vertus-que-nous-voudrons-bien-lui-donner-par-nicolas-bouzou-MBU45DCU6BDHLONR3QM22WKL6Y/)
+Token length: 4053
+Summarized using GPT-3.5-turbo
+Append: [Intelligence artificielle : quand la désinformation devient un jeu d’enfant](https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-quand-la-desinformation-devient-un-jeu-denfant-6JTDIXJOQVB35HOTLT53ICPOSA/)
+append_entries: 5
+Finish: 2024-06-07 12:42:34.394423

@@ -956,3 +956,15 @@ Existing_entries: 170
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-06-07 01:19:06.937418
+------------------------------------------------------
+Started: 2024-06-07 12:39:38.743730
+Existing_entries: 170
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Économie : les ventes de voitures électriques d'occasion augmentent timidement en France](https://www.francetvinfo.fr/economie/automobile/economie-les-ventes-de-voitures-electriques-d-occasion-augmentent-timidement-en-france_6590262.html)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Le futur concessionnaire de l'A69 a déposé 115 plaintes pour des dégradations sur le chantier de l'autoroute](https://www.francetvinfo.fr/economie/transports/le-futur-concessionnaire-de-l-a69-a-depose-115-plaintes-pour-des-degradations-sur-le-chantier-de-l-autoroute_6590247.html)
+append_entries: 2
+Finish: 2024-06-07 12:39:42.283732

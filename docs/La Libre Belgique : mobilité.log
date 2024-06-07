@@ -761,3 +761,15 @@ Summarized using GPT-3.5-turbo
 Append: [Une cycliste perd la vie après avoir été percutée par un camion à Oostkamp](https://www.lalibre.be/regions/flandre/2024/06/06/une-cycliste-perd-la-vie-apres-avoir-ete-percutee-par-un-camion-a-oostkamp-DFBA2TR3L5HCBLRVR2WRNH276M/)
 append_entries: 2
 Finish: 2024-06-07 01:23:50.541744
+------------------------------------------------------
+Started: 2024-06-07 12:44:29.787893
+Existing_entries: 131
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [Tout savoir sur la nouvelle amende routière qui va débarquer en Belgique : 1.260 euros à payer tout de suite sous peine de saisie de votre véhicule](https://www.lalibre.be/belgique/elections-belges/2024/06/07/tout-savoir-sur-cette-nouvelle-amende-routiere-qui-va-debarquer-en-belgique-1260-euros-a-payer-tout-de-suite-sous-peine-de-saisie-de-votre-vehicule-24ZYF234Y5AYHPVONLDLEVRU44/)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Perturbations ce week-end à Bruxelles : à quoi faut-il s’attendre ?](https://www.lalibre.be/regions/bruxelles/2024/06/07/perturbations-ce-week-end-a-bruxelles-a-quoi-faut-il-sattendre-BOETKCXG7NFOZKUGRQRL7HDSAQ/)
+append_entries: 2
+Finish: 2024-06-07 12:44:36.993773

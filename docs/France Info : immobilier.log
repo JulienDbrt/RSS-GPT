@@ -668,3 +668,12 @@ Existing_entries: 74
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-06-07 01:19:06.422145
+------------------------------------------------------
+Started: 2024-06-07 12:39:33.783081
+Existing_entries: 74
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [Baisse des taux directeurs de la BCE : "Une très bonne nouvelle pour les Français qui ont des projets immobiliers", salue une spécialiste](https://www.francetvinfo.fr/replay-radio/le-grand-temoin/baisse-des-taux-directeurs-de-la-bce-une-tres-bonne-nouvelle-pour-les-francais-qui-ont-des-projets-immobiliers-salue-une-specialiste_6561962.html)
+append_entries: 1
+Finish: 2024-06-07 12:39:38.654995

@@ -1009,3 +1009,12 @@ Existing_entries: 183
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-06-07 01:12:52.088532
+------------------------------------------------------
+Started: 2024-06-07 12:33:20.550257
+Existing_entries: 183
+Fetching from https://korben.info/feed
+Token length: 2098
+Summarized using GPT-3.5-turbo
+Append: [Créez facilement des livres électroniques avec mdBook](https://korben.info/creer-facilement-livres-electroniques-mdbook-outil-rust.html)
+append_entries: 1
+Finish: 2024-06-07 12:33:25.924429

@@ -693,3 +693,12 @@ Existing_entries: 89
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-07 01:20:29.601064
+------------------------------------------------------
+Started: 2024-06-07 12:41:15.159084
+Existing_entries: 89
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Plainte pour maltraitance au sein d’un Ehpad de Pleuven : "C'est la stupeur générale"](https://france3-regions.francetvinfo.fr/bretagne/finistere/plainte-pour-maltraitance-au-sein-d-un-ehpad-de-pleuven-c-est-la-stupeur-generale-2982689.html)
+append_entries: 1
+Finish: 2024-06-07 12:41:17.102310

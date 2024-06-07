@@ -4,6 +4,78 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Créez facilement des livres électroniques avec mdBook</title>
+<link>https://korben.info/creer-facilement-livres-electroniques-mdbook-outil-rust.html</link>
+<guid>https://korben.info/creer-facilement-livres-electroniques-mdbook-outil-rust.html</guid>
+<content:encoded><![CDATA[
+<div> markdown, mdBook, Rust, documentation technique, livre électronique
+Summary:
+mdBook est un outil codé en Rust qui facilite la création de livres électroniques et de documentations techniques en utilisant le langage Markdown. Il permet d'initialiser la structure de l'ouvrage, de rédiger le contenu, de personnaliser le rendu et de le mettre en ligne facilement. Les fonctionnalités incluent l'organisation des chapitres, l'ajout de pages d'introduction, la personnalisation du template et l'intégration d'images. La génération d'une version web interactive et d'une version HTML est possible. mdBook permet également d'automatiser la publication du livre grâce à l'intégration continue, facilitant les mises à jour en ligne. C'est un outil apprécié pour sa simplicité d'utilisation et son efficacité pour partager du contenu avec la communauté des auteurs. Pour plus d'informations et d'inspiration, les utilisateurs peuvent explorer la documentation de mdBook. <br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_A_book_with_the_title_mdBook_written_on_its_cover._c003a905-eaa6-438b-a0e2-bcb0c93bf5b0.png" width="1456" /></p>
+<p>Vous rêvez de créer votre propre livre électronique ou une bonne grosse documentation technique mais vous ne savez pas par où commencer ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1082901035" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ne cherchez plus, <strong>mdBook</strong> est là pour vous ! </p>
+
+
+
+<p>Il s&rsquo;agit d&rsquo;un outil codé en Rust, qui a l&rsquo;aide de quelques commandes simples, vous permettra d&rsquo;initialiser la structure de votre ouvrage, de rédiger votre contenu en <strong>Markdown</strong>, de personnaliser le rendu et de le mettre en ligne. Voici <a href="https://doc.rust-lang.org/book/" rel="noopener" target="_blank">un exemple de ce que ça peut donner comme rendu</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158226" height="495" src="https://korben.info/app/uploads/2024/04/SCR-20240401-tuph.webp" width="1000" /></figure></div>
+
+
+<p>Pour démarrer votre aventure avec mdBook, rien de plus simple. Installez l&rsquo;outil en suivant les instructions sur le <a href="https://rust-lang.github.io/mdBook/index.html" rel="noopener" target="_blank">site officiel</a>, puis lancez la commande suivante dans un terminal :</p>
+
+
+
+<p><code>mdbook init mon-premier-livre</code> </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-79308639" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et voilà, le squelette de votre chef-d&rsquo;œuvre est prêt et vous n&rsquo;avez plus qu&rsquo;à rédiger !</p>
+
+
+
+<p>mdBook regorge de fonctionnalités pour mettre en forme votre contenu. Vous pouvez organiser vos chapitres dans le fichier <code>SUMMARY.md</code>, ajouter une page d&rsquo;introduction dans <code>README.md</code>, créer votre propre template, et même inclure des images et autres ressources. Et une fois votre prose finalisée, vous pourrez donner vie à votre livre à l&rsquo;aide de la commande :</p>
+
+
+
+<p><code>mdbook serve</code></p>
+
+
+
+<p>Celui-ci va alors générer une version web interactive accessible via un serveur web, avec une navigation et moteur de recherche intégré, de vos écrits. Et la commande </p>
+
+
+
+<p><code>mdbook build</code></p>
+
+
+
+<p>&#8230; vous permettra de générer une version HTML de votre bouquin. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1071525877" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Je trouve ça très satisfaisant de passer par le markdown pour la rédaction et la mise en forme. Je le faisais pour <a href="https://korben.info/deckset-faire-slides-rapidement-douleur.html">des prez style Powerpoint mais full markdown</a> à l&rsquo;époque où je faisais des confs, et c&rsquo;était un vrai gain de temps.</p>
+
+
+
+<p>Mais le véritable atout de mdBook, c&rsquo;est sa capacité à <strong>automatiser</strong> la publication de votre livre. Grâce à l&rsquo;intégration continue, chaque modification que vous apportez peut être instantanément mise en ligne. Comme ça, fini les mises à jour manuelles bien reloues !</p>
+
+
+
+<p>Bref, vous l&rsquo;aurez compris, mdBook est un excellent outil pour les auteurs qui aiment partager leur travail avec leur communauté. Ah, j&rsquo;allais oublier ! Si vous avez besoin d&rsquo;inspiration, n&rsquo;hésitez pas à explorer la <a href="https://rust-lang.github.io/mdBook/guide/creating.html" rel="noopener" target="_blank">documentation officielle</a> de mdBook. Vous y trouverez des astuces, des exemples et même des témoignages d&rsquo;auteurs conquis.</p>
+]]></content:encoded>
+<pubDate>Fri, 07 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 07 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Rmlint – Pour optimiser votre espace disque sous Linux</title>

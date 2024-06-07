@@ -774,3 +774,12 @@ Summarized using GPT-3.5-turbo
 Append: [Rappel des Citroën C3 et DS3: 50.000 airbags ont "déjà" été remplacés](https://www.bfmtv.com/auto/rappel-des-citroen-c3-et-ds3-50-000-airbags-ont-deja-ete-remplaces_AV-202406060802.html)
 append_entries: 1
 Finish: 2024-06-07 01:16:41.970088
+------------------------------------------------------
+Started: 2024-06-07 12:36:19.628541
+Existing_entries: 116
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [Rappel des Citroën C3 et DS3 pour airbags défectueux: une action collective lancée en France](https://www.bfmtv.com/auto/rappel-des-citroen-c3-et-ds3-une-action-collective-lancee-en-france_AV-202406070329.html)
+append_entries: 1
+Finish: 2024-06-07 12:36:21.242093

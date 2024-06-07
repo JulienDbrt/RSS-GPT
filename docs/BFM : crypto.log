@@ -759,3 +759,15 @@ Summarized using GPT-3.5-turbo
 Append: [L’Espagne prolonge l’interdiction de Worldcoin, la société qui scanne votre iris contre des cryptos](https://www.bfmtv.com/crypto/regulation/l-espagne-prolonge-l-interdiction-de-worldcoin-la-societe-qui-scanne-votre-iris-contre-des-cryptos_AV-202406060661.html)
 append_entries: 2
 Finish: 2024-06-07 01:16:46.703586
+------------------------------------------------------
+Started: 2024-06-07 12:36:25.311873
+Existing_entries: 111
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [La Maison Blanche a désormais le pouvoir de bloquer certains transactions en cryptomonnaies](https://www.bfmtv.com/crypto/regulation/la-maison-blanche-a-desormais-le-pouvoir-de-bloquer-certains-transactions-en-cryptomonnaies_AV-202406070561.html)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [Robinhood rachète la plateforme crypto Bitstamp pour 200 millions de dollars](https://www.bfmtv.com/crypto/robinhood-rachete-la-plateforme-crypto-bitstamp-pour-200-millions-de-dollars_AV-202406070434.html)
+append_entries: 2
+Finish: 2024-06-07 12:36:30.122853

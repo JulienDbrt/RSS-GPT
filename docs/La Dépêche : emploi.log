@@ -1015,3 +1015,9 @@ Summarized using GPT-3.5-turbo
 Append: [Alerter et échanger autour de la question des pesticides, la campagne Secrets Toxique a fait escale à Pamiers](https://www.ladepeche.fr/2024/06/06/alerter-et-echanger-autour-de-la-question-des-pesticides-la-campagne-secrets-toxique-a-fait-escale-a-pamiers-11998864.php)
 append_entries: 2
 Finish: 2024-06-07 01:23:12.823076
+------------------------------------------------------
+Started: 2024-06-07 12:43:43.628426
+Existing_entries: 193
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-06-07 12:43:44.235471

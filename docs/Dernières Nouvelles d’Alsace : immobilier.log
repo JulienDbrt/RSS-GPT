@@ -644,3 +644,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier. Vous louez en couple ? Nos conseils pour bien gérer la signature du bail](https://www.dna.fr/magazine-immobilier/2024/06/06/vous-louez-en-couple-nos-conseils-pour-bien-gerer-la-signature-du-bail)
 append_entries: 1
 Finish: 2024-06-07 01:18:34.041720
+------------------------------------------------------
+Started: 2024-06-07 12:38:39.249789
+Existing_entries: 66
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-06-07 12:38:40.583459

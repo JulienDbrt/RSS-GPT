@@ -934,3 +934,15 @@ Summarized using GPT-3.5-turbo
 Append: [Airbags défectueux chez Stellantis : la campagne de rappel s'étend à près de 8 millions de véhicules](https://www.europe1.fr/economie/airbags-defectueux-chez-stellantis-la-campagne-de-rappel-setend-a-pres-de-8-millions-de-vehicules-4251305)
 append_entries: 2
 Finish: 2024-06-07 01:18:43.627987
+------------------------------------------------------
+Started: 2024-06-07 12:38:45.004357
+Existing_entries: 164
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [Après une vague inédite de nouvelles librairies en 2019, la profession s'inquiète de son avenir](https://www.europe1.fr/economie/apres-une-vague-inedite-de-nouvelles-librairies-en-2019-la-profession-sinquiete-de-son-avenir-4251416)
+Token length: 366
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux chez Stellantis : en cas d'accident, le conducteur est-il toujours assuré ?](https://www.europe1.fr/economie/airbags-defectueux-chez-stellantis-en-cas-daccident-le-conducteur-est-il-toujours-assure-4251385)
+append_entries: 2
+Finish: 2024-06-07 12:38:51.898872

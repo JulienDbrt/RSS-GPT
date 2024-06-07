@@ -872,3 +872,9 @@ Summarized using GPT-3.5-turbo
 Append: [Jean-Michel Aulas rachète la LDLC Arena et l’OL en retire 54 millions d'euros en cash](https://www.20minutes.fr/sport/4094830-20240606-jean-michel-aulas-rachete-ldlc-arena-ol-retire-54-millions-cash)
 append_entries: 3
 Finish: 2024-06-07 01:15:20.869006
+------------------------------------------------------
+Started: 2024-06-07 12:35:07.336312
+Existing_entries: 142
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-06-07 12:35:07.796999
