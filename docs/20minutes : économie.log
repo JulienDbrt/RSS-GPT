@@ -878,3 +878,12 @@ Existing_entries: 142
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-06-07 12:35:07.796999
+------------------------------------------------------
+Started: 2024-06-08 01:11:51.880389
+Existing_entries: 142
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Sochaux : Stellantis a produit sa toute dernière voiture thermique](https://www.20minutes.fr/economie/4095182-20240607-sochaux-stellantis-produit-toute-derniere-voiture-thermique)
+append_entries: 1
+Finish: 2024-06-08 01:11:54.945892

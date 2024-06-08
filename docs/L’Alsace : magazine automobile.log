@@ -767,3 +767,15 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile. Les vols de véhicules ont-ils progressé en France en 2023 ?](https://www.lalsace.fr/magazine-automobile/2024/06/07/le-vol-de-vehicule-a-t-il-progresse-en-france-en-2023)
 append_entries: 2
 Finish: 2024-06-07 12:42:06.396494
+------------------------------------------------------
+Started: 2024-06-08 01:17:07.569270
+Existing_entries: 105
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [Moto. Comment bien choisir son maxi trail pour partir en vacances ?](https://www.lalsace.fr/magazine-automobile/2024/06/07/comment-bien-choisir-son-maxi-trail-pour-partir-en-vacances)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Utilitaires. Maxus eDeliver 7 : un fourgon 100 % électrique à l’assaut des spécialistes](https://www.lalsace.fr/magazine-automobile/2024/06/07/maxus-edeliver-7-un-fourgon-100-electrique-a-l-assaut-des-specialistes)
+append_entries: 2
+Finish: 2024-06-08 01:17:13.368284

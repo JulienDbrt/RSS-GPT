@@ -968,3 +968,21 @@ Summarized using GPT-3.5-turbo
 Append: [Le futur concessionnaire de l'A69 a déposé 115 plaintes pour des dégradations sur le chantier de l'autoroute](https://www.francetvinfo.fr/economie/transports/le-futur-concessionnaire-de-l-a69-a-depose-115-plaintes-pour-des-degradations-sur-le-chantier-de-l-autoroute_6590247.html)
 append_entries: 2
 Finish: 2024-06-07 12:39:42.283732
+------------------------------------------------------
+Started: 2024-06-08 01:15:39.045081
+Existing_entries: 172
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [Automobile : plus d'un million de véhicules rappelés en France pour des airbags défectueux](https://www.francetvinfo.fr/economie/automobile-plus-d-un-million-de-vehicules-rappeles-en-france-pour-des-airbags-defectueux_6591078.html)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A69 : malgré l’interdiction, de nouvelles manifestations auront lieu contre le projet](https://www.francetvinfo.fr/economie/automobile/autoroute-a69-malgre-l-interdiction-de-nouvelles-manifestations-auront-lieu-contre-le-projet_6590835.html)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Automobile : le groupe Stellantis rappelle d’autres véhicules avec des airbags défectueux](https://www.francetvinfo.fr/economie/automobile-le-groupe-stellantis-rappelle-d-autres-vehicules-avec-des-airbags-defectueux_6590649.html)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Transports : l'application SNCF Connect propose des chambres d'hôtel](https://www.francetvinfo.fr/economie/transports/sncf/transports-l-application-sncf-connect-propose-des-chambres-d-hotel_6590634.html)
+append_entries: 4
+Finish: 2024-06-08 01:15:49.348815

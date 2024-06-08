@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Créez facilement des livres électroniques avec mdBook</title>
 <link>https://korben.info/creer-facilement-livres-electroniques-mdbook-outil-rust.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> markdown, mdBook, Rust, documentation technique, livre électronique
 Summary:
-mdBook est un outil codé en Rust qui facilite la création de livres électroniques et de documentations techniques en utilisant le langage Markdown. Il permet d'initialiser la structure de l'ouvrage, de rédiger le contenu, de personnaliser le rendu et de le mettre en ligne facilement. Les fonctionnalités incluent l'organisation des chapitres, l'ajout de pages d'introduction, la personnalisation du template et l'intégration d'images. La génération d'une version web interactive et d'une version HTML est possible. mdBook permet également d'automatiser la publication du livre grâce à l'intégration continue, facilitant les mises à jour en ligne. C'est un outil apprécié pour sa simplicité d'utilisation et son efficacité pour partager du contenu avec la communauté des auteurs. Pour plus d'informations et d'inspiration, les utilisateurs peuvent explorer la documentation de mdBook. <br><br>Summary: <div>
+mdBook est un outil codé en Rust qui facilite la création de livres électroniques et de documentations techniques en utilisant le langage Markdown. Il permet d'initialiser la structure de l'ouvrage, de rédiger le contenu, de personnaliser le rendu et de le mettre en ligne facilement. Les fonctionnalités incluent l'organisation des chapitres, l'ajout de pages d'introduction, la personnalisation du template et l'intégration d'images. La génération d'une version web interactive et d'une version HTML est possible. mdBook permet également d'automatiser la publication du livre grâce à l'intégration continue, facilitant les mises à jour en ligne. C'est un outil apprécié pour sa simplicité d'utilisation et son efficacité pour partager du contenu avec la communauté des auteurs. Pour plus d'informations et d'inspiration, les utilisateurs peuvent explorer la documentation de mdBook. <br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_A_book_with_the_title_mdBook_written_on_its_cover._c003a905-eaa6-438b-a0e2-bcb0c93bf5b0.png" width="1456" /></p>
 <p>Vous rêvez de créer votre propre livre électronique ou une bonne grosse documentation technique mais vous ne savez pas par où commencer ? </p>
 
@@ -74,9 +75,7 @@ mdBook est un outil codé en Rust qui facilite la création de livres électroni
 <p>Bref, vous l&rsquo;aurez compris, mdBook est un excellent outil pour les auteurs qui aiment partager leur travail avec leur communauté. Ah, j&rsquo;allais oublier ! Si vous avez besoin d&rsquo;inspiration, n&rsquo;hésitez pas à explorer la <a href="https://rust-lang.github.io/mdBook/guide/creating.html" rel="noopener" target="_blank">documentation officielle</a> de mdBook. Vous y trouverez des astuces, des exemples et même des témoignages d&rsquo;auteurs conquis.</p>
 ]]></content:encoded>
 <pubDate>Fri, 07 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 07 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Rmlint – Pour optimiser votre espace disque sous Linux</title>
 <link>https://korben.info/rmlint-outil-ultime-optimiser-espace-disque-linux.html</link>

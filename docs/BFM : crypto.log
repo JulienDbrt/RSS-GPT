@@ -771,3 +771,12 @@ Summarized using GPT-3.5-turbo
 Append: [Robinhood rachète la plateforme crypto Bitstamp pour 200 millions de dollars](https://www.bfmtv.com/crypto/robinhood-rachete-la-plateforme-crypto-bitstamp-pour-200-millions-de-dollars_AV-202406070434.html)
 append_entries: 2
 Finish: 2024-06-07 12:36:30.122853
+------------------------------------------------------
+Started: 2024-06-08 01:13:05.253422
+Existing_entries: 113
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [RobinHood rachète la plateforme crypto Bitstamp](https://www.bfmtv.com/crypto/robin-hood-rachete-la-plateforme-crypto-bitstamp_VL-202406070575.html)
+append_entries: 1
+Finish: 2024-06-08 01:13:08.102456

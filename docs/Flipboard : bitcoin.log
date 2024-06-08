@@ -1507,3 +1507,15 @@ Summarized using GPT-3.5-turbo
 Append: [Vous êtes en télétravail ? Attention à cette nouvelle arnaque](https://www.phonandroid.com/vous-etes-en-teletravail-attention-a-cette-nouvelle-arnaque.html)
 append_entries: 3
 Finish: 2024-06-07 12:32:02.220371
+------------------------------------------------------
+Started: 2024-06-08 01:08:37.142407
+Existing_entries: 363
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Valorisé à 1 milliard de dollars, le métaverse The Sandbox entre parmi les licornes de la tech](https://www.capital.fr/crypto/valorise-a-1-milliard-de-dollars-le-metaverse-the-sandbox-entre-parmi-les-licornes-de-la-tech-1497921)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [La Maison Blanche a désormais le pouvoir de bloquer certaines transactions en cryptomonnaies](https://www.bfmtv.com/crypto/regulation/la-maison-blanche-a-desormais-le-pouvoir-de-bloquer-certains-transactions-en-cryptomonnaies_AV-202406070561.html)
+append_entries: 2
+Finish: 2024-06-08 01:08:43.876835

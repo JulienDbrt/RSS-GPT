@@ -783,3 +783,18 @@ Summarized using GPT-3.5-turbo
 Append: [Rappel des Citroën C3 et DS3 pour airbags défectueux: une action collective lancée en France](https://www.bfmtv.com/auto/rappel-des-citroen-c3-et-ds3-une-action-collective-lancee-en-france_AV-202406070329.html)
 append_entries: 1
 Finish: 2024-06-07 12:36:21.242093
+------------------------------------------------------
+Started: 2024-06-08 01:12:55.373781
+Existing_entries: 117
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: ["Un nouveau chapitre s'ouvre": l'usine Stellantis de Sochaux a produit sa dernière voiture thermique](https://www.bfmtv.com/auto/un-nouveau-chapitre-s-ouvre-l-usine-stellantis-de-sochaux-a-produit-sa-derniere-voiture-thermique_AD-202406070685.html)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux: pourquoi Citroën a rappelé en priorité les C3 et DS3 du sud de la France](https://www.bfmtv.com/auto/airbags-defectueux-pourquoi-citroen-a-rappele-en-priorite-les-c3-et-ds3-du-sud-de-la-france_AV-202406070638.html)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [2% des ventes: les voitures électriques toujours peu présentes sur le marché de l'occasion](https://www.bfmtv.com/auto/2-des-ventes-les-voitures-electriques-toujours-peu-presentes-sur-le-marche-de-l-occasion_AD-202406070578.html)
+append_entries: 3
+Finish: 2024-06-08 01:13:04.252823

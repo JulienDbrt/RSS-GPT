@@ -831,3 +831,15 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : 30 tonnes, 13 mètres de diamètre, de gigantesques anneaux olympiques installés sur la tour Eiffel](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-30-tonnes-13-metres-de-diametre-de-gigantesques-anneaux-olympiques-installes-sur-la-tour-eiffel-2982584.html)
 append_entries: 1
 Finish: 2024-06-07 12:40:41.473664
+------------------------------------------------------
+Started: 2024-06-08 01:16:11.010672
+Existing_entries: 133
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: ["Démarrage calamiteux" et pannes à répétition : sur le T12, la galère des usagers](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/demarrage-calamiteux-et-pannes-a-repetition-sur-le-t12-la-galere-des-usagers-2983166.html)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : quelles seront les 140 stations de métros et RER à éviter cet été ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-quelles-seront-les-140-stations-de-metros-et-rer-a-eviter-cet-ete-2982875.html)
+append_entries: 2
+Finish: 2024-06-08 01:16:16.494054

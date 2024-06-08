@@ -560,3 +560,15 @@ Existing_entries: 56
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-06-07 12:38:43.879408
+------------------------------------------------------
+Started: 2024-06-08 01:14:41.670187
+Existing_entries: 56
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Transports : pour être plus efficaces, les règles de l’UE sur les e-carburants doivent être améliorées](https://www.euractiv.fr/section/biocarburants/news/transports-pour-etre-plus-efficaces-les-regles-de-lue-sur-les-e-carburants-doivent-etre-ameliorees/)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Bilan et futurs dossiers de la commission Transport : entretien avec la présidente Karima Delli](https://www.euractiv.fr/section/energie-climat/interview/bilan-et-futurs-dossiers-de-la-commission-transport-entretien-avec-la-presidente-karima-delli/)
+append_entries: 2
+Finish: 2024-06-08 01:14:50.892082

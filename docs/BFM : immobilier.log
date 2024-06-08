@@ -877,3 +877,9 @@ Summarized using GPT-3.5-turbo
 Append: [Location Airbnb: comment un propriétaire a pu légalement dépasser la limite des 120 jours par an](https://www.bfmtv.com/immobilier/location/location-airbnb-comment-un-proprietaire-a-pu-legalement-depasser-la-limite-des-120-jours-par-an_AV-202406070425.html)
 append_entries: 1
 Finish: 2024-06-07 12:37:42.019047
+------------------------------------------------------
+Started: 2024-06-08 01:13:59.187394
+Existing_entries: 161
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-06-08 01:13:59.586479

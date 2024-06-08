@@ -652,3 +652,15 @@ Existing_entries: 60
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-07 12:42:56.396653
+------------------------------------------------------
+Started: 2024-06-08 01:18:09.034578
+Existing_entries: 60
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Collecte 2024 : la Banque Alimentaire de Martinique revoit ses objectifs à la baisse, faute de bénévoles suffisants](https://la1ere.francetvinfo.fr/martinique/collecte-2024-la-banque-alimentaire-de-martinique-revoit-ses-objectifs-a-la-baisse-faute-de-benevoles-suffisants-1494884.html)
+Token length: 39
+Summarized using GPT-3.5-turbo
+Append: [La pêche de loisir de la langouste est interdite dans les eaux martiniquaises](https://la1ere.francetvinfo.fr/martinique/la-peche-de-loisir-de-la-langouste-est-interdite-dans-les-eaux-martiniquaises-1494869.html)
+append_entries: 2
+Finish: 2024-06-08 01:18:14.219274

@@ -664,3 +664,9 @@ Summarized using GPT-3.5-turbo
 Append: [DECRYPTAGE. Emprunts immobiliers : pourquoi ils vont vous coûter moins cher grâce à cette décision de la BCE](https://www.ladepeche.fr/2024/06/07/decryptage-emprunts-immobiliers-pourquoi-ils-vont-vous-couter-moins-cher-grace-a-cette-decision-de-la-bce-11998413.php)
 append_entries: 1
 Finish: 2024-06-07 12:43:47.992485
+------------------------------------------------------
+Started: 2024-06-08 01:19:12.386597
+Existing_entries: 74
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-06-08 01:19:12.871002
