@@ -944,3 +944,15 @@ Existing_entries: 162
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-06-08 01:15:49.813125
+------------------------------------------------------
+Started: 2024-06-08 12:34:39.633861
+Existing_entries: 162
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [Avec Yann Jéhanno, président de Laforêt Immobilier](https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-08-juin-2024-1442094)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [La chronique Eco du samedi 08 juin 2024](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-08-juin-2024-4964910)
+append_entries: 2
+Finish: 2024-06-08 12:34:46.520481

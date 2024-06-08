@@ -602,3 +602,12 @@ Summarized using GPT-3.5-turbo
 Append: [Aviation : au Royaume-Uni, la restauration des iconiques Spitfires prend son envol](https://www.francetvinfo.fr/societe/seconde-guerre-mondiale/aviation-au-royaume-uni-la-restauration-des-iconiques-spitfires-prend-son-envol_6590691.html)
 append_entries: 1
 Finish: 2024-06-08 01:15:35.019530
+------------------------------------------------------
+Started: 2024-06-08 12:34:18.724977
+Existing_entries: 48
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : comment le projet de taxis volants se dégonfle à l'approche des Jeux](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-comment-le-projet-de-taxis-volants-se-degonfle-a-l-approche-des-jeux_6586419.html)
+append_entries: 1
+Finish: 2024-06-08 12:34:19.859046

@@ -4,6 +4,62 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Slidev – Vous ne ferez jamais aussi bien avec Powerpoint</title>
+<link>https://korben.info/slidev-diapositives-epoustouflantes-developpeurs.html</link>
+<guid>https://korben.info/slidev-diapositives-epoustouflantes-developpeurs.html</guid>
+<content:encoded><![CDATA[
+<div> Markdown, Slidev, Présentations, Powerpoint, Vue.js
+<br>
+Summary: 
+Slidev est un outil innovant pour concevoir des présentations de style Powerpoint de manière efficace et professionnelle. Basé sur Markdown, il facilite la création de diapositives en permettant de se concentrer sur le contenu plutôt que sur la mise en forme. Avec des fonctionnalités avancées telles que la coloration syntaxique, l'exécution de code en direct et un large choix de thèmes personnalisables, Slidev offre une expérience de développement optimale. Son intégration avec Vue.js permet même la création de composants interactifs pour des présentations dynamiques. En tant que projet open source et totalement hackable, Slidev est un outil polyvalent qui permet d'économiser du temps et de créer des présentations uniques et professionnelles. En utilisant la commande npm ou l'interface en ligne, vous pouvez facilement démarrer un nouveau projet Slidev et explorer toutes ses possibilités pour des présentations originales et impactantes. La seule limite est votre créativité! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="387" src="https://korben.info/app/uploads/2024/04/manu23_a_powerpoint_presentation_with_the_logo_Slidev_written_0436473a-ef78-46c1-baad-e341b53ffc46.png" width="1003" /></p>
+<p>Hier, je vous parlais de <a href="https://korben.info/creer-facilement-livres-electroniques-mdbook-outil-rust.html">mdBook</a>, avec un petit reminder de <a href="https://korben.info/deckset-faire-slides-rapidement-douleur.html">Deckset</a> et aujourd&rsquo;hui, je suis tombé sur <a href="https://sli.dev/" rel="noopener" target="_blank">Slidev</a>, un outil très sympa pour vous aider à concevoir vos présentations style Powerpoint.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-647512570" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Sauf qu&rsquo;avec cet outil, fini les heures perdues à galérer sur la mise en forme et la disposition de vos slides. Grâce à sa syntaxe intuitive basée sur <strong>Markdown</strong>, vous pourrez vous concentrer vraiment sur le contenu et laisser Slidev s&rsquo;occuper du reste. En plus de son éditeur intégré, Slidev propose même une extension pour <strong>VS Code</strong> qui vous permettra de profiter d&rsquo;une expérience de développement optimale, avec tous les avantages de votre IDE préféré.</p>
+
+
+
+<p>Mais attention, Slidev ne se contente pas d&rsquo;être un simple convertisseur Markdown vers des slides. Il propose des tas de fonctionnalités super cools comme une coloration syntaxique impeccable, et même la possibilité d&rsquo;exécuter du code, peu importe le langage, en direct pendant votre présentation. Je vous invite <a href="https://rct-ai.github.io/frontend-slides/diablo-health-orb-shader/#/1" rel="noopener" target="_blank">à regarder cet exemple</a> pour vous rendre compte du délire. Il y en <a href="https://sli.dev/showcases" rel="noopener" target="_blank">a plein des comme ça</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158231" height="573" src="https://korben.info/app/uploads/2024/04/SCR-20240401-uald.webp" width="1000" /></figure></div>
+
+
+<p>Slidev vous offre également un choix de thèmes varié et professionnels, que vous pourrez personnaliser à votre guise ou même créer de toutes pièces. Votre présentation aura alors un look unique qui reflètera votre style personnel. ! Il offre également des fonctionnalités avancées comme le mode présentateur, l&rsquo;enregistrement vidéo, l&rsquo;exportation vers différents formats (PDF, PNG, SPA), et bien plus encore</p>
+
+
+
+<p>Et grâce à son intégration parfaite avec <strong>Vue.js</strong>, vous pourrez même créer des composants interactifs directement dans vos slides pour afficher par exemple des graphiques dynamiques, des quiz, des sondages en temps réel, et bien plus encore. Bref, vous l&rsquo;aurez compris, c&rsquo;est un super projet open source, totalement hackable qui vous fera gagner bien du temps. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-277716151" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour démarrer un nouveau projet Slidev, utilisez la commande : </p>
+
+
+
+<pre class="wp-block-code"><code>npm init slidev@latest</code></pre>
+
+
+
+<p>Et si vous préférez utiliser l&rsquo;interface en ligne, rendez-vous sur <a href="https://sli.dev/" rel="noopener" target="_blank">sli.dev</a>.</p>
+
+
+
+<p>Je suis sûr que ça vous plaira ! </p>
+
+
+
+<p>A vous de jouer maintenant et n&rsquo;oubliez pas, la seule limite est votre créativité !</p>
+]]></content:encoded>
+<pubDate>Sat, 08 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 08 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Créez facilement des livres électroniques avec mdBook</title>

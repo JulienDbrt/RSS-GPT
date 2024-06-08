@@ -780,3 +780,9 @@ Summarized using GPT-3.5-turbo
 Append: [Évitez la voiture ce week-end: pas d’entraves, mais de la congestion prévue à Montréal](https://www.journaldemontreal.com/2024/06/06/evitez-la-voiture-ce-week-end-pas-dentraves-mais-de-la-congestion-prevue-a-montreal)
 append_entries: 7
 Finish: 2024-06-08 01:16:58.831297
+------------------------------------------------------
+Started: 2024-06-08 12:35:53.806665
+Existing_entries: 104
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-08 12:35:54.105405

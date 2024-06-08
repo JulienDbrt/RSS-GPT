@@ -1948,3 +1948,18 @@ Summarized using GPT-3.5-turbo
 Append: [Européennes : le programme de Manon Aubry (LFI) en 3 minutes chrono](https://www.latribune.fr/economie/union-europeenne/europeennes-le-programme-de-manon-aubry-lfi-en-3-minutes-chrono-999161.html)
 append_entries: 9
 Finish: 2024-06-08 01:20:08.347584
+------------------------------------------------------
+Started: 2024-06-08 12:37:18.681799
+Existing_entries: 490
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Séoul se prépare à recevoir de nouveaux ballons remplis de déchets en provenance de Corée du Nord](https://www.latribune.fr/economie/international/seoul-se-prepare-a-recevoir-de-nouveaux-ballons-remplis-de-dechets-en-provenance-de-coree-du-nord-999376.html)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Élections européennes : de la Slovaquie à la Lettonie en passant par l'Italie, les citoyens européens appelés aux urnes ce samedi](https://www.latribune.fr/economie/union-europeenne/elections-europeennes-de-la-slovaquie-a-la-lettonie-en-passant-par-l-italie-les-citoyens-europeens-appeles-aux-urnes-ce-samedi-999370.html)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Sécheresse, maladie du dragon jaune : pourquoi les prix du jus d'orange explosent](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/secheresse-maladie-du-dragon-jaune-pourquoi-les-prix-du-jus-d-orange-explosent-999356.html)
+append_entries: 3
+Finish: 2024-06-08 12:37:30.054433

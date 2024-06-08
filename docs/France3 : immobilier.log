@@ -624,3 +624,15 @@ Existing_entries: 62
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-06-08 01:16:27.007703
+------------------------------------------------------
+Started: 2024-06-08 12:35:36.028646
+Existing_entries: 62
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : face aux prix des logements, des étudiants contraints de quitter la capitale pour trouver un premier emploi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-face-aux-prix-des-logements-des-etudiants-contraints-de-quitter-la-capitale-pour-trouver-un-premier-emploi-2983313.html)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : la baisse des taux des crédits se confirme, les banques prêtent à nouveau, une bonne nouvelle pour les acheteurs](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/immobilier-la-baisse-des-taux-des-credits-se-confirme-les-banques-pretent-a-nouveau-une-bonne-nouvelle-pour-les-acheteurs-2983004.html)
+append_entries: 2
+Finish: 2024-06-08 12:35:46.026931

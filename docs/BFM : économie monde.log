@@ -780,3 +780,12 @@ Summarized using GPT-3.5-turbo
 Append: [États-Unis: le taux de chômage au plus haut depuis janvier 2022](https://www.bfmtv.com/economie/international/etats-unis-le-taux-de-chomage-au-plus-haut-depuis-janvier-2022_AD-202406070596.html)
 append_entries: 1
 Finish: 2024-06-08 01:12:41.722363
+------------------------------------------------------
+Started: 2024-06-08 12:32:15.955749
+Existing_entries: 114
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Entre la France et les Etats-Unis, une relation économique contrariée](https://www.bfmtv.com/economie/international/entre-la-france-et-les-etats-unis-une-relation-economique-contrariee_AD-202406080137.html)
+append_entries: 1
+Finish: 2024-06-08 12:32:17.245907

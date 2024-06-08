@@ -1825,3 +1825,21 @@ Summarized using GPT-3.5-turbo
 Append: [INFO BFM BUSINESS. Trains illimités: 13.000 Pass Rail ont été vendus depuis mercredi](https://www.bfmtv.com/economie/entreprises/transports/info-bfm-business-trains-13-000-pass-rail-ont-ete-vendus-depuis-mercredi_AV-202406070594.html)
 append_entries: 6
 Finish: 2024-06-08 01:13:25.181437
+------------------------------------------------------
+Started: 2024-06-08 12:32:24.811792
+Existing_entries: 493
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Thales va fournir un deuxième système de défense aérienne à l'Ukraine](https://www.bfmtv.com/economie/entreprises/defense/thales-va-fournir-un-deuxieme-systeme-de-defense-aerienne-a-l-ukraine_AD-202406080246.html)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Un an de guerre en Ukraine: ce que ça change pour la défense, l'énergie, les céréales...](https://www.bfmtv.com/economie/entreprises/defense/un-an-de-guerre-en-ukraine-ce-que-ca-change-pour-la-defense-l-energie-les-cereales_DN-202302240579.html)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Les Français adorent le train mais moins son prix et son manque de rapidité](https://www.bfmtv.com/economie/entreprises/transports/les-francais-adorent-le-train-mais-moins-son-prix-et-son-manque-de-rapidite_AV-202406080153.html)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Nombreuses et moins chères: les maraîchers appellent les Français à manger des fraises](https://www.bfmtv.com/economie/entreprises/agriculture/nombreuses-et-moins-cheres-les-maraichers-appellent-les-francais-a-manger-des-fraises_AV-202406080140.html)
+append_entries: 4
+Finish: 2024-06-08 12:32:36.821505

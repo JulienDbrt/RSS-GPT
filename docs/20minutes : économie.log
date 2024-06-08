@@ -887,3 +887,15 @@ Summarized using GPT-3.5-turbo
 Append: [Sochaux : Stellantis a produit sa toute dernière voiture thermique](https://www.20minutes.fr/economie/4095182-20240607-sochaux-stellantis-produit-toute-derniere-voiture-thermique)
 append_entries: 1
 Finish: 2024-06-08 01:11:54.945892
+------------------------------------------------------
+Started: 2024-06-08 12:31:26.773032
+Existing_entries: 143
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Les mails en copie cachée, une astuce de gros fourbe ou une fonctionnalité utile ?](https://www.20minutes.fr/societe/4094476-20240608-mails-copie-cachee-astuce-gros-fourbe-fonctionnalite-utile)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Voici le top 5 des marques de mode préférées des Français en 2024](https://www.20minutes.fr/societe/4094459-20240608-voici-top-5-marques-mode-preferees-francais-2024)
+append_entries: 2
+Finish: 2024-06-08 12:31:36.041234

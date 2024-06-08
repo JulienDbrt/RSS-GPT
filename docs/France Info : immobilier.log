@@ -686,3 +686,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : pour attirer de nouveaux habitants, une commune d’Eure-et-Loir les exempte de la taxe foncière](https://www.francetvinfo.fr/economie/immobilier/immobilier-pour-attirer-de-nouveaux-habitants-une-commune-d-eure-et-loir-les-exempte-de-la-taxe-fonciere_6590682.html)
 append_entries: 1
 Finish: 2024-06-08 01:15:38.956544
+------------------------------------------------------
+Started: 2024-06-08 12:34:20.388363
+Existing_entries: 76
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-08 12:34:20.554848
