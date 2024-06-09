@@ -791,3 +791,12 @@ Existing_entries: 135
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-06-08 12:37:18.420604
+------------------------------------------------------
+Started: 2024-06-09 01:20:41.834367
+Existing_entries: 135
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [Gare de Liège-Guillemins évacuée : la circulation des trains a repris, l'intervention est terminée](https://www.lalibre.be/belgique/mobilite/2024/06/08/la-gare-de-liege-guillemins-evacuee-a-cause-dun-colis-suspect-plus-aucun-train-ne-peut-y-passer-N6MVJUSVBVFLXAYXDCQZCMB4V4/)
+append_entries: 1
+Finish: 2024-06-09 01:20:44.796308

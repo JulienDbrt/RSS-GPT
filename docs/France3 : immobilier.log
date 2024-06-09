@@ -636,3 +636,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : la baisse des taux des crédits se confirme, les banques prêtent à nouveau, une bonne nouvelle pour les acheteurs](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/immobilier-la-baisse-des-taux-des-credits-se-confirme-les-banques-pretent-a-nouveau-une-bonne-nouvelle-pour-les-acheteurs-2983004.html)
 append_entries: 2
 Finish: 2024-06-08 12:35:46.026931
+------------------------------------------------------
+Started: 2024-06-09 01:19:23.241448
+Existing_entries: 64
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-06-09 01:19:23.721372

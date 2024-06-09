@@ -625,3 +625,15 @@ Existing_entries: 60
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-06-08 12:29:34.764266
+------------------------------------------------------
+Started: 2024-06-09 01:15:19.288061
+Existing_entries: 60
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Fraude au compteur Linky: un salarié de Veolia et sa femme condamnés](https://video.lefigaro.fr/figaro/video/fraude-au-compteur-linky-un-salarie-de-veolia-et-sa-femme-condamnes/)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Trafic de compteurs Linky : 70 000 euros et une Audi saisis à un couple par les enquêteurs](https://www.capital.fr/economie-politique/trafic-de-compteurs-linky-70-000-euros-et-une-audi-saisis-a-un-couple-par-les-enqueteurs-1497979)
+append_entries: 2
+Finish: 2024-06-09 01:15:26.508544

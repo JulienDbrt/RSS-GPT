@@ -611,3 +611,9 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : comment le projet de taxis volants se dégonfle à l'approche des Jeux](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-comment-le-projet-de-taxis-volants-se-degonfle-a-l-approche-des-jeux_6586419.html)
 append_entries: 1
 Finish: 2024-06-08 12:34:19.859046
+------------------------------------------------------
+Started: 2024-06-09 01:18:59.031837
+Existing_entries: 49
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-06-09 01:18:59.541261

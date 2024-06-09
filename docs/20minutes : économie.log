@@ -899,3 +899,9 @@ Summarized using GPT-3.5-turbo
 Append: [Voici le top 5 des marques de mode préférées des Français en 2024](https://www.20minutes.fr/societe/4094459-20240608-voici-top-5-marques-mode-preferees-francais-2024)
 append_entries: 2
 Finish: 2024-06-08 12:31:36.041234
+------------------------------------------------------
+Started: 2024-06-09 01:16:38.119012
+Existing_entries: 145
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-06-09 01:16:38.550192

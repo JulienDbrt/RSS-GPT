@@ -956,3 +956,9 @@ Summarized using GPT-3.5-turbo
 Append: [La chronique Eco du samedi 08 juin 2024](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-eco/la-chronique-eco-du-samedi-08-juin-2024-4964910)
 append_entries: 2
 Finish: 2024-06-08 12:34:46.520481
+------------------------------------------------------
+Started: 2024-06-09 01:19:04.921112
+Existing_entries: 164
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-06-09 01:19:05.599777

@@ -852,3 +852,9 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : face aux prix des logements, des étudiants contraints de quitter la capitale pour trouver un premier emploi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-face-aux-prix-des-logements-des-etudiants-contraints-de-quitter-la-capitale-pour-trouver-un-premier-emploi-2983313.html)
 append_entries: 1
 Finish: 2024-06-08 12:35:14.654886
+------------------------------------------------------
+Started: 2024-06-09 01:19:12.148713
+Existing_entries: 136
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-09 01:19:12.479639

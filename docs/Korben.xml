@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Slidev – Vous ne ferez jamais aussi bien avec Powerpoint</title>
 <link>https://korben.info/slidev-diapositives-epoustouflantes-developpeurs.html</link>
 <guid>https://korben.info/slidev-diapositives-epoustouflantes-developpeurs.html</guid>
 <content:encoded><![CDATA[
 <div> Markdown, Slidev, Présentations, Powerpoint, Vue.js
-<br>
+<br />
 Summary: 
 Slidev est un outil innovant pour concevoir des présentations de style Powerpoint de manière efficace et professionnelle. Basé sur Markdown, il facilite la création de diapositives en permettant de se concentrer sur le contenu plutôt que sur la mise en forme. Avec des fonctionnalités avancées telles que la coloration syntaxique, l'exécution de code en direct et un large choix de thèmes personnalisables, Slidev offre une expérience de développement optimale. Son intégration avec Vue.js permet même la création de composants interactifs pour des présentations dynamiques. En tant que projet open source et totalement hackable, Slidev est un outil polyvalent qui permet d'économiser du temps et de créer des présentations uniques et professionnelles. En utilisant la commande npm ou l'interface en ligne, vous pouvez facilement démarrer un nouveau projet Slidev et explorer toutes ses possibilités pour des présentations originales et impactantes. La seule limite est votre créativité! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="387" src="https://korben.info/app/uploads/2024/04/manu23_a_powerpoint_presentation_with_the_logo_Slidev_written_0436473a-ef78-46c1-baad-e341b53ffc46.png" width="1003" /></p>
@@ -58,9 +59,7 @@ Slidev est un outil innovant pour concevoir des présentations de style Powerpoi
 <p>A vous de jouer maintenant et n&rsquo;oubliez pas, la seule limite est votre créativité !</p>
 ]]></content:encoded>
 <pubDate>Sat, 08 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 08 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Créez facilement des livres électroniques avec mdBook</title>
 <link>https://korben.info/creer-facilement-livres-electroniques-mdbook-outil-rust.html</link>

@@ -969,3 +969,9 @@ Summarized using GPT-3.5-turbo
 Append: [Combien d’argent liquide pouvez-vous retirer dans votre agence bancaire?](https://www.7sur7.be/economie/combien-dargent-liquide-pouvez-vous-retirer-dans-votre-agence-bancaire~abc197a1/)
 append_entries: 1
 Finish: 2024-06-08 12:31:39.658297
+------------------------------------------------------
+Started: 2024-06-09 01:16:38.638853
+Existing_entries: 175
+Fetching from https://www.7sur7.be/economie/rss.xml
+append_entries: 0
+Finish: 2024-06-09 01:16:39.892729

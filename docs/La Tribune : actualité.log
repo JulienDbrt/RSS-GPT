@@ -2569,3 +2569,24 @@ Summarized using GPT-3.5-turbo
 Append: [Sécheresse, maladie du dragon jaune : pourquoi les prix du jus d'orange explosent](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/secheresse-maladie-du-dragon-jaune-pourquoi-les-prix-du-jus-d-orange-explosent-999356.html)
 append_entries: 6
 Finish: 2024-06-08 12:37:48.627461
+------------------------------------------------------
+Started: 2024-06-09 01:20:48.243843
+Existing_entries: 695
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [La campagne piratée](https://www.latribune.fr/opinions/editos/la-campagne-piratee-999427.html)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Le directeur général de Reporters sans frontières, Christophe Deloire, est décédé](https://www.latribune.fr/technos-medias/medias/le-directeur-general-de-reporters-sans-frontieres-christophe-deloire-est-decede-999424.html)
+Token length: 425
+Summarized using GPT-3.5-turbo
+Append: [Visite de Joe Biden à Paris : trois ans après l'affaire des sous-marins australiens, Emmanuel Macron salue un partenaire « loyal »](https://www.latribune.fr/economie/international/visite-de-joe-biden-a-paris-trois-ans-apres-l-affaire-des-sous-marins-australiens-emmanuel-macron-salue-un-partenaire-loyal-999385.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [JO 2024 : BPCE entend affirmer son ambition d’être la banque du sport](https://www.latribune.fr/sports/jeux-olympiques/jo-2024-bpce-entend-affirmer-son-ambition-d-etre-la-banque-du-sport-999384.html)
+Token length: 415
+Summarized using GPT-3.5-turbo
+Append: [Interdiction des voitures thermiques en 2035 : « Il est important que nous continuions dans cette voie », martèle Olaf Scholz](https://www.latribune.fr/entreprises-finance/industrie/automobile/interdiction-des-voitures-thermiques-en-2035-il-est-important-que-nous-continuions-dans-cette-voie-martele-olaf-scholz-999382.html)
+append_entries: 5
+Finish: 2024-06-09 01:21:02.924899

@@ -1528,3 +1528,15 @@ Summarized using GPT-3.5-turbo
 Append: [Wall Street termine dans le rouge après les chiffres de l'emploi US](https://www.boursier.com/indices/actualites/news/wall-street-termine-dans-le-rouge-apres-les-chiffres-de-l-emploi-us-930772.html)
 append_entries: 1
 Finish: 2024-06-08 12:28:01.241018
+------------------------------------------------------
+Started: 2024-06-09 01:14:27.002984
+Existing_entries: 366
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le Bitcoin s’est-il encore effondré ?](https://www.cointribune.com/pourquoi-le-bitcoin-sest-il-encore-effondre/)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [De vertige : L'augmentation des devises à Cuba confirme la faiblesse du CUP et l'instabilité du marché informel.](https://fr.cibercuba.com/noticias/2024-06-08-u1-e207888-s27061-nid283263-vertigo-subida-divisas-cuba-confirma-debilidad-cup)
+append_entries: 2
+Finish: 2024-06-09 01:14:32.473130

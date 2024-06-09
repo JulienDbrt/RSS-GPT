@@ -930,3 +930,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Je fais comment pour payer mon loyer ?" : une conductrice de bus de 70 ans poussée à démissionner par son employeur](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/macon/je-fais-comment-pour-payer-mon-loyer-une-conductrice-de-bus-de-70-ans-poussee-a-demissionner-par-son-employeur-2982512.html)
 append_entries: 2
 Finish: 2024-06-08 12:35:35.998547
+------------------------------------------------------
+Started: 2024-06-09 01:19:22.772052
+Existing_entries: 162
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-06-09 01:19:23.210171
