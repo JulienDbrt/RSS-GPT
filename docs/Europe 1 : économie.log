@@ -964,3 +964,15 @@ Existing_entries: 166
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-09 01:18:21.134842
+------------------------------------------------------
+Started: 2024-06-09 12:32:53.470441
+Existing_entries: 166
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [80 ans du Débarquement : Coca-Cola, Ray-Ban, Levi's... Ces marques qui sont arrivées avec les GI](https://www.europe1.fr/economie/80-ans-du-debarquement-coca-cola-ray-ban-levis-ces-marques-qui-sont-arrivees-avec-les-gi-4251682)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [L’absentéisme en entreprise recule mais les arrêts de longue durée progressent](https://www.europe1.fr/economie/labsenteisme-en-entreprise-recule-mais-les-arrets-de-longue-duree-progressent-4251688)
+append_entries: 2
+Finish: 2024-06-09 12:32:59.708425

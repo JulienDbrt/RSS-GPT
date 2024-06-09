@@ -1428,3 +1428,24 @@ Summarized using GPT-3.5-turbo
 Append: ["Ce n'est pas maintenant qu'il faut nous lâcher", pic de production, fraises à 2 €, les professionnels lancent un appel pour soutenir la filière française](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/ce-n-est-pas-maintenant-qu-il-faut-nous-lacher-pic-de-production-fraises-a-2-les-professionnels-lancent-un-appel-pour-soutenir-la-filiere-francaise-2983382.html)
 append_entries: 2
 Finish: 2024-06-09 01:19:18.876087
+------------------------------------------------------
+Started: 2024-06-09 12:33:42.167541
+Existing_entries: 326
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Découvrez la truffe d'été, l'autre visage de la truffe en Périgord](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/decouvrez-la-truffe-d-ete-l-autre-visage-de-la-truffe-en-perigord-2980349.html)
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: ["On ne va pas chercher un trésor mais l'enfouir pour le retrouver dans un an": faire vieillir du vin dans une rivière, le pari fou de vignerons du Minervois](https://france3-regions.francetvinfo.fr/occitanie/aude/narbonne/on-ne-va-pas-chercher-un-tresor-mais-l-enfouir-pour-le-retrouver-dans-un-an-faire-vieillir-du-vin-dans-une-riviere-le-pari-fou-de-vignerons-du-minervois-2982854.html)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. Agriculteur et TikTokeur, il partage son métier sur les réseaux : "j'aimerais que le point de vue des gens change"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/video-agriculteur-et-tiktokeur-il-partage-son-metier-sur-les-reseaux-j-aimerais-que-le-point-de-vue-des-gens-change-2980880.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Malédiction des étés pluvieux, le mildiou menace les tomates et pommes de terre](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/malediction-des-etes-pluvieux-le-mildiou-menace-les-tomates-et-pommes-de-terre-2979668.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: ["Dire qu’il y aura zéro licenciement, ce serait mentir" : le projet Ultérïa cherche un repreneur pour son usine dans l'Yonne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/dire-qu-il-y-aura-zero-licenciement-ce-serait-mentir-le-projet-ulteria-cherche-un-repreneur-pour-son-usine-dans-l-yonne-2980964.html)
+append_entries: 5
+Finish: 2024-06-09 12:33:55.739357

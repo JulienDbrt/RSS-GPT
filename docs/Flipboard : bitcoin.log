@@ -1540,3 +1540,18 @@ Summarized using GPT-3.5-turbo
 Append: [De vertige : L'augmentation des devises à Cuba confirme la faiblesse du CUP et l'instabilité du marché informel.](https://fr.cibercuba.com/noticias/2024-06-08-u1-e207888-s27061-nid283263-vertigo-subida-divisas-cuba-confirma-debilidad-cup)
 append_entries: 2
 Finish: 2024-06-09 01:14:32.473130
+------------------------------------------------------
+Started: 2024-06-09 12:29:13.050927
+Existing_entries: 368
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [Disparition de Cryptoqueen : Morte ou vivante ?](https://www.bbc.com/afrique/articles/crgg2z98kqqo?xtor=AL-73-%5Bpartner%5D-%5Bflipboard%5D-%5Bheadline%5D-%5Bafrique%5D-%5Bbizdev%5D-%5Bisapi%5D)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Crypto : Cardano fait face à des critiques malgré des fondamentaux solides](https://www.cointribune.com/crypto-cardano-la-blockchain-de-demain/)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin : Un risque de 1,38 milliard de dollars de liquidation](https://www.cointribune.com/bitcoin-un-risque-de-138-milliard-de-dollars-de-liquidation/)
+append_entries: 3
+Finish: 2024-06-09 12:29:31.245623

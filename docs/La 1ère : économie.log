@@ -1975,3 +1975,18 @@ Summarized using GPT-3.5-turbo
 Append: [Rallye des Grands-Fonds : Sébastien Loeb s'illustre à la première place pour la première étape](https://la1ere.francetvinfo.fr/guadeloupe/rallye-des-grands-fonds-sebastien-loeb-s-illustre-a-la-premiere-place-pour-la-premiere-etape-1495112.html)
 append_entries: 4
 Finish: 2024-06-09 01:20:07.977541
+------------------------------------------------------
+Started: 2024-06-09 12:34:38.977453
+Existing_entries: 495
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [Concours de fafaru : découvrez les recettes qui ont conquis le jury](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/concours-de-fafaru-decouvrez-les-recettes-qui-ont-conquis-le-jury-1495193.html)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Air Vanuatu en quête de partenaires régionaux pour maintenir ses rotations](https://la1ere.francetvinfo.fr/nouvellecaledonie/air-vanuatu-en-quete-de-partenaires-regionaux-pour-maintenir-ses-rotations-1495250.html)
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: [Rallye des Grands fonds : Sébastien Loeb, acte 2](https://la1ere.francetvinfo.fr/guadeloupe/rallye-des-grands-fonds-sebastien-loeb-acte-2-1495229.html)
+append_entries: 3
+Finish: 2024-06-09 12:34:48.547937

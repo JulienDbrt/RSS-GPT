@@ -1028,3 +1028,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Tout citoyen a le devoir de se mobiliser" : la manifestation contre l'autoroute A69 tourne à l'affrontement](https://www.francetvinfo.fr/monde/environnement/tout-citoyen-a-le-devoir-de-se-mobiliser-la-manifestation-contre-l-autoroute-a69-tourne-a-l-affrontement_6592746.html)
 append_entries: 2
 Finish: 2024-06-09 01:19:04.836965
+------------------------------------------------------
+Started: 2024-06-09 12:33:20.168028
+Existing_entries: 186
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Mobilisation anti-A69 : quatre blessés chez les forces de l'ordre et trois parmi les manifestants, précise le préfet du Tarn](https://www.francetvinfo.fr/replay-radio/le-grand-temoin/mobilisation-anti-a69-quatre-blesses-chez-les-forces-de-l-ordre-et-trois-parmi-les-manifestants-precise-le-prefet-du-tarn_6553829.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A69 : nouvelle mobilisation d'ampleur contre le chantier](https://www.francetvinfo.fr/monde/environnement/crise-climatique/empreinte-carbone/transports/autoroute-a69-nouvelle-mobilisation-d-ampleur-contre-le-chantier_6593814.html)
+append_entries: 2
+Finish: 2024-06-09 12:33:24.247669

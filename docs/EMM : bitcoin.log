@@ -3171,3 +3171,10 @@ Summarized using GPT-3.5-turbo
 Append: [Arthur Hayes dit qu'il est temps d'investir dans Bitcoin](https://www.cryptopolitan.com/fr/arthur-hayes-il-est-temps-d-39-opter-pour-bitcoin/)
 append_entries: 8
 Finish: 2024-06-09 01:14:26.816974
+------------------------------------------------------
+Started: 2024-06-09 12:28:12.277153
+Existing_entries: 1008
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/EMM : bitcoin

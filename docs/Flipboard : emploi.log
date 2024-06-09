@@ -2758,3 +2758,15 @@ Summarized using GPT-3.5-turbo
 Append: [Cet accessoire IKEA est passé inaperçu, mais il est aussi pratique que design](https://www.lejournaldelamaison.fr/le-journal-de-la-maison/nouveautes/tendances/tendances-deco/accessoire-ikea-passe-inapercu-aussi-pratique-design-486684.html)
 append_entries: 1
 Finish: 2024-06-09 01:14:50.544910
+------------------------------------------------------
+Started: 2024-06-09 12:29:51.258955
+Existing_entries: 920
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [L'inspection du travail a lourdement sanctionné le PSG pour une raison surprenante](https://www.90min.com/fr/posts/l-inspection-du-travail-a-lourdement-sanctionne-le-psg-pour-une-raison-surprenante)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Santé au travail – L’épuisement menace les urgentistes](https://www.24heures.ch/sante-au-travail-lepuisement-menace-les-urgentistes-351053683562)
+append_entries: 2
+Finish: 2024-06-09 12:29:58.975909
