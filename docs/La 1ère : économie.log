@@ -2005,3 +2005,15 @@ Summarized using GPT-3.5-turbo
 Append: [REPLAY. A suivre la dernière étape du rallye des Grands Fonds 2024](https://la1ere.francetvinfo.fr/guadeloupe/direct-a-suivre-la-derniere-etape-du-rallye-des-grands-fonds-2024-1495316.html)
 append_entries: 3
 Finish: 2024-06-10 01:15:34.206084
+------------------------------------------------------
+Started: 2024-06-10 12:39:30.741160
+Existing_entries: 501
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Emirates annonce son arrivée dans le ciel malgache](https://la1ere.francetvinfo.fr/mayotte/emirates-annonce-son-arrivee-dans-le-ciel-malgache-1495571.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : fumée persistante au-dessus de Normandie, à Nouméa](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/crise-en-nouvelle-caledonie-fumee-persistante-au-dessus-de-normandie-a-noumea-1495562.html)
+append_entries: 2
+Finish: 2024-06-10 12:39:40.261705

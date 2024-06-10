@@ -982,3 +982,18 @@ Existing_entries: 168
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-10 01:14:31.335605
+------------------------------------------------------
+Started: 2024-06-10 12:37:42.616328
+Existing_entries: 168
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [L'euro pénalisé lundi matin par le résultat des élections européennes](https://www.europe1.fr/economie/leuro-penalise-lundi-matin-par-le-resultat-des-elections-europeennes-4251954)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Gaz : la facture va grimper de 11,7% en moyenne le 1er juillet pour des millions de Français](https://www.europe1.fr/economie/gaz-la-facture-va-grimper-de-117-en-moyenne-le-1er-juillet-pour-des-millions-de-francais-4251890)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage : ce texte que défendent les députés Liot face au tour de vis de l'exécutif](https://www.europe1.fr/economie/assurance-chomage-ce-texte-que-defendent-les-deputes-liot-face-au-tour-de-vis-de-lexecutif-4251817)
+append_entries: 3
+Finish: 2024-06-10 12:37:51.445606

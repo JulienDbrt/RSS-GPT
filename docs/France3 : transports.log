@@ -1749,3 +1749,21 @@ Summarized using GPT-3.5-turbo
 Append: [Autoroute Castres-Toulouse : 8 personnes blessées, selon la préfecture, une quarantaine selon les opposants à l'issue de la mobilisation](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/autoroute-castres-toulouse-8-personnes-blessees-selon-la-prefecture-une-quarantaine-selon-les-opposants-a-l-issue-de-la-mobilisation-2983754.html)
 append_entries: 2
 Finish: 2024-06-10 01:15:11.305860
+------------------------------------------------------
+Started: 2024-06-10 12:38:52.790811
+Existing_entries: 430
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Violents orages en Isère : une coulée de boue traverse la ligne SNCF Grenoble-Lyon, la circulation des trains perturbée](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/violents-orages-en-isere-une-coulee-de-boue-traverse-la-ligne-sncf-grenoble-lyon-la-circulation-des-trains-perturbee-2984024.html)
+Token length: 382
+Summarized using GPT-3.5-turbo
+Append: [SNCF. "Nous avons le TER le moins cher de France" : les voyageurs en train toujours plus nombreux en Occitanie](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/sncf-nous-avons-le-ter-le-moins-cher-de-france-les-voyageurs-en-train-toujours-plus-nombreux-en-occitanie-2983160.html)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [CARTE. Travaux du tramway à Montpellier : perturbations du trafic et coupures de lignes jusqu'en septembre](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/carte-travaux-du-tramway-a-montpellier-perturbations-du-trafic-et-coupures-de-lignes-jusqu-en-septembre-2982845.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [D'où vient le nom de la station Filles du Calvaire ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-nom-de-la-station-filles-du-calvaire-2982665.html)
+append_entries: 4
+Finish: 2024-06-10 12:39:08.104044

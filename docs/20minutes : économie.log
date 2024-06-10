@@ -920,3 +920,15 @@ Existing_entries: 146
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-06-10 01:13:41.406350
+------------------------------------------------------
+Started: 2024-06-10 12:35:04.351121
+Existing_entries: 146
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Chiot, chaton, poussin… Comment les animaux tout mignons sont devenus des stars de la pub](https://www.20minutes.fr/economie/4094936-20240610-chiot-chaton-poussin-comment-animaux-tout-mignons-devenus-stars-pub)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Gaz : Le prix moyen de la facture augmente de +11,7 % au 1er juillet 2024](https://www.20minutes.fr/economie/4095446-20240610-gaz-prix-moyen-facture-va-exploser-11-7-1er-juillet)
+append_entries: 2
+Finish: 2024-06-10 12:35:14.233042

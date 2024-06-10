@@ -837,3 +837,9 @@ Summarized using GPT-3.5-turbo
 Append: [Plus de 450.000 véhicules Kia rappelés en raison d'un risque d'incendie](https://www.bfmtv.com/auto/plus-de-450-000-vehicules-kia-rappeles-en-raison-d-un-risque-d-incendie_AV-202406090263.html)
 append_entries: 1
 Finish: 2024-06-10 01:13:49.270678
+------------------------------------------------------
+Started: 2024-06-10 12:36:23.769284
+Existing_entries: 125
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-06-10 12:36:23.856533

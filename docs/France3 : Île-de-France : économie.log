@@ -870,3 +870,12 @@ Existing_entries: 136
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-10 01:15:00.180182
+------------------------------------------------------
+Started: 2024-06-10 12:38:45.343754
+Existing_entries: 136
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [D'où vient le nom de la station Filles du Calvaire ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-nom-de-la-station-filles-du-calvaire-2982665.html)
+append_entries: 1
+Finish: 2024-06-10 12:38:50.020273

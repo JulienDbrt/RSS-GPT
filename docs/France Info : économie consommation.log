@@ -2946,3 +2946,24 @@ Summarized using GPT-3.5-turbo
 Append: [REPORTAGE. "J'apprends tous les jours" : les Meilleurs ouvriers de France célèbrent leurs 100 ans](https://www.francetvinfo.fr/economie/emploi/metiers/reportage-j-apprends-tous-les-jours-les-meilleurs-ouvriers-de-france-celebrent-leurs-100-ans_6592461.html)
 append_entries: 2
 Finish: 2024-06-10 01:14:48.013997
+------------------------------------------------------
+Started: 2024-06-10 12:37:53.548399
+Existing_entries: 976
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Fin de vie, protection de l'enfance, Nouvelle-Calédonie... Ces projets de loi et travaux parlementaires à l'arrêt après la dissolution de l'Assemblée nationale](https://www.francetvinfo.fr/politique/parlement-francais/assemblee-nationale/dissolution/fin-de-vie-protection-de-l-enfance-nouvelle-caledonie-ces-projets-de-loi-et-travaux-parlementaires-a-l-arret-apres-la-dissolution-de-l-assemblee-nationale_6595542.html)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [La Bourse de Paris en baisse et les taux d'intérêt en hausse au lendemain de la dissolution de l’Assemblée nationale](https://www.francetvinfo.fr/replay-radio/le-brief-eco/les-marches-financiers-vont-ils-reagir-a-la-dissolution-de-l-assemblee-nationale-en-france_6567125.html)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Dissolution : comment vont réagir les milieux économiques et les syndicats ?](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/dissolution-comment-vont-reagir-les-milieux-economiques-et-les-syndicats_6567116.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Les personnels des cantines scolaires en grève à Marseille pour protester contre leurs conditions de travail](https://www.francetvinfo.fr/economie/greve/les-personnels-des-cantines-scolaires-en-greve-a-marseille-pour-protester-contre-leurs-conditions-de-travail_6595536.html)
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [La facture de gaz augmentera de 11,7% en moyenne le 1er juillet, annonce la commission de régulation de l'énergie](https://www.francetvinfo.fr/economie/energie/la-facture-de-gaz-augmentera-de-11-7-en-moyenne-le-1er-juillet-annonce-la-commission-de-regulation-de-l-energie_6595488.html)
+append_entries: 5
+Finish: 2024-06-10 12:38:10.537745
