@@ -2303,3 +2303,15 @@ Summarized using GPT-3.5-turbo
 Append: [Revolut, N26, Sumeria : que valent les comptes rémunérés des néobanques ?](https://www.moneyvox.fr/banque-en-ligne/actualites/98107/revolut-n26-sumeria-que-valent-les-comptes-remuneres-des-neobanques)
 append_entries: 4
 Finish: 2024-06-09 12:33:40.580276
+------------------------------------------------------
+Started: 2024-06-10 01:14:50.843821
+Existing_entries: 663
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Assurance vie : l'astuce méconnue pour réduire les droits de succession sur votre contrat](https://www.moneyvox.fr/assurance-vie/actualites/98121/astuce-meconnue-pour-reduire-les-droits-de-succession-sur-votre-contrat)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Crowdfunding immobilier : cet élément crucial à vérifier avant d'investir votre épargne](https://www.moneyvox.fr/immobilier/actualites/98140/crowdfunding-immobilier-cet-element-crucial-a-verifier-avant-investir-votre-epargne)
+append_entries: 2
+Finish: 2024-06-10 01:14:58.626177

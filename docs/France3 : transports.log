@@ -1737,3 +1737,15 @@ Summarized using GPT-3.5-turbo
 Append: [Gare de Limoges : découvrez les images de la construction de ce monument décrié à ses débuts et admiré aujourd'hui](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/gare-de-limoges-decouvrez-les-images-de-la-construction-de-ce-monument-decrie-a-ses-debuts-et-admire-aujourd-hui-2982614.html)
 append_entries: 3
 Finish: 2024-06-09 12:34:19.089167
+------------------------------------------------------
+Started: 2024-06-10 01:15:04.659341
+Existing_entries: 428
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [Un cheval s'échappe après un accident sur la N4 et blesse deux personnes](https://france3-regions.francetvinfo.fr/grand-est/marne/vitry-le-francois/un-cheval-s-echappe-apres-un-accident-sur-la-n4-et-blesse-deux-personnes-2983850.html)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [Autoroute Castres-Toulouse : 8 personnes blessées, selon la préfecture, une quarantaine selon les opposants à l'issue de la mobilisation](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/autoroute-castres-toulouse-8-personnes-blessees-selon-la-prefecture-une-quarantaine-selon-les-opposants-a-l-issue-de-la-mobilisation-2983754.html)
+append_entries: 2
+Finish: 2024-06-10 01:15:11.305860

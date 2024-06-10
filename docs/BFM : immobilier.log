@@ -907,3 +907,9 @@ Summarized using GPT-3.5-turbo
 Append: [Si votre entreprise vous accorde un prêt immobilier, votre départ peut avoir de lourdes conséquences](https://www.bfmtv.com/immobilier/credit-emprunt/si-votre-entreprise-vous-accorde-un-pret-immobilier-votre-depart-peut-avoir-de-lourdes-consequences_AD-202406090239.html)
 append_entries: 1
 Finish: 2024-06-09 12:32:33.604673
+------------------------------------------------------
+Started: 2024-06-10 01:14:23.193773
+Existing_entries: 163
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-06-10 01:14:23.257160

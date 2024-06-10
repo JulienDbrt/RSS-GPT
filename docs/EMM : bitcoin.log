@@ -3178,3 +3178,36 @@ Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=adva
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/EMM : bitcoin
+------------------------------------------------------
+Started: 2024-06-10 01:10:40.733624
+Existing_entries: 1008
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [Le crash du Bitcoin est une “situation temporaire”, s’attendent les traders de crypto](https://www.nouvelles-du-monde.com/le-crash-du-bitcoin-est-une-situation-temporaire-sattendent-les-traders-de-crypto/)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [99 La prévente de jetons Bitcoin atteint 2 millions de dollars – La meilleure crypto à acheter maintenant ? il y a 2 heures](https://www.cryptopolitan.com/fr/la-prevente-de-99-jetons-bitcoin-atteint-les-2-millions-de-meilleures-crypto-monnaies-a-acheter-maintenant/)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Bonk & Pepe Token détenant Crypto Whale investit + 12 000 $ dans la prévente « Bitnance »](https://www.cryptopolitan.com/fr/bonk-pepe-token-holding-crypto-baleine-investit-12-000-dans-la-prevente-de-bitnance/)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le Bitcoin pourrait bientôt battre son plus haut historique](https://www.nouvelles-du-monde.com/pourquoi-le-bitcoin-pourrait-bientot-battre-son-plus-haut-historique/)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Raisons pour lesquelles vous ne pouvez pas ignorer BlockDAG Post Keynote 2, dépassant la prévision des prix Ethereum et la hausse de la capitalisation boursière de Notcoin](https://www.cryptopolitan.com/fr/raisons-pour-lesquelles-vous-ne-pouvez-pas-ignorer-le-blockdag-post-keynote-2-depassant-la-prevision-des-prix-ethereum-et-la-hausse-de-la-capitalisation-boursiere-de-notcoin/)
+Token length: 54
+Summarized using GPT-3.5-turbo
+Append: [L’investisseur avisé Riot hausse sa mise dans Bitfarms](https://www.lapresse.ca/affaires/marches/2024-06-09/l-investisseur-avise/riot-hausse-sa-mise-dans-bitfarms.php)
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Le Bitcoin augmentera-t-il à nouveau après la réduction de moitié, comme avant ?](https://www.nouvelles-du-monde.com/le-bitcoin-augmentera-t-il-a-nouveau-apres-la-reduction-de-moitie-comme-avant/)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [Le rallye Bitcoin et les « mémoires courtes » relancent tout dans la crypto](https://www.nouvelles-du-monde.com/le-rallye-bitcoin-et-les-memoires-courtes-relancent-tout-dans-la-crypto/)
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [Mathieu Herzog, directeur artistique du Festival de Glanum](https://www.nouvelles-du-monde.com/mathieu-herzog-directeur-artistique-du-festival-de-glanum/)
+append_entries: 9
+Finish: 2024-06-10 01:11:13.175937

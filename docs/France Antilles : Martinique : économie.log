@@ -1088,3 +1088,15 @@ Summarized using GPT-3.5-turbo
 Append: [Dans le nord du Pakistan, le tourisme pèse sur les ressources en électricité](https://www.martinique.franceantilles.fr/actualite/economie/dans-le-nord-du-pakistan-le-tourisme-pese-sur-les-ressources-en-electricite-990388.php)
 append_entries: 1
 Finish: 2024-06-09 12:33:03.586174
+------------------------------------------------------
+Started: 2024-06-10 01:14:31.442051
+Existing_entries: 224
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Fin du rassemblement anti-A69 dans le Tarn](https://www.martinique.franceantilles.fr/actualite/economie/rassemblement-anti-a69-entre-400-et-1500-opposants-encore-sur-le-campement-tarnais-990390.php)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [Les Suisses valident par un vote la loi accélérant le développement des énergies renouvelables](https://www.martinique.franceantilles.fr/actualite/economie/les-suisses-valident-par-un-vote-la-loi-accelerant-le-developpement-des-energies-renouvelables-990419.php)
+append_entries: 2
+Finish: 2024-06-10 01:14:39.033199

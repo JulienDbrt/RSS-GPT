@@ -2437,3 +2437,9 @@ Summarized using GPT-3.5-turbo
 Append: [Près de 3 000 francophones vivent dans ce paradis thaï](https://www.lalibre.be/economie/immo/2024/06/09/pres-de-3-000-francophones-vivent-dans-ce-paradis-thai-KXVXBQTE5RDCHOL2F76Q3RYQZA/)
 append_entries: 1
 Finish: 2024-06-09 12:35:33.357756
+------------------------------------------------------
+Started: 2024-06-10 01:16:03.795259
+Existing_entries: 773
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+append_entries: 0
+Finish: 2024-06-10 01:16:04.875650

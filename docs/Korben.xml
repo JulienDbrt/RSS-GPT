@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Starship – L’invite de commande personnalisable</title>
 <link>https://korben.info/starship-invite-de-commande-personnalisable.html</link>
 <guid>https://korben.info/starship-invite-de-commande-personnalisable.html</guid>
 <content:encoded><![CDATA[
 <div> configurable, performance, plugins, installation, personnalisation 
-<br>
+<br />
 Summary:
 Starship est un outil de personnalisation d’invite de commande ultra-rapide et entièrement configurable, compatible avec divers Shell tels que Bash, Zsh, Fish, PowerShell, etc. Il offre une personnalisation poussée avec la possibilité de modifier les couleurs, symboles, et informations affichées via un fichier de configuration. Il affiche intelligemment des détails sur le répertoire courant, la branche Git, l'état du dépôt, et détecte automatiquement les versions de Node.js, Python, et Ruby. Starship prend en charge de nombreux plugins pour étendre ses fonctionnalités comme l'affichage de l'état des tests, le niveau de batterie, ou la météo. Grâce à son optimisation, il offre des performances optimales sans latence remarquable même après une personnalisation poussée. L'installation est simple avec des commandes courtes pour différents systèmes d'exploitation. Starship propose également des presets pour l'inspiration des utilisateurs qui souhaitent personnaliser leur invite de commande. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="352" src="https://korben.info/app/uploads/2024/04/SCR-20240401-ufxo-2.webp" width="1000" /></p>
@@ -65,9 +66,7 @@ curl -sS https://starship.rs/install.sh | sh</code></p>
 <p>Si ça vous dit de tester, le site officiel <a href="https://starship.rs/" rel="noopener" target="_blank">starship.rs</a> est là. Et si vous êtes à la recherche d&rsquo;inspiration pour personnaliser votre invite de commande, il y a des presets sur le site également. </p>
 ]]></content:encoded>
 <pubDate>Sun, 09 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 09 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Slidev – Vous ne ferez jamais aussi bien avec Powerpoint</title>
 <link>https://korben.info/slidev-diapositives-epoustouflantes-developpeurs.html</link>

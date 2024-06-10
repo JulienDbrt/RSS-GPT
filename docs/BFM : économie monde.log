@@ -807,3 +807,9 @@ Summarized using GPT-3.5-turbo
 Append: [Etats-Unis: vers le maintien des taux de la Fed, en raison de l'inflation](https://www.bfmtv.com/economie/international/etats-unis-vers-le-maintien-des-taux-de-la-fed-en-raison-de-l-inflation_AD-202406090142.html)
 append_entries: 1
 Finish: 2024-06-09 12:31:52.512757
+------------------------------------------------------
+Started: 2024-06-10 01:13:43.613676
+Existing_entries: 117
+Fetching from https://www.bfmtv.com/rss/economie/international/
+append_entries: 0
+Finish: 2024-06-10 01:13:43.755342

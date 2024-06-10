@@ -1045,3 +1045,12 @@ Existing_entries: 193
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-06-09 12:35:27.831504
+------------------------------------------------------
+Started: 2024-06-10 01:15:55.772214
+Existing_entries: 193
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: ["Ne pas perdre notre savoir-faire" : une étudiante aveyronnaise récompensée par un prix national pour son travail sur la formation](https://www.ladepeche.fr/2024/06/09/ne-pas-perdre-notre-savoir-faire-une-etudiante-aveyronnaise-recompensee-par-un-prix-national-pour-son-travail-sur-la-formation-11998933.php)
+append_entries: 1
+Finish: 2024-06-10 01:16:02.141375

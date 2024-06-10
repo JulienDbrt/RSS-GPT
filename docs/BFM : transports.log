@@ -846,3 +846,9 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF: la concurrence dans le train, "oui c'est possible" mais "il n'y aura pas 15 acteurs"](https://www.bfmtv.com/economie/entreprises/transports/sncf-la-concurrence-dans-le-train-oui-c-est-possible-mais-il-n-y-aura-pas-15-acteurs_AV-202406090128.html)
 append_entries: 1
 Finish: 2024-06-09 12:32:37.918656
+------------------------------------------------------
+Started: 2024-06-10 01:14:24.354198
+Existing_entries: 130
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-06-10 01:14:24.419237
