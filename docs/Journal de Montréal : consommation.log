@@ -772,3 +772,15 @@ Existing_entries: 90
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-06-10 12:39:08.914581
+------------------------------------------------------
+Started: 2024-06-11 01:17:19.055354
+Existing_entries: 90
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Action collective: voici comment obtenir votre 10$ de Ticketmaster](https://www.journaldemontreal.com/2024/06/10/voici-comment-obtenir-10-de-ticketmaster)
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [Changer soi-même la batterie de son téléphone: le Québec devrait imiter l’Europe](https://www.journaldemontreal.com/2024/06/08/changer-soit-meme-la-batterie-de-son-telephone)
+append_entries: 2
+Finish: 2024-06-11 01:17:26.367682

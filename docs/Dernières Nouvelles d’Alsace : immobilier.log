@@ -698,3 +698,12 @@ Existing_entries: 70
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-06-10 12:37:37.324427
+------------------------------------------------------
+Started: 2024-06-11 01:15:49.947820
+Existing_entries: 70
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Immobilier. Pourquoi il faut vendre avant d'acheter un nouveau bien](https://www.dna.fr/magazine-immobilier/2024/06/10/pourquoi-il-faut-vendre-avant-d-acheter-un-nouveau-bien)
+append_entries: 1
+Finish: 2024-06-11 01:15:53.462371

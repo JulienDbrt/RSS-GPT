@@ -932,3 +932,12 @@ Summarized using GPT-3.5-turbo
 Append: [Gaz : Le prix moyen de la facture augmente de +11,7 % au 1er juillet 2024](https://www.20minutes.fr/economie/4095446-20240610-gaz-prix-moyen-facture-va-exploser-11-7-1er-juillet)
 append_entries: 2
 Finish: 2024-06-10 12:35:14.233042
+------------------------------------------------------
+Started: 2024-06-11 01:12:52.058072
+Existing_entries: 148
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Francilien, cadre supérieur, homme... Le portrait-robot du Français riche réalisé par une association](https://www.20minutes.fr/economie/4095526-20240610-francilien-cadre-superieur-homme-portrait-robot-francais-riche-realise-association)
+append_entries: 1
+Finish: 2024-06-11 01:12:55.643278

@@ -1767,3 +1767,15 @@ Summarized using GPT-3.5-turbo
 Append: [D'où vient le nom de la station Filles du Calvaire ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-nom-de-la-station-filles-du-calvaire-2982665.html)
 append_entries: 4
 Finish: 2024-06-10 12:39:08.104044
+------------------------------------------------------
+Started: 2024-06-11 01:17:13.311908
+Existing_entries: 434
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [Accident. Violent choc frontal sur une route du Gard : un blessé grave, deux plus légers dont une petite fille de 4 ans](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/violent-choc-frontal-sur-une-route-du-gard-un-blesse-grave-deux-plus-legers-dont-une-petite-fille-de-4-ans-2984654.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Percée de Jean Lassalle, enclaves écologistes et LFI, records pour le RN : lorsque le conflit de l'autoroute A69 déteint sur le vote des européennes](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/percee-de-jean-lassalle-enclaves-ecologistes-et-lfi-records-pour-le-rn-lorsque-le-conflit-de-l-autoroute-a69-deteint-sur-le-vote-des-europeennes-2984258.html)
+append_entries: 2
+Finish: 2024-06-11 01:17:19.007817

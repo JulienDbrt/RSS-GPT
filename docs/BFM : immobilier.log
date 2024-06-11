@@ -928,3 +928,15 @@ Summarized using GPT-3.5-turbo
 Append: [Encadrement des loyers](https://www.bfmtv.com/immobilier/location/encadrement-des-loyers_DN-202112170385.html)
 append_entries: 3
 Finish: 2024-06-10 12:37:24.151383
+------------------------------------------------------
+Started: 2024-06-11 01:15:23.628362
+Existing_entries: 166
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [L'ancien hôtel particulier de Valéry Giscard d’Estaing à Paris a été vendu](https://www.bfmtv.com/immobilier/luxe/l-ancien-hotel-particulier-de-valery-giscard-d-estaing-a-paris-a-ete-vendu_AN-202406100618.html)
+Token length: 490
+Summarized using GPT-3.5-turbo
+Append: [Panneaux solaires : et si vous équipiez votre maison en 2024 ?](https://www.bfmtv.com/immobilier/services/financement-de-travaux-et-renovation-energetique/panneaux-solaires-et-si-vous-equipiez-votre-maison-en-2024_AB-202406100541.html)
+append_entries: 2
+Finish: 2024-06-11 01:15:27.845590

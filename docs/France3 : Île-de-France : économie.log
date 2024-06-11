@@ -879,3 +879,12 @@ Summarized using GPT-3.5-turbo
 Append: [D'où vient le nom de la station Filles du Calvaire ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-nom-de-la-station-filles-du-calvaire-2982665.html)
 append_entries: 1
 Finish: 2024-06-10 12:38:50.020273
+------------------------------------------------------
+Started: 2024-06-11 01:16:57.843247
+Existing_entries: 137
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Soupçonnés d'une escroquerie à 4 millions d'euros sur internet, trois hommes mis en examen](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/soupconnes-d-une-escroquerie-a-4-millions-d-euros-sur-internet-trois-hommes-mis-en-examen-2984411.html)
+append_entries: 1
+Finish: 2024-06-11 01:16:59.734241

@@ -997,3 +997,12 @@ Summarized using GPT-3.5-turbo
 Append: [Assurance-chômage : ce texte que défendent les députés Liot face au tour de vis de l'exécutif](https://www.europe1.fr/economie/assurance-chomage-ce-texte-que-defendent-les-deputes-liot-face-au-tour-de-vis-de-lexecutif-4251817)
 append_entries: 3
 Finish: 2024-06-10 12:37:51.445606
+------------------------------------------------------
+Started: 2024-06-11 01:15:57.188095
+Existing_entries: 171
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi la dissolution de l'Assemblée nationale n'est pas sans conséquences sur le plan économique](https://www.europe1.fr/economie/pourquoi-la-dissolution-de-lassemblee-nationale-nest-pas-sans-consequences-sur-le-plan-economique-4252032)
+append_entries: 1
+Finish: 2024-06-11 01:15:59.602456

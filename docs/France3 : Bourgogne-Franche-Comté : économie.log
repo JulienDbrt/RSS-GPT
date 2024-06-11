@@ -906,3 +906,15 @@ Existing_entries: 146
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-10 12:38:51.116121
+------------------------------------------------------
+Started: 2024-06-11 01:17:03.298160
+Existing_entries: 146
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 361
+Summarized using GPT-3.5-turbo
+Append: [Dissolution de l'assemblée nationale : ils défilent contre le Rassemblement National et « la montée du fascisme »](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/dissolution-de-l-assemblee-nationale-un-rassemblement-contre-le-racisme-et-l-extreme-droite-2984612.html)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: ["Ça tombe vraiment mal" : un convoi de gens du voyage s'installe sur un terrain de rugby, juste avant le passage de la flamme olympique](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/ca-tombe-vraiment-mal-un-convoi-de-gens-du-voyage-s-installe-sur-un-terrain-de-rugby-juste-avant-le-passage-de-la-flamme-olympique-2984456.html)
+append_entries: 2
+Finish: 2024-06-11 01:17:08.479977
