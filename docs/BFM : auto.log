@@ -852,3 +852,12 @@ Summarized using GPT-3.5-turbo
 Append: [Prix du carburant: le gazole au plus bas depuis juillet dernier](https://www.bfmtv.com/auto/prix-du-carburant-le-gazole-au-plus-bas-depuis-juillet-dernier_AV-202406100652.html)
 append_entries: 1
 Finish: 2024-06-11 01:14:11.247582
+------------------------------------------------------
+Started: 2024-06-11 12:37:11.602752
+Existing_entries: 126
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Nouveau format d'adresse obligatoire: un changement à opérer sur la carte grise](https://www.bfmtv.com/auto/nouveau-format-d-adresse-obligatoire-un-changement-a-operer-sur-la-carte-grise_AV-202406110551.html)
+append_entries: 1
+Finish: 2024-06-11 12:37:16.915212

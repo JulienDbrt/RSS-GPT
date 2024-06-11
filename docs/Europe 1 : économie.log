@@ -1006,3 +1006,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pourquoi la dissolution de l'Assemblée nationale n'est pas sans conséquences sur le plan économique](https://www.europe1.fr/economie/pourquoi-la-dissolution-de-lassemblee-nationale-nest-pas-sans-consequences-sur-le-plan-economique-4252032)
 append_entries: 1
 Finish: 2024-06-11 01:15:59.602456
+------------------------------------------------------
+Started: 2024-06-11 12:39:03.933881
+Existing_entries: 172
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [Électricité : Le Maire s'engage à faire baisser de 10 à 15% la facture en février 2025](https://www.europe1.fr/economie/electricite-le-maire-sengage-a-faire-baisser-de-10-a-15-la-facture-en-fevrier-2025-4252095)
+Token length: 414
+Summarized using GPT-3.5-turbo
+Append: [Malgré la dissolution, le projet de décret réformant l’assurance-chômage sera bien promulgué](https://www.europe1.fr/economie/malgre-la-dissolution-le-projet-de-decret-reformant-lassurance-chomage-sera-bien-promulgue-4252072)
+append_entries: 2
+Finish: 2024-06-11 12:39:09.769167

@@ -830,3 +830,15 @@ Summarized using GPT-3.5-turbo
 Append: [Insolite. Les voitures grises, vertes et noires ont plus de kilomètres que les autres !](https://www.lalsace.fr/magazine-automobile/2024/06/10/les-voitures-grises-vertes-et-noires-ont-plus-de-kilometres-que-les-autres)
 append_entries: 1
 Finish: 2024-06-11 01:17:34.383138
+------------------------------------------------------
+Started: 2024-06-11 12:41:32.803674
+Existing_entries: 112
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Nouveautés auto. BMW série 1 M135 : la plus méchante des petites BMW](https://www.lalsace.fr/magazine-automobile/2024/06/11/bmw-serie-1-m135-la-plus-mechante-des-petites-bmw)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Automobile - Mobilités. Un vélo qui peut prendre l'autoroute ? Vigoz tente le pari](https://www.lalsace.fr/magazine-automobile/2024/06/11/un-velo-qui-peut-prendre-l-autoroute-vigoz-tente-le-pari)
+append_entries: 2
+Finish: 2024-06-11 12:41:40.870573

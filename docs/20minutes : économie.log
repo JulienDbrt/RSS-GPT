@@ -941,3 +941,15 @@ Summarized using GPT-3.5-turbo
 Append: [Francilien, cadre supérieur, homme... Le portrait-robot du Français riche réalisé par une association](https://www.20minutes.fr/economie/4095526-20240610-francilien-cadre-superieur-homme-portrait-robot-francais-riche-realise-association)
 append_entries: 1
 Finish: 2024-06-11 01:12:55.643278
+------------------------------------------------------
+Started: 2024-06-11 12:35:56.066036
+Existing_entries: 149
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Prix de l’électricité : Bruno Lemaire promet une baisse des tarifs de « 10 à 15 % »… pour début 2025](https://www.20minutes.fr/economie/4095672-20240611-electricite-bruno-lemaire-promet-baisse-tarifs-10-15-debut-2025)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Le conseil d’administration d’Atos choisit l’offre de Onepoint face à Daniel Kretinsky](https://www.20minutes.fr/economie/4095614-20240611-conseil-administration-atos-choisit-offre-onepoint-face-daniel-kretinsky)
+append_entries: 2
+Finish: 2024-06-11 12:36:04.144385

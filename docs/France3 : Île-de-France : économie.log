@@ -888,3 +888,12 @@ Summarized using GPT-3.5-turbo
 Append: [Soupçonnés d'une escroquerie à 4 millions d'euros sur internet, trois hommes mis en examen](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/soupconnes-d-une-escroquerie-a-4-millions-d-euros-sur-internet-trois-hommes-mis-en-examen-2984411.html)
 append_entries: 1
 Finish: 2024-06-11 01:16:59.734241
+------------------------------------------------------
+Started: 2024-06-11 12:40:49.177630
+Existing_entries: 138
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: ["L'extrême droite aux portes du pouvoir" : des milliers de personnes manifestent à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/l-extreme-droite-aux-portes-du-pouvoir-des-milliers-de-personnes-manifestent-a-paris-2984681.html)
+append_entries: 1
+Finish: 2024-06-11 12:40:53.475441

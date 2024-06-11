@@ -822,3 +822,9 @@ Summarized using GPT-3.5-turbo
 Append: [[VIDÉO] Coût estimé de 2 G$: Duhaime révise sa version d’un 3e lien passant par l’île d’Orléans](https://www.journaldemontreal.com/2024/06/11/cout-estime-de-2-g-duhaime-presente-sa-version-dun-3e-lien-passant-par-lile-dorleans)
 append_entries: 1
 Finish: 2024-06-11 01:17:29.134862
+------------------------------------------------------
+Started: 2024-06-11 12:41:30.989500
+Existing_entries: 106
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-11 12:41:31.330710

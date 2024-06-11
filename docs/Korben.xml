@@ -4,6 +4,75 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Devika – Votre ingénieur logiciel personnel</title>
+<link>https://korben.info/devika-ia-revolutionnaire-developpement-logiciel.html</link>
+<guid>https://korben.info/devika-ia-revolutionnaire-developpement-logiciel.html</guid>
+<content:encoded><![CDATA[
+<div> serve, git, open source, IA, code <br>
+<br>
+Summary: 
+Devika est un outil de développement avancé qui agit comme un pair programmer IA, capable de transformer des instructions en code fonctionnel. En étant open source, il rivalise avec des services populaires. Son IA avancée utilise le langage naturel pour interpréter les instructions, rechercher des informations pertinentes et générer du code dans le langage de programmation choisi. Son installation nécessite ollama, git et d'autres étapes. Devika peut s'améliorer grâce à des algorithmes d'apprentissage automatique et apprend de chaque interaction. Cependant, des questions persistent quant à la sécurité du code généré, son intégration dans les workflows existants et l'impact sur les développeurs traditionnels. Il est recommandé d'explorer le dépôt pour plus d'informations et de tester le projet en utilisant les clés API appropriées. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_A_personnal_coding_sexy_robot_-ar_169_211d944d-c2a0-4ce4-b569-a946e7298bb0.webp" width="1456" /></p>
+<p>Si vous voulez passer à la vitesse supérieur en terme de développement, voici un projet qui va vous intéresser. Cela s&rsquo;appelle <strong>Devika</strong> et c&rsquo;est un outil qui agit comme un véritable pair programmer, c&rsquo;est à dire un « collègue » IA capable de comprendre des instructions complexes en langage naturel, de les décomposer en étapes, de rechercher les informations pertinentes et de générer du code fonctionnel pour atteindre l&rsquo;objectif. Cela vient directement concurrencer le service <a href="https://devinai.ai/" rel="noopener" target="_blank">Devin</a> qui a buzzé y&rsquo;a quelques temps sauf que c&rsquo;est totalement open source.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1993804319" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Grâce à ses capacités avancées de traitement du langage naturel, cette « IA » peut interpréter vos instructions de haut niveau et les transformer en un plan d&rsquo;action concret. Une fois le plan établi, elle se met au travail et utilise ses connaissances en programmation et ses capacités de recherche web pour trouver les informations dont elle a besoin pour mener à bien votre projet : Snippets de code, exemples de bonnes pratiques ou explications détaillées&#8230; A partir de ça, elle peut alors générer du code dans le langage de programmation de votre choix.</p>
+
+
+
+<p>Pour l&rsquo;installer, il vous faudra ollama, uv, bun et suivre le tuto suivant : </p>
+
+
+
+<pre class="wp-block-code"><code>ollama serve
+git clone https://github.com/stitionai/devika.git
+cd devika/
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+playwright install --with-deps
+cd ui/
+bun install
+bun run dev</code></pre>
+
+
+
+<p>Puis en parallèle : </p>
+
+
+
+<pre class="wp-block-code"><code>python3 devika.py</code></pre>
+
+
+
+<p>Vous devrez ensuite vous connecter à http://localhost:3000/ et remplir toutes les clés API, de votre clé OpenAI, en passant par votre clé API Google / Bing&#8230;etc. Et ensuite vous pourrez commencer à bosser les agents de Devika.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158358" height="567" src="https://korben.info/app/uploads/2024/04/SCR-20240404-kh3-1024x567.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1158096319" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>L&rsquo;un des aspects les plus impressionnants de Devika, c&rsquo;est sa capacité à s&rsquo;améliorer constamment grâce notamment à ses algorithmes d&rsquo;apprentissage automatique. Elle apprend de chaque interaction avec les développeurs et de chaque projet sur lequel elle travaille, ainsi, plus elle est utilisée, plus elle devient efficace.</p>
+
+
+
+<p>Bien sûr, comme toute technologie émergente, c&rsquo;est pas encore parfait et surtout, ça soulève des questions : Comment s&rsquo;assurer que le code généré par l&rsquo;IA est sécurisé et sans bugs ? Comment l&rsquo;intégrer dans des workflows de développement existants ? Est-ce qu&rsquo;il faut licencier les développeurs qui passent plus de temps sur le site de Korben qu&rsquo;à bosser ? Des questions existentielles, comme vous pouvez le voir&#8230;</p>
+
+
+
+<p>Si vous êtes intéressé par ce projet et que vous souhaitez l&rsquo;essayer par vous-même, rendez-vous sur le dépôt <a href="https://github.com/stitionai/devika" rel="noopener" target="_blank">GitHub du projet</a>. </p>
+
+
+
+<p>Merci à Emrik pour le partage !</p>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Myth Maker AI – Plongez dans des récits interactifs époustouflants</title>

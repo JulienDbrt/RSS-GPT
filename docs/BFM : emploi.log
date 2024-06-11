@@ -666,3 +666,18 @@ Existing_entries: 64
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-06-11 01:14:23.208521
+------------------------------------------------------
+Started: 2024-06-11 12:37:22.395461
+Existing_entries: 64
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage: l'Unédic estime que la réforme générera jusqu'à 5,4 milliards d'euros d'économies par an](https://www.bfmtv.com/economie/emploi/assurance-chomage-l-unedic-estime-que-la-reforme-generera-jusqu-a-5-4-milliards-d-euros-d-economies-par-an_AD-202406110565.html)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage: Bruno le Maire défend la réforme mais renvoie la décision à Macron et au Premier ministre](https://www.bfmtv.com/economie/emploi/assurance-chomage-bruno-le-maire-defend-la-reforme-mais-renvoie-la-decision-a-macron-et-au-premier-ministre_AD-202406110338.html)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Pour François Hommeril (CFE-CGC), "on doit dissoudre" le décret de la réforme de l'assurance chômage](https://www.bfmtv.com/economie/emploi/pour-francois-hommeril-cfe-cgc-on-doit-dissoudre-le-decret-de-la-reforme-de-l-assurance-chomage_AV-202406110320.html)
+append_entries: 3
+Finish: 2024-06-11 12:37:32.143354

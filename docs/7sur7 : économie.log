@@ -1008,3 +1008,15 @@ Summarized using GPT-3.5-turbo
 Append: [La RTBF grande gagnante de la soirée électorale en termes d'audience](https://www.7sur7.be/economie/la-rtbf-grande-gagnante-de-la-soiree-electorale-en-termes-d-audience~a4de408c/)
 append_entries: 2
 Finish: 2024-06-11 01:13:04.156138
+------------------------------------------------------
+Started: 2024-06-11 12:36:04.243261
+Existing_entries: 178
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [La Belgique lève un peu plus d’un milliard d’euros à court terme](https://www.7sur7.be/economie/la-belgique-leve-un-peu-plus-dun-milliard-deuros-a-court-terme~a3160471/)
+Token length: 382
+Summarized using GPT-3.5-turbo
+Append: [L’impact des résultats des élections sur votre portefeuille: sur quoi le MR et la N-VA veulent-ils faire des économies?](https://www.7sur7.be/economie/limpact-des-resultats-des-elections-sur-votre-portefeuille-sur-quoi-le-mr-et-la-n-va-veulent-ils-faire-des-economies~a6b508d4/)
+append_entries: 2
+Finish: 2024-06-11 12:36:12.130146
