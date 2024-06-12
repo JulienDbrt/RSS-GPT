@@ -897,3 +897,12 @@ Summarized using GPT-3.5-turbo
 Append: ["L'extrême droite aux portes du pouvoir" : des milliers de personnes manifestent à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/l-extreme-droite-aux-portes-du-pouvoir-des-milliers-de-personnes-manifestent-a-paris-2984681.html)
 append_entries: 1
 Finish: 2024-06-11 12:40:53.475441
+------------------------------------------------------
+Started: 2024-06-12 01:17:20.487908
+Existing_entries: 139
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Loyers trop chers, population vieillissante : le 6e arrondissement de Paris, un futur désert médical ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/loyers-trop-chers-population-vieillissante-le-6e-arrondissement-de-paris-un-futur-desert-medical-2985272.html)
+append_entries: 1
+Finish: 2024-06-12 01:17:22.325092

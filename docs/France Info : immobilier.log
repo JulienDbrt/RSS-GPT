@@ -728,3 +728,12 @@ Existing_entries: 76
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-06-11 12:40:02.083949
+------------------------------------------------------
+Started: 2024-06-12 01:16:42.273215
+Existing_entries: 76
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Immobilier à Avignon : les prix baissent](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-a-avignon-les-prix-baissent_6598011.html)
+append_entries: 1
+Finish: 2024-06-12 01:16:44.843027

@@ -1084,3 +1084,12 @@ Summarized using GPT-3.5-turbo
 Append: [Carcassonne. Dix jeunes de l’Agglo bénéficient d’une aide pour passer leur permis](https://www.ladepeche.fr/2024/06/11/dix-jeunes-de-lagglo-beneficient-dune-aide-pour-passer-leur-permis-12007821.php)
 append_entries: 4
 Finish: 2024-06-11 12:43:44.580188
+------------------------------------------------------
+Started: 2024-06-12 01:19:16.401650
+Existing_entries: 198
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : les syndicats enseignants et les associations de parents d’élèves boycottent le conseil départemental de l’éducation nationale](https://www.ladepeche.fr/2024/06/11/toulouse-les-syndicats-enseignants-et-les-associations-de-parents-deleves-boycottent-le-conseil-departemental-de-leducation-nationale-12009529.php)
+append_entries: 1
+Finish: 2024-06-12 01:19:20.714201

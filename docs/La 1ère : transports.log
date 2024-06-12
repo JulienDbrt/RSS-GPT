@@ -925,3 +925,12 @@ Summarized using GPT-3.5-turbo
 Append: [Flamme olympique à La Réunion : tout savoir sur les horaires, les villes de passage et les perturbations à prévoir](https://la1ere.francetvinfo.fr/reunion/flamme-olympique-a-la-reunion-tout-savoir-sur-les-horaires-les-villes-de-passage-et-les-perturbations-a-prevoir-1495934.html)
 append_entries: 1
 Finish: 2024-06-11 12:42:34.587659
+------------------------------------------------------
+Started: 2024-06-12 01:18:27.117565
+Existing_entries: 135
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 30
+Summarized using GPT-3.5-turbo
+Append: [Un vol d'Air Caraïbes en direction de Pointe-à-Pitre dérouté en urgence aux Açores](https://la1ere.francetvinfo.fr/guadeloupe/un-vol-d-air-caraibes-en-direction-de-pointe-a-pitre-deroute-en-urgence-aux-acores-1496108.html)
+append_entries: 1
+Finish: 2024-06-12 01:18:29.597245
