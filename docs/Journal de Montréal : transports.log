@@ -849,3 +849,9 @@ Summarized using GPT-3.5-turbo
 Append: [Transport collectif à Québec: un tramway au gabarit réduit et des phases subséquentes vers les banlieues](https://www.journaldemontreal.com/2024/06/10/un-tramway-au-gabarit-reduit-et-des-phases-subsequentes-vers-les-banlieues)
 append_entries: 5
 Finish: 2024-06-12 01:17:54.736764
+------------------------------------------------------
+Started: 2024-06-12 12:41:30.629195
+Existing_entries: 111
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-12 12:41:30.750996

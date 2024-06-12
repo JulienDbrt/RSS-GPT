@@ -1645,3 +1645,15 @@ Summarized using GPT-3.5-turbo
 Append: [L'Australie bannit l'utilisation de cartes de crédit et de crypto-monnaies pour les paris en ligne](https://www.begeek.fr/laustralie-bannit-lutilisation-de-cartes-de-credit-et-de-crypto-monnaies-pour-les-paris-en-ligne-398826)
 append_entries: 2
 Finish: 2024-06-12 01:09:59.321152
+------------------------------------------------------
+Started: 2024-06-12 12:30:53.895504
+Existing_entries: 391
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Des bitcoins minés avec un EPR pour chauffer des Finlandais](https://investir.lesechos.fr/marches-indices/bitcoin-cryptomonnaies/des-bitcoins-mines-avec-un-epr-pour-chauffer-des-finlandais-2100890)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Comment les escrocs utilisent l'IA et les deepfakes pour voler vos cryptos-actifs](https://www.bfmtv.com/crypto/comment-les-escrocs-utilisent-l-ia-et-les-deepfakes-pour-voler-vos-cryptos-actifs_AV-202406120551.html)
+append_entries: 2
+Finish: 2024-06-12 12:31:05.265319

@@ -687,3 +687,18 @@ Existing_entries: 67
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-06-12 01:14:21.726592
+------------------------------------------------------
+Started: 2024-06-12 12:36:53.162985
+Existing_entries: 67
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage: Emmanuel Macron "assume" une réforme "importante pour le pays"](https://www.bfmtv.com/economie/emploi/assurance-chomage-emmanuel-macron-assume-une-reforme-importante-pour-le-pays_AV-202406120488.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [La lettre de motivation est-elle encore utile ?](https://www.bfmtv.com/economie/emploi/la-lettre-de-motivation-est-elle-encore-utile_VN-202406120477.html)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage: la CFDT appelle "solennellement" le gouvernement à ne pas publier les décrets](https://www.bfmtv.com/economie/emploi/assurance-chomage-la-cfdt-appelle-solennellement-le-gouvernement-a-ne-pas-publier-les-decrets_AV-202406120249.html)
+append_entries: 3
+Finish: 2024-06-12 12:37:07.852105

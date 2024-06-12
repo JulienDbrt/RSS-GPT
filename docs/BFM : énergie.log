@@ -717,3 +717,21 @@ Existing_entries: 77
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-06-12 01:14:13.357360
+------------------------------------------------------
+Started: 2024-06-12 12:36:04.341852
+Existing_entries: 77
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire: Emmanuel Macron confirme vouloir "huit nouveaux réacteurs"](https://www.bfmtv.com/economie/entreprises/energie/nucleaire-emmanuel-macron-confirme-vouloir-huit-nouveaux-reacteurs_AN-202406120421.html)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Arrêt du gaz russe: l'allemand Uniper va pouvoir réclamer des milliards à Gazprom](https://www.bfmtv.com/economie/entreprises/energie/arret-du-gaz-russe-l-allemand-uniper-va-pouvoir-reclamer-des-milliards-a-gazprom_AD-202406120353.html)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [Vers un "excédent majeur"? Pourquoi le prix du pétrole devrait chuter à l'avenir](https://www.bfmtv.com/economie/entreprises/energie/vers-un-excedent-majeur-pourquoi-le-prix-du-petrole-devrait-chuter-a-l-avenir_AD-202406120349.html)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Hydrogène vert: des usines ouvrent en France, mais l'incertitude politique pèse](https://www.bfmtv.com/economie/entreprises/energie/hydrogene-vert-des-usines-ouvrent-en-france-mais-l-incertitude-politique-pese_AD-202406120291.html)
+append_entries: 4
+Finish: 2024-06-12 12:36:22.043198

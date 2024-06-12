@@ -1973,3 +1973,21 @@ Summarized using GPT-3.5-turbo
 Append: [Voici le genre d'appartement qu'on peut s'offrir à Caen avec 690 000 euros, en 2024](https://actu.fr/economie/voici-le-genre-dappartement-quon-peut-soffrir-a-caen-avec-690-000-euros-en-2024_61190331.html)
 append_entries: 4
 Finish: 2024-06-12 01:11:21.090498
+------------------------------------------------------
+Started: 2024-06-12 12:32:38.651917
+Existing_entries: 591
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Retraite : Emmanuel Macron promet finalement de revaloriser les pensions sur l’inflation](https://www.capital.fr/votre-retraite/retraite-emmanuel-macron-promet-finalement-de-revaloriser-les-pensions-sur-linflation-1498128)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Immobilier en Gironde : les prix grimpent sur le littoral du Médoc](https://www.sudouest.fr/economie/immobilier/immobilier-en-gironde/immobilier-en-gironde-les-prix-grimpent-sur-le-littoral-du-medoc-19642367.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [«Un espoir pour les victimes de squats»: deux propriétaires et un squatteur condamnés pour avoir expulsé des locataires](https://immobilier.lefigaro.fr/article/un-espoir-pour-les-victimes-de-squats-deux-proprietaires-et-un-squatteur-condamnes-pour-avoir-expulse-des-locataires_51176132-2809-11ef-ba57-bd6005d30234/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [«C’est le moment d’aller tester son banquier» : quand le gouverneur de la Banque de France encourage les Français à réaliser leur projet immobilier](https://www.lefigaro.fr/conjoncture/c-est-le-moment-d-aller-tester-son-banquier-quand-le-gouverneur-de-la-banque-de-france-encourage-les-francais-a-realiser-leur-projet-immobilier-20240612)
+append_entries: 4
+Finish: 2024-06-12 12:32:58.245534

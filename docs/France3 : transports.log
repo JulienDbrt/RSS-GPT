@@ -1815,3 +1815,24 @@ Summarized using GPT-3.5-turbo
 Append: [Plus les voitures sont grosses et plus c'est cher, nouveaux tarifs du stationnement à Lyon](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/plus-les-voitures-sont-grosses-et-plus-c-est-cher-nouveaux-tarifs-du-stationnement-a-lyon-2984960.html)
 append_entries: 2
 Finish: 2024-06-12 01:17:37.730882
+------------------------------------------------------
+Started: 2024-06-12 12:41:08.439266
+Existing_entries: 444
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : les stations de métro Champs-Elysées Clémenceau, Concorde et Tuileries fermées moins longtemps que prévu](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-stations-de-metro-champs-elysees-clemenceau-concorde-et-tuileries-fermees-moins-longtemps-que-prevu-2985740.html)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: ["La voile va se développer dans les années à venir comme moyen de transport" : Isabelle, un bateau écologique destiné au transport de passagers](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/la-voile-va-se-developper-dans-les-annees-a-venir-comme-moyen-de-transport-isabelle-un-bateau-ecologique-destine-au-transport-de-passagers-2985632.html)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [Excès de vitesse : ce jeune conducteur de 17 ans roulait à 183 km/h au lieu de 80 sur une route départementale](https://france3-regions.francetvinfo.fr/grand-est/marne/exces-de-vitesse-ce-jeune-conducteur-roulait-a-183-km-h-au-lieu-de-80-sur-une-route-departementale-2985506.html)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Un bus gaz prend feu au pied d'un important centre de cancérologie](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/un-bus-prend-feu-en-pleine-ville-pres-d-un-campus-de-cancerologie-2985449.html)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [Autoroute A13 : réouverture complète envisagée fin juin](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/autoroute-a13-reouverture-complete-envisagee-fin-juin-2985443.html)
+append_entries: 5
+Finish: 2024-06-12 12:41:30.210509

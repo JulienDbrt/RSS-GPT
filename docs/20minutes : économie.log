@@ -965,3 +965,18 @@ Summarized using GPT-3.5-turbo
 Append: [Le Sénégal fait désormais partie des pays producteurs d’hydrocarbures](https://www.20minutes.fr/economie/4095661-20240611-senegal-fait-desormais-partie-pays-producteurs-hydrocarbures)
 append_entries: 2
 Finish: 2024-06-12 01:13:33.502826
+------------------------------------------------------
+Started: 2024-06-12 12:34:56.312127
+Existing_entries: 153
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [BeReal : Voodoo a acheté pour 500 millions d’euros le réseau social anti-Instagram](https://www.20minutes.fr/economie/4095868-20240612-bereal-voodoo-achete-500-millions-euros-reseau-social-anti-instagram)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [G7 en Italie : C’est quoi cette histoire de policiers « entassés comme des rats » sur un navire de croisière ?](https://www.20minutes.fr/economie/4095811-20240612-g7-italie-quoi-histoire-policiers-entasses-comme-rats-navire-croisiere)
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [Boeing n’a engrangé que trois commandes d’avions en mai](https://www.20minutes.fr/economie/4095803-20240612-boeing-engrange-trois-miserables-commandes-mai)
+append_entries: 3
+Finish: 2024-06-12 12:35:08.587359

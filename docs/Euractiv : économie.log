@@ -761,3 +761,18 @@ Existing_entries: 105
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-06-12 01:15:51.878553
+------------------------------------------------------
+Started: 2024-06-12 12:38:57.629378
+Existing_entries: 105
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Véhicules électriques chinois : la Commission européenne annonce des droits de douane allant jusqu’à 38 %](https://www.euractiv.fr/section/economie/news/vehicules-electriques-chinois-la-commission-europeenne-annonce-des-droits-de-douane-allant-jusqua-38/)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Véhicules électriques : la Chambre de commerce chinoise met en garde contre les droits de douane](https://www.euractiv.fr/section/economie/news/vehicules-electriques-la-chambre-de-commerce-chinoise-met-en-garde-contre-les-droits-de-douane/)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [L’Ukraine exhorte les entreprises à ne pas attendre la fin de la guerre pour investir](https://www.euractiv.fr/section/ukraine/news/lukraine-exhorte-les-entreprises-a-ne-pas-attendre-la-fin-de-la-guerre-pour-investir/)
+append_entries: 3
+Finish: 2024-06-12 12:39:10.744987

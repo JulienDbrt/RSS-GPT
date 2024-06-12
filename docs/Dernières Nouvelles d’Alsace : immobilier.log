@@ -722,3 +722,9 @@ Summarized using GPT-3.5-turbo
 Append: [Achat. Le pouvoir d'achat immobilier des Français continue de chuter... Que faire ?](https://www.dna.fr/magazine-immobilier/2024/06/11/le-pouvoir-d-achat-immobilier-des-francais-continue-de-chuter-que-faire)
 append_entries: 1
 Finish: 2024-06-12 01:15:47.916350
+------------------------------------------------------
+Started: 2024-06-12 12:38:55.633096
+Existing_entries: 72
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-06-12 12:38:56.676222

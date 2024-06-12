@@ -1027,3 +1027,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le rachat de Cora et Match par Carrefour effectif dès le 1er juillet](https://www.europe1.fr/economie/le-rachat-de-cora-et-match-par-carrefour-effectif-des-le-1er-juillet-4252216)
 append_entries: 1
 Finish: 2024-06-12 01:15:58.298401
+------------------------------------------------------
+Started: 2024-06-12 12:39:11.944800
+Existing_entries: 175
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 374
+Summarized using GPT-3.5-turbo
+Append: [Annuler la hausse de prix du gaz : la mesure phare du RN est-elle un mirage ?](https://www.europe1.fr/economie/annuler-la-hausse-de-prix-du-gaz-la-mesure-phare-du-rn-est-elle-un-mirage-4252246)
+append_entries: 1
+Finish: 2024-06-12 12:39:15.816431

@@ -801,3 +801,18 @@ Existing_entries: 105
 Fetching from https://www.bfmtv.com/rss/economie/consommation/
 append_entries: 0
 Finish: 2024-06-12 01:14:14.387035
+------------------------------------------------------
+Started: 2024-06-12 12:36:33.860439
+Existing_entries: 105
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été: les Français dépenseront 2.102 euros par foyer](https://www.bfmtv.com/economie/consommation/vacances-d-ete-les-francais-depenseront-2-102-euros-par-foyer_AD-202406120075.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: ["Place de marché", QR code, prix… On a visité le nouveau concept de magasin Monoprix](https://www.bfmtv.com/economie/consommation/place-de-marche-qr-code-prix-on-a-visite-le-nouveau-monoprix_AN-202406120062.html)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Vêtements, chaussures... pour s'habiller les Français privilégient les prix très bas](https://www.bfmtv.com/economie/consommation/vetements-chaussures-pour-s-habiller-les-francais-privilegient-les-prix-tres-bas_AV-202406120056.html)
+append_entries: 3
+Finish: 2024-06-12 12:36:41.997506

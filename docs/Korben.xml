@@ -4,6 +4,55 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>RaspRover – Le kit robot 4×4 pour Raspberry Pi 4 et 5</title>
+<link>https://korben.info/rasprover-kit-robot-4x4-ia-open-source-raspberry-pi-4-5.html</link>
+<guid>https://korben.info/rasprover-kit-robot-4x4-ia-open-source-raspberry-pi-4-5.html</guid>
+<content:encoded><![CDATA[
+<div> Raspberry Pi, robotique, intelligence artificielle, capteurs, open source <br>
+<br>
+Le kit RaspRover est idéal pour les débutants en robotique et intelligence artificielle. Il comprend un petit robot 4×4 avec un Raspberry Pi intégré pour la programmation. Facile à prendre en main, il dispose d'un double contrôleur pour des actions précises et fluides. Équipé d'une caméra grand angle et de capteurs variés, il peut détecter, suivre et interagir avec son environnement. Son architecture modulaire lui permet d'accueillir divers accessoires pour s'adapter à différents scénarios. Fonctionnant en open source, son code peut être personnalisé et enrichi. Grâce au protocole ESP-NOW, plusieurs RaspRover peuvent collaborer ensemble. Un Wiki est disponible pour faciliter l'apprentissage et la programmation du robot. Summary: <br> <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="423" src="https://korben.info/app/uploads/2024/04/SCR-20240404-mrm.webp" width="947" /></p>
+<p>Vous rêvez de vous initier au<strong> monde de la robotique et de l&rsquo;intelligence artificielle</strong> ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1286776687" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ca tombe bien puisque ce kit <strong><a href="https://www.waveshare.com/rasprover.htm" rel="noopener" target="_blank">RaspRover</a></strong> va vous permettre de réaliser ce doux rêve ! Ce petit robot 4&#215;4 hyper versatile est le compagnon idéal pour partir à l&rsquo;aventure car il embarque un <strong>Raspberry Pi</strong> dernière génération (modèles 4 ou 5) ce qui va vous permettre de laisser libre cours à votre créativité en le programmant vous-même.  </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158383" height="760" src="https://korben.info/app/uploads/2024/04/RaspRover-details-11.jpg" width="960" /></figure></div>
+
+
+<p>Et pas besoin d&rsquo;être un crack en informatique pour dompter ce robot puisque tout est pensé pour faciliter sa prise en main. En effet, sous le capot, vous trouverez un <strong>double contrôleur</strong> avec d&rsquo;un côté le Raspberry Pi qui gère les fonctions IA de haut niveau pendant que de l&rsquo;autre, un microcontrôleur se charge des opérations basiques à haute fréquence. Comme ça, chaque action que vous lui demandez est précise et fluide.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158380" height="450" src="https://korben.info/app/uploads/2024/04/Pan-tilt-pi4b.webp" width="600" /></figure></div>
+
+
+<p>Côté perception, le RaspRover a du flair grâce à sa <strong>caméra mobile grand angle</strong> qui lui offre une vision périphérique à 160°. Couplée à <strong>l&rsquo;IA de reconnaissance d&rsquo;images</strong> de OpenCV, cette caméra détecte et piste les visages ou les objets. Bref, de quoi lui permettre d&rsquo;interagir avec son environnement sans souci.</p>
+
+
+
+<p>Et ce n&rsquo;est pas tout puisqu&rsquo;il dispose d&rsquo;une panoplie de capteurs (IMU 9 axes, télémètre laser…) qui décuplent ses talents : cartographie, évitement d&rsquo;obstacles, localisation précise… et son <strong>architecture modulaire</strong> et ses nombreuses interfaces (GPIO, USB, I2C, UART…) lui permettent d&rsquo;accueillir une foule d&rsquo;accessoires : bras robotique, capteurs environnementaux, module 4G/5G&#8230; De quoi l&rsquo;adapter à une infinité de scénarios comme de l&rsquo;agriculture de précision, l&rsquo;inspection de sites industriels, de la télé-surveillance, pour l&rsquo;éducation, la recherche… </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158384" height="1607" src="https://korben.info/app/uploads/2024/04/RaspRover-details-3.webp" style="width: 600px; height: auto;" width="960" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1514920574" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et bien sûr, il carbure à l&rsquo;open source ce qui veut dire que vous pouvez <strong>personnaliser son code</strong> et ajouter vos propres fonctionnalités. De plus, grâce au protocole <strong>ESP-NOW</strong>, plusieurs RaspRover peuvent même communiquer et collaborer entre eux ! Imaginez l&rsquo;escouade de robots que vous allez pouvoir programmer avec ce truc.</p>
+
+
+
+<p>Si ça vous dit, y&rsquo;a un super Wiki qui vous explique <a href="https://www.waveshare.com/wiki/RaspRover" rel="noopener" target="_blank">comment monter et programmer tout ça</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Devika – Votre ingénieur logiciel personnel</title>

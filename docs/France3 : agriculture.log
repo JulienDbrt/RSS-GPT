@@ -1494,3 +1494,12 @@ Existing_entries: 336
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-06-12 01:17:23.042850
+------------------------------------------------------
+Started: 2024-06-12 12:41:00.351136
+Existing_entries: 336
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [Agriculteur en colère, travailleur acharné, qui est Rémi Dumaure, le nouveau président de la Coordination rurale de Dordogne ?](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/agriculteur-en-colere-travailleur-acharne-qui-est-remi-dumaure-le-nouveau-president-de-la-coordination-rurale-de-dordogne-2984732.html)
+append_entries: 1
+Finish: 2024-06-12 12:41:04.747688

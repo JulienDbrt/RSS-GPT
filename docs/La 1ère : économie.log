@@ -2062,3 +2062,24 @@ Summarized using GPT-3.5-turbo
 Append: [Décès de Monique Walsh : le monde associatif, économique et artisanal perd une personnalité engagée](https://la1ere.francetvinfo.fr/saintpierremiquelon/deces-de-monique-walsh-le-monde-associatif-economique-et-artisanal-perd-une-personnalite-engagee-1495970.html)
 append_entries: 2
 Finish: 2024-06-12 01:18:26.930539
+------------------------------------------------------
+Started: 2024-06-12 12:42:05.948665
+Existing_entries: 512
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Crise de la vanille : une production en baisse](https://la1ere.francetvinfo.fr/guadeloupe/crise-de-la-vanille-une-production-en-baisse-1495985.html)
+Token length: 50
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. Crise en Nouvelle-Calédonie: la filière crevettes redémarre dans le pays](https://la1ere.francetvinfo.fr/nouvellecaledonie/video-crise-en-nouvelle-caledonie-la-filiere-crevettes-redemarre-dans-le-pays-1496225.html)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Syndicat des eaux de Mayotte : deux entrepreneurs condamnés à Paris pour recel de favoritisme](https://la1ere.francetvinfo.fr/syndicat-des-eaux-de-mayotte-deux-entrepreneurs-condamnes-a-paris-pour-recel-de-favoritisme-1496219.html)
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [Maurice : le premier ministre boude Air Mauritius](https://la1ere.francetvinfo.fr/mayotte/maurice-le-premier-ministre-boude-air-mauritius-1496222.html)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [Trois containers de dons à destination de la Nouvelle-Calédonie quittent la Polynésie](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/3-containers-de-dons-a-destination-de-la-nouvelle-caledonie-quittent-la-polynesie-1496144.html)
+append_entries: 5
+Finish: 2024-06-12 12:42:25.404127

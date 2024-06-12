@@ -1093,3 +1093,15 @@ Summarized using GPT-3.5-turbo
 Append: [Toulouse : les syndicats enseignants et les associations de parents d’élèves boycottent le conseil départemental de l’éducation nationale](https://www.ladepeche.fr/2024/06/11/toulouse-les-syndicats-enseignants-et-les-associations-de-parents-deleves-boycottent-le-conseil-departemental-de-leducation-nationale-12009529.php)
 append_entries: 1
 Finish: 2024-06-12 01:19:20.714201
+------------------------------------------------------
+Started: 2024-06-12 12:43:43.243466
+Existing_entries: 199
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Saint-Girons. Le champ de mars  fait "le TAF"](https://www.ladepeche.fr/2024/06/12/le-champ-de-mars-fait-le-taf-12010697.php)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/06/12/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12010456.php)
+append_entries: 2
+Finish: 2024-06-12 12:43:50.973470
