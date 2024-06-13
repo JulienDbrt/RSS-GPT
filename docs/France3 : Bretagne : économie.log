@@ -768,3 +768,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Les 89 emplois seront préservés". Un groupe américain devrait reprendre les parfums Yves Rocher de Ploërmel](https://france3-regions.francetvinfo.fr/bretagne/morbihan/les-89-emplois-seront-preserves-un-groupe-americain-devrait-reprendre-les-parfums-yves-rocher-de-ploermel-2985701.html)
 append_entries: 1
 Finish: 2024-06-12 12:41:07.514823
+------------------------------------------------------
+Started: 2024-06-13 01:17:11.287784
+Existing_entries: 92
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-13 01:17:11.677162

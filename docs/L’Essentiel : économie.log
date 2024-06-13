@@ -1054,3 +1054,15 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: Le taux d'intérêt sur les crédits à la consommation en forte hausse](https://www.lessentiel.lu/fr/story/au-luxembourg-le-taux-dinteret-sur-les-credits-a-la-consommation-en-forte-hausse-103124894)
 append_entries: 4
 Finish: 2024-06-12 12:41:55.794528
+------------------------------------------------------
+Started: 2024-06-13 01:17:52.914782
+Existing_entries: 234
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: Bientôt une prime de 1500 euros pour les voitures électriques d'occasion](https://www.lessentiel.lu/fr/story/au-luxembourg-bientot-une-prime-de-1500-euros-pour-les-voitures-electriques-doccasion-103125712)
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Analyse: Le Luxembourg dépense-t-il trop et/ou mal?](https://www.lessentiel.lu/fr/story/analyse-le-luxembourg-depense-t-il-trop-etou-mal-103125638)
+append_entries: 2
+Finish: 2024-06-13 01:18:00.161383

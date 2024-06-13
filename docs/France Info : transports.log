@@ -1082,3 +1082,12 @@ Summarized using GPT-3.5-turbo
 Append: [Seulement 36% des 18-34 ans considèrent la voiture électrique comme la voiture de l’avenir, selon un sondage](https://www.francetvinfo.fr/economie/transports/seulement-36-des-18-34-ans-considerent-la-voiture-electrique-comme-la-voiture-de-l-avenir-selon-un-sondage_6598518.html)
 append_entries: 1
 Finish: 2024-06-12 12:39:58.353518
+------------------------------------------------------
+Started: 2024-06-13 01:16:11.925703
+Existing_entries: 190
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [SNCF Voyageurs va ouvrir des liaisons intérieures en Italie en 2026](https://www.francetvinfo.fr/economie/transports/sncf/sncf-voyageurs-va-ouvrir-des-liaisons-interieures-en-italie-en-2026_6599790.html)
+append_entries: 1
+Finish: 2024-06-13 01:16:13.147542

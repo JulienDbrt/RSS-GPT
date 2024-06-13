@@ -980,3 +980,18 @@ Summarized using GPT-3.5-turbo
 Append: [Boeing n’a engrangé que trois commandes d’avions en mai](https://www.20minutes.fr/economie/4095803-20240612-boeing-engrange-trois-miserables-commandes-mai)
 append_entries: 3
 Finish: 2024-06-12 12:35:08.587359
+------------------------------------------------------
+Started: 2024-06-13 01:12:43.725590
+Existing_entries: 156
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière : Grâce à l’IA, le fisc a repéré 140.000 piscines non déclarées en 2023](https://www.20minutes.fr/economie/4095936-20240612-taxe-fonciere-grace-ia-fisc-repere-140-000-piscines-non-declarees-2023)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Hôtellerie : « La cadence de travail est énorme »… Le ras-le-bol des femmes de ménage d’un établissement de luxe](https://www.20minutes.fr/societe/greve/4095933-20240612-marseille-cadence-travail-enorme-ras-bol-femmes-menage-hotel-luxe)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [Nice-Matin rachète Bestimage, l’agence de paparazzi de la sulfureuse Mimi Marchand](https://www.20minutes.fr/arts-stars/medias/4095913-20240612-nice-matin-rachete-bestimage-agence-paparazzi-sulfureuse-mimi-marchand)
+append_entries: 3
+Finish: 2024-06-13 01:12:53.331092

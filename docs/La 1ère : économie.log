@@ -2083,3 +2083,18 @@ Summarized using GPT-3.5-turbo
 Append: [Trois containers de dons à destination de la Nouvelle-Calédonie quittent la Polynésie](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/3-containers-de-dons-a-destination-de-la-nouvelle-caledonie-quittent-la-polynesie-1496144.html)
 append_entries: 5
 Finish: 2024-06-12 12:42:25.404127
+------------------------------------------------------
+Started: 2024-06-13 01:18:06.742862
+Existing_entries: 517
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [Émeutes en Nouvelle-Calédonie : retour sur dix faits marquants depuis le début de la crise](https://la1ere.francetvinfo.fr/nouvellecaledonie/emeutes-en-nouvelle-caledonie-retour-sur-dix-faits-marquants-depuis-le-debut-de-la-crise-1496141.html)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [Case-Pilote accueille un nouveau supermarché et un village médical](https://la1ere.francetvinfo.fr/martinique/case-pilote-accueille-un-nouveau-supermarche-et-un-village-medical-1496396.html)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Première édition des "Escales Pros", pour la promotion du tourisme durable au nord de Martinique](https://la1ere.francetvinfo.fr/martinique/premiere-edition-des-escales-pros-pour-la-promotion-du-tourisme-durable-au-nord-de-martinique-1496132.html)
+append_entries: 3
+Finish: 2024-06-13 01:18:17.853949

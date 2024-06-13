@@ -1105,3 +1105,12 @@ Summarized using GPT-3.5-turbo
 Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/06/12/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12010456.php)
 append_entries: 2
 Finish: 2024-06-12 12:43:50.973470
+------------------------------------------------------
+Started: 2024-06-13 01:19:07.896646
+Existing_entries: 201
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Armée, agriculture, restauration… les entreprises de Castelsarrasin cherchent à recruter les demandeurs d’emploi avec l’opération Place du TAF](https://www.ladepeche.fr/2024/06/12/armee-agriculture-restauration-les-entreprises-de-castelsarrasin-cherchent-a-recruter-les-demandeurs-demploi-avec-loperation-place-du-taf-12012133.php)
+append_entries: 1
+Finish: 2024-06-13 01:19:11.595288

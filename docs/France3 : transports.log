@@ -1836,3 +1836,18 @@ Summarized using GPT-3.5-turbo
 Append: [Autoroute A13 : réouverture complète envisagée fin juin](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/autoroute-a13-reouverture-complete-envisagee-fin-juin-2985443.html)
 append_entries: 5
 Finish: 2024-06-12 12:41:30.210509
+------------------------------------------------------
+Started: 2024-06-13 01:17:17.425807
+Existing_entries: 449
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. "C'est la folie tous les jours, ça m'épuise" : embouteillages monstres au carrefour et riverains à bout de nerfs à Besançon](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/video-c-est-la-folie-tous-les-jours-ca-m-epuise-embouteillages-monstres-au-carrefour-et-riverains-a-bout-de-nerfs-a-besancon-2985023.html)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [Des étudiants pour conduire les tramways : la solution de TBM pour lutter contre la pénurie de conducteurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/des-etudiants-pourront-conduire-les-tramways-la-solution-de-tbm-pour-lutter-contre-la-penurie-de-conducteurs-2985440.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: ["Sur 100 personnes, 87 ont été victimes d'agression", une association s'inquiète de l'augmentation des violences sur les cyclistes](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/sur-100-personnes-87-ont-ete-victimes-d-agression-une-association-s-inquiete-de-l-augmentation-des-violences-sur-les-cyclistes-2985821.html)
+append_entries: 3
+Finish: 2024-06-13 01:17:27.240950

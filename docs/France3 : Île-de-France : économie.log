@@ -918,3 +918,12 @@ Summarized using GPT-3.5-turbo
 Append: [Autoroute A13 : réouverture complète envisagée fin juin](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/autoroute-a13-reouverture-complete-envisagee-fin-juin-2985443.html)
 append_entries: 2
 Finish: 2024-06-12 12:41:00.159714
+------------------------------------------------------
+Started: 2024-06-13 01:16:51.623791
+Existing_entries: 142
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [Témoignage. Intervention de la police au lycée Hélène Boucher : "En trois minutes, il y avait plus de policiers que d'élèves", relate un lycéen](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/temoignage-intervention-de-la-police-au-lycee-helene-boucher-en-trois-minutes-il-y-avait-plus-de-policiers-que-d-eleves-relate-un-lyceen-2985611.html)
+append_entries: 1
+Finish: 2024-06-13 01:16:55.190705

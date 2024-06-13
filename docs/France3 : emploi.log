@@ -984,3 +984,18 @@ Existing_entries: 164
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-06-12 12:41:07.866098
+------------------------------------------------------
+Started: 2024-06-13 01:17:11.760907
+Existing_entries: 164
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: ["Il a fallu qu'on s'énerve" A Yara, la CGT annonce des avancées concernant le plan social](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/a-yara-la-cgt-annonce-avoir-obtenu-des-avancees-concernant-le-plan-social-2985782.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [JO 2024 : les policiers municipaux appellent à la grève lors du passage de la flamme à Metz](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/jo-de-paris-2024-les-policiers-municipaux-appellent-a-la-greve-lors-du-passage-de-la-flamme-a-metz-2985764.html)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [Des étudiants pour conduire les tramways : la solution de TBM pour lutter contre la pénurie de conducteurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/des-etudiants-pourront-conduire-les-tramways-la-solution-de-tbm-pour-lutter-contre-la-penurie-de-conducteurs-2985440.html)
+append_entries: 3
+Finish: 2024-06-13 01:17:16.939798

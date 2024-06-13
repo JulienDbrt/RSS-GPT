@@ -1154,3 +1154,9 @@ Summarized using GPT-3.5-turbo
 Append: [Au centre commercial La Batelière : « On se bat pour rester ouvert »](https://www.martinique.franceantilles.fr/actualite/economie/au-centre-commercial-la-bateliere-on-se-bat-pour-rester-ouvert-990815.php)
 append_entries: 1
 Finish: 2024-06-12 12:39:22.709501
+------------------------------------------------------
+Started: 2024-06-13 01:15:39.305874
+Existing_entries: 234
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-06-13 01:15:39.921603
