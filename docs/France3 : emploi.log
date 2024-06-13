@@ -999,3 +999,21 @@ Summarized using GPT-3.5-turbo
 Append: [Des étudiants pour conduire les tramways : la solution de TBM pour lutter contre la pénurie de conducteurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/des-etudiants-pourront-conduire-les-tramways-la-solution-de-tbm-pour-lutter-contre-la-penurie-de-conducteurs-2985440.html)
 append_entries: 3
 Finish: 2024-06-13 01:17:16.939798
+------------------------------------------------------
+Started: 2024-06-13 12:41:14.211613
+Existing_entries: 167
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Chocolats Poulain : l'annonce de la fermeture de l'usine près de Blois finalement reportée](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loir-cher/blois/chocolats-poulain-l-annonce-de-la-fermeture-de-l-usine-pres-de-blois-finalement-reportee-2986271.html)
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: ["On a fait le choix d'augmenter les plus bas revenus" : Besançon donne un coup de pouce à ses agents les moins bien payés](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-a-fait-le-choix-d-augmenter-les-plus-bas-revenus-la-maire-de-besancon-donne-un-coup-de-pouce-a-ses-agents-les-moins-bien-payes-2984843.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Fraude au travail détaché des ouvriers agricoles : Terra Fecundis sévèrement condamnée en appel en France](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/fraude-au-travail-detache-des-ouvriers-agricoles-terra-fecundis-severement-condamnee-en-appel-en-france-2986151.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [Payée pendant 20 ans sans travailler, elle attaque Orange pour harcèlement moral et discriminations liées à son état de santé](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/payee-pendant-20-ans-sans-travailler-elle-attaque-orange-pour-harcelement-moral-et-discriminations-liees-a-son-etat-de-sante-2985992.html)
+append_entries: 4
+Finish: 2024-06-13 12:41:26.192905

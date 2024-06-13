@@ -927,3 +927,9 @@ Summarized using GPT-3.5-turbo
 Append: [Témoignage. Intervention de la police au lycée Hélène Boucher : "En trois minutes, il y avait plus de policiers que d'élèves", relate un lycéen](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/temoignage-intervention-de-la-police-au-lycee-helene-boucher-en-trois-minutes-il-y-avait-plus-de-policiers-que-d-eleves-relate-un-lyceen-2985611.html)
 append_entries: 1
 Finish: 2024-06-13 01:16:55.190705
+------------------------------------------------------
+Started: 2024-06-13 12:40:28.768291
+Existing_entries: 143
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-13 12:40:28.927569

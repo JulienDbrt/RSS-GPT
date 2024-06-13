@@ -1045,3 +1045,15 @@ Summarized using GPT-3.5-turbo
 Append: [Après Washington, l'UE annonce des taxes sur les véhicules électriques chinois](https://www.europe1.fr/economie/apres-washington-lue-annonce-des-taxes-sur-les-vehicules-electriques-chinois-4252410)
 append_entries: 1
 Finish: 2024-06-13 01:15:39.192255
+------------------------------------------------------
+Started: 2024-06-13 12:38:37.864772
+Existing_entries: 177
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [Après la dissolution de l'Assemblée nationale, les chefs d'entreprise dans la tourmente](https://www.europe1.fr/economie/apres-la-dissolution-de-lassemblee-nationale-les-chefs-dentreprise-dans-la-tourmente-4252442)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [Gaz, électricité... Pourquoi les prix de l'énergie reviennent au coeur du débat public](https://www.europe1.fr/economie/gaz-electricite-pourquoi-les-prix-de-lenergie-reviennent-au-coeur-du-debat-public-4252418)
+append_entries: 2
+Finish: 2024-06-13 12:38:42.236490

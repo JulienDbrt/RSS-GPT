@@ -4,6 +4,49 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>01 – L’appareil open-source basé sur un modèle de langage IA</title>
+<link>https://korben.info/01-ordinateur-open-source-revolutionnaire.html</link>
+<guid>https://korben.info/01-ordinateur-open-source-revolutionnaire.html</guid>
+<content:encoded><![CDATA[
+<div> ESP32, intelligence artificielle, open-source, LMC, communauté <br>
+<br>
+Summary: Le projet 01 est un framework open-source combinant intelligence artificielle et interface vocale, inspiré par l'ordinateur de Star Trek. Son modèle ESP32 permet aux utilisateurs de créer leur propre appareil personnalisé. Le système fonctionne en tandem avec un serveur qui utilise des outils comme Whisper pour la reconnaissance vocale et GPT pour les réponses générées. Grâce au format LMC, inspiré par OpenAI, 01 interprète du code pour réagir aux événements système. Son architecture flexible facilite l'intégration dans divers objets du quotidien, allant des assistants vocaux aux robots domestiques en passant par les voitures intelligentes. Le projet repose sur une communauté active de contributeurs et propose un espace d'échange pour les passionnés. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="375" src="https://korben.info/app/uploads/2024/04/SCR-20240404-ncx.webp" width="1195" /></p>
+<p>Imaginez un appareil qui comprend tout ce que vous lui dites, qui répond à vos questions avec intelligence et s&rsquo;adapte à vos besoins&#8230; Et bien c&rsquo;est exactement ce que propose le projet <strong>01</strong>, un framework open-source qui allie <strong>intelligence artificielle</strong> et interface vocale.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1978066536" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Inspiré par l&rsquo;iconique ordinateur de Star Trek, et développé par les mêmes personnes que ceux qui ont créé <a href="https://korben.info/open-interpreter-alternative-openai-chatgpt-code-execution.html">Open Interpreter</a> que j&rsquo;adore, 01 ambitionne de devenir le <strong>GNU/Linux</strong> des assistants vocaux. Son écosystème ouvert et modulaire permet aux développeurs de créer des applications innovantes et de personnaliser l&rsquo;expérience utilisateur. Comme ça, que vous soyez <strong>maker</strong> ou un néophyte curieux, vous allez pouvoir construire votre propre appareil 01 en suivant les instructions détaillées fournies sur le <a href="https://github.com/OpenInterpreter/01" rel="noopener" target="_blank">dépôt GitHub</a>. </p>
+
+
+
+<p>Le modèle <a href="https://buy.stripe.com/8wMbLV5tAgM20rSdQQ" rel="noopener" target="_blank">01 Light</a>, basé sur un ESP32, est un excellent point de départ pour découvrir cette technologie fascinante. Évidemment, tout est open source et vous pouvez créer votre propre device ou le faire tourner sur un appareil existant.</p>
+
+
+
+<p>Pour une expérience optimale, 01 fonctionne de pair avec un serveur qui s&rsquo;exécute sur votre ordinateur personnel ou votre NAS et qui grâce à des outils comme <strong>Whisper</strong> pour la reconnaissance vocale et <strong>GPT</strong> pour la génération de réponses, permet des interactions naturelles et pertinentes.</p>
+
+
+
+<p>Tout cela est rendu possible notamment grâce au format <strong>LMC (Language Model Computer)</strong>, inspiré par le concept de « <a href="https://twitter.com/karpathy/status/1723140519554105733" rel="noopener" target="_blank">LLM OS</a> » d&rsquo;Andrej Karpathy. 01 utilise donc un modèle de langage qui interprète du code pour réagir à des événements système. Les messages LMC sont donc une extension du format d&rsquo;OpenAI en ajoutant un rôle « <strong>ordinateur</strong> » qui exécute du code Python directement dans les instructions système.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158388" height="545" src="https://korben.info/app/uploads/2024/04/SCR-20240404-myh.webp" width="820" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1128890579" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Son architecture flexible permet de l&rsquo;intégrer à une multitude d&rsquo;objets du quotidien, de l&rsquo;assistant vocal au robot domestique en passant par la voiture intelligente. Les possibilités sont infinies et ne demandent qu&rsquo;à être explorées.</p>
+
+
+
+<p>En tant que projet open-source, 01 compte sur une communauté dynamique de contributeurs pour se développer et s&rsquo;améliorer et y&rsquo;a même un <a href="https://discord.gg/a4xX7s7tJt" rel="noopener" target="_blank">serveur Discord</a> pour échanger avec d&rsquo;autres enthousiastes du projet.</p>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>RaspRover – Le kit robot 4×4 pour Raspberry Pi 4 et 5</title>

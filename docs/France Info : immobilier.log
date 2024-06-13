@@ -752,3 +752,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : le fait maison fait des adeptes](https://www.francetvinfo.fr/economie/immobilier/immobilier-le-fait-maison-fait-des-adeptes_6599916.html)
 append_entries: 1
 Finish: 2024-06-13 01:16:11.824686
+------------------------------------------------------
+Started: 2024-06-13 12:39:22.030288
+Existing_entries: 78
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-13 12:39:22.100230

@@ -1851,3 +1851,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Sur 100 personnes, 87 ont été victimes d'agression", une association s'inquiète de l'augmentation des violences sur les cyclistes](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/sur-100-personnes-87-ont-ete-victimes-d-agression-une-association-s-inquiete-de-l-augmentation-des-violences-sur-les-cyclistes-2985821.html)
 append_entries: 3
 Finish: 2024-06-13 01:17:27.240950
+------------------------------------------------------
+Started: 2024-06-13 12:41:30.685727
+Existing_entries: 452
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Contrôles sur les routes de Normandie : 1 poids-lourd sur 3 en infraction](https://france3-regions.francetvinfo.fr/normandie/calvados/caen/controles-sur-les-routes-de-normandie-1-poids-lourds-sur-3-en-infraction-2986346.html)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Aviation : nouveau coup dur pour Lorraine Aéroport qui stoppe ses vols pour Marseille](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/aviation-nouveau-coup-dur-pour-lorraine-aeroport-qui-stoppe-ses-vols-pour-marseille-2985902.html)
+append_entries: 2
+Finish: 2024-06-13 12:41:38.475169

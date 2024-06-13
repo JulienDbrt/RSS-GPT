@@ -1091,3 +1091,12 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF Voyageurs va ouvrir des liaisons intérieures en Italie en 2026](https://www.francetvinfo.fr/economie/transports/sncf/sncf-voyageurs-va-ouvrir-des-liaisons-interieures-en-italie-en-2026_6599790.html)
 append_entries: 1
 Finish: 2024-06-13 01:16:13.147542
+------------------------------------------------------
+Started: 2024-06-13 12:39:22.199584
+Existing_entries: 191
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [SNCF : alors que la France manque de trains, le groupe s'attaque aux lignes intérieures en Italie](https://www.francetvinfo.fr/replay-radio/le-brief-eco/sncf-alors-que-la-france-manque-de-trains-le-groupe-s-attaque-aux-lignes-interieures-en-italie_6573302.html)
+append_entries: 1
+Finish: 2024-06-13 12:39:25.360044

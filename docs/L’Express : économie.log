@@ -1225,3 +1225,18 @@ Summarized using GPT-3.5-turbo
 Append: [Réforme des retraites : "Calculé correctement, le déficit des retraites atteint 53 milliards d’euros"](https://www.lexpress.fr/economie/reforme-des-retraites-calcule-correctement-le-deficit-des-retraites-atteint-53-milliards-deuros-4LDWCSAWVBDG7PSHY7GOJDCGPY/)
 append_entries: 1
 Finish: 2024-06-13 01:18:06.041578
+------------------------------------------------------
+Started: 2024-06-13 12:41:55.882331
+Existing_entries: 289
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 1465
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage : Attal annonce un décret "d'ici au 1er juillet"](https://www.lexpress.fr/economie/assurance-chomage-attal-annonce-un-decret-dici-au-1er-juillet-QDLSYN4WO5DG3AD3KZHOFJJFKQ/)
+Token length: 4385
+Summarized using GPT-3.5-turbo
+Append: [Tesla : la méga-rémunération d'Elon Musk en passe d'être votée](https://www.lexpress.fr/economie/tesla-la-mega-remuneration-delon-musk-en-passe-detre-votee-AFGCFMVNYJBPNNRYVWMPICR4VA/)
+Token length: 5495
+Summarized using GPT-3.5-turbo
+Append: [Derrière la licorne Alan, les éminences grises de l’IA française](https://www.lexpress.fr/economie/high-tech/derriere-la-licorne-alan-les-eminences-grises-de-lia-francaise-O4CL3OKYH5AYNJLFLHW6OS7IQY/)
+append_entries: 3
+Finish: 2024-06-13 12:42:10.823155

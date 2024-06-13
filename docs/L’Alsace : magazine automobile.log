@@ -869,3 +869,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveautés auto. BMW série 3 : un restylage tout en subtilité !](https://www.lalsace.fr/magazine-automobile/2024/06/12/bmw-serie-3-un-restylage-tout-en-subtilite)
 append_entries: 1
 Finish: 2024-06-13 01:17:49.796360
+------------------------------------------------------
+Started: 2024-06-13 12:41:39.583744
+Existing_entries: 117
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Nouveautés auto. Alpine A290 : des watts et du style !](https://www.lalsace.fr/magazine-automobile/2024/06/13/alpine-a290-des-watts-et-du-style)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Automobile. Carburant : pourquoi des différences de prix selon les lieux des stations-service ?](https://www.lalsace.fr/magazine-automobile/2024/06/13/carburant-pourquoi-des-differences-de-prix-selon-les-lieux-des-stations-service)
+append_entries: 2
+Finish: 2024-06-13 12:41:46.783632

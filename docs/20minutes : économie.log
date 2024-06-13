@@ -995,3 +995,9 @@ Summarized using GPT-3.5-turbo
 Append: [Nice-Matin rachète Bestimage, l’agence de paparazzi de la sulfureuse Mimi Marchand](https://www.20minutes.fr/arts-stars/medias/4095913-20240612-nice-matin-rachete-bestimage-agence-paparazzi-sulfureuse-mimi-marchand)
 append_entries: 3
 Finish: 2024-06-13 01:12:53.331092
+------------------------------------------------------
+Started: 2024-06-13 12:34:24.954953
+Existing_entries: 159
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-06-13 12:34:25.083206

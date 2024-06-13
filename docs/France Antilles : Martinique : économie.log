@@ -1160,3 +1160,12 @@ Existing_entries: 234
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-06-13 01:15:39.921603
+------------------------------------------------------
+Started: 2024-06-13 12:38:42.350783
+Existing_entries: 234
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [L'apiculture en Martinique : une filière qui gagne à être connue ?](https://www.martinique.franceantilles.fr/actualite/economie/lapiculture-en-martinique-une-filiere-qui-gagne-a-etre-connue-991037.php)
+append_entries: 1
+Finish: 2024-06-13 12:38:46.688325

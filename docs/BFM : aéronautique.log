@@ -753,3 +753,15 @@ Existing_entries: 85
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
 append_entries: 0
 Finish: 2024-06-13 01:13:49.627835
+------------------------------------------------------
+Started: 2024-06-13 12:35:36.276889
+Existing_entries: 85
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Un Boeing 737 Max victime en vol de "roulis hollandais" désormais cloué au sol](https://www.bfmtv.com/economie/entreprises/aeronautique/un-boeing-737-max-victime-en-vol-de-roulis-hollandais-desormais-cloue-au-sol_AV-202406130446.html)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Menacé de poursuites pénales, Boeing est accusé de ne pas avoir respecté ses obligations](https://www.bfmtv.com/economie/entreprises/aeronautique/menace-de-poursuites-penales-boeing-est-accuse-de-ne-pas-avoir-respecte-ses-obligations_AD-202406130059.html)
+append_entries: 2
+Finish: 2024-06-13 12:35:44.622066

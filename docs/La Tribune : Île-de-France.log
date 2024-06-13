@@ -613,3 +613,12 @@ Existing_entries: 25
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-06-13 01:20:20.113800
+------------------------------------------------------
+Started: 2024-06-13 12:45:42.424001
+Existing_entries: 25
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [Trains : les élus des Yvelines prêts à croiser le fer contre la Ligne Nouvelle Paris Normandie](https://www.latribune.fr/economie/france/trains-les-elus-des-yvelines-prets-a-croiser-le-fer-contre-la-ligne-nouvelle-paris-normandie-999737.html)
+append_entries: 1
+Finish: 2024-06-13 12:45:44.642873
