@@ -751,3 +751,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Qu’on ne vienne pas m’emmerder avec ce sujet" : un entrepreneur change les serrures et squatte les anciens locaux de la Banque de France de Roubaix](https://www.ladepeche.fr/2024/06/13/quon-ne-vienne-pas-memmerder-avec-ce-sujet-un-entrepreneur-change-les-serrures-et-squatte-les-anciens-locaux-de-la-banque-de-france-de-roubaix-12014676.php)
 append_entries: 1
 Finish: 2024-06-14 01:21:44.433976
+------------------------------------------------------
+Started: 2024-06-14 12:44:25.726626
+Existing_entries: 77
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: ["L’Occitanie fait face à des besoins colossaux en logements" selon Bruno Arcadipane, président d’Action Logement Groupe.](https://www.ladepeche.fr/2024/06/14/loccitanie-fait-face-a-des-besoins-colossaux-en-logements-selon-bruno-arcadipane-president-daction-logement-groupe-12016365.php)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Blagnac. Des logements à la place des bureaux du Technoclub](https://www.ladepeche.fr/2024/06/14/des-logements-a-la-place-des-bureaux-du-technoclub-12015459.php)
+append_entries: 2
+Finish: 2024-06-14 12:44:32.479180

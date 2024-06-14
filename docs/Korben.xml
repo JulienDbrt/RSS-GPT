@@ -4,6 +4,48 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>OpenCat – Le framework open source des animaux de compagnie robotiques</title>
+<link>https://korben.info/opencat-framework-open-source-robots-animaux-compagnie.html</link>
+<guid>https://korben.info/opencat-framework-open-source-robots-animaux-compagnie.html</guid>
+<content:encoded><![CDATA[
+<div> OpenCat, framework, robots animaux, open source, quadrupèdes 
+
+Summary: 
+
+OpenCat est un framework open source permettant de créer des robots animaux de compagnie réalistes et abordables. En utilisant des servomoteurs haute performance, une structure de corps optimisée et des contrôleurs low-cost, il offre la possibilité de contrôler des robots quadrupèdes. Grâce à des modules supplémentaires comme une caméra intelligente, des capteurs IoT et une commande vocale, les robots peuvent être personnalisés selon les besoins. OpenCat a déjà été utilisé sur des robots commerciaux tels que le chat Nybble et le chien Bittle, montrant ainsi ses capacités en termes de mouvement et d'équilibre. Les créateurs d'OpenCat partagent leur travail en open source pour encourager la collaboration dans le développement de la robotique abordable et éducative. Leur objectif est d'inspirer les étudiants, les ados et les enfants à s'impliquer dans la robotique tout en s'amusant. Il s'agit d'une initiative prometteuse pour la popularisation et l'apprentissage de la robotique. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="338" src="https://korben.info/app/uploads/2024/04/walk.gif" width="600" /></p>
+<p>Aujourd&rsquo;hui, j&rsquo;aimerai vous parler <strong><a href="https://github.com/PetoiCamp/OpenCat" rel="noopener" target="_blank">OpenCat</a></strong>, un framework open source qui va vous aider à créer vos propres robots animaux de compagnie, c&rsquo;est à dire des quadrupèdes hyper réalistes et Ô surprise parfaitement abordables. Pour cela, OpenCat permet de piloter des servomoteurs haute performance utilisés comme articulations, une structure de corps optimisée et des contrôleurs low-cost comme Arduino, ESP32 ou Raspberry Pi.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-181515877" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous pouvez également ajouter plein de modules trop cools comme une <strong>caméra intelligente</strong>, des <strong>capteurs IoT</strong> ou encore une <strong>commande vocale</strong>. Avec le code de contrôle open source hyper efficace, vos robots vont littéralement prendre vie !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158393" height="225" src="https://korben.info/app/uploads/2024/04/stand-ezgif.com-resize.gif" style="width: 528px; height: auto;" width="300" /></figure></div>
+
+
+<p>OpenCat, c&rsquo;est pas non plus juste un délire de geek barbu puisque ça a déjà été déployé sur des robots commerciaux comme le chat <strong>Nybble</strong> et le chien <strong>Bittle</strong> de Petoi. Ces petites merveilles de technologie peuvent courir, marcher et même s&rsquo;auto-équilibrer comme de vrais animaux.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Les créateurs d&rsquo;OpenCat partagent tout ça en open source pour une bonne raison : Ils veulent favoriser la collaboration dans le développement de la robotique, de l&rsquo;IoT et de l&rsquo;IA sur des robots quadrupèdes abordables. Ils veulent également diffuser des ressources éducatives sur la robotique au plus grand nombre et inspirer les étudiants, les ados et même les enfants. C&rsquo;est beau quand même !</p>
+
+
+
+<p>Bref, si vous aussi vous rêvez de construire vos propres robots animaux de compagnie, foncez sur <strong><a href="https://github.com/PetoiCamp/OpenCat" rel="noopener" target="_blank">OpenCat</a></strong> ! C&rsquo;est le moment de mettre les mains dans le cambouis, d&rsquo;apprendre en s&rsquo;amusant et de participer à cette aventure.</p>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>01 – L’appareil open-source basé sur un modèle de langage IA</title>

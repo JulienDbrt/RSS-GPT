@@ -1875,3 +1875,27 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024. Quelles seront les lignes de métro ouvertes ? On vous explique comment vous rendre à la cérémonie d’ouverture](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-quelles-seront-les-lignes-de-metro-ouvertes-on-vous-explique-comment-vous-deplacer-pour-assister-a-la-ceremonie-d-ouverture-2986640.html)
 append_entries: 2
 Finish: 2024-06-14 01:19:01.648148
+------------------------------------------------------
+Started: 2024-06-14 12:41:34.919336
+Existing_entries: 456
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Parigo. L'état des routes franciliennes : une dégradation inéluctable ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/parigo-l-etat-des-routes-franciliennes-une-degradation-ineluctable-2987021.html)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [Le prix du ticket de tram va-t-il passer à 3 euros pendant les Jeux olympiques ?](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/le-prix-du-ticket-de-tram-va-t-il-passer-a-3-euros-pendant-les-jeux-olympiques-2986955.html)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Le trafic ferroviaire TER Sud perturbé, résultat des travaux de la nuit à Nice](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/le-trafic-ferroviaire-ter-sud-perturbe-resultat-des-travaux-de-la-nuit-a-nice-2986925.html)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [Vélo électrique en libre-service à Reims : Zébullo fête ses 5 ans, 80 nouveaux vélos à forte autonomie déployés](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/velo-electrique-en-libre-service-a-reims-zebullo-fete-ses-5-ans-80-nouveaux-velos-a-forte-autonomie-deployes-2986814.html)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Pousseur du RER B : un homme mis en examen et placé en détention provisoire pour assassinat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/pousseur-du-rer-b-un-homme-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-2986886.html)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [De la "route de la mort" à l'autoroute A79+ sans péage : la transformation de la RCEA donne-t-elle satisfaction ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/de-la-route-de-la-mort-a-l-autoroute-a79-sans-peage-la-transformation-de-la-rcea-donne-t-elle-satisfaction-2986688.html)
+append_entries: 6
+Finish: 2024-06-14 12:41:59.159277

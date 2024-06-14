@@ -1705,3 +1705,18 @@ Summarized using GPT-3.5-turbo
 Append: [En pleine campagne électorale, Donald Trump invite des mineurs de bitcoins chez lui à Mar-a-Lago](https://www.bfmtv.com/crypto/bitcoin/en-pleine-campagne-electorale-donald-trump-invite-des-mineurs-de-bitcoins-chez-lui-a-mar-a-lago_AV-202406130640.html)
 append_entries: 6
 Finish: 2024-06-14 01:09:52.175978
+------------------------------------------------------
+Started: 2024-06-14 12:30:50.272157
+Existing_entries: 403
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [L'ancien ministre et bourgmestre Luc Martens arrêté pour suspicion de fraude](https://www.vrt.be/vrtnws/fr/2024/06/14/l-ancien-ministre-et-bourgmestre-luc-martens-arrete-pour-suspici/)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Cryptomonnaies : de l'importance d'une bonne plateforme d'échange](https://www.journaldunet.com/web3/crypto/1530945-cryptomonnaies-de-l-importance-d-une-bonne-plateforme-d-echange/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Jeo Boden, Doland Tremp… les cryptomonnaies « mèmes » s'attaquent aux élections américaines](https://www.ladn.eu/tech-a-suivre/jeo-boden-doland-tremp-les-cryptomonnaies-memes-sattaquent-aux-elections-americaines/)
+append_entries: 3
+Finish: 2024-06-14 12:31:02.775171

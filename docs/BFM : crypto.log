@@ -885,3 +885,9 @@ Summarized using GPT-3.5-turbo
 Append: [L’énergie, face cachée de la monnaie ?](https://www.bfmtv.com/crypto/l-energie-face-cachee-de-la-monnaie_VL-202406130602.html)
 append_entries: 2
 Finish: 2024-06-14 01:14:33.710931
+------------------------------------------------------
+Started: 2024-06-14 12:36:49.456074
+Existing_entries: 125
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-06-14 12:36:49.530049

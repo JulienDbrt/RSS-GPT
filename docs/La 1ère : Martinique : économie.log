@@ -748,3 +748,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Halte à la mise à mort du secteur du BTP", le nouveau cri d’alarme des professionnels de Martinique](https://la1ere.francetvinfo.fr/martinique/halte-a-la-mise-a-mort-du-secteur-du-btp-le-nouveau-cri-d-alarme-des-professionnels-de-martinique-1496690.html)
 append_entries: 2
 Finish: 2024-06-14 01:20:26.185498
+------------------------------------------------------
+Started: 2024-06-14 12:43:06.948125
+Existing_entries: 66
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 46
+Summarized using GPT-3.5-turbo
+Append: [L'apiculture martiniquaise veut développer le miel de mangrove](https://la1ere.francetvinfo.fr/martinique/l-apiculture-martiniquaise-veut-developper-le-miel-de-mangrove-1496762.html)
+append_entries: 1
+Finish: 2024-06-14 12:43:11.483949

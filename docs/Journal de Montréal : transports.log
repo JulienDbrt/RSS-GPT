@@ -894,3 +894,9 @@ Summarized using GPT-3.5-turbo
 Append: [La CAQ se lance dans la réalisation d’un 3e lien](https://www.journaldemontreal.com/2024/06/12/la-caq-se-lance-dans-la-realisation-du-3e-lien)
 append_entries: 3
 Finish: 2024-06-14 01:19:22.562724
+------------------------------------------------------
+Started: 2024-06-14 12:41:59.881974
+Existing_entries: 118
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-14 12:42:00.283773

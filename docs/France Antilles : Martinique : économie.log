@@ -1184,3 +1184,15 @@ Summarized using GPT-3.5-turbo
 Append: [Cérémonie d'ouverture des Jeux: le plan de transport calé sur fond d'incertitude politique](https://www.martinique.franceantilles.fr/actualite/economie/ceremonie-douverture-des-jeux-le-plan-de-transport-cale-sur-fond-dincertitude-politique-991126.php)
 append_entries: 3
 Finish: 2024-06-14 01:16:56.861873
+------------------------------------------------------
+Started: 2024-06-14 12:38:54.396377
+Existing_entries: 238
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [Les tensions avec la Chine au menu du G7](https://www.martinique.franceantilles.fr/actualite/economie/les-tensions-avec-la-chine-au-menu-du-g7-991247.php)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [BTP : si rien ne change  dans les jours à venir...](https://www.martinique.franceantilles.fr/actualite/economie/btp-si-rien-ne-change-dans-les-jours-a-venir-991186.php)
+append_entries: 2
+Finish: 2024-06-14 12:39:04.851478

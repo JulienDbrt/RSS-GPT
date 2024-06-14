@@ -888,3 +888,18 @@ Fetching from https://www.lalsace.fr/magazine-automobile/rss
 Feed error: 500
 append_entries: 0
 error when rendering xml, skip docs/L’Alsace : magazine automobile
+------------------------------------------------------
+Started: 2024-06-14 12:42:01.601695
+Existing_entries: 119
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 318
+Summarized using GPT-3.5-turbo
+Append: [Nouveauté. La Mini Cooper 5 portes refuse l'électrique !](https://www.lalsace.fr/magazine-automobile/2024/06/13/la-mini-cooper-5-portes-refuse-l-electrique)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Pratique auto. Airbags défectueux : 530 000 DS et C3 sont concernées !](https://www.lalsace.fr/magazine-automobile/2024/06/14/airbags-defectueux-530-000-ds-et-c3-sont-concernees)
+Token length: 632
+Summarized using GPT-3.5-turbo
+Append: [Nouveauté. Lancia Ypsilon HF : va-t-elle faire entrer la marque dans une nouvelle ère ?](https://www.lalsace.fr/magazine-automobile/2024/06/13/lancia-ypsilon-hf-va-t-elle-faire-entrer-la-marque-dans-une-nouvelle-ere)
+append_entries: 3
+Finish: 2024-06-14 12:42:13.384751

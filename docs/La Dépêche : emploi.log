@@ -1165,3 +1165,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les ambulanciers recrutent : 40 postes à pourvoir dans le Lot après une formation de 13 jours et un diplôme en poche](https://www.ladepeche.fr/2024/06/13/les-ambulanciers-recrutent-40-postes-a-pourvoir-dans-le-lot-apres-une-formation-de-13-jours-et-un-diplome-en-poche-12011819.php)
 append_entries: 4
 Finish: 2024-06-14 01:21:36.306160
+------------------------------------------------------
+Started: 2024-06-14 12:44:10.844473
+Existing_entries: 215
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: ["En pleine reconversion", "Je dépose des dossiers", "Bientôt sur le marché du travail" : les jeunes viennent en nombre pour la Place du TAF à Castelsarrasin](https://www.ladepeche.fr/2024/06/14/en-pleine-reconversion-je-depose-des-dossiers-bientot-sur-le-marche-du-travail-les-jeunes-viennent-en-nombre-pour-la-place-du-taf-a-castelsarrasin-12016191.php)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Une nouvelle édition du café de l’emploi à L’Isle-Jourdain](https://www.ladepeche.fr/2024/06/14/une-nouvelle-edition-du-cafe-de-lemploi-a-lisle-jourdain-12015644.php)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Villefranche-de-Lauragais. Le bilan du "projet pro"](https://www.ladepeche.fr/2024/06/14/le-bilan-du-projet-pro-12015469.php)
+append_entries: 3
+Finish: 2024-06-14 12:44:25.686716

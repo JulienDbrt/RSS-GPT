@@ -872,3 +872,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le trafic des trains brièvement interrompu à la gare de Bruxelles-Midi : ce qui s'est passé](https://www.lalibre.be/belgique/mobilite/2024/06/13/le-trafic-des-trains-brievement-interrompu-a-la-gare-de-bruxelles-midi-ce-qui-sest-passe-5JXNS6AXXRFQZONMWUCPTLCKXQ/)
 append_entries: 1
 Finish: 2024-06-14 01:22:14.453575
+------------------------------------------------------
+Started: 2024-06-14 12:45:20.255219
+Existing_entries: 140
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 35
+Summarized using GPT-3.5-turbo
+Append: [De nombreux chantiers prévus cet été en Région bruxelloise: voici ceux qui vont le plus impacter la mobilité](https://www.lalibre.be/belgique/mobilite/2024/06/14/delta-beaulieu-tervueren-leonard-automobilistes-attention-de-nombreux-chantiers-prevus-cet-ete-en-region-bruxelloise-7YAJAN7XENCAPDKD57RBIEMS7Q/)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Une partie du réseau Tec en grève après l'agression d'un conducteur](https://www.lalibre.be/belgique/mobilite/2024/06/14/une-partie-du-reseau-tec-en-greve-apres-lagression-dun-conducteur-LUEW4IPBJVEHXLY2BYGOUSKEI4/)
+append_entries: 2
+Finish: 2024-06-14 12:45:38.153699

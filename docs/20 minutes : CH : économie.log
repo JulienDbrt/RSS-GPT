@@ -1099,3 +1099,18 @@ Summarized using GPT-3.5-turbo
 Append: [La banque en ligne FlowBank en faillite, les comptes bloqués](https://www.20min.ch/fr/story/geneve-la-banque-en-ligne-flowbank-en-faillite-les-transactions-gelees-103126205)
 append_entries: 2
 Finish: 2024-06-14 01:13:26.274863
+------------------------------------------------------
+Started: 2024-06-14 12:35:01.338762
+Existing_entries: 223
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Des employés de l’automobile vont produire des armes](https://www.20min.ch/fr/story/allemagne-des-employes-de-lautomobile-vont-produire-des-armes-103126697)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [La SNCF donne un coup de fouet à son offre low cost](https://www.20min.ch/fr/story/france-la-sncf-donne-un-coup-de-fouet-a-son-offre-low-cost-103126677)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [FlowBank conteste sa mise en faillite et critique la Finma](https://www.20min.ch/fr/story/flowbank-conteste-sa-mise-en-faillite-et-critique-la-finma-103126574)
+append_entries: 3
+Finish: 2024-06-14 12:35:09.335918
