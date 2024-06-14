@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>01 – L’appareil open-source basé sur un modèle de langage IA</title>
 <link>https://korben.info/01-ordinateur-open-source-revolutionnaire.html</link>
 <guid>https://korben.info/01-ordinateur-open-source-revolutionnaire.html</guid>
 <content:encoded><![CDATA[
-<div> ESP32, intelligence artificielle, open-source, LMC, communauté <br>
-<br>
+<div> ESP32, intelligence artificielle, open-source, LMC, communauté <br />
+<br />
 Summary: Le projet 01 est un framework open-source combinant intelligence artificielle et interface vocale, inspiré par l'ordinateur de Star Trek. Son modèle ESP32 permet aux utilisateurs de créer leur propre appareil personnalisé. Le système fonctionne en tandem avec un serveur qui utilise des outils comme Whisper pour la reconnaissance vocale et GPT pour les réponses générées. Grâce au format LMC, inspiré par OpenAI, 01 interprète du code pour réagir aux événements système. Son architecture flexible facilite l'intégration dans divers objets du quotidien, allant des assistants vocaux aux robots domestiques en passant par les voitures intelligentes. Le projet repose sur une communauté active de contributeurs et propose un espace d'échange pour les passionnés. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="375" src="https://korben.info/app/uploads/2024/04/SCR-20240404-ncx.webp" width="1195" /></p>
 <p>Imaginez un appareil qui comprend tout ce que vous lui dites, qui répond à vos questions avec intelligence et s&rsquo;adapte à vos besoins&#8230; Et bien c&rsquo;est exactement ce que propose le projet <strong>01</strong>, un framework open-source qui allie <strong>intelligence artificielle</strong> et interface vocale.</p>
@@ -45,9 +46,7 @@ Summary: Le projet 01 est un framework open-source combinant intelligence artifi
 <p>En tant que projet open-source, 01 compte sur une communauté dynamique de contributeurs pour se développer et s&rsquo;améliorer et y&rsquo;a même un <a href="https://discord.gg/a4xX7s7tJt" rel="noopener" target="_blank">serveur Discord</a> pour échanger avec d&rsquo;autres enthousiastes du projet.</p>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 13 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>RaspRover – Le kit robot 4×4 pour Raspberry Pi 4 et 5</title>
 <link>https://korben.info/rasprover-kit-robot-4x4-ia-open-source-raspberry-pi-4-5.html</link>

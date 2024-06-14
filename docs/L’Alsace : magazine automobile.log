@@ -881,3 +881,10 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile. Carburant : pourquoi des différences de prix selon les lieux des stations-service ?](https://www.lalsace.fr/magazine-automobile/2024/06/13/carburant-pourquoi-des-differences-de-prix-selon-les-lieux-des-stations-service)
 append_entries: 2
 Finish: 2024-06-13 12:41:46.783632
+------------------------------------------------------
+Started: 2024-06-14 01:19:23.616134
+Existing_entries: 119
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Feed error: 500
+append_entries: 0
+error when rendering xml, skip docs/L’Alsace : magazine automobile

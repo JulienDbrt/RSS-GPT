@@ -863,3 +863,12 @@ Summarized using GPT-3.5-turbo
 Append: [Gros accident à Loncin, une partie de l’échangeur fermée](https://www.lalibre.be/belgique/mobilite/2024/06/13/gros-accident-a-loncin-une-partie-de-lechangeur-fermee-VJZKYAKYHVCJVFOJHUTAKGQRJQ/)
 append_entries: 2
 Finish: 2024-06-13 12:45:17.439688
+------------------------------------------------------
+Started: 2024-06-14 01:22:12.918419
+Existing_entries: 139
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [Le trafic des trains brièvement interrompu à la gare de Bruxelles-Midi : ce qui s'est passé](https://www.lalibre.be/belgique/mobilite/2024/06/13/le-trafic-des-trains-brievement-interrompu-a-la-gare-de-bruxelles-midi-ce-qui-sest-passe-5JXNS6AXXRFQZONMWUCPTLCKXQ/)
+append_entries: 1
+Finish: 2024-06-14 01:22:14.453575

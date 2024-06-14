@@ -1681,3 +1681,27 @@ Summarized using GPT-3.5-turbo
 Append: [Une banque voit le Bitcoin à 150 000$ si Trump est élu - Be-Crypto](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/une-banque-voit-le-bitcoin-a-150-000-si-trump-est-elu)
 append_entries: 2
 Finish: 2024-06-13 12:30:57.522293
+------------------------------------------------------
+Started: 2024-06-14 01:09:29.664540
+Existing_entries: 397
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Clôture Paris : le CAC40 rechute lourdement de 2%](https://www.boursier.com/indices/actualites/news/cloture-paris-le-cac40-rechute-lourdement-de-2-931205.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Wall Street bat de nouveaux records sur le Nasdaq et le SP500, le DJ toujours en retrait](https://www.boursier.com/indices/actualites/news/wall-street-bat-de-nouveaux-records-sur-le-nasdaq-et-le-sp500-le-dj-toujours-en-retrait-931253.html)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Comment l'IA rebat les cartes pour les mineurs de cryptos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/comment-lia-rebat-les-cartes-pour-les-mineurs-de-cryptos-2101336)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi les cryptos vont aider l'IA à booster le PIB mondial](https://www.bfmtv.com/crypto/blockchain/pourquoi-les-cryptos-vont-aider-l-ia-a-booster-le-pib-mondial_AV-202406130433.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Trump veut faire des USA l’un des plus gros « producteurs » de Bitcoin - Be-Crypto](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/trump-veut-faire-des-usa-lun-des-plus-gros-producteurs-de-bitcoin)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [En pleine campagne électorale, Donald Trump invite des mineurs de bitcoins chez lui à Mar-a-Lago](https://www.bfmtv.com/crypto/bitcoin/en-pleine-campagne-electorale-donald-trump-invite-des-mineurs-de-bitcoins-chez-lui-a-mar-a-lago_AV-202406130640.html)
+append_entries: 6
+Finish: 2024-06-14 01:09:52.175978

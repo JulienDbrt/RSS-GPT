@@ -783,3 +783,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'usine Saupiquet de Quimper, propriété des Italiens de Bolton Food,  menacée de fermeture. 155 emplois sont en jeu](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/l-usine-saupiquet-de-quimper-menacee-de-fermeture-155-emplois-en-jeu-2986154.html)
 append_entries: 1
 Finish: 2024-06-13 12:41:14.125646
+------------------------------------------------------
+Started: 2024-06-14 01:18:39.582496
+Existing_entries: 93
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-14 01:18:40.051351

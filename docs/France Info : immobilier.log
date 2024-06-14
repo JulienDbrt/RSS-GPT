@@ -758,3 +758,12 @@ Existing_entries: 78
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-06-13 12:39:22.100230
+------------------------------------------------------
+Started: 2024-06-14 01:17:28.908297
+Existing_entries: 78
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : les prix ont baissé en moyenne de 3,8% en un an](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-les-prix-ont-baisse-en-moyenne-de-3-8-en-un-an_6602646.html)
+append_entries: 1
+Finish: 2024-06-14 01:17:33.498353

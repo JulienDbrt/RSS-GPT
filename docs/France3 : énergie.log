@@ -756,3 +756,12 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : la circulation des trains reprend après une coupure de courant d'une heure entre Montpellier et Narbonne](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/sncf-une-coupure-de-courant-interrompt-le-trafic-entre-montpellier-et-narbonne-2986331.html)
 append_entries: 1
 Finish: 2024-06-13 12:40:28.694627
+------------------------------------------------------
+Started: 2024-06-14 01:18:09.115850
+Existing_entries: 84
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 324
+Summarized using GPT-3.5-turbo
+Append: [Centrale à charbon Émile-Huchet de Saint-Avold : l'avenir des salariés en suspens et lié au calendrier politique](https://france3-regions.francetvinfo.fr/grand-est/moselle/forbach/centrale-a-charbon-emile-huchet-de-saint-avold-l-avenir-des-salaries-en-suspens-et-lie-au-calendrier-politique-2986586.html)
+append_entries: 1
+Finish: 2024-06-14 01:18:13.159629

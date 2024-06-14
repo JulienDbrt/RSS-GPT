@@ -2021,3 +2021,18 @@ Summarized using GPT-3.5-turbo
 Append: [C'est la nouvelle arnaque de l'été : gare à votre compte en banque, il est facile de se faire piéger](https://www.linternaute.com/argent/magazine/5433279-article-arnaque-ete/)
 append_entries: 2
 Finish: 2024-06-13 12:32:17.569700
+------------------------------------------------------
+Started: 2024-06-14 01:11:06.412351
+Existing_entries: 601
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [4 %, 6 % 8 % et plus : ces placements qui vous permettent de vivre de vos rentes](https://www.lesechos.fr/patrimoine/placement/4-6-8-et-plus-ces-placements-qui-vous-permettent-de-vivre-de-vos-rentes-2100854)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Prix de l'immobilier dans les Côtes d'Armor : des communes du littoral en forte baisse](https://actu.fr/bretagne/dinan_22050/prix-de-limmobilier-dans-les-cotes-darmor-des-communes-du-littoral-en-forte-baisse_61202247.html)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Nouveaux déboires financiers pour «le roi du gyproc»](https://www.tvanouvelles.ca/2024/06/12/nouveaux-deboires-financiers-pour-le-roi-du-gyproc)
+append_entries: 3
+Finish: 2024-06-14 01:11:15.426932

@@ -933,3 +933,12 @@ Existing_entries: 143
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-13 12:40:28.927569
+------------------------------------------------------
+Started: 2024-06-14 01:18:13.233352
+Existing_entries: 143
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Quelles seront les lignes de métro ouvertes ? On vous explique comment vous rendre à la cérémonie d’ouverture](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-quelles-seront-les-lignes-de-metro-ouvertes-on-vous-explique-comment-vous-deplacer-pour-assister-a-la-ceremonie-d-ouverture-2986640.html)
+append_entries: 1
+Finish: 2024-06-14 01:18:15.751857

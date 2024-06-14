@@ -723,3 +723,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Et toi, tu as voté pour qui?": quand la politique débarque au bureau, attention aux tensions](https://www.bfmtv.com/economie/emploi/vie-de-bureau/et-toi-tu-as-vote-pour-qui-quand-la-politique-debarque-au-bureau-attention-aux-tensions_AV-202406130044.html)
 append_entries: 3
 Finish: 2024-06-13 12:36:09.171405
+------------------------------------------------------
+Started: 2024-06-14 01:14:33.751995
+Existing_entries: 73
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Réforme de l'assurance-chômage: "Il faut attendre", indique Antoine Foucher, président de Quintet](https://www.bfmtv.com/economie/emploi/reforme-de-l-assurance-chomage-il-faut-attendre-indique-antoine-foucher-president-de-quintet_VN-202406130807.html)
+Token length: 445
+Summarized using GPT-3.5-turbo
+Append: [La réforme de l'assurance-chômage sera publiée avant le 1er juillet a confirmé Gabriel Attal](https://www.bfmtv.com/economie/emploi/la-reforme-de-l-assurance-chomage-sera-publiee-avant-le-1er-juillet-a-confirme-gabriel-attal_VN-202406130776.html)
+append_entries: 2
+Finish: 2024-06-14 01:14:40.877074

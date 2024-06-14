@@ -736,3 +736,15 @@ Existing_entries: 64
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-13 12:42:47.688182
+------------------------------------------------------
+Started: 2024-06-14 01:20:17.168672
+Existing_entries: 64
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [Eau potable : retour des coupures d'eau planifiées à cause de la sécheresse en Martinique](https://la1ere.francetvinfo.fr/martinique/eau-potable-retour-des-coupures-d-eau-planifiees-a-cause-de-la-secheresse-1496735.html)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: ["Halte à la mise à mort du secteur du BTP", le nouveau cri d’alarme des professionnels de Martinique](https://la1ere.francetvinfo.fr/martinique/halte-a-la-mise-a-mort-du-secteur-du-btp-le-nouveau-cri-d-alarme-des-professionnels-de-martinique-1496690.html)
+append_entries: 2
+Finish: 2024-06-14 01:20:26.185498

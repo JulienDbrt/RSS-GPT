@@ -1169,3 +1169,18 @@ Summarized using GPT-3.5-turbo
 Append: [L'apiculture en Martinique : une filière qui gagne à être connue ?](https://www.martinique.franceantilles.fr/actualite/economie/lapiculture-en-martinique-une-filiere-qui-gagne-a-etre-connue-991037.php)
 append_entries: 1
 Finish: 2024-06-13 12:38:46.688325
+------------------------------------------------------
+Started: 2024-06-14 01:16:43.742019
+Existing_entries: 235
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [Au Danemark, des jardiniers sous-marins plantent du varech pour restaurer l'écosystème d'un fjord](https://www.martinique.franceantilles.fr/actualite/economie/au-danemark-des-jardiniers-sous-marins-plantent-du-varech-pour-restaurer-lecosysteme-dun-fjord-991168.php)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Diet Discount : en difficulté en Martinique, l'enseigne lance une cagnotte en ligne](https://www.martinique.franceantilles.fr/actualite/economie/diet-discount-en-difficulte-en-martinique-lenseigne-lance-une-cagnotte-en-ligne-991132.php)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Cérémonie d'ouverture des Jeux: le plan de transport calé sur fond d'incertitude politique](https://www.martinique.franceantilles.fr/actualite/economie/ceremonie-douverture-des-jeux-le-plan-de-transport-cale-sur-fond-dincertitude-politique-991126.php)
+append_entries: 3
+Finish: 2024-06-14 01:16:56.861873

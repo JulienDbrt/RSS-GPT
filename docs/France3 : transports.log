@@ -1863,3 +1863,15 @@ Summarized using GPT-3.5-turbo
 Append: [Aviation : nouveau coup dur pour Lorraine Aéroport qui stoppe ses vols pour Marseille](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/aviation-nouveau-coup-dur-pour-lorraine-aeroport-qui-stoppe-ses-vols-pour-marseille-2985902.html)
 append_entries: 2
 Finish: 2024-06-13 12:41:38.475169
+------------------------------------------------------
+Started: 2024-06-14 01:18:50.918464
+Existing_entries: 454
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Un chauffeur de bus décède après une sortie de route](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/un-chauffeur-de-bus-decede-apres-une-sortie-de-route-2986772.html)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Quelles seront les lignes de métro ouvertes ? On vous explique comment vous rendre à la cérémonie d’ouverture](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-quelles-seront-les-lignes-de-metro-ouvertes-on-vous-explique-comment-vous-deplacer-pour-assister-a-la-ceremonie-d-ouverture-2986640.html)
+append_entries: 2
+Finish: 2024-06-14 01:19:01.648148

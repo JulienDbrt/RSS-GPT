@@ -1100,3 +1100,12 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : alors que la France manque de trains, le groupe s'attaque aux lignes intérieures en Italie](https://www.francetvinfo.fr/replay-radio/le-brief-eco/sncf-alors-que-la-france-manque-de-trains-le-groupe-s-attaque-aux-lignes-interieures-en-italie_6573302.html)
 append_entries: 1
 Finish: 2024-06-13 12:39:25.360044
+------------------------------------------------------
+Started: 2024-06-14 01:17:33.596579
+Existing_entries: 192
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [Métro, trains, axes routiers... Le plan de transport pour la cérémonie d'ouverture des Jeux olympiques et paralympiques de Paris 2024 dévoilé](https://www.francetvinfo.fr/les-jeux-olympiques/metro-trains-axes-routiers-le-plan-de-transport-pour-la-ceremonie-d-ouverture-des-jeux-olympiques-et-paralympiques-de-paris-2024-devoile_6602001.html)
+append_entries: 1
+Finish: 2024-06-14 01:17:37.573448
