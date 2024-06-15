@@ -720,3 +720,12 @@ Existing_entries: 66
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-06-15 01:19:33.813568
+------------------------------------------------------
+Started: 2024-06-15 12:36:28.840165
+Existing_entries: 66
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [Rue de Bourgogne à Orléans : la démolition des trois maisons en péril prévue d'ici la fin juin](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/rue-de-bourgogne-a-orleans-la-demolition-des-trois-maisons-en-peril-prevue-d-ici-la-fin-juin-2987651.html)
+append_entries: 1
+Finish: 2024-06-15 12:36:32.787192

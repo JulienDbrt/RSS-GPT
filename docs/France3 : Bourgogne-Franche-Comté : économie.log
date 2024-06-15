@@ -999,3 +999,21 @@ Existing_entries: 159
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-15 01:19:24.564345
+------------------------------------------------------
+Started: 2024-06-15 12:35:58.320099
+Existing_entries: 159
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: ["La situation devient insupportable" : un arrêté "anti-SDF" mis en place à Nevers pour lutter contre "l'insécurité"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/nevers/la-situation-devient-insupportable-un-arrete-anti-sdf-mis-en-place-a-nevers-pour-lutter-contre-l-insecurite-2987096.html)
+Token length: 415
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES.  "Ici, le RN a remplacé la gauche" : à Sochaux, quand la détresse des ouvriers Stellantis profite à l'extrême droite](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/sochaux/temoignages-ici-le-rn-a-remplace-la-gauche-a-sochaux-quand-la-detresse-des-ouvriers-profite-a-l-extreme-droite-2986220.html)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: ["C'est un scandale politico-financier" : 90 ans après, des révélations sur le crash de "l'Émeraude"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/ce-qui-se-cache-derriere-c-est-un-scandale-politico-financier-90-ans-apres-des-revelations-sur-le-crash-de-l-emeraude-2987318.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Recyclable et écoresponsable, le carton est une ressource inépuisable pour les créateurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/recyclable-et-ecoresponsable-le-carton-est-une-ressource-inepuisable-pour-les-createurs-2981153.html)
+append_entries: 4
+Finish: 2024-06-15 12:36:10.971568

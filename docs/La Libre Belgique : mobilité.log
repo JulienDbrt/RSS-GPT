@@ -893,3 +893,9 @@ Summarized using GPT-3.5-turbo
 Append: [Attention si vous prenez l’E40 début de semaine prochaine : l’autoroute sera à un moment… complètement fermée](https://www.lalibre.be/belgique/mobilite/2024/06/14/attention-si-vous-prenez-le40-debut-de-semaine-prochaine-lautoroute-sera-a-un-moment-completement-fermee-X7JEYBFHN5DZ5JPM2RUAIIFG2A/)
 append_entries: 1
 Finish: 2024-06-15 01:23:12.109039
+------------------------------------------------------
+Started: 2024-06-15 12:38:16.593405
+Existing_entries: 143
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-06-15 12:38:17.016536

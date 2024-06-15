@@ -2350,3 +2350,27 @@ Summarized using GPT-3.5-turbo
 Append: [Après la Bourse de Paris, l'euro recule à cause des incertitudes politiques en France](https://www.latribune.fr/economie/union-europeenne/apres-la-bourse-de-paris-l-euro-recule-a-cause-des-incertitudes-politiques-en-france-999854.html)
 append_entries: 8
 Finish: 2024-06-15 01:23:37.535052
+------------------------------------------------------
+Started: 2024-06-15 12:38:17.341033
+Existing_entries: 596
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [🔴 En direct - Législatives : François Hollande candidat en Corrèze](https://www.latribune.fr/economie/france/en-direct-legislatives-la-france-insoumise-se-divise-sur-les-investitures-999893.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [La conférence pour la paix en Ukraine s'ouvre en Suisse, la Chine grande absente](https://www.latribune.fr/economie/international/la-conference-pour-la-paix-en-ukraine-s-ouvre-en-suisse-la-chine-grande-absente-999907.html)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [« La haute technologie permet d'emporter la décision » (Général Stéphane Mille)](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/la-haute-technologie-permet-d-emporter-la-decision-general-stephane-mille-999899.html)
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: [Exploration spatiale : Quelles ambitions pour l'Europe ?](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/exploration-spatiale-quelles-ambitions-pour-l-europe-999885.html)
+Token length: 665
+Summarized using GPT-3.5-turbo
+Append: [Guerres hybrides : des menaces souterraines qui se généralisent](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/guerres-hybrides-des-menaces-souterraines-qui-se-generalisent-999867.html)
+Token length: 486
+Summarized using GPT-3.5-turbo
+Append: [Législatives : de l’éolien en mer à l’agrivoltaïsme, l’inquiétude gagne la filière des énergies renouvelables](https://www.latribune.fr/climat/energie-environnement/legislatives-de-l-eolien-en-mer-a-l-agrivoltaisme-l-inquietude-gagne-la-filiere-des-energies-renouvelables-999874.html)
+append_entries: 6
+Finish: 2024-06-15 12:38:42.468634

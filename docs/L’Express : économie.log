@@ -1267,3 +1267,15 @@ Existing_entries: 295
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-15 01:20:54.176798
+------------------------------------------------------
+Started: 2024-06-15 12:36:46.462927
+Existing_entries: 295
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 9104
+Summarized using GPT-3.5-turbo
+Append: [Citroën sous la menace d'une initiative collective : "Il est temps de réformer l’action de groupe en France"](https://www.lexpress.fr/economie/citroen-sous-la-menace-dune-initiative-collective-il-est-temps-de-reformer-laction-de-groupe-en-J6KDMCBWHNAFVG72ZMS2K5KTMI/)
+Token length: 5050
+Summarized using GPT-3.5-turbo
+Append: [Les "IA personnelles", révolution pour notre quotidien ou cauchemar à la "Black Mirror" ?](https://www.lexpress.fr/economie/high-tech/les-ia-personnelles-revolution-pour-notre-quotidien-ou-cauchemar-a-la-black-mirror-L7Q47HRNNNE73O4FWVUHJBJFFM/)
+append_entries: 2
+Finish: 2024-06-15 12:36:53.424375

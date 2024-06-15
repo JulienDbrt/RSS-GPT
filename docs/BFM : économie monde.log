@@ -900,3 +900,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le FMI approuve le déblocage d'une enveloppe de 800 millions de dollars d'aide à l'Argentine](https://www.bfmtv.com/economie/international/le-fmi-approuve-le-deblocage-d-une-enveloppe-de-800-millions-de-dollars-d-aide-a-l-argentine_AD-202406140105.html)
 append_entries: 1
 Finish: 2024-06-15 01:14:20.224924
+------------------------------------------------------
+Started: 2024-06-15 12:32:33.782751
+Existing_entries: 126
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Réfugiés, énergie, sécurité civile: une aide américaine de 1,5 milliard de dollars pour l'Ukraine](https://www.bfmtv.com/economie/international/refugies-energie-securite-civile-une-aide-americaine-de-1-5-milliard-de-dollars-pour-l-ukraine_AD-202406150289.html)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Euro 2024: pas de miracle économique attendu pour l'Allemagne](https://www.bfmtv.com/economie/international/euro-2024-pas-de-miracle-economique-attendu-pour-l-allemagne_AD-202406140864.html)
+append_entries: 2
+Finish: 2024-06-15 12:32:41.876763

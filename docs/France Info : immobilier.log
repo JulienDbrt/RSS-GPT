@@ -785,3 +785,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : des propriétaires échangent leurs biens](https://www.francetvinfo.fr/economie/immobilier/immobilier-des-proprietaires-echangent-leurs-biens_6604725.html)
 append_entries: 1
 Finish: 2024-06-15 01:18:20.268381
+------------------------------------------------------
+Started: 2024-06-15 12:34:56.929557
+Existing_entries: 81
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-15 12:34:57.080475

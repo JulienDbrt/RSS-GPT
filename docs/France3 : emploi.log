@@ -1059,3 +1059,24 @@ Summarized using GPT-3.5-turbo
 Append: ["Je m'inscris au chômage pour la première fois" après la dissolution, les 2 000 collaborateurs parlementaires licenciés sur le champ](https://france3-regions.francetvinfo.fr/centre-val-de-loire/je-m-inscris-au-chomage-pour-la-premiere-fois-apres-la-dissolution-les-2-000-collaborateurs-parlementaires-licencies-sur-le-champ-2987120.html)
 append_entries: 1
 Finish: 2024-06-15 01:19:33.410465
+------------------------------------------------------
+Started: 2024-06-15 12:36:13.302299
+Existing_entries: 179
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [La production des bouteilles Perrier d'un litre à l'arrêt après des contaminations, l'usine du Gard menacée](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/la-production-des-bouteilles-perrier-d-un-litre-a-l-arret-apres-des-contaminations-l-usine-du-gard-menacee-2986988.html)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [Faute de saisonniers, un restaurateur de Dordogne emploie du personnel étranger de Madagascar](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/faute-de-saisonniers-un-restaurateur-de-dordogne-emploie-du-personnel-etranger-de-madagascar-2987255.html)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024. Après la dissolution de l'Assemblée nationale, les attachés parlementaires, petites mains des députés, se retrouvent sans emploi](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/legislatives-2024-apres-la-dissolution-de-l-assemblee-nationale-les-attaches-parlementaires-petites-mains-des-deputes-se-retrouvent-sans-emploi-2987249.html)
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [Impériales Wheels : "c'est du gâchis", la menace de la liquidation judiciaire gronde](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre/chateauroux/imperiales-wheels-c-est-du-gachis-la-menace-de-la-liquidation-judiciaire-gronde-2987009.html)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [Insolite. Des entretiens d'embauche organisés dans une piscine pour "casser les codes du recrutement"](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/insolite-des-entretiens-d-embauche-organises-dans-une-piscine-pour-casser-les-codes-du-recrutement-2987372.html)
+append_entries: 5
+Finish: 2024-06-15 12:36:28.808389

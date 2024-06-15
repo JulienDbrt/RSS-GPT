@@ -1611,3 +1611,21 @@ Summarized using GPT-3.5-turbo
 Append: [Victime d'une attaque de choucas sur ses récoltes, une agricultrice réclame 17 000 € à l'État](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/lannion/victime-d-une-attaque-de-choucas-sur-ses-recoltes-une-agricultrice-reclame-17-000-a-l-etat-2987354.html)
 append_entries: 5
 Finish: 2024-06-15 01:19:24.056125
+------------------------------------------------------
+Started: 2024-06-15 12:35:42.486910
+Existing_entries: 363
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [Malgré une agriculture biologique à la baisse, le Puy-de-Dôme arrive à se stabiliser](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/malgre-une-agriculture-biologique-a-la-baisse-le-puy-de-dome-arrive-a-se-stabiliser-2987612.html)
+Token length: 304
+Summarized using GPT-3.5-turbo
+Append: [CARTE. Sécheresse : le Roussillon et l'Aude toujours en alerte rouge, les nappes phréatiques restent très basses malgré la pluie](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/carte-secheresse-le-roussillon-et-l-aude-toujours-en-alerte-rouge-les-nappes-phreatiques-restent-tres-basses-malgre-la-pluie-2987516.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: ["C'est travailler pour rien, c’est du gaspillage" : les éleveurs n'arrivent plus à vendre la laine de mouton](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/c-est-travailler-pour-rien-c-est-du-gaspillage-les-eleveurs-n-arrivent-plus-a-vendre-la-laine-de-mouton-2987411.html)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: ["L'ours attaque quand même", l'inquiétude des éleveurs de brebis au coup d'envoi de la saison des estives](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/l-ours-attaque-quand-meme-l-inquietude-des-eleveurs-de-brebis-au-coup-d-envoi-de-la-saison-des-estives-2987561.html)
+append_entries: 4
+Finish: 2024-06-15 12:35:58.239569

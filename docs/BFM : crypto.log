@@ -906,3 +906,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les Finlandais vont utiliser le minage de bitcoins pour... chauffer leurs maisons](https://www.bfmtv.com/crypto/bitcoin/les-finlandais-vont-utiliser-le-minage-de-bitcoins-pour-chauffer-leurs-maisons_AV-202406140480.html)
 append_entries: 3
 Finish: 2024-06-15 01:15:05.118287
+------------------------------------------------------
+Started: 2024-06-15 12:32:52.105020
+Existing_entries: 128
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-06-15 12:32:52.386764

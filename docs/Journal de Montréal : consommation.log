@@ -859,3 +859,9 @@ Summarized using GPT-3.5-turbo
 Append: [Peu de frites dans votre casseau? Voici comment les restaurants rapides vous dupent](https://www.journaldemontreal.com/2024/06/13/peu-de-frites-dans-votre-casseau-voici-comment-les-restaurants-rapides-vous-dupent)
 append_entries: 3
 Finish: 2024-06-15 01:19:57.819758
+------------------------------------------------------
+Started: 2024-06-15 12:36:33.363667
+Existing_entries: 101
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-06-15 12:36:33.629428

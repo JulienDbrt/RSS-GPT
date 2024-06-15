@@ -772,3 +772,9 @@ Summarized using GPT-3.5-turbo
 Append: [Maison sous le téléphérique avec vue sur la piscine : nous avons visité la propriété vendue par Tisséo](https://www.ladepeche.fr/2024/06/14/maison-sous-le-telepherique-avec-vue-sur-la-piscine-nous-avons-visite-la-propriete-vendue-par-tisseo-12016656.php)
 append_entries: 1
 Finish: 2024-06-15 01:22:32.284205
+------------------------------------------------------
+Started: 2024-06-15 12:38:00.852987
+Existing_entries: 80
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-06-15 12:38:01.458326
