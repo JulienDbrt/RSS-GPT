@@ -706,3 +706,12 @@ Existing_entries: 63
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-06-14 12:32:53.859498
+------------------------------------------------------
+Started: 2024-06-15 01:11:25.424119
+Existing_entries: 63
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Fraude au compteur Linky. Que risquez-vous si vous trafiquez votre installation électrique ?](https://www.ouest-france.fr/economie/budget/fraude-au-compteur-linky-que-risquez-vous-si-vous-trafiquez-votre-installation-electrique-ef500766-2802-11ef-a03e-d172161e5c0f)
+append_entries: 1
+Finish: 2024-06-15 01:11:32.397101

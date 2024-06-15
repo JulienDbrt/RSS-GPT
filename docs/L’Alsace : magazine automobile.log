@@ -903,3 +903,18 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveauté. Lancia Ypsilon HF : va-t-elle faire entrer la marque dans une nouvelle ère ?](https://www.lalsace.fr/magazine-automobile/2024/06/13/lancia-ypsilon-hf-va-t-elle-faire-entrer-la-marque-dans-une-nouvelle-ere)
 append_entries: 3
 Finish: 2024-06-14 12:42:13.384751
+------------------------------------------------------
+Started: 2024-06-15 01:20:29.374017
+Existing_entries: 122
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Immobilier - Pratique. Comment construire un garage sur une place de parking ?](https://www.lalsace.fr/magazine-immobilier/2024/06/14/comment-construire-un-garage-sur-une-place-de-parking)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [Moto - Roadster. Quel roadster explosif choisir avec 180 chevaux minimum ?](https://www.lalsace.fr/magazine-automobile/2024/06/14/quel-roadster-explosif-choisir-avec-180-chevaux-minimum)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Camping-car. Westfalia Kesley : l’invitation à l’aventure en van aménagé haut de gamme](https://www.lalsace.fr/magazine-automobile/2024/06/14/westfalia-kesley-l-invitation-a-l-aventure-en-van-amenage-haut-de-gamme)
+append_entries: 3
+Finish: 2024-06-15 01:20:40.588424

@@ -1000,3 +1000,12 @@ Summarized using GPT-3.5-turbo
 Append: [L'Europe condamne la France à indemniser le propriétaire d'un château squatté dans l'Oise](https://www.bfmtv.com/immobilier/l-europe-condamne-la-france-a-indemniser-le-proprietaire-d-un-chateau-squatte-dans-l-oise_AD-202406140408.html)
 append_entries: 1
 Finish: 2024-06-14 12:37:37.943943
+------------------------------------------------------
+Started: 2024-06-15 01:16:18.065040
+Existing_entries: 174
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [HLM, expulsions, APL et PTZ... Le programme sur le logement du Nouveau Front populaire](https://www.bfmtv.com/immobilier/hlm-expulsions-apl-et-ptz-le-programme-sur-le-logement-du-nouveau-front-populaire_AV-202406140686.html)
+append_entries: 1
+Finish: 2024-06-15 01:16:23.094486

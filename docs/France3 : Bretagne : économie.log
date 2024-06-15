@@ -795,3 +795,12 @@ Existing_entries: 93
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-14 12:41:23.249481
+------------------------------------------------------
+Started: 2024-06-15 01:19:24.626101
+Existing_entries: 93
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024. Dans les ports bretons, le vote RN séduit les pêcheurs : "On a été abandonné en rase campagne"](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/legislatives-2024-dans-les-ports-bretons-le-vote-rn-seduit-les-pecheurs-on-a-ete-abandonne-en-rase-campagne-2987570.html)
+append_entries: 1
+Finish: 2024-06-15 01:19:29.938801

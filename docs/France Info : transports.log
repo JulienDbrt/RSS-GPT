@@ -1118,3 +1118,18 @@ Summarized using GPT-3.5-turbo
 Append: [VIDEO. Quand les taxis volants font face à quelques vents contraires](https://www.francetvinfo.fr/economie/transports/video-quand-les-taxis-volants-font-face-a-quelques-vents-contraires_6604026.html)
 append_entries: 1
 Finish: 2024-06-14 12:39:50.222434
+------------------------------------------------------
+Started: 2024-06-15 01:18:20.368234
+Existing_entries: 194
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Transports : le prix des trains Ouigo va-t-il augmenter ?](https://www.francetvinfo.fr/economie/transports/sncf/transports-le-prix-des-trains-ouigo-va-t-il-augmenter_6604584.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Nouvelles destinations, nouvelles rames... La SNCF présente la nouvelle offre Ouigo](https://www.francetvinfo.fr/economie/transports/sncf/nouvelles-destinations-nouvelles-rames-la-sncf-presente-la-nouvelle-offre-ouigo_6604116.html)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Transports : la SNCF présente de nouveaux trains Ouigo](https://www.francetvinfo.fr/economie/transports/sncf/sncf-des-nouveaux-ouigo-plus-nombreux-plus-spacieux-et-plus-chers_6604251.html)
+append_entries: 3
+Finish: 2024-06-15 01:18:27.781474

@@ -954,3 +954,12 @@ Summarized using GPT-3.5-turbo
 Append: [Pousseur du RER B : un homme mis en examen et placé en détention provisoire pour assassinat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/pousseur-du-rer-b-un-homme-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-2986886.html)
 append_entries: 2
 Finish: 2024-06-14 12:40:58.189032
+------------------------------------------------------
+Started: 2024-06-15 01:19:08.563585
+Existing_entries: 146
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: ["Le plus difficile, c'est la charge mentale" : une commune de l'Essonne crée le statut de parents isolés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/le-plus-difficile-c-est-la-charge-mentale-une-commune-de-l-essonne-cree-le-statut-de-parents-isoles-2987234.html)
+append_entries: 1
+Finish: 2024-06-15 01:19:12.415512

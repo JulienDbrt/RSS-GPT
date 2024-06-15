@@ -1025,3 +1025,15 @@ Summarized using GPT-3.5-turbo
 Append: [Tesla : « Bon sang, je vous adore les gars »… Elon Musk remercie ses actionnaires, il va toucher 56 milliards de dollars](https://www.20minutes.fr/economie/4096215-20240614-tesla-bon-sang-adore-gars-elon-musk-peut-remercier-actionnaires-va-toucher-56-milliards)
 append_entries: 3
 Finish: 2024-06-14 12:35:22.216048
+------------------------------------------------------
+Started: 2024-06-15 01:13:28.577274
+Existing_entries: 163
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [Le CAC40 connaît sa pire semaine depuis 2022, la dissolution inquiète les marchés](https://www.20minutes.fr/economie/4096350-20240614-cac40-connu-pire-semaine-depuis-2022-dissolution-inquiete-marches)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [Boeing : Des fixations mal serrées sur des 787 (pas encore livrés, heureusement)](https://www.20minutes.fr/societe/4096296-20240614-boeing-fixations-mal-serrees-787-encore-livres-heureusement)
+append_entries: 2
+Finish: 2024-06-15 01:13:40.990699

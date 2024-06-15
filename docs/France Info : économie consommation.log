@@ -3236,3 +3236,30 @@ Append: [Grève au journal "Sud Ouest" : le mouvement a été suspendu sans qu'u
 Append: [REPORTAGE. "Quand on a qu'une seule paye, ce n'est pas facile" : la ville de Ris-Orangis adopte une série de mesures pour accompagner les parents isolés](https://www.francetvinfo.fr/societe/reportage-quand-on-a-qu-une-seule-paye-ce-n-est-pas-facile-la-ville-de-ris-orangis-adopte-une-serie-de-mesures-pour-accompagner-les-parents-isoles_6602454.html)
 append_entries: 13
 Finish: 2024-06-14 12:39:40.594235
+------------------------------------------------------
+Started: 2024-06-15 01:17:48.600044
+Existing_entries: 1013
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Consommation : des puits contaminés, Perrier suspend une partie de sa production](https://www.francetvinfo.fr/economie/consommation-des-puits-contamines-perrier-suspend-une-partie-de-sa-production_6604575.html)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : des propriétaires échangent leurs biens](https://www.francetvinfo.fr/economie/immobilier/immobilier-des-proprietaires-echangent-leurs-biens_6604725.html)
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Transports : le prix des trains Ouigo va-t-il augmenter ?](https://www.francetvinfo.fr/economie/transports/sncf/transports-le-prix-des-trains-ouigo-va-t-il-augmenter_6604584.html)
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: ["L'intelligence artificielle va bouleverser nos vies parce qu'on va travailler de plus en plus", analyse un spécialiste](https://www.francetvinfo.fr/replay-radio/l-interview-eco/l-intelligence-artificielle-va-bouleverser-nos-vies-parce-qu-on-va-travailler-de-plus-en-plus-analyse-un-specialiste_6575369.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Nouvelles destinations, nouvelles rames... La SNCF présente la nouvelle offre Ouigo](https://www.francetvinfo.fr/economie/transports/sncf/nouvelles-destinations-nouvelles-rames-la-sncf-presente-la-nouvelle-offre-ouigo_6604116.html)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Transports : la SNCF présente de nouveaux trains Ouigo](https://www.francetvinfo.fr/economie/transports/sncf/sncf-des-nouveaux-ouigo-plus-nombreux-plus-spacieux-et-plus-chers_6604251.html)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Gard : la production de bouteilles de Perrier ralentie après la fermeture de puits ?](https://www.francetvinfo.fr/economie/gard-la-production-de-bouteilles-de-perrier-ralentie-apres-la-fermeture-de-puits_6604230.html)
+append_entries: 7
+Finish: 2024-06-15 01:18:12.923978
