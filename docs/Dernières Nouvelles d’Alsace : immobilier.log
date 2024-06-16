@@ -776,3 +776,12 @@ Summarized using GPT-3.5-turbo
 Append: [Conseils jardinage. Lancez-vous dans les travaux estivaux de juin !](https://www.dna.fr/magazine-immobilier/2024/06/15/lancez-vous-dans-les-travaux-estivaux-de-juin)
 append_entries: 1
 Finish: 2024-06-15 12:34:32.788043
+------------------------------------------------------
+Started: 2024-06-16 01:18:18.871812
+Existing_entries: 76
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Crise du logement. Pourquoi les jeunes restent encore si longtemps chez leurs parents ?](https://www.dna.fr/magazine-immobilier/2024/06/15/pourquoi-les-jeunes-restent-encore-si-longtemps-chez-leurs-parents)
+append_entries: 1
+Finish: 2024-06-16 01:18:22.595796

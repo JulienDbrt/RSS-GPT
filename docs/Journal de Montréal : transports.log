@@ -933,3 +933,21 @@ Existing_entries: 125
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-06-15 12:36:33.769949
+------------------------------------------------------
+Started: 2024-06-16 01:19:02.623183
+Existing_entries: 125
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [REM: début des essais sur l’antenne Deux-Montagnes](https://www.journaldemontreal.com/2024/06/14/rem-debut-des-essais-sur-lantenne-deux-montagnes)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Abaisser le tablier ne serait pas une solution pour les camions, selon le ministère des Transports du Québec](https://www.journaldemontreal.com/2024/06/14/abaisser-le-tablier-ne-serait-pas-une-solution-pour-les-camions-selon-le-ministere-des-transports-du-quebec)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Tablier du pont de Québec: l’Association du camionnage doute de la solution avancée par Duclos](https://www.journaldemontreal.com/2024/06/14/tablier-du-pont-de-quebec-lassociation-du-camionnage-doute-de-la-solution-avancee-par-duclos)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [3e lien: «Il y a un besoin ardent», croit la PDG de la Chambre de commerce de Lévis](https://www.journaldemontreal.com/2024/06/14/3e-lien-il-y-a-un-besoin-ardent-croit-la-pdg-de-la-chambre-de-commerce-de-levis)
+append_entries: 4
+Finish: 2024-06-16 01:19:13.131087

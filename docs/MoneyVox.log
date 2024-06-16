@@ -2698,3 +2698,15 @@ Summarized using GPT-3.5-turbo
 Append: [Electricité et gaz : attention à cette entourloupe qui fait bondir les factures de régularisation](https://www.moneyvox.fr/energie/actualites/98189/electricite-et-gaz-attention-a-cette-entourloupe-qui-fait-bondir-les-factures-de-regularisation)
 append_entries: 9
 Finish: 2024-06-15 12:35:40.714886
+------------------------------------------------------
+Started: 2024-06-16 01:18:40.401276
+Existing_entries: 786
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Frais de notaire supprimés, prime de 10 000 euros... Les nouvelles promesses du camp Macron](https://www.moneyvox.fr/votre-argent/actualites/98290/frais-de-notaire-supprimes-prime-de-10-000-euros-les-nouvelles-promesses-du-camp-macron)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Immobilier à Saint-Denis : voici les prix à l'achat et à la location en juin 2024](https://www.moneyvox.fr/immobilier/actualites/98238/immobilier-a-saint-denis-voici-les-prix-a-achat-et-a-la-location-en-juin-2024)
+append_entries: 2
+Finish: 2024-06-16 01:18:48.206679

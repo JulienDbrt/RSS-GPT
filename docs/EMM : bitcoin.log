@@ -3601,3 +3601,15 @@ Summarized using GPT-3.5-turbo
 Append: [L’intérêt ouvert Ethereum (ETH) sur CME grimpe aux niveaux de mars, signalant une volatilité à venir](https://www.cryptopolitan.com/fr/l-39-interet-ethereum-signale-la-volatilite/)
 append_entries: 1
 Finish: 2024-06-15 12:28:42.841993
+------------------------------------------------------
+Started: 2024-06-16 01:14:03.113065
+Existing_entries: 1001
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Principaux Altcoins de juin 2024 : BlockDAG domine les innovations XRP ETF et Polkadot avec X10 Miner et vise un objectif de prix de 30 $ il y a 3 heures](https://www.cryptopolitan.com/fr/le-blockdag-leader-des-altcoins-de-juin-2024-domine-les-innovations-dot-xrp-etf-avec-un-mineur-x10-et-vise-un-objectif-de-prix-de-30/)
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [Deutsche Telekom se lance dans l'industrie minière Bitcoin](https://www.cryptopolitan.com/fr/deutsche-telekom-se-lance-dans-l-39-exploitation-miniere-bitcoin/)
+append_entries: 2
+Finish: 2024-06-16 01:14:10.483712

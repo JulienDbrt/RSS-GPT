@@ -813,3 +813,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On peut vieillir avec le VIH, pas avec l'extrême droite" : À Rennes, la marche des fiertés défile avec celle contre le Rassemblement National](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/on-peut-vieillir-avec-le-vih-pas-avec-l-extreme-droite-a-rennes-la-marche-des-fiertes-defile-avec-celle-contre-le-rassemblement-national-2987735.html)
 append_entries: 1
 Finish: 2024-06-15 12:36:13.211599
+------------------------------------------------------
+Started: 2024-06-16 01:19:00.974560
+Existing_entries: 95
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-16 01:19:01.210390

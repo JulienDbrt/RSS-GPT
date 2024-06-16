@@ -1096,3 +1096,9 @@ Summarized using GPT-3.5-turbo
 Append: [Minelli, Habitat... L'enseigne Noz revend pour une bouchée de pain les produits de ces marques en faillite](https://www.europe1.fr/economie/minelli-habitat-lenseigne-noz-revend-pour-une-bouchee-de-pain-les-produits-de-ces-marques-en-faillite-4252864)
 append_entries: 1
 Finish: 2024-06-15 12:34:42.314735
+------------------------------------------------------
+Started: 2024-06-16 01:18:26.361153
+Existing_entries: 184
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-06-16 01:18:26.518524
