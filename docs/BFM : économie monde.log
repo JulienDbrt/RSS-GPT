@@ -918,3 +918,12 @@ Existing_entries: 128
 Fetching from https://www.bfmtv.com/rss/economie/international/
 append_entries: 0
 Finish: 2024-06-16 01:17:19.830061
+------------------------------------------------------
+Started: 2024-06-16 12:32:07.945367
+Existing_entries: 128
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: ["Beaux, charmants et adorables": comment la Chine utilise les pandas pour relancer ses relations avec l'Australie](https://www.bfmtv.com/economie/international/beaux-charmants-et-adorables-comment-la-chine-utilise-les-pandas-pour-relancer-ses-relations-avec-l-australie_AD-202406160171.html)
+append_entries: 1
+Finish: 2024-06-16 12:32:11.952312

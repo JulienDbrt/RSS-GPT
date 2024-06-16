@@ -1086,3 +1086,12 @@ Existing_entries: 184
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-06-16 01:19:01.547109
+------------------------------------------------------
+Started: 2024-06-16 12:35:00.048034
+Existing_entries: 184
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [22 personnes embauchées grâce au dispositif "territoire zéro chômeurs : "ils reconnaissent l'être humain avant le diplôme"](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/22-personnes-embauchees-grace-au-dispositif-territoire-zero-chomeurs-ils-reconnaissent-l-etre-humain-avant-le-diplome-2987300.html)
+append_entries: 1
+Finish: 2024-06-16 12:35:04.189218

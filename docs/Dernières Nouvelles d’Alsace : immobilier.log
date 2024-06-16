@@ -785,3 +785,12 @@ Summarized using GPT-3.5-turbo
 Append: [Crise du logement. Pourquoi les jeunes restent encore si longtemps chez leurs parents ?](https://www.dna.fr/magazine-immobilier/2024/06/15/pourquoi-les-jeunes-restent-encore-si-longtemps-chez-leurs-parents)
 append_entries: 1
 Finish: 2024-06-16 01:18:22.595796
+------------------------------------------------------
+Started: 2024-06-16 12:33:37.905617
+Existing_entries: 77
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Conseils décoration. Adoptez le style "maison de vacances" : entre légèreté et vintage](https://www.dna.fr/magazine-immobilier/2024/06/16/adoptez-le-style-maison-de-vacances-entre-legerete-et-vintage)
+append_entries: 1
+Finish: 2024-06-16 12:33:43.364336

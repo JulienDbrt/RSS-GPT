@@ -787,3 +787,12 @@ Summarized using GPT-3.5-turbo
 Append: [INFO LA DEPECHE. Système pyramidal : sans nouvelle de leur patron, cinq salariés du cabinet l’Immeuble poussés à la démission](https://www.ladepeche.fr/2024/06/15/info-la-depeche-systeme-pyramidal-sans-nouvelle-de-leur-patron-cinq-salaries-du-cabinet-limmeuble-pousses-a-la-demission-12018902.php)
 append_entries: 1
 Finish: 2024-06-16 01:19:52.873569
+------------------------------------------------------
+Started: 2024-06-16 12:37:09.430040
+Existing_entries: 81
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Lavelanet. La CCPO aide les projets immobiliers](https://www.ladepeche.fr/2024/06/16/la-ccpo-aide-les-projets-immobiliers-12019781.php)
+append_entries: 1
+Finish: 2024-06-16 12:37:13.846167

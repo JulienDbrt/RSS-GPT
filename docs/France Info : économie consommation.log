@@ -3290,3 +3290,15 @@ Summarized using GPT-3.5-turbo
 Append: [Ekoï, le succès grâce au commerce en ligne et au Tour de France](https://www.francetvinfo.fr/replay-radio/ca-nous-marque/ekoi-le-succes-grace-au-commerce-en-ligne-et-au-tour-de-france_6525335.html)
 append_entries: 2
 Finish: 2024-06-16 01:18:35.594570
+------------------------------------------------------
+Started: 2024-06-16 12:33:54.718436
+Existing_entries: 1002
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Transports : la Chine mise sur les trains à sustentation magnétique](https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/transports-la-chine-mise-sur-les-trains-a-sustentation-magnetique_6486503.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [La transition écologique et sociale : un bon vecteur pour remettre en action les jeunes qui ne sont ni en études, ni en emploi, ni en formation](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/la-transition-ecologique-et-sociale-un-bon-vecteur-pour-remettre-en-action-les-jeunes-qui-ne-sont-ni-en-etudes-ni-en-emploi-ni-en-formation_6486500.html)
+append_entries: 2
+Finish: 2024-06-16 12:34:00.716239

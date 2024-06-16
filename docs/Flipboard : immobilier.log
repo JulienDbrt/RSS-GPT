@@ -2102,3 +2102,21 @@ Summarized using GPT-3.5-turbo
 Append: [Le prix des maisons du Grand Montréal a explosé en 2024 et voici combien elles coûtent](https://www.narcity.com/fr/montreal/prix-des-maisons-grand-montreal-centris-2024)
 append_entries: 1
 Finish: 2024-06-16 01:15:25.832366
+------------------------------------------------------
+Started: 2024-06-16 12:29:53.923318
+Existing_entries: 618
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : la dégringolade des prix des locations en vue des JO se poursuit](https://www.leparisien.fr/jo-paris-2024/paris-2024-la-degringolade-des-prix-des-locations-en-vue-des-jo-se-poursuit-16-06-2024-2I6YFTHGXBCMLEWOVFM7K5EJM4.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [5 trucs et astuces pour repérer une arnaque sur Leboncoin !](https://lemagdelaconso.ouest-france.fr/dossier-1133-trucs-astuces-reperer-arnaque-leboncoin.html)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Cette nouveauté du fisc est obligatoire et peut entraîner une amende de 150 euros](https://www.journaldunet.com/economie/immobilier/1529593-hf1-amende-contribuable-150/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Le RN aux portes du pouvoir ? "Les investisseurs demandent une prime de risque plus élevée"](https://www.lexpress.fr/argent/immobilier/le-rn-aux-portes-du-pouvoir-les-investisseurs-demandent-une-prime-de-risque-plus-elevee-72UZTKHTFBDETB6FXOQKHZNG3I/)
+append_entries: 4
+Finish: 2024-06-16 12:30:05.567463

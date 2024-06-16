@@ -1145,3 +1145,12 @@ Existing_entries: 197
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-06-16 01:18:38.831368
+------------------------------------------------------
+Started: 2024-06-16 12:34:01.892940
+Existing_entries: 197
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Transports : la Chine mise sur les trains à sustentation magnétique](https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/transports-la-chine-mise-sur-les-trains-a-sustentation-magnetique_6486503.html)
+append_entries: 1
+Finish: 2024-06-16 12:34:05.391596

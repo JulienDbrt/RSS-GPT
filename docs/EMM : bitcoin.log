@@ -3613,3 +3613,15 @@ Summarized using GPT-3.5-turbo
 Append: [Deutsche Telekom se lance dans l'industrie minière Bitcoin](https://www.cryptopolitan.com/fr/deutsche-telekom-se-lance-dans-l-39-exploitation-miniere-bitcoin/)
 append_entries: 2
 Finish: 2024-06-16 01:14:10.483712
+------------------------------------------------------
+Started: 2024-06-16 12:28:31.459248
+Existing_entries: 1002
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 39
+Summarized using GPT-3.5-turbo
+Append: [Un général quatre étoiles achète du CAE](https://www.lapresse.ca/affaires/marches/2024-06-16/l-investisseur-avise/un-general-quatre-etoiles-achete-du-cae.php)
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi les États-Unis devraient se concentrer sur la politique minière de Bitcoin](https://www.nouvelles-du-monde.com/pourquoi-les-etats-unis-devraient-se-concentrer-sur-la-politique-miniere-de-bitcoin/)
+append_entries: 2
+Finish: 2024-06-16 12:28:42.011409

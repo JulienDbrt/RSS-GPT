@@ -4,6 +4,69 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>PairDrop – Le partage de fichiers P2P en mode AirDrop dans votre navigateur</title>
+<link>https://korben.info/pairdrop-partage-fichiers-p2p-navigateur.html</link>
+<guid>https://korben.info/pairdrop-partage-fichiers-p2p-navigateur.html</guid>
+<content:encoded><![CDATA[
+<div> PairDrop, partage de fichiers, réseau local, connexion P2P, transferts via Internet, room publique temporaire <br>
+<br>
+Summary:
+PairDrop est un outil de partage de fichiers via une connexion P2P, fonctionnant sur tous les devices et permettant des transferts en réseau local ou via Internet. Il offre la possibilité de rejoindre des rooms publiques temporaires pour partager des fichiers avec d'autres utilisateurs à distance. L'application gère les connexions complexes et propose des fonctionnalités pratiques comme l'appairage via un code ou QR code, la gestion des transferts de fichiers et la prévisualisation des vidéos et audios. PairDrop est open source et utilise des technologies modernes telles que HTML5, JS ES6, CSS3, WebRTC et WebSockets. Les développeurs ont pensé à tout pour simplifier l'expérience de partage de fichiers, même en proposant une interface en ligne de commande pour les utilisateurs avancés. Enfin, il est possible d'héberger sa propre instance de PairDrop pour ceux qui souhaitent personnaliser davantage l'outil. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="371" src="https://korben.info/app/uploads/2024/04/SCR-20240405-tciq.webp" width="1000" /></p>
+<p>Aujourd&rsquo;hui, j&rsquo;aimerais vous parler d&rsquo;un outil de partage de fichiers qui va vous plaire : <strong>PairDrop</strong> ! C&rsquo;est comme AirDrop en version web et ça marche sur tous vos devices, quel que soit l&rsquo;OS. Smartphone, laptop, PC fixe, tout y passe ! La seule condition c&rsquo;est d&rsquo;avoir un navigateur web moderne.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-338420841" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec PairDrop, vous pouvez envoyer des images, des docs, du texte, bref tout ce que vous voulez, en un clin d&rsquo;œil. Ça utilise une connexion <strong>P2P</strong> (peer-to-peer pour les noobs) pour transférer directement les fichiers entre vos appareils sur le même réseau local. Et le top du top, c&rsquo;est que vous pouvez aussi faire des transferts via Internet pour partager avec des potes à distance !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158445" height="416" src="https://korben.info/app/uploads/2024/04/SCR-20240405-tcav.webp" width="1000" /></figure></div>
+
+
+<p>Pour ça, il suffit de rejoindre une room publique temporaire, et bam, tous les devices dans la même room peuvent s&rsquo;échanger des fichiers. C&rsquo;est méga pratique pour partager des trucs rapidement avec des gens, même s&rsquo;ils sont pas sur le même réseau. Et bien sûr, ça marche nickel même si vous êtes sur un réseau chelou genre le Wi-Fi public, le réseau de votre boite, un VPN ou un truc comme iCloud Private Relay.</p>
+
+
+
+<p>En plus de ça, PairDrop gère les <strong>connexions complexes</strong> comme un chef. Genre si vous voulez partager un truc depuis votre mobile en mode hotspot, pas de blème ! Les appareils en dehors de votre réseau local qui sont derrière un NAT sont auto-connectés via le serveur TURN de PairDrop. C&rsquo;est de la magie ce truc !</p>
+
+
+
+<p>Vous pouvez aussi <strong>appairer vos devices</strong> via un code à 6 chiffres ou un QR code, comme ça, vos appareils se retrouvent toujours grâce à des secrets partagés, peu importe le réseau. L&rsquo;appairage est persistant en plus, donc même si vous fermez PairDrop, vous retrouverez vos devices en le rouvrant. Et bien sûr, vous pouvez éditer et dé-appairer vos devices en deux clics.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158444" height="2532" src="https://korben.info/app/uploads/2024/04/pairdrop_screenshot_mobile.gif" style="width: 334px; height: auto;" width="1170" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-756444045" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Les fichiers sont transférés après validation d&rsquo;une demande. Et une fois le transfert terminé, si possible ils sont auto-downloadés direct. Si vous envoyez plusieurs fichiers, ils seront zippés bien comme il faut. Sur Android et iOS vous pouvez télécharger, partager ou sauvegarder dans la galerie via le menu « Partager ». Et quand vous envoyez plusieurs fichiers d&rsquo;un coup, vous avez même un joli indicateur de progression global.</p>
+
+
+
+<p>Bon et je vous ai pas encore parlé des autres fonctions vraiment pratiques que les devs ont ajoutées. Par exemple, vous pouvez <strong>envoyer des fichiers direct depuis le menu contextuel</strong> sur Ubuntu (avec Nautilus), sur Windows, ou depuis le menu « Partager » sur iOS et Android. Il y a même une interface en ligne de commande pour les vrais barbus ! Vous pouvez aussi changer votre nom d&rsquo;affichage pour différencier facilement vos devices.</p>
+
+
+
+<p>Les petits gars derrière PairDrop ont vraiment pensé à tout. Genre vous pouvez coller des fichiers/du texte et choisir le destinataire après et surtout, vos appareils se mettent plus en veille pendant un transfert. Vous aurez même un avertissement si vous fermez PairDrop par erreur pendant un transfert et y&rsquo;a même une preview des vidéos et des audios !</p>
+
+
+
+<p>C&rsquo;est  opensource en plus, donc vous pouvez aller voir le code sur GitHub et même contribuer si ça vous dit. Bon par contre, si vous voulez héberger votre propre instance de PairDrop, genre sur un Raspberry Pi, faudra potasser un peu la doc pour configurer vos serveurs STUN/TURN, mais c&rsquo;est clairement à la portée de n&rsquo;importe quel geek un peu motivé. Je vous ferais un tuto si vous voulez.</p>
+
+
+
+<p>Niveau techno, on est sur du classique mais efficace : HTML5, JS ES6, CSS3, PWA, tout ça tout ça. Avec du WebRTC et des WebSockets pour la partie réseau. Un back en Node.js, parce que le JavaScript c&rsquo;est la vie. Ils utilisent également IndexedDB pour la gestion du stockage, zip.js pour la compression des fichiers, cyrb53 pour le hashage, et NoSleep pour empêcher la mise en veille. Que des libs bien velues, approuvées par la communauté.</p>
+
+
+
+<p><a href="https://pairdrop.net/" rel="noopener" target="_blank">Allez, je vous laisse tester ça</a>, vous me remercierez plus tard.</p>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>GriddyCode – Codez comme un boss avec ce nouvel éditeur survolté !</title>

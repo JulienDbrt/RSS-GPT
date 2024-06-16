@@ -792,3 +792,15 @@ Existing_entries: 86
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-06-16 01:18:49.656994
+------------------------------------------------------
+Started: 2024-06-16 12:34:42.866809
+Existing_entries: 86
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Autoconsommation, revente du surplus. Malgré ses avantages, pourquoi le photovoltaïque est à la traîne chez les particuliers](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/autoconsommation-revente-du-surplus-malgre-ses-avantage-pourquoi-le-photovoltaique-est-a-la-traine-chez-les-particuliers-2987468.html)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [Eoliennes off-shore : les phoques veaux-marins suivis à la trace](https://france3-regions.francetvinfo.fr/normandie/calvados/eoliennes-off-shore-les-phoques-veaux-marins-suivis-a-la-trace-2986940.html)
+append_entries: 2
+Finish: 2024-06-16 12:34:50.503569
