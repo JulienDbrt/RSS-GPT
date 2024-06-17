@@ -981,3 +981,12 @@ Existing_entries: 147
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-16 12:34:50.754343
+------------------------------------------------------
+Started: 2024-06-17 12:41:25.146838
+Existing_entries: 147
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Une station de métro entièrement consacrée aux tournages de films](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-station-de-metro-entierement-consacree-aux-tournages-de-films-2982707.html)
+append_entries: 1
+Finish: 2024-06-17 12:41:32.431301

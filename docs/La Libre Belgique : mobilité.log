@@ -911,3 +911,15 @@ Existing_entries: 143
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-06-16 12:37:31.597663
+------------------------------------------------------
+Started: 2024-06-17 12:45:44.385264
+Existing_entries: 143
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Un accident provoque un embouteillage de 30 minutes sur l'E40 vers Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/06/17/un-accident-provoque-un-embouteillage-de-30-minutes-sur-le40-vers-bruxelles-DIIXJAUTPFHRXADDE5X3X4ONGA/)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [Le trafic sur l'E40 sera perturbé dès lundi soir : le point sur les travaux](https://www.lalibre.be/belgique/mobilite/2024/06/17/le-trafic-sur-le40-sera-perturbe-des-lundi-soir-le-point-sur-les-travaux-AZZCSFNU6VHIRMWDMHQBN2UJFA/)
+append_entries: 2
+Finish: 2024-06-17 12:45:51.228066

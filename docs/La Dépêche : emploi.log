@@ -1249,3 +1249,9 @@ Summarized using GPT-3.5-turbo
 Append: [Decazeville. La Matinale de l’emploi a fait le plein pour sa deuxième édition](https://www.ladepeche.fr/2024/06/16/la-matinale-de-lemploi-a-fait-le-plein-pour-sa-deuxieme-edition-12019775.php)
 append_entries: 3
 Finish: 2024-06-16 12:37:09.388738
+------------------------------------------------------
+Started: 2024-06-17 12:44:49.814839
+Existing_entries: 233
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-06-17 12:44:50.565160

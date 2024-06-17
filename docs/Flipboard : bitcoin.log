@@ -1794,3 +1794,18 @@ Summarized using GPT-3.5-turbo
 Append: [Crypto : Ledger lance enfin le Stax, le wallet conçu avec le père de l’iPod](https://www.01net.com/actualites/crypto-ledger-lance-enfin-stax-wallet-concu-pere-ipod.html)
 append_entries: 2
 Finish: 2024-06-16 12:28:49.051701
+------------------------------------------------------
+Started: 2024-06-17 12:31:25.026931
+Existing_entries: 428
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin va exploser de +657% d'ici 2029 selon Bernstein: Comment en profiter en Bourse](https://fr.investing.com/news/stock-market-news/bitcoin-va-exploser-de-657-dici-2029-selon-bernstein-comment-en-profiter-en-bourse-2454427)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Le nouveau Parlement rassure l’industrie crypto européenne !](https://www.cointribune.com/le-nouveau-parlement-rassure-lindustrie-crypto-europeenne/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Deux hackers libèrent 3 millions d'euros bloqués depuis 2013 sur son compte](https://www.24matins.fr/deux-hackers-liberent-3-millions-deuros-bloques-depuis-2013-sur-son-compte-1375644)
+append_entries: 3
+Finish: 2024-06-17 12:31:43.163153

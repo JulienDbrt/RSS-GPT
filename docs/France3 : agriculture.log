@@ -1647,3 +1647,15 @@ Summarized using GPT-3.5-turbo
 Append: [Cette chercheuse produit sa première récolte d'eau de rose et veut créer un conservatoire de la rose à parfum](https://france3-regions.francetvinfo.fr/grand-est/moselle/cette-chercheuse-produit-sa-premiere-recolte-d-eau-de-rose-et-veut-creer-un-conservatoire-de-la-rose-a-parfum-2987834.html)
 append_entries: 1
 Finish: 2024-06-16 12:34:55.496123
+------------------------------------------------------
+Started: 2024-06-17 12:41:32.619594
+Existing_entries: 369
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Énergie solaire : des panneaux photovoltaïques bientôt installés dans un verger au milieu des pommiers pour produire de l'électricité](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/energie-solaire-des-panneaux-photovoltaiques-bientot-installes-dans-un-verger-au-milieu-des-pommiers-pour-produire-de-l-electricite-2987549.html)
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [Sécheresse : nappes phréatiques bien remplies et pluies de printemps, l'été 2024 s'annonce moins difficile que le précédent](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/secheresse-nappes-phreatiques-bien-remplies-et-pluies-de-printemps-l-ete-2024-s-annonce-moins-difficile-que-le-precedent-2987279.html)
+append_entries: 2
+Finish: 2024-06-17 12:41:44.484961

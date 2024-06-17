@@ -954,3 +954,18 @@ Existing_entries: 138
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
 append_entries: 0
 Finish: 2024-06-16 12:33:04.837900
+------------------------------------------------------
+Started: 2024-06-17 12:38:24.355942
+Existing_entries: 138
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Des flammes jaillissent de l'appareil: un moteur de Boeing 737 prend feu](https://www.bfmtv.com/economie/entreprises/transports/moteur-en-feu-un-boeing-737-parvient-a-atterrir-sans-encombre-en-nouvelle-zelande_AV-202406170561.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [TGV: pourquoi Antin Infrastructure met 1 milliard d'euros dans Proxima, le futur concurrent de la SNCF vers Bordeaux](https://www.bfmtv.com/economie/entreprises/transports/tgv-pourquoi-antin-infrastructure-met-1-milliard-d-euros-dans-proxima-le-futur-concurrent-de-la-sncf-vers-bordeaux_AV-202406170351.html)
+Token length: 335
+Summarized using GPT-3.5-turbo
+Append: [Proxima, concurrent de la SNCF en 2027](https://www.bfmtv.com/economie/entreprises/transports/proxima-concurrent-de-la-sncf-en-2027_VN-202406170186.html)
+append_entries: 3
+Finish: 2024-06-17 12:38:34.820634

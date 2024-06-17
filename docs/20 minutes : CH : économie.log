@@ -1141,3 +1141,15 @@ Summarized using GPT-3.5-turbo
 Append: [Adidas enquête sur une vaste affaire de corruption présumée](https://www.20min.ch/fr/story/chine-adidas-enquete-sur-une-vaste-affaire-de-corruption-presumee-103128234)
 append_entries: 1
 Finish: 2024-06-16 12:31:33.116370
+------------------------------------------------------
+Started: 2024-06-17 12:35:25.533320
+Existing_entries: 227
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Plus on est jeune riche et seul, plus on rejette de CO2](https://www.20min.ch/fr/story/suisse-plus-on-est-jeune-riche-et-seul-plus-on-rejette-de-co2-103129005)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Enquête antidumping ouverte sur les importations de porc européen](https://www.20min.ch/fr/story/chine-enquete-antidumping-ouverte-sur-les-importations-de-porc-europeen-103128956)
+append_entries: 2
+Finish: 2024-06-17 12:35:35.510086

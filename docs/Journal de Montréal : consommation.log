@@ -877,3 +877,12 @@ Existing_entries: 101
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-06-16 12:35:06.950730
+------------------------------------------------------
+Started: 2024-06-17 12:42:33.647103
+Existing_entries: 101
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [«Tout le monde se réveille en même temps»: la course aux climatiseurs est lancée!](https://www.journaldemontreal.com/2024/06/15/tout-le-monde-se-reveille-en-meme-temps-la-course-aux-climatiseurs-est-lancee)
+append_entries: 1
+Finish: 2024-06-17 12:42:37.812522

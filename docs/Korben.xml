@@ -5,12 +5,67 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Deej – Le mixeur audio matériel open-source</title>
+<link>https://korben.info/deej-mixeur-audio-materiel-open-source-geeks.html</link>
+<guid>https://korben.info/deej-mixeur-audio-materiel-open-source-geeks.html</guid>
+<content:encoded><![CDATA[
+<div> Arduino, potentiomètres, fader, mixage, DIY
+Summary:<br>
+Deej est un mixeur audio open-source matériel qui permet de contrôler indépendamment le volume de chaque application. Il se compose d'une carte Arduino, de potentiomètres et d'un fader pour chaque application. Le boîtier est facile à fabriquer et peut être personnalisé avec une imprimante 3D ou du carton. Un programme en Go gère la communication entre le mixeur et les applications, permettant une configuration facile via un fichier YAML. Ce projet combine hardware, software, bidouille et open-source, offrant une solution pratique pour gérer efficacement le son des différentes applications en temps réel, sans nécessiter d'alt-tab incessants. Les utilisateurs peuvent également personnaliser le code pour ajouter des fonctionnalités supplémentaires, rendant le mixage audio encore plus adapté à leurs besoins spécifiques. Merci à Maitre Tofu pour le partage de ce projet innovant. 
+Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="576" src="https://korben.info/app/uploads/2024/04/large_display_DEEJ_1.webp" width="1024" /></p>
+<p>Vous êtes en train de jouer à votre jeu préféré, tout en discutant sur Discord avec vos potes et en écoutant votre playlist Spotify en fond, sauf que, comme d&rsquo;habitude, dès que ça bastonne un peu trop dans le jeu, vous n&rsquo;entendez plus vos copains qui essaient désespérément de vous avertir qu&rsquo;un ennemi arrive par derrière ! Et quand vous baissez le son du jeu, c&rsquo;est votre musique qui trinque&#8230; Bref, c&rsquo;est toujours le bordel pour équilibrer tous les sons de vos applications ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1864221938" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais c&rsquo;était sans compter sur <strong><a href="https://github.com/omriharel/deej" rel="noopener" target="_blank">deej</a></strong>, un <strong>mixeur audio matériel open-source</strong> qui va vous permettre de contrôler le volume de chaque application <strong>indépendamment</strong>, encore mieux qu&rsquo;un vrai DJ en boîte de nuit ! Et le meilleur dans tout ça, c&rsquo;est que vous allez pouvoir le fabriquer vous-même ! DIY powaah !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158447" height="562" src="https://korben.info/app/uploads/2024/04/build-3d-annotated.png" width="1000" /></figure></div>
+
+
+<p>Concrètement, <strong>deej</strong> c&rsquo;est un boîtier que vous allez pouvoir bidouiller, avec de vrais <strong>curseurs physiques</strong> (bien old school !) qui vont contrôler le volume de vos applis, un fader pour Spotify, un autre pour votre jeu, un troisième pour Discord&#8230; Vous mixez tout ça en live comme un pro, et hop, fini les prises de tête ! </p>
+
+
+
+<p>Le système est <strong>hyper simple</strong> : vous avez une carte Arduino, quelques potentiomètres, des fils et un boîtier à fabriquer. Rien de sorcier, même pour un novice en électronique comme moi ! Et si vous avez une imprimante 3D, vous pourrez même télécharger des modèles tout faits sur <a href="https://www.thingiverse.com/omriharel/collections/19383159/things" rel="noopener" target="_blank">Thingiverse</a>. Sinon, un bon vieux bout de carton fera l&rsquo;affaire aussi !</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Côté software, c&rsquo;est super <strong>bien pensé</strong> aussi. Vous avez un petit programme en Go qui tourne en tâche de fond sur votre PC et qui fait le lien entre votre mixeur et vos applications. Vous pouvez configurer ça facilement via un fichier YAML, pour assigner tel curseur à tel programme. Et si vous êtes un peu geek sur les bords, vous pourrez même bidouiller le code pour ajouter des fonctionnalités.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1170791337" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Fini les alt-tab frénétiques pour baisser le son au bon moment, vous passerez <strong>mixage en temps réel</strong>. Bref, un projet <strong>génial</strong>, qui mixe hardware, software, bidouille et open-source. Tout ce que j&rsquo;aime ! </p>
+
+
+
+<p><a href="https://www.instructables.com/DEEJ-a-Physical-Volume-Mixer/" rel="noopener" target="_blank">A découvrir également ici pour le tuto.</a></p>
+
+
+
+<p>Merci à Maitre Tofu pour le partage !</p>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>PairDrop – Le partage de fichiers P2P en mode AirDrop dans votre navigateur</title>
 <link>https://korben.info/pairdrop-partage-fichiers-p2p-navigateur.html</link>
 <guid>https://korben.info/pairdrop-partage-fichiers-p2p-navigateur.html</guid>
 <content:encoded><![CDATA[
-<div> PairDrop, partage de fichiers, réseau local, connexion P2P, transferts via Internet, room publique temporaire <br>
-<br>
+<div> PairDrop, partage de fichiers, réseau local, connexion P2P, transferts via Internet, room publique temporaire <br />
+<br />
 Summary:
 PairDrop est un outil de partage de fichiers via une connexion P2P, fonctionnant sur tous les devices et permettant des transferts en réseau local ou via Internet. Il offre la possibilité de rejoindre des rooms publiques temporaires pour partager des fichiers avec d'autres utilisateurs à distance. L'application gère les connexions complexes et propose des fonctionnalités pratiques comme l'appairage via un code ou QR code, la gestion des transferts de fichiers et la prévisualisation des vidéos et audios. PairDrop est open source et utilise des technologies modernes telles que HTML5, JS ES6, CSS3, WebRTC et WebSockets. Les développeurs ont pensé à tout pour simplifier l'expérience de partage de fichiers, même en proposant une interface en ligne de commande pour les utilisateurs avancés. Enfin, il est possible d'héberger sa propre instance de PairDrop pour ceux qui souhaitent personnaliser davantage l'outil. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="371" src="https://korben.info/app/uploads/2024/04/SCR-20240405-tciq.webp" width="1000" /></p>
@@ -65,9 +120,7 @@ PairDrop est un outil de partage de fichiers via une connexion P2P, fonctionnant
 <p><a href="https://pairdrop.net/" rel="noopener" target="_blank">Allez, je vous laisse tester ça</a>, vous me remercierez plus tard.</p>
 ]]></content:encoded>
 <pubDate>Sun, 16 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 16 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>GriddyCode – Codez comme un boss avec ce nouvel éditeur survolté !</title>
 <link>https://korben.info/griddycode-editeur-code-fonctionnalites-avancees.html</link>
