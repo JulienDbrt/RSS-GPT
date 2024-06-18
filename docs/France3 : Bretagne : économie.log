@@ -843,3 +843,12 @@ Existing_entries: 97
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-18 01:18:13.991122
+------------------------------------------------------
+Started: 2024-06-18 12:41:41.807743
+Existing_entries: 97
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: ["Certains ont ouvert leur entreprise de réparation". En prison, une formation sur la trottinette électrique proposée aux détenus](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/certains-ont-ouvert-leur-entreprise-de-reparation-en-prison-une-formation-sur-la-trottinette-electrique-proposee-aux-detenus-2988689.html)
+append_entries: 1
+Finish: 2024-06-18 12:41:45.589518

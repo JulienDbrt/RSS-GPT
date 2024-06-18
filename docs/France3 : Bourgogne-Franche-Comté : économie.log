@@ -1050,3 +1050,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Les gens savent déjà pour qui ils veulent voter" : en Saône-et-Loire, des électeurs décidés au premier jour de campagne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/les-gens-savent-deja-pour-qui-ils-veulent-voter-en-saone-et-loire-des-electeurs-decides-au-premier-jour-de-campagne-2988599.html)
 append_entries: 1
 Finish: 2024-06-18 01:18:13.327141
+------------------------------------------------------
+Started: 2024-06-18 12:41:41.499221
+Existing_entries: 166
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-06-18 12:41:41.758843

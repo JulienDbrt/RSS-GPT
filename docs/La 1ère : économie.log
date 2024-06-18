@@ -2311,3 +2311,15 @@ Summarized using GPT-3.5-turbo
 Append: [La Mutuelle Sociale Agricole organise des réunions pour informer les agriculteurs de leurs droits](https://la1ere.francetvinfo.fr/mayotte/la-mutuelle-sociale-agricole-organise-des-reunions-pour-informer-les-agriculteurs-de-leurs-droits-1497632.html)
 append_entries: 6
 Finish: 2024-06-18 01:19:12.426995
+------------------------------------------------------
+Started: 2024-06-18 12:42:55.751048
+Existing_entries: 573
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 15
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : Prony Resources annonce le recours au chômage partiel](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/crise-en-nouvelle-caledonie-usine-du-sud-prony-resources-annonce-le-recours-au-chomage-partiel-de-ses-employes-1497836.html)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [Les agents de France Travail manifestent pour de meilleures conditions de travail](https://la1ere.francetvinfo.fr/mayotte/les-agents-de-france-travail-manifestent-pour-de-meilleures-conditions-de-travail-1497854.html)
+append_entries: 2
+Finish: 2024-06-18 12:43:05.263595

@@ -972,3 +972,9 @@ Summarized using GPT-3.5-turbo
 Append: [Sorel/Saint-Ignace-de-Loyola: des employés de la traverse seront en grève les 29 et 30 juin](https://www.journaldemontreal.com/2024/06/17/sorel-saint-ignace-de-loyola-des-employes-de-la-traverse-seront-en-greve-les-29-et-30-juin)
 append_entries: 1
 Finish: 2024-06-18 01:18:27.753491
+------------------------------------------------------
+Started: 2024-06-18 12:42:11.163954
+Existing_entries: 130
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-18 12:42:11.314667

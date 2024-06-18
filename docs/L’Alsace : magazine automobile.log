@@ -963,3 +963,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveauté. Porsche 911 Carrera GTS : l'icône devient hybride !](https://www.lalsace.fr/magazine-automobile/2024/06/17/porsche-911-carrera-gts-l-icone-devient-hybride)
 append_entries: 1
 Finish: 2024-06-18 01:18:35.319429
+------------------------------------------------------
+Started: 2024-06-18 12:42:13.508895
+Existing_entries: 130
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [Nouveautés auto. Audi e-tron GT : Trois nouvelles versions... et des watts en pagaille !](https://www.lalsace.fr/magazine-automobile/2024/06/18/audi-e-tron-gt-trois-nouvelles-versions-et-des-watts-en-pagaille)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Mobilités. Bornes de recharge publiques : un nombre d’installations insuffisant ?](https://www.lalsace.fr/magazine-automobile/2024/06/18/bornes-de-recharge-publiques-un-nombre-d-installations-insuffisant)
+append_entries: 2
+Finish: 2024-06-18 12:42:25.194848

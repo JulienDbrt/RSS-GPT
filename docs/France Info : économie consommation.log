@@ -3362,3 +3362,33 @@ Summarized using GPT-3.5-turbo
 Append: [Arcachon : une météo capricieuse](https://www.francetvinfo.fr/economie/tourisme/arcachon-une-meteo-capricieuse_6609675.html)
 append_entries: 8
 Finish: 2024-06-18 01:17:17.074850
+------------------------------------------------------
+Started: 2024-06-18 12:39:58.240732
+Existing_entries: 1008
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [De retour en Chine, les touristes étrangers confrontés à un quotidien tout numérique déstabilisant](https://www.francetvinfo.fr/monde/chine/de-retour-en-chine-les-touristes-etrangers-confrontes-a-un-quotidien-tout-numerique-destabilisant_6611607.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Carrefour "conteste vigoureusement" les critiques du ministère de l'Economie sur son modèle de franchise](https://www.francetvinfo.fr/economie/entreprises/carrefour-conteste-vigoureusement-les-critiques-du-ministere-de-l-economie-sur-son-modele-de-franchise_6611613.html)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [L'information passe en grande majorité par les réseaux sociaux et la vidéo](https://www.francetvinfo.fr/economie/medias/l-information-passe-en-grande-majorite-par-les-reseaux-sociaux-et-la-video_6611286.html)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [Mesures fiscales en cas de victoire aux législatives, bataille avec le RN... Le "8h30 franceinfo" de Gabriel Attal](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/mesures-fiscales-en-cas-de-victoire-aux-legislatives-bataille-avec-le-rn-le-8h30-franceinfo-de-gabriel-attal_6582789.html)
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [La majorité cherche des alliés pour les élections législatives, avenir de la réforme des retraites... Les informés du matin du mardi 18 juin](https://www.francetvinfo.fr/replay-radio/les-informes-du-matin/la-majorite-cherche-des-allies-pour-les-elections-legislatives-avenir-de-la-reforme-des-retraites-les-informes-du-matin-du-mardi-18-juin_6582786.html)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Défense : avec la montée des tensions géopolitiques, les grandes puissances investissent massivement dans l'armement nucléaire](https://www.francetvinfo.fr/replay-radio/le-brief-eco/avec-la-montee-des-tensions-geopolitiques-les-grandes-puissances-investissent-massivement-dans-l-armement-nuclaire_6582807.html)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: ["Nous prévoyons que tous ceux qui gagnent moins de 4 000 euros par mois payent moins d'impôts", promet Manon Aubry](https://www.francetvinfo.fr/elections/legislatives-2024-nous-prevoyons-que-tous-ceux-qui-gagnent-moins-de-4-000-euros-par-mois-payent-moins-d-impots-promet-manon-aubry_6611265.html)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : que proposent le RN, le Nouveau Front populaire et le parti présidentiel sur les retraites ?](https://www.francetvinfo.fr/elections/legislatives/legislatives-2024-que-propose-le-rn-le-nouveau-front-populaire-et-le-parti-presidentiel-sur-les-retraites_6610191.html)
+append_entries: 8
+Finish: 2024-06-18 12:40:31.850097

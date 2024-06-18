@@ -1079,3 +1079,15 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : Les professionnels impactés seront indemnisés par une commission (mais après les Jeux)](https://www.20minutes.fr/economie/4096622-20240617-jo-paris-2024-professionnels-impactes-indemnises-commission-apres-jeux)
 append_entries: 1
 Finish: 2024-06-18 01:13:52.211985
+------------------------------------------------------
+Started: 2024-06-18 12:35:55.436175
+Existing_entries: 169
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Trottinette : Rappel de modèles « Dualtron » chez Boulanger et Fnac-Darty, pouvant causer un choc électrique](https://www.20minutes.fr/economie/4096747-20240618-trottinette-rappel-modeles-dualtron-chez-boulanger-fnac-darty-pouvant-causer-choc-electrique)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Implosion du sous-marin « Titan » : Un an après la catastrophe, le tourisme extrême fascine toujours autant](https://www.20minutes.fr/economie/4095973-20240618-implosion-sous-marin-titan-an-apres-catastrophe-tourisme-extreme-fascine-toujours-autant)
+append_entries: 2
+Finish: 2024-06-18 12:36:08.913025

@@ -809,3 +809,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier - Location. À quoi sert vraiment le dépôt de garantie ?](https://www.dna.fr/magazine-immobilier/2019/10/11/location-a-quoi-correspond-le-depot-de-garantie)
 append_entries: 1
 Finish: 2024-06-18 01:16:26.864228
+------------------------------------------------------
+Started: 2024-06-18 12:39:25.162398
+Existing_entries: 79
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-06-18 12:39:26.230401

@@ -996,3 +996,18 @@ Existing_entries: 148
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-18 01:18:08.238047
+------------------------------------------------------
+Started: 2024-06-18 12:41:10.952880
+Existing_entries: 148
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Les tram-trains T12 et T13 vont être exploités par la RATP et la future ligne 18 par Keolis](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-tram-trains-t12-et-t13-vont-etre-exploites-par-la-ratp-et-la-future-ligne-18-par-keolis-2989046.html)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [La place de la Concorde plus verte et piétonne : ce que prévoit la mairie de Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/la-place-de-la-concorde-plus-verte-et-pietonne-ce-que-prevoit-la-mairie-de-paris-2988965.html)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Une panne sur le RER E ralentit le trafic sur l'ensemble de la ligne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-panne-sur-le-rer-e-ralentit-le-trafic-sur-l-ensemble-de-la-ligne-2988779.html)
+append_entries: 3
+Finish: 2024-06-18 12:41:22.391348
