@@ -886,3 +886,15 @@ Summarized using GPT-3.5-turbo
 Append: [«Tout le monde se réveille en même temps»: la course aux climatiseurs est lancée!](https://www.journaldemontreal.com/2024/06/15/tout-le-monde-se-reveille-en-meme-temps-la-course-aux-climatiseurs-est-lancee)
 append_entries: 1
 Finish: 2024-06-17 12:42:37.812522
+------------------------------------------------------
+Started: 2024-06-18 01:18:17.380646
+Existing_entries: 102
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Voici le palmarès des villes les plus chères au monde](https://www.journaldemontreal.com/2024/06/17/voici-le-palmares-des-villes-les-plus-cheres-au-monde)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Prix de l’essence: c’est le bon moment pour faire le plein dans plusieurs régions](https://www.journaldemontreal.com/2024/06/17/prix-de-lessence-cest-le-bon-moment-pour-faire-le-plein-dans-plusieurs-regions)
+append_entries: 2
+Finish: 2024-06-18 01:18:24.584584

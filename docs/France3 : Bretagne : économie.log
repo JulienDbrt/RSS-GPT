@@ -837,3 +837,9 @@ Summarized using GPT-3.5-turbo
 Append: [Rachat de Casino. "Il y a de la haine par rapport à ce qu’ils nous proposent". La plate-forme logistique de Gaël est bloquée par des salariés](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/rachat-de-casino-il-y-a-de-la-haine-par-rapport-a-ce-qu-ils-nous-proposent-la-plate-forme-logistique-de-gael-est-bloquee-par-des-salaries-2988365.html)
 append_entries: 1
 Finish: 2024-06-17 12:41:49.916741
+------------------------------------------------------
+Started: 2024-06-18 01:18:13.376326
+Existing_entries: 97
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-18 01:18:13.991122

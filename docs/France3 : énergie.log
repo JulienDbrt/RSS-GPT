@@ -813,3 +813,9 @@ Summarized using GPT-3.5-turbo
 Append: ["J'ai eu une régularisation de 3 000 euros" : les factures d'électricité explosent dans cet écoquartier de Rouen](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/j-ai-eu-une-regularisation-de-3-000-euros-les-factures-d-electricite-explosent-dans-cet-ecoquartier-de-rouen-2985947.html)
 append_entries: 1
 Finish: 2024-06-17 12:41:25.070136
+------------------------------------------------------
+Started: 2024-06-18 01:18:06.961205
+Existing_entries: 89
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-06-18 01:18:07.848228

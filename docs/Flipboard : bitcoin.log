@@ -1809,3 +1809,9 @@ Summarized using GPT-3.5-turbo
 Append: [Deux hackers libèrent 3 millions d'euros bloqués depuis 2013 sur son compte](https://www.24matins.fr/deux-hackers-liberent-3-millions-deuros-bloques-depuis-2013-sur-son-compte-1375644)
 append_entries: 3
 Finish: 2024-06-17 12:31:43.163153
+------------------------------------------------------
+Started: 2024-06-18 01:10:27.546302
+Existing_entries: 431
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+append_entries: 0
+Finish: 2024-06-18 01:10:28.987319

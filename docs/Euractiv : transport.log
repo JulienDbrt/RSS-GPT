@@ -692,3 +692,12 @@ Existing_entries: 62
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-06-17 12:39:00.440382
+------------------------------------------------------
+Started: 2024-06-18 01:16:39.709809
+Existing_entries: 62
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Quelles seront les priorités de la présidence hongroise du Conseil en matière d’énergie, de transport et d’environnement ?](https://www.euractiv.fr/section/energie-climat/news/quelles-seront-les-priorites-de-la-presidence-hongroise-du-conseil-en-matiere-denergie-de-transport-et-denvironnement/)
+append_entries: 1
+Finish: 2024-06-18 01:16:43.734420

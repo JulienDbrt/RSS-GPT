@@ -790,3 +790,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les petites enseignes de produits bio à bout de souffle en Martinique](https://la1ere.francetvinfo.fr/martinique/les-petites-enseignes-de-produits-bio-a-bout-de-souffle-en-martinique-1497386.html)
 append_entries: 1
 Finish: 2024-06-17 12:43:40.235843
+------------------------------------------------------
+Started: 2024-06-18 01:19:12.464642
+Existing_entries: 68
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [Les professionnels du BTP obtiennent des engagements de la CTM](https://la1ere.francetvinfo.fr/martinique/les-professionnels-du-btp-obtiennent-des-engagements-de-la-ctm-1497755.html)
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [Une forte délégation de professionnels du BTP martiniquais occupe une partie de la CTM](https://la1ere.francetvinfo.fr/martinique/une-forte-delegation-de-professionnels-du-btp-martiniquais-occupe-une-partie-de-la-ctm-1497659.html)
+append_entries: 2
+Finish: 2024-06-18 01:19:19.934788

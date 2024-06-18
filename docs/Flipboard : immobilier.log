@@ -2135,3 +2135,24 @@ Summarized using GPT-3.5-turbo
 Append: [A Paris, les propriétaires misent tout sur des revenus exceptionnels grâce aux JO… et bloquent le marché de l’immobilier](https://www.nouvelobs.com/immobilier/20240617.OBS89868/a-paris-les-proprietaires-misent-tout-sur-des-revenus-exceptionnels-grace-aux-jo-et-bloquent-le-marche-de-l-immobilier.html)
 append_entries: 3
 Finish: 2024-06-17 12:33:25.209466
+------------------------------------------------------
+Started: 2024-06-18 01:11:39.368780
+Existing_entries: 625
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [David Douillet (55 ans) : découvrez l'immense maison du judoka retraité, composée de "17 pièces" et d'une salle de billard](https://www.pleinevie.fr/loisirs/celebrites/david-douillet-55-ans-decouvrez-limmense-maison-du-judoka-retraite-composee-de-17-pieces-et-dune-salle-de-billard-121908.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: ["On se sent arnaqués": à Vaulx-en-Velin, une famille bloquée après l'achat aux enchères d'une maison](https://www.bfmtv.com/lyon/on-se-sent-arnaques-a-vaulx-en-velin-une-famille-bloquee-apres-l-achat-aux-encheres-d-une-maison_AV-202406170980.html)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Des villes canadiennes parmi les plus chères au monde pour acheter une maison](https://www.noovo.info/nouvelle/deux-villes-canadiennes-parmi-les-endroits-les-plus-chers-pour-lachat-dun-logement.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [A Paris, les propriétaires mises tout sur des revenus exceptionnels grâce aux JO… et bloquent le marché de l’immobilier](https://www.nouvelobs.com/immobilier/20240617.OBS89865/a-paris-les-proprietaires-mises-tout-sur-des-revenus-exceptionnels-grace-aux-jo-et-bloquent-le-marche-de-l-immobilier.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [La prison centenaire de l’île d’Anticosti a été démolie](https://www.tvanouvelles.ca/2024/06/17/la-prison-centenaire-de-lile-danticosti-a-ete-demolie)
+append_entries: 5
+Finish: 2024-06-18 01:11:57.459055

@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Deej – Le mixeur audio matériel open-source</title>
 <link>https://korben.info/deej-mixeur-audio-materiel-open-source-geeks.html</link>
 <guid>https://korben.info/deej-mixeur-audio-materiel-open-source-geeks.html</guid>
 <content:encoded><![CDATA[
 <div> Arduino, potentiomètres, fader, mixage, DIY
-Summary:<br>
+Summary:<br />
 Deej est un mixeur audio open-source matériel qui permet de contrôler indépendamment le volume de chaque application. Il se compose d'une carte Arduino, de potentiomètres et d'un fader pour chaque application. Le boîtier est facile à fabriquer et peut être personnalisé avec une imprimante 3D ou du carton. Un programme en Go gère la communication entre le mixeur et les applications, permettant une configuration facile via un fichier YAML. Ce projet combine hardware, software, bidouille et open-source, offrant une solution pratique pour gérer efficacement le son des différentes applications en temps réel, sans nécessiter d'alt-tab incessants. Les utilisateurs peuvent également personnaliser le code pour ajouter des fonctionnalités supplémentaires, rendant le mixage audio encore plus adapté à leurs besoins spécifiques. Merci à Maitre Tofu pour le partage de ce projet innovant. 
 Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="576" src="https://korben.info/app/uploads/2024/04/large_display_DEEJ_1.webp" width="1024" /></p>
@@ -56,9 +57,7 @@ Summary: <div>
 <p>Merci à Maitre Tofu pour le partage !</p>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 17 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>PairDrop – Le partage de fichiers P2P en mode AirDrop dans votre navigateur</title>
 <link>https://korben.info/pairdrop-partage-fichiers-p2p-navigateur.html</link>
