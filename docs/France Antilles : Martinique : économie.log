@@ -1286,3 +1286,18 @@ Summarized using GPT-3.5-turbo
 Append: [Ten Ten, une application qui rend fous les ados](https://www.martinique.franceantilles.fr/actualite/economie/ten-ten-une-application-qui-rend-fous-les-ados-991645.php)
 append_entries: 2
 Finish: 2024-06-19 01:16:53.710721
+------------------------------------------------------
+Started: 2024-06-19 12:39:43.397293
+Existing_entries: 254
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Législatives: Bardella lisse son programme, Macron déclenche une nouvelle polémique](https://www.martinique.franceantilles.fr/actualite/politique/legislatives-bardella-au-salon-de-la-defense-macron-fait-polemique-991826.php)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Kim assure Poutine de son soutien pour l'Ukraine et signe un pacte de défense mutuelle](https://www.martinique.franceantilles.fr/actualite/economie/kim-assure-poutine-de-son-soutien-pour-lukraine-et-signe-un-pacte-de-defense-mutuelle-991838.php)
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [Kim et Poutine signent un accord d'assistance mutuelle en cas d'"agression"](https://www.martinique.franceantilles.fr/actualite/international/poutine-en-coree-du-nord-pour-renforcer-les-liens-de-defense-991824.php)
+append_entries: 3
+Finish: 2024-06-19 12:39:56.901463

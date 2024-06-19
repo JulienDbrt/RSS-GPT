@@ -1704,3 +1704,18 @@ Summarized using GPT-3.5-turbo
 Append: [Vins de Lorraine : "modernité", "fraicheur", une enquête dévoile leur notoriété](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/vins-de-lorraine-modernite-fraicheur-une-enquete-devoile-leur-notoriete-2988974.html)
 append_entries: 4
 Finish: 2024-06-19 01:18:56.065512
+------------------------------------------------------
+Started: 2024-06-19 12:41:51.267491
+Existing_entries: 380
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: ["Sauve ta campagne, paye ta PAC", les agriculteurs mobilisés à Rennes pour réclamer leurs aides Bio et MAEC](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/sauve-ta-campagne-paye-ta-pac-les-agriculteurs-mobilises-a-rennes-pour-reclamer-leurs-aides-bio-et-maec-2989691.html)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: ["Des tourbillons de vent, des éclairs, du tonnerre" : les orages de grêle font de gros dégâts dans le vignoble](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/des-tourbillons-de-vent-des-eclairs-du-tonnerre-les-orages-de-grele-font-de-gros-degats-dans-le-vignoble-2989565.html)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [Ils ont été choisis pour porter la flamme olympique : "Pourquoi moi? C'est une vraie surprise et une fierté"](https://france3-regions.francetvinfo.fr/grand-est/alsace/ils-ont-ete-choisis-pour-porter-la-flamme-olympique-pourquoi-moi-c-est-une-vraie-surprise-et-une-fierte-2986367.html)
+append_entries: 3
+Finish: 2024-06-19 12:42:04.589601

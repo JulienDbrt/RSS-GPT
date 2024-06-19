@@ -2344,3 +2344,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des influenceurs canadiens dans l'archipel pour promouvoir la destination Saint-Pierre et Miquelon](https://la1ere.francetvinfo.fr/saintpierremiquelon/des-influenceurs-canadiens-dans-l-archipel-pour-promouvoir-la-destination-saint-pierre-et-miquelon-1497902.html)
 append_entries: 5
 Finish: 2024-06-19 01:20:23.056319
+------------------------------------------------------
+Started: 2024-06-19 12:43:11.001760
+Existing_entries: 580
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [Bac 2024 : les horaires des épreuves doivent-ils être adaptés à La Réunion ?](https://la1ere.francetvinfo.fr/reunion/bac-2024-les-horaires-des-epreuves-doivent-ils-etre-adaptes-a-la-reunion-1498220.html)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [La visite du Premier ministre chinois en Australie a signé le réchauffement entre les deux pays](https://la1ere.francetvinfo.fr/nouvellecaledonie/la-visite-du-premier-ministre-chinois-en-australie-a-signe-le-rechauffement-entre-les-deux-pays-1498208.html)
+append_entries: 2
+Finish: 2024-06-19 12:43:21.508237

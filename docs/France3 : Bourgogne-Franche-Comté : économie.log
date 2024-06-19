@@ -1068,3 +1068,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Même si on est payé en dessous du Smic, on a notre dignité " : pourquoi la grève touche des cliniques privées](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/meme-si-on-est-paye-en-dessous-du-smic-on-a-notre-dignite-pourquoi-la-greve-touche-des-cliniques-privees-2988926.html)
 append_entries: 2
 Finish: 2024-06-19 01:19:01.584646
+------------------------------------------------------
+Started: 2024-06-19 12:42:04.696278
+Existing_entries: 168
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Un groupe tchèque prend les commandes du groupe Gaussin qui va se "recentrer sur ses activités rentables à court terme"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/un-groupe-tcheque-prend-les-commandes-du-groupe-gaussin-qui-va-se-recentrer-sur-ses-activites-rentables-a-court-terme-2989532.html)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Les lignes de tram de Besançon perturbées, une panne d'électricité en cause](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/les-lignes-de-tram-de-besancon-perturbees-une-panne-d-electricite-en-cause-2989556.html)
+append_entries: 2
+Finish: 2024-06-19 12:42:09.228996

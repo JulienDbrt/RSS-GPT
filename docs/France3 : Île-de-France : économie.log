@@ -1023,3 +1023,9 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024. Voies olympiques : Où, quand, et pour qui ? : on vous répond](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-voies-olympiques-ou-quand-et-pour-qui-on-vous-repond-2989223.html)
 append_entries: 2
 Finish: 2024-06-19 01:18:38.248470
+------------------------------------------------------
+Started: 2024-06-19 12:41:50.904078
+Existing_entries: 153
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-19 12:41:51.064985

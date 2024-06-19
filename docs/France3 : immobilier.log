@@ -765,3 +765,12 @@ Existing_entries: 67
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-06-19 01:19:17.317646
+------------------------------------------------------
+Started: 2024-06-19 12:42:23.011672
+Existing_entries: 67
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: [INSOLITE. Le plus grand blockhaus du nord de la France est à vendre, "il faut préserver le site, pour que les jeunes sachent ce que leurs grands-parents ont vécu"](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/insolite-le-plus-grand-blockhaus-du-nord-de-la-france-est-a-vendre-il-faut-preserver-le-site-pour-que-les-jeunes-sachent-ce-que-leurs-grands-parents-ont-vecu-2989421.html)
+append_entries: 1
+Finish: 2024-06-19 12:42:27.041810

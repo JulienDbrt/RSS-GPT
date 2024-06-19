@@ -1103,3 +1103,12 @@ Summarized using GPT-3.5-turbo
 Append: [Naf Naf : L’enseigne reprise par une entreprise turque, près de 90 % des emplois sauvés](https://www.20minutes.fr/economie/4096811-20240618-naf-naf-enseigne-reprise-entreprise-turque-pres-90-emplois-sauves)
 append_entries: 2
 Finish: 2024-06-19 01:14:03.318777
+------------------------------------------------------
+Started: 2024-06-19 12:35:32.118199
+Existing_entries: 173
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [New York : Avec la fièvre de l’IA, Nvidia devient la première capitalisation mondiale en Bourse](https://www.20minutes.fr/economie/4096931-20240619-new-york-fievre-ia-nvidia-devient-premiere-capitalisation-mondiale-bourse)
+append_entries: 1
+Finish: 2024-06-19 12:35:37.220587

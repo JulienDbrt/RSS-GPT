@@ -1187,3 +1187,15 @@ Summarized using GPT-3.5-turbo
 Append: [Transport maritime : le voilier-cargo Anemos marque un tournant](https://www.francetvinfo.fr/economie/transports/transport-maritime-le-voilier-cargo-anemos-marque-un-tournant_6611787.html)
 append_entries: 2
 Finish: 2024-06-19 01:17:41.785557
+------------------------------------------------------
+Started: 2024-06-19 12:40:43.271311
+Existing_entries: 201
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Fissure sur l'A13 : l'autoroute rouvrira complètement à la circulation lundi, annonce la préfecture](https://www.francetvinfo.fr/economie/transports/fissure-sur-l-a13-l-autoroute-rouvrira-completement-a-la-circulation-lundi-annonce-la-prefecture_6613251.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Service public : à l’approche de l’été, le médiateur Tourisme et Voyage peut être saisi en cas de litige](https://www.francetvinfo.fr/replay-radio/le-brief-eco/service-public-a-l-approche-de-l-ete-le-mediateur-tourisme-et-voyage-peut-etre-saisi-en-cas-de-litige_6584823.html)
+append_entries: 2
+Finish: 2024-06-19 12:40:54.029311
