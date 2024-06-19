@@ -1011,3 +1011,15 @@ Summarized using GPT-3.5-turbo
 Append: [Une panne sur le RER E ralentit le trafic sur l'ensemble de la ligne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-panne-sur-le-rer-e-ralentit-le-trafic-sur-l-ensemble-de-la-ligne-2988779.html)
 append_entries: 3
 Finish: 2024-06-18 12:41:22.391348
+------------------------------------------------------
+Started: 2024-06-19 01:18:30.458282
+Existing_entries: 151
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: ["C'est notre librairie de cœur" : deux salariés lancent une campagne de financement participatif pour reprendre la plus grande librairie d'Argenteuil](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/c-est-notre-librairie-de-c-ur-deux-salaries-lancent-une-campagne-de-financement-participatif-pour-reprendre-la-plus-grande-librairie-d-argentueil-2989109.html)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Voies olympiques : Où, quand, et pour qui ? : on vous répond](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-voies-olympiques-ou-quand-et-pour-qui-on-vous-repond-2989223.html)
+append_entries: 2
+Finish: 2024-06-19 01:18:38.248470

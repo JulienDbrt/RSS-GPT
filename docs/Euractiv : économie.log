@@ -866,3 +866,12 @@ Summarized using GPT-3.5-turbo
 Append: [La Bourse de Londres repasse devant celle de Paris, plombée par les turbulences politiques](https://www.euractiv.fr/section/economie/news/la-bourse-de-londres-repasse-devant-celle-de-paris-plombee-par-les-turbulences-politiques/)
 append_entries: 1
 Finish: 2024-06-18 12:39:31.158615
+------------------------------------------------------
+Started: 2024-06-19 01:16:27.852434
+Existing_entries: 116
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [Véhicules électriques : l’UE et la Chine à l’aube d’une guerre commerciale](https://www.euractiv.fr/section/concurrence/news/vehicules-electriques-lue-et-la-chine-a-laube-dune-guerre-commerciale/)
+append_entries: 1
+Finish: 2024-06-19 01:16:32.210203

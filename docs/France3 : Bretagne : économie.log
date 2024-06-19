@@ -852,3 +852,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Certains ont ouvert leur entreprise de réparation". En prison, une formation sur la trottinette électrique proposée aux détenus](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/certains-ont-ouvert-leur-entreprise-de-reparation-en-prison-une-formation-sur-la-trottinette-electrique-proposee-aux-detenus-2988689.html)
 append_entries: 1
 Finish: 2024-06-18 12:41:45.589518
+------------------------------------------------------
+Started: 2024-06-19 01:19:01.633947
+Existing_entries: 98
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [Bac de philo 2024. "La nature est-elle hostile à l'homme ?". ChatGPT a-t-il progressé pendant cette année scolaire ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/bac-de-philo-2024-chatgpt-a-t-il-progresse-pendant-cette-annee-scolaire-2989079.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [Justice. Le maire de Josselin condamné à cinq ans d'inéligibilité pour "escroquerie" commise avant son mandat](https://france3-regions.francetvinfo.fr/bretagne/morbihan/justice-le-maire-de-josselin-condamne-a-cinq-ans-d-ineligibilite-pour-escroquerie-commise-avant-son-mandat-2989196.html)
+append_entries: 2
+Finish: 2024-06-19 01:19:08.334573

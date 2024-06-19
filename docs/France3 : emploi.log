@@ -1125,3 +1125,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Certains ont ouvert leur entreprise de réparation". En prison, une formation sur la trottinette électrique proposée aux détenus](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/certains-ont-ouvert-leur-entreprise-de-reparation-en-prison-une-formation-sur-la-trottinette-electrique-proposee-aux-detenus-2988689.html)
 append_entries: 1
 Finish: 2024-06-18 12:41:49.523758
+------------------------------------------------------
+Started: 2024-06-19 01:19:08.448593
+Existing_entries: 189
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [La Montagne : 70 postes supprimés pour le journal régional du Massif Central](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/la-montagne-70-postes-supprimes-pour-le-journal-regional-du-massif-central-2989385.html)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Santé : en colère, les soignants des hôpitaux privés en grève illimitée pour une hausse des salaires](https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/sante-en-colere-les-soignants-des-hopitaux-prives-en-greve-illimitee-pour-une-hausse-des-salaires-2989166.html)
+append_entries: 2
+Finish: 2024-06-19 01:19:16.799107

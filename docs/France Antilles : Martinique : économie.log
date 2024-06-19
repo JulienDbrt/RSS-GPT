@@ -1274,3 +1274,15 @@ Summarized using GPT-3.5-turbo
 Append: [Devoir de vigilance: ONG et grandes entreprises fixées en appel](https://www.martinique.franceantilles.fr/actualite/economie/devoir-de-vigilance-ong-et-grandes-entreprises-fixees-en-appel-mardi-991693.php)
 append_entries: 4
 Finish: 2024-06-18 12:39:57.263206
+------------------------------------------------------
+Started: 2024-06-19 01:16:47.314027
+Existing_entries: 252
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Le patron de Boeing admet la "gravité" de la situation devant une commission du Sénat](https://www.martinique.franceantilles.fr/actualite/economie/grand-oral-tres-attendu-du-patron-de-boeing-devant-une-commission-du-senat-americain-991718.php)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [Ten Ten, une application qui rend fous les ados](https://www.martinique.franceantilles.fr/actualite/economie/ten-ten-une-application-qui-rend-fous-les-ados-991645.php)
+append_entries: 2
+Finish: 2024-06-19 01:16:53.710721

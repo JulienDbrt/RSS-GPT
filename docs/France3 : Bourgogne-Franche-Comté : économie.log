@@ -1056,3 +1056,15 @@ Existing_entries: 166
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-18 12:41:41.758843
+------------------------------------------------------
+Started: 2024-06-19 01:18:56.150124
+Existing_entries: 166
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [“Ça s’est passé en 5 secondes, on ne peut rien faire” : une grue s’effondre, un chef d'entreprise meurt sur un chantier du Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/un-hangar-agricole-en-construction-s-effondre-dans-le-jura-deux-personnes-entre-la-vie-et-la-mort-2989043.html)
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: ["Même si on est payé en dessous du Smic, on a notre dignité " : pourquoi la grève touche des cliniques privées](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/meme-si-on-est-paye-en-dessous-du-smic-on-a-notre-dignite-pourquoi-la-greve-touche-des-cliniques-privees-2988926.html)
+append_entries: 2
+Finish: 2024-06-19 01:19:01.584646

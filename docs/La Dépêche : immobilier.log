@@ -820,3 +820,9 @@ Summarized using GPT-3.5-turbo
 Append: [LABIMMO. Baisse des taux, hausse des prix, mises en chantier… Où va le logement neuf à Toulouse en 2024 ?](https://www.ladepeche.fr/2024/06/18/labimmo-baisse-des-taux-hausse-des-prix-mises-en-chantier-ou-va-le-logement-neuf-a-toulouse-en-2024-12022024.php)
 append_entries: 1
 Finish: 2024-06-18 12:44:17.601998
+------------------------------------------------------
+Started: 2024-06-19 01:21:50.565981
+Existing_entries: 84
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-06-19 01:21:51.226361
