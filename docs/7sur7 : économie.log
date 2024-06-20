@@ -1212,3 +1212,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les constructeurs automobiles chinois veulent à leur tour surtaxer les véhicules européens](https://www.7sur7.be/monde/les-constructeurs-automobiles-chinois-veulent-a-leur-tour-surtaxer-les-vehicules-europeens~a5e3888b/)
 append_entries: 3
 Finish: 2024-06-20 01:12:29.459924
+------------------------------------------------------
+Started: 2024-06-20 12:35:09.203298
+Existing_entries: 212
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [Le prix des pommes de terre atteint un record, le paquet de frites bientôt plus cher?](https://www.7sur7.be/economie/le-prix-des-pommes-de-terre-atteint-un-record-le-paquet-de-frites-bientot-plus-cher~a74995ef/)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [La voiture électrique perd du terrain en Europe, sauf en Belgique](https://www.7sur7.be/economie/la-voiture-electrique-perd-du-terrain-en-europe-sauf-en-belgique~ab8fa470/)
+append_entries: 2
+Finish: 2024-06-20 12:35:15.558904

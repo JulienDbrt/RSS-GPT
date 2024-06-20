@@ -658,3 +658,9 @@ Summarized using GPT-3.5-turbo
 Append: [Cela bouge sur le marché de l’emploi : près de trois quarts des Belges sont prêts à changer d’emploi, 20 % sont “en recherche active”](https://www.dhnet.be/conso/travail/2024/06/19/cela-bouge-sur-le-marche-de-lemploi-pres-de-trois-quarts-des-belges-sont-prets-a-changer-demploi-20-sont-en-recherche-active-RCK2ZPKUHZGZVCLOETNNC4LXBY/)
 append_entries: 1
 Finish: 2024-06-20 01:19:19.204016
+------------------------------------------------------
+Started: 2024-06-20 12:45:44.752110
+Existing_entries: 14
+Fetching from https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml
+append_entries: 0
+Finish: 2024-06-20 12:45:45.588275

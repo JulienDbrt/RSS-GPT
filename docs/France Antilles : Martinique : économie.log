@@ -1310,3 +1310,15 @@ Summarized using GPT-3.5-turbo
 Append: [Equateur: panne d'électricité dans tout le pays, le gouvernement blâme le manque d'investissements](https://www.martinique.franceantilles.fr/actualite/economie/equateur-panne-delectricite-dans-tout-le-pays-le-gouvernement-blame-le-manque-dinvestissements-991957.php)
 append_entries: 1
 Finish: 2024-06-20 01:15:19.802705
+------------------------------------------------------
+Started: 2024-06-20 12:39:26.598044
+Existing_entries: 258
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [A Lorient, les pêcheurs en quête de "soutien politique" pour "sauver la filière"](https://www.martinique.franceantilles.fr/actualite/economie/oublies-de-la-campagne-les-pecheurs-reunis-pour-leurs-assises-a-lorient-991959.php)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [L'adaptation au changement climatique pas à la hauteur en France, selon les experts du HCC](https://www.martinique.franceantilles.fr/actualite/economie/ladaptation-au-changement-climatique-pas-a-la-hauteur-en-france-selon-les-experts-du-hcc-991967.php)
+append_entries: 2
+Finish: 2024-06-20 12:39:36.558372

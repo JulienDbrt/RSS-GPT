@@ -981,3 +981,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les "memes coins" n'amusent plus](https://www.bfmtv.com/crypto/les-memes-coins-n-amusent-plus_VL-202406190575.html)
 append_entries: 2
 Finish: 2024-06-20 01:13:28.857365
+------------------------------------------------------
+Started: 2024-06-20 12:36:32.134668
+Existing_entries: 135
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Des baleines crypto ont vendu pour 1,2 milliard de dollars de bitcoins ces deux dernières semaines](https://www.bfmtv.com/crypto/bitcoin/des-baleines-crypto-ont-vendu-pour-1-2-milliard-de-dollars-de-bitcoins-ces-deux-dernieres-semaines_AV-202406200548.html)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Minage de bitcoins: savez-vous ce qu’est le "hashrate"?](https://www.bfmtv.com/crypto/tutoriels/minage-de-bitcoins-savez-vous-ce-qu-est-le-hashrate_AV-202406200322.html)
+append_entries: 2
+Finish: 2024-06-20 12:36:38.929375

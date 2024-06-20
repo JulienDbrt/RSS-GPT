@@ -849,3 +849,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle centrale du Ricanto, l’arrêté ministériel signé, les travaux bientôt lancés](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/ajaccio/nouvelle-centrale-du-ricanto-l-arrete-ministeriel-signe-les-travaux-bientot-lances-2990048.html)
 append_entries: 1
 Finish: 2024-06-20 01:16:35.980051
+------------------------------------------------------
+Started: 2024-06-20 12:41:20.133291
+Existing_entries: 91
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024. Ce qu'il faut retenir du débat entre les candidats de la circonscription Saint-Lô - Carentan](https://france3-regions.francetvinfo.fr/normandie/manche/legislatives-2024-ce-qu-il-faut-retenir-du-debat-entre-les-candidats-de-la-circonscription-saint-lo-carentan-2990348.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Après la destruction de la centrale Lucy à Montceau-les-Mines, quelles perspectives ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/apres-la-destruction-de-la-centrale-lucy-a-montceau-les-mines-quelles-perspectives-2990033.html)
+append_entries: 2
+Finish: 2024-06-20 12:41:29.081968

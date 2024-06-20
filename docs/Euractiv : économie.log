@@ -893,3 +893,15 @@ Summarized using GPT-3.5-turbo
 Append: [Centraliser la politique de cohésion pourrait « tuer » le projet européen, selon le président du Comité des régions](https://www.euractiv.fr/section/economie/news/centraliser-la-politique-de-cohesion-pourrait-tuer-le-projet-europeen-selon-le-president-du-comite-des-regions/)
 append_entries: 1
 Finish: 2024-06-20 01:15:09.833066
+------------------------------------------------------
+Started: 2024-06-20 12:38:57.184504
+Existing_entries: 119
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [La crise politique plonge EDF dans l’inconnu, selon ses syndicats](https://www.euractiv.fr/section/energie-climat/news/la-crise-politique-plonge-edf-dans-linconnu-selon-ses-syndicats/)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Bruxelles décide de ne pas ouvrir de procédure pour déficit excessif à l’encontre de l’Espagne](https://www.euractiv.fr/section/economie/news/bruxelles-decide-de-ne-pas-ouvrir-de-procedure-pour-deficit-excessif-a-lencontre-de-lespagne/)
+append_entries: 2
+Finish: 2024-06-20 12:39:08.023786

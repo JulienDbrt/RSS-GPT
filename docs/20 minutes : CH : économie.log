@@ -1201,3 +1201,15 @@ Summarized using GPT-3.5-turbo
 Append: [Coût des transports publics: les voyageurs vont devoir payer plus](https://www.20min.ch/fr/story/suisse-cout-des-transports-publics-les-voyageurs-vont-devoir-payer-plus-103130584)
 append_entries: 3
 Finish: 2024-06-20 01:12:07.732479
+------------------------------------------------------
+Started: 2024-06-20 12:34:43.275380
+Existing_entries: 235
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Booking met en garde contre les arnaques aux voyages liées à l’IA](https://www.20min.ch/fr/story/hameconnage-booking-met-en-garde-contre-les-arnaques-aux-voyages-liees-a-lia-103131448)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [La BNS baisse son taux directeur à 1,25%](https://www.20min.ch/fr/story/suisse-la-bns-baisse-son-taux-directeur-a-125-103131411)
+append_entries: 2
+Finish: 2024-06-20 12:34:57.361181

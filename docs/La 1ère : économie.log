@@ -2374,3 +2374,27 @@ Summarized using GPT-3.5-turbo
 Append: [Le JIR toujours absent des kiosques : le tribunal de commerce a tranché, ICP Roto n'est pas obligé d'imprimer le journal](https://la1ere.francetvinfo.fr/reunion/le-jir-toujours-absent-des-kiosques-le-tribunal-de-commerce-a-tranche-icp-roto-n-est-pas-oblige-d-imprimer-le-journal-1498277.html)
 append_entries: 4
 Finish: 2024-06-20 01:18:14.905144
+------------------------------------------------------
+Started: 2024-06-20 12:43:19.588476
+Existing_entries: 586
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [Dessertes maritimes : les îles du Sud, Marie-Galante et les Saintes, chouchoutées par les compagnies](https://la1ere.francetvinfo.fr/guadeloupe/basse-terre/bouillante/dessertes-maritimes-les-iles-du-sud-marie-galante-et-les-saintes-chouchoutees-par-les-compagnies-1498346.html)
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [Le Martiniquais Pierre Samot était un Caribéen convaincu](https://la1ere.francetvinfo.fr/martinique/le-martiniquais-pierre-samot-etait-un-caribeen-convaincu-1498442.html)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [Des seniors de Sada découvrent le cinéma pour la première fois](https://la1ere.francetvinfo.fr/mayotte/des-seniors-de-sada-decouvrent-le-cinema-pour-la-premiere-fois-1498553.html)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : La Fédération des fonctionnaires “vigilante” sur les salaires propose ses solutions](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-la-federation-des-fonctionnaires-vigilante-sur-les-salaires-propose-ses-solutions-1498496.html)
+Token length: 30
+Summarized using GPT-3.5-turbo
+Append: [Une enquête inédite consacrée à la santé et à la sécurité au travail en Polynésie](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/une-enquete-inedite-consacree-a-la-sante-et-a-la-securite-au-travail-en-polynesie-1498469.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Le Centre de formation de l'artisanat de Nouvelle-Calédonie va devoir repenser son fonctionnement après la crise](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea-0/le-centre-de-formation-de-l-artisanat-de-nouvelle-caledonie-va-devoir-repenser-son-fonctionnement-apres-la-crise-1498451.html)
+append_entries: 6
+Finish: 2024-06-20 12:43:40.833368

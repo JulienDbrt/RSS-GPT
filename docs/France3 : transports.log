@@ -2046,3 +2046,24 @@ Summarized using GPT-3.5-turbo
 Append: [Blablacar ouvre deux nouvelles lignes de cars pour voyager depuis la Normandie](https://france3-regions.francetvinfo.fr/normandie/blablacar-ouvre-deux-nouvelles-lignes-de-cars-pour-voyager-depuis-la-normandie-2989283.html)
 append_entries: 2
 Finish: 2024-06-20 01:17:07.068988
+------------------------------------------------------
+Started: 2024-06-20 12:42:27.407151
+Existing_entries: 491
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Inondations après les violents orages dans la Nièvre : des habitants évacués, la préfecture appelle à "éviter les déplacements"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/nevers/inondations-et-chutes-d-arbres-apres-les-violents-orages-la-prefecture-de-la-nievre-appelle-a-eviter-les-deplacements-2990243.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Les salariés d'Ilévia réclament une "prime JO", de très fortes perturbations à prévoir sur le réseau de transports en commun de Lille vendredi 21 juin](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/lille/les-salaries-d-ilevia-reclament-une-prime-jo-de-tres-fortes-perturbations-a-prevoir-sur-le-reseau-de-transports-en-commun-de-lille-vendredi-21-juin-2990405.html)
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [Après un éboulement, 50m3 de rochers risquent de tomber sur la RN90 en Savoie : des travaux de purge en cours, la circulation impactée](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/albertville/apres-un-eboulement-50m3-de-rochers-risquent-de-tomber-sur-la-rn90-en-savoie-des-travaux-de-purge-en-cours-la-circulation-impactee-2990117.html)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [Trains. "On met deux heures et demie pour venir en bus" : les usagers des TER entre espoir et exaspération face au trafic interrompu](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/trains-ter-on-met-deux-heures-et-demie-pour-venir-en-bus-les-usagers-entre-espoir-et-exasperation-2990081.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES. "Cela doit être dans le top 5 de mes expériences" Ils sont autistes et ont pu voler au large de Cannes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/temoignages-cela-doit-etre-dans-le-top-5-de-mes-experiences-ils-sont-autistes-et-ont-pu-voler-au-large-de-cannes-2989322.html)
+append_entries: 5
+Finish: 2024-06-20 12:42:46.750008

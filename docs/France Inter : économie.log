@@ -1187,3 +1187,21 @@ Existing_entries: 197
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-06-20 01:15:59.109821
+------------------------------------------------------
+Started: 2024-06-20 12:40:17.808010
+Existing_entries: 197
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [Législatives anticipées : Anne-Laure Delatte et Jean Pisani-Ferry analysent les programmes économiques](https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-jeudi-20-juin-2024-2290827)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [Les émissions de gaz à effet de serre de la France baissent](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-jeudi-20-juin-2024-2209067)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Automobile : Citroën concurrence directement Dacia](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-jeudi-20-juin-2024-1466500)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Pierres sèches et vignes : un village de l'Aveyron fait revivre des pratiques ancestrales](https://www.radiofrance.fr/franceinter/podcasts/l-esprit-d-initiative/esprit-d-initiative-du-jeudi-20-juin-2024-7662601)
+append_entries: 4
+Finish: 2024-06-20 12:40:35.628140

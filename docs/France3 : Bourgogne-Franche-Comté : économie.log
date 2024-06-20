@@ -1086,3 +1086,18 @@ Existing_entries: 170
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-20 01:16:48.299386
+------------------------------------------------------
+Started: 2024-06-20 12:42:00.905033
+Existing_entries: 170
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Inondations après les violents orages dans la Nièvre : des habitants évacués, la préfecture appelle à "éviter les déplacements"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/nevers/inondations-et-chutes-d-arbres-apres-les-violents-orages-la-prefecture-de-la-nievre-appelle-a-eviter-les-deplacements-2990243.html)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Un hélicoptère pour transporter des rochers en contrebas de la Citadelle de Besançon](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/un-helicoptere-pour-transporter-des-rochers-en-contrebas-de-la-citadelle-de-besancon-2989745.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Après la destruction de la centrale Lucy à Montceau-les-Mines, quelles perspectives ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/apres-la-destruction-de-la-centrale-lucy-a-montceau-les-mines-quelles-perspectives-2990033.html)
+append_entries: 3
+Finish: 2024-06-20 12:42:14.035315

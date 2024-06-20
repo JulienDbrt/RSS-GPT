@@ -1318,3 +1318,24 @@ Summarized using GPT-3.5-turbo
 Append: ["Le nombre d’apprentis dont nous nous occupons a doublé en huit ans" : entretien avec Jean-François Fortin, vice-président de la CCI du Tarn](https://www.ladepeche.fr/2024/06/19/le-nombre-dapprentis-dont-nous-nous-occupons-a-double-en-huit-ans-entretien-avec-jean-francois-fortin-vice-president-de-la-cci-du-tarn-12026620.php)
 append_entries: 1
 Finish: 2024-06-20 01:19:14.318446
+------------------------------------------------------
+Started: 2024-06-20 12:44:53.953528
+Existing_entries: 244
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Après 499 CDD en douze ans, un homme saisit la justice pour "recours abusif" aux contrats précaires et est débouté](https://www.ladepeche.fr/2024/06/20/apres-avoir-499-cdd-en-douze-ans-un-homme-saisit-la-justice-pour-recours-abusif-aux-contrats-precaires-et-est-deboute-12029441.php)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: ["C’est en partie grâce à lui si j’en suis là aujourd’hui" : Jack Vines obtient la médaille d’or du Concours national du Meilleur apprenti de France 2024](https://www.ladepeche.fr/2024/06/20/cest-en-partie-grace-a-lui-si-jen-suis-la-aujourdhui-jack-vines-obtient-la-medaille-dor-du-concours-national-du-meilleur-apprenti-de-france-2024-12013696.php)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: ["C’est un pari sur l’avenir": à Toulouse, Enedis réduit de moitié l’empreinte carbone de son chantier](https://www.ladepeche.fr/2024/06/20/cest-un-pari-sur-lavenir-a-toulouse-enedis-reduit-de-moitie-lempreinte-carbone-de-son-chantier-12024475.php)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Stéphanie Cabrit, nouvelle toiletteuse](https://www.ladepeche.fr/2024/06/20/stephanie-cabrit-nouvelle-toiletteuse-12028733.php)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Pour trouver un emploi, la mobilité est la clé](https://www.ladepeche.fr/2024/06/20/pour-trouver-un-emploi-la-mobilite-est-la-cle-12028704.php)
+append_entries: 5
+Finish: 2024-06-20 12:45:19.768977

@@ -786,3 +786,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Toutes les portes sont conservées, les boiseries, les parquets" : sauver le patrimoine architectural en danger pour en faire du logement social](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/toutes-les-portes-sont-conservees-les-boiseries-les-parquets-sauver-le-patrimoine-architectural-en-danger-pour-en-faire-du-logement-social-2989724.html)
 append_entries: 2
 Finish: 2024-06-20 01:16:59.485598
+------------------------------------------------------
+Started: 2024-06-20 12:42:23.442240
+Existing_entries: 70
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-06-20 12:42:27.151636

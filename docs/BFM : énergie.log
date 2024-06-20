@@ -831,3 +831,15 @@ Existing_entries: 85
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-06-20 01:13:15.744606
+------------------------------------------------------
+Started: 2024-06-20 12:36:17.536315
+Existing_entries: 85
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Électricité: Bruno Le Maire promet de rouvrir les négociations avec EDF sur les contrats de long terme](https://www.bfmtv.com/economie/entreprises/energie/electricite-bruno-le-maire-promet-de-rouvrir-les-negociations-avec-edf-sur-les-contrats-de-long-terme_AP-202406200566.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Législatives: le Nouveau Front populaire ne "touchera pas au parc nucléaire" actuel](https://www.bfmtv.com/economie/entreprises/energie/legislatives-le-nouveau-front-populaire-ne-touchera-pas-au-parc-nucleaire-actuel_AP-202406200365.html)
+append_entries: 2
+Finish: 2024-06-20 12:36:24.892660
