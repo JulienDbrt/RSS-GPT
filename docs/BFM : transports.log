@@ -999,3 +999,9 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF: seulement une gare sur trois propose un guichet pour acheter des billets TGV ou Intercités](https://www.bfmtv.com/economie/entreprises/transports/sncf-seulement-une-gare-sur-trois-propose-un-guichet-pour-acheter-des-billets-tgv-ou-intercites_AV-202406190459.html)
 append_entries: 1
 Finish: 2024-06-19 12:38:36.001154
+------------------------------------------------------
+Started: 2024-06-20 01:14:22.764280
+Existing_entries: 143
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-06-20 01:14:23.212986

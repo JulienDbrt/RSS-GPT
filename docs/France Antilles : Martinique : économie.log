@@ -1301,3 +1301,12 @@ Summarized using GPT-3.5-turbo
 Append: [Kim et Poutine signent un accord d'assistance mutuelle en cas d'"agression"](https://www.martinique.franceantilles.fr/actualite/international/poutine-en-coree-du-nord-pour-renforcer-les-liens-de-defense-991824.php)
 append_entries: 3
 Finish: 2024-06-19 12:39:56.901463
+------------------------------------------------------
+Started: 2024-06-20 01:15:15.327070
+Existing_entries: 257
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Equateur: panne d'électricité dans tout le pays, le gouvernement blâme le manque d'investissements](https://www.martinique.franceantilles.fr/actualite/economie/equateur-panne-delectricite-dans-tout-le-pays-le-gouvernement-blame-le-manque-dinvestissements-991957.php)
+append_entries: 1
+Finish: 2024-06-20 01:15:19.802705

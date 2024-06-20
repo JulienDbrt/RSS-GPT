@@ -710,3 +710,9 @@ Summarized using GPT-3.5-turbo
 Append: [La finance solidaire a retrouvé une croissance à deux chiffres en 2023](https://www.la-croix.com/economie/la-finance-solidaire-a-retrouve-une-croissance-a-deux-chiffres-en-2023-20240618)
 append_entries: 2
 Finish: 2024-06-19 12:43:44.457390
+------------------------------------------------------
+Started: 2024-06-20 01:18:34.167984
+Existing_entries: 60
+Fetching from https://www.la-croix.com/RSS/Economie/Economie-solidaire
+append_entries: 0
+Finish: 2024-06-20 01:18:34.385529

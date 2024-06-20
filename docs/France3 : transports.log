@@ -2034,3 +2034,15 @@ Summarized using GPT-3.5-turbo
 Append: [À Saint-Pierre-des-Corps, "la colère et l'amertume" : écartée du tracé de la ligne 2, la cité cheminote veut, elle aussi, passer au tram](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/a-saint-pierre-des-corps-la-colere-et-l-amertume-ecartee-du-trace-de-la-ligne-2-la-cite-cheminote-veut-elle-aussi-passer-au-tram-2982356.html)
 append_entries: 5
 Finish: 2024-06-19 12:42:45.023474
+------------------------------------------------------
+Started: 2024-06-20 01:16:59.735169
+Existing_entries: 489
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Incendie dans l'Hérault : une voiture en feu sur l'A75 à la sortie du tunnel de l'Escalette, la circulation coupée dans le sens Lodève-Millau](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/incendie-dans-l-herault-une-voiture-en-feu-sur-l-a75-a-la-sortie-du-tunnel-de-l-escalette-la-circulation-coupee-dans-le-sens-lodeve-millau-2989889.html)
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [Blablacar ouvre deux nouvelles lignes de cars pour voyager depuis la Normandie](https://france3-regions.francetvinfo.fr/normandie/blablacar-ouvre-deux-nouvelles-lignes-de-cars-pour-voyager-depuis-la-normandie-2989283.html)
+append_entries: 2
+Finish: 2024-06-20 01:17:07.068988

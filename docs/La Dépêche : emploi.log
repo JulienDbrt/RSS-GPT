@@ -1309,3 +1309,12 @@ Summarized using GPT-3.5-turbo
 Append: [Saint-Girons. Quand le sport sert de tremplin pour trouver un emploi](https://www.ladepeche.fr/2024/06/19/quand-le-sport-sert-de-tremplin-pour-trouver-un-emploi-12025883.php)
 append_entries: 5
 Finish: 2024-06-19 12:44:43.869597
+------------------------------------------------------
+Started: 2024-06-20 01:19:09.430155
+Existing_entries: 243
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: ["Le nombre d’apprentis dont nous nous occupons a doublé en huit ans" : entretien avec Jean-François Fortin, vice-président de la CCI du Tarn](https://www.ladepeche.fr/2024/06/19/le-nombre-dapprentis-dont-nous-nous-occupons-a-double-en-huit-ans-entretien-avec-jean-francois-fortin-vice-president-de-la-cci-du-tarn-12026620.php)
+append_entries: 1
+Finish: 2024-06-20 01:19:14.318446

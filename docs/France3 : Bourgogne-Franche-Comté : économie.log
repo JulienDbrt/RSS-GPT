@@ -1080,3 +1080,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les lignes de tram de Besançon perturbées, une panne d'électricité en cause](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/les-lignes-de-tram-de-besancon-perturbees-une-panne-d-electricite-en-cause-2989556.html)
 append_entries: 2
 Finish: 2024-06-19 12:42:09.228996
+------------------------------------------------------
+Started: 2024-06-20 01:16:48.056855
+Existing_entries: 170
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-06-20 01:16:48.299386

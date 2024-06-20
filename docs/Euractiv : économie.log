@@ -884,3 +884,12 @@ Summarized using GPT-3.5-turbo
 Append: [L’Allemagne cherche à apaiser les tensions commerciales avec la Chine](https://www.euractiv.fr/section/concurrence/news/lallemagne-cherche-a-apaiser-les-tensions-commerciales-avec-la-chine/)
 append_entries: 1
 Finish: 2024-06-19 12:39:30.953543
+------------------------------------------------------
+Started: 2024-06-20 01:15:06.891387
+Existing_entries: 118
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [Centraliser la politique de cohésion pourrait « tuer » le projet européen, selon le président du Comité des régions](https://www.euractiv.fr/section/economie/news/centraliser-la-politique-de-cohesion-pourrait-tuer-le-projet-europeen-selon-le-president-du-comite-des-regions/)
+append_entries: 1
+Finish: 2024-06-20 01:15:09.833066

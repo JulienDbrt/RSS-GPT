@@ -1112,3 +1112,15 @@ Summarized using GPT-3.5-turbo
 Append: [New York : Avec la fièvre de l’IA, Nvidia devient la première capitalisation mondiale en Bourse](https://www.20minutes.fr/economie/4096931-20240619-new-york-fievre-ia-nvidia-devient-premiere-capitalisation-mondiale-bourse)
 append_entries: 1
 Finish: 2024-06-19 12:35:37.220587
+------------------------------------------------------
+Started: 2024-06-20 01:12:07.820020
+Existing_entries: 174
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [« UltraBasic », moins cher que la classe éco, ce billet d’avion propose le strict minimum](https://www.20minutes.fr/economie/4097040-20240619-ultrabasic-moins-cher-classe-eco-billet-avion-propose-strict-minimum)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Union Européenne : Sept pays, dont la France, se font taper sur les doigts pour leur déficit public](https://www.20minutes.fr/economie/4097039-20240619-union-europeenne-sept-pays-dont-france-font-taper-doigts-deficit-public)
+append_entries: 2
+Finish: 2024-06-20 01:12:16.750232

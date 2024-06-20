@@ -774,3 +774,15 @@ Summarized using GPT-3.5-turbo
 Append: [INSOLITE. Le plus grand blockhaus du nord de la France est à vendre, "il faut préserver le site, pour que les jeunes sachent ce que leurs grands-parents ont vécu"](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/insolite-le-plus-grand-blockhaus-du-nord-de-la-france-est-a-vendre-il-faut-preserver-le-site-pour-que-les-jeunes-sachent-ce-que-leurs-grands-parents-ont-vecu-2989421.html)
 append_entries: 1
 Finish: 2024-06-19 12:42:27.041810
+------------------------------------------------------
+Started: 2024-06-20 01:16:51.736127
+Existing_entries: 68
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. 29 chambres, 30000 m2 de terrain et 4 Rolls-Royce "en cadeau" : cette villa de rêve est à vendre 60 millions d'euros](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/annecy/video-29-chambres-30000-m2-de-terrain-et-4-rolls-royce-en-cadeau-cette-villa-de-reve-est-a-vendre-60-millions-d-euros-2989982.html)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: ["Toutes les portes sont conservées, les boiseries, les parquets" : sauver le patrimoine architectural en danger pour en faire du logement social](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/toutes-les-portes-sont-conservees-les-boiseries-les-parquets-sauver-le-patrimoine-architectural-en-danger-pour-en-faire-du-logement-social-2989724.html)
+append_entries: 2
+Finish: 2024-06-20 01:16:59.485598

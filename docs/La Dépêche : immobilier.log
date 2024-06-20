@@ -835,3 +835,9 @@ Summarized using GPT-3.5-turbo
 Append: [Mane. Conseil communautaire ce jeudi](https://www.ladepeche.fr/2024/06/19/conseil-communautaire-ce-jeudi-12026497.php)
 append_entries: 1
 Finish: 2024-06-19 12:44:46.316700
+------------------------------------------------------
+Started: 2024-06-20 01:19:14.362094
+Existing_entries: 85
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-06-20 01:19:14.847710

@@ -840,3 +840,12 @@ Existing_entries: 90
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-06-19 12:41:50.824183
+------------------------------------------------------
+Started: 2024-06-20 01:16:34.166547
+Existing_entries: 90
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle centrale du Ricanto, l’arrêté ministériel signé, les travaux bientôt lancés](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/ajaccio/nouvelle-centrale-du-ricanto-l-arrete-ministeriel-signe-les-travaux-bientot-lances-2990048.html)
+append_entries: 1
+Finish: 2024-06-20 01:16:35.980051
