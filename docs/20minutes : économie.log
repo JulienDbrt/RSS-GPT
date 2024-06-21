@@ -1139,3 +1139,12 @@ Summarized using GPT-3.5-turbo
 Append: [Toute l’info en 2 minutes : Grand oral des partis, vigilance orange crues et canicule fatale à La Mecque](https://www.20minutes.fr/societe/4097133-20240620-toute-info-2-minutes-grand-oral-partis-vigilance-orange-crues-canicule-fatale-mecque)
 append_entries: 3
 Finish: 2024-06-20 12:35:09.092624
+------------------------------------------------------
+Started: 2024-06-21 01:12:35.221514
+Existing_entries: 179
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Bac 2024 : Le sujet et le corrigé de l’épreuve de spécialité SES du jeudi 20 juin](https://www.20minutes.fr/actu-generale/4097306-20240620-bac-2024-sujet-corrige-epreuve-specialite-jeudi-20-juin)
+append_entries: 1
+Finish: 2024-06-21 01:12:39.662470

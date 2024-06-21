@@ -1322,3 +1322,15 @@ Summarized using GPT-3.5-turbo
 Append: [L'adaptation au changement climatique pas à la hauteur en France, selon les experts du HCC](https://www.martinique.franceantilles.fr/actualite/economie/ladaptation-au-changement-climatique-pas-a-la-hauteur-en-france-selon-les-experts-du-hcc-991967.php)
 append_entries: 2
 Finish: 2024-06-20 12:39:36.558372
+------------------------------------------------------
+Started: 2024-06-21 01:15:00.231051
+Existing_entries: 260
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Vente de sous-marins à la Malaisie en 2002: procès pour corruption requis pour Thales, DCNI et des ex-dirigeants](https://www.martinique.franceantilles.fr/actualite/economie/vente-de-sous-marins-a-la-malaisie-en-2002-proces-pour-corruption-requis-pour-thales-dcni-et-des-ex-dirigeants-992051.php)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Vente de sous-marins à la Malaisie en 2002: procès pour corruption requis pour Thales, DCNI et des ex-dirigeants](https://www.martinique.franceantilles.fr/actualite/economie/vente-de-sous-marins-a-la-malaisie-en-2002-proces-pour-corruption-requis-pour-thales-dcni-et-des-ex-dirigeants-992025.php)
+append_entries: 2
+Finish: 2024-06-21 01:15:09.473161

@@ -888,3 +888,9 @@ Summarized using GPT-3.5-turbo
 Append: [Après une longue panne et de nombreux déboires, la ligne B du métro rennais de nouveau sur les rails](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/apres-une-longue-panne-et-de-nombreux-deboires-la-ligne-b-du-metro-rennais-de-nouveau-sur-les-rails-2990366.html)
 append_entries: 1
 Finish: 2024-06-20 12:42:17.355131
+------------------------------------------------------
+Started: 2024-06-21 01:17:22.736276
+Existing_entries: 102
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-21 01:17:22.984366

@@ -862,3 +862,12 @@ Summarized using GPT-3.5-turbo
 Append: [Toulouse : l’association des propriétaires et copropriétaires fête ses 120 ans](https://www.ladepeche.fr/2024/06/20/toulouse-lassociation-des-proprietaires-et-coproprietaires-fete-ses-120-ans-12008554.php)
 append_entries: 5
 Finish: 2024-06-20 12:45:44.743586
+------------------------------------------------------
+Started: 2024-06-21 01:20:06.343558
+Existing_entries: 90
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Urbanisme : comment Toulouse et sa Métropole vont encore se densifier](https://www.ladepeche.fr/2024/06/20/urbanisme-comment-toulouse-et-sa-metropole-vont-encore-se-densifier-12029475.php)
+append_entries: 1
+Finish: 2024-06-21 01:20:10.560661

@@ -2647,3 +2647,18 @@ Summarized using GPT-3.5-turbo
 Append: [Face à la baisse de la population active, la Normandie au défi d’inverser la courbe](https://www.latribune.fr/economie/france/face-a-la-baisse-de-la-population-active-la-normandie-au-defi-d-inverser-la-courbe-1000311.html)
 append_entries: 10
 Finish: 2024-06-20 12:47:23.338777
+------------------------------------------------------
+Started: 2024-06-21 01:20:45.205189
+Existing_entries: 675
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Législatives : Macron « a tué la majorité présidentielle » estime Edouard Philippe](https://www.latribune.fr/economie/france/legislatives-2024/en-direct-legislatives-le-medef-trouve-dangereuses-pour-l-economie-les-mesures-du-rn-et-du-nouveau-front-populaire-1000270.html)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [La France doit « alléger le fardeau » de sa dette, avertit le FMI](https://www.latribune.fr/economie/france/la-france-doit-alleger-le-fardeau-de-sa-dette-avertit-le-fmi-1000351.html)
+Token length: 580
+Summarized using GPT-3.5-turbo
+Append: [Législatives : au Medef, le grand écart fiscal des candidats](https://www.latribune.fr/economie/france/legislatives-2024/legislatives-au-medef-le-grand-ecart-fiscal-des-candidats-1000327.html)
+append_entries: 3
+Finish: 2024-06-21 01:20:56.037221

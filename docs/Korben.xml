@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Auto-News – L’agrégateur de news qui vous permet d’éviter le « bruit »</title>
 <link>https://korben.info/auto-news-agregateur-news-automatise-ia-lecture-efficace-2.html</link>
 <guid>https://korben.info/auto-news-agregateur-news-automatise-ia-lecture-efficace-2.html</guid>
 <content:encoded><![CDATA[
 <div> agrégateur, news, IA, technologie, personnalisation
-Summary:<br><br>Auto-News est un agrégateur de news automatisé boosté à l’IA. Il rassemble vos sources favorites telles que tweets, RSS, YouTube, articles web, Reddit, et même vos notes perso. L'IA analyse et résume le contenu, vous offrant les informations pertinentes selon vos centres d’intérêt. Fini le tri fastidieux des news, Auto-News s'en charge automatiquement. Vous créez une page sur Notion, renseignez vos données, et l'outil organise vos contenus dans des dossiers et bases de données. Il peut générer des transcriptions pour les vidéos YouTube et les articles web, ainsi que des listes de tâches à partir de vos notes. Techniquement solide, il fonctionne sous Linux ou MacOS avec Docker, et son interface Notion est accessible depuis divers appareils. Une solution parfaite pour lutter contre l'infobésité et profiter d'une lecture personnalisée. <div>
+Summary:<br /><br />Auto-News est un agrégateur de news automatisé boosté à l’IA. Il rassemble vos sources favorites telles que tweets, RSS, YouTube, articles web, Reddit, et même vos notes perso. L'IA analyse et résume le contenu, vous offrant les informations pertinentes selon vos centres d’intérêt. Fini le tri fastidieux des news, Auto-News s'en charge automatiquement. Vous créez une page sur Notion, renseignez vos données, et l'outil organise vos contenus dans des dossiers et bases de données. Il peut générer des transcriptions pour les vidéos YouTube et les articles web, ainsi que des listes de tâches à partir de vos notes. Techniquement solide, il fonctionne sous Linux ou MacOS avec Docker, et son interface Notion est accessible depuis divers appareils. Une solution parfaite pour lutter contre l'infobésité et profiter d'une lecture personnalisée. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_auto_news_machine_6b533428-b432-4279-93f8-381bdeea4b23.png" width="1456" /></p>
 <p><strong>Auto-News</strong> est un agrégateur de news automatisé boosté à l&rsquo;<strong>IA</strong> qui rassemble vos sources favorites &#8211; tweets, RSS, YouTube, articles web, Reddit, même vos petites notes perso. Puis c&rsquo;est la magie de l&rsquo;IA qui analyse tout ça en deux temps trois mouvements, résume le contenu à vitesse grand V, et vous sert sur un plateau les pépites qui matchent avec vos centres d&rsquo;intérêt. Le reste, poubelle ! Comme ça, fini le tri bien pénible.</p>
 
@@ -36,9 +37,7 @@ Summary:<br><br>Auto-News est un agrégateur de news automatisé boosté à l’
 <p>Parfait pour dire adieu à l&rsquo;infobésité et découvrir le plaisir d&rsquo;une lecture personnalisée. <a href="https://github.com/finaldie/auto-news" rel="noopener" target="_blank">Pour plus d&rsquo;infos, c&rsquo;est par ici</a>.</p>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 20 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>VNote – Votre nouvel éditeur markdown</title>
 <link>https://korben.info/vnote-compagnon-redaction-multiplateforme.html</link>

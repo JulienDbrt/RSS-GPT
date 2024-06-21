@@ -1201,3 +1201,12 @@ Summarized using GPT-3.5-turbo
 Append: [JO-2024 : seuls 9% des commerces indépendants s'attendent à un impact positif sur leur activité](https://www.europe1.fr/economie/jo-2024-seuls-9-des-commerces-independants-sattendent-a-un-impact-positif-sur-leur-activite-4253651)
 append_entries: 4
 Finish: 2024-06-20 12:39:26.471700
+------------------------------------------------------
+Started: 2024-06-21 01:14:56.450428
+Existing_entries: 201
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [Trophées de l'Avenir 2024 : suivez la cérémonie en direct](https://www.europe1.fr/economie/trophees-de-lavenir-2024-suivez-la-ceremonie-en-direct-4253901)
+append_entries: 1
+Finish: 2024-06-21 01:15:00.106665

@@ -1896,3 +1896,18 @@ Existing_entries: 448
 Fetching from https://flipboard.com/topic/fr-bitcoin.rss
 append_entries: 0
 Finish: 2024-06-20 12:30:50.925875
+------------------------------------------------------
+Started: 2024-06-21 01:08:43.549006
+Existing_entries: 448
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Oups, un bug a permis de créer des cryptos à volonté](https://www.01net.com/actualites/bug-permettait-creer-cryptos-volonte-plateforme.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Apocalypse crypto : Peter Brandt prédit la chute de Tether et du dollar](https://www.cointribune.com/apocalypse-crypto-peter-brandt-predit-la-chute-de-tether-et-du-dollar/)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Jusqu'à six ans de prison pour une bande qui a volé des millions d'euros en bitcoins](https://www.rtl.be/actu/belgique/faits-divers/jusqua-six-ans-de-prison-pour-une-bande-qui-vole-des-millions-deuros-en-bitcoins/2024-06-20/article/682159)
+append_entries: 3
+Finish: 2024-06-21 01:09:04.756135

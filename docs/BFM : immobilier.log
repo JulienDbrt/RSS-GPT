@@ -1108,3 +1108,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Le logement est trop cher en France car trop normé": les promoteurs appellent à un sursaut](https://www.bfmtv.com/immobilier/construction/le-logement-est-trop-cher-en-france-car-trop-norme-les-promoteurs-appellent-a-un-sursaut_AV-202406200351.html)
 append_entries: 5
 Finish: 2024-06-20 12:38:20.115032
+------------------------------------------------------
+Started: 2024-06-21 01:14:07.782674
+Existing_entries: 188
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [La très belle plus-value du clan Le Pen avec la revente de leur maison de Rueil-Malmaison](https://www.bfmtv.com/immobilier/prix-immobilier/la-tres-belle-plus-value-du-clan-le-pen-avec-la-revente-de-leur-maison-de-rueuil-malmaison_AV-202406200777.html)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: ["Il se trompe de cible", "on ne va pas être contre": la proposition du RN sur le DPE divise le secteur](https://www.bfmtv.com/immobilier/renovation-travaux/il-se-trompe-de-cible-on-ne-va-pas-etre-contre-la-proposition-du-rn-sur-le-dpe-divise-le-secteur_AV-202406200692.html)
+append_entries: 2
+Finish: 2024-06-21 01:14:13.970026

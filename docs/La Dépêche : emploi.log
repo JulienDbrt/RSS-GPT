@@ -1339,3 +1339,15 @@ Summarized using GPT-3.5-turbo
 Append: [Pour trouver un emploi, la mobilité est la clé](https://www.ladepeche.fr/2024/06/20/pour-trouver-un-emploi-la-mobilite-est-la-cle-12028704.php)
 append_entries: 5
 Finish: 2024-06-20 12:45:19.768977
+------------------------------------------------------
+Started: 2024-06-21 01:19:59.003419
+Existing_entries: 249
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Du stade vers l’emploi : des recrutements sur le terrain de handball encadrés par France Travail à Figeac](https://www.ladepeche.fr/2024/06/20/du-stade-vers-lemploi-des-recrutements-sur-le-terrain-de-handball-encadres-par-france-travail-a-figeac-12030168.php)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: ["On a arrêté de chercher la perle rare": l’hôtellerie-restauration toujours à la peine à l’approche des grandes vacances](https://www.ladepeche.fr/2024/06/20/on-a-arrete-de-chercher-la-perle-rare-lhotellerie-restauration-toujours-a-la-peine-a-lapproche-des-grandes-vacances-12029757.php)
+append_entries: 2
+Finish: 2024-06-21 01:20:06.298287

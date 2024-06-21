@@ -1041,3 +1041,18 @@ Existing_entries: 153
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-20 12:41:29.533503
+------------------------------------------------------
+Started: 2024-06-21 01:16:48.960118
+Existing_entries: 153
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024. "Question pouvoir d'achat, on ne peut pas compter sur les promesses politiques", paroles d'électeurs aux portes d'une toute nouvelle enseigne à petits prix](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/legislatives-2024-question-pouvoir-d-achat-on-ne-pas-compter-sur-les-promesses-politiques-paroles-d-electeurs-devant-une-toute-nouvelle-enseigne-a-bas-prix-2990510.html)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Parigo. Ligne 14 prolongée : le nouveau trait d’union du Grand Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/parigo-ligne-14-prolongee-le-nouveau-trait-d-union-du-grand-paris-2990198.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Fête de la Musique : métro, RER, bus, tram, quelles sont les lignes ouvertes toute la nuit](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/fete-de-la-musique-metro-rer-bus-tram-quelles-sont-les-lignes-ouvertes-toute-la-nuit-2990495.html)
+append_entries: 3
+Finish: 2024-06-21 01:16:58.517989
