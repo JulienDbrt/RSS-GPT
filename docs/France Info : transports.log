@@ -1226,3 +1226,9 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : seule une gare sur trois dispose encore d’un guichet de vente](https://www.francetvinfo.fr/economie/transports/sncf/sncf-seule-une-gare-sur-trois-dispose-encore-d-un-guichet-de-vente_6615765.html)
 append_entries: 2
 Finish: 2024-06-21 01:15:58.656270
+------------------------------------------------------
+Started: 2024-06-21 12:39:44.967768
+Existing_entries: 206
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-06-21 12:39:45.342604

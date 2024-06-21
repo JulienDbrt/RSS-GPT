@@ -1222,3 +1222,18 @@ Summarized using GPT-3.5-turbo
 Append: [Prix: Le panier le plus cher de l'UE est au Luxembourg](https://www.lessentiel.lu/fr/story/prix-le-panier-le-plus-cher-de-lue-est-au-luxembourg-103131638)
 append_entries: 2
 Finish: 2024-06-21 01:18:25.944391
+------------------------------------------------------
+Started: 2024-06-21 12:42:02.656632
+Existing_entries: 258
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [Climat: L’Espagne supprime la TVA sur l’huile d’olive](https://www.lessentiel.lu/fr/story/climat-lespagne-supprime-la-tva-sur-lhuile-dolive-103132378)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [«Workation»: Luxembourg-Ville désignée meilleur spot pour télétravailler en Europe!](https://www.lessentiel.lu/fr/story/berlin-ibiza-ou-geneve-vous-ne-devinerez-jamais-le-spot-ideal-pour-le-workation-103132203)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Commerce: Après sa liquidation, Camaïeu revient à la fin de l'été](https://www.lessentiel.lu/fr/story/commerce-apres-sa-liquidation-camaieu-revient-a-la-fin-de-lete-103132207)
+append_entries: 3
+Finish: 2024-06-21 12:42:14.152232

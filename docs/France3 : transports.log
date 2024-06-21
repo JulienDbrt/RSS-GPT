@@ -2088,3 +2088,27 @@ Summarized using GPT-3.5-turbo
 Append: [Fête de la Musique : métro, RER, bus, tram, quelles sont les lignes ouvertes toute la nuit](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/fete-de-la-musique-metro-rer-bus-tram-quelles-sont-les-lignes-ouvertes-toute-la-nuit-2990495.html)
 append_entries: 5
 Finish: 2024-06-21 01:17:47.729854
+------------------------------------------------------
+Started: 2024-06-21 12:41:31.254914
+Existing_entries: 501
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [PORTRAIT. À seulement 21 ans, Éloïse est championne des élèves conducteurs routiers](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/portrait-a-seulement-21-ans-eloise-est-championne-des-eleves-conducteurs-routiers-2991044.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [Fête de la musique, demi-finales du Top 14 : plusieurs secteurs fermés à la circulation ce week-end à Bordeaux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/fete-de-la-musique-demi-finales-du-top-14-plusieurs-secteurs-fermes-a-la-circulation-ce-week-end-a-bordeaux-2991056.html)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Comblement de la trémie Garibaldi à Lyon : le ras-le-bol des riverains face aux nuisances](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/comblement-de-la-tremie-garibaldi-a-lyon-le-ras-le-bol-des-riverains-face-aux-nuisances-2989796.html)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Grève sur le réseau TBM ce samedi 22 juin, le trafic sera "très perturbé" à Bordeaux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/greve-sur-le-reseau-tbm-ce-samedi-22-juin-le-trafic-sera-tres-perturbe-a-bordeaux-2990912.html)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Des adhésifs contre la chaleur testés tout l'été dans certaines rames du tramway de Marseille](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/des-adhesifs-contre-la-chaleur-testes-tout-l-ete-dans-certaines-rames-du-tramway-de-marseille-2989505.html)
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [Vétuste, vieillissante et dangereuse : la gare routière d'Orléans va être entièrement réhabilitée](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/vetuste-vieillissante-et-dangereuse-la-gare-routiere-d-orleans-va-etre-entierement-rehabilitee-2990789.html)
+append_entries: 6
+Finish: 2024-06-21 12:41:52.028128

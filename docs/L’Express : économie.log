@@ -1390,3 +1390,15 @@ Existing_entries: 314
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-21 01:18:27.193696
+------------------------------------------------------
+Started: 2024-06-21 12:42:14.730815
+Existing_entries: 314
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 6395
+Summarized using GPT-3.5-turbo
+Append: [Avant les élections, l’appel de Pascal Cagni aux patrons : "Allez-y, sortez du bois !"](https://www.lexpress.fr/economie/politique-economique/avant-les-elections-lappel-de-pascal-cagni-aux-patrons-allez-y-sortez-du-bois-MV2A3ZBVDZHXTLB3PXSI44IY4E/)
+Token length: 3820
+Summarized using GPT-3.5-turbo
+Append: [Cybersécurité : le nouveau tour de vis de Washington contre Kaspersky](https://www.lexpress.fr/economie/high-tech/cybersecurite-le-nouveau-tour-de-vis-de-washington-contre-kaspersky-3JLXFI2VUZHPLO5BV74AV7J6AU/)
+append_entries: 2
+Finish: 2024-06-21 12:42:23.669703

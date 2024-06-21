@@ -854,3 +854,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier. Que devez-vous déclarer si vous hébergez quelqu'un dans votre logement ?](https://www.lalsace.fr/magazine-immobilier/2024/06/20/que-devez-vous-declarer-si-vous-hebergez-quelqu-un-dans-votre-logement)
 append_entries: 1
 Finish: 2024-06-21 01:18:18.415558
+------------------------------------------------------
+Started: 2024-06-21 12:42:01.269713
+Existing_entries: 82
+Fetching from https://www.lalsace.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-06-21 12:42:02.536572

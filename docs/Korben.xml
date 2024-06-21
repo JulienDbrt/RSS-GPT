@@ -4,6 +4,72 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Jampack – Boostez votre site statique en deux temps trois mouvements !</title>
+<link>https://korben.info/jampack-booster-site-statique-optimisation-performance.html</link>
+<guid>https://korben.info/jampack-booster-site-statique-optimisation-performance.html</guid>
+<content:encoded><![CDATA[
+<div> Jampack, outil, site statique, optimisations, performance <br>
+<br>
+Summary: Aujourd'hui, nous avons découvert Jampack, un outil incroyable qui transforme les sites statiques générés par des générateurs tels que Hugo, Jekyll ou Eleventy en des sites ultra-performants. En scannant le site, Jampack applique automatiquement diverses optimisations, comme la rendue des images responsive, la priorisation des assets essentiels, l'inlinage du CSS critique, le prefetching des liens et la minification des fichiers. Toutes ces actions se traduisent par une expérience utilisateur optimale et des scores Core Web Vitals impressionnants. Même des experts comme Keycloak.ch, BayJS.org ou CloudCannon.com font confiance à Jampack pour booster encore davantage les performances de leurs sites. De plus, cet outil open-source sous licence MIT est accessible à tous sur GitHub. Avec Jampack, l'optimisation de site devient un jeu d'enfant, laissant les utilisateurs libres de se concentrer sur d'autres aspects de leur projet en toute sérénité. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="352" src="https://korben.info/app/uploads/2024/04/SCR-20240405-unep.webp" width="1000" /></p>
+<p>Aujourd&rsquo;hui, je vous parle d&rsquo;un truc vraiment cool nommé <strong>Jampack</strong>. En gros, c&rsquo;est un outil qui prend votre site statique généré par votre générateur préféré (Hugo, Jekyll, Eleventy&#8230; y&rsquo;en a pour tous les goûts !) et qui le transforme en une bête de course optimisée pour une expérience utilisateur de folie et des scores <strong>Core Web Vitals</strong> à faire pâlir les GAFAM.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1740835230" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Comment ça marche ce truc ? Eh bien, Jampack va scanner votre site et appliquer tout un tas d&rsquo;optimisations automatiquement. Par exemple, il va :</p>
+
+
+
+<ul>
+<li>Rendre vos images <strong>responsive</strong> avec des dimensions et des formats modernes comme le WebP ou l&rsquo;AVIF. Fini les images qui mettent trois plombes à charger !</li>
+
+
+
+<li>Mettre la priorité sur les assets importants au-dessus de la ligne de flottaison et lazy-loader le reste. Comme ça, votre site s&rsquo;affiche direct pendant que le reste charge tranquillou en arrière-plan.  </li>
+
+
+
+<li>Inliner le CSS critique et virer le Flash of Unstyled Content (FOUC). Votre site aura la classe dès les premières millisecondes.</li>
+
+
+
+<li>Prefetcher les liens pour accélérer la navigation. Vos visiteurs surferont à la vitesse de la lumière sur votre site !</li>
+
+
+
+<li>Minifier et compresser tout ce qui traîne : HTML, CSS, JS, SVG&#8230; Que du bonheur pour votre bande passante.</li>
+</ul>
+
+
+
+<p>Et tout ça sans que vous ayez à lever le petit doigt ! Juste un petit </p>
+
+
+
+<pre class="wp-block-code"><code>npm install -D @divriots/jampack</code></pre>
+
+
+
+<p>et hop, magie, votre site est optimisé de fou.</p>
+
+
+
+<p>Bon, vous vous dites peut-être : « <em>Ouais, ok, mais mon site il est déjà pas mal optimisé, hein</em>« . Eh bah, sachez que même les experts de <strong>Keycloak.ch</strong>, <strong>BayJS.org</strong> ou <strong>CloudCannon.com</strong> utilisent Jampack pour squeeze encore plus de perf. Vous pensez vraiment faire mieux ? ^^</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-692036422" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et bien sûr, tout le code est open-source sur GitHub, sous licence MIT. Allez, sur ce, je vous laisse, j&rsquo;ai un site à optimiser moi. See ya !</p>
+
+
+
+<p><a href="https://jampack.divriots.com/" rel="noopener" target="_blank">A découvrir ici</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Auto-News – L’agrégateur de news qui vous permet d’éviter le « bruit »</title>

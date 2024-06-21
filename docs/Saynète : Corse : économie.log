@@ -2922,3 +2922,15 @@ Summarized using GPT-3.5-turbo
 Append: [Réunion d’information - Dispositif CRESCE](https://www.facebook.com/469640381992713/posts/774251224864959)
 append_entries: 10
 Finish: 2024-06-21 01:12:34.404733
+------------------------------------------------------
+Started: 2024-06-21 12:34:29.818600
+Existing_entries: 1010
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 18
+Summarized using GPT-3.5-turbo
+Append: [Jmenuji se Corsica - CZ 2024](https://www.youtube.com/watch?v=e3rgNGDBsUU)
+Token length: 381
+Summarized using GPT-3.5-turbo
+Append: [Arrêté du 18 juin 2024 relatif au taux de rémunération du capital immobilisé pour le projet de centrale de production d’électricité du Ricanto fonctionnant au bioliquide et située en Corse](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049757335)
+append_entries: 2
+Finish: 2024-06-21 12:34:37.401604

@@ -1210,3 +1210,15 @@ Summarized using GPT-3.5-turbo
 Append: [Trophées de l'Avenir 2024 : suivez la cérémonie en direct](https://www.europe1.fr/economie/trophees-de-lavenir-2024-suivez-la-ceremonie-en-direct-4253901)
 append_entries: 1
 Finish: 2024-06-21 01:15:00.106665
+------------------------------------------------------
+Started: 2024-06-21 12:38:39.284407
+Existing_entries: 202
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 362
+Summarized using GPT-3.5-turbo
+Append: [Moins d’appels, moins de visites… Après la dissolution de l’Assemblée, le marché immobilier montre des signes d’inquiétude](https://www.europe1.fr/economie/moins-dappels-moins-de-visites-apres-la-dissolution-de-lassemblee-le-marche-immobilier-montre-des-signes-dinquietude-4253940)
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [Comment le Nouveau Front Populaire veut rester dans l’UE, tout en bafouant les règles budgétaires européennes ?](https://www.europe1.fr/economie/comment-le-nouveau-front-populaire-veut-rester-dans-lue-tout-en-bafouant-les-regles-budgetaires-europeennes-4253944)
+append_entries: 2
+Finish: 2024-06-21 12:38:46.009926

@@ -864,3 +864,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un camion de remorquage tirant un Boeing d'Air France prend feu à Roissy](https://www.bfmtv.com/economie/entreprises/aeronautique/un-camion-de-remorquage-tirant-un-boeing-d-air-france-prend-feu-a-roissy_AN-202406200746.html)
 append_entries: 2
 Finish: 2024-06-21 01:13:30.904184
+------------------------------------------------------
+Started: 2024-06-21 12:36:08.559330
+Existing_entries: 92
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: ["La consécration du projet": les premiers satellites de la constellation française Kinéis en orbite](https://www.bfmtv.com/economie/entreprises/aeronautique/la-consecration-du-projet-les-premiers-satellites-de-la-constellation-francaise-kineis-en-orbite_AD-202406210143.html)
+append_entries: 1
+Finish: 2024-06-21 12:36:12.509707

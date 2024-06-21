@@ -1233,3 +1233,27 @@ Summarized using GPT-3.5-turbo
 Append: [Comment les villes et communes wallonnes ont-elles réagi face aux récentes crises?](https://www.7sur7.be/belgique/comment-les-villes-et-communes-wallonnes-ont-elles-reagi-face-aux-recentes-crises~ac290838/)
 append_entries: 1
 Finish: 2024-06-21 01:12:42.740583
+------------------------------------------------------
+Started: 2024-06-21 12:34:56.804579
+Existing_entries: 215
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Le Nouveau Front Populaire veut instaurer un impôt sur la fortune qui rapporterait 15 milliards à la France](https://www.7sur7.be/monde/le-nouveau-front-populaire-veut-instaurer-un-impot-sur-la-fortune-qui-rapporterait-15-milliards-a-la-france~ad805bb9/)
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [Booking.com met en garde contre la hausse spectaculaire de phishing due à l’IA: “Des emails très ressemblants”](https://www.7sur7.be/tech/booking-com-met-en-garde-contre-la-hausse-spectaculaire-de-phishing-due-a-lia-des-emails-tres-ressemblants~a948b65e/)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [L’Espagne supprime la TVA sur l’huile d’olive face à l’envolée des prix](https://www.7sur7.be/monde/lespagne-supprime-la-tva-sur-lhuile-dolive-face-a-lenvolee-des-prix~a6939d75/)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Des bonbons et des chips au rayon des bonnes affaires chez Colruyt: les conseils des “Chasseurs de promos”](https://www.7sur7.be/economie/des-bonbons-et-des-chips-au-rayon-des-bonnes-affaires-chez-colruyt-les-conseils-des-chasseurs-de-promos~a28a691d/)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [Zones à nu? Mauvaises herbes? Les 5 problèmes de pelouse les plus courants et comment les résoudre](https://www.7sur7.be/economie/zones-a-nu-mauvaises-herbes-les-5-problemes-de-pelouse-les-plus-courants-et-comment-les-resoudre~a395ffa6/)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi les mutualités (ne) vous remboursent-elles (pas) certains frais?](https://www.7sur7.be/actu/pourquoi-les-mutualites-ne-vous-remboursent-elles-pas-certains-frais~a9729303/)
+append_entries: 6
+Finish: 2024-06-21 12:35:15.740783

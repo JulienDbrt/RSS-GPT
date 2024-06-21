@@ -1002,3 +1002,12 @@ Summarized using GPT-3.5-turbo
 Append: [1,2 Milliards de dollars de Bitcoin vendus en 15 jours](https://www.bfmtv.com/crypto/1-2-milliards-de-dollars-de-bitcoin-vendus-en-15-jours_VL-202406200650.html)
 append_entries: 1
 Finish: 2024-06-21 01:13:34.401403
+------------------------------------------------------
+Started: 2024-06-21 12:36:17.603171
+Existing_entries: 138
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Microstrategy détient désormais près de 15 milliards de dollars en bitcoins](https://www.bfmtv.com/crypto/bitcoin/microstrategy-detient-desormais-pres-de-15-milliards-de-dollars-en-bitcoins_AV-202406210410.html)
+append_entries: 1
+Finish: 2024-06-21 12:36:19.352911

@@ -1056,3 +1056,9 @@ Summarized using GPT-3.5-turbo
 Append: [Fête de la Musique : métro, RER, bus, tram, quelles sont les lignes ouvertes toute la nuit](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/fete-de-la-musique-metro-rer-bus-tram-quelles-sont-les-lignes-ouvertes-toute-la-nuit-2990495.html)
 append_entries: 3
 Finish: 2024-06-21 01:16:58.517989
+------------------------------------------------------
+Started: 2024-06-21 12:40:53.049376
+Existing_entries: 156
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-21 12:40:53.408508

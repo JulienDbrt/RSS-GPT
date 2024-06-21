@@ -1020,3 +1020,9 @@ Summarized using GPT-3.5-turbo
 Append: [Six choses à savoir sur ce «faux» angle mort mortel dans votre voiture](https://www.journaldemontreal.com/2024/06/19/six-choses-a-savoir-sur-ce-faux-angle-mort-mortel-dans-votre-voiture)
 append_entries: 2
 Finish: 2024-06-21 01:18:06.400228
+------------------------------------------------------
+Started: 2024-06-21 12:41:52.377719
+Existing_entries: 134
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-21 12:41:52.451397
