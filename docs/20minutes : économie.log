@@ -1157,3 +1157,12 @@ Summarized using GPT-3.5-turbo
 Append: [Consommation : C’est quoi cette folie soudaine autour des œufs en France ?](https://www.20minutes.fr/actu-generale/4097414-20240621-consommation-quoi-folie-soudaine-autour-ufs-france)
 append_entries: 1
 Finish: 2024-06-21 12:34:56.684692
+------------------------------------------------------
+Started: 2024-06-22 01:11:43.547068
+Existing_entries: 181
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : Réinstaurer l’ISF, augmenter les APL… Le Nouveau Front populaire a présenté son programme économique](https://www.20minutes.fr/politique/4097430-20240621-legislatives-2024-reinstaurer-isf-augmenter-apl-nouveau-front-populaire-presente-programme-economique)
+append_entries: 1
+Finish: 2024-06-22 01:11:46.680524

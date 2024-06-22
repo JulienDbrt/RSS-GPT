@@ -1062,3 +1062,15 @@ Existing_entries: 156
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-21 12:40:53.408508
+------------------------------------------------------
+Started: 2024-06-22 01:15:34.432948
+Existing_entries: 156
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [LEGISLATIVES 2024. "Est-ce que ça va impacter le business ? Forcément, ça fait un peu peur !" Paroles de startupers de la Station F, l'un des plus gros incubateurs d'entreprises du monde](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/legislatives-2024-est-ce-que-ca-va-impacter-le-business-forcement-ca-fait-un-peu-peur-paroles-de-startupers-de-la-station-f-l-un-des-plus-gros-incubateurs-d-entreprises-du-monde-2991146.html)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Grève dans les écoles et collèges parisiens : les syndicats lancent un appel à la mobilisation du 25 au 28 juin](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-dans-les-ecoles-et-colleges-parisiens-les-syndicats-lancent-un-appel-a-la-mobilisation-du-25-au-28-juin-2991164.html)
+append_entries: 2
+Finish: 2024-06-22 01:15:41.311565

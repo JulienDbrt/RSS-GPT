@@ -1194,3 +1194,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Le monde du travail fait un peu peur" : le secteur de la restauration et de l'hôtellerie recherche (encore) saisonniers désespérément](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/le-monde-du-travail-fait-un-peu-peur-le-secteur-de-la-restauration-et-de-l-hotellerie-recherche-encore-saisonniers-desesperement-2990654.html)
 append_entries: 2
 Finish: 2024-06-21 12:41:30.384146
+------------------------------------------------------
+Started: 2024-06-22 01:15:54.583538
+Existing_entries: 200
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [L'affaire des faux agents de joueurs dont le fils de Christophe Galtier : la date du procès fixée en octobre](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/l-affaire-des-faux-agents-de-joueurs-dont-le-fils-de-christophe-galtier-la-date-du-proces-fixee-en-octobre-2991092.html)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [Inquiétude sur l'emploi et les salaires à l'abattoir de Limoges](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/inquietude-sur-l-emploi-et-les-salaires-a-l-abattoir-de-limoges-2991440.html)
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [LEGISLATIVES 2024. "Est-ce que ça va impacter le business ? Forcément, ça fait un peu peur !" Paroles de startupers de la Station F, l'un des plus gros incubateurs d'entreprises du monde](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/legislatives-2024-est-ce-que-ca-va-impacter-le-business-forcement-ca-fait-un-peu-peur-paroles-de-startupers-de-la-station-f-l-un-des-plus-gros-incubateurs-d-entreprises-du-monde-2991146.html)
+append_entries: 3
+Finish: 2024-06-22 01:16:00.442382

@@ -1129,3 +1129,15 @@ Summarized using GPT-3.5-turbo
 Append: [Location saisonnière: êtes vous assuré si vous causez des dégâts sur votre lieu de vacances?](https://www.bfmtv.com/immobilier/location-saisonniere-etes-vous-assure-si-vous-causez-des-degats-sur-votre-lieu-de-vacances_AV-202406210403.html)
 append_entries: 1
 Finish: 2024-06-21 12:37:27.628105
+------------------------------------------------------
+Started: 2024-06-22 01:13:32.544698
+Existing_entries: 191
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Barcelone veut supprimer tous les appartements touristiques d'ici à 2029](https://www.bfmtv.com/immobilier/barcelone-veut-supprimer-tous-les-appartements-touristiques-d-ici-a-2029_AD-202406210726.html)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Avec la baisse des taux, le pouvoir d'achat des acquéreurs a progressé de 5% depuis janvier](https://www.bfmtv.com/immobilier/credit-emprunt/avec-la-baisse-des-taux-le-pouvoir-d-achat-des-acquereurs-a-progresse-de-5-depuis-janvier_AV-202406210713.html)
+append_entries: 2
+Finish: 2024-06-22 01:13:37.883261

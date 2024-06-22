@@ -859,3 +859,12 @@ Summarized using GPT-3.5-turbo
 Append: [L'association Ozanam Alzheimer prépare son 5e séminaire baptisé "les nuits en Ehpad"](https://la1ere.francetvinfo.fr/martinique/l-association-ozanam-alzheimer-prepare-son-5e-seminaire-baptise-les-nuits-en-ehpad-1492583.html)
 append_entries: 1
 Finish: 2024-06-21 12:42:32.358945
+------------------------------------------------------
+Started: 2024-06-22 01:17:33.303459
+Existing_entries: 75
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 49
+Summarized using GPT-3.5-turbo
+Append: [Élections législatives 2024 : un accord a été trouvé, les plis électoraux seront distribués en Martinique](https://la1ere.francetvinfo.fr/martinique/elections-legislatives-2024-un-accord-a-ete-trouve-les-plis-electoraux-seront-distribues-en-martinique-1498733.html)
+append_entries: 1
+Finish: 2024-06-22 01:17:37.779291

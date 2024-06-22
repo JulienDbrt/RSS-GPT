@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Jampack – Boostez votre site statique en deux temps trois mouvements !</title>
 <link>https://korben.info/jampack-booster-site-statique-optimisation-performance.html</link>
 <guid>https://korben.info/jampack-booster-site-statique-optimisation-performance.html</guid>
 <content:encoded><![CDATA[
-<div> Jampack, outil, site statique, optimisations, performance <br>
-<br>
+<div> Jampack, outil, site statique, optimisations, performance <br />
+<br />
 Summary: Aujourd'hui, nous avons découvert Jampack, un outil incroyable qui transforme les sites statiques générés par des générateurs tels que Hugo, Jekyll ou Eleventy en des sites ultra-performants. En scannant le site, Jampack applique automatiquement diverses optimisations, comme la rendue des images responsive, la priorisation des assets essentiels, l'inlinage du CSS critique, le prefetching des liens et la minification des fichiers. Toutes ces actions se traduisent par une expérience utilisateur optimale et des scores Core Web Vitals impressionnants. Même des experts comme Keycloak.ch, BayJS.org ou CloudCannon.com font confiance à Jampack pour booster encore davantage les performances de leurs sites. De plus, cet outil open-source sous licence MIT est accessible à tous sur GitHub. Avec Jampack, l'optimisation de site devient un jeu d'enfant, laissant les utilisateurs libres de se concentrer sur d'autres aspects de leur projet en toute sérénité. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="352" src="https://korben.info/app/uploads/2024/04/SCR-20240405-unep.webp" width="1000" /></p>
 <p>Aujourd&rsquo;hui, je vous parle d&rsquo;un truc vraiment cool nommé <strong>Jampack</strong>. En gros, c&rsquo;est un outil qui prend votre site statique généré par votre générateur préféré (Hugo, Jekyll, Eleventy&#8230; y&rsquo;en a pour tous les goûts !) et qui le transforme en une bête de course optimisée pour une expérience utilisateur de folie et des scores <strong>Core Web Vitals</strong> à faire pâlir les GAFAM.</p>
@@ -68,9 +69,7 @@ Summary: Aujourd'hui, nous avons découvert Jampack, un outil incroyable qui tra
 <p><a href="https://jampack.divriots.com/" rel="noopener" target="_blank">A découvrir ici</a>.</p>
 ]]></content:encoded>
 <pubDate>Fri, 21 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 21 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Auto-News – L’agrégateur de news qui vous permet d’éviter le « bruit »</title>
 <link>https://korben.info/auto-news-agregateur-news-automatise-ia-lecture-efficace-2.html</link>

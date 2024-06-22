@@ -743,3 +743,12 @@ Existing_entries: 63
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-06-21 12:38:38.544559
+------------------------------------------------------
+Started: 2024-06-22 01:14:17.543859
+Existing_entries: 63
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Quel sera l’avenir des moteurs à combustion interne dans la prochaine Commission ?](https://www.euractiv.fr/section/biocarburants/news/quel-sera-lavenir-des-moteurs-a-combustion-lors-de-la-prochaine-commission/)
+append_entries: 1
+Finish: 2024-06-22 01:14:20.610965

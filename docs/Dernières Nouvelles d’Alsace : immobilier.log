@@ -860,3 +860,12 @@ Existing_entries: 82
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-06-21 12:38:25.483970
+------------------------------------------------------
+Started: 2024-06-22 01:14:09.592821
+Existing_entries: 82
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Immobilier. Les taux de crédit baissent encore... Est-ce le moment d'acheter ?](https://www.dna.fr/magazine-immobilier/2024/06/21/les-taux-de-credit-baissent-encore-est-ce-le-moment-d-acheter)
+append_entries: 1
+Finish: 2024-06-22 01:14:11.822833

@@ -923,3 +923,12 @@ Summarized using GPT-3.5-turbo
 Append: [Margrethe Vestager met en garde contre les pressions franco-allemandes pour assouplir les règles de concurrence](https://www.euractiv.fr/section/concurrence/news/margrethe-vestager-met-en-garde-contre-les-pressions-franco-allemandes-pour-assouplir-les-regles-de-concurrence/)
 append_entries: 2
 Finish: 2024-06-21 12:38:37.907938
+------------------------------------------------------
+Started: 2024-06-22 01:14:13.119856
+Existing_entries: 123
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [Technologies vertes : l’UE devait s’inspirer des politiques chinoises, selon Brice Lalonde](https://www.euractiv.fr/section/concurrence/news/technologies-vertes-lue-devait-sinspirer-des-politiques-chinoises-selon-brice-lalonde/)
+append_entries: 1
+Finish: 2024-06-22 01:14:17.515561

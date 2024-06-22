@@ -858,3 +858,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le Niger retire le permis d'exploitation d'un grand gisement d'uranium à l'entreprise française Orano](https://www.bfmtv.com/economie/entreprises/energie/le-niger-retire-le-permis-d-exploitation-d-un-grand-gisement-d-uranium-a-l-entreprise-francaise-orano_AN-202406210423.html)
 append_entries: 1
 Finish: 2024-06-21 12:36:08.504348
+------------------------------------------------------
+Started: 2024-06-22 01:12:40.865753
+Existing_entries: 88
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Eolien en mer: Totalenergies remporte avec Enbw un contrat de 3 milliards d'euros en Allemagne](https://www.bfmtv.com/economie/entreprises/energie/eolien-en-mer-totalenergies-remporte-avec-en-bw-un-contrat-de-3-milliards-d-euros-en-allemagne_AD-202406210625.html)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Niger: le retrait du permis d'exploiter d'Orano aura des conséquences limitées pour la filière nucléaire française](https://www.bfmtv.com/economie/entreprises/energie/niger-le-retrait-du-permis-d-exploiter-d-orano-aura-des-consequences-limitees-pour-la-filiere-nucleaire-francaise_AD-202406210618.html)
+append_entries: 2
+Finish: 2024-06-22 01:12:46.312234

@@ -900,3 +900,12 @@ Existing_entries: 102
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-21 12:41:19.607894
+------------------------------------------------------
+Started: 2024-06-22 01:15:50.846340
+Existing_entries: 102
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [Héritages, assurances-vie... Mais pourquoi la Bretagne est-elle une terre de records ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/heritages-assurances-vie-mais-pourquoi-la-bretagne-est-elle-une-terre-de-records-2990972.html)
+append_entries: 1
+Finish: 2024-06-22 01:15:54.479890

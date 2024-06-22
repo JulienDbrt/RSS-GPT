@@ -1352,3 +1352,18 @@ Summarized using GPT-3.5-turbo
 Append: [Vols régionaux : des spécificités sur les coûts](https://www.martinique.franceantilles.fr/actualite/economie/vols-regionaux-des-specificites-sur-les-couts-992028.php)
 append_entries: 4
 Finish: 2024-06-21 12:39:00.332451
+------------------------------------------------------
+Started: 2024-06-22 01:14:28.517890
+Existing_entries: 266
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Le boom des panneaux solaires dans une Ukraine ravagée par les frappes russes](https://www.martinique.franceantilles.fr/actualite/economie/le-boom-des-panneaux-solaires-dans-une-ukraine-ravagee-par-les-frappes-russes-992282.php)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Camaïeu, symbole du déclin du prêt-à-porter, renaît de ses cendres](https://www.martinique.franceantilles.fr/actualite/economie/camaieu-symbole-du-declin-du-pret-a-porter-renait-de-ses-cendres-992250.php)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [UE: les 27 confirment l'ouverture de négociations d'adhésion avec l'Ukraine et la Moldavie](https://www.martinique.franceantilles.fr/actualite/international/ue-les-27-confirment-louverture-de-negociations-dadhesion-avec-lukraine-et-la-moldavie-992203.php)
+append_entries: 3
+Finish: 2024-06-22 01:14:38.523519
