@@ -1962,3 +1962,15 @@ Summarized using GPT-3.5-turbo
 Append: [Bitcoin : une chute sous les 60 000 euros bienvenue avant le rebond ?](https://www.capital.fr/crypto/bitcoin-une-chute-sous-les-60-000-euros-bienvenue-avant-le-rebond-1498611)
 append_entries: 4
 Finish: 2024-06-22 01:08:43.662360
+------------------------------------------------------
+Started: 2024-06-22 12:28:34.549655
+Existing_entries: 464
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Qui est Kevin Mirshahi, l'influenceur de la crypto kidnappé à Montréal?](https://www.tvanouvelles.ca/2024/06/22/qui-est-kevin-mirshahi-linfluenceur-de-la-crypto-kidnappe-a-montreal)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Microstrategy détient désormais près de 15 milliards de dollars en bitcoins](https://www.bfmtv.com/crypto/bitcoin/microstrategy-detient-desormais-pres-de-15-milliards-de-dollars-en-bitcoins_AV-202406210410.html)
+append_entries: 2
+Finish: 2024-06-22 12:28:42.885098

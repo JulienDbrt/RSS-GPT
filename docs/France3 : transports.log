@@ -2121,3 +2121,15 @@ Summarized using GPT-3.5-turbo
 Append: [POLÉMIQUE. Faut-il faire payer l'accès des voitures à l'île d'Oléron ?](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/polemique-faut-il-faire-payer-l-acces-des-voitures-a-l-ile-d-oleron-2991005.html)
 append_entries: 1
 Finish: 2024-06-22 01:16:03.902934
+------------------------------------------------------
+Started: 2024-06-22 12:35:33.152911
+Existing_entries: 508
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : trains et cars seront gratuits pour ceux qui iront voter le 30 juin et 7 juillet](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/legislatives-2024-trains-et-cars-seront-gratuits-pour-ceux-qui-iront-voter-le-30-juin-et-7-juillet-2991590.html)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [Croisières de luxe : Caen, destination privilégiée et escale inattendue](https://france3-regions.francetvinfo.fr/normandie/calvados/croisieres-de-luxe-caen-destination-privilegiee-et-escale-inattendue-2989211.html)
+append_entries: 2
+Finish: 2024-06-22 12:35:39.187365

@@ -2446,3 +2446,21 @@ Summarized using GPT-3.5-turbo
 Append: [TEMOIGNAGE : "J'ai perdu ma voix, j'ai perdu mon magasin, je n'ai plus rien"](https://la1ere.francetvinfo.fr/mayotte/temoignage-j-ai-perdu-ma-voix-j-ai-perdu-mon-magasin-je-n-ai-plus-rien-1498973.html)
 append_entries: 4
 Finish: 2024-06-22 01:17:33.262315
+------------------------------------------------------
+Started: 2024-06-22 12:36:01.924125
+Existing_entries: 602
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 43
+Summarized using GPT-3.5-turbo
+Append: [RACHAT. Le groupe Antillo-Guyanais Sainte-Claire désormais actionnaire majoritaire du voyagiste guadeloupéen Penchard Voyages](https://la1ere.francetvinfo.fr/guadeloupe/rachat-le-groupe-antillo-guyanais-sainte-claire-desormais-actionnaire-majoritaire-du-voyagiste-guadeloupeen-penchard-voyages-1499102.html)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : des affrontements de nuit dans le Grand Nouméa, les vols pour Lifou annulés](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-des-affrontements-de-nuit-dans-le-grand-noumea-les-vols-pour-lifou-annules-1499144.html)
+Token length: 79
+Summarized using GPT-3.5-turbo
+Append: [De nombreux Martiniquais victimes d'arnaques dans le secteur de la construction individuelle](https://la1ere.francetvinfo.fr/martinique/de-nombreux-martiniquais-victimes-d-arnaques-dans-le-secteur-de-la-construction-individuelle-1499111.html)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : le salaire des fonctionnaires revu à la baisse?](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-le-salaire-des-fonctionnaires-revu-a-la-baisse-1499150.html)
+append_entries: 4
+Finish: 2024-06-22 12:36:17.822556

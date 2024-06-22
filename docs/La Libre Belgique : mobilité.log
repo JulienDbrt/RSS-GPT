@@ -989,3 +989,9 @@ Summarized using GPT-3.5-turbo
 Append: [Voici pourquoi vous risquez d'avoir peut-être davantage de contrôles policiers sur la route ce week-end](https://www.lalibre.be/belgique/mobilite/2024/06/21/voici-pourquoi-vous-risquez-davoir-peut-etre-davantage-de-controles-policiers-sur-la-route-ce-week-end-2EVCC3AWJ5F6JJNF42YV4QYZ6E/)
 append_entries: 1
 Finish: 2024-06-22 01:19:24.872066
+------------------------------------------------------
+Started: 2024-06-22 12:37:46.487702
+Existing_entries: 149
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-06-22 12:37:47.002700

@@ -1125,3 +1125,15 @@ Existing_entries: 175
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-22 01:15:50.793130
+------------------------------------------------------
+Started: 2024-06-22 12:35:01.888819
+Existing_entries: 175
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Renard polaire, louveteau arctique : découvrez les futurs pensionnaires du parc polaire de Chaux-Neuve](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/renard-polaire-louveteau-arctique-decouvrez-les-futurs-pensionnaires-du-parc-polaire-de-chaux-neuve-2989400.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [La manufacture Perrin, fleuron de la chaussette made in France, fête ses 100 ans](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/la-manufacture-perrin-fleuron-de-la-chaussette-made-in-france-fete-ses-100-ans-2981171.html)
+append_entries: 2
+Finish: 2024-06-22 12:35:08.263324

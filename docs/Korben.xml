@@ -4,6 +4,144 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Monolith – L’outil parfait pour sauvegarder le web</title>
+<link>https://korben.info/monolith-archivage-web-html-autonome.html</link>
+<guid>https://korben.info/monolith-archivage-web-html-autonome.html</guid>
+<content:encoded><![CDATA[
+<div> Monolith, archivage, pages web, sauvegarde, assets
+
+Summary: Monolith est un outil permettant d'archiver des pages web de manière plus avancée que les méthodes classiques. Il sauvegarde la page cible ainsi que tous ses éléments CSS, images et JavaScript dans un fichier HTML5 unique. Grâce à l'intégration d'assets en URLs de données, la page peut être affichée hors ligne. L'installation est simple sur différentes plateformes. Monolith offre un contrôle précis sur les éléments à conserver, avec des options pour exclure certains types de contenu ou spécifier des domaines autorisés ou interdits. Il ne prend pas en charge les moteurs JavaScript complexes, mais peut être utilisé avec un navigateur headless pour contourner cette limitation. Idéal pour les archivistes web ou les développeurs souhaitant automatiser le processus d'archivage. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_A_monolith_16_bit_style_internet_pionner_957490e4-267f-4878-92d0-7edbab2b4fe3.webp" width="1456" /></p>
+<p>Je vais vous parler aujourd&rsquo;hui d&rsquo;un outil vraiment cool pour faire de l&rsquo;archivage de pages web. Alors oui, je sais, on peut déjà enregistrer une page web avec le navigateur, mais cet outil baptisé <a href="https://github.com/Y2Z/monolith" rel="noopener" target="_blank"><strong>Monolith</strong></a> permet de faire 1000 fois mieux que ça. Il va non seulement sauvegarder la page cible, mais aussi embarquer d&rsquo;un coup tous les éléments CSS, images et JavaScript dans un seul et unique fichier HTML5.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-618724480" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et contrairement à une sauvegarde classique ou même avec <code>wget</code>, Monolith intègre tous les assets en URLs de données. Ça veut dire que votre navigateur va pouvoir afficher la page exactement comme elle était sur le web, même sans connexion Internet !</p>
+
+
+
+<p>Pour l&rsquo;installer, c&rsquo;est ultra simple. Que vous soyez sur Windows, macOS, GNU/Linux ou même sur des devices exotiques avec des processeurs ARM, ça marchera forcement :</p>
+
+
+
+<ul>
+<li>Avec <a href="https://crates.io/crates/monolith">Cargo</a> (cross-platform) : <code>cargo install monolith</code></li>
+
+
+
+<li>Via <a href="https://formulae.brew.sh/formula/monolith">Homebrew</a> (macOS et GNU/Linux) : <code>brew install monolith</code> </li>
+
+
+
+<li>Avec <a href="https://snapcraft.io/monolith">Snapcraft</a> (GNU/Linux) : <code>snap install monolith</code></li>
+
+
+
+<li>Et plein d&rsquo;autres options encore&#8230;</li>
+</ul>
+
+
+
+<p>Ensuite,  pour sauvegarder par exemple cet article de mon site, il vous suffit d&rsquo;entrer la commande suivante : </p>
+
+
+
+<p><code>monolith <a href="https://korben.info/simulateur-world-sim-explorez-univers-comme-jamais.html">https://korben.info/monolith-archivage-web-html-autonome.html</a> -o monolith.html</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-921907520" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et paf, ça vous génère direct un fichier <code>monolith.html</code> avec tout ce qu&rsquo;il faut dedans. Vous pouvez l&rsquo;ouvrir tranquillou dans votre navigateur même sans accès internet, c&rsquo;est magique.</p>
+
+
+
+<p>Mais Monolith a encore plein d&rsquo;autres tours dans son sac. Vous pouvez par exemple l&rsquo;utiliser directement avec une entrée <strong>STDIN</strong> :</p>
+
+
+
+<p><code>cat index.html | monolith -aMcIiFfv -b https://site.com/ - > result.html</code></p>
+
+
+
+<p>Ici, on lui passe le contenu HTML via l&rsquo;entrée standard, avec quelques options en plus :</p>
+
+
+
+<ul>
+<li><code>-a</code> pour virer les audios</li>
+
+
+
+<li><code>-M</code> pour ne pas ajouter les infos de date et d&rsquo;URL</li>
+
+
+
+<li><code>-c</code> pour exclure les CSS</li>
+
+
+
+<li><code>-I</code> pour isoler le document</li>
+
+
+
+<li><code>-i</code> pour retirer les images </li>
+
+
+
+<li><code>-F</code> pour exclure les web fonts</li>
+
+
+
+<li><code>-f</code> pour zapper les frames</li>
+
+
+
+<li><code>-v</code> pour virer les vidéos</li>
+</ul>
+
+
+
+<p>Bref, vous avez un contrôle total sur ce que vous voulez garder ou non.</p>
+
+
+
+<p>Vous pouvez aussi spécifier les domaines autorisés ou interdits pour récupérer les assets, genre :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1509348387" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><code>monolith -I -d example.com -d www.example.com https://example.com -o example-only.html</code></p>
+
+
+
+<p>Là on autorise uniquement les domaines <code>example.com</code> et <code>www.example.com</code>. Tout ce qui vient d&rsquo;ailleurs sera zappé. Ou à l&rsquo;inverse, on peut dégager des domaines, typiquement ceux qui servent de la pub :</p>
+
+
+
+<p><code>monolith -I -B -d .googleusercontent.com -d googleanalytics.com -d .google.com https://example.com -o example-no-ads.html</code></p>
+
+
+
+<p>Après, faut savoir que Monolith n&#8217;embarque pas de moteur JavaScript. Donc pour les pages web un peu complexes qui vont chercher des données après le chargement initial, ça peut être limité. Mais pas de panique ! On peut utiliser un navigateur headless comme Chromium en amont, pour pré-processer la page avant de la passer à Monolith :</p>
+
+
+
+<p><code>chromium --headless --incognito --dump-dom https://github.com | monolith - -I -b https://github.com -o github.html</code></p>
+
+
+
+<p>Et hop, problème réglé !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1011738412" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Parfait donc pour les <strong>archivistes du web</strong> ou les <strong><a href="https://www.jeveuxetredatascientist.fr/data-hoarder-tout-savoir/" rel="noopener" target="_blank">data hoarders</a></strong> qui veulent garder une trace de tout, voire automatiser tout ça dans leurs scripts.</p>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Jampack – Boostez votre site statique en deux temps trois mouvements !</title>

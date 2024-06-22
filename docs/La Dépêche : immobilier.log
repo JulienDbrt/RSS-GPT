@@ -892,3 +892,9 @@ Summarized using GPT-3.5-turbo
 Append: [ENTRETIEN. "J’ai fait un virage à 180 degrés": après "Koh-Lanta", la nouvelle vie de Corentin Albertini, entre football et immobilier](https://www.ladepeche.fr/2024/06/21/entretien-jai-fait-un-virage-a-180-degres-apres-koh-lanta-la-nouvelle-vie-de-corentin-albertini-entre-football-et-immobilier-12031753.php)
 append_entries: 1
 Finish: 2024-06-22 01:18:41.635844
+------------------------------------------------------
+Started: 2024-06-22 12:37:25.416048
+Existing_entries: 94
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-06-22 12:37:26.382003

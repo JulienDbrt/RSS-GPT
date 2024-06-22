@@ -1240,3 +1240,15 @@ Existing_entries: 240
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-06-22 01:11:43.455038
+------------------------------------------------------
+Started: 2024-06-22 12:31:21.442122
+Existing_entries: 240
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [La nouvelle UBS, un mastodonte sans risque pour la concurrence](https://www.20min.ch/fr/story/suissegeneve-la-nouvelle-ubs-un-mastodonte-sans-risque-pour-la-concurrence-103132923)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [Les surtaxes de l’UE ne sont «pas une punition»](https://www.20min.ch/fr/story/vehicules-electriques-chinois-les-surtaxes-de-lue-ne-sont-pas-une-punition-103132917)
+append_entries: 2
+Finish: 2024-06-22 12:31:28.942900

@@ -3089,3 +3089,15 @@ Summarized using GPT-3.5-turbo
 Append: [Prime Macron : 10 000 euros, versement mensuel, sans impôt, ça change quoi ?](https://www.moneyvox.fr/votre-argent/actualites/98360/prime-macron-10-000-euros-versement-mensuel-sans-impot-ca-change-quoi)
 append_entries: 8
 Finish: 2024-06-22 01:15:33.097771
+------------------------------------------------------
+Started: 2024-06-22 12:34:33.063182
+Existing_entries: 901
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Electricité et gaz : plusieurs centaines d'euros d'économies avec cette offre d'achat groupé](https://www.moneyvox.fr/energie/actualites/98374/electricite-et-gaz-plusieurs-centaines-euros-economies-avec-cette-offre-achat-groupe)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Assurance vie : les avantages et les risques des produits structurés](https://www.moneyvox.fr/assurance-vie/actualites/98359/les-avantages-et-les-risques-des-produits-structures)
+append_entries: 2
+Finish: 2024-06-22 12:34:40.855447

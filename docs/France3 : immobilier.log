@@ -810,3 +810,12 @@ Existing_entries: 70
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-06-22 01:16:00.737548
+------------------------------------------------------
+Started: 2024-06-22 12:35:28.577582
+Existing_entries: 70
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: ["C’est écologique, local, c’est génial" : la paille hachée, le futur de l'isolation écologique](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/c-est-ecologique-local-c-est-genial-la-paille-hachee-le-futur-de-l-isolation-ecologique-2990066.html)
+append_entries: 1
+Finish: 2024-06-22 12:35:32.889435

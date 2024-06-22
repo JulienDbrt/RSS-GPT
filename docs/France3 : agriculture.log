@@ -1821,3 +1821,24 @@ Summarized using GPT-3.5-turbo
 Append: [Entretiens de la biodiversité en Moselle : les défis de la nature urbaine à l'honneur](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/entretiens-de-la-biodiversite-en-moselle-les-defis-de-la-nature-urbaine-a-l-honneur-2991152.html)
 append_entries: 2
 Finish: 2024-06-22 01:15:50.441710
+------------------------------------------------------
+Started: 2024-06-22 12:34:42.669116
+Existing_entries: 407
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Cooperl, l'échec de la Fronde de certains éleveurs](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/cooperl-l-echec-de-la-fronde-de-certains-eleveurs-2991482.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [La tomme au foin, un fromage picard vieux de 200 ans ressuscité par une famille de l'Oise](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/la-tomme-au-foin-un-fromage-picard-vieux-de-200-ans-ressuscite-par-une-famille-de-l-oise-2991059.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: ["Le blush, c'est un gage de qualité", la première récolte de l'IGP des abricots de Baronnies a commencé](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/vaucluse/le-blush-c-est-un-gage-de-qualite-la-premiere-recolte-de-l-igp-des-abricots-de-baronnies-a-commence-2989247.html)
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: ["C’est écologique, local, c’est génial" : la paille hachée, le futur de l'isolation écologique](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/c-est-ecologique-local-c-est-genial-la-paille-hachee-le-futur-de-l-isolation-ecologique-2990066.html)
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [La meilleure épicerie de France se trouve dans une roulotte : "c'est plus intéressant de faire fonctionner les petits producteurs"](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/la-meilleure-epicerie-de-france-se-trouve-dans-une-roulotte-c-est-plus-interessant-de-faire-fonctionner-les-petits-producteurs-2990216.html)
+append_entries: 5
+Finish: 2024-06-22 12:35:01.799069
