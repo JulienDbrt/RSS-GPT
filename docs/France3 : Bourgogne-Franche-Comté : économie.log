@@ -1137,3 +1137,12 @@ Summarized using GPT-3.5-turbo
 Append: [La manufacture Perrin, fleuron de la chaussette made in France, fête ses 100 ans](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/montceau-les-mines/la-manufacture-perrin-fleuron-de-la-chaussette-made-in-france-fete-ses-100-ans-2981171.html)
 append_entries: 2
 Finish: 2024-06-22 12:35:08.263324
+------------------------------------------------------
+Started: 2024-06-23 01:17:33.511817
+Existing_entries: 177
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [Dans cette usine, un job dating pour recruter 20 personnes en CDI](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/dans-cette-usine-un-job-dating-pour-recruter-20-personnes-en-cdi-2991575.html)
+append_entries: 1
+Finish: 2024-06-23 01:17:37.789912

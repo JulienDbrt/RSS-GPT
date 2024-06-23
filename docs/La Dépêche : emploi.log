@@ -1414,3 +1414,12 @@ Summarized using GPT-3.5-turbo
 Append: [Montech. 150 offres d’emploi étaient proposées](https://www.ladepeche.fr/2024/06/22/150-offres-demploi-etaient-proposees-12033484.php)
 append_entries: 6
 Finish: 2024-06-22 12:37:25.367682
+------------------------------------------------------
+Started: 2024-06-23 01:18:43.050324
+Existing_entries: 266
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Caussade : 330 visiteurs pour 130 offres d’emploi au forum](https://www.ladepeche.fr/2024/06/22/caussade-330-visiteurs-pour-130-offres-demploi-au-forum-12034269.php)
+append_entries: 1
+Finish: 2024-06-23 01:18:44.969299

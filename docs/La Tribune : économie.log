@@ -2725,3 +2725,21 @@ Summarized using GPT-3.5-turbo
 Append: [La Chine continue de faire pression sur Taïwan, 41 avions militaires chinois détectés](https://www.latribune.fr/economie/international/la-chine-continue-de-faire-pression-sur-taiwan-41-avions-militaires-chinois-detectes-1000445.html)
 append_entries: 1
 Finish: 2024-06-22 12:37:53.476322
+------------------------------------------------------
+Started: 2024-06-23 01:19:03.919586
+Existing_entries: 693
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Baromètre politique : Mélenchon dépassé, Macron effacé](https://www.latribune.fr/economie/politique/barometre-politique-melenchon-depasse-macron-efface-1000515.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Sondage exclusif : le parti de Jordan Bardella frôle la majorité absolue](https://www.latribune.fr/economie/france/legislatives-2024/sondage-exclusif-le-parti-de-jordan-bardella-frole-la-majorite-absolue-1000508.html)
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [« L'extrême droite ne passera pas ! »](https://www.latribune.fr/la-tribune-dimanche/la-tribune-dimanche-n-38-23-juin-2024/l-extreme-droite-ne-passera-pas-1000440.html)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Nouveau Front Populaire : ce que révèle la crise interne](https://www.latribune.fr/opinions/tribunes/nouveau-front-populaire-ce-que-revele-la-crise-interne-1000441.html)
+append_entries: 4
+Finish: 2024-06-23 01:19:13.606354
