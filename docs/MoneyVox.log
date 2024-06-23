@@ -3110,3 +3110,18 @@ Summarized using GPT-3.5-turbo
 Append: [« Je donne 50 euros d'argent de poche chaque mois à ma fille. Dois-je le déclarer aux impôts ? »](https://www.moneyvox.fr/impot/actualites/97677/je-donne-50-euros-argent-de-poche-chaque-mois-a-ma-fille-dois-je-le-declarer-aux-impots)
 append_entries: 1
 Finish: 2024-06-23 01:17:29.316803
+------------------------------------------------------
+Started: 2024-06-23 12:34:22.545737
+Existing_entries: 904
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Législatives : les armateurs défendent leur régime fiscal dérogatoire](https://www.moneyvox.fr/actu/98389/legislatives-les-armateurs-defendent-leur-regime-fiscal-derogatoire)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Grosse surprise pour le taux du LEP, virement des impôts... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/98384/grosse-surprise-pour-le-taux-du-lep-virement-des-impots-les-5-infos-argent-de-la-semaine)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Gaz : ces 3 astuces vous permettront (peut-être) d'éviter la hausse des prix de 11,7% en juillet](https://www.moneyvox.fr/energie/actualites/98375/gaz-ces-3-astuces-vous-permettront-eviter-la-hausse-des-prix-de-11,7-en-juillet)
+append_entries: 3
+Finish: 2024-06-23 12:34:33.348410

@@ -4,6 +4,49 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Tracecat – L’alternative open source à Tines / Splunk SOAR pour automatiser la sécu</title>
+<link>https://korben.info/tracecat-alternative-open-source-tines-splunk-soar-automatisation-secu.html</link>
+<guid>https://korben.info/tracecat-alternative-open-source-tines-splunk-soar-automatisation-secu.html</guid>
+<content:encoded><![CDATA[
+<div> automatisation, open source, Tracecat, orchestration, sécurité
+<br>
+<br>
+Summary: Tracecat est une nouvelle plateforme d’automatisation open source qui propose une alternative aux solutions propriétaires telles que Tines ou Splunk SOAR. Cet outil gratuit permet de créer des workflows complexes, de gérer les incidents et de surveiller les logs. Basé sur Apache Flink et Quickwit, Tracecat a été conçu par des professionnels de la sécurité pour répondre aux besoins du secteur. Il offre une interface conviviale et peut automatiser des processus tels que l'investigation d'emails de phishing. Tracecat est auto-hébergeable, offrant ainsi un contrôle total sur les données et l'infrastructure. Une version distribuée payante est également disponible pour une mise à l'échelle illimitée. En se concentrant sur l'automatisation et l'orchestration, Tracecat se veut flexible et facile à intégrer, quel que soit le SIEM utilisé. Pour ceux en quête de simplification des tâches répétitives et de gestion des incidents, Tracecat est une solution recommandée. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="255" src="https://korben.info/app/uploads/2024/04/SCR-20240407-g4z-2.webp" width="699" /></p>
+<p><strong><a href="https://github.com/TracecatHQ/tracecat" rel="noopener" target="_blank">Tracecat</a></strong> est une nouvelle plateforme d&rsquo;automatisation open source qui propose une alternative à des solutions propriétaires genre Tines ou Splunk SOAR !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-597192448" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec cet outil libre et gratuit, vous pourrez créer des workflows d&rsquo;automatisation complexes, gérer vos incidents comme un chef et garder un œil sur tous vos logs. Tracecat est basé sur des technos open source robustes comme Apache Flink pour l&rsquo;orchestration et Quickwit pour le stockage des logs et ça a surtout été conçu par des <em>pro de la sécu</em>, qui en ont eu marre de se taper des usines à gaz hors de prix et pas adaptées à leurs besoins. Du coup, ils ont développé leur propre outil, simple mais puissant, avec une UX aux petits oignons pour que même votre grand-mère puisse automatiser la chasse aux menaces. Bon ok, j&rsquo;exagère un peu, mamie est plutôt experte en chasse aux mauvaises herbes&#8230;</p>
+
+
+
+<p>Trêve de plaisanterie, si vous voulez voir Tracecat en action, je vous invite à tester ce tutoriel. Vous apprendrez à automatiser une investigation d&#8217;email de phishing en un clin d&rsquo;œil, en extrayant les URLs avec ChatGPT, en analysant leur réputation, en labellisant le niveau de menace, et en générant un joli rapport dans un cas.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Autre bon point (parce que je sais que vous aimez ça) : Tracecat est entièrement <strong>auto hébergeable</strong>. Vous pouvez l&rsquo;installer en local sur votre laptop, dans le cloud ou dans un datacenter, bref où vous voulez. Vous gardez ainsi le contrôle total de vos données et de votre infra. Et si un jour vous avez besoin de plus de puissance, pas de panique, l&rsquo;éditeur propose une version distribuée payante qui scale à l&rsquo;infini et au-delà.</p>
+
+
+
+<p>Alors oui, Tracecat n&rsquo;est pas (encore) un <a href="https://www.microsoft.com/fr-fr/security/business/security-101/what-is-siem" rel="noopener" target="_blank">SIEM</a> à part entière. Mais justement, c&rsquo;est sa force ! Il se concentre sur l&rsquo;automatisation et l&rsquo;orchestration, ce qui lui permet d&rsquo;être beaucoup plus flexible et facile à intégrer, que vous ayez un SIEM, plusieurs, ou même aucun. C&rsquo;est vous qui voyez !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-624042790" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bref, si vous en avez marre de vous coltiner des tâches répétitives et de courir après les incidents dans tous les sens, je vous conseille vraiment de creuser <a href="https://tracecat.com/" rel="noopener" target="_blank">Tracecat</a>.</p>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Monolith – L’outil parfait pour sauvegarder le web</title>

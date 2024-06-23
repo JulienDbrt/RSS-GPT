@@ -1983,3 +1983,15 @@ Summarized using GPT-3.5-turbo
 Append: [Vieux-Montréal | Quatre personnes, dont un influenceur adepte de la cryptomonnaie, ont été enlevées](https://www.lapresse.ca/actualites/justice-et-faits-divers/2024-06-21/vieux-montreal/quatre-personnes-dont-un-influenceur-adepte-de-la-cryptomonnaie-ont-ete-enlevees.php)
 append_entries: 1
 Finish: 2024-06-23 01:13:45.224506
+------------------------------------------------------
+Started: 2024-06-23 12:28:30.945732
+Existing_entries: 467
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Gestion de patrimoine : quelle stratégie pour placer 50 000 € ?](https://www.ouest-france.fr/economie/budget/gestion-de-patrimoine-quelle-strategie-pour-placer-50-000-euros-72e5d646-2f0b-11ef-9d8b-818edcab8630)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [L’effondrement du Bitcoin sonne-t-il le glas de la hausse du S&P 500 ?](https://www.cointribune.com/leffondrement-du-bitcoin-sonne-t-il-le-glas-de-la-hausse-du-sp-500/)
+append_entries: 2
+Finish: 2024-06-23 12:28:37.875370

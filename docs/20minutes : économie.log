@@ -1178,3 +1178,12 @@ Existing_entries: 182
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-06-23 01:15:33.971725
+------------------------------------------------------
+Started: 2024-06-23 12:31:45.173360
+Existing_entries: 182
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [De plus en plus tendance, l’Espresso Martini va-t-il régner sur l’été amer ?](https://www.20minutes.fr/economie/4097480-20240623-plus-plus-tendance-espresso-martini-va-regner-amer)
+append_entries: 1
+Finish: 2024-06-23 12:31:48.526195

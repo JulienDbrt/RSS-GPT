@@ -1267,3 +1267,12 @@ Existing_entries: 265
 Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
 append_entries: 0
 Finish: 2024-06-23 01:18:04.089758
+------------------------------------------------------
+Started: 2024-06-23 12:35:50.427846
+Existing_entries: 265
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Success story: Une vaisselle et une lessive bios au parfum grand-ducal](https://www.lessentiel.lu/fr/story/success-story-une-vaisselle-et-une-lessive-bios-au-parfum-grand-ducal-103131519)
+append_entries: 1
+Finish: 2024-06-23 12:35:54.236671

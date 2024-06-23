@@ -708,3 +708,9 @@ Summarized using GPT-3.5-turbo
 Append: [La plus grande bourse de crypto-monnaies de Turquie, BtcTurk, piratée](https://fr.euronews.com/next/2024/06/22/la-plus-grande-bourse-de-crypto-monnaies-de-turquie-btcturk-piratee)
 append_entries: 1
 Finish: 2024-06-23 01:17:05.206818
+------------------------------------------------------
+Started: 2024-06-23 12:33:39.227628
+Existing_entries: 34
+Fetching from https://fr.euronews.com/rss?level=tag&name=cryptomonnaie
+append_entries: 0
+Finish: 2024-06-23 12:33:39.865873

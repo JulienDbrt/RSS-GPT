@@ -878,3 +878,12 @@ Summarized using GPT-3.5-turbo
 Append: [VRAI OU FAUX. La suppression des frais de notaire, une mesure vraiment destinée aux jeunes des classes populaires ?](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-la-suppression-des-frais-de-notaire-une-mesure-vraiment-destinee-aux-jeunes-des-classes-populaires_6620055.html)
 append_entries: 1
 Finish: 2024-06-23 01:17:24.363395
+------------------------------------------------------
+Started: 2024-06-23 12:34:14.558703
+Existing_entries: 82
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Maisons Marianne : des résidences intergénérationnelles et 100% accessibles aux personnes à mobilité réduite](https://www.francetvinfo.fr/replay-radio/france-info-seniors/maisons-marianne-des-residences-intergenerationnelles-et-100-accessibles-aux-personnes-a-mobilite-reduite_6501224.html)
+append_entries: 1
+Finish: 2024-06-23 12:34:20.756401

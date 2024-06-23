@@ -1423,3 +1423,18 @@ Summarized using GPT-3.5-turbo
 Append: [Caussade : 330 visiteurs pour 130 offres d’emploi au forum](https://www.ladepeche.fr/2024/06/22/caussade-330-visiteurs-pour-130-offres-demploi-au-forum-12034269.php)
 append_entries: 1
 Finish: 2024-06-23 01:18:44.969299
+------------------------------------------------------
+Started: 2024-06-23 12:36:56.457818
+Existing_entries: 267
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: ["Faire de la ville la locomotive verte de l’Ouest Aveyron": un parc photovoltaïque bientôt installé dans une ancienne décharge de Villefranche-de-Rouergue](https://www.ladepeche.fr/2024/06/23/faire-de-la-ville-la-locomotive-verte-de-louest-aveyron-un-parc-photovoltaique-bientot-installe-dans-une-ancienne-decharge-de-villefranche-de-rouergue-12031550.php)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Aubin. Céline Blondelot en visioconférence avec des femmes entrepreneuses](https://www.ladepeche.fr/2024/06/23/celine-blondelot-en-visioconference-avec-des-femmes-entrepreneuses-12035175.php)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Carcassonne. Le Van Google  à la Mission locale](https://www.ladepeche.fr/2024/06/23/le-van-google-a-la-mission-locale-12035009.php)
+append_entries: 3
+Finish: 2024-06-23 12:37:07.500144

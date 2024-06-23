@@ -1146,3 +1146,24 @@ Summarized using GPT-3.5-turbo
 Append: [Dans cette usine, un job dating pour recruter 20 personnes en CDI](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/dans-cette-usine-un-job-dating-pour-recruter-20-personnes-en-cdi-2991575.html)
 append_entries: 1
 Finish: 2024-06-23 01:17:37.789912
+------------------------------------------------------
+Started: 2024-06-23 12:34:53.484939
+Existing_entries: 178
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. "C'est magnifique !" : les plus beaux clichés de la Saône-et-Loire vue d'une montgolfière](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/en-images-c-est-magnifique-les-plus-beaux-cliches-de-la-saone-et-loire-vue-d-une-montgolfiere-2991833.html)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: ["Pas pertinente", "bonne idée"... À Chalon-sur-Saône, l'interdiction de la poudre Sniffy aux mineurs divise](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/pas-pertinente-bonne-idee-a-chalon-sur-saone-l-interdiction-de-la-poudre-sniffy-aux-mineurs-divise-2991623.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Deux jeunes amoureux de la nature lancent Rentalake, le Airbnb des étangs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/deux-jeunes-amoureux-de-la-nature-lancent-rentalake-le-airbnb-des-etangs-2989232.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Ils travaillent sur un médicament pour vaincre l'obésité : "il nous manque 1,5 million d'euros !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/ils-travaillent-sur-un-medicament-pour-vaincre-l-obesite-il-nous-manque-1-5-million-d-euros-2989871.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [PARIS 2024."On est passionné de sport, mais on est aussi passionné de notre territoire" : quand les jeux olympiques rayonnent en région](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/paris-2024-on-est-passionne-de-sport-mais-on-est-aussi-passionne-de-notre-territoire-quand-les-jeux-olympiques-rayonnent-en-region-2986592.html)
+append_entries: 5
+Finish: 2024-06-23 12:35:15.322635

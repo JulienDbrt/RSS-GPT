@@ -1426,3 +1426,15 @@ Existing_entries: 318
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-23 01:18:05.689859
+------------------------------------------------------
+Started: 2024-06-23 12:35:54.805736
+Existing_entries: 318
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 11494
+Summarized using GPT-3.5-turbo
+Append: [Samy Chaar : "Les guerres en Ukraine ou à Gaza n’ont que peu d’impacts sur l’économie"](https://www.lexpress.fr/economie/politique-economique/samy-chaar-les-guerres-en-ukraine-ou-a-gaza-nont-que-peu-dimpacts-sur-leconomie-HJE5ZZWNSVG37F5HW42F5BVYWQ/)
+Token length: 7682
+Summarized using GPT-3.5-turbo
+Append: [Economie de guerre : deux ans après les promesses de Macron, la France toujours loin du compte](https://www.lexpress.fr/economie/economie-de-guerre-deux-ans-apres-les-promesses-de-macron-la-france-toujours-loin-du-compte-TEAW5NXMTJEADAQA5RL2SF3KEE/)
+append_entries: 2
+Finish: 2024-06-23 12:36:01.678482

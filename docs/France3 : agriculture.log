@@ -1851,3 +1851,21 @@ Summarized using GPT-3.5-turbo
 Append: [Le seuil de pollution dûe aux algues vertes dépassé, une plage de la baie de Saint-Brieuc fermée jusqu'à nouvel ordre](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/le-seuil-de-pollution-due-aux-algues-vertes-depasse-une-plage-de-la-baie-de-saint-brieuc-fermee-jusqu-a-nouvel-ordre-2991683.html)
 append_entries: 1
 Finish: 2024-06-23 01:17:33.421901
+------------------------------------------------------
+Started: 2024-06-23 12:34:43.036252
+Existing_entries: 413
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [Le citron moche de Menton gagne ses lettres de noblesse](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/menton/le-citron-moche-de-menton-gagne-ses-lettres-de-noblesse-2991677.html)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [SECHERESSE. Après des pluies bénéfiques, la Catalogne assouplit encore ses restrictions mais "la sécheresse n'est pas terminée"](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/secheresse-apres-des-pluies-benefiques-la-catalogne-assouplie-encore-ses-restrictions-mais-la-secheresse-n-est-pas-terminee-2991404.html)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Le massif des Aravis : une montagne à vivre en toute saison](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/le-massif-des-aravis-une-montagne-a-vivre-en-toute-saison-2975963.html)
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Les haies, un patrimoine agricole et environnemental en péril : "en les préservant et en ayant la chance d’en avoir sur la ferme, je m'en sens un peu gardienne"](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/les-haies-un-patrimoine-agricole-et-environnemental-en-peril-en-les-preservant-et-en-ayant-la-chance-d-en-avoir-sur-la-ferme-je-m-en-sens-un-peu-gardienne-2983121.html)
+append_entries: 4
+Finish: 2024-06-23 12:34:53.396198
