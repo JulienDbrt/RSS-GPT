@@ -912,3 +912,12 @@ Summarized using GPT-3.5-turbo
 Append: [Fuite de gaz à Saint-Quay-Portrieux, un poste GRDF percuté par une voiture](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/fuite-de-gaz-a-saint-quay-portrieux-un-poste-grdf-percute-par-une-voiture-2991794.html)
 append_entries: 1
 Finish: 2024-06-23 12:34:39.057440
+------------------------------------------------------
+Started: 2024-06-24 01:16:06.895680
+Existing_entries: 98
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [Dans le Jura, un week-end de mobilisation en forêt contre un projet photovoltaïque](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/dans-le-jura-un-week-end-de-mobilisation-en-foret-contre-un-projet-photovoltaique-2991509.html)
+append_entries: 1
+Finish: 2024-06-24 01:16:12.176450

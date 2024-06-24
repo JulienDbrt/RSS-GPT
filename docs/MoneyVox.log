@@ -3125,3 +3125,15 @@ Summarized using GPT-3.5-turbo
 Append: [Gaz : ces 3 astuces vous permettront (peut-être) d'éviter la hausse des prix de 11,7% en juillet](https://www.moneyvox.fr/energie/actualites/98375/gaz-ces-3-astuces-vous-permettront-eviter-la-hausse-des-prix-de-11,7-en-juillet)
 append_entries: 3
 Finish: 2024-06-23 12:34:33.348410
+------------------------------------------------------
+Started: 2024-06-24 01:15:58.417326
+Existing_entries: 907
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Bourse : comment protéger votre portefeuille avant de partir en vacances](https://www.moneyvox.fr/bourse/actualites/98356/comment-proteger-votre-portefeuille-avant-de-partir-en-vacances)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Argent : les primes de bienvenue à ne pas manquer cette semaine](https://www.moneyvox.fr/banque-en-ligne/actualites/98378/argent-les-primes-de-bienvenue-a-ne-pas-manquer-cette-semaine)
+append_entries: 2
+Finish: 2024-06-24 01:16:05.795894

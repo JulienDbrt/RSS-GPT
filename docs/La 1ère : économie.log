@@ -2482,3 +2482,21 @@ Summarized using GPT-3.5-turbo
 Append: [Crise en Nouvelle-Calédonie : Emmanuel Macron promet une aide, sous condition](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-emmanuel-macron-promet-une-aide-sous-condition-1499363.html)
 append_entries: 1
 Finish: 2024-06-23 12:36:08.760338
+------------------------------------------------------
+Started: 2024-06-24 01:16:40.457166
+Existing_entries: 608
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [Deux associations carnavalesques de Basse-Terre en conflit avec la mairie pour leurs locaux](https://la1ere.francetvinfo.fr/guadeloupe/basse-terre/basse-terre/deux-associations-carnavalesques-de-basse-terre-en-conflit-avec-la-mairie-pour-leurs-locaux-1499492.html)
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [Un avion d'Air Caraïbes en route pour Fort-de-France a fait demi-tour après 2h de vol](https://la1ere.francetvinfo.fr/martinique/un-avion-d-air-caraibes-en-route-pour-fort-de-france-a-fait-demi-tour-apres-2h-de-vol-1499426.html)
+Token length: 46
+Summarized using GPT-3.5-turbo
+Append: [CLIMAT. Les conséquences néfastes de la chaleur sur l'agriculture guadeloupéenne](https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/moule/climat-les-consequences-nefastes-de-la-chaleur-sur-l-agriculture-guadeloupeenne-1499309.html)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Incendie d’un bâtiment industriel à Jarry : 500 m2 entièrement détruits, un sapeur-pompier blessé léger](https://la1ere.francetvinfo.fr/guadeloupe/basse-terre/baie-mahault/incendie-d-un-batiment-industriel-a-jarry-500-m2-entierement-detruits-un-sapeur-pompier-blesse-leger-1499384.html)
+append_entries: 4
+Finish: 2024-06-24 01:16:53.493529

@@ -939,3 +939,9 @@ Summarized using GPT-3.5-turbo
 Append: [Un permis internet pour des écoliers Rennais](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/un-permis-internet-pour-des-ecoliers-rennais-2991779.html)
 append_entries: 1
 Finish: 2024-06-23 12:35:18.923678
+------------------------------------------------------
+Started: 2024-06-24 01:16:16.888989
+Existing_entries: 107
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-24 01:16:17.454846

@@ -889,3 +889,12 @@ Existing_entries: 77
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-23 12:36:09.134897
+------------------------------------------------------
+Started: 2024-06-24 01:16:53.536246
+Existing_entries: 77
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [Un avion d'Air Caraïbes en route pour Fort-de-France a fait demi-tour après 2h de vol](https://la1ere.francetvinfo.fr/martinique/un-avion-d-air-caraibes-en-route-pour-fort-de-france-a-fait-demi-tour-apres-2h-de-vol-1499426.html)
+append_entries: 1
+Finish: 2024-06-24 01:16:55.826033

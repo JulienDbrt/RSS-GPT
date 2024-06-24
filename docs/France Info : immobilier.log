@@ -887,3 +887,9 @@ Summarized using GPT-3.5-turbo
 Append: [Maisons Marianne : des résidences intergénérationnelles et 100% accessibles aux personnes à mobilité réduite](https://www.francetvinfo.fr/replay-radio/france-info-seniors/maisons-marianne-des-residences-intergenerationnelles-et-100-accessibles-aux-personnes-a-mobilite-reduite_6501224.html)
 append_entries: 1
 Finish: 2024-06-23 12:34:20.756401
+------------------------------------------------------
+Started: 2024-06-24 01:15:50.226508
+Existing_entries: 83
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-24 01:15:50.587743

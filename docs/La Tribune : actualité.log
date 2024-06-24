@@ -3523,3 +3523,18 @@ Summarized using GPT-3.5-turbo
 Append: [Audrey Crespo-Mara : « Je me sens solide et apaisée »](https://www.latribune.fr/culture-lifestyle/audrey-crespo-mara-je-me-sens-solide-et-apaisee-1000448.html)
 append_entries: 10
 Finish: 2024-06-23 12:38:36.259927
+------------------------------------------------------
+Started: 2024-06-24 01:17:39.638630
+Existing_entries: 955
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Législatives: Macron promet "d'agir jusqu'en mai 2027", dans une lettre publiée dans la presse](https://www.latribune.fr/economie/france/legislatives-2024/legislatives-macron-promet-d-agir-jusqu-en-mai-2027-dans-une-lettre-publiee-dans-la-presse-1000594.html)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [Le chancelier allemand Olaf Scholz "préoccupé" par une éventuelle victoire de l'extrême droite en France](https://www.latribune.fr/economie/france/legislatives-2024/le-chancelier-allemand-olaf-scholz-preoccupe-par-une-eventuelle-victoire-de-l-extreme-droite-en-france-1000589.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Retraites : Edouard Philippe plaide pour la capitalisation sinon ce sera le report de l'âge de départ](https://www.latribune.fr/economie/france/legislatives-2024/retraites-edouard-philippe-plaide-pour-la-capitalisation-sinon-ce-sera-le-report-de-l-age-de-depart-1000588.html)
+append_entries: 3
+Finish: 2024-06-24 01:17:49.121051

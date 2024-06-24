@@ -3732,3 +3732,27 @@ Summarized using GPT-3.5-turbo
 Append: ["On doit faire face à une nouvelle forme de communication" : le tourisme, nouveau business des influenceurs](https://www.francetvinfo.fr/internet/reseaux-sociaux/on-doit-faire-face-a-une-nouvelle-forme-de-communication-le-tourisme-nouveau-business-des-influenceurs_6617892.html)
 append_entries: 7
 Finish: 2024-06-23 12:34:13.453319
+------------------------------------------------------
+Started: 2024-06-24 01:15:21.539457
+Existing_entries: 1007
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [Transports : la première gare du Grand Paris Express ouvre ses portes](https://www.francetvinfo.fr/economie/transports/transports-la-premiere-gare-du-grand-paris-express-ouvre-ses-portes_6621984.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Surtourisme : la France parvient-elle à trouver un juste milieu ?](https://www.francetvinfo.fr/economie/tourisme/surtourisme-la-france-parvient-elle-a-trouver-un-juste-milieu_6621852.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : comment sont protégés les écolodges dans les parcs animaliers ?](https://www.francetvinfo.fr/economie/tourisme/tourisme-comment-sont-proteges-les-ecolodges-dans-les-parcs-animaliers_6621840.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Surtourisme : certaines villes disent stop](https://www.francetvinfo.fr/economie/tourisme/surtourisme-certaines-villes-disent-stop_6621828.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Le présentateur Philippe Bouvard arrêtera la radio en janvier, après 60 ans sur RTL](https://www.francetvinfo.fr/economie/medias/le-presentateur-philippe-bouvard-coupera-le-micro-en-janvier-apres-60-ans-sur-rtl_6621372.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Le patriotisme industriel existe-t-il ? "On a créé en France 1 million d'entreprises l'année dernière, selon Jean Viard, on en a fermé 53.000, il faut voir les deux chiffres"](https://www.francetvinfo.fr/replay-radio/question-de-societe/le-patriotisme-industriel-existe-t-il-on-a-cree-en-france-1-million-d-entreprises-l-annee-derniere-selon-jean-viard-on-en-a-ferme-53-000-il-faut-voir-les-deux-chiffres_6580397.html)
+append_entries: 6
+Finish: 2024-06-24 01:15:47.116535

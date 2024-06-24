@@ -4,14 +4,15 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Tracecat – L’alternative open source à Tines / Splunk SOAR pour automatiser la sécu</title>
 <link>https://korben.info/tracecat-alternative-open-source-tines-splunk-soar-automatisation-secu.html</link>
 <guid>https://korben.info/tracecat-alternative-open-source-tines-splunk-soar-automatisation-secu.html</guid>
 <content:encoded><![CDATA[
 <div> automatisation, open source, Tracecat, orchestration, sécurité
-<br>
-<br>
+<br />
+<br />
 Summary: Tracecat est une nouvelle plateforme d’automatisation open source qui propose une alternative aux solutions propriétaires telles que Tines ou Splunk SOAR. Cet outil gratuit permet de créer des workflows complexes, de gérer les incidents et de surveiller les logs. Basé sur Apache Flink et Quickwit, Tracecat a été conçu par des professionnels de la sécurité pour répondre aux besoins du secteur. Il offre une interface conviviale et peut automatiser des processus tels que l'investigation d'emails de phishing. Tracecat est auto-hébergeable, offrant ainsi un contrôle total sur les données et l'infrastructure. Une version distribuée payante est également disponible pour une mise à l'échelle illimitée. En se concentrant sur l'automatisation et l'orchestration, Tracecat se veut flexible et facile à intégrer, quel que soit le SIEM utilisé. Pour ceux en quête de simplification des tâches répétitives et de gestion des incidents, Tracecat est une solution recommandée. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="255" src="https://korben.info/app/uploads/2024/04/SCR-20240407-g4z-2.webp" width="699" /></p>
 <p><strong><a href="https://github.com/TracecatHQ/tracecat" rel="noopener" target="_blank">Tracecat</a></strong> est une nouvelle plateforme d&rsquo;automatisation open source qui propose une alternative à des solutions propriétaires genre Tines ou Splunk SOAR !</p>
@@ -45,9 +46,7 @@ Summary: Tracecat est une nouvelle plateforme d’automatisation open source qui
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bref, si vous en avez marre de vous coltiner des tâches répétitives et de courir après les incidents dans tous les sens, je vous conseille vraiment de creuser <a href="https://tracecat.com/" rel="noopener" target="_blank">Tracecat</a>.</p>
 ]]></content:encoded>
 <pubDate>Sun, 23 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 23 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Monolith – L’outil parfait pour sauvegarder le web</title>
 <link>https://korben.info/monolith-archivage-web-html-autonome.html</link>
