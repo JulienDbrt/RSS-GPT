@@ -840,3 +840,15 @@ Existing_entries: 72
 Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
 append_entries: 0
 Finish: 2024-06-24 01:14:52.902636
+------------------------------------------------------
+Started: 2024-06-24 12:40:00.364248
+Existing_entries: 72
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Le RN propose d'exonérer les dons des parents aux enfants jusqu'à 100.000 euros tous les 10 ans](https://www.bfmtv.com/economie/patrimoine/succession/le-rn-propose-d-exonerer-les-dons-des-parents-aux-enfants-jusqu-a-100-000-euros-tous-les-10-ans_AV-202406240510.html)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Le Rassemblement national veut lancer un fonds souverain français](https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-rassemblement-national-veut-lancer-un-fonds-souverain-francais_AV-202406240434.html)
+append_entries: 2
+Finish: 2024-06-24 12:40:07.230610

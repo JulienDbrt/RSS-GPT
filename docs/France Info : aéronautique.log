@@ -797,3 +797,12 @@ Existing_entries: 51
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-06-24 01:15:47.521192
+------------------------------------------------------
+Started: 2024-06-24 12:41:51.221348
+Existing_entries: 51
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Aéronautique : une start-up américaine travaille sur un carburant synthétique à base de CO2 recyclé](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/aeronautique-une-start-up-americaine-travaille-sur-un-carburant-synthetique-a-base-de-co2-recycle_6594423.html)
+append_entries: 1
+Finish: 2024-06-24 12:41:54.052997

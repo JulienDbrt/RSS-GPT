@@ -1265,3 +1265,24 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : la première gare du Grand Paris Express ouvre ses portes](https://www.francetvinfo.fr/economie/transports/transports-la-premiere-gare-du-grand-paris-express-ouvre-ses-portes_6621984.html)
 append_entries: 1
 Finish: 2024-06-24 01:15:56.776949
+------------------------------------------------------
+Started: 2024-06-24 12:41:56.087521
+Existing_entries: 207
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le prolongement de la ligne 14 du métro jusqu’à l'aéroport de Paris-Orly va changer le quotidien des usagers](https://www.francetvinfo.fr/economie/transports/pourquoi-le-prolongement-de-la-ligne-14-du-metro-jusqu-a-l-aeroport-de-paris-orly-va-changer-le-quotidien-des-usagers_6622899.html)
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Aéronautique : une start-up américaine travaille sur un carburant synthétique à base de CO2 recyclé](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/aeronautique-une-start-up-americaine-travaille-sur-un-carburant-synthetique-a-base-de-co2-recycle_6594423.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [La SNCF lance une campagne contre les agressions sur ses agents](https://www.francetvinfo.fr/economie/transports/sncf/la-sncf-lance-une-campagne-contre-les-agressions-sur-ses-agents_6622953.html)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Fissure sur l'A13 : l'autoroute réouverte totalement lundi "en fin de journée"](https://www.francetvinfo.fr/economie/transports/fissure-sur-l-a13-l-autoroute-rouvre-dans-le-sens-paris-province-lundi-en-fin-de-journee_6622914.html)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [Automobile : Ferrari inaugure une nouvelle usine et accélère dans l'électrique](https://www.francetvinfo.fr/replay-radio/le-brief-eco/automobile-ferrari-inaugure-une-nouvelle-usine-et-accelere-dans-l-electrique_6594501.html)
+append_entries: 5
+Finish: 2024-06-24 12:42:25.748994

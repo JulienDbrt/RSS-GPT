@@ -1101,3 +1101,12 @@ Existing_entries: 159
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-06-24 01:16:12.617462
+------------------------------------------------------
+Started: 2024-06-24 12:43:10.289004
+Existing_entries: 159
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [La station de métro Maison Blanche était-elle réellement un abri anti-aérien ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/la-station-de-metro-maison-blanche-etait-elle-reellement-un-abri-anti-aerien-2982740.html)
+append_entries: 1
+Finish: 2024-06-24 12:43:12.498365

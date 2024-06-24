@@ -1878,3 +1878,18 @@ Summarized using GPT-3.5-turbo
 Append: [REPORTAGE "C'est pire que la sécheresse". Des maraîchers touchés de plein fouet par les inondations en Loire-Atlantique](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/reportage-c-est-pire-que-la-secheresse-des-maraichers-touches-de-plein-fouet-par-les-inondations-en-loire-atlantique-2991749.html)
 append_entries: 1
 Finish: 2024-06-24 01:16:16.470955
+------------------------------------------------------
+Started: 2024-06-24 12:43:12.715952
+Existing_entries: 418
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [“C’est une catastrophe” : la détresse financière des apiculteurs causée par le mauvais temps](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/c-est-une-catastrophe-la-detresse-financiere-des-apiculteurs-causee-par-le-mauvais-temps-2992286.html)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [Incendie : un hangar agricole de 400 m² ravagé par les flammes](https://france3-regions.francetvinfo.fr/normandie/orne/incendie-un-hangar-agricole-de-400-m-ravage-par-le-flammes-2992061.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: ["Tout est possible, cela dépendra de la majorité" : les agriculteurs dans l'attente des élections législatives](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/tout-est-possible-cela-dependra-de-la-majorite-les-agriculteurs-dans-l-attente-des-elections-legislatives-2991947.html)
+append_entries: 3
+Finish: 2024-06-24 12:43:28.070920

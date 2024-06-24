@@ -1270,3 +1270,15 @@ Existing_entries: 242
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-06-24 01:13:54.308885
+------------------------------------------------------
+Started: 2024-06-24 12:36:20.934057
+Existing_entries: 242
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Une seconde vie à moitié prix pour la viande quasi périmée](https://www.20min.ch/fr/story/suisse-une-seconde-vie-a-moitie-prix-pour-la-viande-quasi-perimee-103134364)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Apple sous la menace d'une amende géante de l'UE](https://www.20min.ch/fr/story/concurrence-apple-sous-la-menace-dune-amende-geante-de-lue-103134413)
+append_entries: 2
+Finish: 2024-06-24 12:36:29.481728

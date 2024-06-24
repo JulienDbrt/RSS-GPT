@@ -1394,3 +1394,18 @@ Existing_entries: 270
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-06-24 01:15:20.610834
+------------------------------------------------------
+Started: 2024-06-24 12:41:10.617583
+Existing_entries: 270
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Législatives: Bardella déroule son programme](https://www.martinique.franceantilles.fr/actualite/politique/legislatives-derniere-ligne-droite-pour-la-campagne-le-rn-presente-son-programme-992428.php)
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [Juste à temps pour les JO, Macron inaugure le premier supermétro de la région parisienne](https://www.martinique.franceantilles.fr/actualite/economie/juste-a-temps-pour-les-jo-macron-inaugure-le-premier-supermetro-de-la-region-parisienne-992439.php)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Incendie d'une usine en Corée du Sud: 18 ressortissants chinois parmi les 22 personnes tuées](https://www.martinique.franceantilles.fr/actualite/economie/coree-du-sud-une-vingtaine-de-corps-retrouves-apres-lincendie-dune-usine-de-batteries-992430.php)
+append_entries: 3
+Finish: 2024-06-24 12:41:23.035443

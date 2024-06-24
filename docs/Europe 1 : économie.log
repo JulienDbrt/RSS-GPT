@@ -1264,3 +1264,18 @@ Summarized using GPT-3.5-turbo
 Append: [JO 2024 : le gouvernement entérine des primes de 1.500 euros maximum pour certains fonctionnaires](https://www.europe1.fr/economie/jo-2024-le-gouvernement-enterine-des-primes-de-1500-euros-maximum-pour-certains-fonctionnaires-4254334)
 append_entries: 1
 Finish: 2024-06-24 01:15:19.642632
+------------------------------------------------------
+Started: 2024-06-24 12:41:01.381696
+Existing_entries: 208
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 :  le programme du Nouveau Front populaire en opposition avec les règles budgétaires européennes ?](https://www.europe1.fr/economie/legislatives-2024-le-programme-du-nouveau-front-populaire-en-opposition-avec-les-regles-budgetaires-europeennes-4254374)
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Indexation des retraites sur l’inflation, baisse de 15% de la facture d’électricité... Gabriel Attal promet-il la lune aux électeurs ?](https://www.europe1.fr/economie/indexation-des-retraites-sur-linflation-baisse-de-15-de-la-facture-delectricite-gabriel-attal-promet-il-la-lune-aux-electeurs-4254368)
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [En pleine relance de sa stratégie nucléaire, EDF s'interroge sur l’avenir de ses centrales](https://www.europe1.fr/economie/en-pleine-relance-de-sa-strategie-nucleaire-edf-sinterroge-sur-lavenir-de-ses-centrales-4254369)
+append_entries: 3
+Finish: 2024-06-24 12:41:10.487348

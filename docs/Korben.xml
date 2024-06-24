@@ -4,6 +4,53 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>MicroBin – Le partage de fichiers simple et sécurisé</title>
+<link>https://korben.info/microbin-partage-fichiers-simplifie-securise.html</link>
+<guid>https://korben.info/microbin-partage-fichiers-simplifie-securise.html</guid>
+<content:encoded><![CDATA[
+<div> MicroBin, hébergeur de fichiers, chiffrement, expiration automatique, open-source, raccourcisseur d’URL<br>
+<br>
+Summary:
+MicroBin est un outil pratique permettant d'envoyer facilement de gros fichiers à des amis via un lien partageable. Il offre la possibilité de chiffrer les uploads et d'activer l'expiration automatique des fichiers pour plus de sécurité. En tant qu'outil open-source, MicroBin peut également être installé sur son propre serveur. En plus de fonctionner comme un raccourcisseur d'URL, l'interface est conviviale et propose un mode sombre. MicroBin simplifie le partage de fichiers, de projets et de code, tout en offrant une solution efficace et sécurisée pour l'échange de données. Pour ceux qui cherchent une solution rapide et facile, MicroBin est l'outil idéal pour simplifier le processus de partage en ligne. Profitez des fonctionnalités avancées offertes par MicroBin tout en garantissant la confidentialité et la sécurité de vos données partagées. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_bubble_background_stylized_white_and_clean_blue_logo_tex_42d663a4-e0ad-40a5-9d6e-8738c5c63c27.webp" width="1456" /></p>
+<p>Si vous avez un gros fichier à envoyer à un pote, mais que les mails et la messagerie instantanée font la gueule&#8230; Pas de panique, <strong><a href="https://github.com/szabodanika/microbin" rel="noopener" target="_blank">MicroBin</a></strong> est là pour vous aider ! En deux clics, vous uploadez votre fichier dessus et hop, vous avez un lien à partager. Votre ami n&rsquo;a plus qu&rsquo;à cliquer dessus pour récupérer le précieux. Et le plus dingue, c&rsquo;est que ça marche pour tous type de fichier : texte, image, vidéo, zip&#8230;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158584" height="514" src="https://korben.info/app/uploads/2024/04/SCR-20240407-gjg.webp" style="width: 667px; height: auto;" width="874" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-500672214" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ce n&rsquo;est pas qu&rsquo;un bête hébergeur de fichiers puisque ça permet de chiffrer également vos uploads pour que personne d&rsquo;autre que le destinataire ne puisse y accéder. Et si vous êtes du genre parano, vous pouvez même activer l&rsquo;<strong>expiration automatique</strong> pour que votre fichier s&rsquo;auto-détruise après un certain temps, comme dans Mission Impossible !</p>
+
+
+
+<p>Et pour les geeks qui aiment bidouiller, vous allez adorer : MicroBin est entièrement <strong>open-source</strong> et super simple à installer sur votre propre serveur. Il vous suffit d&rsquo;une ligne de commande et voilà, vous avez votre « mini-GitHub » perso pour héberger tous vos projets et snippets de code. Au revoir les galères de partage de config ou de libs !</p>
+
+
+
+<pre class="wp-block-code"><code>bash &lt;(curl -s https://microbin.eu/docker.sh)</code></pre>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158583" height="758" src="https://korben.info/app/uploads/2024/04/index-1-1024x758.webp" width="1024" /></figure></div>
+
+
+<p>MicroBin fait également office de <strong>raccourcisseur d&rsquo;URL</strong> ! Comme ça, fini les liens à rallonge impossible à retenir. En plus de ça, l&rsquo;interface est hyper clean et user-friendly, et y&rsquo;a même un mode sombre automatique pour ceux qui bossent la nuit 🙂</p>
+
+
+
+<p>Bref, c&rsquo;est simple, efficace et bourré de fonctionnalités bien pensées. Si ça vous intéresse, vous en saurez plus <a href="https://github.com/szabodanika/microbin" rel="noopener" target="_blank">en allant sur le Github.</a> Et si vous êtes flemmard, il y a même <a href="https://pub.microbin.eu/" rel="noopener" target="_blank">une instance publique</a> pour tester directement.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1337887176" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Allez, amusez-vous bien et n&rsquo;oubliez pas : Partager, c&rsquo;est la vie !</p>
+]]></content:encoded>
+<pubDate>Mon, 24 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 24 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Tracecat – L’alternative open source à Tines / Splunk SOAR pour automatiser la sécu</title>

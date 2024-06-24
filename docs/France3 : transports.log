@@ -2175,3 +2175,24 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF. Des trains qui accusent plus de 3 heures de retard, en voici la cause et les indemnités possibles](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/sncf-des-trains-qui-accusent-plus-de-3-heures-de-retard-en-voici-la-cause-et-les-indemnites-possibles-2991932.html)
 append_entries: 3
 Finish: 2024-06-24 01:16:26.706637
+------------------------------------------------------
+Started: 2024-06-24 12:44:00.635266
+Existing_entries: 518
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 345
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. "C'est un délit de faciès" : un voyageur refuse de payer une amende de 5€ pour avoir oublié de valider sa carte d'abonnement](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/video-c-est-un-delit-de-facies-un-voyageur-refuse-de-payer-une-amende-de-5-pour-avoir-oublie-de-valider-sa-carte-d-abonnement-2992157.html)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [Crue torrentielle en Isère : une piste de secours bientôt mise en place en Oisans, le hameau de la Bérarde toujours isolé](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/crue-torrentielle-en-isere-une-piste-de-secours-bientot-mise-en-place-dans-l-oisans-le-hameau-de-la-berarde-toujours-isole-2992283.html)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [La circulation des trains bloquée entre Bordeaux et Arcachon après un incident technique](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/la-circulation-des-trains-bloquee-entre-bordeaux-et-arcachon-apres-un-incident-technique-2992067.html)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [La station de métro Maison Blanche était-elle réellement un abri anti-aérien ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/la-station-de-metro-maison-blanche-etait-elle-reellement-un-abri-anti-aerien-2982740.html)
+Token length: 419
+Summarized using GPT-3.5-turbo
+Append: ["On engraisse les actionnaires d'Uber et on travaille à perte", mobilisation des chauffeurs VTC à Marseille](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-engraisse-les-actionnaires-d-uber-et-on-travaille-a-perte-mobilisation-des-chauffeurs-vtc-a-marseille-2992004.html)
+append_entries: 5
+Finish: 2024-06-24 12:44:19.578525

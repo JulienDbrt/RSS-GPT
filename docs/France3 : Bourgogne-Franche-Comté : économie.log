@@ -1173,3 +1173,15 @@ Existing_entries: 183
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-24 01:16:16.832964
+------------------------------------------------------
+Started: 2024-06-24 12:43:28.166355
+Existing_entries: 183
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 387
+Summarized using GPT-3.5-turbo
+Append: [La grosse galère commence : la RN57 totalement coupée entre France et Suisse près de Pontarlier](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/haut-doubs/la-grosse-galere-commence-la-rn57-totalement-coupee-entre-france-et-suisse-pres-de-pontarlier-2992250.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: ["Tout est possible, cela dépendra de la majorité" : les agriculteurs dans l'attente des élections législatives](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/tout-est-possible-cela-dependra-de-la-majorite-les-agriculteurs-dans-l-attente-des-elections-legislatives-2991947.html)
+append_entries: 2
+Finish: 2024-06-24 12:43:33.972993

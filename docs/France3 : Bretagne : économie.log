@@ -945,3 +945,12 @@ Existing_entries: 107
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-24 01:16:17.454846
+------------------------------------------------------
+Started: 2024-06-24 12:43:34.027329
+Existing_entries: 107
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Interdiction des jets skis."Ce n'est pas parce des motos roulent trop vite sur l'autoroute, qu'il faut interdire toutes les motos"](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/interdiction-des-jets-skis-ce-n-est-pas-parce-des-motos-roulent-trop-vite-sur-l-autoroute-qu-il-faut-interdire-toutes-les-motos-2992229.html)
+append_entries: 1
+Finish: 2024-06-24 12:43:45.013154
