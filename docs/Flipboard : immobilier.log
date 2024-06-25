@@ -2412,3 +2412,21 @@ Fetching from https://flipboard.com/topic/fr-immobilier.rss
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/Flipboard : immobilier
+------------------------------------------------------
+Started: 2024-06-25 01:11:15.103982
+Existing_entries: 699
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Fin du DPE, alléger la loi zéro artificialisation, remplacer l'IFI... Le RN précise son programme sur l'immobilier](https://www.bfmtv.com/immobilier/fin-du-dpe-alleger-la-loi-zero-artificialisation-remplacer-l-ifi-le-rn-precise-son-programme-sur-l-immobilier_AV-202406240506.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : des propriétaires demandent à partager la taxe foncière avec les locataires](https://www.sudouest.fr/economie/immobilier/immobilier-des-proprietaires-demandent-a-partager-la-taxe-fonciere-avec-les-locataires-20265847.php)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Ils ont acheté un mobile home au lieu d’une maison : « Ce n’est pas ce que j’aurais voulu mais bon… »](https://www.leparisien.fr/oise-60/ils-ont-achete-un-mobile-home-au-lieu-dune-maison-ce-nest-pas-ce-que-jaurais-voulu-mais-bon-24-06-2024-DAOW6ERY5VEYPCGGC3W2G4APHE.php)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Vivre comme un étudiant à Montréal pour devenir propriétaire à 30 ans](https://www.narcity.com/fr/montreal/devenir-proprietaire-acheter-une-maison-montreal-30-ans)
+append_entries: 4
+Finish: 2024-06-25 01:11:36.363725

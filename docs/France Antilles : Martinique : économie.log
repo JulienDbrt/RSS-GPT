@@ -1409,3 +1409,15 @@ Summarized using GPT-3.5-turbo
 Append: [Incendie d'une usine en Corée du Sud: 18 ressortissants chinois parmi les 22 personnes tuées](https://www.martinique.franceantilles.fr/actualite/economie/coree-du-sud-une-vingtaine-de-corps-retrouves-apres-lincendie-dune-usine-de-batteries-992430.php)
 append_entries: 3
 Finish: 2024-06-24 12:41:23.035443
+------------------------------------------------------
+Started: 2024-06-25 01:16:20.526001
+Existing_entries: 273
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [A Paris, le Moulin Rouge accueille de nouvelles ailes provisoires](https://www.martinique.franceantilles.fr/actualite/economie/a-paris-le-moulin-rouge-accueille-de-nouvelles-ailes-provisoires-992488.php)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Le Sénégal renforce le contrôle sanitaire contre le Covid après les décès à La Mecque](https://www.martinique.franceantilles.fr/actualite/economie/le-senegal-renforce-le-controle-sanitaire-contre-le-covid-apres-les-deces-a-la-mecque-992476.php)
+append_entries: 2
+Finish: 2024-06-25 01:16:32.376585

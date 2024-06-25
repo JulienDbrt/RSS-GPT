@@ -1074,3 +1074,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le Mondial de l'automobile de Paris accueille de nouveaux constructeurs en 2024](https://www.bfmtv.com/auto/le-mondial-de-l-automobile-de-paris-accueille-de-nouveaux-constructeurs-en-2024_AD-202406240104.html)
 append_entries: 3
 Finish: 2024-06-24 12:38:14.865252
+------------------------------------------------------
+Started: 2024-06-25 01:14:33.464049
+Existing_entries: 148
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-06-25 01:14:33.650825

@@ -2196,3 +2196,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On engraisse les actionnaires d'Uber et on travaille à perte", mobilisation des chauffeurs VTC à Marseille](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-engraisse-les-actionnaires-d-uber-et-on-travaille-a-perte-mobilisation-des-chauffeurs-vtc-a-marseille-2992004.html)
 append_entries: 5
 Finish: 2024-06-24 12:44:19.578525
+------------------------------------------------------
+Started: 2024-06-25 01:18:18.421330
+Existing_entries: 523
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-06-25 01:18:18.744302

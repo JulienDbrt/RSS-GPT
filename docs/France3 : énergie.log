@@ -927,3 +927,12 @@ Existing_entries: 99
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-06-24 12:43:10.201721
+------------------------------------------------------
+Started: 2024-06-25 01:17:55.123253
+Existing_entries: 99
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Station de recharge hydrogène : une inauguration pour un projet vertueux](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/station-de-recharge-hydrogene-une-inauguration-pour-un-projet-a-risques-2992445.html)
+append_entries: 1
+Finish: 2024-06-25 01:17:58.397560

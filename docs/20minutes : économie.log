@@ -1202,3 +1202,12 @@ Summarized using GPT-3.5-turbo
 Append: [Amsterdam : Suite à « un problème technique », un Boeing 777 fait demi-tour après son décollage](https://www.20minutes.fr/faits_divers/4097721-20240624-amsterdam-suite-probleme-technique-boeing-777-fait-demi-tour-apres-decollage)
 append_entries: 1
 Finish: 2024-06-24 12:36:32.835496
+------------------------------------------------------
+Started: 2024-06-25 01:13:35.993985
+Existing_entries: 184
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : Impôt, retraite, salaire, pouvoir d’achat… Ce que l’on sait des programmes économiques des partis](https://www.20minutes.fr/economie/4097842-20240624-legislatives-2024-impot-retraite-salaire-pouvoir-achat-sait-programmes-economiques-partis)
+append_entries: 1
+Finish: 2024-06-25 01:13:40.941803

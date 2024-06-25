@@ -1028,3 +1028,9 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelles perturbations sur le Ring cette semaine : des travaux d’asphaltage dans le tunnel Groenendael](https://www.lalibre.be/regions/bruxelles/2024/06/24/nouvelles-perturbations-sur-le-ring-cette-semaine-des-travaux-dasphaltage-dans-le-tunnel-groenendael-URCME6ALQFDG3KEC3V3M3FNU6A/)
 append_entries: 1
 Finish: 2024-06-24 12:47:41.990931
+------------------------------------------------------
+Started: 2024-06-25 01:21:06.003281
+Existing_entries: 152
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-06-25 01:21:07.085336
