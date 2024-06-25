@@ -849,3 +849,12 @@ Existing_entries: 71
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-06-25 01:18:18.148800
+------------------------------------------------------
+Started: 2024-06-25 12:43:39.700214
+Existing_entries: 71
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 312
+Summarized using GPT-3.5-turbo
+Append: ["Cette maison a beaucoup d'atouts" sauf d'être placée sous le téléphérique : la villa est vendue aux enchères pour une bouchée de pain](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/cette-villa-a-beaucoup-d-atouts-saufs-d-etre-placee-sous-le-telepherique-elle-est-vendue-aux-encheres-pour-une-bouchee-de-pain-2992931.html)
+append_entries: 1
+Finish: 2024-06-25 12:43:43.407174

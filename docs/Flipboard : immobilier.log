@@ -2430,3 +2430,27 @@ Summarized using GPT-3.5-turbo
 Append: [Vivre comme un étudiant à Montréal pour devenir propriétaire à 30 ans](https://www.narcity.com/fr/montreal/devenir-proprietaire-acheter-une-maison-montreal-30-ans)
 append_entries: 4
 Finish: 2024-06-25 01:11:36.363725
+------------------------------------------------------
+Started: 2024-06-25 12:33:45.347651
+Existing_entries: 703
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Cette région de France pourrait devenir un vrai refuge climatique - les acheteurs immobiliers arrivent déjà](https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/2540-region-refuge/)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Voilà le montant de revenus à ne pas dépasser pour toucher la pension de réversion](https://emploi.lefigaro.fr/retraite/guide-de-la-retraite/2145-pension-reversion/)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Qu'est-ce qu'être « très riche » pour les Français](https://www.lesechos.fr/economie-france/social/quest-ce-quetre-tres-riche-pour-les-francais-2103727)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: ["La mairie m'a confisqué une partie de ma maison" : quand cette décision tombe, les propriétaires ont peu de recours](https://immobilier.lefigaro.fr/vivre-dans-son-logement/guide-vie-dans-le-logement/2570-servitude-alignement/)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Vivre en Toscane : la région prête à vous donner 30 000 euros pour votre installation](https://fr.euronews.com/voyages/2024/06/25/vivre-en-toscane-la-region-prete-a-vous-donner-30-000-euros-pour-votre-installation)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : dans quelle région les Français rêvent-ils le plus d’acheter leur appartement ?](https://fr.news.yahoo.com/immobilier-dans-quelle-region-francais-revent-ils-le-plus-acheter-appartement-144716760.html)
+append_entries: 6
+Finish: 2024-06-25 12:34:07.774871

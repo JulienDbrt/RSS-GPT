@@ -934,3 +934,18 @@ Summarized using GPT-3.5-turbo
 Append: [Airbnb : Barcelone veut mettre fin aux locations saisonnières d’ici 2029](https://www.ladepeche.fr/2024/06/24/airbnb-barcelone-veut-mettre-fin-aux-locations-saisonnieres-dici-2029-12037101.php)
 append_entries: 2
 Finish: 2024-06-25 01:20:23.676412
+------------------------------------------------------
+Started: 2024-06-25 12:46:19.240353
+Existing_entries: 96
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Premières livraisons pour le projet immobilier Terramedia au cœur de Tarbes](https://www.ladepeche.fr/2024/06/25/premieres-livraisons-pour-le-projet-immobilier-terramedia-au-coeur-de-tarbes-12039241.php)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [En Aveyron, que reste-t-il de la propriété privée ?](https://www.ladepeche.fr/2024/06/25/en-aveyron-que-reste-t-il-de-la-propriete-privee-12038804.php)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Saint-Étienne-de-Tulmont. Un dispositif prêt social location-accession](https://www.ladepeche.fr/2024/06/25/un-dispositif-pret-social-location-accession-12038712.php)
+append_entries: 3
+Finish: 2024-06-25 12:46:30.049732

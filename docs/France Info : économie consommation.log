@@ -3822,3 +3822,27 @@ Summarized using GPT-3.5-turbo
 Append: [Vacances : des prix cassés pour les réservations de dernière minute](https://www.francetvinfo.fr/economie/tourisme/vacances-des-prix-casses-pour-les-reservations-de-derniere-minute_6623343.html)
 append_entries: 10
 Finish: 2024-06-25 01:17:09.321216
+------------------------------------------------------
+Started: 2024-06-25 12:41:32.368096
+Existing_entries: 1010
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : des fonctionnaires lancent un comparateur de programmes pour les services publics](https://www.francetvinfo.fr/elections/legislatives/legislatives-2024-des-fonctionnaires-lancent-un-comparateur-de-programmes-pour-les-services-publics_6625239.html)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Transports : la ligne 14 du métro s'étend désormais de Saint-Denis à Orly](https://www.francetvinfo.fr/economie/transports/transports-la-ligne-14-du-metro-s-etend-desormais-de-saint-denis-a-orly_6625146.html)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Rachat de Biogaran : l’État se mobilise pour garder le laboratoire en France](https://www.francetvinfo.fr/replay-radio/le-brief-eco/rachat-de-biogaran-l-etat-se-mobilise-pour-garder-le-laboratoire-en-france_6596586.html)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "Je ne sais même plus vers où aller" : ces artisans observent et jugent les propositions des candidats aux législatives](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-je-ne-sais-meme-plus-vers-ou-aller-ces-artisans-observent-et-jugent-les-propositions-des-candidats-aux-legislatives_6596577.html)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [Surtourisme : la mairie de Barcelone veut bloquer Airbnb](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/surtourisme-la-mairie-de-barcelone-veut-bloquer-airbnb_6596574.html)
+Token length: 324
+Summarized using GPT-3.5-turbo
+Append: [ENQUETE. Des journalistes et les infrastructures de presse ciblés par l'armée israélienne : "On craint de mourir à chaque minute"](https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/enquete-gaza-project-des-doutes-sur-le-respect-par-l-armee-israelienne-du-droit-humanitaire-international-a-gaza_6621387.html)
+append_entries: 6
+Finish: 2024-06-25 12:41:55.458994

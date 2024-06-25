@@ -1122,3 +1122,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'autoroute A13 enfin ouverte à la circulation dans les 2 sens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/hauts-de-seine/l-autoroute-a13-enfin-ouverte-a-la-circulation-dans-les-2-sens-2992571.html)
 append_entries: 2
 Finish: 2024-06-25 01:18:05.408475
+------------------------------------------------------
+Started: 2024-06-25 12:43:05.615681
+Existing_entries: 162
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-25 12:43:05.801104

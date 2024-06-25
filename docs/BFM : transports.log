@@ -1074,3 +1074,15 @@ Existing_entries: 146
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
 append_entries: 0
 Finish: 2024-06-25 01:15:24.348739
+------------------------------------------------------
+Started: 2024-06-25 12:39:48.402445
+Existing_entries: 146
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Législatives: la région Occitanie offre des billets de TER et de car pour aller voter](https://www.bfmtv.com/economie/entreprises/transports/legislatives-la-region-occitanie-offre-des-billets-de-ter-et-de-car-pour-aller-voter_AV-202406250418.html)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Hôtels, bus, bureaux, VTC... Pourquoi l'appli SNCF Connect ne veut pas se contenter de vous vendre des billets de train](https://www.bfmtv.com/economie/entreprises/transports/hotels-bus-bureaux-vtc-pourquoi-l-appli-sncf-connect-ne-veut-pas-se-contenter-de-vous-vendre-des-billets-de-train_AV-202406250047.html)
+append_entries: 2
+Finish: 2024-06-25 12:39:57.209619

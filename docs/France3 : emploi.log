@@ -1281,3 +1281,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les agents de la métropole lyonnaise s'inquiètent face au non-renouvellement de 206 contrats à durée déterminée](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/les-agents-de-la-metropole-lyonnaise-s-inquietent-face-au-non-renouvellement-de-206-contrats-a-duree-determinee-2992265.html)
 append_entries: 1
 Finish: 2024-06-25 01:18:17.820478
+------------------------------------------------------
+Started: 2024-06-25 12:43:31.875824
+Existing_entries: 215
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 299
+Summarized using GPT-3.5-turbo
+Append: [Management violent, risques psychosociaux : des salariés dénoncent leurs conditions de travail chez Royal Canin](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/management-violent-risques-psychosociaux-des-salaries-denoncent-leurs-conditions-de-travail-chez-royal-canin-2992835.html)
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [TEMOIGNAGES. Saisonniers : "sans expérience, certains demandent 2 500 euros nets", à la veille des vacances la pénurie de main-d’œuvre persiste](https://france3-regions.francetvinfo.fr/occitanie/herault/grande-motte/temoignages-saisonniers-sans-experience-certains-demandent-2-500-euros-nets-a-la-veille-des-vacances-la-penurie-de-main-d-uvre-persiste-2992358.html)
+append_entries: 2
+Finish: 2024-06-25 12:43:39.664854

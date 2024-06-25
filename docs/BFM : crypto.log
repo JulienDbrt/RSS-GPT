@@ -1068,3 +1068,15 @@ Summarized using GPT-3.5-turbo
 Append: [La plus grande plateforme d’échanges de cryptos de Turquie victime d’un piratage](https://www.bfmtv.com/crypto/la-plus-grande-plateforme-d-echanges-de-cryptos-de-turquie-victime-d-un-piratage_AV-202406240586.html)
 append_entries: 1
 Finish: 2024-06-25 01:14:38.620381
+------------------------------------------------------
+Started: 2024-06-25 12:37:52.801131
+Existing_entries: 144
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [Le bitcoin chute de 12% sur un mois et repasse sous les 60.000 dollars](https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-chute-de-12-sur-un-mois-et-repasse-sous-les-60-000-dollars_AV-202406250493.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Chez les mineurs de bitcoins, Riot renonce pour l'instant à racheter son concurrent Bitfarms](https://www.bfmtv.com/crypto/bitcoin/chez-les-mineurs-de-bitcoins-riot-renonce-pour-l-instant-a-racheter-son-concurrent-bitfarms_AV-202406250386.html)
+append_entries: 2
+Finish: 2024-06-25 12:37:57.517848
