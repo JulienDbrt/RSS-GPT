@@ -1495,3 +1495,9 @@ Summarized using GPT-3.5-turbo
 Append: [Ce restaurant de fruits de mer ouvre ses portes dans le Lauragais, près de Revel](https://www.ladepeche.fr/2024/06/25/ce-restaurant-de-fruits-de-mer-ouvre-ses-portes-dans-le-lauragais-pres-de-revel-12039720.php)
 append_entries: 1
 Finish: 2024-06-26 01:22:50.040163
+------------------------------------------------------
+Started: 2024-06-26 12:46:18.459943
+Existing_entries: 279
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-06-26 12:46:18.857406

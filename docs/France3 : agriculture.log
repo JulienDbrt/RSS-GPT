@@ -1929,3 +1929,15 @@ Summarized using GPT-3.5-turbo
 Append: [Législatives 2024 : Gabriel Attal viendra faire campagne près de Tours](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/legislatives-2024-gabriel-attal-viendra-faire-campagne-pres-de-tours-2992661.html)
 append_entries: 3
 Finish: 2024-06-26 01:20:10.561581
+------------------------------------------------------
+Started: 2024-06-26 12:43:41.928900
+Existing_entries: 427
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Mort d'un agriculteur de 64 ans à la suite d'un accident de tracteur](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/mort-d-un-agriculteur-de-64-ans-a-la-suite-d-un-accident-de-tracteur-2993759.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: ["On ne fait que sublimer la matière première" : des cosmétiques 100% bio à partir des produits des ruchers d'abeilles noires](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/elle-fait-vraiment-partie-de-notre-patrimoine-genetique-une-apicultrice-realise-des-cosmetiques-100-bio-a-partir-des-produits-de-ses-ruchers-d-abeilles-noires-2993309.html)
+append_entries: 2
+Finish: 2024-06-26 12:43:51.801529

@@ -1244,3 +1244,15 @@ Summarized using GPT-3.5-turbo
 Append: [Alsace : À court de trésorerie, Caddie lutte pour sa survie](https://www.20minutes.fr/economie/4097982-20240625-alsace-court-tresorerie-caddie-lutte-survie)
 append_entries: 4
 Finish: 2024-06-26 01:14:59.467968
+------------------------------------------------------
+Started: 2024-06-26 12:37:03.542920
+Existing_entries: 192
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [Agents de sécurité : La CFDT appelle à la grève dès vendredi et pendant les JO](https://www.20minutes.fr/societe/greve/4098157-20240626-agents-securite-cfdt-appelle-greve-vendredi-pendant-jo-2024-paris)
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [Impôts 2024 : Attention, c’est le dernier jour pour modifier votre déclaration](https://www.20minutes.fr/economie/4098161-20240626-impots-2024-attention-dernier-jour-modifier-declaration)
+append_entries: 2
+Finish: 2024-06-26 12:37:11.225087

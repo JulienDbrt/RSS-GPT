@@ -1027,3 +1027,9 @@ Summarized using GPT-3.5-turbo
 Append: [Des frais de 25$ pour réserver par téléphone un vol de WestJet](https://www.journaldemontreal.com/2024/06/24/des-frais-25-pour-reserver-par-telephone-un-vol-de-westjet)
 append_entries: 2
 Finish: 2024-06-26 01:20:50.369798
+------------------------------------------------------
+Started: 2024-06-26 12:44:35.345667
+Existing_entries: 115
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-06-26 12:44:35.648008

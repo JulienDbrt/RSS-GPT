@@ -1212,3 +1212,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Je pars en vacances à côté de chez moi" : ils ont choisi d'acheter un mobil home et vivent au camping](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/je-pars-en-vacances-a-cote-de-chez-moi-ils-ont-choisi-d-acheter-un-mobil-home-dans-un-camping-2993162.html)
 append_entries: 1
 Finish: 2024-06-26 01:20:14.878298
+------------------------------------------------------
+Started: 2024-06-26 12:43:51.899553
+Existing_entries: 188
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [La circulation des trains Dijon-Paris interrompue durant 3 heures à cause d'un "départ de fumée"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/3-heures-de-retard-pour-les-trains-a-cause-d-un-depart-de-fumee-la-ligne-dijon-paris-vient-de-reprendre-2993828.html)
+append_entries: 1
+Finish: 2024-06-26 12:43:54.596148

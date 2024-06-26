@@ -1322,3 +1322,15 @@ Summarized using GPT-3.5-turbo
 Append: [Législatives 2024 : le prix des carburants préoccupe les Français](https://www.francetvinfo.fr/economie/pouvoir-achat/legislatives-2024-le-prix-des-carburants-preoccupe-les-francais_6625452.html)
 append_entries: 3
 Finish: 2024-06-26 01:19:11.438555
+------------------------------------------------------
+Started: 2024-06-26 12:43:03.188878
+Existing_entries: 218
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: ["Ton taf c'est de la m****" : la SNCF lance une campagne contre les agressions sur ses agents](https://www.francetvinfo.fr/economie/transports/sncf/ton-taf-c-est-de-la-m-la-sncf-lance-une-campagne-contre-les-agressions-sur-ses-agents_6626856.html)
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Accréditations, 135 euros d'amende... Comment vont fonctionner les "voies Paris 2024" interdites à la circulation pendant les Jeux olympiques ?](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-comment-vont-fonctionner-les-voies-olympiques-interdites-a-la-circulation-pendant-les-jeux_6407893.html)
+append_entries: 2
+Finish: 2024-06-26 12:43:09.954929

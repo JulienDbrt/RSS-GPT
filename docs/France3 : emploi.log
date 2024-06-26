@@ -1305,3 +1305,18 @@ Summarized using GPT-3.5-turbo
 Append: [On vous explique pourquoi Airbus provoque un gros trou d'air à la Bourse de Paris](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/on-vous-explique-pourquoi-airbus-provoque-un-gros-trou-d-air-a-la-bourse-de-paris-2993135.html)
 append_entries: 2
 Finish: 2024-06-26 01:20:23.475505
+------------------------------------------------------
+Started: 2024-06-26 12:44:00.829546
+Existing_entries: 219
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [Au bout du rouleau, le personnel de la maison d’arrêt de La Roche-sur-Yon manifeste sa colère](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/prisons-au-bout-du-rouleau-le-personnel-de-la-maison-d-arret-de-la-roche-sur-yon-manifeste-sa-colere-2993768.html)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: ["C’est incroyable de pouvoir participer à la préservation de l'environnement", ils sont les gardiens des forêts durant l'été](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/c-est-incroyable-de-pouvoir-participer-a-la-preservation-de-l-environnement-ils-sont-les-gardiens-des-forets-durant-l-ete-2993249.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: ["Ils ont fait plier les gros magnats de la viande". Fin de la grève à l'abattoir de Limoges](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/ils-ont-fait-plier-les-gros-magnats-de-la-viande-fin-de-la-greve-a-l-abattoir-de-limoges-2993435.html)
+append_entries: 3
+Finish: 2024-06-26 12:44:14.483709

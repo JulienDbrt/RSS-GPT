@@ -1303,3 +1303,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les taxis sans chauffeur de Google ouverts à tous à San Francisco](https://www.20min.ch/fr/story/etats-unis-les-taxis-sans-chauffeur-de-google-ouverts-a-tous-a-san-francisco-629207956178)
 append_entries: 1
 Finish: 2024-06-26 01:14:42.442531
+------------------------------------------------------
+Started: 2024-06-26 12:36:55.875179
+Existing_entries: 245
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Des milliers d'entreprises suisses devront montrer patte blanche](https://www.20min.ch/fr/story/climat-et-droits-humains-des-milliers-dentreprises-suisses-devront-montrer-patte-blanche-103136330)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Berne veut un «Nutri-Score» de l'obsolescence programmée](https://www.20min.ch/fr/story/suisse-berne-veut-un-nutri-score-de-lobsolescence-programmee-103136264)
+append_entries: 2
+Finish: 2024-06-26 12:37:03.445265

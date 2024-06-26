@@ -1171,3 +1171,12 @@ Summarized using GPT-3.5-turbo
 Append: [Transfert des militants de la CCAT dans l'Hexagone : une détention provisoire à 17 000 km de Nouméa](https://la1ere.francetvinfo.fr/transfert-des-militants-de-la-ccat-dans-l-hexagone-une-detention-provisoire-a-17-000-km-de-noumea-1500047.html)
 append_entries: 1
 Finish: 2024-06-26 01:21:54.901560
+------------------------------------------------------
+Started: 2024-06-26 12:45:23.018397
+Existing_entries: 161
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [Seychelles : ExecuJet, compagnie pour VIP, s'associe à Air Seychelles](https://la1ere.francetvinfo.fr/reunion/seychelles-execujet-compagnie-pour-vip-s-associe-a-air-seychelles-1500386.html)
+append_entries: 1
+Finish: 2024-06-26 12:45:26.761190

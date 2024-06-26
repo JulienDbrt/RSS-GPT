@@ -1092,3 +1092,15 @@ Existing_entries: 148
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
 append_entries: 0
 Finish: 2024-06-26 01:17:07.799797
+------------------------------------------------------
+Started: 2024-06-26 12:40:44.981089
+Existing_entries: 148
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Les voyageurs trouvent les trains trop chers: une baisse des prix est-elle possible?](https://www.bfmtv.com/economie/entreprises/transports/les-voyageurs-trouvent-les-trains-trop-chers-une-baisse-des-prix-est-elle-possible_AV-202406260441.html)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [Une panne du contrôle aérien affecte l'espace aérien à Genève](https://www.bfmtv.com/economie/entreprises/transports/une-panne-du-controle-aerien-affecte-l-espace-aerien-a-geneve_AD-202406260119.html)
+append_entries: 2
+Finish: 2024-06-26 12:40:53.241602

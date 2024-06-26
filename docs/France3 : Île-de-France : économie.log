@@ -1137,3 +1137,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Le plus grand parking sécurisé pour vélos de France" inauguré à la Gare du Nord](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-plus-grand-parking-securise-pour-velos-de-france-inaugure-a-la-gare-du-nord-2993132.html)
 append_entries: 1
 Finish: 2024-06-26 01:19:53.618814
+------------------------------------------------------
+Started: 2024-06-26 12:43:41.380516
+Existing_entries: 163
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-06-26 12:43:41.702726

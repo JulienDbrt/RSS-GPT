@@ -3266,3 +3266,27 @@ Summarized using GPT-3.5-turbo
 Append: [Le laboratoire Teva solde un litige avec le fisc israélien](https://www.moneyvox.fr/actu/98418/le-laboratoire-teva-solde-un-litige-avec-le-fisc-israelien)
 append_entries: 8
 Finish: 2024-06-26 01:19:48.278702
+------------------------------------------------------
+Started: 2024-06-26 12:43:21.409454
+Existing_entries: 946
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Banque : BPCE vise 5 milliards d'euros de bénéfice net d'ici 2026](https://www.moneyvox.fr/banque/actualites/98427/bpce-vise-5-milliards-euros-de-benefice-net-ici-2026)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [N26 : une nouveauté très attendue arrive aujourd'hui](https://www.moneyvox.fr/banque-en-ligne/actualites/98420/n26-une-nouveaute-tres-attendue-arrive-aujourdhui)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [Caisse d'Epargne, Banque Populaire.... BPCE présente son projet stratégique 2030](https://www.moneyvox.fr/banque/actualites/98425/caisse-epargne-banque-populaire-bpce-presente-son-projet-strategique-2030)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été : Livret A, PEL, assurance vie... Quelle épargne casser pour votre budget 2024 ?](https://www.moneyvox.fr/placement/actualites/98410/vacances-ete-livret-a-pel-assurance-vie-quelle-epargne-casser-pour-votre-budget-2024)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Crédit Agricole Alpes Provence : inflation sur le prix des cartes bancaires !](https://www.moneyvox.fr/tarif-bancaire/actualites/98423/credit-agricole-alpes-provence-inflation-sur-le-prix-des-cartes-bancaires)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Frais bancaires : méfiez-vous de votre banque si vous partez à l'étranger !](https://www.moneyvox.fr/tarif-bancaire/actualites/98400/frais-bancaires-mefiez-vous-de-votre-banque-si-vous-partez-a-etranger)
+append_entries: 6
+Finish: 2024-06-26 12:43:39.415411

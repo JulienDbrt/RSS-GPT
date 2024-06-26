@@ -1498,3 +1498,15 @@ Summarized using GPT-3.5-turbo
 Append: [Jordan Bardella, l'épée de Damoclès au-dessus de la tech française](https://www.lexpress.fr/economie/high-tech/jordan-bardella-lepee-de-damocles-au-dessus-de-la-tech-francaise-7M7X6B3NGJCQVAK6SQU62QIL64/)
 append_entries: 1
 Finish: 2024-06-26 01:21:16.872816
+------------------------------------------------------
+Started: 2024-06-26 12:44:56.254722
+Existing_entries: 330
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2088
+Summarized using GPT-3.5-turbo
+Append: [Atos : pourquoi Daniel Kretinsky revient dans la course](https://www.lexpress.fr/economie/entreprises/atos-pourquoi-daniel-kretinsky-revient-dans-la-course-RJEVKJ2KQBBNZCD6G7PLAQR47I/)
+Token length: 6722
+Summarized using GPT-3.5-turbo
+Append: [Audiovisuel public, autoroutes... Ces projets du RN qui ne tiennent pas la route](https://www.lexpress.fr/economie/politique-economique/audiovisuel-public-autoroutes-ces-projets-du-rn-qui-ne-tiennent-pas-la-route-RTN6D4OP4VERZFMEVERTPCBRTM/)
+append_entries: 2
+Finish: 2024-06-26 12:45:06.071269

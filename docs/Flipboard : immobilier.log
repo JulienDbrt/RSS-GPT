@@ -2469,3 +2469,27 @@ Summarized using GPT-3.5-turbo
 Append: [Cette taxe augmente d'au moins 4% cette année et elle concerne 38 millions de Français](https://www.journaldunet.com/patrimoine/finances-personnelles/1531197-hf1-hausse-taxe/)
 append_entries: 3
 Finish: 2024-06-26 01:12:30.043597
+------------------------------------------------------
+Started: 2024-06-26 12:34:25.535912
+Existing_entries: 712
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Fiscalité : l'IFF, la botte secrète du RN pour soulager les riches propriétaires immobiliers](https://www.europe1.fr/economie/fiscalite-liff-la-botte-secrete-du-rn-pour-soulager-les-riches-proprietaires-immobiliers-4254844)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: ["Le téléphone ne sonne plus" : comment la dissolution de l'Assemblée plombe l'immobilier en Loire-Atlantique](https://www.francebleu.fr/infos/economie-social/le-telephone-ne-sonne-plus-comment-la-dissolution-de-l-assemblee-plombe-l-immobilier-en-loire-atlantique-3269756)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Crise du logement : les deux propositions du RN laissent le secteur perplexe](https://www.challenges.fr/immobilier/crise-du-logement-les-deux-propositions-du-rn-laissent-le-secteur-perplexe_897470?xtor=RSS-25)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Et maintenant, la retraite à... 66 ans avec le RN ?](https://www.capital.fr/votre-retraite/et-maintenant-la-retraite-a-66-ans-avec-le-rn-1498861)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : Réalités se déleste de ses filiales](https://www.lesechos.fr/pme-regions/pays-de-la-loire/immobilier-realites-se-deleste-de-ses-filiales-2104023)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Investir 10.000 € : SCPI ou immobilier fractionné, comment choisir ?](https://www.boursier.com/patrimoine/epargne/points-de-vue/investir-10-000-scpi-ou-immobilier-fractionne-comment-choisir-8788.html)
+append_entries: 6
+Finish: 2024-06-26 12:34:46.823992

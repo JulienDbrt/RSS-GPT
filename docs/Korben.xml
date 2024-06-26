@@ -4,6 +4,53 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Swizzin – Une seedbox pour Ubuntu et Debian</title>
+<link>https://korben.info/swizzin-solution-ultime-seedbox-ubuntu-debian.html</link>
+<guid>https://korben.info/swizzin-solution-ultime-seedbox-ubuntu-debian.html</guid>
+<content:encoded><![CDATA[
+<div> Swizzin, solution, seedbox, léger, modulaire  
+Summary:  
+Swizzin est une solution légère et modulaire pour Ubuntu et Debian, idéale pour installer et configurer rapidement une seedbox. Avec une empreinte minimale, il offre une large gamme d'applications personnalisables comme Deluge, rTorrent, Sonarr, Plex, et bien d'autres. L'installation est simple grâce à quelques commandes en tant que root, adaptées au CPU et aux packages choisis. La philosophie du projet met l'accent sur la stabilité, la rapidité, et la personnalisation, offrant la possibilité de gérer la seedbox en ligne de commande. Cette solution ouverte et customisable permet aux utilisateurs d'ajouter leurs propres scripts et applications, en faisant un choix idéal pour ceux cherchant une seedbox efficace pour le téléchargement et l'hébergement de fichiers légaux. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Logo_text_Swizzin_to_promote_a_seedbox_121be81c-c147-456b-884c-2116055d15ea.webp" width="1456" /></p>
+<p><strong>Swizzin</strong> est une solution pour <strong>Ubuntu</strong> et <strong>Debian</strong> pour ceux qui galèrent pendant des plombes à installer et configurer un seedbox. Cet outil est hyper léger et modulaire ce qui lui permet de fonctionner même sur un Raspberry Pi ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1032240367" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>L&#8217;empreinte est minimale, vous installez uniquement les apps dont vous avez besoin et le choix est vaste : de autodl à ZNC en passant par Deluge, rTorrent, ruTorrent, Transmission, qBittorrent, Plex, Sonarr, Radarr, Jackett, NZBGet, SABnzbd, Nginx, Let&rsquo;s Encrypt, Tautulli, Rclone&#8230;etc y a de quoi faire.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158595" height="556" src="https://korben.info/app/uploads/2024/04/panel-screenshot-1024x556.webp" width="1024" /></figure></div>
+
+
+<p>L&rsquo;installation, c&rsquo;est quelques commandes à copier-coller en tant que root et c&rsquo;est parti mon kiki ! </p>
+
+
+
+<pre class="wp-block-code"><code>bash &lt;(curl -sL s5n.sh) &amp;&amp; . ~/.bashrc</code></pre>
+
+
+
+<p>Selon votre CPU (amd64 ou arm64) et les packages choisis, votre seedbox sera alors opérationnelle en quelques minutes à peine. Pas besoin d&rsquo;être un crack en informatique, tant que vous savez utiliser SSH et lire de la doc, vous êtes parés.</p>
+
+
+
+<p>La philosophie derrière ce projet est vraiment cool puisqu&rsquo;on est loin des usines à gaz bourrées de fonctions inutiles. Là c&rsquo;est plutôt stabilité, rapidité et simplicité. Autre gros point fort : la personnalisation. Grâce à l&rsquo;outil en ligne de commande « <a href="https://swizzin.ltd/getting-started/box-basics" rel="noopener" target="_blank">box</a>« , vous pourrez gérer votre seedbox au doigt et à l’œil, installer et supprimer des packages, mettre à jour le système, gérer les utilisateurs&#8230; c&rsquo;est un vrai bonheur.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-822887348" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Vous l&rsquo;aurez compris, ce système est entièrement ouvert et customisable et avec un peu de motivation, vous pourrez ajouter vos propres scripts et applications. C&rsquo;est l&rsquo;avantage du logiciel libre !</p>
+
+
+
+<p>Bref, si vous cherchez une seedbox simple et efficace pour télécharger et héberger vos fichiers « 100% légaux » évidemment, foncez sur <a href="https://swizzin.ltd/" rel="noopener" target="_blank"><strong>Swizzin</strong></a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>VoiceCraft – Enfin de la synthèse vocale de qualité</title>

@@ -870,3 +870,9 @@ Summarized using GPT-3.5-turbo
 Append: [“La plupart du temps, on ne me répond même pas” : étudiants et parents peinent à trouver un appart pour la rentrée à Lille](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/lille/la-plupart-du-temps-on-ne-me-repond-meme-pas-etudiants-et-parents-peinent-a-trouver-un-appart-pour-la-rentree-a-lille-2993234.html)
 append_entries: 2
 Finish: 2024-06-26 01:20:31.775806
+------------------------------------------------------
+Started: 2024-06-26 12:44:14.520218
+Existing_entries: 74
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-06-26 12:44:14.850848
