@@ -756,3 +756,9 @@ Summarized using GPT-3.5-turbo
 Append: [Avec le contexte politique en France, le marché de l'immobilier est quasiment à l'arrêt](https://www.bfmtv.com/economie/patrimoine/immobilier/avec-le-contexte-politique-en-france-le-marche-de-l-immobilier-est-quasiment-a-l-arret_VN-202406250533.html)
 append_entries: 1
 Finish: 2024-06-25 12:39:47.033822
+------------------------------------------------------
+Started: 2024-06-26 01:17:05.324481
+Existing_entries: 38
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/immobilier/
+append_entries: 0
+Finish: 2024-06-26 01:17:05.858505

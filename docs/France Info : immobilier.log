@@ -914,3 +914,9 @@ Summarized using GPT-3.5-turbo
 Append: [Surtourisme : la mairie de Barcelone veut bloquer Airbnb](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/surtourisme-la-mairie-de-barcelone-veut-bloquer-airbnb_6596574.html)
 append_entries: 1
 Finish: 2024-06-25 12:42:02.639733
+------------------------------------------------------
+Started: 2024-06-26 01:18:55.906885
+Existing_entries: 84
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-06-26 01:18:56.839948

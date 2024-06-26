@@ -1486,3 +1486,12 @@ Summarized using GPT-3.5-turbo
 Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/06/25/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12038430.php)
 append_entries: 4
 Finish: 2024-06-25 12:46:19.190609
+------------------------------------------------------
+Started: 2024-06-26 01:22:44.856228
+Existing_entries: 278
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Ce restaurant de fruits de mer ouvre ses portes dans le Lauragais, près de Revel](https://www.ladepeche.fr/2024/06/25/ce-restaurant-de-fruits-de-mer-ouvre-ses-portes-dans-le-lauragais-pres-de-revel-12039720.php)
+append_entries: 1
+Finish: 2024-06-26 01:22:50.040163

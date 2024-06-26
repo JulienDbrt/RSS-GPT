@@ -792,3 +792,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les banques de détail françaises doivent faire 10 milliards d'euros d'économies](https://www.bfmtv.com/economie/entreprises/assurance-banque/les-banques-de-detail-francaises-doivent-faire-10-milliards-d-euros-d-economies_AD-202406250141.html)
 append_entries: 1
 Finish: 2024-06-25 12:37:47.134324
+------------------------------------------------------
+Started: 2024-06-26 01:15:49.240490
+Existing_entries: 50
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/assurance-banque/
+append_entries: 0
+Finish: 2024-06-26 01:15:49.696199

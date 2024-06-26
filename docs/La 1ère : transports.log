@@ -1162,3 +1162,12 @@ Existing_entries: 160
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
 append_entries: 0
 Finish: 2024-06-25 12:45:09.294300
+------------------------------------------------------
+Started: 2024-06-26 01:21:42.464852
+Existing_entries: 160
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [Transfert des militants de la CCAT dans l'Hexagone : une détention provisoire à 17 000 km de Nouméa](https://la1ere.francetvinfo.fr/transfert-des-militants-de-la-ccat-dans-l-hexagone-une-detention-provisoire-a-17-000-km-de-noumea-1500047.html)
+append_entries: 1
+Finish: 2024-06-26 01:21:54.901560

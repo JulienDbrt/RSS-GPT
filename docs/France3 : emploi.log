@@ -1293,3 +1293,15 @@ Summarized using GPT-3.5-turbo
 Append: [TEMOIGNAGES. Saisonniers : "sans expérience, certains demandent 2 500 euros nets", à la veille des vacances la pénurie de main-d’œuvre persiste](https://france3-regions.francetvinfo.fr/occitanie/herault/grande-motte/temoignages-saisonniers-sans-experience-certains-demandent-2-500-euros-nets-a-la-veille-des-vacances-la-penurie-de-main-d-uvre-persiste-2992358.html)
 append_entries: 2
 Finish: 2024-06-25 12:43:39.664854
+------------------------------------------------------
+Started: 2024-06-26 01:20:15.306003
+Existing_entries: 217
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [Accident mortel du travail : il chute d'un toit et se tue, son entreprise condamnée en appel pour homicide involontaire](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/accident-mortel-du-travail-il-chute-d-un-toit-et-se-tue-son-entreprise-condamnee-en-appel-pour-homicide-involontaire-2993048.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [On vous explique pourquoi Airbus provoque un gros trou d'air à la Bourse de Paris](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/on-vous-explique-pourquoi-airbus-provoque-un-gros-trou-d-air-a-la-bourse-de-paris-2993135.html)
+append_entries: 2
+Finish: 2024-06-26 01:20:23.475505

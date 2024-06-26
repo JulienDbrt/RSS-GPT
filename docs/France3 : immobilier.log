@@ -858,3 +858,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Cette maison a beaucoup d'atouts" sauf d'être placée sous le téléphérique : la villa est vendue aux enchères pour une bouchée de pain](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/cette-villa-a-beaucoup-d-atouts-saufs-d-etre-placee-sous-le-telepherique-elle-est-vendue-aux-encheres-pour-une-bouchee-de-pain-2992931.html)
 append_entries: 1
 Finish: 2024-06-25 12:43:43.407174
+------------------------------------------------------
+Started: 2024-06-26 01:20:23.508406
+Existing_entries: 72
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: ["Je pars en vacances à côté de chez moi" : ils ont choisi d'acheter un mobil home et vivent au camping](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/je-pars-en-vacances-a-cote-de-chez-moi-ils-ont-choisi-d-acheter-un-mobil-home-dans-un-camping-2993162.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [“La plupart du temps, on ne me répond même pas” : étudiants et parents peinent à trouver un appart pour la rentrée à Lille](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/lille/la-plupart-du-temps-on-ne-me-repond-meme-pas-etudiants-et-parents-peinent-a-trouver-un-appart-pour-la-rentree-a-lille-2993234.html)
+append_entries: 2
+Finish: 2024-06-26 01:20:31.775806

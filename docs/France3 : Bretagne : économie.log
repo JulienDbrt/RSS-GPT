@@ -972,3 +972,9 @@ Summarized using GPT-3.5-turbo
 Append: [Clio 1, Peugeot 205 GTI : pourquoi ces voitures "young-timers" attirent de plus en plus les collectionneurs ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/clio-1-peugeot-205-gti-pourquoi-ces-voitures-young-timers-attirent-de-plus-en-plus-les-collectionneurs-2992406.html)
 append_entries: 2
 Finish: 2024-06-25 12:43:31.764460
+------------------------------------------------------
+Started: 2024-06-26 01:20:14.932013
+Existing_entries: 110
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-06-26 01:20:15.197249

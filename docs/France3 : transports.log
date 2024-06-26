@@ -2232,3 +2232,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Le sud de la région est complètement délaissé" : le combat continue pour la réouverture d'une ligne ferroviaire entre Châteauroux et Tours](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre/le-sud-de-la-region-est-completement-delaisse-le-combat-continue-pour-la-reouverture-d-une-ligne-ferroviaire-entre-chateauroux-et-tours-2991335.html)
 append_entries: 8
 Finish: 2024-06-25 12:44:15.802435
+------------------------------------------------------
+Started: 2024-06-26 01:20:32.035474
+Existing_entries: 531
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: ["Le plus grand parking sécurisé pour vélos de France" inauguré à la Gare du Nord](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-plus-grand-parking-securise-pour-velos-de-france-inaugure-a-la-gare-du-nord-2993132.html)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Un ULM atterrit en urgence sur l'autoroute à cause d'une panne de moteur : "un baptême de l'air un peu particulier !"](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/un-ulm-atterrit-en-urgence-sur-l-autoroute-a-cause-d-une-panne-de-moteur-plus-de-peur-que-de-mal-2993207.html)
+append_entries: 2
+Finish: 2024-06-26 01:20:39.253146

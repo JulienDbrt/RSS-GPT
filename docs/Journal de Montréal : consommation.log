@@ -1015,3 +1015,15 @@ Existing_entries: 113
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-06-25 12:44:16.138625
+------------------------------------------------------
+Started: 2024-06-26 01:20:39.309980
+Existing_entries: 113
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Légère hausse de l’inflation au Canada](https://www.journaldemontreal.com/2024/06/25/legere-hausse-du-taux-dinflation-du-pays)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [Des frais de 25$ pour réserver par téléphone un vol de WestJet](https://www.journaldemontreal.com/2024/06/24/des-frais-25-pour-reserver-par-telephone-un-vol-de-westjet)
+append_entries: 2
+Finish: 2024-06-26 01:20:50.369798

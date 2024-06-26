@@ -1307,3 +1307,18 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : la ligne 14 du métro s'étend désormais de Saint-Denis à Orly](https://www.francetvinfo.fr/economie/transports/transports-la-ligne-14-du-metro-s-etend-desormais-de-saint-denis-a-orly_6625146.html)
 append_entries: 1
 Finish: 2024-06-25 12:42:06.787780
+------------------------------------------------------
+Started: 2024-06-26 01:18:56.948276
+Existing_entries: 215
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [JO 2024 : "Nous sommes fin prêts", assure la directrice générale de SNCF Gares et Connexions](https://www.francetvinfo.fr/replay-radio/l-interview-eco/jo-2024-nous-sommes-fin-prets-assure-la-directrice-generale-de-sncf-gares-et-connexions_6596598.html)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : "Nous sommes fin prêts pour les JO", assure la directrice générale de SNCF Gares & Connexions](https://www.francetvinfo.fr/economie/transports/sncf/paris-2024-nous-sommes-fin-prets-pour-les-jo-assure-la-directrice-generale-de-sncf-gares-connexions_6625683.html)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : le prix des carburants préoccupe les Français](https://www.francetvinfo.fr/economie/pouvoir-achat/legislatives-2024-le-prix-des-carburants-preoccupe-les-francais_6625452.html)
+append_entries: 3
+Finish: 2024-06-26 01:19:11.438555

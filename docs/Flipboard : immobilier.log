@@ -2454,3 +2454,18 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : dans quelle région les Français rêvent-ils le plus d’acheter leur appartement ?](https://fr.news.yahoo.com/immobilier-dans-quelle-region-francais-revent-ils-le-plus-acheter-appartement-144716760.html)
 append_entries: 6
 Finish: 2024-06-25 12:34:07.774871
+------------------------------------------------------
+Started: 2024-06-26 01:12:13.421884
+Existing_entries: 709
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [«Si la gauche passe, je me rétracte»: cette clause inédite qui peut faire capoter une vente immobilière](https://immobilier.lefigaro.fr/article/si-la-gauche-passe-je-me-retracte-cette-clause-inedite-qui-peut-faire-capoter-une-vente-immobiliere_4cf55e3c-32c8-11ef-8318-a1de26ce8e56/)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Voici comment éviter les droits de succession sur un bien immobilier](https://www.pleinevie.fr/mes-droits/voici-comment-eviter-les-droits-de-succession-sur-un-bien-immobilier-122736.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Cette taxe augmente d'au moins 4% cette année et elle concerne 38 millions de Français](https://www.journaldunet.com/patrimoine/finances-personnelles/1531197-hf1-hausse-taxe/)
+append_entries: 3
+Finish: 2024-06-26 01:12:30.043597

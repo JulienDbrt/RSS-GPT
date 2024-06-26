@@ -921,3 +921,9 @@ Summarized using GPT-3.5-turbo
 Append: [Au Royaume-Uni, EDF Energy remporte la palme du pire fournisseur d'énergie en matière de service client](https://www.bfmtv.com/economie/entreprises/energie/au-royaume-uni-edf-energy-remporte-la-palme-du-pire-fournisseur-d-energie-en-matiere-de-service-client_AV-202406250458.html)
 append_entries: 1
 Finish: 2024-06-25 12:37:29.071126
+------------------------------------------------------
+Started: 2024-06-26 01:15:47.862497
+Existing_entries: 93
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+append_entries: 0
+Finish: 2024-06-26 01:15:48.406121

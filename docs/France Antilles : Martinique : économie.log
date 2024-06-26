@@ -1445,3 +1445,18 @@ Summarized using GPT-3.5-turbo
 Append: [Le salon ITBE, une porte vers l'export pour les petites entreprises](https://www.martinique.franceantilles.fr/actualite/economie/le-salon-itbe-une-porte-vers-lexport-pour-les-petites-entreprises-992550.php)
 append_entries: 6
 Finish: 2024-06-25 12:41:31.272471
+------------------------------------------------------
+Started: 2024-06-26 01:17:55.279237
+Existing_entries: 281
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [En Martinique, les prix à la consommation ont baissé en mai](https://www.martinique.franceantilles.fr/actualite/economie/en-martinique-les-prix-a-la-consommation-ont-baisse-en-mai-992631.php)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [BTP : signature d'un protocole d'accord avec la CTM](https://www.martinique.franceantilles.fr/actualite/social/btp-signature-dun-protocole-daccord-avec-la-ctm-992628.php)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [L'UE ouvre officiellement des négociations d'adhésion avec l'Ukraine et la Moldavie](https://www.martinique.franceantilles.fr/actualite/economie/lue-ouvre-officiellement-des-negociations-dadhesion-avec-lukraine-992617.php)
+append_entries: 3
+Finish: 2024-06-26 01:18:06.617255
