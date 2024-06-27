@@ -2509,3 +2509,18 @@ Summarized using GPT-3.5-turbo
 Append: [Une panne du contrôle aérien affecte l'espace aérien à Genève](https://www.bfmtv.com/economie/entreprises/transports/une-panne-du-controle-aerien-affecte-l-espace-aerien-a-geneve_AD-202406260119.html)
 append_entries: 9
 Finish: 2024-06-26 12:39:26.615710
+------------------------------------------------------
+Started: 2024-06-27 01:14:24.530772
+Existing_entries: 651
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Boeing: un lanceur d'alerte avertit d'autres problèmes possibles sur des 787](https://www.bfmtv.com/economie/entreprises/aeronautique/boeing-un-lanceur-d-alerte-avertit-d-autres-problemes-possibles-sur-des-787_AD-202406261087.html)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Aéroports parisiens: des syndicats menacent d'appeler à la grève à l'approche des Jeux olympiques](https://www.bfmtv.com/economie/entreprises/transports/aeroports-parisiens-des-syndicats-menacent-d-appeler-a-la-greve-a-l-approche-des-jeux-olympiques_AD-202406260926.html)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Atos: Onepoint se retire, Daniel Kretinsky propose de reprendre les discussions avec le groupe informatique](https://www.bfmtv.com/economie/entreprises/atos-onepoint-se-retire-daniel-kretinsky-propose-de-reprendre-les-discussions-avec-le-groupe-informatique_VN-202406260805.html)
+append_entries: 3
+Finish: 2024-06-27 01:14:34.299231

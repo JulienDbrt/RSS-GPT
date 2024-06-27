@@ -931,3 +931,12 @@ Existing_entries: 79
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-26 12:45:22.671585
+------------------------------------------------------
+Started: 2024-06-27 01:19:35.437616
+Existing_entries: 79
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [Grève au CHU de Martinique : "l'attente aux urgences est souvent interminable"](https://la1ere.francetvinfo.fr/martinique/greve-au-chu-de-martinique-l-attente-aux-urgences-est-souvent-interminable-1500512.html)
+append_entries: 1
+Finish: 2024-06-27 01:19:38.664782

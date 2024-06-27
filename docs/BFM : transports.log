@@ -1104,3 +1104,12 @@ Summarized using GPT-3.5-turbo
 Append: [Une panne du contrôle aérien affecte l'espace aérien à Genève](https://www.bfmtv.com/economie/entreprises/transports/une-panne-du-controle-aerien-affecte-l-espace-aerien-a-geneve_AD-202406260119.html)
 append_entries: 2
 Finish: 2024-06-26 12:40:53.241602
+------------------------------------------------------
+Started: 2024-06-27 01:15:08.217257
+Existing_entries: 150
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Aéroports parisiens: des syndicats menacent d'appeler à la grève à l'approche des Jeux olympiques](https://www.bfmtv.com/economie/entreprises/transports/aeroports-parisiens-des-syndicats-menacent-d-appeler-a-la-greve-a-l-approche-des-jeux-olympiques_AD-202406260926.html)
+append_entries: 1
+Finish: 2024-06-27 01:15:12.553341

@@ -1113,3 +1113,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les meilleures auto-écoles de France en 2024: le classement du taux de réussite au permis de conduire](https://www.bfmtv.com/auto/les-meilleures-auto-ecoles-de-france-en-2024-le-classement-du-taux-de-reussite-au-permis-de-conduire_GN-202406260057.html)
 append_entries: 4
 Finish: 2024-06-26 12:38:38.494226
+------------------------------------------------------
+Started: 2024-06-27 01:14:08.518806
+Existing_entries: 153
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [Permis de conduire: pourquoi est-il si difficile de l'obtenir à Paris et dans les grandes villes?](https://www.bfmtv.com/auto/permis-de-conduire-pourquoi-est-il-si-difficile-de-l-obtenir-a-paris-et-dans-les-grandes-villes_VN-202406261007.html)
+append_entries: 1
+Finish: 2024-06-27 01:14:12.378947

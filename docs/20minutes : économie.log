@@ -1256,3 +1256,18 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts 2024 : Attention, c’est le dernier jour pour modifier votre déclaration](https://www.20minutes.fr/economie/4098161-20240626-impots-2024-attention-dernier-jour-modifier-declaration)
 append_entries: 2
 Finish: 2024-06-26 12:37:11.225087
+------------------------------------------------------
+Started: 2024-06-27 01:13:09.521911
+Existing_entries: 194
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : L’immigration rapporte 10 milliards par an ? « Un argument correct mais mal contextualisé »](https://www.20minutes.fr/politique/4098237-20240626-legislatives-2024-immigration-rapporte-10-milliards-an-argument-correct-mal-contextualise)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : La décision de Macron de dissoudre l’Assemblée a plongé la France « dans une crise sans précédent »](https://www.20minutes.fr/politique/4098249-20240626-legislatives-2024-decision-macron-dissoudre-assemblee-plonge-france-crise-precedent)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : Onepoint abandonne Atos, qui l’avait choisi comme repreneur, laissant la place à Daniel Kretinsky](https://www.20minutes.fr/economie/4098225-20240626-jo-paris-2024-onepoint-abandonne-atos-choisi-comme-repreneur-laissant-place-daniel-kretinsky)
+append_entries: 3
+Finish: 2024-06-27 01:13:22.605784

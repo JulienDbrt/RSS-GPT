@@ -1327,3 +1327,9 @@ Summarized using GPT-3.5-turbo
 Append: [Pourquoi Airbus revoit à la baisse ses prévisions de livraison en 2024, malgré un succès qui ne se dément pas](https://www.europe1.fr/economie/pourquoi-airbus-revoit-a-la-baisse-ses-previsions-de-livraison-en-2024-malgre-un-succes-qui-ne-se-dement-pas-4254825)
 append_entries: 5
 Finish: 2024-06-26 12:41:52.663314
+------------------------------------------------------
+Started: 2024-06-27 01:16:04.249024
+Existing_entries: 219
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-06-27 01:16:04.624714

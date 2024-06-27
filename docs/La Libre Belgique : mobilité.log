@@ -1061,3 +1061,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les sorties "Wavre" sur l'E411 fermée du 28 au 30 juin vers Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/06/26/les-sorties-wavre-sur-le411-fermee-du-28-au-30-juin-vers-bruxelles-OKTQHBHWY5GBZNYO5IJ4OU3PSI/)
 append_entries: 1
 Finish: 2024-06-26 12:46:59.304839
+------------------------------------------------------
+Started: 2024-06-27 01:20:52.498837
+Existing_entries: 155
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-06-27 01:20:53.020832

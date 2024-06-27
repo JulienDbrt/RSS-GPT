@@ -1481,3 +1481,9 @@ Summarized using GPT-3.5-turbo
 Append: [En Equateur, le cacao à prix d'or ravit les producteurs mais attire les criminels](https://www.martinique.franceantilles.fr/actualite/economie/en-equateur-le-cacao-a-prix-dor-ravit-les-producteurs-mais-attire-les-criminels-992723.php)
 append_entries: 5
 Finish: 2024-06-26 12:42:16.768390
+------------------------------------------------------
+Started: 2024-06-27 01:16:04.769504
+Existing_entries: 289
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-06-27 01:16:05.703002

@@ -1501,3 +1501,15 @@ Existing_entries: 279
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-06-26 12:46:18.857406
+------------------------------------------------------
+Started: 2024-06-27 01:20:14.662454
+Existing_entries: 279
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi à cause d’une aberration administrative, le projet de pôle d’échanges multimodal se fera en deux temps](https://www.ladepeche.fr/2024/06/26/pourquoi-a-cause-dune-aberration-administrative-le-projet-de-pole-multimodale-est-revu-a-la-baisse-12042168.php)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: ["La bagnole, moi je l’adore" : 76 % des Français prendront leur voiture pour partir en vacances cet été selon l’Ifop](https://www.ladepeche.fr/2024/06/26/la-bagnole-moi-je-ladore-76-des-francais-prendront-leur-voiture-pour-partir-en-vacances-cet-ete-selon-lifop-12042401.php)
+append_entries: 2
+Finish: 2024-06-27 01:20:21.099020

@@ -1320,3 +1320,21 @@ Summarized using GPT-3.5-turbo
 Append: ["Ils ont fait plier les gros magnats de la viande". Fin de la grève à l'abattoir de Limoges](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/ils-ont-fait-plier-les-gros-magnats-de-la-viande-fin-de-la-greve-a-l-abattoir-de-limoges-2993435.html)
 append_entries: 3
 Finish: 2024-06-26 12:44:14.483709
+------------------------------------------------------
+Started: 2024-06-27 01:18:04.308355
+Existing_entries: 222
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Travail dissimulé, "circuits financiers occultes" : une entreprise de sécurité mise en cause pour des fraudes entre Limoges et la Bretagne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/travail-dissimule-circuits-financiers-occultes-une-entreprise-de-securite-mise-en-cause-pour-des-fraudes-entre-limoges-et-la-bretagne-2993738.html)
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: [École : les professeurs sur liste complémentaire réclament leur titularisation, "on ne sait pas de quoi demain sera fait"](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/ecole-les-professeurs-sur-liste-complementaire-reclament-leur-titularisation-on-ne-sait-pas-de-quoi-demain-sera-fait-2993957.html)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Dans l’industrie verte, près de 180 mille emplois seraient menacés par une arrivée du Rassemblement National au pouvoir](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/dans-l-industrie-verte-pres-de-180-mille-emplois-seraient-menaces-par-une-arrivee-du-rassemblement-national-au-pouvoir-2993459.html)
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: ["C'est donnant-donnant" : 25 heures de volontariat en échange d'une aide au BAFA](https://france3-regions.francetvinfo.fr/grand-est/aube/romilly-sur-seine-aube/c-est-donnant-donnant-25-heures-de-volontariat-en-echange-d-une-aide-au-bafa-2993954.html)
+append_entries: 4
+Finish: 2024-06-27 01:18:17.958606
