@@ -1513,3 +1513,15 @@ Summarized using GPT-3.5-turbo
 Append: ["La bagnole, moi je l’adore" : 76 % des Français prendront leur voiture pour partir en vacances cet été selon l’Ifop](https://www.ladepeche.fr/2024/06/26/la-bagnole-moi-je-ladore-76-des-francais-prendront-leur-voiture-pour-partir-en-vacances-cet-ete-selon-lifop-12042401.php)
 append_entries: 2
 Finish: 2024-06-27 01:20:21.099020
+------------------------------------------------------
+Started: 2024-06-27 12:45:03.128441
+Existing_entries: 281
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Karine Meininger, nouvelle chef de France Travail Occitanie](https://www.ladepeche.fr/2024/06/27/karine-meininger-nouvelle-chef-de-france-travail-occitanie-12043884.php)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Cazères. Le succès discret de la CAE Impulsions](https://www.ladepeche.fr/2024/06/27/le-succes-discret-de-la-cae-impulsions-12043750.php)
+append_entries: 2
+Finish: 2024-06-27 12:45:15.572217

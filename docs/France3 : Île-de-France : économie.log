@@ -1152,3 +1152,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Des camions passent à 60 km/h dans notre rue. Un jour, il pourrait y avoir un drame", des riverains excédés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/des-camions-passent-a-60-km-h-dans-notre-rue-un-jour-il-pourrait-y-avoir-un-drame-des-riverains-excedes-2993975.html)
 append_entries: 1
 Finish: 2024-06-27 01:17:38.969326
+------------------------------------------------------
+Started: 2024-06-27 12:41:13.314156
+Existing_entries: 164
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [Train vide, train bondé ? Comment choisir sa place dans le RER ? L'intelligence artificielle au service des voyageurs](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/train-vide-train-bonde-comment-choisir-sa-place-dans-le-rer-l-intelligence-artificielle-au-service-des-voyageurs-2994329.html)
+append_entries: 1
+Finish: 2024-06-27 12:41:18.006937

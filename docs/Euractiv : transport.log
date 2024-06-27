@@ -812,3 +812,12 @@ Existing_entries: 64
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-06-27 01:16:03.286953
+------------------------------------------------------
+Started: 2024-06-27 12:39:02.796702
+Existing_entries: 64
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Le détail de l’agenda hongrois pour les Conseils Environnement, Énergie et Transport](https://www.euractiv.fr/section/energie-climat/news/fuites-le-detail-de-lagenda-hongrois-pour-les-conseils-environnement-energie-et-transport/)
+append_entries: 1
+Finish: 2024-06-27 12:39:08.154594

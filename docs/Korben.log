@@ -1306,3 +1306,15 @@ Existing_entries: 204
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-06-27 01:11:37.388927
+------------------------------------------------------
+Started: 2024-06-27 12:33:35.792185
+Existing_entries: 204
+Fetching from https://korben.info/feed
+Token length: 3196
+Summarized using GPT-3.5-turbo
+Append: [Les outils de crise indispensables pour Linux](https://korben.info/outils-crise-linux-indispensables-pros-it.html)
+Token length: 5610
+Summarized using GPT-3.5-turbo
+Append: [Les scams VPN les plus fréquents](https://korben.info/scams-vpn.html)
+append_entries: 2
+Finish: 2024-06-27 12:33:51.091705

@@ -1333,3 +1333,9 @@ Summarized using GPT-3.5-turbo
 Append: [Martin Schlegel est le nouveau directeur général de la BNS](https://www.20min.ch/fr/story/suisse-martin-schlegel-est-le-nouveau-directeur-general-de-la-bns-103136470)
 append_entries: 4
 Finish: 2024-06-27 01:13:09.421274
+------------------------------------------------------
+Started: 2024-06-27 12:35:37.068847
+Existing_entries: 251
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-06-27 12:35:37.965583

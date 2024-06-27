@@ -1067,3 +1067,15 @@ Existing_entries: 155
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-06-27 01:20:53.020832
+------------------------------------------------------
+Started: 2024-06-27 12:46:01.915178
+Existing_entries: 155
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [Le “Train des trois pays” sera sur les rails ce dimanche](https://www.lalibre.be/belgique/mobilite/2024/06/27/le-train-des-trois-pays-sera-sur-les-rails-ce-dimanche-CLI7FTH5NREBBOGHUBAWHD7LQ4/)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Des perturbations sur le ring intérieur en raison de la réparation du revêtement](https://www.lalibre.be/belgique/mobilite/2024/06/27/embarras-de-circulation-deux-voies-de-circulation-fermees-sur-le-ring-interieur-a-hauteur-de-zaventem-JQV5WIIJP5GNRGWPP3PH5J4JIM/)
+append_entries: 2
+Finish: 2024-06-27 12:46:12.240796

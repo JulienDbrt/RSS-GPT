@@ -940,3 +940,12 @@ Summarized using GPT-3.5-turbo
 Append: [Grève au CHU de Martinique : "l'attente aux urgences est souvent interminable"](https://la1ere.francetvinfo.fr/martinique/greve-au-chu-de-martinique-l-attente-aux-urgences-est-souvent-interminable-1500512.html)
 append_entries: 1
 Finish: 2024-06-27 01:19:38.664782
+------------------------------------------------------
+Started: 2024-06-27 12:43:58.902907
+Existing_entries: 80
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 41
+Summarized using GPT-3.5-turbo
+Append: [Les "bourses talents" 2024-2025, ouvertes aux martiniquais souhaitant accéder à la fonction publique](https://la1ere.francetvinfo.fr/martinique/les-bourses-talents-2024-2025-ouvertes-aux-martiniquais-souhaitant-acceder-a-la-fonction-publique-1499498.html)
+append_entries: 1
+Finish: 2024-06-27 12:44:06.196609

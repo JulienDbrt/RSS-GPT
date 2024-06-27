@@ -1338,3 +1338,18 @@ Summarized using GPT-3.5-turbo
 Append: ["C'est donnant-donnant" : 25 heures de volontariat en échange d'une aide au BAFA](https://france3-regions.francetvinfo.fr/grand-est/aube/romilly-sur-seine-aube/c-est-donnant-donnant-25-heures-de-volontariat-en-echange-d-une-aide-au-bafa-2993954.html)
 append_entries: 4
 Finish: 2024-06-27 01:18:17.958606
+------------------------------------------------------
+Started: 2024-06-27 12:41:51.938812
+Existing_entries: 226
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [Professeurs des écoles : les candidats en liste complémentaire veulent enseigner](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/professeurs-des-ecoles-les-candidats-en-liste-complementaire-veulent-enseigner-2994368.html)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: ["Perdre ce savoir-faire historique est une catastrophe" : qui formera désormais les plongeurs professionnels après la disparition de l'INPP ?](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/perdre-ce-savoir-faire-historique-est-une-catastrophe-qui-formera-desormais-les-plongeurs-professionnels-apres-la-disparition-de-l-inpp-2992268.html)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [L'ambroisie, espèce nuisible, invasive et allergisante que l'on peine à endiguer](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente/angouleme/l-ambroisie-espece-nuisible-invasive-et-allergisante-que-l-on-peine-a-endiguer-2992994.html)
+append_entries: 3
+Finish: 2024-06-27 12:42:03.762476

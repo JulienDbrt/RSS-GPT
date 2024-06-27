@@ -1048,3 +1048,9 @@ Summarized using GPT-3.5-turbo
 Append: [Des vins québécois font leur place chez Costco](https://www.journaldemontreal.com/2024/06/25/des-vins-quebecois-font-leur-place-chez-costco)
 append_entries: 3
 Finish: 2024-06-27 01:18:42.980722
+------------------------------------------------------
+Started: 2024-06-27 12:42:41.559871
+Existing_entries: 118
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-06-27 12:42:42.118569

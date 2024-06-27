@@ -1001,3 +1001,12 @@ Summarized using GPT-3.5-turbo
 Append: [Un arrêt de la Cour de justice de l’UE jette une ombre sur la plus grande aciérie d’Europe](https://www.euractiv.fr/section/economie/news/un-arret-de-la-cour-de-justice-de-lue-jette-une-ombre-sur-la-plus-grande-acierie-deurope/)
 append_entries: 1
 Finish: 2024-06-27 01:16:02.561661
+------------------------------------------------------
+Started: 2024-06-27 12:38:55.984436
+Existing_entries: 127
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [L’Allemagne demande à la prochaine Commission de se concentrer sur les accords de libre-échange limités](https://www.euractiv.fr/section/economie/news/lallemagne-demande-a-la-prochaine-commission-de-se-concentrer-sur-les-accords-de-libre-echange-limites/)
+append_entries: 1
+Finish: 2024-06-27 12:39:02.767992

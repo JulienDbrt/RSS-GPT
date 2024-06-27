@@ -999,3 +999,15 @@ Summarized using GPT-3.5-turbo
 Append: [VIDÉO. Après les manifestations d'agriculteurs près de Guingamp, la facture de nettoyage de ce rond-point s'envole](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/video-apres-les-manifestations-d-agriculteurs-pres-de-guingamp-la-facture-de-nettoyage-de-ce-rond-point-s-envole-2994194.html)
 append_entries: 1
 Finish: 2024-06-27 01:18:04.191106
+------------------------------------------------------
+Started: 2024-06-27 12:41:40.660495
+Existing_entries: 113
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: ["Tout le monde a tapé dedans", de "l'invasion" à la raréfaction, le poulpe va être partiellement protégé de la surpêche](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/tout-le-monde-a-tape-dedans-de-l-invasion-a-la-rarefaction-le-poulpe-va-etre-partiellement-protege-de-la-surpeche-2994266.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: ["Ou bien on arrête tout, ou bien on se pend dans un frigo", à Quintin, les propriétaires de l’abattoir mettent la clé sous la porte](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/ou-bien-on-arrete-tout-ou-bien-on-se-pend-dans-un-frigo-a-quintin-les-proprietaires-de-l-abattoir-mettent-la-cle-sous-la-porte-2993945.html)
+append_entries: 2
+Finish: 2024-06-27 12:41:51.820635

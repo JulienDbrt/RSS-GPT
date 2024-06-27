@@ -1271,3 +1271,15 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : Onepoint abandonne Atos, qui l’avait choisi comme repreneur, laissant la place à Daniel Kretinsky](https://www.20minutes.fr/economie/4098225-20240626-jo-paris-2024-onepoint-abandonne-atos-choisi-comme-repreneur-laissant-place-daniel-kretinsky)
 append_entries: 3
 Finish: 2024-06-27 01:13:22.605784
+------------------------------------------------------
+Started: 2024-06-27 12:35:38.070782
+Existing_entries: 197
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : La France a-t-elle connu la plus forte baisse du pouvoir d’achat de ces quarante dernières années ?](https://www.20minutes.fr/economie/4098224-20240627-legislatives-2024-france-connu-plus-forte-baisse-pouvoir-achat-quarante-dernieres-annees)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [« Nous avons 3 milliards d’euros de recettes excédentaires » par rapport aux prévisions, assure Bruno Le Maire](https://www.20minutes.fr/economie/4098387-20240627-3-milliards-euros-recettes-excedentaires-rapport-previsions-assure-bruno-maire)
+append_entries: 2
+Finish: 2024-06-27 12:35:46.705559

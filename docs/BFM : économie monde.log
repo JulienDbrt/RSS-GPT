@@ -1068,3 +1068,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'Espagne supprime la TVA sur l'huile d'olive face à l'envolée des prix](https://www.bfmtv.com/economie/international/l-espagne-supprime-la-tva-sur-l-huile-d-olive-face-a-l-envolee-des-prix_AD-202406260631.html)
 append_entries: 1
 Finish: 2024-06-27 01:13:59.357094
+------------------------------------------------------
+Started: 2024-06-27 12:36:36.452718
+Existing_entries: 136
+Fetching from https://www.bfmtv.com/rss/economie/international/
+append_entries: 0
+Finish: 2024-06-27 12:36:36.561931

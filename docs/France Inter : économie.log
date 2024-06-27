@@ -1340,3 +1340,18 @@ Existing_entries: 220
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-06-27 01:16:56.970429
+------------------------------------------------------
+Started: 2024-06-27 12:40:22.169969
+Existing_entries: 220
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [L'Edito Eco du jeudi 27 juin 2024](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-jeudi-27-juin-2024-4514261)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Exclusif : plus de fermetures d'usines que d'ouvertures](https://www.radiofrance.fr/franceinter/podcasts/histoires-economiques/histoires-economiques-du-jeudi-27-juin-2024-7147550)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Un nouveau chapitre pour des livres oubliés](https://www.radiofrance.fr/franceinter/podcasts/l-esprit-d-initiative/esprit-d-initiative-du-jeudi-27-juin-2024-4188431)
+append_entries: 3
+Finish: 2024-06-27 12:40:34.092583

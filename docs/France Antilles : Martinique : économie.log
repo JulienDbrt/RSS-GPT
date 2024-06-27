@@ -1487,3 +1487,15 @@ Existing_entries: 289
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-06-27 01:16:05.703002
+------------------------------------------------------
+Started: 2024-06-27 12:39:16.823951
+Existing_entries: 289
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [En Ouzbékistan, la relance de l'industrie de la soie](https://www.martinique.franceantilles.fr/actualite/economie/en-ouzbekistan-la-relance-de-lindustrie-de-la-soie-992922.php)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [La filière canne-sucre-rhum  appelle à l'unité du monde agricole](https://www.martinique.franceantilles.fr/actualite/economie/la-filiere-canne-sucre-rhum-appelle-a-lunite-du-monde-agricole-992883.php)
+append_entries: 2
+Finish: 2024-06-27 12:39:25.505961

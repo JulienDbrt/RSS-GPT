@@ -839,3 +839,15 @@ Summarized using GPT-3.5-turbo
 Append: [Aviation : Airbus annonce des retards de livraison](https://www.francetvinfo.fr/economie/industrie/aviation-airbus-annonce-des-retards-de-livraison_6627900.html)
 append_entries: 1
 Finish: 2024-06-27 01:16:47.034221
+------------------------------------------------------
+Started: 2024-06-27 12:40:03.165001
+Existing_entries: 53
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Aviation : Airbus revoit ses objectifs de production à la baisse](https://www.francetvinfo.fr/economie/aeronautique/aviation-airbus-revoit-ses-objectifs-de-production-a-la-baisse_6629127.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: ["Les murs tremblent" : les impressionnantes répétitions d'un spectacle aérien au-dessus du château de Versailles surprennent les habitants](https://www.francetvinfo.fr/economie/aeronautique/les-murs-tremblent-les-impressionnantes-repetitions-d-un-spectacle-aerien-au-dessus-du-chateau-de-versailles-surprend-les-habitants_6629007.html)
+append_entries: 2
+Finish: 2024-06-27 12:40:17.158320

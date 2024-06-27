@@ -4,6 +4,251 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Les outils de crise indispensables pour Linux</title>
+<link>https://korben.info/outils-crise-linux-indispensables-pros-it.html</link>
+<guid>https://korben.info/outils-crise-linux-indispensables-pros-it.html</guid>
+<content:encoded><![CDATA[
+<div> ps, vmstat, top, perf, bpftrace
+Étape 1 : Installer les packages de base
+Étape 2 : Ajouter les outils réseaux
+Étape 3 : Outils de profilage et de traçage
+Étape 4 (optionnelle) : Outils spécifiques au matériel
+
+Summary: 
+Pour gérer efficacement les crises sur des serveurs Linux, il est essentiel d'avoir les bons outils à disposition. Les outils de base tels que ps, vmstat, top sont indispensables pour obtenir rapidement des informations sur ce qui ne fonctionne pas correctement. Pour une analyse approfondie, l'utilisation d'outils de tracing tels que perf et bpftrace est recommandée. Il est également utile d'ajouter des outils réseau comme tcpdump et des outils spécifiques au matériel. En installant ces outils en amont, vous serez prêt à affronter toute crise sans perte de temps précieux. Prévenir les problèmes vaut mieux que les résoudre, alors assurez-vous d'avoir ces outils essentiels prêts à l'emploi sur vos machines Linux. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Linux_Crisis_Center_87dfbc6e-d17a-4fa9-ba7f-1eb75de88f44.webp" width="1456" /></p>
+<p>Aujourd&rsquo;hui, on va causer d&rsquo;un sujet qui nous tient tous à cœur (du moins je l&rsquo;espère 😅) : <strong>les outils de crise sous Linux</strong> ! Parce que quand ça part en sucette et que les serveurs rament, pas question de perdre un temps précieux. C&rsquo;est que souvent, quand la caca-strophe pointe le bout de son nez, vous vous rendez compte que vous n&rsquo;avez pas les bons outils installés. Et là, c&rsquo;est le drame&#8230; SSH qui rame, les serveurs qui répondent plus, les paquets qui veulent pas s&rsquo;installer, le firewall qui fait des siennes&#8230; Un vrai calvaire !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1220115386" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors, quels sont ces fameux outils qu&rsquo;il est impératif d&rsquo;avoir sous la main quand le caca touche le ventilo ? Je dirais que y a déjà les <strong>classiques</strong> comme <code>ps</code>, <code>vmstat</code>, <code>top</code> et compagnie pour avoir un aperçu rapide de ce qui cloche. Rien que ça, ça peut déjà vous sauver les miches.</p>
+
+
+
+<p>Mais si vous voulez jouer dans la cour des grands, va falloir sortir l&rsquo;artillerie lourde. Je parle bien sûr des outils de <strong>tracing</strong> comme <code>perf</code>, <code>bpftrace</code>, <code>opensnoop</code>, <code>execsnoop</code> et toute la clique. Ça vous permettra de tracer en live ce qui se passe sur votre système, de débusquer les coupables et de mettre fin au carnage. Le top du top !</p>
+
+
+
+<p>Voici comment procéder à grand coups d&rsquo;apt install&#8230;</p>
+
+
+
+<h2 class="wp-block-heading">Étape 1 : Installer les packages de base</h2>
+
+
+
+<ul>
+<li>procps : fournit ps, vmstat, uptime, top pour les stats de base</li>
+
+
+
+<li>util-linux : dmesg, lsblk, lscpu pour les logs systèmes et infos matérielles</li>
+
+
+
+<li>sysstat : iostat, mpstat, pidstat, sar pour les stats disques/CPU</li>
+
+
+
+<li>iproute2 : ip, ss, nstat, tc, les outils réseau recommandés</li>
+
+
+
+<li>numactl : numastat pour les stats NUMA </li>
+</ul>
+
+
+
+<p>Commande : <strong>sudo apt install procps util-linux sysstat iproute2 numactl</strong></p>
+
+
+
+<h2 class="wp-block-heading">Étape 2 : Ajouter les outils réseaux</h2>
+
+
+
+<ul>
+<li>tcpdump : sniffer réseau</li>
+
+
+
+<li>nicstat : stats interfaces réseau</li>
+
+
+
+<li>ethtool : infos interfaces </li>
+</ul>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-756074004" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Commande : <strong>sudo apt install tcpdump nicstat ethtool</strong></p>
+
+
+
+<h2 class="wp-block-heading">Étape 3 : Outils de profilage et de traçage</h2>
+
+
+
+<ul>
+<li>linux-tools-common et linux-tools-$(uname -r) : perf, turbostat</li>
+
+
+
+<li>bpfcc-tools (ou bcc) : une suite d&rsquo;outils eBPF puissants</li>
+
+
+
+<li>bpftrace : un outil de scripting eBPF dynamique</li>
+
+
+
+<li>trace-cmd : outil en ligne de commande pour ftrace </li>
+</ul>
+
+
+
+<p>Commande : <strong>sudo apt install linux-tools-common linux-tools-$(uname -r) bpfcc-tools bpftrace trace-cmd</strong></p>
+
+
+
+<h2 class="wp-block-heading">Étape 4 (optionnelle) : Outils spécifiques au matériel</h2>
+
+
+
+<p>Selon vos serveurs, installez les outils d&rsquo;analyse pour :</p>
+
+
+
+<ul>
+<li>GPU Intel : intel-gpu-tools</li>
+
+
+
+<li>GPU NVIDIA : nvidia-smi</li>
+
+
+
+<li>Autres accélérateurs éventuels</li>
+</ul>
+
+
+
+<p>Par contre, méfiez-vous, c&rsquo;est pas donné à tout le monde de dompter ces bêtes-là. Ça demande un peu de bouteille et de la jugeote. Mais une fois que vous les maîtrisez, vous serez parés pour affronter les pires galères. Les <strong>plantages</strong> intempestifs, les <strong>I/O</strong> de l&rsquo;enfer, les <strong>fuites mémoire</strong> vicieuses&#8230; plus rien ne vous résistera !</p>
+
+
+
+<p>Bref, croyez-moi, le mieux c&rsquo;est d&rsquo;avoir <strong>tout ce bazar installé d&rsquo;office</strong> sur vos machines. Comme ça, pas de mauvaise surprise le jour J. Évidemment, ça a un petit coût en espace disque. Mais franchement, c&rsquo;est que dalle comparé au temps que vous allez perdre à galérer pour installer tout ça en pleine crise.</p>
+
+
+
+<p>Sur ce, je vous laisse méditer là-dessus. Et n&rsquo;oubliez pas, dans le monde merveilleux de l&rsquo;informatique, il vaut mieux prévenir que guérir ! Allez, à plus les linuxiens et un grand merci à <a href="https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html" rel="noopener" target="_blank">Brendan Gregg pour son article éclairant à ce sujet</a>.</p>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Les scams VPN les plus fréquents</title>
+<link>https://korben.info/scams-vpn.html</link>
+<guid>https://korben.info/scams-vpn.html</guid>
+<content:encoded><![CDATA[
+<div> abonnements, infos perso, malwares, sécurité, Surfshark VPN
+<br>
+Summary:<br>
+Les arnaques les plus courantes des VPN en 2024 incluent les abonnements à vie qui peuvent ne pas être durables, les demandes excessives d'informations personnelles, les risques de malware, la nécessité de protéger ses données, et les pratiques frauduleuses telles que la revente de comptes. Pour se protéger, il est recommandé de se renseigner sur le service, de vérifier l'URL du site officiel, d'éviter les annonces suspectes, de maintenir ses outils de sécurité à jour, et de rester vigilant face aux offres trop alléchantes. En choisissant un service fiable et sécurisé tel que Surfshark VPN, les utilisateurs peuvent bénéficier de la tranquillité d'esprit grâce à des années d'expérience, des audits réguliers, un système de paiement en crypto, des fonctionnalités de sécurité avancées, et une offre attractive à prix abordable. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="373" src="https://korben.info/app/uploads/2024/03/incogni-scams-potentiels.webp" width="800" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">avec Surfshark</a> &#8212;</p>
+
+
+
+<p>Woaw, écrire un article sur les scams utilisés par les VPN en 2024, en partenariat avec une boite VPN ? Et ouais, on n’a peur de rien ici. Ni de ma part, ni de celle de Surfshark VPN qui n&rsquo;est pas le dernier à mettre les pieds dans l&rsquo;assiette. Pour preuve, les nombreux articles sur leur site dans lesquels ils se comparent de manière frontale aux autres acteurs du milieu. Ou leurs campagnes de guérilla marketing &#8230;&nbsp;genre payer un gars pour faire ses besoins <a href="https://surfshark.com/blog/transparent-loo" rel="noreferrer noopener" target="_blank">devant le public</a> afin d&rsquo;attirer l&rsquo;attention sur le respect de la vie privée.</p>
+
+
+
+<p>Si vous vous demandiez pourquoi la mascotte du service est un requin, vous savez : ça mord. Pour en revenir aux arnaques les plus fréquentes, elles touchent plusieurs aspects qui vont du mensonge sur le service proposé, aux frais cachés en passant par le non-respect de la confidentialité. On va détailler un peu tout ça.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="271" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlpemU5YzFyd3hxdmE1MnFvanphNXJjbGRmYW5kcjl6dXoyNDk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJTOPhiW3Yv4ahon1H/giphy.gif" width="480" /></figure></div>
+
+
+<h4 class="wp-block-heading">Les abonnements à vie</h4>
+
+
+
+<p>Un grand classique (pas uniquement des VPN d&rsquo;ailleurs). On vous propose de payer un prix fixe et ensuite vous êtes tranquille. Prix qui s&rsquo;avère souvent très intéressant, mais pas pour autant négligeable puisqu&rsquo;il est censé vous couvrir à vie. Sauf qu&rsquo;un VPN ce n&rsquo;est pas la même chose qu&rsquo;un logiciel que vous allez télécharger et qui sera installé en local sur votre machine. Au pire si l&rsquo;abonnement à vie disparait, et ses mises à jour avec, vous pouvez encore utiliser l&rsquo;outil tel quel.</p>
+
+
+
+<p>Pour le VPN c&rsquo;est très différent puisqu&rsquo;il ne pourra plus accéder aux serveurs &amp; co. À votre avis, que se passera-t-il le jour ou votre VPN « à vie »&nbsp;doit payer&nbsp;plus cher en frais d&rsquo;utilisation/maintenance qu&rsquo;il ne rentre d&rsquo;argent venant de nouveaux clients ? Pouf, un coup de baguette magique et il disparaitra. Retenez que « abonnement à vie » veut dire « abonnement de la durée de vie du service » &#8230; qui peut s&rsquo;arrêter n&rsquo;importe quand.</p>
+
+
+
+<h4 class="wp-block-heading">Trop d&rsquo;infos perso</h4>
+
+
+
+<p>Un VPN qui vous demande trop d&rsquo;informations personnelles devrait vous alerter. S&rsquo;il est légitime de devoir fournir certaines infos (adresse mail, etc.) d&rsquo;autres sont complètement inutiles. Par exemple votre adresse physique ou votre numéro de téléphone n&rsquo;ont pas à vous être demandé. Dans le cas de vos informations bancaires &#8230; difficile de ne pas les récupérer pour eux puisque vous devez bien payer à un moment.</p>
+
+
+
+<p>Heureusement, une option de paiement par cryptomonnaie (que Surfshark propose) est le plus souvent présente, ce qui vous permet d&rsquo;avoir une couche de sécurité supplémentaire. Le VPN ne peut alors pas lier directement votre abonnement à un nom ou des coordonées bancaires.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="287" src="https://kbn.im/surfshark5" width="750" /></figure></div>
+
+
+<p>Récupérer vos données peut aussi être un signe que le VPN marchande vos infos avec des tiers (genre data brokers). C&rsquo;est quasi 100% du temps le cas avec les VPN gratuits, mais ne pensez pas que payer un abonnement vous en&nbsp;prémunit. D&rsquo;où l&rsquo;intérêt d&rsquo;opter pour un service qui est audité régulièrement par des organismes indépendants. Là encore Surfshark n&rsquo;a jamais été pris en défaut concernant sa politique de non-conservation des logs.</p>
+
+
+
+<h4 class="wp-block-heading">Malwares &amp; Co</h4>
+
+
+
+<p>Il arrive que le service VPN qui vous est proposé ne soit pas aussi sain qu&rsquo;il y parait. Et qu&rsquo;en téléchargeant l&rsquo;outil, vous preniez avec lui un malware ou autre cochonnerie. Si vous pensez que cela ne doit concerner qu&rsquo;un petit nombre d&rsquo;applications, vous vous trompez. Une étude de CSIROscope (datée de 2017) montrait que sur presque 300 applis de&nbsp;VPN gratuits sur Android, prêt de 40% étaient contaminées.</p>
+
+
+
+<p>On a aussi le cas de la revente de comptes ou les faux VPN qui copient au plus proche&nbsp;des applications légitimes afin de leurrer les internautes. Dans les 2 cas, l&rsquo;objectif est de récupérer vos données, voire vos coordonnées bancaires. Idem pour les VPN censés chiffrer vos données alors qu&rsquo;elles sont surveillées et enregistrées en clair sur leurs serveurs.</p>
+
+
+
+<p>Je passe sur les fraudes habituelles que l&rsquo;on rencontre dans d&rsquo;autres domaines : paiement sans recevoir le service, frais cachés, prix de l&rsquo;abonnement qui varie, retrait automatique sur votre compte, faux&nbsp;témoignages sur les plateformes d&rsquo;avis, remboursement qui ne se fait jamais, etc. Vous l&rsquo;avez compris, les arnaques sont nombreuses.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdlbzhvaThqNHh3ZDA4ZGxrb2F2Y2owZDd1dXpzYjNybzhmZ3NoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ocGyku9sDKmvZ8MCl7/giphy.gif" width="498" /></figure></div>
+
+
+<h4 class="wp-block-heading">Alors, comment faire pour s&rsquo;en protéger ?</h4>
+
+
+
+<p>Déjà, renseignez-vous un peu partout avant de passer à l&rsquo;action, voyez ce que les gens en disent dans les stores d&rsquo;applis, sur des plateformes comme&nbsp;Trustpilot &amp; Co. Cherchez à savoir si le VPN a connu des failles de sécu ou des critiques par le passé, etc. Ensuite, ne prenez votre abonnement que depuis&nbsp;le site officiel et vérifiez bien que l&rsquo;URL est la bonne (sans typos, etc.).</p>
+
+
+
+<p>Si vous passez par Google, faites attention à ne pas cliquer par habitude sur le 1er lien (qui pourrait être une annonce renvoyant vers un site tiers ou du phishing). Ayez des outils de sécu à jour (antivirus &amp; Co), cela pourrait vous éviter de télécharger un fichier infecté. Et réfléchissez à 2 fois si l&rsquo;offre vous parait trop alléchante.</p>
+
+
+
+<p><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Avec Surfshark VPN</a>, vous pouvez y aller les yeux fermés, ils ont toutes les assurances nécessaires. Existe depuis des années, des centaines d&rsquo;avis un peu partout sur le web, un système d&rsquo;abonnement simple, audité plusieurs fois par des boites comme Deloitte, etc. C&rsquo;est d&rsquo;ailleurs pour cela que je vous le recommande depuis longtemps. Vous pouvez aussi profiter du paiement en crypto (pour la raison citée plus haut).</p>
+
+
+
+<p>À l&rsquo;heure où j&rsquo;écris ces lignes, vous pouvez bénéficier d&rsquo;une offre à 87€ TTC pour 27 mois d&rsquo;utilisation, soit moins de 3.25€/mois.&nbsp;Ce qui comprend&nbsp;non seulement le VPN, mais aussi les différents outils de sécurité comme l&rsquo;<a href="https://korben.info/surfshark-antivirus-menaces.html">antivirus Surfshark</a>, la création d&rsquo;identités alternatives, les alertes, un moteur de recherche privé ou encore le surf sans publicités ni traqueurs.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Évitez les scams, prenez un VPN sûr avec Surfshark !</a></h2>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 05:07:38 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 05:07:38 +0000</pubDate>
+</item>
 
 <item>
 <title>Swizzin – Une seedbox pour Ubuntu et Debian</title>

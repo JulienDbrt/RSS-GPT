@@ -1346,3 +1346,15 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : plusieurs syndicats menacent d'une grève dans les aéroports parisiens à l’approche des Jeux olympiques](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-plusieurs-syndicats-menacent-d-une-greve-dans-les-aeroports-parisiens-a-l-approche-des-jeux-olympiques_6627729.html)
 append_entries: 2
 Finish: 2024-06-27 01:16:56.535853
+------------------------------------------------------
+Started: 2024-06-27 12:40:18.269987
+Existing_entries: 222
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Le train de nuit Paris-Berlin bientôt suspendu pendant deux mois et demi pour travaux](https://www.francetvinfo.fr/economie/transports/le-train-de-nuit-paris-berlin-bientot-suspendu-pendant-deux-mois-et-demi-pour-travaux-annonce-la-sncf_6629424.html)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Comment le Rassemblement national entend financer son programme économique](https://www.francetvinfo.fr/elections/legislatives/legislatives-2024-comment-le-rassemblement-national-entend-financer-son-programme-economique_6627042.html)
+append_entries: 2
+Finish: 2024-06-27 12:40:22.057234
