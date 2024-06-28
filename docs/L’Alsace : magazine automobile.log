@@ -1140,3 +1140,12 @@ Summarized using GPT-3.5-turbo
 Append: [Essais Auto. Nissan Juke Hybride 143 : enfin la puissance qui lui manquait](https://www.lalsace.fr/magazine-automobile/2024/06/27/nissan-juke-hybride-143-enfin-la-puissance-qui-lui-manquait)
 append_entries: 2
 Finish: 2024-06-27 12:42:58.738163
+------------------------------------------------------
+Started: 2024-06-28 01:20:12.399425
+Existing_entries: 151
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [Nouveautés auto. DS 7 Vauban : la voiture blindée à la française !](https://www.lalsace.fr/magazine-automobile/2024/06/27/ds-7-vauban-la-voiture-blindee-a-la-francaise)
+append_entries: 1
+Finish: 2024-06-28 01:20:16.576846

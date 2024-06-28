@@ -2520,3 +2520,10 @@ Summarized using GPT-3.5-turbo
 Append: [136 balcons d'un immeuble, vieux de 10 ans, menacent de s'effondrer : "Comment ferons-nous pendant la canicule ?"](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/136-balcons-d-un-immeuble-vieux-de-10-ans-menacent-de-s-effondrer-comment-ferons-nous-pendant-la-canicule-2994254.html)
 append_entries: 4
 Finish: 2024-06-27 12:33:34.346386
+------------------------------------------------------
+Started: 2024-06-28 01:11:14.391714
+Existing_entries: 723
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Flipboard : immobilier

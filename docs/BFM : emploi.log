@@ -912,3 +912,9 @@ Summarized using GPT-3.5-turbo
 Append: [Est-il préférable de prendre ses vacances en une seule fois ou de les répartir sur l'année ?](https://www.bfmtv.com/economie/emploi/est-il-preferable-de-prendre-ses-vacances-en-une-seule-fois-ou-de-les-repartir-sur-l-annee_VN-202406270503.html)
 append_entries: 1
 Finish: 2024-06-27 12:37:01.562808
+------------------------------------------------------
+Started: 2024-06-28 01:15:25.808792
+Existing_entries: 82
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-06-28 01:15:26.398027

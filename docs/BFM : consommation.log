@@ -1044,3 +1044,15 @@ Summarized using GPT-3.5-turbo
 Append: [Paiement sans contact: les achats de plus de 50 euros sont désormais possibles](https://www.bfmtv.com/economie/consommation/paiement-sans-contact-les-achats-de-plus-de-50-euros-sont-desormais-possibles_AV-202406270344.html)
 append_entries: 1
 Finish: 2024-06-27 12:36:58.425466
+------------------------------------------------------
+Started: 2024-06-28 01:15:06.854661
+Existing_entries: 126
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi il n'y aura pas d'affichage "shrinkflation" dans les supermarchés Carrefour au 1er juillet](https://www.bfmtv.com/economie/consommation/pourquoi-il-n-y-aura-pas-d-affichage-shrinkflation-dans-les-supermarches-carrefour-au-1er-juillet_AV-202406270768.html)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [La consommation de viande par habitant a reculé de 5,8% en 20 ans en France](https://www.bfmtv.com/economie/consommation/la-consommation-de-viande-par-habitant-en-france-a-recule-de-5-8-en-20-ans_AD-202406270593.html)
+append_entries: 2
+Finish: 2024-06-28 01:15:13.641530

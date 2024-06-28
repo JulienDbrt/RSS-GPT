@@ -851,3 +851,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Les murs tremblent" : les impressionnantes répétitions d'un spectacle aérien au-dessus du château de Versailles surprennent les habitants](https://www.francetvinfo.fr/economie/aeronautique/les-murs-tremblent-les-impressionnantes-repetitions-d-un-spectacle-aerien-au-dessus-du-chateau-de-versailles-surprend-les-habitants_6629007.html)
 append_entries: 2
 Finish: 2024-06-27 12:40:17.158320
+------------------------------------------------------
+Started: 2024-06-28 01:17:59.226643
+Existing_entries: 55
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-06-28 01:17:59.333524

@@ -1283,3 +1283,18 @@ Summarized using GPT-3.5-turbo
 Append: [« Nous avons 3 milliards d’euros de recettes excédentaires » par rapport aux prévisions, assure Bruno Le Maire](https://www.20minutes.fr/economie/4098387-20240627-3-milliards-euros-recettes-excedentaires-rapport-previsions-assure-bruno-maire)
 append_entries: 2
 Finish: 2024-06-27 12:35:46.705559
+------------------------------------------------------
+Started: 2024-06-28 01:14:05.644602
+Existing_entries: 199
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : 80 % des salariés payés au Smic sont-ils des femmes, comme le dit Jean-Luc Mélenchon ? C’est inexact](https://www.20minutes.fr/politique/4098493-20240627-legislatives-2024-80-salaries-payes-smic-femmes-comme-dit-jean-luc-melenchon-inexact)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Kronenbourg donne un gros coup de « boost » à l’Anosteké, la bière nordiste qui va inonder l’Hexagone](https://www.20minutes.fr/consommation/4098477-20240627-coup-pouce-kronenbourg-booster-anosteke-biere-nordiste-va-inonder-hexagone)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [En difficultés financières, Caddie peut-il s’appuyer sur sa notoriété pour renflouer son panier ?](https://www.20minutes.fr/economie/4098373-20240627-difficultes-financieres-caddie-peut-appuyer-notoriete-renflouer-panier)
+append_entries: 3
+Finish: 2024-06-28 01:14:13.892921

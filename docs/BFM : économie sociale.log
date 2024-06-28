@@ -1368,3 +1368,18 @@ Summarized using GPT-3.5-turbo
 Append: [Bruno Le Maire: l'Etat a perçu "3 milliards d'euros de recettes excédentaires" par rapport aux prévisions](https://www.bfmtv.com/economie/economie-social/france/bruno-le-maire-l-etat-a-percu-3-milliards-d-euros-de-recettes-excedentaires-par-rapport-aux-previsions_AD-202406270111.html)
 append_entries: 2
 Finish: 2024-06-27 12:36:44.657565
+------------------------------------------------------
+Started: 2024-06-28 01:14:53.425503
+Existing_entries: 234
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [Le montant des retraites va-t-il baisser avec le NFP? Faure dénonce le "simulateur truqué" d’Attal](https://www.bfmtv.com/politique/elections/legislatives/le-montant-des-retraites-va-t-il-baisser-avec-le-nfp-faure-denonce-le-simulateur-truque-d-attal_AN-202406270981.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Législatives: le ministre allemand des Finances craint une "tragédie" budgétaire en France](https://www.bfmtv.com/economie/economie-social/union-europeenne/legislatives-le-ministre-allemand-des-finances-craint-une-tragedie-budgetaire-en-france_AD-202406270716.html)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Législatives: les petits patrons plus inquiets par une victoire du Nouveau Front populaire que du Rassemblement national](https://www.bfmtv.com/economie/economie-social/france/legislatives-les-petits-patrons-plus-inquiets-par-une-victoire-du-nouveau-front-populaire-que-du-rassemblement-national_AN-202406270616.html)
+append_entries: 3
+Finish: 2024-06-28 01:15:05.019167

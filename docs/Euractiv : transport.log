@@ -821,3 +821,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le détail de l’agenda hongrois pour les Conseils Environnement, Énergie et Transport](https://www.euractiv.fr/section/energie-climat/news/fuites-le-detail-de-lagenda-hongrois-pour-les-conseils-environnement-energie-et-transport/)
 append_entries: 1
 Finish: 2024-06-27 12:39:08.154594
+------------------------------------------------------
+Started: 2024-06-28 01:17:04.714029
+Existing_entries: 65
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [Moteurs à combustion : l’industrie automobile exhorte l’UE à ne pas revenir sur son interdiction](https://www.euractiv.fr/section/mobilite-du-futur/news/moteurs-a-combustion-lindustrie-automobile-exhorte-lue-a-ne-pas-revenir-sur-son-interdiction/)
+append_entries: 1
+Finish: 2024-06-28 01:17:09.391208

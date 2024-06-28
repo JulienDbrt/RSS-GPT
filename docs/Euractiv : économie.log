@@ -1010,3 +1010,12 @@ Summarized using GPT-3.5-turbo
 Append: [L’Allemagne demande à la prochaine Commission de se concentrer sur les accords de libre-échange limités](https://www.euractiv.fr/section/economie/news/lallemagne-demande-a-la-prochaine-commission-de-se-concentrer-sur-les-accords-de-libre-echange-limites/)
 append_entries: 1
 Finish: 2024-06-27 12:39:02.767992
+------------------------------------------------------
+Started: 2024-06-28 01:17:01.220816
+Existing_entries: 128
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Top jobs, visite de Zelensky, avenir de l’économie… ce qu’il faut attendre du sommet européen](https://www.euractiv.fr/section/politique/news/top-jobs-visite-de-zelensky-avenir-de-leconomie-ce-quil-faut-attendre-du-sommet-europeen/)
+append_entries: 1
+Finish: 2024-06-28 01:17:04.683863

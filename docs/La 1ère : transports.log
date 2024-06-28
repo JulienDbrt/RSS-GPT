@@ -1195,3 +1195,15 @@ Summarized using GPT-3.5-turbo
 Append: [Crise en Nouvelle-Calédonie. Le poids de l'enclavement de Wallis et Futuna](https://la1ere.francetvinfo.fr/wallisfutuna/transport-aerien-le-poids-de-l-enclavement-de-wallis-et-futuna-1500626.html)
 append_entries: 1
 Finish: 2024-06-27 12:44:09.953050
+------------------------------------------------------
+Started: 2024-06-28 01:20:44.580099
+Existing_entries: 163
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [L’Atlantic Jet de Val Ferry reprend du service et retrouve Marie-Galante après 8 mois d'inactivité](https://la1ere.francetvinfo.fr/guadeloupe/l-atlantic-jet-de-val-ferry-reprend-du-service-et-retrouve-marie-galante-apres-8-mois-d-inactivite-1500923.html)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [A Saint-Barthélemy, Air Antilles doit désormais faire face à la concurrence](https://la1ere.francetvinfo.fr/guadeloupe/saint-barthelemy/a-saint-barthelemy-air-antilles-doit-desormais-faire-face-a-la-concurrence-1500890.html)
+append_entries: 2
+Finish: 2024-06-28 01:20:50.668436

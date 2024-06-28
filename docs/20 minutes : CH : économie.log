@@ -1339,3 +1339,15 @@ Existing_entries: 251
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-06-27 12:35:37.965583
+------------------------------------------------------
+Started: 2024-06-28 01:13:57.886500
+Existing_entries: 251
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Des pourboires toujours plus maigres](https://www.20min.ch/fr/story/suisse-des-pourboires-toujours-plus-maigres-103137283)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [La consommation de bœuf a chuté depuis 2003](https://www.20min.ch/fr/story/france-la-consommation-de-boeuf-a-chute-depuis-2003-103137472)
+append_entries: 2
+Finish: 2024-06-28 01:14:05.539810
