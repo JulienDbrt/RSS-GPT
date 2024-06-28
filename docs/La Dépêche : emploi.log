@@ -1543,3 +1543,9 @@ Summarized using GPT-3.5-turbo
 Append: [Emploi : Manpower aide le secteur de l’aéronautique à recruter](https://www.ladepeche.fr/2024/06/27/manpower-aide-laeronautique-a-recruter-12044874.php)
 append_entries: 4
 Finish: 2024-06-28 01:21:57.916403
+------------------------------------------------------
+Started: 2024-06-28 12:41:45.745865
+Existing_entries: 287
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-06-28 12:41:46.507558

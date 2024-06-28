@@ -2175,3 +2175,30 @@ Summarized using GPT-3.5-turbo
 Append: [Le cours du Bitcoin est chahuté depuis quelques jours, mais pourquoi donc ?](https://www.clubic.com/actualite-530880-le-cours-du-bitcoin-est-chahute-depuis-quelques-jours-mais-pourquoi-donc.html)
 append_entries: 4
 Finish: 2024-06-28 01:10:09.128574
+------------------------------------------------------
+Started: 2024-06-28 12:30:54.593819
+Existing_entries: 515
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin saturé ! Le réseau lutte contre +200 000 arriérés de transactions !](https://www.cointribune.com/bitcoin-sature-le-reseau-lutte-contre-200-000-arrieres-de-transactions/)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Le spectre de Mt. Gox plane sur le Bitcoin : JPMorgan prédit un été orageux](https://www.cointribune.com/le-spectre-de-mt-gox-plane-sur-le-bitcoin-jpmorgan-predit-un-ete-orageux/)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: ["Centaines de milliers de dollars": un "hacker" séquestrait ses victimes pour leur voler leurs cryptos](https://www.bfmtv.com/tech/centaines-de-milliers-de-dollars-un-hacker-sequestrait-ses-victimes-pour-leur-voler-leurs-cryptos_AV-202406280376.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Nul en informatique, ce hacker tabassait ses victimes pour leur voler leurs données](https://www.numerama.com/cyberguerre/1768200-nul-en-informatique-ce-hacker-tabassait-ses-victimes-pour-leur-voler-leurs-donnees.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [L’entreprise française Cometh choisie par Sam Altman et Worldcoin comme infrastructure technique](https://www.capital.fr/crypto/lentreprise-francaise-cometh-choisie-par-sam-altman-et-worldcoin-comme-infrastructure-technique-1498959)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Les commerçants de la ville de Talence en Gironde vont accepter les paiements en cryptos](https://www.bfmtv.com/crypto/les-commercants-de-la-ville-de-talence-en-gironde-vont-accepter-les-paiements-en-cryptos_AV-202406270582.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Bybit dépasse Coinbase et devient la deuxième plus grande plateforme d’échanges cryptos au monde](https://www.bfmtv.com/crypto/bybit-depasse-coinbase-et-devient-la-deuxieme-plus-grande-plateforme-d-echanges-cryptos-au-monde_AV-202406270724.html)
+append_entries: 7
+Finish: 2024-06-28 12:31:17.303626

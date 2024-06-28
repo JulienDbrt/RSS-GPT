@@ -1207,3 +1207,15 @@ Summarized using GPT-3.5-turbo
 Append: [A Saint-Barthélemy, Air Antilles doit désormais faire face à la concurrence](https://la1ere.francetvinfo.fr/guadeloupe/saint-barthelemy/a-saint-barthelemy-air-antilles-doit-desormais-faire-face-a-la-concurrence-1500890.html)
 append_entries: 2
 Finish: 2024-06-28 01:20:50.668436
+------------------------------------------------------
+Started: 2024-06-28 12:40:50.510997
+Existing_entries: 165
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [Saint-Joseph : la route Hubert-Delisle (RD3) fermée à la circulation suite à un éboulis](https://la1ere.francetvinfo.fr/reunion/saint-joseph/saint-joseph-la-route-hubert-delisle-rd3-fermee-a-la-circulation-suite-a-un-eboulis-1501070.html)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. Toujours de grandes difficultés pour réapprovisionner le Mont-Dore sud](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/crise-en-nouvelle-caledonie-toujours-de-grandes-difficultes-pour-reapprovisionner-le-mont-dore-sud-1500986.html)
+append_entries: 2
+Finish: 2024-06-28 12:40:59.121043

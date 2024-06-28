@@ -1276,3 +1276,9 @@ Summarized using GPT-3.5-turbo
 Append: [Pour tenter d'éviter sa destruction, la maison de Marilyn Monroe classée monument historique](https://www.bfmtv.com/immobilier/international-etranger/pour-tenter-d-eviter-sa-destruction-la-maison-de-marilyn-monroe-classee-monument-historique_AD-202406270315.html)
 append_entries: 5
 Finish: 2024-06-28 01:16:16.751803
+------------------------------------------------------
+Started: 2024-06-28 12:36:53.241647
+Existing_entries: 214
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-06-28 12:36:53.318073

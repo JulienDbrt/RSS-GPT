@@ -958,3 +958,9 @@ Summarized using GPT-3.5-turbo
 Append: [Grève au CHU de Martinique : le syndicat FO Santé rencontre la direction de l'hôpital](https://la1ere.francetvinfo.fr/martinique/greve-au-chu-de-martinique-le-syndicat-fo-sante-rencontre-la-direction-de-l-hopital-1500839.html)
 append_entries: 1
 Finish: 2024-06-28 01:20:44.334928
+------------------------------------------------------
+Started: 2024-06-28 12:40:50.010124
+Existing_entries: 82
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-06-28 12:40:50.334770

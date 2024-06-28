@@ -1351,3 +1351,21 @@ Summarized using GPT-3.5-turbo
 Append: [La consommation de bœuf a chuté depuis 2003](https://www.20min.ch/fr/story/france-la-consommation-de-boeuf-a-chute-depuis-2003-103137472)
 append_entries: 2
 Finish: 2024-06-28 01:14:05.539810
+------------------------------------------------------
+Started: 2024-06-28 12:34:50.429476
+Existing_entries: 253
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Les bouchons fixés à la bouteille sont obligatoires dès mercredi](https://www.20min.ch/fr/story/ue-les-bouchons-fixes-a-la-bouteille-sont-obligatoires-des-mercredi-103137908)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Les riches anglais quittent Londres au profit de la Suisse](https://www.20min.ch/fr/story/impots-les-riches-anglais-quittent-londres-au-profit-de-la-suisse-103137752)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Lagardère reprend la tête du groupe après une décision de justice](https://www.20min.ch/fr/story/paris-lagardere-reprend-la-tete-du-groupe-apres-une-decision-de-justice-103137786)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [Réformes dérégulatrices de Milei définitivement approuvées](https://www.20min.ch/fr/story/argentine-reformes-deregulatrices-de-milei-definitivement-approuvees-103137715)
+append_entries: 4
+Finish: 2024-06-28 12:35:03.150031

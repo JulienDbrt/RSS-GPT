@@ -1078,3 +1078,9 @@ Summarized using GPT-3.5-turbo
 Append: [Pêche aux homards: le prix encore en baisse](https://www.journaldemontreal.com/2024/06/26/peche-aux-homards-le-prix-encore-en-baisse)
 append_entries: 6
 Finish: 2024-06-28 01:19:42.524972
+------------------------------------------------------
+Started: 2024-06-28 12:40:07.263446
+Existing_entries: 124
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-06-28 12:40:08.106983

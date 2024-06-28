@@ -1367,3 +1367,12 @@ Summarized using GPT-3.5-turbo
 Append: [Transports : Eurostar met en place une offre "flexible" moins coûteuse mais plus contraignante pour la liaison Paris-Bruxelles](https://www.francetvinfo.fr/economie/transports/transports-eurostar-met-en-place-une-offre-flexible-moins-couteuse-mais-plus-contraignante_6629598.html)
 append_entries: 1
 Finish: 2024-06-28 01:18:04.349588
+------------------------------------------------------
+Started: 2024-06-28 12:38:36.519492
+Existing_entries: 225
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Pouvoir d'achat : contrairement aux engagements de la SNCF, l'augmentation du prix des billets de TGV dépasse l’inflation](https://www.francetvinfo.fr/replay-radio/le-brief-eco/pouvoir-d-achat-contrairement-aux-engagements-de-la-sncf-l-augmentation-du-prix-des-billets-de-tgv-depasse-l-inflation_6602604.html)
+append_entries: 1
+Finish: 2024-06-28 12:38:39.694553

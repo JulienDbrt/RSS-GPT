@@ -897,3 +897,9 @@ Summarized using GPT-3.5-turbo
 Append: [Près de 500 logements sociaux vacants dans le Puy-de-Dôme](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/pres-de-500-logements-sociaux-vacants-dans-le-puy-de-dome-2994848.html)
 append_entries: 1
 Finish: 2024-06-28 01:18:57.991515
+------------------------------------------------------
+Started: 2024-06-28 12:39:53.633226
+Existing_entries: 75
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-06-28 12:39:53.754783

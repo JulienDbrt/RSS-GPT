@@ -1537,3 +1537,18 @@ Existing_entries: 335
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-28 01:20:26.744131
+------------------------------------------------------
+Started: 2024-06-28 12:40:19.925473
+Existing_entries: 335
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4333
+Summarized using GPT-3.5-turbo
+Append: [Les fonctionnaires et le RN : "Démissionner n’est ni possible pour certains, ni souhaitable pour le pays"](https://www.lexpress.fr/economie/les-fonctionnaires-et-le-rn-demissionner-nest-ni-possible-pour-certains-ni-souhaitable-pour-le-pays-KI73DDCJPZGLHHNRHTJYHDMOOA/)
+Token length: 3239
+Summarized using GPT-3.5-turbo
+Append: [Dette, inflation… Les derniers chiffres de l’Insee sur l’économie française](https://www.lexpress.fr/economie/dette-inflation-les-derniers-chiffres-de-linsee-sur-leconomie-francaise-AFG4PYJ7INF45LJWPRPNMLQETI/)
+Token length: 1721
+Summarized using GPT-3.5-turbo
+Append: [Atos : nouveau coup de théâtre avec le retrait de Onepoint du capital](https://www.lexpress.fr/economie/entreprises/atos-nouveau-coup-de-theatre-avec-le-retrait-de-onepoint-du-capital-JA6H5JPOXBBW3LS6BZL473AK7I/)
+append_entries: 3
+Finish: 2024-06-28 12:40:32.535025

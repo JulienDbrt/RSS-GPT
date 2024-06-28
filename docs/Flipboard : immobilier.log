@@ -2527,3 +2527,21 @@ Fetching from https://flipboard.com/topic/fr-immobilier.rss
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Flipboard : immobilier
+------------------------------------------------------
+Started: 2024-06-28 12:32:28.649613
+Existing_entries: 723
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Déclaration de biens immobiliers : « l’administration fiscale a considéré que ma maison avait 49 pièces ! »](https://investir.lesechos.fr/placements/immobilier/declaration-de-biens-immobiliers-ladministration-fiscale-a-considere-que-ma-maison-avait-49-pieces-2099800)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [« Je suis agent immobilier et ce détail au jardin peut baisser le prix de votre bien de 20 000 € »](https://monjardinmamaison.maison-travaux.fr/mon-jardin-ma-maison/actualites-jardin/detail-au-jardin-baisser-prix-bien-481717.html)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : les départements où les prix s'effondrent le plus vite en Ile-de-France](https://www.capital.fr/immobilier/immobilier-les-departements-ou-les-prix-s-effondrent-le-plus-vite-en-ile-de-france-1498938)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [La procureure de New-York questionne la garantie de Trump](https://www.blick.ch/fr/news/affaire-de-fraudes-financieres-la-procureure-de-new-york-requiert-lannulation-de-la-garantie-deposee-par-trump-id19657861.html)
+append_entries: 4
+Finish: 2024-06-28 12:32:44.283842

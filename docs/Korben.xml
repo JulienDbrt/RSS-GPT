@@ -5,13 +5,87 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Send – Partagez des fichiers chiffrés de manière éphémère</title>
+<link>https://korben.info/send-partage-fichiers-chiffres-securise-ephemere.html</link>
+<guid>https://korben.info/send-partage-fichiers-chiffres-securise-ephemere.html</guid>
+<content:encoded><![CDATA[
+<div> open source, partage de fichiers, chiffré, auto-destruction, sécurité <br>
+<br>Summary: 
+Send est un outil open source permettant de partager des fichiers de manière sécurisée et confidentielle. Les fichiers envoyés sont chiffrés et s'autodétruisent après un temps défini, assurant ainsi la confidentialité des données. L'interface de Send est facile à utiliser : il suffit de glisser-déposer les fichiers, définir une limite de téléchargements et une date d'expiration pour obtenir un lien à partager. Le code de Send est disponible sur GitHub pour permettre aux utilisateurs de monter leur propre instance. L'installation est simple en clonant le dépôt, installant les dépendances, configurant les variables d'environnement et lançant le serveur. Enfin, les utilisateurs peuvent profiter de Send pour partager des fichiers en toute sécurité et tranquillité. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_for_file_sharing_service_with_text_Send_1adef68f-741b-4766-bcce-064c0e0b3dec.webp" width="1456" /></p>
+<p>Vous cherchez une solution pour <strong>partager des fichiers de manière sécurisée et confidentielle</strong> ? Ne cherchez plus, Send est là pour vous ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1309169309" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Cet outil <strong>open source</strong>, fork de <a href="https://korben.info/wormhole-remplacant-securise-gratuit-firefox-send-wetransfer.html">Firefox Send</a>, vous permet d&rsquo;envoyer des fichiers chiffrés qui s&rsquo;autodétruisent après un temps défini. C&rsquo;est le rêve de tout <strong>paranoïaque de la vie privée</strong> comme vous !</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-158600" height="687" src="https://korben.info/app/uploads/2024/04/SCR-20240407-knn-1024x687.webp" width="1024" /></figure>
+
+
+
+<p>Avec Send, vous pouvez dire adieu aux services de partage de fichiers qui fouinent dans vos données. Ici, tout est <strong>chiffré de bout en bout</strong> et vos fichiers seront protégés tel le précieux anneau unique. Même Sauron ne pourra pas y accéder ^^ !</p>
+
+
+
+<p>L&rsquo;interface est simple comme bonjour. Vous glissez-déposez vos fichiers, définissez une limite de téléchargements et une date d&rsquo;expiration, et boom ! Vous obtenez un lien à partager avec vos amis, collègues ou agents secrets.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158601" height="693" src="https://korben.info/app/uploads/2024/04/SCR-20240407-kns-1024x693.webp" width="1024" /></figure></div>
+
+
+<p>Le code est disponible sur <strong><a href="https://github.com/timvisee/send" rel="noopener" target="_blank">GitHub</a></strong> ce qui vous permettra de monter votre propre instance de Send si vous le souhaitez. Et si c&rsquo;est la flemme, rassurez-vous, y&rsquo;a plein <a href="https://github.com/timvisee/send-instances/" rel="noopener" target="_blank">d&rsquo;instances disponibles</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-411872366" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour l&rsquo;installer :</p>
+
+
+
+<ol>
+<li>Clonez le dépôt GitHub de Send avec <code>git clone https://github.com/timvisee/send.git</code></li>
+
+
+
+<li>Installez les dépendances avec <code>npm install</code></li>
+
+
+
+<li>Configurez les variables d&rsquo;environnement (voir la doc pour les détails)</li>
+
+
+
+<li>Lancez le serveur avec <code>npm start</code></li>
+
+
+
+<li>Accédez à l&rsquo;interface web sur <code>http://localhost:8080</code></li>
+
+
+
+<li>Enjoy !</li>
+</ol>
+
+
+
+<p>Alors n&rsquo;attendez plus, c&rsquo;est par ici : <strong><a href="https://github.com/timvisee/send" rel="noopener" target="_blank">https://github.com/timvisee/send</a></strong>.</p>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>TopSpin 2K25 : service compris</title>
 <link>https://korben.info/test-top-spin-2k25-avis.html</link>
 <guid>https://korben.info/test-top-spin-2k25-avis.html</guid>
 <content:encoded><![CDATA[
 <div> TopSpin, gameplay, graphismes, modes, monétisation
 Summary:
-Le jeu TopSpin 2K25 offre un gameplay satisfaisant avec des commandes réactives et un tutoriel complet. Les mouvements des joueurs sont fluides, les graphismes sont bien réalisés avec des stades variés. Le mode MyCareer propose des tournois et personnalisations, tandis que le Tennis School est idéal pour les débutants. Le jeu offre un mode Legendary Matches et en ligne pour affronter d'autres joueurs. Cependant, la monétisation à travers les microtransactions peut être un inconvénient. Malgré cela, le jeu a reçu des mises à jour gratuites qui enrichissent l'expérience de jeu avec de nouveaux joueurs, stades et défis. TopSpin 2K25 est recommandé aux fans de tennis pour son plaisir de jeu et son contenu varié. Préparez-vous à servir !<br><br>Summary: <div>
+Le jeu TopSpin 2K25 offre un gameplay satisfaisant avec des commandes réactives et un tutoriel complet. Les mouvements des joueurs sont fluides, les graphismes sont bien réalisés avec des stades variés. Le mode MyCareer propose des tournois et personnalisations, tandis que le Tennis School est idéal pour les débutants. Le jeu offre un mode Legendary Matches et en ligne pour affronter d'autres joueurs. Cependant, la monétisation à travers les microtransactions peut être un inconvénient. Malgré cela, le jeu a reçu des mises à jour gratuites qui enrichissent l'expérience de jeu avec de nouveaux joueurs, stades et défis. TopSpin 2K25 est recommandé aux fans de tennis pour son plaisir de jeu et son contenu varié. Préparez-vous à servir !<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="563" src="https://korben.info/app/uploads/2024/06/TopSpin-2K25-1.webp" width="1000" /></p>
 <p class="has-text-align-center">— Article rédigé par l’ami <a href="https://remouk.fr/" rel="noreferrer noopener" target="_blank">Remouk</a> <a href="https://danstonchat.com/" rel="noreferrer noopener" target="_blank">(DansTonChat)</a> – Merci à lui —<br />— Contient des liens affiliés Amazon —</p>
 
@@ -80,9 +154,7 @@ Le jeu TopSpin 2K25 offre un gameplay satisfaisant avec des commandes réactives
 <figure class="wp-block-image size-full"><img alt="" class="wp-image-161569" height="563" src="https://korben.info/app/uploads/2024/06/TopSpin-2K25-4.webp" width="1000" /></figure>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 20:28:26 +0000</pubDate>
-<pubDate>Thu, 27 Jun 2024 20:28:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Les outils de crise indispensables pour Linux</title>
 <link>https://korben.info/outils-crise-linux-indispensables-pros-it.html</link>

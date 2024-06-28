@@ -1149,3 +1149,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveautés auto. DS 7 Vauban : la voiture blindée à la française !](https://www.lalsace.fr/magazine-automobile/2024/06/27/ds-7-vauban-la-voiture-blindee-a-la-francaise)
 append_entries: 1
 Finish: 2024-06-28 01:20:16.576846
+------------------------------------------------------
+Started: 2024-06-28 12:40:10.724768
+Existing_entries: 152
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Nouveautés auto. Volkswagen dévoile ses Golf R : les versions les plus puissantes !](https://www.lalsace.fr/magazine-automobile/2024/06/28/volkswagen-devoile-ses-golf-r-les-versions-les-plus-puissantes)
+Token length: 390
+Summarized using GPT-3.5-turbo
+Append: [Nouveauté. Lancia Ypsilon : combien coûte vraiment la citadine italienne ?](https://www.lalsace.fr/magazine-automobile/2024/06/28/lancia-ypsilon-combien-coute-vraiment-la-citadine-italienne)
+append_entries: 2
+Finish: 2024-06-28 12:40:16.677098

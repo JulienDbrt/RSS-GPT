@@ -1017,3 +1017,15 @@ Existing_entries: 115
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-28 01:18:46.673847
+------------------------------------------------------
+Started: 2024-06-28 12:39:42.907622
+Existing_entries: 115
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 303
+Summarized using GPT-3.5-turbo
+Append: ["Un tir mal placé et c'est pour notre poire", les commerçants se barricadent en vue du week-end d'élections](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/un-tir-mal-place-et-c-est-pour-notre-poire-les-commercants-se-barricadent-en-vue-du-week-end-d-elections-2994926.html)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. "Légume démodé, trop long à cuire et à manger", pourquoi l'artichaut breton pourrait disparaître de nos assiettes](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/video-legume-demode-trop-long-a-cuire-et-a-manger-pourquoi-l-artichaut-breton-pourrait-disparaitre-de-nos-assiettes-2993870.html)
+append_entries: 2
+Finish: 2024-06-28 12:39:50.932994

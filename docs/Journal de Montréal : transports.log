@@ -1161,3 +1161,9 @@ Summarized using GPT-3.5-turbo
 Append: [Montréal dans les 50 villes les plus congestionnées au monde](https://www.journaldemontreal.com/2024/06/26/montreal-dans-les-50-villes-les-plus-congestionnees-au-monde)
 append_entries: 5
 Finish: 2024-06-28 01:19:56.905424
+------------------------------------------------------
+Started: 2024-06-28 12:40:08.186884
+Existing_entries: 153
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-06-28 12:40:08.414217
