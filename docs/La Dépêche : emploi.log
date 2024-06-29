@@ -1564,3 +1564,15 @@ Summarized using GPT-3.5-turbo
 Append: [Tribune. "Leur programme est xénophobe et économiquement incohérent" : 1 000 start-upper s’engagent contre le RN et se désolidarisent du Medef](https://www.ladepeche.fr/2024/06/28/tribune-leur-programme-est-xenophobe-et-economiquement-incoherent-1-000-start-upper-sengagent-contre-le-rn-et-se-desolidarisent-du-medef-12047249.php)
 append_entries: 3
 Finish: 2024-06-29 01:19:08.417531
+------------------------------------------------------
+Started: 2024-06-29 12:37:03.613324
+Existing_entries: 290
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Auch : une élève du lycée Pardailhan lauréate du concours national "Mon CV vidéo"](https://www.ladepeche.fr/2024/06/29/auch-une-eleve-du-lycee-pardailhan-laureate-du-concours-national-mon-cv-video-12047837.php)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [68 entretiens au dernier café de l’emploi de L’Isle-Jourdain](https://www.ladepeche.fr/2024/06/29/68-entretiens-au-dernier-cafe-de-lemploi-de-lisle-jourdain-12048542.php)
+append_entries: 2
+Finish: 2024-06-29 12:37:10.201886

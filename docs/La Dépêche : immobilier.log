@@ -994,3 +994,12 @@ Existing_entries: 100
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-06-29 01:19:08.938313
+------------------------------------------------------
+Started: 2024-06-29 12:37:10.254703
+Existing_entries: 100
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: ["Un gros gâchis" : le projet de résidence sénior dans un bâtiment historique de Decazeville à l’arrêt](https://www.ladepeche.fr/2024/06/29/un-gros-gachis-le-projet-de-residence-senior-dans-un-batiment-historique-de-decazeville-a-larret-12039756.php)
+append_entries: 1
+Finish: 2024-06-29 12:37:12.806191

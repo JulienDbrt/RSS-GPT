@@ -1454,3 +1454,9 @@ Summarized using GPT-3.5-turbo
 Append: [La vente de BFMTV et RMC à CMA CGM validée par l’Arcom et l’Autorité de la concurrence](https://www.la-croix.com/vente-de-bfmtv-et-rmc-a-cma-cgm-feu-vert-de-l-arcom-et-de-l-autorite-de-la-concurrence-20240628)
 append_entries: 4
 Finish: 2024-06-29 01:18:22.436206
+------------------------------------------------------
+Started: 2024-06-29 12:36:31.475276
+Existing_entries: 270
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+append_entries: 0
+Finish: 2024-06-29 12:36:31.892977

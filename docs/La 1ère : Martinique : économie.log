@@ -979,3 +979,9 @@ Summarized using GPT-3.5-turbo
 Append: [Crise en Nouvelle-Calédonie : près de 20 000 personnes potentiellement concernées par les différents dispositifs de chômage](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-pres-de-20-000-personnes-potentiellement-concernees-par-les-differents-dispositifs-de-chomage-1500689.html)
 append_entries: 3
 Finish: 2024-06-29 01:17:59.832124
+------------------------------------------------------
+Started: 2024-06-29 12:36:30.033347
+Existing_entries: 85
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-06-29 12:36:30.405959

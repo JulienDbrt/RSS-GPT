@@ -1161,3 +1161,12 @@ Summarized using GPT-3.5-turbo
 Append: [Bretagne: des voitures tombent en panne après un plein de gasoil dans la même station-service](https://www.bfmtv.com/auto/bretagne-des-voitures-tombent-en-panne-apres-un-plein-de-gasoil-dans-la-meme-station-service_AV-202406280784.html)
 append_entries: 2
 Finish: 2024-06-29 01:13:03.429679
+------------------------------------------------------
+Started: 2024-06-29 12:32:52.914417
+Existing_entries: 159
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Airbags défectueux: les propriétaires de véhicules Citroën sont exaspérés](https://www.bfmtv.com/auto/airbags-defectueux-les-proprietaires-de-vehicules-citroen-sont-exasperes_AD-202406290233.html)
+append_entries: 1
+Finish: 2024-06-29 12:32:54.969571

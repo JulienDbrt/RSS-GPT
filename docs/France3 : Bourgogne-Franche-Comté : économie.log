@@ -1266,3 +1266,18 @@ Existing_entries: 194
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-06-29 01:16:30.687984
+------------------------------------------------------
+Started: 2024-06-29 12:35:29.719602
+Existing_entries: 194
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: ["Sali Migré" : une enquête ouverte pour provocation à la haine après un quiz musical près de Belfort](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/sali-migre-une-enquete-ouverte-pour-provocation-a-la-haine-apres-un-quiz-musical-pres-de-belfort-2995616.html)
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES. Tour de France 2024 : "c'est la chance de ma vie", l'impatience des commerçants à l'approche de la Grande Boucle](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/temoignages-c-est-la-chance-de-ma-vie-les-commercants-dijonnais-attendent-le-tour-de-france-avec-impatience-2994032.html)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: ["Il est un monument, il va manquer à tout le monde" : handicapé, Christian, prend sa retraite après 35 ans de travail](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/il-est-un-monument-il-va-manquer-a-tout-le-monde-handicape-christian-prend-sa-retraite-apres-35-ans-de-travail-2994041.html)
+append_entries: 3
+Finish: 2024-06-29 12:35:39.517233

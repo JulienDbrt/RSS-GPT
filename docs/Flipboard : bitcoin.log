@@ -2217,3 +2217,15 @@ Summarized using GPT-3.5-turbo
 Append: [La valse à mille temps de la montre et du bitcoin - Le Temps](https://www.letemps.ch/economie/la-valse-a-mille-temps-de-la-montre-et-du-bitcoin)
 append_entries: 3
 Finish: 2024-06-29 01:08:42.388234
+------------------------------------------------------
+Started: 2024-06-29 12:29:14.710730
+Existing_entries: 525
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024: comment les partis se positionnent sur les cryptomonnaies](https://www.bfmtv.com/crypto/legislatives-2024-comment-les-partis-se-positionnent-sur-les-cryptomonnaies_AV-202406280544.html)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Le sentiment social s’effondre, le Bitcoin serait-il à son creux de marché ?](https://www.cointribune.com/le-sentiment-social-seffondre-le-bitcoin-serait-il-a-son-creux-de-marche/)
+append_entries: 2
+Finish: 2024-06-29 12:29:22.162115

@@ -4,6 +4,68 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>OpenCanary – Le pot de miel pour piéger les cyber criminels</title>
+<link>https://korben.info/opencanary-pot-de-miel-ultime-pieger-hackers.html</link>
+<guid>https://korben.info/opencanary-pot-de-miel-ultime-pieger-hackers.html</guid>
+<content:encoded><![CDATA[
+<div> pot de miel, cybercriminels, OpenCanary, sécurité, alertes
+Summary: 
+OpenCanary est un outil de sécurité qui simule divers services réseau pour attraper les cybercriminels. Léger et facile à installer, il envoie des alertes dès qu'un hacker interagit avec un faux service. Les alertes peuvent être reçues par mail, SMS ou intégrées à un outil de monitoring. Cependant, une certaine expertise technique est nécessaire pour le configurer. Il est important de ne pas surcharger son réseau avec trop de pièges pour éviter les fausses alertes. OpenCanary offre une approche ludique pour piéger les hackers et les surveiller. Le projet est disponible sur Github pour ceux qui sont intéressés. Amusez-vous bien et soyez vigilant face aux menaces en ligne. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_A_logo_with_text_OpenCanary_hacking_tool_canary_honeypot_f6fe77c6-bf3f-4a4e-a0df-3891e1bc1644.webp" width="1456" /></p>
+<p><strong>OpenCanary</strong>, c&rsquo;est le pot de miel nouvelle génération pour attraper tous ces satanés cybercriminels. Ce petit logiciel va simuler plein de services réseau, comme un serveur web, un partage Windows, un serveur SSH&#8230;etc Bref, un vrai buffet à appâts numériques et dès qu&rsquo;un hacker tombe dans le panneau et interagit avec, paf, vous recevez une alerte !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1309921806" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>L&rsquo;outil est hyper léger et s&rsquo;installe facilement, même sur un Raspberry Pi ou un VM. Et comme c&rsquo;est du logiciel libre, vous pouvez l&rsquo;adapter à vos besoins et surtout vous éviter une solution proprio payante.</p>
+
+
+
+<p>Alors comment ça fonctionne ? Et bien c&rsquo;est simple comme bonjour : </p>
+
+
+
+<ul>
+<li>Vous installez <strong><a href="https://github.com/thinkst/opencanary">OpenCanary</a></strong> sur une machine de votre réseau interne </li>
+
+
+
+<li>Vous le configurez pour imiter les services qui vous bottent (serveur web, FTP, base de données&#8230;) </li>
+
+
+
+<li>Vous attendez patiemment qu&rsquo;un hacker morde à l&rsquo;hameçon </li>
+
+
+
+<li>Dès qu&rsquo;il interagit avec le honeypot, vous recevez une belle alerte qui vous file son IP et plein d&rsquo;infos sur l&rsquo;intrusion</li>
+</ul>
+
+
+
+<p>C&rsquo;est pas beau ça ? </p>
+
+
+
+<p>En plus, vous pouvez même envoyer les alertes par mail, SMS ou même les agréger dans un outil de monitoring. Bon, je vous cache pas qu&rsquo;il faut quand même un minimum de connaissances techniques pour faire tourner le bouzin. Mais si vous n&rsquo;avez pas peur de mettre les mains dans le cambouis et de jouer avec la ligne de commande, c&rsquo;est à la portée de n&rsquo;importe quel barbu un peu motivé.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-310996330" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et puis c&rsquo;est quand même super fun de tendre des pièges aux méchants hackers et de les voir se faire avoir comme des bleus. Mais attention hein, faut pas non plus tomber dans la paranoïa et transformer son réseau en véritable champ de mines. Faudra doser pour que ça reste digeste sinon, vous allez avoir beaucoup de bruit dans vos alertes.</p>
+
+
+
+<p>En tout cas, moi je dis bravo aux petits gars de <a href="https://thinkst.com/" rel="noopener" target="_blank">Thinkst</a> qui nous ont pondu cet outil. Pour les plus motivés, voici le lien Github du projet : <a href="https://github.com/thinkst/opencanary" rel="noopener" target="_blank">https://github.com/thinkst/opencanary</a>. </p>
+
+
+
+<p>Amusez-vous bien et happy hacking !</p>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Send – Partagez des fichiers chiffrés de manière éphémère</title>

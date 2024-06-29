@@ -1035,3 +1035,15 @@ Existing_entries: 117
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-06-29 01:16:30.977198
+------------------------------------------------------
+Started: 2024-06-29 12:35:39.578098
+Existing_entries: 117
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: ["On voit que ça ralentit mais on a encore des parts à prendre aux industriels", pourquoi les brasseries artisanales marquent le pas](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/on-voit-que-ca-ralentit-mais-on-a-encore-des-parts-a-prendre-aux-industriels-pourquoi-les-brasseries-artisanales-marquent-le-pas-2992112.html)
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: ["À la montagne, je ne vois pas la mixité", ces Rennais veulent démocratiser l'accès à la randonnée à toutes les communautés](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/a-la-montagne-je-ne-vois-pas-la-mixite-ces-rennais-veulent-democratiser-l-acces-a-la-randonnee-a-toutes-les-communautes-2993087.html)
+append_entries: 2
+Finish: 2024-06-29 12:35:47.607827

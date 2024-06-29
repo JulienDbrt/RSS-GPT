@@ -2406,3 +2406,9 @@ Summarized using GPT-3.5-turbo
 Append: [RER métropolitain lyonnais : les habitants de Belleville-en-Beaujolais restent à quai](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/rer-metropolitain-lyonnais-les-habitants-de-belleville-en-beaujolais-restent-a-quai-2995091.html)
 append_entries: 5
 Finish: 2024-06-29 01:16:53.611197
+------------------------------------------------------
+Started: 2024-06-29 12:35:52.671750
+Existing_entries: 575
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-06-29 12:35:52.967583

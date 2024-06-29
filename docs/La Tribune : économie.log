@@ -3118,3 +3118,15 @@ Summarized using GPT-3.5-turbo
 Append: [Législatives : à Marseille, Sabrina Agresti-Roubache créera-t-elle la surprise ?](https://region-sud.latribune.fr/politique/2024-06-28/legislatives-a-marseille-sabrina-agresti-roubache-creera-t-elle-la-surprise-1000986.html)
 append_entries: 10
 Finish: 2024-06-29 01:20:04.289879
+------------------------------------------------------
+Started: 2024-06-29 12:37:29.540559
+Existing_entries: 798
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Ukraine : nouvelle tranche d’aide de 2,2 milliards de dollars validée par le FMI](https://www.latribune.fr/economie/international/ukraine-nouvelle-tranche-d-aide-de-2-2-milliards-de-dollars-validee-par-le-fmi-1001028.html)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Hausse du prix du gaz, « shrinkflation », revalorisation de l’assurance chômage : ce qui changent en juillet](https://www.latribune.fr/economie/hausse-du-prix-du-gaz-shrinkflation-revalorisation-de-l-assurance-chomage-ce-qui-changent-en-juillet-1001022.html)
+append_entries: 2
+Finish: 2024-06-29 12:37:36.417361

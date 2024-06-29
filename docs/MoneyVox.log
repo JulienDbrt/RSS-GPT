@@ -3463,3 +3463,27 @@ Summarized using GPT-3.5-turbo
 Append: [Un nouveau DPE dès le 1er juillet, voici ce qui change pour les propriétaires](https://www.moneyvox.fr/immobilier/actualites/98473/un-nouveau-dpe-des-le-1er-juillet-voici-ce-qui-change-pour-les-proprietaires)
 append_entries: 8
 Finish: 2024-06-29 01:16:25.086909
+------------------------------------------------------
+Started: 2024-06-29 12:34:54.721161
+Existing_entries: 1003
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [Les macronistes retirent leur simulateur de retraites, attaqué par LFI](https://www.moneyvox.fr/retraite/actualites/98483/les-macronistes-retirent-leur-simulateur-de-retraites-attaque-par-lfi)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Crédit Agricole, BNP, SG : voici les 10 banques les plus chères pour voyager à l'étranger](https://www.moneyvox.fr/carte-bancaire/actualites/98448/credit-agricole-bnp-sg-voici-les-10-banques-les-plus-cheres-pour-voyager-a-etranger)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Crédit Agricole Toulouse 31 : des tarifs augmentent le 1er juillet, vérifiez si vous êtes concerné](https://www.moneyvox.fr/tarif-bancaire/actualites/98439/credit-agricole-toulouse-31-des-tarifs-augmentent-le-1er-juillet-verifiez-si-vous-etes-concerne)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Plan d'épargne avenir climat : ce nouveau produit peut-il concurrencer le Livret A ?](https://www.moneyvox.fr/livret-a/actualites/98422/plan-epargne-avenir-climat-ce-nouveau-produit-peut-il-concurrencer-le-livret-a)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [RSA, APL, AAH... Voici ce que proposent les candidats aux législatives pour les aides sociales](https://www.moneyvox.fr/actu/98466/rsa-apl-aah-voici-ce-que-proposent-les-candidats-aux-legislatives-pour-les-aides-sociales)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière 2024 : cette date limite qui vous permet d'étaler la facture](https://www.moneyvox.fr/impot/actualites/98480/taxe-fonciere-2024-cette-date-limite-qui-vous-permet-etaler-la-facture)
+append_entries: 6
+Finish: 2024-06-29 12:35:13.268970
