@@ -1161,3 +1161,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveauté. Lancia Ypsilon : combien coûte vraiment la citadine italienne ?](https://www.lalsace.fr/magazine-automobile/2024/06/28/lancia-ypsilon-combien-coute-vraiment-la-citadine-italienne)
 append_entries: 2
 Finish: 2024-06-28 12:40:16.677098
+------------------------------------------------------
+Started: 2024-06-29 01:17:11.151063
+Existing_entries: 154
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [Moto. Les plateformes deux-roues vont-elles tuer la moto ?](https://www.lalsace.fr/magazine-automobile/2024/06/28/les-plateformes-deux-roues-vont-elles-tuer-la-moto)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Van et Utilitaires. Renault Master génération 4 : le diesel lui va si bien](https://www.lalsace.fr/magazine-automobile/2024/06/28/renault-master-generation-4-le-diesel-lui-va-si-bien)
+append_entries: 2
+Finish: 2024-06-29 01:17:18.398280

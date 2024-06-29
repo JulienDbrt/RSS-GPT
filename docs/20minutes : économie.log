@@ -1307,3 +1307,18 @@ Summarized using GPT-3.5-turbo
 Append: [Arnaud Lagardère peut reprendre la tête du groupe à son nom](https://www.20minutes.fr/arts-stars/medias/4098614-20240628-arnaud-lagardere-peut-reprendre-tete-groupe-nom)
 append_entries: 1
 Finish: 2024-06-28 12:35:07.467188
+------------------------------------------------------
+Started: 2024-06-29 01:11:52.240856
+Existing_entries: 203
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [L’ex-patronne de la FNSEA prend la tête du lobby de l’industrie charcutière](https://www.20minutes.fr/economie/4098719-20240628-ex-patronne-fnsea-prend-tete-lobby-industrie-charcutiere)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : Des impôts en plus à partir de 4.000 ou 2.200 euros dans le programme du Nouveau Front populaire ?](https://www.20minutes.fr/economie/4098639-20240628-legislatives-2024-impots-plus-partir-4-000-2-200-euros-programme-nouveau-front-populaire)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [« Panique à bord » chez Ascometal avant l’étude de l’unique offre de reprise](https://www.20minutes.fr/economie/4098622-20240628-panique-bord-chez-ascometal-avant-etude-unique-offre-reprise)
+append_entries: 3
+Finish: 2024-06-29 01:12:01.429818

@@ -1526,3 +1526,18 @@ Summarized using GPT-3.5-turbo
 Append: [Blue Lines : vers une meilleure qualité de service des vedettes](https://www.martinique.franceantilles.fr/actualite/economie/blue-lines-vers-une-meilleure-qualite-de-service-993001.php)
 append_entries: 4
 Finish: 2024-06-28 12:38:06.614233
+------------------------------------------------------
+Started: 2024-06-29 01:15:21.037547
+Existing_entries: 296
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 35
+Summarized using GPT-3.5-turbo
+Append: [Après le coup d'État manqué, la Bolivie en zone de turbulences](https://www.martinique.franceantilles.fr/actualite/economie/apres-le-coup-detat-manque-la-bolivie-en-zone-de-turbulences-993116.php)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Les prix des carburants au 1er juillet fluctuent : le gaz en hausse, le sans plomb en baisse](https://www.martinique.franceantilles.fr/actualite/economie/stabilite-des-prix-du-carburant-au-1er-juillet-993119.php)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [A Séoul, un laveur de vitres du plus grand gratte-ciel de Corée affronte quotidiennement sa peur du vide](https://www.martinique.franceantilles.fr/actualite/economie/a-seoul-un-laveur-de-vitres-du-plus-grand-gratte-ciel-de-coree-affronte-quotidiennement-sa-peur-du-vide-993120.php)
+append_entries: 3
+Finish: 2024-06-29 01:15:32.641332

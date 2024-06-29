@@ -1549,3 +1549,18 @@ Existing_entries: 287
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-06-28 12:41:46.507558
+------------------------------------------------------
+Started: 2024-06-29 01:18:59.658648
+Existing_entries: 287
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: ["J’ai dû passer mon diplôme pour ne pas avoir ce souci-là" : dans le Gers, les candidatures pour être maîtres-nageurs se font rares](https://www.ladepeche.fr/2024/06/28/jai-du-passer-mon-diplome-pour-ne-pas-avoir-ce-souci-la-dans-le-gers-les-candidatures-pour-etre-maitres-nageurs-se-font-rares-12039848.php)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: ["Le sport peut être à l’origine de belles choses" : du stade vers l’emploi, quand France Travail recrute lors d’ateliers rugby](https://www.ladepeche.fr/2024/06/28/le-sport-peut-etre-a-lorigine-de-belles-choses-du-stade-vers-lemploi-quand-france-travail-recrute-lors-dateliers-rugby-12046941.php)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Tribune. "Leur programme est xénophobe et économiquement incohérent" : 1 000 start-upper s’engagent contre le RN et se désolidarisent du Medef](https://www.ladepeche.fr/2024/06/28/tribune-leur-programme-est-xenophobe-et-economiquement-incoherent-1-000-start-upper-sengagent-contre-le-rn-et-se-desolidarisent-du-medef-12047249.php)
+append_entries: 3
+Finish: 2024-06-29 01:19:08.417531

@@ -1377,3 +1377,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Se priver de 1000 cerveaux pour envoyer des satellites dans l'espace, c'est une aberration" : mobilisation de salariés de Thales Alenia Space](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/se-priver-de-1000-cerveaux-pour-envoyer-des-satellites-dans-l-espace-c-est-une-aberration-mobilisation-de-salaries-de-thales-alenia-space-2995190.html)
 append_entries: 1
 Finish: 2024-06-28 12:39:53.596144
+------------------------------------------------------
+Started: 2024-06-29 01:16:31.097658
+Existing_entries: 233
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: [Le sort des salariés d'Ascometal en suspens, un seul repreneur reste dans la course, décision le 8 juillet](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/dunkerque/le-sort-des-salaries-d-ascometal-en-suspens-un-seul-repreneur-reste-dans-la-course-decision-le-8-juillet-2995295.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [Ascométal : avis favorable pour le repreneur Greybull, décision le 8 juillet](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/ascometal-avis-favorable-pour-le-repreneur-greybull-decision-le-8-juillet-2995301.html)
+append_entries: 2
+Finish: 2024-06-29 01:16:37.692577

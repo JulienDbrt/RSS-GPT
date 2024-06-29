@@ -964,3 +964,18 @@ Existing_entries: 82
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-06-28 12:40:50.334770
+------------------------------------------------------
+Started: 2024-06-29 01:17:46.833547
+Existing_entries: 82
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 47
+Summarized using GPT-3.5-turbo
+Append: [Le transport maritime une nouvelle fois à l'arrêt en Martinique](https://la1ere.francetvinfo.fr/martinique/le-transport-maritime-une-nouvelle-fois-a-l-arret-en-martinique-1501337.html)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [Prix des produits pétroliers : le gazole et la bouteille de gaz en hausse au 1er juillet 2024 en Martinique](https://la1ere.francetvinfo.fr/martinique/prix-des-produits-petroliers-le-gazole-et-la-bouteille-de-gaz-en-hausse-au-1er-juillet-2024-1501334.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : près de 20 000 personnes potentiellement concernées par les différents dispositifs de chômage](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-pres-de-20-000-personnes-potentiellement-concernees-par-les-differents-dispositifs-de-chomage-1500689.html)
+append_entries: 3
+Finish: 2024-06-29 01:17:59.832124

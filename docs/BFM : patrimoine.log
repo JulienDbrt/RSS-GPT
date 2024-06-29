@@ -912,3 +912,18 @@ Existing_entries: 78
 Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
 append_entries: 0
 Finish: 2024-06-28 12:36:53.533189
+------------------------------------------------------
+Started: 2024-06-29 01:14:25.672769
+Existing_entries: 78
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Trouvé dans une déchetterie, ce tableau se vend plus de 13.000 euros aux enchères](https://www.bfmtv.com/economie/patrimoine/investissement-passion/trouve-dans-une-dechetterie-ce-tableau-se-vend-plus-de-13-000-euros-aux-encheres_AV-202406280838.html)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [Allez-vous recevoir un virement des impôts en juillet?](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/allez-vous-recevoir-un-virement-des-impots-en-juillet_AN-202406280588.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [De plus en plus de Français déclarent placer de l'argent en vue de la retraite, le PER a le vent en poupe](https://www.bfmtv.com/economie/patrimoine/retraite/de-plus-en-plus-de-francais-declarent-placer-de-l-argent-en-vue-de-la-retraite-le-per-a-le-vent-en-poupe_AV-202406270688.html)
+append_entries: 3
+Finish: 2024-06-29 01:14:32.646280

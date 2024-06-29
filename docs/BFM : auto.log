@@ -1149,3 +1149,15 @@ Summarized using GPT-3.5-turbo
 Append: [Départs en vacances: ce vendredi classé rouge sur les routes en Ile-de-France](https://www.bfmtv.com/auto/departs-en-vacances-ce-vendredi-classe-rouge-sur-les-routes-en-ile-de-france_AN-202406280350.html)
 append_entries: 1
 Finish: 2024-06-28 12:36:17.930105
+------------------------------------------------------
+Started: 2024-06-29 01:12:56.382330
+Existing_entries: 157
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Moteurs thermiques: le géant pétrolier Aramco acquiert 10% de la co-entreprise créée par Renault et Geely](https://www.bfmtv.com/auto/moteurs-thermiques-le-geant-petrolier-aramco-acquiert-10-de-la-co-entreprise-creee-par-renault-et-geely_AD-202406280839.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Bretagne: des voitures tombent en panne après un plein de gasoil dans la même station-service](https://www.bfmtv.com/auto/bretagne-des-voitures-tombent-en-panne-apres-un-plein-de-gasoil-dans-la-meme-station-service_AV-202406280784.html)
+append_entries: 2
+Finish: 2024-06-29 01:13:03.429679

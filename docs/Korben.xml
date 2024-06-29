@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Send – Partagez des fichiers chiffrés de manière éphémère</title>
 <link>https://korben.info/send-partage-fichiers-chiffres-securise-ephemere.html</link>
 <guid>https://korben.info/send-partage-fichiers-chiffres-securise-ephemere.html</guid>
 <content:encoded><![CDATA[
-<div> open source, partage de fichiers, chiffré, auto-destruction, sécurité <br>
-<br>Summary: 
+<div> open source, partage de fichiers, chiffré, auto-destruction, sécurité <br />
+<br />Summary: 
 Send est un outil open source permettant de partager des fichiers de manière sécurisée et confidentielle. Les fichiers envoyés sont chiffrés et s'autodétruisent après un temps défini, assurant ainsi la confidentialité des données. L'interface de Send est facile à utiliser : il suffit de glisser-déposer les fichiers, définir une limite de téléchargements et une date d'expiration pour obtenir un lien à partager. Le code de Send est disponible sur GitHub pour permettre aux utilisateurs de monter leur propre instance. L'installation est simple en clonant le dépôt, installant les dépendances, configurant les variables d'environnement et lançant le serveur. Enfin, les utilisateurs peuvent profiter de Send pour partager des fichiers en toute sécurité et tranquillité. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_for_file_sharing_service_with_text_Send_1adef68f-741b-4766-bcce-064c0e0b3dec.webp" width="1456" /></p>
 <p>Vous cherchez une solution pour <strong>partager des fichiers de manière sécurisée et confidentielle</strong> ? Ne cherchez plus, Send est là pour vous ! </p>
@@ -75,9 +76,7 @@ Send est un outil open source permettant de partager des fichiers de manière s�
 <p>Alors n&rsquo;attendez plus, c&rsquo;est par ici : <strong><a href="https://github.com/timvisee/send" rel="noopener" target="_blank">https://github.com/timvisee/send</a></strong>.</p>
 ]]></content:encoded>
 <pubDate>Fri, 28 Jun 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 28 Jun 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>TopSpin 2K25 : service compris</title>
 <link>https://korben.info/test-top-spin-2k25-avis.html</link>
