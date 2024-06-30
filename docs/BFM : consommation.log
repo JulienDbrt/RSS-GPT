@@ -1080,3 +1080,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Ne plus consommer": des canettes de "Coca-Cola cherry" rappelées partout en France](https://www.bfmtv.com/economie/consommation/ne-plus-consommer-des-canettes-de-coca-cola-cherry-rappelees-partout-en-france_AN-202406290104.html)
 append_entries: 1
 Finish: 2024-06-29 12:32:58.727010
+------------------------------------------------------
+Started: 2024-06-30 01:17:40.879883
+Existing_entries: 130
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-06-30 01:17:41.071908

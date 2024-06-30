@@ -3130,3 +3130,15 @@ Summarized using GPT-3.5-turbo
 Append: [Hausse du prix du gaz, « shrinkflation », revalorisation de l’assurance chômage : ce qui changent en juillet](https://www.latribune.fr/economie/hausse-du-prix-du-gaz-shrinkflation-revalorisation-de-l-assurance-chomage-ce-qui-changent-en-juillet-1001022.html)
 append_entries: 2
 Finish: 2024-06-29 12:37:36.417361
+------------------------------------------------------
+Started: 2024-06-30 01:20:12.383236
+Existing_entries: 800
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Crise majeure au Washington Post](https://www.latribune.fr/economie/international/crise-majeure-au-washington-post-1001040.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [« Le monde échoue à atteindre ses objectifs de développement », Antonio Guterres (ONU)](https://www.latribune.fr/economie/international/le-monde-echoue-a-atteindre-ses-objectifs-de-developpement-antonio-guterres-onu-1001031.html)
+append_entries: 2
+Finish: 2024-06-30 01:20:17.391133

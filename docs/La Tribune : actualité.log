@@ -3919,3 +3919,18 @@ Summarized using GPT-3.5-turbo
 Append: [Face à la montée du niveau des mers, Caen revoit ses plans](https://www.latribune.fr/climat/transitions-ecologiques/face-a-la-montee-du-niveau-des-mers-caen-revoit-ses-plans-1000996.html)
 append_entries: 5
 Finish: 2024-06-29 12:37:50.859820
+------------------------------------------------------
+Started: 2024-06-30 01:20:18.391572
+Existing_entries: 1005
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [La fièvre chez Descartes](https://www.latribune.fr/opinions/editos/la-fievre-chez-descartes-1001088.html)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Crise majeure au Washington Post](https://www.latribune.fr/economie/international/crise-majeure-au-washington-post-1001040.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [« Le monde échoue à atteindre ses objectifs de développement », Antonio Guterres (ONU)](https://www.latribune.fr/economie/international/le-monde-echoue-a-atteindre-ses-objectifs-de-developpement-antonio-guterres-onu-1001031.html)
+append_entries: 3
+Finish: 2024-06-30 01:20:27.172471

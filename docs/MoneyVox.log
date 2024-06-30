@@ -3487,3 +3487,18 @@ Summarized using GPT-3.5-turbo
 Append: [Taxe foncière 2024 : cette date limite qui vous permet d'étaler la facture](https://www.moneyvox.fr/impot/actualites/98480/taxe-fonciere-2024-cette-date-limite-qui-vous-permet-etaler-la-facture)
 append_entries: 6
 Finish: 2024-06-29 12:35:13.268970
+------------------------------------------------------
+Started: 2024-06-30 01:18:58.911946
+Existing_entries: 1006
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [Météo : vigilance orange orages pour 24 départements samedi](https://www.moneyvox.fr/actu/98485/meteo-vigilance-orange-orages-pour-24-departements-samedi)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Assurance auto : cette carte qu'il faut absolument demander pour partir dans certains pays](https://www.moneyvox.fr/assurance/actualites/98465/assurance-auto-cette-carte-quil-faut-absolument-demander-pour-partir-dans-certains-pays)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Les macronistes changent le nom d'un simulateur de retraites, attaqué par LFI](https://www.moneyvox.fr/retraite/actualites/98484/les-macronistes-changent-le-nom-un-simulateur-de-retraites-attaque-par-lfi)
+append_entries: 3
+Finish: 2024-06-30 01:19:05.778212

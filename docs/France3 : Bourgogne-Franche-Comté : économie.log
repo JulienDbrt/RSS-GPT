@@ -1281,3 +1281,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Il est un monument, il va manquer à tout le monde" : handicapé, Christian, prend sa retraite après 35 ans de travail](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/il-est-un-monument-il-va-manquer-a-tout-le-monde-handicape-christian-prend-sa-retraite-apres-35-ans-de-travail-2994041.html)
 append_entries: 3
 Finish: 2024-06-29 12:35:39.517233
+------------------------------------------------------
+Started: 2024-06-30 01:19:08.315681
+Existing_entries: 197
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [Sale temps en Bourgogne : "on n'a jamais connu ce genre d'aléas", quand la météo plombe toujours la saison des campings](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/sale-temps-en-bourgogne-on-n-a-jamais-connu-ce-genre-d-aleas-quand-la-meteo-plombe-toujours-la-saison-des-campings-2995757.html)
+append_entries: 1
+Finish: 2024-06-30 01:19:10.205736

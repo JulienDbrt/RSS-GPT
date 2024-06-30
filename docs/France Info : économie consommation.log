@@ -4145,3 +4145,21 @@ Append: [Toys ‘R’ Us ose le premier spot de pub intégralement généré par
 Append: [Les conseils pour réussir les soldes et ne pas se faire arnaquer](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/les-conseils-pour-reussir-les-soldes-et-ne-pas-se-faire-arnaquer_6604659.html)
 append_entries: 11
 Finish: 2024-06-29 12:34:42.589314
+------------------------------------------------------
+Started: 2024-06-30 01:18:38.759668
+Existing_entries: 1011
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Le groupe français Thalès perquisitionné dans trois pays, pour des soupçons de corruption, association de malfaiteurs et blanchiment](https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/le-groupe-francais-thales-perquisitionne-dans-trois-pays-pour-des-soupcons-de-corruption-association-de-malfaiteurs-et-blanchiment_6634161.html)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [JO 2024 : les professionnels du tourisme s’inquiètent](https://www.francetvinfo.fr/les-jeux-olympiques/jo-2024-les-professionnels-du-tourisme-s-inquietent_6634119.html)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Hôtellerie et restauration : une commission d’indemnisation économique liée aux Jeux olympiques va se mettre en place](https://www.francetvinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/hotellerie-et-restauration-une-commission-d-indemnisation-economique-liee-aux-jeux-olympiques-va-se-mettre-en-place_6633906.html)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [SNCF : les prix des billets de trains augmentent plus vite que l’inflation](https://www.francetvinfo.fr/economie/transports/sncf/sncf-les-prix-des-billets-de-trains-augmentent-plus-vite-que-l-inflation_6633894.html)
+append_entries: 4
+Finish: 2024-06-30 01:18:50.096691

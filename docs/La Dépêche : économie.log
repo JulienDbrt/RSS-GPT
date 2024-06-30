@@ -5065,3 +5065,18 @@ Append: [68 entretiens au dernier café de l’emploi de L’Isle-Jourdain](http
 Append: [L’école de musique animait le 1er marché gourmand de la saison de Gimont](https://www.ladepeche.fr/2024/06/29/lecole-de-musique-animait-le-1er-marche-gourmand-de-la-saison-de-gimont-12048538.php)
 append_entries: 20
 Finish: 2024-06-29 12:37:03.458824
+------------------------------------------------------
+Started: 2024-06-30 01:19:41.569056
+Existing_entries: 1020
+Fetching from https://www.ladepeche.fr/economie/rss.xml
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: ["Nouvel élan" pour la halle de l’Albinque à Castres qui a ouvert un espace pour pouvoir déguster sur place les produits des commerçants](https://www.ladepeche.fr/2024/06/29/nouvel-elan-pour-la-halle-de-lalbinque-a-castres-qui-a-ouvert-un-espace-pour-pouvoir-deguster-sur-place-les-produits-des-commercants-12049119.php)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: ["Nous sommes un peu abattus" : les salariés nostalgiques face à la fermeture du Géant Casino de Decazeville](https://www.ladepeche.fr/2024/06/29/nous-sommes-un-peu-abattus-les-salaries-nostalgiques-face-a-la-fermeture-du-geant-casino-de-decazeville-12044608.php)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [Une nouvelle librairie ouvre à Villefranche](https://www.ladepeche.fr/2024/06/29/une-nouvelle-librairie-ouvre-a-villefranche-12044209.php)
+append_entries: 3
+Finish: 2024-06-30 01:19:52.294433
