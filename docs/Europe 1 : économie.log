@@ -1399,3 +1399,12 @@ Existing_entries: 229
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-30 01:18:36.720340
+------------------------------------------------------
+Started: 2024-06-30 12:33:53.946429
+Existing_entries: 229
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 342
+Summarized using GPT-3.5-turbo
+Append: [Économie : qu'est-ce que le «Plan d'Épargne Avenir Climat», disponible à partir du 1er juillet ?](https://www.europe1.fr/economie/economie-quest-ce-que-le-plan-depargne-avenir-climat-disponible-des-ce-lundi-4255560)
+append_entries: 1
+Finish: 2024-06-30 12:33:57.358737

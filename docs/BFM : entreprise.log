@@ -2629,3 +2629,15 @@ Existing_entries: 677
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/
 append_entries: 0
 Finish: 2024-06-30 01:17:42.141312
+------------------------------------------------------
+Started: 2024-06-30 12:32:48.001824
+Existing_entries: 677
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Espionnage, cambriolages, sabotages: le ministre des Armées révèle des attaques "à l'ancienne" sur les industries de défense](https://www.bfmtv.com/economie/entreprises/defense/espionnage-cambriolages-sabotages-le-ministre-des-armees-revele-des-attaques-a-l-ancienne-sur-les-industries-de-defense_AV-202406300259.html)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [Thales, un fleuron français de la défense, du cyber et du spatial, visé par plusieurs enquêtes](https://www.bfmtv.com/economie/entreprises/defense/thales-un-fleuron-francais-de-la-defense-du-cyber-et-du-spatial-vise-par-plusieurs-enquetes_AD-202406300152.html)
+append_entries: 2
+Finish: 2024-06-30 12:32:54.476280

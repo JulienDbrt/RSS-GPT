@@ -2626,3 +2626,15 @@ Existing_entries: 760
 Fetching from https://flipboard.com/topic/fr-immobilier.rss
 append_entries: 0
 Finish: 2024-06-30 01:15:40.541554
+------------------------------------------------------
+Started: 2024-06-30 12:30:17.291323
+Existing_entries: 760
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Voici comment acheter une résidence secondaire pour 50 000 euros au lieu de plusieurs centaines de milliers](https://www.journaldunet.com/economie/immobilier/1531355-ip1-residence-secondaire/)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [L’hôtellerie de prestige rattrapée par l’incertitude politique avant les JO : « Les touristes n’aiment pas le bazar »](https://www.leparisien.fr/jo-paris-2024/lhotellerie-de-prestige-rattrapee-par-lincertitude-politique-avant-les-jo-les-touristes-naiment-pas-le-bazar-30-06-2024-NNLIAYMKPVF25CE3QDBLURKPXI.php)
+append_entries: 2
+Finish: 2024-06-30 12:30:36.927353

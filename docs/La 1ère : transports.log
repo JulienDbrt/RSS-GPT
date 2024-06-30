@@ -1243,3 +1243,9 @@ Summarized using GPT-3.5-turbo
 Append: [Transport aérien : un nouveau dispositif d’un an pour les dessertes de l’intérieur guyanais](https://la1ere.francetvinfo.fr/guyane/transport-aerien-un-nouveau-dispositif-d-un-an-pour-les-dessertes-de-l-interieur-guyanais-1501505.html)
 append_entries: 1
 Finish: 2024-06-30 01:19:39.945422
+------------------------------------------------------
+Started: 2024-06-30 12:35:45.069027
+Existing_entries: 169
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-06-30 12:35:45.218993

@@ -1579,3 +1579,18 @@ Existing_entries: 341
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-06-30 01:19:25.115605
+------------------------------------------------------
+Started: 2024-06-30 12:35:22.929024
+Existing_entries: 341
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4287
+Summarized using GPT-3.5-turbo
+Append: [Internet peut mourir : la preuve par la Toile chinoise](https://www.lexpress.fr/economie/high-tech/internet-peut-mourir-la-preuve-par-la-toile-chinoise-IWCS5U6EWNERHGUXYC5WLTGKDA/)
+Token length: 3209
+Summarized using GPT-3.5-turbo
+Append: [Corruption : ces soupçons qui pèsent sur Thales](https://www.lexpress.fr/economie/entreprises/corruption-ces-soupcons-qui-pesent-sur-thales-U2RWA6ZGQ5E3RHRCT4KIIJRGO4/)
+Token length: 12784
+Summarized using GPT-3.5-turbo
+Append: [La vie secrète des jeunes avec l’IA : "ChatGPT m’a aidé à écrire une lettre d’amour"](https://www.lexpress.fr/economie/high-tech/la-vie-secrete-des-jeunes-avec-lia-chatgpt-ma-aide-a-ecrire-une-lettre-damour-676YAIX4DRCMXBN2ZYQPXXMOKE/)
+append_entries: 3
+Finish: 2024-06-30 12:35:34.423064

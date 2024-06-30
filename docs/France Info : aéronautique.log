@@ -884,3 +884,9 @@ Summarized using GPT-3.5-turbo
 Append: [Hommage à l'écrivain et pilote lyonnais Antoine de Saint-Exupéry né le 29 juin 1900, il y a 124 ans](https://www.francetvinfo.fr/culture/livres/hommage-a-l-ecrivain-et-pilote-lyonnais-antoine-de-saint-exupery-ne-le-29-juin-1900-il-y-a-124-ans_6633726.html)
 append_entries: 1
 Finish: 2024-06-30 01:18:53.539886
+------------------------------------------------------
+Started: 2024-06-30 12:34:15.027535
+Existing_entries: 56
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-06-30 12:34:15.527832

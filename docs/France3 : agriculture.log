@@ -2052,3 +2052,15 @@ Existing_entries: 452
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-06-30 01:19:08.211996
+------------------------------------------------------
+Started: 2024-06-30 12:34:33.341140
+Existing_entries: 452
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [Vidéo. L’essor du gazon en rouleau, le choix gagnant de ce paysagiste](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/video-l-essor-du-gazon-en-rouleau-le-choix-gagnant-de-ce-paysagiste-2991008.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [Moissons : comment bien vivre cette période si vous êtes confrontés aux nuisances ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/moissons-comment-bien-vivre-cette-periode-si-vous-etes-confrontes-aux-nuisances-2995466.html)
+append_entries: 2
+Finish: 2024-06-30 12:34:39.758260

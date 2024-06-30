@@ -3502,3 +3502,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les macronistes changent le nom d'un simulateur de retraites, attaqué par LFI](https://www.moneyvox.fr/retraite/actualites/98484/les-macronistes-changent-le-nom-un-simulateur-de-retraites-attaque-par-lfi)
 append_entries: 3
 Finish: 2024-06-30 01:19:05.778212
+------------------------------------------------------
+Started: 2024-06-30 12:34:18.676761
+Existing_entries: 1003
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Suspense pour le taux du LEP, revalorisation de votre retraite... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/98477/suspense-pour-le-taux-du-lep-revalorisation-de-votre-retraite-les-5-infos-argent-de-la-semaine)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Crédit Agricole de la Réunion : mauvaise nouvelle, les tarifs augmentent pour la première fois depuis 2022 !](https://www.moneyvox.fr/tarif-bancaire/actualites/98441/credit-agricole-de-la-reunion-mauvaise-nouvelle-les-tarifs-augmentent-pour-la-premiere-fois-depuis-2022)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [« C'est un garde-fou »... Comment le prix repère du gaz impacte votre facture depuis un an](https://www.moneyvox.fr/energie/actualites/98429/c-est-un-garde-fou-comment-le-prix-repere-du-gaz-impacte-votre-facture-depuis-un-an)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [« Je vais devoir augmenter mes prix »... Vers une hausse de 10% du prix des DPE dès juillet ?](https://www.moneyvox.fr/votre-argent/actualites/98478/je-vais-devoir-augmenter-mes-prix-vers-une-hausse-de-10-du-prix-des-dpe-des-juillet)
+append_entries: 4
+Finish: 2024-06-30 12:34:28.702792

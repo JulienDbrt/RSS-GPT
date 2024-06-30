@@ -2755,3 +2755,18 @@ Summarized using GPT-3.5-turbo
 Append: [Transport aérien : un nouveau dispositif d’un an pour les dessertes de l’intérieur guyanais](https://la1ere.francetvinfo.fr/guyane/transport-aerien-un-nouveau-dispositif-d-un-an-pour-les-dessertes-de-l-interieur-guyanais-1501505.html)
 append_entries: 2
 Finish: 2024-06-30 01:19:33.638336
+------------------------------------------------------
+Started: 2024-06-30 12:35:35.175994
+Existing_entries: 673
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [La directrice générale du Medef demande à Carla Baltus de retirer sa candidature à la présidence](https://la1ere.francetvinfo.fr/mayotte/la-directrice-generale-du-medef-demande-a-carla-baltus-de-retirer-sa-candidature-a-la-presidence-1501730.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [A Sainte-Anne, un planteur perd deux hectares de cannes suite à un incendie](https://la1ere.francetvinfo.fr/reunion/saint-benoit/a-sainte-anne-un-planteur-perd-deux-hectares-de-cannes-suite-a-un-incendie-1501697.html)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [La grève se poursuit à La Poste malgré l'ébauche d'un accord](https://la1ere.francetvinfo.fr/mayotte/la-greve-se-poursuit-a-la-poste-malgre-l-ebauche-d-un-accord-1501679.html)
+append_entries: 3
+Finish: 2024-06-30 12:35:44.630502

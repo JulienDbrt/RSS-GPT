@@ -4163,3 +4163,24 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : les prix des billets de trains augmentent plus vite que l’inflation](https://www.francetvinfo.fr/economie/transports/sncf/sncf-les-prix-des-billets-de-trains-augmentent-plus-vite-que-l-inflation_6633894.html)
 append_entries: 4
 Finish: 2024-06-30 01:18:50.096691
+------------------------------------------------------
+Started: 2024-06-30 12:33:59.225729
+Existing_entries: 1004
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Économie : comment fonctionne le nouveau plan d'épargne "avenir climat", disponible à partir du 1er juillet ?](https://www.francetvinfo.fr/economie/economie-comment-fonctionne-le-nouveau-plan-d-epargne-avenir-climat-disponible-a-partir-du-1er-juillet_6635370.html)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGE. "Si tu ne vas pas à l'armée, tu vas en prison" : pourquoi le service militaire obligatoire n'est pas accepté par les ultra-orthodoxes en Israël](https://www.francetvinfo.fr/monde/israel/temoignage-si-tu-ne-vas-pas-a-l-armee-tu-vas-en-prison-pourquoi-le-service-militaire-obligatoire-n-est-pas-accepte-par-les-ultra-orthodoxes_6634149.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. "La laine est devenue une charge pour mon exploitation" : dans l'Allier, les éleveurs n'arrivent plus à vendre les toisons de leurs bêtes](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/reportage-la-laine-est-devenue-une-charge-pour-mon-exploitation-dans-l-allier-les-eleveurs-n-arrivent-plus-a-vendre-les-toisons-de-leurs-betes_6633828.html)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Chômage de longue durée et formation : quels bénéfices pour les cadres ?](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/chomage-de-longue-duree-et-formation-quels-benefices-pour-les-cadres_6513800.html)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [Hausse du prix du gaz, évolution du DPE, nouveau plan d'épargne pour les jeunes... Ce qui change à partir du 1er juillet](https://www.francetvinfo.fr/economie/energie/hausse-du-prix-du-gaz-evolution-du-dpe-nouveau-plan-d-epargne-pour-les-jeunes-ce-qui-change-a-partir-du-1er-juillet_6625275.html)
+append_entries: 5
+Finish: 2024-06-30 12:34:14.996676

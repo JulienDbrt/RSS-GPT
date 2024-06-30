@@ -1005,3 +1005,12 @@ Existing_entries: 103
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-06-30 01:19:07.219626
+------------------------------------------------------
+Started: 2024-06-30 12:34:29.190128
+Existing_entries: 103
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Hausse du prix du gaz, revalorisation des indemnités chômage, information des consommateurs : ce qui change au 1er juillet](https://france3-regions.francetvinfo.fr/corse/hausse-du-prix-du-gaz-revalorisation-des-indemnites-chomage-information-des-consommateurs-ce-qui-change-au-1er-juillet-2995649.html)
+append_entries: 1
+Finish: 2024-06-30 12:34:32.837889

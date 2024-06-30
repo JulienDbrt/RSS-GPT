@@ -4722,3 +4722,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les ETF Spot Bitcoin enregistrent un afflux de 73 millions de dollars au milieu de mouvements de fonds mixtes](https://www.cryptopolitan.com/fr/les-etfs-spot-bitcoin-voient-73-millions-d-39-entrees/)
 append_entries: 7
 Finish: 2024-06-30 01:15:18.546517
+------------------------------------------------------
+Started: 2024-06-30 12:28:45.346887
+Existing_entries: 1007
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [Arkham révèle que Vitalik Buterin détient plus de 800 millions de dollars en Ethereum](https://www.cryptopolitan.com/fr/arkham-revele-que-vitalik-detient-800-m-dans-l-39-ether/)
+Token length: 28
+Summarized using GPT-3.5-turbo
+Append: [Gagnants et perdants de juin](https://www.lapresse.ca/affaires/marches/2024-06-30/l-investisseur-avise/gagnants-et-perdants-de-juin.php)
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [Analyse : tout espoir perdu pour Cardano (ADA) – BLOX](https://www.nouvelles-du-monde.com/analyse-tout-espoir-perdu-pour-cardano-ada-blox/)
+append_entries: 3
+Finish: 2024-06-30 12:28:57.725853
