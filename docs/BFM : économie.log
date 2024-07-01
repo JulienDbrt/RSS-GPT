@@ -6119,3 +6119,18 @@ Summarized using GPT-3.5-turbo
 Append: [L'affichage des produits dont le prix a augmenté et la quantité a baissé devient obligatoire à partir de ce lundi](https://www.bfmtv.com/economie/l-affichage-des-produits-dont-le-prix-a-augmente-et-la-quantite-a-baisse-devient-obligatoire-a-partir-de-ce-lundi_VN-202406300085.html)
 append_entries: 8
 Finish: 2024-06-30 12:32:42.191365
+------------------------------------------------------
+Started: 2024-07-01 01:20:29.538644
+Existing_entries: 1008
+Fetching from https://www.bfmtv.com/rss/economie/
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Assurance chômage: Gabriel Attal décide de suspendre la mise en œuvre de la réforme après les résultats des législatives](https://www.bfmtv.com/economie/economie-social/assurance-chomage-gabriel-attal-decide-de-suspendre-la-mise-en-uvre-de-la-reforme-apres-les-resultats-des-legislatives_AV-202406300509.html)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [Réforme des retraites: ce que proposent le RN et Jordan Bardella en cas de victoire aux législatives](https://www.bfmtv.com/economie/reforme-des-retraites-ce-que-proposent-le-rn-et-jordan-bardella-en-cas-de-victoire-aux-legislatives_AV-202406300440.html)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Atos: un accord de principe a été trouvé avec les créanciers pour restructurer la dette](https://www.bfmtv.com/economie/entreprises/atos-un-accord-de-principe-a-ete-trouve-avec-les-creanciers-pour-restructurer-de-la-dette_AV-202406300291.html)
+append_entries: 3
+Finish: 2024-07-01 01:20:39.046127

@@ -1349,3 +1349,9 @@ Summarized using GPT-3.5-turbo
 Append: [Perquisitions en série chez le marchand d’armes Thalès, soupçonné de corruption](https://www.20minutes.fr/societe/4098863-20240630-perquisitions-serie-chez-marchand-armes-thales-soupconne-corruption)
 append_entries: 1
 Finish: 2024-06-30 12:32:18.241746
+------------------------------------------------------
+Started: 2024-07-01 01:20:27.992966
+Existing_entries: 209
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-07-01 01:20:28.184860

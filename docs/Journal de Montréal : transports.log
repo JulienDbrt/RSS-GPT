@@ -1200,3 +1200,12 @@ Existing_entries: 156
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-06-30 12:35:09.634867
+------------------------------------------------------
+Started: 2024-07-01 01:21:50.839814
+Existing_entries: 156
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [Techniciens en grève: WestJet annule plus de 400 vols](https://www.journaldemontreal.com/2024/06/29/techniciens-en-greve-westjet-annule-plus-de-150-vols-pour-le-long-week-end)
+append_entries: 1
+Finish: 2024-07-01 01:21:55.505458

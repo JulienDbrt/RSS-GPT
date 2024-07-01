@@ -3520,3 +3520,15 @@ Summarized using GPT-3.5-turbo
 Append: [« Je vais devoir augmenter mes prix »... Vers une hausse de 10% du prix des DPE dès juillet ?](https://www.moneyvox.fr/votre-argent/actualites/98478/je-vais-devoir-augmenter-mes-prix-vers-une-hausse-de-10-du-prix-des-dpe-des-juillet)
 append_entries: 4
 Finish: 2024-06-30 12:34:28.702792
+------------------------------------------------------
+Started: 2024-07-01 01:21:31.237969
+Existing_entries: 1004
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [La Banque Postale : un piège à éviter](https://www.moneyvox.fr/banque/actualites/98475/la-banque-postale-un-piege-a-eviter)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Assurance vie : cette proposition originale pour calculer les impôts sur vos intérêts](https://www.moneyvox.fr/assurance-vie/actualites/98476/cette-proposition-originale-pour-calculer-les-impots-sur-vos-interets)
+append_entries: 2
+Finish: 2024-07-01 01:21:37.283976
