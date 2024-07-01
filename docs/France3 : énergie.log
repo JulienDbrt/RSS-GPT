@@ -1023,3 +1023,9 @@ Summarized using GPT-3.5-turbo
 Append: [Une grande partie de la Corse privée d'électricité pendant une demi-heure](https://france3-regions.francetvinfo.fr/corse/une-grande-partie-de-la-corse-privee-d-electricite-pendant-une-demi-heure-2996048.html)
 append_entries: 1
 Finish: 2024-07-01 01:21:44.854119
+------------------------------------------------------
+Started: 2024-07-01 12:41:30.531969
+Existing_entries: 105
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-07-01 12:41:30.995056

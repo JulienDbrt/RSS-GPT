@@ -1603,3 +1603,12 @@ Existing_entries: 295
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-07-01 01:22:25.202028
+------------------------------------------------------
+Started: 2024-07-01 12:43:35.706219
+Existing_entries: 295
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Montauban. 53 candidats de l’ESAT ont validé leurs compétences professionnelles](https://www.ladepeche.fr/2024/07/01/53-candidats-de-lesat-ont-valide-leurs-competences-professionnelles-12052205.php)
+append_entries: 1
+Finish: 2024-07-01 12:43:40.323733

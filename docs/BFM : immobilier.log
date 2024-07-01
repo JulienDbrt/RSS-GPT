@@ -1324,3 +1324,15 @@ Existing_entries: 218
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-07-01 01:20:59.125698
+------------------------------------------------------
+Started: 2024-07-01 12:39:44.506368
+Existing_entries: 218
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Achat, location : Retrouvez tous les prix immobiliers ville par ville](https://www.bfmtv.com/immobilier/prix-immobilier/achat-location-retrouvez-tous-les-prix-immobiliers-ville-par-ville_DN-202310260749.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Mulhouse, Colmar, Le Havre... Les prix immobiliers repartent à la baisse en juin](https://www.bfmtv.com/immobilier/prix-immobilier/mulhouse-colmar-le-havre-les-prix-immobiliers-repartent-a-la-baisse-en-juin_AV-202407010320.html)
+append_entries: 2
+Finish: 2024-07-01 12:39:50.145010

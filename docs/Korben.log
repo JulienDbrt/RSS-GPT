@@ -1372,3 +1372,15 @@ Existing_entries: 210
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-07-01 01:18:45.642620
+------------------------------------------------------
+Started: 2024-07-01 12:35:37.189311
+Existing_entries: 210
+Fetching from https://korben.info/feed
+Token length: 5220
+Summarized using GPT-3.5-turbo
+Append: [Maison connectée et fuite de donnée, une relation qui fonctionne](https://korben.info/maison-connectee-fuite-de-donnee.html)
+Token length: 2735
+Summarized using GPT-3.5-turbo
+Append: [OpenDevin – L’IA qui code](https://korben.info/opendevin-ia-codeur-autonome-open-source-revolutionne-dev.html)
+append_entries: 2
+Finish: 2024-07-01 12:35:45.378103

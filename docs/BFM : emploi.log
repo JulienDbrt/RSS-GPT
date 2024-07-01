@@ -957,3 +957,18 @@ Existing_entries: 83
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-07-01 01:20:44.855819
+------------------------------------------------------
+Started: 2024-07-01 12:38:42.571338
+Existing_entries: 83
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: ["On est au bout d'un système": la CPME appelle à "remettre à plat" le dispositif d'assurance-chômage](https://www.bfmtv.com/economie/emploi/on-est-au-bout-d-un-systeme-la-cpme-appelle-a-remettre-a-plat-le-dispositif-d-assurance-chomage_AD-202407010371.html)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage: les règles actuelles prolongées jusqu'au 31 juillet après la suspension de la réforme](https://www.bfmtv.com/economie/emploi/assurance-chomage-les-regles-actuelles-prolongees-jusqu-au-31-juillet-apres-la-suspension-de-la-reforme_AD-202407010313.html)
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage: "circonspect" sur la suspension du texte, Le Maire appelle "à poursuivre la réforme"](https://www.bfmtv.com/economie/emploi/assurance-chomage-circonspect-sur-la-suspension-du-texte-le-maire-appelle-a-poursuivre-la-reforme_AP-202407010249.html)
+append_entries: 3
+Finish: 2024-07-01 12:38:51.880673

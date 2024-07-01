@@ -4,6 +4,187 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Maison connectée et fuite de donnée, une relation qui fonctionne</title>
+<link>https://korben.info/maison-connectee-fuite-de-donnee.html</link>
+<guid>https://korben.info/maison-connectee-fuite-de-donnee.html</guid>
+<content:encoded><![CDATA[
+<div> espions, données, maisons intelligentes, Amazon, Google <br>
+<br>
+Summary: Les maisons intelligentes et les objets connectés collectent et stockent des données personnelles, exposant les utilisateurs à des risques de fuites ou de piratage. Amazon et Google sont parmi les plus avides de données, collectant des informations variées sur les utilisateurs. La sécurité des données est une préoccupation majeure, notamment en termes de gestion et de fuites potentielles. Il est conseillé de limiter les informations partagées, de privilégier des alternatives open source et de sécuriser les connexions Wi-Fi. L'utilisation d'un service VPN comme Surfshark peut protéger la confidentialité des données et empêcher leur interception par des tiers. Les abonnements abordables de Surfshark offrent une tranquillité d'esprit en matière de sécurité numérique. <div>
+<p><img alt="Maison autonome et écologique DIY" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="590" src="https://korben.info/app/uploads/2019/11/diy-maison-autonome.jpg" width="960" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat avec <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Surfshark VPN</a> &#8212;</p>
+
+
+
+<p>Comment&nbsp;ça va de votre côté ? On se prépare doucement à la pause estivale ? En ce qui me concerne, j&rsquo;en termine déjà avec le premier&nbsp;mois de mon trimestre de pause &#8230; ça&nbsp;file à une vitesse ma bonne dame,&nbsp;c&rsquo;est dingue ! Mais s&rsquo;il y en a qui ne prennent jamais de repos, ce sont bien les espions à l&rsquo;affut de nos données.</p>
+
+
+
+<p>Au travers de mes précédents articles, j&rsquo;ai déjà fait le tour de pas mal d&rsquo;outils, objets&nbsp;et services qui nous surveillent en quasi permanence. <a href="https://korben.info/incogni-data-brokers-et-voitures.html">Les voitures intelligentes</a> par exemple, ou les <a href="https://korben.info/extensions-ia-donnees-personnelles.html">applications d&rsquo;IA</a> ainsi que celles <a href="https://korben.info/incogni-applications-shopping.html">dédiées au shopping</a>. Bref tout ce qui stocke de la data personnelle est susceptible de fuiter ou d&rsquo;être utilisé à vos dépens et sans votre autorisation.&nbsp;Le plus souvent c&rsquo;est « seulement » pour vous bombarder de pubs ciblées, mais parfois c&rsquo;est plus dangereux que cela (escroquerie, vol d&rsquo;identité &#8230;). Et comme je l&rsquo;ai montré dans ces mêmes articles, cela arrive de plus en plus fréquemment, la data numérique étant la nouvelle manne financière d&rsquo;un pan entier du web.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-161255" height="262" src="https://korben.info/app/uploads/2024/05/surfshark-reprenez-le-controle.webp" width="700" /></figure></div>
+
+
+<p>Aujourd&rsquo;hui on va s&rsquo;intéresser à quelque chose&nbsp;d&rsquo;autre : les<strong> maisons intelligentes</strong>.&nbsp;Car vous le savez aussi bien que moi, nous avons de plus en plus d&rsquo;objets du quotidien connecté via des applications (IoT). Quelques exemples ? Brosse à dents, montre connectée, aspirateur robot, porte de garage, système de surveillance, machine à café, frigo, système de chauffage ou d&rsquo;éclairage, volets de fenêtres&nbsp;ou encore les classiques assistant virtuel type Alexa. Alexa qui fête déjà ses 10 ans cette année, le temps passe vite ma bonne dame ! (je sais, je me répète, c&rsquo;est l&rsquo;âge &#8230; le temps passe vite ma &#8230;).</p>
+
+
+
+<p>Surfshark nous a pondu une étude sur la question et épingle notamment Google et Amazon comme les plus avides de nos données (quelle surprise Sherlock). Mais ils ne sont pas les seuls puisque la majorité des quasi 300 applis testées récoltent et stockent diverses infos comme vos noms, votre email, vos interactions avec le produit (heures &amp; Co) ou encore votre localisation précise. Infos qui vont aller gonfler nos profils chez les centaines de courtiers en données dès qu&rsquo;elles se retrouveront dans la nature.</p>
+
+
+
+<p>Amazon Alexa est de loin la pire de toutes, collectant 28 données différentes sur 32 analysées &#8230; qui, en plus, sont directement liées à votre identité personnelle. Au calme. Google fait un peu mieux, avec « seulement » 22 données récupérées (adresse, photos et vidéos, données de santé&nbsp;&#8230;). L&rsquo;une des catégories les plus&nbsp;touchées ce sont&nbsp;les caméras de sécurité &#8230; qui ne font donc pas que surveiller les voleurs, mais les habitants de la maison eux-mêmes. On a aussi dans la liste des jouets connectés pour enfants (décidément après les <a href="https://korben.info/applis-android-incogni.html">applis mobiles&nbsp;pour gamins</a>, ils ne sont jamais tranquilles nos mouflets). Vous pouvez retrouver tout le détail de l&rsquo;étude <a href="https://surfshark.com/research/smart-homes/insights" rel="noreferrer noopener" target="_blank">sur cette page</a>, si vous voulez creuser un peu par vous-mêmes.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://kbn.im/surfsharkmaisonconnectée" width="480" /></figure></div>
+
+
+<p>Bon vous allez me dire, en quoi est-ce problématique ? Je n&rsquo;ai rien à cacher&nbsp;!&nbsp;(hahaha &#8230; OK boomer).&nbsp;Ces gadgets collectent vos données, augmentant ainsi votre empreinte digitale, et parfois utilisent ces mêmes données pour afficher des publicités ciblées. Chiant, mais pas mortel.&nbsp;Au niveau de la sécurité, le risque de mauvaise gestion ou de fuites de données augmente, car les données sont distribuées à travers plusieurs bases de données. Qui finiront pas fuiter, se faire hacker ou être revendues&nbsp;à des datas brokers. Ce qui arrive quotidiennement.</p>
+
+
+
+<p>Prenons un exemple concret : vous avez installé une caméra de sécurité pour filmer si quelqu&rsquo;un entre par effraction chez vous. Jusque là rien de spécial. Mais si cette caméra vous enregistre vous en train de tondre votre pelouse à moitié à poil et que la vidéo finit dans les mains d&rsquo;un hacker quelconque &#8230; là c&rsquo;est une autre histoire. Imaginez l&rsquo;intimité du chef de l&rsquo;Internet révélée aux yeux du grand public. Le monde n&rsquo;est pas prêt.</p>
+
+
+
+<p>Maintenant, comment lutter contre ce fléau ? Et bien déjà en se posant la question de savoir si l&rsquo;on a vraiment besoin de ce type de gadget. La caméra si vous êtes dans une zone à risque ça peut avoir du sens. La brosse à dents ou la machine à café connectée &#8230; ce n&rsquo;est peut-être&nbsp;pas vital. Ou au moins,&nbsp;essayez de trouver une alternative open source (pour creuser le code et voir comment elle fonctionne vraiment) et moins avide de tout savoir sur vos habitudes.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd4M2MyZnZzcTR6MnY1dzB4djh6Z3pnZ25zcTR3cmlpaTRqbjhtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OINq8DxPHl0GAC3brN/giphy.gif" width="480" /></figure></div>
+
+
+<p>Prenez également le temps de mettre à jour les&nbsp;paramètres pour limiter au strict minimum ce que vous partagez. Si votre aspirateur robot a besoin du microphone ou que votre air fryer dispose d&rsquo;un accès caméra, posez-vous des questions ^^ Pensez aussi à sécuriser vos connexions Wi-Fi&nbsp;et chiffrer tout votre trafic. C&rsquo;est là que va intervenir Surfshark, l&rsquo;un des plus réputés du marché que je vous recommande depuis des années. Il vous évitera&nbsp;de voir vos flux de données interceptés par un tiers, ou tout du moins de les rendre inexploitables si cela devait arriver. Je ne vous refais pas la présentation des multiples intérêts de l&rsquo;outil, je l&rsquo;ai déjà fait dans ma <a href="https://korben.info/a-la-decouverte-de-surfshark.html">présentation de Surfshark VPN</a>.</p>
+
+
+
+<p>Surtout que vous pouvez en bénéficier&nbsp;au&nbsp;prix d&rsquo;environ 71€ pour&nbsp;27 mois (moins de 2.65€/mois) avec l&rsquo;abonnement 2 ans. Ou opter pour la boite à outils complète Surfshark One (avec l&rsquo;antivirus, la surveillance de fuites&nbsp;&amp; co) pour à peine plus cher (3.23€/mois). Pas cher payé le prix de tranquillité d&rsquo;esprit.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Testez le VPN de Surfshark !</a></h2>
+]]></content:encoded>
+<pubDate>Mon, 01 Jul 2024 08:00:00 +0000</pubDate>
+<pubDate>Mon, 01 Jul 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenDevin – L’IA qui code</title>
+<link>https://korben.info/opendevin-ia-codeur-autonome-open-source-revolutionne-dev.html</link>
+<guid>https://korben.info/opendevin-ia-codeur-autonome-open-source-revolutionne-dev.html</guid>
+<content:encoded><![CDATA[
+<div> Linux, Mac OS, WSL, Docker, Python, NodeJS, Poetry, OpenDevin, LM, GPT-4
+
+Summary:<br>
+OpenDevin est un projet open source développé par Cognition Labs qui propose un ingénieur logiciel IA autonome capable d'exécuter des tâches complexes et de collaborer avec les développeurs. Pour l'installer, il faut avoir Linux, Mac OS, ou WSL sur Windows, Docker, Python, NodeJS, et Poetry. OpenDevin prend en charge différents modèles de langage grâce à la bibliothèque litellm, avec GPT-4 d'OpenAI comme modèle par défaut. La configuration du modèle de langage peut se faire via le Makefile ou manuellement dans le fichier config.toml. Une fois configuré, OpenSevin peut être lancé avec une seule commande pour démarrer les serveurs backend et frontend. Il est également possible de démarrer chaque serveur indépendamment. Le projet est encore en développement, mais présente un potentiel d'automatisation des tâches liées au développement de logiciels. Peut-être qu'un jour, des outils comme OpenDevin pourront tout faire de A à Z de manière autonome. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="191" src="https://korben.info/app/uploads/2024/04/SCR-20240407-nh9.webp" width="611" /></p>
+<p>Après Devin et <a href="https://korben.info/devika-ia-revolutionnaire-developpement-logiciel.html">Devika</a>, <strong>OpenDevin</strong> est un projet open source qui vous permet de disposer d&rsquo;un ingénieur logiciel IA autonome. Créé par Cognition Labs, ce petit génie du code est capable d&rsquo;exécuter des tâches complexes et de collaborer activement avec les développeurs sur des projets. </p>
+
+
+
+<figure class="wp-block-video"><video controls="controls" src="https://korben.info/app/uploads/2024/04/318638664-71a472cc-df34-430c-8b1d-4d7286c807c9.webm"></video></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1471939006" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>C&rsquo;est encore en développement, donc loin de remplir toutes ses promesses, mais OpenDevin va pouvoir de manière totalement autonome générer du code, détecter les bugs, optimiser nos programmes&#8230;</p>
+
+
+
+<p>Pour l&rsquo;installer, vous aurez besoin de : </p>
+
+
+
+<ul>
+<li>Linux, Mac OS, ou WSL sur Windows</li>
+
+
+
+<li>Docker (pour ceux sur MacOS, assurez-vous d&rsquo;autoriser l&rsquo;utilisation de la socket Docker par défaut depuis les paramètres avancés !)</li>
+
+
+
+<li>Python >= 3.11</li>
+
+
+
+<li>NodeJS >= 18.17.1</li>
+
+
+
+<li>Poetry >= 1.8</li>
+</ul>
+
+
+
+<p>Ensuite, vous devrez « c<strong>onstruire » le projet</strong>, ce qui inclut la configuration de l&rsquo;environnement et l&rsquo;installation des dépendances. Cette étape garantit qu&rsquo;OpenDevin est prêt à fonctionner sans problème sur votre système. </p>
+
+
+
+<p><code>make build</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-749680375" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Notez qu&rsquo;OpenDevin prend en charge une grande variété de modèles de langage (LM) grâce à la puissante bibliothèque litellm. Par défaut, c&rsquo;est donc GPT-4 d&rsquo;OpenAI qui est le modèle par défaut, mais vous avez le choix.</p>
+
+
+
+<p>Pour configurer le LM de votre choix, suivez ces étapes :</p>
+
+
+
+<ol>
+<li><strong>Utiliser le Makefile : </strong>Avec une seule commande, vous pouvez avoir une configuration de LM fluide pour votre expérience OpenDevin. Exécutez simplement : <code>make setup-config</code> Cette commande vous invitera à saisir la clé API du LLM et le nom du modèle, en veillant à ce qu&rsquo;OpenDevin soit adapté à vos besoins spécifiques.</li>
+
+
+
+<li>Ou passez à la <strong>configuration manuelle : </strong> Vous pouvez mettre à jour manuellement le fichier <code>config.toml</code> situé dans le répertoire racine du projet. Vous y trouverez les champs <code>llm_api_key</code> et <code>llm_model_name</code>, où vous pouvez définir le LM de votre choix.</li>
+</ol>
+
+
+
+<p>Une fois la configuration terminée, lancer OpenDevin est aussi simple qu&rsquo;exécuter une seule commande. Cette commande démarre à la fois les serveurs backend et frontend de manière transparente, vous permettant d&rsquo;interagir avec OpenDevin sans aucun problème. </p>
+
+
+
+<p><code>make run</code></p>
+
+
+
+<p>Si vous préférez, vous pouvez démarrer le serveur backend indépendamment pour vous concentrer sur les tâches ou les configurations liées au backend. </p>
+
+
+
+<p><code>make start-backend</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1978844908" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>De même, vous pouvez démarrer le serveur frontend seul pour travailler sur les composants ou les améliorations de l&rsquo;interface liés au frontend. </p>
+
+
+
+<p><code>make start-frontend</code></p>
+
+
+
+<p>Et si vous avez besoin d&rsquo;aide : </p>
+
+
+
+<p> <code>make help</code></p>
+
+
+
+<p>Et voilà ! Vous êtes maintenant prêt à vous lancer dans l&rsquo;utilisation d&rsquo;OpenDevin. Perso, je préfère encore l&rsquo;approche manuelle en mode Chef de Projet avec <a href="https://korben.info/cursor-editeur-avec-ia-le-futur-du-developpement.html">Cursor</a> notamment. Mais peut-être qu&rsquo;un jour, un outil comme OpenDevin sera suffisamment malin pour tout faire de A à Z&#8230; qui sait ?</p>
+]]></content:encoded>
+<pubDate>Mon, 01 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 01 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Miru – Pour mater vos animés préférés tout en douceur</title>

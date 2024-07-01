@@ -1065,3 +1065,12 @@ Existing_entries: 119
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-01 01:21:46.011772
+------------------------------------------------------
+Started: 2024-07-01 12:41:48.213903
+Existing_entries: 119
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024. "On travaillera avec tout le monde". Une victoire du RN n'empêchera pas le dialogue selon la Coordination rurale](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/legislatives-2024-on-travaillera-avec-tout-le-monde-une-victoire-du-rn-n-empechera-pas-le-dialogue-selon-la-coordination-rurale-2996684.html)
+append_entries: 1
+Finish: 2024-07-01 12:41:50.509859
