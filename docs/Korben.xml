@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Maison connectée et fuite de donnée, une relation qui fonctionne</title>
 <link>https://korben.info/maison-connectee-fuite-de-donnee.html</link>
 <guid>https://korben.info/maison-connectee-fuite-de-donnee.html</guid>
 <content:encoded><![CDATA[
-<div> espions, données, maisons intelligentes, Amazon, Google <br>
-<br>
+<div> espions, données, maisons intelligentes, Amazon, Google <br />
+<br />
 Summary: Les maisons intelligentes et les objets connectés collectent et stockent des données personnelles, exposant les utilisateurs à des risques de fuites ou de piratage. Amazon et Google sont parmi les plus avides de données, collectant des informations variées sur les utilisateurs. La sécurité des données est une préoccupation majeure, notamment en termes de gestion et de fuites potentielles. Il est conseillé de limiter les informations partagées, de privilégier des alternatives open source et de sécuriser les connexions Wi-Fi. L'utilisation d'un service VPN comme Surfshark peut protéger la confidentialité des données et empêcher leur interception par des tiers. Les abonnements abordables de Surfshark offrent une tranquillité d'esprit en matière de sécurité numérique. <div>
 <p><img alt="Maison autonome et écologique DIY" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="590" src="https://korben.info/app/uploads/2019/11/diy-maison-autonome.jpg" width="960" /></p>
 <p class="has-text-align-center">&#8212; Article en partenariat avec <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Surfshark VPN</a> &#8212;</p>
@@ -69,7 +70,6 @@ Summary: Les maisons intelligentes et les objets connectés collectent et stocke
 <h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768" rel="noreferrer noopener" target="_blank">Testez le VPN de Surfshark !</a></h2>
 ]]></content:encoded>
 <pubDate>Mon, 01 Jul 2024 08:00:00 +0000</pubDate>
-<pubDate>Mon, 01 Jul 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenDevin – L’IA qui code</title>
@@ -78,7 +78,7 @@ Summary: Les maisons intelligentes et les objets connectés collectent et stocke
 <content:encoded><![CDATA[
 <div> Linux, Mac OS, WSL, Docker, Python, NodeJS, Poetry, OpenDevin, LM, GPT-4
 
-Summary:<br>
+Summary:<br />
 OpenDevin est un projet open source développé par Cognition Labs qui propose un ingénieur logiciel IA autonome capable d'exécuter des tâches complexes et de collaborer avec les développeurs. Pour l'installer, il faut avoir Linux, Mac OS, ou WSL sur Windows, Docker, Python, NodeJS, et Poetry. OpenDevin prend en charge différents modèles de langage grâce à la bibliothèque litellm, avec GPT-4 d'OpenAI comme modèle par défaut. La configuration du modèle de langage peut se faire via le Makefile ou manuellement dans le fichier config.toml. Une fois configuré, OpenSevin peut être lancé avec une seule commande pour démarrer les serveurs backend et frontend. Il est également possible de démarrer chaque serveur indépendamment. Le projet est encore en développement, mais présente un potentiel d'automatisation des tâches liées au développement de logiciels. Peut-être qu'un jour, des outils comme OpenDevin pourront tout faire de A à Z de manière autonome. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="191" src="https://korben.info/app/uploads/2024/04/SCR-20240407-nh9.webp" width="611" /></p>
 <p>Après Devin et <a href="https://korben.info/devika-ia-revolutionnaire-developpement-logiciel.html">Devika</a>, <strong>OpenDevin</strong> est un projet open source qui vous permet de disposer d&rsquo;un ingénieur logiciel IA autonome. Créé par Cognition Labs, ce petit génie du code est capable d&rsquo;exécuter des tâches complexes et de collaborer activement avec les développeurs sur des projets. </p>
@@ -183,9 +183,7 @@ OpenDevin est un projet open source développé par Cognition Labs qui propose u
 <p>Et voilà ! Vous êtes maintenant prêt à vous lancer dans l&rsquo;utilisation d&rsquo;OpenDevin. Perso, je préfère encore l&rsquo;approche manuelle en mode Chef de Projet avec <a href="https://korben.info/cursor-editeur-avec-ia-le-futur-du-developpement.html">Cursor</a> notamment. Mais peut-être qu&rsquo;un jour, un outil comme OpenDevin sera suffisamment malin pour tout faire de A à Z&#8230; qui sait ?</p>
 ]]></content:encoded>
 <pubDate>Mon, 01 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 01 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Miru – Pour mater vos animés préférés tout en douceur</title>
 <link>https://korben.info/miru-streaming-torrent-javascript-pur.html</link>

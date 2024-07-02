@@ -1016,3 +1016,12 @@ Existing_entries: 94
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-07-01 12:40:13.735451
+------------------------------------------------------
+Started: 2024-07-02 01:17:09.610562
+Existing_entries: 94
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Taxe foncière. Piscines non déclarées : attention au contrôle fiscal !](https://www.dna.fr/magazine-immobilier/2024/07/01/piscines-non-declarees-attention-au-controle-fiscal)
+append_entries: 1
+Finish: 2024-07-02 01:17:13.790585

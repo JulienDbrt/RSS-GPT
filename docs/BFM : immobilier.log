@@ -1336,3 +1336,15 @@ Summarized using GPT-3.5-turbo
 Append: [Mulhouse, Colmar, Le Havre... Les prix immobiliers repartent à la baisse en juin](https://www.bfmtv.com/immobilier/prix-immobilier/mulhouse-colmar-le-havre-les-prix-immobiliers-repartent-a-la-baisse-en-juin_AV-202407010320.html)
 append_entries: 2
 Finish: 2024-07-01 12:39:50.145010
+------------------------------------------------------
+Started: 2024-07-02 01:16:24.614216
+Existing_entries: 220
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Cession d’usufruit de titres sociaux: ce qu'il faut savoir en matière de fiscalité](https://www.bfmtv.com/immobilier/fiscalite/cession-d-usufruit-de-titres-sociaux-ce-qu-il-faut-savoir-en-matiere-de-fiscalite_AN-202407010606.html)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Taux immobiliers: malgré le contexte politique, les barèmes des banques baissent en juillet](https://www.bfmtv.com/immobilier/credit-emprunt/taux-immobiliers-malgre-le-contexte-politique-les-baremes-des-banques-baissent-en-juillet_AV-202407010556.html)
+append_entries: 2
+Finish: 2024-07-02 01:16:30.785196

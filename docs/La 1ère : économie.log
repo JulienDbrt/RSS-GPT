@@ -2800,3 +2800,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les prix de l'essence et du gazole baissent ce lundi à Mayotte](https://la1ere.francetvinfo.fr/mayotte/les-prix-de-l-essence-et-du-gazole-baissent-ce-lundi-a-mayotte-1502006.html)
 append_entries: 6
 Finish: 2024-07-01 12:42:39.613541
+------------------------------------------------------
+Started: 2024-07-02 01:18:46.304856
+Existing_entries: 682
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [Fermeture de la route traversière de Vaihiria pour travaux](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/fermeture-de-la-route-traversiere-de-vaihiria-pour-travaux-1502249.html)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [⚫Décès de Louis Claverie-Castetnau, ancien directeur de l’usine de Darboussier et cofondateur de la Route du Rhum](https://la1ere.francetvinfo.fr/guadeloupe/deces-de-louis-claverie-castetnau-ancien-directeur-de-l-usine-de-darboussier-et-cofondateur-de-la-route-du-rhum-1502162.html)
+Token length: 41
+Summarized using GPT-3.5-turbo
+Append: [La ville de Saint-Georges de l’Oyapock confrontée à un black-out de plus de 36h](https://la1ere.francetvinfo.fr/guyane/la-ville-de-saint-georges-de-l-oyapock-confrontee-a-un-black-out-de-plus-de-36h-1502147.html)
+Token length: 5
+Summarized using GPT-3.5-turbo
+Append: [Les agents du STM annoncent un droit de retrait ce mardi](https://la1ere.francetvinfo.fr/mayotte/les-agents-du-stm-annoncent-un-droit-de-retrait-ce-mardi-1502123.html)
+append_entries: 4
+Finish: 2024-07-02 01:19:04.831997
