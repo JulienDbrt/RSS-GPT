@@ -1348,3 +1348,12 @@ Summarized using GPT-3.5-turbo
 Append: [Taux immobiliers: malgré le contexte politique, les barèmes des banques baissent en juillet](https://www.bfmtv.com/immobilier/credit-emprunt/taux-immobiliers-malgre-le-contexte-politique-les-baremes-des-banques-baissent-en-juillet_AV-202407010556.html)
 append_entries: 2
 Finish: 2024-07-02 01:16:30.785196
+------------------------------------------------------
+Started: 2024-07-02 12:35:55.899817
+Existing_entries: 222
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Comment la région Normandie veut remettre sur le marché les logements vacants](https://www.bfmtv.com/immobilier/renovation-travaux/comment-la-region-normandie-veut-remettre-sur-le-marche-les-logements-vacants_AN-202407020409.html)
+append_entries: 1
+Finish: 2024-07-02 12:35:59.481919

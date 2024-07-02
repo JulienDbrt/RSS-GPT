@@ -1083,3 +1083,15 @@ Summarized using GPT-3.5-turbo
 Append: [La construction d'un nouveau lotissement n'enchante pas les habitants de ce village du Morbihan](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/la-construction-d-un-nouveau-lotissement-n-enchante-pas-les-habitants-de-ce-village-du-morbihan-2996957.html)
 append_entries: 1
 Finish: 2024-07-02 01:18:26.069695
+------------------------------------------------------
+Started: 2024-07-02 12:39:14.082566
+Existing_entries: 121
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: ["C'est un David contre deux Goliaths", à La Trinité-sur-Mer, il a un pylône 5G au bout de son jardin](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/c-est-un-david-contre-deux-goliaths-a-la-trinite-sur-mer-il-a-un-pylone-5g-au-bout-de-son-jardin-2996639.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: ["L'impression d'être dans vingt mille lieues sous les mers", grâce à ce semi-sous-marin, plongez au cœur de la vie aquatique](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/l-impression-d-etre-dans-vingt-mille-lieues-sous-les-mers-grace-a-ce-semi-sous-marin-plongez-au-c-ur-de-la-vie-aquatique-2996534.html)
+append_entries: 2
+Finish: 2024-07-02 12:39:21.866036

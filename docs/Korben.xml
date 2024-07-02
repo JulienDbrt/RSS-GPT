@@ -4,6 +4,108 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Graftcp – Un petit tool capable de proxifier n’importe quel programme</title>
+<link>https://korben.info/graftcp-le-couteau-suisse-pour-proxifier-nimporte-quel-programme.html</link>
+<guid>https://korben.info/graftcp-le-couteau-suisse-pour-proxifier-nimporte-quel-programme.html</guid>
+<content:encoded><![CDATA[
+<div> graftcp, proxy, TCP, versatile, facile à utiliser
+<br>
+Summary:
+Graftcp est un outil polyvalent permettant de faire passer les connexions TCP par un proxy SOCKS5 ou HTTP. Contrairement à d'autres solutions telles que proxychains-ng, Graftcp peut suivre et modifier les connexions de n'importe quel programme, ce qui le rend très versatile. Il utilise la méthode du fork et du trace avec ptrace pour rediriger le trafic via un proxy, offrant ainsi une alternative robuste pour la proxification. L'installation et l'utilisation de Graftcp sont simples, avec la possibilité de personnaliser le comportement en spécifiant des paramètres tels que des listes noires ou blanches d'IPs. Toutefois, il est important de noter que Graftcp est limité au TCP et ne supporte pas l'UDP. Pour le DNS, il est recommandé d'utiliser un proxy dédié. En termes de performances, Graftcp est reconnu pour offrir une solution efficace pour contourner les limitations des solutions traditionnelles comme proxychains. En résumé, Graftcp est un outil léger, compatible avec différents programmes et facile à utiliser pour la proxification de connexions TCP.  
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Illustration_for_a_logo_named_Graftcp_that_be_used_as_a__a0ebabfe-1d81-4c98-9040-679ccd41096b.webp" width="1456" /></p>
+<p>Voici un outil bien pratique pour faire passer vos connexions TCP par un proxy SOCKS5 ou HTTP. Ça s&rsquo;appelle <strong>graftcp</strong> et grâce à lui, vous pouvez dire adieu à vos galères pour proxifier certains outils.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-696399971" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Comparé à des solutions comme <a href="https://linux.die.net/man/8/tsocks" rel="noopener" target="_blank">tsocks</a>, <a href="http://proxychains.sourceforge.net/" rel="noopener" target="_blank">proxychains</a> ou <a href="https://github.com/rofl0r/proxychains-ng" rel="noopener" target="_blank">proxychains-ng</a>, graftcp n&rsquo;utilise pas la méthode <a href="https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/Quelques%20astuces%20avec%20LD_PRELOAD.pdf" rel="noopener" target="_blank">LD_PRELOAD</a> qui ne fonctionne que pour les programmes liés dynamiquement. Par exemple, les applications construites avec Go ne peuvent pas être « accrochées » par proxychains-ng. Alors que Graftcp, lui, peut suivre et modifier les connexions de <strong>n&rsquo;importe quel programme</strong>, ce qui le rend très versatile.</p>
+
+
+
+<p>Pour l&rsquo;essayer, c&rsquo;est fastoche. Sur Linux, compilez graftcp et graftcp-local avec Go ou téléchargez directement les binaires <a href="https://github.com/hmgle/graftcp/releases/download/v0.4.0/graftcp_0.4.0-1_amd64.deb" rel="noopener" target="_blank">Debian</a> ou <a href="https://github.com/hmgle/graftcp/releases/download/v0.4.0/graftcp-0.4.0-1-x86_64.pkg.tar.zst" rel="noopener" target="_blank">Arch</a>. </p>
+
+
+
+<p>Voici comment faire :</p>
+
+
+
+<ol>
+<li>Clonez le dépôt :
+<code>git clone https://github.com/hmgle/graftcp.git
+cd graftcp
+make</code></li>
+
+
+
+<li>Après compilation, utilisez les binaires résultants dans <code>local/graftcp-local</code> et <code>graftcp</code>. Vous pouvez aussi les installer dans le système : <br /><code>sudo make install<br />sudo make install_systemd<br />sudo make enable_systemd</code></li>
+
+
+
+<li>Lancez graftcp-local avec l&rsquo;adresse de votre proxy SOCKS5, genre 127.0.0.1:1080. <br />Par exemple : <code>local/graftcp-local -socks5 127.0.0.1:1080</code></li>
+
+
+
+<li>Utilisez ensuite graftcp pour encapsuler vos programmes afin qu&rsquo;ils passent par le proxy sans broncher. Exemple pour installer un package Go : <code>./graftcp go get -v golang.org/x/net/proxy</code></li>
+</ol>
+
+
+
+<p>Ou pour surfer pépouze avec Chromium ou Firefox :
+<code>./graftcp chromium-browser</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-860453029" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Même votre shell préféré peut surfer incognito si vous le lancez avec graftcp :<code> </code><br /><code>./graftcp bash</code><br /><code>wget https://www.google.com</code></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-161031" height="576" src="https://korben.info/app/uploads/2024/05/graftcpdemo-1-1024x576.gif" width="1024" /></figure></div>
+
+
+<p>Sous le capot, Graftcp fork et trace le programme avec ptrace. À chaque appel connect, il attrape l&rsquo;adresse de destination et la transmet par pipe à graftcp-local. Ensuite, il la modifie pour pointer vers graftcp-local avant de relancer le syscall. L&rsquo;appli croit alors qu&rsquo;elle cause à sa destination mais en fait, elle parle à graftcp-local qui se charge de tunneler le trafic dans le proxy SOCKS. Malin non ?</p>
+
+
+
+<p>Evidemment, vous pouvez personnaliser le comportement de graftcp en utilisant divers paramètres, comme spécifier des fichiers de configuration pour gérer une liste noire d&rsquo;IPs (blacklist) ou une liste blanche (whitelist). Par défaut, localhost passe en direct :</p>
+
+
+
+<p><code>$ graftcp -h
+Usage: graftcp [options] prog [prog-args]
+Options:
+-c --conf-file=&lt;path&gt;
+-a --local-addr=&lt;IP&gt;
+-p --local-port=&lt;port&gt;
+-n --not-ignore-local
+-b --blackip-file=&lt;path&gt;
+-w --whiteip-file=&lt;path&gt;
+-V --version
+-h --help</code></p>
+
+
+
+<p>Pour plus de détail et options, consultez <a href="https://github.com/hmgle/graftcp" rel="noopener" target="_blank">GitHub</a>.</p>
+
+
+
+<p>Notez que Graftcp est limité au TCP&#8230; pas d&rsquo;UDP donc. Pour le DNS, il faudra donc passer par un proxy dédié comme <a href="https://github.com/shadowsocks/ChinaDNS" rel="noopener" target="_blank">ChinaDNS</a> ou <a href="https://github.com/DNSCrypt/dnscrypt-proxy" rel="noopener" target="_blank">dnscrypt-proxy</a>. Pour les performances, bien que les chiffres précis varient en fonction des configurations, graftcp est assez connu pour offrir une alternative robuste aux solutions comme proxychains. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2034409888" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Bref, c&rsquo;est un outil polyvalent pour la proxification puisqu&rsquo;il est léger, compatible avec tout et surtout facile à utiliser&#8230;</p>
+
+
+
+<p><a href="https://github.com/hmgle/graftcp" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 02 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 02 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Maison connectée et fuite de donnée, une relation qui fonctionne</title>

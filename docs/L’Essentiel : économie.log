@@ -1435,3 +1435,15 @@ Summarized using GPT-3.5-turbo
 Append: [Luxembourg: L'hôtel avec vue sur les pistes du Findel va bientôt ouvrir](https://www.lessentiel.lu/fr/story/luxembourg-lhotel-avec-vue-sur-les-pistes-du-findel-va-bientot-ouvrir-103140800)
 append_entries: 1
 Finish: 2024-07-02 01:18:44.245113
+------------------------------------------------------
+Started: 2024-07-02 12:39:51.709283
+Existing_entries: 285
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Emploi: Encore un plan social chez John Zink à Dudelange](https://www.lessentiel.lu/fr/story/emploi-encore-un-plan-social-chez-john-zink-a-dudelange-103141136)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: Les prix de l'immobilier en baisse de près de 3% en un an](https://www.lessentiel.lu/fr/story/au-luxembourg-les-prix-de-limmobilier-en-baisse-de-pres-de-3-en-un-an-103141025)
+append_entries: 2
+Finish: 2024-07-02 12:40:01.996731

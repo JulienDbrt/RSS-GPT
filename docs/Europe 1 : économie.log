@@ -1429,3 +1429,12 @@ Existing_entries: 231
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-02 01:17:17.664916
+------------------------------------------------------
+Started: 2024-07-02 12:37:00.334694
+Existing_entries: 231
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [«Ça me permet de ne pas avoir de problématique de location» : la réforme du DPE des petites surfaces est entrée en vigueur](https://www.europe1.fr/economie/ca-me-permet-de-ne-pas-avoir-de-problematique-de-location-la-reforme-du-dpe-des-petites-surfaces-est-entree-en-vigueur-4255927)
+append_entries: 1
+Finish: 2024-07-02 12:37:02.307580

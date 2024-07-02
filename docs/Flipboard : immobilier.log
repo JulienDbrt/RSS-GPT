@@ -2745,3 +2745,18 @@ Summarized using GPT-3.5-turbo
 Append: [À partir du 1er juillet, les propriétaires de biens immobiliers pourraient devoir payer une amende de 150€](https://www.cosmopolitan.fr/a-partir-du-1er-juillet-les-proprietaires-de-biens-immobiliers-pourraient-devoir-payer-une-amende-de-150euro,2119219.asp)
 append_entries: 4
 Finish: 2024-07-02 01:11:44.837889
+------------------------------------------------------
+Started: 2024-07-02 12:30:36.820309
+Existing_entries: 803
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Vous pouvez augmenter facilement votre retraite de 10% : 3 astuces dévoilées](https://www.pleinevie.fr/retraite-travail/retraite/vous-pouvez-augmenter-facilement-votre-retraite-de-10-3-astuces-devoilees-123961.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : ces trois sujets explosifs pour l'investissement locatif](https://www.lesechos.fr/patrimoine/immobilier/immobilier-ces-trois-sujets-explosifs-pour-linvestissement-locatif-2105170)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [«Ça me permet de ne pas avoir de problématique de location» : la réforme du DPE des petites surfaces est entrée en vigueur](https://www.europe1.fr/economie/ca-me-permet-de-ne-pas-avoir-de-problematique-de-location-la-reforme-du-dpe-des-petites-surfaces-est-entree-en-vigueur-4255927)
+append_entries: 3
+Finish: 2024-07-02 12:30:47.568853

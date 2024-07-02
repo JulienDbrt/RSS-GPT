@@ -948,3 +948,12 @@ Summarized using GPT-3.5-turbo
 Append: [La construction d'un nouveau lotissement n'enchante pas les habitants de ce village du Morbihan](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/la-construction-d-un-nouveau-lotissement-n-enchante-pas-les-habitants-de-ce-village-du-morbihan-2996957.html)
 append_entries: 1
 Finish: 2024-07-02 01:18:28.443404
+------------------------------------------------------
+Started: 2024-07-02 12:39:24.474889
+Existing_entries: 76
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [Deux propriétaires du "Gyptis", condamnés pour avoir perçu des loyers malgré un arrêté de péril à Marseille](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/deux-proprietaires-du-gyptis-condamnes-pour-avoir-percu-des-loyers-malgre-un-arrete-de-peril-a-marseille-2997065.html)
+append_entries: 1
+Finish: 2024-07-02 12:39:30.113382

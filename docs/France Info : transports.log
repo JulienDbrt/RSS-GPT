@@ -1424,3 +1424,9 @@ Summarized using GPT-3.5-turbo
 Append: [Un Boeing de la compagnie Air Europa atterrit en urgence au Brésil après des turbulences ayant fait des blessés](https://www.francetvinfo.fr/economie/transports/un-boeing-de-la-compagnie-air-europa-atterrit-en-urgence-au-bresil-apres-des-turbulences-ayant-fait-des-blesses_6638508.html)
 append_entries: 1
 Finish: 2024-07-02 01:17:41.792752
+------------------------------------------------------
+Started: 2024-07-02 12:37:58.444648
+Existing_entries: 228
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-07-02 12:37:58.992089

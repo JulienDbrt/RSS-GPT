@@ -1035,3 +1035,15 @@ Existing_entries: 105
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-07-02 01:18:16.453301
+------------------------------------------------------
+Started: 2024-07-02 12:38:53.788058
+Existing_entries: 105
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [Le prix du gaz flambe dès ce 1er juillet : ce qu'il faut savoir pour son budget](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/bourgogne/le-prix-du-gaz-flambe-des-ce-1er-juillet-ce-qu-il-faut-savoir-pour-son-budget-2996633.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi cet hôpital a installé une centrale solaire sur son parking, une première en Alsace](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/pourquoi-cet-hopital-a-installe-une-centrale-solaire-sur-son-parking-une-premiere-en-alsace-2995370.html)
+append_entries: 2
+Finish: 2024-07-02 12:39:01.166861

@@ -4244,3 +4244,24 @@ Summarized using GPT-3.5-turbo
 Append: [Tourisme : l'artisanat au cœur de vacances dans les Landes](https://www.francetvinfo.fr/economie/tourisme/tourisme-l-artisanat-au-c-ur-de-vacances-dans-les-landes_6638325.html)
 append_entries: 5
 Finish: 2024-07-02 01:17:39.843475
+------------------------------------------------------
+Started: 2024-07-02 12:37:27.050149
+Existing_entries: 1005
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Matthieu Delormeau, ex-chroniqueur de "Touche pas à mon poste", placé en garde à vue pour usage de stupéfiants](https://www.francetvinfo.fr/economie/medias/matthieu-delormeau-ex-chroniqueur-de-touche-pas-a-mon-poste-place-en-garde-a-vue-pour-usage-de-stupefiants_6640113.html)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [L'inflation ralentit légèrement en juin dans la zone euro, et s'établit à 2,5% sur un an](https://www.francetvinfo.fr/economie/inflation/dans-la-zone-euro-l-inflation-ralentit-legerement-a-la-baisse-en-juin-a-2-5-sur-un-an_6639924.html)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire : EDF revoit sa stratégie en matière de "petits réacteurs"](https://www.francetvinfo.fr/replay-radio/le-brief-eco/nucleaire-edf-revoit-sa-strategie-en-matiere-de-petits-reacteurs_6610155.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : les syndicats appellent à faire barrage au RN](https://www.francetvinfo.fr/elections/legislatives-2024-les-syndicats-appellent-a-faire-barrage-au-rn_6639723.html)
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Logement : les élections législatives affectent aussi le secteur de l'immobilier](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/logement-les-elections-legislatives-affectent-aussi-le-secteur-de-l-immobilier_6610152.html)
+append_entries: 5
+Finish: 2024-07-02 12:37:54.965064
