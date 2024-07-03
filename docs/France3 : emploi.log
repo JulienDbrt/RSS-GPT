@@ -1452,3 +1452,12 @@ Summarized using GPT-3.5-turbo
 Append: [L'avenir de Duralex se précise, trois offres de reprises sont sur la table](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/l-avenir-de-duralex-se-precise-trois-offres-de-reprises-sont-sur-la-table-2997377.html)
 append_entries: 2
 Finish: 2024-07-03 01:18:09.587006
+------------------------------------------------------
+Started: 2024-07-03 12:42:10.639774
+Existing_entries: 240
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: ["Il faut être inventifs et savoir s'adapter", les conserveries bretonnes de poissons ont la vie dure](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/il-faut-etre-inventifs-et-savoir-s-adapter-les-conserveries-bretonnes-de-poissons-ont-la-vie-dure-2997911.html)
+append_entries: 1
+Finish: 2024-07-03 12:42:15.356330

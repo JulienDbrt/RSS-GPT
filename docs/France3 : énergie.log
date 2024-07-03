@@ -1056,3 +1056,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'avenir de Duralex se précise, trois offres de reprises sont sur la table](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/l-avenir-de-duralex-se-precise-trois-offres-de-reprises-sont-sur-la-table-2997377.html)
 append_entries: 1
 Finish: 2024-07-03 01:17:59.679212
+------------------------------------------------------
+Started: 2024-07-03 12:41:39.324209
+Existing_entries: 108
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-07-03 12:41:39.811922

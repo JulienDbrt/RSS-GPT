@@ -1091,3 +1091,15 @@ Summarized using GPT-3.5-turbo
 Append: [Financement de la défense : l’UE et l’OTAN coopèrent](https://www.euractiv.fr/section/economie/news/financement-de-la-defense-lue-et-lotan-cooperent/)
 append_entries: 2
 Finish: 2024-07-03 01:16:45.679173
+------------------------------------------------------
+Started: 2024-07-03 12:39:56.611576
+Existing_entries: 133
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [Protectionnisme économique de l’UE : le commissaire au Commerce veut rassurer les entreprises](https://www.euractiv.fr/section/concurrence/news/protectionnisme-economique-de-lue-le-commissaire-au-commerce-veut-rassurer-les-entreprises/)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [La présidente de la BCE, Christine Lagarde, attire l’attention sur le respect des règles budgétaires de l’UE](https://www.euractiv.fr/section/economie/news/la-presidente-de-la-bce-christine-lagarde-attire-lattention-sur-le-respect-des-regles-budgetaires-de-lue/)
+append_entries: 2
+Finish: 2024-07-03 12:40:05.735944

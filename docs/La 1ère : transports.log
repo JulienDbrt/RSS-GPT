@@ -1294,3 +1294,24 @@ Summarized using GPT-3.5-turbo
 Append: [Ouragan Beryl : Reprise des dessertes maritimes vers Marie-Galante dès 13h annonce l'Express des îles](https://la1ere.francetvinfo.fr/guadeloupe/ouragan-beryl-reprise-des-dessertes-maritimes-vers-marie-galante-des-13h-annonce-l-express-des-iles-1502519.html)
 append_entries: 2
 Finish: 2024-07-03 01:19:12.783298
+------------------------------------------------------
+Started: 2024-07-03 12:43:21.878904
+Existing_entries: 174
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 22
+Summarized using GPT-3.5-turbo
+Append: [Aéroport Roland Garros : le dispositif forte affluence revient pour les vacances d’hiver austral à La Réunion](https://la1ere.francetvinfo.fr/reunion/aeroport-roland-garros-le-dispositif-forte-affluence-revient-pour-les-vacances-d-hiver-austral-a-la-reunion-1502729.html)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [Un vol Paris-Mayotte dérouté vers La Réunion suite à un problème de freinage](https://la1ere.francetvinfo.fr/mayotte/un-vol-paris-mayotte-detourne-vers-la-reunion-suite-a-un-voyant-1502690.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Maurice : l'avenir d'Air Mauritius interroge](https://la1ere.francetvinfo.fr/reunion/maurice-l-avenir-d-air-mauritius-interroge-1502678.html)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. Les travaux de la piste de Wanaham ont démarré, ce mercredi](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/lifou/crise-en-nouvelle-caledonie-les-travaux-de-la-piste-de-wanaham-ont-demarre-ce-mercredi-1502666.html)
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. De nombreux barrages en soutien aux militants de la CCAT, la circulation est très perturbée dans le Nord](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-nord/crise-en-nouvelle-caledonie-de-nombreux-barrages-en-soutien-aux-militants-de-la-ccat-la-circulation-est-tres-perturbee-dans-le-nord-1502654.html)
+append_entries: 5
+Finish: 2024-07-03 12:43:41.070705

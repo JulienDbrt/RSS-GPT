@@ -1403,3 +1403,18 @@ Summarized using GPT-3.5-turbo
 Append: [Allocation de rentrée scolaire 2024 : La date de versement dévoilée et des montants revalorisés](https://www.20minutes.fr/economie/4099313-20240702-allocation-rentree-scolaire-2024-date-versement-devoilee-montants-revalorises)
 append_entries: 1
 Finish: 2024-07-03 01:14:31.133603
+------------------------------------------------------
+Started: 2024-07-03 12:35:57.533289
+Existing_entries: 217
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Strasbourg : L’ex-directeur de l’Office du tourisme condamné par la Cour des comptes](https://www.20minutes.fr/economie/4099409-20240703-strasbourg-ex-directeur-office-tourisme-condamne-cour-comptes)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : Comment la marque « Emmanuel Macron » est-elle devenue has been ?](https://www.20minutes.fr/politique/4098871-20240703-legislatives-2024-comment-marque-emmanuel-macron-devenue-has-been)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [A quoi servent les chiffres au fond des verres de la marque Duralex ?](https://www.20minutes.fr/economie/4099325-20240703-quoi-servent-chiffres-fond-verres-marque-duralex)
+append_entries: 3
+Finish: 2024-07-03 12:36:08.270551

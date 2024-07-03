@@ -1050,3 +1050,9 @@ Summarized using GPT-3.5-turbo
 Append: [Air Europa: les passagers du vol qui a atterri en urgence sont arrivés à leur destination finale](https://www.bfmtv.com/economie/entreprises/aeronautique/air-europa-les-passagers-du-vol-qui-a-atterri-en-urgence-sont-arrives-a-leur-destination-finale_AD-202407020790.html)
 append_entries: 1
 Finish: 2024-07-03 01:15:20.519666
+------------------------------------------------------
+Started: 2024-07-03 12:37:31.307656
+Existing_entries: 106
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+append_entries: 0
+Finish: 2024-07-03 12:37:31.729158

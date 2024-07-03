@@ -1444,3 +1444,15 @@ Existing_entries: 232
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-03 01:16:47.045453
+------------------------------------------------------
+Started: 2024-07-03 12:40:07.190492
+Existing_entries: 232
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Dissolution de l'Assemblée nationale : «On a perdu un trimestre de croissance», estime le président de la CPME](https://www.europe1.fr/economie/dissolution-de-lassemblee-nationale-on-a-perdu-un-trimestre-de-croissance-estime-le-president-de-la-cpme-4256239)
+Token length: 347
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : «Ça sera moins pire que ce qu’ils avaient imaginé» : au lendemain du premier tour, les marchés financiers rassurés](https://www.europe1.fr/economie/ca-sera-moins-pire-que-ce-quils-avaient-imagine-au-lendemain-des-legislatives-les-marches-financiers-rassures-4256134)
+append_entries: 2
+Finish: 2024-07-03 12:40:13.763499
