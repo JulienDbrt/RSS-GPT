@@ -1197,3 +1197,9 @@ Summarized using GPT-3.5-turbo
 Append: [TGV: encore deux tiers de places à vendre pour les vacances d'été, la faute aux JO et aux prix?](https://www.bfmtv.com/economie/entreprises/transports/tgv-encore-deux-tiers-de-places-a-vendre-pour-les-vacances-d-ete-la-faute-aux-jo-et-aux-prix_AV-202407020054.html)
 append_entries: 2
 Finish: 2024-07-02 12:36:06.785964
+------------------------------------------------------
+Started: 2024-07-03 01:15:59.485075
+Existing_entries: 157
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-07-03 01:15:59.988809

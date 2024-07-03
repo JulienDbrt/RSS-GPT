@@ -1001,3 +1001,9 @@ Summarized using GPT-3.5-turbo
 Append: [Logement : les élections législatives affectent aussi le secteur de l'immobilier](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/logement-les-elections-legislatives-affectent-aussi-le-secteur-de-l-immobilier_6610152.html)
 append_entries: 1
 Finish: 2024-07-02 12:37:58.323314
+------------------------------------------------------
+Started: 2024-07-03 01:17:15.671571
+Existing_entries: 85
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-07-03 01:17:16.005710

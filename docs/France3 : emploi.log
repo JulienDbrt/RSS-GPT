@@ -1440,3 +1440,15 @@ Summarized using GPT-3.5-turbo
 Append: [“Si je n’ai pas d’alternance, je me fais virer de l’école” : étudiants, ils angoissent face aux "non" et "non" des entreprises](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/si-je-n-ai-pas-d-alternance-je-me-fais-virer-de-l-ecole-etudiants-ils-angoissent-face-au-non-et-non-des-entreprises-2992487.html)
 append_entries: 1
 Finish: 2024-07-02 12:39:24.436777
+------------------------------------------------------
+Started: 2024-07-03 01:18:03.587346
+Existing_entries: 238
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [Une fraude sociale généralisée dans une société d'intérim du Var mise au jour](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/draguignan/une-fraude-sociale-generalisee-dans-une-societe-d-interim-du-var-mise-au-jour-2997593.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [L'avenir de Duralex se précise, trois offres de reprises sont sur la table](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/l-avenir-de-duralex-se-precise-trois-offres-de-reprises-sont-sur-la-table-2997377.html)
+append_entries: 2
+Finish: 2024-07-03 01:18:09.587006

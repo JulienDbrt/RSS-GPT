@@ -1639,3 +1639,12 @@ Summarized using GPT-3.5-turbo
 Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/07/02/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12054970.php)
 append_entries: 5
 Finish: 2024-07-02 12:41:47.437352
+------------------------------------------------------
+Started: 2024-07-03 01:19:56.265116
+Existing_entries: 301
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : des candidats au concours de professorat des écoles sur liste complémentaire demandent à être titularisés](https://www.ladepeche.fr/2024/07/02/toulouse-des-candidats-au-concours-de-professorat-des-ecoles-sur-liste-complementaire-demandent-a-etre-titularises-12056225.php)
+append_entries: 1
+Finish: 2024-07-03 01:19:59.614322

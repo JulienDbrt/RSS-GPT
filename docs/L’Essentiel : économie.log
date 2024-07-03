@@ -1447,3 +1447,18 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: Les prix de l'immobilier en baisse de près de 3% en un an](https://www.lessentiel.lu/fr/story/au-luxembourg-les-prix-de-limmobilier-en-baisse-de-pres-de-3-en-un-an-103141025)
 append_entries: 2
 Finish: 2024-07-02 12:40:01.996731
+------------------------------------------------------
+Started: 2024-07-03 01:18:30.131830
+Existing_entries: 287
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Le Japon est-il devenu une destination bon marché?](https://www.lessentiel.lu/fr/story/le-japon-est-il-devenu-une-destination-bon-marche-103141153)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Logements au Luxembourg: Au Rout Lëns, studios deux chambres à partir de 499 000 euros](https://www.lessentiel.lu/fr/story/logements-au-luxembourg-au-rout-lens-studios-deux-chambres-a-partir-de-499-000-euros-103141173)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Emploi: Le Luxembourg facilite l'immigration de travailleurs «hautement qualifiés»](https://www.lessentiel.lu/fr/story/emploi-le-luxembourg-facilite-limmigration-de-travailleurs-hautement-qualifies-103140256)
+append_entries: 3
+Finish: 2024-07-03 01:18:39.181515

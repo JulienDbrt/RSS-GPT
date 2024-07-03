@@ -1394,3 +1394,12 @@ Summarized using GPT-3.5-turbo
 Append: [BCE : Lagarde prévient que le match contre l’inflation ne sera « pas gagné » avant fin 2025](https://www.20minutes.fr/economie/4099189-20240702-bce-lagarde-previent-match-contre-inflation-gagne-avant-fin-2025)
 append_entries: 3
 Finish: 2024-07-02 12:33:19.038175
+------------------------------------------------------
+Started: 2024-07-03 01:14:27.137808
+Existing_entries: 216
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Allocation de rentrée scolaire 2024 : La date de versement dévoilée et des montants revalorisés](https://www.20minutes.fr/economie/4099313-20240702-allocation-rentree-scolaire-2024-date-versement-devoilee-montants-revalorises)
+append_entries: 1
+Finish: 2024-07-03 01:14:31.133603

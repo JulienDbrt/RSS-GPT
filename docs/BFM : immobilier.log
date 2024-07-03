@@ -1357,3 +1357,9 @@ Summarized using GPT-3.5-turbo
 Append: [Comment la région Normandie veut remettre sur le marché les logements vacants](https://www.bfmtv.com/immobilier/renovation-travaux/comment-la-region-normandie-veut-remettre-sur-le-marche-les-logements-vacants_AN-202407020409.html)
 append_entries: 1
 Finish: 2024-07-02 12:35:59.481919
+------------------------------------------------------
+Started: 2024-07-03 01:15:55.986160
+Existing_entries: 223
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-03 01:15:56.268273

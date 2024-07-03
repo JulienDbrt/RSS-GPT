@@ -4,16 +4,17 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Graftcp – Un petit tool capable de proxifier n’importe quel programme</title>
 <link>https://korben.info/graftcp-le-couteau-suisse-pour-proxifier-nimporte-quel-programme.html</link>
 <guid>https://korben.info/graftcp-le-couteau-suisse-pour-proxifier-nimporte-quel-programme.html</guid>
 <content:encoded><![CDATA[
 <div> graftcp, proxy, TCP, versatile, facile à utiliser
-<br>
+<br />
 Summary:
 Graftcp est un outil polyvalent permettant de faire passer les connexions TCP par un proxy SOCKS5 ou HTTP. Contrairement à d'autres solutions telles que proxychains-ng, Graftcp peut suivre et modifier les connexions de n'importe quel programme, ce qui le rend très versatile. Il utilise la méthode du fork et du trace avec ptrace pour rediriger le trafic via un proxy, offrant ainsi une alternative robuste pour la proxification. L'installation et l'utilisation de Graftcp sont simples, avec la possibilité de personnaliser le comportement en spécifiant des paramètres tels que des listes noires ou blanches d'IPs. Toutefois, il est important de noter que Graftcp est limité au TCP et ne supporte pas l'UDP. Pour le DNS, il est recommandé d'utiliser un proxy dédié. En termes de performances, Graftcp est reconnu pour offrir une solution efficace pour contourner les limitations des solutions traditionnelles comme proxychains. En résumé, Graftcp est un outil léger, compatible avec différents programmes et facile à utiliser pour la proxification de connexions TCP.  
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Illustration_for_a_logo_named_Graftcp_that_be_used_as_a__a0ebabfe-1d81-4c98-9040-679ccd41096b.webp" width="1456" /></p>
 <p>Voici un outil bien pratique pour faire passer vos connexions TCP par un proxy SOCKS5 ou HTTP. Ça s&rsquo;appelle <strong>graftcp</strong> et grâce à lui, vous pouvez dire adieu à vos galères pour proxifier certains outils.</p>
 
@@ -104,9 +105,7 @@ Options:
 <p><a href="https://github.com/hmgle/graftcp" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 02 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 02 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Maison connectée et fuite de donnée, une relation qui fonctionne</title>
 <link>https://korben.info/maison-connectee-fuite-de-donnee.html</link>

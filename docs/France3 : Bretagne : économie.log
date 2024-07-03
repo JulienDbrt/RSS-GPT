@@ -1095,3 +1095,12 @@ Summarized using GPT-3.5-turbo
 Append: ["L'impression d'être dans vingt mille lieues sous les mers", grâce à ce semi-sous-marin, plongez au cœur de la vie aquatique](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/l-impression-d-etre-dans-vingt-mille-lieues-sous-les-mers-grace-a-ce-semi-sous-marin-plongez-au-c-ur-de-la-vie-aquatique-2996534.html)
 append_entries: 2
 Finish: 2024-07-02 12:39:21.866036
+------------------------------------------------------
+Started: 2024-07-03 01:18:00.864529
+Existing_entries: 123
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 471
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024. Entre les deux tours,  entre manifs et déclarations, quel rôle peuvent avoir les syndicats](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/legislatives-2024-entre-les-deux-tours-entre-manifs-et-declarations-quel-role-peuvent-avoir-les-syndicats-2997878.html)
+append_entries: 1
+Finish: 2024-07-03 01:18:03.463219

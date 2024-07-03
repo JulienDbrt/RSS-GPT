@@ -1326,3 +1326,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le prix du gaz flambe dès ce 1er juillet : ce qu'il faut savoir pour son budget](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/bourgogne/le-prix-du-gaz-flambe-des-ce-1er-juillet-ce-qu-il-faut-savoir-pour-son-budget-2996633.html)
 append_entries: 2
 Finish: 2024-07-02 12:39:14.018639
+------------------------------------------------------
+Started: 2024-07-03 01:18:00.554662
+Existing_entries: 200
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-03 01:18:00.801240

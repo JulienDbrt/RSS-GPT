@@ -1079,3 +1079,15 @@ Summarized using GPT-3.5-turbo
 Append: [L’Europe spatiale veut éloigner le spectre du déclassement](https://www.euractiv.fr/section/economie/news/leurope-spatiale-veut-eloigner-le-spectre-du-declassement/)
 append_entries: 1
 Finish: 2024-07-02 12:36:55.151344
+------------------------------------------------------
+Started: 2024-07-03 01:16:40.135738
+Existing_entries: 131
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 303
+Summarized using GPT-3.5-turbo
+Append: [Le PPE veut allouer 70 % du budget de l’UE à la compétitivité](https://www.euractiv.fr/section/economie/news/le-ppe-veut-allouer-70-du-budget-de-lue-a-la-competitivite/)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [Financement de la défense : l’UE et l’OTAN coopèrent](https://www.euractiv.fr/section/economie/news/financement-de-la-defense-lue-et-lotan-cooperent/)
+append_entries: 2
+Finish: 2024-07-03 01:16:45.679173
