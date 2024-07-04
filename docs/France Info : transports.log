@@ -1451,3 +1451,9 @@ Summarized using GPT-3.5-turbo
 Append: [Jean Castex prolongé par intérim à la tête de la RATP juste avant les Jeux olympiques](https://www.francetvinfo.fr/economie/transports/jean-castex-prolonge-par-interim-a-la-tete-de-la-ratp-juste-avant-les-jo_6641844.html)
 append_entries: 2
 Finish: 2024-07-03 12:40:57.346159
+------------------------------------------------------
+Started: 2024-07-04 01:16:46.171754
+Existing_entries: 231
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-07-04 01:16:46.487748

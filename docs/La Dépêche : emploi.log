@@ -1654,3 +1654,12 @@ Existing_entries: 302
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-07-03 12:44:28.690384
+------------------------------------------------------
+Started: 2024-07-04 01:20:00.300913
+Existing_entries: 302
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [A Lacapelle, ce petit club de quartier à Cahors, cartonne avec son équipe de U11](https://www.ladepeche.fr/2024/07/03/a-lacapelle-ce-petit-club-de-quartier-a-cahors-cartonne-avec-son-equipe-de-u11-12053855.php)
+append_entries: 1
+Finish: 2024-07-04 01:20:03.949803

@@ -1103,3 +1103,15 @@ Summarized using GPT-3.5-turbo
 Append: [La présidente de la BCE, Christine Lagarde, attire l’attention sur le respect des règles budgétaires de l’UE](https://www.euractiv.fr/section/economie/news/la-presidente-de-la-bce-christine-lagarde-attire-lattention-sur-le-respect-des-regles-budgetaires-de-lue/)
 append_entries: 2
 Finish: 2024-07-03 12:40:05.735944
+------------------------------------------------------
+Started: 2024-07-04 01:16:13.020098
+Existing_entries: 135
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [Garanties sociales et aides publiques : les chevaux de bataille des socialistes européens](https://www.euractiv.fr/section/economie/news/garanties-sociales-et-aides-publiques-les-chevaux-de-bataille-des-socialistes-europeens/)
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [L’industrie automobile allemande exhorte l’UE à renoncer aux droits de douane sur les véhicules chinois](https://www.euractiv.fr/section/mobilite-du-futur/news/lindustrie-automobile-allemande-exhorte-lue-a-renoncer-aux-droits-de-douane-sur-les-vehicules-chinois/)
+append_entries: 2
+Finish: 2024-07-04 01:16:19.804807

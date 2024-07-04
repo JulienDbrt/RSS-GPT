@@ -899,3 +899,12 @@ Existing_entries: 67
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-07-03 12:40:06.463114
+------------------------------------------------------
+Started: 2024-07-04 01:16:19.836234
+Existing_entries: 67
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [L’industrie automobile allemande exhorte l’UE à renoncer aux droits de douane sur les véhicules chinois](https://www.euractiv.fr/section/mobilite-du-futur/news/lindustrie-automobile-allemande-exhorte-lue-a-renoncer-aux-droits-de-douane-sur-les-vehicules-chinois/)
+append_entries: 1
+Finish: 2024-07-04 01:16:23.546572

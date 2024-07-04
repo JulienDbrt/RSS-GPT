@@ -1418,3 +1418,9 @@ Summarized using GPT-3.5-turbo
 Append: [A quoi servent les chiffres au fond des verres de la marque Duralex ?](https://www.20minutes.fr/economie/4099325-20240703-quoi-servent-chiffres-fond-verres-marque-duralex)
 append_entries: 3
 Finish: 2024-07-03 12:36:08.270551
+------------------------------------------------------
+Started: 2024-07-04 01:14:14.598807
+Existing_entries: 220
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-07-04 01:14:14.833742

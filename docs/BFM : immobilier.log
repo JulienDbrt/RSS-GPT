@@ -1372,3 +1372,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les prix immobiliers ont nettement baissé au 2e trimestre](https://www.bfmtv.com/immobilier/prix-immobilier/les-prix-immobiliers-ont-nettement-baisse-au-2e-trimestre_AD-202407030310.html)
 append_entries: 1
 Finish: 2024-07-03 12:39:12.175311
+------------------------------------------------------
+Started: 2024-07-04 01:15:48.581878
+Existing_entries: 224
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [Très peu de dossiers de crédit immobilier ont fait l'objet d'un réexamen par les banques](https://www.bfmtv.com/immobilier/credit-emprunt/tres-peu-de-dossiers-de-credit-immobilier-ont-fait-l-objet-d-un-reexamen-par-les-banques_AD-202407030805.html)
+append_entries: 1
+Finish: 2024-07-04 01:15:51.552400
