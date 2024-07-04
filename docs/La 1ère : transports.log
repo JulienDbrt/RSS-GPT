@@ -1327,3 +1327,18 @@ Summarized using GPT-3.5-turbo
 Append: [Perturbations sur les réseaux de bus du centre de la Martinique et du TCSP](https://la1ere.francetvinfo.fr/martinique/perturbations-sur-les-reseaux-de-bus-du-centre-de-la-martinique-et-du-tcsp-1502876.html)
 append_entries: 2
 Finish: 2024-07-04 01:19:28.561328
+------------------------------------------------------
+Started: 2024-07-04 12:43:09.523534
+Existing_entries: 181
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 43
+Summarized using GPT-3.5-turbo
+Append: [Les Vedettes Tropicales devenues Blue Lines : une nouvelle ère pour le transport maritime en Martinique](https://la1ere.francetvinfo.fr/martinique/les-vedettes-tropicales-devenues-blue-lines-une-nouvelle-ere-pour-le-transport-maritime-en-martinique-1501322.html)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [Transports maritimes. Son carénage terminé, le "Betico" reprend du service lundi prochain](https://la1ere.francetvinfo.fr/nouvellecaledonie/transports-maritimes-son-carenage-termine-le-betico-reprend-du-service-lundi-prochain-1503023.html)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. Au Mont-Dore, le nouveau fonctionnement des navettes maritimes a pris de court certains passagers](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/crise-en-nouvelle-caledonie-au-mont-dore-le-nouveau-fonctionnement-des-navettes-a-pris-de-court-certains-passagers-1502996.html)
+append_entries: 3
+Finish: 2024-07-04 12:43:22.792187

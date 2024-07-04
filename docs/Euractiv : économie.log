@@ -1115,3 +1115,15 @@ Summarized using GPT-3.5-turbo
 Append: [L’industrie automobile allemande exhorte l’UE à renoncer aux droits de douane sur les véhicules chinois](https://www.euractiv.fr/section/mobilite-du-futur/news/lindustrie-automobile-allemande-exhorte-lue-a-renoncer-aux-droits-de-douane-sur-les-vehicules-chinois/)
 append_entries: 2
 Finish: 2024-07-04 01:16:19.804807
+------------------------------------------------------
+Started: 2024-07-04 12:38:41.188855
+Existing_entries: 137
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [Voitures électriques : la Chambre de commerce chinoise dans l’UE fustige une « mesure protectionniste »](https://www.euractiv.fr/section/concurrence/news/voitures-electriques-la-chambre-de-commerce-chinoise-dans-lue-fustige-une-mesure-protectionniste/)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Royaume-Uni : une victoire des travaillistes ne rétablira pas les relations économiques pré-Brexit, selon des experts](https://www.euractiv.fr/section/elections/news/royaume-uni-une-victoire-des-travaillistes-ne-retablira-pas-les-relations-economiques-pre-brexit-selon-des-experts/)
+append_entries: 2
+Finish: 2024-07-04 12:38:47.007640

@@ -1462,3 +1462,18 @@ Existing_entries: 234
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-04 01:16:24.430205
+------------------------------------------------------
+Started: 2024-07-04 12:38:56.099510
+Existing_entries: 234
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 353
+Summarized using GPT-3.5-turbo
+Append: [L'UE impose jusqu'à 38% de droits supplémentaires sur les véhicules électriques chinois](https://www.europe1.fr/economie/lue-impose-jusqua-38-de-droits-supplementaires-sur-les-vehicules-electriques-chinois-4256483)
+Token length: 461
+Summarized using GPT-3.5-turbo
+Append: [L’interdiction des moteurs thermiques en 2035 dans l’UE remise en cause par le Parti populaire européen](https://www.europe1.fr/economie/linterdiction-des-moteurs-thermiques-en-2035-dans-lue-remise-en-cause-par-le-parti-populaire-europeen-4256391)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Banques en ligne, paiements par carte… Comment limiter les frais bancaires à l’étranger ?](https://www.europe1.fr/economie/banques-en-ligne-paiements-par-carte-comment-limiter-les-frais-bancaires-a-letranger-4256370)
+append_entries: 3
+Finish: 2024-07-04 12:39:06.078248

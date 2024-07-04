@@ -4,6 +4,54 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>rEFInd – Le gestionnaire EFI / UEFI qui boote tous vos OS avec classe</title>
+<link>https://korben.info/refind-gestionnaire-demarrage-ultime-booter-os.html</link>
+<guid>https://korben.info/refind-gestionnaire-demarrage-ultime-booter-os.html</guid>
+<content:encoded><![CDATA[
+<div> rEFInd, rEFIt, boot, multiboot, configuration <br>
+<br>
+Summary: <br>
+rEFInd est un outil de boot révolutionnaire qui permet de facilement booter Windows, Linux et macOS sur une même machine en mode EFI ou UEFI. Il détecte automatiquement les systèmes d'exploitation installés, peut lancer directement des noyaux Linux sans bootloader intermédiaire et gérer le boot des OS en mode legacy. En plus d'offrir une personnalisation esthétique du menu de boot, rEFInd propose de nombreuses options de configuration avancées pour les utilisateurs expérimentés. L'installation est simple et rapide, et il est possible de le configurer pour fonctionner avec Secure Boot, assurant ainsi une sécurité optimale. Avec rEFInd, la gestion du multiboot devient plus facile, sécurisée et visuellement attrayante, offrant une expérience de démarrage améliorée pour les utilisateurs. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Logo_with_text_written_rEFInd_modern_look_blue_and_orang_7e4077a2-7d20-4ec8-8145-d2e71d2f5ec6.webp" width="1456" /></p>
+<p>Vous en avez marre de <strong>GRUB</strong> et ses limitations ? Vous rêvez de pouvoir booter facilement <strong>Windows</strong>, <strong>Linux</strong> et <strong>macOS</strong> sur la même machine en <strong>EFI</strong> ou <strong>UEFI</strong> ? Ne cherchez plus, <strong><a href="https://www.rodsbooks.com/refind/" rel="noopener" target="_blank">rEFInd</a></strong> est là pour révolutionner votre expérience de démarrage !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-997906149" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Développé comme un fork de rEFIt, rEFInd pousse encore plus loin les possibilités de boot. Cet outil détecte automatiquement tous les systèmes d&rsquo;exploitation installés sur votre ordinateur comme ça, fini le temps perdu à configurer manuellement chaque entrée ! Le plus dingue avec rEFInd, c&rsquo;est qu&rsquo;il peut même lancer directement des noyaux <strong>Linux</strong> sans passer par un bootloader intermédiaire. Ça simplifie énormément la configuration. Et pour les nostalgiques du bon vieux <strong>BIOS</strong>, pas de panique : rEFInd gère aussi le boot des OS en mode <em>legacy</em> via le <strong>CSM</strong>. Bref, c&rsquo;est vraiment un outil très pratique pour gérer un multiboot sur les cartes mères modernes.</p>
+
+
+
+<p>En plus d&rsquo;être hyper pratique, rEFInd en jette grave avec <a href="https://github.com/topics/refind-theme" rel="noopener" target="_blank">ses thèmes graphiques</a>. Ainsi, vous pouvez complètement personnaliser le look de votre menu de boot. Mettez une image de fond stylée, changez les icônes, ajoutez une bannière&#8230; Faites-vous plaisir ! C&rsquo;est tellement plus agréable qu&rsquo;un écran noir avec trois lignes de texte. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158625" height="576" src="https://korben.info/app/uploads/2024/04/93c0c680-46b9-11ea-9eda-b3071a50454b-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>Mais rEFInd, ce n&rsquo;est pas qu&rsquo;une question d&rsquo;esthétique. C&rsquo;est aussi bourré d&rsquo;options de configuration avancées pour les power users qui permettent de définir des paramètres de boot par défaut, modifier à la volée les options passées aux OS, activer le support des pilotes EFI, et bien plus encore. Tout se fait via un fichier texte hyper simple à comprendre.</p>
+
+
+
+<p>Pour installer rEFInd, c&rsquo;est facile : Téléchargez la dernière version sur <a href="https://www.rodsbooks.com/refind/" rel="noopener" target="_blank">le site officiel</a>, décompressez l&rsquo;archive et lancez le script d&rsquo;installation. En quelques secondes, c&rsquo;est prêt ! Le programme s&rsquo;installe sur la partition <strong>EFI</strong> et prendra la main au démarrage suivant.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-675581388" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Maintenant, si vous voulez vraiment assurer niveau sécurité, vous pouvez même configurer rEFInd pour fonctionner avec <strong>Secure Boot</strong>. Il suffit de le signer numériquement avec votre propre clé, comme ça, vous serez certain que personne ne pourra modifier votre configuration de boot.</p>
+
+
+
+<p>Ça facilite tellement la vie au quotidien et en plus ça en jette visuellement, alors pourquoi vous priver ?</p>
+
+
+
+<p><a href="https://www.rodsbooks.com/refind/" rel="noopener" target="_blank">Plus d&rsquo;infos sur le site de rEFInd.</a></p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 04 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Theme Park – Personnalisez vos apps préférées avec style !</title>

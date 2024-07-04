@@ -1245,3 +1245,12 @@ Summarized using GPT-3.5-turbo
 Append: [Le bitcoin repasse brièvement sous les 60.000 dollars](https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-repasse-brievement-sous-les-60-000-dollars_AV-202407030577.html)
 append_entries: 3
 Finish: 2024-07-04 01:15:10.631460
+------------------------------------------------------
+Started: 2024-07-04 12:37:00.816668
+Existing_entries: 167
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Les banques devront être transparentes en publiant leur exposition aux crypto-actifs en 2026](https://www.bfmtv.com/crypto/regulation/les-banques-devront-etre-transparentes-en-publiant-leur-exposition-aux-crypto-actifs-en-2026_AV-202407040357.html)
+append_entries: 1
+Finish: 2024-07-04 12:37:05.044227

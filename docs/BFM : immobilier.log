@@ -1381,3 +1381,15 @@ Summarized using GPT-3.5-turbo
 Append: [Très peu de dossiers de crédit immobilier ont fait l'objet d'un réexamen par les banques](https://www.bfmtv.com/immobilier/credit-emprunt/tres-peu-de-dossiers-de-credit-immobilier-ont-fait-l-objet-d-un-reexamen-par-les-banques_AD-202407030805.html)
 append_entries: 1
 Finish: 2024-07-04 01:15:51.552400
+------------------------------------------------------
+Started: 2024-07-04 12:38:07.005456
+Existing_entries: 225
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [La construction d'un "village industriel" près des calanques de Marseille retoquée](https://www.bfmtv.com/immobilier/construction/la-construction-d-un-village-industriel-pres-des-calanques-de-marseille-retoquee_AD-202407040497.html)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Locataires, allez-vous devoir bientôt payer plus cher vos frais d'agence?](https://www.bfmtv.com/immobilier/location/locataires-allez-vous-devoir-bientot-payer-plus-cher-vos-frais-d-agence_AV-202407040327.html)
+append_entries: 2
+Finish: 2024-07-04 12:38:14.025163

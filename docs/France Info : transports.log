@@ -1457,3 +1457,18 @@ Existing_entries: 231
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-07-04 01:16:46.487748
+------------------------------------------------------
+Started: 2024-07-04 12:39:58.898259
+Existing_entries: 231
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Japon : des navettes autonomes pour automatiser le transport de marchandises entre les grandes villes... et se passer des camions](https://www.francetvinfo.fr/replay-radio/aujourd-hui-c-est-demain/japon-des-navettes-autonomes-pour-automatiser-le-transport-de-marchandises-entre-les-grandes-villes-et-se-passer-des-camions_6614181.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [SNCF : le nouveau mode d’emploi pour les bagages](https://www.francetvinfo.fr/economie/transports/sncf/sncf-le-nouveau-mode-d-emploi-pour-les-bagages_6645207.html)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [Transport aérien : les Jeux olympiques pèseront sur l’activité d’Air France-KLM cet été](https://www.francetvinfo.fr/replay-radio/le-brief-eco/transport-aerien-les-jeux-olympiques-peseront-sur-l-activite-d-air-france-klm-cet-ete_6614214.html)
+append_entries: 3
+Finish: 2024-07-04 12:40:11.759156

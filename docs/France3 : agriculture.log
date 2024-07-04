@@ -2139,3 +2139,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Potentiellement certaines cultures devront être arrêtées" : 4 choses à savoir sur l’ambroisie, plante invasive et allergisante](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/potentiellement-certaines-cultures-devront-etre-arretees-4-choses-a-savoir-sur-l-ambroisie-plante-invasive-et-allergisante-2998262.html)
 append_entries: 2
 Finish: 2024-07-04 01:17:41.654505
+------------------------------------------------------
+Started: 2024-07-04 12:41:02.662728
+Existing_entries: 465
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [Pluie sur les foins, orage sur les moissons : le casse-tête des agriculteurs](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/pluie-sur-les-foins-orage-sur-les-moissons-le-casse-tete-des-agriculteurs-2998859.html)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: ["On change, on évolue ou on meurt", le défi des vignerons face au déclin du vin rouge](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/on-change-on-evolue-ou-on-meurt-le-defi-des-vignerons-face-au-declin-du-vin-rouge-2998157.html)
+Token length: 341
+Summarized using GPT-3.5-turbo
+Append: [Une demi-heure de route pour se rendre dans une agence, une banque déserte la campagne au grand dam de ses habitants](https://france3-regions.francetvinfo.fr/occitanie/lot/cahors/banques-on-meprise-la-population-locale-les-habitants-de-plusieurs-communes-rurales-vent-debout-contre-la-fermeture-programmee-de-leurs-agences-bancaires-2998202.html)
+append_entries: 3
+Finish: 2024-07-04 12:41:10.975256

@@ -1055,3 +1055,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier - Assurance. Est-ce illégal de ne pas avoir d'extincteur dans votre logement ?](https://www.dna.fr/magazine-immobilier/2024/07/03/est-ce-illegal-de-ne-pas-avoir-d-extincteur-dans-votre-logement)
 append_entries: 1
 Finish: 2024-07-04 01:16:11.732837
+------------------------------------------------------
+Started: 2024-07-04 12:38:38.775254
+Existing_entries: 97
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-07-04 12:38:40.117414

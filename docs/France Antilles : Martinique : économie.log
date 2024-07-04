@@ -1628,3 +1628,18 @@ Existing_entries: 308
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-07-04 01:16:25.191445
+------------------------------------------------------
+Started: 2024-07-04 12:39:06.230453
+Existing_entries: 308
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [L'UE impose des surtaxes aux véhicules électriques chinois](https://www.martinique.franceantilles.fr/actualite/economie/lue-impose-des-surtaxes-aux-vehicules-electriques-chinois-994092.php)
+Token length: 35
+Summarized using GPT-3.5-turbo
+Append: [Les vedettes toujours à l'arrêt](https://www.martinique.franceantilles.fr/actualite/economie/les-vedettes-toujours-a-larret-994051.php)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [A Cuba, une coopérative sucrière se débat entre coupures d'électricité et pénuries](https://www.martinique.franceantilles.fr/actualite/economie/a-cuba-une-cooperative-sucriere-se-debat-entre-coupures-delectricite-et-penuries-994077.php)
+append_entries: 3
+Finish: 2024-07-04 12:39:18.895742

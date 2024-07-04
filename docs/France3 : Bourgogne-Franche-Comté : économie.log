@@ -1356,3 +1356,15 @@ Summarized using GPT-3.5-turbo
 Append: [Des vélos-cargos à prix cassés, pour célébrer l'arrivée du Tour de France en Bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/bourgogne/des-velos-cargos-a-prix-casses-pour-celebrer-l-arrivee-du-tour-de-france-en-bourgogne-2998241.html)
 append_entries: 4
 Finish: 2024-07-04 01:17:53.386522
+------------------------------------------------------
+Started: 2024-07-04 12:41:11.080747
+Existing_entries: 204
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 299
+Summarized using GPT-3.5-turbo
+Append: [CARTE. Tour de France 2024. Horaires, parcours, stationnement : tout savoir sur l'étape entre Nuits-Saint-Georges et Gevrey-Chambertin ce 5 juillet](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/carte-tour-de-france-2024-horaires-parcours-stationnement-tout-savoir-sur-l-etape-entre-nuits-saint-georges-et-gevrey-chambertin-ce-5-juillet-2998481.html)
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [Tour de France 2024. Mâcon, Dijon, Côte-d'Or : que coûte le passage de la Grande Boucle en Bourgogne ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/tour-de-france-2024-macon-dijon-cote-d-or-que-coute-le-passage-de-la-grande-boucle-en-bourgogne-2998619.html)
+append_entries: 2
+Finish: 2024-07-04 12:41:17.470338

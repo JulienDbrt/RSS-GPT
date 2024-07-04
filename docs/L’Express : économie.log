@@ -1651,3 +1651,15 @@ Existing_entries: 349
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-04 01:18:51.951161
+------------------------------------------------------
+Started: 2024-07-04 12:42:11.646701
+Existing_entries: 349
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 5121
+Summarized using GPT-3.5-turbo
+Append: [Véhicules électriques chinois : l’UE impose des droits de douane supplémentaires](https://www.lexpress.fr/economie/vehicules-electriques-chinois-lue-impose-des-droits-de-douane-supplementaires-HX3XUNG2RBBHTJMQ5CSLPYBXEE/)
+Token length: 4167
+Summarized using GPT-3.5-turbo
+Append: [Vieillissement démographique : le grand absent du débat public, par Nicolas Bouzou](https://www.lexpress.fr/economie/politique-economique/vieillissement-demographique-le-grand-absent-du-debat-public-par-nicolas-bouzou-LMPV5X7LSFGLNE5FQ7DAY6HU4Y/)
+append_entries: 2
+Finish: 2024-07-04 12:42:20.573645

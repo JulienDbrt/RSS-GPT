@@ -1424,3 +1424,12 @@ Existing_entries: 220
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-07-04 01:14:14.833742
+------------------------------------------------------
+Started: 2024-07-04 12:35:52.500141
+Existing_entries: 220
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [A quoi servent ces nouveaux billets de 0 euro mis en circulation en France ?](https://www.20minutes.fr/economie/4099691-20240704-quoi-servent-nouveaux-billets-0-euro-mis-circulation-france)
+append_entries: 1
+Finish: 2024-07-04 12:35:56.422331
