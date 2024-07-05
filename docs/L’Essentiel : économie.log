@@ -1504,3 +1504,12 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: «On paye notre ticket resto 3,60 euros et non 2,80 euros, pourquoi?»](https://www.lessentiel.lu/fr/story/au-luxembourg-on-paye-notre-ticket-resto-360-euros-et-non-280-euros-pourquoi-103134385)
 append_entries: 5
 Finish: 2024-07-04 12:42:11.012639
+------------------------------------------------------
+Started: 2024-07-05 01:17:47.843528
+Existing_entries: 298
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [Égalité des genres: Le Luxembourg veut plus de femmes dans la finance](https://www.lessentiel.lu/fr/story/egalite-des-genres-le-luxembourg-veut-plus-de-femmes-dans-la-finance-103142604)
+append_entries: 1
+Finish: 2024-07-05 01:17:54.131952

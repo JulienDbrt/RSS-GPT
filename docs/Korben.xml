@@ -4,14 +4,15 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>rEFInd – Le gestionnaire EFI / UEFI qui boote tous vos OS avec classe</title>
 <link>https://korben.info/refind-gestionnaire-demarrage-ultime-booter-os.html</link>
 <guid>https://korben.info/refind-gestionnaire-demarrage-ultime-booter-os.html</guid>
 <content:encoded><![CDATA[
-<div> rEFInd, rEFIt, boot, multiboot, configuration <br>
-<br>
-Summary: <br>
+<div> rEFInd, rEFIt, boot, multiboot, configuration <br />
+<br />
+Summary: <br />
 rEFInd est un outil de boot révolutionnaire qui permet de facilement booter Windows, Linux et macOS sur une même machine en mode EFI ou UEFI. Il détecte automatiquement les systèmes d'exploitation installés, peut lancer directement des noyaux Linux sans bootloader intermédiaire et gérer le boot des OS en mode legacy. En plus d'offrir une personnalisation esthétique du menu de boot, rEFInd propose de nombreuses options de configuration avancées pour les utilisateurs expérimentés. L'installation est simple et rapide, et il est possible de le configurer pour fonctionner avec Secure Boot, assurant ainsi une sécurité optimale. Avec rEFInd, la gestion du multiboot devient plus facile, sécurisée et visuellement attrayante, offrant une expérience de démarrage améliorée pour les utilisateurs. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Logo_with_text_written_rEFInd_modern_look_blue_and_orang_7e4077a2-7d20-4ec8-8145-d2e71d2f5ec6.webp" width="1456" /></p>
 <p>Vous en avez marre de <strong>GRUB</strong> et ses limitations ? Vous rêvez de pouvoir booter facilement <strong>Windows</strong>, <strong>Linux</strong> et <strong>macOS</strong> sur la même machine en <strong>EFI</strong> ou <strong>UEFI</strong> ? Ne cherchez plus, <strong><a href="https://www.rodsbooks.com/refind/" rel="noopener" target="_blank">rEFInd</a></strong> est là pour révolutionner votre expérience de démarrage !</p>
@@ -50,9 +51,7 @@ rEFInd est un outil de boot révolutionnaire qui permet de facilement booter Win
 <p><a href="https://www.rodsbooks.com/refind/" rel="noopener" target="_blank">Plus d&rsquo;infos sur le site de rEFInd.</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 04 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Theme Park – Personnalisez vos apps préférées avec style !</title>
 <link>https://korben.info/theme-park-personnalisez-apps-style.html</link>

@@ -1483,3 +1483,18 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle taxe de l'UE sur les véhicules électriques chinois](https://www.20min.ch/fr/story/droits-de-douane-nouvelle-taxe-de-lue-sur-vehicules-electriques-chinois-103142449)
 append_entries: 1
 Finish: 2024-07-04 12:35:52.387654
+------------------------------------------------------
+Started: 2024-07-05 01:13:16.596334
+Existing_entries: 271
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Les jeunes travaillent mal, il n'engage que des plus de 45 ans](https://www.20min.ch/fr/story/espagne-les-jeunes-travaillent-mal-il-nengage-que-des-plus-de-45-ans-103139718)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [Suisse Tourisme veut protéger le pays du surtourisme](https://www.20min.ch/fr/story/economie-suisse-tourisme-veut-proteger-le-pays-du-surtourisme-103142726)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Les centres de chirurgie MV Santé sont déclarés en faillite](https://www.20min.ch/fr/story/vaudgenevevalais-les-centres-de-chirurgie-mv-sante-sont-declares-en-faillite-103142538)
+append_entries: 3
+Finish: 2024-07-05 01:13:25.223273

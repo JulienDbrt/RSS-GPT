@@ -1393,3 +1393,12 @@ Summarized using GPT-3.5-turbo
 Append: [Locataires, allez-vous devoir bientôt payer plus cher vos frais d'agence?](https://www.bfmtv.com/immobilier/location/locataires-allez-vous-devoir-bientot-payer-plus-cher-vos-frais-d-agence_AV-202407040327.html)
 append_entries: 2
 Finish: 2024-07-04 12:38:14.025163
+------------------------------------------------------
+Started: 2024-07-05 01:15:03.135966
+Existing_entries: 227
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Crise de l'immobilier: 400 millions d'euros en moins dans les caisses de la ville de Paris](https://www.bfmtv.com/immobilier/fiscalite/crise-de-l-immobilier-400-millions-d-euros-en-moins-dans-les-caisses-de-la-ville-de-paris_AD-202407040552.html)
+append_entries: 1
+Finish: 2024-07-05 01:15:06.230066

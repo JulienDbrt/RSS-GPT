@@ -2154,3 +2154,15 @@ Summarized using GPT-3.5-turbo
 Append: [Une demi-heure de route pour se rendre dans une agence, une banque déserte la campagne au grand dam de ses habitants](https://france3-regions.francetvinfo.fr/occitanie/lot/cahors/banques-on-meprise-la-population-locale-les-habitants-de-plusieurs-communes-rurales-vent-debout-contre-la-fermeture-programmee-de-leurs-agences-bancaires-2998202.html)
 append_entries: 3
 Finish: 2024-07-04 12:41:10.975256
+------------------------------------------------------
+Started: 2024-07-05 01:17:08.511054
+Existing_entries: 468
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Bottes de foin en feu dans un hangar agricole : les pompiers évitent la propagation de l'incendie](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/bottes-de-foin-en-feu-dans-un-hangar-agricole-les-pompiers-evitent-la-propagation-de-l-incendie-2999462.html)
+Token length: 366
+Summarized using GPT-3.5-turbo
+Append: ["On n'avait pas besoin de ça" : les exploitants agricoles inquiets pour leurs récoltes après le passage d'un violent orage](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/on-n-avait-pas-besoin-de-ca-les-exploitants-agricoles-inquiets-pour-leurs-recoltes-apres-le-passage-d-un-violent-orage-2998895.html)
+append_entries: 2
+Finish: 2024-07-05 01:17:13.082644

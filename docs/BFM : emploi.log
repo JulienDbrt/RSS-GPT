@@ -1014,3 +1014,9 @@ Summarized using GPT-3.5-turbo
 Append: [Malgré un léger recul en 2023, l'absentéisme en entreprise reste à un niveau élevé](https://www.bfmtv.com/economie/emploi/malgre-un-leger-recul-en-2023-l-absenteisme-en-entreprise-reste-a-un-niveau-eleve_AV-202407040027.html)
 append_entries: 1
 Finish: 2024-07-04 12:37:09.584816
+------------------------------------------------------
+Started: 2024-07-05 01:14:26.702099
+Existing_entries: 88
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-07-05 01:14:26.953621

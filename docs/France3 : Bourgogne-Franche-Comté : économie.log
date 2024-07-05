@@ -1368,3 +1368,9 @@ Summarized using GPT-3.5-turbo
 Append: [Tour de France 2024. Mâcon, Dijon, Côte-d'Or : que coûte le passage de la Grande Boucle en Bourgogne ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/tour-de-france-2024-macon-dijon-cote-d-or-que-coute-le-passage-de-la-grande-boucle-en-bourgogne-2998619.html)
 append_entries: 2
 Finish: 2024-07-04 12:41:17.470338
+------------------------------------------------------
+Started: 2024-07-05 01:17:13.190958
+Existing_entries: 206
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-05 01:17:13.356162

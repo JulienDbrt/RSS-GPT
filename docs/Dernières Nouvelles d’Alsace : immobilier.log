@@ -1061,3 +1061,12 @@ Existing_entries: 97
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-07-04 12:38:40.117414
+------------------------------------------------------
+Started: 2024-07-05 01:15:42.309666
+Existing_entries: 97
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Immobilier. Vous payez beaucoup de frais de notaires ? On vous explique pourquoi !](https://www.dna.fr/magazine-immobilier/2024/07/04/vous-payez-beaucoup-de-frais-de-notaires-on-vous-explique-pourquoi)
+append_entries: 1
+Finish: 2024-07-05 01:15:45.639794
