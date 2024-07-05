@@ -1571,3 +1571,15 @@ Summarized using GPT-3.5-turbo
 Append: [Taxes sur les voitures chinoises : l’UE met ses menaces à exécution](https://www.la-croix.com/economie/taxes-sur-les-voitures-chinoises-l-ue-met-ses-menaces-a-execution-20240704)
 append_entries: 1
 Finish: 2024-07-05 01:18:32.883625
+------------------------------------------------------
+Started: 2024-07-05 12:40:14.010342
+Existing_entries: 285
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: [Les taxes européennes sur les voitures chinoises pourraient être bénéfiques à la Hongrie](https://www.la-croix.com/economie/les-taxes-europeennes-sur-les-voitures-chinoises-pourraient-etre-benefiques-a-la-hongrie-20240704)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Dette publique française : peut-on l’ignorer ?](https://www.la-croix.com/economie/dette-publique-francaise-peut-on-l-ignorer-20240704)
+append_entries: 2
+Finish: 2024-07-05 12:40:19.000204

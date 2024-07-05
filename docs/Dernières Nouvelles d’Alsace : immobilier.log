@@ -1070,3 +1070,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier. Vous payez beaucoup de frais de notaires ? On vous explique pourquoi !](https://www.dna.fr/magazine-immobilier/2024/07/04/vous-payez-beaucoup-de-frais-de-notaires-on-vous-explique-pourquoi)
 append_entries: 1
 Finish: 2024-07-05 01:15:45.639794
+------------------------------------------------------
+Started: 2024-07-05 12:36:46.704427
+Existing_entries: 98
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-07-05 12:36:48.072471

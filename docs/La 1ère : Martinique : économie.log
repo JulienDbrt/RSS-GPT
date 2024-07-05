@@ -1069,3 +1069,9 @@ Summarized using GPT-3.5-turbo
 Append: [Bruno Mencé nommé président du directoire du Grand Port Maritime de la Martinique](https://la1ere.francetvinfo.fr/martinique/bruno-mence-nomme-president-du-directoire-du-grand-port-maritime-de-la-martinique-1503209.html)
 append_entries: 1
 Finish: 2024-07-05 01:18:27.754314
+------------------------------------------------------
+Started: 2024-07-05 12:39:55.069923
+Existing_entries: 91
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-05 12:39:55.331170

@@ -1499,3 +1499,18 @@ Summarized using GPT-3.5-turbo
 Append: [Qu’est-ce que tu fais pour les vacances ?](https://www.radiofrance.fr/franceinter/podcasts/sur-la-page-abandonnee/sur-la-page-abandonnee-du-jeudi-04-juillet-2024-6824113)
 append_entries: 1
 Finish: 2024-07-05 01:16:33.216043
+------------------------------------------------------
+Started: 2024-07-05 12:37:25.224312
+Existing_entries: 241
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [De quoi le RN est-il le nom ? Avec Dominique Seux et Thomas Porcher.](https://www.radiofrance.fr/franceinter/podcasts/le-debat-economique/le-debat-eco-du-vendredi-05-juillet-2024-9223710)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [Les paris sportifs](https://www.radiofrance.fr/franceinter/podcasts/esprit-pratique/esprit-pratique-du-vendredi-05-juillet-2024-5929446)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [En entreprise, la parole raciste se décomplexe depuis la dissolution](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-7705741)
+append_entries: 3
+Finish: 2024-07-05 12:37:34.345287

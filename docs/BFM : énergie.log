@@ -1059,3 +1059,12 @@ Summarized using GPT-3.5-turbo
 Append: [Trois évènements significatifs déclarés par EDF à Flamanville sans conséquence sur la sûreté](https://www.bfmtv.com/economie/entreprises/energie/trois-evenements-significatifs-de-surete-declares-par-edf-a-flamanville-sans-consequence-sur-la-surete_AD-202407040810.html)
 append_entries: 1
 Finish: 2024-07-05 01:14:07.516433
+------------------------------------------------------
+Started: 2024-07-05 12:34:42.680200
+Existing_entries: 101
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [Chèque énergie: comment savoir si vous êtes éligible?](https://www.bfmtv.com/economie/entreprises/energie/cheque-energie-comment-savoir-si-je-suis-eligible_AD-202407050351.html)
+append_entries: 1
+Finish: 2024-07-05 12:34:46.378569

@@ -1486,3 +1486,12 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveaux droits de douane sur les voitures électriques produites en Chine : quels sont les modèles concernés ?](https://www.europe1.fr/economie/nouveaux-droits-de-douane-sur-les-voitures-electriques-produites-en-chine-quels-sont-les-modeles-concernes-4256538)
 append_entries: 1
 Finish: 2024-07-05 01:15:52.100572
+------------------------------------------------------
+Started: 2024-07-05 12:36:51.961365
+Existing_entries: 238
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [Automobile : huit ans après sa disparition, Lancia revient en France avec son modèle Ypsilon](https://www.europe1.fr/economie/automobile-8-ans-apres-la-disparition-lancia-revient-en-france-avec-son-modele-ypsilon-4256675)
+append_entries: 1
+Finish: 2024-07-05 12:36:54.243884

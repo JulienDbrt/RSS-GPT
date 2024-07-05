@@ -1402,3 +1402,15 @@ Summarized using GPT-3.5-turbo
 Append: [Crise de l'immobilier: 400 millions d'euros en moins dans les caisses de la ville de Paris](https://www.bfmtv.com/immobilier/fiscalite/crise-de-l-immobilier-400-millions-d-euros-en-moins-dans-les-caisses-de-la-ville-de-paris_AD-202407040552.html)
 append_entries: 1
 Finish: 2024-07-05 01:15:06.230066
+------------------------------------------------------
+Started: 2024-07-05 12:35:52.858673
+Existing_entries: 228
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [De quelle marge disposez-vous pour négocier le prix à l'achat d'un logement?](https://www.bfmtv.com/immobilier/achat-vente/de-quelle-marge-disposez-vous-pour-negocier-le-prix-a-l-achat-d-un-logement_AV-202407050301.html)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: ["Chaque parti a parlé du logement": la patronne de Nexity espère un sursaut politique sur l'immobilier](https://www.bfmtv.com/immobilier/construction/chaque-parti-a-parle-du-logement-la-patronne-de-nexity-espere-un-sursaut-politique-sur-l-immobilier_AV-202407050291.html)
+append_entries: 2
+Finish: 2024-07-05 12:35:59.800272

@@ -1266,3 +1266,9 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle aérogare à Longueuil: une majorité des citoyens en faveur du projet d’agrandissement](https://www.journaldemontreal.com/2024/07/03/nouvelle-aerogare-a-longueuil-une-majorite-des-citoyens-en-faveur-du-projet-dagrandissement)
 append_entries: 2
 Finish: 2024-07-05 01:17:35.664344
+------------------------------------------------------
+Started: 2024-07-05 12:38:51.450850
+Existing_entries: 160
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-05 12:38:51.712717

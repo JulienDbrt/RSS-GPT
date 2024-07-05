@@ -964,3 +964,12 @@ Existing_entries: 69
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-07-05 01:11:23.135426
+------------------------------------------------------
+Started: 2024-07-05 12:31:37.965371
+Existing_entries: 69
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Vol d’électricité : un salarié de Veolia et sa femme condamnés pour avoir truqué des compteurs Linky](https://www.lefigaro.fr/conjoncture/vol-d-electricite-un-salarie-de-veolia-et-sa-femme-condamnes-pour-avoir-truque-des-compteurs-linky-20240608)
+append_entries: 1
+Finish: 2024-07-05 12:31:42.239465

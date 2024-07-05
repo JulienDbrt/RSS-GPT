@@ -1652,3 +1652,18 @@ Summarized using GPT-3.5-turbo
 Append: [Mexique: l'ouragan Béryl menace la vitrine du tourisme national](https://www.martinique.franceantilles.fr/actualite/international/louragan-beryl-potentiellement-catastrophique-menace-les-caraibes-993756.php)
 append_entries: 1
 Finish: 2024-07-05 01:15:56.613369
+------------------------------------------------------
+Started: 2024-07-05 12:36:54.406862
+Existing_entries: 312
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Législatives: dernier jour de campagne avant le grand saut dans l'inconnu](https://www.martinique.franceantilles.fr/actualite/economie/legislatives-dernier-jour-de-campagne-les-candidats-appellent-a-la-mobilisation-994231.php)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Navettes maritimes : la mise au point de Blue Lines](https://www.martinique.franceantilles.fr/actualite/economie/navettes-maritimes-la-mise-au-point-de-blue-lines-994168.php)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [Accord amiable ou procès, Boeing doit répondre à l'offre du ministère de la Justice](https://www.martinique.franceantilles.fr/actualite/economie/accord-amiable-ou-proces-boeing-doit-repondre-a-loffre-du-ministere-de-la-justice-994230.php)
+append_entries: 3
+Finish: 2024-07-05 12:37:01.954132

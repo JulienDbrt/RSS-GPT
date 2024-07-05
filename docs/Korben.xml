@@ -4,6 +4,147 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>FLARE-VM – Le toolkit des passionnés de reverse engineering !</title>
+<link>https://korben.info/flare-vm-le-toolkit-ultime-pour-les-passionnes-de-reverse-engineering.html</link>
+<guid>https://korben.info/flare-vm-le-toolkit-ultime-pour-les-passionnes-de-reverse-engineering.html</guid>
+<content:encoded><![CDATA[
+<div> installation, outils, analyse, malwares, reverse engineering
+<br>
+Summary:<br>
+FLARE-VM de Mandiant est un outil pratique pour créer rapidement un labo d'analyse de malwares. Basé sur Chocolatey et Boxstarter, il simplifie l'installation et la configuration d'un environnement de reverse engineering sur une VM Windows. Avant de commencer, il faut vérifier les prérequis et suivre les étapes d'installation via PowerShell. Une fois installé, il est recommandé de personnaliser l'environnement en mettant à jour les outils, en configurant les paramètres réseau et en ajoutant des utilitaires supplémentaires. Pour contribuer à améliorer FLARE-VM, il est possible de consulter les repos GitHub du projet. En résumé, FLARE-VM facilite la mise en place d'un environnement dédié à l'analyse de malwares, offrant aux utilisateurs un ensemble d'outils prêts à l'emploi pour mener à bien leurs activités de reverse engineering. <br> <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="512" src="https://korben.info/app/uploads/2024/04/SCR-20240407-ogp.webp" width="891" /></p>
+<p>Si vous vous intéressez au<strong> reverse engineering</strong> comme moi, permettez-moi de vous présenter <strong>FLARE-VM</strong> de Mandiant ! C&rsquo;est un outil très pratique pour vous monter rapidement un petit labo d&rsquo;analyse de <strong>malwares</strong> sans vous prendre la tête.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1500978633" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Concrètement, FLARE-VM est une jolie brochette de scripts d&rsquo;installation pour Windows, basés sur deux technos bien badass : <strong>Chocolatey</strong> (un gestionnaire de paquets) et <strong>Boxstarter</strong> (un outil pour scripter des installs et configurer des environnements reproductibles). Bref, ça mâche le boulot et ça permet d&rsquo;installer tout un tas d&rsquo;outils et les configurer proprement en quelques minutes.</p>
+
+
+
+<p>Bon, avant de se lancer, faut quand même checker deux-trois prérequis. Déjà, n&rsquo;oubliez pas que FLARE-VM est prévu pour tourner sur une <strong>VM</strong>, donc préparez-en une bien propre (Windows 10+ de préférence) sur VMWare ou Virtualbox par exemple. Ensuite, vérifiez que vous avez bien au moins 60 Go d&rsquo;espace disque et 2 Go de RAM. Et pensez à désactiver les mises à jour Windows et l&rsquo;antivirus, sinon ça risque de faire des misères.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Ouvrez ensuite une invite <code>PowerShell</code> en tant qu&rsquo;administrateur et téléchargez le script d&rsquo;installation <code>installer.ps1</code> sur votre bureau à l&rsquo;aide de la commande suivante :</p>
+
+
+
+<pre class="wp-block-code"><code>(New-Object net.webclient).DownloadFile('https://raw.githubusercontent.com/mandiant/flare-vm/main/install.ps1',"$(&#91;Environment]::GetFolderPath("Desktop"))\install.ps1")</code></pre>
+
+
+
+<p>Débloquez le script d&rsquo;installation :</p>
+
+
+
+<pre class="wp-block-code"><code>Unblock-File .\install.ps1</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1392755972" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Puis activez son exécution : </p>
+
+
+
+<pre class="wp-block-code"><code>Set-ExecutionPolicy Unrestricted -Force</code></pre>
+
+
+
+<p>Si vous recevez un message d&rsquo;erreur indiquant que la stratégie d&rsquo;exécution est remplacée par une stratégie définie à une portée plus spécifique, vous devrez peut-être passer une portée via <code>Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force</code>. Pour afficher les stratégies d&rsquo;exécution pour toutes les portées, exécutez <code>Get-ExecutionPolicy -List</code>.</p>
+
+
+
+<p>Enfin, exécutez le script d&rsquo;installation comme ceci :</p>
+
+
+
+<p><code>.\install.ps1</code></p>
+
+
+
+<p>Pour passer votre mot de passe en argument : </p>
+
+
+
+<p><code>.\install.ps1 -password &lt;mot_de_passe></code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1181134520" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Pour utiliser le mode CLI uniquement avec un minimum d&rsquo;interaction utilisateur : </p>
+
+
+
+<p><code>.\install.ps1 -password &lt;mot_de_passe> -noWait -noGui</code></p>
+
+
+
+<p>Pour utiliser le mode CLI uniquement avec un minimum d&rsquo;interaction utilisateur et un fichier de configuration personnalisé : </p>
+
+
+
+<p><code>.\install.ps1 -customConfig &lt;config.xml> -password &lt;mot_de_passe> -noWait -noGui</code></p>
+
+
+
+<p>Une fois lancée, l&rsquo;installation va télécharger et installer tous les outils sélectionnés, configurer les variables d&rsquo;environnement, épingler des raccourcis sur la barre des tâches, etc. Bref, en quelques clics, vous obtiendrez un environnement de reverse engineering aux petits oignons, prêt à l&#8217;emploi pour <strong>désosser du malware</strong> ! </p>
+
+
+
+<p>Après l&rsquo;installation, il est recommandé de passer en mode de réseau <code>host-only</code> et de prendre un instantané de la machine virtuelle. Vous pouvez ensuite personnaliser votre environnement FLARE VM en fonction de vos besoins spécifiques :</p>
+
+
+
+<ul>
+<li>Mettez à jour les outils et les logiciels installés pour vous assurer que vous disposez des dernières versions.</li>
+
+
+
+<li>Configurez les paramètres réseau selon vos préférences, par exemple en passant en mode NAT ou en mode pont si nécessaire.</li>
+
+
+
+<li>Installez des outils ou des utilitaires supplémentaires qui pourraient être utiles pour votre flux de travail d&rsquo;analyse.</li>
+
+
+
+<li>Personnalisez les paramètres de l&rsquo;interface utilisateur et les préférences selon vos goûts.</li>
+</ul>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-220066263" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Et c&rsquo;est parti mon kiki !</p>
+
+
+
+<p>Après, si vous voulez aller plus loin et contribuer à l&rsquo;amélioration de FLARE-VM, jetez un œil aux repos GitHub du projet : </p>
+
+
+
+<ul>
+<li><a href="https://github.com/mandiant/flare-vm">Le script d&rsquo;installation et la configuration</a></li>
+
+
+
+<li><a href="https://github.com/mandiant/flare-vm">Le dépôt des packages d&rsquo;outils</a></li>
+</ul>
+
+
+
+<p>Happy reverse à tous ! 🚀</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>rEFInd – Le gestionnaire EFI / UEFI qui boote tous vos OS avec classe</title>

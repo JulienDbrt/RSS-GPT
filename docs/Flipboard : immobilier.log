@@ -2901,3 +2901,15 @@ Summarized using GPT-3.5-turbo
 Append: [Malgré une hausse de prix, les plex font fureur auprès des acheteurs de propriété](https://www.tvanouvelles.ca/2024/07/04/malgre-une-hausse-de-prix-les-plex-font-fureur-aupres-des-acheteurs-de-propriete)
 append_entries: 5
 Finish: 2024-07-05 01:11:22.637190
+------------------------------------------------------
+Started: 2024-07-05 12:31:30.091470
+Existing_entries: 851
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [INFO LA DEPECHE. Floué sur un investissement à 12 millions d’euros, il recrute deux gangsters pour agresser son partenaire](https://www.ladepeche.fr/2024/07/05/info-la-depeche-floue-sur-un-investissement-a-12-millions-deuros-il-recrute-deux-gangsters-pour-agresser-son-partenaire-12062617.php)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Fiscalité : « Je souhaite que l'investissement dans le logement soit traité comme un dividende » (Véronique Bédague, PDG de Nexity)](https://www.latribune.fr/entreprises-finance/industrie/biens-d-equipement-btp-immobilier/fiscalite-je-souhaite-que-l-investissement-dans-le-logement-soit-traite-comme-un-dividende-veronique-bedague-pdg-de-nexity-1001549.html)
+append_entries: 2
+Finish: 2024-07-05 12:31:37.930996

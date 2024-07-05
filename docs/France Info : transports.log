@@ -1490,3 +1490,15 @@ Summarized using GPT-3.5-turbo
 Append: [Ain : un distributeur de fromages locaux à la gare de Bourg-en-Bresse](https://www.francetvinfo.fr/economie/transports/ain-un-distributeur-de-fromages-locaux-a-la-gare-de-bourg-en-bresse_6645756.html)
 append_entries: 4
 Finish: 2024-07-05 01:16:28.547798
+------------------------------------------------------
+Started: 2024-07-05 12:37:19.720525
+Existing_entries: 238
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Huit blessés dans une collision entre deux tramways dans le Val-de-Marne](https://www.francetvinfo.fr/faits-divers/accident/huit-blesses-dans-une-collision-entre-deux-tramways-dans-le-val-de-marne_6647460.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Plus de 5 heures de retard pour un train Intercités Paris-Cahors cette nuit à cause d'une panne de locomotive](https://www.francetvinfo.fr/economie/transports/sncf/plus-de-5-heures-de-retard-pour-un-train-intercites-paris-cahors-cette-nuit-a-cause-d-une-panne-de-locomotive_6647088.html)
+append_entries: 2
+Finish: 2024-07-05 12:37:25.089711

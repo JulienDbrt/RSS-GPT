@@ -1299,3 +1299,12 @@ Summarized using GPT-3.5-turbo
 Append: [Grève dans les bibliothèques parisiennes, les conditions de travail dénoncées](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-dans-les-bibliotheques-parisiennes-les-conditions-de-travail-denoncees-2999144.html)
 append_entries: 2
 Finish: 2024-07-05 01:17:08.262798
+------------------------------------------------------
+Started: 2024-07-05 12:38:11.712691
+Existing_entries: 181
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été : Bison Futé voit rouge en Île-de-France pour le premier grand week-end de départs](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/vacances-d-ete-bison-fute-voit-rouge-en-ile-de-france-pour-le-premier-grand-week-end-de-departs-2999471.html)
+append_entries: 1
+Finish: 2024-07-05 12:38:16.014441
