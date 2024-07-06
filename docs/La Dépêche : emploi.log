@@ -1687,3 +1687,9 @@ Summarized using GPT-3.5-turbo
 Append: [Revel. Les ateliers d’été pour l’emploi](https://www.ladepeche.fr/2024/07/05/les-ateliers-dete-pour-lemploi-12062176.php)
 append_entries: 2
 Finish: 2024-07-05 12:40:58.224411
+------------------------------------------------------
+Started: 2024-07-06 01:17:46.402726
+Existing_entries: 305
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-07-06 01:17:47.236463

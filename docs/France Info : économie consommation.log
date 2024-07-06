@@ -4430,3 +4430,24 @@ Summarized using GPT-3.5-turbo
 Append: [Plus de 5 heures de retard pour un train Intercités Paris-Cahors cette nuit à cause d'une panne de locomotive](https://www.francetvinfo.fr/economie/transports/sncf/plus-de-5-heures-de-retard-pour-un-train-intercites-paris-cahors-cette-nuit-a-cause-d-une-panne-de-locomotive_6647088.html)
 append_entries: 5
 Finish: 2024-07-05 12:37:18.106690
+------------------------------------------------------
+Started: 2024-07-06 01:14:32.327785
+Existing_entries: 1005
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : quand l’intelligence artificielle se transforme en guide](https://www.francetvinfo.fr/economie/tourisme/tourisme-quand-l-intelligence-artificielle-se-transforme-en-guide_6648234.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : le bio se réinvente](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/agriculture-le-bio-se-reinvente_6648261.html)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : à Saint-Malo, le surtourisme inquiète](https://www.francetvinfo.fr/economie/tourisme/tourisme-a-saint-malo-le-surtourisme-inquiete_6648246.html)
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Pouvoir d’achat : un guichet "réclamation" après le bug du chèque énergie](https://www.francetvinfo.fr/economie/pouvoir-achat/pouvoir-d-achat-un-guichet-reclamation-apres-le-bug-du-cheque-energie_6647805.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : à Saint-Malo, des réactions mitigées après la mise en vente de billets de TGV supplémentaires](https://www.francetvinfo.fr/economie/tourisme/tourisme-a-saint-malo-des-reactions-mitigees-apres-la-mise-en-vente-de-billets-de-tgv-supplementaires_6647820.html)
+append_entries: 5
+Finish: 2024-07-06 01:14:42.430174

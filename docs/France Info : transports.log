@@ -1502,3 +1502,15 @@ Summarized using GPT-3.5-turbo
 Append: [Plus de 5 heures de retard pour un train Intercités Paris-Cahors cette nuit à cause d'une panne de locomotive](https://www.francetvinfo.fr/economie/transports/sncf/plus-de-5-heures-de-retard-pour-un-train-intercites-paris-cahors-cette-nuit-a-cause-d-une-panne-de-locomotive_6647088.html)
 append_entries: 2
 Finish: 2024-07-05 12:37:25.089711
+------------------------------------------------------
+Started: 2024-07-06 01:14:43.200231
+Existing_entries: 240
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : à Saint-Malo, le surtourisme inquiète](https://www.francetvinfo.fr/economie/tourisme/tourisme-a-saint-malo-le-surtourisme-inquiete_6648246.html)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : à Saint-Malo, des réactions mitigées après la mise en vente de billets de TGV supplémentaires](https://www.francetvinfo.fr/economie/tourisme/tourisme-a-saint-malo-des-reactions-mitigees-apres-la-mise-en-vente-de-billets-de-tgv-supplementaires_6647820.html)
+append_entries: 2
+Finish: 2024-07-06 01:14:55.193750

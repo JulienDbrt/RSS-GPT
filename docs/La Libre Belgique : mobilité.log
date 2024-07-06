@@ -1229,3 +1229,15 @@ Summarized using GPT-3.5-turbo
 Append: [“Avant ce gouvernement, le dossier des bornes de recharge pour les voitures électriques n’existait tout simplement pas”](https://www.lalibre.be/belgique/mobilite/2024/07/05/avant-ce-gouvernement-le-dossier-des-bornes-de-recharge-pour-les-voitures-electriques-nexistait-tout-simplement-pas-RJEGBCNIMRFT5L25TF7TWO3EMQ/)
 append_entries: 4
 Finish: 2024-07-05 12:41:49.323656
+------------------------------------------------------
+Started: 2024-07-06 01:18:06.273261
+Existing_entries: 175
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [Les tickets Brupass vont également augmenter en septembre : l’abonnement annuel pour la formule XL coûtera… 910€, voici tous les prix](https://www.lalibre.be/belgique/mobilite/2024/07/05/les-tickets-brupass-vont-egalement-augmenter-en-septembre-labonnement-annuel-pour-la-formule-xl-coutera-910-voici-tous-les-prix-MA3S5LBUKRCLHG5E7B5TZFLHZU/)
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [Deux bandes de circulation impraticables sur l'A12 en direction de Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/07/05/deux-bandes-de-circulation-impraticables-sur-la12-en-direction-de-bruxelles-AWCIMZPSQVD7ZM6NORU373K63I/)
+append_entries: 2
+Finish: 2024-07-06 01:18:10.387343

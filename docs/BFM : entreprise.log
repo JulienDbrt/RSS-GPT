@@ -2858,3 +2858,18 @@ Summarized using GPT-3.5-turbo
 Append: [Le pâtissier Mademoiselle Desserts racheté par le groupe suisse Emmi](https://www.bfmtv.com/economie/entreprises/le-patissier-mademoiselle-desserts-rachete-par-le-groupe-suisse-emmi_AD-202407050205.html)
 append_entries: 6
 Finish: 2024-07-05 12:35:22.459648
+------------------------------------------------------
+Started: 2024-07-06 01:13:04.489109
+Existing_entries: 732
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Veolia va cèder au Maroc une grosse filiale héritée de Suez](https://www.bfmtv.com/economie/entreprises/veolia-va-ceder-au-maroc-une-grosse-filiale-heritee-de-suez_AD-202407050777.html)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Lancia fait son retour en France avec la nouvelle Ypsilon](https://www.bfmtv.com/economie/entreprises/transports/lancia-fait-son-retour-en-france-avec-la-nouvelle-ypsilon_VN-202407050761.html)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [La SNCF prévoit plus de voyageurs qu'en 2023 pour le premier week-end des vacances d'été](https://www.bfmtv.com/economie/entreprises/transports/la-sncf-prevoit-plus-de-voyageurs-qu-en-2023-pour-le-premier-week-end-des-vacances-d-ete_AD-202407050669.html)
+append_entries: 3
+Finish: 2024-07-06 01:13:11.510381

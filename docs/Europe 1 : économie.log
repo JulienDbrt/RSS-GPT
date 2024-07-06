@@ -1495,3 +1495,9 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile : huit ans après sa disparition, Lancia revient en France avec son modèle Ypsilon](https://www.europe1.fr/economie/automobile-8-ans-apres-la-disparition-lancia-revient-en-france-avec-son-modele-ypsilon-4256675)
 append_entries: 1
 Finish: 2024-07-05 12:36:54.243884
+------------------------------------------------------
+Started: 2024-07-06 01:14:24.273964
+Existing_entries: 239
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-06 01:14:24.324266

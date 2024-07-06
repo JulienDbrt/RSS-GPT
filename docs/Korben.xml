@@ -4,15 +4,16 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>FLARE-VM – Le toolkit des passionnés de reverse engineering !</title>
 <link>https://korben.info/flare-vm-le-toolkit-ultime-pour-les-passionnes-de-reverse-engineering.html</link>
 <guid>https://korben.info/flare-vm-le-toolkit-ultime-pour-les-passionnes-de-reverse-engineering.html</guid>
 <content:encoded><![CDATA[
 <div> installation, outils, analyse, malwares, reverse engineering
-<br>
-Summary:<br>
-FLARE-VM de Mandiant est un outil pratique pour créer rapidement un labo d'analyse de malwares. Basé sur Chocolatey et Boxstarter, il simplifie l'installation et la configuration d'un environnement de reverse engineering sur une VM Windows. Avant de commencer, il faut vérifier les prérequis et suivre les étapes d'installation via PowerShell. Une fois installé, il est recommandé de personnaliser l'environnement en mettant à jour les outils, en configurant les paramètres réseau et en ajoutant des utilitaires supplémentaires. Pour contribuer à améliorer FLARE-VM, il est possible de consulter les repos GitHub du projet. En résumé, FLARE-VM facilite la mise en place d'un environnement dédié à l'analyse de malwares, offrant aux utilisateurs un ensemble d'outils prêts à l'emploi pour mener à bien leurs activités de reverse engineering. <br> <div>
+<br />
+Summary:<br />
+FLARE-VM de Mandiant est un outil pratique pour créer rapidement un labo d'analyse de malwares. Basé sur Chocolatey et Boxstarter, il simplifie l'installation et la configuration d'un environnement de reverse engineering sur une VM Windows. Avant de commencer, il faut vérifier les prérequis et suivre les étapes d'installation via PowerShell. Une fois installé, il est recommandé de personnaliser l'environnement en mettant à jour les outils, en configurant les paramètres réseau et en ajoutant des utilitaires supplémentaires. Pour contribuer à améliorer FLARE-VM, il est possible de consulter les repos GitHub du projet. En résumé, FLARE-VM facilite la mise en place d'un environnement dédié à l'analyse de malwares, offrant aux utilisateurs un ensemble d'outils prêts à l'emploi pour mener à bien leurs activités de reverse engineering. <br /> <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="512" src="https://korben.info/app/uploads/2024/04/SCR-20240407-ogp.webp" width="891" /></p>
 <p>Si vous vous intéressez au<strong> reverse engineering</strong> comme moi, permettez-moi de vous présenter <strong>FLARE-VM</strong> de Mandiant ! C&rsquo;est un outil très pratique pour vous monter rapidement un petit labo d&rsquo;analyse de <strong>malwares</strong> sans vous prendre la tête.</p>
 
@@ -143,9 +144,7 @@ FLARE-VM de Mandiant est un outil pratique pour créer rapidement un labo d'anal
 <p>Happy reverse à tous ! 🚀</p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 05 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>rEFInd – Le gestionnaire EFI / UEFI qui boote tous vos OS avec classe</title>
 <link>https://korben.info/refind-gestionnaire-demarrage-ultime-booter-os.html</link>

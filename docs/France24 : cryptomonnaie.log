@@ -852,3 +852,9 @@ Summarized using GPT-3.5-turbo
 Append: [Philippines : la folie des cryptomonnaies](https://www.france24.com/fr/%C3%A9missions/focus/20240705-philippines-la-folie-des-cryptomonnaies)
 append_entries: 1
 Finish: 2024-07-05 12:38:11.104103
+------------------------------------------------------
+Started: 2024-07-06 01:15:29.286642
+Existing_entries: 26
+Fetching from https://www.france24.com/fr/tag/cryptomonnaie/rss
+append_entries: 0
+Finish: 2024-07-06 01:15:30.035135

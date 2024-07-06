@@ -2435,3 +2435,15 @@ Summarized using GPT-3.5-turbo
 Append: [Philippines : la folie des cryptomonnaies](https://www.france24.com/fr/%C3%A9missions/focus/20240705-philippines-la-folie-des-cryptomonnaies)
 append_entries: 6
 Finish: 2024-07-05 12:30:32.254033
+------------------------------------------------------
+Started: 2024-07-06 01:08:38.255492
+Existing_entries: 577
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le Bitcoin chute ?](https://www.boursier.com/crypto-monnaies/actualites/economie/pourquoi-le-bitcoin-chute-51205.html)
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [Cryptomonnaie: le cour du bitcoin dégringole](https://www.rfi.fr/fr/%C3%A9conomie/20240705-cryptomonnaie-le-cour-du-bitcoin-d%C3%A9gringole)
+append_entries: 2
+Finish: 2024-07-06 01:08:42.852981
