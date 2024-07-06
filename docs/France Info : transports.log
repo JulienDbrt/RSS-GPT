@@ -1514,3 +1514,9 @@ Summarized using GPT-3.5-turbo
 Append: [Tourisme : à Saint-Malo, des réactions mitigées après la mise en vente de billets de TGV supplémentaires](https://www.francetvinfo.fr/economie/tourisme/tourisme-a-saint-malo-des-reactions-mitigees-apres-la-mise-en-vente-de-billets-de-tgv-supplementaires_6647820.html)
 append_entries: 2
 Finish: 2024-07-06 01:14:55.193750
+------------------------------------------------------
+Started: 2024-07-06 12:33:26.336558
+Existing_entries: 242
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-07-06 12:33:26.643857

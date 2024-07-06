@@ -1381,3 +1381,9 @@ Summarized using GPT-3.5-turbo
 Append: [Air Austral : la panne d'un A220 provoque une nouvelle série de turbulences pour la compagnie](https://la1ere.francetvinfo.fr/reunion/air-austral-la-panne-d-un-a220-provoque-une-nouvelle-serie-de-turbulences-pour-la-compagnie-1503464.html)
 append_entries: 1
 Finish: 2024-07-06 01:17:14.537356
+------------------------------------------------------
+Started: 2024-07-06 12:35:48.438458
+Existing_entries: 191
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-07-06 12:35:48.488537

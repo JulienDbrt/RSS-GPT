@@ -1513,3 +1513,12 @@ Summarized using GPT-3.5-turbo
 Append: [Ils blanchissaient 1 million par jour mais ont été arrêtés](https://www.20min.ch/fr/story/espagne-ils-blanchissaient-1-million-par-jour-mais-ont-ete-arretes-103143126)
 append_entries: 1
 Finish: 2024-07-06 01:11:49.696685
+------------------------------------------------------
+Started: 2024-07-06 12:31:20.701666
+Existing_entries: 275
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [L’équipe d’Angleterre vaut 1,2 milliard de plus que la Suisse](https://www.20min.ch/fr/story/euro-2024-lequipe-dangleterre-vaut-12-milliard-de-plus-que-la-suisse-103142993)
+append_entries: 1
+Finish: 2024-07-06 12:31:26.000131

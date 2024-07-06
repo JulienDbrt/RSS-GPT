@@ -4,6 +4,88 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Freeze – Pour capturer et customiser vos screenshots de code</title>
+<link>https://korben.info/freeze-outil-ultime-capture-customisation-screenshots-code.html</link>
+<guid>https://korben.info/freeze-outil-ultime-capture-customisation-screenshots-code.html</guid>
+<content:encoded><![CDATA[
+<div> Homebrew, Linux, customisation, thèmes, mode interactif
+Summary:<br><br>
+Freeze est un outil qui permet de customiser les captures d'écran de code de manière esthétique. Il peut être installé avec Homebrew sur macOS ou Linux, ou en utilisant go install. Avec Freeze, il est possible de personnaliser le rendu du code en choisissant un thème, en ajoutant des contrôles de fenêtre et en intégrant une ombre, des coins arrondis ou une police personnalisée. Le paramètre --execute permet de capturer le résultat de commandes. En activant le mode interactif, les utilisateurs peuvent customiser leur screenshot en direct. Freeze est également très pratique pour les développeurs souhaitant rendre des bouts de code présentables pour les intégrer dans une documentation ou un site web. En résumé, Freeze offre une solution simple et efficace pour réaliser rapidement des captures d'écran de code personnalisées et esthétiques. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="364" src="https://korben.info/app/uploads/2024/04/SCR-20240407-orw-2.webp" width="770" /></p>
+<p>Fini les captures d&rsquo;écran toutes moches qui donnent pas envie. Avec Freeze, vous allez pouvoir customiser vos screenshots de code comme jamais.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1701289620" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Vous pouvez l&rsquo;installer avec Homebrew sur macOS ou Linux, ou même avec un bon vieux <code>go install</code> si vous êtes old school et une fois que c&rsquo;est fait, vous balancez juste </p>
+
+
+
+<pre class="wp-block-code"><code><code>freeze moncode.js -o code.png</code></code></pre>
+
+
+
+<p>dans votre terminal, et hop, Votre screenshot sera là, beau frais comme un gardon et beau comme un camion.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158632" src="https://korben.info/app/uploads/2024/04/shadow.svg" /></figure></div>
+
+
+<p>Vous pouvez même capturer le résultat de commandes avec le paramètre &#8211;execute : </p>
+
+
+
+<pre class="wp-block-code"><code>freeze --execute "eza -lah"</code></pre>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158633" src="https://korben.info/app/uploads/2024/04/eza.svg" /></figure></div>
+
+
+<p>Le petit plus de Freeze, c&rsquo;est qu&rsquo;il permet de choisir un thème afin de personnaliser le rendu du code. Un petit <code>--theme dracula</code> et vous voilà avec un code aux couleurs du célèbre vampire. Besoin d&rsquo;ajouter des contrôles de fenêtre façon macOS ? <code>--window</code> et le tour est joué. Et que dire de la possibilité d&rsquo;ajouter une ombre, des coins arrondis, ou même d&rsquo;intégrer votre propre police ? Les dev de Freeze ont pensé à tout&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1039226316" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et si vous êtes du genre à aimer bidouiller, vous allez adorer le mode interactif de Freeze. Lancez </p>
+
+
+
+<p><code>freeze --interactive</code></p>
+
+
+
+<p>et vous pourrez customiser votre screenshot en direct, comme un vrai pro.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158634" height="1200" src="https://korben.info/app/uploads/2024/04/68747470733a2f2f7668732e636861726d2e73682f7668732d31414768496c63324d746e394c7463387650746141502e676966.gif" style="width: 365px; height: auto;" width="700" /></figure></div>
+
+
+<p>C&rsquo;est aussi un vrai gain de temps pour les développeurs qui souhaitent rendre des bouts de code présentables pour intégrer par exemple dans une doc ou un site web. Allez, je vais vous donner un petit exemple pour la route. Disons que vous voulez capturer un bout de code JavaScript, avec le thème Dracula, une jolie fenêtre, une ombre, et des coins arrondis. </p>
+
+
+
+<p>Voilà ce que ça donne :</p>
+
+
+
+<p><code>freeze moncode.js --theme dracula --window --shadow.blur 20 --shadow.x 0 --shadow.y 10 --border.radius </code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-732356743" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Ainsi, en une seule ligne de commande, vous obtenez une image de code digne d&rsquo;un vrai pro. Puis l&rsquo;avantage c&rsquo;est que ça peut s&rsquo;automatiser.</p>
+
+
+
+<p>Bref, je crois que vous avez compris l&rsquo;idée. Si ça vous intéresse, rendez-vous sur <a href="https://github.com/charmbracelet/freeze" rel="noopener" target="_blank">https://github.com/charmbracelet/freeze</a>.</p>
+]]></content:encoded>
+<pubDate>Sat, 06 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 06 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>FLARE-VM – Le toolkit des passionnés de reverse engineering !</title>

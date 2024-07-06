@@ -1087,3 +1087,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On se dit enfin !" : la Municipalité de Moissac met en place le permis de louer pour les deux quartiers prioritaires de la ville](https://www.ladepeche.fr/2024/07/05/on-se-dit-enfin-la-municipalite-de-moissac-met-en-place-le-permis-de-louer-pour-les-deux-quartiers-prioritaires-de-la-ville-12063393.php)
 append_entries: 1
 Finish: 2024-07-06 01:17:50.681961
+------------------------------------------------------
+Started: 2024-07-06 12:36:29.676622
+Existing_entries: 103
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-07-06 12:36:30.147903

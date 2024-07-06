@@ -1032,3 +1032,12 @@ Existing_entries: 88
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-07-06 01:13:04.053505
+------------------------------------------------------
+Started: 2024-07-06 12:32:12.441949
+Existing_entries: 88
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: ["Les candidats révèlent leur personnalité": à France Travail, des ateliers rugby pour faciliter les recrutements](https://www.bfmtv.com/economie/emploi/les-candidats-revelent-leur-personnalite-a-france-travail-des-ateliers-rugby-pour-faciliter-les-recrutements_AN-202407060053.html)
+append_entries: 1
+Finish: 2024-07-06 12:32:15.602100

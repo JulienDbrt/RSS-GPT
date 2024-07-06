@@ -3022,3 +3022,27 @@ Summarized using GPT-3.5-turbo
 Append: [Air Austral : la panne d'un A220 provoque une nouvelle série de turbulences pour la compagnie](https://la1ere.francetvinfo.fr/reunion/air-austral-la-panne-d-un-a220-provoque-une-nouvelle-serie-de-turbulences-pour-la-compagnie-1503464.html)
 append_entries: 7
 Finish: 2024-07-06 01:17:07.119282
+------------------------------------------------------
+Started: 2024-07-06 12:35:25.784794
+Existing_entries: 738
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: ["Bibliothèque Humaine", une initiative pour en apprendre plus sur les autres](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/bibliotheque-humaine-une-initiative-pour-en-apprendre-plus-sur-les-autres-1503671.html)
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [Des locataires de la SIM dénoncent une flambée des loyers](https://la1ere.francetvinfo.fr/mayotte/des-locataires-de-la-sim-denoncent-une-flambee-des-loyers-1503683.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Au Vanuatu, les investissements chinois se multiplient](https://la1ere.francetvinfo.fr/nouvellecaledonie/au-vanuatu-les-investissements-chinois-se-multiplient-1503620.html)
+Token length: 34
+Summarized using GPT-3.5-turbo
+Append: [Téléphonie : la 5G arrive au fenua](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/telephonie-la-5g-arrive-au-fenua-1503638.html)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [Tourisme à l'arrêt, isolement… La crise calédonienne vue depuis l’île des Pins](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/ile-pins/tourisme-a-l-arret-isolement-la-crise-caledonienne-vue-depuis-l-ile-des-pins-1503599.html)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. À Lifou, les coutumiers de Wé renforcent la sécurité pour protéger les entreprises](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/lifou/crise-en-nouvelle-caledonie-a-lifou-les-coutumiers-de-we-renforcent-la-securite-pour-proteger-les-entreprises-1503389.html)
+append_entries: 6
+Finish: 2024-07-06 12:35:47.972715

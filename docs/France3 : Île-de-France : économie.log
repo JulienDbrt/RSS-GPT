@@ -1314,3 +1314,12 @@ Existing_entries: 182
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-07-06 01:15:30.966831
+------------------------------------------------------
+Started: 2024-07-06 12:33:51.574229
+Existing_entries: 182
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : "on devra naviguer sur réservation" et "en partie de nuit", le trafic contrarié des céréales sur la Seine](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-on-devra-naviguer-sur-reservation-et-en-partie-de-nuit-le-trafic-contrarie-des-cereales-sur-la-seine-3000116.html)
+append_entries: 1
+Finish: 2024-07-06 12:33:54.812122

@@ -1287,3 +1287,9 @@ Summarized using GPT-3.5-turbo
 Append: [Stations de BIXI surchargées : déplacer des vélos en échange de récompenses](https://www.journaldemontreal.com/2024/07/04/stations-de-bixi-surchargees--deplacer-des-velos-en-echange-de-recompenses)
 append_entries: 3
 Finish: 2024-07-06 01:16:12.403326
+------------------------------------------------------
+Started: 2024-07-06 12:34:58.311388
+Existing_entries: 163
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-06 12:34:58.429304

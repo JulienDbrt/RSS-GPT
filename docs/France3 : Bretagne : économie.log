@@ -1149,3 +1149,12 @@ Existing_entries: 127
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-06 01:15:49.975493
+------------------------------------------------------
+Started: 2024-07-06 12:34:24.916166
+Existing_entries: 127
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: ["Il n'y a pas de mines propres", mise en garde de l'association Eau et Rivières de Bretagne pour un projet minier dans le Morbihan](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/il-n-y-a-pas-de-mines-propres-mise-en-garde-de-l-association-eau-et-rivieres-de-bretagne-pour-un-projet-dans-le-morbihan-3000146.html)
+append_entries: 1
+Finish: 2024-07-06 12:34:29.669169

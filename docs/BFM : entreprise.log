@@ -2873,3 +2873,21 @@ Summarized using GPT-3.5-turbo
 Append: [La SNCF prévoit plus de voyageurs qu'en 2023 pour le premier week-end des vacances d'été](https://www.bfmtv.com/economie/entreprises/transports/la-sncf-prevoit-plus-de-voyageurs-qu-en-2023-pour-le-premier-week-end-des-vacances-d-ete_AD-202407050669.html)
 append_entries: 3
 Finish: 2024-07-06 01:13:11.510381
+------------------------------------------------------
+Started: 2024-07-06 12:32:16.038322
+Existing_entries: 735
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [Gibert annonce la fermeture de sa librairie du boulevard Saint-Denis à Paris](https://www.bfmtv.com/economie/entreprises/gibert-annonce-la-fermeture-de-sa-librairie-du-boulevard-saint-denis-a-paris_AV-202407060282.html)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [En Suède, les parents peuvent désormais transférer une partie de leur congé parental](https://www.bfmtv.com/economie/entreprises/en-suede-les-parents-peuvent-desormais-transferer-une-partie-de-leur-conge-parental_AV-202407060225.html)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [Lidl à nouveau condamné pour avoir vendu de la vodka à un ado qui s'était ensuite tué en scooter](https://www.bfmtv.com/economie/entreprises/lidl-a-nouveau-condamne-pour-avoir-vendu-de-la-vodka-a-un-ado-qui-s-etait-ensuite-tue-en-scooter_AV-202407060187.html)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Climatisation, toilettes, sièges... Comment la SNCF prépare ses TGV pour les grands départs de l'été](https://www.bfmtv.com/economie/entreprises/transports/climatisation-toilettes-sieges-comment-la-sncf-prepare-ses-tgv-pour-les-grands-departs-de-l-ete_AV-202407060055.html)
+append_entries: 4
+Finish: 2024-07-06 12:32:21.870640

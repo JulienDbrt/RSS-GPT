@@ -2925,3 +2925,21 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier, crédit : et s’il était urgent d’attendre ?](https://www.lopinion.fr/patrimoine/immobilier-credit-et-sil-etait-urgent-dattendre)
 append_entries: 2
 Finish: 2024-07-06 01:09:38.134499
+------------------------------------------------------
+Started: 2024-07-06 12:29:18.632599
+Existing_entries: 855
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Les villes où acheter une résidence secondaire en Espagne au bord de la mer](https://www.lefigaro.fr/international/les-villes-ou-acheter-une-residence-secondaire-en-espagne-au-bord-de-la-mer-20240706)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Un agent immobilier brave les flammes pour sauver un chien piégé dans une maison en feu](https://www.woopets.fr/chien/actualite/un-agent-immobilier-brave-les-flammes-pour-sauver-un-chien-piege-dans-une-maison-en-feu/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Faut-il acheter des parts sociales des banques mutualistes ?](https://www.lemonde.fr/argent/article/2024/07/06/faut-il-acheter-des-parts-sociales-des-banques-mutualistes_6247280_1657007.html)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Ces dizaines d’immeubles construits sur une dune menacent de s’effondrer](https://immobilier.lefigaro.fr/article/ces-dizaines-d-immeubles-construits-sur-une-dune-menacent-de-s-effondrer_edd7463a-391c-11ef-8a81-1d87c556c20d/)
+append_entries: 4
+Finish: 2024-07-06 12:29:45.257865
