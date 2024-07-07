@@ -3921,3 +3921,15 @@ Summarized using GPT-3.5-turbo
 Append: [Prix d'électricité : le top 10 des offres moins chères que le tarif réglementé d'EDF en juillet](https://www.moneyvox.fr/energie/actualites/98581/prix-electricite-le-top-10-des-offres-moins-cheres-que-le-tarif-reglemente-edf-en-juillet)
 append_entries: 7
 Finish: 2024-07-06 12:33:47.019181
+------------------------------------------------------
+Started: 2024-07-07 01:19:44.164008
+Existing_entries: 1007
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Immobilier à Saint-Étienne : voici les prix à la location et à l'achat en juillet 2024](https://www.moneyvox.fr/immobilier/actualites/98527/immobilier-a-saint-etienne-voici-les-prix-a-la-location-et-a-achat-en-juillet-2024)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Immobilier à Saint-Denis : découvrez les prix à l'achat et à la location en juillet](https://www.moneyvox.fr/immobilier/actualites/98526/immobilier-a-saint-denis-decouvrez-les-prix-a-achat-et-a-la-location-en-juillet)
+append_entries: 2
+Finish: 2024-07-07 01:19:48.358142

@@ -4406,3 +4406,18 @@ Summarized using GPT-3.5-turbo
 Append: [Mon employeur a changé mes dates de congés : en a-t-il le droit ?](https://lemagdelaconso.ouest-france.fr/dossier-1227-employeur-change-dates-conges.html)
 append_entries: 7
 Finish: 2024-07-06 12:29:18.218116
+------------------------------------------------------
+Started: 2024-07-07 01:15:58.609375
+Existing_entries: 1007
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES - Dans le fief contesté de François Ruffin : “Ça fait longtemps qu’il n’y a plus de rêve là-bas”](https://www.telerama.fr/debats-reportages/en-images-dans-le-fief-conteste-de-francois-ruffin-ca-fait-longtemps-qu-il-n-y-a-plus-de-reve-la-bas-7021213.php)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [INFO JDD. Législatives : le gouvernement s’apprête à suspendre la loi immigration](https://www.lejdd.fr/politique/info-jdd-legislatives-le-gouvernement-sapprete-suspendre-la-loi-immigration-147175)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Cette offre d'emploi si intéressante et si bien rémunérée est en fait une arnaque](https://www.journaldunet.com/management/emploi-cadres/1531529-cd1-offre-emploi/)
+append_entries: 3
+Finish: 2024-07-07 01:16:08.410679

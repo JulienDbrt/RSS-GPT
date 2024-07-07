@@ -1533,3 +1533,9 @@ Summarized using GPT-3.5-turbo
 Append: [Jobs d’été. Surveillant de baignade, "Je me sens utile" dit Arthur](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/jobs-d-ete-surveillant-de-baignade-je-me-sens-utile-dit-arthur-2978432.html)
 append_entries: 2
 Finish: 2024-07-06 12:34:34.783472
+------------------------------------------------------
+Started: 2024-07-07 01:19:56.575102
+Existing_entries: 253
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-07-07 01:19:56.694969

@@ -1432,3 +1432,9 @@ Summarized using GPT-3.5-turbo
 Append: [Des terrains à 10 centimes du m²... Une commune de Suède est submergée de demandes](https://www.bfmtv.com/immobilier/international-etranger/des-terrains-a-10-centimes-du-m2-une-commune-de-suede-est-submergee-de-demandes_AD-202407060158.html)
 append_entries: 1
 Finish: 2024-07-06 12:32:48.266488
+------------------------------------------------------
+Started: 2024-07-07 01:18:43.563522
+Existing_entries: 232
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-07 01:18:44.069598

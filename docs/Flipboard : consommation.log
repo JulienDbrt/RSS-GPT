@@ -4772,3 +4772,27 @@ Summarized using GPT-3.5-turbo
 Append: [Pizzas contaminées à la bactérie E.coli : le géant agroalimentaire Buitoni annonce sa mise en examen](https://www.24matins.fr/pizzas-contaminees-a-la-bacterie-e-coli-le-geant-agroalimentaire-buitoni-annonce-sa-mise-en-examen-1377389)
 append_entries: 8
 Finish: 2024-07-06 12:28:56.674471
+------------------------------------------------------
+Started: 2024-07-07 01:15:44.856771
+Existing_entries: 1008
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Refroidir l'air de sa voiture sans utiliser la clim, cette technique fonctionne et permet de faire des économies](https://www.linternaute.com/auto/magazine/3505947-article-bis/)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Consommation - TotalEnergies envisage de baisser le plafonnement du prix du carburant pour certains clients](https://www.lamontagne.fr/paris-75000/actualites/totalenergies-envisage-de-baisser-le-prix-du-carburant-pour-certains-clients_14531006/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Faut-il éviter l'eau gazeuse quand on a de l'hypertension ?](https://www.femmeactuelle.fr/sante/alimentation-equilibree/faut-il-eviter-l-eau-gazeuse-quand-on-a-de-l-hypertension-2177469)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Cocaïne : le dealer de Matthieu Delormeau condamné à deux ans de prison, dont un an ferme](https://www.lefigaro.fr/faits-divers/cocaine-le-dealer-de-matthieu-delormeau-condamne-a-deux-ans-de-prison-dont-un-an-ferme-20240706)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Immobilier à Monaco : Patrice Pastor, le vrai prince du Rocher](https://www.liberation.fr/societe/police-justice/immobilier-a-monaco-patrice-pastor-le-vrai-prince-du-rocher-20240706_EMCN6FT5ONGKLFDWEIKS4UUFHY/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi vous devriez réfléchir à deux fois avant de payer par carte bancaire](https://www.capital.fr/votre-argent/pourquoi-vous-devriez-reflechir-a-deux-fois-avant-de-payer-par-carte-bancaire-1499340)
+append_entries: 6
+Finish: 2024-07-07 01:15:58.114054

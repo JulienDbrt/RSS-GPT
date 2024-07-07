@@ -2943,3 +2943,15 @@ Summarized using GPT-3.5-turbo
 Append: [Ces dizaines d’immeubles construits sur une dune menacent de s’effondrer](https://immobilier.lefigaro.fr/article/ces-dizaines-d-immeubles-construits-sur-une-dune-menacent-de-s-effondrer_edd7463a-391c-11ef-8a81-1d87c556c20d/)
 append_entries: 4
 Finish: 2024-07-06 12:29:45.257865
+------------------------------------------------------
+Started: 2024-07-07 01:16:08.824516
+Existing_entries: 859
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Affiché à 6,9 M$ US, le penthouse floridien de Stéphan Huot vendu pour presque moitié moins](https://www.journaldemontreal.com/2024/07/06/affiche-a-69-m-us-le-penthouse-floridien-de-stephan-huot-vendu-pour-presque-moitie-moins)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Immobilier à Monaco : Patrice Pastor, le vrai prince du Rocher](https://www.liberation.fr/societe/police-justice/immobilier-a-monaco-patrice-pastor-le-vrai-prince-du-rocher-20240706_EMCN6FT5ONGKLFDWEIKS4UUFHY/)
+append_entries: 2
+Finish: 2024-07-07 01:16:16.111125

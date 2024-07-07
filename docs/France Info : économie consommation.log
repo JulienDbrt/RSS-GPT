@@ -4469,3 +4469,18 @@ Summarized using GPT-3.5-turbo
 Append: [Attention aux arnaques à la carte Vitale](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/attention-aux-arnaques-a-la-carte-vitale_6618405.html)
 append_entries: 4
 Finish: 2024-07-06 12:33:25.275451
+------------------------------------------------------
+Started: 2024-07-07 01:19:30.846882
+Existing_entries: 1004
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : le Pin's, un indémodable à la sauce JO](https://www.francetvinfo.fr/culture/paris-2024-le-pin-s-un-indemodable-a-la-sauce-jo_6650085.html)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été : vers un nouvel été record pour la SNCF](https://www.francetvinfo.fr/economie/transports/sncf/vacances-d-ete-vers-un-nouvel-ete-record-pour-la-sncf_6649794.html)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [Départs en vacances d'été : jusqu'à 653 km de bouchons sur les routes à la mi-journée](https://www.francetvinfo.fr/economie/transports/trafic/departs-en-vacances-d-ete-jusqu-a-653-km-de-bouchons-sur-les-routes-a-la-mi-journee_6649707.html)
+append_entries: 3
+Finish: 2024-07-07 01:19:38.593978

@@ -1685,3 +1685,15 @@ Existing_entries: 317
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-07-06 12:33:14.747426
+------------------------------------------------------
+Started: 2024-07-07 01:19:23.147906
+Existing_entries: 317
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Manifestation à Barcelone contre le tourisme de masse](https://www.martinique.franceantilles.fr/actualite/economie/manifestation-a-barcelone-contre-le-tourisme-de-masse-994411.php)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [VIDEO - Fort-de-France: la municipalité soutient ses commerçants sinistrés par Béryl](https://www.martinique.franceantilles.fr/actualite/economie/video-fort-de-france-la-municipalite-soutient-ses-commercants-sinistres-par-beryl-994328.php)
+append_entries: 2
+Finish: 2024-07-07 01:19:29.450975

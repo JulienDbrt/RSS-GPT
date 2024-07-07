@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Freeze – Pour capturer et customiser vos screenshots de code</title>
 <link>https://korben.info/freeze-outil-ultime-capture-customisation-screenshots-code.html</link>
 <guid>https://korben.info/freeze-outil-ultime-capture-customisation-screenshots-code.html</guid>
 <content:encoded><![CDATA[
 <div> Homebrew, Linux, customisation, thèmes, mode interactif
-Summary:<br><br>
+Summary:<br /><br />
 Freeze est un outil qui permet de customiser les captures d'écran de code de manière esthétique. Il peut être installé avec Homebrew sur macOS ou Linux, ou en utilisant go install. Avec Freeze, il est possible de personnaliser le rendu du code en choisissant un thème, en ajoutant des contrôles de fenêtre et en intégrant une ombre, des coins arrondis ou une police personnalisée. Le paramètre --execute permet de capturer le résultat de commandes. En activant le mode interactif, les utilisateurs peuvent customiser leur screenshot en direct. Freeze est également très pratique pour les développeurs souhaitant rendre des bouts de code présentables pour les intégrer dans une documentation ou un site web. En résumé, Freeze offre une solution simple et efficace pour réaliser rapidement des captures d'écran de code personnalisées et esthétiques. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="364" src="https://korben.info/app/uploads/2024/04/SCR-20240407-orw-2.webp" width="770" /></p>
 <p>Fini les captures d&rsquo;écran toutes moches qui donnent pas envie. Avec Freeze, vous allez pouvoir customiser vos screenshots de code comme jamais.</p>
@@ -84,9 +85,7 @@ Freeze est un outil qui permet de customiser les captures d'écran de code de ma
 <p>Bref, je crois que vous avez compris l&rsquo;idée. Si ça vous intéresse, rendez-vous sur <a href="https://github.com/charmbracelet/freeze" rel="noopener" target="_blank">https://github.com/charmbracelet/freeze</a>.</p>
 ]]></content:encoded>
 <pubDate>Sat, 06 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 06 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>FLARE-VM – Le toolkit des passionnés de reverse engineering !</title>
 <link>https://korben.info/flare-vm-le-toolkit-ultime-pour-les-passionnes-de-reverse-engineering.html</link>
