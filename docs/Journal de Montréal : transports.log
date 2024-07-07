@@ -1305,3 +1305,9 @@ Summarized using GPT-3.5-turbo
 Append: [Traverse Québec-Lévis: les employés en piquetage devant la gare fluviale](https://www.journaldemontreal.com/2024/07/05/traverse-quebec-levis-les-employes-en-piquetage-devant-la-gare-fluviale)
 append_entries: 2
 Finish: 2024-07-07 01:20:05.130682
+------------------------------------------------------
+Started: 2024-07-07 12:33:43.219203
+Existing_entries: 165
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-07 12:33:43.313317

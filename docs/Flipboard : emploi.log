@@ -4421,3 +4421,12 @@ Summarized using GPT-3.5-turbo
 Append: [Cette offre d'emploi si intéressante et si bien rémunérée est en fait une arnaque](https://www.journaldunet.com/management/emploi-cadres/1531529-cd1-offre-emploi/)
 append_entries: 3
 Finish: 2024-07-07 01:16:08.410679
+------------------------------------------------------
+Started: 2024-07-07 12:28:25.908712
+Existing_entries: 1003
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Retraites : quelles sont ces trois revalorisations du montant des pensions qui devraient arriver prochainement ?](https://www.sudouest.fr/economie/reforme-des-retraites/retraites-quelles-sont-ces-trois-revalorisations-du-montant-des-pensions-qui-devraient-arriver-prochainement-20413004.php)
+append_entries: 1
+Finish: 2024-07-07 12:28:27.739221

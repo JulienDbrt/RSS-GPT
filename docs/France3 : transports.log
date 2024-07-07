@@ -2658,3 +2658,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Cela m'amènera peut-être un petit peu de monde" : les attentes des commerçants et riverains avant l'ouverture aux voitures du pont Simone-Veil](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/cela-m-amenera-peut-etre-un-petit-peu-de-monde-les-attentes-des-commercants-et-riverains-apres-l-ouverture-aux-voitures-du-pont-simone-veil-3000197.html)
 append_entries: 3
 Finish: 2024-07-07 01:20:02.366677
+------------------------------------------------------
+Started: 2024-07-07 12:33:40.391476
+Existing_entries: 627
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 375
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle grille et temps de parcours resserrés : les transports en commun de l'agglomération de Béziers perturbés par un mouvement de grève](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/nouvelle-grille-et-temps-de-parcours-resserres-les-transports-en-commun-de-l-agglomeration-de-beziers-perturbes-par-un-mouvement-de-greve-3000323.html)
+append_entries: 1
+Finish: 2024-07-07 12:33:42.808629

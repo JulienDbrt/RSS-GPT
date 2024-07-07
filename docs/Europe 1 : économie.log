@@ -1513,3 +1513,15 @@ Existing_entries: 239
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-07 01:19:22.964742
+------------------------------------------------------
+Started: 2024-07-07 12:32:14.275376
+Existing_entries: 239
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été : ces start-up qui proposent des solutions de prise en charge des valises](https://www.europe1.fr/economie/vacances-dete-ces-start-ups-qui-proposent-des-solutions-de-prise-en-charge-des-valises-4257003)
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [IA : les grandes maisons de disques américaines s'attaquent aux start-up qui génèrent de la musique](https://www.europe1.fr/economie/ia-les-grandes-maisons-de-disques-americaines-sattaquent-aux-start-up-qui-generent-de-la-musique-4256989)
+append_entries: 2
+Finish: 2024-07-07 12:32:18.980069

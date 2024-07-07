@@ -1416,3 +1416,12 @@ Existing_entries: 212
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-07-07 01:19:56.088231
+------------------------------------------------------
+Started: 2024-07-07 12:33:27.054940
+Existing_entries: 212
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [Le succès fou des barbecues-planchas haut de gamme, nés en Bourgogne : "on commence même à exporter !"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/le-succes-fou-des-barbecues-planchas-haut-de-gamme-nes-en-bourgogne-on-commence-meme-a-exporter-2994605.html)
+append_entries: 1
+Finish: 2024-07-07 12:33:30.458917

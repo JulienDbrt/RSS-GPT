@@ -1332,3 +1332,9 @@ Summarized using GPT-3.5-turbo
 Append: ["On demande une prime JO", le Centre Pompidou fermé ce samedi en raison d'un mouvement social](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/on-est-ferme-pour-greve-on-demande-une-prime-jo-le-centre-pompidou-ferme-ce-samedi-en-raison-d-un-mouvement-social-3000200.html)
 append_entries: 1
 Finish: 2024-07-07 01:19:53.922548
+------------------------------------------------------
+Started: 2024-07-07 12:33:16.132388
+Existing_entries: 184
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-07-07 12:33:16.297705

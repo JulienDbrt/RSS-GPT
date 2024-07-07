@@ -2232,3 +2232,21 @@ Summarized using GPT-3.5-turbo
 Append: [Festival du lin et de la fibre artistique : trois jours dédiés à la culture et à l'histoire du lin](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/festival-du-lin-et-de-la-fibre-artistique-trois-jours-dedies-a-la-culture-et-a-l-histoire-du-lin-3000254.html)
 append_entries: 1
 Finish: 2024-07-07 01:19:55.694113
+------------------------------------------------------
+Started: 2024-07-07 12:33:16.574653
+Existing_entries: 484
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Vente de fruits et légumes en bord de route "producteur" ou "origine Provence" : attention aux arnaques](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/vente-de-fruits-et-legumes-en-bord-de-route-producteur-ou-origine-provence-attention-aux-arnaques-3000467.html)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Accident de tracteur : un mort, le conducteur est en état de choc](https://france3-regions.francetvinfo.fr/grand-est/ardennes/sedan-0/accident-de-tracteur-un-mort-le-conducteur-est-en-etat-de-choc-3000458.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Concours d'élevage des races mulassières du Poitou dans la Vienne, l'occasion de sensibiliser à la disparition de l'espèce](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/concours-d-elevage-des-races-mulassieres-du-poitou-dans-la-vienne-l-occasion-de-sensibiliser-a-la-disparition-de-l-espece-3000437.html)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: ["Au-delà de la simple boule de glace qu'on mange sur la plage l'été, nous proposons plus de 350 références", les glaciers au top dans les Hauts-de-France](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/au-dela-de-la-simple-boule-de-glace-qu-on-mange-sur-la-plage-l-ete-nous-proposons-plus-de-350-references-les-glaciers-au-top-dans-les-hauts-de-france-2995430.html)
+append_entries: 4
+Finish: 2024-07-07 12:33:26.944502

@@ -1539,3 +1539,18 @@ Existing_entries: 253
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-07-07 01:19:56.694969
+------------------------------------------------------
+Started: 2024-07-07 12:33:31.171481
+Existing_entries: 253
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: ["L'urgence c'était de ne pas les laisser à la rue" : une dizaine de travailleurs colombiens se retrouve sans logement ni travail](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/mont-de-marsan/l-urgence-c-etait-de-ne-pas-les-laisser-a-la-rue-une-dizaine-de-travailleurs-colombiens-se-retrouvent-sans-logement-ni-travail-3000251.html)
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES : tuiles, émail et caoutchouc, l'histoire du riche passé industriel de la Haute-Vienne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/en-images-tuiles-email-et-caoutchouc-l-histoire-du-riche-passe-industriel-de-la-haute-vienne-2998550.html)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [Jobs d'été. Antoine est éclusier sur un canal, "Ça me ressource" dit-il](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/sable-sur-sarthe/jobs-d-ete-antoine-est-eclusier-sur-un-canal-ca-me-ressource-dit-il-2982020.html)
+append_entries: 3
+Finish: 2024-07-07 12:33:39.280408
