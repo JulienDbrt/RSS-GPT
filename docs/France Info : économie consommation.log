@@ -4514,3 +4514,15 @@ Summarized using GPT-3.5-turbo
 Append: ["L'intelligence artificielle bouleverse ma pratique pédagogique", témoigne un professeur de français](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-bouleverse-ma-pratique-pedagogique_6620226.html)
 append_entries: 8
 Finish: 2024-07-07 12:32:46.584846
+------------------------------------------------------
+Started: 2024-07-08 01:15:15.741536
+Existing_entries: 1008
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : quand les exploitants font le pari du collectif](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/agriculture-quand-les-exploitants-font-le-pari-du-collectif_6651582.html)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Un projet de mine de lithium dans l'Allier reconnu d'"intérêt national majeur"](https://www.francetvinfo.fr/monde/environnement/un-projet-de-mine-de-lithium-dans-l-allier-reconnu-d-interet-national-majeur_6651306.html)
+append_entries: 2
+Finish: 2024-07-08 01:15:21.145406

@@ -1554,3 +1554,9 @@ Summarized using GPT-3.5-turbo
 Append: [Jobs d'été. Antoine est éclusier sur un canal, "Ça me ressource" dit-il](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/sable-sur-sarthe/jobs-d-ete-antoine-est-eclusier-sur-un-canal-ca-me-ressource-dit-il-2982020.html)
 append_entries: 3
 Finish: 2024-07-07 12:33:39.280408
+------------------------------------------------------
+Started: 2024-07-08 01:15:38.454504
+Existing_entries: 256
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-07-08 01:15:38.950859

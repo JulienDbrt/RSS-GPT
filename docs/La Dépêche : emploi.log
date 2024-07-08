@@ -1717,3 +1717,15 @@ Existing_entries: 307
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-07-07 12:34:36.441206
+------------------------------------------------------
+Started: 2024-07-08 01:16:29.662319
+Existing_entries: 307
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: ["J’ai fait énormément de rencontres et découvert une culture différente" : de jeunes Ariégeois de retour après un voyage immersif au Portugal](https://www.ladepeche.fr/2024/07/07/jai-fait-enormement-de-rencontres-et-decouvert-une-culture-differente-de-jeunes-ariegeois-de-retour-apres-un-voyage-immersif-au-portugal-12062675.php)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: ["Il s’agit de bannir les bouteilles d’eau individuelle en plastique": les associations invitées à lutter contre la pollution plastique avec Rapid’Eau](https://www.ladepeche.fr/2024/07/07/il-sagit-de-bannir-les-bouteilles-deau-individuelle-en-plastique-les-associations-invitees-a-lutter-contre-la-pollution-plastique-avec-rapideau-12066749.php)
+append_entries: 2
+Finish: 2024-07-08 01:16:42.508107

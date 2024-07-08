@@ -1534,3 +1534,15 @@ Existing_entries: 276
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-07-07 12:29:57.553604
+------------------------------------------------------
+Started: 2024-07-08 01:14:18.622567
+Existing_entries: 276
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [«L’excès de tourisme rend Barcelone invivable»](https://www.20min.ch/fr/story/espagne-lexces-de-tourisme-rend-barcelone-invivable-103144879)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [Colis: les kiosques concurrencent La Poste](https://www.20min.ch/fr/story/suisse-colis-les-kiosques-concurrencent-la-poste-103144565)
+append_entries: 2
+Finish: 2024-07-08 01:14:25.394198

@@ -1706,3 +1706,9 @@ Summarized using GPT-3.5-turbo
 Append: [A Gaza, des terres fertiles ravagées par la guerre](https://www.martinique.franceantilles.fr/actualite/economie/a-gaza-des-terres-fertiles-ravagees-par-la-guerre-994513.php)
 append_entries: 1
 Finish: 2024-07-07 12:32:22.494243
+------------------------------------------------------
+Started: 2024-07-08 01:15:13.290426
+Existing_entries: 320
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-07-08 01:15:14.235136

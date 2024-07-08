@@ -1447,3 +1447,9 @@ Summarized using GPT-3.5-turbo
 Append: [De la pyramide du Louvre à la skyline de Hong Kong, l'architecte Ieoh Ming Pei est mis à l'honneur](https://www.bfmtv.com/immobilier/international-etranger/de-la-pyramide-du-louvre-a-la-skyline-de-hong-kong-l-architecte-ieoh-ming-pei-est-mis-a-l-honneur_AD-202407070035.html)
 append_entries: 1
 Finish: 2024-07-07 12:31:32.468491
+------------------------------------------------------
+Started: 2024-07-08 01:14:52.621639
+Existing_entries: 233
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-08 01:14:53.107797

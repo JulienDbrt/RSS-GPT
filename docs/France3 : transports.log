@@ -2667,3 +2667,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouvelle grille et temps de parcours resserrés : les transports en commun de l'agglomération de Béziers perturbés par un mouvement de grève](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/nouvelle-grille-et-temps-de-parcours-resserres-les-transports-en-commun-de-l-agglomeration-de-beziers-perturbes-par-un-mouvement-de-greve-3000323.html)
 append_entries: 1
 Finish: 2024-07-07 12:33:42.808629
+------------------------------------------------------
+Started: 2024-07-08 01:15:39.890032
+Existing_entries: 628
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [Étape du Tour de France amateur à Nice, pourquoi il y a eu plus de 140 chutes enregistrées](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/etape-du-tour-de-france-amateur-a-nice-pourquoi-il-y-a-eu-plus-de-140-chutes-enregistrees-3000266.html)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [Second tour des législatives 2024 : la circulation des transports en commun interrompue sur la Métropole de Tours dimanche soir](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/2nd-tour-des-legislatives-la-circulation-des-transports-en-commun-interrompue-sur-la-metropole-de-tours-dimanche-soir-3000533.html)
+append_entries: 2
+Finish: 2024-07-08 01:15:45.301244
