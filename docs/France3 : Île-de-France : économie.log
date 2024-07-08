@@ -1344,3 +1344,12 @@ Existing_entries: 184
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-07-08 01:15:36.630853
+------------------------------------------------------
+Started: 2024-07-08 12:40:03.461380
+Existing_entries: 184
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: ["Tu ne peux pas dire que tu travailles deux heures par jour, tu es cadre." Plongée dans les coulisses pas reluisantes des entreprises](https://france3-regions.francetvinfo.fr/paris-ile-de-france/tu-ne-peux-pas-dire-que-tu-travailles-deux-heures-par-jour-tu-es-cadre-plongee-dans-les-coulisses-pas-reluisantes-des-entreprises-2981456.html)
+append_entries: 1
+Finish: 2024-07-08 12:40:06.907678

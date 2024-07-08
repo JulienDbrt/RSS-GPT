@@ -1560,3 +1560,12 @@ Existing_entries: 256
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-07-08 01:15:38.950859
+------------------------------------------------------
+Started: 2024-07-08 12:40:17.292594
+Existing_entries: 256
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Ascométal : la justice valide la reprise du sidérurgiste par le fonds d'investissement britannique Greybull Capital](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/ascometal-la-justice-valide-la-reprise-du-siderurgiste-par-le-fonds-d-investissement-britannique-greybull-capital-3000977.html)
+append_entries: 1
+Finish: 2024-07-08 12:40:20.809872

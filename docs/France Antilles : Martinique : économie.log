@@ -1712,3 +1712,15 @@ Existing_entries: 320
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-07-08 01:15:14.235136
+------------------------------------------------------
+Started: 2024-07-08 12:38:53.797710
+Existing_entries: 320
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [Après les législatives, la gauche revendique Matignon, mais Macron maintient Attal](https://www.martinique.franceantilles.fr/actualite/economie/apres-la-surprise-des-legislatives-lheure-des-tractations-pour-une-majorite-introuvable-994643.php)
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [Ouragan Beryl : accompagner les commerçants à mobiliser les aides](https://www.martinique.franceantilles.fr/actualite/economie/ouragan-beryl-accompagner-les-commercants-a-mobiliser-les-aides-994586.php)
+append_entries: 2
+Finish: 2024-07-08 12:38:59.641984

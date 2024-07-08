@@ -1750,3 +1750,9 @@ Summarized using GPT-3.5-turbo
 Append: [Philippe Aghion : "Une France ingouvernable, c’est une France qui regarde passer les trains"](https://www.lexpress.fr/economie/politique-economique/philippe-aghion-une-france-ingouvernable-cest-une-france-qui-regarde-passer-les-trains-LAWUFXI3BFGEPI6WCS2OMM3UB4/)
 append_entries: 1
 Finish: 2024-07-08 01:16:01.960556
+------------------------------------------------------
+Started: 2024-07-08 12:40:57.849032
+Existing_entries: 366
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-08 12:40:58.497075

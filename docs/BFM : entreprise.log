@@ -2942,3 +2942,24 @@ Summarized using GPT-3.5-turbo
 Append: [Deux TER sur cinq: le trafic SNCF sera très perturbé ce lundi dans les Hauts-de-France](https://www.bfmtv.com/economie/entreprises/transports/deux-ter-sur-cinq-le-trafic-sncf-sera-tres-perturbe-ce-lundi-dans-les-hauts-de-france_AV-202407070262.html)
 append_entries: 1
 Finish: 2024-07-08 01:14:42.545406
+------------------------------------------------------
+Started: 2024-07-08 12:37:28.597797
+Existing_entries: 750
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Le fonds britannique Greybull reprend le groupe sidérurgique Ascometal](https://www.bfmtv.com/economie/entreprises/industries/le-fonds-britannique-greybull-reprend-le-groupe-siderurgique-ascometal_AD-202407080321.html)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: ["Surprise", "inquiétude": les résultats des législatives ne rassurent pas les chefs d'entreprise](https://www.bfmtv.com/economie/entreprises/surprise-inquietude-les-resultats-des-legislatives-ne-rassurent-pas-les-chefs-d-entreprise_AD-202407080302.html)
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Boeing va plaider coupable pour fraude liée aux accidents mortels du 737 Max](https://www.bfmtv.com/economie/entreprises/aeronautique/boeing-va-plaider-coupable-pour-fraude-liee-aux-accidents-mortels-du-737-max_AV-202407080109.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [Corée du Sud: les salariés de Samsung entament une grève générale](https://www.bfmtv.com/economie/entreprises/coree-du-sud-les-salaries-de-samsung-entament-une-greve-generale_AD-202407080081.html)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi le lancement d'Ariane 6 est crucial pour l'Europe spatiale](https://www.bfmtv.com/economie/entreprises/aeronautique/pourquoi-le-lancement-d-ariane-6-est-crucial-pour-l-europe-spatiale_AV-202407080063.html)
+append_entries: 5
+Finish: 2024-07-08 12:37:46.847678

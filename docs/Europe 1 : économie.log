@@ -1531,3 +1531,12 @@ Existing_entries: 241
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-08 01:15:13.128148
+------------------------------------------------------
+Started: 2024-07-08 12:38:46.057553
+Existing_entries: 241
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [L'euro se stabilise après le second tour des législatives en France](https://www.europe1.fr/economie/leuro-se-stabilise-apres-le-second-tour-des-legislatives-en-france-4257177)
+append_entries: 1
+Finish: 2024-07-08 12:38:53.550346

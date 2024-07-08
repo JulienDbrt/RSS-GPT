@@ -2679,3 +2679,18 @@ Summarized using GPT-3.5-turbo
 Append: [Second tour des législatives 2024 : la circulation des transports en commun interrompue sur la Métropole de Tours dimanche soir](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/2nd-tour-des-legislatives-la-circulation-des-transports-en-commun-interrompue-sur-la-metropole-de-tours-dimanche-soir-3000533.html)
 append_entries: 2
 Finish: 2024-07-08 01:15:45.301244
+------------------------------------------------------
+Started: 2024-07-08 12:40:21.445892
+Existing_entries: 630
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 312
+Summarized using GPT-3.5-turbo
+Append: [Lignes coupées, travaux :  la circulation des tramways très perturbée cet été à Bordeaux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/lignes-coupees-travaux-la-circulation-des-tramways-tres-perturbee-cet-ete-a-bordeaux-3001076.html)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [À quand un métro qui roule 24h/24h ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/a-quand-un-metro-qui-roule-24h-24h-2982251.html)
+Token length: 316
+Summarized using GPT-3.5-turbo
+Append: [Résultats du bac 2024 dans l'académie de Nancy-Metz, recherchez votre nom et découvrez votre mention](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/resultats-du-bac-2024-dans-l-academie-de-nancy-metz-recherchez-votre-nom-et-decouvrez-votre-mention-2998352.html)
+append_entries: 3
+Finish: 2024-07-08 12:40:35.928515

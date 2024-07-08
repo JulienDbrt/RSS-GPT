@@ -1108,3 +1108,12 @@ Existing_entries: 92
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-07-08 01:16:07.368038
+------------------------------------------------------
+Started: 2024-07-08 12:41:06.839132
+Existing_entries: 92
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: ["Zel Péyi", un nouveau magazine dédié aux entrepreneurs de la Martinique](https://la1ere.francetvinfo.fr/martinique/zel-peyi-un-nouveau-magazine-dedie-aux-entrepreneurs-de-la-martinique-1503521.html)
+append_entries: 1
+Finish: 2024-07-08 12:41:10.886515
