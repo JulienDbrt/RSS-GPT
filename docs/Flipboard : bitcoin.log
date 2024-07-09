@@ -2498,3 +2498,15 @@ Summarized using GPT-3.5-turbo
 Append: [Crypto : L’Ethereum passe sous les 3 000 $, les craintes montent](https://www.cointribune.com/crypto-lethereum-passe-sous-les-3-000-les-craintes-montent/)
 append_entries: 1
 Finish: 2024-07-08 12:32:29.846377
+------------------------------------------------------
+Started: 2024-07-09 01:11:22.911242
+Existing_entries: 586
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin : Les baleines accumulent malgré la chute](https://www.cointribune.com/bitcoin-les-baleines-accumulent-malgre-la-chute/)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [L'euro se stabilise après le second tour des législatives en France](https://www.europe1.fr/economie/leuro-se-stabilise-apres-le-second-tour-des-legislatives-en-france-4257177)
+append_entries: 2
+Finish: 2024-07-09 01:11:27.341568

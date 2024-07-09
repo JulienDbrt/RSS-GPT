@@ -2694,3 +2694,12 @@ Summarized using GPT-3.5-turbo
 Append: [Résultats du bac 2024 dans l'académie de Nancy-Metz, recherchez votre nom et découvrez votre mention](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/resultats-du-bac-2024-dans-l-academie-de-nancy-metz-recherchez-votre-nom-et-decouvrez-votre-mention-2998352.html)
 append_entries: 3
 Finish: 2024-07-08 12:40:35.928515
+------------------------------------------------------
+Started: 2024-07-09 01:18:11.824357
+Existing_entries: 633
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [Accident sur l'autoroute A20 : un véhicule d'intervention percuté par un camion puis un carambolage, la circulation coupée de longues heures](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/accident-sur-l-autoroute-a20-un-vehicule-d-intervention-percute-par-un-camion-la-circulation-interrompue-en-direction-de-toulouse-3001280.html)
+append_entries: 1
+Finish: 2024-07-09 01:18:13.852179

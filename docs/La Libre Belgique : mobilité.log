@@ -1280,3 +1280,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le tunnel du carrefour Léonard complètement fermé à la circulation depuis ce lundi 8 juillet : voici les déviations mises en place](https://www.lalibre.be/regions/bruxelles/2024/07/08/le-tunnel-du-carrefour-leonard-completement-ferme-a-la-circulation-depuis-ce-lundi-8-juillet-voici-les-deviations-mises-en-place-2SVRKLBAOFCTPBME4WYQKHZJIQ/)
 append_entries: 2
 Finish: 2024-07-08 12:42:50.360960
+------------------------------------------------------
+Started: 2024-07-09 01:20:19.191043
+Existing_entries: 180
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-07-09 01:20:19.768240

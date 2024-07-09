@@ -4544,3 +4544,18 @@ Summarized using GPT-3.5-turbo
 Append: [Crash de deux avions 737 MAX : Boeing affirme avoir trouvé un accord avec la justice américaine](https://www.francetvinfo.fr/economie/aeronautique/crash-de-deux-avions-737-max-boeing-affirme-avoir-trouve-un-accord-avec-la-justice-americaine_6653490.html)
 append_entries: 4
 Finish: 2024-07-08 12:39:13.534001
+------------------------------------------------------
+Started: 2024-07-09 01:17:13.986083
+Existing_entries: 1004
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Prix du carburant : les abonnés de TotalEnergies vont-ils payer moins cher ?](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/prix-du-carburant-les-abonnes-de-totalenergies-vont-ils-payer-moins-cher_6654156.html)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Maroc : les gorges du Dadès, canyon du Grand Atlas, attirent les touristes du monde entier](https://www.francetvinfo.fr/monde/afrique/maroc/maroc-les-gorges-du-dades-canyon-du-grand-atlas-attirent-les-touristes-du-monde-entier_6654159.html)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [Billets de zéro euro : à quoi servent-ils ?](https://www.francetvinfo.fr/economie/billets-de-zero-euro-a-quoi-servent-ils_6654144.html)
+append_entries: 3
+Finish: 2024-07-09 01:17:23.701321

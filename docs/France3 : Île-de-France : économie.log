@@ -1353,3 +1353,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Tu ne peux pas dire que tu travailles deux heures par jour, tu es cadre." Plongée dans les coulisses pas reluisantes des entreprises](https://france3-regions.francetvinfo.fr/paris-ile-de-france/tu-ne-peux-pas-dire-que-tu-travailles-deux-heures-par-jour-tu-es-cadre-plongee-dans-les-coulisses-pas-reluisantes-des-entreprises-2981456.html)
 append_entries: 1
 Finish: 2024-07-08 12:40:06.907678
+------------------------------------------------------
+Started: 2024-07-09 01:18:02.595436
+Existing_entries: 185
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Roissy, Orly... Mouvement de grève dans les aéroports de Paris, à l'approche des Jeux olympiques](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/roissy-orly-mouvement-de-greve-dans-les-aeroports-de-paris-a-l-approche-des-jeux-olympiques-3001466.html)
+append_entries: 1
+Finish: 2024-07-09 01:18:05.214636

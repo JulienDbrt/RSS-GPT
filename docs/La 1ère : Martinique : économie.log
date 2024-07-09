@@ -1117,3 +1117,12 @@ Summarized using GPT-3.5-turbo
 Append: ["Zel Péyi", un nouveau magazine dédié aux entrepreneurs de la Martinique](https://la1ere.francetvinfo.fr/martinique/zel-peyi-un-nouveau-magazine-dedie-aux-entrepreneurs-de-la-martinique-1503521.html)
 append_entries: 1
 Finish: 2024-07-08 12:41:10.886515
+------------------------------------------------------
+Started: 2024-07-09 01:18:51.303935
+Existing_entries: 93
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 40
+Summarized using GPT-3.5-turbo
+Append: [La gendarmerie de Martinique assure la sécurité mais produit aussi du miel](https://la1ere.francetvinfo.fr/martinique/la-gendarmerie-de-martinique-assure-la-securite-mais-produit-aussi-du-miel-1504181.html)
+append_entries: 1
+Finish: 2024-07-09 01:18:53.154579

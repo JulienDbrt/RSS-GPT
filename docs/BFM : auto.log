@@ -1338,3 +1338,15 @@ Existing_entries: 180
 Fetching from https://www.bfmtv.com/rss/auto/
 append_entries: 0
 Finish: 2024-07-08 12:37:26.981660
+------------------------------------------------------
+Started: 2024-07-09 01:15:13.762569
+Existing_entries: 180
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [Voitures électriques: la Turquie confirme un accord d'un milliard de dollars avec le constructeur chinois BYD](https://www.bfmtv.com/auto/voitures-electriques-la-turquie-confirme-un-accord-d-un-milliard-de-dollars-avec-le-constructeur-chinois-byd_AD-202407080553.html)
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [Voitures électriques: le chinois BYD va ouvrir une usine en Turquie pour contourner les taxes européennes](https://www.bfmtv.com/auto/voitures-electriques-le-groupe-chinois-byd-va-ouvrir-une-usine-en-turquie_AD-202407080479.html)
+append_entries: 2
+Finish: 2024-07-09 01:15:18.190476

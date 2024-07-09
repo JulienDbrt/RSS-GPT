@@ -1104,3 +1104,15 @@ Existing_entries: 102
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-07-08 12:37:21.368258
+------------------------------------------------------
+Started: 2024-07-09 01:15:01.971232
+Existing_entries: 102
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Nucléaire: une fuite d'acide nitrique en cours de pompage à l'usine Orano de La Hague](https://www.bfmtv.com/economie/entreprises/energie/nucleaire-une-fuite-d-acide-nitrique-en-cours-de-pompage-a-l-usine-orano-de-la-hague_AD-202407080746.html)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [La Hague: une fuite d'acide nitrique met le site de retraitement de combustibles nucléaires à l'arrêt](https://www.bfmtv.com/economie/entreprises/energie/la-hague-une-fuite-d-acide-nitrique-met-le-site-de-retraitement-de-combustibles-nucleaires-a-l-arret_AD-202407080531.html)
+append_entries: 2
+Finish: 2024-07-09 01:15:07.761800
