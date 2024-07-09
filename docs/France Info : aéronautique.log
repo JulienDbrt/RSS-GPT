@@ -998,3 +998,15 @@ Existing_entries: 58
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-07-09 01:17:23.840227
+------------------------------------------------------
+Started: 2024-07-09 12:39:47.386992
+Existing_entries: 58
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [Victime d'un "adhésif défectueux", Boeing contraint de vérifier les masques à oxygène de 2600 appareils aux Etats-Unis](https://www.francetvinfo.fr/economie/aeronautique/victime-d-un-adhesif-defectueux-boeing-contraint-de-verifier-les-masques-a-oxygene-de-2600-appareils-aux-etats-unis_6655653.html)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : feu vert du gouvernement à la création d'une plateforme pour les taxis volants dans la capitale](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-feu-vert-du-gouvernement-a-la-creation-d-une-plateforme-pour-les-taxis-volants-dans-la-capitale_6655506.html)
+append_entries: 2
+Finish: 2024-07-09 12:39:53.008047

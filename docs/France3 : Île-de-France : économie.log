@@ -1362,3 +1362,15 @@ Summarized using GPT-3.5-turbo
 Append: [Roissy, Orly... Mouvement de grève dans les aéroports de Paris, à l'approche des Jeux olympiques](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/roissy-orly-mouvement-de-greve-dans-les-aeroports-de-paris-a-l-approche-des-jeux-olympiques-3001466.html)
 append_entries: 1
 Finish: 2024-07-09 01:18:05.214636
+------------------------------------------------------
+Started: 2024-07-09 12:40:45.400014
+Existing_entries: 186
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [Podcasts pour enfants : mais pourquoi un tel succès ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/podcasts-pour-enfants-mais-pourquoi-un-tel-succes-3000632.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Sports, transports, randonnée, nature : demandez le programme de l'été !](https://france3-regions.francetvinfo.fr/paris-ile-de-france/sports-transports-randonnee-nature-demandez-le-programme-de-l-ete-3001190.html)
+append_entries: 2
+Finish: 2024-07-09 12:40:51.384718

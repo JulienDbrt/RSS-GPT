@@ -1742,3 +1742,27 @@ Summarized using GPT-3.5-turbo
 Append: [Au Kazakhstan, une ex-ville secrète se rêve en station balnéaire](https://www.martinique.franceantilles.fr/actualite/economie/au-kazakhstan-une-ex-ville-secrete-se-reve-en-station-balneaire-994709.php)
 append_entries: 4
 Finish: 2024-07-09 01:17:13.065263
+------------------------------------------------------
+Started: 2024-07-09 12:38:52.158177
+Existing_entries: 326
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Compte à rebours enclenché pour le premier vol d'Ariane 6](https://www.martinique.franceantilles.fr/actualite/economie/compte-a-rebours-enclenche-pour-le-premier-vol-dariane-6-994805.php)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [JO: le gouvernement donne son feu vert aux taxis volants à Paris](https://www.martinique.franceantilles.fr/actualite/economie/jo-le-gouvernement-donne-son-feu-vert-aux-taxis-volants-a-paris-994812.php)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [À Madiana, vif succès pour le salon du retour](https://www.martinique.franceantilles.fr/actualite/economie/vif-succes-pour-le-salon-du-retour-994789.php)
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [Un déluge d'eau pour le décollage d'Ariane 6](https://www.martinique.franceantilles.fr/actualite/economie/un-deluge-deau-pour-le-decollage-dariane-6-994804.php)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [L'Otan réuni en sommet à Washington en pleine incertitude politique](https://www.martinique.franceantilles.fr/actualite/economie/lotan-reuni-en-sommet-a-washington-en-pleine-incertitude-politique-994800.php)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Au sommet de l'Otan, l'Ukraine va demander davantage de systèmes de défense antiaérienne](https://www.martinique.franceantilles.fr/actualite/economie/au-sommet-de-lotan-lukraine-va-demander-davantage-de-systemes-de-defense-antiaerienne-994799.php)
+append_entries: 6
+Finish: 2024-07-09 12:39:15.286367

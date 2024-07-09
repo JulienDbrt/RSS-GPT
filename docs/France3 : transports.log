@@ -2703,3 +2703,15 @@ Summarized using GPT-3.5-turbo
 Append: [Accident sur l'autoroute A20 : un véhicule d'intervention percuté par un camion puis un carambolage, la circulation coupée de longues heures](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/accident-sur-l-autoroute-a20-un-vehicule-d-intervention-percute-par-un-camion-la-circulation-interrompue-en-direction-de-toulouse-3001280.html)
 append_entries: 1
 Finish: 2024-07-09 01:18:13.852179
+------------------------------------------------------
+Started: 2024-07-09 12:41:05.906190
+Existing_entries: 634
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Prudence sur la RN 145 : circulation très perturbée après un accident, une femme gravement blessée](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/bellac/prudence-sur-la-rn-145-circulation-tres-perturbee-apres-un-accident-une-femme-gravement-blessee-3001682.html)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [Sports, transports, randonnée, nature : demandez le programme de l'été !](https://france3-regions.francetvinfo.fr/paris-ile-de-france/sports-transports-randonnee-nature-demandez-le-programme-de-l-ete-3001190.html)
+append_entries: 2
+Finish: 2024-07-09 12:41:13.087100

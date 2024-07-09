@@ -4,6 +4,58 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>WhatTheDuck – Exécutez des requêtes SQL sur vos fichiers CSV depuis votre navigateur</title>
+<link>https://korben.info/whattheduck-requetes-sql-fichiers-csv-navigateur.html</link>
+<guid>https://korben.info/whattheduck-requetes-sql-fichiers-csv-navigateur.html</guid>
+<content:encoded><![CDATA[
+<div> analyser données, fichiers CSV, requêtes SQL, outil, limites <br>
+<br>
+Summary: <br>
+Vous cherchez un moyen simple et efficace d’analyser vos données stockées dans des fichiers CSV ? WhatTheDuck vous permet d’exécuter des requêtes SQL directement sur vos CSV en les uploadant sur le site. L'outil intuitif propose un éditeur SQL avec coloration syntaxique pour des analyses rapides sans installation compliquée. Les possibilités sont vastes, de calculer le chiffre d'affaires à filtrer les données de restaurants. Cependant, l'outil a des limitations malgré son support d'un sous-ensemble du langage SQL. Seuls les fichiers CSV bien formatés avec une ligne d’en-tête fonctionnent correctement. L'outil gratuit et open source est idéal pour des analyses basiques. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="228" src="https://korben.info/app/uploads/2024/04/SCR-20240407-r99-2.webp" width="740" /></p>
+<p>Vous cherchez un moyen simple et efficace d&rsquo;<strong>analyser vos données</strong> stockées dans des <strong>fichiers CSV</strong> ? Ça tombe bien puisqu&rsquo;il y a un service qui s&rsquo;appelle <strong><a href="https://whattheduck.incentius.com/" rel="noopener" target="_blank">WhatTheDuck</a></strong> et qui vous permet d&rsquo;exécuter des <strong>requêtes SQL</strong> directement sur vos CSV, le tout depuis votre <strong>navigateur web</strong>. Plutôt cool, non ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-29319013" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Le concept est simple : vous <strong>uploadez</strong> vos fichiers CSV sur le site (vous pouvez en charger plusieurs d&rsquo;un coup), puis vous écrivez vos requêtes SQL dans l&rsquo;<strong>éditeur</strong> prévu à cet effet. Et là, magie, <strong>WhatTheDuck</strong> exécute vos requêtes et vous affiche les <strong>résultats</strong> ! Vous pouvez même <strong>télécharger</strong> le résultat de votre requête au format CSV.</p>
+
+
+
+<p>L&rsquo;interface est super <strong>intuitive</strong> et l&rsquo;éditeur SQL dispose de la <strong>coloration syntaxique</strong> pour vous aider à écrire vos requêtes sans vous planter. C&rsquo;est l&rsquo;outil idéal pour faire des <strong>analyses de données</strong> rapides sans avoir à installer tout un environnement sur votre machine. Imaginons par exemple que vous ayez un fichier CSV qui contient les <strong>ventes</strong> de votre boutique en ligne&#8230;. vous pouvez en quelques clics avoir les <strong>stats</strong> des produits les plus vendus, calculer votre <strong>chiffre d&rsquo;affaires</strong> par mois ou encore lister les <strong>clients</strong> qui ont passé le plus de commandes. Les possibilités sont quasi illimitées !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158643" height="632" src="https://korben.info/app/uploads/2024/04/SCR-20240407-ra5-1024x632.webp" width="1024" /></figure></div>
+
+
+<p>WhatTheDuck supporte un <strong>sous-ensemble du langage SQL</strong>, ce qui est largement suffisant pour faire des requêtes basiques. Si vous êtes un pro des bases de données, vous trouverez peut-être l&rsquo;outil un peu limité, mais pour la plupart des utilisations c&rsquo;est juste ce qu&rsquo;il faut.</p>
+
+
+
+<p>Autre exemple : vous avez récupéré un gros fichier CSV qui liste tous les <strong>restos</strong> de votre ville avec leurs coordonnées et le type de cuisine. Plutôt que de vous farcir tout le fichier à la main, vous pouvez utiliser cet outil pour <strong>filtrer</strong> les données et trouver en deux secondes tous les restos italiens dans votre quartier. Pratique pour organiser votre prochaine <strong>pizza party</strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1591587565" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Seul petit bémol, il faut que vos <strong>fichiers CSV soient bien formatés</strong> pour que ça fonctionne. Il faut que votre fichier ait une <strong>ligne d&rsquo;en-tête</strong> qui liste les noms des colonnes. Mais bon, c&rsquo;est généralement le cas donc ça ne devrait pas poser de problème.</p>
+
+
+
+<p>Bref, je vous laisse <strong>explorer</strong> toutes les possibilités offertes par <a href="https://whattheduck.incentius.com/" rel="noopener" target="_blank">What The Duck</a>. C&rsquo;est <strong>gratuit</strong> et <strong>open source</strong>, donc n&rsquo;hésitez pas à jeter un oeil au code si vous êtes curieux de voir comment c&rsquo;est fait.</p>
+
+
+
+<p>Un grand merci à <strong>Lorenper</strong> pour m&rsquo;avoir fait découvrir ce petit bijou</p>
+
+
+
+<p>Happy SQL !</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 09 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Présentation de la solution pCloud + grosse promo d’été</title>
