@@ -2304,3 +2304,12 @@ Summarized using GPT-3.5-turbo
 Append: [Agriculture : les prévisions des récoltes sont plutôt moroses avec la météo pluvieuse](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/agriculture-les-previsions-des-recoltes-sont-plutot-moroses-avec-la-meteo-pluvieuse-3001883.html)
 append_entries: 3
 Finish: 2024-07-10 01:20:24.758052
+------------------------------------------------------
+Started: 2024-07-10 12:39:14.027335
+Existing_entries: 496
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: ["Les fruits sont touchés par la pourriture" : les producteurs de melon pénalisés par l'humidité et la pluie](https://france3-regions.francetvinfo.fr/occitanie/lot/cahors/les-fruits-sont-touches-par-la-pourriture-les-producteurs-de-melon-penalises-par-l-humidite-et-la-pluie-3001943.html)
+append_entries: 1
+Finish: 2024-07-10 12:39:17.519233

@@ -3727,3 +3727,24 @@ Summarized using GPT-3.5-turbo
 Append: [La météo, le facteur imprévisible qui peut contrarier le vol inaugural d'Ariane 6](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/la-meteo-le-facteur-imprevisible-qui-peut-contrarier-le-vol-inaugural-d-ariane-6-1001886.html)
 append_entries: 7
 Finish: 2024-07-10 01:23:00.803759
+------------------------------------------------------
+Started: 2024-07-10 12:42:51.555498
+Existing_entries: 957
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 455
+Summarized using GPT-3.5-turbo
+Append: [Enquête anti-subventions : la Chine contre-attaque et lance une procédure visant l'UE](https://www.latribune.fr/economie/international/enquete-anti-subventions-la-chine-contre-attaque-et-lance-une-procedure-visant-l-ue-1001948.html)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [Guerre en Ukraine : l'Otan envoie cinq systèmes de défense antiaérienne, après des mois d'attente](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/guerre-en-ukraine-l-otan-envoie-cinq-systemes-de-defense-antiaerienne-apres-des-mois-d-attente-1001935.html)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Ariane 6 : la relève incarnée par les startup trépigne déjà](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/ariane-6-la-releve-incarnee-par-les-startup-trepigne-deja-1001913.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Les 5 infos business à retenir ce mercredi matin (Ariane 6, Flamanville, investisseurs étrangers, Audi, Danemark)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-mercredi-matin-ariane-6-flamanville-investisseurs-etrangers-audi-danemark-1001936.html)
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : le Danemark va taxer les émissions de méthane des vaches et des cochons, une première en Europe](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/agriculture-le-danemark-va-taxer-les-emissions-de-methane-des-vaches-et-des-cochons-une-premiere-en-europe-1001931.html)
+append_entries: 5
+Finish: 2024-07-10 12:43:09.580190

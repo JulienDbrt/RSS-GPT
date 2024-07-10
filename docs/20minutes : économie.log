@@ -1520,3 +1520,15 @@ Summarized using GPT-3.5-turbo
 Append: [Brésil : C’est quoi cette histoire de bijoux que Bolsonaro aurait tenté de vendre (illégalement) pour son propre compte ?](https://www.20minutes.fr/justice/4100432-20240709-bresil-quoi-histoire-bijoux-bolsonaro-tente-vendre-illegalement-propre-compte)
 append_entries: 3
 Finish: 2024-07-10 01:15:47.267281
+------------------------------------------------------
+Started: 2024-07-10 12:34:37.624133
+Existing_entries: 228
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Corée du Sud : Les salariés de Samsung en grève générale illimitée, un mouvement inédit](https://www.20minutes.fr/monde/4100595-20240710-coree-sud-salaries-samsung-greve-generale-illimitee-mouvement-inedit)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Législatives 2024 : « Ce sont nos clients peu importe leur bord »… Le quartier de l’Assemblée ravi du retour des députés](https://www.20minutes.fr/paris/4100493-20240710-legislatives-2024-clients-peu-importe-bord-quartier-assemblee-ravi-retour-deputes)
+append_entries: 2
+Finish: 2024-07-10 12:34:43.969448

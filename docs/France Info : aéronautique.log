@@ -1022,3 +1022,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le décollage de la fusée Ariane 6... Les informés de franceinfo du mardi 9 juillet 2024](https://www.francetvinfo.fr/replay-radio/les-informes-de-france-info/le-decollage-de-la-fusee-ariane-6-les-informes-de-franceinfo-du-mardi-9-juillet-2024_6623871.html)
 append_entries: 2
 Finish: 2024-07-10 01:19:24.852020
+------------------------------------------------------
+Started: 2024-07-10 12:38:29.324185
+Existing_entries: 62
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-07-10 12:38:29.539852

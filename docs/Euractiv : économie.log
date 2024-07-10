@@ -1202,3 +1202,12 @@ Summarized using GPT-3.5-turbo
 Append: [Fonds de cohésion : 15 milliards d’euros auraient été mal utilisés, selon la Cour des comptes européenne](https://www.euractiv.fr/section/economie/news/fonds-de-cohesion-15-milliards-deuros-auraient-ete-mal-utilises-selon-la-cour-des-comptes-europeenne/)
 append_entries: 3
 Finish: 2024-07-10 01:18:40.873877
+------------------------------------------------------
+Started: 2024-07-10 12:37:47.279887
+Existing_entries: 142
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Les droits de douane sur les véhicules électriques pourraient stimuler la relocalisation en Europe](https://www.euractiv.fr/section/concurrence/news/les-droits-de-douane-sur-les-vehicules-electriques-pourraient-stimuler-la-relocalisation-en-europe/)
+append_entries: 1
+Finish: 2024-07-10 12:37:52.436332

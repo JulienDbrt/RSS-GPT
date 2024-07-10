@@ -1200,3 +1200,12 @@ Existing_entries: 128
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-10 01:20:30.189201
+------------------------------------------------------
+Started: 2024-07-10 12:39:25.411178
+Existing_entries: 128
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 367
+Summarized using GPT-3.5-turbo
+Append: [Randonner en Bretagne sur le GR® 34. Le sentier des douaniers breton, le plus maritime des chemins de grande randonnée](https://france3-regions.francetvinfo.fr/bretagne/randonner-en-bretagne-sur-le-gr-34-le-sentier-des-douaniers-breton-le-plus-maritime-des-chemins-de-grande-randonnee-2988653.html)
+append_entries: 1
+Finish: 2024-07-10 12:39:27.595743

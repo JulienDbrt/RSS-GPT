@@ -4,6 +4,87 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Hoarder – Tout sauvegarder mais surtout, tout retrouver…</title>
+<link>https://korben.info/hoarder-app-open-source-sauvegarder-retrouver-facilement.html</link>
+<guid>https://korben.info/hoarder-app-open-source-sauvegarder-retrouver-facilement.html</guid>
+<content:encoded><![CDATA[
+<div> Hoarder, app, open-source, bookmarking, IA, auto-hébergement
+Summary:
+Hoarder est une application open-source de bookmarking qui permet de sauvegarder facilement des liens, des notes et des images. Elle offre une recherche puissante, un étiquetage automatique par IA, un mode sombre, la possibilité d'auto-hébergement et des applications mobiles. Le créateur, Mohamed Bassem, s'est inspiré d'autres produits pour développer Hoarder, en mettant l'accent sur la protection de la vie privée. Il a intégré des technologies modernes telles que Next.js, tRPC, Meilisearch et OpenAI. L'installation est simplifiée avec Docker et Docker Compose, et l'utilisation d'une clé API OpenAI est facultative. Hoarder s'adresse aux personnes soucieuses de garder le contrôle sur leurs données tout en organisant efficacement leur contenu numérique. La solution s'inscrit dans une démarche de centralisation et de facilité d'utilisation pour les utilisateurs accumulant des liens et des informations variées au quotidien. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_text_with_word_Hoarder_metal_look_clean_b6704ca9-4da3-4a02-b36c-ec1a4cf43ea7.webp" width="1456" /></p>
+<p>Vous êtes un <strong>accumulateur compulsif</strong> de liens intéressants, d&rsquo;articles à lire plus tard, de notes en vrac et d&rsquo;images inspirantes ? Ça tombe bien, moi aussi et j&rsquo;ai trouvé un super outil pour assouvir notre soif de collectionnite aiguë sans nous noyer dans le bordel : <strong>Hoarder</strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2141148788" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>C&rsquo;est quoi Hoarder ? Et bien c&rsquo;est une app <strong>open source</strong> et <strong>auto-hébergeable</strong> qui permet de sauvegarder en deux clics tout et n&rsquo;importe quoi : des <strong>liens</strong> avec prévisualisation automatique, des <strong>notes</strong> de texte et même des <strong>images</strong>. Bon OK, je sais, y&rsquo;a déjà 15000 apps de bookmarking et de prise de notes, alors pourquoi s&#8217;emballer pour Hoarder ? </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158645" height="534" src="https://korben.info/app/uploads/2024/04/SCR-20240407-rdn-1024x534.webp" width="1024" /></figure></div>
+
+
+<p>Et bien parce qu&rsquo;elle coche toutes les cases du cahier des charges de l&rsquo;accumulateur exigeant :</p>
+
+
+
+<ul>
+<li>🔍 Une <strong>recherche full-text</strong> puissante pour retrouver en deux secondes la perle rare enfouie sous des tonnes de bookmarks.</li>
+
+
+
+<li>🏷️ Un <strong>étiquetage automatique</strong> par IA pour classer et organiser le bordel sans effort. Hoarder analyse le contenu et lui colle des tags pertinents. Magique ! </li>
+
+
+
+<li>🌙 Un <strong>mode sombre</strong> (indispensable ^^).</li>
+
+
+
+<li>💾 La possibilité de tout <strong>héberger soi-même</strong> sur son serveur, pour garder le contrôle sur ses données.</li>
+
+
+
+<li>📱 Des <strong>apps mobiles</strong> (en plus du web) pour « hoarder » aussi depuis son smartphone.</li>
+
+
+
+<li>🆓 Tout ça gratuitement et avec une <strong>bonne tronche</strong> bien moderne, merci le design material.</li>
+</ul>
+
+
+
+<p>Pour centraliser votre bordel numérique, c&rsquo;est l&rsquo;idéal. Vous pourrez sauvegarder tous les articles et threads Twitter intéressants que vous croisez, prendre des notes quand une idée vous traverse l&rsquo;esprit (un jour peut-être ? ^^) et bien sûr y stocker tous les memes les plus drôles pour les ressortir au bon moment.</p>
+
+
+
+<p>Le créateur de Hoarder, Mohamed Bassem, est un ingénieur système qui voulait garder la main dans le dev web tout en se faisant plaisir. Il utilisait Memos, une autre app de prise de notes, mais il lui manquait des features essentielles comme la prévisualisation des liens et le tagging automatique. Plutôt que de râler, il a retroussé ses manches et pondu sa propre solution. Respect.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1187526428" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>D&rsquo;ailleurs, Hoarder s&rsquo;inspire beaucoup de <a href="https://mymind.com/" rel="noopener" target="_blank">Mymind</a>, un produit commercial similaire, mais en y ajoutant la dimension auto-hébergement qui est primordiale pour les paranos de la vie privée dont je fais partie. Les alternatives open source comme Shiori ou LinkWarden ne proposent pas (encore) le tagging automatique par IA.</p>
+
+
+
+<p>Et sous le capot, ça tourne avec des technos bien sexy comme <strong>Next.js</strong>, <strong>tRPC</strong>, <strong>Meilisearch</strong> et <strong>OpenAI</strong>. </p>
+
+
+
+<p>Pour l&rsquo;installer, c&rsquo;est très simple : tout est packagé pour tourner facilement avec <strong>Docker</strong> et <strong>Docker Compose</strong>. Il vous faudra aussi une clé d&rsquo;API <strong>OpenAI</strong> (pour le tagging) mais c&rsquo;est optionnel et peu coûteux. <a href="https://github.com/MohamedBassem/hoarder-app" rel="noopener" target="_blank">Tous les détails sont dans la doc</a>.</p>
+
+
+
+<p>Vous pouvez aussi tester <a href="https://try.hoarder.app/" rel="noopener" target="_blank">une démo en ligne</a> si vous voulez vous faire une idée avant d&rsquo;installer. Allez, je vous laisse, j&rsquo;ai un paquet de liens à sauvegarder moi ! 😉</p>
+
+
+
+<p>Merci à Lorenper pour l&rsquo;info !</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 10 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>WhatTheDuck – Exécutez des requêtes SQL sur vos fichiers CSV depuis votre navigateur</title>

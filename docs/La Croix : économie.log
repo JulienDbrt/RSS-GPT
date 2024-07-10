@@ -1685,3 +1685,15 @@ Summarized using GPT-3.5-turbo
 Append: [Saint-Nazaire : les Chantiers de l’Atlantique recrutent à tour de bras](https://www.la-croix.com/economie/saint-nazaire-les-chantiers-de-l-atlantique-recrutent-a-tour-de-bras-20240709)
 append_entries: 2
 Finish: 2024-07-10 01:21:45.940264
+------------------------------------------------------
+Started: 2024-07-10 12:41:09.206536
+Existing_entries: 303
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [E-commerce : 10 chiffres qui montrent l’ampleur prise par les ventes en ligne](https://www.la-croix.com/economie/e-commerce-10-chiffres-qui-montrent-l-ampleur-prise-par-les-ventes-en-lignes-20240710)
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [Commerce : la Chine enquête contre des pratiques européennes visant ses entreprises](https://www.la-croix.com/la-chine-lance-une-enquete-contre-des-pratiques-commerciales-europeennes-20240710)
+append_entries: 2
+Finish: 2024-07-10 12:41:18.211174

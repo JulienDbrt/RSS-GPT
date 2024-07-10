@@ -1609,3 +1609,18 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveauté: Uber Eats disponible à partir de ce mercredi au Luxembourg](https://www.lessentiel.lu/fr/story/nouveaute-uber-eats-disponible-a-partir-de-ce-mercredi-au-luxembourg-103145936)
 append_entries: 1
 Finish: 2024-07-10 01:21:14.470168
+------------------------------------------------------
+Started: 2024-07-10 12:40:01.673661
+Existing_entries: 311
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [ChatGPT: Microsoft abandonne son siège au conseil d'administration d'Open AI](https://www.lessentiel.lu/fr/story/chatgpt-microsoft-abandonne-son-siege-au-conseil-d-administration-d-open-ai-103146602)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [Salaires au Luxembourg: Dans la fonction publique, les frontaliers gagnent plus que les Luxembourgeois](https://www.lessentiel.lu/fr/story/salaires-au-luxembourg-dans-la-fonction-publique-les-frontaliers-gagnent-plus-que-les-luxembourgeois-103145789)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [Danemark: Les rots et pets du bétail seront taxés, une première mondiale](https://www.lessentiel.lu/fr/story/danemark-les-rots-et-pets-du-betail-seront-taxes-une-premiere-mondiale-103146434)
+append_entries: 3
+Finish: 2024-07-10 12:40:13.869955

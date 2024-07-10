@@ -1350,3 +1350,9 @@ Summarized using GPT-3.5-turbo
 Append: [Plusieurs fermetures de nuit du tunnel Louis-Hippolyte-La Fontaine prévues cette semaine](https://www.journaldemontreal.com/2024/07/08/plusieurs-fermetures-de-nuit-du-tunnel-louis-hippolyte-la-fontaine-prevues-cette-semaine)
 append_entries: 1
 Finish: 2024-07-10 01:20:53.617307
+------------------------------------------------------
+Started: 2024-07-10 12:39:54.130744
+Existing_entries: 168
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-10 12:39:54.227635

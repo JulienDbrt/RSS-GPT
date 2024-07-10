@@ -1383,3 +1383,18 @@ Summarized using GPT-3.5-turbo
 Append: [Un accident entre un bus et un tramway fait plusieurs blessés à Ivry-sur-Seine](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/un-accident-entre-un-bus-et-un-tramway-fait-plusieurs-blesses-a-ivry-sur-seine-3002084.html)
 append_entries: 1
 Finish: 2024-07-10 01:20:17.458342
+------------------------------------------------------
+Started: 2024-07-10 12:39:03.697077
+Existing_entries: 189
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : Voies olympiques, où, quand, et pour qui ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-voies-olympiques-ou-quand-et-pour-qui-3002393.html)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi y a-t-il moins de RER et de trains de banlieue depuis lundi ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/pourquoi-y-a-t-il-moins-de-rer-et-de-trains-de-banlieue-depuis-lundi-3001994.html)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Le "Sprague" : l'histoire du tout premier métro des Parisiens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-sprague-l-histoire-du-tout-premier-metro-des-parisiens-2982275.html)
+append_entries: 3
+Finish: 2024-07-10 12:39:13.761269
