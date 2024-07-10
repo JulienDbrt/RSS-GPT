@@ -1187,3 +1187,18 @@ Existing_entries: 139
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-07-09 12:38:47.677909
+------------------------------------------------------
+Started: 2024-07-10 01:18:32.705886
+Existing_entries: 139
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [La Hongrie veut désamorcer les tensions commerciales entre l’UE et la Chine](https://www.euractiv.fr/section/chine/news/la-hongrie-veut-desamorcer-les-tensions-commerciales-entre-lue-et-la-chine/)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [L’industrie chimique allemande remonte la pente, mais l’heure est au changement de modèle économique](https://www.euractiv.fr/section/economie/news/lindustrie-chimique-allemande-remonte-la-pente-mais-lheure-est-au-changement-de-modele-economique/)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [Fonds de cohésion : 15 milliards d’euros auraient été mal utilisés, selon la Cour des comptes européenne](https://www.euractiv.fr/section/economie/news/fonds-de-cohesion-15-milliards-deuros-auraient-ete-mal-utilises-selon-la-cour-des-comptes-europeenne/)
+append_entries: 3
+Finish: 2024-07-10 01:18:40.873877

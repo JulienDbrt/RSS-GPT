@@ -940,3 +940,12 @@ Summarized using GPT-3.5-turbo
 Append: [Taxis volants à Paris pendant les JO : le gouvernement donne son feu vert, la mairie s'y oppose](https://www.latribune.fr/entreprises-finance/services/transport-logistique/taxis-volants-a-paris-pendant-les-jo-le-gouvernement-donne-son-feu-vert-la-mairie-s-y-oppose-1001854.html)
 append_entries: 1
 Finish: 2024-07-09 12:44:37.890036
+------------------------------------------------------
+Started: 2024-07-10 01:23:00.822804
+Existing_entries: 30
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [Paris : qui est Lamia El Aaraje, la nouvelle adjointe d'Hidalgo chargée de l'urbanisme et du Grand Paris ?](https://www.latribune.fr/regions/ile-de-france/paris-qui-est-lamia-el-aaraje-la-nouvelle-adjointe-d-hidalgo-chargee-de-l-urbanisme-et-du-grand-paris-1001838.html)
+append_entries: 1
+Finish: 2024-07-10 01:23:03.526344

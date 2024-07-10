@@ -1600,3 +1600,12 @@ Summarized using GPT-3.5-turbo
 Append: [JO-2024: Les taxis volants autorisés à voler à Paris pendant les Jeux](https://www.lessentiel.lu/fr/story/jo-2024-les-taxis-volants-pourront-voler-a-paris-pendant-les-jeux-103145653)
 append_entries: 3
 Finish: 2024-07-09 12:41:28.676677
+------------------------------------------------------
+Started: 2024-07-10 01:21:09.546996
+Existing_entries: 310
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [Nouveauté: Uber Eats disponible à partir de ce mercredi au Luxembourg](https://www.lessentiel.lu/fr/story/nouveaute-uber-eats-disponible-a-partir-de-ce-mercredi-au-luxembourg-103145936)
+append_entries: 1
+Finish: 2024-07-10 01:21:14.470168

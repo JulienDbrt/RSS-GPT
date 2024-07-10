@@ -1577,3 +1577,18 @@ Summarized using GPT-3.5-turbo
 Append: ["On estime que 30 000 véhicules pourront être sortis" de la circulation dans la future zone à trafic limité de Paris, indique David Belliard](https://www.francetvinfo.fr/economie/transports/on-estime-que-30-000-vehicules-pourront-etre-sortis-de-la-circulation-dans-la-future-zone-a-trafic-limite-de-paris-indique-david-belliard_6655608.html)
 append_entries: 3
 Finish: 2024-07-09 12:40:06.874822
+------------------------------------------------------
+Started: 2024-07-10 01:19:29.012210
+Existing_entries: 249
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Économie : la proposition du blocage des prix est-elle réalisable ?](https://www.francetvinfo.fr/economie/pouvoir-achat/economie-la-proposition-du-blocage-des-prix-est-elle-realisable_6656475.html)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [Un accident entre un bus et tramway à Paris fait une douzaine de blessés](https://www.francetvinfo.fr/faits-divers/accident/un-accident-entre-un-bus-et-tramway-a-paris-fait-une-douzaine-de-blesses_6656208.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Automobile : l’automatique fait des adeptes](https://www.francetvinfo.fr/economie/transports/automobile-l-automatique-fait-des-adeptes_6656103.html)
+append_entries: 3
+Finish: 2024-07-10 01:19:38.160516

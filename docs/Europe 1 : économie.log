@@ -1555,3 +1555,15 @@ Summarized using GPT-3.5-turbo
 Append: [Victoire du NFP aux Législatives : pourquoi les chefs d'entreprises sont inquiets ?](https://www.europe1.fr/economie/victoire-du-nfp-aux-legislatives-pourquoi-les-chefs-dentreprises-sont-inquiets-4257274)
 append_entries: 1
 Finish: 2024-07-09 12:38:51.994304
+------------------------------------------------------
+Started: 2024-07-10 01:18:42.759556
+Existing_entries: 243
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [JO Paris 2024 : jusqu'à 1.900 euros de prime pour les pompiers mobilisés](https://www.europe1.fr/economie/jo-paris-2024-jusqua-1900-euros-de-prime-pour-les-pompiers-mobilises-4257428)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : la récolte française de blé tendre 2024 chute à 29,7 millions de tonnes](https://www.europe1.fr/economie/agriculture-la-recolte-francaise-de-ble-tendre-2024-chute-a-297-millions-de-tonnes-4257423)
+append_entries: 2
+Finish: 2024-07-10 01:18:49.231006

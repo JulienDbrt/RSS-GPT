@@ -1449,3 +1449,15 @@ Existing_entries: 213
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-07-09 12:41:00.930646
+------------------------------------------------------
+Started: 2024-07-10 01:20:24.871894
+Existing_entries: 213
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: ["C'est du gâchis" : en plein Euro de football, les bars de Besançon, interdits de retransmission extérieure, sous surveillance](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/c-est-du-gachis-en-plein-euro-de-football-les-bars-de-besancon-interdits-de-retransmission-exterieure-sont-sous-surveillance-3002072.html)
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [Tentative de suicide, enquête pour harcèlement moral : les pompiers dans la tourmente dans le Territoire de Belfort](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/belfort/tentative-de-suicide-enquete-pour-harcelement-moral-les-pompiers-dans-la-tourmente-dans-le-territoire-de-belfort-3001556.html)
+append_entries: 2
+Finish: 2024-07-10 01:20:29.670050

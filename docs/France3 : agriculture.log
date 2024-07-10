@@ -2289,3 +2289,18 @@ Summarized using GPT-3.5-turbo
 Append: ["Pailler, c'est une façon simple d'économiser l'eau" : les conseils pour préserver son jardin en été](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/pailler-c-est-une-facon-simple-d-economiser-l-eau-les-conseils-pour-preserver-son-jardin-en-ete-2981627.html)
 append_entries: 2
 Finish: 2024-07-09 12:41:00.339023
+------------------------------------------------------
+Started: 2024-07-10 01:20:17.718682
+Existing_entries: 493
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: ["Je suis triste de voir ça. Ça a nourri deux générations" : un agriculteur est contraint d'arracher ses noyers](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/je-suis-triste-de-voir-ca-ca-a-nourri-deux-generations-un-agriculteur-est-contraint-d-arracher-ses-noyers-3002042.html)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [Inondations : "du jamais vu", ces agriculteurs ont presque tout perdu après les fortes intempéries](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/inondations-du-jamais-vu-ces-agriculteurs-ont-presque-tout-perdu-apres-les-fortes-intemperies-3001697.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : les prévisions des récoltes sont plutôt moroses avec la météo pluvieuse](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/agriculture-les-previsions-des-recoltes-sont-plutot-moroses-avec-la-meteo-pluvieuse-3001883.html)
+append_entries: 3
+Finish: 2024-07-10 01:20:24.758052

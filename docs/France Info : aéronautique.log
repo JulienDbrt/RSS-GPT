@@ -1010,3 +1010,15 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : feu vert du gouvernement à la création d'une plateforme pour les taxis volants dans la capitale](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-feu-vert-du-gouvernement-a-la-creation-d-une-plateforme-pour-les-taxis-volants-dans-la-capitale_6655506.html)
 append_entries: 2
 Finish: 2024-07-09 12:39:53.008047
+------------------------------------------------------
+Started: 2024-07-10 01:19:20.243082
+Existing_entries: 60
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [Vol inaugural d'Ariane 6 : la nouvelle fusée européenne a décollé depuis le Centre spatial guyanais de Kourou](https://www.francetvinfo.fr/sciences/espace/direct-vol-inaugural-d-ariane-6-suivez-le-lancement-de-la-nouvelle-fusee-europeenne-depuis-le-centre-spatial-guyanais-de-kourou_6655659.html)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [Le décollage de la fusée Ariane 6... Les informés de franceinfo du mardi 9 juillet 2024](https://www.francetvinfo.fr/replay-radio/les-informes-de-france-info/le-decollage-de-la-fusee-ariane-6-les-informes-de-franceinfo-du-mardi-9-juillet-2024_6623871.html)
+append_entries: 2
+Finish: 2024-07-10 01:19:24.852020
