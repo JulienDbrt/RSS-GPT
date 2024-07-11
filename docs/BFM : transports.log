@@ -1365,3 +1365,12 @@ Summarized using GPT-3.5-turbo
 Append: [La compagnie aérienne syrienne reprend ses vols vers Riyad](https://www.bfmtv.com/economie/entreprises/transports/la-compagnie-aerienne-syrienne-reprend-ses-vols-vers-ryad_AD-202407100531.html)
 append_entries: 2
 Finish: 2024-07-11 01:17:05.207398
+------------------------------------------------------
+Started: 2024-07-11 12:36:48.999150
+Existing_entries: 179
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Melbourne: Transdev rafle à Keolis l'exploitation du plus grand réseau de tramways du monde](https://www.bfmtv.com/economie/entreprises/transports/melbourne-transdev-rafle-a-keolis-l-exploitation-du-plus-grand-reseau-de-tramways-du-monde_AV-202407110283.html)
+append_entries: 1
+Finish: 2024-07-11 12:36:50.691583

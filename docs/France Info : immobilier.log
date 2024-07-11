@@ -1112,3 +1112,12 @@ Existing_entries: 88
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-07-11 01:18:07.524624
+------------------------------------------------------
+Started: 2024-07-11 12:38:19.452830
+Existing_entries: 88
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : le secteur du bâtiment s’effondre, plus de 20 000 emplois détruits au premier trimestre, alerte la FFB](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/immobilier-le-secteur-du-batiment-s-effondre-plus-de-20-000-emplois-detruits-au-premier-trimestre-alerte-la-ffb_6627915.html)
+append_entries: 1
+Finish: 2024-07-11 12:38:22.575141

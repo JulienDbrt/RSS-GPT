@@ -1383,3 +1383,15 @@ Summarized using GPT-3.5-turbo
 Append: [Conseils Auto. Quelles sont les principales causes des pannes automobiles l’été ?](https://www.lalsace.fr/magazine-automobile/2024/07/10/quelles-sont-les-principales-causes-des-pannes-automobiles-l-ete)
 append_entries: 1
 Finish: 2024-07-11 01:19:26.527811
+------------------------------------------------------
+Started: 2024-07-11 12:40:21.367811
+Existing_entries: 178
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 585
+Summarized using GPT-3.5-turbo
+Append: [Essai Auto. Kia Picanto : cette citadine ne fait rien comme les autres !](https://www.lalsace.fr/magazine-automobile/2024/07/11/kia-picanto-cette-citadine-ne-fait-rien-comme-les-autres)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [Essai Auto. Mercedes GLC 220d : il gagne l'étoile de la sobriété !](https://www.lalsace.fr/magazine-automobile/2024/07/11/mercedes-glc-220d-il-gagne-l-etoile-de-la-sobriete)
+append_entries: 2
+Finish: 2024-07-11 12:40:27.138378

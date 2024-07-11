@@ -1588,3 +1588,18 @@ Summarized using GPT-3.5-turbo
 Append: [La hausse des défaillances d'entreprises s'est poursuivie au printemps](https://www.europe1.fr/economie/la-hausse-des-defaillances-dentreprises-sest-poursuivie-au-printemps-4257644)
 append_entries: 1
 Finish: 2024-07-11 01:17:34.632902
+------------------------------------------------------
+Started: 2024-07-11 12:37:30.233518
+Existing_entries: 248
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [Finances publiques : la France doit économiser 25 milliards d'euros en 2024, soit 5 milliards de plus que prévu](https://www.europe1.fr/economie/finances-publiques-la-france-doit-economiser-25-milliards-deuros-en-2024-soit-5-milliards-de-plus-que-prevu-4257718)
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [Les fraudes aux moyens de paiement en forte hausse entre 2016 et 2023](https://www.europe1.fr/economie/les-fraudes-aux-moyens-de-paiement-en-forte-hausse-entre-2016-et-2023-4257712)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Défaillances d'entreprises : rencontre avec le propriétaire d'une PME placée en redressement judiciaire](https://www.europe1.fr/economie/defaillances-dentreprises-rencontre-avec-le-proprietaire-dune-pme-placee-en-redressement-judiciaire-4257621)
+append_entries: 3
+Finish: 2024-07-11 12:37:40.469136

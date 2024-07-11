@@ -1156,3 +1156,12 @@ Summarized using GPT-3.5-turbo
 Append: [La Barbade lance un plan de sauvetage pour le secteur de la pêche dévasté par l’ouragan Beryl](https://la1ere.francetvinfo.fr/martinique/la-barbade-lance-un-plan-de-sauvetage-pour-le-secteur-de-la-peche-devaste-par-l-ouragan-beryl-1504733.html)
 append_entries: 1
 Finish: 2024-07-11 01:20:00.162699
+------------------------------------------------------
+Started: 2024-07-11 12:41:14.546111
+Existing_entries: 96
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 65
+Summarized using GPT-3.5-turbo
+Append: [Médias : radio APAL de Martinique, c’est bientôt fini](https://la1ere.francetvinfo.fr/martinique/media-radio-apal-de-martinique-c-est-bientot-fini-1505042.html)
+append_entries: 1
+Finish: 2024-07-11 12:41:17.949570

@@ -1218,3 +1218,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Pour trouver un repreneur, il faut en chercher un", les salariés redoutent la liquidation de leur abattoir](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/pour-trouver-un-repreneur-il-faut-en-chercher-un-les-salaries-redoutent-la-liquidation-de-leur-abattoir-3002684.html)
 append_entries: 1
 Finish: 2024-07-11 01:18:58.561541
+------------------------------------------------------
+Started: 2024-07-11 12:39:38.316557
+Existing_entries: 130
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: ["C'est le surtourisme dont on parle partout", davantage de trains pour Saint-Malo, Quimper et Brest, à petits prix, mais qui ne font pas l'unanimité](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/c-est-le-surtourisme-dont-on-parle-partout-davantage-de-trains-pour-saint-malo-quimper-et-brest-a-petits-prix-mais-qui-ne-font-pas-l-unanimite-3003059.html)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: ["C’est un camouflet pour Darmanin". Le Conseil d'Etat suspend la dissolution du mouvement d'ultragauche rennais Defco](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/c-est-un-camouflet-pour-darmanin-le-conseil-d-etat-suspend-la-dissolution-du-mouvement-d-ultragauche-rennais-defco-3002894.html)
+append_entries: 2
+Finish: 2024-07-11 12:39:43.411785

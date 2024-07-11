@@ -5356,3 +5356,21 @@ Append: [Wall Street : 37ème record pour le S&P500 ?](https://www.boursier.com/
 Append: [Le Bitcoin consomme plus d'électricité que la Belgique](https://www.rtl.be/actu/monde/international/le-bitcoin-consomme-plus-delectricite-que-la-belgique/2024-07-10/article/689215)
 append_entries: 20
 Finish: 2024-07-11 01:12:02.678989
+------------------------------------------------------
+Started: 2024-07-11 12:31:05.734348
+Existing_entries: 1020
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Revue des marchés Bourse: ce qui bouge sur les marchés avant l’ouverture jeudi REVUE DES MARCHÉS. Les Bourses européennes en légère hausse. AFP|Publié il y a 4 minutes](https://www.lesaffaires.com/bourse/revue-des-marches/bourse-ce-qui-bouge-sur-les-marches-avant-louverture-jeudi-11-07-24/)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [Économie numérique: l'ONU met en garde contre ses conséquences "plus en plus graves" sur l'environnement](https://www.geo.fr/environnement/economie-numerique-l-onu-met-en-garde-contre-ses-consequences-plus-en-plus-graves-sur-l-environnement-221173)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: [L'ONU met en garde contre les dommages de l'économie numérique sur l'environnement](https://www.linfodurable.fr/economie/lonu-met-en-garde-contre-les-dommages-de-leconomie-numerique-46155)
+Token length: 49
+Summarized using GPT-3.5-turbo
+Append: [Wall Street : l'inflation pour dicter la tendance](https://www.boursier.com/indices/actualites/news/wall-street-l-inflation-pour-dicter-la-tendance-933577.html)
+append_entries: 4
+Finish: 2024-07-11 12:31:19.578510

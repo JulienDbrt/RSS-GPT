@@ -1616,3 +1616,15 @@ Summarized using GPT-3.5-turbo
 Append: [Départs en vacances : les journées de vendredi et samedi classées rouge sur une grande partie de la France, dans le sens des départs](https://www.francetvinfo.fr/economie/transports/departs-en-vacances-les-journees-de-vendredi-et-samedi-classees-rouge-sur-une-grande-partie-de-la-france-dans-le-sens-des-departs_6658041.html)
 append_entries: 3
 Finish: 2024-07-11 01:18:15.649831
+------------------------------------------------------
+Started: 2024-07-11 12:38:22.711978
+Existing_entries: 256
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : la secrétaire nationale de la CFDT met en garde face à des risques de "grèves dans certains secteurs"](https://www.francetvinfo.fr/economie/greve/paris-2024-la-secretaire-nationale-de-la-cfdt-met-en-garde-face-a-des-risques-de-greves-dans-certains-secteurs_6659799.html)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : une "mini-ville" avec 900 bus et 2 000 chauffeurs... On a visité "le plus grand dépôt de bus temporaire au monde"](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-une-mini-ville-avec-900-bus-et-2-000-chauffeurs-on-a-visite-le-plus-grand-depot-de-bus-temporaire-au-monde_6658518.html)
+append_entries: 2
+Finish: 2024-07-11 12:38:27.733228

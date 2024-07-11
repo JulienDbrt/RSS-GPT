@@ -1062,3 +1062,18 @@ Summarized using GPT-3.5-turbo
 Append: [TÉMOIGNAGES. "On a une épée de Damoclès au-dessus de la tête" : toute une ville plongée dans l'anxiété après un effondrement](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/temoignages-on-a-une-epee-de-damocles-au-dessus-de-la-tete-toute-une-ville-plongee-dans-l-anxiete-apres-un-effondrement-3002519.html)
 append_entries: 1
 Finish: 2024-07-11 01:19:06.684047
+------------------------------------------------------
+Started: 2024-07-11 12:39:51.363188
+Existing_entries: 78
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Tel un fantôme tombé dans l’oubli, voici l’intérieur de l’ancien village de vacances de Lamoura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/haut-jura/tel-un-fantome-tombe-dans-l-oubli-voici-l-interieur-de-l-ancien-village-de-vacances-de-lamoura-3002597.html)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : les logements Crous de 978 étudiants réquisitionnés pour les Jeux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-logements-crous-de-978-etudiants-requisitionnes-pour-les-jeux-3002957.html)
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: [Le manoir abandonné de 300m² a été vendu aux enchères... 23 000 euros ! Toujours de gros travaux à prévoir](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/tulle/le-manoir-abandonne-de-300m-a-ete-vendu-aux-encheres-23-000-euros-toujours-de-gros-travaux-a-prevoir-3001901.html)
+append_entries: 3
+Finish: 2024-07-11 12:40:01.083599

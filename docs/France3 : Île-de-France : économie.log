@@ -1410,3 +1410,15 @@ Summarized using GPT-3.5-turbo
 Append: [Manger à La Défense pour 1 euro, c'est possible](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manger-a-la-defense-pour-1-euro-c-est-possible-2981480.html)
 append_entries: 2
 Finish: 2024-07-11 01:18:52.564400
+------------------------------------------------------
+Started: 2024-07-11 12:39:08.322611
+Existing_entries: 194
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [Mais comment l'eau est-elle acheminée à Montmartre, le point le plus élevé de Paris?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/mais-comment-l-eau-est-elle-acheminee-a-montmartre-le-point-le-plus-eleve-de-paris-2979833.html)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [REPORTAGE. Des logements de 4 mètres carrés insalubres pour 650 euros de loyer, le calvaire de locataires menacés d'expulsion](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/reportage-des-logements-de-4-metres-carres-insalubres-pour-650-euros-de-loyer-le-calvaire-de-locataires-menaces-d-expulsion-3002699.html)
+append_entries: 2
+Finish: 2024-07-11 12:39:16.138279

@@ -1477,3 +1477,21 @@ Summarized using GPT-3.5-turbo
 Append: [TRANSPORTS KARULIS. 70% des conducteurs des Rapides du Levant en grève pour les salaires](https://la1ere.francetvinfo.fr/guadeloupe/transports-karulis-70-des-conducteurs-des-rapides-du-levant-en-greve-pour-les-salaires-1504964.html)
 append_entries: 2
 Finish: 2024-07-11 01:20:07.123273
+------------------------------------------------------
+Started: 2024-07-11 12:41:18.573264
+Existing_entries: 203
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 32
+Summarized using GPT-3.5-turbo
+Append: [Plus de 70 000 bénéficiaires en 2023, une activité en hausse pour LADOM](https://la1ere.francetvinfo.fr/plus-de-70-000-beneficiaires-en-2023-une-activite-en-hausse-pour-ladom-1504862.html)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. Deux mois après le début des émeutes, le quotidien des Mondoriens est toujours très difficile](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/crise-en-nouvelle-caledonie-deux-mois-apres-le-debut-des-emeutes-le-quotidien-des-mondoriens-est-toujours-tres-difficile-1505072.html)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. Un autre bateau espéré la semaine prochaine pour transporter les Mondoriens](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/crise-en-nouvelle-caledonie-un-autre-bateau-espere-la-semaine-prochaine-pour-transporter-les-mondoriens-1505015.html)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie. Entre routes dégradées et crise économique, les auto-écoles peinent à redémarrer](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-entre-routes-degradees-et-crise-economique-les-auto-ecoles-peinent-a-redemarrer-1505009.html)
+append_entries: 4
+Finish: 2024-07-11 12:41:33.735117
