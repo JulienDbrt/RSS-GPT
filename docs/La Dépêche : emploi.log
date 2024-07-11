@@ -1783,3 +1783,12 @@ Summarized using GPT-3.5-turbo
 Append: [Lannemezan. Des emplois près de chez vous](https://www.ladepeche.fr/2024/07/10/des-emplois-pres-de-chez-vous-12073042.php)
 append_entries: 1
 Finish: 2024-07-10 12:41:53.939513
+------------------------------------------------------
+Started: 2024-07-11 01:20:45.133047
+Existing_entries: 317
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Toulouse : le conseil départemental de l’éducation nationale valide 43 nouvelles fermetures de classes à la rentrée 2024](https://www.ladepeche.fr/2024/07/10/toulouse-le-conseil-departemental-de-leducation-nationale-valide-43-nouvelles-fermetures-de-classes-a-la-rentree-2024-12071802.php)
+append_entries: 1
+Finish: 2024-07-11 01:20:52.815292

@@ -2751,3 +2751,24 @@ Summarized using GPT-3.5-turbo
 Append: [Le "Sprague" : l'histoire du tout premier métro des Parisiens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-sprague-l-histoire-du-tout-premier-metro-des-parisiens-2982275.html)
 append_entries: 6
 Finish: 2024-07-10 12:39:53.731575
+------------------------------------------------------
+Started: 2024-07-11 01:19:07.028541
+Existing_entries: 644
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES. Autoroute A20 : la remorque d'un poids lourd en feu, la circulation perturbée dans le sens Toulouse - Paris](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/brive/autoroute-a20-la-remorque-d-un-poids-lourd-en-feu-la-circulation-interrompue-dans-le-sens-toulouse-paris-3002795.html)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: ["Oui au projet, mais pas au détriment des agriculteurs", mobilisation contre le contournement de Maubeuge](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/maubeuge/oui-au-projet-mais-pas-au-detriment-des-agriculteurs-mobilisation-contre-le-contournement-de-maubeuge-3002363.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Transports, voies olympiques, moyens de paiement… Comment profiter des jeux en toute sérénité](https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-de-paris-2024-transports-voies-olympiques-moyens-de-paiement-comment-profiter-des-jeux-en-toute-serenite-3002714.html)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [Pour davantage de vélos en location... et pas seulement l'été](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/pour-davantage-de-velos-en-location-et-pas-seulement-l-ete-3002039.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [Catastrophe de la Bérarde : un fonds d'urgence lancé après les crues torrentielles, le Département appelle aux donations](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/catastrophe-de-la-berarde-un-fonds-d-urgence-lance-apres-les-crues-torrentielles-le-departement-appelle-aux-donations-3002441.html)
+append_entries: 5
+Finish: 2024-07-11 01:19:16.560045

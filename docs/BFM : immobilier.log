@@ -1495,3 +1495,15 @@ Summarized using GPT-3.5-turbo
 Append: [Bâtiment: 25.000 emplois ont été détruits au premier trimestre 2024](https://www.bfmtv.com/immobilier/construction/batiment-25-000-emplois-ont-ete-detruits-au-premier-trimestre-2024_AD-202407100505.html)
 append_entries: 1
 Finish: 2024-07-10 12:36:56.439045
+------------------------------------------------------
+Started: 2024-07-11 01:16:50.745293
+Existing_entries: 237
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [Maprimerénov': le gouvernement fait un geste surprise pour faire baisser le reste à charge](https://www.bfmtv.com/immobilier/renovation-travaux/maprimerenov-le-gouvernement-fait-un-geste-surprise-pour-faire-baisser-le-reste-a-charge_AV-202407100707.html)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [200.000 logements sociaux, rénovation énergétique: ces mesures du NFP qui séduisent le bâtiment](https://www.bfmtv.com/immobilier/construction/200-000-logements-sociaux-renovation-energetique-ces-mesures-du-nfp-qui-seduisent-le-batiment_AV-202407100661.html)
+append_entries: 2
+Finish: 2024-07-11 01:16:56.357795

@@ -1579,3 +1579,12 @@ Summarized using GPT-3.5-turbo
 Append: [Économie : une croissance française meilleure que prévu en 2024 ?](https://www.europe1.fr/economie/economie-une-croissance-francaise-meilleure-que-prevu-en-2024-4257446)
 append_entries: 2
 Finish: 2024-07-10 12:37:59.210756
+------------------------------------------------------
+Started: 2024-07-11 01:17:31.223855
+Existing_entries: 247
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [La hausse des défaillances d'entreprises s'est poursuivie au printemps](https://www.europe1.fr/economie/la-hausse-des-defaillances-dentreprises-sest-poursuivie-au-printemps-4257644)
+append_entries: 1
+Finish: 2024-07-11 01:17:34.632902

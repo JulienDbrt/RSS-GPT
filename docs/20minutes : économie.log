@@ -1532,3 +1532,9 @@ Summarized using GPT-3.5-turbo
 Append: [Législatives 2024 : « Ce sont nos clients peu importe leur bord »… Le quartier de l’Assemblée ravi du retour des députés](https://www.20minutes.fr/paris/4100493-20240710-legislatives-2024-clients-peu-importe-bord-quartier-assemblee-ravi-retour-deputes)
 append_entries: 2
 Finish: 2024-07-10 12:34:43.969448
+------------------------------------------------------
+Started: 2024-07-11 01:15:03.876880
+Existing_entries: 230
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-07-11 01:15:04.662850

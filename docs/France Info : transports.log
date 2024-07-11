@@ -1601,3 +1601,18 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : "Une navette volante électrique, c'est une première mondiale", s'enthousiasme Valérie Pécresse, présidente LR de la région IDF](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-une-navette-volante-electrique-c-est-une-premiere-mondiale-s-enthousiasme-valerie-pecresse-presidente-lr-de-la-region-idf_6657846.html)
 append_entries: 1
 Finish: 2024-07-10 12:38:33.623554
+------------------------------------------------------
+Started: 2024-07-11 01:18:07.658677
+Existing_entries: 253
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Véhicules électriques : la jungle des prix pour les bornes de recharge](https://www.francetvinfo.fr/economie/vehicules-electriques-la-jungle-des-prix-pour-les-bornes-de-recharge_6658185.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Vacances d’été : l’opération "train à un euro" reconduite dans les Hauts-de-France](https://www.francetvinfo.fr/economie/pouvoir-achat/vacances-d-ete-l-operation-train-a-un-euro-reconduite-dans-les-hauts-de-france_6658170.html)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [Départs en vacances : les journées de vendredi et samedi classées rouge sur une grande partie de la France, dans le sens des départs](https://www.francetvinfo.fr/economie/transports/departs-en-vacances-les-journees-de-vendredi-et-samedi-classees-rouge-sur-une-grande-partie-de-la-france-dans-le-sens-des-departs_6658041.html)
+append_entries: 3
+Finish: 2024-07-11 01:18:15.649831

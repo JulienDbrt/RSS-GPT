@@ -1595,3 +1595,9 @@ Summarized using GPT-3.5-turbo
 Append: [Les prévisions de croissance 2024 selon l'INSEE](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-mercredi-10-juillet-2024-7722257)
 append_entries: 2
 Finish: 2024-07-10 12:38:40.299590
+------------------------------------------------------
+Started: 2024-07-11 01:18:15.780188
+Existing_entries: 251
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-07-11 01:18:16.037679

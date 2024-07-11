@@ -1380,3 +1380,15 @@ Summarized using GPT-3.5-turbo
 Append: [Voitures électriques: Audi envisage de fermer son usine de Bruxelles](https://www.bfmtv.com/auto/voitures-electriques-audi-envisage-de-fermer-son-usine-de-bruxelles_AD-202407100109.html)
 append_entries: 2
 Finish: 2024-07-10 12:35:55.882737
+------------------------------------------------------
+Started: 2024-07-11 01:15:46.196095
+Existing_entries: 186
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Les nouveaux droits de douane en Europe vont faire grimper le prix de la Tesla Model 3](https://www.bfmtv.com/auto/les-nouveaux-droits-de-douane-en-europe-vont-faire-grimper-le-prix-de-la-tesla-model-3_AV-202407100750.html)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Capteurs défectueux: Stellantis rappelle 332.000 véhicules aux Etats-Unis](https://www.bfmtv.com/auto/capteurs-defectueux-stellantis-rappelle-332-000-vehicules-aux-etats-unis_AV-202407100563.html)
+append_entries: 2
+Finish: 2024-07-11 01:15:50.894936

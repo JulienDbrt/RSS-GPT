@@ -1611,3 +1611,15 @@ Summarized using GPT-3.5-turbo
 Append: [Social : la papeterie Stenpa menacée de disparition, "on nous a savonné la planche" accusent les salariés en colère](https://france3-regions.francetvinfo.fr/grand-est/meuse/verdun/social-la-papeterie-menacee-de-disparition-on-nous-a-savonne-la-planche-accusent-les-salaries-en-colere-3002228.html)
 append_entries: 1
 Finish: 2024-07-10 12:39:32.192876
+------------------------------------------------------
+Started: 2024-07-11 01:18:58.700023
+Existing_entries: 263
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Vacances : pourquoi la baignade est interdite au plan d’eau de Cournon, près de Clermont-Ferrand](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/vacances-pourquoi-la-baignade-est-interdite-au-plan-d-eau-de-cournon-pres-de-clermont-ferrand-3002651.html)
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: ["Pour trouver un repreneur, il faut en chercher un", les salariés redoutent la liquidation de leur abattoir](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/pour-trouver-un-repreneur-il-faut-en-chercher-un-les-salaries-redoutent-la-liquidation-de-leur-abattoir-3002684.html)
+append_entries: 2
+Finish: 2024-07-11 01:19:05.386357

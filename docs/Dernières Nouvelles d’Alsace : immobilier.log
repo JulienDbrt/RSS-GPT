@@ -1154,3 +1154,12 @@ Existing_entries: 104
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-07-10 12:37:46.079689
+------------------------------------------------------
+Started: 2024-07-11 01:17:22.990453
+Existing_entries: 104
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [Immobilier - Impôts. Comment bien déclarer ses biens immobiliers ?](https://www.dna.fr/magazine-immobilier/2024/07/10/comment-bien-declarer-ses-biens-immobiliers)
+append_entries: 1
+Finish: 2024-07-11 01:17:27.057216

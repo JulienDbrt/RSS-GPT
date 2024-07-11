@@ -1801,3 +1801,9 @@ Summarized using GPT-3.5-turbo
 Append: [L’entreprise est l’un des derniers remparts démocratiques en France, par Pierre Gattaz](https://www.lexpress.fr/economie/politique-economique/lentreprise-est-lun-des-derniers-remparts-democratiques-en-france-par-pierre-gattaz-Z5IGZNZNRBCXDPKS6OQE47N37E/)
 append_entries: 1
 Finish: 2024-07-10 12:40:17.649378
+------------------------------------------------------
+Started: 2024-07-11 01:19:37.137954
+Existing_entries: 373
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-11 01:19:37.977558

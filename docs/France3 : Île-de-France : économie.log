@@ -1398,3 +1398,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le "Sprague" : l'histoire du tout premier métro des Parisiens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-sprague-l-histoire-du-tout-premier-metro-des-parisiens-2982275.html)
 append_entries: 3
 Finish: 2024-07-10 12:39:13.761269
+------------------------------------------------------
+Started: 2024-07-11 01:18:46.703057
+Existing_entries: 192
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Transports, voies olympiques, moyens de paiement… Comment profiter des jeux en toute sérénité](https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-de-paris-2024-transports-voies-olympiques-moyens-de-paiement-comment-profiter-des-jeux-en-toute-serenite-3002714.html)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [Manger à La Défense pour 1 euro, c'est possible](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manger-a-la-defense-pour-1-euro-c-est-possible-2981480.html)
+append_entries: 2
+Finish: 2024-07-11 01:18:52.564400
