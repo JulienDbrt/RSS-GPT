@@ -1522,3 +1522,18 @@ Summarized using GPT-3.5-turbo
 Append: [Stations balnéaires: les prix de l'immobilier résistent mieux dans le sud-est qu'en Bretagne](https://www.bfmtv.com/immobilier/achat-vente/stations-balneaires-les-prix-de-l-immobilier-resistent-mieux-dans-le-sud-est-qu-en-bretagne_AN-202407110555.html)
 append_entries: 1
 Finish: 2024-07-12 01:14:51.080519
+------------------------------------------------------
+Started: 2024-07-12 12:40:18.733136
+Existing_entries: 240
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Crise du logement: 688 communes françaises reclassées en zone tendue](https://www.bfmtv.com/immobilier/crise-du-logement-688-communes-francaises-reclassees-en-zone-tendue_AD-202407120328.html)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Pourquoi les loyers ne vont pas exploser malgré la fin du bouclier tarifaire](https://www.bfmtv.com/immobilier/location/pourquoi-les-loyers-ne-vont-pas-exploser-malgre-la-fin-du-bouclier-tarifaire_AN-202407120324.html)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [Cet été, les banques à l'offensive pour trouver des acheteurs](https://www.bfmtv.com/immobilier/cet-ete-les-banques-a-l-offensive-pour-trouver-des-acheteurs_AV-202407120156.html)
+append_entries: 3
+Finish: 2024-07-12 12:40:25.559303

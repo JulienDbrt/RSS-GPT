@@ -1619,3 +1619,12 @@ Existing_entries: 253
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-07-12 01:15:59.623457
+------------------------------------------------------
+Started: 2024-07-12 12:42:15.412699
+Existing_entries: 253
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [Qu'est-ce qu'être pauvre ?](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-vendredi-12-juillet-2024-5083397)
+append_entries: 1
+Finish: 2024-07-12 12:42:18.560388

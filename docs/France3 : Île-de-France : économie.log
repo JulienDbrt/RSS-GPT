@@ -1434,3 +1434,15 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024. Embouteillages, travaux : avec les jeux, l'inquiétude des patients sous dialyse](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-embouteillages-travaux-avec-les-jeux-l-inquietude-des-patients-sous-dialyse-3003347.html)
 append_entries: 2
 Finish: 2024-07-12 01:16:35.398647
+------------------------------------------------------
+Started: 2024-07-12 12:42:54.263351
+Existing_entries: 198
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [Défilé du 14 Juillet : toutes les restrictions de stationnement et de circulation à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/defile-du-14-juillet-toutes-les-restrictions-de-stationnement-et-de-circulation-a-paris-3002639.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : 8,6 millions de tickets vendus, un record, annonce le président du comité organisateur Tony Estanguet](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-8-6-millions-de-tickets-vendus-un-record-annonce-le-president-du-comite-organisateur-tony-estanguet-3003458.html)
+append_entries: 2
+Finish: 2024-07-12 12:43:01.755789

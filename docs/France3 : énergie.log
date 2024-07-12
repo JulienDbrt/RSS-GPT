@@ -1173,3 +1173,12 @@ Existing_entries: 111
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-07-12 01:16:30.129127
+------------------------------------------------------
+Started: 2024-07-12 12:42:52.688868
+Existing_entries: 111
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [EDF Corse demande à ses usagers de réguler leur consommation électrique](https://france3-regions.francetvinfo.fr/corse/edf-corse-demande-aux-usagers-de-reguler-leur-consommation-electrique-3003539.html)
+append_entries: 1
+Finish: 2024-07-12 12:42:54.159797

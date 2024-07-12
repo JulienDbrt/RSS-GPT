@@ -4,6 +4,61 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Ruff – Le linter Python intelligent et rapide</title>
+<link>https://korben.info/ruff-linter-python-ultra-rapide-revolutionne-qualite-code.html</link>
+<guid>https://korben.info/ruff-linter-python-ultra-rapide-revolutionne-qualite-code.html</guid>
+<content:encoded><![CDATA[
+<div> linting, Ruff, Python, qualite, outil
+Summary:<br><br>Ruff est un outil de contrôle de qualité de code pour Python qui agit comme un linter. Il peut remplacer d'autres outils tels que Flake8, isort et Black, offrant des fonctionnalités telles que l'autofix pour corriger automatiquement les erreurs et des explications claires. Grâce à l'utilisation de Rust, Ruff est 10 à 100 fois plus rapide que les autres linters, vérifiant plus de 500 règles pour garantir un code de qualité. Il est entièrement configurable, permettant aux utilisateurs d'activer ou de désactiver des règles selon leurs besoins. L'installation est simple en utilisant pip install ruff, offrant un code plus propre et efficace. Ruff est un outil indispensable pour les développeurs Python cherchant à améliorer la qualité de leur code de manière rapide et efficace. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/ruff.webp" width="1456" /></p>
+<p>Si vous faites un peu de code Python, vous connaissez peut-être Ruff, un outil de <strong>contrôle pour la qualité de code</strong> pour Python >= 3.7 qu&rsquo;on appelle aussi un linter.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1522514831" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Je l&rsquo;utilise depuis le début de l&rsquo;année dans mon Visual Studio Code et il est capable de faire le même job que tout un tas d&rsquo;autres outils, comme <strong>Flake8</strong>, <strong>isort</strong> et même <strong>Black</strong>. Du coup, vous pouvez remplacer tous ces outils par Ruff, ça fait toujours ça en moins.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158656" height="641" src="https://korben.info/app/uploads/2024/04/SCR-20240408-8kw-1024x641.webp" width="1024" /></figure></div>
+
+
+<p>Une des fonctionnalités que je préfère dans Ruff, c&rsquo;est l&rsquo;<strong>autofix</strong>. En gros, quand il trouve une erreur dans votre code, il peut la corriger tout seul, comme un grand. Et quand il ne peut pas, il vous mets des explications super claires pour que vous puissiez comprendre ce qui se passe.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158654" height="542" src="https://korben.info/app/uploads/2024/04/SCR-20240408-8hn.webp" width="606" /></figure></div>
+
+
+<p>Puis faut dire que c&rsquo;est hyper rapide aussi. Normal, les dev ont utilisé <strong>Rust</strong>, un langage de programmation connu pour ça afin qu&rsquo;il analyse votre code en un temps record. On parle de <strong>10 à 100 fois plus rapide</strong> que les autres linters du marché. Autant vous dire que ça <strong>dépote</strong> !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-158652" height="481" src="https://korben.info/app/uploads/2024/04/SCR-20240408-8g2.webp" style="width: 598px; height: auto;" width="931" /></figure></div>
+
+
+<p>L&rsquo;outil check plus de <strong>500 règles</strong> différentes pour s&rsquo;assurer que votre code il est au top et vous pouvez le <strong>configurer</strong> comme vous voulez, activer ou désactiver des règles, changer des paramètres&#8230; etc. Bref il s&rsquo;adapte au plus près de votre façon de coder.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158653" height="418" src="https://korben.info/app/uploads/2024/04/SCR-20240408-8hs.webp" width="590" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-744424699" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Y&rsquo;a pas à hésiter et pour l&rsquo;installer, c&rsquo;est simple. Il suffit d&rsquo;allez sur le site de <a href="https://astral.sh/ruff" rel="noopener" target="_blank">Ruff</a> ou sur la <a href="https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff" rel="noopener" target="_blank">marketplace de Visual Studio Code</a> pour le <strong>télécharger</strong> ou tout simplement avec cette commande pour ceux qui aiment la ligne de commande :</p>
+
+
+
+<pre class="wp-block-code"><code>pip install ruff</code></pre>
+
+
+
+<p>Votre code vous dira merci et vous, c&rsquo;est sûr, vous allez adorer !</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Gitroom – Pour planifier et booster vos lancements open source</title>

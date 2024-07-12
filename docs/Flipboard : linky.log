@@ -1057,3 +1057,10 @@ Existing_entries: 72
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-07-12 01:11:40.856550
+------------------------------------------------------
+Started: 2024-07-12 12:34:42.214610
+Existing_entries: 72
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/Flipboard : linky

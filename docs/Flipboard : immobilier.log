@@ -3180,3 +3180,10 @@ Summarized using GPT-3.5-turbo
 Append: [À Lambersart, un recours au tribunal contre le projet immobilier du 117 rue du Bourg](https://www.lavoixdunord.fr/1482486/article/2024-07-11/lambersart-un-recours-au-tribunal-contre-le-projet-immobilier-du-117-rue-du)
 append_entries: 8
 Finish: 2024-07-12 01:11:38.643011
+------------------------------------------------------
+Started: 2024-07-12 12:34:19.882052
+Existing_entries: 934
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Flipboard : immobilier

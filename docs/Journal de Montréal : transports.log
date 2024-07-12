@@ -1389,3 +1389,9 @@ Summarized using GPT-3.5-turbo
 Append: [EN IMAGES | Pluies torrentielles: inondations, voitures submergées et routes fermées à Montréal](https://www.journaldemontreal.com/2024/07/10/deux-arteres-importantes-du-grand-montreal-partiellement-fermees)
 append_entries: 4
 Finish: 2024-07-12 01:17:40.109481
+------------------------------------------------------
+Started: 2024-07-12 12:43:54.731494
+Existing_entries: 173
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-12 12:43:54.838495

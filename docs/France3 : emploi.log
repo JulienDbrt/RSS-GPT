@@ -1647,3 +1647,21 @@ Summarized using GPT-3.5-turbo
 Append: [Les saisonniers manquent : en cuisine, dans les hôtels, bars et restaurants, dans les vignes... des milliers de jobs à pourvoir en PACA](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/les-saisonniers-manquent-en-cuisine-dans-les-hotels-bars-et-restaurants-dans-les-vignes-des-milliers-de-postes-a-pourvoir-en-paca-3003023.html)
 append_entries: 2
 Finish: 2024-07-12 01:17:10.107619
+------------------------------------------------------
+Started: 2024-07-12 12:43:26.803227
+Existing_entries: 269
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [Après le rachat officiel de la SAM, des négociations confidentielles lancées pour faire revivre le site industriel](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/apres-le-rachat-officiel-de-la-sam-des-negociations-confidentielles-lancees-pour-faire-revivre-le-site-industriel-3003707.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: ["Socialement, je comprends, économiquement, j'ai du mal", la hausse du SMIC inquiète les patrons de petites entreprises](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/socialement-je-comprends-economiquement-j-ai-du-mal-la-hausse-du-smic-inquiete-les-patrons-de-petites-entreprises-3003671.html)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [BTP : le travail sur les chantiers en extérieur désormais interdit en cas d’alerte à la canicule](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/btp-le-travail-sur-les-chantiers-en-exterieur-desormais-interdit-en-cas-d-alerte-a-la-canicule-3003398.html)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Manque de main d'œuvre dans l'agriculture. Une appli pour mettre en relation employeurs et saisonniers](https://france3-regions.francetvinfo.fr/pays-de-la-loire/maine-et-loire/angers/manque-de-main-d-uvre-dans-l-agriculture-une-appli-pour-mettre-en-relation-employeurs-et-saisonniers-3003290.html)
+append_entries: 4
+Finish: 2024-07-12 12:43:35.759166
