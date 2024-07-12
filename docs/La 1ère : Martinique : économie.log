@@ -1165,3 +1165,12 @@ Summarized using GPT-3.5-turbo
 Append: [Médias : radio APAL de Martinique, c’est bientôt fini](https://la1ere.francetvinfo.fr/martinique/media-radio-apal-de-martinique-c-est-bientot-fini-1505042.html)
 append_entries: 1
 Finish: 2024-07-11 12:41:17.949570
+------------------------------------------------------
+Started: 2024-07-12 01:18:15.210238
+Existing_entries: 97
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 83
+Summarized using GPT-3.5-turbo
+Append: [Des aides pour les producteurs de bananes et de fruits et légumes de Martinique, touchés par la crise en Ukraine](https://la1ere.francetvinfo.fr/martinique/des-aides-pour-les-producteurs-de-bananes-et-de-fruits-et-legumes-de-martinique-touches-par-la-crise-en-ukraine-1505294.html)
+append_entries: 1
+Finish: 2024-07-12 01:18:17.813212

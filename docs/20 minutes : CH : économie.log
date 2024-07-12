@@ -1621,3 +1621,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les Suisses sont toujours les plus riches du monde](https://www.20min.ch/fr/story/fortune-privee-les-suisses-sont-toujours-les-plus-riches-du-monde-103146674)
 append_entries: 2
 Finish: 2024-07-11 12:34:34.030732
+------------------------------------------------------
+Started: 2024-07-12 01:13:13.408379
+Existing_entries: 289
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [Fréquentation touristique attendue à un niveau record cet été](https://www.20min.ch/fr/story/espagne-frequentation-touristique-attendue-a-un-niveau-record-cet-ete-103147449)
+append_entries: 1
+Finish: 2024-07-12 01:13:15.673857

@@ -1230,3 +1230,15 @@ Summarized using GPT-3.5-turbo
 Append: ["C’est un camouflet pour Darmanin". Le Conseil d'Etat suspend la dissolution du mouvement d'ultragauche rennais Defco](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/c-est-un-camouflet-pour-darmanin-le-conseil-d-etat-suspend-la-dissolution-du-mouvement-d-ultragauche-rennais-defco-3002894.html)
 append_entries: 2
 Finish: 2024-07-11 12:39:43.411785
+------------------------------------------------------
+Started: 2024-07-12 01:16:55.341070
+Existing_entries: 132
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [Arnaque à la solidarité envers les étudiants, un faux site internet de la ville de Rennes et Rennes Métropole circule](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/la-ville-de-rennes-et-rennes-metropole-victimes-d-usurpation-d-identite-3003275.html)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [Sur France 3, on connaîtra le "village préféré des Français" ce jeudi soir : à quelle région le tour ?](https://france3-regions.francetvinfo.fr/bretagne/l-ile-tudy-va-t-il-devenir-le-village-prefere-des-francais-et-tripler-le-score-de-la-bretagne-ce-jeudi-3003212.html)
+append_entries: 2
+Finish: 2024-07-12 01:17:02.372134

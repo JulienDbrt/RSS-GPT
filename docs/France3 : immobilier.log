@@ -1077,3 +1077,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le manoir abandonné de 300m² a été vendu aux enchères... 23 000 euros ! Toujours de gros travaux à prévoir](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/tulle/le-manoir-abandonne-de-300m-a-ete-vendu-aux-encheres-23-000-euros-toujours-de-gros-travaux-a-prevoir-3001901.html)
 append_entries: 3
 Finish: 2024-07-11 12:40:01.083599
+------------------------------------------------------
+Started: 2024-07-12 01:17:10.148150
+Existing_entries: 81
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-07-12 01:17:10.467755

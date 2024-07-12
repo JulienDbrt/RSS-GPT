@@ -1104,3 +1104,15 @@ Existing_entries: 90
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-07-11 12:35:52.696063
+------------------------------------------------------
+Started: 2024-07-12 01:14:04.430551
+Existing_entries: 90
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [Assurance-chômage: le gouvernement souhaite prolonger les règles actuelles jusqu'au 30 septembre](https://www.bfmtv.com/economie/emploi/assurance-chomage-le-gouvernement-souhaite-prolonger-les-regles-actuelles-jusqu-au-30-septembre_AD-202407110690.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Près de 4 salariés sur 10 de la Banque centrale européenne sont en burnout](https://www.bfmtv.com/economie/emploi/pres-de-4-salaries-sur-10-de-la-banque-centrale-europeenne-sont-en-burnout_AD-202407110540.html)
+append_entries: 2
+Finish: 2024-07-12 01:14:10.344568

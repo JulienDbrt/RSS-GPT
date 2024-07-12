@@ -1422,3 +1422,15 @@ Summarized using GPT-3.5-turbo
 Append: [REPORTAGE. Des logements de 4 mètres carrés insalubres pour 650 euros de loyer, le calvaire de locataires menacés d'expulsion](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/reportage-des-logements-de-4-metres-carres-insalubres-pour-650-euros-de-loyer-le-calvaire-de-locataires-menaces-d-expulsion-3002699.html)
 append_entries: 2
 Finish: 2024-07-11 12:39:16.138279
+------------------------------------------------------
+Started: 2024-07-12 01:16:30.230419
+Existing_entries: 196
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : le coût de la cérémonie d'ouverture des Jeux pourrait s'élever à 122 millions d'euros](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-le-cout-de-la-ceremonie-d-ouverture-des-jeux-pourrait-s-elever-a-122-millions-d-euros-3003293.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Embouteillages, travaux : avec les jeux, l'inquiétude des patients sous dialyse](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-embouteillages-travaux-avec-les-jeux-l-inquietude-des-patients-sous-dialyse-3003347.html)
+append_entries: 2
+Finish: 2024-07-12 01:16:35.398647

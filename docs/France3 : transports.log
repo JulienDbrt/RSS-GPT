@@ -2793,3 +2793,24 @@ Summarized using GPT-3.5-turbo
 Append: [Tour de France 2024. Aurillac – Villeneuve-sur-Lot : horaires, parcours, circulation...tout ce que vous devez savoir sur la 12e étape](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/cantal/aurillac/tour-de-france-2024-aurillac-villeneuve-sur-lot-horaires-parcours-circulation-tout-ce-que-vous-devez-savoir-sur-la-12e-etape-3001658.html)
 append_entries: 5
 Finish: 2024-07-11 12:40:18.248299
+------------------------------------------------------
+Started: 2024-07-12 01:17:10.811569
+Existing_entries: 654
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [Un automobiliste trouve la mort en percutant violemment un poteau électrique](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/un-automobiliste-trouve-la-mort-en-percutant-violemment-un-poteau-electrique-3003509.html)
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: ["Il y a un sentiment d’insécurité à vélo qui reste important" : les propositions d'une association pour une plus grande sécurité des cyclistes](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/il-y-a-un-sentiment-d-insecurite-a-velo-qui-reste-important-les-propositions-d-une-association-pour-un-plus-grande-securite-des-cyclistes-3003053.html)
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [Les travaux d'envergure sur la M351 touchent presque à leur fin à l'ouest de Strasbourg](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/les-travaux-d-envergure-sur-la-m351-touchent-presque-a-leur-fin-a-l-ouest-de-strasbourg-3003029.html)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024. Embouteillages, travaux : avec les jeux, l'inquiétude des patients sous dialyse](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-embouteillages-travaux-avec-les-jeux-l-inquietude-des-patients-sous-dialyse-3003347.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Le trafic des trains ralenti à cause d'une canalisation de gaz endommagée par une débroussailleuse à Steenwerck](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/le-trafic-des-trains-ralenti-a-cause-d-une-canalisation-de-gaz-endommagee-par-une-debroussailleuse-a-steenwerck-3003152.html)
+append_entries: 5
+Finish: 2024-07-12 01:17:22.265157
