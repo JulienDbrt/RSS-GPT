@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Ruff – Le linter Python intelligent et rapide</title>
 <link>https://korben.info/ruff-linter-python-ultra-rapide-revolutionne-qualite-code.html</link>
 <guid>https://korben.info/ruff-linter-python-ultra-rapide-revolutionne-qualite-code.html</guid>
 <content:encoded><![CDATA[
 <div> linting, Ruff, Python, qualite, outil
-Summary:<br><br>Ruff est un outil de contrôle de qualité de code pour Python qui agit comme un linter. Il peut remplacer d'autres outils tels que Flake8, isort et Black, offrant des fonctionnalités telles que l'autofix pour corriger automatiquement les erreurs et des explications claires. Grâce à l'utilisation de Rust, Ruff est 10 à 100 fois plus rapide que les autres linters, vérifiant plus de 500 règles pour garantir un code de qualité. Il est entièrement configurable, permettant aux utilisateurs d'activer ou de désactiver des règles selon leurs besoins. L'installation est simple en utilisant pip install ruff, offrant un code plus propre et efficace. Ruff est un outil indispensable pour les développeurs Python cherchant à améliorer la qualité de leur code de manière rapide et efficace. <div>
+Summary:<br /><br />Ruff est un outil de contrôle de qualité de code pour Python qui agit comme un linter. Il peut remplacer d'autres outils tels que Flake8, isort et Black, offrant des fonctionnalités telles que l'autofix pour corriger automatiquement les erreurs et des explications claires. Grâce à l'utilisation de Rust, Ruff est 10 à 100 fois plus rapide que les autres linters, vérifiant plus de 500 règles pour garantir un code de qualité. Il est entièrement configurable, permettant aux utilisateurs d'activer ou de désactiver des règles selon leurs besoins. L'installation est simple en utilisant pip install ruff, offrant un code plus propre et efficace. Ruff est un outil indispensable pour les développeurs Python cherchant à améliorer la qualité de leur code de manière rapide et efficace. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/ruff.webp" width="1456" /></p>
 <p>Si vous faites un peu de code Python, vous connaissez peut-être Ruff, un outil de <strong>contrôle pour la qualité de code</strong> pour Python >= 3.7 qu&rsquo;on appelle aussi un linter.</p>
 
@@ -57,9 +58,7 @@ Summary:<br><br>Ruff est un outil de contrôle de qualité de code pour Python q
 <p>Votre code vous dira merci et vous, c&rsquo;est sûr, vous allez adorer !</p>
 ]]></content:encoded>
 <pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 12 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Gitroom – Pour planifier et booster vos lancements open source</title>
 <link>https://korben.info/gitroom-planification-boost-lancements-open-source.html</link>

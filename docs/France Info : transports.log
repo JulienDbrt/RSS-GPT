@@ -1658,3 +1658,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les 1 200 voyageurs d'un TGV évacués pendant plusieurs heures dans la Sarthe, en raison d'une forte odeur dans une rame](https://www.francetvinfo.fr/economie/transports/sncf/les-1-200-voyageurs-d-un-tgv-evacues-pendant-plusieurs-heures-dans-la-sarthe-en-raison-d-une-forte-odeur-dans-une-rame_6661827.html)
 append_entries: 4
 Finish: 2024-07-12 12:42:15.279137
+------------------------------------------------------
+Started: 2024-07-13 01:16:55.335777
+Existing_entries: 264
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [SNCF : 100 000 pass rail ont été vendus à mi-juillet et plus de 450 000 billets réservés](https://www.francetvinfo.fr/economie/transports/sncf/sncf-100-000-pass-rail-ont-ete-vendus-a-mi-juillet-et-plus-de-450-000-billets-reserves_6662523.html)
+append_entries: 1
+Finish: 2024-07-13 01:16:56.715183

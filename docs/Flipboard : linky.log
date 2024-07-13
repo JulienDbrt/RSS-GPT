@@ -1064,3 +1064,9 @@ Fetching from https://flipboard.com/topic/fr-linky.rss
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/Flipboard : linky
+------------------------------------------------------
+Started: 2024-07-13 01:12:20.130707
+Existing_entries: 72
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-07-13 01:12:20.603388

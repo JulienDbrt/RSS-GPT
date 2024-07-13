@@ -1107,3 +1107,15 @@ Summarized using GPT-3.5-turbo
 Append: [De 5 à 3,6%: le taux du Livret d'épargne populaire va-t-il vraiment baisser au 1er août?](https://www.bfmtv.com/economie/patrimoine/placements-epargne/de-5-a-3-6-le-taux-du-livret-d-epargne-populaire-va-t-il-vraiment-baisser-au-1er-aout_AV-202407120429.html)
 append_entries: 1
 Finish: 2024-07-12 12:40:29.225095
+------------------------------------------------------
+Started: 2024-07-13 01:15:27.824758
+Existing_entries: 87
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [Bercy abaisse à 4% le taux du livret d'épargne populaire](https://www.bfmtv.com/economie/patrimoine/bercy-fixe-a-4-le-taux-du-livret-d-epargne-populaire_AN-202407120527.html)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [La Banque de France propose d'abaisser le taux du Livret d'épargne populaire de 5 à 4%](https://www.bfmtv.com/economie/patrimoine/la-banque-de-france-propose-d-abaisser-le-taux-du-livret-d-epargne-populaire-de-5-a-4_AD-202407120511.html)
+append_entries: 2
+Finish: 2024-07-13 01:15:33.508583

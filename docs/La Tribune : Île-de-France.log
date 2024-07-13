@@ -982,3 +982,9 @@ Summarized using GPT-3.5-turbo
 Append: [Industrie : le « made in France » va s'afficher sur les murs du métro parisien](https://www.latribune.fr/entreprises-finance/industrie/industrie-le-made-in-france-va-s-afficher-sur-les-murs-du-metro-parisien-1002076.html)
 append_entries: 1
 Finish: 2024-07-12 12:46:33.684867
+------------------------------------------------------
+Started: 2024-07-13 01:19:57.929939
+Existing_entries: 32
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+append_entries: 0
+Finish: 2024-07-13 01:19:58.345288

@@ -1621,3 +1621,15 @@ Summarized using GPT-3.5-turbo
 Append: [Que vaut le Vision Pro, le casque de réalité virtuelle d'Apple ?](https://www.europe1.fr/economie/que-vaut-le-vision-pro-le-casque-de-realite-virtuelle-dapple-4257922)
 append_entries: 1
 Finish: 2024-07-12 12:41:17.864754
+------------------------------------------------------
+Started: 2024-07-13 01:16:19.642567
+Existing_entries: 253
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Assurance maladie : les propositions de la Sécu pour faire 1,56 milliard d'euros d'économies en 2025](https://www.europe1.fr/economie/assurance-maladie-les-propositions-de-la-secu-pour-faire-156-milliard-deuros-deconomies-en-2025-4257987)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [Épargne : le taux du Livret d'épargne populaire (LEP) abaissé à 4%](https://www.europe1.fr/economie/epargne-le-taux-du-livret-depargne-populaire-lep-abaisse-a-4-4257969)
+append_entries: 2
+Finish: 2024-07-13 01:16:24.954096

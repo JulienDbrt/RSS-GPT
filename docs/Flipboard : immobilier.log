@@ -3187,3 +3187,18 @@ Fetching from https://flipboard.com/topic/fr-immobilier.rss
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/Flipboard : immobilier
+------------------------------------------------------
+Started: 2024-07-13 01:12:08.291590
+Existing_entries: 934
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Insultes racistes, plantes au rebut, vélos et trottinettes d’enfants confisqués : un HLM de Toulouse en émoi](https://www.ladepeche.fr/2024/07/12/insultes-racistes-plantes-au-rebut-velos-et-trottinettes-denfant-confisques-un-hlm-de-toulouse-en-emoi-12075723.php)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Combien coûtent les logements en bord de mer?](https://podmust.com/episode/?epis=Q29tYmllbiBjb8O7dGVudCBsZXMgbG9nZW1lbnRzIGVuIGJvcmQgZGUgbWVyPw%3D%3D&podcast=la-question-eco)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: ["J'ai donné un maximum à ma fille et un minimum au fisc" : le montage efficace pour réduire l'impôt](https://immobilier.lefigaro.fr/fiscalite-immobiliere/guide-de-la-fiscalite-immobiliere/2542-minimum-d-impots/)
+append_entries: 3
+Finish: 2024-07-13 01:12:20.095322

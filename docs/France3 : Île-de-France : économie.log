@@ -1446,3 +1446,12 @@ Summarized using GPT-3.5-turbo
 Append: [JO de Paris 2024 : 8,6 millions de tickets vendus, un record, annonce le président du comité organisateur Tony Estanguet](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-8-6-millions-de-tickets-vendus-un-record-annonce-le-president-du-comite-organisateur-tony-estanguet-3003458.html)
 append_entries: 2
 Finish: 2024-07-12 12:43:01.755789
+------------------------------------------------------
+Started: 2024-07-13 01:17:24.317795
+Existing_entries: 200
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [Transports : "un accident ferroviaire majeur a été évité" dans les Yvelines, alertent des élus de gauche](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/transports-un-accident-ferroviaire-majeur-a-ete-evite-dans-les-yvelines-alertent-des-elus-de-gauche-3003725.html)
+append_entries: 1
+Finish: 2024-07-13 01:17:26.592884

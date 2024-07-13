@@ -2835,3 +2835,18 @@ Summarized using GPT-3.5-turbo
 Append: [Pourquoi certains métros sont-ils plus lents que d'autres ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/pourquoi-certains-metros-sont-ils-plus-lents-que-d-autres-2982296.html)
 append_entries: 5
 Finish: 2024-07-12 12:43:54.190784
+------------------------------------------------------
+Started: 2024-07-13 01:17:41.983613
+Existing_entries: 664
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [EN COURS. Accident à un passage à niveau entre un TGV et une voiture, la victime en urgence relative, les 600 passagers évacués](https://france3-regions.francetvinfo.fr/occitanie/herault/sete/en-cours-accident-a-un-passage-a-niveau-entre-un-tgv-et-une-voiture-la-victime-en-urgence-relative-les-600-passagers-evacues-3004067.html)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [Vacances : les conseils et la checklist indispensable pour un départ sur la route en toute sérénité](https://france3-regions.francetvinfo.fr/vacances-les-conseils-et-la-checklist-indispensable-pour-un-depart-sur-la-route-en-toute-serenite-3003428.html)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [Transports : "un accident ferroviaire majeur a été évité" dans les Yvelines, alertent des élus de gauche](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/transports-un-accident-ferroviaire-majeur-a-ete-evite-dans-les-yvelines-alertent-des-elus-de-gauche-3003725.html)
+append_entries: 3
+Finish: 2024-07-13 01:17:46.802252

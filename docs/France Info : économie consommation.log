@@ -4807,3 +4807,40 @@ Summarized using GPT-3.5-turbo
 Append: [TÉMOIGNAGES. "Je ne peux pas me permettre d'acheter de la viande chaque jour" : plus d'une personne sur dix se prive de protéines faute d'argent, selon l'Insee](https://www.francetvinfo.fr/societe/plan-pauvrete/temoignages-je-ne-peux-pas-me-permettre-d-acheter-de-la-viande-chaque-jour-plus-d-une-personne-sur-dix-se-prive-de-proteines-faute-d-argent-selon-l-insee_6661791.html)
 append_entries: 9
 Finish: 2024-07-12 12:42:00.176402
+------------------------------------------------------
+Started: 2024-07-13 01:16:26.905474
+Existing_entries: 1009
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : le Jura, entre randonnée canine et escalade le long d’un fort](https://www.francetvinfo.fr/france/bourgogne-franche-comte/jura/tourisme-le-jura-entre-randonnee-canine-et-escalade-le-long-d-un-fort_6662820.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été : les primeurs de la N7 dans le Rhône accueillent leurs premiers vacanciers](https://www.francetvinfo.fr/sante/alimentation/vacances-d-ete-les-primeurs-de-la-n7-dans-le-rhone-accueillent-leurs-premiers-vacanciers_6662793.html)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [Budget 2025 : les discussions du projet de loi de finances en hiatus](https://www.francetvinfo.fr/economie/budget/budget-2025-les-discussions-du-projet-de-loi-finances-en-hiatus_6662712.html)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [SNCF : 100 000 pass rail ont été vendus à mi-juillet et plus de 450 000 billets réservés](https://www.francetvinfo.fr/economie/transports/sncf/sncf-100-000-pass-rail-ont-ete-vendus-a-mi-juillet-et-plus-de-450-000-billets-reserves_6662523.html)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [Vacances : quand les ados travaillent](https://www.francetvinfo.fr/societe/enfance-et-adolescence/vacances-quand-les-ados-travaillent_6662436.html)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Vacances d'été : à la découverte de l'Île-d'Aix, terre d'apaisement en Charente-Maritime](https://www.francetvinfo.fr/economie/tourisme/vacances-d-ete-a-la-decouverte-de-l-ile-d-aix-terre-d-apaisement-en-charente-maritime_6662433.html)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : la carte bancaire peut coûter en frais à l'étranger](https://www.francetvinfo.fr/economie/tourisme/tourisme-la-carte-bancaire-peut-couter-en-frais-a-l-etranger_6662403.html)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [Baie de Somme : des restaurateurs se partagent leurs clients avec une carte d'"infidélité"](https://www.francetvinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/baie-de-somme-des-restaurateurs-se-partagent-leurs-clients-avec-une-carte-d-infidelite_6662388.html)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : les vendeurs de fruits et légumes font le plein de clients sur les bords de route](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/agriculture-les-vendeurs-de-fruits-et-legumes-font-le-plein-de-clients-sur-les-bords-de-route_6662376.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Le taux du Livret d'épargne populaire abaissé de 5% à 4% à partir du 1er août](https://www.francetvinfo.fr/economie/votre-argent/livret-a/le-taux-du-livret-d-epargne-populaire-abaisse-de-5-a-4-a-partir-du-1er-aout_6662337.html)
+Append: [L'inflation a ralenti à 2,2% au mois de juin en France](https://www.francetvinfo.fr/economie/inflation/l-inflation-a-ralenti-a-2-2-au-mois-de-juin-en-france_6662262.html)
+append_entries: 11
+Finish: 2024-07-13 01:16:53.563446

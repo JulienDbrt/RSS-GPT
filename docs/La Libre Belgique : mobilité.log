@@ -1349,3 +1349,21 @@ Summarized using GPT-3.5-turbo
 Append: [Sur les routes belges, les accidents avec délit de fuite sont en nette augmentation](https://www.lalibre.be/belgique/mobilite/2024/07/12/sur-les-routes-belges-les-accidents-avec-delit-de-fuite-sont-en-nette-augmentation-3O7FNGIKVBFX3MB7WFBMSEVQ7I/)
 append_entries: 1
 Finish: 2024-07-12 12:46:02.753271
+------------------------------------------------------
+Started: 2024-07-13 01:19:39.630965
+Existing_entries: 187
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [Ça flashe en Région bruxelloise : voici où sont placés les Lidar jusqu'au 18 juillet](https://www.lalibre.be/belgique/mobilite/2024/07/12/ca-flashe-en-region-bruxelloise-voici-ou-sont-places-les-lidar-jusquau-18-juillet-CBUAHUHUXZHQVONTOPVYRNJRLU/)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [Avec 10 millions de payements, le sans contact est devenu le titre de voyage le plus vendu à la STIB : “Utilisé surtout en déplacements ponctuels”](https://www.lalibre.be/belgique/mobilite/2024/07/12/avec-10-millions-de-payements-le-sans-contact-est-devenu-le-titre-de-voyage-le-plus-vendu-a-la-stib-utilise-surtout-en-deplacements-ponctuels-WMPSSP4KV5GZLGZVQ2A5AUF25Q/)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [Beci demande une révision de la taxe, "contre-productive", sur les bornes de recharge à Bruxelles](https://www.lalibre.be/regions/bruxelles/2024/07/12/beci-demande-une-revision-de-la-taxe-contre-productive-sur-les-bornes-de-recharge-a-bruxelles-BARBWOSXRVG2BCSSUK7QM7XAXY/)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [Le tunnel Delta complètement fermé du 15 juillet au 31 août 2024 pour désamiantage: voici les déviations prévues](https://www.lalibre.be/regions/bruxelles/2024/07/12/le-tunnel-delta-completement-ferme-du-15-juillet-au-31-aout-2024-pour-desamiantage-voici-les-deviations-prevues-QFVMHG3YVFB33BNS22S44XLLCM/)
+append_entries: 4
+Finish: 2024-07-13 01:19:51.745464

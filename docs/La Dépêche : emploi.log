@@ -1813,3 +1813,9 @@ Summarized using GPT-3.5-turbo
 Append: [Aux 2 A. Mie et chez lui, Ernest Mur est de retour](https://www.ladepeche.fr/2024/07/12/aux-2-a-mie-et-chez-lui-ernest-mur-est-de-retour-12077859.php)
 append_entries: 1
 Finish: 2024-07-12 12:45:25.360750
+------------------------------------------------------
+Started: 2024-07-13 01:19:17.194071
+Existing_entries: 319
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-07-13 01:19:17.881395
