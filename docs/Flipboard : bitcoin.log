@@ -2600,3 +2600,15 @@ Existing_entries: 602
 Fetching from https://flipboard.com/topic/fr-bitcoin.rss
 append_entries: 0
 Finish: 2024-07-13 01:11:31.812995
+------------------------------------------------------
+Started: 2024-07-13 12:28:00.942795
+Existing_entries: 602
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin : Le mythe des frais élevés enfin brisé !](https://www.cointribune.com/bitcoin-le-mythe-des-frais-eleves-enfin-brise/)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Qu’est-ce que la technologie blockchain exactement et à quoi sert-elle ?](https://www.masculin.com/high-tech/784931-quest-ce-que-la-technologie-blockchain-exactement-et-a-quoi-sert-elle/)
+append_entries: 2
+Finish: 2024-07-13 12:28:06.601632

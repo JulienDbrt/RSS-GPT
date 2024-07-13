@@ -1571,3 +1571,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le taux du Livret d’épargne populaire (LEP) baisse de nouveau pour atterrir à 4 %](https://www.20minutes.fr/economie/4101098-20240712-epargne-taux-livret-epargne-populaire-lep-abaisse-4)
 append_entries: 1
 Finish: 2024-07-13 01:13:56.879636
+------------------------------------------------------
+Started: 2024-07-13 12:29:53.589302
+Existing_entries: 233
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-07-13 12:29:54.271620

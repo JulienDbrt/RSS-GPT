@@ -1244,3 +1244,9 @@ Summarized using GPT-3.5-turbo
 Append: [L’Ukraine risque d’être en défaut de paiement de sa dette dès le 1er août](https://www.euractiv.fr/section/economie/news/lukraine-risque-detre-en-defaut-de-paiement-de-sa-dette-des-le-1er-aout/)
 append_entries: 1
 Finish: 2024-07-13 01:16:16.581648
+------------------------------------------------------
+Started: 2024-07-13 12:31:50.600838
+Existing_entries: 144
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+append_entries: 0
+Finish: 2024-07-13 12:31:51.463764

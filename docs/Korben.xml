@@ -4,6 +4,58 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Ethibox – Hébergez facilement vos apps open-source favorites</title>
+<link>https://korben.info/ethibox-hebergement-apps-open-source-favoris.html</link>
+<guid>https://korben.info/ethibox-hebergement-apps-open-source-favoris.html</guid>
+<content:encoded><![CDATA[
+<div> Ethibox, services cloud propriétaires, données personnelles, open source, héberger, apps préférées <br>
+<br>
+Summary:
+Ethibox est une solution open source permettant de déployer facilement plus de 40 applications open source sur son propre serveur, éliminant ainsi le besoin de services cloud propriétaires qui exploitent les données personnelles. Avec Ethibox, il est possible d'installer des applications telles que Nextcloud, WordPress, Mastodon, etc., en quelques clics, sans nécessiter des compétences poussées en administration système. Cependant, un minimum de connaissances est requis pour choisir l'hébergeur, gérer le nom de domaine, assurer la sécurité et la maintenance. Une communauté est disponible pour apporter de l'aide en cas de besoin. Pour les utilisateurs préférant une solution clé en main, Ethibox propose également un forfait payant où ils s'occupent de tout. Grâce à cette solution, il est possible de profiter de différentes applications open source comme Nextcloud pour le stockage et le partage de fichiers, Framadate pour les sondages, Wallabag pour la sauvegarde d'articles, etc. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_futurist_logo_with_text_Ethibox_9042620f-ff6a-4f19-865f-5b73908260ec.webp" width="1456" /></p>
+<p>Vous en avez marre des services cloud propriétaires qui exploitent vos données perso ? Vous rêvez d&rsquo;héberger vous-même vos apps préférées mais vous avez peur de pas avoir les compétences ? Alors j&rsquo;ai ce qu&rsquo;il vous faut les amis ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2031253839" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ça s&rsquo;appelle <strong>Ethibox</strong>, et c&rsquo;est une solution très pratique pour déployer facilement vos applis open source sur votre propre serveur ! Vous choisissez votre app dans leur catalogue qui en compte plus de 40 (des classiques comme <strong>Nextcloud</strong>, <strong>WordPress</strong>, <strong>Mastodon</strong>&#8230;), vous cliquez sur installer et hop, quelques minutes plus tard c&rsquo;est prêt ! </p>
+
+
+
+<p>Pas besoin d&rsquo;être un gourou de l&rsquo;administration système, il gère tout : dépendances, configuration, mises à jour&#8230;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158667" height="498" src="https://korben.info/app/uploads/2024/04/68747470733a2f2f692e696d6775722e636f6d2f6d3853794241682e706e67-1024x498.webp" width="1024" /></figure></div>
+
+
+<p>C&rsquo;est un outil open source dont <a href="https://github.com/ethibox/ethibox" rel="noopener" target="_blank"><strong>vous trouverez les sources ici</strong></a> et il vous faudra quand même un minimum de connaissances pour choisir votre hébergeur, gérer son nom de domaine, faire gaffe à la sécurité et la maintenance&#8230; Rien d&rsquo;insurmontable et la communauté du projet est là pour aider. Toutefois, côté <a href="https://ethibox.fr/" rel="noopener" target="_blank">Ethibox.fr</a>, ils ont un forfait payant où ils s&rsquo;occupent de tout si ça vous branche.</p>
+
+
+
+<p>Et pour l&rsquo;installer dans un Docker : </p>
+
+
+
+<pre class="wp-block-preformatted">docker run --name ethibox -p 3000:3000 ethibox/ethibox</pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1759543087" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Comme ça, vous allez pouvoir installer Nextcloud pour votre stockage/partage de fichiers, Framadate pour vos sondages, Wallabag pour sauvegarder mes articles ^^&#8230; Et pourquoi pas également un MediaWiki pour vos notes, Commento pour les commentaires de votre blog, peut-être même un Mastodon ?</p>
+
+
+
+<p>A vous de jouer !</p>
+
+
+
+<p><a href="https://github.com/ethibox/ethibox" rel="noopener" target="_blank">A tester ici !</a></p>
+]]></content:encoded>
+<pubDate>Sat, 13 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 13 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Ruff – Le linter Python intelligent et rapide</title>

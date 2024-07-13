@@ -1683,3 +1683,15 @@ Summarized using GPT-3.5-turbo
 Append: ["On est tous contents de tourner la page Metex" : la justice valide l'offre de reprise de l'usine d'Amiens par Avril, géant de l'agroalimentaire](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/metex-la-justice-valide-l-offre-de-reprise-de-l-usine-d-amiens-par-le-groupe-avril-geant-de-l-agroalimentaire-3003236.html)
 append_entries: 4
 Finish: 2024-07-13 01:17:38.217125
+------------------------------------------------------
+Started: 2024-07-13 12:32:56.928144
+Existing_entries: 277
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [En Corse, le début d’année 2024 est marqué par un repli de l’économie](https://france3-regions.francetvinfo.fr/corse/en-corse-le-debut-d-annee-2024-est-marque-par-un-repli-de-l-economie-3004202.html)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [Les bons conseils pour trouver un job d'été quand on est un adolescent](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/les-bons-conseils-pour-trouver-un-job-d-ete-quand-on-est-un-adolescent-2985626.html)
+append_entries: 2
+Finish: 2024-07-13 12:33:01.181711

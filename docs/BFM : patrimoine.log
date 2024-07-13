@@ -1119,3 +1119,9 @@ Summarized using GPT-3.5-turbo
 Append: [La Banque de France propose d'abaisser le taux du Livret d'épargne populaire de 5 à 4%](https://www.bfmtv.com/economie/patrimoine/la-banque-de-france-propose-d-abaisser-le-taux-du-livret-d-epargne-populaire-de-5-a-4_AD-202407120511.html)
 append_entries: 2
 Finish: 2024-07-13 01:15:33.508583
+------------------------------------------------------
+Started: 2024-07-13 12:31:33.235311
+Existing_entries: 89
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+append_entries: 0
+Finish: 2024-07-13 12:31:33.304840

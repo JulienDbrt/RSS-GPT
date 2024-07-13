@@ -3895,3 +3895,27 @@ Summarized using GPT-3.5-turbo
 Append: [Livret A, LEP : voici les nouveaux taux décidés par Bercy](https://www.latribune.fr/economie/france/livret-a-lep-voici-les-nouveaux-taux-que-preconise-la-banque-de-france-1002152.html)
 append_entries: 2
 Finish: 2024-07-13 01:19:57.910170
+------------------------------------------------------
+Started: 2024-07-13 12:34:32.719062
+Existing_entries: 1001
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Sans surprise, Gabriel Attal officiellement élu président du groupe des députés Renaissance](https://www.latribune.fr/economie/france/legislatives-2024/sans-surprise-gabriel-attal-officiellement-elu-president-du-groupe-des-deputes-renaissance-1002186.html)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [Iran : le nouveau président élu Massoud Pezeshkian tend la main à l'UE](https://www.latribune.fr/economie/international/iran-le-nouveau-president-elu-massoud-pezeshkian-tend-la-main-a-l-ue-1002184.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Bercy abroge un prêt accordé par un haut fonctionnaire, élu LR-RN](https://www.latribune.fr/economie/france/bercy-abroge-un-pret-accorde-par-un-haut-fonctionnaire-elu-lr-rn-1002181.html)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [Qui est Huguette Bello, le choix de Mélenchon pour être la Première ministre d'Emmanuel Macron ?](https://www.latribune.fr/economie/france/qui-est-huguette-bello-le-choix-de-melanchon-pour-etre-la-premiere-ministre-d-emmanuel-macron-1002179.html)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [85.000 candidats toujours en attente sur Parcoursup](https://www.latribune.fr/economie/france/85-000-candidats-toujours-en-attente-sur-parcoursup-1002175.html)
+Token length: 399
+Summarized using GPT-3.5-turbo
+Append: [Epargne, immobilier... Quelle stratégie patrimoniale adopter en ces temps troublés ?](https://www.latribune.fr/economie/france/epargne-immobilier-quelle-strategie-patrimoniale-adopter-en-ces-temps-troubles-1002155.html)
+append_entries: 6
+Finish: 2024-07-13 12:34:47.797209

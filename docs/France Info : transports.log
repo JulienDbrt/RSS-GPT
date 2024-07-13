@@ -1667,3 +1667,12 @@ Summarized using GPT-3.5-turbo
 Append: [SNCF : 100 000 pass rail ont été vendus à mi-juillet et plus de 450 000 billets réservés](https://www.francetvinfo.fr/economie/transports/sncf/sncf-100-000-pass-rail-ont-ete-vendus-a-mi-juillet-et-plus-de-450-000-billets-reserves_6662523.html)
 append_entries: 1
 Finish: 2024-07-13 01:16:56.715183
+------------------------------------------------------
+Started: 2024-07-13 12:32:15.969885
+Existing_entries: 265
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Vacances : petites astuces pour dépenser moins sur la route](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/vacances-petites-astuces-pour-depenser-moins-sur-la-route_6632268.html)
+append_entries: 1
+Finish: 2024-07-13 12:32:19.011857
