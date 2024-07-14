@@ -1764,3 +1764,15 @@ Summarized using GPT-3.5-turbo
 Append: [Les magasins Inno en Belgique repris par un groupe suédois](https://www.7sur7.be/economie/les-magasins-inno-en-belgique-repris-par-un-groupe-suedois~a162adea/)
 append_entries: 1
 Finish: 2024-07-14 01:18:16.121295
+------------------------------------------------------
+Started: 2024-07-14 12:45:18.958197
+Existing_entries: 300
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 666
+Summarized using GPT-3.5-turbo
+Append: [Votre contrat énergétique expirera-t-il cet été? Vous pourrez facilement économiser des centaines d’euros](https://www.7sur7.be/economie/votre-contrat-energetique-expirera-t-il-cet-ete-vous-pourrez-facilement-economiser-des-centaines-deuros~a2025861/)
+Token length: 365
+Summarized using GPT-3.5-turbo
+Append: [Seules les riches et les personnes âgées doivent régler leur héritage: vrai ou faux?](https://www.7sur7.be/economie/seules-les-riches-et-les-personnes-agees-doivent-regler-leur-heritage-vrai-ou-faux~abac0977/)
+append_entries: 2
+Finish: 2024-07-14 12:45:24.567833

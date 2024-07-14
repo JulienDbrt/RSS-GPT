@@ -4344,3 +4344,24 @@ Summarized using GPT-3.5-turbo
 Append: [Banque en ligne : ce petit privilège est de plus en plus dur d'accès](https://www.moneyvox.fr/carte-bancaire/actualites/98713/banque-en-ligne-ce-petit-privilege-est-de-plus-en-plus-dur-acces)
 append_entries: 1
 Finish: 2024-07-14 01:19:48.155250
+------------------------------------------------------
+Started: 2024-07-14 12:47:00.944745
+Existing_entries: 1001
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Madrid relève ses prévisions de croissance à 2,4% en 2024 et 2,2% en 2025](https://www.moneyvox.fr/actu/98724/madrid-releve-ses-previsions-de-croissance-a-2,4-en-2024-et-2,2-en-2025)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Double surprise pour le taux du LEP, chers frais de dossiers... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/98715/double-surprise-pour-le-taux-du-lep-chers-frais-de-dossiers-les-5-infos-argent-de-la-semaine)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Ce qu'il faut vérifier sur vos assurances auto et habitation pour éviter les galères en vacances](https://www.moneyvox.fr/assurance/actualites/98662/ce-quil-faut-verifier-sur-vos-assurances-auto-et-habitation-pour-eviter-les-galeres-en-vacances)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [LEP : voici le taux moyen du Livret d'épargne populaire en 2024](https://www.moneyvox.fr/livret/actualites/98721/lep-voici-le-taux-moyen-du-livret-epargne-populaire-en-2024)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Impôts, banque, salaire, impôts... Quel délai obligatoire pour conserver les documents ?](https://www.moneyvox.fr/votre-argent/actualites/98620/impots-banque-salaire-impots-quel-delai-obligatoire-pour-conserver-les-documents)
+append_entries: 5
+Finish: 2024-07-14 12:47:15.482722

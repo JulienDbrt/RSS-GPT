@@ -1657,3 +1657,15 @@ Existing_entries: 291
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-07-14 01:18:13.384689
+------------------------------------------------------
+Started: 2024-07-14 12:45:14.580672
+Existing_entries: 291
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [Les cantons de Genève et de  Zurich comptent le plus de super-riches](https://www.20min.ch/fr/story/votations-les-cantons-de-geneve-et-de-zurich-comptent-le-plus-de-super-riches-103148892)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Devenues plus gourmandes, les stars font grimper les prix](https://www.20min.ch/fr/story/festivals-les-stars-devenues-gourmandes-font-grimper-les-prix-103148774)
+append_entries: 2
+Finish: 2024-07-14 12:45:18.498793

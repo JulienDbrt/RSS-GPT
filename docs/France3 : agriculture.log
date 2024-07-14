@@ -2418,3 +2418,15 @@ Summarized using GPT-3.5-turbo
 Append: [Un éleveur du Puy-de-Dôme retrouve 70 volailles après une série de vols sur son exploitation](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/un-eleveur-du-puy-de-dome-retrouve-70-volailles-apres-une-serie-de-vols-sur-son-exploitation-3004223.html)
 append_entries: 1
 Finish: 2024-07-14 01:19:53.646785
+------------------------------------------------------
+Started: 2024-07-14 12:47:17.229171
+Existing_entries: 518
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Baisse de la production de miel : les apiculteurs demandent la reconnaissance en catastrophe agricole](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/baisse-de-la-production-de-miel-les-apiculteurs-demandent-la-reconnaissance-en-catastrophe-agricole-3004436.html)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [VIDÉO. À la découverte de la fabrication traditionnelle du bon fromage de montagne au goût unique des pâturages](https://france3-regions.francetvinfo.fr/occitanie/ariege/video-a-la-decouverte-de-la-fabrication-traditionnelle-du-bon-fromage-de-montagne-au-gout-unique-des-paturages-2986961.html)
+append_entries: 2
+Finish: 2024-07-14 12:47:22.229455

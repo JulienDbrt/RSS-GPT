@@ -2874,3 +2874,15 @@ Summarized using GPT-3.5-turbo
 Append: ["Il n'y a plus rien d'origine", on vous dit tout sur les trottinettes débridées en course pour le championnat de France](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/il-n-y-a-plus-rien-d-origine-on-vous-dit-tout-sur-les-trottinettes-debridees-en-courses-pour-le-championnat-de-france-3004328.html)
 append_entries: 2
 Finish: 2024-07-14 01:20:02.600928
+------------------------------------------------------
+Started: 2024-07-14 12:47:30.867953
+Existing_entries: 671
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 345
+Summarized using GPT-3.5-turbo
+Append: [EN IMAGES : l’histoire de la Route Nationale 20, la "route mauve" du Limousin, en ce week-end de départ en vacances](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/en-images-l-histoire-de-la-route-nationale-20-la-route-mauve-du-limousin-en-ce-week-end-de-depart-en-vacances-2992550.html)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [TÉMOIGNAGES. "Les couchettes, c'est assez convivial" : des voyageurs expliquent pourquoi ils prennent le train de nuit](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/temoignages-les-couchettes-c-est-assez-convivial-des-voyageurs-expliquent-pourquoi-ils-prennent-le-train-de-nuit-2983010.html)
+append_entries: 2
+Finish: 2024-07-14 12:47:37.715614

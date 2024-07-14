@@ -4376,3 +4376,18 @@ Summarized using GPT-3.5-turbo
 Append: [Les magasins Inno en Belgique repris par un groupe suédois](https://www.lalibre.be/economie/entreprises-startup/2024/07/13/les-magasins-inno-en-belgique-repris-par-un-groupe-suedois-AVTWKVY5VZAYHHS5VHFL246RQI/)
 append_entries: 1
 Finish: 2024-07-14 01:20:48.507381
+------------------------------------------------------
+Started: 2024-07-14 12:48:57.910108
+Existing_entries: 1001
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [Un fonds d’investissement pourrait saisir 32 millions d’euros chez Eurocontrol](https://www.lalibre.be/economie/entreprises-startup/2024/07/14/un-fonds-dinvestissement-pourrait-saisir-32-millions-deuros-chez-eurocontrol-QKWPVOOXBFBWPOOOQI25J55YNY/)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [Comment le manoir de Nestor Martin renaît de ses cendres : “Il n’avait pas été abandonné, mais c’était tout comme”](https://www.lalibre.be/economie/immo/2024/07/14/comment-le-manoir-de-nestor-martin-renait-de-ses-cendres-il-navait-pas-ete-abandonne-mais-cetait-tout-comme-4CTRYVZCPFC7LMUHWX7Q4CLNKA/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Les voitures électriques sont-elles moins réparables ? "On utilise la même technique qu’au Moyen Âge"](https://www.lalibre.be/planete/environnement/2024/07/14/les-voitures-electriques-sont-elles-moins-reparables-on-utilise-la-meme-technique-quau-moyen-age-VOWJX7VKIBFJVHSQ37HCRYXRJE/)
+append_entries: 3
+Finish: 2024-07-14 12:49:05.278719

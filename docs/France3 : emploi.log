@@ -1701,3 +1701,12 @@ Existing_entries: 279
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-07-14 01:19:54.970466
+------------------------------------------------------
+Started: 2024-07-14 12:47:26.008870
+Existing_entries: 279
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [Aux urgences du CHU de Caen, une grève pour la hausse des effectifs médicaux](https://france3-regions.francetvinfo.fr/normandie/calvados/caen/aux-urgences-du-chu-de-caen-une-greve-pour-la-hausse-des-effectifs-medicaux-3004496.html)
+append_entries: 1
+Finish: 2024-07-14 12:47:30.280555
