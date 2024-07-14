@@ -4871,3 +4871,21 @@ Summarized using GPT-3.5-turbo
 Append: ["Ce n'est pas l'IA qui me volera mon métier, mais ceux qui savent s'en servir", témoigne une scénariste](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/ce-n-est-pas-l-ia-qui-me-volera-mon-metier-mais-ceux-qui-savent-s-en-servir-temoigne-une-scenariste_6632253.html)
 append_entries: 7
 Finish: 2024-07-13 12:32:14.783748
+------------------------------------------------------
+Started: 2024-07-14 01:19:27.915313
+Existing_entries: 1007
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [Consommation : la valise à roulettes, l'objet fétiche des touristes](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/consommation-la-valise-a-roulettes-l-objet-fetiche-des-touristes_6664608.html)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : Canua island, l’île qui sème la discorde à Mandelieu-la-Napoule](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/tourisme-canua-island-l-ile-qui-seme-la-discorde-a-mandelieu-la-napoule_6664596.html)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Vietnam : les rizières de Sapa, cinquante nuances de vert à perte de vue](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/vietnam-les-rizieres-de-sapa-cinquante-nuances-de-vert-a-perte-de-vue_6664584.html)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [Italie : l’aéroport de Milan rebaptisé "Silvio Berlusconi" par Matteo Salvini](https://www.francetvinfo.fr/monde/italie/italie-l-aeroport-de-milan-rebaptise-silvio-berlusconi-par-matteo-salvini_6664350.html)
+append_entries: 4
+Finish: 2024-07-14 01:19:39.390493

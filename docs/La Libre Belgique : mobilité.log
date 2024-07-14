@@ -1376,3 +1376,9 @@ Summarized using GPT-3.5-turbo
 Append: [Vers une vignette autoroutière en Wallonie ? “La Région court le risque d’un recours en annulation”](https://www.lalibre.be/belgique/mobilite/2024/07/13/vers-une-vignette-autoroutiere-en-wallonie-la-region-court-le-risque-dun-recours-en-annulation-5VHKUDM4ERB5RLOUYZEBMR6NPY/)
 append_entries: 1
 Finish: 2024-07-13 12:34:32.155799
+------------------------------------------------------
+Started: 2024-07-14 01:20:48.604802
+Existing_entries: 192
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-07-14 01:20:48.974722

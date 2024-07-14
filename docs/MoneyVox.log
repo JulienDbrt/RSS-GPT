@@ -4335,3 +4335,12 @@ Summarized using GPT-3.5-turbo
 Append: [LEP à 4% : combien va vous coûter la baisse du taux ?](https://www.moneyvox.fr/livret/actualites/98720/lep-a-4-combien-va-vous-couter-la-baisse-du-taux)
 append_entries: 5
 Finish: 2024-07-13 12:32:42.638346
+------------------------------------------------------
+Started: 2024-07-14 01:19:45.363088
+Existing_entries: 1005
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Banque en ligne : ce petit privilège est de plus en plus dur d'accès](https://www.moneyvox.fr/carte-bancaire/actualites/98713/banque-en-ligne-ce-petit-privilege-est-de-plus-en-plus-dur-acces)
+append_entries: 1
+Finish: 2024-07-14 01:19:48.155250

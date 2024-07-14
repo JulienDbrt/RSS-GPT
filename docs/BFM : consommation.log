@@ -1287,3 +1287,9 @@ Summarized using GPT-3.5-turbo
 Append: [Budget, destinations, durée... A quoi ressembleront les vacances des Français cette année?](https://www.bfmtv.com/economie/consommation/budget-destinations-duree-a-quoi-ressembleront-les-vacances-des-francais-cette-annee_AV-202407130044.html)
 append_entries: 1
 Finish: 2024-07-13 12:30:47.078276
+------------------------------------------------------
+Started: 2024-07-14 01:18:45.058423
+Existing_entries: 143
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-07-14 01:18:45.208323

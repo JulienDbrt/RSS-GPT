@@ -1825,3 +1825,12 @@ Existing_entries: 319
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-07-13 12:34:19.168851
+------------------------------------------------------
+Started: 2024-07-14 01:20:41.840424
+Existing_entries: 319
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: ["Je n’ai pas eu une seule mission pendant un mois" : dans le Gers, les jeunes intérimaires confrontés au manque d’offres d’emploi](https://www.ladepeche.fr/2024/07/13/je-nai-pas-eu-une-seule-mission-pendant-un-mois-dans-le-gers-les-jeunes-interimaires-confrontes-au-manque-doffres-demploi-12063001.php)
+append_entries: 1
+Finish: 2024-07-14 01:20:44.555624

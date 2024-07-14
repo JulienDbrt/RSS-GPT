@@ -3927,3 +3927,15 @@ Summarized using GPT-3.5-turbo
 Append: [lauréats du Start’in Corsica 2024](https://www.facebook.com/462507925917911/posts/888455689989797)
 append_entries: 1
 Finish: 2024-07-13 12:29:52.678835
+------------------------------------------------------
+Started: 2024-07-14 01:18:06.980336
+Existing_entries: 1001
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [En Corse, le début d’année 2024 est marqué par un repli de l’économie](https://france3-regions.francetvinfo.fr/corse/en-corse-le-debut-d-annee-2024-est-marque-par-un-repli-de-l-economie-3004202.html)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [Bonà savoir](https://www.facebook.com/204309342152891/posts/496665292917293)
+append_entries: 2
+Finish: 2024-07-14 01:18:12.828985
