@@ -1268,3 +1268,15 @@ Existing_entries: 144
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-07-15 01:15:50.621003
+------------------------------------------------------
+Started: 2024-07-15 12:37:57.655387
+Existing_entries: 144
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [En Chine, ouverture d’une réunion au sommet autour de Xi Jinping, la croissance ralentit](https://www.euractiv.fr/section/chine/news/en-chine-ouverture-dune-reunion-au-sommet-autour-de-xi-jinping-la-croissance-ralentit/)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [La CSU met en garde contre la réduction des fonds de cohésion avant le sommet des ministres des finances de l’UE](https://www.euractiv.fr/section/commission-europeenne/news/la-csu-met-en-garde-contre-la-reduction-des-fonds-de-cohesion-avant-le-sommet-des-ministres-des-finances-de-lue/)
+append_entries: 2
+Finish: 2024-07-15 12:38:04.927261

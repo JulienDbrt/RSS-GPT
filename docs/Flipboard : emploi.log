@@ -4790,3 +4790,30 @@ Existing_entries: 1005
 Fetching from https://flipboard.com/topic/fr-emploi.rss
 append_entries: 0
 Finish: 2024-07-15 01:13:42.652406
+------------------------------------------------------
+Started: 2024-07-15 12:33:21.879924
+Existing_entries: 1000
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Voici le métier qui recrute le plus en France - il est payé en moyenne 6085 euros par mois](https://emploi.lefigaro.fr/carriere-remuneration/voici-le-metier-qui-recrute-le-plus-en-france-il-est-paye-en-moyenne-6085-euros-par-mois-20240715)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [«J’ai l’impression de travailler avec des enfants» : le grand ras-le-bol des managers sursollicités](https://www.lefigaro.fr/decideurs/management/j-ai-l-impression-de-travailler-avec-des-enfants-le-grand-ras-le-bol-des-managers-sursollicites-20240715)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Le Havre. Routier, il conteste une amende, récupère les points mais perd son travail faute de permis](https://actu.fr/normandie/le-havre_76351/le-havre-routier-il-conteste-une-amende-recupere-les-points-mais-perd-son-travail-faute-de-permis_61334652.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [Où s’expatrier, d’après les Belges ?](https://www.courrierinternational.com/article/une-du-jour-ou-s-expatrier-d-apres-les-belges)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [Le triste bilan du maudit Harry Kane dans des finales](https://www.sofoot.com/breves/euro-2024-harry-kane-a-perdu-la-sixieme-finale-sur-les-six-quil-a-disputees-dans-sa-carriere)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Entreprise : mais qui a eu la peau des "happiness managers" ?](https://www.lexpress.fr/idees-et-debats/entreprise-mais-qui-a-eu-la-peau-des-happiness-managers-QWTXML2XDJFSFLP3XLDEXERFXM/)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [Aéroports wallons : business as usual avec le nouveau gouvernement ? "Si Ryanair ou Fedex part, c'est la catastrophe"](https://www.lalibre.be/economie/entreprises-startup/2024/07/15/aeroports-wallons-business-as-usual-avec-le-nouveau-gouvernement-si-ryanair-ou-fedex-part-cest-la-catastrophe-KVG37IFNY5AI5APMWFLPQE6AXY/)
+append_entries: 7
+Finish: 2024-07-15 12:33:44.398872

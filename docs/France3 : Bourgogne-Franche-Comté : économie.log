@@ -1542,3 +1542,15 @@ Existing_entries: 222
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-07-15 01:16:13.118157
+------------------------------------------------------
+Started: 2024-07-15 12:39:43.125080
+Existing_entries: 222
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: ["On a jamais vu ça" : le blé envahi d'herbes à cause des pluies, ces agriculteurs font grise mine](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/on-a-jamais-vu-ca-le-ble-envahi-d-herbes-a-cause-des-pluies-ces-agriculteurs-font-grise-mine-3004034.html)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: ["Comme si on leur redonnait vie" : cette ferme du Jura accueille et reconstruit des animaux victimes de maltraitance](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/comme-si-on-leur-redonnait-vie-cette-ferme-du-jura-accueille-et-reconstruit-des-animaux-victimes-de-maltraitance-3003371.html)
+append_entries: 2
+Finish: 2024-07-15 12:39:53.295928

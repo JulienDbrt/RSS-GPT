@@ -1595,3 +1595,12 @@ Existing_entries: 233
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-07-15 01:14:55.591769
+------------------------------------------------------
+Started: 2024-07-15 12:35:09.275197
+Existing_entries: 233
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Prix de l’électricité : Le gouvernement renonce à appliquer une augmentation prévue au 1er août 2024](https://www.20minutes.fr/economie/4101348-20240715-prix-electricite-gouvernement-renonce-appliquer-augmentation-prevue-1er-aout-2024)
+append_entries: 1
+Finish: 2024-07-15 12:35:13.294600

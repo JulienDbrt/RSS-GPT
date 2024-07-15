@@ -1660,3 +1660,15 @@ Existing_entries: 256
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-15 01:15:52.993341
+------------------------------------------------------
+Started: 2024-07-15 12:38:08.861363
+Existing_entries: 256
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [Électricité : le gouvernement renonce à appliquer une hausse prévue au 1er août](https://www.europe1.fr/economie/electricite-le-gouvernement-renonce-a-appliquer-une-hausse-prevue-au-1er-aout-4258338)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [Réduire la dette est un «impératif» qui s'impose à tous les partis, affirme Pierre Moscovici](https://www.europe1.fr/economie/reduire-la-dette-est-un-imperatif-qui-simpose-a-tous-les-partis-affirme-pierre-moscovici-4258324)
+append_entries: 2
+Finish: 2024-07-15 12:38:15.646947

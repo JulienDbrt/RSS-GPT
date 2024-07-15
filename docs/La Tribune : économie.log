@@ -3979,3 +3979,24 @@ Summarized using GPT-3.5-turbo
 Append: [Trump appelle l'Amérique à l'unité après la tentative d'assassinat, la campagne bouleversée](https://www.latribune.fr/economie/international/trump-appelle-l-amerique-a-l-unite-apres-la-tentative-d-assassinat-la-campagne-bouleversee-1002310.html)
 append_entries: 1
 Finish: 2024-07-15 01:16:55.896581
+------------------------------------------------------
+Started: 2024-07-15 12:42:28.773865
+Existing_entries: 1001
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Les 5 infos business à retenir ce lundi matin (Ohm Énergie, Airbus et Thalès, Etats-Unis, Chine, déficit public)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-lundi-matin-ohm-energie-airbus-et-thales-etats-unis-chine-deficit-public-1002329.html)
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [La Chine ouvre son troisième Plénum, réunion politique cruciale pour l'économie alors que la croissance ne cesse de ralentir](https://www.latribune.fr/economie/international/la-chine-ouvre-son-troisieme-plenum-reunion-politique-cruciale-pour-l-economie-alors-que-la-croissance-ne-cesse-de-ralentir-1002320.html)
+Token length: 368
+Summarized using GPT-3.5-turbo
+Append: [Déficit public: les objectifs du gouvernement Macron jugés « peu réalistes » par la Cour des comptes](https://www.latribune.fr/economie/france/deficit-public-les-objectifs-du-gouvernement-macron-juges-peu-realistes-par-la-cour-des-comptes-1002323.html)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [Etats-Unis : après la tentative d'assassinat de Donald Trump, une convention du Parti républicain sous haute tension](https://www.latribune.fr/economie/international/etats-unis-apres-la-tentative-d-assassinat-de-donald-trump-une-convention-du-parti-republicain-sous-haute-tension-1002319.html)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Airbus et Thales étudient très sérieusement un rapprochement de leurs activités spatiales](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/airbus-et-thales-etudient-tres-serieusement-un-rapprochement-de-leurs-activites-spatiales-1002299.html)
+append_entries: 5
+Finish: 2024-07-15 12:42:44.857341

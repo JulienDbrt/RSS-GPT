@@ -1697,3 +1697,15 @@ Existing_entries: 267
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-07-15 01:16:01.871607
+------------------------------------------------------
+Started: 2024-07-15 12:38:39.848324
+Existing_entries: 267
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: ["Je sais que je vais donner 60 euros pour rien..." : dans l'Essonne, ces propriétaires de deux-roues freinent au maximum avant d'aller au contrôle technique](https://www.francetvinfo.fr/economie/je-sais-que-je-vais-donner-60-euros-pour-rien-dans-l-essonne-ces-proprietaires-de-deux-roues-freinent-au-maximum-avant-d-aller-au-controle-technique_6664410.html)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : "Il y a déjà des bouchons alors que les JO n'ont pas commencé", s'inquiètent des VTC qui ne peuvent pas emprunter les voies "Paris 2024"](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-il-y-a-deja-des-bouchons-alors-que-les-jo-n-ont-pas-commence-s-inquietent-des-vtc-qui-ne-peuvent-pas-emprunter-les-voies-paris-2024_6666219.html)
+append_entries: 2
+Finish: 2024-07-15 12:38:44.442236

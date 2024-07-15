@@ -1773,3 +1773,18 @@ Existing_entries: 299
 Fetching from https://www.bfmtv.com/rss/economie/economie-social/
 append_entries: 0
 Finish: 2024-07-15 01:15:10.620936
+------------------------------------------------------
+Started: 2024-07-15 12:36:00.835298
+Existing_entries: 299
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [Croissance, recettes fiscales, impôts… Bruno Le Maire répond aux critiques de la Cour des comptes](https://www.bfmtv.com/economie/economie-social/finances-publiques/croissance-recettes-fiscales-impots-bruno-le-maire-repond-aux-critiques-de-la-cour-des-comptes_AV-202407150431.html)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: ["Le prochain gouvernement devra réduire notre endettement": Pierre Moscovici alerte sur l'état des finances publiques](https://www.bfmtv.com/economie/economie-social/finances-publiques/le-prochain-gouvernement-devra-reduire-notre-endettement-pierre-moscovici-alerte-sur-l-etat-des-finances-publiques_AV-202407150288.html)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Finances publiques: la Cour des comptes tire la sonnette d'alarme](https://www.bfmtv.com/economie/economie-social/finances-publiques/finances-publiques-la-cour-des-comptes-tire-la-sonnette-d-alarme_AD-202407150070.html)
+append_entries: 3
+Finish: 2024-07-15 12:36:08.967941

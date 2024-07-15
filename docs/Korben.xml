@@ -4,6 +4,80 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Radicle – La collaboration P2P basée sur Git</title>
+<link>https://korben.info/radicle-collaboration-p2p-revolutionnaire-git.html</link>
+<guid>https://korben.info/radicle-collaboration-p2p-revolutionnaire-git.html</guid>
+<content:encoded><![CDATA[
+<div> décentralisé collaboratif open-source Git résilient<br>
+<br>
+Summary: 
+Radicle est une plateforme de collaboration décentralisée et open source basée sur Git. Elle permet aux utilisateurs de collaborer directement en peer-to-peer, offrant ainsi une alternative libre et résiliente aux plateformes centralisées comme Github. Ses fonctionnalités avancées incluent un système d'issues et de pull requests décentralisé, ainsi qu'un chiffrement intégré pour la sécurité des données. Radicle offre une grande résilience grâce à son architecture peer-to-peer, assurant la disponibilité des dépôts même en cas de panne de certains nœuds du réseau. En tant qu'outil open source, Radicle garantit la transparence et l'auditabilité de son code, offrant ainsi aux développeurs un contrôle total sur leurs données et leurs collaborations. En pleine croissance, Radicle attire de nombreux développeurs soucieux de leur indépendance et de la pérennité de leurs projets, et des outils d'intégration pour les IDEs sont en cours de développement pour faciliter son adoption. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Logo_with_text_Radicle_decentralized_P2P_Git_app_d239c223-9e11-406c-a41d-f54b223c0d0b.webp" width="1456" /></p>
+<p>Je vais pas y aller par 4 chemins : <a href="https://radicle.xyz/" rel="noopener" target="_blank"><strong>Radicle</strong></a>, c&rsquo;est comme Github mais en version totalement décentralisée et open source. C&rsquo;est basé sur <strong>Git</strong>, le système de contrôle de version distribué par excellence, et l&rsquo;outil y ajoute une couche <strong>peer-to-peer (P2P)</strong> qui permet aux utilisateurs de collaborer directement les uns avec les autres, sans passer par un intermédiaire. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1667064565" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Comme ça, terminé la dépendance à une plateforme unique qui peut censurer ou contrôler vos dépôts de code.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158673" height="589" src="https://korben.info/app/uploads/2024/04/web-app-screenshot-1024x589.webp" width="1024" /></figure></div>
+
+
+<p>Niveau fonctionnalités, il propose des outils de collaboration avancées, comme un système d&rsquo;<strong>issues</strong> et de <strong>pull requests</strong> lui aussi entièrement décentralisé, ce qui vous permettra d&rsquo;ouvrir des tickets, proposer des modifications et discuter avec vos collaborateurs, sans jamais quitter Radicle. Puis c&rsquo;est sécurisé avec du chiffrement intégré directement dans <a href="https://radicle.xyz/guides/protocol" rel="noopener" target="_blank">le protocole Radicle</a>.</p>
+
+
+
+<p>C&rsquo;est un outil qui offre une résilience et une disponibilité accrues par rapport aux plateformes centralisées car même si certains nœuds du réseau tombent en panne, vos dépôts resteront accessibles et vos collaborations pourront se poursuivre sans interruption.</p>
+
+
+
+<p>Pour l&rsquo;installer chez vous : </p>
+
+
+
+<pre class="wp-block-code"><code>curl -sSf https://radicle.xyz/install | sh</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1045625809" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour résumer, ses points forts sont donc la :</p>
+
+
+
+<ul>
+<li><strong>Décentralisation</strong> : C&rsquo;est entièrement décentralisé, ce qui signifie que vous n&rsquo;êtes plus dépendant d&rsquo;une plateforme centralisée unique. Vous collaborez directement avec vos pairs, sans intermédiaire.</li>
+
+
+
+<li><strong>Souveraineté</strong> : Vous avez le contrôle total sur vos données et vos interactions. Vous décidez avec qui vous partagez votre code et comment vous collaborez, sans subir de règles imposées.</li>
+
+
+
+<li><strong>Résilience</strong> : Grâce à son architecture peer-to-peer, il offre une grande résilience. Même si certains nœuds tombent en panne, vos dépôts restent accessibles et vos collaborations peuvent continuer.</li>
+
+
+
+<li><strong>Ouverture</strong> : C&rsquo;est open source, ce qui signifie que son code est auditable et transparent. Vous pouvez avoir confiance dans la plateforme que vous utilisez.</li>
+</ul>
+
+
+
+<p>Bien que Radicle soit encore un projet relativement jeune, il a déjà attiré l&rsquo;attention de nombreux développeurs qui cherchent une alternative plus libre et plus résiliente aux plateformes centralisées, surtout depuis que Github a été racheté par Microsoft. Des outils d&rsquo;intégration pour les principaux IDEs et éditeurs de code sont également en cours de développement, ce qui rendra l&rsquo;adoption de Radicle encore plus facile et transparente.</p>
+
+
+
+<p>Bref, si vous êtes un développeur soucieux de votre indépendance et de la pérennité de vos projets, Radicle est certainement une plateforme à considérer. </p>
+
+
+
+<p>Rendez-vous sur <a href="https://radicle.xyz/" rel="noopener" target="_blank">https://radicle.xyz</a> pour en savoir plus.</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 15 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Snapify – Enregistrez et partagez votre écran facilement</title>

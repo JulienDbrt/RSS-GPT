@@ -3295,3 +3295,18 @@ Summarized using GPT-3.5-turbo
 Append: [Retraite : allez-vous recevoir 700 euros supplémentaires comme 1,1 million de retraités ?](https://www.aufeminin.com/debats-de-societes/retraite-allez-vous-recevoir-700-euros-supplementaires-comme-1-1-million-de-retraites-s4089819.html)
 append_entries: 1
 Finish: 2024-07-15 01:13:46.022927
+------------------------------------------------------
+Started: 2024-07-15 12:33:44.869238
+Existing_entries: 970
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [« Une centrifugeuse sociale » : en Seine-Saint-Denis, les Jeux olympiques accélèrent la gentrification](https://www.nouvelobs.com/sport/20240715.OBS91144/une-centrifugeuse-sociale-en-seine-saint-denis-les-jeux-olympiques-accelerent-la-gentrification.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Cette ville fantôme où les propriétaires lésés peinent à récupérer leur logement](https://immobilier.lefigaro.fr/article/cette-ville-fantome-ou-les-proprietaires-leses-peinent-a-recuperer-leur-logement_72b2ef42-404a-11ef-bb9a-33b8266e96e1/)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Rafraîchir les logements, oui, mais sans climatisation](https://reporterre.net/Rafraichir-les-logements-oui-mais-sans-clim)
+append_entries: 3
+Finish: 2024-07-15 12:33:58.144273
