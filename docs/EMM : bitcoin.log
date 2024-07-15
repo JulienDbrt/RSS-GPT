@@ -5486,3 +5486,30 @@ Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=adva
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/EMM : bitcoin
+------------------------------------------------------
+Started: 2024-07-15 01:13:06.911464
+Existing_entries: 1001
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [Ce sont les cryptos les plus performantes du moment](https://www.nouvelles-du-monde.com/ce-sont-les-cryptos-les-plus-performantes-du-moment/)
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [Bilan hebdo : bonne semaine à Paris, malgré les incertitudes politiques](https://www.boursier.com/indices/actualites/news/bilan-hebdo-bonne-semaine-a-paris-malgre-les-incertitudes-politiques-933730.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [Economie Bitcoin grimpe de 4 % après la tentative d’assassinat de Trump, les marchés financiers sur... Il y a quelques instants](https://www.tunisienumerique.com/bitcoin-grimpe-de-4-apres-la-tentative-dassassinat-de-trump-les-marches-financiers-sur-le-qui-vive/)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [Attentats, élections : quand les évènements font valser les marchés](https://www.lopinion.fr/economie/attentats-elections-quand-les-evenements-font-valser-les-marches)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [Présidentielle américaine 2024 : la tentative d'assassinat contre Trump renforce ses chances dans la campagne](https://www.lesechos.fr/monde/etats-unis/presidentielle-americaine-2024-la-tentative-dassassinat-contre-trump-renforce-ses-chances-dans-la-campagne-2107665)
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [Haven Rush, « Trump Trades » sur les esprits des investisseurs après la fusillade](https://www.nouvelles-du-monde.com/haven-rush-trump-trades-sur-les-esprits-des-investisseurs-apres-la-fusillade/)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: [Bitcoin, ETH : comment transmettre son portefeuille sans couac](https://www.ouest-france.fr/economie/budget/bitcoin-eth-comment-transmettre-son-portefeuille-sans-couac-b6a7c604-3f92-11ef-9243-d35e291a41fd)
+append_entries: 7
+Finish: 2024-07-15 01:13:26.093426

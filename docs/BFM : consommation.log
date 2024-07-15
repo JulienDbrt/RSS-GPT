@@ -1302,3 +1302,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Un très net recul": entre les JO et la météo, le tourisme estival tourne au ralenti](https://www.bfmtv.com/economie/consommation/un-tres-net-recul-entre-les-jo-et-la-meteo-le-tourisme-estival-tourne-au-ralenti_AV-202407140046.html)
 append_entries: 1
 Finish: 2024-07-14 12:45:52.472151
+------------------------------------------------------
+Started: 2024-07-15 01:15:15.386137
+Existing_entries: 144
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-07-15 01:15:15.458883

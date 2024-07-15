@@ -1536,3 +1536,9 @@ Summarized using GPT-3.5-turbo
 Append: [Vacances oui, mais à petit prix : ils partent cet été à moins de 50 km de chez eux !](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/vacances-oui-mais-a-petit-prix-ils-partent-cet-ete-a-moins-de-50-km-de-chez-eux-3002948.html)
 append_entries: 1
 Finish: 2024-07-14 12:47:25.537537
+------------------------------------------------------
+Started: 2024-07-15 01:16:12.988791
+Existing_entries: 222
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-15 01:16:13.118157

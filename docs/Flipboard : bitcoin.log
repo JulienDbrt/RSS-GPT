@@ -2633,3 +2633,15 @@ Summarized using GPT-3.5-turbo
 Append: [Saviez-vous que le minage de Bitcoin peut entraîner des problèmes de santé ?](https://www.santemagazine.fr/actualites/actualites-sante/saviez-vous-que-le-minage-de-bitcoin-peut-entrainer-des-problemes-de-sante-1094336)
 append_entries: 1
 Finish: 2024-07-14 12:42:49.163356
+------------------------------------------------------
+Started: 2024-07-15 01:13:26.414376
+Existing_entries: 607
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [Attentats, élections : quand les évènements font valser les marchés](https://www.lopinion.fr/economie/attentats-elections-quand-les-evenements-font-valser-les-marches)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Crypto : Trump échappe à une tentative d’assassinat et les altcoins flambent !](https://www.cointribune.com/crypto-trump-echappe-a-une-tentative-dassassinat-et-les-altcoins-flambent/)
+append_entries: 2
+Finish: 2024-07-15 01:13:33.379530

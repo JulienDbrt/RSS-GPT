@@ -4365,3 +4365,12 @@ Summarized using GPT-3.5-turbo
 Append: [Impôts, banque, salaire, impôts... Quel délai obligatoire pour conserver les documents ?](https://www.moneyvox.fr/votre-argent/actualites/98620/impots-banque-salaire-impots-quel-delai-obligatoire-pour-conserver-les-documents)
 append_entries: 5
 Finish: 2024-07-14 12:47:15.482722
+------------------------------------------------------
+Started: 2024-07-15 01:16:04.406961
+Existing_entries: 1005
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : 3 imprévus qui peuvent bloquer votre achat](https://www.moneyvox.fr/immobilier/actualites/96646/3-imprevus-qui-peuvent-bloquer-votre-achat)
+append_entries: 1
+Finish: 2024-07-15 01:16:07.578275

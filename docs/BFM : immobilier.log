@@ -1570,3 +1570,9 @@ Summarized using GPT-3.5-turbo
 Append: [CARTE. Studio étudiant: quels sont les prix dans votre ville?](https://www.bfmtv.com/immobilier/location/carte-studio-etudiant-quels-sont-les-prix-dans-votre-ville_AV-202407140047.html)
 append_entries: 1
 Finish: 2024-07-14 12:46:27.297608
+------------------------------------------------------
+Started: 2024-07-15 01:15:37.885178
+Existing_entries: 246
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-15 01:15:37.967196

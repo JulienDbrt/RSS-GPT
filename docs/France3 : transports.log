@@ -2886,3 +2886,15 @@ Summarized using GPT-3.5-turbo
 Append: [TÉMOIGNAGES. "Les couchettes, c'est assez convivial" : des voyageurs expliquent pourquoi ils prennent le train de nuit](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/temoignages-les-couchettes-c-est-assez-convivial-des-voyageurs-expliquent-pourquoi-ils-prennent-le-train-de-nuit-2983010.html)
 append_entries: 2
 Finish: 2024-07-14 12:47:37.715614
+------------------------------------------------------
+Started: 2024-07-15 01:16:15.535619
+Existing_entries: 673
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [“Deux semaines plutôt tranquilles”, “Pas besoin de réserver dans les restaurants” : la Corse serait-elle boudée par les touristes ?](https://france3-regions.francetvinfo.fr/corse/deux-semaines-plutot-tranquilles-pas-besoin-de-reserver-dans-les-restaurants-la-corse-serait-elle-boudee-par-les-touristes-3004676.html)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [Jeux olympiques de Paris 2024 : la cycliste Pauline Ferrand-Prévot apparaît dans un dessin animé partagé par l'équipe de France](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/jeux-olympiques-de-paris-2024-la-cycliste-pauline-ferrand-prevot-apparait-dans-un-dessin-anime-partage-par-l-equipe-de-france-3004505.html)
+append_entries: 2
+Finish: 2024-07-15 01:16:19.387908
