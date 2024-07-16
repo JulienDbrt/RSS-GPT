@@ -1705,3 +1705,15 @@ Summarized using GPT-3.5-turbo
 Append: [Son nom rappelle Trump, une firme tech chinoise grimpe en Bourse](https://www.20min.ch/fr/story/apres-la-tentative-d-assassinat-son-nom-rappelle-trump-une-firme-tech-chinoise-grimpe-en-bourse-103149952)
 append_entries: 3
 Finish: 2024-07-16 01:16:07.435464
+------------------------------------------------------
+Started: 2024-07-16 12:35:26.346686
+Existing_entries: 299
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [Banni, le géant de la cybersécurité quitte les États-Unis](https://www.20min.ch/fr/story/kaspersky-banni-le-geant-de-la-cybersecurite-quitte-les-etats-unis-103150462)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [La carte multicourses à oblitérer obtient un sursis](https://www.20min.ch/fr/story/suisse-la-carte-multicourses-a-obliterer-obtient-un-sursis-103150378)
+append_entries: 2
+Finish: 2024-07-16 12:36:02.147056

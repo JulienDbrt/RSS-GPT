@@ -4018,3 +4018,33 @@ Summarized using GPT-3.5-turbo
 Append: [Qui veut faire les poches du contribuable allemand ?](https://www.latribune.fr/opinions/qui-veut-faire-les-poches-du-contribuable-allemand-1002312.html)
 append_entries: 4
 Finish: 2024-07-16 01:22:08.741743
+------------------------------------------------------
+Started: 2024-07-16 12:44:09.312578
+Existing_entries: 1004
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [Roberta Metsola, maîtresse du compromis réélue à la présidence du Parlement européen](https://www.latribune.fr/economie/union-europeenne/roberta-metsola-maitresse-du-compromis-reelue-a-la-presidence-du-parlement-europeen-1002423.html)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [Premier Conseil des ministres depuis les législatives : Macron acceptera la démission de Gabriel Attal en « fin de journée »](https://www.latribune.fr/economie/france/premier-conseil-des-ministres-depuis-les-legislatives-vers-une-demission-de-gabriel-attal-1002394.html)
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [Nouvelle Assemblée nationale : les postes clés que vont devoir se partager les partis politiques](https://www.latribune.fr/economie/france/legislatives-2024/nouvelle-assemblee-nationale-les-postes-cles-que-vont-devoir-se-partager-les-partis-politiques-1002424.html)
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : le financement des jeux « les moins coûteux depuis Sydney », en cinq questions](https://www.latribune.fr/sports/jeux-olympiques/paris-2024-le-financement-des-jeux-les-moins-couteux-depuis-sydney-en-cinq-questions-1001859.html)
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [Fed : Jerome Powell ouvre enfin la voie à une baisse des taux cette année aux Etats-Unis](https://www.latribune.fr/economie/international/fed-jerome-powell-ouvre-enfin-la-voie-a-une-baisse-des-taux-cette-annee-aux-etats-unis-1002402.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [Les 5 infos business à retenir ce mardi matin (Laurence Tubiana, J.D. Vance, Elon Musk, décarbonation, IRIS²)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-mardi-matin-laurence-tubiana-j-d-vance-elon-musk-decarbonation-iris-1002395.html)
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Constellation IRIS² : Airbus et Thales veulent se retirer du consortium SpaceRISE](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/iris-airbus-et-thales-veulent-se-retirer-du-consortium-spacerise-1002315.html)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Etats-Unis : ce généreux don d'Elon Musk à Donald Trump pour soutenir sa campagne](https://www.latribune.fr/economie/international/etats-unis-ce-genereux-don-d-elon-musk-a-donald-trump-pour-soutenir-sa-campagne-1002392.html)
+append_entries: 8
+Finish: 2024-07-16 12:44:31.080012

@@ -1915,3 +1915,18 @@ Summarized using GPT-3.5-turbo
 Append: [Finances publiques : cette différence entre la France et le reste de la zone euro](https://www.lexpress.fr/economie/finances-publiques-cette-difference-entre-la-france-et-le-reste-de-la-zone-euro-Q42WO4QCMNHWFC5FTPQTRKE5UU/)
 append_entries: 1
 Finish: 2024-07-16 01:20:18.642884
+------------------------------------------------------
+Started: 2024-07-16 12:42:04.307387
+Existing_entries: 389
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4546
+Summarized using GPT-3.5-turbo
+Append: [IA, voitures électriques, renouvelables... Ces virages planétaires que la France ne doit pas rater](https://www.lexpress.fr/economie/ia-voitures-electriques-renouvelables-ces-virages-planetaires-que-la-france-ne-doit-pas-rater-X7MSVRXOTBGRZJUFGQOXGDOEL4/)
+Token length: 8222
+Summarized using GPT-3.5-turbo
+Append: [Tentative d’assassinat contre Donald Trump : Elon Musk et X, la voie du complot](https://www.lexpress.fr/economie/high-tech/tentative-dassassinat-contre-donald-trump-elon-musk-et-x-la-voie-du-complot-LD6D74JATZBQPPY66GOASHOODU/)
+Token length: 11074
+Summarized using GPT-3.5-turbo
+Append: [Le climat aura-t-il la peau de nos règles budgétaires ? Les prévisions des économistes](https://www.lexpress.fr/environnement/le-climat-aura-t-il-la-peau-de-nos-regles-budgetaires-les-previsions-des-economistes-JKDZLSDVABGBNECYMBAEF4YIZA/)
+append_entries: 3
+Finish: 2024-07-16 12:42:17.476227

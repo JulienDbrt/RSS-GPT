@@ -1500,3 +1500,12 @@ Summarized using GPT-3.5-turbo
 Append: [Visiter Paris autrement : food tour, commérages et resto abordable avec vue](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/visiter-paris-autrement-food-tour-commerages-et-resto-abordable-avec-vue-2986283.html)
 append_entries: 1
 Finish: 2024-07-16 01:19:36.582485
+------------------------------------------------------
+Started: 2024-07-16 12:40:37.167303
+Existing_entries: 204
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 484
+Summarized using GPT-3.5-turbo
+Append: [5 balades à faire à vélo en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/5-balades-a-faire-a-velo-en-ile-de-france-2988302.html)
+append_entries: 1
+Finish: 2024-07-16 12:40:39.754064

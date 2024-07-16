@@ -1865,3 +1865,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le gouvernement renonce à une hausse de l'électricité prévue au 1er août](https://www.martinique.franceantilles.fr/actualite/economie/le-gouvernement-renonce-a-une-hausse-de-lelectricite-prevue-au-1er-aout-995791.php)
 append_entries: 1
 Finish: 2024-07-16 01:18:36.414142
+------------------------------------------------------
+Started: 2024-07-16 12:39:22.805914
+Existing_entries: 339
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 49
+Summarized using GPT-3.5-turbo
+Append: [« L'Europe finance également des projets à l'échelle des petites structures »](https://www.martinique.franceantilles.fr/actualite/economie/leurope-finance-egalement-des-projets-a-lechelle-des-petites-structures-995810.php)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Tour des yoles : tendance mitigée dans les magasins](https://www.martinique.franceantilles.fr/actualite/economie/tour-des-yoles-tendance-mitigee-dans-les-magasins-995885.php)
+append_entries: 2
+Finish: 2024-07-16 12:39:28.013335

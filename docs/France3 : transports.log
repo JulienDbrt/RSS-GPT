@@ -2937,3 +2937,33 @@ Summarized using GPT-3.5-turbo
 Append: [Le trafic TGV perturbé entre Valence et Avignon à cause d'un incendie au bord des voies](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/le-trafic-tgv-perturbe-entre-valence-et-avignon-a-cause-d-un-incendie-au-bord-des-voies-3005177.html)
 append_entries: 4
 Finish: 2024-07-16 01:19:59.438570
+------------------------------------------------------
+Started: 2024-07-16 12:41:15.047728
+Existing_entries: 684
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Voiture en feu sur la route, la circulation coupée dans le sens Albi-Toulouse](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/voiture-en-feu-sur-la-route-la-circulation-coupee-dans-le-sens-albi-toulouse-3005510.html)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [Une arnaque aux faux QR codes de stationnement repérée sur les horodateurs de Nice](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/une-arnaque-aux-faux-qr-codes-de-stationnement-reperee-sur-les-horodateurs-de-nice-3005423.html)
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [SNCF. Des trains supplémentaires en fin de soirée entre Paris et la Normandie pour les JO2024](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/sncf-des-trains-supplementaires-en-fin-de-soiree-entre-paris-et-la-normandie-pour-les-jo2024-3005393.html)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [En Corse, la fréquentation des aéroports et ports en hausse par rapport à 2023](https://france3-regions.francetvinfo.fr/corse/en-corse-la-frequentation-des-aeroports-et-ports-en-hausse-par-rapport-a-2023-3005414.html)
+Token length: 336
+Summarized using GPT-3.5-turbo
+Append: ["C'est l'un des projets les plus ambitieux et les plus nécessaires" : le nouveau tunnel sur la route de l'Andorre attendu avec impatience](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/c-est-l-un-des-projets-les-plus-ambitieux-et-les-plus-necessaires-le-nouveau-tunnel-sur-la-route-de-l-andorre-attendu-avec-impatience-3005234.html)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024. À la rencontre de ces 11 jeunes qui se rendent à Paris pour les Jeux, à vélo depuis Dunkerque](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/dunkerque/paris-2024-a-la-rencontre-de-ces-11-jeunes-qui-se-rendent-a-paris-pour-les-jeux-a-velo-depuis-dunkerque-3005039.html)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [15 bateaux remplacent 1000 camions : plus écologique que le bitume, le transport fluvial trace sa route](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/15-bateaux-remplacent-1000-camions-plus-ecologique-que-le-bitume-le-transport-fluvial-trace-sa-route-3005060.html)
+Token length: 312
+Summarized using GPT-3.5-turbo
+Append: [Tour de France 2024 : Gruissan-Nîmes, parcours, horaires, circulation, tout ce qu'il faut savoir sur l'étape du 16 juillet](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/tour-de-france-2024-gruissan-nimes-parcours-horaires-circulation-tout-ce-qu-il-faut-savoir-sur-l-etape-du-16-juillet-3002852.html)
+append_entries: 8
+Finish: 2024-07-16 12:41:42.076218

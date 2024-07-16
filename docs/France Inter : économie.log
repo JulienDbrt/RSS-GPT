@@ -1697,3 +1697,18 @@ Summarized using GPT-3.5-turbo
 Append: [Dans un contexte politique tendu, le gouvernement renonce à augmenter le prix de l'électricité au 1er août](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-3225312)
 append_entries: 1
 Finish: 2024-07-16 01:19:07.532916
+------------------------------------------------------
+Started: 2024-07-16 12:39:52.575265
+Existing_entries: 263
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [L'économie selon Trump : America alone](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-mardi-16-juillet-2024-6871538)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [Un jardin collectif, productif et solidaire](https://www.radiofrance.fr/franceinter/podcasts/l-esprit-d-initiative/esprit-d-initiative-du-mardi-16-juillet-2024-3553800)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [Quels progrès pour les 50 sites industriels les plus polluants en France ?](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2741743)
+append_entries: 3
+Finish: 2024-07-16 12:40:03.195085

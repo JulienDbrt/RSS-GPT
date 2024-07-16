@@ -4,6 +4,119 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Arx – L’outil d’archivage qui surpasse Tar</title>
+<link>https://korben.info/arx-archivage-fichiers-rapide-accessible.html</link>
+<guid>https://korben.info/arx-archivage-fichiers-rapide-accessible.html</guid>
+<content:encoded><![CDATA[
+<div> rust, arx, performance, rapidité, optimisé
+<br>
+Summary:
+Arx est un nouvel outil d'archivage développé en Rust, offrant des performances optimales et une rapidité impressionnante par rapport à Tar. Grâce à son algorithme efficace, Arx peut traiter les fichiers à une vitesse fulgurante, pouvant être jusqu'à 5 692 fois plus rapide que Tar pour accéder à un fichier individuel. De plus, Arx permet un accès aléatoire direct aux fichiers archivés, facilitant ainsi la récupération rapide des données sans décompresser entièrement l'archive. Les commandes simples d'utilisation permettent de créer, mettre à jour et extraire les archives sans complications. Arx propose également des fonctionnalités pratiques telles que l'ajout de fichiers à une archive existante sans la recréer entièrement. En outre, il garantit des archives compactes sans compromettre la qualité, favorisant ainsi une utilisation efficiente des ressources et une économie d'espace de stockage. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Logo_with_text_ARX_replacement_tool_for_Linux_commande_T_68b474cd-065e-44a1-a1d8-6b5a5c27b4a3.webp" width="1456" /></p>
+<p>Vous utilisez Tar pour archiver vos fichiers et dossiers et vous trouvez ça un peu lent ? Alors ça tombe bien puisqu&rsquo;aujourd&rsquo;hui, je vous présente Arx. C&rsquo;est un outil d&rsquo;archivage nouvelle génération développé par le talentueux <a href="https://github.com/jubako" rel="noopener" target="_blank">Jubako</a>, qui va vous bluffer par ses performances et ses fonctionnalités. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-701213347" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Arx met la vitesse au cœur de son fonctionnement grâce à son algorithme hyper optimisé, ce qui lui permet de traiter vos fichiers à une vitesse fulgurante, laissant tar sur place. Par exemple, pour accéder à un fichier individuel dans une archive contenant l&rsquo;intégralité du code source de Linux, Arx est jusqu&rsquo;à 5 692 fois plus rapide que tar ! Plus l&rsquo;archive est volumineuse, plus l&rsquo;écart se creuse. </p>
+
+
+
+<p>Mais la rapidité n&rsquo;est pas le seul atout d&rsquo;Arx puisqu&rsquo;il offre également un <strong>accès aléatoire direct</strong> aux fichiers archivés. Cela permet de récupérer n&rsquo;importe quel fichier de votre archive en un clin d&rsquo;œil, sans avoir à la décompresser entièrement. C&rsquo;est moins de temps perdu à naviguer dans des archives monolithiques. Et comme le temps c&rsquo;est de l&rsquo;argent, vous serez rapidement riche ^^.</p>
+
+
+
+<p>Les commandes sont simples à capter, vous permettant de créer, mettre à jour et extraire vos archives sans avoir besoin de vous prendre la tête avec des options obscures. D&rsquo;ailleurs, Arx regorge de petites astuces qui vont vous faire gagner un temps précieux comme pouvoir ajouter des fichiers à une archive existante sans avoir à la recréer entièrement ou encore, extraire seulement les fichiers modifiés depuis le dernier archivage. </p>
+
+
+
+<p>L&rsquo;outil est également également économe en ressources puisqu&rsquo;il permet d&rsquo;obtenir des archives compactes sans compromis sur la qualité. C&rsquo;est votre disque dur qui vous remerciera et vous pourrez en stocker encore plus !!</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-383009676" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Si ça vous branche de le tester, <a href="https://github.com/jubako/arx" rel="noopener" target="_blank">c&rsquo;est dispo sur Github ici</a> ou vous pouvez l&rsquo;installer avec Cargo (oui c&rsquo;est du Rust) :</p>
+
+
+
+<pre class="wp-block-code"><code>cargo install arx</code></pre>
+
+
+
+<p>Ensuite, pour commencer à créer une archive, lancez la commande suivante :</p>
+
+
+
+<pre class="wp-block-code"><code>arx create -o mon_archive.arx -r mon_repertoire</code></pre>
+
+
+
+<p>Cela génèrera un fichier <code>mon_archive.arx</code> contenant le répertoire <code>mon_repertoire</code>.</p>
+
+
+
+<p>Pour extraire (décompresser) une archive, utilisez la commande :</p>
+
+
+
+<pre class="wp-block-code"><code>arx extract mon_archive.arx -C mon_repertoire_de_sortie</code></pre>
+
+
+
+<p>Et si vous souhaitez lister le contenu (la liste des fichiers) de l&rsquo;archive, lancez :</p>
+
+
+
+<pre class="wp-block-code"><code>arx list mon_archive.arx</code></pre>
+
+
+
+<p>Pour accéder au contenu d&rsquo;un seul fichier, vous pouvez également utiliser les commandes suivantes :</p>
+
+
+
+<pre class="wp-block-code"><code>arx dump mon_archive.arx mon_repertoire/chemin/vers/mon_fichier &gt; mon_fichier
+# ou
+arx dump mon_archive.arx mon_repertoire/chemin/vers/mon_fichier -o mon_fichier</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1487322541" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Si vous êtes sous Linux, vous avez aussi la possibilité de monter l&rsquo;archive en utilisant fuse :</p>
+
+
+
+<pre class="wp-block-code"><code>mkdir point_de_montage
+arx mount mon_archive.arx point_de_montage</code></pre>
+
+
+
+<p>Notez que <code>arx</code> sera en cours d&rsquo;exécution jusqu&rsquo;à ce que vous démontiez <code>point_de_montage</code>.</p>
+
+
+
+<p>Et pour convertir un zip en une archive arx, utilisez la commande :</p>
+
+
+
+<pre class="wp-block-code"><code>zip2arx -o mon_archive.arx mon_archive_zip.zip</code></pre>
+
+
+
+<p>De même, pour convertir une archive tar en une archive arx, lancez :</p>
+
+
+
+<pre class="wp-block-code"><code>tar2arx -o mon_archive.arx mon_archive_tar.tar.gz</code></pre>
+
+
+
+<p>Voilà, vous savez tout !</p>
+]]></content:encoded>
+<pubDate>Tue, 16 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 16 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Radicle – La collaboration P2P basée sur Git</title>

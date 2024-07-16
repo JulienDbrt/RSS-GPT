@@ -1616,3 +1616,18 @@ Summarized using GPT-3.5-turbo
 Append: [Plus d’un million de retraités vont toucher 700 euros en septembre, êtes-vous concernés ?](https://www.20minutes.fr/economie/retraite/4101408-20240715-plus-million-retraites-vont-toucher-700-euros-septembre-concernes)
 append_entries: 2
 Finish: 2024-07-16 01:16:13.322391
+------------------------------------------------------
+Started: 2024-07-16 12:36:02.274095
+Existing_entries: 236
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Alsace : Caddie, c’est fini, le fabricant de chariots de supermarché va être liquidé](https://www.20minutes.fr/economie/4101557-20240716-alsace-caddie-fini-fabricant-chariots-supermarche-va-etre-liquide)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : Ah l’air marin… Voici les trois communes les plus chères de France](https://www.20minutes.fr/economie/immobilier/4101511-20240716-immobilier-ah-air-marin-voici-trois-communes-plus-cheres-france)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : Oui, il est toujours possible d’assister aux épreuves sans se ruiner… L’exemple ici](https://www.20minutes.fr/sport/jo_2024/4101430-20240716-jo-paris-2024-oui-toujours-possible-assister-epreuves-ruiner-exemple)
+append_entries: 3
+Finish: 2024-07-16 12:36:10.178544

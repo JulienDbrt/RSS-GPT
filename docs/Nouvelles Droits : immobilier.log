@@ -13948,3 +13948,93 @@ Append: [Quel tarif s'applique en cas de recours à un huissier (à présent app
 Append: [État des lieux d'entrée dans un bail d'habitation](https://www.service-public.fr/particuliers/vosdroits/F31270)
 append_entries: 64
 error when rendering xml, skip docs/Nouvelles Droits : immobilier
+------------------------------------------------------
+Started: 2024-07-16 12:34:22.686467
+Existing_entries: 0
+Fetching from https://nouvelles.droit.org/categs/rss/33
+Token length: 537
+Summarized using GPT-3.5-turbo
+Append: [Les zones d'activités économiques : un foncier à réinventer](https://www.banquedesterritoires.fr/les-zones-dactivites-economiques-un-foncier-reinventer?pk_campaign=Flux%20RSS&pk_kwd=amenagement-et-foncier-urbanisme&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS%20Thematique)
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [LOUEUR EN MEUBLE DE TOURISME : LA TOLERANCE ADMINISTRATIVE EST-ELLE LEGALE ?](https://www.resodinfo.fr/loueur-en-meuble-de-tourisme-la-tolerance-administrative-est-elle-legale/)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Veille juridique 01 Juil 2024 Fiscalité transfrontière : France et Bénélux](https://www.cheuvreux.fr/actualites/fiscalite-transfrontiere-france-et-benelux/)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [Veille juridique 30 Juin 2024 La garantie permis de construire est-elle une solution ?](https://www.cheuvreux.fr/actualites/la-garantie-permis-de-construire-est-elle-une-solution/)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [Peut-on mettre fin au mandat en cours d'un syndic de copropriété ?](https://www.service-public.fr/particuliers/vosdroits/F31671)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [Est Ensemble : montant du loyer pour un bail d'habitation](https://www.service-public.fr/particuliers/vosdroits/F36219)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Plaine Commune : montant du loyer pour un bail d'habitation](https://www.service-public.fr/particuliers/vosdroits/F35761)
+Token length: 437
+Summarized using GPT-3.5-turbo
+Append: [Copropriété en difficulté : état de carence](https://www.service-public.fr/particuliers/vosdroits/F2667)
+Token length: 457
+Summarized using GPT-3.5-turbo
+Append: [Que faire en présence d'un terrain non entretenu (en friche ou avec gravats) ?](https://www.service-public.fr/particuliers/vosdroits/F1525)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [Procès-verbal d'assemblée générale des copropriétaires](https://www.service-public.fr/particuliers/vosdroits/F2636)
+Append: [Déroulement d'une assemblée générale des copropriétaires](https://www.service-public.fr/particuliers/vosdroits/F2619)
+Append: [Grand prix de l’urbanisme : Claire Schorter réconcilie l'humain avec l'urbain](https://www.lemoniteur.fr/article/grand-prix-de-l-urbanisme-claire-schorter-reconcilie-l-humain-avec-l-urbain.2332917)
+Append: [Montigny-lès-Metz : le quartier Lizé se joue de la conjoncture](https://www.lemoniteur.fr/article/montigny-les-metz-le-quartier-lize-se-joue-de-la-conjoncture.2332747)
+Append: [Déclaration trimestrielle du chiffre d’affaires des micro-entreprises : vous avez jusqu'au 31 juillet](https://entreprendre.service-public.fr/actualites/A17328?xtor=RSS-111)
+Append: [Entreprises en difficulté : désignation et instauration des tribunaux des activités économiques](https://entreprendre.service-public.fr/actualites/A17504?xtor=RSS-111)
+Append: [Envoyez vos courriers facilement avec le timbre numérique !](https://www.service-public.fr/particuliers/actualites/A17525?xtor=RSS-111)
+Append: [Indice de référence des loyers (IRL) : quelle hausse au 2e trimestre 2024 ?](https://www.service-public.fr/particuliers/actualites/A17342?xtor=RSS-111)
+Append: [Limites d'application de la responsabilité délictuelle pour manquement contractuel préjudiciable à un tiers](http://castonblog.blogspot.com/2024/07/limites-dapplication-de-la.html)
+Append: [Abandon ou décès du locataire d'un logement social : que devient le bail ?](https://www.service-public.fr/particuliers/vosdroits/F1170)
+Append: [Peut-on contester une décision prise en assemblée générale des copropriétaires ?](https://www.service-public.fr/particuliers/vosdroits/F35288)
+Append: [Radiation d'une demande de logement social](https://www.service-public.fr/particuliers/vosdroits/F32881)
+Append: [Peut-on accrocher librement des objets aux fenêtres, garde-corps, balcons ?](https://www.service-public.fr/particuliers/vosdroits/F31527)
+Append: [Copropriété en difficulté : intervention d'un administrateur provisoire](https://www.service-public.fr/particuliers/vosdroits/F2643)
+Append: [Diagnostic technique global (DTG) de la copropriété](https://www.service-public.fr/particuliers/vosdroits/F32059)
+Append: [Peut-on mettre en location un logement dans une zone d'habitat indigne ou dégradé ?](https://www.service-public.fr/particuliers/vosdroits/F34210)
+Append: [A Nantes, des arbres célébrés comme des œuvres d’art](https://www.lemoniteur.fr/article/a-nantes-des-arbres-celebres-comme-des-uvres-d-art.2332879)
+Append: [Logements sociaux, quartiers prioritaires, Reut... Vos textes officiels du lundi 15 juillet 2024](https://www.lemoniteur.fr/article/logements-sociaux-quartiers-prioritaires-reut-vos-textes-officiels-du-lundi-15-juillet-2024.2332887)
+Append: [Marchés privés : rappel sur la volonté non équivoque des maîtres d’ouvrage caractérisant la réception tacite](https://www.lemoniteur.fr/article/marches-prives-rappel-sur-la-volonte-non-equivoque-des-maitres-d-ouvrage-caracterisant-la-reception-tacite.2332882)
+Append: [Habitat insalubre (ou habitat indigne)](https://www.service-public.fr/particuliers/vosdroits/F16158)
+Append: [Habitat menaçant ruine (en péril)](https://www.service-public.fr/particuliers/vosdroits/F16104)
+Append: [Que risque le propriétaire d'un immeuble ou d'un logement insalubre ou menaçant ruine ?](https://www.service-public.fr/particuliers/vosdroits/F289)
+Append: [Copropriété en graves difficultés : plan de sauvegarde](https://www.service-public.fr/particuliers/vosdroits/F32088)
+Append: [Éco-prêt à taux zéro (éco-PTZ) Copropriétés](https://www.service-public.fr/particuliers/vosdroits/F38064)
+Append: [Rénovation énergétique : comment cumuler l'éco-PTZ avec MaPrimeRénov' ?](https://www.service-public.fr/particuliers/vosdroits/F36448)
+Append: [Audit énergétique en cas de vente d'un bien immobilier dit « passoire thermique »](https://www.service-public.fr/particuliers/vosdroits/F37110)
+Append: [Métropole de Bordeaux : le transitoire, stratégie pérenne](https://www.lemoniteur.fr/article/metropole-de-bordeaux-le-transitoire-strategie-perenne.2332765)
+Append: [Tarn : l'industrie et l'écologie trouvent un terrain d'entente](https://www.lemoniteur.fr/article/tarn-l-industrie-et-l-ecologie-trouvent-un-terrain-d-entente.2332763)
+Append: [Quel contrat passer avec une entreprise pour des travaux dans le logement ?](https://www.service-public.fr/particuliers/vosdroits/F2533)
+Append: [Garanties après la réception des travaux](https://www.service-public.fr/particuliers/vosdroits/F2958)
+Append: [Dispositif de sécurité des piscines privées à usage familial ou collectif](https://www.service-public.fr/particuliers/vosdroits/F1722)
+Append: [Le salaire du concierge, gardien ou employé fait-il partie des charges locatives ?](https://www.service-public.fr/particuliers/vosdroits/F2122)
+Append: [Que faire en cas d'attroupement dans son immeuble (par exemple, hall, cage d'escalier) ?](https://www.service-public.fr/particuliers/vosdroits/F13737)
+Append: [Qui peut assister aux réunions du conseil syndical d'une copropriété ?](https://www.service-public.fr/particuliers/vosdroits/F11384)
+Append: [Ravalement de façade d'un immeuble : à quelle fréquence doit-il être réalisé ?](https://www.service-public.fr/particuliers/vosdroits/F640)
+Append: [Comment se procurer la copie d'un règlement de copropriété ?](https://www.service-public.fr/particuliers/vosdroits/F2127)
+Append: [Comment connaître le prix d'un logement ou d'un terrain ?](https://www.service-public.fr/particuliers/vosdroits/F16832)
+Append: [Détecteur de fumée (Daaf) : sécurité incendie dans le logement](https://www.service-public.fr/particuliers/vosdroits/F19950)
+Append: [Sécurité incendie dans les immeubles en copropriété](https://www.service-public.fr/particuliers/vosdroits/F32573)
+Append: [Médiateur national de l'énergie : comment y recourir ?](https://www.service-public.fr/particuliers/vosdroits/F20820)
+Append: [Le contexte d’accélération de la mise en œuvre des projets industriels bouscule la démocratie environnementale](https://www.banquedesterritoires.fr/le-contexte-dacceleration-de-la-mise-en-oeuvre-des-projets-industriels-bouscule-la-democratie?pk_campaign=Flux%20RSS&pk_kwd=amenagement-et-foncier-urbanisme&pk_source=Actualit%C3%A9s%20Localtis&pk_medium=RSS%20Thematique)
+Append: [Qualification de la destination de référence d’une construction](https://www.gide-realestate.com/qualification-de-la-destination-de-reference-dune-construction/)
+Append: [Mur mitoyen](https://www.service-public.fr/particuliers/vosdroits/F2415)
+Append: [Faut-il une autorisation d'urbanisme pour faire une isolation thermique par l'extérieur (ITE) ?](https://www.service-public.fr/particuliers/vosdroits/F37924)
+Append: [Faut-il une autorisation d'urbanisme pour construire une mezzanine ou un étage supplémentaire ?](https://www.service-public.fr/particuliers/vosdroits/F37923)
+Append: [Faut-il une autorisation d'urbanisme pour diviser un terrain ?](https://www.service-public.fr/particuliers/vosdroits/F37932)
+Append: [Faut-il une autorisation d'urbanisme pour construire un balcon ?](https://www.service-public.fr/particuliers/vosdroits/F37925)
+Append: [Nantes : un nouveau Muséum ouvert sur la ville](https://www.lemoniteur.fr/article/nantes-un-nouveau-museum-ouvert-sur-la-ville.2332733)
+Append: [L’arsenal réglementaire pour faciliter l’implantation d’usines vertes entre en vigueur](https://www.lemoniteur.fr/article/l-arsenal-reglementaire-pour-faciliter-l-implantation-d-usines-vertes-entre-en-vigueur.2332849)
+Append: [Interruption médicale de grossesse : vous pouvez bénéficier d’un arrêt maladie sans jour de carence](https://www.service-public.fr/particuliers/actualites/A17503?xtor=RSS-111)
+Append: [Une boîte noire et des dispositifs de sécurité obligatoires sur les véhicules neufs vendus dans l'UE](https://www.service-public.fr/particuliers/actualites/A15659?xtor=RSS-111)
+Append: [Faut-il déneiger le trottoir situé devant son habitation ?](https://www.service-public.fr/particuliers/vosdroits/F15133)
+Append: [État des lieux de sortie pour un bail d'habitation](https://www.service-public.fr/particuliers/vosdroits/F33671)
+Append: [Quelles sont les différences entre les aides personnelles au logement (APL, ALF, ALS) ?](https://www.service-public.fr/particuliers/vosdroits/F31864)
+Append: [Comment obtenir des informations sur la qualité de l'eau du robinet ?](https://www.service-public.fr/particuliers/vosdroits/F664)
+append_entries: 64
+error when rendering xml, skip docs/Nouvelles Droits : immobilier
