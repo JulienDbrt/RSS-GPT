@@ -1452,3 +1452,9 @@ Summarized using GPT-3.5-turbo
 Append: [Y a-t-il un "effet Trump" sur le cours du bitcoin après la tentative d’assassinat de l'ex-président?](https://www.bfmtv.com/crypto/bitcoin/y-a-t-il-un-effet-trump-sur-le-cours-du-bitcoin-apres-la-tentative-d-assassinat-de-l-ex-president_AV-202407150335.html)
 append_entries: 1
 Finish: 2024-07-15 12:36:25.334382
+------------------------------------------------------
+Started: 2024-07-16 01:16:50.401981
+Existing_entries: 190
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-07-16 01:16:50.608021

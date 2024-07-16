@@ -3310,3 +3310,24 @@ Summarized using GPT-3.5-turbo
 Append: [Rafraîchir les logements, oui, mais sans climatisation](https://reporterre.net/Rafraichir-les-logements-oui-mais-sans-clim)
 append_entries: 3
 Finish: 2024-07-15 12:33:58.144273
+------------------------------------------------------
+Started: 2024-07-16 01:14:05.385656
+Existing_entries: 973
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [Cette ville près de Montréal est parmi les 10 moins chères où acheter une maison au Québec](https://www.narcity.com/fr/montreal/acheter-une-maison-au-quebec-moins-cher-ville-shawinigan)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [Cette propriété à 2,3 millions d’euros nichée sur une île bretonne a peut-être trouvé un acheteur](https://www.ouest-france.fr/economie/immobilier/cette-propriete-a-2-3-millions-deuros-nichee-sur-une-ile-bretonne-a-peut-etre-trouve-un-acheteur-fbb52f18-42b5-11ef-b753-7a8e9818b180)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Essonne : une retraitée freine un projet immobilier, on lui réclame 2,8 millions d’euros de dédommagement](https://www.leparisien.fr/essonne-91/essonne-une-retraitee-freine-un-projet-immobilier-on-lui-reclame-28-millions-deuros-de-dedommagement-15-07-2024-CFL47AC6K5DNFC4FHYQUPC67FQ.php)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Biens d’exception dans la métropole de Lille : une ferme du XVIIIe et sa piscine semi-olympique](https://www.lavoixdunord.fr/1483720/article/2024-07-15/biens-d-exception-dans-la-metropole-de-lille-une-ferme-du-xviiie-et-sa-piscine)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Boosté par la déviation à venir de la RN 88, l'immobilier a le vent en poupe à Saint-Hostien](https://www.leveil.fr/saint-hostien-43260/actualites/booste-par-la-deviation-a-venir-de-la-rn-88-l-immobilier-a-le-vent-en-poupe-a-saint-hostien_14536080/)
+append_entries: 5
+Finish: 2024-07-16 01:14:26.567308

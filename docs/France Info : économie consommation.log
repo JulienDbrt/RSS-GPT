@@ -4934,3 +4934,36 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : "Il y a déjà des bouchons alors que les JO n'ont pas commencé", s'inquiètent des VTC qui ne peuvent pas emprunter les voies "Paris 2024"](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-il-y-a-deja-des-bouchons-alors-que-les-jo-n-ont-pas-commence-s-inquietent-des-vtc-qui-ne-peuvent-pas-emprunter-les-voies-paris-2024_6666219.html)
 append_entries: 7
 Finish: 2024-07-15 12:38:37.976101
+------------------------------------------------------
+Started: 2024-07-16 01:18:37.356652
+Existing_entries: 1007
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [Arnaques : des techniques frauduleuses en pleine explosion](https://www.francetvinfo.fr/economie/fraude/arnaques-des-techniques-frauduleuses-en-pleine-explosion_6668163.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : les produits dérivés ont la cote](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-les-produits-derives-ont-la-cote_6668229.html)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Été : des cahiers de vacances pour les adultes](https://www.francetvinfo.fr/economie/tendances/ete-des-cahiers-de-vacances-pour-les-adultes_6668223.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [Le NFP en quête d'un Premier ministre, la Cour des comptes alerte sur la situation économique, Donald Trump, les voies olympiques effectives... Les informés de franceinfo du lundi 15 juillet 2024](https://www.francetvinfo.fr/replay-radio/les-informes-de-france-info/le-nfp-en-quete-d-un-premier-ministre-la-cour-des-comptes-alerte-sur-la-situation-economique-donald-trump-les-voies-olympiques-effectives-les-informes-de-franceinfo-du-lundi-15-juillet-2024_6636387.html)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [Une croissance au ralenti, une consommation en berne... En Chine, le Parti communiste organise une réunion cruciale pour l'économie du pays](https://www.francetvinfo.fr/monde/chine/une-croissance-au-ralenti-une-consommation-en-berne-en-chine-le-parti-communiste-organise-une-reunion-cruciale-pour-l-economie-du-pays_6667998.html)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Boeing annonce une commande ferme de 35 avions 737 MAX](https://www.francetvinfo.fr/economie/aeronautique/boeing-annonce-une-commande-ferme-de-35-avions-737-max_6668016.html)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : des touristes impatients commencent à affluer dans la capitale](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-des-touristes-impatients-commencent-a-affluer-dans-la-capitale_6667833.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Électricité : les tarifs ne vont finalement pas augmenter](https://www.francetvinfo.fr/economie/inflation/electricite-les-tarifs-ne-vont-finalement-pas-augmenter_6667812.html)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [T-shirts, tasses, tapis de souris... Après la tentative d'assassinat contre Donald Trump, des centaines de goodies en son honneur inondent internet](https://www.francetvinfo.fr/monde/usa/presidentielle/tentative-d-assassinat-contre-donald-trump/t-shirts-tasses-tapis-de-souris-apres-la-tentative-d-assassinat-contre-donald-trump-des-centaines-de-goodies-en-son-honneur-inondent-internet_6667563.html)
+append_entries: 9
+Finish: 2024-07-16 01:19:01.676316

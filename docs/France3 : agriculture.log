@@ -2448,3 +2448,27 @@ Summarized using GPT-3.5-turbo
 Append: ["Comme si on leur redonnait vie" : cette ferme du Jura accueille et reconstruit des animaux victimes de maltraitance](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/comme-si-on-leur-redonnait-vie-cette-ferme-du-jura-accueille-et-reconstruit-des-animaux-victimes-de-maltraitance-3003371.html)
 append_entries: 2
 Finish: 2024-07-15 12:39:43.008722
+------------------------------------------------------
+Started: 2024-07-16 01:19:36.864121
+Existing_entries: 522
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Un enfant de 12 ans et son voisin meurent dans un accident de tracteur au Pays basque](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/un-enfant-de-12-ans-et-son-voisin-meurent-dans-un-accident-de-tracteur-au-pays-basque-3005192.html)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [Agriculture : les agriculteurs tirent la sonnette d'alarme, "on va avoir des moissons de piètre qualité"](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/agriculture-recolte-en-chute-les-agriculteurs-tirent-la-sonnette-d-alarme-on-va-avoir-des-moissons-de-pietre-qualite-3005015.html)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [Fièvre catarrhale : "elles bavent et de gros aphtes les empêchent de manger", le retour de la maladie de la "langue bleue" inquiète les éleveurs](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/fievre-catarrhale-elles-bavent-et-de-gros-aphtes-les-empechent-de-manger-le-retour-de-la-maladie-de-la-langue-bleue-inquiete-les-eleveurs-3005021.html)
+Token length: 338
+Summarized using GPT-3.5-turbo
+Append: ["On a presque tout perdu en l’espace de vingt minutes" : Après l'orage dévastateur, les agriculteurs en plein désarroi](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/brive/on-a-presque-tout-perdu-en-l-espace-de-vingt-minutes-apres-l-orage-devastateur-les-agriculteurs-en-plein-desarroi-3004622.html)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: ["La pire année qu'on ait pu connaître depuis 20 ans" : la récolte de blé est nettement en baisse](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/la-pire-annee-qu-on-ait-pu-connaitre-depuis-20-ans-la-recolte-de-ble-est-nettement-en-baisse-3004925.html)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [Accident : une jeune agricultrice de 19 ans tuée dans le retournement de son tracteur](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/accident-une-jeune-agricultrice-de-19-ans-tuee-dans-le-retournement-de-son-tracteur-3004988.html)
+append_entries: 6
+Finish: 2024-07-16 01:19:49.752503

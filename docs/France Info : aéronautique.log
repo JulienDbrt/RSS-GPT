@@ -1088,3 +1088,12 @@ Existing_entries: 62
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-07-15 12:38:38.062860
+------------------------------------------------------
+Started: 2024-07-16 01:19:01.709688
+Existing_entries: 62
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [Boeing annonce une commande ferme de 35 avions 737 MAX](https://www.francetvinfo.fr/economie/aeronautique/boeing-annonce-une-commande-ferme-de-35-avions-737-max_6668016.html)
+append_entries: 1
+Finish: 2024-07-16 01:19:04.536561

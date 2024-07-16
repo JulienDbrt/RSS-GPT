@@ -1554,3 +1554,9 @@ Summarized using GPT-3.5-turbo
 Append: ["Comme si on leur redonnait vie" : cette ferme du Jura accueille et reconstruit des animaux victimes de maltraitance](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/lons-le-saunier/comme-si-on-leur-redonnait-vie-cette-ferme-du-jura-accueille-et-reconstruit-des-animaux-victimes-de-maltraitance-3003371.html)
 append_entries: 2
 Finish: 2024-07-15 12:39:53.295928
+------------------------------------------------------
+Started: 2024-07-16 01:19:49.871403
+Existing_entries: 224
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-16 01:19:50.107536

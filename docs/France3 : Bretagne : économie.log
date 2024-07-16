@@ -1290,3 +1290,9 @@ Summarized using GPT-3.5-turbo
 Append: [L'impressionnante vidéo d'un champion de wakeboard fait le buzz : "on a essayé de se démarquer"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/l-impressionnante-video-d-un-champion-de-wakeboard-sur-la-cote-bretonne-fait-le-buzz-on-a-essaye-de-se-demarquer-3004604.html)
 append_entries: 1
 Finish: 2024-07-15 12:39:56.421116
+------------------------------------------------------
+Started: 2024-07-16 01:19:50.178046
+Existing_entries: 136
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-07-16 01:19:50.407288

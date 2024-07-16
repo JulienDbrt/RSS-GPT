@@ -1412,3 +1412,9 @@ Summarized using GPT-3.5-turbo
 Append: [La SNCB annonce des changements concernant les billets de trains internationaux](https://www.lalibre.be/belgique/mobilite/2024/07/15/la-sncb-annonce-des-changements-concernant-les-billets-de-trains-internationaux-PMISSID37BGL5FDNSAQS4GJDXM/)
 append_entries: 4
 Finish: 2024-07-15 12:42:28.234321
+------------------------------------------------------
+Started: 2024-07-16 01:21:55.083530
+Existing_entries: 196
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-07-16 01:21:55.466813

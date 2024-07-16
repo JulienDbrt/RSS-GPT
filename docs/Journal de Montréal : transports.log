@@ -1446,3 +1446,12 @@ Existing_entries: 178
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-07-15 12:40:13.753631
+------------------------------------------------------
+Started: 2024-07-16 01:19:59.874617
+Existing_entries: 178
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [REM: voici tout ce qu’il faut savoir lors d’une panne](https://www.journaldemontreal.com/2024/01/24/rem-voici-tout-ce-quil-faut-savoir-lors-dune-panne)
+append_entries: 1
+Finish: 2024-07-16 01:20:01.404508

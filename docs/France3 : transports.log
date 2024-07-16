@@ -2919,3 +2919,21 @@ Summarized using GPT-3.5-turbo
 Append: [D'où vient le carrelage blanc du métro parisien ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-carrelage-blanc-du-metro-parisien-2982305.html)
 append_entries: 5
 Finish: 2024-07-15 12:40:13.052558
+------------------------------------------------------
+Started: 2024-07-16 01:19:51.475977
+Existing_entries: 680
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Accident grave sur la route départementale D12 dans les Ardennes, trois blessés dont un bébé](https://france3-regions.francetvinfo.fr/grand-est/ardennes/charleville-mezieres/accident-grave-sur-la-route-departementale-d12-dans-les-ardennes-trois-blesses-dont-un-bebe-3005201.html)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [Orages en Bourgogne : vigilance orange levée pour l'Yonne et la Nièvre, le trafic SNCF interrompu entre Nevers et Le Creusot](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/vigilance-orange-orages-la-bourgogne-de-nouveau-touchee-par-les-intemperies-parcs-et-jardins-deja-fermes-a-dijon-3005018.html)
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [Carambolage sur l'autoroute A7 en Isère : six blessés légers, d'importants embouteillages dans le sens Lyon-Marseille](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/carambolage-sur-l-autoroute-a7-en-isere-six-blesses-legers-d-importants-embouteillages-dans-le-sens-lyon-marseille-3005189.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [Le trafic TGV perturbé entre Valence et Avignon à cause d'un incendie au bord des voies](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/le-trafic-tgv-perturbe-entre-valence-et-avignon-a-cause-d-un-incendie-au-bord-des-voies-3005177.html)
+append_entries: 4
+Finish: 2024-07-16 01:19:59.438570

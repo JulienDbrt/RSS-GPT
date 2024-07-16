@@ -1604,3 +1604,15 @@ Summarized using GPT-3.5-turbo
 Append: [Prix de l’électricité : Le gouvernement renonce à appliquer une augmentation prévue au 1er août 2024](https://www.20minutes.fr/economie/4101348-20240715-prix-electricite-gouvernement-renonce-appliquer-augmentation-prevue-1er-aout-2024)
 append_entries: 1
 Finish: 2024-07-15 12:35:13.294600
+------------------------------------------------------
+Started: 2024-07-16 01:16:07.556766
+Existing_entries: 234
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [Un fournisseur d’énergie condamné à une énorme amende pour avoir abusé d’avantages à l’achat d’électricité](https://www.20minutes.fr/economie/4101403-20240715-fournisseur-energie-condamne-enorme-amende-avoir-abuse-avantages-achat-electricite)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [Plus d’un million de retraités vont toucher 700 euros en septembre, êtes-vous concernés ?](https://www.20minutes.fr/economie/retraite/4101408-20240715-plus-million-retraites-vont-toucher-700-euros-septembre-concernes)
+append_entries: 2
+Finish: 2024-07-16 01:16:13.322391
