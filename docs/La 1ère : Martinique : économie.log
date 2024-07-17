@@ -1246,3 +1246,9 @@ Summarized using GPT-3.5-turbo
 Append: [Urgence takata : près de 900 voitures Citroën, DS et Jeep toujours recherchées en Martinique](https://la1ere.francetvinfo.fr/martinique/seize-marques-de-voitures-concernees-par-un-rappel-pour-airbags-defectueux-1506380.html)
 append_entries: 2
 Finish: 2024-07-17 01:20:54.100144
+------------------------------------------------------
+Started: 2024-07-17 12:41:36.153872
+Existing_entries: 102
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-17 12:41:36.455539

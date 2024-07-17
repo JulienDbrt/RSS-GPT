@@ -1736,3 +1736,18 @@ Summarized using GPT-3.5-turbo
 Append: [Train : 100 000 Pass rail ont été vendus depuis le 1er juillet](https://www.francetvinfo.fr/economie/transports/sncf/train-100-000-pass-rail-ont-ete-vendus-depuis-le-1er-juillet_6669612.html)
 append_entries: 3
 Finish: 2024-07-17 01:18:40.487754
+------------------------------------------------------
+Started: 2024-07-17 12:39:13.964062
+Existing_entries: 272
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Vacances : Bison futé prévoit un week-end très chargé sur les routes et voit rouge samedi au niveau national dans le sens des départs](https://www.francetvinfo.fr/economie/transports/trafic/vacances-bison-fute-prevoit-un-week-end-tres-charge-sur-les-routes-et-voit-rouge-samedi-au-niveau-national-dans-le-sens-des-departs_6671340.html)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [Paris 2024 : derniers jours pour acheter ses billets de transports en commun sans majoration en Île-de-France](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-derniers-jours-pour-acheter-ses-billets-de-transports-en-commun-sans-majoration-en-ile-de-france_6671091.html)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [Les salariés d'ADP, derniers à obtenir une "prime JO"](https://www.francetvinfo.fr/replay-radio/le-brief-eco/les-salaries-d-adp-derniers-a-obtenir-une-prime-jo_6640860.html)
+append_entries: 3
+Finish: 2024-07-17 12:39:21.542059

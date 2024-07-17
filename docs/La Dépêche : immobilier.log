@@ -1237,3 +1237,12 @@ Summarized using GPT-3.5-turbo
 Append: [À Rieucros, 24 logements sociaux construits au cœur de la commune](https://www.ladepeche.fr/2024/07/16/a-rieucros-24-logements-sociaux-construits-au-coeur-de-la-commune-12085519.php)
 append_entries: 1
 Finish: 2024-07-17 01:21:35.743480
+------------------------------------------------------
+Started: 2024-07-17 12:42:26.926262
+Existing_entries: 109
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : Méditerranée, Atlantique… surface, prix, quelle station balnéaire choisir pour ses vacances ?](https://www.ladepeche.fr/2024/07/17/immobilier-mediterranee-atlantique-surface-prix-quelle-station-balneaire-choisir-pour-ses-vacances-12085577.php)
+append_entries: 1
+Finish: 2024-07-17 12:42:28.904270

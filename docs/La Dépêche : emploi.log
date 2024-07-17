@@ -1891,3 +1891,18 @@ Summarized using GPT-3.5-turbo
 Append: ["On se dirige vers une liquidation dure" : Caddie, fabricant de chariots de supermarché, va mettre fin à son activité](https://www.ladepeche.fr/2024/07/16/on-se-dirige-vers-une-liquidation-dure-caddie-fabricant-de-chariots-de-supermarche-va-mettre-fin-a-son-activite-12085670.php)
 append_entries: 1
 Finish: 2024-07-17 01:21:30.606696
+------------------------------------------------------
+Started: 2024-07-17 12:42:17.565304
+Existing_entries: 327
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [À seulement 18 ans, l’Ariégeoise Cynthia Lausse a remporté le titre de meilleur ouvrier de France en coiffure](https://www.ladepeche.fr/2024/07/17/a-seulement-18-ans-lariegeoise-cynthia-lausse-a-remporte-le-titre-de-meilleur-ouvrier-de-france-en-coiffure-12063348.php)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [Tarn-et-Garonne : la 22e France Services inaugurée à Valence-d’Agen](https://www.ladepeche.fr/2024/07/17/tarn-et-garonne-la-22e-france-services-inauguree-a-valence-dagen-12087222.php)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [Blagnac. Job dating fructueux au CFA](https://www.ladepeche.fr/2024/07/17/job-dating-fructueux-au-cfa-12086648.php)
+append_entries: 3
+Finish: 2024-07-17 12:42:26.869525

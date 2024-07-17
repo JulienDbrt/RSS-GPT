@@ -1749,3 +1749,21 @@ Summarized using GPT-3.5-turbo
 Append: [Caddie : l'entreprise du groupe valenciennois Cochez va être liquidée](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/valenciennes/caddie-l-entreprise-du-groupe-valenciennois-cochez-va-etre-liquidee-3005498.html)
 append_entries: 1
 Finish: 2024-07-17 01:19:37.018049
+------------------------------------------------------
+Started: 2024-07-17 12:40:18.276526
+Existing_entries: 283
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [Plan social chez Saunier Duval : 250 postes menacés à Nantes.](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/plan-social-chez-saunier-duval-250-postes-menaces-a-nantes-3006083.html)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: ["Imposture écologique de l'industrie lourde française" : un rapport pointe du doigt les 50 sites les plus polluants et la difficile décarbonation](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/imposture-ecologique-de-l-industrie-lourde-francaise-un-rapport-pointe-du-doigt-les-50-sites-les-plus-polluants-et-la-difficile-decarbonation-3005789.html)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [SANTÉ. Plus de créneaux de consultations chez les médecins généralistes grâce aux assistants médicaux](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/sante-plus-de-creneaux-de-consultations-chez-les-medecins-generalistes-grace-aux-assistants-medicaux-3005381.html)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [La méthode Montessori appliquée aux personnes âgées : "l'objectif, c'est de les responsabiliser pour les rendre plus acteurs de leur quotidien"](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/la-methode-montessori-appliquee-aux-personnes-agees-l-objectif-c-est-de-les-responsabiliser-pour-les-rendre-plus-acteurs-de-leur-quotidien-3005348.html)
+append_entries: 4
+Finish: 2024-07-17 12:40:31.130566

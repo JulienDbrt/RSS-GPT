@@ -4,6 +4,72 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Il a réussi à intercepter et reconstruire le gameplay de la Game Boy à partir de son bus mémoire</title>
+<link>https://korben.info/reconstruire-gameplay-game-boy-bus-memoire.html</link>
+<guid>https://korben.info/reconstruire-gameplay-game-boy-bus-memoire.html</guid>
+<content:encoded><![CDATA[
+<div> Analyse des données, Game Boy, adapter, capture vidéo, retro-ingénierie
+<br>
+<br>
+L'article présente un développeur passionné qui a réussi à reconstruire le gameplay de la Game Boy en observant les données circulant sur son bus mémoire. Grâce à la rétro-ingénierie et beaucoup de persévérance, il a créé un adaptateur, le "GB Interceptor", qui permet d'espionner les informations échangées et de recréer l'image affichée à l'écran. Cela offre la possibilité de capturer des parties de jeu sur du matériel d'origine avec une simplicité remarquable, idéal pour les amateurs de speedrun et de défis rétro. Malgré quelques limites comme l'absence d'audio et quelques glitches graphiques, cette technique promet d'être améliorée et étendue à d'autres plateformes rétro à l'avenir. En somme, cet exploit ouvre de nouvelles perspectives fascinantes pour la préservation de la console culte de Nintendo, la Game Boy.  
+<br><br>Summary: <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/gb.webp" width="1456" /></p>
+<p>Si vous pensiez tout connaître de la <strong>Game Boy</strong>, la console portable de Nintendo sortie en 1989, et bien, détrompez-vous ! Un développeur passionné vient de réaliser un exploit aussi impressionnant qu&rsquo;inattendu : <strong>Reconstruire le gameplay de la Game Boy</strong> simplement en « observant » les données circulant sur son bus mémoire. Une prouesse technique qui date de l&rsquo;année dernière (oui, je suis à la bourre ^^) qui ouvre de nouvelles perspectives fascinantes pour la préservation de cette console culte.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1155731804" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais comment diable est-ce possible ? </p>
+
+
+
+<p>La réponse tient en deux mots : <strong>rétro-ingénierie</strong> et beaucoup de persévérance. Notre génie de la bidouille a conçu un petit adaptateur qui se branche entre la console et la cartouche de jeu qui est capable d&rsquo;espionner en temps réel toutes les informations échangées sur le <strong>bus mémoire</strong> de la Game Boy.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>En analysant méticuleusement ce flux de données a priori incompréhensible, notre bricoleur de génie est parvenu à reconstituer l&rsquo;état de la mémoire de la console à chaque instant. Ensuite, il lui a « suffi » d&rsquo;émuler le processeur graphique de la Game Boy pour recréer l&rsquo;image affichée à l&rsquo;écran. Résultat bluffant : on peut rejouer au jeu comme si de rien n&rsquo;était !</p>
+
+
+
+<p>Bon, en pratique, c&rsquo;est évidemment un poil plus compliqué que ça. Il a fallu gérer de nombreux cas particuliers liés au fonctionnement interne de la Game Boy : Décoder les instructions du processeur, synchroniser le tout, gérer les fameux bugs de la console&#8230; Un vrai travail d&rsquo;orfèvre.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1569179371" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>L&rsquo;adaptateur baptisé « <strong>GB Interceptor</strong> » se branche en USB et se comporte comme une webcam, permettant d&rsquo;enregistrer ou diffuser le jeu sans aucun pilote spécifique. La capture se fait en 640&#215;576 à 60 images/seconde, le tout dans un boîtier à peine plus grand qu&rsquo;une cartouche. Bref, c&rsquo;est beau et ça marche !</p>
+
+
+
+
+
+
+
+<p>On peut donc désormais capturer des parties de jeu sur du matériel d&rsquo;origine en toute simplicité. De quoi ravir les amateurs de speedrun et autres défis rétro.</p>
+
+
+
+<p>Bien sûr, la méthode a ses limites : Pas d&rsquo;audio, quelques glitches graphiques ici et là, et une incompatibilité avec certains jeux un peu exotiques mais nul doute que la technique sera affinée et étendue à d&rsquo;autres plateformes rétro.</p>
+
+
+
+<p>Et pour conclure, je vous laisse avec cette vidéo magnifique qui n&rsquo;a rien à voir avec cette technique d&rsquo;interception mis à part qu&rsquo;elle traite du hardware de la Gameboy. Je l&rsquo;ai trouvé très cool !</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+]]></content:encoded>
+<pubDate>Wed, 17 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 17 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Arx – L’outil d’archivage qui surpasse Tar</title>

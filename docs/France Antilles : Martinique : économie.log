@@ -1892,3 +1892,15 @@ Summarized using GPT-3.5-turbo
 Append: [Derrière les sorties catas, une filière touristique qui s'adapte](https://www.martinique.franceantilles.fr/actualite/sports/derriere-les-sorties-catas-une-filiere-touristique-qui-sadapte-995863.php)
 append_entries: 3
 Finish: 2024-07-17 01:18:06.921812
+------------------------------------------------------
+Started: 2024-07-17 12:38:43.052965
+Existing_entries: 344
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [JO-2024: le périmètre de protection de la cérémonie d'ouverture déployé jeudi](https://www.martinique.franceantilles.fr/actualite/economie/jo-2024-le-perimetre-de-protection-de-la-ceremonie-douverture-deploye-jeudi-996076.php)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: ["Une chaleur bouillante": à Athènes, les touristes partiellement privés d'Acropole](https://www.martinique.franceantilles.fr/actualite/economie/une-chaleur-bouillante-a-athenes-les-touristes-partiellement-prives-dacropole-996092.php)
+append_entries: 2
+Finish: 2024-07-17 12:38:48.489085

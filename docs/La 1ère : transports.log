@@ -1603,3 +1603,15 @@ Summarized using GPT-3.5-turbo
 Append: [INFORMATIONS PRATIQUES. La route de Saint-Louis libérée, le Mary-D pour renforcer les rotations au Mont-Dore, nouvelles règles pour l'aide médicale dans le Sud](https://la1ere.francetvinfo.fr/nouvellecaledonie/informations-pratiques-la-route-de-saint-louis-liberee-le-mary-d-pour-renforcer-les-rotations-au-mont-dore-nouvelles-regles-pour-l-aide-medicale-dans-le-sud-1506476.html)
 append_entries: 1
 Finish: 2024-07-17 01:20:56.865070
+------------------------------------------------------
+Started: 2024-07-17 12:41:36.734491
+Existing_entries: 221
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 14
+Summarized using GPT-3.5-turbo
+Append: [Un pétrolier battant pavillon comorien chavire au large d'Oman](https://la1ere.francetvinfo.fr/reunion/un-petrolier-battant-pavillon-comorien-chavire-au-large-d-oman-1506554.html)
+Token length: 74
+Summarized using GPT-3.5-turbo
+Append: [Crise en Nouvelle-Calédonie : Air Calédonie va licencier un tiers de ses effectifs](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-air-caledonie-va-licencier-un-tiers-de-ses-effectifs-1506488.html)
+append_entries: 2
+Finish: 2024-07-17 12:41:42.072275

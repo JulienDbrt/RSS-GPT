@@ -1482,3 +1482,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le nouveau colistier de Donald Trump jugé plutôt favorable aux cryptos](https://www.bfmtv.com/crypto/le-nouveau-colistier-de-donald-trump-juge-plutot-favorable-aux-cryptos_AV-202407160671.html)
 append_entries: 1
 Finish: 2024-07-17 01:16:26.631073
+------------------------------------------------------
+Started: 2024-07-17 12:36:44.409091
+Existing_entries: 194
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-07-17 12:36:44.846198

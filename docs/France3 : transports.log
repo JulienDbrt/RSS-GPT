@@ -2988,3 +2988,18 @@ Summarized using GPT-3.5-turbo
 Append: [VIDEO. Catalogne : spectaculaire accident de car sur une autoroute vers Barcelone, il y a plus de 40 blessés dont 3 dans un état critique](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/video-catalogne-spectaculaire-accident-de-car-sur-une-autoroute-vers-barcelone-il-y-a-plus-de-40-blesses-dont-3-dans-un-etat-critique-3005543.html)
 append_entries: 5
 Finish: 2024-07-17 01:19:57.171295
+------------------------------------------------------
+Started: 2024-07-17 12:40:31.821522
+Existing_entries: 697
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [Acte de vandalisme sur des câbles SNCF : des centaines d'usagers affectés entre Rouen, Le Havre et Paris](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/acte-de-vandalisme-sur-des-cables-sncf-des-centaines-d-usagers-affectes-entre-rouen-le-havre-et-paris-3005909.html)
+Token length: 276
+Summarized using GPT-3.5-turbo
+Append: [Votez pour élire l’affiche officielle du Tour de France 2025 au départ de Lille](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/lille/votez-pour-elire-l-affiche-officielle-du-tour-de-france-2025-au-depart-de-lille-3005729.html)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [Les escalattors du métro parisien sont-ils tout le temps en panne ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-escalattors-du-metro-parisien-sont-ils-tout-le-temps-en-panne-2982317.html)
+append_entries: 3
+Finish: 2024-07-17 12:40:42.129334
