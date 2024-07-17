@@ -2967,3 +2967,24 @@ Summarized using GPT-3.5-turbo
 Append: [Tour de France 2024 : Gruissan-Nîmes, parcours, horaires, circulation, tout ce qu'il faut savoir sur l'étape du 16 juillet](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/tour-de-france-2024-gruissan-nimes-parcours-horaires-circulation-tout-ce-qu-il-faut-savoir-sur-l-etape-du-16-juillet-3002852.html)
 append_entries: 8
 Finish: 2024-07-16 12:41:42.076218
+------------------------------------------------------
+Started: 2024-07-17 01:19:37.690242
+Existing_entries: 692
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Accident : un bus heurte un piéton, gravement blessé](https://france3-regions.francetvinfo.fr/grand-est/ardennes/charleville-mezieres/accident-un-bus-heurte-un-pieton-gravement-blesse-3005759.html)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [Train jaune : un atelier de maintenance pour prendre soin du symbole des Pyrénées catalanes inscrit au patrimoine de l'Unesco](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/train-jaune-un-atelier-de-maintenance-pour-prendre-soin-du-symbole-des-pyrenees-catalanes-inscrit-au-patrimoine-de-l-unesco-3005654.html)
+Token length: 412
+Summarized using GPT-3.5-turbo
+Append: ["Le service n’est plus là" Quatre maires en colère se mobilisent contre les horaires de la Poste](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/le-service-n-est-plus-la-quatre-maires-en-colere-se-mobilisent-contre-les-horaires-de-la-poste-3005564.html)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. JO de Paris 2024 : l’interdiction de naviguer sur la Seine en préparation des JO perturbe la culture céréalière de la région](https://france3-regions.francetvinfo.fr/paris-ile-de-france/video-jo-de-paris-2024-l-interdiction-de-naviguer-sur-la-seine-en-preparation-des-jo-perturbe-la-culture-cerealiere-de-la-region-3005615.html)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. Catalogne : spectaculaire accident de car sur une autoroute vers Barcelone, il y a plus de 40 blessés dont 3 dans un état critique](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/video-catalogne-spectaculaire-accident-de-car-sur-une-autoroute-vers-barcelone-il-y-a-plus-de-40-blesses-dont-3-dans-un-etat-critique-3005543.html)
+append_entries: 5
+Finish: 2024-07-17 01:19:57.171295

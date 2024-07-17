@@ -1712,3 +1712,9 @@ Summarized using GPT-3.5-turbo
 Append: [Quels progrès pour les 50 sites industriels les plus polluants en France ?](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2741743)
 append_entries: 3
 Finish: 2024-07-16 12:40:03.195085
+------------------------------------------------------
+Started: 2024-07-17 01:18:40.626165
+Existing_entries: 266
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+append_entries: 0
+Finish: 2024-07-17 01:18:41.029159

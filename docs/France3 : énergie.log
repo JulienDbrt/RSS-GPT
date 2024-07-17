@@ -1230,3 +1230,15 @@ Existing_entries: 112
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-07-16 12:40:37.054006
+------------------------------------------------------
+Started: 2024-07-17 01:19:10.277315
+Existing_entries: 112
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [INFOGRAPHIES. La production d'électricité renouvelable dépasse pour la première fois les 30% en 2023 dans les Hauts-de-France](https://france3-regions.francetvinfo.fr/hauts-de-france/infographies-la-production-d-electricite-renouvelable-depasse-pour-la-premiere-fois-les-30-en-2023-dans-les-hauts-de-france-3005561.html)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [EDF Corse demande à ses usagers de réguler leur consommation électrique : "une situation inacceptable" pour Core in Fronte](https://france3-regions.francetvinfo.fr/corse/edf-corse-demande-a-ses-usagers-de-reguler-leur-consommation-electrique-une-situation-inacceptable-pour-core-in-fronte-3005585.html)
+append_entries: 2
+Finish: 2024-07-17 01:19:14.540828

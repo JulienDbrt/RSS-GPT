@@ -4,13 +4,14 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Arx – L’outil d’archivage qui surpasse Tar</title>
 <link>https://korben.info/arx-archivage-fichiers-rapide-accessible.html</link>
 <guid>https://korben.info/arx-archivage-fichiers-rapide-accessible.html</guid>
 <content:encoded><![CDATA[
 <div> rust, arx, performance, rapidité, optimisé
-<br>
+<br />
 Summary:
 Arx est un nouvel outil d'archivage développé en Rust, offrant des performances optimales et une rapidité impressionnante par rapport à Tar. Grâce à son algorithme efficace, Arx peut traiter les fichiers à une vitesse fulgurante, pouvant être jusqu'à 5 692 fois plus rapide que Tar pour accéder à un fichier individuel. De plus, Arx permet un accès aléatoire direct aux fichiers archivés, facilitant ainsi la récupération rapide des données sans décompresser entièrement l'archive. Les commandes simples d'utilisation permettent de créer, mettre à jour et extraire les archives sans complications. Arx propose également des fonctionnalités pratiques telles que l'ajout de fichiers à une archive existante sans la recréer entièrement. En outre, il garantit des archives compactes sans compromettre la qualité, favorisant ainsi une utilisation efficiente des ressources et une économie d'espace de stockage. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Logo_with_text_ARX_replacement_tool_for_Linux_commande_T_68b474cd-065e-44a1-a1d8-6b5a5c27b4a3.webp" width="1456" /></p>
@@ -115,9 +116,7 @@ arx mount mon_archive.arx point_de_montage</code></pre>
 <p>Voilà, vous savez tout !</p>
 ]]></content:encoded>
 <pubDate>Tue, 16 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 16 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Radicle – La collaboration P2P basée sur Git</title>
 <link>https://korben.info/radicle-collaboration-p2p-revolutionnaire-git.html</link>

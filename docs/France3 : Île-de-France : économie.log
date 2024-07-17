@@ -1509,3 +1509,12 @@ Summarized using GPT-3.5-turbo
 Append: [5 balades à faire à vélo en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/5-balades-a-faire-a-velo-en-ile-de-france-2988302.html)
 append_entries: 1
 Finish: 2024-07-16 12:40:39.754064
+------------------------------------------------------
+Started: 2024-07-17 01:19:14.648747
+Existing_entries: 205
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [VIDEO. JO de Paris 2024 : l’interdiction de naviguer sur la Seine en préparation des JO perturbe la culture céréalière de la région](https://france3-regions.francetvinfo.fr/paris-ile-de-france/video-jo-de-paris-2024-l-interdiction-de-naviguer-sur-la-seine-en-preparation-des-jo-perturbe-la-culture-cerealiere-de-la-region-3005615.html)
+append_entries: 1
+Finish: 2024-07-17 01:19:16.353124

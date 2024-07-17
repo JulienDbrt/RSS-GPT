@@ -1234,3 +1234,15 @@ Existing_entries: 100
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-07-16 12:42:45.865924
+------------------------------------------------------
+Started: 2024-07-17 01:20:45.004909
+Existing_entries: 100
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 43
+Summarized using GPT-3.5-turbo
+Append: [Le Tour de Martinique en yoles n'est pas encore une bonne affaire pour les commerçants](https://la1ere.francetvinfo.fr/martinique/le-tour-de-martinique-en-yoles-n-est-pas-encore-une-bonne-affaire-pour-les-commercants-1506398.html)
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: [Urgence takata : près de 900 voitures Citroën, DS et Jeep toujours recherchées en Martinique](https://la1ere.francetvinfo.fr/martinique/seize-marques-de-voitures-concernees-par-un-rappel-pour-airbags-defectueux-1506380.html)
+append_entries: 2
+Finish: 2024-07-17 01:20:54.100144

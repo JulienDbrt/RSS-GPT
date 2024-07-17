@@ -1693,3 +1693,15 @@ Summarized using GPT-3.5-turbo
 Append: [Le fabricant de chariots de supermarché Caddie va être liquidé](https://www.europe1.fr/economie/le-fabricant-de-chariots-de-supermarche-caddie-va-etre-liquide-4258520)
 append_entries: 2
 Finish: 2024-07-16 12:39:22.629632
+------------------------------------------------------
+Started: 2024-07-17 01:17:54.509955
+Existing_entries: 261
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Tarifs d’électricité : une hausse de la facture est-elle inévitable ?](https://www.europe1.fr/economie/tarifs-delectricite-une-hausse-de-la-facture-est-elle-inevitable-4258549)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [Immobilier : les Belges, premiers acheteurs étrangers de résidences secondaires en France](https://www.europe1.fr/economie/immobilier-les-belges-premiers-acheteurs-etrangers-de-residences-secondaires-en-france-4258541)
+append_entries: 2
+Finish: 2024-07-17 01:17:57.664768
