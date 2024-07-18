@@ -1954,3 +1954,15 @@ Existing_entries: 394
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-18 01:20:00.737180
+------------------------------------------------------
+Started: 2024-07-18 12:42:50.515365
+Existing_entries: 394
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4369
+Summarized using GPT-3.5-turbo
+Append: [Semaine de six jours : la France ferait bien de s'inspirer de la Grèce](https://www.lexpress.fr/economie/politique-economique/semaine-de-six-jours-la-france-ferait-bien-de-sinspirer-de-la-grece-FWDPZZE2XBGIJDC5PRVBQPXAEU/)
+Token length: 6420
+Summarized using GPT-3.5-turbo
+Append: [Indexer les salaires sur l’inflation : pourquoi le NFP fait fausse route](https://www.lexpress.fr/economie/indexer-les-salaires-sur-linflation-pourquoi-le-nfp-fait-fausse-route-EOQSTW5VFJE2ZFFMTKISK2UU3U/)
+append_entries: 2
+Finish: 2024-07-18 12:42:58.529210

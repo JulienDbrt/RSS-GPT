@@ -1509,3 +1509,15 @@ Summarized using GPT-3.5-turbo
 Append: [Automobile - Economie. Le marché de l'occasion reprend du poil de la bête !](https://www.lalsace.fr/magazine-automobile/2024/07/17/le-marche-de-l-occasion-reprend-du-poil-de-la-bete)
 append_entries: 1
 Finish: 2024-07-18 01:19:51.488153
+------------------------------------------------------
+Started: 2024-07-18 12:42:33.856076
+Existing_entries: 192
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [Automobile - Économie. L’Audi Q8 e-tron se vend peu, la marque veut restructurer son usine](https://www.lalsace.fr/magazine-automobile/2024/07/18/l-audi-q8-e-tron-se-vend-peu-la-marque-veut-restructurer-son-usine)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [Essai Auto. Honda CR-V : le grand SUV devient hybride rechargeable](https://www.lalsace.fr/magazine-automobile/2024/07/18/honda-cr-v-le-grand-suv-devient-hybride-rechargeable)
+append_entries: 2
+Finish: 2024-07-18 12:42:41.020064

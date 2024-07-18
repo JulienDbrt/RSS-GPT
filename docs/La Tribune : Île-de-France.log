@@ -1051,3 +1051,15 @@ Existing_entries: 33
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-07-18 01:21:50.953074
+------------------------------------------------------
+Started: 2024-07-18 12:45:03.134351
+Existing_entries: 33
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Hydrogène : l’usine Normand’Hy d’Air Liquide alimentera les taxis parisiens](https://www.latribune.fr/climat/energie-environnement/hydrogene-l-usine-normand-hy-d-air-liquide-alimentera-les-taxis-parisiens-1002524.html)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [Jeux olympiques de Paris 2024 : les saisonniers ont-ils déserté les régions au profit de la capitale ?](https://www.latribune.fr/sports/jeux-olympiques/jeux-olympiques-de-paris-2024-les-saisonniers-ont-ils-deserte-les-regions-au-profit-de-la-capitale-1002338.html)
+append_entries: 2
+Finish: 2024-07-18 12:45:15.924449

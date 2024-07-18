@@ -1779,3 +1779,18 @@ Summarized using GPT-3.5-turbo
 Append: ["On vole un savoir-faire français" : ces salariés crient au scandale après le possible rachat d'une filiale de leur entreprise](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/on-vole-un-savoir-faire-francais-ces-salaries-crient-au-scandale-apres-le-possible-rachat-d-une-filiale-de-leur-entreprise-3005966.html)
 append_entries: 2
 Finish: 2024-07-18 01:19:14.791403
+------------------------------------------------------
+Started: 2024-07-18 12:41:56.143849
+Existing_entries: 289
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [Le fabricant de meubles Gautier placé en redressement judiciaire en Vendée](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/le-fabricant-de-meubles-gautier-place-en-redressement-judiciaire-en-vendee-3006518.html)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [Duralex : le tribunal de commerce d’Orléans renvoie au 26 juillet sa décision sur un éventuel repreneur](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/duralex-le-tribunal-de-commerce-d-orleans-renvoie-au-26-juillet-sa-decision-sur-un-eventuel-repreneur-3005903.html)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [La branche avions d'Airbus en zone de turbulences : un plan de réduction des coûts annoncé, les salariés dans le flou](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/la-branche-avions-d-airbus-en-zone-de-turbulences-un-plan-de-reduction-des-couts-annonce-les-salaries-dans-le-flou-3005666.html)
+append_entries: 3
+Finish: 2024-07-18 12:42:08.042966

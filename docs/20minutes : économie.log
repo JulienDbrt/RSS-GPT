@@ -1655,3 +1655,9 @@ Summarized using GPT-3.5-turbo
 Append: [Deux marques de luxe épinglées par une enquête liée aux conditions de travail en Italie](https://www.20minutes.fr/tempo/4101810-20240717-deux-marques-luxe-epinglees-enquete-liee-conditions-travail-italie)
 append_entries: 1
 Finish: 2024-07-18 01:14:41.818893
+------------------------------------------------------
+Started: 2024-07-18 12:37:14.489979
+Existing_entries: 241
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-07-18 12:37:15.120156
