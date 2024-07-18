@@ -3003,3 +3003,27 @@ Summarized using GPT-3.5-turbo
 Append: [Les escalattors du métro parisien sont-ils tout le temps en panne ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-escalattors-du-metro-parisien-sont-ils-tout-le-temps-en-panne-2982317.html)
 append_entries: 3
 Finish: 2024-07-17 12:40:42.129334
+------------------------------------------------------
+Started: 2024-07-18 01:19:15.515225
+Existing_entries: 700
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [Un nouveau train touristique va relier Nice et Milan pendant la saison estivale](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/un-nouveau-train-touristique-va-relier-nice-et-milan-pendant-la-saison-estivale-3006074.html)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : quelles sont les stations de métro fermées à partir du jeudi 18 juillet ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-quelles-sont-les-stations-de-metro-fermees-a-partir-du-jeudi-18-juillet-3005921.html)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [La seconde vie d'une station-service abandonnée sur l'ancienne route des vacances, la Nationale 10](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/la-seconde-vie-d-une-station-service-abandonnee-sur-l-ancienne-route-des-vacances-la-nationale-10-2981450.html)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Trafic routier : Bison Futé prévoit un samedi rouge dans le sens des départs en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/trafic-routier-bison-fute-prevoit-un-samedi-rouge-dans-le-sens-des-departs-en-ile-de-france-3006260.html)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: ["On vole un savoir-faire français" : ces salariés crient au scandale après le possible rachat d'une filiale de leur entreprise](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/on-vole-un-savoir-faire-francais-ces-salaries-crient-au-scandale-apres-le-possible-rachat-d-une-filiale-de-leur-entreprise-3005966.html)
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [Lyon-Turin : près de 765 millions d'euros supplémentaires alloués au chantier ferroviaire par l'Union européenne](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/lyon-turin-pres-de-765-millions-d-euros-supplementaires-alloues-au-chantier-ferroviaire-par-l-union-europeenne-3006176.html)
+append_entries: 6
+Finish: 2024-07-18 01:19:39.008089

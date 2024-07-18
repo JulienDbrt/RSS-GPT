@@ -1738,3 +1738,9 @@ Summarized using GPT-3.5-turbo
 Append: [Cette entreprise suisse fournit la jet-set en sous-vêtements](https://www.20min.ch/fr/story/tessin-cette-entreprise-suisse-fournit-la-jet-set-en-sous-vetements-103141341)
 append_entries: 1
 Finish: 2024-07-17 12:35:27.864007
+------------------------------------------------------
+Started: 2024-07-18 01:14:37.204987
+Existing_entries: 304
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-07-18 01:14:37.668952

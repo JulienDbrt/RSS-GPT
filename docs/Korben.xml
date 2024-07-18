@@ -4,16 +4,17 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Il a réussi à intercepter et reconstruire le gameplay de la Game Boy à partir de son bus mémoire</title>
 <link>https://korben.info/reconstruire-gameplay-game-boy-bus-memoire.html</link>
 <guid>https://korben.info/reconstruire-gameplay-game-boy-bus-memoire.html</guid>
 <content:encoded><![CDATA[
 <div> Analyse des données, Game Boy, adapter, capture vidéo, retro-ingénierie
-<br>
-<br>
+<br />
+<br />
 L'article présente un développeur passionné qui a réussi à reconstruire le gameplay de la Game Boy en observant les données circulant sur son bus mémoire. Grâce à la rétro-ingénierie et beaucoup de persévérance, il a créé un adaptateur, le "GB Interceptor", qui permet d'espionner les informations échangées et de recréer l'image affichée à l'écran. Cela offre la possibilité de capturer des parties de jeu sur du matériel d'origine avec une simplicité remarquable, idéal pour les amateurs de speedrun et de défis rétro. Malgré quelques limites comme l'absence d'audio et quelques glitches graphiques, cette technique promet d'être améliorée et étendue à d'autres plateformes rétro à l'avenir. En somme, cet exploit ouvre de nouvelles perspectives fascinantes pour la préservation de la console culte de Nintendo, la Game Boy.  
-<br><br>Summary: <div>
+<br /><br />Summary: <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/gb.webp" width="1456" /></p>
 <p>Si vous pensiez tout connaître de la <strong>Game Boy</strong>, la console portable de Nintendo sortie en 1989, et bien, détrompez-vous ! Un développeur passionné vient de réaliser un exploit aussi impressionnant qu&rsquo;inattendu : <strong>Reconstruire le gameplay de la Game Boy</strong> simplement en « observant » les données circulant sur son bus mémoire. Une prouesse technique qui date de l&rsquo;année dernière (oui, je suis à la bourre ^^) qui ouvre de nouvelles perspectives fascinantes pour la préservation de cette console culte.</p>
 
@@ -68,9 +69,7 @@ L'article présente un développeur passionné qui a réussi à reconstruire le 
 </div></figure>
 ]]></content:encoded>
 <pubDate>Wed, 17 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 17 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Arx – L’outil d’archivage qui surpasse Tar</title>
 <link>https://korben.info/arx-archivage-fichiers-rapide-accessible.html</link>

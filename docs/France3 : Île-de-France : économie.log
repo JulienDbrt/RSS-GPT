@@ -1527,3 +1527,18 @@ Summarized using GPT-3.5-turbo
 Append: [Envie de prendre de la hauteur ? Découvrez 5 points de vue insolites en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/envie-de-prendre-de-la-hauteur-decouvrez-5-points-de-vue-insolites-en-ile-de-france-2997407.html)
 append_entries: 1
 Finish: 2024-07-17 12:39:56.007228
+------------------------------------------------------
+Started: 2024-07-18 01:18:41.529102
+Existing_entries: 207
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : encore 1,2 million de billets à vendre](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-encore-1-2-million-de-billets-a-vendre-3006254.html)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [JO de Paris 2024 : quelles sont les stations de métro fermées à partir du jeudi 18 juillet ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-quelles-sont-les-stations-de-metro-fermees-a-partir-du-jeudi-18-juillet-3005921.html)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [Trafic routier : Bison Futé prévoit un samedi rouge dans le sens des départs en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/trafic-routier-bison-fute-prevoit-un-samedi-rouge-dans-le-sens-des-departs-en-ile-de-france-3006260.html)
+append_entries: 3
+Finish: 2024-07-18 01:18:48.495471

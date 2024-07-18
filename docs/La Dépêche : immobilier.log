@@ -1246,3 +1246,9 @@ Summarized using GPT-3.5-turbo
 Append: [Immobilier : Méditerranée, Atlantique… surface, prix, quelle station balnéaire choisir pour ses vacances ?](https://www.ladepeche.fr/2024/07/17/immobilier-mediterranee-atlantique-surface-prix-quelle-station-balneaire-choisir-pour-ses-vacances-12085577.php)
 append_entries: 1
 Finish: 2024-07-17 12:42:28.904270
+------------------------------------------------------
+Started: 2024-07-18 01:21:17.297389
+Existing_entries: 110
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-07-18 01:21:17.968767

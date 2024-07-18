@@ -1751,3 +1751,12 @@ Summarized using GPT-3.5-turbo
 Append: [Les salariés d'ADP, derniers à obtenir une "prime JO"](https://www.francetvinfo.fr/replay-radio/le-brief-eco/les-salaries-d-adp-derniers-a-obtenir-une-prime-jo_6640860.html)
 append_entries: 3
 Finish: 2024-07-17 12:39:21.542059
+------------------------------------------------------
+Started: 2024-07-18 01:18:13.956755
+Existing_entries: 275
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [L'Union européenne alloue près de 765 millions supplémentaires au chantier du Lyon-Turin](https://www.francetvinfo.fr/economie/transports/l-union-europeenne-alloue-pres-de-765-millions-supplementaires-au-chantier-du-lyon-turin_6671772.html)
+append_entries: 1
+Finish: 2024-07-18 01:18:16.614724

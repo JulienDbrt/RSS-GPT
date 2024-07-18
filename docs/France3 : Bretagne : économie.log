@@ -1314,3 +1314,12 @@ Existing_entries: 136
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-17 12:40:18.123951
+------------------------------------------------------
+Started: 2024-07-18 01:19:05.254720
+Existing_entries: 136
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: ["Un énorme gachis"', les salariés de l'abattoir AIM fixés sur leur sort le 19 juillet](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/un-enorme-gachis-les-salaries-de-l-abattoir-aim-fixes-sur-leur-sort-le-19-juillet-3006092.html)
+append_entries: 1
+Finish: 2024-07-18 01:19:08.528726

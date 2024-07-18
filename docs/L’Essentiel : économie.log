@@ -1756,3 +1756,15 @@ Summarized using GPT-3.5-turbo
 Append: [Au Luxembourg: «Maintenant, même si on habite au Kirchberg, on peut être inondé»](https://www.lessentiel.lu/fr/story/au-luxembourg-on-peut-etre-inonde-en-habitant-n-importe-ou-maintenant-103150558)
 append_entries: 1
 Finish: 2024-07-17 12:40:53.537884
+------------------------------------------------------
+Started: 2024-07-18 01:19:52.508411
+Existing_entries: 330
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [Au Luxembourg: Les impôts vont encore baisser, combien vais-je y gagner?](https://www.lessentiel.lu/fr/story/au-luxembourg-les-impots-vont-encore-baisser-combien-vais-je-y-gagner-103151067)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Italie: Armani et Dior visés par une enquête liée aux conditions de travail de leurs sous-traitants](https://www.lessentiel.lu/fr/story/italie-armani-et-dior-vises-par-une-enquete-liee-aux-conditions-de-travail-de-leurs-sous-traitants-103151056)
+append_entries: 2
+Finish: 2024-07-18 01:19:58.327514
