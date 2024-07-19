@@ -2792,3 +2792,18 @@ Summarized using GPT-3.5-turbo
 Append: [Bitcoin : pourquoi une menace plane sur les cryptomonnaies - Be-Crypto](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/bitcoin-pourquoi-une-menace-plane-sur-les-cryptomonnaies)
 append_entries: 2
 Finish: 2024-07-19 01:11:48.367105
+------------------------------------------------------
+Started: 2024-07-19 12:31:30.675047
+Existing_entries: 650
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Les clients européens de Stripe peuvent désormais acheter des cryptos via leur carte - Be-Crypto](https://be-crypto.lesoir.be/fr/marches/les-clients-europeens-de-stripe-peuvent-desormais-acheter-des-cryptos-via-leur-carte)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Crypto : les ETF Ethereum commercialisés dès la semaine prochaine aux Etats-Unis ?](https://www.capital.fr/crypto/crypto-les-etf-ethereum-commercialises-des-la-semaine-prochaine-aux-etats-unis-1497030)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Incroyable mais vrai: le Bitcoin consommerait plus d'électricité que la Belgique](https://www.parismatch.be/actualites/economie/2024/07/10/incroyable-mais-vrai-le-bitcoin-consommerait-plus-delectricite-que-la-belgique-RPLHBHQP2FDRTNNWVEST6FFB2A/)
+append_entries: 3
+Finish: 2024-07-19 12:31:46.580887

@@ -1512,3 +1512,9 @@ Summarized using GPT-3.5-turbo
 Append: [Deux fois plus de passagers aériens dans 20 ans, prévoient les compagnies](https://www.journaldemontreal.com/2024/07/18/deux-fois-plus-de-passagers-aeriens-dans-20-ans-prevoient-les-compagnies)
 append_entries: 1
 Finish: 2024-07-19 01:18:27.062226
+------------------------------------------------------
+Started: 2024-07-19 12:44:04.857279
+Existing_entries: 186
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-19 12:44:04.973726

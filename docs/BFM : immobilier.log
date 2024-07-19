@@ -1666,3 +1666,15 @@ Summarized using GPT-3.5-turbo
 Append: [Panneaux solaires: 65 % des personnes interrogées estiment que leur installation est rentable](https://www.bfmtv.com/immobilier/renovation-travaux/panneaux-solaires-65-des-personnes-interrogees-estiment-que-leur-installation-est-rentable_AV-202407180560.html)
 append_entries: 2
 Finish: 2024-07-19 01:16:14.748934
+------------------------------------------------------
+Started: 2024-07-19 12:39:24.398140
+Existing_entries: 260
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 611
+Summarized using GPT-4o-mini
+Append: [Mon Accompagnateur Rénov' : qui est concerné ?](https://www.bfmtv.com/immobilier/renovation-travaux/mon-accompagnateur-renov-qui-est-concerne_AB-202407190329.html)
+Token length: 183
+Summarized using GPT-4o-mini
+Append: [Toulouse: information judiciaire ouverte pour une vaste escroquerie dans l'immobilier](https://www.bfmtv.com/immobilier/achat-vente/toulouse-information-judiciaire-ouverte-pour-une-vaste-escroquerie-dans-l-immobilier_AD-202407190316.html)
+append_entries: 2
+Finish: 2024-07-19 12:39:31.978760

@@ -1375,3 +1375,9 @@ Summarized using GPT-3.5-turbo
 Append: [Le combat des circulaires - Du 18 au 24 juillet 2024](https://www.journaldemontreal.com/2024/07/18/le-combat-des-circulaires---du-18-au-24-juillet-2024)
 append_entries: 2
 Finish: 2024-07-19 01:18:24.465252
+------------------------------------------------------
+Started: 2024-07-19 12:44:04.386813
+Existing_entries: 139
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-07-19 12:44:04.757701

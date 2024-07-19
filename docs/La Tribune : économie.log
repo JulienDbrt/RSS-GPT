@@ -4147,3 +4147,21 @@ Summarized using GPT-3.5-turbo
 Append: [La BCE laisse ses taux inchangés mais n'exclut aucune option pour septembre](https://www.latribune.fr/economie/union-europeenne/la-bce-temporise-et-maintient-ses-taux-inchanges-1002559.html)
 append_entries: 3
 Finish: 2024-07-19 01:20:20.246013
+------------------------------------------------------
+Started: 2024-07-19 12:47:25.580140
+Existing_entries: 1003
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Les 5 infos business à retenir ce vendredi matin (Meta, JO PME, Trump, charbon, Nouvelle-Calédonie)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-vendredi-matin-meta-jo-pme-trump-charbon-nouvelle-caledonie-1002617.html)
+Token length: 247
+Summarized using GPT-4o-mini
+Append: [Emeutes en Nouvelle-Calédonie : l'Etat prolonge et réhausse les aides en faveur des entreprises](https://www.latribune.fr/economie/france/emeutes-en-nouvelle-caledonie-l-etat-prolonge-et-rehausse-les-aides-en-faveur-des-entreprises-1002614.html)
+Token length: 360
+Summarized using GPT-4o-mini
+Append: [Etats-Unis : investi par le Parti républicain, Trump promet à ses partisans « une victoire incroyable »](https://www.latribune.fr/economie/international/etats-unis-investi-par-le-parti-republicain-trump-promet-a-ses-partisans-une-victoire-incroyable-1002611.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: [Pas de data, pas d'IA : Meta punit les utilisateurs européens en accusant le régulateur](https://www.latribune.fr/technos-medias/internet/pas-de-data-pas-d-ia-meta-punit-les-utilisateurs-europeens-en-accusant-le-regulateur-1002603.html)
+append_entries: 4
+Finish: 2024-07-19 12:47:48.361793

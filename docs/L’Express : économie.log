@@ -1975,3 +1975,18 @@ Summarized using GPT-3.5-turbo
 Append: [Semaine de quatre jours, IA... Pourquoi ça ne prend pas dans les TPE françaises](https://www.lexpress.fr/economie/emploi/management/semaine-de-quatre-jours-ia-pourquoi-ca-ne-prend-pas-dans-les-tpe-francaises-YULNVZC6ZJBZFAMZK2FJG7WLCA/)
 append_entries: 1
 Finish: 2024-07-19 01:18:40.362034
+------------------------------------------------------
+Started: 2024-07-19 12:44:27.864023
+Existing_entries: 397
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4846
+Summarized using GPT-4o-mini
+Append: [Meta : pourquoi le géant américain repousse la sortie de sa prochaine IA dans l’UE](https://www.lexpress.fr/economie/high-tech/meta-pourquoi-le-geant-americain-repousse-la-sortie-de-sa-prochaine-ia-dans-lue-PR24C7QFJ5FCVHDBHWKJAL5ZP4/)
+Token length: 4959
+Summarized using GPT-4o-mini
+Append: [Avions, trains, JO... Une panne géante de Microsoft paralyse de nombreux secteurs dans le monde](https://www.lexpress.fr/economie/high-tech/microsoft-une-panne-geante-affecte-de-nombreux-secteurs-a-travers-le-monde-7SRD6LTYRBCFPJCFJMZ7QHWCFE/)
+Token length: 8151
+Summarized using GPT-4o-mini
+Append: [Valérie Pécresse : "Après les JO, les Franciliens verront qu'on a amélioré leur quotidien"](https://www.lexpress.fr/economie/valerie-pecresse-apres-les-jo-les-franciliens-verront-quon-a-ameliore-leur-quotidien-BK4TK2YGCZGNBEWNK7ZEQPTUUY/)
+append_entries: 3
+Finish: 2024-07-19 12:44:49.346364

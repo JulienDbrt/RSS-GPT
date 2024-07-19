@@ -2586,3 +2586,25 @@ Summarized using GPT-3.5-turbo
 Append: [Pluies qui datent et gros coup de chaud : premier niveau d'alerte sécheresse activé et des usages de l'eau limités](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/pluies-qui-datent-et-gros-coup-de-chaud-premier-niveau-d-alerte-secheresse-active-et-des-usages-de-l-eau-limites-3006740.html)
 append_entries: 3
 Finish: 2024-07-19 01:18:07.826489
+------------------------------------------------------
+Started: 2024-07-19 12:43:00.068731
+Existing_entries: 554
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 333
+Summarized using GPT-4o-mini
+Append: [DIRECT. Mobilisation contre les "mégabassines" : les manifestants arrivent au lieu-dit Le Pré Sec de Migné-Auxances](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/manifestation-contre-les-megabassines-a-saint-sauvant-des-agriculteurs-rencontrent-le-maire-de-melle-3006932.html)
+Token length: 296
+Summarized using GPT-4o-mini
+Append: ["Une méthode douce qui respecte l'environnement" 
+Saint Philibert : un cheval pour ramasser les algues vertes](https://france3-regions.francetvinfo.fr/bretagne/morbihan/une-methode-douce-qui-respecte-l-environnement-saint-philibert-un-cheval-pour-ramasser-les-algues-vertes-3006947.html)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: [Sécheresse : le débit de petits cours d'eau montre des signes de faiblesse, les premières restrictions se multiplient](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/secheresse-le-debit-de-petits-cours-d-eau-montre-des-signes-de-faiblesse-les-premieres-restrictions-se-multiplient-3007025.html)
+Token length: 455
+Summarized using GPT-4o-mini
+Append: [Grâce à une cagnotte en ligne, un éleveur de l'Avesnois devrait pouvoir sauver son logement, il reste mobilisé pour son exploitation](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/grace-a-une-cagnotte-en-ligne-un-eleveur-de-l-avesnois-devrait-pouvoir-sauver-son-logement-il-reste-mobilise-pour-son-exploitation-3006584.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: ["Ce sera au mieux une saison moyenne". Récolte de sel : sale temps pour les sauniers](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/ile-d-yeu/ce-sera-au-mieux-une-saison-moyenne-recolte-de-sel-sale-temps-pour-les-sauniers-3006794.html)
+append_entries: 5
+Finish: 2024-07-19 12:43:23.010761

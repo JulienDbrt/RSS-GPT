@@ -1803,3 +1803,12 @@ Summarized using GPT-3.5-turbo
 Append: [REPORTAGE. Déserts médicaux : A Saint-Ouen-L’Aumône, le nombre de médecins généralistes a doublé grâce aux maisons de santé](https://france3-regions.francetvinfo.fr/paris-ile-de-france/reportage-deserts-medicaux-a-saint-ouen-l-aumone-le-nombre-de-medecins-generalistes-a-double-grace-aux-maisons-de-sante-3006464.html)
 append_entries: 1
 Finish: 2024-07-19 01:18:11.525021
+------------------------------------------------------
+Started: 2024-07-19 12:43:24.134891
+Existing_entries: 293
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 245
+Summarized using GPT-4o-mini
+Append: ["J'ai l'impression que c'est un peu du racket." obligation d'adhérer à l'Ordre des infirmiers, colère de la profession](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/j-ai-l-impression-que-c-est-un-peu-du-racket-obligation-d-adherer-a-l-ordre-des-infirmiers-colere-de-la-profession-3002333.html)
+append_entries: 1
+Finish: 2024-07-19 12:43:29.448475

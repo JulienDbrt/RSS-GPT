@@ -3504,3 +3504,21 @@ Append: [Le portefeuille immobilier de Francis Ford Coppola, des îles privées 
 Append: [La morosité de l'immobilier de bureau s'accentue à Nantes](https://agence-api.ouest-france.fr/article/la-morosite-de-limmobilier-de-bureau-saccentue-a-nantes)
 append_entries: 17
 Finish: 2024-07-19 01:12:57.186908
+------------------------------------------------------
+Started: 2024-07-19 12:33:05.446595
+Existing_entries: 1017
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Immobilier : où peut-on acheter pour moins de 250.000 euros en Belgique ? (cartes interactives)](https://www.lesoir.be/610578/article/2024-07-19/immobilier-ou-peut-acheter-pour-moins-de-250000-euros-en-belgique-cartes)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Scandale dans l'immobilier toulousain : le gérant d'un cabinet de gestion et sa famille mis en examen pour une escroquerie estimée à 25 millions d'euros](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/scandale-dans-l-immobilier-toulousain-le-gerant-d-un-cabinet-de-gestion-et-sa-famille-mis-en-examen-pour-une-escroquerie-estimee-a-25-millions-d-euros-3006902.html)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Gagner 5% de plus sur sa retraite grâce à cette simple déclaration en ligne, voici comment faire](https://www.pleinevie.fr/retraite-travail/retraite-ma-retraite-facile/gagner-5-de-plus-sur-sa-retraite-grace-a-cette-simple-declaration-en-ligne-voici-comment-faire-125873.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [A vendre : un appartement avec vue sur la tour Eiffel](https://www.challenges.fr/immobilier/a-vendre-un-appartement-avec-vue-sur-la-tour-eiffel_899767)
+append_entries: 4
+Finish: 2024-07-19 12:33:24.086443

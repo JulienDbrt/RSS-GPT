@@ -1346,3 +1346,12 @@ Summarized using GPT-3.5-turbo
 Append: [Prudente au sujet de l’inflation, la BCE s’offre une pause estivale](https://www.euractiv.fr/section/economie/news/prudente-au-sujet-de-linflation-la-bce-soffre-une-pause-estivale/)
 append_entries: 1
 Finish: 2024-07-19 01:17:02.513907
+------------------------------------------------------
+Started: 2024-07-19 12:40:28.086731
+Existing_entries: 154
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 278
+Summarized using GPT-4o-mini
+Append: [La querelle du PPE avec les libéraux allemands s’intensifie après le vote contre Ursula von der Leyen](https://www.euractiv.fr/section/commission-europeenne/news/la-querelle-du-ppe-avec-les-liberaux-allemands-sintensifie-apres-le-vote-contre-ursula-von-der-leyen/)
+append_entries: 1
+Finish: 2024-07-19 12:40:32.087455

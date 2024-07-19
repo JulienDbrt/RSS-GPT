@@ -1530,3 +1530,15 @@ Summarized using GPT-3.5-turbo
 Append: [Nouveautés auto. Audi dévoile ses monstrueux RS Q8 et RS Q8 Performance !](https://www.lalsace.fr/magazine-automobile/2024/07/18/audi-devoile-ses-monstrueux-rs-q8-et-rs-q8-performance)
 append_entries: 1
 Finish: 2024-07-19 01:18:31.258634
+------------------------------------------------------
+Started: 2024-07-19 12:44:07.145696
+Existing_entries: 195
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 449
+Summarized using GPT-4o-mini
+Append: [Nouveauté. Avec la Ford Capri, le constructeur américain nous refait le coup de la Mustang Mach-E](https://www.lalsace.fr/magazine-automobile/2024/07/19/avec-la-ford-capri-le-constructeur-americain-nous-refait-le-coup-de-la-mustang-mach-e)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [Pratique auto. Auvergne-Rhône-Alpes : les voitures-radars privées arrivent dans la région](https://www.lalsace.fr/magazine-automobile/2024/07/19/auvergne-rhone-alpes-les-voitures-radars-privees-arrivent-dans-la-region)
+append_entries: 2
+Finish: 2024-07-19 12:44:17.910612

@@ -1670,3 +1670,21 @@ Summarized using GPT-3.5-turbo
 Append: [Vacances d’été 2024 : E.Leclerc relance son opération essence « à prix coûtant » cet été](https://www.20minutes.fr/economie/4102062-20240718-vacances-2024-e-leclerc-relance-operation-essence-prix-coutant)
 append_entries: 1
 Finish: 2024-07-19 01:14:50.924401
+------------------------------------------------------
+Started: 2024-07-19 12:36:08.489505
+Existing_entries: 242
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 179
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : Commerçants et restaurateurs alertent sur une baisse de fréquentation « sans précédent »](https://www.20minutes.fr/economie/4102190-20240719-jo-paris-2024-commercants-restaurateurs-alertent-baisse-frequentation-precedent)
+Token length: 91
+Summarized using GPT-4o-mini
+Append: [Vendée : Poussés dehors par une délocalisation, ces salariés doivent former leurs « successeurs » roumains](https://www.20minutes.fr/economie/4102153-20240719-vendee-pousses-dehors-delocalisation-salaries-doivent-former-successeurs-roumains)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Canicule, aléas météo… A quelle indemnisation un salarié du BTP peut-il prétendre ?](https://www.20minutes.fr/vie-pro/4101297-20240719-canicule-aleas-meteo-indemnisation-salarie-btp-peut-pretendre)
+Token length: 174
+Summarized using GPT-4o-mini
+Append: [JO Paris 2024 : La mini-tour Eiffel est-elle vraiment LA boss des souvenirs ?](https://www.20minutes.fr/societe/4097186-20240719-jo-paris-2024-mini-tour-eiffel-vraiment-boss-souvenirs)
+append_entries: 4
+Finish: 2024-07-19 12:36:27.906530

@@ -3553,3 +3553,30 @@ Summarized using GPT-3.5-turbo
 Append: [La chambre d’agriculture demande l’effacement de sa dette pour éviter les licenciements](https://la1ere.francetvinfo.fr/reunion/la-chambre-d-agriculture-demande-l-effacement-de-sa-dette-pour-eviter-les-licenciements-1506875.html)
 append_entries: 9
 Finish: 2024-07-19 01:19:08.278435
+------------------------------------------------------
+Started: 2024-07-19 12:44:50.191971
+Existing_entries: 863
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [Panne mondiale : FranceTV n'est pas impacté](https://la1ere.francetvinfo.fr/mayotte/une-panne-informatique-mondiale-paralyse-des-entreprises-partout-dans-le-monde-1507085.html)
+Token length: 14
+Summarized using GPT-4o-mini
+Append: [Madagascar : Tamatave a été privé d'électricité plus de 24 heures](https://la1ere.francetvinfo.fr/reunion/madagascar-tamatave-a-ete-prive-d-electricite-plus-de-24-heures-1507067.html)
+Token length: 52
+Summarized using GPT-4o-mini
+Append: [Les syndicats du SDIS de La Réunion s’inquiètent de la "capacité opérationnelle" des pompiers](https://la1ere.francetvinfo.fr/reunion/les-syndicats-du-sdis-de-la-reunion-s-inquietent-de-la-capacite-operationnelle-des-pompiers-1507073.html)
+Token length: 14
+Summarized using GPT-4o-mini
+Append: [Maurice : une nouvelle hausse des prix inévitable](https://la1ere.francetvinfo.fr/reunion/maurice-une-nouvelle-hausse-des-prix-inevitable-1507052.html)
+Token length: 76
+Summarized using GPT-4o-mini
+Append: [Crise en Nouvelle-Calédonie : l’Etat renforce ses aides d'urgence aux entreprises](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-l-etat-renforce-ses-aides-d-urgence-aux-entreprises-1507004.html)
+Token length: 18
+Summarized using GPT-4o-mini
+Append: [Enercal toujours sous perfusion](https://la1ere.francetvinfo.fr/nouvellecaledonie/enercal-toujours-sous-perfusion-1507022.html)
+Token length: 9
+Summarized using GPT-4o-mini
+Append: [Punaruu : le pont de nouveau fermé du 19 au 22 juillet](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/punaruu-le-pont-de-nouveau-ferme-du-19-au-22-juillet-1507007.html)
+append_entries: 7
+Finish: 2024-07-19 12:45:11.036979

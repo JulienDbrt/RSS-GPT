@@ -3054,3 +3054,27 @@ Summarized using GPT-3.5-turbo
 Append: ["Le train donnerait des chances supplémentaires à notre territoire de revivre", la bataille du rail de la Ferté-Gaucher](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-et-marne/le-train-donnerait-des-chances-supplementaires-a-notre-territoire-de-revivre-la-bataille-du-rail-de-la-ferte-gaucher-3006578.html)
 append_entries: 1
 Finish: 2024-07-19 01:18:19.210112
+------------------------------------------------------
+Started: 2024-07-19 12:43:36.792867
+Existing_entries: 711
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 166
+Summarized using GPT-4o-mini
+Append: [Panne informatique mondiale, impact à l'aéroport de Nantes](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/panne-informatique-mondiale-impact-a-l-aeroport-de-nantes-3007091.html)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : les cyclistes et les piétons en colère après l'activation du périmètre de sécurité autour de la Seine](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-cyclistes-et-les-pietons-en-colere-apres-l-activation-du-perimetre-de-securite-autour-de-la-seine-3006953.html)
+Token length: 293
+Summarized using GPT-4o-mini
+Append: [Drogue. Trois ans de prison pour le chauffeur polonais transportant 55 kilos de cocaïne au milieu de sa cargaison de fruits](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/drogue-trois-ans-de-prison-pour-le-chauffeur-polonais-transportant-55-kilos-de-cocaine-au-milieu-de-sa-cargaison-de-fruits-3006998.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Salarié dans un fast-food, il crée une application pour suivre les bus en temps réel : "chez moi, il n'y en a que toutes les heures"](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/salarie-dans-un-fast-food-il-cree-une-application-pour-suivre-les-bus-en-temps-reel-chez-moi-il-n-y-en-a-que-toutes-les-heures-3006701.html)
+Token length: 88
+Summarized using GPT-4o-mini
+Append: [Pourquoi les métros roulent-ils à droite et les RER à gauche ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/pourquoi-les-metros-roulent-ils-a-droite-et-les-rer-a-gauche-2982332.html)
+Token length: 110
+Summarized using GPT-4o-mini
+Append: [Les six conseils pour éviter de ramener des punaises de lit chez vous en rentrant de vacances](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/les-six-conseils-pour-eviter-de-ramener-des-punaises-de-lit-chez-vous-en-rentrant-de-vacances-2986661.html)
+append_entries: 6
+Finish: 2024-07-19 12:44:04.313112
