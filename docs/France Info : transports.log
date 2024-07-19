@@ -1769,3 +1769,9 @@ Summarized using GPT-3.5-turbo
 Append: [Paris 2024 : la mairie de Paris a déposé un recours en urgence auprès du Conseil d'État contre les taxis volants](https://www.francetvinfo.fr/economie/transports/paris-2024-la-mairie-de-paris-a-depose-un-recours-en-urgence-aupres-du-conseil-d-etat-contre-les-taxis-volants_6672975.html)
 append_entries: 1
 Finish: 2024-07-18 12:41:11.383293
+------------------------------------------------------
+Started: 2024-07-19 01:17:29.720022
+Existing_entries: 277
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-07-19 01:17:29.913243

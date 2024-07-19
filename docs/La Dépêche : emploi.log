@@ -1927,3 +1927,9 @@ Summarized using GPT-3.5-turbo
 Append: [Albi. L’application Club affaires du SCA prête début septembre](https://www.ladepeche.fr/2024/07/18/lapplication-club-affaires-du-sca-prete-debut-septembre-12088820.php)
 append_entries: 2
 Finish: 2024-07-18 12:44:00.531940
+------------------------------------------------------
+Started: 2024-07-19 01:19:47.610935
+Existing_entries: 333
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-07-19 01:19:48.109128

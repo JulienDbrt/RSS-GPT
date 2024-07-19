@@ -4132,3 +4132,18 @@ Summarized using GPT-3.5-turbo
 Append: [Europe : Opération séduction de Paris et Rome en faveur du SAMP/T (défense sol-air)](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/europe-operation-seduction-de-paris-et-rome-en-faveur-du-samp-t-defense-sol-air-1002486.html)
 append_entries: 7
 Finish: 2024-07-18 12:45:03.114377
+------------------------------------------------------
+Started: 2024-07-19 01:20:13.245227
+Existing_entries: 1007
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 463
+Summarized using GPT-3.5-turbo
+Append: [Budget : Bruno Le Maire dévoile ses dernières pistes d'économies](https://www.latribune.fr/economie/france/budget-bruno-le-maire-devoile-ses-dernieres-pistes-d-economies-1002514.html)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [Malgré l'essoufflement économique en Chine, la réunion au sommet du Parti communiste ne donne « rien de nouveau »](https://www.latribune.fr/economie/international/malgre-l-essoufflement-economique-en-chine-la-reunion-au-sommet-du-parti-communiste-ne-donne-rien-de-nouveau-1002577.html)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [La BCE laisse ses taux inchangés mais n'exclut aucune option pour septembre](https://www.latribune.fr/economie/union-europeenne/la-bce-temporise-et-maintient-ses-taux-inchanges-1002559.html)
+append_entries: 3
+Finish: 2024-07-19 01:20:20.246013

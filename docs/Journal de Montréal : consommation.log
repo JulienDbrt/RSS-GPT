@@ -1363,3 +1363,15 @@ Existing_entries: 137
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-07-18 12:42:25.299686
+------------------------------------------------------
+Started: 2024-07-19 01:18:19.280457
+Existing_entries: 137
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 61
+Summarized using GPT-3.5-turbo
+Append: [C’est la saison des... bleuets!](https://www.journaldemontreal.com/2024/07/18/cest-la-saison-des-bleuets)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [Le combat des circulaires - Du 18 au 24 juillet 2024](https://www.journaldemontreal.com/2024/07/18/le-combat-des-circulaires---du-18-au-24-juillet-2024)
+append_entries: 2
+Finish: 2024-07-19 01:18:24.465252

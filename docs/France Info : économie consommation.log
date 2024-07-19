@@ -5107,3 +5107,27 @@ Summarized using GPT-3.5-turbo
 Append: [Quand le cours de l'or atteint des records](https://www.francetvinfo.fr/replay-radio/le-brief-eco/quand-le-cours-de-l-or-atteint-des-records_6642591.html)
 append_entries: 3
 Finish: 2024-07-18 12:41:08.247281
+------------------------------------------------------
+Started: 2024-07-19 01:17:13.188927
+Existing_entries: 1003
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [La fortune des 500 Français les plus riches dépasse 1 200 milliards d'euros pour la première fois](https://www.francetvinfo.fr/economie/la-fortune-des-500-francais-les-plus-riches-depasse-1-200-milliards-d-euros-pour-la-premiere-fois_6673869.html)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [Inondations dans le Pas-de-Calais : l’État propose aux sinistrés de racheter leurs maisons](https://www.francetvinfo.fr/france/hauts-de-france/pas-de-calais/inondations-dans-le-pas-de-calais-l-etat-propose-aux-sinistres-de-racheter-leurs-maisons_6673872.html)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [Emploi : le nombre de ruptures conventionnelles en hausse](https://www.francetvinfo.fr/economie/emploi/emploi-le-nombre-de-ruptures-conventionnelles-en-hausse_6673857.html)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [Vente de voitures neuves : la part des véhicules électriques en baisse en Europe, la France résiste grâce au leasing social](https://www.francetvinfo.fr/economie/automobile/vente-de-voitures-neuves-la-part-des-vehicules-electriques-en-baisse-en-europe-la-france-resiste-grace-au-leasing-social_6673605.html)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [Tourisme : en Andorre, un pont suspendu offre un passage vertigineux](https://www.francetvinfo.fr/economie/tourisme/tourisme-en-andorre-un-pont-suspendu-offre-un-passage-vertigineux_6673539.html)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [Vendée : l'enseigne Les Meubles Gautier placée en redressement judiciaire](https://www.francetvinfo.fr/economie/vendee-l-enseigne-les-meubles-gautier-placee-en-redressement-judiciaire_6673518.html)
+append_entries: 6
+Finish: 2024-07-19 01:17:25.397999

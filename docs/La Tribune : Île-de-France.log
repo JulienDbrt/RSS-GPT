@@ -1063,3 +1063,9 @@ Summarized using GPT-3.5-turbo
 Append: [Jeux olympiques de Paris 2024 : les saisonniers ont-ils déserté les régions au profit de la capitale ?](https://www.latribune.fr/sports/jeux-olympiques/jeux-olympiques-de-paris-2024-les-saisonniers-ont-ils-deserte-les-regions-au-profit-de-la-capitale-1002338.html)
 append_entries: 2
 Finish: 2024-07-18 12:45:15.924449
+------------------------------------------------------
+Started: 2024-07-19 01:20:20.267304
+Existing_entries: 35
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+append_entries: 0
+Finish: 2024-07-19 01:20:20.638989

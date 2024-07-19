@@ -2571,3 +2571,18 @@ Summarized using GPT-3.5-turbo
 Append: ["On n'est pas dans une société d'égalité des chances" : depuis 2017 les Français s'appauvrissent](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/on-n-est-pas-dans-une-societe-d-egalite-des-chances-depuis-2017-les-francais-s-appauvrissent-3004562.html)
 append_entries: 4
 Finish: 2024-07-18 12:41:52.800959
+------------------------------------------------------
+Started: 2024-07-19 01:18:00.124882
+Existing_entries: 551
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [Affaire Alexandre Allegret-Pilot : le nouveau député du Gard suspecté de tentative d'escroquerie ? Bercy ouvre une enquête interne](https://france3-regions.francetvinfo.fr/occitanie/gard/ales/affaire-alexandre-allegret-pilot-le-nouveau-depute-du-gard-suspecte-de-tentative-d-escroquerie-bercy-ouvre-une-enquete-interne-3006782.html)
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [Village de l'eau à Melle : une guerre de la communication entre les organisateurs, l'État et les agriculteurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/village-de-l-eau-a-melle-une-guerre-de-la-communication-entre-les-organisateurs-l-etat-et-les-agriculteurs-3006440.html)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [Pluies qui datent et gros coup de chaud : premier niveau d'alerte sécheresse activé et des usages de l'eau limités](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/pluies-qui-datent-et-gros-coup-de-chaud-premier-niveau-d-alerte-secheresse-active-et-des-usages-de-l-eau-limites-3006740.html)
+append_entries: 3
+Finish: 2024-07-19 01:18:07.826489

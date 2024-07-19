@@ -1636,3 +1636,24 @@ Summarized using GPT-3.5-turbo
 Append: [La marine indienne a secouru 9 des 16 marins du pétrolier disparu, battant pavillon comorien](https://la1ere.francetvinfo.fr/reunion/la-marine-indienne-a-secouru-9-des-16-marins-du-petrolier-battent-pavillon-comorien-1506797.html)
 append_entries: 1
 Finish: 2024-07-18 12:43:12.446365
+------------------------------------------------------
+Started: 2024-07-19 01:19:09.137836
+Existing_entries: 226
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 12
+Summarized using GPT-3.5-turbo
+Append: [Bus gratuit à Tahiti pendant les JO !](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/bus-gratuit-a-tahiti-pendant-les-jo-1506971.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [INFORMATIONS PRATIQUES. Ni navettes maritimes ni "Betico" ce vendredi, l'école Griscelli de Nouméa reprend lundi](https://la1ere.francetvinfo.fr/nouvellecaledonie/informations-pratiques-pour-raison-meteo-pas-de-navettes-maritimes-au-mont-dore-ni-a-noumea-ce-vendredi-1506968.html)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [Suspendu pendant quatre mois, le réseau Tanéo sera revu à la baisse à sa reprise](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/grand-noumea/suspendu-pendant-quatre-mois-le-reseau-taneo-sera-revu-a-la-baisse-a-sa-reprise-1506803.html)
+Token length: 40
+Summarized using GPT-3.5-turbo
+Append: [Un nouveau navire pour L'Express des Îles](https://la1ere.francetvinfo.fr/guadeloupe/un-nouveau-navire-pour-l-express-des-iles-1506917.html)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [Mobilité des étudiants : ruée vers l’antenne locale de LADOM en Guadeloupe](https://la1ere.francetvinfo.fr/guadeloupe/mobilite-des-etudiants-ruee-vers-l-antenne-locale-de-ladom-en-guadeloupe-1506914.html)
+append_entries: 5
+Finish: 2024-07-19 01:19:22.643563

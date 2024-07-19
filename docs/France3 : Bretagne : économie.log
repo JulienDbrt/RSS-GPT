@@ -1332,3 +1332,9 @@ Summarized using GPT-3.5-turbo
 Append: [Qualité des eaux de baignade. Onze plages des Côtes-d'Armor et du Finistère pointées du doigt par l'Agence régionale de santé](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/qualite-des-eaux-de-baignade-onze-plages-des-cotes-d-armor-et-du-finistere-pointees-du-doigt-par-l-agence-regionale-de-sante-3006608.html)
 append_entries: 1
 Finish: 2024-07-18 12:41:55.991349
+------------------------------------------------------
+Started: 2024-07-19 01:18:08.260114
+Existing_entries: 138
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-07-19 01:18:08.500020

@@ -1548,3 +1548,12 @@ Existing_entries: 210
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-07-18 12:41:40.147646
+------------------------------------------------------
+Started: 2024-07-19 01:17:55.924855
+Existing_entries: 210
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: ["Le train donnerait des chances supplémentaires à notre territoire de revivre", la bataille du rail de la Ferté-Gaucher](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-et-marne/le-train-donnerait-des-chances-supplementaires-a-notre-territoire-de-revivre-la-bataille-du-rail-de-la-ferte-gaucher-3006578.html)
+append_entries: 1
+Finish: 2024-07-19 01:17:59.834115

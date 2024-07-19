@@ -1260,3 +1260,12 @@ Existing_entries: 114
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-07-18 12:41:39.856463
+------------------------------------------------------
+Started: 2024-07-19 01:17:53.222824
+Existing_entries: 114
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [Incendie au premier étage d'une maison équipée de panneaux photovoltaïques, un jeune homme blessé a été évacué à l'hôpital de Béziers](https://france3-regions.francetvinfo.fr/occitanie/herault/pezenas/en-cours-incendie-au-1er-etage-d-une-maison-un-jeune-homme-blesse-les-pompiers-sont-sur-place-3006767.html)
+append_entries: 1
+Finish: 2024-07-19 01:17:55.816778
