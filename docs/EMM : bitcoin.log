@@ -5953,3 +5953,9 @@ Summarized using GPT-4o-mini
 Append: [La panne informatique mondiale perturbe les bourses mondiales](https://www.allnews.ch/content/march%C3%A9s/la-panne-informatique-mondiale-perturbe-les-bourses-mondiales)
 append_entries: 9
 Finish: 2024-07-20 01:10:20.203378
+------------------------------------------------------
+Started: 2024-07-20 12:29:01.234535
+Existing_entries: 1009
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+append_entries: 0
+Finish: 2024-07-20 12:29:03.059912

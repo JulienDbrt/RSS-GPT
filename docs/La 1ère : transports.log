@@ -1681,3 +1681,21 @@ Summarized using GPT-4o-mini
 Append: [AIR FRANCE. L'annulation de plusieurs vols et l'absence de communication laisse des passagers en plan](https://la1ere.francetvinfo.fr/guadeloupe/air-france-l-annulation-de-plusieurs-vols-et-l-absence-de-communication-laisse-des-passagers-en-plan-1507190.html)
 append_entries: 2
 Finish: 2024-07-20 01:17:50.621760
+------------------------------------------------------
+Started: 2024-07-20 12:40:41.787693
+Existing_entries: 235
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 67
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Une base aérienne très engagée dans la crise calédonienne](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/paita/video-une-base-aerienne-tres-engagee-dans-la-crise-caledonienne-1507286.html)
+Token length: 84
+Summarized using GPT-4o-mini
+Append: [Crise en Nouvelle-Calédonie. Cette application dédiée au covoiturage](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-cette-application-dediee-au-covoiturage-1507241.html)
+Token length: 140
+Summarized using GPT-4o-mini
+Append: [Menace de grève à l'aéroport de Tahiti-Faaa : négociation avec la direction reportée à dimanche](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/menace-de-greve-a-l-aeroport-de-tahiti-faaa-premieres-negociations-avec-la-direction-prevues-dimanche-1507244.html)
+Token length: 40
+Summarized using GPT-4o-mini
+Append: [Taiarapu Est : deux mois de travaux du PK 12 au PK 14](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/taiarapu-est-deux-mois-de-travaux-du-pk-12-au-pk-14-1507238.html)
+append_entries: 4
+Finish: 2024-07-20 12:41:03.240576

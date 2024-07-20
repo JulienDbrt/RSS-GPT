@@ -3531,3 +3531,15 @@ Summarized using GPT-4o-mini
 Append: [Scandale immobilier : un prestigieux cabinet aurait escroqué ses clients de 25 millions d’euros](https://www.ouest-france.fr/economie/immobilier/scandale-immobilier-un-prestigieux-cabinet-aurait-escroque-ses-clients-de-25-millions-deuros-45baacc8-45a9-11ef-8bb7-b865ec79f580)
 append_entries: 1
 Finish: 2024-07-20 01:11:12.272996
+------------------------------------------------------
+Started: 2024-07-20 12:30:27.062752
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Résidence secondaire – Voilà où acheter un logement de vacances pour 145’000 francs](https://www.tdg.ch/immobilier-acheter-un-logement-de-vacances-pour-150-000-francs-553777307148)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Fiscalité locative : des propositions de réforme pour lutter contre la crise du logement](https://www.lemonde.fr/societe/article/2024/07/20/fiscalite-locative-des-propositions-de-reforme-pour-lutter-contre-la-crise-du-logement_6253562_3224.html)
+append_entries: 2
+Finish: 2024-07-20 12:30:40.063985

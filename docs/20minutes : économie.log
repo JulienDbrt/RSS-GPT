@@ -1703,3 +1703,9 @@ Summarized using GPT-4o-mini
 Append: [Vendée : Le fabricant de meubles Gautier se met « sous protection » pour sauver 700 emplois](https://www.20minutes.fr/economie/4102205-20240719-vendee-fabricant-meubles-gautier-met-sous-protection-sauver-700-emplois)
 append_entries: 3
 Finish: 2024-07-20 01:13:14.778590
+------------------------------------------------------
+Started: 2024-07-20 12:34:05.906980
+Existing_entries: 249
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-07-20 12:34:06.057814

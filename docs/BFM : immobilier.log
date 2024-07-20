@@ -1693,3 +1693,12 @@ Summarized using GPT-4o-mini
 Append: ["Un Airbnb un peu atypique": un agent immobilier propose malicieusement une grotte à vendre](https://www.bfmtv.com/immobilier/achat-vente/un-airbnb-un-peu-atypique-un-agent-immobilier-propose-malicieusement-une-grotte-a-vendre_AN-202407190589.html)
 append_entries: 3
 Finish: 2024-07-20 01:14:44.298932
+------------------------------------------------------
+Started: 2024-07-20 12:35:39.444283
+Existing_entries: 265
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 212
+Summarized using GPT-4o-mini
+Append: [Résidences secondaires: la revanche des régions les plus abordables](https://www.bfmtv.com/immobilier/achat-vente/residences-secondaires-la-revanche-des-regions-les-plus-abordables_AV-202407200208.html)
+append_entries: 1
+Finish: 2024-07-20 12:35:45.343230

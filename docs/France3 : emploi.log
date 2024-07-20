@@ -1818,3 +1818,15 @@ Existing_entries: 294
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-07-20 01:16:59.728838
+------------------------------------------------------
+Started: 2024-07-20 12:39:03.499001
+Existing_entries: 294
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 228
+Summarized using GPT-4o-mini
+Append: [Agro-alimentaire, "Cette fois, c’est fini", l'abattoir breton AIM placé en liquidation](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/agro-alimentaire-cette-fois-c-est-fini-en-ille-et-vilaine-l-abattoir-aim-place-en-liquidation-judiciaire-3007580.html)
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [Vente de beignets et de glaces sur les plages de Palavas, la justice a tranché en faveur de la ville](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/vente-de-beignets-et-de-glaces-sur-les-plages-de-palavas-la-justice-a-tranche-en-faveur-de-la-ville-3007502.html)
+append_entries: 2
+Finish: 2024-07-20 12:39:13.467080

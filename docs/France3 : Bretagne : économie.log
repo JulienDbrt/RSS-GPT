@@ -1350,3 +1350,18 @@ Existing_entries: 138
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-20 01:16:59.085182
+------------------------------------------------------
+Started: 2024-07-20 12:38:48.669883
+Existing_entries: 138
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 189
+Summarized using GPT-4o-mini
+Append: ["La seule solution mature pour décarboner le transport maritime". Cargos à voile, la France a le vent en poupe](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/la-seule-solution-mature-pour-decarboner-le-transport-maritime-cargos-a-voile-la-france-a-le-vent-en-poupe-3007505.html)
+Token length: 172
+Summarized using GPT-4o-mini
+Append: [Écrasée par la roue arrière d’un tracteur, la jeune femme décède à l’hôpital](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/ecrasee-par-la-roue-arriere-d-un-tracteur-la-jeune-femme-decede-a-l-hopital-3007472.html)
+Token length: 323
+Summarized using GPT-4o-mini
+Append: [Des vacances près de chez soi. Que faire dans le Morbihan lorsque l’on a déjà (presque) tout vu](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/des-vacances-pres-de-chez-soi-que-faire-dans-le-morbihan-lorsque-l-on-a-deja-presque-tout-vu-2982995.html)
+append_entries: 3
+Finish: 2024-07-20 12:39:03.341830

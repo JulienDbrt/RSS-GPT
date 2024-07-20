@@ -1527,3 +1527,9 @@ Summarized using GPT-4o-mini
 Append: [Présidentielle US  Le BTC est-il politique ?](https://www.bfmtv.com/crypto/presidentielle-us-le-btc-est-il-politique_VL-202407190540.html)
 append_entries: 1
 Finish: 2024-07-20 01:13:57.515471
+------------------------------------------------------
+Started: 2024-07-20 12:34:49.176336
+Existing_entries: 197
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-07-20 12:34:49.587830

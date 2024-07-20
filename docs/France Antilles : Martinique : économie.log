@@ -1970,3 +1970,15 @@ Summarized using GPT-4o-mini
 Append: [Panne informatique mondiale sur Microsoft : l'ACCYB publie une procédure de débogage](https://www.martinique.franceantilles.fr/actualite/economie/panne-informatique-mondiale-sur-microsoft-laccyb-publie-une-procedure-de-debeug-996496.php)
 append_entries: 2
 Finish: 2024-07-20 01:15:35.183254
+------------------------------------------------------
+Started: 2024-07-20 12:36:47.077173
+Existing_entries: 358
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Manifestation "antibassines": ambiance tendue et confuse à La Rochelle](https://www.martinique.franceantilles.fr/actualite/economie/les-antibassines-ciblent-samedi-lagro-industrie-au-port-de-la-rochelle-996553.php)
+Token length: 84
+Summarized using GPT-4o-mini
+Append: [Progressif retour à la normale après une panne informatique mondiale](https://www.martinique.franceantilles.fr/actualite/economie/progressif-retour-a-la-normale-apres-une-panne-informatique-mondiale-996555.php)
+append_entries: 2
+Finish: 2024-07-20 12:36:59.375310

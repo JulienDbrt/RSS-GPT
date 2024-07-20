@@ -1533,3 +1533,9 @@ Summarized using GPT-4o-mini
 Append: [Négos entre les employés des traversiers et la Société des traversiers du Québec: un conciliateur est demandé](https://www.journaldemontreal.com/2024/07/18/negos-entre-les-employes-des-traversiers-et-la-societe-des-traversiers-du-quebec-un-conciliateur-est-demande)
 append_entries: 3
 Finish: 2024-07-20 01:17:15.338878
+------------------------------------------------------
+Started: 2024-07-20 12:39:23.652400
+Existing_entries: 189
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-07-20 12:39:23.797657

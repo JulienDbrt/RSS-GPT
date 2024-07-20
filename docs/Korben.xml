@@ -4,6 +4,50 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>CamSimulate – Un simulateur de caméra pour les  développeurs</title>
+<link>https://korben.info/camsimulate-simulateur-camera-open-source-developpeurs.html</link>
+<guid>https://korben.info/camsimulate-simulateur-camera-open-source-developpeurs.html</guid>
+<content:encoded><![CDATA[
+<div> CamSimulate, périphérique vidéo virtuel, Linux, v4l2loopback, open source
+
+<br><br>Summary: CamSimulate est une application Python développée pour simplifier le test d'applications nécessitant un périphérique vidéo, sans avoir besoin d'une caméra physique. Fonctionnant uniquement sur Linux, l'outil vous permet de simuler divers types de caméras et d'ajuster des paramètres comme la résolution. Il utilise v4l2loopback pour créer un périphérique vidéo virtuel et ffmpeg pour streamer des vidéos à partir de fichiers locaux ou d'URLs. Pour installer CamSimulate, il suffit de cloner le projet, d'installer v4l2loopback avec la commande « sudo apt install v4l2loopback-dkms », puis de lancer le fichier main.py. Ensuite, vous pourrez sélectionner votre périphérique vidéo et choisir un fichier ou une vidéo en ligne à diffuser. Cet outil est entièrement gratuit et open source, offrant ainsi une flexibilité importante pour les développeurs qui souhaitent effectuer des tests sans équipement physique. Toutefois, il est conseillé de ne pas utiliser CamSimulate pour diffuser des vidéos préenregistrées lors de réunions, au risque d'attirer des ennuis. Alors, n'attendez plus pour l’essayer ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_virtual_webcam_with_logo_text_CAM_Simulate_353c4f10-8564-47f7-b3ea-af0e9ffafea3.webp" width="1456" /></p>
+<p>Vous en avez marre de devoir sortir votre smartphone ou votre webcam à chaque fois que vous voulez tester votre dernière application qui a besoin d&rsquo;un périphérique vidéo pour fonctionner ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-255665294" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et bien grâce à <strong>CamSimulate</strong>, vous pouvez tester votre app tranquillement depuis votre PC, sans avoir besoin d&rsquo;une caméra physique. C&rsquo;est hyper flexible car vous pouvez simuler différents types de caméras et jouer avec de nombreux paramètres comme la résolution, le <a href="https://homido.com/comprendre-le-field-of-view-fov/" rel="noopener" target="_blank">FOV</a>, etc. </p>
+
+
+
+<p>Techniquement, c&rsquo;est une application Python qui streame des vidéos depuis un fichier local ou une URL vers les périphériques vidéo de votre machine comme ça, si vous n&rsquo;avez pas de webcam à dispo, c&rsquo;est pas un souci. L&rsquo;outil utilise v4l2loopback pour créer un périphérique vidéo virtuel et pour streamer la vidéo sélectionnée vers le périphérique, il fait appel à ffmpeg.</p>
+
+
+
+<p>Attention tout de même, CamSimulate ne fonctionne que sur Linux. Mais si c&rsquo;est votre cas, il vous suffit de cloner le <a href="https://github.com/MK-1407/CamSimulate" rel="noopener" target="_blank">repo GitHub</a>, d&rsquo;installer v4l2loopback avec la commande </p>
+
+
+
+<p><code>sudo apt install v4l2loopback-dkms</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-32169361" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>puis de lancer le fichier main.py. </p>
+
+
+
+<p>Vous n&rsquo;avez plus qu&rsquo;à choisir votre périphérique vidéo, sélectionner un fichier local ou entrer l&rsquo;URL directe d&rsquo;une vidéo en ligne, et le tour est joué ! Par contre n&rsquo;en profitez pas pour diffuser une vidéo pré-enregistrée de vous lors de la prochaine visio du boulot, afin d&rsquo;aller taper une sieste.</p>
+
+
+
+<p>Et en plus c&rsquo;est gratuit et open source. Alors qu&rsquo;est-ce que vous attendez pour l&rsquo;essayer ?</p>
+]]></content:encoded>
+<pubDate>Sat, 20 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 20 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Music for Programming – Boostez votre concentration avec des playlists instrumentales spéciales coding</title>

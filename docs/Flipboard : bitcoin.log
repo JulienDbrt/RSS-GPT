@@ -2822,3 +2822,15 @@ Summarized using GPT-4o-mini
 Append: [L’entreprise Capgemini aurait été victime d’une cyberattaque menée par un de ses salariés](https://www.ouest-france.fr/societe/cyberattaque/lentreprise-capgemini-aurait-ete-victime-dune-cyberattaque-menee-par-un-de-ses-salaries-c8182778-45df-11ef-8bb7-b865ec79f580)
 append_entries: 3
 Finish: 2024-07-20 01:10:31.235618
+------------------------------------------------------
+Started: 2024-07-20 12:29:03.402533
+Existing_entries: 656
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Ryan Selkis, PDG de Messari, démissionne suite à des publications polémiques soutenant la violence politique](https://www.fredzone.org/pdg-messari-demissionne-suite-publications-polemiques/)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Ce redresseur de sociétés cryptos condamné à rendre l'argent qu'il s'était approprié](https://www.lesechos.fr/finance-marches/marches-financiers/ce-redresseur-de-societes-cryptos-condamne-a-rendre-largent-quil-setait-approprie-2109099)
+append_entries: 2
+Finish: 2024-07-20 12:29:20.160298

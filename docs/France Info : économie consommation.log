@@ -5204,3 +5204,18 @@ Summarized using GPT-4o-mini
 Append: [Carburants : des opérations prix coûtant organisées par les grandes enseignes, une bonne affaire ?](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-des-operations-prix-coutant-organisees-par-les-grandes-enseignes-une-bonne-affaire_6675435.html)
 append_entries: 10
 Finish: 2024-07-20 01:16:03.480987
+------------------------------------------------------
+Started: 2024-07-20 12:37:00.346870
+Existing_entries: 1010
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [Chaussons d'escalade EB : "300.000 paires vendues chaque année en France, une goutte d'eau comparée aux 400.000 millions de paires de chaussures classiques"](https://www.francetvinfo.fr/replay-radio/ca-nous-marque/chaussons-d-escalade-eb-300-000-paires-vendues-chaque-annee-en-france-une-goutte-d-eau-comparee-aux-400-000-millions-de-paires-de-chaussures-classiques_6642774.html)
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Bitcoins et autres cryptomonnaies : un placement risqué ou une valeur refuge ?](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/bitcoins-et-autres-cryptomonnaies-un-placement-risque-ou-une-valeur-refuge_6642777.html)
+Token length: 291
+Summarized using GPT-4o-mini
+Append: [Intelligence artificielle : "J'ai perdu 60% de mon chiffre d'affaires en quelques mois", témoigne une traductrice freelance](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/intelligence-artificielle-j-ai-perdu-60-de-mon-chiffre-d-affaires-en-quelques-mois-temoigne-une-traductrice-freelance_6642567.html)
+append_entries: 3
+Finish: 2024-07-20 12:37:19.737896

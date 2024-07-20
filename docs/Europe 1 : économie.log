@@ -1774,3 +1774,9 @@ Summarized using GPT-4o-mini
 Append: [JO Paris 2024 : la SNCF «dans les starting blocks», selon son PDG](https://www.europe1.fr/economie/jo-paris-2024-la-sncf-dans-les-starting-blocks-selon-son-pdg-4259030)
 append_entries: 2
 Finish: 2024-07-20 01:15:32.745029
+------------------------------------------------------
+Started: 2024-07-20 12:36:46.842584
+Existing_entries: 274
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-20 12:36:46.898382

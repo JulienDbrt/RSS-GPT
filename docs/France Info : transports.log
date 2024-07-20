@@ -1817,3 +1817,9 @@ Summarized using GPT-4o-mini
 Append: [Carburants : des opérations prix coûtant organisées par les grandes enseignes, une bonne affaire ?](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-des-operations-prix-coutant-organisees-par-les-grandes-enseignes-une-bonne-affaire_6675435.html)
 append_entries: 6
 Finish: 2024-07-20 01:16:20.541191
+------------------------------------------------------
+Started: 2024-07-20 12:37:25.583258
+Existing_entries: 287
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-07-20 12:37:25.709058
