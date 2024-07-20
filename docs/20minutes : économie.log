@@ -1688,3 +1688,18 @@ Summarized using GPT-4o-mini
 Append: [JO Paris 2024 : La mini-tour Eiffel est-elle vraiment LA boss des souvenirs ?](https://www.20minutes.fr/societe/4097186-20240719-jo-paris-2024-mini-tour-eiffel-vraiment-boss-souvenirs)
 append_entries: 4
 Finish: 2024-07-19 12:36:27.906530
+------------------------------------------------------
+Started: 2024-07-20 01:13:05.801531
+Existing_entries: 246
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 122
+Summarized using GPT-4o-mini
+Append: [Panne informatique mondiale : À combien pourrait s’élever la facture ?](https://www.20minutes.fr/monde/4102210-20240719-panne-informatique-mondiale-combien-pourrait-elever-facture)
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Airbus : L'A321 XLR, un avion qui voyage loin et « léger », reçoit son permis de voler](https://www.20minutes.fr/societe/4102177-20240719-airbus-a321-xlr-avion-voyage-loin-leger-recoit-permis-voler)
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Vendée : Le fabricant de meubles Gautier se met « sous protection » pour sauver 700 emplois](https://www.20minutes.fr/economie/4102205-20240719-vendee-fabricant-meubles-gautier-met-sous-protection-sauver-700-emplois)
+append_entries: 3
+Finish: 2024-07-20 01:13:14.778590

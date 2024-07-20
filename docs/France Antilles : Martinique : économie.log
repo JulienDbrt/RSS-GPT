@@ -1958,3 +1958,15 @@ Summarized using GPT-4o-mini
 Append: ["Alerte rouge" à la chaleur en Europe de l'Est et du Sud](https://www.martinique.franceantilles.fr/actualite/economie/alerte-rouge-a-la-chaleur-en-europe-de-lest-et-du-sud-996444.php)
 append_entries: 6
 Finish: 2024-07-19 12:41:13.729302
+------------------------------------------------------
+Started: 2024-07-20 01:15:32.921802
+Existing_entries: 356
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Air France annule et reprogramme plusieurs vols sur le réseau régional Antilles-Guyane](https://www.martinique.franceantilles.fr/actualite/economie/air-france-annule-et-reprogramme-plusieurs-vols-sur-le-reseau-regional-antilles-guyane-996499.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Panne informatique mondiale sur Microsoft : l'ACCYB publie une procédure de débogage](https://www.martinique.franceantilles.fr/actualite/economie/panne-informatique-mondiale-sur-microsoft-laccyb-publie-une-procedure-de-debeug-996496.php)
+append_entries: 2
+Finish: 2024-07-20 01:15:35.183254

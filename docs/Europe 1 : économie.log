@@ -1762,3 +1762,15 @@ Summarized using GPT-4o-mini
 Append: [JO Paris 2024 : RATP, SNCF, ADP... Quand la facture des primes explose](https://www.europe1.fr/economie/jo-paris-2024-ratp-sncf-adp-quand-la-facture-des-primes-explose-4258921)
 append_entries: 2
 Finish: 2024-07-19 12:40:41.123605
+------------------------------------------------------
+Started: 2024-07-20 01:15:27.448689
+Existing_entries: 272
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 302
+Summarized using GPT-4o-mini
+Append: [Qu'est-ce que Crowdstrike, dont la mise à jour a causé une panne informatique mondiale ?](https://www.europe1.fr/economie/quest-ce-que-crowdstrike-dont-la-mise-a-jour-a-cause-une-panne-informatique-mondiale-4259083)
+Token length: 262
+Summarized using GPT-4o-mini
+Append: [JO Paris 2024 : la SNCF «dans les starting blocks», selon son PDG](https://www.europe1.fr/economie/jo-paris-2024-la-sncf-dans-les-starting-blocks-selon-son-pdg-4259030)
+append_entries: 2
+Finish: 2024-07-20 01:15:32.745029

@@ -2608,3 +2608,15 @@ Summarized using GPT-4o-mini
 Append: ["Ce sera au mieux une saison moyenne". Récolte de sel : sale temps pour les sauniers](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/ile-d-yeu/ce-sera-au-mieux-une-saison-moyenne-recolte-de-sel-sale-temps-pour-les-sauniers-3006794.html)
 append_entries: 5
 Finish: 2024-07-19 12:43:23.010761
+------------------------------------------------------
+Started: 2024-07-20 01:16:53.358643
+Existing_entries: 559
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 314
+Summarized using GPT-4o-mini
+Append: [Sécheresse. "On jette un fruit sur trois", la récolte de pêches et de nectarines du Roussillon est abondante, les fruits sont bons mais pas beaux](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/secheresse-on-jette-un-fruit-sur-trois-la-recolte-de-peches-et-de-nectarines-du-roussillon-est-abondante-les-fruits-sont-bons-mais-pas-beaux-3007268.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Sécheresse : fortes chaleurs et déficit hydrique entraînent les premières restrictions d'eau dans le Lot](https://france3-regions.francetvinfo.fr/occitanie/lot/cahors/secheresse-fortes-chaleurs-et-deficit-hydrique-entrainent-les-premieres-restrictions-d-eau-dans-le-lot-3007217.html)
+append_entries: 2
+Finish: 2024-07-20 01:16:58.283175

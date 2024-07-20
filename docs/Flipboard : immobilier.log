@@ -3522,3 +3522,12 @@ Summarized using GPT-4o-mini
 Append: [A vendre : un appartement avec vue sur la tour Eiffel](https://www.challenges.fr/immobilier/a-vendre-un-appartement-avec-vue-sur-la-tour-eiffel_899767)
 append_entries: 4
 Finish: 2024-07-19 12:33:24.086443
+------------------------------------------------------
+Started: 2024-07-20 01:11:08.563860
+Existing_entries: 1004
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 139
+Summarized using GPT-4o-mini
+Append: [Scandale immobilier : un prestigieux cabinet aurait escroqué ses clients de 25 millions d’euros](https://www.ouest-france.fr/economie/immobilier/scandale-immobilier-un-prestigieux-cabinet-aurait-escroque-ses-clients-de-25-millions-deuros-45baacc8-45a9-11ef-8bb7-b865ec79f580)
+append_entries: 1
+Finish: 2024-07-20 01:11:12.272996

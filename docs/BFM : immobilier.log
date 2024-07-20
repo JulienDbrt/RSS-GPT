@@ -1678,3 +1678,18 @@ Summarized using GPT-4o-mini
 Append: [Toulouse: information judiciaire ouverte pour une vaste escroquerie dans l'immobilier](https://www.bfmtv.com/immobilier/achat-vente/toulouse-information-judiciaire-ouverte-pour-une-vaste-escroquerie-dans-l-immobilier_AD-202407190316.html)
 append_entries: 2
 Finish: 2024-07-19 12:39:31.978760
+------------------------------------------------------
+Started: 2024-07-20 01:14:37.529829
+Existing_entries: 262
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [En Chine, immobilier et chômage sont les nuages noirs de l'économie](https://www.bfmtv.com/immobilier/achat-vente/en-chine-immobilier-et-chomage-sont-les-nuages-noirs-de-l-economie_AD-202407190632.html)
+Token length: 335
+Summarized using GPT-4o-mini
+Append: ["Un vivier non négligeable": les logements vacants peuvent-ils résoudre la crise immobilière?](https://www.bfmtv.com/immobilier/construction/un-vivier-non-negligeable-les-logements-vacants-peuvent-ils-resoudre-la-crise-immobiliere_AN-202407190617.html)
+Token length: 170
+Summarized using GPT-4o-mini
+Append: ["Un Airbnb un peu atypique": un agent immobilier propose malicieusement une grotte à vendre](https://www.bfmtv.com/immobilier/achat-vente/un-airbnb-un-peu-atypique-un-agent-immobilier-propose-malicieusement-une-grotte-a-vendre_AN-202407190589.html)
+append_entries: 3
+Finish: 2024-07-20 01:14:44.298932

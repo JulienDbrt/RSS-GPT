@@ -1151,3 +1151,9 @@ Summarized using GPT-4o-mini
 Append: [Un nouveau compteur Linky va bientôt être déployé mais il n'est pas pour tout le monde](https://www.journaldunet.com/economie/immobilier/1531843-linky-pro-cgm/)
 append_entries: 1
 Finish: 2024-07-19 12:33:29.140244
+------------------------------------------------------
+Started: 2024-07-20 01:11:12.308919
+Existing_entries: 73
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-07-20 01:11:13.044943

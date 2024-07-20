@@ -1793,3 +1793,27 @@ Summarized using GPT-4o-mini
 Append: [Carburants : nouvelle guerre des prix entre les supermarchés pour les départs en vacances](https://www.francetvinfo.fr/replay-radio/le-brief-eco/carburants-nouvelle-guerre-des-prix-entre-les-supermarches-pour-les-departs-en-vacances_6642597.html)
 append_entries: 4
 Finish: 2024-07-19 12:42:11.781154
+------------------------------------------------------
+Started: 2024-07-20 01:16:04.321244
+Existing_entries: 281
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Panne informatique mondiale : pagaille dans les aéroports français](https://www.francetvinfo.fr/internet/panne-informatique-mondiale/panne-informatique-mondiale-pagaille-dans-les-aeroports-francais_6675750.html)
+Token length: 177
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Ils annulent les vols l'un après l'autre" : la galère des passagers à l'aéroport d'Orly à cause de la panne informatique mondiale](https://www.francetvinfo.fr/internet/panne-informatique-mondiale/reportage-ils-annulent-les-vols-l-un-apres-l-autre-la-galere-des-passagers-a-l-aeroport-d-orly-a-cause-de-la-panne-informatique-mondiale_6675702.html)
+Token length: 289
+Summarized using GPT-4o-mini
+Append: [Panne informatique mondiale : plusieurs secteurs touchés sur la planète](https://www.francetvinfo.fr/internet/panne-informatique-mondiale/panne-informatique-mondiale-plusieurs-secteurs-touches-sur-la-planete_6675696.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Paris 2024 : le guide pour comprendre les tarifs des transports franciliens et leur augmentation pendant les Jeux](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-le-guide-pour-comprendre-les-tarifs-des-transports-franciliens-et-leur-augmentation-pendant-les-jeux_6675162.html)
+Token length: 162
+Summarized using GPT-4o-mini
+Append: [Transports : une capsule innovante pour transporter le public a été inaugurée](https://www.francetvinfo.fr/economie/transports/transports-une-capsule-innovante-pour-transporter-le-public-a-ete-inauguree_6675450.html)
+Token length: 191
+Summarized using GPT-4o-mini
+Append: [Carburants : des opérations prix coûtant organisées par les grandes enseignes, une bonne affaire ?](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-des-operations-prix-coutant-organisees-par-les-grandes-enseignes-une-bonne-affaire_6675435.html)
+append_entries: 6
+Finish: 2024-07-20 01:16:20.541191
