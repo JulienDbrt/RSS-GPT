@@ -2653,3 +2653,15 @@ Existing_entries: 568
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-07-21 01:21:53.730051
+------------------------------------------------------
+Started: 2024-07-21 12:38:26.426356
+Existing_entries: 568
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 285
+Summarized using GPT-4o-mini
+Append: ["On fait travailler les paysans du coin" : des agriculteurs se réunissent pour ouvrir un supermarché de vente directe](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/on-fait-travailler-les-paysans-du-coin-des-agriculteurs-se-reunissent-pour-ouvrir-un-supermarche-de-vente-directe-3005624.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Agriculture : une "moustiquaire" géante pour sauver les récoltes](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/agriculture-une-moustiquaire-geante-pour-sauver-les-recoltes-3007112.html)
+append_entries: 2
+Finish: 2024-07-21 12:38:35.052753

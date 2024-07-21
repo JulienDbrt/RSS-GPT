@@ -3114,3 +3114,18 @@ Summarized using GPT-4o-mini
 Append: [Covoiturage : à Lyon les radars sont en fonction depuis le 12 juillet, les verbalisations commenceront à la fin du mois](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/covoiturage-a-lyon-les-radars-sont-en-fonction-depuis-le-12-juillet-les-verbalisations-commenceront-a-la-fin-du-mois-3007607.html)
 append_entries: 2
 Finish: 2024-07-21 01:22:06.794038
+------------------------------------------------------
+Started: 2024-07-21 12:39:22.862932
+Existing_entries: 723
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Insolite. Yannick collectionne les vélos anciens : "J’ai arrêté de compter à partir de 100 !"](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/dieppe/insolite-yannick-collectionne-les-velos-anciens-j-ai-arrete-de-compter-a-partir-de-100-3007214.html)
+Token length: 422
+Summarized using GPT-4o-mini
+Append: ["Nous avons peur de perdre notre travail" : des salariés de Protecsud campent à l'aéroport d'Ajaccio pour alerter sur leur situation](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/ajaccio/nous-avons-peur-de-perdre-notre-travail-des-salaries-de-protecsud-campent-a-l-aeroport-d-ajaccio-pour-alerter-sur-leur-situation-3007751.html)
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [La gare de bus de Jeanne d'Arc à Toulouse ferme pour l'été, les lignes Tisséo sont réorganisées](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/la-gare-de-bus-de-jeanne-d-arc-a-toulouse-ferme-pour-l-ete-les-lignes-tisseo-sont-reorganisees-3007577.html)
+append_entries: 3
+Finish: 2024-07-21 12:39:36.418501

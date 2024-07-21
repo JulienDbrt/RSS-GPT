@@ -5231,3 +5231,15 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. "Déjà pour la réservation, c'est compliqué" : partir en vacances en TER avec son vélo peut se révéler problématique](https://www.francetvinfo.fr/economie/transports/sncf/reportage-deja-pour-la-reservation-c-est-complique-partir-en-vacances-en-ter-avec-son-velo-peut-se-reveler-problematique_6676770.html)
 append_entries: 2
 Finish: 2024-07-21 01:21:30.470991
+------------------------------------------------------
+Started: 2024-07-21 12:37:43.315069
+Existing_entries: 1002
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 298
+Summarized using GPT-4o-mini
+Append: [Intelligence artificielle : "Il y a de la place pour des offres premium, et d’autres plus bas de gamme", selon le dirigeant d’une agence de création sonore](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/intelligence-artificielle-il-y-a-de-la-place-pour-des-offres-premium-et-d-autres-plus-bas-de-gamme-selon-le-dirigeant-d-une-agence-de-creation-sonore_6642573.html)
+Token length: 195
+Summarized using GPT-4o-mini
+Append: [Gérald Darmanin estime que le "smic peut être augmenté"](https://www.francetvinfo.fr/economie/gerald-darmanin-estime-que-le-smic-peut-etre-augmente_6678534.html)
+append_entries: 2
+Finish: 2024-07-21 12:37:53.514225

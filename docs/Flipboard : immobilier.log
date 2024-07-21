@@ -3552,3 +3552,18 @@ Summarized using GPT-4o-mini
 Append: [Chez les loyalistes de Nouvelle-Calédonie, une peur devenue viscérale](https://www.la-croix.com/chez-les-loyalistes-de-nouvelle-caledonie-une-peur-devenue-viscerale-20240720)
 append_entries: 1
 Finish: 2024-07-21 01:17:24.759338
+------------------------------------------------------
+Started: 2024-07-21 12:31:11.617871
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Immobilier. 3,7 millions d’euros, 333 m2 : une impressionnante demeure de 1890 en vente sur les hauteurs de Lyon](https://www.leprogres.fr/economie/2024/07/21/3-7-millions-d-euros-333-m2-une-impressionnante-demeure-de-1890-en-vente-sur-les-hauteurs-de-lyon)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Affaire Abbé Pierre : « Ceux qui minimisent se trompent » (Christophe Robert, délégué général de la Fondation Abbé Pierre)](https://www.latribune.fr/economie/france/affaire-abbe-pierre-ceux-qui-minimisent-se-trompent-christophe-robert-delegue-general-de-la-fondation-abbe-pierre-1002727.html)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Patrimoine : comment gérer son argent à la retraite ?](https://www.ouest-france.fr/economie/budget/patrimoine-comment-gerer-son-argent-a-la-retraite-191f9eb8-4346-11ef-a553-79592a855fb7)
+append_entries: 3
+Finish: 2024-07-21 12:31:27.301643

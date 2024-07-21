@@ -1828,3 +1828,12 @@ Summarized using GPT-4o-mini
 Append: [La panne informatique mondiale a affecté 8,5 millions d’ordinateurs](https://www.20min.ch/fr/story/chaos-cause-par-crowdstrike-la-panne-informatique-mondiale-a-affecte-85-millions-dordinateurs-103152722)
 append_entries: 1
 Finish: 2024-07-21 01:19:20.934059
+------------------------------------------------------
+Started: 2024-07-21 12:34:18.506521
+Existing_entries: 320
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 190
+Summarized using GPT-4o-mini
+Append: [La lutte contre les prix majorés pour les Suisses en bonne voie](https://www.20min.ch/fr/story/produits-numeriques-la-lutte-contre-les-prix-majores-pour-les-suisses-en-bonne-voie-103152069)
+append_entries: 1
+Finish: 2024-07-21 12:34:22.997813

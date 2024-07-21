@@ -4,6 +4,78 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Bacon – Un outil écrit qui vérifie votre code Rust en arrière-plan</title>
+<link>https://korben.info/bacon-outil-rust-verification-code-arriere-plan.html</link>
+<guid>https://korben.info/bacon-outil-rust-verification-code-arriere-plan.html</guid>
+<content:encoded><![CDATA[
+<div> Bacon, Rust, utilitaire, code, configuration
+
+<br><br>Summary: Bacon est un utilitaire conçu pour optimiser le workflow des développeurs Rust en vérifiant leur code en arrière-plan. En fonctionnant discrètement à côté de l’éditeur de code, il informe les utilisateurs des erreurs, des avertissements ou des échecs de tests, permettant ainsi une concentration maximale sur les tâches essentielles. Les erreurs sont prioritaires, affichées avant les avertissements, et les messages récents sont présentés en dernier pour éviter de faire défiler longtemps la console. L’installation de Bacon est simple avec la commande `cargo install --locked bacon`, et son lancement se fait facilement par `bacon`. La commande par défaut, généralement `cargo check`, est exécutée automatiquement, mais les tests peuvent être lancés avec `bacon test`. En cours d’utilisation, Bacon permet d’afficher les avertissements de Clippy, de revenir à la tâche précédente, ou d’ouvrir la documentation dans le navigateur. De plus, il offre une gestion de la configuration via deux fichiers : `prefs.toml` pour les préférences globales et `bacon.toml` pour des réglages spécifiques aux projets, ce qui rend cet outil puissant et personnalisable pour tous les types de projets. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="232" src="https://korben.info/app/uploads/2024/04/SCR-20240409-giu.webp" width="815" /></p>
+<p>Vous êtes développeur Rust et vous cherchez un moyen d&rsquo;<strong>optimiser votre workflow</strong>, Bacon peut vous aider !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1315286157" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Cet utilitaire génial s&rsquo;occupe de vérifier votre code en arrière-plan pendant que vous travaillez, vous permettant ainsi de vous concentrer sur l&rsquo;essentiel. Il tourne discrètement à côté de votre éditeur de code et vous avertirra en cas d&rsquo;<strong>erreur</strong>, d&rsquo;<strong>avertissement</strong> ou d&rsquo;<strong>échec de test</strong> dans votre code Rust. Et le tout sans que vous ayez à lever le petit doigt !</p>
+
+
+
+<p>Un des gros avantages de Bacon, c&rsquo;est qu&rsquo;il met en avant ce qui compte vraiment. Les erreurs sont affichées avant les avertissements, et les plus récentes en dernier comme ça pas besoin de scroller pendant des heures pour trouver un message important noyé au milieu de la console !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158781" height="440" src="https://korben.info/app/uploads/2024/04/vi-and-bacon2-1024x440.webp" width="1024" /></figure></div>
+
+
+<p>Et pas non plus besoin de vous rappeler de 150 commandes différentes, puisque les plus essentielles sont listées en bas de l&rsquo;écran.</p>
+
+
+
+<p>Pour <strong>installer</strong> Bacon, rien de plus simple : </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1588405857" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>cargo install --locked bacon</code></p>
+
+
+
+<p>Et pour le lancer, tapez juste : </p>
+
+
+
+<p><code>bacon</code></p>
+
+
+
+<p>Et voilà, Bacon se chargera de lancer la commande par défaut, généralement <code>cargo check</code>, et de surveiller votre code. Maintenant si vous voulez plutôt lancer les tests, faites : </p>
+
+
+
+<p><code>bacon test</code></p>
+
+
+
+<p>Pendant que Bacon tourne, vous pouvez alors afficher les avertissements de Clippy avec « c », revenir à la tâche précédente avec « Esc », ou encore ouvrir la doc (<code>cargo doc</code>) dans votre navigateur avec « d ». Et ce n&rsquo;est qu&rsquo;un aperçu des possibilités !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-462456238" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Bacon gère également très bien la <strong>configuration</strong> via deux fichiers : <code>prefs.toml</code> pour vos préférences globales (raccourcis clavier, mode résumé, etc) et <code>bacon.toml</code> pour les réglages spécifiques à chaque projet (tâches personnalisées, exemples, réglages de Clippy&#8230;).</p>
+
+
+
+<p>Bref, c&rsquo;est pratique et personnalisable et cela que vous travailliez sur un petit projet perso ou sur une grosse application pro.</p>
+
+
+
+<p><a href="https://dystroy.org/bacon/" rel="noopener" target="_blank">Pour vous en payer une tranche, y&rsquo;a plus d&rsquo;infos ici.</a></p>
+]]></content:encoded>
+<pubDate>Sun, 21 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 21 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>CamSimulate – Un simulateur de caméra pour les  développeurs</title>

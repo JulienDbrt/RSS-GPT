@@ -1838,3 +1838,9 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. "Déjà pour la réservation, c'est compliqué" : partir en vacances en TER avec son vélo peut se révéler problématique](https://www.francetvinfo.fr/economie/transports/sncf/reportage-deja-pour-la-reservation-c-est-complique-partir-en-vacances-en-ter-avec-son-velo-peut-se-reveler-problematique_6676770.html)
 append_entries: 3
 Finish: 2024-07-21 01:21:42.003907
+------------------------------------------------------
+Started: 2024-07-21 12:37:54.611467
+Existing_entries: 290
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-07-21 12:37:54.762603

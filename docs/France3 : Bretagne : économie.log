@@ -1371,3 +1371,12 @@ Existing_entries: 141
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-21 01:21:54.467424
+------------------------------------------------------
+Started: 2024-07-21 12:39:05.798770
+Existing_entries: 141
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 250
+Summarized using GPT-4o-mini
+Append: [Surtourisme à Bréhat, saison 2 pour les quotas de visiteurs](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/surtourisme-a-brehat-saison-2-pour-les-quotas-de-visiteurs-3007592.html)
+append_entries: 1
+Finish: 2024-07-21 12:39:12.641901
