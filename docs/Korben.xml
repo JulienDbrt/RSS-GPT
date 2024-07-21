@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>CamSimulate – Un simulateur de caméra pour les  développeurs</title>
 <link>https://korben.info/camsimulate-simulateur-camera-open-source-developpeurs.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> CamSimulate, périphérique vidéo virtuel, Linux, v4l2loopback, open source
 
-<br><br>Summary: CamSimulate est une application Python développée pour simplifier le test d'applications nécessitant un périphérique vidéo, sans avoir besoin d'une caméra physique. Fonctionnant uniquement sur Linux, l'outil vous permet de simuler divers types de caméras et d'ajuster des paramètres comme la résolution. Il utilise v4l2loopback pour créer un périphérique vidéo virtuel et ffmpeg pour streamer des vidéos à partir de fichiers locaux ou d'URLs. Pour installer CamSimulate, il suffit de cloner le projet, d'installer v4l2loopback avec la commande « sudo apt install v4l2loopback-dkms », puis de lancer le fichier main.py. Ensuite, vous pourrez sélectionner votre périphérique vidéo et choisir un fichier ou une vidéo en ligne à diffuser. Cet outil est entièrement gratuit et open source, offrant ainsi une flexibilité importante pour les développeurs qui souhaitent effectuer des tests sans équipement physique. Toutefois, il est conseillé de ne pas utiliser CamSimulate pour diffuser des vidéos préenregistrées lors de réunions, au risque d'attirer des ennuis. Alors, n'attendez plus pour l’essayer ! <div>
+<br /><br />Summary: CamSimulate est une application Python développée pour simplifier le test d'applications nécessitant un périphérique vidéo, sans avoir besoin d'une caméra physique. Fonctionnant uniquement sur Linux, l'outil vous permet de simuler divers types de caméras et d'ajuster des paramètres comme la résolution. Il utilise v4l2loopback pour créer un périphérique vidéo virtuel et ffmpeg pour streamer des vidéos à partir de fichiers locaux ou d'URLs. Pour installer CamSimulate, il suffit de cloner le projet, d'installer v4l2loopback avec la commande « sudo apt install v4l2loopback-dkms », puis de lancer le fichier main.py. Ensuite, vous pourrez sélectionner votre périphérique vidéo et choisir un fichier ou une vidéo en ligne à diffuser. Cet outil est entièrement gratuit et open source, offrant ainsi une flexibilité importante pour les développeurs qui souhaitent effectuer des tests sans équipement physique. Toutefois, il est conseillé de ne pas utiliser CamSimulate pour diffuser des vidéos préenregistrées lors de réunions, au risque d'attirer des ennuis. Alors, n'attendez plus pour l’essayer ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_virtual_webcam_with_logo_text_CAM_Simulate_353c4f10-8564-47f7-b3ea-af0e9ffafea3.webp" width="1456" /></p>
 <p>Vous en avez marre de devoir sortir votre smartphone ou votre webcam à chaque fois que vous voulez tester votre dernière application qui a besoin d&rsquo;un périphérique vidéo pour fonctionner ?</p>
 
@@ -46,9 +47,7 @@
 <p>Et en plus c&rsquo;est gratuit et open source. Alors qu&rsquo;est-ce que vous attendez pour l&rsquo;essayer ?</p>
 ]]></content:encoded>
 <pubDate>Sat, 20 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 20 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Music for Programming – Boostez votre concentration avec des playlists instrumentales spéciales coding</title>
 <link>https://korben.info/music-for-programming-boostez-votre-productivite-playlists-specialisees.html</link>

@@ -1823,3 +1823,18 @@ Existing_entries: 287
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-07-20 12:37:25.709058
+------------------------------------------------------
+Started: 2024-07-21 01:21:31.659679
+Existing_entries: 287
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [Sécurité routière : le danger mortel des écrans au volant](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/securite-routiere-le-danger-mortel-des-ecrans-au-volant_6677409.html)
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Trains : l'improbable odyssée d'un retraité à travers toutes les gares de France](https://www.francetvinfo.fr/economie/transports/sncf/tour-l-improbable-odyssee-d-un-retraite-a-travers-toutes-les-gares-de-france_6677214.html)
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Déjà pour la réservation, c'est compliqué" : partir en vacances en TER avec son vélo peut se révéler problématique](https://www.francetvinfo.fr/economie/transports/sncf/reportage-deja-pour-la-reservation-c-est-complique-partir-en-vacances-en-ter-avec-son-velo-peut-se-reveler-problematique_6676770.html)
+append_entries: 3
+Finish: 2024-07-21 01:21:42.003907

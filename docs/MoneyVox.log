@@ -4698,3 +4698,15 @@ Summarized using GPT-4o-mini
 Append: [CARTE. Pourquoi le Livret A continue de battre des records](https://www.moneyvox.fr/livret-a/actualites/98798/carte-pourquoi-le-livret-a-continue-de-battre-des-records)
 append_entries: 4
 Finish: 2024-07-20 12:37:46.351092
+------------------------------------------------------
+Started: 2024-07-21 01:21:43.702668
+Existing_entries: 1004
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Electricité, gaz... 4 chiffres alarmants sur l'ampleur de la précarité énergétique en France](https://www.moneyvox.fr/energie/actualites/98794/electricite-gaz-4-chiffres-alarmants-sur-ampleur-de-la-precarite-energetique-en-france)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Assurance auto : faut-il en prendre une autre lorsqu'on loue une voiture ?](https://www.moneyvox.fr/assurance/actualites/98810/assurance-auto-faut-il-en-prendre-une-autre-lorsquon-loue-une-voiture)
+append_entries: 2
+Finish: 2024-07-21 01:21:51.729461

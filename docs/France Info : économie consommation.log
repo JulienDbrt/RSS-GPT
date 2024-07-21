@@ -5219,3 +5219,15 @@ Summarized using GPT-4o-mini
 Append: [Intelligence artificielle : "J'ai perdu 60% de mon chiffre d'affaires en quelques mois", témoigne une traductrice freelance](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/intelligence-artificielle-j-ai-perdu-60-de-mon-chiffre-d-affaires-en-quelques-mois-temoigne-une-traductrice-freelance_6642567.html)
 append_entries: 3
 Finish: 2024-07-20 12:37:19.737896
+------------------------------------------------------
+Started: 2024-07-21 01:21:23.921702
+Existing_entries: 1003
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Trains : l'improbable odyssée d'un retraité à travers toutes les gares de France](https://www.francetvinfo.fr/economie/transports/sncf/tour-l-improbable-odyssee-d-un-retraite-a-travers-toutes-les-gares-de-france_6677214.html)
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Déjà pour la réservation, c'est compliqué" : partir en vacances en TER avec son vélo peut se révéler problématique](https://www.francetvinfo.fr/economie/transports/sncf/reportage-deja-pour-la-reservation-c-est-complique-partir-en-vacances-en-ter-avec-son-velo-peut-se-reveler-problematique_6676770.html)
+append_entries: 2
+Finish: 2024-07-21 01:21:30.470991

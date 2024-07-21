@@ -1028,3 +1028,9 @@ Summarized using GPT-4o-mini
 Append: [Bitcoins et autres cryptomonnaies : un placement risqué ou une valeur refuge ?](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/bitcoins-et-autres-cryptomonnaies-un-placement-risque-ou-une-valeur-refuge_6642777.html)
 append_entries: 1
 Finish: 2024-07-20 12:37:25.331989
+------------------------------------------------------
+Started: 2024-07-21 01:21:31.213699
+Existing_entries: 22
+Fetching from https://www.francetvinfo.fr/economie/bitcoin.rss
+append_entries: 0
+Finish: 2024-07-21 01:21:31.410498

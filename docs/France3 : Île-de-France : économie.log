@@ -1590,3 +1590,9 @@ Summarized using GPT-4o-mini
 Append: [Départs en vacances : samedi rouge dans le sens des départs en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/departs-en-vacances-samedi-rouge-dans-le-sens-des-departs-en-ile-de-france-3007556.html)
 append_entries: 1
 Finish: 2024-07-20 12:37:53.234423
+------------------------------------------------------
+Started: 2024-07-21 01:21:53.060868
+Existing_entries: 216
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-07-21 01:21:53.242919

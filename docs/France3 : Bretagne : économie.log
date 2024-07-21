@@ -1365,3 +1365,9 @@ Summarized using GPT-4o-mini
 Append: [Des vacances près de chez soi. Que faire dans le Morbihan lorsque l’on a déjà (presque) tout vu](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/des-vacances-pres-de-chez-soi-que-faire-dans-le-morbihan-lorsque-l-on-a-deja-presque-tout-vu-2982995.html)
 append_entries: 3
 Finish: 2024-07-20 12:39:03.341830
+------------------------------------------------------
+Started: 2024-07-21 01:21:54.172500
+Existing_entries: 141
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-07-21 01:21:54.467424

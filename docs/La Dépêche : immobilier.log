@@ -1309,3 +1309,9 @@ Summarized using GPT-4o-mini
 Append: [Que va devenir la maison des Andorans à Labarthe ?](https://www.ladepeche.fr/2024/07/20/que-va-devenir-la-maison-des-andorans-a-labarthe-12093320.php)
 append_entries: 1
 Finish: 2024-07-20 12:42:25.734707
+------------------------------------------------------
+Started: 2024-07-21 01:23:40.787123
+Existing_entries: 119
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-07-21 01:23:41.362117
