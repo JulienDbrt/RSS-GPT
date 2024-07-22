@@ -3138,3 +3138,27 @@ Summarized using GPT-4o-mini
 Append: [Autostop : 5 conseils pour bien réussir son voyage](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/autostop-5-conseils-pour-bien-reussir-son-voyage-3007841.html)
 append_entries: 1
 Finish: 2024-07-22 01:18:37.051991
+------------------------------------------------------
+Started: 2024-07-22 12:44:03.847057
+Existing_entries: 727
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 276
+Summarized using GPT-4o-mini
+Append: ["On doublait le prix" : un an après avoir lancé le premier bateau à hydrogène, l'expérimentation prend fin](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/on-doublait-le-prix-un-an-apres-avoir-lance-le-premier-bateau-a-hydrogene-l-experimentation-prend-fin-3007289.html)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Accident du travail : un ouvrier blessé après l'explosion d'une bonbonne de gaz sur un chantier mobile de réparation des routes](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/accident-du-travail-un-ouvrier-blesse-apres-l-explosion-d-une-bonbonne-de-gaz-sur-un-chantier-mobile-de-reparation-des-routes-3008069.html)
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [Vacances : qu'est-ce que "l'arnaque à l'irlandaise" sur laquelle alerte la gendarmerie ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loir-cher/vacances-qu-est-ce-que-l-arnaque-a-l-irlandaise-sur-laquelle-alerte-la-gendarmerie-3008042.html)
+Token length: 309
+Summarized using GPT-4o-mini
+Append: [Accident sur l'A61 : un camion fauche deux personnes en train de changer un pneu sur la bande d'arrêt d'urgence](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/accident-sur-l-a61-un-camion-fauche-deux-personnes-en-train-de-changer-un-pneu-sur-la-bande-d-arret-d-urgence-3007982.html)
+Token length: 309
+Summarized using GPT-4o-mini
+Append: [Balades en été : randonnée vélo entre Amiens et Corbie, des hortillonnages aux étangs de la Barette](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/balades-en-ete-randonnee-velo-entre-amiens-et-corbie-des-hortillonnages-aux-etangs-de-la-barette-2977862.html)
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Objets perdus dans le métro : où les retrouver ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/objets-perdus-dans-le-metro-ou-les-retrouver-2982347.html)
+append_entries: 6
+Finish: 2024-07-22 12:44:28.415040

@@ -1136,3 +1136,15 @@ Existing_entries: 72
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-07-22 01:18:22.008986
+------------------------------------------------------
+Started: 2024-07-22 12:41:25.857508
+Existing_entries: 72
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 275
+Summarized using GPT-4o-mini
+Append: [Aviation : une campagne contre les vols à pilote unique](https://www.euractiv.fr/section/aviation/news/aviation-une-campagne-contre-les-vols-a-pilote-unique/)
+Token length: 238
+Summarized using GPT-4o-mini
+Append: [La production, enjeu du salon de Farnborough pour Boeing et Airbus](https://www.euractiv.fr/section/aviation/news/la-production-enjeu-du-salon-de-farnborough-pour-boeing-et-airbus/)
+append_entries: 2
+Finish: 2024-07-22 12:41:35.890259

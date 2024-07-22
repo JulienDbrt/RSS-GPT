@@ -1386,3 +1386,15 @@ Existing_entries: 142
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-22 01:18:32.566299
+------------------------------------------------------
+Started: 2024-07-22 12:43:42.451593
+Existing_entries: 142
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 252
+Summarized using GPT-4o-mini
+Append: ["Ici, ce qui est top, c’est le lien social" : Qui pour reprendre la seule boulangerie de l’ile de Groix ?](https://france3-regions.francetvinfo.fr/bretagne/morbihan/ici-ce-qui-est-top-c-est-le-lien-social-qui-pour-reprendre-la-seule-boulangerie-de-l-ile-de-groix-3008153.html)
+Token length: 363
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGES. "J'engraisse un monde capitaliste sans limites, c'est aberrant". Temps partiel, loisirs privilégiés, ils ont décidé de redonner du sens et de l'éthique à leur travail.](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/temoignages-j-engraisse-un-monde-capitaliste-sans-limites-c-est-aberrant-temps-partiel-loisirs-privilegies-ils-ont-decide-de-redonner-du-sens-et-de-l-ethique-a-leur-travail-3000950.html)
+append_entries: 2
+Finish: 2024-07-22 12:43:54.714579

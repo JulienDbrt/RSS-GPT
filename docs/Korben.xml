@@ -4,6 +4,50 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>2FAGuard – Un super client 2FA pour Windows 10 / 11</title>
+<link>https://korben.info/2faguard-appli-windows-moderne-securisee-codes-2fa.html</link>
+<guid>https://korben.info/2faguard-appli-windows-moderne-securisee-codes-2fa.html</guid>
+<content:encoded><![CDATA[
+<div> 2FAGuard, application, double authentification, sécurité, open source  
+
+<br><br>Summary:  
+2FAGuard est une application gratuite et open source qui permet de centraliser et gérer vos codes de double authentification. Vous pouvez importer facilement vos tokens 2FA depuis d'autres applications, et scanner des QR Codes pour ajouter de nouveaux codes. La sécurité est renforcée grâce à un chiffrement des données qui restent sur votre appareil. L'application est compatible avec Windows Hello, ce qui permet une authentification par empreinte digitale, reconnaissance faciale ou clé de sécurité. L'interface est minimaliste, offrant un accès rapide à vos tokens et aux fonctions essentielles. Vous pouvez verrouiller l'application au démarrage ou après une période d'inactivité, et un mode « incognito » est disponible pour masquer les codes à l'écran. Concernant le téléchargement, il existe deux versions : une application Windows 10/11 qui se met à jour automatiquement et une version desktop portable, idéale pour une utilisation depuis une clé USB. Enfin, il est conseillé d'utiliser des codes 2FA pour sécuriser vos comptes en ligne. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="222" src="https://korben.info/app/uploads/2024/04/SCR-20240409-gyw.webp" width="633" /></p>
+<p><strong>2FAGuard</strong> est une application <strong>moderne</strong>, <strong>gratuite</strong> et <strong>open source</strong> qui va vous permettre de centraliser et bien gérer vos codes de double authentification pour ensuite y accéder en un clin d&rsquo;œil.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1822048583" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Comme ça, vous importez vos tokens 2FA existants depuis d&rsquo;autres applis (Google Authenticator, Bitwarden et Authenticator Pro) en deux temps trois mouvements et c&rsquo;est immédiatement utilisable. Vous pouvez même ajouter de nouveaux codes simplement en scannant le QR Code qu&rsquo;un site vous donner. Et si vous êtes du genre parano (et vous avez bien raison), vous pouvez aussi exporter vos données quand vous voulez pour les mettre à l&rsquo;abri ailleurs.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-158784" height="400" src="https://korben.info/app/uploads/2024/04/SCR-20240409-gug.webp" width="663" /></figure></div>
+
+
+<p>Côté sécurité, les gars derrière 2FAGuard n&rsquo;ont pas fait les choses à moitié puisque les données sont <strong>chiffrées</strong> en <a href="https://doc.libsodium.org/secret-key_cryptography/aead/aegis-256" rel="noopener" target="_blank">AEGIS-256</a> et restent bien au chaud sur votre appareil. Et cerise sur le gâteau, l&rsquo;appli est compatible avec <strong>Windows Hello</strong> comme ça vous pouvez vous authentifiez avec votre empreinte digitale, votre visage ou une clé de sécurité..</p>
+
+
+
+<p>Comme vous le voyez, l&rsquo;interface de 2FAGuard est plutôt minimaliste, mais c&rsquo;est voulu. On a accès rapidement à tout ce dont on a besoin : la liste de nos tokens, un bouton pour en ajouter de nouveaux, un autre pour les paramètres, et c&rsquo;est tout. Simple et efficace. Sachez également que vous pouvez choisir de verrouiller l&rsquo;appli au démarrage ou après une certaine période d&rsquo;inactivité. Vous pouvez même activer un mode « incognito » qui masque les codes à l&rsquo;écran. Pratique si vous utilisez votre PC dans des lieux publics.</p>
+
+
+
+<p>Côté téléchargement, vous avez le choix entre deux versions : une app Windows 10 / 11 du Microsoft Store qui se met à jour automatiquement en arrière-plan, et une version classique « desktop » qui a l&rsquo;avantage d&rsquo;être portable, pratique pour l&rsquo;utiliser depuis une clé USB.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-909089083" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><a href="https://2faguard.app/en" rel="noopener" target="_blank">A découvrir ici.</a></p>
+
+
+
+<p>ps : Et si vous n&rsquo;utilisez pas de code 2FA pour vos comptes en ligne, vous feriez mieux de vous y mettre.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 22 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Bacon – Un outil écrit qui vérifie votre code Rust en arrière-plan</title>

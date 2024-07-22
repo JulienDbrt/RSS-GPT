@@ -1614,3 +1614,12 @@ Existing_entries: 218
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-07-22 01:18:31.132602
+------------------------------------------------------
+Started: 2024-07-22 12:43:25.836907
+Existing_entries: 218
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Objets perdus dans le métro : où les retrouver ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/objets-perdus-dans-le-metro-ou-les-retrouver-2982347.html)
+append_entries: 1
+Finish: 2024-07-22 12:43:29.460787

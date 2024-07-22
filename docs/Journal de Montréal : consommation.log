@@ -1417,3 +1417,9 @@ Summarized using GPT-4o-mini
 Append: [3 conseils pour ne pas vous ruiner pendant vos vacances](https://www.journaldemontreal.com/2024/07/20/3-conseils-pour-ne-pas-vous-ruiner-pendant-vos-vacances)
 append_entries: 1
 Finish: 2024-07-22 01:18:40.904419
+------------------------------------------------------
+Started: 2024-07-22 12:44:28.487823
+Existing_entries: 141
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-07-22 12:44:28.787196
