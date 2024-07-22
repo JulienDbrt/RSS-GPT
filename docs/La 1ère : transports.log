@@ -1714,3 +1714,12 @@ Summarized using GPT-4o-mini
 Append: [Un avion d'Air Austral tombe en panne à Nairobi](https://la1ere.francetvinfo.fr/mayotte/un-avion-d-air-austral-tombe-en-panne-a-nairobi-1507484.html)
 append_entries: 1
 Finish: 2024-07-21 12:40:08.714743
+------------------------------------------------------
+Started: 2024-07-22 01:19:14.720609
+Existing_entries: 240
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 95
+Summarized using GPT-4o-mini
+Append: [INFORMATIONS PRATIQUES. Le couvre-feu à 21h ce lundi soir, les horaires des services du gouvernement mis à jour et des écoles qui continuent d'ouvrir](https://la1ere.francetvinfo.fr/nouvellecaledonie/informations-pratiques-le-couvre-feu-a-21h-ce-lundi-soir-les-horaires-des-services-du-gouvernement-mis-a-jour-et-des-ecoles-qui-continuent-d-ouvrir-1507577.html)
+append_entries: 1
+Finish: 2024-07-22 01:19:17.538377

@@ -1795,3 +1795,9 @@ Summarized using GPT-4o-mini
 Append: [Météo, élections législatives... Un bilan des soldes d'été mitigé pour les commerçants lyonnais](https://www.europe1.fr/economie/meteo-elections-legislatives-un-bilan-des-soldes-dete-mitige-pour-les-commercants-lyonnais-4259208)
 append_entries: 1
 Finish: 2024-07-21 12:37:35.929465
+------------------------------------------------------
+Started: 2024-07-22 01:18:22.809948
+Existing_entries: 275
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-22 01:18:23.184178

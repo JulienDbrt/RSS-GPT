@@ -4252,3 +4252,18 @@ Summarized using GPT-4o-mini
 Append: [Qui veut vraiment réduire la dette ?](https://www.latribune.fr/economie/politique/qui-veut-vraiment-reduire-la-dette-1002746.html)
 append_entries: 10
 Finish: 2024-07-21 12:42:20.810205
+------------------------------------------------------
+Started: 2024-07-22 01:19:47.664431
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 110
+Summarized using GPT-4o-mini
+Append: [Retrait de Joe Biden : pour Donald Trump, une nouvelle campagne s'ouvre](https://www.latribune.fr/economie/international/presidentielle-americaine-2024/retrait-de-joe-biden-pour-donald-trump-une-nouvelle-campagne-s-ouvre-1002794.html)
+Token length: 175
+Summarized using GPT-4o-mini
+Append: [Fin de course pour Joe Biden : récit des derniers jours du président](https://www.latribune.fr/economie/international/presidentielle-americaine-2024/fin-de-course-pour-joe-biden-recit-des-derniers-jours-du-president-1002791.html)
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [Joe Biden renonce à sa candidature et soutient celle de Kamala Harris](https://www.latribune.fr/economie/international/joe-biden-renonce-a-sa-candidature-et-soutient-celle-de-kamala-harris-1002790.html)
+append_entries: 3
+Finish: 2024-07-22 01:19:56.990549

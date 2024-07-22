@@ -5243,3 +5243,9 @@ Summarized using GPT-4o-mini
 Append: [Gérald Darmanin estime que le "smic peut être augmenté"](https://www.francetvinfo.fr/economie/gerald-darmanin-estime-que-le-smic-peut-etre-augmente_6678534.html)
 append_entries: 2
 Finish: 2024-07-21 12:37:53.514225
+------------------------------------------------------
+Started: 2024-07-22 01:18:25.728735
+Existing_entries: 1002
+Fetching from https://www.francetvinfo.fr/economie.rss
+append_entries: 0
+Finish: 2024-07-22 01:18:25.844630

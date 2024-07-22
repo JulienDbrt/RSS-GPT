@@ -1662,3 +1662,9 @@ Summarized using GPT-4o-mini
 Append: [À la fois bistrot, brocante, librairie et salle de concert : dans l'Yonne, l'atypique Maquis de Vareilles cherche un repreneur !](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/a-la-fois-bistrot-brocante-librairie-et-salle-de-concert-dans-l-yonne-l-atypique-maquis-de-vareilles-cherche-un-repreneur-3007136.html)
 append_entries: 5
 Finish: 2024-07-21 12:39:05.723988
+------------------------------------------------------
+Started: 2024-07-22 01:18:32.008226
+Existing_entries: 236
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-22 01:18:32.084007
