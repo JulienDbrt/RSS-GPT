@@ -2002,3 +2002,15 @@ Existing_entries: 340
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-07-23 01:21:42.080123
+------------------------------------------------------
+Started: 2024-07-23 12:48:05.248931
+Existing_entries: 340
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Ce sont les nouveaux secrétaires de mairie](https://www.ladepeche.fr/2024/07/23/ce-sont-les-nouveaux-secretaires-de-mairie-12097593.php)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Des formations pour les métiers en tension de l’aéronautique](https://www.ladepeche.fr/2024/07/23/des-formations-pour-les-metiers-en-tension-de-laeronautique-12097558.php)
+append_entries: 2
+Finish: 2024-07-23 12:48:13.734313

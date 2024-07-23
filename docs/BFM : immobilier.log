@@ -1747,3 +1747,15 @@ Summarized using GPT-4o-mini
 Append: [CARTE. Quels sont les arrondissements les plus bruyants de Paris?](https://www.bfmtv.com/immobilier/renovation-travaux/carte-quels-sont-les-arrondissements-les-plus-bruyants-de-paris_AV-202407220475.html)
 append_entries: 2
 Finish: 2024-07-23 01:17:39.085248
+------------------------------------------------------
+Started: 2024-07-23 12:40:37.579632
+Existing_entries: 271
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 263
+Summarized using GPT-4o-mini
+Append: ["Stopper la dérive actuelle du marché locatif": un choc fiscal en préparation pour limiter Airbnb?](https://www.bfmtv.com/immobilier/location/stopper-la-derive-actuelle-du-marche-locatif-un-choc-fiscal-en-preparation-pour-limiter-airbnb_AV-202407230357.html)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Deux morts et treize blessés dans l'effondrement d'un balcon dans un immeuble à Naples](https://www.bfmtv.com/immobilier/international-etranger/deux-morts-et-treize-blesses-dans-l-effondrement-d-un-balcon-dans-un-immeuble-a-naples_AD-202407230313.html)
+append_entries: 2
+Finish: 2024-07-23 12:40:50.850204

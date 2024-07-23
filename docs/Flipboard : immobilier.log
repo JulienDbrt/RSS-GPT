@@ -3603,3 +3603,27 @@ Summarized using GPT-4o-mini
 Append: [L’avantageux régime fiscal des locations meublées voué à être raboté](https://www.lopinion.fr/economie/lavantageux-regime-fiscal-des-locations-meublees-voue-a-etre-rabote)
 append_entries: 2
 Finish: 2024-07-23 01:13:43.712425
+------------------------------------------------------
+Started: 2024-07-23 12:34:06.273547
+Existing_entries: 1002
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [À deux jours des JO de Paris, ils n'ont toujours pas loué leur Airbnb et sont ruinés](https://www.maison-travaux.fr/actualites/budget/immobilier/jo-2024-baisse-prix-location-paris-562792.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Propriétaire : son logement loué a été rénové en passant d’un DPE G à A sans dépenser un centime](https://www.presse-citron.net/proprietaire-son-logement-loue-a-ete-renove-en-passant-dun-dpe-g-a-a-sans-depenser-un-centime/)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Immobilier : Vers la suppression du régime fiscal LMNP ?](https://www.capitalinsight.fr/immobilier-vers-la-suppression-du-regime-fiscal-lmnp/)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Cette ville borde l'une des plus belles plages de France : comptez 300 000 euros pour une belle maison](https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/2616-maison-plage/)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Lyon. L’ex-tour du CIRC cédée pour seulement 1,2 million d’euros par la Ville, pourquoi un prix si bas ?](https://www.leprogres.fr/economie/2024/07/22/l-ex-tour-du-circ-cedee-pour-seulement-1-2-million-d-euros-par-la-ville-pourquoi-un-prix-si-bas)
+Token length: 301
+Summarized using GPT-4o-mini
+Append: [Achat d'un appartement : où en Europe cela vous coûtera-t-il le plus cher ?](https://fr.euronews.com/business/2024/07/23/achat-dun-appartement-ou-en-europe-cela-vous-coutera-t-il-le-plus-cher)
+append_entries: 6
+Finish: 2024-07-23 12:34:41.992264

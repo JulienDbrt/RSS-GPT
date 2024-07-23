@@ -1632,3 +1632,18 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. JO de Paris 2024 : "on s'attendait à un truc de malade et pour l'instant, c'est la moitié du chiffre d'affaires qui est perdu"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/reportage-jo-de-paris-2024-on-s-attendait-a-un-truc-de-malade-et-pour-l-instant-c-est-la-moitie-du-chiffre-d-affaires-qui-est-perdu-3008207.html)
 append_entries: 1
 Finish: 2024-07-23 01:19:41.365941
+------------------------------------------------------
+Started: 2024-07-23 12:44:00.984803
+Existing_entries: 220
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Comment la mauvaise météo a plombé les soldes d'été à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/comment-la-mauvaise-meteo-a-plombe-les-soldes-d-ete-a-paris-3008606.html)
+Token length: 161
+Summarized using GPT-4o-mini
+Append: [Métro et RER : "forte amélioration de la ponctualité" dans les transports en commun franciliens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/metro-et-rer-forte-amelioration-de-la-ponctualite-dans-les-transports-en-commun-franciliens-3008450.html)
+Token length: 288
+Summarized using GPT-4o-mini
+Append: [Envie de changer d'air ? Découvrez 5 balades à pied à faire en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/envie-de-changer-d-air-decouvrez-5-balades-a-pied-a-faire-en-ile-de-france-2987252.html)
+append_entries: 3
+Finish: 2024-07-23 12:44:14.765739

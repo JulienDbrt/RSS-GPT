@@ -1404,3 +1404,15 @@ Existing_entries: 144
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-23 01:19:48.642389
+------------------------------------------------------
+Started: 2024-07-23 12:44:43.705346
+Existing_entries: 144
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 388
+Summarized using GPT-4o-mini
+Append: [Grève de la faim et référé pour suspendre les travaux, un projet d'antenne 4G qui divise à Lopérec](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/greve-de-la-faim-et-refere-pour-suspendre-les-travaux-un-projet-d-antenne-4g-qui-divise-a-loperec-3008645.html)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGES. "La vie ce n'est pas que le travail". Ils mettent sur pause, et s'offrent le temps de réfléchir à leur avenir](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/temoignages-la-vie-ce-n-est-pas-que-le-travail-ils-mettent-sur-pause-et-s-offrent-le-temps-de-reflechir-a-leur-avenir-3001067.html)
+append_entries: 2
+Finish: 2024-07-23 12:44:53.892511

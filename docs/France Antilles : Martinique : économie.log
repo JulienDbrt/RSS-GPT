@@ -2018,3 +2018,12 @@ Summarized using GPT-4o-mini
 Append: [Air France : le vol AF604 entre Pointe-à-Pitre et Cayenne annulé ce lundi](https://www.martinique.franceantilles.fr/actualite/economie/air-france-le-vol-af604-entre-pointe-a-pitre-et-cayenne-annule-ce-lundi-996821.php)
 append_entries: 1
 Finish: 2024-07-23 01:18:31.704303
+------------------------------------------------------
+Started: 2024-07-23 12:42:09.932408
+Existing_entries: 362
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Reprise des vols Air Antilles entre la Martinique et la Guadeloupe](https://www.martinique.franceantilles.fr/actualite/economie/reprise-des-vols-air-antilles-entre-la-martinique-et-la-guadeloupe-996922.php)
+append_entries: 1
+Finish: 2024-07-23 12:42:11.123079

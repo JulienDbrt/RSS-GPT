@@ -4,6 +4,103 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>MapSCII – Explorez le monde en ASCII depuis votre terminal</title>
+<link>https://korben.info/mapscii-explorez-monde-ascii-terminal.html</link>
+<guid>https://korben.info/mapscii-explorez-monde-ascii-terminal.html</guid>
+<content:encoded><![CDATA[
+<div> MapSCII, carte ASCII, Node.js, OpenStreetMap, interface terminal
+
+<br><br>Summary: 
+MapSCII est un outil en ligne de commande qui permet d'explorer le monde entier en utilisant des caractères ASCII, fonctionnant sur des terminaux compatibles xterm. Il transforme les données d’OpenStreetMap en caractères Braille et ASCII grâce à Node.js. Cet outil permet de naviguer sur la carte avec la souris ou le clavier et offre la possibilité de découvrir des points d'intérêt comme des restaurants, des parcs ou des monuments. 
+
+MapSCII autorise également la personnalisation des styles de carte via Mapbox et se connecte à tout serveur de tuiles vectorielles. Il peut être utilisé hors ligne en utilisant des fichiers MBTiles ou VectorTiles, idéal pour les randonnées sans connexion internet. La compatibilité s'étend à la plupart des terminaux sous Linux et macOS, et il est entièrement développé en JavaScript. 
+
+Pour installer MapSCII, il suffit de disposer de Node.js version 10 ou supérieure et d'exécuter une commande simple. En outre, un serveur Telnet permet de tester l'outil à distance. L'intégration de MapSCII dans des outils TUI ou des jeux d'aventure textuels est également possible, apportant une couche ludique à l'exploration en ASCII. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="171" src="https://korben.info/app/uploads/2024/04/SCR-20240409-lzs.webp" width="622" /></p>
+<p>Vous êtes-vous déjà demandé à quoi ressemblerait une carte du monde dans votre terminal ? Et bien grâce à <strong>MapSCII</strong>, vous allez le découvrir. En effet, ce fantastique outil en ligne de commande vous permet d&rsquo;explorer le monde entier en ASCII, directement depuis votre terminal.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1045287967" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p><a href="https://github.com/rastapasta/mapscii" rel="noopener" target="_blank"><strong>MapSCII</strong></a> est ce qu&rsquo;on appelle un « renderer de <a href="https://wiki.openstreetmap.org/wiki/Vector_tiles" rel="noopener" target="_blank">tuiles <strong>vectorielles</strong></a> » (à mes souhaits) basé sur Node.js qui transforme les données d&rsquo;<strong>OpenStreetMap</strong> en caractères <strong>Braille</strong> et <strong>ASCII</strong> pour les terminaux compatibles xterm. Avec MapSCII, vous pouvez donc naviguer sur la carte en utilisant simplement votre souris pour faire glisser et zoomer, ou en utilisant les flèches de votre clavier.</p>
+
+
+
+<p>Mais MapSCII ne se contente pas de vous montrer une simple carte statique. Il vous permet également de découvrir les points d&rsquo;intérêt autour de n&rsquo;importe quel endroit. Que vous cherchiez des restaurants, des parcs ou des monuments historiques, MapSCII vous aidera à les trouver.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-158795" height="705" src="https://korben.info/app/uploads/2024/04/SCR-20240409-ltd-1024x705.webp" width="1024" /></figure>
+
+
+
+<p>L&rsquo;une des fonctionnalités les plus intéressantes de MapSCII est sa capacité à personnaliser le look des couches de la carte en utilisant les styles <strong>Mapbox</strong>. Vous pouvez ainsi adapter l&rsquo;apparence de la carte selon vos préférences. et il peut se connecter à n&rsquo;importe quel serveur de tuiles vectorielles public ou privé. Il est même fourni avec un serveur optimisé basé sur <strong>OSM2VectorTiles</strong>, vous permettant ainsi d&rsquo;accéder à des données cartographiques mondiales de haute qualité.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-158796" height="705" src="https://korben.info/app/uploads/2024/04/SCR-20240409-lu2-1024x705.webp" width="1024" /></figure></div>
+
+
+<p>Vous pouvez également l&rsquo;utiliser hors ligne en chargeant des fichiers <strong>MBTiles</strong> ou <strong>VectorTiles</strong> locaux. C&rsquo;est particulièrement utile si vous partez en randonnée dans une zone sans connexion Internet (LOL) !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-270376434" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>C&rsquo;est compatible avec la plupart des terminaux Linux et macOS et le plus beau c&rsquo;est que c&rsquo;est entièrement développé en <strong>JavaScript</strong> ! </p>
+
+
+
+<p>Pour installer MapSCII, rien de plus simple. Si vous avez Node.js version 10 ou supérieure, il vous suffit d&rsquo;exécuter la commande </p>
+
+
+
+<p><code>npx mapscii</code></p>
+
+
+
+<p>Vous pouvez également l&rsquo;installer de manière globale sur votre système avec </p>
+
+
+
+<p><code>npm install -g mapscii</code></p>
+
+
+
+<p>Et sur les distributions Linux qui le permettent, vous pouvez même installer MapSCII avec snap : </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-843479905" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><code>sudo snap install mapscii</code></p>
+
+
+
+<p>Une fois installé, lancez simplement <code>mapscii</code> dans votre terminal et laissez-vous guider. </p>
+
+
+
+<p>Après si comme moi, vous avez la méga flemme, y&rsquo;a un serveur Telnet qui vous permet de tester à distance. Ouvrez un terminal et lancez la connexion suivante : </p>
+
+
+
+<pre class="wp-block-code"><code>telnet mapscii.me</code></pre>
+
+
+
+<p>Utilisez les flèches pour vous déplacer, &lsquo;a&rsquo; et &lsquo;z&rsquo; pour zoomer, &lsquo;c&rsquo; pour basculer en mode caractères Braille, et &lsquo;q&rsquo; pour quitter.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-158793" height="803" src="https://korben.info/app/uploads/2024/04/SCR-20240409-m08-1024x803.webp" width="1024" /></figure>
+
+
+
+<p>Du coup, ça peut permettre de faire des trucs cool comme intégrer une map dans un outil TUI ou un jeu d&rsquo;aventure textuel où les joueurs exploraient un monde en ASCII !</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>2FAGuard – Un super client 2FA pour Windows 10 / 11</title>

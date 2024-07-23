@@ -1254,3 +1254,12 @@ Existing_entries: 94
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-07-23 01:16:45.363808
+------------------------------------------------------
+Started: 2024-07-23 12:39:16.526183
+Existing_entries: 94
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [La réforme des retraites a-t-elle fait augmenter le taux d'activité des seniors?](https://www.bfmtv.com/economie/emploi/la-reforme-des-retraites-a-t-elle-fait-augmenter-le-taux-d-activite-des-seniors_AV-202407230399.html)
+append_entries: 1
+Finish: 2024-07-23 12:39:19.620419
