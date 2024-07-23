@@ -1861,3 +1861,12 @@ Summarized using GPT-4o-mini
 Append: [Au Luxembourg: Le nombre de chômeurs issus de pays hors UE a explosé](https://www.lessentiel.lu/fr/story/au-luxembourg-le-nombre-de-chomeurs-issus-de-pays-hors-ue-a-explose-103150398)
 append_entries: 6
 Finish: 2024-07-22 12:45:06.895973
+------------------------------------------------------
+Started: 2024-07-23 01:20:08.684799
+Existing_entries: 345
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Luxembourg: Luxair s'offre deux nouveaux Boeing  737-10](https://www.lessentiel.lu/fr/story/luxembourg-luxair-s-offre-deux-nouveaux-boeing-737-10-103153796)
+append_entries: 1
+Finish: 2024-07-23 01:20:12.958542

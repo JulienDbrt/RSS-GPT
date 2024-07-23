@@ -1532,3 +1532,15 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris, départs et retours de vacances… : les routes françaises en rouge et noir ce vendredi](https://www.lalibre.be/belgique/mobilite/2024/07/22/jo-de-paris-departs-et-retours-de-vacances-les-routes-francaises-en-rouge-et-noir-ce-vendredi-EJNJ7CTDE5ABHKV5EZM6JQQ7S4/)
 append_entries: 1
 Finish: 2024-07-22 12:48:11.805976
+------------------------------------------------------
+Started: 2024-07-23 01:21:56.938397
+Existing_entries: 208
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 85
+Summarized using GPT-4o-mini
+Append: [Voici les infractions routières les plus fréquentes en 2023](https://www.lalibre.be/belgique/mobilite/2024/07/22/plus-de-84-millions-dinfractions-routieres-en-2023-voici-les-principaux-delits-V6ZLKJIQSJGRTGRRQEM5HH4CSY/)
+Token length: 123
+Summarized using GPT-4o-mini
+Append: [Attention si vous passez par Jezus-Eik, où les chantiers s’additionnent cet été: une rue sera mise  à sens unique dès lundi prochain](https://www.lalibre.be/belgique/mobilite/2024/07/22/attention-si-vous-passez-par-jezus-eik-ou-les-chantiers-sadditionnent-cet-ete-une-rue-sera-mise-a-sens-unique-des-ce-lundi-XCU4AHYRGZC43L5GENT73KDS5Q/)
+append_entries: 2
+Finish: 2024-07-23 01:22:04.143266

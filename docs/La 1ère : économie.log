@@ -3700,3 +3700,30 @@ Summarized using GPT-4o-mini
 Append: [Dialogue de sourds à l'aéroport de Tahiti-Faa'a, turbulences attendues dans les airs](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/greve-dialogue-de-sourds-a-l-aeroport-de-tahiti-faa-a-turbulences-attendues-dans-les-airs-1507592.html)
 append_entries: 6
 Finish: 2024-07-22 12:45:37.770103
+------------------------------------------------------
+Started: 2024-07-23 01:20:20.227124
+Existing_entries: 898
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 89
+Summarized using GPT-4o-mini
+Append: [Crise en Nouvelle-Calédonie. Face à l'incertitude professionnelle, les employés de Koniambo Nickel se préparent à changer de vie](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-nord/crise-en-nouvelle-caledonie-face-a-l-incertitude-professionnelle-les-employes-de-koniambo-nickel-se-preparent-a-changer-de-vie-1507880.html)
+Token length: 15
+Summarized using GPT-4o-mini
+Append: [L'impact de la crise en Nouvelle-Calédonie fortement ressenti à Wallis et Futuna](https://la1ere.francetvinfo.fr/wallisfutuna/l-impact-de-la-crise-en-nouvelle-caledonie-fortement-ressenti-a-wallis-et-futuna-1507889.html)
+Token length: 45
+Summarized using GPT-4o-mini
+Append: [Crise en Nouvelle-Calédonie. Chômage partiel à la société SudÎles qui gère le "Betico"](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/ile-pins/crise-en-nouvelle-caledonie-chomage-partiel-a-la-societe-sudiles-qui-gere-le-betico-1507748.html)
+Token length: 87
+Summarized using GPT-4o-mini
+Append: [Route des Terre-Neuvas 2024 : À un mois du départ, des détails de logistique restent à régler](https://la1ere.francetvinfo.fr/saintpierremiquelon/route-des-terre-neuvas-2024-a-un-mois-du-depart-des-details-de-logistique-restent-a-regler-1507394.html)
+Token length: 74
+Summarized using GPT-4o-mini
+Append: [Pêche en Guadeloupe : pertes d'activité, faibles rémunérations, les professionnels sont inquiets pour leur avenir](https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/morne-eau/peche-en-guadeloupe-pertes-d-activite-faibles-remunerations-les-professionnels-sont-inquiets-pour-leur-avenir-1507766.html)
+Token length: 10
+Summarized using GPT-4o-mini
+Append: [À Langlade, les portes de Chez Janot restent fermées cet été](https://la1ere.francetvinfo.fr/saintpierremiquelon/miquelon-langlade/a-langlade-les-portes-de-chez-janot-restent-fermees-cet-ete-1507739.html)
+Token length: 55
+Summarized using GPT-4o-mini
+Append: [Les deux lignes du TCSP de Martinique et plusieurs liaisons du réseau centre à l'arrêt ce lundi matin](https://la1ere.francetvinfo.fr/martinique/les-deux-lignes-du-tcsp-de-martinique-a-l-arret-ce-lundi-matin-1507703.html)
+append_entries: 7
+Finish: 2024-07-23 01:20:39.422951

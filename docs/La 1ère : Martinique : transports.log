@@ -1081,3 +1081,9 @@ Summarized using GPT-4o-mini
 Append: [Les deux lignes du TCSP de Martinique à l'arrêt ce lundi matin](https://la1ere.francetvinfo.fr/martinique/les-deux-lignes-du-tcsp-de-martinique-a-l-arret-ce-lundi-matin-1507703.html)
 append_entries: 1
 Finish: 2024-07-22 12:45:43.112847
+------------------------------------------------------
+Started: 2024-07-23 01:20:43.330913
+Existing_entries: 25
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-23 01:20:43.575656
