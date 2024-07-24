@@ -1342,3 +1342,9 @@ Summarized using GPT-4o-mini
 Append: [La situation financière des collectivités territoriales d’Outre-mer s'améliore](https://la1ere.francetvinfo.fr/la-situation-financiere-des-collectivites-territoriales-d-outre-mer-s-ameliore-1508075.html)
 append_entries: 1
 Finish: 2024-07-24 01:21:27.426677
+------------------------------------------------------
+Started: 2024-07-24 12:43:25.384537
+Existing_entries: 106
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-24 12:43:25.882957

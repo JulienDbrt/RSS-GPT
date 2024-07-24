@@ -4369,3 +4369,18 @@ Summarized using GPT-4o-mini
 Append: [Soupçonnée de fraude fiscale, une filiale d'Amazon se voit saisir 121 millions d'euros par la justice italienne](https://www.latribune.fr/economie/international/soupconnee-de-fraude-fiscale-une-filiale-d-amazon-se-voit-saisir-121-millions-d-euros-par-la-justice-italienne-1002899.html)
 append_entries: 4
 Finish: 2024-07-24 01:22:57.718727
+------------------------------------------------------
+Started: 2024-07-24 12:45:17.413360
+Existing_entries: 1004
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Retraites, salaires, services publics... Les priorités de Lucie Castets, candidate de la gauche à Matignon](https://www.latribune.fr/economie/politique/retraites-salaires-services-publics-les-priorites-de-lucie-castets-candidate-de-la-gauche-a-matignon-1002977.html)
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Les 5 infos business à retenir ce mercredi matin (LVMH, hydrogène, Harris, déchets, JO)](https://www.latribune.fr/economie/les-5-infos-business-a-retenir-ce-mercredi-matin-lvmh-hydrogene-harris-dechets-jo-1002950.html)
+Token length: 358
+Summarized using GPT-4o-mini
+Append: [À quoi pourrait ressembler le programme économique de Kamala Harris ?](https://www.latribune.fr/economie/international/presidentielle-americaine-2024/a-quoi-pourrait-ressembler-le-programme-economique-de-kamala-harris-1002856.html)
+append_entries: 3
+Finish: 2024-07-24 12:45:30.020440

@@ -1354,3 +1354,12 @@ Summarized using GPT-4o-mini
 Append: [À Toulouse, le marché de l’immobilier est toujours sous tension](https://www.ladepeche.fr/2024/07/23/a-toulouse-le-marche-de-limmobilier-est-toujours-sous-tension-12098520.php)
 append_entries: 1
 Finish: 2024-07-24 01:22:25.377907
+------------------------------------------------------
+Started: 2024-07-24 12:44:22.329529
+Existing_entries: 120
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Saint-Sulpice-la-Pointe. Logement : la commune classée en zone tendue](https://www.ladepeche.fr/2024/07/24/logement-la-commune-classee-en-zone-tendue-12099321.php)
+append_entries: 1
+Finish: 2024-07-24 12:44:27.788260

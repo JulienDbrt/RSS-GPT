@@ -1653,3 +1653,12 @@ Existing_entries: 223
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-07-24 01:20:16.379704
+------------------------------------------------------
+Started: 2024-07-24 12:41:28.765812
+Existing_entries: 223
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Qui est à l'origine du design de la station Porte Dauphine ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/qui-est-a-l-origine-du-design-de-la-station-porte-dauphine-2982395.html)
+append_entries: 1
+Finish: 2024-07-24 12:41:33.455897

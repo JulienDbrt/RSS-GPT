@@ -1559,3 +1559,15 @@ Existing_entries: 211
 Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
 append_entries: 0
 Finish: 2024-07-24 01:22:44.828771
+------------------------------------------------------
+Started: 2024-07-24 12:45:08.696202
+Existing_entries: 211
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 127
+Summarized using GPT-4o-mini
+Append: [Grosse panne informatique à la SNCB : la circulation des trains fortement perturbée](https://www.lalibre.be/belgique/mobilite/2024/07/24/grosse-panne-informatique-a-la-sncb-la-circulation-des-trains-fortement-perturbee-V77473TVO5EFDKSFJOR6Z77JOM/)
+Token length: 72
+Summarized using GPT-4o-mini
+Append: [Deux semaines de travaux en direction de la France mi-août](https://www.lalibre.be/belgique/mobilite/2024/07/24/deux-semaines-de-travaux-en-direction-de-la-france-mi-aout-SHQDTYFTT5FAJOJPIHHS3VA3GM/)
+append_entries: 2
+Finish: 2024-07-24 12:45:16.872243

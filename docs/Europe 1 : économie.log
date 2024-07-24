@@ -1843,3 +1843,9 @@ Summarized using GPT-4o-mini
 Append: [Impôts : tout savoir sur le remboursement du «trop-perçu» prévu à partir de mercredi](https://www.europe1.fr/economie/impots-le-remboursement-du-trop-percu-sera-verse-aux-contribuables-concernes-a-partir-de-mercredi-4259579)
 append_entries: 1
 Finish: 2024-07-24 01:19:10.723651
+------------------------------------------------------
+Started: 2024-07-24 12:39:54.329842
+Existing_entries: 281
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-24 12:39:54.783088

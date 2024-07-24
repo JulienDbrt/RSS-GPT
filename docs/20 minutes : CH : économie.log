@@ -1891,3 +1891,15 @@ Summarized using GPT-4o-mini
 Append: [Enquête contre Nestlé Waters sur des forages non autorisés](https://www.20min.ch/fr/story/france-enquete-contre-nestle-waters-sur-des-forages-non-autorises-103154314)
 append_entries: 2
 Finish: 2024-07-24 01:16:18.285574
+------------------------------------------------------
+Started: 2024-07-24 12:36:14.302031
+Existing_entries: 329
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 191
+Summarized using GPT-4o-mini
+Append: [Coup de tonnerre: la chaîne C8 perd sa fréquence télé](https://www.20min.ch/fr/story/frequences-tele-les-chaines-c8-et-nrj12-non-retenues-par-le-regulateur-de-l-audiovisuel-103154641)
+Token length: 165
+Summarized using GPT-4o-mini
+Append: [Monsieur Prix fait baisser la facture de parking de 1440 à 360 fr](https://www.20min.ch/fr/story/tartegnin-monsieur-prix-fait-baisser-le-prix-du-macaron-de-parking-103151621)
+append_entries: 2
+Finish: 2024-07-24 12:36:21.965588

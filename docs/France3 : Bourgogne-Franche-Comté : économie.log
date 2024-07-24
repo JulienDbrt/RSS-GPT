@@ -1701,3 +1701,15 @@ Existing_entries: 239
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-07-24 01:20:30.523198
+------------------------------------------------------
+Started: 2024-07-24 12:41:46.127851
+Existing_entries: 239
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [“On a un joli petit village, mais il est gâché par les nuisances sonores” : des habitants épuisés par le bruit de l’A36](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/on-a-un-joli-petit-village-mais-il-est-gache-par-les-nuisances-sonores-les-habitants-de-bermont-epuises-par-le-bruit-de-l-a36-3009101.html)
+Token length: 306
+Summarized using GPT-4o-mini
+Append: [Vaches égorgées, à l'agonie, pendues par les pattes : L214 demande la fermeture immédiate de cet abattoir](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/vaches-egorgees-a-l-agonie-pendues-par-les-pattes-l214-demande-la-fermeture-immediate-d-un-abattoir-en-cote-d-or-3008861.html)
+append_entries: 2
+Finish: 2024-07-24 12:41:54.134271
