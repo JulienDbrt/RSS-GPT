@@ -1347,3 +1347,15 @@ Existing_entries: 123
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
 append_entries: 0
 Finish: 2024-07-23 12:38:58.280907
+------------------------------------------------------
+Started: 2024-07-24 01:17:04.597725
+Existing_entries: 123
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 290
+Summarized using GPT-4o-mini
+Append: [Des associations antinucléaires contestent en justice le démarrage de l'EPR de Flamanville](https://www.bfmtv.com/economie/entreprises/energie/des-associations-antinucleaires-contestent-en-justice-le-demarrage-de-l-epr-de-flamanville_AD-202407230653.html)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Fuite d'acide nitrique à La Hague: l'ASN ordonne à Orano d'examiner "sans délai" ses cuves](https://www.bfmtv.com/economie/entreprises/energie/fuite-d-acide-nitrique-a-la-hague-l-asn-ordonne-a-orano-d-examiner-sans-delai-ses-cuves_AD-202407230620.html)
+append_entries: 2
+Finish: 2024-07-24 01:17:10.937622

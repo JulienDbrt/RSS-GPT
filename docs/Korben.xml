@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>MapSCII – Explorez le monde en ASCII depuis votre terminal</title>
 <link>https://korben.info/mapscii-explorez-monde-ascii-terminal.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> MapSCII, carte ASCII, Node.js, OpenStreetMap, interface terminal
 
-<br><br>Summary: 
+<br /><br />Summary: 
 MapSCII est un outil en ligne de commande qui permet d'explorer le monde entier en utilisant des caractères ASCII, fonctionnant sur des terminaux compatibles xterm. Il transforme les données d’OpenStreetMap en caractères Braille et ASCII grâce à Node.js. Cet outil permet de naviguer sur la carte avec la souris ou le clavier et offre la possibilité de découvrir des points d'intérêt comme des restaurants, des parcs ou des monuments. 
 
 MapSCII autorise également la personnalisation des styles de carte via Mapbox et se connecte à tout serveur de tuiles vectorielles. Il peut être utilisé hors ligne en utilisant des fichiers MBTiles ou VectorTiles, idéal pour les randonnées sans connexion internet. La compatibilité s'étend à la plupart des terminaux sous Linux et macOS, et il est entièrement développé en JavaScript. 
@@ -99,9 +100,7 @@ Pour installer MapSCII, il suffit de disposer de Node.js version 10 ou supérieu
 <p>Du coup, ça peut permettre de faire des trucs cool comme intégrer une map dans un outil TUI ou un jeu d&rsquo;aventure textuel où les joueurs exploraient un monde en ASCII !</p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 23 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>2FAGuard – Un super client 2FA pour Windows 10 / 11</title>
 <link>https://korben.info/2faguard-appli-windows-moderne-securisee-codes-2fa.html</link>

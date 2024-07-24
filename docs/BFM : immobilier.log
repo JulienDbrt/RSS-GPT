@@ -1759,3 +1759,9 @@ Summarized using GPT-4o-mini
 Append: [Deux morts et treize blessés dans l'effondrement d'un balcon dans un immeuble à Naples](https://www.bfmtv.com/immobilier/international-etranger/deux-morts-et-treize-blesses-dans-l-effondrement-d-un-balcon-dans-un-immeuble-a-naples_AD-202407230313.html)
 append_entries: 2
 Finish: 2024-07-23 12:40:50.850204
+------------------------------------------------------
+Started: 2024-07-24 01:18:08.641854
+Existing_entries: 273
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-24 01:18:09.153391

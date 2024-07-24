@@ -1748,3 +1748,15 @@ Existing_entries: 250
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-07-23 12:37:21.783853
+------------------------------------------------------
+Started: 2024-07-24 01:16:18.412382
+Existing_entries: 250
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 117
+Summarized using GPT-4o-mini
+Append: [Epargne : Pourquoi les livrets A et LDDS attirent bien moins que l’an dernier](https://www.20minutes.fr/economie/4102714-20240723-pourquoi-livrets-ldds-attirent-bien-moins-an-dernier)
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Transport aérien : Ryanair a dû baisser le prix des billets pour remplir les avions](https://www.20minutes.fr/economie/4102691-20240723-transport-aerien-ryanair-baisser-prix-billets-remplir)
+append_entries: 2
+Finish: 2024-07-24 01:16:25.877658

@@ -4351,3 +4351,21 @@ Summarized using GPT-4o-mini
 Append: [Le prix des fruits et légumes baisse en 2024, sans compenser l'inflation des années précédentes](https://www.latribune.fr/economie/france/le-prix-des-fruits-et-legumes-baisse-en-2024-sans-compenser-l-inflation-des-annees-precedentes-1002866.html)
 append_entries: 5
 Finish: 2024-07-23 12:49:25.206497
+------------------------------------------------------
+Started: 2024-07-24 01:22:45.375190
+Existing_entries: 1005
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 101
+Summarized using GPT-4o-mini
+Append: [Nouveau gouvernement, JO, Israël : ce qu'il faut retenir de l'interview d'Emmanuel Macron](https://www.latribune.fr/economie/politique/nouveau-gouvernement-jo-israel-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-1002931.html)
+Token length: 265
+Summarized using GPT-4o-mini
+Append: [Matignon : le NFP s'accorde sur la candidature de Lucie Castets](https://www.latribune.fr/economie/france/matignon-le-nfp-s-accorde-sur-la-candidature-de-lucie-castets-1002932.html)
+Token length: 489
+Summarized using GPT-4o-mini
+Append: [Productivité : le sévère décrochage de la France](https://www.latribune.fr/economie/france/productivite-le-severe-decrochage-de-la-france-1002879.html)
+Token length: 179
+Summarized using GPT-4o-mini
+Append: [Soupçonnée de fraude fiscale, une filiale d'Amazon se voit saisir 121 millions d'euros par la justice italienne](https://www.latribune.fr/economie/international/soupconnee-de-fraude-fiscale-une-filiale-d-amazon-se-voit-saisir-121-millions-d-euros-par-la-justice-italienne-1002899.html)
+append_entries: 4
+Finish: 2024-07-24 01:22:57.718727

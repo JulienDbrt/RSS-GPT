@@ -1086,3 +1086,9 @@ Summarized using GPT-4o-mini
 Append: [La BBC va supprimer 500 postes d'ici deux ans](https://www.bfmtv.com/economie/entreprises/culture-loisirs/la-bbc-va-supprimer-500-postes-d-ici-deux-ans_AD-202407230410.html)
 append_entries: 1
 Finish: 2024-07-23 12:39:50.942350
+------------------------------------------------------
+Started: 2024-07-24 01:17:39.390873
+Existing_entries: 36
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/culture-loisirs/
+append_entries: 0
+Finish: 2024-07-24 01:17:39.588878

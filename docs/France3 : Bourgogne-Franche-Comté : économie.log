@@ -1695,3 +1695,9 @@ Summarized using GPT-4o-mini
 Append: [Sur les chemins de... Vézelay : la colline éternelle et ses environs, un divin trésor de Bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/sur-les-chemins-de-vezelay-la-colline-eternelle-et-ses-environs-un-divin-tresor-de-bourgogne-3006512.html)
 append_entries: 2
 Finish: 2024-07-23 12:44:43.629805
+------------------------------------------------------
+Started: 2024-07-24 01:20:30.025950
+Existing_entries: 239
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-24 01:20:30.523198

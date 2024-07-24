@@ -1553,3 +1553,9 @@ Summarized using GPT-4o-mini
 Append: [Un accident sur cinq sur les routes en Wallonie serait lié à la somnolence au volant](https://www.lalibre.be/belgique/mobilite/2024/07/23/un-accident-sur-cinq-sur-les-routes-en-wallonie-serait-lie-a-la-somnolence-au-volant-C2JJKNPZOVAOZH3FSPMDL4EVJQ/)
 append_entries: 1
 Finish: 2024-07-23 12:49:02.781933
+------------------------------------------------------
+Started: 2024-07-24 01:22:44.047208
+Existing_entries: 211
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-07-24 01:22:44.828771

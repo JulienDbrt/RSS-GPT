@@ -1333,3 +1333,12 @@ Summarized using GPT-4o-mini
 Append: [Les lignes A et B du TCSP de Martinique toujours à l'arrêt, la sécurité mise en cause](https://la1ere.francetvinfo.fr/martinique/les-lignes-a-et-b-du-tcsp-de-martinique-toujours-a-l-arret-la-securite-mise-en-cause-1508009.html)
 append_entries: 1
 Finish: 2024-07-23 12:46:53.629484
+------------------------------------------------------
+Started: 2024-07-24 01:21:24.524754
+Existing_entries: 105
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 186
+Summarized using GPT-4o-mini
+Append: [La situation financière des collectivités territoriales d’Outre-mer s'améliore](https://la1ere.francetvinfo.fr/la-situation-financiere-des-collectivites-territoriales-d-outre-mer-s-ameliore-1508075.html)
+append_entries: 1
+Finish: 2024-07-24 01:21:27.426677

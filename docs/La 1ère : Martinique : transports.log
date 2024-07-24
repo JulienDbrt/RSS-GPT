@@ -1096,3 +1096,9 @@ Summarized using GPT-4o-mini
 Append: [Les lignes A et B du TCSP de Martinique toujours à l'arrêt, la sécurité mise en cause](https://la1ere.francetvinfo.fr/martinique/les-lignes-a-et-b-du-tcsp-de-martinique-toujours-a-l-arret-la-securite-mise-en-cause-1508009.html)
 append_entries: 1
 Finish: 2024-07-23 12:46:58.387190
+------------------------------------------------------
+Started: 2024-07-24 01:21:27.441491
+Existing_entries: 26
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-24 01:21:27.590255

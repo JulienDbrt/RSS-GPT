@@ -1774,3 +1774,18 @@ Summarized using GPT-4o-mini
 Append: [Colère des transporteurs de Moorea : "Cela fait 6 mois que l’on essaie de rencontrer le gouvernement"](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/colere-des-transporteurs-de-moorea-cela-fait-6-mois-que-l-on-essaie-de-rencontrer-le-gouvernement-1507916.html)
 append_entries: 3
 Finish: 2024-07-23 12:47:09.286563
+------------------------------------------------------
+Started: 2024-07-24 01:21:27.722896
+Existing_entries: 252
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 103
+Summarized using GPT-4o-mini
+Append: [Transports en commun gratuits à Tahiti pendant les JO de Paris 2024](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/transports-en-commun-gratuits-a-tahiti-pendant-les-jo-de-paris-2024-1508198.html)
+Token length: 97
+Summarized using GPT-4o-mini
+Append: [Crise en Nouvelle-Calédonie. Navettes maritimes : un taxi-boat volé à Nouméa et retrouvé brûlé dans le Sud du Mont-Dore](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/crise-en-nouvelle-caledonie-un-taxi-boat-vole-et-retrouve-brule-dans-le-sud-du-mont-dore-1508192.html)
+Token length: 24
+Summarized using GPT-4o-mini
+Append: [Le chantier d'élargissement du quai Avel Mad de Miquelon devrait être livré fin septembre](https://la1ere.francetvinfo.fr/saintpierremiquelon/le-chantier-d-elargissement-du-quai-avel-mad-de-miquelon-devrait-etre-livre-fin-septembre-1508045.html)
+append_entries: 3
+Finish: 2024-07-24 01:21:33.537034
