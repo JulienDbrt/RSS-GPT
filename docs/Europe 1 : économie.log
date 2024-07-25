@@ -1864,3 +1864,18 @@ Summarized using GPT-4o-mini
 Append: [Corruption : le Conseil de l'Europe réclame des mesures «d'intégrité» pour le prince Albert II de Monaco](https://www.europe1.fr/economie/corruption-le-conseil-de-leurope-reclame-des-mesures-dintegrite-pour-le-prince-albert-ii-de-monaco-4259682)
 append_entries: 3
 Finish: 2024-07-25 01:19:57.602332
+------------------------------------------------------
+Started: 2024-07-25 12:40:17.094518
+Existing_entries: 284
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 348
+Summarized using GPT-4o-mini
+Append: [La Poste : derrière la nouvelle augmentation du timbre, la difficile réinvention de l'entreprise](https://www.europe1.fr/economie/la-poste-derriere-la-nouvelle-augmentation-du-timbre-la-difficile-reinvention-de-lentreprise-4259803)
+Token length: 263
+Summarized using GPT-4o-mini
+Append: [France : le nombre de chômeurs en catégorie A en baisse au 2ème trimestre](https://www.europe1.fr/economie/france-le-nombre-de-chomeurs-en-categorie-a-en-baisse-au-2e-trimestre-4259796)
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [Avec la crise politique, un rebond du chômage en perspective ?](https://www.europe1.fr/economie/avec-la-crise-politique-un-rebond-du-chomage-en-perspective-4259764)
+append_entries: 3
+Finish: 2024-07-25 12:40:31.487843

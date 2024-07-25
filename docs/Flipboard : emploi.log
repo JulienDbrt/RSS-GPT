@@ -5375,3 +5375,18 @@ Summarized using GPT-4o-mini
 Append: ["Mon compagnon a fait un burn-out"](https://www.marieclaire.fr/mon-compagnon-a-fait-un-burn-out-temoignage,1478797.asp)
 append_entries: 5
 Finish: 2024-07-25 01:13:38.549974
+------------------------------------------------------
+Started: 2024-07-25 12:32:53.053915
+Existing_entries: 1005
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Comex et Codir, tout ne s’est pas passé comme prévu : elles témoignent](https://www.elle.fr/Societe/News/Comex-et-Codir-tout-ne-s-est-pas-passe-comme-prevu-elles-temoignent-4247929)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: ["La réforme des retraites deviendra caduque" : Lucie Castets veut abroger par décret](https://www.bfmtv.com/economie/economie-social/la-reforme-des-retraites-deviendra-caduque-lucie-castets-veut-abroger-par-decret_AV-202407250267.html)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Emmanuel Macron reconnaît maintenant que la baisse du chômage ne règle pas tout](https://www.lefigaro.fr/politique/emmanuel-macron-reconnait-maintenant-que-la-baisse-du-chomage-ne-regle-pas-tout-20240724)
+append_entries: 3
+Finish: 2024-07-25 12:33:05.339499

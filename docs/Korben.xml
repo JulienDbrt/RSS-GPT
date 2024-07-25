@@ -4,6 +4,72 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>WinBtrfs – Un driver pour explorer le système de fichiers Linux Btrfs sous Windows</title>
+<link>https://korben.info/winbtrfs-explorez-le-systeme-de-fichiers-linux-btrfs-sous-windows.html</link>
+<guid>https://korben.info/winbtrfs-explorez-le-systeme-de-fichiers-linux-btrfs-sous-windows.html</guid>
+<content:encoded><![CDATA[
+<div> Btrfs, Windows, WinBtrfs, partitions, open source
+
+<br><br>Summary: WinBtrfs est un logiciel open source qui permet d'accéder aux partitions Btrfs sous Windows. Ce driver vous permet de monter ces partitions en lecture et en écriture, offrant ainsi une expérience similaire à celle des disques Windows classiques. Il prend en charge de nombreuses fonctionnalités avancées de Btrfs, telles que les subvolumes, les snapshots, la compression (zlib, LZO, zstd), les RAID (RAID0, RAID1, RAID10, RAID5, RAID6), la déduplication et le chiffrement. Le projet a été développé à partir de zéro, sans utilisation du code du kernel Linux, garantissant une solution propre et stable. L'installation est simple : il suffit de télécharger la dernière version du projet et de l'installer. Cependant, il est conseillé d'effectuer des sauvegardes avant de modifier les partitions. WinBtrfs élimine ainsi les problèmes de partage de fichiers en réseau en permettant d'accéder directement aux fichiers comme s'ils étaient sur un disque local. En outre, les fonctionnalités de compression et de déduplication permettent d'optimiser l'espace de stockage. Les utilisateurs avec des partitions Btrfs sont encouragés à essayer WinBtrfs pour profiter de ses avantages. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_text_WinBtrfs_98028403-0099-41e9-bed5-b2e3dc958863.webp" width="1456" /></p>
+<p>Vous connaissez <a href="https://fr.wikipedia.org/wiki/Btrfs" rel="noopener" target="_blank">Btrfs</a>, le système de fichiers à la mode sous Linux ? Et bah figurez-vous qu&rsquo;on peut maintenant y accéder direct depuis Windows grâce à un ce soft open source qui s&rsquo;appelle <strong>WinBtrfs</strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1912138263" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Il s&rsquo;agit d&rsquo;un driver pour Windows qui permet de monter des partitions Btrfs en lecture ET en écriture. Ça veut dire que vous pouvez explorer vos disques Btrfs, copier des fichiers dessus, en supprimer, bref faire tout ce que vous feriez avec une partition Windows classique.</p>
+
+
+
+<p>Et le truc cool, c&rsquo;est que ça supporte un max de fonctionnalités avancées de Btrfs, comme :</p>
+
+
+
+<ul>
+<li>Les <strong>subvolumes</strong> et les <strong>snapshots</strong> </li>
+
+
+
+<li>La <strong>compression</strong> (zlib, LZO, zstd) </li>
+
+
+
+<li>Les <strong>RAID</strong> (RAID0, RAID1, RAID10, RAID5, RAID6)</li>
+
+
+
+<li>La <strong>déduplication</strong></li>
+
+
+
+<li>Le <strong>chiffrement</strong> </li>
+
+
+
+<li>Et plein d&rsquo;autres trucs de ouf que j&rsquo;ai la flemme de lister</li>
+</ul>
+
+
+
+<p>Les mecs qui ont codé ça ont tout fait from scratch, y&rsquo;a pas une ligne de code du kernel Linux, du coup, c&rsquo;est propre, ça marche nickel, c&rsquo;est stable. Un vrai projet de passionné !</p>
+
+
+
+<p>Et en plus c&rsquo;est hyper simple à installer ! Vous choppez la dernière release sur le <a href="https://github.com/maharmstone/btrfs" rel="noopener" target="_blank">GitHub</a> du projet, vous installez et pouf, ça marche direct ! Bon après faut quand même faire gaffe hein, on parle de bidouiller ses partitions donc toujours avoir des sauvegardes au cas où. Mais globalement, si vous savez ce que vous faites, y&rsquo;a pas de raison que ça foire.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1648861772" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Comme ça, plus besoin de se prendre la tête avec des histoires de partages réseaux pourris, suffit de monter le disque et hop, vous avez accès à tous vos fichiers comme si c&rsquo;était du local. Et avec la compression et la déduplication en plus, ça vous fait gagner un max de place !</p>
+
+
+
+<p>En tout cas, si vous voulez tester et que vous avez des partitions Btrfs qui traînent, je vous encourage vivement à installer <strong>WinBtrfs</strong> et à jouer avec. C&rsquo;est vraiment un outil pratique !</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 25 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Virtual Desktop – Votre PC en mode réalité virtuelle</title>

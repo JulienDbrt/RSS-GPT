@@ -1671,3 +1671,9 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris 2024. Voies olympiques : embouteillages et stress en plus pour les usagers quotidiens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-voies-olympiques-embouteillages-et-stress-en-plus-pour-les-usagers-quotidiens-3009524.html)
 append_entries: 1
 Finish: 2024-07-25 01:21:26.176776
+------------------------------------------------------
+Started: 2024-07-25 12:42:51.546404
+Existing_entries: 225
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-07-25 12:42:51.821778

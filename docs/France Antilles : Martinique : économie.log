@@ -2057,3 +2057,18 @@ Summarized using GPT-4o-mini
 Append: [L'Express des Îles présente son nouvel (et très gros) atout](https://www.martinique.franceantilles.fr/actualite/economie/lexpress-des-iles-presente-son-nouvel-et-tres-gros-atout-997043.php)
 append_entries: 3
 Finish: 2024-07-25 01:20:06.835287
+------------------------------------------------------
+Started: 2024-07-25 12:40:31.667496
+Existing_entries: 367
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 161
+Summarized using GPT-4o-mini
+Append: [JO-2024: la cérémonie sur la Seine ou l'histoire d'une idée folle](https://www.martinique.franceantilles.fr/actualite/economie/jo-2024-la-ceremonie-sur-la-seine-ou-lhistoire-dune-idee-folle-997219.php)
+Token length: 82
+Summarized using GPT-4o-mini
+Append: [Après un printemps morose, Air France-KLM va souffrir des JO cet été](https://www.martinique.franceantilles.fr/actualite/economie/apres-un-printemps-morose-air-france-klm-va-souffrir-des-jo-cet-ete-997204.php)
+Token length: 50
+Summarized using GPT-4o-mini
+Append: [Transport maritime à l'arrêt : l'économie en souffrance](https://www.martinique.franceantilles.fr/actualite/economie/transport-maritime-a-larret-leconomie-en-souffrance-997179.php)
+append_entries: 3
+Finish: 2024-07-25 12:40:44.300467

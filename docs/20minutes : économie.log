@@ -1781,3 +1781,12 @@ Summarized using GPT-4o-mini
 Append: [Coca-Cola : Pourquoi le fisc français réclame des centaines de millions d’euros au géant américain](https://www.20minutes.fr/economie/4102887-20240724-coca-cola-pourquoi-fisc-francais-reclame-centaines-millions-euros-geant-americain)
 append_entries: 2
 Finish: 2024-07-25 01:16:49.402903
+------------------------------------------------------
+Started: 2024-07-25 12:36:13.243787
+Existing_entries: 255
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 101
+Summarized using GPT-4o-mini
+Append: [Boeing a officiellement accepté de plaider coupable en lien avec les crashs de 2018 et 2019](https://www.20minutes.fr/monde/4102955-20240725-boeing-officiellement-accepte-plaider-coupable-lien-crashes-2018-2019)
+append_entries: 1
+Finish: 2024-07-25 12:36:15.998094

@@ -1289,3 +1289,12 @@ Existing_entries: 91
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-07-25 01:20:43.255419
+------------------------------------------------------
+Started: 2024-07-25 12:41:28.279769
+Existing_entries: 91
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Immobilier : la construction de logements neufs est-elle au plus bas depuis 1992 ?](https://www.francetvinfo.fr/replay-radio/le-vrai-du-faux/immobilier-la-construction-de-logements-neufs-est-elle-au-plus-bas-depuis-1992_6647688.html)
+append_entries: 1
+Finish: 2024-07-25 12:41:31.710929

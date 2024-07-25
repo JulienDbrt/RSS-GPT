@@ -1596,3 +1596,9 @@ Summarized using GPT-4o-mini
 Append: [Pour 844.600 dollars, Donald Trump propose de participer à sa table ronde à la Bitcoin Conference](https://www.bfmtv.com/crypto/bitcoin/pour-844-600-dollars-donald-trump-propose-de-participer-a-sa-table-ronde-a-la-bitcoin-conference_AV-202407240611.html)
 append_entries: 1
 Finish: 2024-07-25 01:17:39.360121
+------------------------------------------------------
+Started: 2024-07-25 12:37:47.889635
+Existing_entries: 200
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-07-25 12:37:48.200163

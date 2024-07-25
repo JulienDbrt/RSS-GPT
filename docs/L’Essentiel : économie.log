@@ -1930,3 +1930,15 @@ Summarized using GPT-4o-mini
 Append: [Partenaire olympique: Le fisc français réclame des centaines de millions d'euros à Coca-Cola](https://www.lessentiel.lu/fr/story/partenaire-olympique-le-fisc-francais-reclame-des-centaines-de-millions-d-euros-a-coca-cola-103154746)
 append_entries: 1
 Finish: 2024-07-25 01:22:38.979174
+------------------------------------------------------
+Started: 2024-07-25 12:44:16.522297
+Existing_entries: 358
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 127
+Summarized using GPT-4o-mini
+Append: [Vie professionnelle au Luxembourg: On travaille six ans de plus qu'au début des années 2000](https://www.lessentiel.lu/fr/story/vie-professionnelle-au-luxembourg-on-travaille-six-ans-de-plus-qu-au-debut-des-annees-2000-103155161)
+Token length: 266
+Summarized using GPT-4o-mini
+Append: [Nouvelles richesses: En dix ans, les 1% les plus riches ont gagné plus de 40 000 milliards de dollars](https://www.lessentiel.lu/fr/story/nouvelles-richesses-en-dix-ans-les-1-les-plus-riches-ont-gagne-plus-de-40-000-milliards-de-dollars-103155018)
+append_entries: 2
+Finish: 2024-07-25 12:44:24.011287
