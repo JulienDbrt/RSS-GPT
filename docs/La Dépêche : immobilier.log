@@ -1363,3 +1363,9 @@ Summarized using GPT-4o-mini
 Append: [Saint-Sulpice-la-Pointe. Logement : la commune classée en zone tendue](https://www.ladepeche.fr/2024/07/24/logement-la-commune-classee-en-zone-tendue-12099321.php)
 append_entries: 1
 Finish: 2024-07-24 12:44:27.788260
+------------------------------------------------------
+Started: 2024-07-25 01:23:57.350631
+Existing_entries: 121
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-07-25 01:23:57.855864

@@ -1901,3 +1901,18 @@ Summarized using GPT-4o-mini
 Append: ["Nous avons entendu un énorme bruit" : cinq blessés après le déraillement d’un train TER sur la ligne Perpignan-Prades](https://www.francetvinfo.fr/economie/transports/sncf/nous-avons-entendu-un-enorme-bruit-cinq-blesses-apres-le-deraillement-d-un-train-ter-sur-la-ligne-perpignan-prades_6683802.html)
 append_entries: 2
 Finish: 2024-07-24 12:40:43.825444
+------------------------------------------------------
+Started: 2024-07-25 01:20:43.428025
+Existing_entries: 297
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 136
+Summarized using GPT-4o-mini
+Append: [Le crash d'un avion au Népal fait 18 morts, le pilote est le seul survivant](https://www.francetvinfo.fr/economie/transports/le-crash-d-un-avion-au-nepal-fait-18-morts-le-pilote-est-le-seul-survivant_6684354.html)
+Token length: 80
+Summarized using GPT-4o-mini
+Append: [VIDEO. Un TER déraille à cause d'un glissement de terrain dans les Pyrénées-Orientales, cinq personnes blessées](https://www.francetvinfo.fr/societe/pyrenees-orientales-un-ter-deraille-a-cause-d-un-eboulement-cinq-personnes-blessees_6684255.html)
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [Un TER déraille dans les Pyrénées-Orientales faisant cinq blessés légers](https://www.francetvinfo.fr/economie/transports/un-ter-deraille-dans-les-pyrenees-orientales-faisant-cinq-blesses-legers_6684189.html)
+append_entries: 3
+Finish: 2024-07-25 01:20:53.770214

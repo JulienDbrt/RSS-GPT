@@ -3234,3 +3234,15 @@ Summarized using GPT-4o-mini
 Append: [Qui est à l'origine du design de la station Porte Dauphine ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/qui-est-a-l-origine-du-design-de-la-station-porte-dauphine-2982395.html)
 append_entries: 6
 Finish: 2024-07-24 12:42:24.608543
+------------------------------------------------------
+Started: 2024-07-25 01:22:08.976527
+Existing_entries: 749
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 309
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024. Voies olympiques : embouteillages et stress en plus pour les usagers quotidiens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-voies-olympiques-embouteillages-et-stress-en-plus-pour-les-usagers-quotidiens-3009524.html)
+Token length: 285
+Summarized using GPT-4o-mini
+Append: [Une délégation sarde reçue en Corse pour discuter de la problématique des transports entre les deux îles](https://france3-regions.francetvinfo.fr/corse/une-delegation-sarde-recue-en-corse-pour-discuter-de-la-problematique-des-transports-entre-les-deux-iles-3009329.html)
+append_entries: 2
+Finish: 2024-07-25 01:22:14.928067

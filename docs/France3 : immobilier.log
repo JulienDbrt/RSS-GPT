@@ -1269,3 +1269,9 @@ Summarized using GPT-4o-mini
 Append: [L'État vous vend douze appartements à Langres pour "allier préservation du patrimoine et optimisation fiscale"](https://france3-regions.francetvinfo.fr/grand-est/haute-marne/langres/l-etat-vous-vend-douze-appartements-a-langres-pour-allier-preservation-du-patrimoine-et-optimisation-fiscale-3008912.html)
 append_entries: 1
 Finish: 2024-07-24 12:41:59.756081
+------------------------------------------------------
+Started: 2024-07-25 01:22:08.179528
+Existing_entries: 93
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-07-25 01:22:08.538226

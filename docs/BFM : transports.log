@@ -1602,3 +1602,9 @@ Summarized using GPT-4o-mini
 Append: [Pyrénées-Orientales: un TER déraille à la suite d'une coulée de boue, 5 blessés légers](https://www.bfmtv.com/economie/entreprises/transports/pyrenees-orientales-un-ter-deraille-a-la-suite-d-une-coulee-de-boue-5-blesses-legers_AV-202407240348.html)
 append_entries: 1
 Finish: 2024-07-24 12:39:10.745339
+------------------------------------------------------
+Started: 2024-07-25 01:19:08.481069
+Existing_entries: 204
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-07-25 01:19:08.893416

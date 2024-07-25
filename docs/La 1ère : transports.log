@@ -1798,3 +1798,15 @@ Summarized using GPT-4o-mini
 Append: [INFORMATIONS PRATIQUES. Le centre médico-social de Thio fermé, les rotations du "Betico" et les navettes maritimes avec le Mont-Dore](https://la1ere.francetvinfo.fr/nouvellecaledonie/informations-pratiques-prochaines-rotations-du-betico-navettes-maritimes-avec-le-mont-dore-et-desserte-du-vanuatu-1508162.html)
 append_entries: 1
 Finish: 2024-07-24 12:43:31.757538
+------------------------------------------------------
+Started: 2024-07-25 01:23:09.025933
+Existing_entries: 256
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 36
+Summarized using GPT-4o-mini
+Append: [Résumé du deuxième jour de grève à ADT : L'intersyndicale a rencontré la direction et le Président](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/resume-du-deuxieme-jour-de-greve-a-adt-les-syndicats-rencontrent-la-direction-et-le-president-1508372.html)
+Token length: 1
+Summarized using GPT-4o-mini
+Append: [Vol direct Paris-Saint-Pierre : Des passagers visiblement satisfaits malgré leur arrivée retardée](https://la1ere.francetvinfo.fr/saintpierremiquelon/vol-direct-paris-saint-pierre-des-passagers-visiblement-satisfaits-malgre-leur-arrivee-retardee-1508063.html)
+append_entries: 2
+Finish: 2024-07-25 01:23:13.473093

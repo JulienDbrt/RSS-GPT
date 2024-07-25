@@ -2042,3 +2042,18 @@ Summarized using GPT-4o-mini
 Append: [Les transports à l'arrêt : la sécurité de tous, la galère des usagers](https://www.martinique.franceantilles.fr/actualite/economie/les-transports-a-larret-la-securite-de-tous-la-galere-des-usagers-997054.php)
 append_entries: 1
 Finish: 2024-07-24 12:39:58.854467
+------------------------------------------------------
+Started: 2024-07-25 01:19:57.822300
+Existing_entries: 364
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [En Martinique, les prix à la consommation ont baissé en juin](https://www.martinique.franceantilles.fr/actualite/economie/en-martinique-les-prix-a-la-consommation-ont-baisse-en-juin-997139.php)
+Token length: 60
+Summarized using GPT-4o-mini
+Append: [Collectivités Outre-mer : le feu vert de la Cour des comptes](https://www.martinique.franceantilles.fr/actualite/economie/collectivites-outre-mer-le-feu-vert-de-la-cour-des-comptes-997090.php)
+Token length: 62
+Summarized using GPT-4o-mini
+Append: [L'Express des Îles présente son nouvel (et très gros) atout](https://www.martinique.franceantilles.fr/actualite/economie/lexpress-des-iles-presente-son-nouvel-et-tres-gros-atout-997043.php)
+append_entries: 3
+Finish: 2024-07-25 01:20:06.835287

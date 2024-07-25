@@ -1769,3 +1769,15 @@ Summarized using GPT-4o-mini
 Append: [Atos : Le tribunal de commerce ouvre la procédure de sauvegarde accélérée enclenchée par le groupe informatique français](https://www.20minutes.fr/economie/4102781-20240724-atos-tribunal-commerce-ouvre-procedure-sauvegarde-acceleree)
 append_entries: 1
 Finish: 2024-07-24 12:36:25.485053
+------------------------------------------------------
+Started: 2024-07-25 01:16:41.108768
+Existing_entries: 253
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Prix du gaz et de l’électricité : Le plafonnement a coûté plus de 20 milliards d’euros à l’Etat](https://www.20minutes.fr/economie/4102911-20240724-energie-plafonnement-gaz-electricite-coute-plus-20-milliards-euros-etat)
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [Coca-Cola : Pourquoi le fisc français réclame des centaines de millions d’euros au géant américain](https://www.20minutes.fr/economie/4102887-20240724-coca-cola-pourquoi-fisc-francais-reclame-centaines-millions-euros-geant-americain)
+append_entries: 2
+Finish: 2024-07-25 01:16:49.402903

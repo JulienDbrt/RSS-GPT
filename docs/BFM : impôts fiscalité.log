@@ -1155,3 +1155,9 @@ Summarized using GPT-4o-mini
 Append: [Impôts: des millions de Français vont recevoir un remboursement ce mercredi, êtes-vous concerné?](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impots-des-millions-de-francais-vont-recevoir-un-remboursement-ce-mercredi-etes-vous-concerne_AV-202407240045.html)
 append_entries: 1
 Finish: 2024-07-24 12:39:01.310151
+------------------------------------------------------
+Started: 2024-07-25 01:19:06.017631
+Existing_entries: 55
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/impots-fiscalite/
+append_entries: 0
+Finish: 2024-07-25 01:19:06.479626
