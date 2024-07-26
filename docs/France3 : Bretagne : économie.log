@@ -1443,3 +1443,15 @@ Existing_entries: 147
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-25 12:43:31.688963
+------------------------------------------------------
+Started: 2024-07-26 01:28:21.919482
+Existing_entries: 147
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 371
+Summarized using GPT-4o-mini
+Append: ["Grâce aux nouvelles machines, des bois de second choix sont valorisés", la modernisation de Rahuel, la scierie centenaire de Combourg](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/grace-aux-nouvelles-machines-des-bois-de-second-choix-sont-valorises-la-modernisation-de-rahuel-la-scierie-centenaire-de-combourg-3009929.html)
+Token length: 264
+Summarized using GPT-4o-mini
+Append: [Liquidation judiciaire des maisons Kervran, "une grosse surprise et une véritable onde de choc pour le territoire"](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/liquidation-judiciaire-des-maisons-kervran-une-grosse-surprise-et-une-veritable-onde-de-choc-pour-le-territoire-3009896.html)
+append_entries: 2
+Finish: 2024-07-26 01:28:32.854219

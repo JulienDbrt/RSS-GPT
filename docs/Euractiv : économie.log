@@ -1439,3 +1439,12 @@ Summarized using GPT-4o-mini
 Append: [Le rapport de Mario Draghi sur la compétitivité de l’UE reporté après l’été](https://www.euractiv.fr/section/concurrence/news/le-rapport-de-mario-draghi-sur-la-competitivite-de-lue-reporte-apres-lete/)
 append_entries: 1
 Finish: 2024-07-25 12:40:14.820691
+------------------------------------------------------
+Started: 2024-07-26 01:24:26.785913
+Existing_entries: 159
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 224
+Summarized using GPT-4o-mini
+Append: [Fortement endettée, la Hongrie emprunte un milliard d’euros à la Chine](https://www.euractiv.fr/section/chine/news/fortement-endettee-la-hongrie-emprunte-un-milliard-deuros-a-la-chine/)
+append_entries: 1
+Finish: 2024-07-26 01:24:32.973860

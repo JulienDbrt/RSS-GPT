@@ -3267,3 +3267,21 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. JonOne, Olivia de Bona, Marko 93... Six street artistes affichent leurs œuvres dans le métro et dans Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/reportage-jonone-olivia-de-bona-marko-93-six-street-artistes-affichent-leurs-uvres-dans-le-metro-et-dans-paris-3009479.html)
 append_entries: 5
 Finish: 2024-07-25 12:44:02.997717
+------------------------------------------------------
+Started: 2024-07-26 01:29:20.758553
+Existing_entries: 756
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Cérémonie d'ouverture des JO : voici les stations et lignes de métro et RER qui seront fermées](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ceremonie-d-ouverture-des-jo-voici-les-stations-et-lignes-de-metro-et-rer-qui-seront-fermees-3010121.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Nantes et Angers dans le top 10 des villes les plus covoiturées](https://france3-regions.francetvinfo.fr/pays-de-la-loire/nantes-et-angers-dans-le-top-10-des-villes-les-plus-covoiturees-3010070.html)
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [Départs en vacances : Vinci Autoroutes sensibilise à la sécurité des patrouilleurs](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/departs-en-vacances-vinci-autoroutes-sensibilise-a-la-securite-des-patrouilleurs-3010028.html)
+Token length: 380
+Summarized using GPT-4o-mini
+Append: [Deuxième ligne de tramway à Tours : la Chambre Régionale des Comptes s'inquiète du coût, Emmanuel Denis répond](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/deuxieme-ligne-de-tramway-a-tours-la-chambre-regionale-des-comptes-s-inquiete-du-cout-emmanuel-denis-repond-3009404.html)
+append_entries: 4
+Finish: 2024-07-26 01:29:40.243336

@@ -1790,3 +1790,15 @@ Summarized using GPT-4o-mini
 Append: [Boeing a officiellement accepté de plaider coupable en lien avec les crashs de 2018 et 2019](https://www.20minutes.fr/monde/4102955-20240725-boeing-officiellement-accepte-plaider-coupable-lien-crashes-2018-2019)
 append_entries: 1
 Finish: 2024-07-25 12:36:15.998094
+------------------------------------------------------
+Started: 2024-07-26 01:19:42.024196
+Existing_entries: 256
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [La SNCF bénéficie d’une croissance à (très) grande vitesse, portée par les voyageurs et les JO](https://www.20minutes.fr/economie/4103113-20240725-sncf-beneficie-croissance-tres-grande-vitesse-portee-voyageurs-jo)
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Auchan va réduire ses surfaces de magasins après une importante perte](https://www.20minutes.fr/economie/4103035-20240725-auchan-va-reduire-surfaces-magasins-apres-importante-perte)
+append_entries: 2
+Finish: 2024-07-26 01:19:56.238253
