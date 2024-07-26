@@ -4,6 +4,63 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Cryptr – Chiffrez vos fichiers comme un pro avec ce script bash</title>
+<link>https://korben.info/cryptr-chiffrez-fichiers-script-bash.html</link>
+<guid>https://korben.info/cryptr-chiffrez-fichiers-script-bash.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Cryptr, chiffrement, OpenSSL, fichiers sensibles, sécurité  
+
+<br><br>Summary:  
+Cryptr est un script bash qui simplifie le chiffrement et le déchiffrement de fichiers sensibles grâce à OpenSSL avec une méthode AES-256. Pour protéger ses données confidentielles stockées sur l’ordinateur, il est essentiel de disposer d’un outil sécurisant. Pour utiliser Cryptr, il suffit de cloner le dépôt GitHub avec la commande `git clone https://github.com/nodesocket/cryptr.git`. Ensuite, créez un lien symbolique vers le script `cryptr.bash` dans `/usr/local/bin/` pour un accès facilité. Les commandes `encrypt` et `decrypt` permettent respectivement de chiffrer des fichiers en ajoutant l’extension `.aes` et de déchiffrer. Par exemple, la commande `cryptr encrypt ./secret-file` chiffre le fichier et génère une version chiffrée. De plus, vous pouvez automatiser le processus en définissant le mot de passe via la variable d'environnement `CRYPTR_PASSWORD`, ce qui rend l'outil encore plus pratique. Avec sa simplicité et son efficacité, Cryptr s’avère être une solution idéale pour quiconque désire sécuriser ses données sensibles. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_wallpaper_with_text_Cryptr_7f94e879-8840-46a5-960b-7485e2d8dc56.webp" width="1456" /></p>
+<p><strong>Cryptr</strong>, c&rsquo;est un script bash bien pratique qui va vous permettre de <strong>chiffrer</strong> et <strong>déchiffrer</strong> vos fichiers sensibles en deux temps trois mouvements, le tout proprement et avec une sécurité au top grâce à <strong>OpenSSL AES-256</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1491806862" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Si comme moi, vous avez tendance à stocker tout un tas de données confidentielles sur votre ordi (mots de passe, documents perso, photos compromettantes de votre dernière soirée déguisée&#8230;), vous savez à quel point c&rsquo;est important de les protéger des regards indiscrets. Bon ok, on n&rsquo;est pas tous paranos au point d&rsquo;avoir peur que la NSA ou Gérald vienne fouiller dans nos fichiers, mais on n&rsquo;est jamais trop prudent !</p>
+
+
+
+<p>Avec ce truc, fini de vous prendre la tête avec des solutions de chiffrement compliquées à mettre en place. Il vous suffit de cloner le projet depuis le dépôt GitHub :</p>
+
+
+
+<p><code>git clone https://github.com/nodesocket/cryptr.git</code></p>
+
+
+
+<p>Ensuite, créez un lien symbolique vers le script <code>cryptr.bash</code> pour pouvoir l&rsquo;utiliser facilement depuis n&rsquo;importe où :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-219484636" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>ln -s "$PWD"/cryptr/cryptr.bash /usr/local/bin/cryptr</code></p>
+
+
+
+<p>Et voilà, vous êtes parés pour chiffrer vos petits secrets comme un pro ! La commande <code>encrypt</code> vous permet de chiffrer un fichier en lui ajoutant l&rsquo;extension <code>.aes</code>, tandis que <code>decrypt</code> fait l&rsquo;opération inverse.</p>
+
+
+
+<p><code>➜ <strong>cryptr encrypt ./secret-file</strong><br />enter aes-256-cbc encryption password: <br />Verifying - enter aes-256-cbc encryption password: <br />➜ <strong>ls -alh</strong><br />-rw-r--r-- 1 user group 1.0G Oct 1 13:33 secret-file<br />-rw-r--r-- 1 user group 1.0G Oct 1 13:34 secret-file.aes</code></p>
+
+
+
+<p>Vous pouvez même définir le mot de passe à utiliser via la variable d&rsquo;environnement <code>CRYPTR_PASSWORD</code> pour automatiser le processus :</p>
+
+
+
+<p><code>➜ CRYPTR_PASSWORD=motdepasse007 cryptr encrypt ./secret-file</code></p>
+
+
+
+<p>Franchement, c&rsquo;est tellement simple et efficace que même <s>James Bond</s> Raymonde peut en faire son outil préféré. Bref, si vous cherchez une solution de chiffrement simple et efficace pour protéger vos données sensibles, je vous recommande vraiment de tester Cryptr.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>WinBtrfs – Un driver pour explorer le système de fichiers Linux Btrfs sous Windows</title>

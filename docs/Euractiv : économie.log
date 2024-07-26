@@ -1448,3 +1448,15 @@ Summarized using GPT-4o-mini
 Append: [Fortement endettée, la Hongrie emprunte un milliard d’euros à la Chine](https://www.euractiv.fr/section/chine/news/fortement-endettee-la-hongrie-emprunte-un-milliard-deuros-a-la-chine/)
 append_entries: 1
 Finish: 2024-07-26 01:24:32.973860
+------------------------------------------------------
+Started: 2024-07-26 13:24:38.817092
+Existing_entries: 160
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [BCE : bilan mitigé pour les tests de résistance des banques aux cyberattaques](https://www.euractiv.fr/section/cybersecurite/news/bce-bilan-mitige-pour-les-tests-de-resistance-des-banques-aux-cyberattaques/)
+Token length: 277
+Summarized using GPT-4o-mini
+Append: [Les droits de douane envisagés par Donald Trump pourraient servir de « couverture » à des mesures similaires de l’UE](https://www.euractiv.fr/section/etats-unis/news/les-droits-de-douane-envisages-par-donald-trump-pourraient-servir-de-couverture-a-des-mesures-similaires-de-lue/)
+append_entries: 2
+Finish: 2024-07-26 13:25:05.722428

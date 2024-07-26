@@ -1804,3 +1804,15 @@ Summarized using GPT-4o-mini
 Append: [L'envolée des taux immobiliers a plongé 320.000 Britanniques dans la pauvreté](https://www.bfmtv.com/immobilier/l-envolee-des-taux-immobiliers-a-plonge-320-000-britanniques-dans-la-pauvrete_AD-202407250679.html)
 append_entries: 1
 Finish: 2024-07-26 01:23:16.390807
+------------------------------------------------------
+Started: 2024-07-26 13:20:50.554953
+Existing_entries: 278
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 391
+Summarized using GPT-4o-mini
+Append: [Panneaux solaires : la solution énergétique, économique et écologique](https://www.bfmtv.com/immobilier/services/financement-de-travaux-et-renovation-energetique/panneaux-solaires-la-solution-energetique-economique-et-ecologique_AB-202407260329.html)
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [Immobilier: le promoteur Nexity souffre toujours de la crise et va vendre une filiale](https://www.bfmtv.com/immobilier/neuf/immobilier-le-promoteur-nexity-souffre-toujours-de-la-crise-et-va-vendre-une-filiale_AN-202407260300.html)
+append_entries: 2
+Finish: 2024-07-26 13:21:09.023213

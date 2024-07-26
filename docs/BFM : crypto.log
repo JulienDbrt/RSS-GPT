@@ -1611,3 +1611,9 @@ Summarized using GPT-4o-mini
 Append: [Une société du groupe Coinbase condamnée à 4,1 millions d'euros d’amende par le Royaume-Uni](https://www.bfmtv.com/crypto/regulation/une-societe-du-groupe-coinbase-condamnee-a-4-1-millions-d-euros-d-amende-par-le-royaume-uni_AD-202407250496.html)
 append_entries: 1
 Finish: 2024-07-26 01:21:31.433757
+------------------------------------------------------
+Started: 2024-07-26 13:17:16.021753
+Existing_entries: 201
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-07-26 13:17:16.699191

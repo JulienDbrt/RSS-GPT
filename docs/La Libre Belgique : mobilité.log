@@ -1607,3 +1607,15 @@ Summarized using GPT-4o-mini
 Append: [La ligne 1 du métro bruxellois interrompue en août pour des travaux de renouvellement de la signalisation](https://www.lalibre.be/belgique/mobilite/2024/07/25/la-ligne-1-du-metro-bruxellois-interrompue-en-aout-pour-des-travaux-de-renouvellement-de-la-signalisation-3C5QQ2CBOZD4JPTO32KTPVDBFU/)
 append_entries: 1
 Finish: 2024-07-26 01:33:38.921620
+------------------------------------------------------
+Started: 2024-07-26 13:44:01.036237
+Existing_entries: 219
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [Week-end de grands départs en vacances: comment éviter les ralentissements ?](https://www.lalibre.be/belgique/mobilite/2024/07/26/week-end-de-grands-departs-en-vacances-comment-eviter-les-ralentissements-5IDTC42QV5FYPNDE6OHPOCVEZE/)
+Token length: 164
+Summarized using GPT-4o-mini
+Append: [Actes de sabotage sur le rail en France : Eurostar annule 25 % de ses trains prévus ce vendredi et ce week-end](https://www.lalibre.be/belgique/mobilite/2024/07/26/actes-de-sabotage-sur-le-rail-en-france-eurostar-annule-25-de-ses-trains-en-direction-de-la-capitale-parisienne-clone-XJ3S3M4Q55EEDIEKJLUT3BOXFA/)
+append_entries: 2
+Finish: 2024-07-26 13:44:20.909460
