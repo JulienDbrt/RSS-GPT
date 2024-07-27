@@ -2824,3 +2824,21 @@ Summarized using GPT-4o-mini
 Append: ["C'est la fin de la viticulture familiale" : des vignerons dénoncent la progression des investisseurs dans les vignobles du Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/c-est-la-fin-de-la-viticulture-familiale-des-vignerons-denoncent-la-progression-des-investisseurs-dans-les-vignobles-du-jura-3009887.html)
 append_entries: 2
 Finish: 2024-07-26 13:32:48.249205
+------------------------------------------------------
+Started: 2024-07-27 01:18:26.922299
+Existing_entries: 603
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 283
+Summarized using GPT-4o-mini
+Append: ["Là, on part serein" : le service de remplacement agricole, une aide précieuse pour les agriculteurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/creuse/gueret/la-on-part-serein-le-service-de-remplacement-agricole-une-aide-precieuse-pour-les-agriculteurs-3010580.html)
+Token length: 266
+Summarized using GPT-4o-mini
+Append: [Temps pluvieux, sol gorgé d'eau, faible rendement… les agriculteurs en difficulté pour la récolte du blé](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/temps-pluvieux-sol-gorge-d-eau-faible-rendement-les-agriculteurs-en-difficulte-pour-la-recolte-du-ble-3010400.html)
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Idées de sortie pendant les vacances : un labyrinthe XXL dans un champ de maïs](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/idees-de-sortie-pendant-les-vacances-un-labyrinthe-xxl-dans-un-champ-de-mais-3010493.html)
+Token length: 296
+Summarized using GPT-4o-mini
+Append: [Attaques de troupeaux et présence avérée du loup : les jeunes agriculteurs demandent plus qu'un simple effarouchement de l'animal](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/attaques-de-troupeaux-et-presence-averee-du-loup-les-jeunes-agriculteurs-demandent-plus-qu-un-simple-effarouchement-de-l-animal-3010424.html)
+append_entries: 4
+Finish: 2024-07-27 01:18:38.367347

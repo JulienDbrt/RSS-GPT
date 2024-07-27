@@ -1464,3 +1464,15 @@ Summarized using GPT-4o-mini
 Append: [Cérémonie JO Paris 2024. À quelle heure et sur quelle chaîne voir en direct l'ouverture des Jeux Olympiques](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/ceremonie-jo-paris-2024-a-quelle-heure-et-sur-quelle-chaine-voir-en-direct-l-ouverture-des-jeux-olympiques-3010421.html)
 append_entries: 1
 Finish: 2024-07-26 13:33:49.241422
+------------------------------------------------------
+Started: 2024-07-27 01:18:41.884531
+Existing_entries: 150
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 332
+Summarized using GPT-4o-mini
+Append: ["2 trains sur 3 vont circuler demain en Bretagne avec des retards d'1 à 2h". Une amélioration de la circulation des TGV annoncée pour samedi](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/2-trains-sur-3-vont-circuler-demain-en-bretagne-avec-des-retards-d-1-a-2h-une-amelioration-de-la-circulation-des-tgv-annoncee-pour-samedi-3010658.html)
+Token length: 240
+Summarized using GPT-4o-mini
+Append: [Sabotage du réseau SNCF. "Ca va être du covoiturage ou du bus ou bien je vais prendre ma voiture", la galère des voyageurs](https://france3-regions.francetvinfo.fr/bretagne/finistere/morlaix/sabotage-a-la-sncf-covoiturage-spontane-bus-debrouille-et-entraide-les-plans-b-des-naufrages-du-train-3010463.html)
+append_entries: 2
+Finish: 2024-07-27 01:18:47.222304

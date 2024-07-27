@@ -1816,3 +1816,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier: le promoteur Nexity souffre toujours de la crise et va vendre une filiale](https://www.bfmtv.com/immobilier/neuf/immobilier-le-promoteur-nexity-souffre-toujours-de-la-crise-et-va-vendre-une-filiale_AN-202407260300.html)
 append_entries: 2
 Finish: 2024-07-26 13:21:09.023213
+------------------------------------------------------
+Started: 2024-07-27 01:16:25.048818
+Existing_entries: 280
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-27 01:16:25.101632

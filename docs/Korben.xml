@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Cryptr – Chiffrez vos fichiers comme un pro avec ce script bash</title>
 <link>https://korben.info/cryptr-chiffrez-fichiers-script-bash.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Cryptr, chiffrement, OpenSSL, fichiers sensibles, sécurité  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Cryptr est un script bash qui simplifie le chiffrement et le déchiffrement de fichiers sensibles grâce à OpenSSL avec une méthode AES-256. Pour protéger ses données confidentielles stockées sur l’ordinateur, il est essentiel de disposer d’un outil sécurisant. Pour utiliser Cryptr, il suffit de cloner le dépôt GitHub avec la commande `git clone https://github.com/nodesocket/cryptr.git`. Ensuite, créez un lien symbolique vers le script `cryptr.bash` dans `/usr/local/bin/` pour un accès facilité. Les commandes `encrypt` et `decrypt` permettent respectivement de chiffrer des fichiers en ajoutant l’extension `.aes` et de déchiffrer. Par exemple, la commande `cryptr encrypt ./secret-file` chiffre le fichier et génère une version chiffrée. De plus, vous pouvez automatiser le processus en définissant le mot de passe via la variable d'environnement `CRYPTR_PASSWORD`, ce qui rend l'outil encore plus pratique. Avec sa simplicité et son efficacité, Cryptr s’avère être une solution idéale pour quiconque désire sécuriser ses données sensibles. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_wallpaper_with_text_Cryptr_7f94e879-8840-46a5-960b-7485e2d8dc56.webp" width="1456" /></p>
 <p><strong>Cryptr</strong>, c&rsquo;est un script bash bien pratique qui va vous permettre de <strong>chiffrer</strong> et <strong>déchiffrer</strong> vos fichiers sensibles en deux temps trois mouvements, le tout proprement et avec une sécurité au top grâce à <strong>OpenSSL AES-256</strong>.</p>
@@ -59,9 +60,7 @@ Cryptr est un script bash qui simplifie le chiffrement et le déchiffrement de f
 <p>Franchement, c&rsquo;est tellement simple et efficace que même <s>James Bond</s> Raymonde peut en faire son outil préféré. Bref, si vous cherchez une solution de chiffrement simple et efficace pour protéger vos données sensibles, je vous recommande vraiment de tester Cryptr.</p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 26 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>WinBtrfs – Un driver pour explorer le système de fichiers Linux Btrfs sous Windows</title>
 <link>https://korben.info/winbtrfs-explorez-le-systeme-de-fichiers-linux-btrfs-sous-windows.html</link>

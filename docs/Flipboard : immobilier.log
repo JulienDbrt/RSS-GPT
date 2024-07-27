@@ -3798,3 +3798,12 @@ Append: [Homegate, ImmoScout24: le surveillant des prix enquête sur les tarifs 
 Append: [L'envolée des taux immobiliers a plongé 320.000 Britanniques dans la pauvreté](https://www.bfmtv.com/immobilier/l-envolee-des-taux-immobiliers-a-plonge-320-000-britanniques-dans-la-pauvrete_AD-202407250679.html)
 append_entries: 26
 Finish: 2024-07-26 13:01:59.750815
+------------------------------------------------------
+Started: 2024-07-27 01:12:15.475398
+Existing_entries: 1026
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [Ventes immobilières : douche froide, ce sera pire que prévu !](https://www.lopinion.fr/economie/ventes-immobilieres-douche-froide-ce-sera-pire-que-prevu)
+append_entries: 1
+Finish: 2024-07-27 01:12:23.200883

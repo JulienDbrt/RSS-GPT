@@ -1944,3 +1944,18 @@ Summarized using GPT-4o-mini
 Append: [Duralex a un nouveau repreneur : ses salariés !](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/duralex-a-un-nouveau-repreneur-ses-salaries-3010307.html)
 append_entries: 1
 Finish: 2024-07-26 13:34:03.006611
+------------------------------------------------------
+Started: 2024-07-27 01:18:47.387889
+Existing_entries: 310
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 444
+Summarized using GPT-4o-mini
+Append: [ExxonMobil. "On pensait que tout le monde pourrait partir la tête haute", le point sur la dernière journée de négociations](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/exxonmobil-on-pensait-que-tout-le-monde-pourrait-partir-la-tete-haute-le-point-sur-la-derniere-journee-de-negociations-3010583.html)
+Token length: 283
+Summarized using GPT-4o-mini
+Append: ["Là, on part serein" : le service de remplacement agricole, une aide précieuse pour les agriculteurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/creuse/gueret/la-on-part-serein-le-service-de-remplacement-agricole-une-aide-precieuse-pour-les-agriculteurs-3010580.html)
+Token length: 381
+Summarized using GPT-4o-mini
+Append: [Alpine préfère Mercedes à Renault, à Aubigny-sur-Nère l'avenir de la filière F1 au cœur des inquiétudes](https://france3-regions.francetvinfo.fr/centre-val-de-loire/cher/alpine-prefere-mercedes-a-renault-a-aubigny-sur-nere-l-avenir-de-la-filiere-f1-au-c-ur-des-inquietudes-3010562.html)
+append_entries: 3
+Finish: 2024-07-27 01:18:56.061412
