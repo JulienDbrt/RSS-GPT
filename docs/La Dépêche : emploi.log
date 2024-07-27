@@ -2080,3 +2080,12 @@ Existing_entries: 350
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-07-27 01:20:47.673420
+------------------------------------------------------
+Started: 2024-07-27 12:38:26.274317
+Existing_entries: 350
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [Toulouse : l’association Deux Pieds Deux Roues place la marche en tête du podium dans son "rapport final sur la mobilité"](https://www.ladepeche.fr/2024/07/27/toulouse-lassociation-deux-pieds-deux-roues-place-la-marche-en-tete-du-podium-dans-son-rapport-final-sur-la-mobilite-12105243.php)
+append_entries: 1
+Finish: 2024-07-27 12:38:29.829673

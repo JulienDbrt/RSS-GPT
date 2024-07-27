@@ -3355,3 +3355,27 @@ Summarized using GPT-4o-mini
 Append: ["Attaque massive" de la SNCF : ce que l'on sait des sabotages](https://france3-regions.francetvinfo.fr/paris-ile-de-france/attaque-massive-de-la-sncf-ce-que-l-on-sait-des-sabotages-3010523.html)
 append_entries: 6
 Finish: 2024-07-27 01:19:20.276608
+------------------------------------------------------
+Started: 2024-07-27 12:37:04.128315
+Existing_entries: 786
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 326
+Summarized using GPT-4o-mini
+Append: [TRAINS. Attaque massive sur les lignes TGV à la SNCF, le trafic reprend peu à peu, des retards encore sur le réseau Sud-Ouest](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/attaque-massive-sur-les-lignes-tgv-a-la-sncf-le-trafic-reprend-peu-a-peu-des-retards-encore-sur-le-reseau-sud-ouest-3010775.html)
+Token length: 287
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Urbanloop, les premières images de synthèse de la boucle Nancy 2027](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/video-transport-urbanloop-les-premieres-images-de-synthese-de-la-boucle-nancy-2027-3009359.html)
+Token length: 288
+Summarized using GPT-4o-mini
+Append: [SNCF : après les sabotages, 70 % des TGV circulent entre Lille et Paris](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/sncf-apres-les-sabotages-70-des-tgv-circulent-entre-lille-et-paris-3010691.html)
+Token length: 290
+Summarized using GPT-4o-mini
+Append: [Arnaques à l'irlandaise ou à la péruvienne, attention à ne pas vous faire piéger sur l'autoroute des vacances !](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/arnaques-a-l-irlandaise-ou-a-la-peruvienne-attention-a-ne-pas-vous-faire-pieger-sur-l-autoroute-des-vacances-3010685.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Balades en été : randonnée à vélo en direction de Douvres, bien plus qu'une promenade, une ville historique frontalière](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/balades-en-ete-randonnee-a-velo-en-direction-de-douvres-bien-plus-qu-une-promenade-une-ville-historique-frontaliere-2984534.html)
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [De Laval à Nantes à vélo, 200 km d'aventure sur les voies vertes](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/de-laval-a-nantes-a-velo-200-km-d-aventure-sur-les-voies-vertes-3005429.html)
+append_entries: 6
+Finish: 2024-07-27 12:37:22.390819

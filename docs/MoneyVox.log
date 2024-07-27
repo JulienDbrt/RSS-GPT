@@ -5058,3 +5058,18 @@ Summarized using GPT-4o-mini
 Append: [« Attaque massive » contre la SNCF : ces frais que votre carte bancaire peut vous rembourser](https://www.moneyvox.fr/carte-bancaire/actualites/98902/attaque-massive-contre-la-sncf-ces-frais-que-votre-carte-bancaire-peut-vous-rembourser)
 append_entries: 4
 Finish: 2024-07-27 01:18:25.021792
+------------------------------------------------------
+Started: 2024-07-27 12:36:13.761400
+Existing_entries: 1004
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Votre ville va-t-elle vous faire payer une amende si vous récupérez votre enfant en retard à l'école ?](https://www.moneyvox.fr/votre-argent/actualites/98904/votre-ville-va-t-elle-vous-faire-payer-une-amende-si-vous-recuperez-votre-enfant-en-retard-a-ecole)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [« A quelle date limite dois-je faire ma déclaration trimestrielle RSA à la CAF ? »](https://www.moneyvox.fr/votre-argent/actualites/98844/a-quelle-date-limite-dois-je-faire-ma-declaration-trimestrielle-rsa-a-la-caf)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Tarif réglementé de l'électricité : votre facture EDF va-t-elle baisser dans les mois à venir ?](https://www.moneyvox.fr/energie/actualites/98869/tarif-reglemente-de-electricite-votre-facture-edf-va-t-elle-baisser-dans-les-mois-a-venir)
+append_entries: 3
+Finish: 2024-07-27 12:36:22.999280

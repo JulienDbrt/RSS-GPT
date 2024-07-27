@@ -3807,3 +3807,18 @@ Summarized using GPT-4o-mini
 Append: [Ventes immobilières : douche froide, ce sera pire que prévu !](https://www.lopinion.fr/economie/ventes-immobilieres-douche-froide-ce-sera-pire-que-prevu)
 append_entries: 1
 Finish: 2024-07-27 01:12:23.200883
+------------------------------------------------------
+Started: 2024-07-27 12:31:35.479136
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [«J'aime tout ici» : pourquoi Geoffroy, 33 ans, se félicite d’avoir acheté une résidence secondaire en Espagne](https://www.lefigaro.fr/argent/j-aime-tout-ici-pourquoi-geoffroy-33-ans-se-felicite-d-avoir-achete-une-residence-secondaire-en-espagne-20240727)
+Token length: 298
+Summarized using GPT-4o-mini
+Append: ["Touristes, rentrez chez vous" : en Espagne et ailleurs, le tourisme de masse excède les locaux](https://www.france24.com/fr/europe/20240727-touristes-rentrez-chez-vous-en-espagne-et-ailleurs-le-tourisme-de-masse-exc%C3%A8de-les-locaux)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Un couple de retraités qui se dit victime de la banque suisse UBS prêt à entamer une nouvelle grève de la faim](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/colmar/un-couple-de-retraites-qui-se-dit-victime-de-la-banque-suisse-ubs-pret-a-entamer-une-nouvelle-greve-de-la-faim-3009002.html)
+append_entries: 3
+Finish: 2024-07-27 12:31:59.029204

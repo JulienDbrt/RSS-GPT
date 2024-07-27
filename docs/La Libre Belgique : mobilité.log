@@ -1628,3 +1628,9 @@ Summarized using GPT-4o-mini
 Append: [Attention sur le ring de Bruxelles: des perturbations arrivent début août au carrefour Léonard, voici les changements](https://www.lalibre.be/belgique/mobilite/2024/07/26/attention-sur-le-ring-de-bruxelles-des-perturbations-arrivent-debut-aout-au-carrefour-leonard-voici-les-changements-H3PQ6BOJIZCHVALDNJ4WG5A2GU/)
 append_entries: 1
 Finish: 2024-07-27 01:21:14.146267
+------------------------------------------------------
+Started: 2024-07-27 12:38:43.489252
+Existing_entries: 222
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-07-27 12:38:43.680034
