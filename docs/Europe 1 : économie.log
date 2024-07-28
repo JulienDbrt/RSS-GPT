@@ -1915,3 +1915,9 @@ Summarized using GPT-4o-mini
 Append: [Pourquoi les prix du carburant sont en baisse en France, en plein chassé-croisé des vacances d'été](https://www.europe1.fr/economie/pourquoi-les-prix-du-carburant-sont-en-baisse-en-france-en-plein-chasse-croise-des-vacances-dete-4260029)
 append_entries: 1
 Finish: 2024-07-27 12:35:19.784233
+------------------------------------------------------
+Started: 2024-07-28 01:20:28.223078
+Existing_entries: 291
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-07-28 01:20:28.437632

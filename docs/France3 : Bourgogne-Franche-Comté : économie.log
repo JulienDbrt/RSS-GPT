@@ -1788,3 +1788,9 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. "Des rendements divisés par deux" : en Bourgogne, des moissons "catastrophes" à cause du mauvais temps](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/video-des-rendements-divises-par-deux-en-bourgogne-des-moissons-catastrophes-a-cause-du-mauvais-temps-3010661.html)
 append_entries: 2
 Finish: 2024-07-27 12:36:52.117498
+------------------------------------------------------
+Started: 2024-07-28 01:21:22.841321
+Existing_entries: 254
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-28 01:21:23.121143

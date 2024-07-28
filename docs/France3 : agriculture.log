@@ -2860,3 +2860,18 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. "Des rendements divisés par deux" : en Bourgogne, des moissons "catastrophes" à cause du mauvais temps](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/video-des-rendements-divises-par-deux-en-bourgogne-des-moissons-catastrophes-a-cause-du-mauvais-temps-3010661.html)
 append_entries: 4
 Finish: 2024-07-27 12:36:45.897750
+------------------------------------------------------
+Started: 2024-07-28 01:21:14.686050
+Existing_entries: 611
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Violent incendie dans une coopérative agricole en Haute-Saône, de nombreux soldats du feu sur place](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/violent-incendie-dans-une-cooperative-agricole-en-haute-saone-de-nombreux-soldats-du-feu-sur-place-3010937.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: ["Cette année on est plus dans la survie des colonies que dans la production". Les apiculteurs de l'ouest font face à une année catastrophique](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/cette-annee-on-est-plus-dans-la-survie-des-colonies-que-dans-la-production-les-apiculteurs-de-l-ouest-font-face-a-une-annee-catastrophique-3010757.html)
+Token length: 314
+Summarized using GPT-4o-mini
+Append: [Connaissez-vous le café d'orge, version 100% alsacienne du café traditionnel](https://france3-regions.francetvinfo.fr/grand-est/alsace/connaissez-vous-le-cafe-d-orge-version-100-alsacienne-du-cafe-traditionnel-3008411.html)
+append_entries: 3
+Finish: 2024-07-28 01:21:22.704983

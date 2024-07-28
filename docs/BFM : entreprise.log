@@ -3791,3 +3791,9 @@ Summarized using GPT-4o-mini
 Append: [Attaque contre le réseau SNCF: le trafic s'améliore mais reste perturbé ce samedi](https://www.bfmtv.com/economie/entreprises/transports/attaque-contre-le-reseau-sncf-le-trafic-s-ameliore-mais-reste-perturbe-ce-samedi_AD-202407270074.html)
 append_entries: 2
 Finish: 2024-07-27 12:34:17.511553
+------------------------------------------------------
+Started: 2024-07-28 01:19:53.986858
+Existing_entries: 961
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+append_entries: 0
+Finish: 2024-07-28 01:19:54.118844

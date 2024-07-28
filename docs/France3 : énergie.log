@@ -1392,3 +1392,9 @@ Summarized using GPT-4o-mini
 Append: [Un chercheur d'Amiens décroche une bourse de 2,5 millions d'euros pour ses recherches innovantes sur l'énergie solaire](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/un-chercheur-d-amiens-decroche-une-bourse-de-2-5-millions-d-euros-pour-ses-recherches-innovantes-sur-l-energie-solaire-3010418.html)
 append_entries: 1
 Finish: 2024-07-27 12:36:32.597972
+------------------------------------------------------
+Started: 2024-07-28 01:21:11.453689
+Existing_entries: 122
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-07-28 01:21:11.834841

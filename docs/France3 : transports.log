@@ -3379,3 +3379,21 @@ Summarized using GPT-4o-mini
 Append: [De Laval à Nantes à vélo, 200 km d'aventure sur les voies vertes](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/de-laval-a-nantes-a-velo-200-km-d-aventure-sur-les-voies-vertes-3005429.html)
 append_entries: 6
 Finish: 2024-07-27 12:37:22.390819
+------------------------------------------------------
+Started: 2024-07-28 01:21:24.665132
+Existing_entries: 792
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 372
+Summarized using GPT-4o-mini
+Append: [Panne sur le réseau des bus et tramways de Reims, seule la moitié des véhicules circule ce samedi, le souci résolu](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/panne-sur-le-reseau-des-bus-et-tramways-de-reims-seule-la-moitie-des-vehicules-peut-circuler-3010949.html)
+Token length: 312
+Summarized using GPT-4o-mini
+Append: [Autoroute Castres-Toulouse, "Il faut bloquer la prochaine période de coupe", les écureuils de retour au sommet des arbres à la Crem'Arbre](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/autoroute-castres-toulouse-il-faut-bloquer-la-prochaine-periode-de-coupe-les-ecureuils-de-retour-au-sommet-des-arbres-a-la-crem-arbre-3010955.html)
+Token length: 210
+Summarized using GPT-4o-mini
+Append: ["Attaque massive de la SNCF" : 9 trains sur 10 prévus sur la ligne Atlantique dès dimanche à la mi-journée](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/attaque-massive-de-la-sncf-9-trains-sur-10-prevus-sur-la-ligne-atlantique-des-dimanche-a-la-mi-journee-3010958.html)
+Token length: 314
+Summarized using GPT-4o-mini
+Append: [Accident : une femme grièvement blessée après une collision à grande vitesse entre deux véhicules](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/accident-une-femme-grievement-blessee-apres-une-collision-a-grande-vitesse-entre-deux-vehicules-3010859.html)
+append_entries: 4
+Finish: 2024-07-28 01:21:40.174842

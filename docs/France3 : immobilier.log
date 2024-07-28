@@ -1323,3 +1323,9 @@ Summarized using GPT-4o-mini
 Append: ["Je prendrais l'offre la plus adaptée", les visites de la Maison Marrou à Rouen s'enchaînent avant sa mise en vente aux enchères](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/je-prendrais-l-offre-la-plus-adaptee-les-visites-de-la-maison-marrou-a-rouen-s-enchainent-avant-sa-mise-en-vente-aux-encheres-3010697.html)
 append_entries: 1
 Finish: 2024-07-27 12:37:03.709288
+------------------------------------------------------
+Started: 2024-07-28 01:21:23.974423
+Existing_entries: 99
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-07-28 01:21:24.243320

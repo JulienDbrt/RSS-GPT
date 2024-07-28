@@ -1393,3 +1393,12 @@ Existing_entries: 109
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-07-27 12:37:54.415695
+------------------------------------------------------
+Started: 2024-07-28 01:21:59.930649
+Existing_entries: 109
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 32
+Summarized using GPT-4o-mini
+Append: [Reprise des bus du TCSP de Martinique en "mode dégradé" sur les deux lignes](https://la1ere.francetvinfo.fr/martinique/reprise-des-bus-du-tcsp-de-martinique-en-mode-degrade-sur-les-deux-lignes-1509125.html)
+append_entries: 1
+Finish: 2024-07-28 01:22:02.512606

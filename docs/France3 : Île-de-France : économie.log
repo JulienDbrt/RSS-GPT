@@ -1710,3 +1710,12 @@ Existing_entries: 228
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-07-27 12:36:32.873825
+------------------------------------------------------
+Started: 2024-07-28 01:21:11.954294
+Existing_entries: 228
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 210
+Summarized using GPT-4o-mini
+Append: ["Attaque massive de la SNCF" : 9 trains sur 10 prévus sur la ligne Atlantique dès dimanche à la mi-journée](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/attaque-massive-de-la-sncf-9-trains-sur-10-prevus-sur-la-ligne-atlantique-des-dimanche-a-la-mi-journee-3010958.html)
+append_entries: 1
+Finish: 2024-07-28 01:21:14.355691
