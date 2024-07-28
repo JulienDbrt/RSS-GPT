@@ -1794,3 +1794,15 @@ Existing_entries: 254
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-07-28 01:21:23.121143
+------------------------------------------------------
+Started: 2024-07-28 12:35:31.932244
+Existing_entries: 254
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 230
+Summarized using GPT-4o-mini
+Append: ["On contribue énormément à la biodiversité", des agriculteurs récupèrent leurs semences directement dans leurs prairies](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/on-contribue-enormement-a-la-biodiversite-des-agriculteurs-recuperent-leurs-semences-directement-dans-leurs-prairies-3008555.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: ["Une montée en qualité" : après la pénurie, la moutarde de Bourgogne revient... malgré un début de récolte en demi-teinte](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/une-montee-en-qualite-apres-la-penurie-la-moutarde-de-bourgogne-revient-malgre-un-debut-de-recolte-en-demi-teinte-3010892.html)
+append_entries: 2
+Finish: 2024-07-28 12:35:40.140617

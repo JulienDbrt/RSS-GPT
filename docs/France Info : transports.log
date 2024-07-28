@@ -2054,3 +2054,15 @@ Summarized using GPT-4o-mini
 Append: ["Attaque massive" sur le réseau TGV : un week-end de chassé-croisé perturbé pour les voyageurs](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/attaque-massive-sur-le-reseau-tgv-un-week-end-de-chasse-croise-perturbe-pour-les-voyageurs_6690087.html)
 append_entries: 4
 Finish: 2024-07-28 01:21:03.609602
+------------------------------------------------------
+Started: 2024-07-28 12:34:40.728714
+Existing_entries: 340
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 248
+Summarized using GPT-4o-mini
+Append: ["Attaque massive" sur le réseau TGV : la situation s'améliore doucement, des progrès dans l'enquête](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/attaque-massive-sur-le-reseau-tgv-la-situation-s-ameliore-doucement-des-progres-dans-l-enquete_6691743.html)
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [Attaque sur le réseau SNCF : les travaux de réparation sont terminés, "il n'y aura plus aucune perturbation" lundi](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/attaque-sur-le-reseau-sncf-les-travaux-de-reparation-sont-termines-il-n-y-aura-plus-aucune-perturbation-lundi_6691608.html)
+append_entries: 2
+Finish: 2024-07-28 12:34:57.837731

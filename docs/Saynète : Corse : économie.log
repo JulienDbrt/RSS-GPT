@@ -4486,3 +4486,12 @@ Summarized using GPT-4o-mini
 Append: [#EVENEMENT       Ce mardi 23 juillet après-midi, le #Fablab de](https://www.facebook.com/765411788918626/posts/1027594396033696)
 append_entries: 1
 Finish: 2024-07-28 01:19:40.297112
+------------------------------------------------------
+Started: 2024-07-28 12:32:45.672299
+Existing_entries: 1001
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 48
+Summarized using GPT-4o-mini
+Append: [Infos transport Festival Porto Latino Bastia](https://cf-corse.corsica/horaires-porto-latino-bastia-2024/)
+append_entries: 1
+Finish: 2024-07-28 12:32:49.943660

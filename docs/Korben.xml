@@ -4,6 +4,119 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>TranslateLocally – De la traduction rapide et sécurisée sur votre ordinateur</title>
+<link>https://korben.info/translatelocally-traduction-rapide-securisee-ordinateur.html</link>
+<guid>https://korben.info/translatelocally-traduction-rapide-securisee-ordinateur.html</guid>
+<content:encoded><![CDATA[
+<div> translateLocally, traduction, local, modèles personnalisés, sécurité  
+
+<br><br>Summary:  
+Aujourd'hui, nous parlons de translateLocally, un outil conçu pour permettre la traduction rapide de n'importe quel texte sur votre ordinateur, sans compromettre vos données personnelles, car tout se fait localement. Il est disponible sur plusieurs systèmes d'exploitation, y compris Windows, Linux et Mac, ainsi que sous forme d'extensions pour Chrome et Firefox. De plus, il fonctionne même sur MS-DOS, bien que cela puisse être une blague.  
+translateLocally utilise les bibliothèques marian et Bergamot pour offrir une traduction efficace et précise, même sur des appareils modestes comme un Raspberry Pi. Pour les utilisateurs avancés, une interface en ligne de commande est disponible, permettant la traduction de fichiers et la sélection de modèles.  
+La syntaxe pour traduire est simple : spécifiez le modèle, le texte d'entrée et le fichier de sortie. Les utilisateurs peuvent également importer leurs propres modèles de traduction en suivant une structure de répertoire spécifique. Enfin, pour ceux qui souhaitent explorer davantage cet outil, il est disponible en téléchargement sur leur site officiel. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="348" src="https://korben.info/app/uploads/2024/04/SCR-20240415-cpk.webp" width="1012" /></p>
+<p>Aujourd&rsquo;hui, on va causer d&rsquo;un outil qui devrait vous plaire puisqu&rsquo;il permet de traduire tout et n&rsquo;importe quoi dans votre langue, tout ça en local. Cela s&rsquo;appelle <strong>translateLocally</strong> et ça a été concocté avec amour par les génies de chez <a href="https://marian-nmt.github.io/" rel="noopener" target="_blank">Marian</a> et <a href="https://browser.mt/" rel="noopener" target="_blank">Bergamot</a>, pour vous permettre de traduire en un clin d&rsquo;œil 😉 n&rsquo;importe quel texte, depuis n&rsquo;importe quelle appli, directement sur votre ordi ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-632455558" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Plus besoin d&rsquo;envoyer vos données perso sur des serveurs lointains, au risque qu&rsquo;elles finissent entre les mains d&rsquo;une personne mal intentionnée.</p>
+
+
+
+<p>C&rsquo;est dispo <a href="https://translatelocally.com/downloads/" rel="noopener" target="_blank">sur toutes les plateformes dignes de ce nom</a> : Windows, Linux, Mac, en <a href="https://private.mt/" rel="noopener" target="_blank">version web</a>, en extension Chrome et Firefox&#8230; et même sur MS-DOS pour les plus nostalgiques d&rsquo;entre vous (non, je déconne, quoique&#8230; 😜). Et le must du must, c&rsquo;est que vous pouvez même ajouter vos propres modèles de traduction.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-159166" height="979" src="https://korben.info/app/uploads/2024/04/screenshot_downloads-1.webp" style="width: 486px; height: auto;" width="1004" /></figure></div>
+
+
+<p><strong><a href="https://translatelocally.com/downloads/" rel="noopener" target="_blank">TranslateLocally</a></strong> utilise la puissance combinée des bibliothèques <em>marian</em> et <em>Bergamot</em> pour faire des prouesses de traduction dignes d&rsquo;un C-3PO polyglotte. Le tout est boosté par une quantification des modèles sur 8 bits, ce qui permet une exécution ultra-rapide, même sur un Raspberry Pi premier prix. Et grâce à une <em>shortlist</em> lexicale bien pensée, les traductions sont d&rsquo;une précision redoutable.</p>
+
+
+
+<p>Et pour les pro, il y a même une interface en ligne de commande à disposition : Traduction de fichiers, changement de modèles à la volée, options avancées&#8230; Tout y est !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1922323765" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour traduire une phrase, rien de plus simple :</p>
+
+
+
+<pre class="wp-block-code"><code>./translateLocally -m &lt;modèle> -i &lt;texte> -o &lt;sortie></code></pre>
+
+
+
+<p>Ce qui donne un truc comme ça : </p>
+
+
+
+<pre class="wp-block-code"><code>echo "Bonjour, monde !" | ./translateLocally -m fr-en-tiny</code></pre>
+
+
+
+<ul class="wp-block-list">
+<li><code>-m &lt;modèle></code> : Spécifier le modèle de traduction à utiliser (par exemple, <code>de-en-tiny</code> pour l&rsquo;allemand-anglais). La liste des modèles disponibles peut être obtenue avec <code>translateLocally -l</code>.</li>
+
+
+
+<li><code>-i &lt;texte></code> : Texte à traduire (peut être un fichier ou un flux d&rsquo;entrée standard).</li>
+
+
+
+<li><code>-o &lt;sortie></code> : Fichier de sortie pour la traduction (peut être un fichier ou un flux de sortie standard).</li>
+</ul>
+
+
+
+<p>Et si c&rsquo;est carrément un fichier que vous voulez traduire : </p>
+
+
+
+<pre class="wp-block-code"><code>./translateLocally -m fr-en-tiny input.txt output.txt</code></pre>
+
+
+
+<p>TranslateLocally peut également importer des modèles de traduction personnalisés au format marian. Pour importer un modèle :</p>
+
+
+
+<ol class="wp-block-list">
+<li>Placez le modèle dans un répertoire. La structure du répertoire d&rsquo;un modèle translateLocally doit ressembler à ceci :</li>
+</ol>
+
+
+
+<pre class="wp-block-code"><code>my-custom-model/
+├── config.intgemm8bitalpha.yml
+├── model_info.json
+├── model.npz
+└── vocab.deen.spm
+</code></pre>
+
+
+
+<ol class="wp-block-list" start="2">
+<li>Ouvrez translateLocally et accédez à <code>Modifier -> Paramètres du traducteur -> Langues -> Importer un modèle</code>.</li>
+
+
+
+<li>Sélectionnez le répertoire contenant le modèle que vous souhaitez importer.</li>
+</ol>
+
+
+
+<p>Et voilà ! </p>
+
+
+
+<p>Pour les plus curieux d&rsquo;entre vous, ça se télécharge sur le <a href="https://github.com/XapaJIaMnu/translateLocally" rel="noopener" target="_blank">GitHub de translateLocally</a>.</p>
+]]></content:encoded>
+<pubDate>Sun, 28 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 28 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>MiniPic – Compressez vos images en un clic sans perte de qualité</title>

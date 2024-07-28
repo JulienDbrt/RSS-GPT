@@ -5082,3 +5082,15 @@ Summarized using GPT-4o-mini
 Append: [« Est-il préférable d'avoir un Livret A ou un LEP ? »](https://www.moneyvox.fr/livret-a/actualites/98897/est-il-preferable-avoir-un-livret-a-ou-un-lep)
 append_entries: 1
 Finish: 2024-07-28 01:21:10.635278
+------------------------------------------------------
+Started: 2024-07-28 12:35:02.868603
+Existing_entries: 1001
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Bonne nouvelle pour l'allocation de rentrée scolaire de la CAF... Les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/98898/bonne-nouvelle-pour-allocation-de-rentree-scolaire-de-la-caf-les-5-infos-argent-de-la-semaine)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Succession : « Puis-je contester la clause bénéficiaire d'un contrat d'assurance vie ? »](https://www.moneyvox.fr/assurance-vie/actualites/98852/succession-puis-je-contester-la-clause-beneficiaire-un-contrat-assurance-vie)
+append_entries: 2
+Finish: 2024-07-28 12:35:11.002744

@@ -2875,3 +2875,21 @@ Summarized using GPT-4o-mini
 Append: [Connaissez-vous le café d'orge, version 100% alsacienne du café traditionnel](https://france3-regions.francetvinfo.fr/grand-est/alsace/connaissez-vous-le-cafe-d-orge-version-100-alsacienne-du-cafe-traditionnel-3008411.html)
 append_entries: 3
 Finish: 2024-07-28 01:21:22.704983
+------------------------------------------------------
+Started: 2024-07-28 12:35:16.045366
+Existing_entries: 614
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 230
+Summarized using GPT-4o-mini
+Append: ["On contribue énormément à la biodiversité", des agriculteurs récupèrent leurs semences directement dans leurs prairies](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/on-contribue-enormement-a-la-biodiversite-des-agriculteurs-recuperent-leurs-semences-directement-dans-leurs-prairies-3008555.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [Tendance rose pâle... Comment le vin rosé de Provence a-t-il fait évoluer sa couleur ?](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/draguignan/tendance-rose-pale-comment-le-vin-rose-de-provence-a-t-il-fait-evoluer-sa-couleur-3009830.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: ["Une montée en qualité" : après la pénurie, la moutarde de Bourgogne revient... malgré un début de récolte en demi-teinte](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/une-montee-en-qualite-apres-la-penurie-la-moutarde-de-bourgogne-revient-malgre-un-debut-de-recolte-en-demi-teinte-3010892.html)
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [Élevage de crevettes avec écloserie unique en Europe, le pari réussi d'un ancien vétérinaire installé à la campagne](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/elevage-de-crevettes-avec-ecloserie-unique-en-europe-le-pari-reussi-d-un-ancien-veterinaire-installe-a-la-campagne-3007412.html)
+append_entries: 4
+Finish: 2024-07-28 12:35:31.795208

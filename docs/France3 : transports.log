@@ -3397,3 +3397,18 @@ Summarized using GPT-4o-mini
 Append: [Accident : une femme grièvement blessée après une collision à grande vitesse entre deux véhicules](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/accident-une-femme-grievement-blessee-apres-une-collision-a-grande-vitesse-entre-deux-vehicules-3010859.html)
 append_entries: 4
 Finish: 2024-07-28 01:21:40.174842
+------------------------------------------------------
+Started: 2024-07-28 12:35:46.342968
+Existing_entries: 796
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 329
+Summarized using GPT-4o-mini
+Append: [Sabotage à la SNCF : les réparations sont terminées, vers un retour du trafic à la normale du TGV entre Lille et Paris](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/sabotage-a-la-sncf-les-reparations-sont-terminees-vers-un-retour-du-trafic-a-la-normale-sur-le-tgv-entre-lille-et-paris-3011018.html)
+Token length: 153
+Summarized using GPT-4o-mini
+Append: ["Attaque massive de la SNCF": les travaux de réparation "totalement terminés", retour à la normale lundi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/attaque-massive-de-la-sncf-les-travaux-de-reparation-totalement-termines-retour-a-la-normale-lundi-3011030.html)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [Balades en été : randonnée vélo des châteaux de Nortkerque à Éperlecques en passant par le moulin de Watten](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/balades-en-ete-randonnee-velo-des-chateaux-de-nortkerque-a-eperlecques-en-passant-par-le-moulin-de-watten-2984657.html)
+append_entries: 3
+Finish: 2024-07-28 12:35:58.511085

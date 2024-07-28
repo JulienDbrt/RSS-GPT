@@ -5563,3 +5563,15 @@ Summarized using GPT-4o-mini
 Append: [Tourisme de découverte économique. Port d’Ottmarsheim : les atouts de l’autoroute fluviale](https://www.dna.fr/economie/2024/07/27/port-d-ottmarsheim-les-atouts-de-l-autoroute-fluviale)
 append_entries: 1
 Finish: 2024-07-28 01:20:20.513373
+------------------------------------------------------
+Started: 2024-07-28 12:34:00.192630
+Existing_entries: 1001
+Fetching from https://www.dna.fr/economie/rss
+Token length: 179
+Summarized using GPT-4o-mini
+Append: [Politique. Lucie Castets (NFP) plaide pour une « grande réforme fiscale »](https://www.dna.fr/politique/2024/07/28/lucie-castets-(nfp)-plaide-pour-une-grande-reforme-fiscale)
+Token length: 451
+Summarized using GPT-4o-mini
+Append: [Série d’été. C’était le musée des travailleurs (1977-1979) : « Aucun événement à Mulhouse n’a été de cette portée » (3)](https://www.dna.fr/culture-loisirs/2024/07/28/c-etait-le-musee-des-travailleurs-(1977-1979)-aucun-evenement-a-mulhouse-n-a-ete-de-cette-portee-(3))
+append_entries: 2
+Finish: 2024-07-28 12:34:08.747484

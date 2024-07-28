@@ -1719,3 +1719,12 @@ Summarized using GPT-4o-mini
 Append: ["Attaque massive de la SNCF" : 9 trains sur 10 prévus sur la ligne Atlantique dès dimanche à la mi-journée](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/attaque-massive-de-la-sncf-9-trains-sur-10-prevus-sur-la-ligne-atlantique-des-dimanche-a-la-mi-journee-3010958.html)
 append_entries: 1
 Finish: 2024-07-28 01:21:14.355691
+------------------------------------------------------
+Started: 2024-07-28 12:35:12.717956
+Existing_entries: 229
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 153
+Summarized using GPT-4o-mini
+Append: ["Attaque massive de la SNCF": les travaux de réparation "totalement terminés", retour à la normale lundi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/attaque-massive-de-la-sncf-les-travaux-de-reparation-totalement-termines-retour-a-la-normale-lundi-3011030.html)
+append_entries: 1
+Finish: 2024-07-28 12:35:15.717087

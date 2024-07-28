@@ -1156,3 +1156,9 @@ Summarized using GPT-4o-mini
 Append: [Reprise des bus du TCSP de Martinique en "mode dégradé" sur les deux lignes](https://la1ere.francetvinfo.fr/martinique/reprise-des-bus-du-tcsp-de-martinique-en-mode-degrade-sur-les-deux-lignes-1509125.html)
 append_entries: 1
 Finish: 2024-07-28 01:22:05.546428
+------------------------------------------------------
+Started: 2024-07-28 12:36:37.462062
+Existing_entries: 28
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-28 12:36:37.548469
