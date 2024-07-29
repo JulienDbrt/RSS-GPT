@@ -3973,3 +3973,15 @@ Summarized using GPT-4o-mini
 Append: [Papeete market street : la culture polynésienne et les gastronomies d'orient à l'honneur](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/papeete-market-street-la-culture-polynesienne-et-les-gastronomies-d-orient-a-l-honneur-1509230.html)
 append_entries: 5
 Finish: 2024-07-28 12:36:37.300641
+------------------------------------------------------
+Started: 2024-07-29 01:18:57.167394
+Existing_entries: 965
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 14
+Summarized using GPT-4o-mini
+Append: [Marché du taro : la demande dépasse l'offre](https://la1ere.francetvinfo.fr/wallisfutuna/marche-du-taro-la-demande-depasse-l-offre-1509443.html)
+Token length: 60
+Summarized using GPT-4o-mini
+Append: [Encore un week-end sans transport maritime en Martinique... une "reprise prochaine" est annoncée](https://la1ere.francetvinfo.fr/martinique/encore-un-week-end-sans-transport-maritime-en-martinique-une-reprise-prochaine-est-annoncee-1509215.html)
+append_entries: 2
+Finish: 2024-07-29 01:19:03.302657

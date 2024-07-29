@@ -1843,3 +1843,9 @@ Summarized using GPT-4o-mini
 Append: [Crise du logement: peu de Français sont prêts à déménager pour un emploi](https://www.bfmtv.com/immobilier/location/crise-du-logement-peu-de-francais-sont-prets-a-demenager-pour-un-emploi_AN-202407280101.html)
 append_entries: 1
 Finish: 2024-07-28 12:33:58.280270
+------------------------------------------------------
+Started: 2024-07-29 01:18:01.326111
+Existing_entries: 281
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-07-29 01:18:01.439395

@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>TranslateLocally – De la traduction rapide et sécurisée sur votre ordinateur</title>
 <link>https://korben.info/translatelocally-traduction-rapide-securisee-ordinateur.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> translateLocally, traduction, local, modèles personnalisés, sécurité  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Aujourd'hui, nous parlons de translateLocally, un outil conçu pour permettre la traduction rapide de n'importe quel texte sur votre ordinateur, sans compromettre vos données personnelles, car tout se fait localement. Il est disponible sur plusieurs systèmes d'exploitation, y compris Windows, Linux et Mac, ainsi que sous forme d'extensions pour Chrome et Firefox. De plus, il fonctionne même sur MS-DOS, bien que cela puisse être une blague.  
 translateLocally utilise les bibliothèques marian et Bergamot pour offrir une traduction efficace et précise, même sur des appareils modestes comme un Raspberry Pi. Pour les utilisateurs avancés, une interface en ligne de commande est disponible, permettant la traduction de fichiers et la sélection de modèles.  
 La syntaxe pour traduire est simple : spécifiez le modèle, le texte d'entrée et le fichier de sortie. Les utilisateurs peuvent également importer leurs propres modèles de traduction en suivant une structure de répertoire spécifique. Enfin, pour ceux qui souhaitent explorer davantage cet outil, il est disponible en téléchargement sur leur site officiel. <div>
@@ -115,9 +116,7 @@ La syntaxe pour traduire est simple : spécifiez le modèle, le texte d'entrée 
 <p>Pour les plus curieux d&rsquo;entre vous, ça se télécharge sur le <a href="https://github.com/XapaJIaMnu/translateLocally" rel="noopener" target="_blank">GitHub de translateLocally</a>.</p>
 ]]></content:encoded>
 <pubDate>Sun, 28 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 28 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>MiniPic – Compressez vos images en un clic sans perte de qualité</title>
 <link>https://korben.info/minipic-compressez-images-clic-sans-perte-qualite.html</link>

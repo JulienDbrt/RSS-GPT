@@ -1806,3 +1806,9 @@ Summarized using GPT-4o-mini
 Append: ["Une montée en qualité" : après la pénurie, la moutarde de Bourgogne revient... malgré un début de récolte en demi-teinte](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/une-montee-en-qualite-apres-la-penurie-la-moutarde-de-bourgogne-revient-malgre-un-debut-de-recolte-en-demi-teinte-3010892.html)
 append_entries: 2
 Finish: 2024-07-28 12:35:40.140617
+------------------------------------------------------
+Started: 2024-07-29 01:18:42.510985
+Existing_entries: 256
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-07-29 01:18:42.756217

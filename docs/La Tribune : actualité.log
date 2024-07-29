@@ -5797,3 +5797,15 @@ Summarized using GPT-4o-mini
 Append: [Jean-Paul Gaultier : « À Cannes, on m’a fait redescendre les marches ! »](https://www.latribune.fr/culture-lifestyle/jean-paul-gaultier-a-cannes-on-m-a-fait-redescendre-les-marches-1003187.html)
 append_entries: 10
 Finish: 2024-07-28 12:38:41.458524
+------------------------------------------------------
+Started: 2024-07-29 01:19:49.975833
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Donald Trump réaffirme son statut de candidat « pro » bitcoin](https://www.latribune.fr/entreprises-finance/banques-finance/industrie-financiere/donald-trump-reaffirme-son-statut-de-candidat-pro-bitcoin-1003293.html)
+Token length: 173
+Summarized using GPT-4o-mini
+Append: [Israël : les appels à la retenue se multiplient après l’attaque du Hezbollah](https://www.latribune.fr/economie/international/israel-les-appels-a-la-retenue-se-multiplient-apres-l-attaque-du-hezbollah-1003291.html)
+append_entries: 2
+Finish: 2024-07-29 01:19:57.381429

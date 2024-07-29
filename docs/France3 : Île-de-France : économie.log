@@ -1728,3 +1728,12 @@ Summarized using GPT-4o-mini
 Append: ["Attaque massive de la SNCF": les travaux de réparation "totalement terminés", retour à la normale lundi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/attaque-massive-de-la-sncf-les-travaux-de-reparation-totalement-termines-retour-a-la-normale-lundi-3011030.html)
 append_entries: 1
 Finish: 2024-07-28 12:35:15.717087
+------------------------------------------------------
+Started: 2024-07-29 01:18:34.486151
+Existing_entries: 230
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 208
+Summarized using GPT-4o-mini
+Append: [Patrice Moullet, savant fou et inventeur d’instruments de musique](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/patrice-moullet-savant-fou-et-inventeur-d-instruments-de-musique-2988566.html)
+append_entries: 1
+Finish: 2024-07-29 01:18:38.409994
