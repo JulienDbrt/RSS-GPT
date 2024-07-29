@@ -2072,3 +2072,18 @@ Existing_entries: 342
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-07-29 01:18:23.922909
+------------------------------------------------------
+Started: 2024-07-29 12:44:05.183100
+Existing_entries: 342
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [Un homme de 29 ans interpellé sur un site SNCF en Seine-Maritime](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/un-homme-de-29-ans-interpelle-sur-un-site-sncf-en-seine-maritime_6693462.html)
+Token length: 156
+Summarized using GPT-4o-mini
+Append: [Un homme connu pour son appartenance à la mouvance d'ultragauche a été interpellé sur un site de la SNCF en Seine-Maritime](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/un-homme-connu-pour-son-appartenance-a-la-mouvance-d-ultragauche-a-ete-interpelle-sur-un-site-de-la-sncf-en-seine-maritime_6693480.html)
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [Attaque sur le réseau SNCF : "tous les trains" circulent "normalement" lundi matin, dit le ministre des Transports](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/attaque-sur-le-reseau-sncf-tous-les-trains-circulent-normalement-lundi-matin-dit-le-ministre-des-transports_6693294.html)
+append_entries: 3
+Finish: 2024-07-29 12:44:17.579004

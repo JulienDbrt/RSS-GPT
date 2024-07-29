@@ -1413,3 +1413,9 @@ Summarized using GPT-4o-mini
 Append: [ÉNERGIE. Cette scientifique va révolutionner la production d’électricité après avoir décroché une bourse de 1,5 million d’euros](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/energie-cette-scientifique-va-revolutionner-la-production-d-electricite-apres-avoir-decroche-une-bourse-de-1-5-million-d-euros-3011108.html)
 append_entries: 1
 Finish: 2024-07-29 01:18:34.365606
+------------------------------------------------------
+Started: 2024-07-29 12:45:03.034643
+Existing_entries: 123
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-07-29 12:45:03.439426

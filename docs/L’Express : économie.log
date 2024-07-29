@@ -2194,3 +2194,15 @@ Existing_entries: 430
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-29 01:18:55.589852
+------------------------------------------------------
+Started: 2024-07-29 12:46:30.968400
+Existing_entries: 430
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2530
+Summarized using GPT-4o-mini
+Append: [Fibres optiques : "sabotage" des réseaux de plusieurs opérateurs dans six départements](https://www.lexpress.fr/economie/high-tech/fibres-optiques-sabotage-des-reseaux-de-plusieurs-operateurs-dans-six-departements-NX7EHOEM5JGBTCE5QRXLUDIBBQ/)
+Token length: 14028
+Summarized using GPT-4o-mini
+Append: [Entre Trump et les milieux d’affaires, les dessous d’une opération séduction réussie](https://www.lexpress.fr/economie/entre-trump-et-les-milieux-daffaires-les-dessous-dune-operation-seduction-reussie-2BQQ4QNNAZCDRJOJFLWUNKRBM4/)
+append_entries: 2
+Finish: 2024-07-29 12:46:42.600168

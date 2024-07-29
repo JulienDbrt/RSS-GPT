@@ -2902,3 +2902,18 @@ Summarized using GPT-4o-mini
 Append: [Les secrets pour choisir un saint-nectaire parfait dévoilés par "le pape du fromage"](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/les-secrets-pour-choisir-un-saint-nectaire-parfait-devoiles-par-le-pape-du-fromage-3011105.html)
 append_entries: 1
 Finish: 2024-07-29 01:18:42.376753
+------------------------------------------------------
+Started: 2024-07-29 12:45:09.026314
+Existing_entries: 619
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 409
+Summarized using GPT-4o-mini
+Append: ["Le riverain a coupé tous les arbres" : les haies, ces barrières naturelles peu aimées et pourtant si nécessaires](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/le-riverain-a-coupe-tous-les-arbres-les-haies-ces-barrieres-naturelles-peu-aimees-et-pourtant-si-necessaires-3002141.html)
+Token length: 277
+Summarized using GPT-4o-mini
+Append: [Déserts médicaux pour les animaux : un vétérinaire veut partir à la retraite mais il ne trouve pas de remplaçant](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/deserts-medicaux-pour-les-animaux-un-veterinaire-veut-partir-a-la-retraite-mais-il-ne-trouve-pas-de-remplacant-3004001.html)
+Token length: 300
+Summarized using GPT-4o-mini
+Append: [Épandage de lisier : en finira-t-on un jour avec les mauvaises odeurs ?](https://france3-regions.francetvinfo.fr/grand-est/ardennes/epandage-de-lisier-en-finira-t-on-un-jour-avec-les-mauvaises-odeurs-3008543.html)
+append_entries: 3
+Finish: 2024-07-29 12:45:21.058933

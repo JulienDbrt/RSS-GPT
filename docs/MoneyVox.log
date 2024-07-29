@@ -5103,3 +5103,27 @@ Summarized using GPT-4o-mini
 Append: [« Quel montant est garanti en cas de faillite de ma banque ?  »](https://www.moneyvox.fr/banque/actualites/98894/quel-montant-est-garanti-en-cas-de-faillite-de-ma-banque)
 append_entries: 1
 Finish: 2024-07-29 01:18:30.463569
+------------------------------------------------------
+Started: 2024-07-29 12:44:28.652321
+Existing_entries: 1001
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Assurance chômage : une nouvelle date à anticiper avant de nouvelles règles](https://www.moneyvox.fr/votre-argent/actualites/98909/assurance-chomage-une-nouvelle-date-a-anticiper-avant-de-nouvelles-regles)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Boursobank : 220 euros de primes pour l'ouverture d'un compte pendant le Pink Week-end](https://www.moneyvox.fr/banque-en-ligne/actualites/98910/boursobank-220-euros-de-primes-pour-ouverture-un-compte-pendant-le-pink-week-end)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Nouveau gros virement des impôts, déclaration de revenus... 2 dates capitales d'ici le 1er août](https://www.moneyvox.fr/impot/actualites/98544/nouveau-gros-virement-des-impots-declaration-de-revenus-2-dates-capitales-ici-le-1er-aout)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Immobilier : des nouvelles restrictions pour les locations de meublés de tourisme](https://www.moneyvox.fr/immobilier/actualites/98908/des-nouvelles-restrictions-pour-les-locations-de-meubles-de-tourisme)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [CAF : « quand est-ce que l'Allocation adultes handicapés (AAH) va augmenter ? »](https://www.moneyvox.fr/votre-argent/actualites/98906/caf-quand-est-ce-que-allocation-adultes-handicapes-va-augmenter)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Assurance vie : que faire des SCPI dans votre contrat ?](https://www.moneyvox.fr/assurance-vie/actualites/98759/que-faire-des-scpi-dans-votre-contrat)
+append_entries: 6
+Finish: 2024-07-29 12:45:02.260142

@@ -4,6 +4,112 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Cloudzip – Montez un zip distant et accédez à ses fichiers sans tout télécharger</title>
+<link>https://korben.info/cloudzip-monter-zip-distant-acceder-fichiers-sans-telecharger.html</link>
+<guid>https://korben.info/cloudzip-monter-zip-distant-acceder-fichiers-sans-telecharger.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Cloudzip, archive zip, S3, montage NFS, open-source
+
+<br><br>Résumé : 
+Cloudzip est un outil innovant permettant d'accéder à des fichiers spécifiques dans un archive zip distante, comme celles stockées sur S3, sans avoir à télécharger l'archive complète. Il utilise deux principes : l'accès aléatoire en lecture des fichiers zip et les requêtes HTTP « range » pour récupérer uniquement les parties nécessaires. Avec Cloudzip, il est possible d'obtenir une liste de fichiers en récupérant uniquement le répertoire central de l'archive, réduisant ainsi le temps et l'espace nécessaires. 
+
+De plus, grâce à la commande "mount", Cloudzip peut monter l'archive zip comme un répertoire local en démarrant un petit serveur NFS, accessible sous Linux et macOS. Cela permet d'ouvrir directement les fichiers dans des applications sans téléchargement intégral. Cet outil supporte diverses plateformes de stockage, y compris Kaggle, facilitant l'accès à de grands datasets. Bien que les performances soient limitées par la nécessité de télécharger des morceaux de fichiers via le réseau, Cloudzip s'avère idéal pour accéder rapidement à des fichiers spécifiques. De plus, il est open-source, garantissant sa flexibilité et son accessibilité. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Networkd_cloud_6cdf97da-70c3-4b50-a11d-1d059ada8d9d.webp" width="1456" /></p>
+<p>Imaginons que vous ayez une énooorme archive zip stockée quelque part dans le cloud, disons sur un bucket S3, et vous avez besoin d&rsquo;accéder à quelques fichiers précis à l&rsquo;intérieur. Qu&rsquo;est-ce que vous faites ? Et bien comme tout le monde, vous téléchargez les 32 Go en entier, vous dézippez le bazar et tout ça pour récupérer 3 malheureux fichiers&#8230;</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1484584157" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et ben figurez-vous que j&rsquo;ai déniché un p&rsquo;tit outil bien sympa qui va vous faciliter la vie : <strong><a href="https://github.com/ozkatz/cloudzip" rel="noopener" target="_blank">Cloudzip</a></strong> ! Ca permet de monter votre archive zip distante directement sur votre machine, comme un disque dur externe, comme ça, vous pouvez accéder aux fichiers dont vous avez besoin, les copier, les utiliser, tout ça sans avoir à télécharger l&rsquo;intégralité de l&rsquo;archive. </p>
+
+
+
+<p>Exemple : </p>
+
+
+
+<pre class="wp-block-code"><code>cz ls s3://example-bucket/path/to/archive.zip</code></pre>
+
+
+
+<p>Plutôt cool, non ?</p>
+
+
+
+<p>Le fonctionnement de Cloudzip est assez ingénieux. Il se base sur deux principes simples mais diablement efficaces :</p>
+
+
+
+<ol class="wp-block-list">
+<li>Les fichiers zip permettent un accès aléatoire en lecture. Ils ont un « <em>répertoire central</em> » stocké à la fin de l&rsquo;archive qui décrit tous les fichiers contenus, avec leurs offsets. Pas besoin de lire l&rsquo;archive en entier pour trouver un fichier. </li>
+
+
+
+<li>
+La plupart des serveurs HTTP et des services de stockage dans le cloud (S3, Google Cloud Storage, Azure Blob Storage, etc.) supportent les requêtes HTTP avec des « range » headers. En gros, ça permet de ne récupérer qu&rsquo;une partie d&rsquo;un fichier distant.
+</li>
+</ol>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1841990958" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>En combinant ces deux principes, Cloudzip est capable de récupérer juste le répertoire central de votre archive zip (qui ne pèse que quelques Ko) pour avoir la liste des fichiers, et ensuite de télécharger uniquement les bouts de fichiers dont vous avez besoin au moment où vous y accédez !</p>
+
+
+
+<p>Pour l&rsquo;installer : </p>
+
+
+
+<pre class="wp-block-code"><code>git clone https://github.com/ozkatz/cloudzip.git
+cd cloudzip
+go build -o cz main.go</code></pre>
+
+
+
+<p>Puis copiez le binaire cz dans un endroit accessible via votre $PATH :</p>
+
+
+
+<pre class="wp-block-code"><code>cp cz /usr/local/bin/</code></pre>
+
+
+
+<p>Et là ou ça devient encore plus dingue (oups pardon, je voulais dire « intéressant ») c&rsquo;est qu&rsquo;avec le paramètre mount, Cloudzip peut carrément monter votre archive zip distante comme un répertoire local. En fait, il va démarrer un petit serveur NFS en local, et monter ce répertoire NFS dans le dossier de votre choix.</p>
+
+
+
+<p>Encore un exemple : </p>
+
+
+
+<pre class="wp-block-code"><code>cz mount s3://example-bucket/path/to/archive.zip some_dir/</code></pre>
+
+
+
+<p>Comme ça, vous avez accès à tous tes fichiers comme s&rsquo;ils étaient en local, vous pouvez les ouvrir direct dans vos applications, les traiter, et tout ça sans jamais avoir eu à télécharger l&rsquo;archive en entier.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1177780875" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Et le plus beau dans tout ça, c&rsquo;est que Cloudzip fonctionne avec à peu près tous les stockages distants qu&rsquo;on peut imaginer. Bien sûr, il y a S3, mais aussi HTTP, HTTPS, GCS, Azure, et même&#8230; roulement de tambour&#8230; Kaggle !</p>
+
+
+
+<p>Ah Kaggle, ce repaire de Data Scientists où les datasets sont plus gros que le compteur électrique d&rsquo;un mineur de Bitcoin&#8230; Cloudzip est capable d&rsquo;utiliser l&rsquo;API de Kaggle pour récupérer directement le zip d&rsquo;un dataset sans avoir à le télécharger. Vous pouvez donc littéralement monter un dataset Kaggle en local et commencer à bosser dessus dans la seconde. Et si jamais vous avez besoin d&rsquo;un fichier particulier pour tester un truc, pas de souci, il sera téléchargé à la demande.</p>
+
+
+
+<p>Alors bien sûr, ce n&rsquo;est pas parfait. Le montage NFS, par exemple, n&rsquo;est disponible que sous Linux et macOS pour l&rsquo;instant. Et faut pas s&rsquo;attendre à des performances dingues non plus, on parle quand même de télécharger des bouts de fichiers à travers le réseau. Mais pour tous ces cas où vous avez besoin d&rsquo;accéder à quelques fichiers dans une archive zip énorme, c&rsquo;est parfait !</p>
+
+
+
+<p>Et en plus, c&rsquo;est est open-source (vous pensiez quand même pas que j&rsquo;allais vous recommander un truc propriétaire, hein !). Vous pouvez retrouver le projet sur <a href="https://github.com/ozkatz/cloudzip" rel="noopener" target="_blank">GitHub</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 29 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>TranslateLocally – De la traduction rapide et sécurisée sur votre ordinateur</title>

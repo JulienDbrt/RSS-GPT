@@ -1500,3 +1500,15 @@ Existing_entries: 152
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-29 01:18:43.083100
+------------------------------------------------------
+Started: 2024-07-29 12:45:21.524137
+Existing_entries: 152
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 423
+Summarized using GPT-4o-mini
+Append: [CAF, CPAM, logement, retraite. Pour cette assistance sociale en entreprise, "les gens pensent qu'on intervient uniquement pour les cas sociaux"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/caf-cpam-logement-retraite-pour-cette-assistance-sociale-en-entreprise-les-gens-pensent-qu-on-intervient-uniquement-pour-les-cas-sociaux-3006326.html)
+Token length: 349
+Summarized using GPT-4o-mini
+Append: [ENQUÊTE. De Lignac aux influenceurs, de la télévision aux réseaux sociaux : la cuisine à l'écran fait aussi vendre du papier](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/enquete-de-lignac-aux-influenceurs-de-la-television-aux-reseaux-sociaux-la-cuisine-a-l-ecran-fait-aussi-vendre-du-papier-3008186.html)
+append_entries: 2
+Finish: 2024-07-29 12:45:29.749076

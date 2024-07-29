@@ -2144,3 +2144,21 @@ Summarized using GPT-4o-mini
 Append: [Autour de la vasque olympique, la "fête" et la "communion" des Jeux](https://www.martinique.franceantilles.fr/actualite/economie/autour-de-la-vasque-olympique-la-fete-et-la-communion-des-jeux-997547.php)
 append_entries: 1
 Finish: 2024-07-29 01:18:21.801365
+------------------------------------------------------
+Started: 2024-07-29 12:43:13.349875
+Existing_entries: 380
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [Après la SNCF, des sabotages de réseaux de fibres optiques en plein JO](https://www.martinique.franceantilles.fr/actualite/economie/apres-la-sncf-des-sabotages-de-reseaux-de-fibres-optiques-en-plein-jo-997648.php)
+Token length: 103
+Summarized using GPT-4o-mini
+Append: [Sabotages en France: retour à la normale sur le réseau TGV](https://www.martinique.franceantilles.fr/actualite/economie/sabotages-en-france-retour-a-la-normale-sur-le-reseau-tgv-997639.php)
+Token length: 187
+Summarized using GPT-4o-mini
+Append: ["Sabotage" de réseaux de fibres optiques de plusieurs opérateurs dans six départements, Paris pas touché](https://www.martinique.franceantilles.fr/actualite/economie/sabotage-de-reseaux-de-fibres-optiques-de-plusieurs-operateurs-dans-six-departements-paris-pas-touche-997638.php)
+Token length: 103
+Summarized using GPT-4o-mini
+Append: [Sabotages en France: "tous les trains" circulent "normalement" lundi matin, dit le ministre des Transports](https://www.martinique.franceantilles.fr/actualite/economie/sabotages-en-france-tous-les-trains-circulent-normalement-lundi-matin-dit-le-ministre-des-transports-997636.php)
+append_entries: 4
+Finish: 2024-07-29 12:43:35.169816

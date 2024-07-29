@@ -1727,3 +1727,24 @@ Summarized using GPT-4o-mini
 Append: [Sabotages du réseau SNCF: 9 trains sur 10 sur la ligne Atlantique ce dimanche, 7 sur 10 sur la ligne Nord](https://www.bfmtv.com/economie/entreprises/transports/sabotages-du-reseau-sncf-9-trains-sur-10-sur-la-ligne-atlantique-ce-dimanche-7-sur-10-sur-la-ligne-nord_AD-202407280082.html)
 append_entries: 2
 Finish: 2024-07-29 01:18:10.371738
+------------------------------------------------------
+Started: 2024-07-29 12:42:10.562534
+Existing_entries: 231
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Fortes chaleurs: la SNCF déclenche son "plan canicule"](https://www.bfmtv.com/economie/entreprises/transports/fortes-chaleurs-la-sncf-declenche-son-plan-canicule_AV-202407290347.html)
+Token length: 162
+Summarized using GPT-4o-mini
+Append: [Air France et Transavia suspendent leurs liaisons vers Beyrouth lundi et mardi](https://www.bfmtv.com/economie/entreprises/transports/air-france-et-transavia-suspendent-leurs-liaisons-vers-beyrouth-lundi-et-mardi_AD-202407290293.html)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [Sabotages du réseau SNCF: "tous les trains" circulent "normalement" ce lundi](https://www.bfmtv.com/economie/entreprises/transports/sabotages-du-reseau-sncf-vergriete-assure-que-tous-les-trains-circulent-normalment-ce-lundi_AD-202407290114.html)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Air Canada: un vol Casablanca-Montréal annulé après une altercation entre des passagers et un membre d'équipage](https://www.bfmtv.com/economie/entreprises/transports/air-canada-un-vol-casablanca-montreal-annule-apres-une-altercation-entre-des-passagers-et-un-membre-d-equipage_AV-202407290058.html)
+Token length: 162
+Summarized using GPT-4o-mini
+Append: [Sabotage du réseau TGV: les réparations "totalement terminées", le trafic reprend normalement](https://www.bfmtv.com/economie/entreprises/transports/sabotage-du-reseau-tgv-les-reparations-totalement-terminees-le-trafic-reprend-normalement_AD-202407290027.html)
+append_entries: 5
+Finish: 2024-07-29 12:42:31.545893

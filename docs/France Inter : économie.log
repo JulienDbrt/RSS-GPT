@@ -1919,3 +1919,15 @@ Existing_entries: 285
 Fetching from https://www.radiofrance.fr/franceinter/rss/economie
 append_entries: 0
 Finish: 2024-07-29 01:18:24.456147
+------------------------------------------------------
+Started: 2024-07-29 12:44:17.724813
+Existing_entries: 285
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 289
+Summarized using GPT-4o-mini
+Append: [Faut-il arrêter de travailler ?](https://www.radiofrance.fr/franceinter/podcasts/le-debat-de-midi/le-debat-de-midi-du-lundi-29-juillet-2024-3274178)
+Token length: 129
+Summarized using GPT-4o-mini
+Append: [La percée des producteurs de pétrole nord-américains](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-lundi-29-juillet-2024-7174370)
+append_entries: 2
+Finish: 2024-07-29 12:44:27.436701
