@@ -1513,3 +1513,9 @@ Summarized using GPT-4o-mini
 Append: [Fin des véhicules à essence en 2035: «Ça va trop vite», alertent les constructeurs](https://www.journaldemontreal.com/2024/07/29/fin-des-vehicules-a-essence-en-2035-ca-va-trop-vite-alertent-les-constructeurs)
 append_entries: 1
 Finish: 2024-07-29 12:46:17.420745
+------------------------------------------------------
+Started: 2024-07-30 01:21:07.641803
+Existing_entries: 143
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-07-30 01:21:07.941298

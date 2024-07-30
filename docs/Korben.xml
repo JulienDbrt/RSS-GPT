@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Cloudzip – Montez un zip distant et accédez à ses fichiers sans tout télécharger</title>
 <link>https://korben.info/cloudzip-monter-zip-distant-acceder-fichiers-sans-telecharger.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Cloudzip, archive zip, S3, montage NFS, open-source
 
-<br><br>Résumé : 
+<br /><br />Résumé : 
 Cloudzip est un outil innovant permettant d'accéder à des fichiers spécifiques dans un archive zip distante, comme celles stockées sur S3, sans avoir à télécharger l'archive complète. Il utilise deux principes : l'accès aléatoire en lecture des fichiers zip et les requêtes HTTP « range » pour récupérer uniquement les parties nécessaires. Avec Cloudzip, il est possible d'obtenir une liste de fichiers en récupérant uniquement le répertoire central de l'archive, réduisant ainsi le temps et l'espace nécessaires. 
 
 De plus, grâce à la commande "mount", Cloudzip peut monter l'archive zip comme un répertoire local en démarrant un petit serveur NFS, accessible sous Linux et macOS. Cela permet d'ouvrir directement les fichiers dans des applications sans téléchargement intégral. Cet outil supporte diverses plateformes de stockage, y compris Kaggle, facilitant l'accès à de grands datasets. Bien que les performances soient limitées par la nécessité de télécharger des morceaux de fichiers via le réseau, Cloudzip s'avère idéal pour accéder rapidement à des fichiers spécifiques. De plus, il est open-source, garantissant sa flexibilité et son accessibilité. <div>
@@ -108,9 +109,7 @@ go build -o cz main.go</code></pre>
 <p>Et en plus, c&rsquo;est est open-source (vous pensiez quand même pas que j&rsquo;allais vous recommander un truc propriétaire, hein !). Vous pouvez retrouver le projet sur <a href="https://github.com/ozkatz/cloudzip" rel="noopener" target="_blank">GitHub</a>.</p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 29 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>TranslateLocally – De la traduction rapide et sécurisée sur votre ordinateur</title>
 <link>https://korben.info/translatelocally-traduction-rapide-securisee-ordinateur.html</link>

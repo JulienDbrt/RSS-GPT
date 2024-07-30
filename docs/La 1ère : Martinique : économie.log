@@ -1426,3 +1426,9 @@ Summarized using GPT-4o-mini
 Append: [Ouragan Béryl : le littoral du Diamant encore partiellement défiguré depuis le passage du phénomène en Martinique](https://la1ere.francetvinfo.fr/martinique/diamant/ouragan-beryl-le-littoral-du-diamant-encore-partiellement-defigure-depuis-le-passage-du-phenomene-en-martinique-1509464.html)
 append_entries: 1
 Finish: 2024-07-29 12:47:13.242825
+------------------------------------------------------
+Started: 2024-07-30 01:21:44.670177
+Existing_entries: 112
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-07-30 01:21:45.454648

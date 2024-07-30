@@ -3448,3 +3448,18 @@ Summarized using GPT-4o-mini
 Append: [D'où vient le nom de la station Glacière ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-nom-de-la-station-glaciere-2982443.html)
 append_entries: 7
 Finish: 2024-07-29 12:46:10.982051
+------------------------------------------------------
+Started: 2024-07-30 01:20:53.865462
+Existing_entries: 807
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Accident : la voiture finit sa route sur le toit dans les vignes, deux personnes blessées dont une en urgence absolue](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/accident-la-voiture-finit-sa-route-sur-le-toit-dans-les-vignes-deux-personnes-blessees-dont-une-en-urgence-absolue-3011603.html)
+Token length: 240
+Summarized using GPT-4o-mini
+Append: [VIDEO. JO de Paris 2024 : la gare routière de Bercy délocalisée, les usagers perdus à Vincennes](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/video-jo-de-paris-2024-la-gare-routiere-de-bercy-delocalisee-les-usagers-perdus-a-vincennes-3011465.html)
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [La voiture délaissée au profit du vélo et de la marche, Tisséo publie sa grande enquête sur les déplacements](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/la-voiture-delaissee-au-profit-du-velo-et-de-la-marche-tisseo-publie-sa-grande-enquete-sur-les-deplacements-3011477.html)
+append_entries: 3
+Finish: 2024-07-30 01:21:07.564706

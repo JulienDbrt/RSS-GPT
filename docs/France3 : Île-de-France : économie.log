@@ -1746,3 +1746,12 @@ Summarized using GPT-4o-mini
 Append: [D'où vient le nom de la station Glacière ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/d-ou-vient-le-nom-de-la-station-glaciere-2982443.html)
 append_entries: 1
 Finish: 2024-07-29 12:45:08.696859
+------------------------------------------------------
+Started: 2024-07-30 01:20:28.711197
+Existing_entries: 232
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 210
+Summarized using GPT-4o-mini
+Append: [Jeux Olympiques de Paris 2024 : dans les arènes gallo-romaines de Lutèce, les combats se déroulent sur grand écran](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jeux-olympiques-de-paris-2024-dans-les-arenes-gallo-romaine-de-lutece-les-combats-se-deroulent-sur-grand-ecran-3011462.html)
+append_entries: 1
+Finish: 2024-07-30 01:20:31.529937
