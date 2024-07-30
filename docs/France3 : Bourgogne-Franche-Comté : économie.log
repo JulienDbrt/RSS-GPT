@@ -1824,3 +1824,12 @@ Existing_entries: 256
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-07-30 01:20:46.845400
+------------------------------------------------------
+Started: 2024-07-30 12:43:29.404341
+Existing_entries: 256
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 352
+Summarized using GPT-4o-mini
+Append: [JO Paris 2024 : torches, anneaux olympiques sur la Tour Eiffel... cette usine du Creusot les a conçus !](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/le-creusot/jo-paris-2024-comment-une-usine-du-creusot-a-participe-a-la-conception-des-torches-et-anneaux-olympiques-3011585.html)
+append_entries: 1
+Finish: 2024-07-30 12:43:33.077179

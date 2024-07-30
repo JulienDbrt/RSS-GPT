@@ -1425,3 +1425,15 @@ Existing_entries: 123
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-07-30 01:20:28.588340
+------------------------------------------------------
+Started: 2024-07-30 12:42:53.889464
+Existing_entries: 123
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [La piscine et 40 autres bâtiments de Doullens bientôt chauffés grâce au lin, objectif 400 000€ d'économie d'énergie par an](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/la-piscine-et-40-autres-batiments-de-doullens-bientot-chauffes-grace-au-lin-objectif-400-000-d-economie-d-energie-par-an-3011540.html)
+Token length: 321
+Summarized using GPT-4o-mini
+Append: [Canicule : la centrale nucléaire de Golfech réduit à nouveau sa production pour préserver la Garonne](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/canicule-la-centrale-nucleaire-de-golfech-reduit-a-nouveau-sa-production-pour-preserver-la-garonne-3011720.html)
+append_entries: 2
+Finish: 2024-07-30 12:43:00.115336

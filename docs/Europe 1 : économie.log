@@ -1948,3 +1948,15 @@ Existing_entries: 292
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-30 01:19:02.044011
+------------------------------------------------------
+Started: 2024-07-30 12:40:46.940462
+Existing_entries: 292
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [France : le PIB a progressé de 0,3% au deuxième trimestre, selon l'Insee](https://www.europe1.fr/economie/france-le-pib-a-progresse-de-03-au-deuxieme-trimestre-selon-linsee-4260364)
+Token length: 397
+Summarized using GPT-4o-mini
+Append: [«Le spéculateur n’est pas le bienvenu» : comment la vallée de Chamonix veut encadrer les meublés type Airbnb](https://www.europe1.fr/economie/le-speculateur-nest-pas-le-bienvenu-comment-la-vallee-de-chamonix-veut-encadrer-les-meubles-type-airbnb-4260314)
+append_entries: 2
+Finish: 2024-07-30 12:40:53.687864

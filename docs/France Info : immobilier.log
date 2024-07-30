@@ -1352,3 +1352,12 @@ Existing_entries: 92
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-07-30 01:19:33.835281
+------------------------------------------------------
+Started: 2024-07-30 12:41:49.890417
+Existing_entries: 92
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Isolation thermique contre la canicule : "MaPrimeRénov' permet de financer ces travaux-là", pointe l'Agence nationale de l'habitat](https://www.francetvinfo.fr/economie/immobilier/isolation-thermique-contre-la-canicule-maprimerenov-permet-de-financer-ces-travaux-la-pointe-l-agence-nationale-de-l-habitat_6695637.html)
+append_entries: 1
+Finish: 2024-07-30 12:41:55.487654

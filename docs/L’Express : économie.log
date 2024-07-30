@@ -2212,3 +2212,15 @@ Existing_entries: 432
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-07-30 01:21:29.037658
+------------------------------------------------------
+Started: 2024-07-30 12:44:47.794363
+Existing_entries: 432
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2712
+Summarized using GPT-4o-mini
+Append: [Elysée : l’alerte de la Cour des comptes sur les dépenses de la présidence Macron](https://www.lexpress.fr/economie/elysee-lalerte-de-la-cour-des-comptes-sur-les-depenses-de-la-presidence-macron-2BFYRTDUXVFHDCQ33YBKSU4EZM/)
+Token length: 2955
+Summarized using GPT-4o-mini
+Append: [La croissance française a progressé de 0,3 % au deuxième trimestre](https://www.lexpress.fr/economie/la-croissance-francaise-a-progresse-de-03-au-deuxieme-trimestre-PLKWGIBBENAMTKG6EXIG6NBTSE/)
+append_entries: 2
+Finish: 2024-07-30 12:44:56.462942

@@ -4594,3 +4594,18 @@ Summarized using GPT-4o-mini
 Append: [Corée du Nord : après Kim Jong Un, sa fille pourrait prendre le pouvoir](https://www.latribune.fr/economie/international/coree-du-nord-apres-kim-jong-un-sa-fille-pourrait-prendre-le-pouvoir-1003328.html)
 append_entries: 4
 Finish: 2024-07-30 01:23:28.453588
+------------------------------------------------------
+Started: 2024-07-30 12:47:20.038367
+Existing_entries: 1004
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 314
+Summarized using GPT-4o-mini
+Append: [Tensions en mer de Chine : les Etats-Unis envoient 500 millions d'euros aux Philippines pour se défendre contre Pékin](https://www.latribune.fr/economie/international/conflits-en-mer-de-chine-les-etats-unis-envoient-500-millions-d-euros-aux-philippines-pour-se-defendre-contre-pekin-1003369.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: [Venezuela : les liaisons aériennes avec le Panama et la République dominicaine sont suspendues](https://www.latribune.fr/economie/international/venezuela-les-liaisons-aeriennes-avec-le-panama-et-la-republique-dominicaine-sont-suspendues-1003362.html)
+Token length: 259
+Summarized using GPT-4o-mini
+Append: [France : la croissance repart plus fortement que prévu au deuxième trimestre](https://www.latribune.fr/economie/france/france-la-croissance-repart-plus-fortement-que-prevu-au-deuxieme-trimestre-1003353.html)
+append_entries: 3
+Finish: 2024-07-30 12:47:34.845505

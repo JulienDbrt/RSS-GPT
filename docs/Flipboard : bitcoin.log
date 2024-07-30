@@ -3131,3 +3131,12 @@ Summarized using GPT-4o-mini
 Append: [Bitcoin : "Ne vendez jamais !", dit Donald Trump](https://www.boursier.com/actions/actualites/news/bitcoin-ne-vendez-jamais-dit-donald-trump-935081.html)
 append_entries: 2
 Finish: 2024-07-30 01:12:53.783669
+------------------------------------------------------
+Started: 2024-07-30 12:32:22.828946
+Existing_entries: 719
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Le temps a passé pour que le prix du Bitcoin monte en flèche 100 jours après la réduction de moitié](https://fr.investing.com/news/cryptocurrency-news/le-temps-a-passe-pour-que-le-prix-du-bitcoin-monte-en-fleche-100-jours-apres-la-reduction-de-moitie-2501733)
+append_entries: 1
+Finish: 2024-07-30 12:32:28.535439

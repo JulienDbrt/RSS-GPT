@@ -1867,3 +1867,18 @@ Existing_entries: 283
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-07-30 01:18:02.500523
+------------------------------------------------------
+Started: 2024-07-30 12:39:44.597516
+Existing_entries: 283
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 158
+Summarized using GPT-4o-mini
+Append: ["C’est le plus grand flou": les notaires conseillent à leurs clients de vendre leur bien immobilier](https://www.bfmtv.com/immobilier/achat-vente/c-est-le-plus-grand-flou-les-notaires-conseillent-a-leurs-clients-de-vendre-leur-bien-immobilier_AN-202407300292.html)
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [Bâtiment: les permis de construire à un plus bas historique depuis au moins 2015](https://www.bfmtv.com/immobilier/construction/batiment-les-permis-de-construire-a-un-plus-bas-historique-depuis-au-moins-2015_AD-202407300265.html)
+Token length: 197
+Summarized using GPT-4o-mini
+Append: ["On fait des nuits blanches": leur chantier à l'arrêt après la faillite du constructeur de leur maison](https://www.bfmtv.com/immobilier/construction/on-fait-des-nuits-blanches-leur-chantier-a-l-arret-apres-la-faillite-du-constructeur-de-leur-maison_AN-202407300035.html)
+append_entries: 3
+Finish: 2024-07-30 12:39:56.836142

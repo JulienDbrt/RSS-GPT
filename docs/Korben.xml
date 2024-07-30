@@ -4,6 +4,55 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Pages CMS – Le nouveau visage de la gestion de contenu</title>
+<link>https://korben.info/pages-cms-nouveau-visage-gestion-contenu.html</link>
+<guid>https://korben.info/pages-cms-nouveau-visage-gestion-contenu.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : CMS, GitHub, Pages CMS, contenu, open source
+
+<br><br>Summary:  
+Vous en avez assez de jongler entre Git et YAML pour la gestion de votre site statique ? Pages CMS est la solution idéale, s'intégrant parfaitement à votre dépôt GitHub. Cet outil convivial vous permet de gérer votre contenu via une interface intuitive, sans tracas liés aux fichiers de configuration. Vous pouvez personnaliser vos types de contenu, bénéficier d’un éditeur riche avec coloration syntaxique, ainsi que de fonctionnalités telles que le glisser-déposer et la recherche rapide. Pages CMS est entièrement gratuit et open source, et permet une configuration rapide. 
+
+De plus, son architecture simple évite de transformer votre dépôt en usine à gaz, car il fonctionne comme une appli front-end sur Cloudflare Pages, sans interférer avec votre code. Vos dépôts ne sont pas pleinement accessibles, car Pages CMS utilise OAuth pour des autorisations limitées, garantissant la sécurité de vos tokens d’accès. Pour vous lancer, il suffit de créer un compte et de connecter votre dépôt GitHub en quelques clics, ou de l’auto-héberger en 10 minutes. Ne laissez plus les outils compliqués freiner votre créativité ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo__Pages_CMS_with_abstract_colors_gradient_from_orang_6a10ab4a-2cb3-4b2a-b82c-172608287024.webp" width="1456" /></p>
+<p>Vous en avez assez de jongler entre Git et YAML pour mettre à jour votre site <strong>Next.js</strong>, <strong>Astro</strong>, <strong>Hugo</strong> ou <strong>Nuxt</strong> ? Simplifiez-vous la vie en installant un CMS convivial directement sur <strong>GitHub</strong> à l&rsquo;aide de <strong>Pages CMS</strong>, la nouvelle coqueluche des gestionnaires de contenu pour les sites statiques.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1418873307" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avec cet outil, fini les prises de tête avec les fichiers de configuration et les <em>commits</em> laborieux puisqu&rsquo;il s&rsquo;intègre de manière transparente à votre dépôt GitHub, vous permettant de gérer votre contenu directement depuis une interface intuitive. Ainsi, vous pourrez personnaliser vos types de contenu, vos vues, votre recherche&#8230; et côté édition, vous profiterez d&rsquo;un éditeur de texte riche avec <em>coloration syntaxique</em>, d&rsquo;un glisser-déposer pour vos fichiers, d&rsquo;une recherche <em>full-text</em> hyper rapide&#8230; Le tout saupoudré de fonctionnalités bien pensées comme la planification de mises à jour ou le contrôle d&rsquo;accès granulaire.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p><strong>Pages CMS</strong> est 100% gratuit, <em>open source</em> et <a href="https://app.pagescms.org/" rel="noopener" target="_blank">vous pouvez l&rsquo;utiliser en ligne</a> ou <a href="https://github.com/pages-cms/pages-cms" rel="noopener" target="_blank"><strong>l&rsquo;auto-héberger</strong></a> sans débourser un centime. En quelques clics, vous créez votre compte, connectez votre dépôt GitHub et hop, vous voilà paré pour dompter votre contenu comme un pro. C&rsquo;est beau, la vie de développeur, non ? 🌈 </p>
+
+
+
+<p>Bon, je vous vois venir avec vos grands chevaux. « <em>Mais est-ce que ça va pas transformer mon dépôt en usine à gaz ?</em>« . Que nenni ! <strong>Pages CMS</strong> est une simple appli <em>front-end</em> avec des fonctionnalités <em>backend</em> limitées. Ça tourne sur <strong>Cloudflare Pages</strong> et ça n&rsquo;interfère en rien avec votre code. Et si vous voulez garder la main, vous pouvez toujours passer par Git pour les modifications sensibles.</p>
+
+
+
+<p>En parlant de Git justement, je vous rassure tout de suite : <strong>Pages CMS</strong> n&rsquo;a pas accès à TOUS vos dépôts. Il utilise le flux <em>OAuth</em> de GitHub pour des autorisations ciblées. Et vos tokens d&rsquo;accès ne sont jamais stockés côté serveur. Votre code reste votre précieux, comme dirait Gollum.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-725844992" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Pour l&rsquo;installer, rendez-vous sur <a href="https://pagescms.org/" rel="noopener" target="_blank">pagescms.org</a>, créez votre compte en deux clics et connectez votre dépôt GitHub. Et voilà, vous êtes prêt à dompter votre contenu. Et pour les adeptes de l&rsquo;auto-hébergement, comptez 10 petites minutes pour déployer <strong>Pages CMS</strong> sur votre compte Cloudflare.</p>
+
+
+
+<p>Sur ce, je vous laisse, j&rsquo;ai du contenu à publier moi. Allez, tchô la compagnie ! 👋</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 30 Jul 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Cloudzip – Montez un zip distant et accédez à ses fichiers sans tout télécharger</title>

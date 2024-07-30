@@ -2017,3 +2017,18 @@ Summarized using GPT-4o-mini
 Append: [Au Luxembourg: La banque Havilland pourrait perdre sa licence d'exploitation](https://www.lessentiel.lu/fr/story/au-luxembourg-la-banque-havilland-pourrait-perdre-sa-licence-103158146)
 append_entries: 2
 Finish: 2024-07-30 01:21:27.503796
+------------------------------------------------------
+Started: 2024-07-30 12:44:34.385380
+Existing_entries: 367
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 244
+Summarized using GPT-4o-mini
+Append: [Espagne:: Booking condamné à une forte amende pour abus de position dominante](https://www.lessentiel.lu/fr/story/espagne-booking-condamne-a-une-forte-d-amende-pour-abus-de-position-dominante-103158539)
+Token length: 162
+Summarized using GPT-4o-mini
+Append: [Conjoncture: L'économie allemande s'enlise dans le marasme](https://www.lessentiel.lu/fr/story/conjoncture-l-economie-allemande-s-enlise-dans-le-marasme-103158527)
+Token length: 166
+Summarized using GPT-4o-mini
+Append: [Aviation: Le repli des prix des billets pénalise les compagnies aériennes](https://www.lessentiel.lu/fr/story/aviation-le-repli-des-prix-des-billets-penalise-les-compagnies-aeriennes-103158434)
+append_entries: 3
+Finish: 2024-07-30 12:44:46.960851

@@ -1668,3 +1668,12 @@ Summarized using GPT-4o-mini
 Append: [Voici le top 10 des grandes cryptos qui flambent le plus depuis le début de l’année](https://www.bfmtv.com/crypto/voici-le-top-10-des-grandes-cryptos-qui-flambent-le-plus-depuis-le-debut-de-l-annee_AV-202407290400.html)
 append_entries: 1
 Finish: 2024-07-30 01:17:21.602273
+------------------------------------------------------
+Started: 2024-07-30 12:38:26.736898
+Existing_entries: 204
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 166
+Summarized using GPT-4o-mini
+Append: [Le gouvernement américain est-il en partie responsable du repli du cours du bitcoin?](https://www.bfmtv.com/crypto/bitcoin/le-gouvernement-americain-est-il-en-partie-responsable-du-repli-du-cours-du-bitcoin_AV-202407300299.html)
+append_entries: 1
+Finish: 2024-07-30 12:38:32.616451
