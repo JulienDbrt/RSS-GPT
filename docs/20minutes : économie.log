@@ -1883,3 +1883,12 @@ Summarized using GPT-4o-mini
 Append: [France : Boosté par les exportations, le PIB progresse plus vite que prévu au deuxième trimestre](https://www.20minutes.fr/economie/4103656-20240730-france-aide-exportations-dynamiques-pib-hausse-0-3-deuxieme-trimestre)
 append_entries: 4
 Finish: 2024-07-30 12:37:04.722885
+------------------------------------------------------
+Started: 2024-07-31 01:04:20.351428
+Existing_entries: 267
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Hausse du prix du Tabac : Les taxes vont rapporter plus de 13 milliards d’euros à la France (mais c’est moins que prévu)](https://www.20minutes.fr/economie/4103713-20240730-tabac-taxes-vont-rapporter-plus-13-milliards-euros-france-moins-prevu)
+append_entries: 1
+Finish: 2024-07-31 01:04:24.237188

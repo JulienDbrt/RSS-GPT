@@ -1362,3 +1362,9 @@ Summarized using GPT-4o-mini
 Append: ["La plupart des acheteurs font fi du risque", malgré la montée des eaux, les prix de l'immobilier toujours élevés sur le littoral](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/la-plupart-des-acheteurs-font-fi-du-risque-malgre-la-montee-des-eaux-les-prix-de-l-immobilier-toujours-eleves-sur-le-littoral-3011504.html)
 append_entries: 1
 Finish: 2024-07-30 12:43:40.536967
+------------------------------------------------------
+Started: 2024-07-31 01:09:00.746800
+Existing_entries: 100
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-07-31 01:09:01.164405

@@ -5756,3 +5756,24 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris 2024 : mon patron peut-il me demander de travailler en continu ?](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/jeux-olympiques-mon-patron-peut-il-me-demander-de-travailler-en-continu_6446179.html)
 append_entries: 10
 Finish: 2024-07-30 12:41:48.818508
+------------------------------------------------------
+Started: 2024-07-31 01:07:22.613203
+Existing_entries: 1010
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Le commerce mondial traverse "des temps difficiles", selon la directrice générale de l'OMC](https://www.francetvinfo.fr/economie/commerce/le-commerce-mondial-traverse-des-temps-difficiles-selon-la-directrice-generale-de-l-omc_6696714.html)
+Token length: 171
+Summarized using GPT-4o-mini
+Append: [Sabotage sur le réseau TGV : le suspect interpellé près des voies de chemins de fer explique avoir voulu faire du "street art"](https://www.francetvinfo.fr/economie/transports/sncf/attaque-massive-sur-le-reseau-tgv/sabotage-sur-le-reseau-tgv-le-suspect-interpelle-pres-des-voies-de-chemins-de-fer-explique-avoir-voulu-faire-du-street-art_6696324.html)
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [Tunnel Lyon-Turin : le chantier coûtera finalement 11,1 milliards d'euros et sera livré avec un an de retard](https://www.francetvinfo.fr/economie/transports/tunnel-lyon-turin-le-chantier-coutera-finalement-11-1-milliards-d-euros-et-sera-livre-avec-un-an-de-retard_6696294.html)
+Token length: 156
+Summarized using GPT-4o-mini
+Append: [Airbags défectueux : une plainte contre X déposée en France pour comprendre pourquoi "Citroën a tardé à agir"](https://www.francetvinfo.fr/economie/automobile/airbags-defectueux-une-plainte-contre-x-deposee-en-france-pour-comprendre-pourquoi-citroen-a-tarde-a-agir_6696279.html)
+Token length: 210
+Summarized using GPT-4o-mini
+Append: ["Les coulisses de l'info", les dessous du podcast Cold Cases par le service police justice.](https://www.francetvinfo.fr/une-information-transparente-franceinfo/les-coulisses-de-l-info-les-dessous-du-podcast-cold-cases-par-le-service-police-justice_6695907.html)
+append_entries: 5
+Finish: 2024-07-31 01:07:40.833298
