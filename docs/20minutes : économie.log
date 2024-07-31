@@ -1892,3 +1892,15 @@ Summarized using GPT-4o-mini
 Append: [Hausse du prix du Tabac : Les taxes vont rapporter plus de 13 milliards d’euros à la France (mais c’est moins que prévu)](https://www.20minutes.fr/economie/4103713-20240730-tabac-taxes-vont-rapporter-plus-13-milliards-euros-france-moins-prevu)
 append_entries: 1
 Finish: 2024-07-31 01:04:24.237188
+------------------------------------------------------
+Started: 2024-07-31 12:38:03.344371
+Existing_entries: 268
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 202
+Summarized using GPT-4o-mini
+Append: [Déficit public : Bruno Le Maire propose de réduire le train de vie des ministères](https://www.20minutes.fr/economie/4103902-20240731-deficit-public-bruno-maire-propose-reduire-train-vie-ministeres)
+Token length: 131
+Summarized using GPT-4o-mini
+Append: [Pouvoir d’achat : Vers une hausse des salaires en 2025 similaire à celle de 2024](https://www.20minutes.fr/economie/4103841-20240731-pouvoir-achat-vers-hausse-salaires-2025-similaire-celle-2024)
+append_entries: 2
+Finish: 2024-07-31 12:38:11.072097

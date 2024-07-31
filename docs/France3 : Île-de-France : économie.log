@@ -1782,3 +1782,18 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris 2024. Régularité, affluence, navettes : un premier bilan positif dans les transports en commun](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-regularite-affluence-navettes-un-premier-bilan-positif-dans-les-transports-en-commun-3011918.html)
 append_entries: 1
 Finish: 2024-07-31 01:08:25.504014
+------------------------------------------------------
+Started: 2024-07-31 12:44:27.197793
+Existing_entries: 238
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 321
+Summarized using GPT-4o-mini
+Append: [Le trafic des TGV reste interrompu entre Paris et Lyon et Paris Dijon suite aux intempéries](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-trafic-des-tgv-interrompu-entre-paris-et-lyon-suite-aux-intemperies-3012335.html)
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [Reportage. JO de Paris 2024. "On s'est mis à l'heure olympique ! Ouvert 7 jours sur 7",  la saison en or de commercants à Vaires-sur-Marne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-et-marne/reportage-jo-de-paris-2024-on-s-est-mis-a-l-heure-olympique-ouvert-7-jours-sur-7-la-saison-en-or-de-commercants-a-vaires-sur-marne-3011924.html)
+Token length: 136
+Summarized using GPT-4o-mini
+Append: [Connaissez-vous cette station de métro secrète qui sert de plateau à tous les films tournés à Paris ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/connaissez-vous-cette-station-de-metro-secrete-qui-sert-de-plateau-a-tous-les-films-tournes-a-paris-2982716.html)
+append_entries: 3
+Finish: 2024-07-31 12:44:39.697230

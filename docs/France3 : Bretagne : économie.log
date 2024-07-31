@@ -1539,3 +1539,9 @@ Summarized using GPT-4o-mini
 Append: [Fortes perturbations à la SNCF. Assurances des cartes bancaires, médiateur du tourisme, quels remboursements pour les passagers impactés](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/fortes-perturbations-a-la-sncf-assurances-des-cartes-bancaires-mediateur-du-tourisme-quels-remboursements-pour-les-passagers-impactes-3012044.html)
 append_entries: 1
 Finish: 2024-07-31 01:08:50.100175
+------------------------------------------------------
+Started: 2024-07-31 12:44:56.215940
+Existing_entries: 157
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-07-31 12:44:56.502493

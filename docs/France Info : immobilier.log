@@ -1370,3 +1370,12 @@ Summarized using GPT-4o-mini
 Append: [Royaume-Uni : le gouvernement lance un plan "radical" de construction de logements](https://www.francetvinfo.fr/monde/royaume-uni/royaume-uni-le-gouvernement-lance-un-plan-radical-de-construction-de-logements_6696453.html)
 append_entries: 1
 Finish: 2024-07-31 01:07:45.274004
+------------------------------------------------------
+Started: 2024-07-31 12:43:19.180243
+Existing_entries: 94
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Immobilier : les permis de construire au plus bas depuis 2015](https://www.francetvinfo.fr/replay-radio/le-brief-eco/immobilier-les-permis-de-construire-au-plus-bas-depuis-2015_6657801.html)
+append_entries: 1
+Finish: 2024-07-31 12:43:23.327005

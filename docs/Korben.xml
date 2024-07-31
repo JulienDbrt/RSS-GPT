@@ -5,13 +5,63 @@
 <link>https://korben.info</link>
 
 <item>
+<title>PrivateBin – L’outil préféré des dev pour partager des informations en toute sécurité</title>
+<link>https://korben.info/privatebin-outil-ultime-partage-informations-securite.html</link>
+<guid>https://korben.info/privatebin-outil-ultime-partage-informations-securite.html</guid>
+<content:encoded><![CDATA[
+<div> PrivateBin, sécurité, chiffrement, vie privée, open source
+
+<br><br>Summary:  
+Vous en avez assez que vos données personnelles soient surveillées sur Internet ? PrivateBin est une alternative open source qui vous permet de partager texte et fichiers de manière sécurisée. Le contenu est chiffré dans votre navigateur avec AES-256, garantissant un "zero knowledge" où même les développeurs ne peuvent pas accéder à vos données. La clé de chiffrement est générée à partir du contenu et jamais envoyée au serveur, seul le contenu chiffré étant stocké. 
+
+PrivateBin offre de nombreuses fonctionnalités, telles que le chiffrement des discussions, la protection par mot de passe, des options d'expiration et la possibilité de "burn after reading". Son interface est simple : copiez votre texte, personnalisez les options de sécurité et partagez le lien. Il est facile à installer grâce à un script et une configuration par défaut sécurisée, y compris sur des serveurs onion (Tor). 
+
+Développé en PHP, PrivateBin utilise des bibliothèques reconnues pour la performance. Les contenus expirent après 30 jours, mais vous pouvez choisir une durée plus courte. Un outil en ligne de commande est aussi disponible pour faciliter l'interaction avec le service. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="194" src="https://korben.info/app/uploads/2024/04/SCR-20240415-f98.webp" width="603" /></p>
+<p>Vous en avez ras le bol que vos données personnelles se baladent à poil sur Internet, scrutées par les GAFAM et aspirées par la NSA ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1509695427" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors <a href="https://privatebin.info/" rel="noopener" target="_blank"><strong>PrivateBin</strong></a> est fait pour vous ! Cette alternative open source et respectueuse de la vie privée à <a href="https://korben.info/pastebin-ligne-de-commande.html">Pastebin</a> permet de partager du texte et des fichiers de façon ultra sécurisée. Lors de la création d&rsquo;un paste, le contenu est chiffré directement dans votre navigateur en utilisant <strong>AES-256</strong> et même les petits gars de PrivateBin ne peuvent pas mettre leur nez dans vos affaires. C&rsquo;est ça qu&rsquo;on appelle le « <strong>zero knowledge</strong>« , mes amis !</p>
+
+
+
+<p>La clé de chiffrement est générée à partir du contenu lui-même et n&rsquo;est jamais transmise au serveur. Seul le contenu chiffré est stocké. Ainsi, lorsqu&rsquo;un utilisateur souhaite accéder au paste, il récupère le contenu chiffré et le déchiffre dans son navigateur.</p>
+
+
+
+<p>Et l&rsquo;outil ne fait pas les choses à moitié question sécurité. Il embarque des fonctionnalités de ouf comme le <strong>chiffrement des discussions</strong>, la <strong>protection par mot de passe</strong>, des options d&rsquo;<strong>expiration du contenu</strong>, et même la possibilité de « <strong>burn after reading</strong>« . Côté utilisateur, rien de plus simple. Une interface toute bête, tu colles ton texte ou tes fichiers, tu personnalises les options de sécurité et de confidentialité, et bam, t&rsquo;as un lien à partager. On peut même faire son 007 en scannant un QR code pour transférer direct le lien sur notre smartphone.</p>
+
+
+
+<p>De plus, PrivateBin s&rsquo;installe en deux coups de cuillère à pot grâce à son script d&rsquo;installation et sa configuration sécurisée par défaut. Pas besoin de sortir de Saint-Cyr pour mettre en place son propre serveur privé et si vous êtes encore plus parano, vous pouvez même l&rsquo;installer sur un serveur onion (Tor).</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-178848847" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>D&rsquo;un point de vue plus technique, c&rsquo;est écrit en PHP mais pas de panique, les développeurs ont optimisé le bouzin pour le rendre plus rapide et efficace. Ils ont même intégré un système de cache pour améliorer les performances. Et grâce à l&rsquo;utilisation de bibliothèques éprouvées comme <strong>GnuPG</strong> pour le chiffrement et <strong>Twig</strong> pour le templating, le code est propre et maintenable.</p>
+
+
+
+<p>Les pastes sont automatiquement supprimés après 30 jours par défaut (mais vous pouvez choisir une durée plus courte) et pour l&rsquo;utiliser au mieux, <a href="https://github.com/gearnode/privatebin" rel="noopener" target="_blank">il y a même un client CLI</a> (en ligne de commande), qui vous permettra de créer et récupérer de la donnée via PrivateBin sans quitter votre terminal.</p>
+
+
+
+<p>Alors, prêt à tester <strong>PrivateBin</strong> ?</p>
+]]></content:encoded>
+<pubDate>Wed, 31 Jul 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 31 Jul 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Pages CMS – Le nouveau visage de la gestion de contenu</title>
 <link>https://korben.info/cms-pages-cms-nouveau-visage-gestion-contenu.html</link>
 <guid>https://korben.info/cms-pages-cms-nouveau-visage-gestion-contenu.html</guid>
 <content:encoded><![CDATA[
 <div> CMS, GitHub, Pages, contenu, open source
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Vous en avez assez de gérer votre site avec Git et YAML ? Pages CMS est un nouvel outil convivial qui simplifie la gestion de votre contenu sur des plateformes telles que Next.js, Astro, Hugo ou Nuxt, directement depuis GitHub. Cet outil permet de gérer le contenu via une interface intuitive, éliminant les complications liées aux fichiers de configuration et aux commits. Vous pouvez personnaliser vos types de contenu, vos vues et profiter d'un éditeur riche avec diverses fonctionnalités comme la coloration syntaxique et le glisser-déposer. Pages CMS est entièrement gratuit, open source, et facile à installer ; il nécessite seulement quelques clics pour connecter votre dépôt GitHub. L'application fonctionnant sur Cloudflare Pages assure que votre code reste intact et ne se transforme pas en usine à gaz. Grâce au flux OAuth de GitHub, Pages CMS ne nécessite des autorisations que pour des dépôts spécifiques, garantissant ainsi la sécurité de vos tokens d’accès. Pour les amateurs d'auto-hébergement, il est également possible de déployer Pages CMS sur Cloudflare en une dizaine de minutes. En quelques étapes simples, vous pourrez maîtriser votre contenu facilement. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo__Pages_CMS_with_abstract_colors_gradient_from_orang_6a10ab4a-2cb3-4b2a-b82c-172608287024.webp" width="1456" /></p>
 <p>Vous en avez assez de jongler entre Git et YAML pour mettre à jour votre site <strong>Next.js</strong>, <strong>Astro</strong>, <strong>Hugo</strong> ou <strong>Nuxt</strong> ? Simplifiez-vous la vie en installant un CMS convivial directement sur <strong>GitHub</strong> à l&rsquo;aide de <strong>Pages CMS</strong>, la nouvelle coqueluche des gestionnaires de contenu pour les sites statiques.</p>
@@ -49,9 +99,7 @@ Vous en avez assez de gérer votre site avec Git et YAML ? Pages CMS est un nouv
 <p>Sur ce, je vous laisse, j&rsquo;ai du contenu à publier moi. Allez, tchô la compagnie ! 👋</p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 30 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Pages CMS – Le nouveau visage de la gestion de contenu</title>
 <link>https://korben.info/pages-cms-nouveau-visage-gestion-contenu.html</link>

@@ -2132,3 +2132,12 @@ Summarized using GPT-4o-mini
 Append: [Airbags défectueux : une plainte contre X déposée en France pour comprendre pourquoi "Citroën a tardé à agir"](https://www.francetvinfo.fr/economie/automobile/airbags-defectueux-une-plainte-contre-x-deposee-en-france-pour-comprendre-pourquoi-citroen-a-tarde-a-agir_6696279.html)
 append_entries: 3
 Finish: 2024-07-31 01:07:55.103692
+------------------------------------------------------
+Started: 2024-07-31 12:43:23.517409
+Existing_entries: 354
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 112
+Summarized using GPT-4o-mini
+Append: [La fréquentation des aéroports européens dépasse les niveaux d'avant la pandémie de Covid-19](https://www.francetvinfo.fr/economie/transports/la-frequentation-des-aeroports-europeens-depasse-les-niveaux-d-avant-la-pandemie-de-covid-19_6698265.html)
+append_entries: 1
+Finish: 2024-07-31 12:43:27.087011
