@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>PrivateBin – L’outil préféré des dev pour partager des informations en toute sécurité</title>
 <link>https://korben.info/privatebin-outil-ultime-partage-informations-securite.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> PrivateBin, sécurité, chiffrement, vie privée, open source
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Vous en avez assez que vos données personnelles soient surveillées sur Internet ? PrivateBin est une alternative open source qui vous permet de partager texte et fichiers de manière sécurisée. Le contenu est chiffré dans votre navigateur avec AES-256, garantissant un "zero knowledge" où même les développeurs ne peuvent pas accéder à vos données. La clé de chiffrement est générée à partir du contenu et jamais envoyée au serveur, seul le contenu chiffré étant stocké. 
 
 PrivateBin offre de nombreuses fonctionnalités, telles que le chiffrement des discussions, la protection par mot de passe, des options d'expiration et la possibilité de "burn after reading". Son interface est simple : copiez votre texte, personnalisez les options de sécurité et partagez le lien. Il est facile à installer grâce à un script et une configuration par défaut sécurisée, y compris sur des serveurs onion (Tor). 
@@ -51,9 +52,7 @@ Développé en PHP, PrivateBin utilise des bibliothèques reconnues pour la perf
 <p>Alors, prêt à tester <strong>PrivateBin</strong> ?</p>
 ]]></content:encoded>
 <pubDate>Wed, 31 Jul 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 31 Jul 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Pages CMS – Le nouveau visage de la gestion de contenu</title>
 <link>https://korben.info/cms-pages-cms-nouveau-visage-gestion-contenu.html</link>

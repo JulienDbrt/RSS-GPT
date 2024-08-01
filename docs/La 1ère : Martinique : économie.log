@@ -1456,3 +1456,15 @@ Summarized using GPT-4o-mini
 Append: [Une nouvelle compagnie aérienne va reconnecter les îles françaises avec la Caraïbe](https://la1ere.francetvinfo.fr/martinique/une-nouvelle-compagnie-aerienne-va-reconnecter-les-iles-francaises-avec-la-caraibe-1510010.html)
 append_entries: 1
 Finish: 2024-07-31 12:47:12.970241
+------------------------------------------------------
+Started: 2024-08-01 01:30:29.086476
+Existing_entries: 114
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 47
+Summarized using GPT-4o-mini
+Append: [Tourisme en Martinique : l’accès à l’îlet Madame au Robert est rouvert au public](https://la1ere.francetvinfo.fr/martinique/robert/tourisme-en-martinique-l-acces-a-l-ilet-madame-au-robert-est-rouvert-au-public-1510217.html)
+Token length: 49
+Summarized using GPT-4o-mini
+Append: [Les prix des produits pétroliers en hausse à partir du 1er août 2024 en Martinique](https://la1ere.francetvinfo.fr/martinique/les-prix-des-produits-petroliers-en-hausse-a-partir-du-1er-aout-2024-en-martinique-1510199.html)
+append_entries: 2
+Finish: 2024-08-01 01:30:41.358501

@@ -1981,3 +1981,12 @@ Summarized using GPT-4o-mini
 Append: [Bercy : malgré la démission du gouvernement, Bruno Le Maire travaille activement sur le budget 2025](https://www.europe1.fr/economie/bercy-malgre-la-demission-du-gouvernement-bruno-le-maire-travaille-activement-sur-le-budget-2025-4260533)
 append_entries: 3
 Finish: 2024-07-31 12:42:26.968651
+------------------------------------------------------
+Started: 2024-08-01 01:28:00.201979
+Existing_entries: 297
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 334
+Summarized using GPT-4o-mini
+Append: [Salaires : en 2025, une hausse sensiblement identique à celle de 2024, selon une étude](https://www.europe1.fr/economie/salaires-en-2025-une-hausse-sensiblement-identique-a-celle-de-2024-selon-une-etude-4260585)
+append_entries: 1
+Finish: 2024-08-01 01:28:05.228728

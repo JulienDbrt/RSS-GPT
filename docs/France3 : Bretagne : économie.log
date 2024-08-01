@@ -1545,3 +1545,12 @@ Existing_entries: 157
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-07-31 12:44:56.502493
+------------------------------------------------------
+Started: 2024-08-01 01:29:23.145585
+Existing_entries: 157
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 258
+Summarized using GPT-4o-mini
+Append: [Perte du repos le dimanche pour les ouvriers agricoles ramassant à la main dans les champs, "c'est une honte"](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/perte-du-repos-le-dimanche-pour-les-ouvriers-agricoles-ramassant-a-la-main-dans-les-champs-c-est-une-honte-3012593.html)
+append_entries: 1
+Finish: 2024-08-01 01:29:27.462021

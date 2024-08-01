@@ -1471,3 +1471,9 @@ Summarized using GPT-4o-mini
 Append: ["Tout est ruiné" : un couple quitte Paris et achète une maison à plus de 500 000 euros en pleine nature mais leur rêve tourne au cauchemar](https://www.ladepeche.fr/2024/07/31/tout-est-ruine-un-couple-quitte-paris-et-achete-une-maison-a-plus-de-500-000-euros-en-pleine-nature-mais-leur-reve-tourne-au-cauchemar-12115089.php)
 append_entries: 1
 Finish: 2024-07-31 12:48:42.434224
+------------------------------------------------------
+Started: 2024-08-01 01:31:55.497610
+Existing_entries: 129
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-08-01 01:31:56.331041

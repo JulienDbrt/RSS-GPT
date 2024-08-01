@@ -1797,3 +1797,15 @@ Summarized using GPT-4o-mini
 Append: [Connaissez-vous cette station de métro secrète qui sert de plateau à tous les films tournés à Paris ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/connaissez-vous-cette-station-de-metro-secrete-qui-sert-de-plateau-a-tous-les-films-tournes-a-paris-2982716.html)
 append_entries: 3
 Finish: 2024-07-31 12:44:39.697230
+------------------------------------------------------
+Started: 2024-08-01 01:29:03.532702
+Existing_entries: 241
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 173
+Summarized using GPT-4o-mini
+Append: [VIDEO. JO de Paris 2024. "Tout est là pour avoir des médailles", la délégation américaine à l'Athlética d'Eaubonne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/video-jo-de-paris-2024-tout-est-la-pour-avoir-des-medailles-la-delegation-americaine-a-l-athletica-d-eaubonne-3012533.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024. Finis les bouchons, ça circule mieux que prévu sur les routes d'Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-de-paris-2024-finis-les-bouchons-ca-circule-mieux-que-prevu-sur-les-routes-d-ile-de-france-3012476.html)
+append_entries: 2
+Finish: 2024-08-01 01:29:10.837478

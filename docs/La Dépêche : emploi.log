@@ -2167,3 +2167,12 @@ Summarized using GPT-4o-mini
 Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/07/31/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12114698.php)
 append_entries: 4
 Finish: 2024-07-31 12:48:38.180302
+------------------------------------------------------
+Started: 2024-08-01 01:31:48.759276
+Existing_entries: 361
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Les pompiers des Hautes-Pyrénées recrutent de nouveaux pompiers volontaires](https://www.ladepeche.fr/2024/07/31/les-pompiers-des-hautes-pyrenees-recrutent-de-nouveaux-pompiers-volontaires-12116055.php)
+append_entries: 1
+Finish: 2024-08-01 01:31:55.429902

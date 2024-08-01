@@ -1535,3 +1535,9 @@ Summarized using GPT-4o-mini
 Append: [Allemagne : le taux de chômage stable en juillet](https://www.euractiv.fr/section/economie/news/allemagne-le-taux-de-chomage-stable-en-juillet/)
 append_entries: 2
 Finish: 2024-07-31 12:42:12.160837
+------------------------------------------------------
+Started: 2024-08-01 01:27:52.894885
+Existing_entries: 167
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+append_entries: 0
+Finish: 2024-08-01 01:27:54.347449

@@ -4654,3 +4654,15 @@ Summarized using GPT-4o-mini
 Append: [Assurance chômage : les règles d'indemnisation de nouveau prolongées d'un mois](https://www.latribune.fr/economie/france/assurance-chomage-les-regles-d-indemnisation-de-nouveau-prolongees-d-un-mois-1003422.html)
 append_entries: 6
 Finish: 2024-07-31 12:49:38.355778
+------------------------------------------------------
+Started: 2024-08-01 01:32:35.287296
+Existing_entries: 1006
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 355
+Summarized using GPT-4o-mini
+Append: [Etats-Unis : la Fed maintient le statu quo sur ses taux d'intérêt](https://www.latribune.fr/economie/international/etats-unis-la-fed-se-reunit-une-baisse-des-taux-possible-des-septembre-1003476.html)
+Token length: 300
+Summarized using GPT-4o-mini
+Append: [Un compte de soutien à Kamala Harris suspendu sur X (ex-Twitter) après avoir levé une grosse somme](https://www.latribune.fr/technos-medias/internet/un-compte-de-soutien-a-kamala-harris-suspendu-sur-x-ex-twitter-apres-avoir-leve-une-grosse-somme-1003477.html)
+append_entries: 2
+Finish: 2024-08-01 01:32:44.668611

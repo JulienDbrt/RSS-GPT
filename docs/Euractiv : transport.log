@@ -1262,3 +1262,12 @@ Existing_entries: 76
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-07-31 12:42:12.721592
+------------------------------------------------------
+Started: 2024-08-01 01:27:54.383017
+Existing_entries: 76
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 267
+Summarized using GPT-4o-mini
+Append: [Transport ferroviaire : Ursula von der Leyen veut faciliter les déplacements intra-UE](https://www.euractiv.fr/section/chemins-de-fer/news/transport-ferroviaire-ursula-von-der-leyen-veut-faciliter-les-deplacements-intra-ue/)
+append_entries: 1
+Finish: 2024-08-01 01:27:59.067404

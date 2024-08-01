@@ -2141,3 +2141,15 @@ Summarized using GPT-4o-mini
 Append: [La fréquentation des aéroports européens dépasse les niveaux d'avant la pandémie de Covid-19](https://www.francetvinfo.fr/economie/transports/la-frequentation-des-aeroports-europeens-depasse-les-niveaux-d-avant-la-pandemie-de-covid-19_6698265.html)
 append_entries: 1
 Finish: 2024-07-31 12:43:27.087011
+------------------------------------------------------
+Started: 2024-08-01 01:28:32.943951
+Existing_entries: 355
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [Sécurité routière : sur les autoroutes, les prises d'alcool, de drogues ou de médicaments sont la première cause des accidents mortels](https://www.francetvinfo.fr/societe/securite-routiere/securite-routiere-sur-les-autoroutes-les-prise-d-alcool-de-drogues-ou-de-medicaments-sont-la-premiere-cause-des-accidents-mortels_6698919.html)
+Token length: 174
+Summarized using GPT-4o-mini
+Append: [Trafic des TGV Sud-Est interrompu : ce que l'on sait des dégâts provoqués par les orages, qui pénalisent 80 000 voyageurs de la SNCF](https://www.francetvinfo.fr/economie/transports/sncf/trafic-des-tgv-sud-est-interrompu-ce-que-l-on-sait-des-degats-provoques-par-les-orages-qui-penalisent-80-000-voyageurs-de-la-sncf_6698145.html)
+append_entries: 2
+Finish: 2024-08-01 01:28:40.074969
