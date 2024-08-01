@@ -4666,3 +4666,18 @@ Summarized using GPT-4o-mini
 Append: [Un compte de soutien à Kamala Harris suspendu sur X (ex-Twitter) après avoir levé une grosse somme](https://www.latribune.fr/technos-medias/internet/un-compte-de-soutien-a-kamala-harris-suspendu-sur-x-ex-twitter-apres-avoir-leve-une-grosse-somme-1003477.html)
 append_entries: 2
 Finish: 2024-08-01 01:32:44.668611
+------------------------------------------------------
+Started: 2024-08-01 12:47:29.668249
+Existing_entries: 1002
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 299
+Summarized using GPT-4o-mini
+Append: [« IA Act » : le règlement européen pour encadrer les pratiques de l'intelligence artificielle entre en vigueur](https://www.latribune.fr/economie/union-europeenne/ia-act-le-reglement-europeen-pour-encadrer-les-pratiques-de-l-intelligence-artificielle-entre-en-vigueur-1003535.html)
+Token length: 372
+Summarized using GPT-4o-mini
+Append: [Venezuela : après vingt-cinq ans de chavisme, l'économie à bout de souffle](https://www.latribune.fr/economie/international/venezuela-apres-vingt-cinq-ans-de-chavisme-l-economie-a-bout-de-souffle-1003478.html)
+Token length: 401
+Summarized using GPT-4o-mini
+Append: [Une vague inédite de créations de startups déferle sur les Etats-Unis](https://www.latribune.fr/technos-medias/start-up/une-vague-inedite-de-creations-de-startups-deferle-sur-les-etats-unis-1003461.html)
+append_entries: 3
+Finish: 2024-08-01 12:47:41.072833

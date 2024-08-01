@@ -4,6 +4,163 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Perplexica – Le moteur de recherche open source propulsé à l’IA</title>
+<link>https://korben.info/perplexica-outil-open-source-revolutionne-recherche-web.html</link>
+<guid>https://korben.info/perplexica-outil-open-source-revolutionne-recherche-web.html</guid>
+<content:encoded><![CDATA[
+<div> Moteur de recherche, gratuit, open source, intelligence artificielle, SearXNG
+
+<br><br>Summary: Perplexica est un moteur de recherche gratuit et open source utilisant une intelligence artificielle avancée, qui fournit des réponses précises sans espionnage des utilisateurs. Il se distingue par son fonctionnement via le meta-moteur SearXNG, qui trie et recoupe les résultats pour garantir la pertinence des informations. Perplexica propose plusieurs modes de recherche : le mode Copilot, qui est en développement et génère des requêtes, le mode Normal pour une recherche classique, et les Focus Modes pour des besoins spécifiques comme la recherche académique ou sur YouTube. L'installation est simple : clonez le dépôt GitHub, configurez le fichier de configuration, exécutez la commande Docker et accédez à l'outil via un navigateur. De plus, Perplexica peut être défini comme moteur de recherche par défaut. Bien qu'il soit encore en phase de développement avec des fonctionnalités à venir, comme l'historique de recherche et le support de modèles de langage locaux, il représente une alternative éthique et efficace pour ceux qui cherchent à explorer le web sans compromettre leur vie privée. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/05/manu23_Logo_for_a_search_engine_named_Perplexica_eb755719-8fff-42c1-98ef-f9cdf7bd9c85.webp" width="1456" /></p>
+<p><strong><a href="https://github.com/ItzCrazyKns/Perplexica/tree/master" rel="noopener" target="_blank">Perplexica</a></strong> est un moteur de recherche gratuit et transparent, qui comprend ce que vous lui demandez et qui vous trouve pile poil ce que vous cherchez, le tout boosté à l&rsquo;intelligence artificielle dernière génération. Ça vous parle, non ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1207573309" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ah bah oui c&rsquo;est comme <a href="https://www.perplexity.ai/" rel="noopener" target="_blank">Perplexity.ai</a> sauf que c&rsquo;est gratuit, open source et que ça vous permet de <strong>fouiller le web en profondeur</strong> pour dénicher les réponses à toutes vos questions. Pour cela, l&rsquo;outil utilise des algorithmes d&rsquo;apprentissage automatique basés notamment sur la recherche par <strong>similarité sémantique</strong>. En gros, il est capable de piger le sens de votre question et de trouver les sources les plus pertinentes.</p>
+
+
+
+<p>Comme ça, vous obtenez des <strong>réponses claires et sourcées</strong>, servies sur un plateau d&rsquo;argent sans avoir besoin de passer des heures à éplucher les pages de résultats pour trouver l&rsquo;info qui vous intéresse.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-160435" height="501" src="https://korben.info/app/uploads/2024/05/perplexica-screenshot-1024x501.webp" width="1024" /></figure></div>
+
+
+<p>Pas de cookies qui vous espionnent ni de revente de données personnelles en douce et vos recherches restent confidentielles. Côté fonctionnalités, Perplexica propose plusieurs modes de recherche bien pratiques :</p>
+
+
+
+<ul class="wp-block-list">
+<li>
+Le mode <strong>Copilot</strong> (encore en développement) : il génère des requêtes pour trouver les sources Internet les plus pertinentes. Plutôt que d&rsquo;utiliser uniquement le contexte fourni par SearXNG, il visite directement les meilleurs résultats pour trouver les sources les plus adaptées à votre question. 
+</li>
+
+
+
+<li>
+Le mode <strong>Normal</strong> : il traite votre requête et effectue une recherche web classique.
+</li>
+
+
+
+<li>
+Les <strong>Focus Modes</strong> : des modes spécialisés pour répondre à des besoins spécifiques, comme la recherche académique, la recherche YouTube, les calculs via Wolfram Alpha ou encore la recherche Reddit pour les discussions et avis.
+</li>
+</ul>
+
+
+
+<p>Et niveau technique, il utilise un meta-moteur de recherche bien fichu qui s&rsquo;appelle <strong>SearXNG</strong>. C&rsquo;est lui qui récupère les résultats, les trie, les recoupe, pour ne garder que la crème de la crème. L&rsquo;avantage, c&rsquo;est que vous avez toujours des infos à jour, sans latence. Et comme je le disais en intro, il s&rsquo;appuie aussi sur des <strong>modèles de langage locaux</strong> comme Llama3 et Mixtral, via l&rsquo;API Ollama ce qui lui permet d&rsquo;affiner encore plus les résultats.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1682069025" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et pour l&rsquo;installer, c&rsquo;est super simple : </p>
+
+
+
+<ol class="wp-block-list">
+<li>Clonez le dépôt GitHub de <a href="https://github.com/ItzCrazyKns/Perplexica">Perplexica</a> : <code>git clone <a href="https://github.com/ItzCrazyKns/Perplexica.git">https://github.com/ItzCrazyKns/Perplexica.git</a></code></li>
+
+
+
+<li>Renommez le fichier <code>sample.config.toml</code> en <code>config.toml</code> et remplissez les champs nécessaires (clé API, etc.)  </li>
+
+
+
+<li>Lancez la commande <code>docker compose up -d</code></li>
+
+
+
+<li>Attendez quelques minutes que l&rsquo;installation se termine</li>
+
+
+
+<li>Accédez à Perplexica via <code>http://localhost:31337</code> depuis votre navigateur</li>
+</ol>
+
+
+
+<p>Une fois que c&rsquo;est en place, vous pouvez même <strong>utiliser Perplexica comme moteur de recherche par défaut</strong> dans votre navigateur. Il suffit d&rsquo;aller dans les paramètres, d&rsquo;ajouter un nouveau moteur de recherche avec l&rsquo;URL <code>http://localhost:31337/?q=%s</code> et le tour est joué !</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Après, forcément, c&rsquo;est encore un jeune projet, donc il y a des petits trucs à peaufiner et les devs planchent notamment sur la finalisation du mode Copilot, l&rsquo;ajout d&rsquo;une page de paramètres, de fonctionnalités comme l&rsquo;historique de recherche, et le support des modèles de langage locaux.</p>
+
+
+
+<p>Mais même en l&rsquo;état, je trouve que ça vaut grave le coup de tester Perplexica, ne serait-ce que pour voir à quoi peut ressembler un moteur de recherche IA à la fois éthique et transparent ^^.</p>
+
+
+
+<p>Remerciement spécial à Lorenper pour l&rsquo;info !</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Aug 2024 11:00:00 +0000</pubDate>
+<pubDate>Thu, 01 Aug 2024 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Github2file – Partagez votre code avec les chatbots IA</title>
+<link>https://korben.info/github2file-simplifie-partage-code-chatbots.html</link>
+<guid>https://korben.info/github2file-simplifie-partage-code-chatbots.html</guid>
+<content:encoded><![CDATA[
+<div> keywords: GitHub, chatbot, code, Python, script<br><br>Summary: Ce texte présente github2file, un script Python permettant de simplifier le partage de code avec un chatbot pour le débuggage. Le script se connecte à un dépôt GitHub, extrait l'intégralité du code en quelques instants, et génère un fichier texte formaté. Les utilisateurs ont la possibilité de filtrer les fichiers par langage (Python ou Go), de supprimer les commentaires et docstrings, et de spécifier la branche ou le tag à télécharger. Il offre également l'option d'exclure certains répertoires ou types de fichiers. Une simple commande dans le terminal suffit pour extraire le code d'un célèbre dépôt, comme celui des Transformers de Hugging Face, en créant un fichier texte spécifique. Si le dépôt est privé, github2file prend en charge l'utilisation des identifiants et du token d’accès personnel, garantissant ainsi un accès sécurisé. Ce script permet d'éviter des méthodes fastidieuses comme le copier-coller ou l'upload manuel de fichiers, facilitant ainsi le partage de code avec des IA. Avec ces outils, les utilisateurs peuvent désormais partager leur code en toute simplicité et efficacité. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Dump_chatbot_f977fb6c-3a5a-4b88-bb02-aabaea6badae.webp" width="1456" /></p>
+<p>Qui ne s&rsquo;est jamais dit : « <em>Tiens, ce serait cool de filer tout mon code à mon chatbot pour qu&rsquo;il puisse m&rsquo;aider à débugger ce bazar</em>« . </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-976392909" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et bien c&rsquo;est exactement ce que <strong>github2file</strong> permet de faire.</p>
+
+
+
+<p>Ce petit script Python va se connecter direct à votre dépôt GitHub, aspirer tout votre code en un clin d&rsquo;œil et vous pondre un joli fichier texte bien propre, prêt à être envoyé à votre IA préférée. Et le top, c&rsquo;est que vous pouvez filtrer les fichiers par langage (Python ou Go), virer les commentaires et les docstrings si ça vous chante, choisir la branche ou le tag à télécharger et même exclure certains répertoires ou types de fichiers. Bref, c&rsquo;est vous le patron !</p>
+
+
+
+<p>Tenez, un petit exemple pour la route. Disons que vous voulez balancer le code du célèbre dépôt Transformers de Hugging Face à votre chatbot. </p>
+
+
+
+<p>Facile ! Suffit de taper ça dans votre terminal :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1151142494" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>python github2file.py https://github.com/huggingface/transformers</code></p>
+
+
+
+<p>Et vous voilà avec un fichier <code>transformers_python.txt</code> qui contient tout le code Python du dépôt. Si vous kiffez plus le Go, remplacez juste l&rsquo;option <code>--lang</code> par <code>"go"</code> et le tour est joué. Easy !</p>
+
+
+
+<p>Et si votre dépôt est privé, pas de panique, <strong>github2file</strong> a pensé à tout ! Balancez-lui votre nom d&rsquo;utilisateur et un token d&rsquo;accès personnel GitHub, et il se débrouillera comme un chef :</p>
+
+
+
+<p><code>python github2file.py https://&lt;USERNAME>:&lt;GITHUB_ACCESS_TOKEN>@github.com/username/private-rep</code></p>
+
+
+
+<p>Et voilà, fini les prises de tête pour partager votre code avec les chatbots ! Plus besoin de faire des copier-coller à rallonge ou d&rsquo;uploader 36 fichiers à la main. Pour tester, <a href="https://github.com/cognitivecomputations/github2file" rel="noopener" target="_blank">c&rsquo;est par ici que ça se passe</a>. </p>
+
+
+
+<p>Avec ça, vous avez toutes les cartes en main pour devenir des pros du partage de code avec les IA. Alors à vos claviers, et montrez-nous ce que vous savez faire ! 🙌</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 01 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>PrivateBin – L’outil préféré des dev pour partager des informations en toute sécurité</title>

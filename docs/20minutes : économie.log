@@ -1913,3 +1913,9 @@ Summarized using GPT-4o-mini
 Append: [Un nouveau patron pour Boeing qui annonce une perte colossale de près de 1,5 milliard de dollars](https://www.20minutes.fr/economie/4103934-20240731-nouveau-patron-boeing-annonce-perte-colossale-pres-1-5-milliard-dollars)
 append_entries: 1
 Finish: 2024-08-01 01:24:01.506195
+------------------------------------------------------
+Started: 2024-08-01 12:37:13.470887
+Existing_entries: 271
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-08-01 12:37:13.685144

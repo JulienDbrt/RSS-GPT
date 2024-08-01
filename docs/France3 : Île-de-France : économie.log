@@ -1809,3 +1809,12 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris 2024. Finis les bouchons, ça circule mieux que prévu sur les routes d'Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-de-paris-2024-finis-les-bouchons-ca-circule-mieux-que-prevu-sur-les-routes-d-ile-de-france-3012476.html)
 append_entries: 2
 Finish: 2024-08-01 01:29:10.837478
+------------------------------------------------------
+Started: 2024-08-01 12:43:25.987392
+Existing_entries: 243
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 168
+Summarized using GPT-4o-mini
+Append: [TGV Sud-Est : circulation rétablie au départ de la gare de Lyon](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/tgv-sud-est-circulation-retablie-au-depart-de-la-gare-de-lyon-3012704.html)
+append_entries: 1
+Finish: 2024-08-01 12:43:30.217036

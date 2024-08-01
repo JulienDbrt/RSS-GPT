@@ -1541,3 +1541,18 @@ Existing_entries: 167
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-08-01 01:27:54.347449
+------------------------------------------------------
+Started: 2024-08-01 12:40:50.193933
+Existing_entries: 167
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 287
+Summarized using GPT-4o-mini
+Append: [L’IA transformera 92 % des emplois dans les technologies de l’information et de la communication, selon une étude](https://www.euractiv.fr/section/economie/news/lia-transformera-92-des-emplois-dans-les-technologies-de-linformation-et-de-la-communication-selon-une-etude/)
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [Légère hausse du taux de chômage dans la zone euro en juin](https://www.euractiv.fr/section/economie/news/legere-hausse-du-taux-de-chomage-dans-la-zone-euro-en-juin/)
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Automobile : des fournisseurs en grande souffrance](https://www.euractiv.fr/section/transport/news/automobile-des-fournisseurs-en-grande-souffrance/)
+append_entries: 3
+Finish: 2024-08-01 12:41:08.103083

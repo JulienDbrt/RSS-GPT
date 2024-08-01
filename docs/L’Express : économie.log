@@ -2248,3 +2248,15 @@ Existing_entries: 436
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-01 01:30:12.053326
+------------------------------------------------------
+Started: 2024-08-01 12:44:55.914081
+Existing_entries: 436
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3823
+Summarized using GPT-4o-mini
+Append: [Sahara occidental : les relations économiques entre Paris et Alger menacées ?](https://www.lexpress.fr/economie/entreprises/sahara-occidental-les-relations-economiques-entre-paris-et-alger-menacees-FOECTZBMARB45CVCPLEL3WYEKQ/)
+Token length: 4005
+Summarized using GPT-4o-mini
+Append: [Croissance française : derrière la liesse des JO, les affres de la récession](https://www.lexpress.fr/economie/politique-economique/croissance-francaise-derriere-la-liesse-des-jo-les-affres-de-la-recession-NYZST6KPXBE3FO7XAOUJ6NGPAM/)
+append_entries: 2
+Finish: 2024-08-01 12:45:06.728799

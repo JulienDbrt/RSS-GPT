@@ -3972,3 +3972,12 @@ Summarized using GPT-4o-mini
 Append: [Immobilier ancien : la chute des ventes continue, au plus bas depuis 2015](https://www.challenges.fr/immobilier/immobilier-ancien-la-chute-des-ventes-continue-au-plus-bas-depuis-2015_901143)
 append_entries: 2
 Finish: 2024-08-01 01:20:47.885130
+------------------------------------------------------
+Started: 2024-08-01 12:34:25.854241
+Existing_entries: 1002
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [L'inquiétante remontée des prix de l'immobilier](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-jeudi-01-aout-2024-4286611)
+append_entries: 1
+Finish: 2024-08-01 12:34:31.093705

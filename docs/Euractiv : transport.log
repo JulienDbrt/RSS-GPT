@@ -1271,3 +1271,12 @@ Summarized using GPT-4o-mini
 Append: [Transport ferroviaire : Ursula von der Leyen veut faciliter les déplacements intra-UE](https://www.euractiv.fr/section/chemins-de-fer/news/transport-ferroviaire-ursula-von-der-leyen-veut-faciliter-les-deplacements-intra-ue/)
 append_entries: 1
 Finish: 2024-08-01 01:27:59.067404
+------------------------------------------------------
+Started: 2024-08-01 12:41:08.139589
+Existing_entries: 77
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Automobile : des fournisseurs en grande souffrance](https://www.euractiv.fr/section/transport/news/automobile-des-fournisseurs-en-grande-souffrance/)
+append_entries: 1
+Finish: 2024-08-01 12:41:12.304769
