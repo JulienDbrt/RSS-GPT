@@ -1818,3 +1818,15 @@ Summarized using GPT-4o-mini
 Append: [TGV Sud-Est : circulation rétablie au départ de la gare de Lyon](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/tgv-sud-est-circulation-retablie-au-depart-de-la-gare-de-lyon-3012704.html)
 append_entries: 1
 Finish: 2024-08-01 12:43:30.217036
+------------------------------------------------------
+Started: 2024-08-02 01:20:44.732218
+Existing_entries: 244
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 278
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGE. JO de Paris 2024. "On nous avait promis 15 millions de touristes pour les JO, mais moi je ne les vois pas ces touristes", la désillusion des taxis parisiens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/temoignage-jo-de-paris-2024-on-nous-avait-promis-15-millions-de-touristes-pour-les-jo-mais-moi-je-ne-les-vois-pas-ces-touristes-la-desillusion-des-taxis-parisiens-3012866.html)
+Token length: 301
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024. Les jeux olympiques ont-ils fait fuir les touristes ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-jeux-olympiques-ont-ils-fait-fuir-les-touristes-3012989.html)
+append_entries: 2
+Finish: 2024-08-02 01:21:03.410736
