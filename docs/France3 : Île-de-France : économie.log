@@ -1830,3 +1830,18 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris 2024. Les jeux olympiques ont-ils fait fuir les touristes ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-jeux-olympiques-ont-ils-fait-fuir-les-touristes-3012989.html)
 append_entries: 2
 Finish: 2024-08-02 01:21:03.410736
+------------------------------------------------------
+Started: 2024-08-02 12:40:29.777560
+Existing_entries: 246
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 295
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : des premières retombées positives pour le tourisme francilien](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-des-premieres-retombees-positives-pour-le-tourisme-francilien-3013196.html)
+Token length: 135
+Summarized using GPT-4o-mini
+Append: ["Circulation extrêmement difficile" : les prévisions et conseils pour le week-end du 3 et 4 août en Ile-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/circulation-extremement-difficile-les-previsions-et-conseils-pour-le-week-end-du-3-et-4-aout-en-ile-de-france-3013217.html)
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [VIDEO. JO de Paris 2024. "On se sent oubliés des jeux, mais on a l'habitude"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/video-jo-de-paris-2024-on-se-sent-oublies-des-jeux-mais-on-a-l-habitude-3012884.html)
+append_entries: 3
+Finish: 2024-08-02 12:40:42.283027

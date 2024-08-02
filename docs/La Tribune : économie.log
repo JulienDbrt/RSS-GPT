@@ -4702,3 +4702,24 @@ Summarized using GPT-4o-mini
 Append: [Sanofi investit 1,3 milliard d'euros en Allemagne pour produire plus d'insuline](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/sanofi-investit-1-3-milliard-d-euros-en-allemagne-pour-produire-plus-d-insuline-1003540.html)
 append_entries: 5
 Finish: 2024-08-02 01:25:33.213333
+------------------------------------------------------
+Started: 2024-08-02 12:44:33.390199
+Existing_entries: 1005
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 306
+Summarized using GPT-4o-mini
+Append: [Canicule : la chaleur fait près de 200.000 morts par an en Europe, et la mortalité s'intensifie](https://www.latribune.fr/climat/energie-environnement/canicule-la-chaleur-fait-pres-de-200-000-morts-par-an-en-europe-et-la-mortalite-s-intensifie-1003595.html)
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [Malgré la baisse des prix du gaz, Engie résiste et relève ses prévisions](https://www.latribune.fr/climat/energie-environnement/malgre-la-baisse-des-prix-du-gaz-engie-resiste-et-releve-ses-previsions-1003585.html)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [Après Beyrouth, Lufthansa et ITA suspendent leurs vols vers Tel-Aviv](https://www.latribune.fr/entreprises-finance/services/transport-logistique/apres-beyrouth-lufthansa-et-ita-suspendent-leurs-vols-vers-tel-aviv-1003577.html)
+Token length: 254
+Summarized using GPT-4o-mini
+Append: [Semi-conducteurs : à la traîne derrière ses concurrents, Intel licencie 18.000 personnes](https://www.latribune.fr/technos-medias/informatique/semi-conducteurs-a-la-traine-derriere-ses-concurrents-intel-licencie-18-000-personnes-1003576.html)
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [En Corse, Le Meur réinvente l’horlogerie sur mesure](https://www.latribune.fr/economie/en-corse-le-meur-reinvente-l-horlogerie-sur-mesure-1003559.html)
+append_entries: 5
+Finish: 2024-08-02 12:44:53.082097

@@ -1573,3 +1573,9 @@ Summarized using GPT-4o-mini
 Append: [Le combat des circulaires - Du 1er au 7 août 2024](https://www.journaldemontreal.com/2024/08/01/le-combat-des-circulaires---du-1er-au-7-aout-2024)
 append_entries: 2
 Finish: 2024-08-02 01:21:57.883923
+------------------------------------------------------
+Started: 2024-08-02 12:41:40.463747
+Existing_entries: 149
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-08-02 12:41:40.909288

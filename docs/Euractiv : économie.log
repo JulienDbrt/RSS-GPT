@@ -1562,3 +1562,12 @@ Existing_entries: 170
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-08-02 01:19:26.532959
+------------------------------------------------------
+Started: 2024-08-02 12:38:53.760351
+Existing_entries: 170
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 309
+Summarized using GPT-4o-mini
+Append: [Zone euro : le ralentissement industriel persiste malgré une légère hausse de la croissance](https://www.euractiv.fr/section/economie/news/zone-euro-le-ralentissement-industriel-persiste-malgre-une-legere-hausse-de-la-croissance/)
+append_entries: 1
+Finish: 2024-08-02 12:38:59.385851

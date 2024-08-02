@@ -2002,3 +2002,15 @@ Existing_entries: 298
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-02 01:19:29.130233
+------------------------------------------------------
+Started: 2024-08-02 12:39:01.048000
+Existing_entries: 298
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : une affluence touristique «extrêmement encourageante», selon la région Île-de-France](https://www.europe1.fr/economie/jo-de-paris-2024-une-affluence-touristique-extremement-encourageante-selon-la-region-ile-de-france-4260848)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [Agriculture : l'État bientôt au secours des céréaliers, après des mois de mauvais temps ?](https://www.europe1.fr/economie/agriculture-letat-bientot-au-secours-des-cerealiers-apres-des-mois-de-mauvais-temps-4260839)
+append_entries: 2
+Finish: 2024-08-02 12:39:08.700344
