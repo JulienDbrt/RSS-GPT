@@ -6845,3 +6845,9 @@ Summarized using GPT-4o-mini
 Append: [Le Bitcoin tombe sous la barre des 63 000 dollars](https://www.nouvelles-du-monde.com/le-bitcoin-tombe-sous-la-barre-des-63-000-dollars/)
 append_entries: 4
 Finish: 2024-08-03 01:11:22.568392
+------------------------------------------------------
+Started: 2024-08-03 12:28:51.289140
+Existing_entries: 1004
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+append_entries: 0
+Finish: 2024-08-03 12:28:52.844533

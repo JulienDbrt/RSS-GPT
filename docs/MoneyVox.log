@@ -5412,3 +5412,15 @@ Summarized using GPT-4o-mini
 Append: [Banque en ligne : laquelle est la moins chère en août ?](https://www.moneyvox.fr/banque-en-ligne/actualites/98987/laquelle-est-la-moins-chere-en-aout)
 append_entries: 6
 Finish: 2024-08-03 01:18:10.453833
+------------------------------------------------------
+Started: 2024-08-03 12:35:35.153557
+Existing_entries: 1006
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Livret A : pourquoi son taux risque de baisser début 2025](https://www.moneyvox.fr/livret-a/actualites/98696/pourquoi-son-taux-risque-de-baisser-debut-2025)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Carte bancaire : « Quel est le délai pour contester une fraude ? »](https://www.moneyvox.fr/carte-bancaire/actualites/98939/quel-est-le-delai-pour-contester-une-fraude)
+append_entries: 2
+Finish: 2024-08-03 12:35:41.690285

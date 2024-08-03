@@ -4032,3 +4032,18 @@ Summarized using GPT-4o-mini
 Append: [« Pyramide de Ponzi » à Toulouse : une information judiciaire ouverte et une remise en liberté](https://www.lemonde.fr/societe/article/2024/08/02/pyramide-de-ponzi-a-toulouse-une-information-judiciaire-ouverte-et-une-remise-en-liberte_6265399_3224.html)
 append_entries: 3
 Finish: 2024-08-03 01:12:51.199464
+------------------------------------------------------
+Started: 2024-08-03 12:29:42.275930
+Existing_entries: 1003
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Quelles différences entre une retraite de cadre et une retraite d'ouvrier ?](https://lemagdelaconso.ouest-france.fr/dossier-1310-differences-retraite-cadre-retraite-ouvrier.html)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Retraite : êtes-vous en dessous ou au-dessus de la pension moyenne ?](https://www.capital.fr/votre-retraite/retraite-etes-vous-en-dessous-ou-au-dessus-de-la-pension-moyenne-1500581)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Un locataire expulsé après avoir installé un membre de sa famille dans son logement](https://immobilier.lefigaro.fr/article/un-locataire-expulse-apres-avoir-installe-un-membre-de-sa-famille-dans-son-logement_1dc55236-50a8-11ef-b565-72ebc9953fb3/)
+append_entries: 3
+Finish: 2024-08-03 12:30:05.495488
