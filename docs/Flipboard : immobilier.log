@@ -4017,3 +4017,18 @@ Summarized using GPT-4o-mini
 Append: ["Voilà comment j'ai touché 120 000 euros en trois semaines alors que j'ai mis un an à vendre ma maison"](https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/2620-vente-complement/)
 append_entries: 3
 Finish: 2024-08-02 12:33:24.108119
+------------------------------------------------------
+Started: 2024-08-03 01:12:39.554872
+Existing_entries: 1003
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Présidentielle américaine 2024 : Le neveu de Donald Trump votera pour Kamala Harris, pas pour son « oncle fou »](https://www.20minutes.fr/monde/election-presidentielle-americaine/4104281-20240802-presidentielle-americaine-2024-neveu-donald-trump-votera-kamala-harris-oncle-fou)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Immobilier à Genève: Un trader en pétrole s’offre une villa pour 40 millions](https://www.24heures.ch/geneve-un-trader-en-petrole-achete-une-villa-a-40-millions-165980380615)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [« Pyramide de Ponzi » à Toulouse : une information judiciaire ouverte et une remise en liberté](https://www.lemonde.fr/societe/article/2024/08/02/pyramide-de-ponzi-a-toulouse-une-information-judiciaire-ouverte-et-une-remise-en-liberte_6265399_3224.html)
+append_entries: 3
+Finish: 2024-08-03 01:12:51.199464

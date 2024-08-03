@@ -1845,3 +1845,9 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. JO de Paris 2024. "On se sent oubliés des jeux, mais on a l'habitude"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/video-jo-de-paris-2024-on-se-sent-oublies-des-jeux-mais-on-a-l-habitude-3012884.html)
 append_entries: 3
 Finish: 2024-08-02 12:40:42.283027
+------------------------------------------------------
+Started: 2024-08-03 01:18:12.388268
+Existing_entries: 249
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-03 01:18:12.655521

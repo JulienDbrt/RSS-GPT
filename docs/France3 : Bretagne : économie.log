@@ -1578,3 +1578,9 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. Le granit rose au bout des doigts : Séjour au camping du Ranolien, entre activités et randonnées](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/reportage-le-granit-rose-au-bout-des-doigts-sejour-au-camping-du-ranolien-entre-activites-et-randonnees-3013325.html)
 append_entries: 1
 Finish: 2024-08-02 12:41:01.402471
+------------------------------------------------------
+Started: 2024-08-03 01:18:30.300235
+Existing_entries: 160
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-08-03 01:18:30.751485
