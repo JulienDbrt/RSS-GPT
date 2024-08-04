@@ -1961,3 +1961,9 @@ Summarized using GPT-4o-mini
 Append: [Que faire de son argent si on a la chance de devenir riche rapidement ?](https://www.20minutes.fr/arts-stars/television/4103453-20240803-faire-argent-si-chance-devenir-riche-rapidement)
 append_entries: 2
 Finish: 2024-08-03 12:32:50.340407
+------------------------------------------------------
+Started: 2024-08-04 01:20:27.930797
+Existing_entries: 277
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-08-04 01:20:28.727816

@@ -1590,3 +1590,12 @@ Existing_entries: 160
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-03 12:35:46.750666
+------------------------------------------------------
+Started: 2024-08-04 01:22:17.972057
+Existing_entries: 160
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 370
+Summarized using GPT-4o-mini
+Append: [Miel, des aides pour les apiculteurs touchés par les répercussions des importations ukrainiennes](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/miel-des-aides-pour-les-apiculteurs-touches-par-les-importations-ukrainiennes-3013829.html)
+append_entries: 1
+Finish: 2024-08-04 01:22:21.374376

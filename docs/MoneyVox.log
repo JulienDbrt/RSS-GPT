@@ -5424,3 +5424,12 @@ Summarized using GPT-4o-mini
 Append: [Carte bancaire : « Quel est le délai pour contester une fraude ? »](https://www.moneyvox.fr/carte-bancaire/actualites/98939/quel-est-le-delai-pour-contester-une-fraude)
 append_entries: 2
 Finish: 2024-08-03 12:35:41.690285
+------------------------------------------------------
+Started: 2024-08-04 01:22:02.109580
+Existing_entries: 1002
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Crédit conso : « est-ce qu'il y a des pénalités en cas de remboursement anticipé ? »](https://www.moneyvox.fr/credit/actualites/98958/credit-conso-est-ce-quil-y-a-des-penalites-en-cas-de-remboursement-anticipe)
+append_entries: 1
+Finish: 2024-08-04 01:22:05.659642

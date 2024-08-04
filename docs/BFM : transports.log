@@ -1847,3 +1847,9 @@ Summarized using GPT-4o-mini
 Append: [Air France et Transavia prolongent jusqu'au mardi 6 août la suspension de leurs vols vers le Liban](https://www.bfmtv.com/economie/entreprises/transports/air-france-et-transavia-prolongent-jusqu-au-mardi-6-aout-la-suspension-de-leurs-vols-vers-le-liban_AD-202408030181.html)
 append_entries: 1
 Finish: 2024-08-03 12:34:17.287518
+------------------------------------------------------
+Started: 2024-08-04 01:21:06.397211
+Existing_entries: 249
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-08-04 01:21:07.141134

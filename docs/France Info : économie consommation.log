@@ -5906,3 +5906,15 @@ Summarized using GPT-4o-mini
 Append: [JO 2024 : les transports en commun d'Ile-de-France ont-ils relevé le défi de l'accessibilité des spectateurs en situation de handicap ?](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-2024-les-transports-en-commun-d-ile-de-france-ont-ils-releve-le-defi-de-l-accessibilite-des-spectateurs-en-situation-de-handicap_6682242.html)
 append_entries: 3
 Finish: 2024-08-03 12:35:29.220396
+------------------------------------------------------
+Started: 2024-08-04 01:21:43.399949
+Existing_entries: 1003
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Départs en vacances : après un samedi noir sur les routes de France, Bison futé anticipe une circulation toujours chargée dimanche](https://www.francetvinfo.fr/economie/transports/trafic/departs-en-vacances-plus-de-mille-kilometres-de-bouchons-cumules-a-la-mi-journee_6704634.html)
+Token length: 226
+Summarized using GPT-4o-mini
+Append: [Une enquête ouverte après une série d'incendies contre les chemins de fer allemands, les soupçons se tournent vers l'extrême gauche](https://www.francetvinfo.fr/monde/europe/allemagne/une-enquete-ouverte-apres-une-serie-d-incendies-contre-les-chemins-de-fer-allemands-les-soupcons-se-tournent-vers-l-extreme-gauche_6704730.html)
+append_entries: 2
+Finish: 2024-08-04 01:21:50.441855

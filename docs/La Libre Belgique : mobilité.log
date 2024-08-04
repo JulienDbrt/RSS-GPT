@@ -1724,3 +1724,9 @@ Summarized using GPT-4o-mini
 Append: ["On flirte avec les records": samedi noir sur les routes européennes](https://www.lalibre.be/belgique/mobilite/2024/08/03/on-flirte-avec-les-records-samedi-noir-sur-les-routes-europeennes-HS7Y5VUEKBBWDJ7XYTPR755ZOY/)
 append_entries: 1
 Finish: 2024-08-03 12:37:47.740571
+------------------------------------------------------
+Started: 2024-08-04 01:23:46.676899
+Existing_entries: 224
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-08-04 01:23:47.808220
