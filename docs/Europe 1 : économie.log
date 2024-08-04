@@ -2041,3 +2041,12 @@ Existing_entries: 303
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-04 01:21:38.170468
+------------------------------------------------------
+Started: 2024-08-04 12:35:06.575807
+Existing_entries: 303
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [Avion :  des compagnies en peine, les prix des billets sont en baisse](https://www.europe1.fr/economie/avion-des-compagnies-en-peine-les-prix-des-billets-sont-en-baisse-4261055)
+append_entries: 1
+Finish: 2024-08-04 12:35:14.125494

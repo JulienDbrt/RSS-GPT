@@ -5870,3 +5870,18 @@ Summarized using GPT-4o-mini
 Append: [A peine arrivée sur Netflix, cette série notée 82% déjà assurée d'avoir une suite ? On vous explique pourquoi](https://www.purebreak.com/news/a-peine-arrivee-sur-netflix-cette-serie-notee-82-deja-assuree-d-avoir-une-suite-on-vous-explique-pourquoi/250533)
 append_entries: 3
 Finish: 2024-08-04 01:18:17.655716
+------------------------------------------------------
+Started: 2024-08-04 12:29:45.282269
+Existing_entries: 1003
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Ce département est celui dans lequel les maisons sont les moins chères de France - moins de 100 000 euros pour 100 m²](https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/2422-moins-cher/)
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Le télétravail pourrait inciter des employés à démissionner, prévient une étude](https://lactualite.com/actualites/le-teletravail-pourrait-inciter-des-employes-a-demissionner-previent-une-etude/)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Bruno Le Maire à Bercy, le vrai bilan : croissance, emploi, finances publiques…](https://www.lexpress.fr/economie/bruno-le-maire-a-bercy-le-vrai-bilan-croissance-emploi-finances-publiques-CHJZXIUU6JBB3F77NVLFTEMJ2U/)
+append_entries: 3
+Finish: 2024-08-04 12:30:12.430377

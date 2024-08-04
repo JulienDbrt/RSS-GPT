@@ -5433,3 +5433,21 @@ Summarized using GPT-4o-mini
 Append: [Crédit conso : « est-ce qu'il y a des pénalités en cas de remboursement anticipé ? »](https://www.moneyvox.fr/credit/actualites/98958/credit-conso-est-ce-quil-y-a-des-penalites-en-cas-de-remboursement-anticipe)
 append_entries: 1
 Finish: 2024-08-04 01:22:05.659642
+------------------------------------------------------
+Started: 2024-08-04 12:35:41.311199
+Existing_entries: 1001
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Virements : voici ce que vous ne pouvez plus faire avec vos comptes épargne](https://www.moneyvox.fr/placement/actualites/83138/virements-voici-ce-que-vous-ne-pouvez-plus-faire-avec-vos-comptes-epargne)
+Token length: 129
+Summarized using GPT-4o-mini
+Append: [Astuce pour vos livrets d'épargne, électricité moins chère... les 5 infos argent de la semaine](https://www.moneyvox.fr/votre-argent/actualites/98986/astuce-pour-vos-livrets-epargne-electricite-moins-chere-les-5-infos-argent-de-la-semaine)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Crédit immobilier : « Puis-je cumuler plusieurs prêts aidés pour acheter un bien immobilier ? »](https://www.moneyvox.fr/credit/actualites/98945/credit-immobilier-puis-je-cumuler-plusieurs-prets-aides-pour-acheter-un-bien-immobilier)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Le nouveau permis à 17 ans fait-il augmenter le prix de l'assurance auto ?](https://www.moneyvox.fr/assurance/actualites/98965/le-nouveau-permis-a-17-ans-fait-il-augmenter-le-prix-de-assurance-auto)
+append_entries: 4
+Finish: 2024-08-04 12:35:58.790657

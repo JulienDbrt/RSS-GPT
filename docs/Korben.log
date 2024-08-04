@@ -1894,3 +1894,12 @@ Existing_entries: 248
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-08-04 01:18:37.487720
+------------------------------------------------------
+Started: 2024-08-04 12:30:29.255789
+Existing_entries: 248
+Fetching from https://korben.info/feed
+Token length: 2425
+Summarized using GPT-4o-mini
+Append: [Asak – Un outil audio CLI puissant écrit en Rust](https://korben.info/asak-outil-audio-cli-puissant-amusant-rust.html)
+append_entries: 1
+Finish: 2024-08-04 12:30:34.640751

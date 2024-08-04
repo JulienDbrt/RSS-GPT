@@ -4065,3 +4065,18 @@ Summarized using GPT-4o-mini
 Append: [Bientôt de nouveaux frais à venir pour les propriétaires qui souhaitent vendre leur logement ?](https://www.capital.fr/immobilier/bientot-de-nouveaux-frais-a-venir-pour-les-proprietaires-qui-souhaitent-vendre-leur-logement-1500595)
 append_entries: 4
 Finish: 2024-08-04 01:18:32.335649
+------------------------------------------------------
+Started: 2024-08-04 12:30:12.927855
+Existing_entries: 1004
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Ce département est celui dans lequel les maisons sont les moins chères de France - moins de 100 000 euros pour 100 m²](https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/2422-moins-cher/)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Immobilier : ces stations balnéaires où les prix explosent](https://www.lexpress.fr/argent/immobilier/immobilier-ces-stations-balneaires-ou-les-prix-explosent-MICGR6VJ3RAE7FEQN6SRFHFSIY/)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Hébergement pendant les JO : à Paris, « on sauve les meubles avec des tarifs de basse saison »](https://www.leparisien.fr/jo-paris-2024/hebergement-pendant-les-jo-a-paris-on-sauve-les-meubles-avec-des-tarifs-de-basse-saison-04-08-2024-JKMLBJMSU5GDNDHC5JJOY3GE7Q.php)
+append_entries: 3
+Finish: 2024-08-04 12:30:27.300620

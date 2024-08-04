@@ -3067,3 +3067,21 @@ Summarized using GPT-4o-mini
 Append: [Les éleveurs victimes de la sécheresse : en Haute-Corse, une association prête des cuves remplies d'eau potable](https://france3-regions.francetvinfo.fr/corse/corse-du-sud/ajaccio/les-eleveurs-victimes-de-la-secheresse-en-haute-corse-une-association-prete-des-cuves-remplies-d-eau-potable-3013682.html)
 append_entries: 2
 Finish: 2024-08-04 01:22:17.325732
+------------------------------------------------------
+Started: 2024-08-04 12:36:04.724997
+Existing_entries: 650
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 158
+Summarized using GPT-4o-mini
+Append: ["On espère un miracle ou un insecte prédateur qui nous sauvera" : la myrtille sauvage d’Ardèche en péril](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/ardeche/on-espere-un-miracle-ou-un-insecte-predateur-qui-nous-sauvera-la-myrtille-sauvage-d-ardeche-en-peril-3013928.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [L'olive de Nyons régale nos repas de l'été](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/l-olive-de-nyons-regale-nos-repas-de-l-ete-3005471.html)
+Token length: 269
+Summarized using GPT-4o-mini
+Append: [Les chips artisanales "La 76" font craquer la Normandie](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/les-chips-artisanales-la-76-font-craquer-la-normandie-3012587.html)
+Token length: 312
+Summarized using GPT-4o-mini
+Append: [Comment les robots pallient la pénurie de main d'œuvre dans l'agriculture : "ils font des choses qu’aucun humain n'accepterait de faire"](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/comment-les-robots-pallient-la-penurie-de-main-d-uvre-dans-l-agriculture-ils-font-des-choses-qu-aucun-humain-n-accepterait-de-faire-3013439.html)
+append_entries: 4
+Finish: 2024-08-04 12:36:23.680449

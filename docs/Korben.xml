@@ -4,6 +4,93 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Asak – Un outil audio CLI puissant écrit en Rust</title>
+<link>https://korben.info/asak-outil-audio-cli-puissant-amusant-rust.html</link>
+<guid>https://korben.info/asak-outil-audio-cli-puissant-amusant-rust.html</guid>
+<content:encoded><![CDATA[
+<div> Asak, audio, commande, effets, Rust  
+
+<br><br>Summary:  
+Asak est un outil audio multiplateforme, léger et efficace, écrit en Rust. Il fonctionne via une interface en ligne de commande ou une interface utilisateur textuelle (TUI) intuitive, permettant d'enregistrer, de lire et d'appliquer des effets en temps réel. Pour l’installer, il suffit de s'assurer que Cargo est installé et d'exécuter la commande `cargo install asak`. Pour enregistrer un message, vous pouvez utiliser `asak rec hello`, et si vous oubliez le nom du fichier, Asak vous demandera de le spécifier. Pour lire le fichier, utilisez `asak play hello.wav`, et en cas de doute sur le nom, le programme vous aidera à choisir parmi les fichiers disponibles. Asak offre des options de personnalisation avec des réglages pour l'enregistrement et la lecture, tels que la durée, la fréquence d'échantillonnage et les canaux. Il permet également des manipulations sonores en temps réel, comme le réglage du volume et l'application d'effets. Asak supporte les formats WAV, AIFF et FLAC, et gère plusieurs flux audio simultanément, rendant l'expérience sonore simple et très accessible. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Music_Producer_wallpaper_geek_command_line_interface_5f3f288a-eb35-46c9-807b-a934ae9379fd.webp" width="1456" /></p>
+<p>Voici un outil qui va changer votre façon de bidouiller avec le son. Oubliez les interfaces compliquées et les logiciels gourmands, place à la ligne de commande avec <strong>Asak</strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-910401719" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Il s&rsquo;agit d&rsquo;un outil audio multiplateforme, écrit dans le langage du moment, j&rsquo;ai nommé <strong>Rust</strong>. Léger, rapide et diablement efficace. Le genre de truc qui vous donne envie de ressortir votre vieux Termina pour jouer.</p>
+
+
+
+<p>Asak permet d&rsquo;enregistrer, lire, et même appliquer des effets en temps réel, le tout via son interface en ligne de commande ou son interface utilisateur textuelle (TUI) super intuitive. Fini les clics à n&rsquo;en plus finir, ici on tape des commandes comme un vrai hacker du dimanche.</p>
+
+
+
+<p>Pour l&rsquo;installer, rien de plus simple. </p>
+
+
+
+<p>Assurez-vous d&rsquo;avoir <strong>Cargo</strong> installé, puis lancez un petit </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1260653873" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>cargo install asak</code> </p>
+
+
+
+<p>et hop, vous voilà prêt à en découdre avec les ondes sonores. Si vous n&rsquo;avez pas encore Cargo, pas de panique, suivez simplement <a href="https://doc.rust-lang.org/cargo/getting-started/installation.html" rel="noopener" target="_blank">le guide d&rsquo;installation</a> et vous serez paré en un rien de temps.</p>
+
+
+
+<p>Ensuite, si vous voulez enregistrer un message pour votre répondeur façon années 80, c&rsquo;est facile :</p>
+
+
+
+<p><code>asak rec hello</code></p>
+
+
+
+<p>Et si vous ne précisez pas de nom de fichier, pas de panique, Asak vous demandera gentiment de le faire, avec un nom par défaut.</p>
+
+
+
+<p>Maintenant pour écouter votre chef-d&rsquo;œuvre :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1208247790" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><code>asak play hello.wav</code></p>
+
+
+
+<p>Et si vous ne vous souvenez plus du nom, un petit coup d&rsquo;œil dans le répertoire courant et Asak vous proposera gentiment de choisir parmi les fichiers <code>.wav</code> disponibles.</p>
+
+
+
+<p>Mais Asak ne s&rsquo;arrête pas là. Vous pouvez paramétrer l&rsquo;appareil d&rsquo;enregistrement et de lecture avec <code>-r</code> et <code>-p</code>, la durée avec <code>-d</code>, la fréquence d&rsquo;échantillonnage avec <code>-s</code>, les canaux et le format avec <code>-ch</code>. Bref, vous avez le contrôle total.</p>
+
+
+
+<p>Et que serait un outil audio digne de ce nom sans la possibilité de jouer avec le son en temps réel ? Asak vous propose de régler le volume avec <code>-a</code>, d&rsquo;appliquer des effets comme la réverbération ou le délai avec <code>-f</code>, et même de faire du passthrough avec des effets live grâce à <code>-z</code>. Bref, de quoi transformer votre bureau en studio d&rsquo;enregistrement lo-fi tendance.</p>
+
+
+
+<p>Côté formats, Asak supporte les classiques <strong>WAV</strong>, <strong>AIFF</strong> et <strong>FLAC</strong>, en entrée comme en sortie. Et s&rsquo;il vous prend l&rsquo;envie de bidouiller avec plusieurs flux audio simultanés, pas de souci, Asak gère ça comme un chef.</p>
+
+
+
+<p>Alors, convaincu ? <a href="https://github.com/chaosprint/asak" rel="noopener" target="_blank">Vous aurez plus d&rsquo;infos ici.</a></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-342942941" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Sur ce, je vous laisse, j&rsquo;ai une soudaine envie d&rsquo;aller bidouiller avec des samples de vieux films de science-fiction. Que la force du son soit avec vous !</p>
+]]></content:encoded>
+<pubDate>Sun, 04 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 04 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Les secrets des plus grands tours de magie révélés en 8 minutes</title>

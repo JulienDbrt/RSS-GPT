@@ -1349,3 +1349,9 @@ Summarized using GPT-4o-mini
 Append: [Un nouveau compteur Linky fera son apparition d'ici 2 ans, mais ceux qui en profiteront seront comptés](https://www.clubic.com/actualite-533121-un-nouveau-compteur-linky-fera-son-apparition-d-ici-2-ans-mais-ceux-qui-en-profiteront-seront-comptes.html)
 append_entries: 1
 Finish: 2024-08-04 01:18:35.899862
+------------------------------------------------------
+Started: 2024-08-04 12:30:27.339723
+Existing_entries: 77
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-08-04 12:30:28.542103
