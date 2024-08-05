@@ -6232,3 +6232,15 @@ Summarized using GPT-4o-mini
 Append: [Paris 2024 : La billetterie continue de prospérer](https://www.latribune.fr/sports/jeux-olympiques/paris-2024-la-billetterie-continue-de-prosperer-1003704.html)
 append_entries: 10
 Finish: 2024-08-04 12:40:03.265048
+------------------------------------------------------
+Started: 2024-08-05 01:19:56.263410
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [L'Ukraine reçoit ses premiers avions de chasse F-16](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/l-ukraine-recoit-ses-premiers-avions-de-chasse-f-16-1003763.html)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Bangladesh : plus de 50 morts dans des heurts entre pro et anti-gouvernement](https://www.latribune.fr/economie/international/bangladesh-au-moins-50-morts-dans-des-heurts-entre-pro-et-anti-gouvernement-1003762.html)
+append_entries: 2
+Finish: 2024-08-05 01:20:04.205833

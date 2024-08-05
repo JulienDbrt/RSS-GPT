@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Asak – Un outil audio CLI puissant écrit en Rust</title>
 <link>https://korben.info/asak-outil-audio-cli-puissant-amusant-rust.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Asak, audio, commande, effets, Rust  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Asak est un outil audio multiplateforme, léger et efficace, écrit en Rust. Il fonctionne via une interface en ligne de commande ou une interface utilisateur textuelle (TUI) intuitive, permettant d'enregistrer, de lire et d'appliquer des effets en temps réel. Pour l’installer, il suffit de s'assurer que Cargo est installé et d'exécuter la commande `cargo install asak`. Pour enregistrer un message, vous pouvez utiliser `asak rec hello`, et si vous oubliez le nom du fichier, Asak vous demandera de le spécifier. Pour lire le fichier, utilisez `asak play hello.wav`, et en cas de doute sur le nom, le programme vous aidera à choisir parmi les fichiers disponibles. Asak offre des options de personnalisation avec des réglages pour l'enregistrement et la lecture, tels que la durée, la fréquence d'échantillonnage et les canaux. Il permet également des manipulations sonores en temps réel, comme le réglage du volume et l'application d'effets. Asak supporte les formats WAV, AIFF et FLAC, et gère plusieurs flux audio simultanément, rendant l'expérience sonore simple et très accessible. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Music_Producer_wallpaper_geek_command_line_interface_5f3f288a-eb35-46c9-807b-a934ae9379fd.webp" width="1456" /></p>
 <p>Voici un outil qui va changer votre façon de bidouiller avec le son. Oubliez les interfaces compliquées et les logiciels gourmands, place à la ligne de commande avec <strong>Asak</strong> !</p>
@@ -89,9 +90,7 @@ Asak est un outil audio multiplateforme, léger et efficace, écrit en Rust. Il 
 <div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Sur ce, je vous laisse, j&rsquo;ai une soudaine envie d&rsquo;aller bidouiller avec des samples de vieux films de science-fiction. Que la force du son soit avec vous !</p>
 ]]></content:encoded>
 <pubDate>Sun, 04 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 04 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Les secrets des plus grands tours de magie révélés en 8 minutes</title>
 <link>https://korben.info/tours-de-magie-secrets-reveles-8-minutes.html</link>

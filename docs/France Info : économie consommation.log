@@ -5930,3 +5930,18 @@ Summarized using GPT-4o-mini
 Append: [Les marques surfent sur les Jeux et offrent des produits spécifiques et des bons plans](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/les-marques-surfent-sur-les-jeux-et-offrent-des-produits-specifiques-et-des-bons-plans_6642792.html)
 append_entries: 2
 Finish: 2024-08-04 12:35:29.382819
+------------------------------------------------------
+Started: 2024-08-05 01:18:25.426008
+Existing_entries: 1002
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [SNCF, armée, police : ces employeurs qui félicitent leurs athlètes, comme Agbégnénou et Cysique, pour leurs performances aux JO de Paris 2024](https://www.francetvinfo.fr/les-jeux-olympiques/sncf-armee-police-ces-employeurs-qui-felicitent-leurs-athletes-comme-agbegnenou-et-cysique-pour-leurs-performances-aux-jo-de-paris-2024_6706335.html)
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [La Chine publie un plan pour relancer la consommation des ménages, sur fond de croissance en berne depuis la levée des mesures anti-Covid](https://www.francetvinfo.fr/monde/chine/la-chine-publie-un-plan-pour-relancer-la-consommation-des-menages-sur-fond-de-croissance-convalescente-depuis-la-levee-des-mesures-anti-covid_6706374.html)
+Token length: 243
+Summarized using GPT-4o-mini
+Append: [Paris 2024 : comment se déplacer en ville pendant les Jeux en évitant les pièges](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-comment-se-deplacer-en-ville-pendant-les-jeux-en-evitant-les-pieges_6706377.html)
+append_entries: 3
+Finish: 2024-08-05 01:18:34.286615

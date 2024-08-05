@@ -1878,3 +1878,9 @@ Summarized using GPT-4o-mini
 Append: ["La prise en charge des patients reste assurée" : les hôpitaux de l'AP-HP ralentis par une panne informatique](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-defaillance-purement-technique-les-hopitaux-de-l-ap-hp-ralentis-par-une-panne-informatique-3013850.html)
 append_entries: 1
 Finish: 2024-08-04 12:36:04.372200
+------------------------------------------------------
+Started: 2024-08-05 01:18:45.687996
+Existing_entries: 252
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-05 01:18:45.765319
