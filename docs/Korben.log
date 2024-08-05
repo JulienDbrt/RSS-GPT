@@ -1909,3 +1909,12 @@ Existing_entries: 249
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-08-05 01:15:20.867173
+------------------------------------------------------
+Started: 2024-08-05 12:36:29.917868
+Existing_entries: 249
+Fetching from https://korben.info/feed
+Token length: 3389
+Summarized using GPT-4o-mini
+Append: [Pylyzer – Une analyse statique Python 100 fois plus rapide !](https://korben.info/pylyzer-analyse-statique-python-rust.html)
+append_entries: 1
+Finish: 2024-08-05 12:36:35.885323

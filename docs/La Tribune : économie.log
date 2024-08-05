@@ -4819,3 +4819,15 @@ Summarized using GPT-4o-mini
 Append: [Bangladesh : plus de 50 morts dans des heurts entre pro et anti-gouvernement](https://www.latribune.fr/economie/international/bangladesh-au-moins-50-morts-dans-des-heurts-entre-pro-et-anti-gouvernement-1003762.html)
 append_entries: 1
 Finish: 2024-08-05 01:19:55.192991
+------------------------------------------------------
+Started: 2024-08-05 12:48:57.649519
+Existing_entries: 1001
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 335
+Summarized using GPT-4o-mini
+Append: [Bangladesh : la Première ministre chassée du pouvoir, tout comprendre aux manifestations meurtrières](https://www.latribune.fr/economie/international/bangladesh-la-premiere-ministre-chassee-du-pouvoir-tout-comprendre-aux-manifestations-meurtrieres-1003786.html)
+Token length: 303
+Summarized using GPT-4o-mini
+Append: [Émeutes au Royaume-Uni : « Vous regretterez d'avoir participé à ces désordres », jure le Premier ministre](https://www.latribune.fr/economie/international/emeutes-au-royaume-uni-vous-regretterez-d-avoir-participe-a-ces-desordres-jure-le-premier-ministre-1003774.html)
+append_entries: 2
+Finish: 2024-08-05 12:49:06.550383

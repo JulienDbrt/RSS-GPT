@@ -1433,3 +1433,12 @@ Existing_entries: 95
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-08-05 01:18:34.739557
+------------------------------------------------------
+Started: 2024-08-05 12:43:36.760489
+Existing_entries: 95
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 243
+Summarized using GPT-4o-mini
+Append: [Immobilier : le montant total des nouveaux crédits au plus bas depuis 10 ans au premier semestre, selon la Banque de France](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-les-nouveaux-credits-au-plus-bas-depuis-10-ans-au-premier-semestre-selon-la-banque-de-france_6707922.html)
+append_entries: 1
+Finish: 2024-08-05 12:43:44.288684

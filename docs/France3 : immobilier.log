@@ -1434,3 +1434,12 @@ Existing_entries: 102
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-08-05 01:18:53.705561
+------------------------------------------------------
+Started: 2024-08-05 12:45:17.522179
+Existing_entries: 102
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 214
+Summarized using GPT-4o-mini
+Append: [La ville de Tours expérimente la reprise de bail pour les locataires en difficulté, un moyen pour éviter les expulsions](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/la-ville-de-tours-experimente-la-reprise-de-bail-pour-les-locataires-en-difficulte-un-moyen-pour-eviter-les-expulsions-2990663.html)
+append_entries: 1
+Finish: 2024-08-05 12:45:23.389956

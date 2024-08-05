@@ -5945,3 +5945,18 @@ Summarized using GPT-4o-mini
 Append: [Paris 2024 : comment se déplacer en ville pendant les Jeux en évitant les pièges](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-comment-se-deplacer-en-ville-pendant-les-jeux-en-evitant-les-pieges_6706377.html)
 append_entries: 3
 Finish: 2024-08-05 01:18:34.286615
+------------------------------------------------------
+Started: 2024-08-05 12:43:20.271860
+Existing_entries: 1003
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 243
+Summarized using GPT-4o-mini
+Append: [Immobilier : le montant total des nouveaux crédits au plus bas depuis 10 ans au premier semestre, selon la Banque de France](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-les-nouveaux-credits-au-plus-bas-depuis-10-ans-au-premier-semestre-selon-la-banque-de-france_6707922.html)
+Token length: 184
+Summarized using GPT-4o-mini
+Append: [VIDEO. La ville de Copenhague récompense les touristes “écolos”](https://www.francetvinfo.fr/economie/tourisme/video-la-ville-de-copenhague-recompense-les-touristes-ecolos_6700221.html)
+Token length: 224
+Summarized using GPT-4o-mini
+Append: [JO Paris 2024, une aubaine pour les PME... jusqu'à l'international](https://www.francetvinfo.fr/replay-radio/le-brief-eco/jo-paris-2024-une-aubaine-pour-les-pme-jusqu-a-l-international_6667461.html)
+append_entries: 3
+Finish: 2024-08-05 12:43:34.898864

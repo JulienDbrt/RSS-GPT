@@ -4,6 +4,58 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Pylyzer – Une analyse statique Python 100 fois plus rapide !</title>
+<link>https://korben.info/pylyzer-analyse-statique-python-rust.html</link>
+<guid>https://korben.info/pylyzer-analyse-statique-python-rust.html</guid>
+<content:encoded><![CDATA[
+<div> pylyzer, Rust, analyse statique, linting, type checking
+
+<br><br>Summary:  
+Vous cherchez un analyseur de code Python rapide et efficace ? Découvrez pylyzer, un outil écrit en Rust, offrant une vitesse moyenne 100 fois supérieure à ses concurrents comme pytype et pyright. En plus de son type checking, pylyzer s’illustre par son analyse détaillée, capable de détecter des accès hors limites ou à des clés inexistantes. Contrairement à d'autres outils, il fonctionne aussi comme linter, garantissant un code propre. Cependant, il part du principe que votre code est statiquement typé et peut générer des faux positifs, surtout avec une API standard incomplète. Ses rapports d'erreurs sont clairs et faciles à comprendre. Côté fonctionnalités, le support LSP est riche, avec des capacités de complétion et de renommage grâce à l'intégration du serveur de langage d'Erg. Bien qu'il y ait d'autres outils comme Ruff, pylyzer combine linting et type checking. Il utilise le type checker d’Erg, convertissant l’AST Python en AST Erg pour l’analyse. Il gère divers aspects comme la résolution de type et les types des collections. Alors n’hésitez pas à tester pylyzer ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="331" src="https://korben.info/app/uploads/2024/04/pylyzer-logo-with-letters.webp" width="819" /></p>
+<p>Vous en aviez marre des analyseurs de code Python plus lents qu&rsquo;un escargot sous Xanax ? Et bien dites bonjour à <strong>pylyzer</strong>, la nouvelle star de l&rsquo;analyse statique ! 🚀</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-490845804" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ce p&rsquo;tit truc est écrit en Rust, ce qui lui permet d&rsquo;être en moyenne 100 fois plus rapide que ses concurrents comme pytype ou pyright.  En plus de la vitesse, pylyzer se distingue par son analyse ultra détaillée. On parle pas juste de <strong>type checking</strong> basique là, pylyzer est capable de détecter les accès hors limites à des listes ou les accès à des clés inexistantes dans des dictionnaires.</p>
+
+
+
+<p>D&rsquo;ailleurs, contrairement à ce qu&rsquo;on pourrait penser, pylyzer n&rsquo;est pas qu&rsquo;un simple <strong>type checker</strong>. C&rsquo;est un véritable couteau suisse de l&rsquo;analyse statique ! Il fait aussi office de <strong>linter</strong> pour vous aider à garder un code propre et consistant. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159229" height="772" src="https://korben.info/app/uploads/2024/04/performance-1024x772.webp" width="1024" /></figure></div>
+
+
+<p>Bon après, faut pas se leurrer, pylyzer a ses limites. Déjà, il suppose que votre code est potentiellement statiquement typé, donc oubliez les <code>exec</code>, <code>setattr</code> et compagnie. Ah et le typage de l&rsquo;API standard de Python n&rsquo;est pas complet donc vous risquez de voir des erreurs du genre « cette API n&rsquo;existe pas », soyez prévenus ! Enfin, vu que le <strong>type checking</strong> de pylyzer est conservatif dans son approche, vous risquez de voir pas mal de faux positifs. Si ça vous saoule, désactivez les diagnostics, on ne vous en voudra pas (mais je vous le déconseille quand même) ! 😅</p>
+
+
+
+<p>En parlant d&rsquo;accès, vous n&rsquo;aurez aucun mal à accéder aux rapports d&rsquo;erreur de pylyzer car contrairement à certains, ils sont clairs comme de l&rsquo;eau de roche ! Fini le charabia illisible, on vous montre exactement où se situe l&rsquo;erreur et on vous explique le problème sans prise de tête. Et côté fonctionnalités, pylyzer ne fait pas les choses à moitié. Le support <strong>LSP</strong> est hyper riche, de la <strong>complétion</strong> au <strong>renommage</strong> en passant par plein d&rsquo;autres features bien cool. Tout ça grâce à l&rsquo;adaptation du serveur de langage de Erg. Et si vous voulez en profiter directement dans <strong>VSCode</strong>, pas de souci ! L&rsquo;extension est dispo sur le Marketplace et hop, c&rsquo;est réglé ! 😎</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2010146926" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Maintenant vous allez me dire « <em>OK c&rsquo;est bien beau tout ça, mais pylyzer il sert à quoi comparé à <strong><a href="https://korben.info/ruff-linter-python-ultra-rapide-revolutionne-qualite-code.html">Ruff</a></strong> par exemple ?</em>« . Alors oui, Ruff est aussi un outil d&rsquo;analyse statique pour Python écrit en Rust, mais lui se concentre uniquement sur le <strong>linting</strong> tandis que pylyzer fait du <strong>type checking</strong> et sert de <strong>serveur de langage</strong>. En gros, on ne mélange pas les torchons et les serviettes !</p>
+
+
+
+<p>Si vous voulez savoir comment ça marche dans le détail, sachez que pylyzer utilise le <strong>type checker</strong> de Erg en interne, en plus de ses propres capacités de vérification de type. Il convertit l&rsquo;<strong>AST</strong> Python en AST Erg avant de le passer au type checker, puis il adapte les résultats pour Python. Malin ! 😏 Par contre, Erg n&rsquo;est pas un langage transpilé en Python comme on pourrait le croire, il peut tourner directement sur la machine cible.</p>
+
+
+
+<p>Malgré ces petits défauts, pylyzer gère quand même un paquet de trucs : <strong>type checking</strong> sur les variables, opérateurs, fonctions, méthodes et classes, <strong>inférence de type</strong>, résolution des modules et packages, les types des collections (<code>list</code>, <code>dict</code>, <code>tuple</code>), une bonne partie de <code>typing</code>, les <strong>types génériques</strong> et <strong>variance</strong>, les <strong>type guards</strong>, le <strong>type narrowing</strong> (qui peut se faire avec <code>is</code> et <code>isinstance</code> mais pas que), les <strong>assertions de type</strong> (via <code>typing.cast</code> par exemple)&#8230; Bref, ça en fait des belles jambes dis donc ! 🦿</p>
+
+
+
+<p>Alors vous attendez quoi pour tester ce <a href="https://github.com/mtshiba/pylyzer" rel="noopener" target="_blank">petit bijou</a> ?</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 05 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Asak – Un outil audio CLI puissant écrit en Rust</title>

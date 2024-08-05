@@ -1884,3 +1884,12 @@ Existing_entries: 252
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-05 01:18:45.765319
+------------------------------------------------------
+Started: 2024-08-05 12:44:50.008781
+Existing_entries: 252
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Que veulent dire les lettres de la station de métro Concorde ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/que-veulent-dire-les-lettres-de-la-station-de-metro-concorde-2982896.html)
+append_entries: 1
+Finish: 2024-08-05 12:44:54.124531

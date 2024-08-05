@@ -1612,3 +1612,9 @@ Summarized using GPT-4o-mini
 Append: [Taux d’intérêt des cartes de crédit: «C’est pratiquement du shylockisme»](https://www.journaldemontreal.com/2024/08/03/taux-dinteret-des-cartes-de-credit-cest-pratiquement-du-shylockisme)
 append_entries: 1
 Finish: 2024-08-05 01:19:02.504137
+------------------------------------------------------
+Started: 2024-08-05 12:45:29.150432
+Existing_entries: 150
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-08-05 12:45:29.461700
