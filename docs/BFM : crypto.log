@@ -1782,3 +1782,12 @@ Summarized using GPT-4o-mini
 Append: [Le bitcoin plonge de 13% lundi, et connaît sa plus forte baisse hebdomadaire depuis la crise de FTX](https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-plonge-de-13-lundi-et-connait-sa-plus-forte-baisse-hebdomadaire-depuis-la-crise-de-ftx_AV-202408050221.html)
 append_entries: 2
 Finish: 2024-08-06 01:20:14.516667
+------------------------------------------------------
+Started: 2024-08-06 12:39:53.704678
+Existing_entries: 214
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Les ETF Bitcoin et Ether ont enregistré 6 milliards de dollars de volumes lundi](https://www.bfmtv.com/crypto/les-etf-bitcoin-et-ether-ont-enregistre-6-milliards-de-dollars-de-volumes-lundi_AV-202408060293.html)
+append_entries: 1
+Finish: 2024-08-06 12:39:58.887484

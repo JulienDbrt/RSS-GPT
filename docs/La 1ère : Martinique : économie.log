@@ -1534,3 +1534,12 @@ Summarized using GPT-4o-mini
 Append: [Alerte aux arnaques : la Guadeloupe, la Martinique et La Réunion concernées par de fausses cartes de transport](https://la1ere.francetvinfo.fr/guadeloupe/alerte-aux-arnaques-la-guadeloupe-la-martinique-et-la-reunion-concernees-par-de-fausses-cartes-de-transport-1510889.html?Version=mobile)
 append_entries: 1
 Finish: 2024-08-06 01:25:20.927539
+------------------------------------------------------
+Started: 2024-08-06 12:46:48.982563
+Existing_entries: 118
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 50
+Summarized using GPT-4o-mini
+Append: [Les habitants du Macouba privés de distributeurs automatiques de billets au nord de Martinique](https://la1ere.francetvinfo.fr/martinique/les-habitants-du-macouba-prives-de-distributeurs-automatiques-de-billets-au-nord-de-martinique-1511633.html)
+append_entries: 1
+Finish: 2024-08-06 12:46:50.247236

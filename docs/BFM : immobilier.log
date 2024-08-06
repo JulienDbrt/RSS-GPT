@@ -1987,3 +1987,12 @@ Summarized using GPT-4o-mini
 Append: [Le montant des crédits immobiliers au plus bas depuis 2014](https://www.bfmtv.com/immobilier/credit-emprunt/le-montant-des-credits-immobiliers-au-plus-bas-depuis-2014_AD-202408050336.html)
 append_entries: 2
 Finish: 2024-08-06 01:21:22.940433
+------------------------------------------------------
+Started: 2024-08-06 12:41:31.561660
+Existing_entries: 295
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 654
+Summarized using GPT-4o-mini
+Append: [Valorisation des certificats d’économies d’énergie, mode d’emploi](https://www.bfmtv.com/immobilier/services/financement-de-travaux-et-renovation-energetique/valorisation-des-certificats-d-economies-d-energie-mode-d-emploi_AB-202408060003.html)
+append_entries: 1
+Finish: 2024-08-06 12:41:36.425490

@@ -2338,3 +2338,15 @@ Existing_entries: 446
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-06 01:24:49.026502
+------------------------------------------------------
+Started: 2024-08-06 12:46:16.473980
+Existing_entries: 446
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4533
+Summarized using GPT-4o-mini
+Append: [Google condamné pour pratiques anticoncurrentielles : la "défaite" du géant américain](https://www.lexpress.fr/economie/high-tech/google-condamne-pour-pratiques-anticoncurrentielles-la-defaite-du-geant-americain-XQWTB2ZWXFD4ZD25EZNFM2YKNM/)
+Token length: 7214
+Summarized using GPT-4o-mini
+Append: [Logement : ces erreurs de stratégie qui coûtent cher à Bercy](https://www.lexpress.fr/economie/politique-economique/logement-ces-erreurs-de-strategie-qui-coutent-cher-a-bercy-DOL23SKVIRH45HCTL5K5YRXO5E/)
+append_entries: 2
+Finish: 2024-08-06 12:46:25.558840

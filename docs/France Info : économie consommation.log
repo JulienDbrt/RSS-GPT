@@ -5969,3 +5969,18 @@ Summarized using GPT-4o-mini
 Append: [Les marchés financiers mondiaux s'affolent du risque de récession aux Etats-Unis](https://www.francetvinfo.fr/economie/bourse/les-marches-financiers-mondiaux-s-affolent-du-risque-de-recession-aux-etats-unis_6708372.html)
 append_entries: 1
 Finish: 2024-08-06 01:22:54.191845
+------------------------------------------------------
+Started: 2024-08-06 12:43:02.733514
+Existing_entries: 1001
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Jeux olympiques : les touristes plébiscitent Marseille](https://www.francetvinfo.fr/les-jeux-olympiques/jeux-olympiques-les-touristes-plebiscitent-marseille_6709539.html)
+Token length: 322
+Summarized using GPT-4o-mini
+Append: [Le yoyo des Bourses mondiales est-il rationnel ?](https://www.francetvinfo.fr/replay-radio/le-brief-eco/le-yoyo-des-bourses-mondiales-est-il-rationnel_6669246.html)
+Token length: 175
+Summarized using GPT-4o-mini
+Append: ["On viendra une autre fois" : à Versailles, les touristes préfèrent les épreuves d'équitation des JO de Paris 2024 à la visite du château](https://www.francetvinfo.fr/economie/tourisme/on-viendra-une-autre-fois-a-versailles-les-touristes-preferent-les-epreuves-d-equitation-des-jo-de-paris-2024-a-la-visite-du-chateau_6708537.html)
+append_entries: 3
+Finish: 2024-08-06 12:43:15.523283

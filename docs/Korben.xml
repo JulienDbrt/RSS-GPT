@@ -4,6 +4,56 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Descent 3 – Le code source rendu public !</title>
+<link>https://korben.info/decouvrez-descent-3-code-source-public.html</link>
+<guid>https://korben.info/decouvrez-descent-3-code-source-public.html</guid>
+<content:encoded><![CDATA[
+<div> Descent 3, code source, GitHub, jeux vidéo, communauté
+
+<br><br>Summary: Le code source de Descent 3, un classique du jeu de tir à la première personne sorti en 1999, vient d'être rendu public sur GitHub, une annonce très attendue par les fans. Ce jeu emblématique permet aux joueurs de piloter un vaisseau spatial dans des environnements 3D avec une liberté de mouvement inédite à l'époque. Avec des graphismes impressionnants et une bande-son mémorable, Descent 3 a marqué les esprits. Désormais, le code complet est accessible, bien que quelques éléments propriétaires aient été retirés. Cela ouvre la voie à une préservation du jeu et à de potentielles mises à jour par une communauté de passionnés. Les moddeurs et les développeurs peuvent analyser le moteur 3D et créer de nouveaux contenus. Les développeurs promettent de nettoyer et commenter le code pour faciliter son utilisation. L'espoir d'une suite, un Descent 4 conçu par les fans, alimente l'excitation. Les joueurs sont encouragés à explorer le dépôt GitHub pour plonger dans cette aventure vidéoludique. En attendant, il est temps de se replonger dans l'univers de Descent 3 et de réparer son vaisseau spatial ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="960" src="https://korben.info/app/uploads/2024/04/ss_59396a5d893e21b52e8916b855990c40b41bf53f.1920x1080.jpg" width="1280" /></p>
+<p>Ça y est les amis, le moment que tous les fans de <strong>Descent</strong> attendaient est enfin arrivé ! Le code source de <strong>Descent 3</strong>, ce monument du jeu de tir à la première personne sorti en 1999, vient d&rsquo;être rendu public sur GitHub. C&rsquo;est Noël avant l&rsquo;heure !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-664516697" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors, pour ceux qui ne connaîtraient pas encore ce chef-d&rsquo;œuvre (honte à vous !), <strong>Descent 3</strong> vous met aux commandes d&rsquo;un vaisseau spatial dans des environnements entièrement en 3D, avec la possibilité de vous déplacer dans toutes les directions. On est loin des couloirs labyrinthiques des premiers <strong>Doom</strong>, là on parle de vraie liberté de mouvement, ce qui était du jamais vu à l&rsquo;époque ! Ajoutez à ça des graphismes époustouflants (pour l&rsquo;époque, encore une fois), une bande-son qui déchire composée par <em>Christopher Larkin</em>, et un mode multijoueur jusqu&rsquo;à 4 joueurs addictif, et vous obtenez un classique intemporel.</p>
+
+
+
+<p>Mais revenons à nos moutons (de l&rsquo;espace). Jusqu&rsquo;à présent, on n&rsquo;avait accès qu&rsquo;à des bribes de code, savamment distillées par les développeurs d&rsquo;<em>Interplay Entertainment</em>. Mais là, c&rsquo;est le jackpot : on a droit à la totale, le code complet ! Bon, quelques bouts de code propriétaires pour le son et la vidéo ont été retirés, mais rien de dramatique. Les anciens de chez <em>Interplay</em> bossent déjà pour rendre tout ça fonctionnel sans ces morceaux manquants.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Cette publication du code va permettre de <strong>pérenniser</strong> ce monument du jeu vidéo, comme ça, plus de risque qu&rsquo;il tombe dans l&rsquo;oubli et devienne injouable sur nos machines modernes. Et pour peu qu&rsquo;une communauté motivée s&#8217;empare du truc, on peut s&rsquo;attendre à des <strong>mises à jour</strong>, des <strong>corrections de bugs</strong>, et pourquoi pas des <strong>améliorations</strong> ! Imaginez un peu : de nouvelles armes, des vaisseaux inédits, des niveaux supplémentaires&#8230; Les possibilités sont infinies !</p>
+
+
+
+<p>Mais le plus excitant, c&rsquo;est surtout pour tous les <strong>moddeurs</strong> et <strong>développeurs</strong> en herbe qui vont pouvoir disséquer le moteur 3D maison <em>Build engine</em>, comprendre comment tout fonctionne sous le capot, et même s&rsquo;en inspirer pour créer de nouveaux jeux ! C&rsquo;est une mine d&rsquo;or d&rsquo;enseignements pour tous ceux qui veulent se lancer dans le développement de jeux vidéo.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1171429230" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ce n&rsquo;est que le début et les développeurs ont promis de nettoyer et commenter le code (parce que bon, on ne va pas se mentir, le code écrit il y a 20 ans, ce n&rsquo;est pas toujours un modèle de clarté). On peut même espérer un petit <strong>système d&rsquo;intégration continue</strong> pour faciliter les contributions de la communauté. Et qui sait, peut-être que dans quelques mois on aura droit à un <strong>Descent 4</strong> entièrement conçu par les fans ! Oui, j&rsquo;aime bien rêver&#8230;</p>
+
+
+
+<p>En attendant, je vous invite à faire un petit tour sur le dépôt GitHub de <strong><a href="https://github.com/kevinbentley/Descent3" rel="noopener" target="_blank">Descent 3</a></strong>.</p>
+
+
+
+<p>Sur ce, je vous laisse, j&rsquo;ai un <strong>vaisseau spatial</strong> à réparer moi !</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 06 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Pylyzer – Une analyse statique Python 100 fois plus rapide !</title>
