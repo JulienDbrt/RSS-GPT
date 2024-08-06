@@ -4055,3 +4055,18 @@ Existing_entries: 1001
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/
 append_entries: 0
 Finish: 2024-08-05 12:41:29.892659
+------------------------------------------------------
+Started: 2024-08-06 01:20:15.303837
+Existing_entries: 1000
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 173
+Summarized using GPT-4o-mini
+Append: [Semi-conducteurs: le fabricant allemand Infineon supprime 1.400 postes dans le monde](https://www.bfmtv.com/economie/entreprises/semi-conducteurs-le-fabricant-allemand-infineon-supprime-1-400-postes-dans-le-monde_AD-202408050390.html)
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [La compagnie Lufthansa contournera les espaces aériens iranien et irakien jusqu'au 7 août](https://www.bfmtv.com/economie/entreprises/transports/la-compagnie-lufthansa-contournera-les-espaces-aeriens-iraniens-et-irakiens-jusqu-au-7-aout_AD-202408050318.html)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Frappé par la foudre, un avion de la compagnie Delta fait demi-tour](https://www.bfmtv.com/economie/entreprises/transports/frappe-par-la-foudre-un-avion-de-la-compagnie-delta-fait-demi-tour_AV-202408050058.html)
+append_entries: 3
+Finish: 2024-08-06 01:20:29.562842

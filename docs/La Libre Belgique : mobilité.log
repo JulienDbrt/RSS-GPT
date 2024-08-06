@@ -1760,3 +1760,9 @@ Summarized using GPT-4o-mini
 Append: [D'importantes perturbations attendues dès ce lundi sur le ring extérieur de Bruxelles](https://www.lalibre.be/belgique/mobilite/2024/08/05/dimportantes-perturbations-attendues-des-ce-lundi-sur-le-ring-exterieur-de-bruxelles-UBVUZTOW2BFURG4YATKK5LI4L4/)
 append_entries: 4
 Finish: 2024-08-05 12:48:57.109955
+------------------------------------------------------
+Started: 2024-08-06 01:26:56.094451
+Existing_entries: 228
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-08-06 01:26:56.998242

@@ -5960,3 +5960,12 @@ Summarized using GPT-4o-mini
 Append: [JO Paris 2024, une aubaine pour les PME... jusqu'à l'international](https://www.francetvinfo.fr/replay-radio/le-brief-eco/jo-paris-2024-une-aubaine-pour-les-pme-jusqu-a-l-international_6667461.html)
 append_entries: 3
 Finish: 2024-08-05 12:43:34.898864
+------------------------------------------------------
+Started: 2024-08-06 01:22:50.107889
+Existing_entries: 1003
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 120
+Summarized using GPT-4o-mini
+Append: [Les marchés financiers mondiaux s'affolent du risque de récession aux Etats-Unis](https://www.francetvinfo.fr/economie/bourse/les-marches-financiers-mondiaux-s-affolent-du-risque-de-recession-aux-etats-unis_6708372.html)
+append_entries: 1
+Finish: 2024-08-06 01:22:54.191845

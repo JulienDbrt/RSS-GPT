@@ -4831,3 +4831,12 @@ Summarized using GPT-4o-mini
 Append: [Émeutes au Royaume-Uni : « Vous regretterez d'avoir participé à ces désordres », jure le Premier ministre](https://www.latribune.fr/economie/international/emeutes-au-royaume-uni-vous-regretterez-d-avoir-participe-a-ces-desordres-jure-le-premier-ministre-1003774.html)
 append_entries: 2
 Finish: 2024-08-05 12:49:06.550383
+------------------------------------------------------
+Started: 2024-08-06 01:26:57.547791
+Existing_entries: 1002
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 331
+Summarized using GPT-4o-mini
+Append: [Impôts 2024 : erreur, oubli… Voici comment corriger sa déclaration de revenus](https://www.latribune.fr/economie/france/impots-2024-erreur-oubli-voici-comment-corriger-sa-declaration-de-revenus-1003787.html)
+append_entries: 1
+Finish: 2024-08-06 01:27:01.285801

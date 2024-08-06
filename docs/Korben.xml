@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Pylyzer – Une analyse statique Python 100 fois plus rapide !</title>
 <link>https://korben.info/pylyzer-analyse-statique-python-rust.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> pylyzer, Rust, analyse statique, linting, type checking
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Vous cherchez un analyseur de code Python rapide et efficace ? Découvrez pylyzer, un outil écrit en Rust, offrant une vitesse moyenne 100 fois supérieure à ses concurrents comme pytype et pyright. En plus de son type checking, pylyzer s’illustre par son analyse détaillée, capable de détecter des accès hors limites ou à des clés inexistantes. Contrairement à d'autres outils, il fonctionne aussi comme linter, garantissant un code propre. Cependant, il part du principe que votre code est statiquement typé et peut générer des faux positifs, surtout avec une API standard incomplète. Ses rapports d'erreurs sont clairs et faciles à comprendre. Côté fonctionnalités, le support LSP est riche, avec des capacités de complétion et de renommage grâce à l'intégration du serveur de langage d'Erg. Bien qu'il y ait d'autres outils comme Ruff, pylyzer combine linting et type checking. Il utilise le type checker d’Erg, convertissant l’AST Python en AST Erg pour l’analyse. Il gère divers aspects comme la résolution de type et les types des collections. Alors n’hésitez pas à tester pylyzer ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="331" src="https://korben.info/app/uploads/2024/04/pylyzer-logo-with-letters.webp" width="819" /></p>
 <p>Vous en aviez marre des analyseurs de code Python plus lents qu&rsquo;un escargot sous Xanax ? Et bien dites bonjour à <strong>pylyzer</strong>, la nouvelle star de l&rsquo;analyse statique ! 🚀</p>
@@ -54,9 +55,7 @@ Vous cherchez un analyseur de code Python rapide et efficace ? Découvrez pylyze
 <p>Alors vous attendez quoi pour tester ce <a href="https://github.com/mtshiba/pylyzer" rel="noopener" target="_blank">petit bijou</a> ?</p>
 ]]></content:encoded>
 <pubDate>Mon, 05 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 05 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Asak – Un outil audio CLI puissant écrit en Rust</title>
 <link>https://korben.info/asak-outil-audio-cli-puissant-amusant-rust.html</link>

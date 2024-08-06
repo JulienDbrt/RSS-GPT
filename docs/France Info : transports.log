@@ -2240,3 +2240,9 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris 2024 : "C'est un petit exploit de réaliser des Jeux 100% accessibles en transports en commun",  se félicite Valérie Pécresse](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-de-paris-2024-c-est-un-petit-exploit-de-realiser-des-jeux-100-accessibles-en-transports-en-commun-se-felicite-valerie-pecresse_6707670.html)
 append_entries: 1
 Finish: 2024-08-05 12:43:50.172022
+------------------------------------------------------
+Started: 2024-08-06 01:22:55.472572
+Existing_entries: 368
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-08-06 01:22:55.834512
