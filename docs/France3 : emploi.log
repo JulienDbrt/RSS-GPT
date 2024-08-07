@@ -2136,3 +2136,12 @@ Existing_entries: 330
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-08-06 12:45:10.116121
+------------------------------------------------------
+Started: 2024-08-07 01:22:00.807400
+Existing_entries: 330
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 367
+Summarized using GPT-4o-mini
+Append: [ExxonMobil : les syndicats refusent l'offre de PSE et annoncent un nouveau mouvement de grève](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/exxonmobil-les-syndicats-refusent-l-offre-de-pse-et-annoncent-un-nouveau-mouvement-de-greve-3014837.html)
+append_entries: 1
+Finish: 2024-08-07 01:22:04.747914

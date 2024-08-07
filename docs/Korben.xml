@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Descent 3 – Le code source rendu public !</title>
 <link>https://korben.info/decouvrez-descent-3-code-source-public.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Descent 3, code source, GitHub, jeux vidéo, communauté
 
-<br><br>Summary: Le code source de Descent 3, un classique du jeu de tir à la première personne sorti en 1999, vient d'être rendu public sur GitHub, une annonce très attendue par les fans. Ce jeu emblématique permet aux joueurs de piloter un vaisseau spatial dans des environnements 3D avec une liberté de mouvement inédite à l'époque. Avec des graphismes impressionnants et une bande-son mémorable, Descent 3 a marqué les esprits. Désormais, le code complet est accessible, bien que quelques éléments propriétaires aient été retirés. Cela ouvre la voie à une préservation du jeu et à de potentielles mises à jour par une communauté de passionnés. Les moddeurs et les développeurs peuvent analyser le moteur 3D et créer de nouveaux contenus. Les développeurs promettent de nettoyer et commenter le code pour faciliter son utilisation. L'espoir d'une suite, un Descent 4 conçu par les fans, alimente l'excitation. Les joueurs sont encouragés à explorer le dépôt GitHub pour plonger dans cette aventure vidéoludique. En attendant, il est temps de se replonger dans l'univers de Descent 3 et de réparer son vaisseau spatial ! <div>
+<br /><br />Summary: Le code source de Descent 3, un classique du jeu de tir à la première personne sorti en 1999, vient d'être rendu public sur GitHub, une annonce très attendue par les fans. Ce jeu emblématique permet aux joueurs de piloter un vaisseau spatial dans des environnements 3D avec une liberté de mouvement inédite à l'époque. Avec des graphismes impressionnants et une bande-son mémorable, Descent 3 a marqué les esprits. Désormais, le code complet est accessible, bien que quelques éléments propriétaires aient été retirés. Cela ouvre la voie à une préservation du jeu et à de potentielles mises à jour par une communauté de passionnés. Les moddeurs et les développeurs peuvent analyser le moteur 3D et créer de nouveaux contenus. Les développeurs promettent de nettoyer et commenter le code pour faciliter son utilisation. L'espoir d'une suite, un Descent 4 conçu par les fans, alimente l'excitation. Les joueurs sont encouragés à explorer le dépôt GitHub pour plonger dans cette aventure vidéoludique. En attendant, il est temps de se replonger dans l'univers de Descent 3 et de réparer son vaisseau spatial ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="960" src="https://korben.info/app/uploads/2024/04/ss_59396a5d893e21b52e8916b855990c40b41bf53f.1920x1080.jpg" width="1280" /></p>
 <p>Ça y est les amis, le moment que tous les fans de <strong>Descent</strong> attendaient est enfin arrivé ! Le code source de <strong>Descent 3</strong>, ce monument du jeu de tir à la première personne sorti en 1999, vient d&rsquo;être rendu public sur GitHub. C&rsquo;est Noël avant l&rsquo;heure !</p>
 
@@ -52,9 +53,7 @@
 <p>Sur ce, je vous laisse, j&rsquo;ai un <strong>vaisseau spatial</strong> à réparer moi !</p>
 ]]></content:encoded>
 <pubDate>Tue, 06 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 06 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Pylyzer – Une analyse statique Python 100 fois plus rapide !</title>
 <link>https://korben.info/pylyzer-analyse-statique-python-rust.html</link>

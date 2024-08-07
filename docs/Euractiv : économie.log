@@ -1622,3 +1622,18 @@ Summarized using GPT-4o-mini
 Append: [Les marchés financiers emportés par les craintes de récession aux Etats-Unis](https://www.euractiv.fr/section/economie/news/les-marches-financiers-emportes-par-les-craintes-de-recession-aux-etats-unis/)
 append_entries: 1
 Finish: 2024-08-06 12:42:47.565070
+------------------------------------------------------
+Started: 2024-08-07 01:20:06.229713
+Existing_entries: 172
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [Les Bourses encore instables après la panique de la veille](https://www.euractiv.fr/section/economie/news/les-bourses-encore-instables-apres-la-panique-de-la-veille/)
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [Un retour de Donald Trump pourrait ébranler l’ordre économique mondial actuel](https://www.euractiv.fr/section/etats-unis/news/un-retour-de-donald-trump-pourrait-ebranler-lordre-economique-mondial-actuel/)
+Token length: 269
+Summarized using GPT-4o-mini
+Append: [Polluants éternels : le rôle des industriels Daikin et Arkema près de Lyon sera expertisé](https://www.euractiv.fr/section/sante/news/polluants-eternels-le-role-des-industriels-daikin-et-arkema-pres-de-lyon-sera-expertise/)
+append_entries: 3
+Finish: 2024-08-07 01:20:19.679103

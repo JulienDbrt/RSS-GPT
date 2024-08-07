@@ -1791,3 +1791,12 @@ Summarized using GPT-4o-mini
 Append: [Les ETF Bitcoin et Ether ont enregistré 6 milliards de dollars de volumes lundi](https://www.bfmtv.com/crypto/les-etf-bitcoin-et-ether-ont-enregistre-6-milliards-de-dollars-de-volumes-lundi_AV-202408060293.html)
 append_entries: 1
 Finish: 2024-08-06 12:39:58.887484
+------------------------------------------------------
+Started: 2024-08-07 01:17:59.696313
+Existing_entries: 215
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 125
+Summarized using GPT-4o-mini
+Append: [Après la crise de lundi sur le marché des cryptos, c’est le solana qui a le mieux rebondi](https://www.bfmtv.com/crypto/apres-la-crise-de-lundi-sur-le-marche-des-cryptos-c-est-le-solana-qui-a-le-mieux-rebondi_AV-202408060446.html)
+append_entries: 1
+Finish: 2024-08-07 01:18:02.742216

@@ -1636,3 +1636,9 @@ Summarized using GPT-4o-mini
 Append: [Le fondateur de Poches & Fils explique comment la compagnie a failli fermer: «Il y a beaucoup de moments tough»](https://www.journaldemontreal.com/2024/08/05/le-fondateur-de-poche-et-fils-explique-comment-la-compagnie-a-failli-fermer-il-y-a-beaucoup-de-moments-tough)
 append_entries: 1
 Finish: 2024-08-06 12:45:50.090747
+------------------------------------------------------
+Started: 2024-08-07 01:22:22.311505
+Existing_entries: 152
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-08-07 01:22:22.535697

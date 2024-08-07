@@ -1542,3 +1542,12 @@ Summarized using GPT-4o-mini
 Append: [MÉTÉO. Les fortes chaleurs fragilisent le réseau électrique et occasionnent des coupures de courant](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/meteo-les-fortes-chaleurs-fragilisent-le-reseau-electrique-et-occasionnent-des-coupures-de-courant-3014720.html)
 append_entries: 1
 Finish: 2024-08-06 12:44:19.378145
+------------------------------------------------------
+Started: 2024-08-07 01:21:43.106585
+Existing_entries: 132
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 367
+Summarized using GPT-4o-mini
+Append: [ExxonMobil : les syndicats refusent l'offre de PSE et annoncent un nouveau mouvement de grève](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/exxonmobil-les-syndicats-refusent-l-offre-de-pse-et-annoncent-un-nouveau-mouvement-de-greve-3014837.html)
+append_entries: 1
+Finish: 2024-08-07 01:21:47.182552
