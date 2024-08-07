@@ -3368,3 +3368,12 @@ Summarized using GPT-4o-mini
 Append: [Vent de panique sur les cryptomonnaies](https://www.radiolac.ch/actualite/suisse/vent-de-panique-sur-les-cryptomonnaies/)
 append_entries: 3
 Finish: 2024-08-07 01:14:01.352875
+------------------------------------------------------
+Started: 2024-08-07 12:33:28.207611
+Existing_entries: 766
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Le bitcoin chute sous la barre des 50.000 dollars](https://www.lefigaro.fr/conjoncture/le-bitcoin-chute-sous-la-barre-des-50-000-dollars-20240805)
+append_entries: 1
+Finish: 2024-08-07 12:33:33.033216

@@ -4,6 +4,83 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Marta – Un gestionnaire de fichiers rapide et personnalisable pour macOS</title>
+<link>https://korben.info/marta-gestionnaire-fichiers-mac-rapide-personnalisable.html</link>
+<guid>https://korben.info/marta-gestionnaire-fichiers-mac-rapide-personnalisable.html</guid>
+<content:encoded><![CDATA[
+<div> Marta, gestionnaire de fichiers, macOS, Swift, personnalisable  
+
+<br><br>Summary:  
+Marta est un gestionnaire de fichiers conçu pour macOS, entièrement développé en Swift, offrant une expérience utilisateur authentique et des performances supérieures à celles du Finder. L'application est hautement personnalisable, notamment en ce qui concerne les raccourcis clavier et les thèmes, qui peuvent aller jusqu'à être créés par les utilisateurs. Un des atouts majeurs de Marta est sa gestion des archives, permettant d'accéder à des fichiers dans des archives imbriquées sans extraction préalable. De plus, Marta propose une API de plugins en Lua, permettant d'ajouter des fonctionnalités et de partager des scripts avec la communauté. Le panneau d'actions, accessible via ⌘⇧P, regroupe toutes les commandes, tandis qu'un moteur de recherche performant facilite la localisation des fichiers. Les raccourcis clavier, principalement inspirés du Finder, incluent les flèches pour naviguer, Entrée pour ouvrir un fichier, et la barre d’espace pour un aperçu rapide. L'application permet aussi d'ouvrir plusieurs fenêtres, afficher des fichiers cachés et propose un aperçu des fichiers au survol. Un terminal intégré est accessible via ⌘O, renforçant ainsi la productivité de l'utilisateur. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="257" src="https://korben.info/app/uploads/2024/04/SCR-20240416-qx4.webp" width="931" /></p>
+<p>Voici un gestionnaire de fichiers pour macOS qui va vous faire oublier le Finder et dont le petit nom est <strong><a href="https://marta.sh/" rel="noopener" target="_blank">Marta</a></strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-140355515" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Il s&rsquo;agit d&rsquo;une application <strong>100% native</strong> pour Mac, entièrement développée en Swift, ce qui permet d&rsquo;avoir une expérience authentiquement macOS avec d&rsquo;excellentes perfs, bien plus qu&rsquo;avec le Finder. Marta est également entièrement personnalisable, surtout au niveau des contrôles clavier. Il y a également des thèmes plutôt joli et si le coeur vous en dit, vous pouvez même concevoir le vôtre aux petits oignons.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-159288" height="296" src="https://korben.info/app/uploads/2024/04/themes.gif" style="width: 462px; height: auto;" width="600" /></figure></div>
+
+
+<p>Concernant les archives genre zip et compagnie, ce Finder nouvelle génération les gère comme si c&rsquo;étaient de simples dossiers, ce qui permet d&rsquo;ouvrir et modifier des fichiers dans des archives imbriquées sans même avoir à les extraire.</p>
+
+
+
+<p>Marta dispose aussi d&rsquo;une API de plugins en Lua ce qui vous permet d&rsquo;étendre ses fonctionnalités comme on le ferait avec OBS pour ceux qui le scriptent un peu. Comme ça, vous pouvez créer vos propres commandes et les partager avec la communauté si le coeur vous en dit.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159290" height="634" src="https://korben.info/app/uploads/2024/04/marta-1024x634.webp" width="1024" /></figure></div>
+
+
+<p>Avec le panneau d&rsquo;actions, accessible via <code>⌘⇧P</code> (CMD MAJ P), vous aurez accès à toutes les commandes en un clin d&rsquo;œil et grâce à son moteur de recherche ultra performant, vous trouvez vos fichiers en un éclair, que ce soit avec une simple chaîne de caractères ou une expression régulière.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2114279978" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Voici quelques-uns des raccourcis clavier les plus utiles qui sont calqués pour la plupart sur ce qu&rsquo;offre le Finder d&rsquo;Apple :</p>
+
+
+
+<ul class="wp-block-list">
+<li>Les flèches pour naviguer dans vos dossiers</li>
+
+
+
+<li><code>Entrée</code> pour ouvrir un fichier</li>
+
+
+
+<li><code>Retour arrière</code> pour remonter d&rsquo;un niveau</li>
+
+
+
+<li><code>Barre d'espace</code> pour avoir un aperçu du fichier sans l&rsquo;ouvrir</li>
+
+
+
+<li><code>⌘ Entrée</code> pour ouvrir le fichier avec l&rsquo;application de votre choix, sans toucher à la souris</li>
+</ul>
+
+
+
+<p>Et si vous avez besoin d&rsquo;ouvrir plusieurs fenêtres et onglets ou afficher les fichiers cachés, c&rsquo;est également possible avec un raccourci clavier. Vous ne toucherez quasiment plus à la souris avec cet outil.</p>
+
+
+
+<p>Marta vous offre même un aperçu des fichiers en survolant simplement le nom, et vous pouvez choisir le type d&rsquo;aperçu avec <code>⇧ Espace</code> et y&rsquo;a même un terminal intégré directement dans l&rsquo;application que vous pouvez appeler avec la commande <code>⌘O</code>. C&rsquo;est super pratique !</p>
+
+
+
+<p>Découvrez Marta <a href="https://marta.sh/" rel="noopener" target="_blank">par vous-même ici</a>. Vous devriez gagner un peu en productivité 🙂</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 07 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Descent 3 – Le code source rendu public !</title>

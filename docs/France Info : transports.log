@@ -2258,3 +2258,12 @@ Existing_entries: 368
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-08-07 01:20:50.548290
+------------------------------------------------------
+Started: 2024-08-07 12:42:17.882264
+Existing_entries: 368
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [Trottinettes : à Nice, des contrôles stricts](https://www.francetvinfo.fr/economie/transports/trottinettes-electriques/trottinettes-a-nice-des-controles-stricts_6711858.html)
+append_entries: 1
+Finish: 2024-08-07 12:42:23.764768

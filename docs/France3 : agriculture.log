@@ -3160,3 +3160,18 @@ Summarized using GPT-4o-mini
 Append: ["On a vu baisser les dégâts liés aux sangliers dans des départements dans lesquels il est très chassé" : pourquoi continuent-ils à se multiplier ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loir-cher/on-a-vu-baisser-les-degats-lies-aux-sangliers-dans-des-departements-dans-lesquels-il-est-tres-chasse-pourquoi-continuent-ils-a-se-multiplier-3004010.html)
 append_entries: 2
 Finish: 2024-08-07 01:21:56.277907
+------------------------------------------------------
+Started: 2024-08-07 12:43:29.125199
+Existing_entries: 669
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 323
+Summarized using GPT-4o-mini
+Append: ["Cette année, c'est une véritable catastrophe", les algues vertes étouffent les huîtres dans la baie de Morlaix](https://france3-regions.francetvinfo.fr/bretagne/finistere/morlaix/cette-annee-c-est-une-veritable-catastrophe-les-algues-vertes-etouffent-les-huitres-dans-la-baie-de-morlaix-3015188.html)
+Token length: 290
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGE. Maladie de la langue bleue : "c'est une progression très rapide !" constatent les éleveurs](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/temoignage-maladie-de-la-langue-bleue-c-est-une-progression-tres-rapide-constatent-les-eleveurs-3014876.html)
+Token length: 291
+Summarized using GPT-4o-mini
+Append: [Licenciement du délégué CGT Christian Porta : le géant agricole InVivo doit lui verser 525.000 euros](https://france3-regions.francetvinfo.fr/grand-est/moselle/forbach/licenciement-du-delegue-cgt-christian-porta-le-geant-agricole-invivo-doit-lui-verser-525-000-euros-3014960.html)
+append_entries: 3
+Finish: 2024-08-07 12:43:44.582654

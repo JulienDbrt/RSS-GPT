@@ -2281,3 +2281,15 @@ Summarized using GPT-4o-mini
 Append: ["Les salariés sont épuisés"… la CGT continue de protester contre la réorganisation de La Poste dans l’ouest de l’Aveyron](https://www.ladepeche.fr/2024/08/06/les-salaries-sont-epuises-la-cgt-continue-de-protester-contre-la-reorganisation-de-la-poste-dans-louest-de-laveyron-12127469.php)
 append_entries: 1
 Finish: 2024-08-07 01:24:11.165879
+------------------------------------------------------
+Started: 2024-08-07 12:46:37.590498
+Existing_entries: 373
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Il fracture le nez de son apprenti en se livrant à une démonstration de boxe : son entreprise le licencie, il saisit les prud’hommes](https://www.ladepeche.fr/2024/08/07/il-fracture-le-nez-de-son-apprenti-en-se-livrant-a-une-demonstration-de-boxe-son-entreprise-le-licencie-il-saisit-les-prudhommes-12128830.php)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/08/07/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12128456.php)
+append_entries: 2
+Finish: 2024-08-07 12:46:50.957858

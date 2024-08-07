@@ -1464,3 +1464,12 @@ Existing_entries: 104
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-08-07 01:22:05.162426
+------------------------------------------------------
+Started: 2024-08-07 12:43:57.789889
+Existing_entries: 104
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 174
+Summarized using GPT-4o-mini
+Append: [Immobilier : augmentation des prix, construction "à l'agonie"... quelles sont les tendances de l'été 2024 ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/immobilier-augmentation-des-prix-construction-a-l-agonie-quelles-sont-les-tendances-de-l-ete-2024-3013550.html)
+append_entries: 1
+Finish: 2024-08-07 12:44:05.850257
