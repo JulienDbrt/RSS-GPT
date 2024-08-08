@@ -1361,3 +1361,12 @@ Existing_entries: 79
 Fetching from https://www.euractiv.fr/sections/transport/feed/
 append_entries: 0
 Finish: 2024-08-08 01:21:35.725769
+------------------------------------------------------
+Started: 2024-08-08 12:37:57.554033
+Existing_entries: 79
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [JO-2024 : pas de « taxis volants » dans le ciel parisien](https://www.euractiv.fr/section/mobilite-du-futur/news/jo-2024-pas-de-taxis-volants-dans-le-ciel-parisien/)
+append_entries: 1
+Finish: 2024-08-08 12:38:02.336241

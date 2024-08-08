@@ -7170,3 +7170,24 @@ Summarized using GPT-4o-mini
 Append: [Les marchés européens remontent nettement, calmés par la Banque du Japon](https://www.allnews.ch/content/march%C3%A9s/les-march%C3%A9s-europ%C3%A9ens-remontent-nettement-calm%C3%A9s-par-la-banque-du-japon)
 append_entries: 6
 Finish: 2024-08-08 01:13:38.648421
+------------------------------------------------------
+Started: 2024-08-08 12:32:07.776285
+Existing_entries: 1006
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 71
+Summarized using GPT-4o-mini
+Append: [Les cryptomonnaies concurrencent de plus en plus les actions ou les ETF](https://www.boursier.com/patrimoine/epargne/actualites/les-cryptomonnaies-concurrencent-de-plus-en-plus-les-actions-ou-les-etf-8870.html)
+Token length: 95
+Summarized using GPT-4o-mini
+Append: [Melanion Capital, dirigé par Jad Comair, démocratise l’investissement sur la thématique Bitcoin](https://www.capital.fr/crypto/melanion-capital-dirige-par-jad-comair-democratise-linvestissement-sur-la-thematique-bitcoin-1500235)
+Token length: 67
+Summarized using GPT-4o-mini
+Append: [Les jeunes Français et les cryptomonnaies : une adoption croissante](https://www.economiematin.fr/les-jeunes-francais-et-les-cryptomonnaies-une-adoption-croissante)
+Token length: 67
+Summarized using GPT-4o-mini
+Append: [Bitcoin grimpe de 5% à 57 500$, XRP explose de 18% après gain légal](https://www.nouvelles-du-monde.com/bitcoin-grimpe-de-5-a-57-500-xrp-explose-de-18-apres-gain-legal/)
+Token length: 76
+Summarized using GPT-4o-mini
+Append: [Matthieu Dischamps, directeur général France et Belgique de Powerdot - 08/08](https://www.bfmtv.com/economie/replay-emissions/good-morning-business/matthieu-dischamps-directeur-general-france-et-belgique-de-powerdot-08-08_EN-202408080081.html)
+append_entries: 5
+Finish: 2024-08-08 12:32:28.195991

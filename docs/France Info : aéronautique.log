@@ -1376,3 +1376,21 @@ Existing_entries: 64
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-08-08 01:22:07.323003
+------------------------------------------------------
+Started: 2024-08-08 12:38:43.276040
+Existing_entries: 64
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Pas de taxi volant aux JO de Paris 2024 : "Nous conservons l'espoir de faire voler cet engin au-dessus de la Seine", annonce le patron d'ADP](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/pas-de-taxi-volant-aux-jo-de-paris-2024-nous-conservons-l-espoir-de-faire-voler-cet-engin-au-dessus-de-la-seine-annonce-le-patron-d-adp_6714144.html)
+Token length: 115
+Summarized using GPT-4o-mini
+Append: [Taxis volants, gestion des aéroports pendant les JO... Le "8h30 franceinfo" d'Augustin de Romanet](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/taxis-volants-gestion-des-aeroports-pendant-les-jo-le-8h30-franceinfo-d-augustin-de-romanet_6673329.html)
+Token length: 160
+Summarized using GPT-4o-mini
+Append: [Le nouveau patron de Boeing arrive à la tête de l’entreprise aujourd’hui](https://www.francetvinfo.fr/replay-radio/le-brief-eco/le-nouveau-patron-de-boeing-arrive-a-la-tete-de-l-entreprise-aujourd-hui_6673161.html)
+Token length: 208
+Summarized using GPT-4o-mini
+Append: [Les "taxis volants" ne voleront pas à Paris pendant les Jeux olympiques](https://www.francetvinfo.fr/les-jeux-olympiques/jo-2024-pas-de-taxis-volants-a-paris-pendant-les-jeux-olympique-faute-de-certification_6713931.html)
+append_entries: 4
+Finish: 2024-08-08 12:38:57.751062

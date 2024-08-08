@@ -3389,3 +3389,15 @@ Summarized using GPT-4o-mini
 Append: [Cryptomonnaies : le Bitcoin connaît sa plus forte baisse depuis deux ans](https://www.leparisien.fr/economie/cryptomonnaies-le-bitcoin-connait-sa-plus-forte-baisse-depuis-deux-ans-05-08-2024-O2MS5C7XTNDTHJHL7AKYEOQ7NE.php)
 append_entries: 2
 Finish: 2024-08-08 01:13:50.128397
+------------------------------------------------------
+Started: 2024-08-08 12:32:28.600373
+Existing_entries: 769
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Les nouveaux acheteurs de bitcoins ont cédé à la panique - Be-Crypto](https://be-crypto.lesoir.be/fr/marches/les-nouveaux-acheteurs-de-bitcoins-ont-cede-a-la-panique)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Ripple condamné à une amende de 125 millions de dollars auprès de la SEC pour ventes abusives de jetons](https://www.bfmtv.com/crypto/ripple-condamne-a-une-amende-de-125-millions-de-dollars-aupres-de-la-sec-pour-ventes-abusives-de-jetons_AV-202408080300.html)
+append_entries: 2
+Finish: 2024-08-08 12:32:42.715767

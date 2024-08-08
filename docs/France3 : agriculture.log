@@ -3190,3 +3190,12 @@ Summarized using GPT-4o-mini
 Append: [Fièvre catarrhale ovine : un foyer de contamination localisé près de Maubeuge, le premier en France](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/fievre-catarrhale-ovine-un-foyer-de-contamination-localise-pres-de-maubeuge-le-premier-en-france-3015404.html)
 append_entries: 3
 Finish: 2024-08-08 01:23:42.836680
+------------------------------------------------------
+Started: 2024-08-08 12:39:44.717539
+Existing_entries: 675
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 329
+Summarized using GPT-4o-mini
+Append: [Un robot viticole, électrique et autonome pour désherber les vignes](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/un-robot-viticole-electrique-et-autonome-pour-desherber-les-vignes-3015362.html)
+append_entries: 1
+Finish: 2024-08-08 12:39:47.458747
