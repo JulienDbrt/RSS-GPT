@@ -1802,3 +1802,9 @@ Summarized using GPT-4o-mini
 Append: [Déjà 3 milliards perdus dans les embouteillages en 2024](https://www.lalibre.be/belgique/mobilite/2024/08/07/deja-3-milliards-perdus-dans-les-embouteillages-en-2024-H3NO442KDZCOHPN5KSWZE6XLXM/)
 append_entries: 2
 Finish: 2024-08-07 12:47:48.031686
+------------------------------------------------------
+Started: 2024-08-08 01:27:10.597206
+Existing_entries: 234
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-08-08 01:27:10.681407

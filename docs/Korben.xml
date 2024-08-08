@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Marta – Un gestionnaire de fichiers rapide et personnalisable pour macOS</title>
 <link>https://korben.info/marta-gestionnaire-fichiers-mac-rapide-personnalisable.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Marta, gestionnaire de fichiers, macOS, Swift, personnalisable  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Marta est un gestionnaire de fichiers conçu pour macOS, entièrement développé en Swift, offrant une expérience utilisateur authentique et des performances supérieures à celles du Finder. L'application est hautement personnalisable, notamment en ce qui concerne les raccourcis clavier et les thèmes, qui peuvent aller jusqu'à être créés par les utilisateurs. Un des atouts majeurs de Marta est sa gestion des archives, permettant d'accéder à des fichiers dans des archives imbriquées sans extraction préalable. De plus, Marta propose une API de plugins en Lua, permettant d'ajouter des fonctionnalités et de partager des scripts avec la communauté. Le panneau d'actions, accessible via ⌘⇧P, regroupe toutes les commandes, tandis qu'un moteur de recherche performant facilite la localisation des fichiers. Les raccourcis clavier, principalement inspirés du Finder, incluent les flèches pour naviguer, Entrée pour ouvrir un fichier, et la barre d’espace pour un aperçu rapide. L'application permet aussi d'ouvrir plusieurs fenêtres, afficher des fichiers cachés et propose un aperçu des fichiers au survol. Un terminal intégré est accessible via ⌘O, renforçant ainsi la productivité de l'utilisateur. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="257" src="https://korben.info/app/uploads/2024/04/SCR-20240416-qx4.webp" width="931" /></p>
 <p>Voici un gestionnaire de fichiers pour macOS qui va vous faire oublier le Finder et dont le petit nom est <strong><a href="https://marta.sh/" rel="noopener" target="_blank">Marta</a></strong>.</p>
@@ -79,9 +80,7 @@ Marta est un gestionnaire de fichiers conçu pour macOS, entièrement développ�
 <p>Découvrez Marta <a href="https://marta.sh/" rel="noopener" target="_blank">par vous-même ici</a>. Vous devriez gagner un peu en productivité 🙂</p>
 ]]></content:encoded>
 <pubDate>Wed, 07 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 07 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Descent 3 – Le code source rendu public !</title>
 <link>https://korben.info/decouvrez-descent-3-code-source-public.html</link>

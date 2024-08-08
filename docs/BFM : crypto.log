@@ -1809,3 +1809,9 @@ Summarized using GPT-4o-mini
 Append: [Ripple, qui émet la cryptomonnaie XRP, lance une compétition pour tester la fiabilité de son réseau](https://www.bfmtv.com/crypto/ripple-qui-emet-la-cryptomonnaie-xrp-lance-une-competition-pour-tester-la-fiabilite-de-son-reseau_AV-202408070268.html)
 append_entries: 1
 Finish: 2024-08-07 12:39:13.945798
+------------------------------------------------------
+Started: 2024-08-08 01:19:37.350664
+Existing_entries: 217
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-08-08 01:19:37.439604

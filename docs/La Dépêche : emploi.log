@@ -2293,3 +2293,15 @@ Summarized using GPT-4o-mini
 Append: [Des offres d’emploi à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/08/07/des-offres-demploi-a-lannemezan-et-dans-le-secteur-12128456.php)
 append_entries: 2
 Finish: 2024-08-07 12:46:50.957858
+------------------------------------------------------
+Started: 2024-08-08 01:26:40.805608
+Existing_entries: 375
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 103
+Summarized using GPT-4o-mini
+Append: ["Préjudice écologique"… Plusieurs associations de défense de l’environnement tirent la sonnette d’alarme sur la prolifération de l’algue verte](https://www.ladepeche.fr/2024/08/07/prejudice-ecologique-plusieurs-associations-de-defense-de-lenvironnement-tirent-la-sonnette-dalarme-sur-la-proliferation-de-lalgue-verte-12129043.php)
+Token length: 218
+Summarized using GPT-4o-mini
+Append: [Commerce : Marie Blachère et Mangeons Frais ouvrent leurs portes à Revel](https://www.ladepeche.fr/2024/08/07/commerce-marie-blachere-et-mangeons-frais-ouvrent-leurs-portes-a-revel-12129020.php)
+append_entries: 2
+Finish: 2024-08-08 01:26:59.321328

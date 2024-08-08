@@ -4903,3 +4903,21 @@ Summarized using GPT-4o-mini
 Append: [Les Bourses mondiales respirent : la Banque du Japon ne relève pas son taux (pour l'instant)](https://www.latribune.fr/economie/international/les-bourses-mondiales-respirent-la-banque-du-japon-ne-releve-pas-son-taux-1003870.html)
 append_entries: 2
 Finish: 2024-08-07 12:47:59.282988
+------------------------------------------------------
+Started: 2024-08-08 01:27:11.226427
+Existing_entries: 1002
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 275
+Summarized using GPT-4o-mini
+Append: [Italie : le gouvernement de Giorgia Meloni double un impôt sur les milliardaires](https://www.latribune.fr/economie/union-europeenne/italie-le-gouvernement-de-giorgia-meloni-double-un-impot-sur-les-milliardaires-1003902.html)
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Faillite d'un assureur vie luxembourgeois : 30.000 contrats d'épargnants français gelés](https://www.latribune.fr/entreprises-finance/banques-finance/industrie-financiere/faillite-d-un-assureur-vie-luxembourgeois-30-000-contrats-d-epargnants-francais-geles-1003900.html)
+Token length: 295
+Summarized using GPT-4o-mini
+Append: [Tensions au Moyen-Orient : la Turquie souhaite construire son propre « Dôme de fer »](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/tensions-au-moyen-orient-la-turquie-souhaite-construire-son-propre-dome-de-fer-1003897.html)
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [Non, l'Italie ne va pas taxer les superprofits des banques mais...](https://www.latribune.fr/economie/union-europeenne/non-l-italie-ne-va-pas-taxer-les-superprofits-des-banques-mais-1003893.html)
+append_entries: 4
+Finish: 2024-08-08 01:27:36.247750

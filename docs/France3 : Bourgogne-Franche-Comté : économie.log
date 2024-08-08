@@ -1956,3 +1956,9 @@ Summarized using GPT-4o-mini
 Append: ["Un voleur compulsif !" : un an avec sursis pour l'employé qui avait volé pour plus de 600 000 euros en bouteilles de vin](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/un-voleur-compulsif-un-an-avec-sursis-pour-l-employe-qui-avait-vole-pour-plus-de-600-000-euros-en-bouteilles-de-vin-3014984.html)
 append_entries: 1
 Finish: 2024-08-07 12:43:47.930808
+------------------------------------------------------
+Started: 2024-08-08 01:23:42.980786
+Existing_entries: 266
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-08-08 01:23:43.255444

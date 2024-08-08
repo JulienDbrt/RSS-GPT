@@ -1926,3 +1926,15 @@ Existing_entries: 256
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-07 12:43:28.765924
+------------------------------------------------------
+Started: 2024-08-08 01:23:11.808166
+Existing_entries: 256
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 279
+Summarized using GPT-4o-mini
+Append: [Votre machine à laver vient de vous lâcher ? Une association offre une seconde vie à votre électroménager](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/votre-machine-a-laver-vient-de-vous-lacher-une-association-offre-une-seconde-vie-a-votre-electromenager-2981573.html)
+Token length: 257
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024. Déjà plus de 6 tonnes d'invendus récoltés par la Banque alimentaire sur les sites olympiques d'Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-de-paris-2024-deja-plus-de-6-tonnes-d-invendus-recoltes-par-la-banque-alimentaire-sur-les-sites-olympiques-d-ile-de-france-3015290.html)
+append_entries: 2
+Finish: 2024-08-08 01:23:20.912044
