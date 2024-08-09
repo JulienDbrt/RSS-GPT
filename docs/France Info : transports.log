@@ -2285,3 +2285,9 @@ Summarized using GPT-4o-mini
 Append: [Les "taxis volants" ne voleront pas à Paris pendant les Jeux olympiques](https://www.francetvinfo.fr/les-jeux-olympiques/jo-2024-pas-de-taxis-volants-a-paris-pendant-les-jeux-olympique-faute-de-certification_6713931.html)
 append_entries: 1
 Finish: 2024-08-08 12:39:06.418924
+------------------------------------------------------
+Started: 2024-08-09 01:20:12.373905
+Existing_entries: 371
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-08-09 01:20:12.601351

@@ -18178,3 +18178,93 @@ Append: [Bollettino 31/2024](https://www.agcm.it:443/pubblicazioni/dettaglio?id=
 Append: [FTC Action Leads to Permanent Bans for Scammers Behind Sprawling Credit Repair Pyramid Scheme](https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-action-leads-permanent-bans-scammers-behind-sprawling-credit-repair-pyramid-scheme)
 append_entries: 64
 error when rendering xml, skip docs/Nouvelles Droits : consommation
+------------------------------------------------------
+Started: 2024-08-09 01:15:27.252777
+Existing_entries: 0
+Fetching from https://nouvelles.droit.org/categs/rss/1003
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [$con.titolo1](https://www.agcm.it:443/media-e-comunicazione/dettaglio?id=f9906f8b-03ff-4a5b-98d1-14a9dfb8aa80)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Pourquoi les tomates n’ont-elles plus de goût ?](https://www.60millions-mag.com/2024/08/08/pourquoi-les-tomates-n-ont-elles-plus-de-gout-23218)
+Token length: 93
+Summarized using GPT-4o-mini
+Append: [Séjour à l’hôpital : donnez votre avis sur les plateaux-repas](https://www.60millions-mag.com/2024/08/06/sejour-l-hopital-donnez-votre-avis-sur-les-plateaux-repas-23319)
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Grand Frais ajuste son offre de vins avec l'aide d'un sommelier de renom](https://www.lsa-conso.fr/grand-frais-ajuste-son-offre-de-vins-avec-l-aide-d-un-sommelier-de-renom,456335)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Découvrez le bunker d’Oakley installé pour les JO de Paris 2024](https://www.lsa-conso.fr/photos/decouvrez-le-bunker-d-oakley-installe-pour-les-jo-de-paris-2024,456764)
+Token length: 126
+Summarized using GPT-4o-mini
+Append: [Les marques de l'été : Birkenstock, la sandale orthopédique devenue branchée](https://www.lsa-conso.fr/les-marques-de-l-ete-birkenstock-la-sandale-orthopedique-devenue-branchee,456546)
+Token length: 3133
+Summarized using GPT-4o-mini
+Append: [Pratique de "shrinkflation" ou "réduflation" : les distributeurs doivent vous informer](https://www.inc-conso.fr/content/pratique-de-shrinkflation-ou-reduflation-les-distributeurs-doivent-vous-informer)
+Token length: 398
+Summarized using GPT-4o-mini
+Append: [Risques multiples et santé des forêts](https://agriculture.gouv.fr/risques-multiples-et-sante-des-forets)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Comment payer ses factures par téléphone ?](https://www.service-public.fr/particuliers/vosdroits/F36650)
+Token length: 94
+Summarized using GPT-4o-mini
+Append: [Comment payer ses factures en ligne ?](https://www.service-public.fr/particuliers/vosdroits/F34276)
+Append: [Assurance du logement par le propriétaire](https://www.service-public.fr/particuliers/vosdroits/F2023)
+Append: [Patrice Laffont : l'iconique présentateur TV est mort](https://www.senioractu.com/Patrice-Laffont-l-iconique-presentateur-TV-est-mort_a25930.html)
+Append: [$con.titolo1](https://www.agcm.it:443/media-e-comunicazione/dettaglio?id=4999b628-75a9-41e7-9456-7ee433a60f24)
+Append: [Vente d’alcool aux mineurs : interdite, mais bien trop fréquente](https://www.60millions-mag.com/2024/08/08/vente-d-alcool-aux-mineurs-interdite-mais-bien-trop-frequente-23325)
+Append: [Pour filtrer l’eau du robinet, quelles solutions sont les plus efficaces ?](https://www.60millions-mag.com/2024/08/07/pour-filtrer-l-eau-du-robinet-quelles-solutions-sont-les-plus-efficaces-23016)
+Append: [APHIS Announces Flexibility Allowing for Reuse of BRS Import Labels](https://www.dailyintakeblog.com/2024/08/aphis-announces-flexibility-allowing-for-reuse-of-brs-import-labels/)
+Append: [William Saurin lance ses premières assiettes micro-ondables trois en un](https://www.lsa-conso.fr/william-saurin-lance-ses-premieres-assiettes-micro-ondables-trois-en-un,456761)
+Append: [Decathlon, On, Asics... Les chaussures du futur s’exposent pendant les JO de Paris 2024](https://www.lsa-conso.fr/decathlon-on-asics-les-chaussures-du-futur-s-exposent-pendant-les-jo-paris-2024,456757)
+Append: [Comment l’intelligence artificielle et les influenceurs transforment nos manières de consommer ?](https://www.inc-conso.fr/content/comment-lintelligence-artificielle-et-les-influenceurs-transforment-nos-manieres-de)
+Append: [La cuisine](https://www.inc-conso.fr/content/la-cuisine)
+Append: [Organisation économique - Interprofessions](https://agriculture.gouv.fr/organisation-economique-interprofessions)
+Append: [Fiabilité - Fiabilité des smartphones - Encore loin du compte](https://www.quechoisir.org/fiabilite-fiabilite-smartphones-n2685/)
+Append: [Fiabilité - Fiabilité des imprimantes - Pas forcément fragiles !](https://www.quechoisir.org/fiabilite-fiabilite-imprimantes-n3573/)
+Append: [Fiabilité - Fiabilité des téléviseurs - Ils pourraient durer encore plus longtemps !](https://www.quechoisir.org/fiabilite-fiabilite-televiseurs-n10705/)
+Append: [Fiabilité - Fiabilité des tablettes tactiles - De grosses différences entre les marques](https://www.quechoisir.org/fiabilite-fiabilite-tablettes-tactiles-n9479/)
+Append: [Fiabilité - Fiabilité des ordinateurs portables - Ils fonctionnent pendant 8 ans](https://www.quechoisir.org/fiabilite-fiabilite-ordinateurs-portables-n10773/)
+Append: [Assurance habitation : qu'est-ce que la garantie responsabilité civile ?](https://www.service-public.fr/particuliers/vosdroits/F2123)
+Append: [Assurance auto : comment se déroule l'expertise ?](https://www.service-public.fr/particuliers/vosdroits/F31268)
+Append: [Assurance habitation : comment se déroule l'expertise ?](https://www.service-public.fr/particuliers/vosdroits/F3075)
+Append: [Comment fonctionne la garantie protection juridique ?](https://www.service-public.fr/particuliers/vosdroits/F3049)
+Append: [Le portail numérique France-Visas est maintenant pleinement déployé](https://www.service-public.fr/particuliers/actualites/A17574?xtor=RSS-111)
+Append: [Formalités des entreprises : un guichet unique au 1er janvier 2023](https://entreprendre.service-public.fr/actualites/A15691?xtor=RSS-111)
+Append: [Le dépistage de la drépanocytose est désormais systématique pour les nouveau-nés](https://www.service-public.fr/particuliers/actualites/A17573?xtor=RSS-111)
+Append: [NUOVA INDIZIONE GARA APERTA SOPRA SOGLIA PER SERVIZIO ASSICURATIVO DI COPERTURA RISCHIO MORTE E IPT DA MALATTIA E LONG TERM CARE - CIG B2AF42932A](https://www.agcm.it:443/gare?id=13de9d29-beb1-4fc9-bf38-6f1c989e4b69)
+Append: [Face aux incertitudes, investir dans l’or est-il encore un bon réflexe ?](https://www.60millions-mag.com/2024/08/07/face-aux-incertitudes-placer-son-epargne-dans-l-or-est-il-encore-un-bon-reflexe-23057)
+Append: [Commerce spécialisé : un mois de juillet négatif en particulier à Paris](https://www.lsa-conso.fr/commerce-specialise-un-mois-de-juillet-negatif-en-particulier-a-paris,456760)
+Append: [Les eaux se convertissent de plus en plus aux grands contenants](https://www.lsa-conso.fr/les-eaux-se-convertissent-de-plus-en-plus-aux-grands-contenants,456322)
+Append: [Bilan du dispositif d'aide au renouvellement forestier (2021-2023)](https://agriculture.gouv.fr/bilan-du-dispositif-daide-au-renouvellement-forestier-2021-2023)
+Append: [Sur la route des vins de France](https://agriculture.gouv.fr/sur-la-route-des-vins-de-france)
+Append: [Surendettement : rétablissement personnel sans liquidation judiciaire](https://www.service-public.fr/particuliers/vosdroits/F16978)
+Append: [Assurance décès : que faut-il déclarer dans un questionnaire médical ?](https://www.service-public.fr/particuliers/vosdroits/F22394)
+Append: [Assurance du locataire : assurances complémentaires facultatives](https://www.service-public.fr/particuliers/vosdroits/F1350)
+Append: [Faut-il assurer ses appareils portables (téléphone, tablette, ordinateur...) ?](https://www.service-public.fr/particuliers/vosdroits/F31419)
+Append: [Amende transactionnelle à l’encontre de la SAS CARREFOUR HYPERMARCHES](https://www.economie.gouv.fr/dgccrf/amende-transactionnelle-lencontre-de-la-sas-carrefour-hypermarches)
+Append: [FTC Sends Nearly $1.9 Million in Refunds to Customers Harmed by Hey Dude’s Violations of the Mail Order Rule](https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-sends-nearly-19-million-refunds-customers-harmed-hey-dudes-violations-mail-order-rule)
+Append: [Pour éviter l’accident cardiaque, surveillez bien vos dents !](https://www.60millions-mag.com/2024/08/06/pour-eviter-l-accident-cardiaque-surveillez-bien-vos-dents-23114)
+Append: [FDA to Hold Public Meeting on Post-Market Chemical Assessment](https://www.dailyintakeblog.com/2024/08/fda-to-hold-public-meeting-on-post-market-chemical-assessment/)
+Append: [Les marques de l’été : les cahiers de vacances, un rituel français de longue date](https://www.lsa-conso.fr/les-marques-de-l-ete-les-cahiers-de-vacances-un-rituel-francais-de-longue-date,456647)
+Append: [Résultats T2 2024 : Zalando confirme ses prévisions de croissance pour l'année 2024](https://www.lsa-conso.fr/zalando-confirme-ses-previsions-de-croissance-pour-l-annee-2024,456755)
+Append: [Le salon](https://www.inc-conso.fr/content/le-salon)
+Append: [Le jardin](https://www.inc-conso.fr/content/le-jardin)
+Append: [Numéros d'urgence, gestes qui sauvent, symboles des produits dangereux](https://www.inc-conso.fr/content/numeros-durgence-gestes-qui-sauvent-symboles-des-produits-dangereux)
+Append: [La chambre d'enfant](https://www.inc-conso.fr/content/la-chambre)
+Append: [La salle de bain](https://www.inc-conso.fr/content/la-salle-de-bain)
+Append: [A la maison, protégez vos enfants !](https://www.inc-conso.fr/content/la-maison-protegez-vos-enfants)
+Append: [Inde](https://agriculture.gouv.fr/inde)
+Append: [Demander un délai de paiement pour payer ses impôts](https://www.service-public.fr/particuliers/vosdroits/F3124)
+Append: [Plan d'épargne en actions (PEA)](https://www.service-public.fr/particuliers/vosdroits/F2385)
+Append: [Assurance auto : l'accident avec un animal sauvage est-il indemnisé ?](https://www.service-public.fr/particuliers/vosdroits/F21616)
+Append: [L'inclusion numérique : rendre les services de carte grise accessibles à tous par Soraya Anrar](https://www.senioractu.com/L-inclusion-numerique-rendre-les-services-de-carte-grise-accessibles-a-tous-par-Soraya-Anrar_a25927.html)
+Append: [Passage au Très haut débit : publication d'un guide pratique destiné aux entreprises](https://entreprendre.service-public.fr/actualites/A16650?xtor=RSS-111)
+Append: [Téléconsultations : toutes les plateformes ne se valent pas](https://www.60millions-mag.com/2024/08/06/teleconsultations-toutes-les-plateformes-ne-se-valent-pas-23155)
+Append: [Duyck, une brasserie centenaire et toujours plus durable](https://www.lsa-conso.fr/duyck-une-brasserie-centenaire-et-toujours-plus-durable,456334)
+Append: [Le propriétaire de Findus nomme Steven Libermann à sa présidence exécutive](https://www.lsa-conso.fr/steven-libermann-est-nomme-president-executif-du-proprietaire-de-findus,456753)
+append_entries: 64
+error when rendering xml, skip docs/Nouvelles Droits : consommation

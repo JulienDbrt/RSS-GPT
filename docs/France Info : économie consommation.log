@@ -6068,3 +6068,18 @@ Summarized using GPT-4o-mini
 Append: [Cinq questions sur la mauvaise récolte de blé tendre qui frappe les agriculteurs cette année](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/cinq-questions-sur-la-mauvaise-recolte-de-ble-tendre-qui-frappe-les-agriculteurs-cette-annee_6711915.html)
 append_entries: 7
 Finish: 2024-08-08 12:38:43.241883
+------------------------------------------------------
+Started: 2024-08-09 01:19:57.608886
+Existing_entries: 1007
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [Cinq questions sur la fièvre catarrhale ovine qui décime des élevages de moutons et inquiète les éleveurs](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/cinq-questions-sur-la-fievre-catarrhale-ovine-qui-decime-des-elevages-de-moutons-et-inquiete-les-eleveurs_6714060.html)
+Token length: 127
+Summarized using GPT-4o-mini
+Append: [JO 2024 : Bruno Le Maire favorable à la défiscalisation des primes des athlètes](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-2024-bruno-le-maire-favorable-a-la-defiscalisation-des-primes-des-athletes_6714750.html)
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Guerre en Ukraine : le prix du gaz européen à son plus haut de l'année, suite à l'incursion de Kiev en Russie](https://www.francetvinfo.fr/economie/energie/guerre-en-ukraine-le-prix-du-gaz-europeen-a-son-plus-haut-de-l-annee-suite-a-l-incursion-de-kiev-en-russie_6714633.html)
+append_entries: 3
+Finish: 2024-08-09 01:20:10.132928

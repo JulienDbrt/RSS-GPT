@@ -4151,3 +4151,24 @@ Summarized using GPT-4o-mini
 Append: [Mauvaises récoltes de blé: cela va-t-il faire gonfler le prix de la baguette?](https://www.bfmtv.com/economie/entreprises/agriculture/mauvaises-recoltes-de-ble-cela-va-t-il-faire-gonfler-le-prix-de-la-baguette_AV-202408080020.html)
 append_entries: 1
 Finish: 2024-08-08 12:36:26.283518
+------------------------------------------------------
+Started: 2024-08-09 01:18:01.137319
+Existing_entries: 1001
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 263
+Summarized using GPT-4o-mini
+Append: ["La sécurité aérienne ne cesse de s'améliorer": le risque de mourir en avion est de plus en plus faible](https://www.bfmtv.com/economie/entreprises/aeronautique/la-securite-aerienne-ne-cesse-de-s-ameliorer-le-risque-de-mourir-en-avion-est-de-plus-en-plus-faible_AD-202408080615.html)
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [Des géants des mers: une ONG dénonce les bateaux de croisière qui ont doublé de taille depuis 25 ans](https://www.bfmtv.com/economie/entreprises/transports/des-geants-des-mers-une-ong-denonce-les-bateaux-de-croisiere-qui-ont-double-de-taille-depuis-25-ans_AV-202408080409.html)
+Token length: 192
+Summarized using GPT-4o-mini
+Append: [Deliveroo est devenu rentable pour la première fois au premier semestre](https://www.bfmtv.com/economie/entreprises/deliveroo-est-devenu-rentable-pour-la-premiere-fois-au-premier-semestre_AD-202408080250.html)
+Token length: 61
+Summarized using GPT-4o-mini
+Append: [Air France et Transavia prolongent la suspension de leurs vols vers Beyrouth jusqu'à dimanche](https://www.bfmtv.com/economie/entreprises/transports/air-france-et-transavia-prolongent-la-suspension-de-leurs-vols-vers-beyrouth-jusqu-a-dimanche_AD-202408080252.html)
+Token length: 243
+Summarized using GPT-4o-mini
+Append: ["Dôme d'acier": la Turquie va construire son propre système de défense antimissile](https://www.bfmtv.com/economie/entreprises/defense/dome-d-acier-la-turquie-va-construire-son-propre-systeme-de-defense-antimissile_AD-202408080097.html)
+append_entries: 5
+Finish: 2024-08-09 01:18:19.908269

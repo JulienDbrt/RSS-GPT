@@ -1820,3 +1820,9 @@ Summarized using GPT-4o-mini
 Append: [Voici les routes les plus dangereuses de Bruxelles et de Wallonie](https://www.lalibre.be/belgique/mobilite/2024/08/08/voici-les-routes-les-plus-dangereuses-de-bruxelles-et-de-wallonie-OGO4HI66UNBOFJPTVX2FVCTRCU/)
 append_entries: 2
 Finish: 2024-08-08 12:42:38.152059
+------------------------------------------------------
+Started: 2024-08-09 01:23:30.813393
+Existing_entries: 236
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-08-09 01:23:31.200781
