@@ -4965,3 +4965,15 @@ Summarized using GPT-4o-mini
 Append: [#JEUNES       L’Afpa s’engage pour la jeunesse Corse](https://www.facebook.com/765411788918626/posts/1036158391843963)
 append_entries: 6
 Finish: 2024-08-09 01:16:57.850615
+------------------------------------------------------
+Started: 2024-08-09 12:34:36.132575
+Existing_entries: 1006
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 394
+Summarized using GPT-4o-mini
+Append: [Peut-on vendre son entreprise et réussir à en créer une autre  Réponse de Valentin Auble #podcast](https://www.youtube.com/watch?v=IEjOQQll-cY)
+Token length: 243
+Summarized using GPT-4o-mini
+Append: [Interdiction de baignade sur les plages de l'Arinella et de Ficaghjola](https://france3-regions.francetvinfo.fr/corse/haute-corse/bastia/interdiction-de-baignade-sur-les-plages-de-l-arinella-et-de-ficaghjola-3015893.html)
+append_entries: 2
+Finish: 2024-08-09 12:34:42.744622

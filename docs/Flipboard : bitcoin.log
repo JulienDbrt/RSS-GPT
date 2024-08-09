@@ -3413,3 +3413,15 @@ Summarized using GPT-4o-mini
 Append: [Cryptos : FTX devra verser 12,7 milliards de dollars à ses anciens clients](https://www.lesechos.fr/finance-marches/marches-financiers/cryptos-ftx-devra-verser-127-milliards-de-dollars-a-ses-anciens-clients-2113036)
 append_entries: 2
 Finish: 2024-08-09 01:14:27.519502
+------------------------------------------------------
+Started: 2024-08-09 12:32:17.158676
+Existing_entries: 773
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Mini-crise sur les marchés financiers: en quoi consiste le carry trade? - Le Temps](https://www.letemps.ch/economie/finance/mini-crise-sur-les-marches-financiers-en-quoi-consiste-le-carry-trade)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [FTX sommé de verser 12,7 milliards de dollars à ses anciens clients](https://www.bfmtv.com/crypto/ftx-somme-de-verser-12-7-milliards-de-dollars-a-ses-anciens-clients_AD-202408090314.html)
+append_entries: 2
+Finish: 2024-08-09 12:32:27.378347

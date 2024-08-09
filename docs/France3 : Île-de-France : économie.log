@@ -1956,3 +1956,15 @@ Summarized using GPT-4o-mini
 Append: ["On voulait juste faire une balade" : des militants anti-JO de Paris 2024 verbalisés à Saint-Denis, l’un d’entre eux placé en garde à vue](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/on-voulait-juste-faire-une-balade-des-militants-anti-jo-de-paris-2024-verbalises-a-saint-denis-l-un-d-entre-eux-place-en-garde-a-vue-3015785.html)
 append_entries: 2
 Finish: 2024-08-09 01:21:03.730842
+------------------------------------------------------
+Started: 2024-08-09 12:38:39.303276
+Existing_entries: 260
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [Trafic : le week-end classé rouge dans le sens des départs et des arrivées sur les routes franciliennes](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/trafic-le-week-end-classe-rouge-dans-le-sens-des-departs-et-des-arrivees-sur-les-routes-franciliennes-3015995.html)
+Token length: 249
+Summarized using GPT-4o-mini
+Append: [Métro en fauteuil : à quand une amélioration pour les personnes à mobilité réduite ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/metro-en-fauteuil-a-quand-une-amelioration-pour-les-personnes-a-mobilite-reduite-2982932.html)
+append_entries: 2
+Finish: 2024-08-09 12:38:48.329132
