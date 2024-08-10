@@ -1473,3 +1473,9 @@ Summarized using GPT-4o-mini
 Append: [Après plusieurs trimestres de hausse, le taux de chômage repart à la baisse](https://www.bfmtv.com/economie/emploi/apres-plusieurs-trimestres-de-hausse-le-taux-de-chomage-repart-a-la-baisse_AD-202408090116.html)
 append_entries: 1
 Finish: 2024-08-09 12:35:51.898249
+------------------------------------------------------
+Started: 2024-08-10 01:16:18.562055
+Existing_entries: 97
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-08-10 01:16:18.653958

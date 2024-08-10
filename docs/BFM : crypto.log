@@ -1848,3 +1848,9 @@ Summarized using GPT-4o-mini
 Append: [FTX sommé de verser 12,7 milliards de dollars à ses anciens clients](https://www.bfmtv.com/crypto/ftx-somme-de-verser-12-7-milliards-de-dollars-a-ses-anciens-clients_AD-202408090314.html)
 append_entries: 1
 Finish: 2024-08-09 12:35:48.772622
+------------------------------------------------------
+Started: 2024-08-10 01:16:18.435984
+Existing_entries: 222
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-08-10 01:16:18.504663

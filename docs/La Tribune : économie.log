@@ -4978,3 +4978,27 @@ Summarized using GPT-4o-mini
 Append: [Le taux de chômage connaît une légère baisse au deuxième trimestre](https://www.latribune.fr/economie/france/le-taux-de-chomage-connait-une-legere-baisse-au-deuxieme-trimestre-1003963.html)
 append_entries: 5
 Finish: 2024-08-09 12:42:03.855290
+------------------------------------------------------
+Started: 2024-08-10 01:20:14.495982
+Existing_entries: 1005
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 212
+Summarized using GPT-4o-mini
+Append: [Un avion s'écrase au Brésil avec 62 personnes à son bord](https://www.latribune.fr/entreprises-finance/services/transport-logistique/un-avion-s-ecrase-au-bresil-avec-62-personnes-a-son-bord-1003999.html)
+Token length: 257
+Summarized using GPT-4o-mini
+Append: [En économie de guerre, la Russie affiche toujours une croissance insolente](https://www.latribune.fr/economie/international/en-economie-de-guerre-la-russie-affiche-toujours-une-croissance-insolente-1003998.html)
+Token length: 358
+Summarized using GPT-4o-mini
+Append: [La croissance française portée par les Jeux olympiques](https://www.latribune.fr/sports/jeux-olympiques/la-croissance-francaise-portee-par-les-jeux-olympiques-1003993.html)
+Token length: 345
+Summarized using GPT-4o-mini
+Append: [Venezuela : l'opposition appelle Maduro à quitter le pouvoir et lui promet des garanties](https://www.latribune.fr/economie/international/venezuela-l-opposition-appelle-maduro-a-quitter-le-pouvoir-et-lui-promet-des-garanties-1003990.html)
+Token length: 428
+Summarized using GPT-4o-mini
+Append: [Énergie : pourquoi les prix du gaz repartent à la hausse](https://www.latribune.fr/climat/energie-environnement/energie-pourquoi-les-prix-du-gaz-repartent-a-la-hausse-1003983.html)
+Token length: 392
+Summarized using GPT-4o-mini
+Append: [Après l'interdiction d'Instagram en Turquie, des ONG dénoncent une « violation » de la liberté d'expression](https://www.latribune.fr/economie/international/apres-l-interdiction-d-instagram-en-turquie-des-ong-denoncent-une-violation-de-la-liberte-d-expression-1003982.html)
+append_entries: 6
+Finish: 2024-08-10 01:20:29.837773
