@@ -1674,3 +1674,12 @@ Existing_entries: 162
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-10 01:18:22.760960
+------------------------------------------------------
+Started: 2024-08-10 12:34:38.273187
+Existing_entries: 162
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 338
+Summarized using GPT-4o-mini
+Append: ["On me bride alors qu'il n'y a pas d'hyperfréquentation touristique", guerre des quotas sur l'île de Bréhat](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/on-me-bride-alors-qu-il-n-y-a-pas-d-hyperfrequentation-touristique-guerre-des-quotas-sur-l-ile-de-brehat-3016379.html)
+append_entries: 1
+Finish: 2024-08-10 12:34:41.430523

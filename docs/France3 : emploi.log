@@ -2199,3 +2199,15 @@ Summarized using GPT-4o-mini
 Append: [Rentrée scolaire : la ville de Reims recrute plus 800 vacataires](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/rentree-scolaire-la-ville-de-reims-recrute-plus-800-vacataires-3016055.html)
 append_entries: 1
 Finish: 2024-08-10 01:18:25.929867
+------------------------------------------------------
+Started: 2024-08-10 12:34:41.610666
+Existing_entries: 337
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 381
+Summarized using GPT-4o-mini
+Append: ["On m'empêche de travailler, par peur de la concurrence", un artisan boulanger en guerre avec un hypermarché](https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/on-m-empeche-de-travailler-par-peur-de-la-concurrence-un-artisan-boulanger-en-guerre-avec-un-hypermarche-3013034.html)
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Premier job d'été. "C'était le pied", Marius, cuisinier dans un des pays les plus heureux du monde](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/premier-job-d-ete-c-etait-le-pied-marius-cuisinier-dans-un-des-pays-les-plus-heureux-du-monde-3015719.html)
+append_entries: 2
+Finish: 2024-08-10 12:34:46.672112

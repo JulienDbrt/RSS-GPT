@@ -2146,3 +2146,15 @@ Summarized using GPT-4o-mini
 Append: [La France céréalière sonnée face à une moisson de blé historiquement faible](https://www.europe1.fr/economie/la-france-cerealiere-sonnee-face-a-une-moisson-de-ble-historiquement-faible-4261776)
 append_entries: 1
 Finish: 2024-08-10 01:17:15.302671
+------------------------------------------------------
+Started: 2024-08-10 12:33:26.417490
+Existing_entries: 314
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 304
+Summarized using GPT-4o-mini
+Append: [Vacances d'été : cette destination surprenante est la préférée des Français](https://www.europe1.fr/economie/vacances-dete-cette-destination-surprenante-est-la-preferee-des-francais-4261829)
+Token length: 321
+Summarized using GPT-4o-mini
+Append: [McDonald's : comment expliquer la baisse des ventes enregistrée par le géant Américain du fast-food ?](https://www.europe1.fr/economie/mcdonalds-comment-expliquer-la-baisse-des-ventes-enregistree-par-le-geant-americain-du-fast-food-4261865)
+append_entries: 2
+Finish: 2024-08-10 12:33:33.027354

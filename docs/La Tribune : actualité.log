@@ -6568,3 +6568,18 @@ Summarized using GPT-4o-mini
 Append: [Énergie : pourquoi les prix du gaz repartent à la hausse](https://www.latribune.fr/climat/energie-environnement/energie-pourquoi-les-prix-du-gaz-repartent-a-la-hausse-1003983.html)
 append_entries: 9
 Finish: 2024-08-10 01:20:52.275393
+------------------------------------------------------
+Started: 2024-08-10 12:36:19.571373
+Existing_entries: 1009
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [Bangladesh : poussé vers la sortie par les manifestants, le président de la Cour suprême démissionne](https://www.latribune.fr/economie/international/bangladesh-pousse-vers-la-sortie-par-les-manifestants-le-president-de-la-cour-supreme-demissionne-1004007.html)
+Token length: 353
+Summarized using GPT-4o-mini
+Append: [Crash d'un avion au Brésil : l'enquête démarre pour tenter de déterminer les causes du drame](https://www.latribune.fr/entreprises-finance/services/transport-logistique/crash-d-un-avion-au-bresil-l-enquete-demarre-pour-tenter-de-determiner-les-causes-du-drame-1004005.html)
+Token length: 442
+Summarized using GPT-4o-mini
+Append: [Comment le vignoble des Vins de Loire prépare la viticulture du futur](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/comment-le-vignoble-des-vins-de-loire-prepare-la-viticulture-du-futur-1002630.html)
+append_entries: 3
+Finish: 2024-08-10 12:36:30.573606

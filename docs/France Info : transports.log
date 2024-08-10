@@ -2306,3 +2306,15 @@ Existing_entries: 372
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-08-10 01:17:31.987138
+------------------------------------------------------
+Started: 2024-08-10 12:34:01.179691
+Existing_entries: 372
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [JO 2024 : les gestionnaires des transports franciliens se félicitent de leur bilan](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-2024-les-gestionnaires-des-transports-franciliens-se-felicitent-de-leur-bilan_6717852.html)
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Crash d'avion au Brésil : ce que l'on sait du drame qui a fait 61 morts près de Sao Paulo](https://www.francetvinfo.fr/monde/bresil/crash-d-avion-au-bresil-ce-que-l-on-sait-du-drame-qui-a-fait-61-morts-pres-de-sao-paulo_6717777.html)
+append_entries: 2
+Finish: 2024-08-10 12:34:05.434380

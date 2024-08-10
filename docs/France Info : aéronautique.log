@@ -1418,3 +1418,18 @@ Summarized using GPT-4o-mini
 Append: [On vous raconte comment deux astronautes américains sont coincés depuis deux mois dans la Station spatiale internationale](https://www.francetvinfo.fr/sciences/espace/on-vous-raconte-comment-deux-astronautes-americains-sont-coinces-depuis-deux-mois-dans-la-station-spatiale-internationale_6715908.html)
 append_entries: 1
 Finish: 2024-08-10 01:17:30.758471
+------------------------------------------------------
+Started: 2024-08-10 12:33:51.651561
+Existing_entries: 70
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Le crash d'un Osprey américain en 2023 était dû à des erreurs de pilotage et à un manque de sécurité, révèle le Pentagone à l'issue de l'enquête](https://www.francetvinfo.fr/economie/aeronautique/le-crash-d-un-osprey-americain-en-2023-etait-du-a-des-erreurs-de-pilotage-et-a-un-manque-de-securite-revele-le-pentagone-a-l-issue-de-l-enquete_6718059.html)
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Crash d'avion au Brésil : ce que l'on sait du drame qui a fait 61 morts près de Sao Paulo](https://www.francetvinfo.fr/monde/bresil/crash-d-avion-au-bresil-ce-que-l-on-sait-du-drame-qui-a-fait-61-morts-pres-de-sao-paulo_6717777.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Incendies : l'inquiétude sur l'état des Canadair vieillissants](https://www.francetvinfo.fr/meteo/canicule/incendies-l-inquietude-sur-l-etat-des-canadair-vieillissants_6717837.html)
+append_entries: 3
+Finish: 2024-08-10 12:34:00.386228
