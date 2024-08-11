@@ -2013,3 +2013,12 @@ Summarized using GPT-4o-mini
 Append: [15 000 bouteilles de vins de Bourgogne en route vers les États-Unis, transportées par le premier cargo-voilier du monde](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/15-000-bouteilles-de-vins-de-bourgogne-en-route-vers-les-etats-unis-transportees-par-le-premier-cargo-voilier-du-monde-3016451.html)
 append_entries: 1
 Finish: 2024-08-11 01:21:59.900526
+------------------------------------------------------
+Started: 2024-08-11 12:34:07.192345
+Existing_entries: 271
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 244
+Summarized using GPT-4o-mini
+Append: ["Une station quatre saisons" : grâce à une cagnotte en ligne, ce village du Jura a transformé ses infrastructures d'hiver](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/une-station-quatre-saisons-grace-a-une-cagnotte-en-ligne-ce-village-du-jura-a-transforme-ses-infrastructures-d-hiver-3014231.html)
+append_entries: 1
+Finish: 2024-08-11 12:34:10.112147

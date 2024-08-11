@@ -4,6 +4,105 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Chiffrez vos fichiers en toute simplicité avec File-Encryptor</title>
+<link>https://korben.info/file-encryptor-encryptage-fichiers-aes-gcm-256-bits.html</link>
+<guid>https://korben.info/file-encryptor-encryptage-fichiers-aes-gcm-256-bits.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : chiffrer, déchiffrer, AES-GCM, phrase secrète, File-Encryptor  
+
+<br><br>Summary:  
+Vous cherchez à sécuriser vos fichiers ? Découvrez File-Encryptor, un outil développé en Rust qui permet de chiffrer et déchiffrer vos fichiers rapidement. Il utilise l'algorithme AES-GCM avec une clé de 256 bits et prend en charge le chiffrement à partir d'un mot de passe. Pas besoin de clés USB, il suffit de choisir une phrase secrète pour protéger vos fichiers. Vous pouvez également ajouter des données d’authentification pour plus de sécurité. Pour générer une clé de chiffrement, ouvrez un terminal et exécutez `file-encryptor keygen`. Vous pouvez créer une clé à partir d'un mot de passe en utilisant l'option -p. Pour chiffrer un fichier, utilisez la commande `file-encryptor seal` avec le chemin d’accès au fichier et la clé. Pour déchiffrer, la commande `file-encryptor open` est tout aussi simple. Assurez-vous d'inclure les données d'authentification si vous en avez utilisé lors du chiffrement. En résumé, File-Encryptor est un excellent moyen de protéger vos documents sensibles en toute simplicité. N'oubliez pas : la prudence est essentielle dans ce monde numérique. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_encrypting_secret_file_wallpaper_ee5b9479-3056-4c09-a858-5bd42bd76de7.webp" width="1456" /></p>
+<p>Vous cherchez un moyen simple et efficace de sécuriser vos fichiers ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-373415068" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ça tombe bien, je vous ai déniché un petit outil bien pratique nommé <strong>File-Encryptor</strong> qui est un programme développé en <strong>Rust</strong> vous permettant de chiffrer et déchiffrer vos fichiers en un clin d&rsquo;œil.</p>
+
+
+
+<p>Ce programme utilise l&rsquo;algorithme de chiffrement <strong>AES-GCM</strong> <em>(Advanced Encryption Standard-Galois/Counter Mode)</em>, connu pour être très robuste, avec une clé de 256 bits. Le gros avantage de File-Encryptor, c&rsquo;est qu&rsquo;il supporte le chiffrement basé sur un mot de passe. Comme ça, pas besoin de vous trimballer une clé USB avec votre précieuse clé de chiffrement. Il vous suffit de choisir une phrase secrète, et hop, vos fichiers sont chiffrés en un rien de temps. Et si vous voulez rajouter une couche de sécurité supplémentaire, vous pouvez même ajouter des <em>données d&rsquo;authentification</em> en bonus (comme votre mail par exemple).</p>
+
+
+
+<p>Bref, si vous avez des documents sensibles à envoyer par email ou via une clé USB ou si vous voulez faire une sauvegarde bien sécurisée de vos précieux fichiers sur un cloud ou un disque dur externe, et bien un petit tour avec notre ami File-Encryptor et vous pouvez dormir sur vos deux oreilles.</p>
+
+
+
+<p>Allez, assez parlé, je vous fais une petite démo pour que vous compreniez comment ça marche. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-914379308" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Première étape : générer une clé de chiffrement. </p>
+
+
+
+<p>Ouvrez un terminal et tapez :</p>
+
+
+
+<p><code>file-encryptor keygen &gt; mykey.key</code></p>
+
+
+
+<p>Vous pouvez aussi utiliser l&rsquo;option <code>-p</code> ou <code>--password</code> pour générer une clé à partir d&rsquo;un mot de passe de votre choix. Par exemple :</p>
+
+
+
+<p><code>file-encryptor keygen -p "motdepasse123" &gt; mykey.key</code></p>
+
+
+
+<p>Notez bien que la clé AES256 générée est obtenue en <em>hashant</em> votre mot de passe avec l&rsquo;algorithme <strong>SHA256</strong>. Bon à savoir !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-440384318" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Maintenant, passons au chiffrement proprement dit. Mettons que vous ayez un fichier texte nommé « secret.txt » à chiffrer. Rien de plus simple :</p>
+
+
+
+<p><code>file-encryptor seal secret.txt &lt; mykey.key &gt; secret.encrypted</code></p>
+
+
+
+<p>Et si vous voulez ajouter des données d&rsquo;authentification, rajoutez l&rsquo;option <code>-a</code> suivie d&rsquo;une chaîne de caractères. Par exemple votre email :</p>
+
+
+
+<p><code>file-encryptor seal secret.txt -a "james@bond.mi6" &lt; mykey.key &gt; secret.encrypted</code></p>
+
+
+
+<p>Pour déchiffrer votre fichier, c&rsquo;est tout aussi facile. Il vous suffit de taper :</p>
+
+
+
+<p><code>file-encryptor open secret.encrypted &lt; mykey.key &gt; secret.decrypted.txt</code></p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2035087266" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>Et n&rsquo;oubliez pas de préciser les données d&rsquo;authentification si vous en aviez utilisé lors du chiffrement :</p>
+
+
+
+<p><code>file-encryptor open secret.encrypted -a "james@bond.mi6" &lt; mykey.key &gt; secret.decrypted.txt</code></p>
+
+
+
+<p>Et voilà, le tour est joué ! Vous savez désormais comment chiffrer et déchiffrer des fichiers comme un pro avec File-Encryptor. Franchement, c&rsquo;est pas sorcier et ça peut dépanner dans un tas de situations.</p>
+
+
+
+<p><a href="https://github.com/hn275/file-encryptor" rel="noopener" target="_blank">Cliquez ici pour mettre la main sur ce petit outil bien pratique</a>. Et n&rsquo;oubliez pas : la paranoïa est votre meilleure amie dans ce monde de brute (force) !</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 11 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Octarine – L’éditeur Markdown bien pensé</title>

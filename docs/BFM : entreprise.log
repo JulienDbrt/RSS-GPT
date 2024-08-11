@@ -4223,3 +4223,15 @@ Existing_entries: 1003
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/
 append_entries: 0
 Finish: 2024-08-11 01:20:57.371533
+------------------------------------------------------
+Started: 2024-08-11 12:32:08.711276
+Existing_entries: 1000
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Fièvre des troupeaux: prise en charge par l'Etat des frais vétérinaires](https://www.bfmtv.com/economie/entreprises/agriculture/fievre-des-troupeaux-prise-en-charge-par-l-etat-des-frais-veterinaires_AD-202408110153.html)
+Token length: 190
+Summarized using GPT-4o-mini
+Append: [Manifestation en Serbie contre l'exploitation d'une mine de lithium](https://www.bfmtv.com/economie/entreprises/energie/manifestation-en-serbie-contre-l-exploitation-d-une-mine-de-lithium_AD-202408110131.html)
+append_entries: 2
+Finish: 2024-08-11 12:32:12.890545

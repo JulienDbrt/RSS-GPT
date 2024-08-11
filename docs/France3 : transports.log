@@ -3946,3 +3946,15 @@ Summarized using GPT-4o-mini
 Append: [Collision d'un tanker et d'un vraquier au large, dans la zone d'attente de Saint-Nazaire](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/collision-d-un-tanker-et-d-un-vraquier-au-large-dans-la-zone-d-attente-de-saint-nazaire-3016547.html)
 append_entries: 5
 Finish: 2024-08-11 01:22:24.540531
+------------------------------------------------------
+Started: 2024-08-11 12:34:16.824483
+Existing_entries: 923
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Métro, tramway... Ces stations qui rouvrent dès le lundi 12 août](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/metro-tramway-ces-stations-qui-rouvrent-des-le-lundi-12-aout-3016757.html)
+Token length: 265
+Summarized using GPT-4o-mini
+Append: [Tourisme. Découvrez la route des fruits le long de la Seine, à vélo](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/tourisme-decouvrez-la-route-des-fruits-le-long-de-la-seine-a-velo-3014348.html)
+append_entries: 2
+Finish: 2024-08-11 12:34:22.293816

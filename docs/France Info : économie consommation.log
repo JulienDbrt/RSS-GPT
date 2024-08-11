@@ -6146,3 +6146,18 @@ Existing_entries: 1005
 Fetching from https://www.francetvinfo.fr/economie.rss
 append_entries: 0
 Finish: 2024-08-11 01:21:39.929444
+------------------------------------------------------
+Started: 2024-08-11 12:33:24.680811
+Existing_entries: 1000
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Prolonger l'esprit des J.O. de Paris 2024 avec les Jeux paralympiques : plus de 500 épreuves et 22 disciplines](https://www.francetvinfo.fr/replay-radio/c-est-mon-budget/prolonger-l-esprit-des-j-o-de-paris-2024-avec-les-jeux-paralympiques-plus-de-500-epreuves-et-22-disciplines_6642798.html)
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [L'Etat va prendre en charge les frais vétérinaires des vaccins délivrés aux animaux suspects de fièvre catarrhale ovine, dans l'espoir d'endiguer l'épidémie](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/l-etat-va-prendre-en-charge-les-frais-veterinaires-des-vaccins-delivres-aux-animaux-suspects-de-fievre-catarrhale-ovine-dans-l-espoir-d-endiguer-l-epidemie_6719604.html)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : un "succès économique", "touristique" et "organisationnel", selon la ministre Olivia Grégoire](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-de-paris-2024-un-succes-economique-touristique-et-organisationnel-selon-la-ministre-olivia-gregoire_6719526.html)
+append_entries: 3
+Finish: 2024-08-11 12:33:32.329662

@@ -1992,3 +1992,15 @@ Existing_entries: 264
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-11 01:21:54.563862
+------------------------------------------------------
+Started: 2024-08-11 12:33:55.191094
+Existing_entries: 264
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Métro, tramway... Ces stations qui rouvrent dès le lundi 12 août](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/metro-tramway-ces-stations-qui-rouvrent-des-le-lundi-12-aout-3016757.html)
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024. "Un succès économique et touristique" : les retombées positives des JO ne feraient que commencer selon Olivia Grégoire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-un-succes-economique-et-touristique-les-retombees-positives-des-jo-ne-feraient-que-commencer-selon-olivia-gregoire-3016658.html)
+append_entries: 2
+Finish: 2024-08-11 12:34:00.798063

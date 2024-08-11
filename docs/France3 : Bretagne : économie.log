@@ -1695,3 +1695,12 @@ Summarized using GPT-4o-mini
 Append: [Surtourisme. Les Caraïbes bretonnes bientôt saturées ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/surtourisme-les-caraibes-bretonnes-bientot-saturees-3016400.html)
 append_entries: 2
 Finish: 2024-08-11 01:22:06.707324
+------------------------------------------------------
+Started: 2024-08-11 12:34:10.198862
+Existing_entries: 165
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 339
+Summarized using GPT-4o-mini
+Append: ["Le ciel est bleu, la mer à 20 degrés", la Bretagne, solution anti-canicule des vacanciers](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/le-ciel-est-bleu-la-mer-a-20-degres-la-bretagne-solution-anti-canicule-des-vacanciers-3016718.html)
+append_entries: 1
+Finish: 2024-08-11 12:34:13.374501
