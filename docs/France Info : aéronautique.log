@@ -1433,3 +1433,9 @@ Summarized using GPT-4o-mini
 Append: [Incendies : l'inquiétude sur l'état des Canadair vieillissants](https://www.francetvinfo.fr/meteo/canicule/incendies-l-inquietude-sur-l-etat-des-canadair-vieillissants_6717837.html)
 append_entries: 3
 Finish: 2024-08-10 12:34:00.386228
+------------------------------------------------------
+Started: 2024-08-11 01:21:39.970198
+Existing_entries: 73
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-08-11 01:21:40.078937

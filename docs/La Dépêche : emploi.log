@@ -2347,3 +2347,9 @@ Summarized using GPT-4o-mini
 Append: [Carbonne. Des emplois à pourvoir sur la commune](https://www.ladepeche.fr/2024/08/10/des-emplois-a-pourvoir-sur-la-commune-12134784.php)
 append_entries: 2
 Finish: 2024-08-10 12:36:10.864219
+------------------------------------------------------
+Started: 2024-08-11 01:23:30.123516
+Existing_entries: 381
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-08-11 01:23:31.021018

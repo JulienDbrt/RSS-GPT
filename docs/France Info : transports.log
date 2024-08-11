@@ -2318,3 +2318,9 @@ Summarized using GPT-4o-mini
 Append: [Crash d'avion au Brésil : ce que l'on sait du drame qui a fait 61 morts près de Sao Paulo](https://www.francetvinfo.fr/monde/bresil/crash-d-avion-au-bresil-ce-que-l-on-sait-du-drame-qui-a-fait-61-morts-pres-de-sao-paulo_6717777.html)
 append_entries: 2
 Finish: 2024-08-10 12:34:05.434380
+------------------------------------------------------
+Started: 2024-08-11 01:21:41.747890
+Existing_entries: 374
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-08-11 01:21:41.800094

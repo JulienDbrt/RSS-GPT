@@ -9845,3 +9845,9 @@ Summarized using GPT-4o-mini
 Append: [Paris 2024: record du nombre de spectateurs pour les JO avec près de 9,5 millions de billets vendus](https://www.bfmtv.com/economie/paris-2024-record-du-nombre-de-spectateurs-pour-les-jo-avec-pres-de-9-5-millions-de-billets-vendus_VN-202408100046.html)
 append_entries: 6
 Finish: 2024-08-10 12:32:16.002839
+------------------------------------------------------
+Started: 2024-08-11 01:20:52.260513
+Existing_entries: 1006
+Fetching from https://www.bfmtv.com/rss/economie/
+append_entries: 0
+Finish: 2024-08-11 01:20:52.962027

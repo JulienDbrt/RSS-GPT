@@ -2158,3 +2158,9 @@ Summarized using GPT-4o-mini
 Append: [McDonald's : comment expliquer la baisse des ventes enregistrée par le géant Américain du fast-food ?](https://www.europe1.fr/economie/mcdonalds-comment-expliquer-la-baisse-des-ventes-enregistree-par-le-geant-americain-du-fast-food-4261865)
 append_entries: 2
 Finish: 2024-08-10 12:33:33.027354
+------------------------------------------------------
+Started: 2024-08-11 01:21:37.033568
+Existing_entries: 316
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-08-11 01:21:37.423836

@@ -4321,3 +4321,12 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : ces étrangers rêvaient de vivre à Paris, ils déchantent à cause des toits](https://www.capital.fr/immobilier/immobilier-ces-etrangers-revaient-de-vivre-a-paris-ils-dechantent-a-cause-des-toits-1500838)
 append_entries: 2
 Finish: 2024-08-10 12:30:46.067839
+------------------------------------------------------
+Started: 2024-08-11 01:19:40.080445
+Existing_entries: 1002
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 294
+Summarized using GPT-4o-mini
+Append: [Albanie: à l'abandon, l'île de Sazan convoitée par Ivanka Trump](https://www.rfi.fr/fr/europe/20240810-albanie-%C3%AEle-sazan-convoit%C3%A9e-ivanka-trump-tourisme-adriatique)
+append_entries: 1
+Finish: 2024-08-11 01:19:43.662797
