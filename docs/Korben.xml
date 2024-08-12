@@ -4,6 +4,131 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Trurl, un outil super pratique pour manipuler les URL</title>
+<link>https://korben.info/decouvrez-trurl-outil-indispensable-manipuler-url.html</link>
+<guid>https://korben.info/decouvrez-trurl-outil-indispensable-manipuler-url.html</guid>
+<content:encoded><![CDATA[
+<div> trurl, URL, manipulation, paramètres, libcurl
+
+<br><br>Summary:  
+Aujourd'hui, je vous parle de trurl, un outil en ligne de commande inspiré du programme tr, dédié à la manipulation et au parsing des URL. Les URL peuvent être difficiles à gérer, mais trurl utilise le parser d'URL de la librairie libcurl, ce qui le rend robuste et fiable. Avec une simple commande, vous pouvez changer le nom de domaine, modifier le port, extraire le chemin, ajouter des paramètres de requête, trier ou supprimer des paramètres, encoder/décoder des caractères spéciaux, et reformater l'URL en JSON. Il offre également une utilisation interactive et la possibilité de traiter plusieurs URLs en simultané. Pour installer trurl, il vous suffit de passer par votre gestionnaire de paquets Linux ou de télécharger les sources sur GitHub. Il remplace efficacement le code complexe que l’on pourrait écrire avec des RegEx. Cependant, soyez prudent car trurl ne gère pas les redirections automatiquement et peut rencontrer des problèmes avec des caractères exotiques. N'oubliez pas de tester vos commandes avant de les appliquer en production ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="320" src="https://korben.info/app/uploads/2024/04/SCR-20240419-nu8.webp" width="965" /></p>
+<p>Aujourd&rsquo;hui, je vais vous causer d&rsquo;un petit outil bien pratique qui va vous changer la vie (je sais, j&rsquo;abuse jamais) : <strong><a href="https://curl.se/trurl/" rel="noopener" target="_blank">trurl</a></strong> !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-724997702" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Alors c&rsquo;est quoi <strong>trurl</strong> ? Ben c&rsquo;est juste un programme en ligne de commande, inspiré de notre bon vieux pote <strong>tr</strong>, qui permet de parser et manipuler les URL. Ça a l&rsquo;air tout bête dit comme ça, mais je peux vous dire que c&rsquo;est super pratique et vachement puissant.</p>
+
+
+
+<p>Parce que les URL, c&rsquo;est pas toujours facile à gérer. Entre les caractères spéciaux, les encodages, les paramètres de requête, les fragments, y a de quoi s&rsquo;arracher les cheveux. Et puis mal implémenté, ça peut apporter son lot de failles de sécurité si on n&rsquo;y fait pas gaffe. Mais avec trurl, pas de prise de tête ! Il utilise le parser d&rsquo;URL de la librairie <strong>libcurl</strong>, qui est hyper robuste et éprouvé, du coup, vous pouvez manipuler vos URL en toute sérénité.</p>
+
+
+
+<p>Rien qu&rsquo;avec une petite commande toute simple, vous pouvez par exemple :</p>
+
+
+
+<ul class="wp-block-list">
+<li>Changer le nom de domaine d&rsquo;une URL</li>
+
+
+
+<li>Modifier le port  </li>
+
+
+
+<li>Extraire le chemin</li>
+
+
+
+<li>Ajouter des paramètres de requête</li>
+
+
+
+<li>Trier les paramètres par ordre alphabétique</li>
+
+
+
+<li>Supprimer certains paramètres</li>
+
+
+
+<li>Encoder/décoder des caractères spéciaux</li>
+
+
+
+<li>Reformater l&rsquo;URL en JSON</li>
+
+
+
+<li>Et plein d&rsquo;autres trucs !</li>
+</ul>
+
+
+
+<p>Genre si je veux changer le nom de domaine d&rsquo;une URL, je fais juste :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-802152572" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>trurl --url https://korben.info --set host=example.com<br />https://example.com/</code></p>
+
+
+
+<p>Et bim, c&rsquo;est fait ! Fastoche non ? Plus besoin de se taper des RegEx de 3km de long ou de réinventer la roue à chaque fois.</p>
+
+
+
+<p>Ce que j&rsquo;aime bien aussi, c&rsquo;est qu&rsquo;on peut utiliser trurl de façon interactive en lui passant les URL au fur et à mesure, ou bien traiter tout un fichier d&rsquo;URL d&rsquo;un coup. Il gère même les espaces et autres caractères spéciaux sans broncher.</p>
+
+
+
+<p>Par exemple, pour ajouter un paramètre à une URL existante :</p>
+
+
+
+<p><code>trurl --url "https://example.com?param1=value1" --add-query "param2=value2" <br />https://example.com?param1=value1&amp;param2=value2</code></p>
+
+
+
+<p>Ou encore, pour supprimer un paramètre spécifique :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-34565483" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><code>trurl --url "https://example.com?param1=value1&amp;param2=value2" --remove-query "param1"<br />https://example.com?param2=value2</code></p>
+
+
+
+<p>Côté installation, c&rsquo;est méga simple aussi. Sur la plupart des distros Linux, vous devriez pouvoir l&rsquo;installer direct depuis votre gestionnaire de paquets préféré. Sinon, les sources sont dispos sur GitHub.</p>
+
+
+
+<p>Ça m&rsquo;a permis de virer des tonnes de code crado bricolé à la main dans des scripts et de le remplacer par des commandes trurl bien propres. Par exemple, j&rsquo;avais un script qui devait récupérer le flux RSS d&rsquo;un site, filtrer certains paramètres de l&rsquo;URL et ajouter un tracker pour les stats. Avant je faisais ça avec des RegEx et des concaténations dégueulasses, maintenant, en quelques commandes trurl, c&rsquo;est réglé !</p>
+
+
+
+<p><code>curl "https://example.com/feed.xml" | trurl --query-sort --query-exclude "utm_*" --add-query "tracker_id=korben"</code></p>
+
+
+
+<p>Attention quand même, trurl a quelques limitations à connaître. Par exemple, il ne gère pas les redirections tout seul, faudra passer par curl si besoin. Et pour certains cas tordus avec des caractères exotiques, il pourrait y avoir des surprises. Donc prudence, pensez à toujours tester avant de balancer en prod !</p>
+
+
+
+<p>Sinon astuce bonus, <a href="https://github.com/curl/trurl" rel="noopener" target="_blank">trurl</a> a une option <code>--accept-space</code> bien pratique quand vos URL contiennent des espaces. Et le <code>--sort-query</code> est top pour remettre de l&rsquo;ordre dans vos paramètres.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-948146206" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>A demain !</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 12 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Chiffrez vos fichiers en toute simplicité avec File-Encryptor</title>

@@ -5071,3 +5071,15 @@ Summarized using GPT-4o-mini
 Append: [Disneyland Paris : après La Reine des Neiges, le parc ouvrira une attraction aquatique inédite autour du Roi Lion](https://www.latribune.fr/economie/france/disneyland-paris-apres-la-reine-des-neiges-le-parc-ouvrira-une-attraction-aquatique-inedite-autour-du-roi-lion-1004104.html)
 append_entries: 3
 Finish: 2024-08-12 01:19:10.012692
+------------------------------------------------------
+Started: 2024-08-12 12:46:42.964180
+Existing_entries: 1003
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 202
+Summarized using GPT-4o-mini
+Append: [Paris 2024 : 17,1 millions de téléspectateurs pour la cérémonie de clôture](https://www.latribune.fr/economie/france/paris-2024-17-1-millions-de-telespectateurs-pour-la-ceremonie-de-cloture-1004122.html)
+Token length: 280
+Summarized using GPT-4o-mini
+Append: [Gaza : le Hamas appelle à une trêve selon un plan présenté par Joe Biden](https://www.latribune.fr/economie/international/gaza-le-hamas-appelle-a-une-treve-selon-un-plan-presente-par-joe-biden-1004117.html)
+append_entries: 2
+Finish: 2024-08-12 12:46:49.803748

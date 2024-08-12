@@ -2096,3 +2096,15 @@ Existing_entries: 288
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-08-12 01:16:42.715557
+------------------------------------------------------
+Started: 2024-08-12 12:38:33.792340
+Existing_entries: 288
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Grèce : La construction d’un hôtel de luxe avec 50 chambres et 50 piscines, crée la polémique sur l’île de Paros](https://www.20minutes.fr/planete/environnement/4105526-20240812-grece-construction-hotel-luxe-50-chambres-50-piscines-cree-polemique-ile-paros)
+Token length: 171
+Summarized using GPT-4o-mini
+Append: [Chômage au plus bas, précarisation… L'Organisation du travail passe l’emploi des jeunes à la loupe](https://www.20minutes.fr/economie/4105498-20240812-travail-entre-taux-chomage-plus-bas-precarisation-oit-passe-loupe-emploi-jeunes)
+append_entries: 2
+Finish: 2024-08-12 12:38:45.577944
