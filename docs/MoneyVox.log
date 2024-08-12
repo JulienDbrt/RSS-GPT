@@ -5890,3 +5890,15 @@ Summarized using GPT-4o-mini
 Append: [Assurance auto : ces voitures anciennes permettent de payer deux fois moins cher](https://www.moneyvox.fr/assurance/actualites/98974/assurance-auto-ces-voitures-anciennes-permettent-de-payer-deux-fois-moins-cher)
 append_entries: 7
 Finish: 2024-08-11 12:33:53.598433
+------------------------------------------------------
+Started: 2024-08-12 01:18:10.162300
+Existing_entries: 1007
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [« Pourquoi je dois payer des frais de tenue de compte pour garder mon LEP ? »](https://www.moneyvox.fr/livret/actualites/99059/pourquoi-je-dois-payer-des-frais-de-tenue-de-compte-pour-garder-mon-lep)
+Token length: 115
+Summarized using GPT-4o-mini
+Append: [Immobilier à Saint-Étienne : les prix en août 2024](https://www.moneyvox.fr/immobilier/actualites/99037/immobilier-a-saint-etienne-les-prix-en-aout-2024)
+append_entries: 2
+Finish: 2024-08-12 01:18:14.905985

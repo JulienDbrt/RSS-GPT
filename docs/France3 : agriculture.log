@@ -3292,3 +3292,12 @@ Summarized using GPT-4o-mini
 Append: [TEMA : les entreprises agroalimentaires de Corse](https://france3-regions.francetvinfo.fr/corse/haute-corse/tema-les-entreprises-agroalimentaires-de-corse-3016085.html)
 append_entries: 2
 Finish: 2024-08-11 12:34:07.050496
+------------------------------------------------------
+Started: 2024-08-12 01:18:25.399299
+Existing_entries: 695
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 245
+Summarized using GPT-4o-mini
+Append: ["Suvaru di Corsica" Une marque déposée pour relancer la filière liège en Corse](https://france3-regions.francetvinfo.fr/corse/suvaru-di-corsica-une-marque-deposee-pour-relancer-la-filiere-liege-en-corse-3016172.html)
+append_entries: 1
+Finish: 2024-08-12 01:18:27.896266

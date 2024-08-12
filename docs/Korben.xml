@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Chiffrez vos fichiers en toute simplicité avec File-Encryptor</title>
 <link>https://korben.info/file-encryptor-encryptage-fichiers-aes-gcm-256-bits.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : chiffrer, déchiffrer, AES-GCM, phrase secrète, File-Encryptor  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Vous cherchez à sécuriser vos fichiers ? Découvrez File-Encryptor, un outil développé en Rust qui permet de chiffrer et déchiffrer vos fichiers rapidement. Il utilise l'algorithme AES-GCM avec une clé de 256 bits et prend en charge le chiffrement à partir d'un mot de passe. Pas besoin de clés USB, il suffit de choisir une phrase secrète pour protéger vos fichiers. Vous pouvez également ajouter des données d’authentification pour plus de sécurité. Pour générer une clé de chiffrement, ouvrez un terminal et exécutez `file-encryptor keygen`. Vous pouvez créer une clé à partir d'un mot de passe en utilisant l'option -p. Pour chiffrer un fichier, utilisez la commande `file-encryptor seal` avec le chemin d’accès au fichier et la clé. Pour déchiffrer, la commande `file-encryptor open` est tout aussi simple. Assurez-vous d'inclure les données d'authentification si vous en avez utilisé lors du chiffrement. En résumé, File-Encryptor est un excellent moyen de protéger vos documents sensibles en toute simplicité. N'oubliez pas : la prudence est essentielle dans ce monde numérique. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_encrypting_secret_file_wallpaper_ee5b9479-3056-4c09-a858-5bd42bd76de7.webp" width="1456" /></p>
 <p>Vous cherchez un moyen simple et efficace de sécuriser vos fichiers ? </p>
@@ -101,9 +102,7 @@ Vous cherchez à sécuriser vos fichiers ? Découvrez File-Encryptor, un outil d
 <p><a href="https://github.com/hn275/file-encryptor" rel="noopener" target="_blank">Cliquez ici pour mettre la main sur ce petit outil bien pratique</a>. Et n&rsquo;oubliez pas : la paranoïa est votre meilleure amie dans ce monde de brute (force) !</p>
 ]]></content:encoded>
 <pubDate>Sun, 11 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 11 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Octarine – L’éditeur Markdown bien pensé</title>
 <link>https://korben.info/octarine-editeur-markdown-minimaliste.html</link>

@@ -1605,3 +1605,12 @@ Existing_entries: 133
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-08-11 12:33:55.052307
+------------------------------------------------------
+Started: 2024-08-12 01:18:15.817472
+Existing_entries: 133
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 344
+Summarized using GPT-4o-mini
+Append: [EN IMAGES. "Même un si grand barrage peut bouger de quelques millimètres" : ce colosse de 75 ans surveillé de près](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/en-images-meme-un-si-grand-barrage-peut-bouger-de-quelques-millimetres-ce-colosse-de-75-ans-surveille-de-pres-3016727.html)
+append_entries: 1
+Finish: 2024-08-12 01:18:20.487510
