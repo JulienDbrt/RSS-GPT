@@ -2462,3 +2462,9 @@ Summarized using GPT-4o-mini
 Append: [Davantage d'avions à Paris pendant le début des JO](https://www.martinique.franceantilles.fr/actualite/economie/davantage-davions-a-paris-pendant-le-debut-des-jo-999152.php)
 append_entries: 1
 Finish: 2024-08-13 01:19:30.620003
+------------------------------------------------------
+Started: 2024-08-13 12:40:41.456340
+Existing_entries: 426
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-08-13 12:40:42.168504
