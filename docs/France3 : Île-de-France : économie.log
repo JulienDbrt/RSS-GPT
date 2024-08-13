@@ -2022,3 +2022,15 @@ Summarized using GPT-4o-mini
 Append: [À quand l'ouverture de la ligne 15 ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/a-quand-l-ouverture-de-la-ligne-15-2982959.html)
 append_entries: 1
 Finish: 2024-08-12 12:43:38.581135
+------------------------------------------------------
+Started: 2024-08-13 01:20:23.619200
+Existing_entries: 268
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 203
+Summarized using GPT-4o-mini
+Append: [Offre estivale dans les RER et Transilien, voies olympiques : ce qui change dans les transports](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/offre-estivale-dans-les-rer-et-transilien-voies-olympiques-ce-qui-change-dans-les-transports-3017246.html)
+Token length: 262
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024. Taux d'occupation finalement élevé et réservations en hausse pour les paralympiques : le bon bilan des hôteliers](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-taux-d-occupation-finalement-eleve-et-reservations-en-hausse-pour-les-paralympiques-le-bon-bilan-des-hoteliers-3017117.html)
+append_entries: 2
+Finish: 2024-08-13 01:20:30.059885

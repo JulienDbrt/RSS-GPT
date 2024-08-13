@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Trurl, un outil super pratique pour manipuler les URL</title>
 <link>https://korben.info/decouvrez-trurl-outil-indispensable-manipuler-url.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> trurl, URL, manipulation, paramètres, libcurl
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Aujourd'hui, je vous parle de trurl, un outil en ligne de commande inspiré du programme tr, dédié à la manipulation et au parsing des URL. Les URL peuvent être difficiles à gérer, mais trurl utilise le parser d'URL de la librairie libcurl, ce qui le rend robuste et fiable. Avec une simple commande, vous pouvez changer le nom de domaine, modifier le port, extraire le chemin, ajouter des paramètres de requête, trier ou supprimer des paramètres, encoder/décoder des caractères spéciaux, et reformater l'URL en JSON. Il offre également une utilisation interactive et la possibilité de traiter plusieurs URLs en simultané. Pour installer trurl, il vous suffit de passer par votre gestionnaire de paquets Linux ou de télécharger les sources sur GitHub. Il remplace efficacement le code complexe que l’on pourrait écrire avec des RegEx. Cependant, soyez prudent car trurl ne gère pas les redirections automatiquement et peut rencontrer des problèmes avec des caractères exotiques. N'oubliez pas de tester vos commandes avant de les appliquer en production ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="320" src="https://korben.info/app/uploads/2024/04/SCR-20240419-nu8.webp" width="965" /></p>
 <p>Aujourd&rsquo;hui, je vais vous causer d&rsquo;un petit outil bien pratique qui va vous changer la vie (je sais, j&rsquo;abuse jamais) : <strong><a href="https://curl.se/trurl/" rel="noopener" target="_blank">trurl</a></strong> !</p>
@@ -127,9 +128,7 @@ Aujourd'hui, je vous parle de trurl, un outil en ligne de commande inspiré du p
 <div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p>A demain !</p>
 ]]></content:encoded>
 <pubDate>Mon, 12 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 12 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Chiffrez vos fichiers en toute simplicité avec File-Encryptor</title>
 <link>https://korben.info/file-encryptor-encryptage-fichiers-aes-gcm-256-bits.html</link>

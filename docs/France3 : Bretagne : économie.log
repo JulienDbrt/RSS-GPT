@@ -1716,3 +1716,13 @@ Existing_entries: 166
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-12 12:43:48.613390
+------------------------------------------------------
+Started: 2024-08-13 01:20:53.057022
+Existing_entries: 166
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 259
+Summarized using GPT-4o-mini
+Append: ["Il était bleu clair. J'ai cru à une farce"
+Un pêcheur capture un homard mutant](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/il-etait-bleu-clair-j-ai-cru-a-une-farce-un-pecheur-capture-un-homard-mutant-3017183.html)
+append_entries: 1
+Finish: 2024-08-13 01:20:56.839385

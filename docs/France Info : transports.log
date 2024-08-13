@@ -2348,3 +2348,12 @@ Summarized using GPT-4o-mini
 Append: [Logements, équipements sportifs, transports… Quel sera l'héritage des Jeux pour les Franciliens ?](https://www.francetvinfo.fr/les-jeux-olympiques/des-francais-et-des-jeux/jo-2024-logements-equipements-sportifs-transports-quel-sera-l-heritage-des-jeux-pour-les-franciliens_6711927.html)
 append_entries: 1
 Finish: 2024-08-12 12:42:34.465480
+------------------------------------------------------
+Started: 2024-08-13 01:19:54.863284
+Existing_entries: 376
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 265
+Summarized using GPT-4o-mini
+Append: [Paris 2024 : les athlètes étrangers plient bagage](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024-les-athletes-etrangers-plient-bagage_6721536.html)
+append_entries: 1
+Finish: 2024-08-13 01:19:57.766782
