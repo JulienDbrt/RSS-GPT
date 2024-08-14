@@ -5829,3 +5829,18 @@ Summarized using GPT-4o-mini
 Append: [Faut-il s’inquiéter de l’état de l’économie allemande ?](https://www.lalibre.be/economie/conjoncture/2024/08/13/faut-il-sinquieter-de-letat-de-leconomie-allemande-NHGROHCLJBEMZHVDULBZF2S7CE/)
 append_entries: 10
 Finish: 2024-08-13 12:44:40.078492
+------------------------------------------------------
+Started: 2024-08-14 01:21:16.157333
+Existing_entries: 1010
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+Token length: 80
+Summarized using GPT-4o-mini
+Append: [Bourses : Hyloris progresse de près de 80 % en deux séances](https://www.lalibre.be/economie/placements/2024/08/13/bourses-hyloris-progresse-de-pres-de-80-en-deux-seances-GFF2HATBJBGBPEMBHLGGQ4JMM4/)
+Token length: 107
+Summarized using GPT-4o-mini
+Append: [Y a-t-il une bulle spéculative sur les actions comme Apple, Microsoft, ou Nvidia ?](https://www.lalibre.be/economie/mes-finances/2024/08/13/y-a-t-il-une-bulle-speculative-sur-des-actions-comme-apple-microsoft-ou-nvidia-U3AFDRTMP5DTXJMLU3NCZ6JZUY/)
+Token length: 54
+Summarized using GPT-4o-mini
+Append: [Wall Street ouvre en hausse, après des prix de gros qui se tassent](https://www.lalibre.be/economie/placements/2024/08/13/wall-street-ouvre-en-hausse-apres-des-prix-de-gros-qui-se-tassent-4AR3WT6ZHFEZ7OADA5IISBFOZQ/)
+append_entries: 3
+Finish: 2024-08-14 01:21:26.930675

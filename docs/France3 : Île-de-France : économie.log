@@ -2046,3 +2046,12 @@ Summarized using GPT-4o-mini
 Append: [5 balades sous terre en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/5-balades-sous-terre-en-ile-de-france-2994551.html)
 append_entries: 2
 Finish: 2024-08-13 12:42:00.625028
+------------------------------------------------------
+Started: 2024-08-14 01:19:31.740875
+Existing_entries: 272
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [VIDEO. JO de Paris 2024. Bilan gagnant pour la Seine-Saint-Denis](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/video-jo-de-paris-2024-bilan-gagnant-pour-la-seine-saint-denis-3017585.html)
+append_entries: 1
+Finish: 2024-08-14 01:19:35.227950

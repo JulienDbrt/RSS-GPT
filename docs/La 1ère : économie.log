@@ -4603,3 +4603,18 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : la vente aux enchères privée se démocratise en Nouvelle-Calédonie](https://la1ere.francetvinfo.fr/nouvellecaledonie/immobilier-la-vente-aux-encheres-privee-se-democratise-en-nouvelle-caledonie-1513493.html)
 append_entries: 4
 Finish: 2024-08-13 12:43:11.444320
+------------------------------------------------------
+Started: 2024-08-14 01:20:26.994058
+Existing_entries: 1004
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 12
+Summarized using GPT-4o-mini
+Append: [Tempête Ernesto : les recommandations de l'ARS concernant l'eau](https://la1ere.francetvinfo.fr/guadeloupe/tempete-ernesto-les-recommandations-de-l-ars-concernant-l-eau-1513577.html)
+Token length: 17
+Summarized using GPT-4o-mini
+Append: [Cherté des billets d'avion et monopole : comment expliquer les tarifs trop élevés ?](https://la1ere.francetvinfo.fr/mayotte/cherte-des-billets-d-avion-et-monopole-comment-expliquer-les-tarifs-eleves-1513637.html)
+Token length: 86
+Summarized using GPT-4o-mini
+Append: [Transport maritime : le nouveau délégataire Blue Lines Martinique a suspendu la reprise du service, à cause de la météo](https://la1ere.francetvinfo.fr/martinique/transport-maritime-le-nouveau-delegataire-blue-lines-martinique-a-suspendu-la-reprise-du-service-a-cause-de-la-meteo-1513616.html)
+append_entries: 3
+Finish: 2024-08-14 01:20:32.476978

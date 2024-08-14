@@ -1744,3 +1744,15 @@ Existing_entries: 160
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-08-13 12:42:50.966450
+------------------------------------------------------
+Started: 2024-08-14 01:20:00.394955
+Existing_entries: 160
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 115
+Summarized using GPT-4o-mini
+Append: [Ces aliments vous coûtent plus cher en raison des changements climatiques](https://www.journaldemontreal.com/2024/08/13/ces-aliments-vous-coutent-plus-cher-en-raison-des-changements-climatiques)
+Token length: 119
+Summarized using GPT-4o-mini
+Append: [Bactérie Listeria dans des laits végétaux: une troisième personne décédée](https://www.journaldemontreal.com/2024/08/12/bacterie-listeria-dans-des-laits-vegetaux-une-troisieme-personne-decedee)
+append_entries: 2
+Finish: 2024-08-14 01:20:05.598191
