@@ -4,6 +4,70 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>ItchClaim – Récupérez automatiquement les jeux gratuits sur itch.io</title>
+<link>https://korben.info/itchclaim-recuperez-automatiquement-jeux-gratuits-itchio.html</link>
+<guid>https://korben.info/itchclaim-recuperez-automatiquement-jeux-gratuits-itchio.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : ItchClaim, jeux gratuits, installation, Python, Docker
+
+<br><br>Summary: 
+ItchClaim est un outil pratique pour les passionnés de jeux vidéo qui souhaitent récupérer automatiquement des jeux gratuits sur la plateforme itch.io. Une fois lancé, Il se connecte à itch.io et scanne en temps réel la liste des jeux gratuits disponibles. Lorsqu'un nouveau jeu est détecté, ItchClaim le récupère dans votre bibliothèque sans aucune intervention de votre part. En termes techniques, ItchClaim est développé en Python et son installation est très simple. Il suffit de lancer la commande `pip install ItchClaim` dans un terminal. Pour réclamer les jeux gratuits, vous devez ensuite exécuter la commande `itchclaim --login <votre_nom_utilisateur> claim`, en remplaçant `<votre_nom_utilisateur>` par votre nom d'utilisateur Itch.io. Lors de la première utilisation, vous êtes invité à entrer votre mot de passe, et ItchClaim met à jour la liste des jeux gratuits. Pour ceux qui préfèrent Docker, il est également possible d'utiliser une commande spécifique pour gérer les sessions utilisateur. Grâce à ItchClaim, ne manquez plus aucune occasion de découvrir de nouveaux jeux gratuits sur itch.io. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="618" src="https://korben.info/app/uploads/2024/04/SCR-20240420-7sn-2.webp" width="1487" /></p>
+<p>Vous êtes un passionné de jeux vidéo toujours à l&rsquo;affût des dernières pépites gratuites ? Alors laissez-moi vous parler d&rsquo;<strong><a href="https://github.com/Smart123s/ItchClaim" rel="noopener" target="_blank">ItchClaim</a></strong>, un petit outil bien pratique qui va vous vous permettre de récupérer automatiquement <a href="https://itch.io/games/free" rel="noopener" target="_blank">tous les jeux gratuits</a> proposés sur la célèbre plateforme <strong>itch.io</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-911787842" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Le fonctionnement est simple comme bonjour : Une fois le programme lancé, il va se connecter à itch.io et scanner en temps réel la liste des jeux gratuits disponibles. Dès qu&rsquo;un nouveau jeu est repéré, hop, ItchClaim le récupère direct dans votre bibliothèque. Et le plus beau dans tout ça, c&rsquo;est que ça tourne en tâche de fond, sans que vous ayez à lever le petit doigt.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159524" height="443" src="https://korben.info/app/uploads/2024/04/SCR-20240420-7qi-1024x443.webp" width="1024" /></figure></div>
+
+
+<p>Avec ce truc, vous êtes assuré de ne rien louper et de faire de belles découvertes auxquelles vous n&rsquo;auriez même pas pensé ! Mais parlons technique maintenant. ItchClaim est codé en Python et pour l&rsquo;installer, rien de plus facile&#8230; Ouvrez un terminal ou une invite de commande et entrez la ligne de commande : </p>
+
+
+
+<pre class="wp-block-code"><code>pip install ItchClaim</code></pre>
+
+
+
+<p>Ensuite pour réclamer les jeux gratuits, utilisez la commande :</p>
+
+
+
+<pre class="wp-block-code"><code>itchclaim --login &lt;votre_nom_utilisateur&gt; claim</code></pre>
+
+
+
+<p>Remplacez <code>&lt;votre_nom_utilisateur&gt;</code> par votre nom d&rsquo;utilisateur Itch.io.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1283471490" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Lors de la première exécution, vous serez invité à entrer votre mot de passe. ItchClaim rafraîchira la liste des jeux gratuits et réclamera ceux que vous ne possédez pas encore.</p>
+
+
+
+<p>Et pour utiliser ItchClaim avec Docker, exécutez la commande suivante :</p>
+
+
+
+<pre class="wp-block-code"><code>docker run --rm -v "&lt;chemin_vers_repertoire_session_utilisateur&gt;:/data" ghcr.io/smart123s/itchclaim --login &lt;votre_nom_utilisateur&gt; claim</code></pre>
+
+
+
+<p>Remplacez <code>&lt;chemin_vers_repertoire_session_utilisateur&gt;</code> par le chemin du répertoire où vous souhaitez stocker les données de session utilisateur.</p>
+
+
+
+<p>Et voilà, vous pouvez maintenant utiliser ItchClaim pour réclamer automatiquement les jeux gratuits sur Itch.io et être ainsi sûr de ne rien louper.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 14 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>YouTube Incognito Mode pour naviguer discrètement sans traces</title>

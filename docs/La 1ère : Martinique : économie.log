@@ -1648,3 +1648,9 @@ Summarized using GPT-4o-mini
 Append: [Transport maritime : le nouveau délégataire Blue Lines Martinique a suspendu la reprise du service, à cause de la météo](https://la1ere.francetvinfo.fr/martinique/transport-maritime-le-nouveau-delegataire-blue-lines-martinique-a-suspendu-la-reprise-du-service-a-cause-de-la-meteo-1513616.html)
 append_entries: 1
 Finish: 2024-08-14 01:20:35.443125
+------------------------------------------------------
+Started: 2024-08-14 12:44:24.538502
+Existing_entries: 124
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-08-14 12:44:24.675100

@@ -1691,3 +1691,9 @@ Summarized using GPT-4o-mini
 Append: [Achat. Nancy, Metz... Pourquoi plus personne n'arrive à acheter un bien immobilier ?](https://www.lalsace.fr/magazine-immobilier/2024/08/13/nancy-metz-pourquoi-plus-personne-n-arrive-a-acheter-un-bien-immobilier)
 append_entries: 1
 Finish: 2024-08-14 01:20:19.859494
+------------------------------------------------------
+Started: 2024-08-14 12:43:59.953008
+Existing_entries: 145
+Fetching from https://www.lalsace.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-08-14 12:44:00.783281

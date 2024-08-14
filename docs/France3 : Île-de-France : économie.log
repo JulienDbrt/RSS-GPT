@@ -2055,3 +2055,9 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. JO de Paris 2024. Bilan gagnant pour la Seine-Saint-Denis](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/video-jo-de-paris-2024-bilan-gagnant-pour-la-seine-saint-denis-3017585.html)
 append_entries: 1
 Finish: 2024-08-14 01:19:35.227950
+------------------------------------------------------
+Started: 2024-08-14 12:43:00.621741
+Existing_entries: 273
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-14 12:43:00.791049

@@ -2212,3 +2212,15 @@ Existing_entries: 320
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-14 01:18:35.298200
+------------------------------------------------------
+Started: 2024-08-14 12:41:25.357234
+Existing_entries: 320
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [France : l'Insee confirme une inflation de 2,3% sur un an en juillet](https://www.europe1.fr/economie/france-linsee-confirme-une-inflation-de-23-sur-un-an-en-juillet-4262323)
+Token length: 331
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : vêtements, peluches, tasses... Les Français s'arrachent les produits dérivés](https://www.europe1.fr/economie/jo-de-paris-2024-vetements-peluches-tasses-les-francais-sarrachent-les-produits-derives-4262290)
+append_entries: 2
+Finish: 2024-08-14 12:41:32.314115

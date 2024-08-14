@@ -4618,3 +4618,24 @@ Summarized using GPT-4o-mini
 Append: [Transport maritime : le nouveau délégataire Blue Lines Martinique a suspendu la reprise du service, à cause de la météo](https://la1ere.francetvinfo.fr/martinique/transport-maritime-le-nouveau-delegataire-blue-lines-martinique-a-suspendu-la-reprise-du-service-a-cause-de-la-meteo-1513616.html)
 append_entries: 3
 Finish: 2024-08-14 01:20:32.476978
+------------------------------------------------------
+Started: 2024-08-14 12:44:04.564602
+Existing_entries: 1003
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 62
+Summarized using GPT-4o-mini
+Append: [Agroforesterie : Un regard sur la vanille](https://la1ere.francetvinfo.fr/guadeloupe/agroforesterie-un-regard-sur-la-vanille-1513676.html)
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Comores : changement en cascade à la tête de la télé, d'un journal, de l'hôpital...](https://la1ere.francetvinfo.fr/reunion/comores-changement-en-cascade-a-la-tete-de-la-tele-d-un-journal-de-l-hopital-1513811.html)
+Token length: 59
+Summarized using GPT-4o-mini
+Append: [Forte baisse de la récolte de blé dans l'Hexagone : vers une hausse des prix de la baguette et des viennoiseries à La Réunion ?](https://la1ere.francetvinfo.fr/reunion/forte-baisse-de-la-recolte-de-ble-dans-l-hexagone-vers-une-hausse-des-prix-de-la-baguette-et-des-viennoiseries-a-la-reunion-1513772.html)
+Token length: 54
+Summarized using GPT-4o-mini
+Append: [Les prix à la consommation ont baissé de 0,6% en juillet](https://la1ere.francetvinfo.fr/nouvellecaledonie/les-prix-a-la-consommation-ont-baisse-de-0-6-en-juillet-1513766.html)
+Token length: 199
+Summarized using GPT-4o-mini
+Append: [La vente d'alcool autorisée à partir du 19 août, le couvre-feu prolongé jusqu'au 26](https://la1ere.francetvinfo.fr/nouvellecaledonie/la-vente-d-alcool-autorisee-a-partir-du-19-aout-le-couvre-feu-prolonge-jusqu-au-26-1513760.html)
+append_entries: 5
+Finish: 2024-08-14 12:44:24.470674

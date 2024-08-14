@@ -2135,3 +2135,18 @@ Summarized using GPT-4o-mini
 Append: [Votre salaire va baisser en septembre : on vous explique pourquoi](https://www.20minutes.fr/economie/4105682-20240813-salaire-va-baisser-septembre-explique-pourquoi)
 append_entries: 1
 Finish: 2024-08-14 01:16:17.382070
+------------------------------------------------------
+Started: 2024-08-14 12:37:04.259316
+Existing_entries: 293
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [Bernard Arnault chute dans le classement mondial des milliardaires… à cause d’Emmanuel Macron](https://www.20minutes.fr/economie/4105824-20240814-bernard-arnault-chute-classement-mondial-milliardaires-cause-emmanuel-macron)
+Token length: 160
+Summarized using GPT-4o-mini
+Append: [L’Insee confirme une inflation de 2,3 % sur un an en juillet en France](https://www.20minutes.fr/economie/4105810-20240814-france-insee-confirme-inflation-2-3-an-juillet)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Le coût de la vie étudiante a augmenté de plus de 27 % depuis 2017, selon l’Unef](https://www.20minutes.fr/economie/4105773-20240814-pouvoir-achat-cout-vie-etudiante-augmente-plus-27-depuis-2017-selon-unef)
+append_entries: 3
+Finish: 2024-08-14 12:37:14.094553

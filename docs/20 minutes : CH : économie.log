@@ -2326,3 +2326,15 @@ Existing_entries: 390
 Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
 append_entries: 0
 Finish: 2024-08-14 01:16:14.125087
+------------------------------------------------------
+Started: 2024-08-14 12:36:54.299664
+Existing_entries: 390
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 164
+Summarized using GPT-4o-mini
+Append: [Frais injustifiés exigés par des créanciers trop gourmands](https://www.20min.ch/fr/story/suisse-romande-frais-injustifies-exiges-par-des-creanciers-trop-gourmands-103164581)
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [UBS annonce un bénéfice net de près de 1 milliard de francs](https://www.20min.ch/fr/story/banque-ubs-annonce-un-benefice-net-de-pres-de-1-milliard-de-francs-103168661)
+append_entries: 2
+Finish: 2024-08-14 12:37:04.105165

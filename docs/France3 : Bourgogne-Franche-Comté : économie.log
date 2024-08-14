@@ -2061,3 +2061,12 @@ Existing_entries: 275
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-08-14 01:19:55.611867
+------------------------------------------------------
+Started: 2024-08-14 12:43:27.033573
+Existing_entries: 275
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [De la listeria détectée dans un lot de Morbier : les produits contaminés rappelés en urgence](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/de-la-listeria-detectee-dans-un-lot-de-morbier-les-produits-contamines-rappeles-en-urgence-3017873.html)
+append_entries: 1
+Finish: 2024-08-14 12:43:30.177205
