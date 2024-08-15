@@ -7606,3 +7606,15 @@ Summarized using GPT-4o-mini
 Append: [Revue des marchés Les nouvelles du marché du mercredi 14 août Mars acquiert Kellanova, fabricant de Cheez-It et de Pringles, pour 36 G$US. Refinitiv|Publié il y a 2 minutes](https://www.lesaffaires.com/bourse/revue-des-marches/les-nouvelles-du-marche-du-mercredi-14-aout/)
 append_entries: 9
 Finish: 2024-08-15 01:09:43.926950
+------------------------------------------------------
+Started: 2024-08-15 12:32:13.143289
+Existing_entries: 1009
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Préparer son portefeuille comme des vacances Planifiez vos investissements comme un voyage pour éviter les imprévus et maximiser les rendements.](https://www.allnews.ch/content/points-de-vue/pr%C3%A9parer-son-portefeuille-comme-des-vacances)
+Token length: 41
+Summarized using GPT-4o-mini
+Append: [Les ETFs spot Ethereum: un succès modeste](https://www.allnews.ch/content/points-de-vue/les-etfs-spot-ethereum-un-succ%C3%A8s-modeste)
+append_entries: 2
+Finish: 2024-08-15 12:32:24.218069

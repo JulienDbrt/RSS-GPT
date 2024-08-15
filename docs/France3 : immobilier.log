@@ -1581,3 +1581,12 @@ Summarized using GPT-4o-mini
 Append: ["J'ai perdu 280 000 euros" : quand le projet d'un immeuble neuf tourne au cauchemar](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/j-ai-perdu-280-000-euros-quand-le-projet-d-un-immeuble-neuf-tourne-au-cauchemar-3017900.html)
 append_entries: 1
 Finish: 2024-08-15 01:16:37.254053
+------------------------------------------------------
+Started: 2024-08-15 12:40:29.660487
+Existing_entries: 111
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [Crise immobilière : "Il y a une baisse entre 15 et 30%", mauvaise période pour les déménageurs](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/crise-immobiliere-il-y-a-une-baisse-entre-15-et-30-mauvaise-periode-pour-les-demenageurs-3018332.html)
+append_entries: 1
+Finish: 2024-08-15 12:40:33.659449

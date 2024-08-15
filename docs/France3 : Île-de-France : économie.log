@@ -2070,3 +2070,9 @@ Summarized using GPT-4o-mini
 Append: [Du pain et des pâtisseries à moitié prix dans une boulangerie unique à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/du-pain-et-des-patisseries-a-moitie-prix-dans-une-boulangerie-unique-a-paris-2981594.html)
 append_entries: 1
 Finish: 2024-08-15 01:16:29.903109
+------------------------------------------------------
+Started: 2024-08-15 12:39:48.278563
+Existing_entries: 274
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-15 12:39:48.564810

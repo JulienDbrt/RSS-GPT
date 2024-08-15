@@ -2233,3 +2233,18 @@ Summarized using GPT-4o-mini
 Append: [Négociations avec les fournisseurs : la Répression des fraudes sévit, 38 millions d'amende pour E. Leclerc](https://www.europe1.fr/economie/negociations-avec-les-fournisseurs-la-repression-des-fraudes-sevit-38-millions-damende-pour-e-leclerc-4262373)
 append_entries: 1
 Finish: 2024-08-15 01:14:56.946516
+------------------------------------------------------
+Started: 2024-08-15 12:37:54.862476
+Existing_entries: 323
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 294
+Summarized using GPT-4o-mini
+Append: [Rentée scolaire : les hypermarchés privilégiés par les Français pour faire baisser la facture](https://www.europe1.fr/economie/rentee-scolaire-les-hypermarches-privilegies-par-les-francais-pour-faire-baisser-la-facture-4262468)
+Token length: 360
+Summarized using GPT-4o-mini
+Append: [Paris 2024 : grâce aux Jeux, l’attractivité et le savoir-faire français encore mieux reconnus à l’international](https://www.europe1.fr/economie/paris-2024-grace-aux-jeux-lattractivite-et-le-savoir-faire-francais-encore-mieux-reconnu-a-linternational-4262396)
+Token length: 285
+Summarized using GPT-4o-mini
+Append: [Rentrée scolaire : changement de comportement, réutilisation... pourquoi le budget des Français va baisser cette année](https://www.europe1.fr/economie/rentee-scolaire-changement-de-comportement-reutilisation-pourquoi-le-budget-des-francais-va-baisser-cette-annee-4262411)
+append_entries: 3
+Finish: 2024-08-15 12:38:05.630151

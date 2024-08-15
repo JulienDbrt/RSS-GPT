@@ -1493,3 +1493,12 @@ Summarized using GPT-4o-mini
 Append: [Accident entre deux Rafale : deux pilotes sont portés disparus](https://www.francetvinfo.fr/france/grand-est/meurthe-et-moselle/accident-entre-deux-rafale-deux-pilotes-sont-portes-disparus_6725271.html)
 append_entries: 2
 Finish: 2024-08-15 01:15:53.190339
+------------------------------------------------------
+Started: 2024-08-15 12:38:51.110938
+Existing_entries: 75
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [Accident entre deux Rafale : "Cela a duré une seconde, c'était très impressionnant", confie un témoin de la collision](https://www.francetvinfo.fr/economie/aeronautique/rafale/accident-entre-deux-rafale-cela-a-dure-une-seconde-c-etait-tres-impressionnant-confie-un-temoin-de-la-collision_6726168.html)
+append_entries: 1
+Finish: 2024-08-15 12:38:54.712589

@@ -1703,3 +1703,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Plus personne n'obtient de permis de construire... À qui la faute ?](https://www.dna.fr/magazine-immobilier/2024/08/14/plus-personne-n-obtient-de-permis-de-construire-a-qui-la-faute)
 append_entries: 1
 Finish: 2024-08-15 01:14:47.834241
+------------------------------------------------------
+Started: 2024-08-15 12:37:48.199293
+Existing_entries: 145
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-08-15 12:37:49.968206
