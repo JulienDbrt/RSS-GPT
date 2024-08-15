@@ -1747,3 +1747,9 @@ Summarized using GPT-4o-mini
 Append: [Saint-Malo : la mairie valide le permis de construire d'un nouveau terminal ferry mais sa hauteur pose toujours problème aux Malouins](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/saint-malo-la-mairie-valide-le-permis-de-construire-d-un-nouveau-terminal-ferry-mais-sa-hauteur-pose-toujours-probleme-aux-malouins-3017813.html)
 append_entries: 1
 Finish: 2024-08-14 12:43:35.013569
+------------------------------------------------------
+Started: 2024-08-15 01:16:33.750402
+Existing_entries: 168
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-08-15 01:16:33.975471

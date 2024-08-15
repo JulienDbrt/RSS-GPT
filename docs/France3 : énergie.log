@@ -1650,3 +1650,12 @@ Existing_entries: 136
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-08-14 12:43:00.476541
+------------------------------------------------------
+Started: 2024-08-15 01:16:23.808844
+Existing_entries: 136
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 319
+Summarized using GPT-4o-mini
+Append: [D'impressionnants camions vibrants sondent les sols d'Alsace à la recherche du précieux lithium](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/d-impressionnants-camions-vibrants-sondent-les-sols-d-alsace-a-la-recherche-du-precieux-lithium-3018020.html)
+append_entries: 1
+Finish: 2024-08-15 01:16:26.638524
