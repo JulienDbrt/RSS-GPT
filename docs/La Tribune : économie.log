@@ -5194,3 +5194,12 @@ Summarized using GPT-4o-mini
 Append: [Classement de Shanghai : les universités américaines indétrônables, Paris-Saclay premier établissement de l'UE](https://www.latribune.fr/economie/international/classement-de-shanghai-les-universites-americaines-indetronables-paris-saclay-premier-etablissement-de-l-ue-1004248.html)
 append_entries: 4
 Finish: 2024-08-15 12:42:43.948647
+------------------------------------------------------
+Started: 2024-08-16 01:21:19.521912
+Existing_entries: 1004
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Plus de 40.000 morts à Gaza, discussions au Qatar en vue d'une trêve](https://www.latribune.fr/economie/international/plus-de-40-000-morts-a-gaza-discussions-au-qatar-en-vue-d-une-treve-1004261.html)
+append_entries: 1
+Finish: 2024-08-16 01:21:24.409892

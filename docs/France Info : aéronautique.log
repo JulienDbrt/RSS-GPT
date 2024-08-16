@@ -1502,3 +1502,15 @@ Summarized using GPT-4o-mini
 Append: [Accident entre deux Rafale : "Cela a duré une seconde, c'était très impressionnant", confie un témoin de la collision](https://www.francetvinfo.fr/economie/aeronautique/rafale/accident-entre-deux-rafale-cela-a-dure-une-seconde-c-etait-tres-impressionnant-confie-un-temoin-de-la-collision_6726168.html)
 append_entries: 1
 Finish: 2024-08-15 12:38:54.712589
+------------------------------------------------------
+Started: 2024-08-16 01:18:49.266395
+Existing_entries: 76
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [Collision mortelle entre deux Rafale : les deux pilotes retrouvés morts](https://www.francetvinfo.fr/faits-divers/accident/collision-mortelle-entre-deux-rafale-les-deux-pilotes-retrouves-morts_6726903.html)
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [Hongrie : l'offre controversée d'une compagnie aérienne proposant un abonnement illimité](https://www.francetvinfo.fr/economie/transports/hongrie-l-offre-controversee-d-une-compagnie-aerienne-proposant-un-abonnement-illimite_6726642.html)
+append_entries: 2
+Finish: 2024-08-16 01:18:55.773192

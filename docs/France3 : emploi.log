@@ -2283,3 +2283,9 @@ Summarized using GPT-4o-mini
 Append: [Crise immobilière : "Il y a une baisse entre 15 et 30%", mauvaise période pour les déménageurs](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/crise-immobiliere-il-y-a-une-baisse-entre-15-et-30-mauvaise-periode-pour-les-demenageurs-3018332.html)
 append_entries: 1
 Finish: 2024-08-15 12:40:29.600248
+------------------------------------------------------
+Started: 2024-08-16 01:19:34.566071
+Existing_entries: 343
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-08-16 01:19:34.846664

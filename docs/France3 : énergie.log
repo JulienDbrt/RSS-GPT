@@ -1665,3 +1665,12 @@ Existing_entries: 137
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-08-15 12:39:48.131051
+------------------------------------------------------
+Started: 2024-08-16 01:19:20.084939
+Existing_entries: 137
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 319
+Summarized using GPT-4o-mini
+Append: ["État ou pas, il doit se mettre en conformité". La justice suspend le chantier titanesque de ligne à très haute tension reliant la France et l'Espagne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/etat-ou-pas-il-doit-se-mettre-en-conformite-la-justice-suspend-le-chantier-titanesque-de-ligne-a-tres-haute-tension-reliant-la-france-et-l-espagne-3018302.html)
+append_entries: 1
+Finish: 2024-08-16 01:19:23.060354

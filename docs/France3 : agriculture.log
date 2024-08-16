@@ -3445,3 +3445,18 @@ Summarized using GPT-4o-mini
 Append: [L'augmentation du prix de la baguette se justifie-t-elle réellement par la mauvaise récolte de blé ? On vous explique](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/l-augmentation-du-prix-de-la-baguette-se-justifie-t-elle-reellement-par-la-mauvaise-recolte-de-ble-on-vous-explique-3018047.html)
 append_entries: 8
 Finish: 2024-08-15 12:40:20.524670
+------------------------------------------------------
+Started: 2024-08-16 01:19:23.772106
+Existing_entries: 730
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 285
+Summarized using GPT-4o-mini
+Append: [Un bâtiment agricole en flammes dans le Doubs, 4 pompiers blessés lors d'un spectaculaire incendie](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/un-batiment-agricole-en-flammes-dans-le-doubs-4-pompiers-blesses-lors-d-un-spectaculaire-incendie-3018509.html)
+Token length: 255
+Summarized using GPT-4o-mini
+Append: [Sécheresse : plusieurs rivières du Loiret et de l'Eure-et-Loir en situation de crise](https://france3-regions.francetvinfo.fr/centre-val-de-loire/eure-et-loir/secheresse-plusieurs-rivieres-du-loiret-et-de-l-eure-et-loir-en-situation-de-crise-3018500.html)
+Token length: 312
+Summarized using GPT-4o-mini
+Append: [Malgré les récentes pluies, la sécheresse en alerte maximale : des nouvelles mesures de restrictions de prélèvement d'eau](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/malgre-les-recentes-pluies-la-secheresse-en-alerte-maximale-des-nouvelles-mesures-de-restrictions-de-prelevement-d-eau-3018446.html)
+append_entries: 3
+Finish: 2024-08-16 01:19:33.606215
