@@ -2225,3 +2225,12 @@ Summarized using GPT-4o-mini
 Append: [Des vacances écolos sont-elles possibles ?](https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-jeudi-15-aout-2024-1873358)
 append_entries: 1
 Finish: 2024-08-16 01:19:06.404444
+------------------------------------------------------
+Started: 2024-08-16 12:38:46.841416
+Existing_entries: 315
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [Grands patrons, des rémunérations XXL](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-vendredi-16-aout-2024-3499152)
+append_entries: 1
+Finish: 2024-08-16 12:38:50.456392

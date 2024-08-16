@@ -4,6 +4,95 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>WireProxy – Le proxy WireGuard pour sécuriser et simplifier votre navigation</title>
+<link>https://korben.info/wireproxy-proxy-wireguard-securiser-simplifier-navigation.html</link>
+<guid>https://korben.info/wireproxy-proxy-wireguard-securiser-simplifier-navigation.html</guid>
+<content:encoded><![CDATA[
+<div> WireProxy, VPN, sécurité, proxy, open-source  
+
+<br><br>Summary:  
+Si vous cherchez une solution simple pour sécuriser votre navigation en ligne, WireProxy pourrait être la réponse. Ce logiciel open-source fonctionne comme un client proxy SOCKS5 ou HTTP, se connectant à un serveur WireGuard sans nécessiter de configuration complexe d'interface réseau. Une fois installé, il suffit d'ajuster votre navigateur pour qu'il utilise le proxy. Il propose diverses fonctionnalités intéressantes, comme le routage TCP et UDP statique, le support de SOCKS5 avec UDP, et l'authentification pour le proxy. Pour l'installation, clonez le dépôt GitHub, compilez le projet avec 'make', puis lancez WireProxy avec votre fichier de configuration. Ce dernier, qui utilise une syntaxe similaire à WireGuard, vous permet de définir l'interface et les pairs, de gérer des tunnels TCP/UDP, et de spécifier des ports d'écoute. Un autre atout majeur est sa capacité à se connecter à plusieurs pairs, en redirigeant le trafic selon les IP autorisées. WireProxy est donc un excellent choix pour naviguer en toute sécurité sans complexité inutile. Amusez-vous bien ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_word_WireProxy_written_security_proxy_connecti_e36b6f69-6ab9-41ce-a62e-f91135e720e1.webp" width="1456" /></p>
+<p>Vous en avez marre de galérer avec la configuration de VPN pour sécuriser votre navigation web et vous cherchez une solution simple et efficace pour protéger votre vie privée en ligne sans vous prendre la tête ?</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1122573871" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Avez vous pensé à <strong>WireProxy</strong> ?</p>
+
+
+
+<p>Ce petit logiciel open-source est un client qui se présente sous la forme d&rsquo;un proxy SOCKS5 ou HTTP et qui permet de se connecter à un serveur WireGuard et d&rsquo;exposer un proxy sur votre machine. Ça peut être super pratique si vous avez besoin d&rsquo;accéder à certains sites via VPN mais que vous n&rsquo;avez pas envie de vous embêter à configurer une nouvelle interface réseau. Une fois que c&rsquo;est en place chez vous, y&rsquo;a plus qu&rsquo;à configurer votre navigateur pour qu&rsquo;il passe par le proxy. Et pas besoin des droits root pour le configurer.</p>
+
+
+
+<p>En plus de ça, y&rsquo;a tout un tas de fonctionnalités bien cool :</p>
+
+
+
+<ul class="wp-block-list">
+<li>Routage statique TCP pour le client et le serveur </li>
+
+
+
+<li>Proxy SOCKS5/HTTP (pour l&rsquo;instant seul CONNECT est supporté)</li>
+
+
+
+<li>Support de l&rsquo;UDP dans SOCKS5</li>
+
+
+
+<li>Routage statique UDP</li>
+</ul>
+
+
+
+<p>Alors pour l&rsquo;installer : </p>
+
+
+
+<ol class="wp-block-list">
+<li>Clonez le dépôt GitHub : <code>git clone </code><a href="https://github.com/pufferffish/wireproxy">https://github.com/pufferffish/wireproxy</a><code> </code></li>
+
+
+
+<li>Allez dans le répertoire : <code>cd wireproxy</code></li>
+
+
+
+<li>Compilez le projet : <code>make</code></li>
+
+
+
+<li>Puis lancez <strong>WireProxy</strong> avec votre fichier de config (les détails sont sur Github) : <br /><code>./wireproxy -c chemin/vers/config.conf</code></li>
+</ol>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1588262534" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Le fichier de configuration utilise une syntaxe similaire à celle de WireGuard, donc si vous êtes déjà familier avec WireGuard, vous ne serez pas dépaysé.</p>
+
+
+
+<p>Vous pouvez y définir l&rsquo;interface et le ou les serveurs (les pairs), mais aussi configurer des tunnels TCP et UDP ainsi que le proxy SOCKS5 ou HTTP. L&rsquo;outil supporte même l&rsquo;authentification pour le proxy, il suffit de préciser un nom d&rsquo;utilisateur et un mot de passe dans la section <code>[Socks5]</code> ou <code>[http]</code>.</p>
+
+
+
+<p>Et voilà, vous êtes prêt à surfer en toute sécurité ! </p>
+
+
+
+<p>Autre point fort de <strong>WireProxy</strong> : il supporte la connexion à plusieurs pairs ! Il suffit de spécifier les <code>AllowedIPs</code> pour chaque pair pour qu&rsquo;il sache vers quel pairs rediriger le trafic. Et si vous voulez que les pairs puissent se connecter à votre instance <strong>WireProxy</strong>, c&rsquo;est possible aussi en précisant le port d&rsquo;écoute avec <code>ListenPort</code>.</p>
+
+
+
+<p>Amusez vous bien !</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Notipix – La nouvelle référence des manuels de Jeux vidéo rétro</title>

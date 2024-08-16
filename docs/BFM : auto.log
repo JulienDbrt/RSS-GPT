@@ -2049,3 +2049,18 @@ Summarized using GPT-4o-mini
 Append: [Ces stations-service qui vendent le gazole à moins de 1,60 le litre](https://www.bfmtv.com/auto/ces-stations-services-qui-vendent-le-gazole-a-moins-de-1-60-le-litre_AV-202408150445.html)
 append_entries: 1
 Finish: 2024-08-16 01:16:45.494016
+------------------------------------------------------
+Started: 2024-08-16 12:35:58.074785
+Existing_entries: 263
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [En Chine, l'essor de la conduite autonome inquiète les chauffeurs de taxi](https://www.bfmtv.com/auto/en-chine-l-essor-de-la-conduite-autonome-inquiete-les-chauffeurs-de-taxi_AV-202408160269.html)
+Token length: 273
+Summarized using GPT-4o-mini
+Append: [En Corée, des incendies provoqués par des voitures électriques sèment le doute chez les automobilistes](https://www.bfmtv.com/auto/en-coree-des-incendies-provoques-par-des-voitures-electriques-sement-le-doute-chez-les-automobilistes_AN-202408160031.html)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Bison Futé: un trafic chargé dès ce vendredi avant le chassé-croisé du week-end](https://www.bfmtv.com/auto/bison-fute-un-trafic-charge-des-ce-vendredi-avant-le-chasse-croise-du-week-end_AN-202408160020.html)
+append_entries: 3
+Finish: 2024-08-16 12:36:07.622048

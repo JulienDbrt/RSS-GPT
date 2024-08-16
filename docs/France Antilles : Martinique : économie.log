@@ -2516,3 +2516,15 @@ Existing_entries: 432
 Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
 append_entries: 0
 Finish: 2024-08-16 01:18:13.278376
+------------------------------------------------------
+Started: 2024-08-16 12:38:11.632426
+Existing_entries: 432
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 126
+Summarized using GPT-4o-mini
+Append: [Harris lève un coin de voile sur son programme économique](https://www.martinique.franceantilles.fr/actualite/politique/harris-leve-un-coin-de-voile-sur-son-programme-economique-999527.php)
+Token length: 91
+Summarized using GPT-4o-mini
+Append: [Japon: un typhon "très fort" touche la région de Tokyo](https://www.martinique.franceantilles.fr/actualite/economie/japon-un-typhon-tres-fort-touche-la-region-de-tokyo-999543.php)
+append_entries: 2
+Finish: 2024-08-16 12:38:17.052164

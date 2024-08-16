@@ -6387,3 +6387,24 @@ Summarized using GPT-4o-mini
 Append: [Tourisme : à 35 ans, le parc Astérix attire toujours plus de visiteurs](https://www.francetvinfo.fr/economie/tourisme/tourisme-a-35-ans-le-parc-asterix-attire-toujours-plus-de-visiteurs_6726618.html)
 append_entries: 10
 Finish: 2024-08-16 01:18:49.225267
+------------------------------------------------------
+Started: 2024-08-16 12:38:18.073846
+Existing_entries: 1010
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 104
+Summarized using GPT-4o-mini
+Append: [Automobile : les prix de l'essence ont baissé](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/automobile-les-prix-de-l-essence-ont-baisse_6727902.html)
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Collision mortelle entre deux Rafale : les deux pilotes disparus ont été retrouvés morts](https://www.francetvinfo.fr/economie/aeronautique/rafale/collision-mortelle-entre-deux-rafale-les-deux-pilotes-disparus-ont-ete-retrouves-morts_6727893.html)
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGES. "Nous, on veut le foot le week-end" : les supporters des clubs de Ligue 2 s'insurgent contre les matchs le vendredi](https://www.francetvinfo.fr/sports/foot/ligue-2/temoignages-nous-on-veut-le-foot-le-week-end-les-supporters-des-clubs-de-ligue-2-s-insurgent-contre-les-matchs-le-vendredi_6727770.html)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "C'est compliqué, mais il faut s'accrocher" : les étudiants peinent de plus en plus à trouver un logement](https://www.francetvinfo.fr/societe/education/reportage-c-est-complique-mais-il-faut-s-accrocher-les-etudiants-peinent-de-plus-en-plus-a-trouver-un-logement_6726963.html)
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : Estoniens, Sud-Africains, Suisses… Quels touristes ont le plus apprécié les restaurants français pendant les Jeux ?](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/jo-de-paris-2024-estoniens-sud-africains-suisses-quels-touristes-ont-le-plus-apprecie-les-restaurants-francais-pendant-les-jeux_6726579.html)
+append_entries: 5
+Finish: 2024-08-16 12:38:35.410066

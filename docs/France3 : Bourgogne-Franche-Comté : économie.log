@@ -2091,3 +2091,15 @@ Existing_entries: 277
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-08-16 01:19:34.026696
+------------------------------------------------------
+Started: 2024-08-16 12:39:32.172737
+Existing_entries: 277
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 296
+Summarized using GPT-4o-mini
+Append: [Accident de personne vers Seurre, incident technique dans la Nièvre... des perturbations sur deux lignes TER en Bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/accident-de-personne-vers-seurre-incident-technique-dans-la-nievre-des-perturbations-sur-deux-lignes-ter-en-bourgogne-3018590.html)
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [INSOLITE. Il crée une Tour Eiffel en bois de 4,40 mètres dans son jardin : "ce monument me fascine depuis 1967"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/insolite-il-cree-une-tour-eiffel-en-bois-de-4-40-metres-dans-son-jardin-ce-monument-me-fascine-depuis-1967-3018428.html)
+append_entries: 2
+Finish: 2024-08-16 12:39:40.207751

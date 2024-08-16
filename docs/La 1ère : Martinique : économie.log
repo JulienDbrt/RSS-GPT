@@ -1675,3 +1675,15 @@ Summarized using GPT-4o-mini
 Append: [Reprise mouvementée des navettes maritimes en Martinique](https://la1ere.francetvinfo.fr/martinique/reprise-mouvementee-des-navettes-maritimes-en-martinique-1514108.html)
 append_entries: 1
 Finish: 2024-08-16 01:20:40.030114
+------------------------------------------------------
+Started: 2024-08-16 12:41:01.110312
+Existing_entries: 125
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 28
+Summarized using GPT-4o-mini
+Append: [Une indemnisation des exploitants apicoles martiniquais inadaptée au contexte local](https://la1ere.francetvinfo.fr/martinique/une-indemnisation-des-exploitants-apicoles-martiniquais-inadaptee-au-contexte-local-1514168.html)
+Token length: 77
+Summarized using GPT-4o-mini
+Append: [Les marins-pêcheurs du Cap Chevalier en Martinique sont régulièrement victimes de vols](https://la1ere.francetvinfo.fr/martinique/les-marins-pecheurs-du-cap-chevalier-en-martinique-sont-regulierement-victimes-de-vols-1514129.html)
+append_entries: 2
+Finish: 2024-08-16 12:41:08.239841
