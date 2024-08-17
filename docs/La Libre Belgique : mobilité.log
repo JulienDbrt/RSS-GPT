@@ -1955,3 +1955,15 @@ Summarized using GPT-4o-mini
 Append: [Un avion de Brussels Airlines atterrit en urgence à Lyon](https://www.lalibre.be/belgique/mobilite/2024/08/16/un-avion-de-brussels-airlines-atterrit-en-urgence-a-lyon-HDM6BL33DFG5XOZZTEBLSPSFN4/)
 append_entries: 1
 Finish: 2024-08-17 01:17:42.362272
+------------------------------------------------------
+Started: 2024-08-17 12:35:51.206645
+Existing_entries: 247
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 108
+Summarized using GPT-4o-mini
+Append: [Des embarras sur l'autoroute de la mer à la suite d'une collision à Tronchiennes](https://www.lalibre.be/belgique/mobilite/2024/08/17/des-embarras-sur-lautoroute-de-la-mer-a-la-suite-dune-collision-a-tronchiennes-F5M23CPJCZGBBI4XUOIFTEQXVE/)
+Token length: 76
+Summarized using GPT-4o-mini
+Append: [Une jeune femme de 22 ans décède dans un accident de la route sur la E17](https://www.lalibre.be/belgique/mobilite/2024/08/17/une-jeune-femme-de-22-ans-decede-dans-un-accident-de-la-route-sur-la-e17-EZOU2D7ZDNBXXETQ3T7LNVOQL4/)
+append_entries: 2
+Finish: 2024-08-17 12:35:56.701646

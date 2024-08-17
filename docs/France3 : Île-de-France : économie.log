@@ -2097,3 +2097,9 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris : Vélib' souhaiterait pérenniser les stations éphémères lors de grands événements](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-velib-souhaiterait-perenniser-les-stations-ephemeres-lors-de-grands-evenements-3018779.html)
 append_entries: 1
 Finish: 2024-08-17 01:15:40.705495
+------------------------------------------------------
+Started: 2024-08-17 12:33:55.151247
+Existing_entries: 275
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-17 12:33:55.314364

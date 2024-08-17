@@ -1959,3 +1959,9 @@ Summarized using GPT-4o-mini
 Append: [Entraves dans le grand Montréal: voici les secteurs à éviter cette fin de semaine](https://www.journaldemontreal.com/2024/08/15/entraves-dans-le-grand-montreal-voici-les-secteurs-a-eviter-cette-fin-de-semaine)
 append_entries: 3
 Finish: 2024-08-17 01:16:12.122089
+------------------------------------------------------
+Started: 2024-08-17 12:34:33.743959
+Existing_entries: 219
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-08-17 12:34:33.842737

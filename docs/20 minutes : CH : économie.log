@@ -2398,3 +2398,9 @@ Summarized using GPT-4o-mini
 Append: [Un restaurant de pizzas pris pour cible par des hackers](https://www.20min.ch/fr/story/suisse-un-restaurant-de-pizzas-pris-pour-cible-par-des-hackers-103169764)
 append_entries: 1
 Finish: 2024-08-17 01:12:56.548690
+------------------------------------------------------
+Started: 2024-08-17 12:31:21.573666
+Existing_entries: 402
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-08-17 12:31:21.944497

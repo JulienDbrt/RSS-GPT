@@ -2429,3 +2429,15 @@ Existing_entries: 385
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-08-17 01:15:22.499707
+------------------------------------------------------
+Started: 2024-08-17 12:33:29.950923
+Existing_entries: 385
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 112
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "C'est toujours ça de pris" : les automobilistes profitent d'une baisse des prix du carburant](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/reportage-c-est-toujours-ca-de-pris-les-automobilistes-profitent-d-une-baisse-des-prix-du-carburant_6726987.html)
+Token length: 105
+Summarized using GPT-4o-mini
+Append: [Pour le dernier chassé-croisé de l'été, plus de 1 000 kilomètres de bouchons cumulés à la mi-journée](https://www.francetvinfo.fr/economie/transports/trafic/pour-le-dernier-chasse-croise-de-l-ete-pres-de-1-000-kilometres-de-bouchons-cumules-a-la-mi-journee_6729741.html)
+append_entries: 2
+Finish: 2024-08-17 12:33:36.027912

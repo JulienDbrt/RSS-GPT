@@ -1608,3 +1608,15 @@ Existing_entries: 112
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-08-17 01:15:53.527564
+------------------------------------------------------
+Started: 2024-08-17 12:34:14.083340
+Existing_entries: 112
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 371
+Summarized using GPT-4o-mini
+Append: ["On a 60 demandes par bien" : Trouver un logement, la galère pour ces étudiants à quelques jours de la rentrée](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/on-a-60-demandes-par-bien-trouver-un-logement-la-galere-pour-ces-etudiants-a-quelques-jours-de-la-rentree-3018986.html)
+Token length: 324
+Summarized using GPT-4o-mini
+Append: ["Chaque été, c'est le stress". Explosion des prix, offres insuffisantes, arnaques... L'éternel combat des étudiants pour se loger avant la rentrée](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/chaque-ete-c-est-le-stress-explosion-des-prix-offres-insuffisantes-arnaques-l-eternel-combat-des-etudiants-pour-se-loger-avant-la-rentree-3018734.html)
+append_entries: 2
+Finish: 2024-08-17 12:34:19.458715
