@@ -1523,3 +1523,9 @@ Summarized using GPT-4o-mini
 Append: [Collision mortelle entre deux Rafale : les deux pilotes disparus ont été retrouvés morts](https://www.francetvinfo.fr/economie/aeronautique/rafale/collision-mortelle-entre-deux-rafale-les-deux-pilotes-disparus-ont-ete-retrouves-morts_6727893.html)
 append_entries: 1
 Finish: 2024-08-16 12:38:40.471357
+------------------------------------------------------
+Started: 2024-08-17 01:15:20.446053
+Existing_entries: 79
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-08-17 01:15:20.582089

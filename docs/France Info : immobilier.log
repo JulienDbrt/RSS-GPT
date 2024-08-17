@@ -1580,3 +1580,9 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. "C'est compliqué, mais il faut s'accrocher" : les étudiants peinent de plus en plus à trouver un logement](https://www.francetvinfo.fr/societe/education/reportage-c-est-complique-mais-il-faut-s-accrocher-les-etudiants-peinent-de-plus-en-plus-a-trouver-un-logement_6726963.html)
 append_entries: 1
 Finish: 2024-08-16 12:38:44.207130
+------------------------------------------------------
+Started: 2024-08-17 01:15:21.044789
+Existing_entries: 98
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-08-17 01:15:21.174909

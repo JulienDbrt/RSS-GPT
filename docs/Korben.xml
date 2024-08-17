@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>WireProxy – Le proxy WireGuard pour sécuriser et simplifier votre navigation</title>
 <link>https://korben.info/wireproxy-proxy-wireguard-securiser-simplifier-navigation.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> WireProxy, VPN, sécurité, proxy, open-source  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Si vous cherchez une solution simple pour sécuriser votre navigation en ligne, WireProxy pourrait être la réponse. Ce logiciel open-source fonctionne comme un client proxy SOCKS5 ou HTTP, se connectant à un serveur WireGuard sans nécessiter de configuration complexe d'interface réseau. Une fois installé, il suffit d'ajuster votre navigateur pour qu'il utilise le proxy. Il propose diverses fonctionnalités intéressantes, comme le routage TCP et UDP statique, le support de SOCKS5 avec UDP, et l'authentification pour le proxy. Pour l'installation, clonez le dépôt GitHub, compilez le projet avec 'make', puis lancez WireProxy avec votre fichier de configuration. Ce dernier, qui utilise une syntaxe similaire à WireGuard, vous permet de définir l'interface et les pairs, de gérer des tunnels TCP/UDP, et de spécifier des ports d'écoute. Un autre atout majeur est sa capacité à se connecter à plusieurs pairs, en redirigeant le trafic selon les IP autorisées. WireProxy est donc un excellent choix pour naviguer en toute sécurité sans complexité inutile. Amusez-vous bien ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_word_WireProxy_written_security_proxy_connecti_e36b6f69-6ab9-41ce-a62e-f91135e720e1.webp" width="1456" /></p>
 <p>Vous en avez marre de galérer avec la configuration de VPN pour sécuriser votre navigation web et vous cherchez une solution simple et efficace pour protéger votre vie privée en ligne sans vous prendre la tête ?</p>
@@ -91,9 +92,7 @@ Si vous cherchez une solution simple pour sécuriser votre navigation en ligne, 
 <p>Amusez vous bien !</p>
 ]]></content:encoded>
 <pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 16 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Notipix – La nouvelle référence des manuels de Jeux vidéo rétro</title>
 <link>https://korben.info/notipix-reference-ultime-manuels-jeux-video-retro.html</link>

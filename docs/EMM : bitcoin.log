@@ -7676,3 +7676,15 @@ Summarized using GPT-4o-mini
 Append: [Les prix du Bitcoin et de l’Ethereum chutent soudainement alors que les liquidations dépassent 175 millions de dollars](https://www.nouvelles-du-monde.com/les-prix-du-bitcoin-et-de-lethereum-chutent-soudainement-alors-que-les-liquidations-depassent-175-millions-de-dollars/)
 append_entries: 2
 Finish: 2024-08-16 12:32:00.637857
+------------------------------------------------------
+Started: 2024-08-17 01:10:34.194852
+Existing_entries: 1002
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 95
+Summarized using GPT-4o-mini
+Append: [Bourse aujourd’hui : les indices boursiers en baisse après une hausse alimentée par les données](https://www.nouvelles-du-monde.com/bourse-aujourdhui-les-indices-boursiers-en-baisse-apres-une-hausse-alimentee-par-les-donnees/)
+Token length: 47
+Summarized using GPT-4o-mini
+Append: [Ambiance au beau fixe sur les marchés européens](https://www.allnews.ch/content/march%C3%A9s/ambiance-au-beau-fixe-sur-les-march%C3%A9s-europ%C3%A9ens)
+append_entries: 2
+Finish: 2024-08-17 01:10:43.466299

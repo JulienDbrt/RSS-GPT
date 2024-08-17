@@ -1687,3 +1687,9 @@ Summarized using GPT-4o-mini
 Append: [Les marins-pêcheurs du Cap Chevalier en Martinique sont régulièrement victimes de vols](https://la1ere.francetvinfo.fr/martinique/les-marins-pecheurs-du-cap-chevalier-en-martinique-sont-regulierement-victimes-de-vols-1514129.html)
 append_entries: 2
 Finish: 2024-08-16 12:41:08.239841
+------------------------------------------------------
+Started: 2024-08-17 01:16:47.046731
+Existing_entries: 127
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-08-17 01:16:47.648034

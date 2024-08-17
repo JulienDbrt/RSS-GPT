@@ -2088,3 +2088,12 @@ Existing_entries: 274
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-16 12:39:24.697837
+------------------------------------------------------
+Started: 2024-08-17 01:15:38.889955
+Existing_entries: 274
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [JO de Paris : Vélib' souhaiterait pérenniser les stations éphémères lors de grands événements](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-velib-souhaiterait-perenniser-les-stations-ephemeres-lors-de-grands-evenements-3018779.html)
+append_entries: 1
+Finish: 2024-08-17 01:15:40.705495

@@ -2528,3 +2528,9 @@ Summarized using GPT-4o-mini
 Append: [Japon: un typhon "très fort" touche la région de Tokyo](https://www.martinique.franceantilles.fr/actualite/economie/japon-un-typhon-tres-fort-touche-la-region-de-tokyo-999543.php)
 append_entries: 2
 Finish: 2024-08-16 12:38:17.052164
+------------------------------------------------------
+Started: 2024-08-17 01:14:57.105123
+Existing_entries: 434
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-08-17 01:14:57.809027
