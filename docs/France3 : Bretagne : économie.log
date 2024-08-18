@@ -1792,3 +1792,15 @@ Existing_entries: 169
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-18 01:21:03.407098
+------------------------------------------------------
+Started: 2024-08-18 12:36:49.279678
+Existing_entries: 169
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 173
+Summarized using GPT-4o-mini
+Append: [Une jeune femme décède après un accident de la route dans les Côtes-d'Armor](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/une-jeune-femme-decede-apres-un-accident-de-la-route-dans-les-cotes-d-armor-3019244.html)
+Token length: 254
+Summarized using GPT-4o-mini
+Append: [2000 foyers touchés par une panne téléphonique du réseau SFR au sud de l'Ille-et-Vilaine : l'hôpital de Redon joignable via un numéro de portable uniquement](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/panne-du-reseau-telephonique-de-sfr-au-sud-de-l-ille-et-vilaine-l-hopital-de-redon-joignable-via-un-numero-de-portable-uniquement-3019229.html)
+append_entries: 2
+Finish: 2024-08-18 12:36:54.683939

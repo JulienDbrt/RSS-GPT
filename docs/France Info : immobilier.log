@@ -1601,3 +1601,9 @@ Summarized using GPT-4o-mini
 Append: [Seine-Saint-Denis : la galère des habitants d’une tour de 18 étages, privés d'ascenseurs](https://www.francetvinfo.fr/france/ile-de-france/seine-saint-denis/seine-saint-denis-la-galere-des-habitants-d-une-tour-de-18-etages-prives-d-ascenseurs_6730140.html)
 append_entries: 1
 Finish: 2024-08-18 01:20:45.724257
+------------------------------------------------------
+Started: 2024-08-18 12:36:26.445427
+Existing_entries: 99
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-08-18 12:36:26.501804

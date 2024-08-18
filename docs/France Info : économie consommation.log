@@ -6480,3 +6480,24 @@ Summarized using GPT-4o-mini
 Append: [Vacances : de nombreux contrôles de police sur les routes pour le week-end de chassé-croisé](https://www.francetvinfo.fr/economie/transports/vacances-de-nombreux-controles-de-police-sur-les-routes-pour-le-week-end-de-chasse-croise_6730119.html)
 append_entries: 4
 Finish: 2024-08-18 01:20:42.558668
+------------------------------------------------------
+Started: 2024-08-18 12:36:00.573562
+Existing_entries: 1004
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [En Espagne, la mairie de Séville veut couper l'eau aux locations touristiques illégales](https://www.francetvinfo.fr/replay-radio/le-monde-est-a-nous/en-espagne-la-mairie-de-seville-veut-couper-l-eau-aux-locations-touristiques-illegales_6678387.html)
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Intelligence artificielle : "Des voix de synthèse pour communiquer, sans âme, est-ce que c’est cela qu'on veut ?" s’interroge une comédienne voix-off](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/des-voix-de-synthese-pour-communiquer-sans-ame-est-ce-que-c-est-cela-qu-on-veut-s-interroge-une-comedienne-voix-off_6643161.html)
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Prix, contraintes, suppléments... Que vaut l'abonnement "illimité" que lance la compagnie aérienne Wizz Air ?](https://www.francetvinfo.fr/economie/transports/prix-contraintes-supplements-que-vaut-l-abonnement-illimite-que-lance-la-compagnie-aerienne-wizz-air_6729861.html)
+Token length: 228
+Summarized using GPT-4o-mini
+Append: [TEMOIGNAGES. "On se fait chambrer alors qu'on fait ça pour la planète" : devenir végétarien, un choix qui reste difficile à assumer à l'heure du barbecue](https://www.francetvinfo.fr/economie/temoignages-on-se-fait-chambrer-alors-qu-on-fait-ca-pour-la-planete-devenir-vegetarien-un-choix-qui-reste-difficile-a-assumer-a-l-heure-du-barbecue_6671646.html)
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Des conditions réunies pour avoir de nouveaux arbres" : dans la calanque de Sugiton, les quotas contre le surtourisme commencent à faire effet](https://www.francetvinfo.fr/economie/tourisme/reportage-des-conditions-reunies-pour-avoir-de-nouveaux-arbres-dans-la-calanque-de-sugiton-les-quotas-contre-le-surtourisme-commencent-a-faire-effet_6729840.html)
+append_entries: 5
+Finish: 2024-08-18 12:36:25.639529

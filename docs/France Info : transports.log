@@ -2453,3 +2453,12 @@ Summarized using GPT-4o-mini
 Append: [Vacances : de nombreux contrôles de police sur les routes pour le week-end de chassé-croisé](https://www.francetvinfo.fr/economie/transports/vacances-de-nombreux-controles-de-police-sur-les-routes-pour-le-week-end-de-chasse-croise_6730119.html)
 append_entries: 2
 Finish: 2024-08-18 01:20:50.373651
+------------------------------------------------------
+Started: 2024-08-18 12:36:26.707980
+Existing_entries: 389
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Prix, contraintes, suppléments... Que vaut l'abonnement "illimité" que lance la compagnie aérienne Wizz Air ?](https://www.francetvinfo.fr/economie/transports/prix-contraintes-supplements-que-vaut-l-abonnement-illimite-que-lance-la-compagnie-aerienne-wizz-air_6729861.html)
+append_entries: 1
+Finish: 2024-08-18 12:36:30.447056

@@ -3514,3 +3514,12 @@ Summarized using GPT-4o-mini
 Append: [Un hangar agricole prend totalement feu et s'effondre, aucune victime à déplorer](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/un-hangar-agricole-prend-totalement-feu-et-s-effondre-aucune-victime-a-deplorer-3019061.html)
 append_entries: 1
 Finish: 2024-08-18 01:21:02.656431
+------------------------------------------------------
+Started: 2024-08-18 12:36:44.081611
+Existing_entries: 743
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 230
+Summarized using GPT-4o-mini
+Append: ["Les orages ont impacté 70 à 80% des producteurs", la récolte des pruneaux encore indécise après les épisodes de grêle](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/les-orages-ont-impacte-70-a-80-des-producteurs-la-recolte-des-pruneaux-encore-indecise-apres-les-episodes-de-grele-3019157.html)
+append_entries: 1
+Finish: 2024-08-18 12:36:46.119256

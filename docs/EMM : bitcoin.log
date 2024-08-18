@@ -7715,3 +7715,12 @@ Summarized using GPT-4o-mini
 Append: [Selon l’analyste Benjamin Cowen, Ethereum est prêt à affronter Bitcoin – voici la chronologie](https://www.nouvelles-du-monde.com/selon-lanalyste-benjamin-cowen-ethereum-est-pret-a-affronter-bitcoin-voici-la-chronologie/)
 append_entries: 2
 Finish: 2024-08-18 01:17:02.085656
+------------------------------------------------------
+Started: 2024-08-18 12:31:21.533390
+Existing_entries: 1002
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 108
+Summarized using GPT-4o-mini
+Append: [Comment le trader de Poutine est rentré au pays à la faveur de la libération du journaliste Evan Gershkovich](https://www.lesechos.fr/finance-marches/marches-financiers/comment-le-trader-de-poutine-est-rentre-au-pays-a-la-faveur-de-la-liberation-du-journaliste-evan-gershkovich-2114044)
+append_entries: 1
+Finish: 2024-08-18 12:31:25.759362

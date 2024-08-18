@@ -4482,3 +4482,15 @@ Summarized using GPT-4o-mini
 Append: [Qu’est-ce que le Fouga Magister, l’avion qui s’est écrasé en mer au large du Lavandou?](https://www.bfmtv.com/economie/entreprises/aeronautique/qu-est-ce-que-le-fouga-magister-l-avion-qui-s-est-ecrase-en-mer-au-large-du-lavandou_AD-202408170234.html)
 append_entries: 3
 Finish: 2024-08-18 01:19:52.639211
+------------------------------------------------------
+Started: 2024-08-18 12:34:51.611907
+Existing_entries: 1003
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Mort d’Alain Delon: parfums, cigarettes, meubles... Derrière l'icône du cinéma, un homme d’affaires touche-à-tout](https://www.bfmtv.com/economie/entreprises/culture-loisirs/mort-d-alain-delon-parfums-cigarettes-meubles-derriere-l-icone-du-cinema-un-homme-d-affaires-touche-a-tout_AV-202408180203.html)
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [À la découverte de l'immense usine Volkswagen](https://www.bfmtv.com/economie/entreprises/transports/a-la-decouverte-de-l-immense-usine-volkswagen_VN-202408180090.html)
+append_entries: 2
+Finish: 2024-08-18 12:34:59.968371
