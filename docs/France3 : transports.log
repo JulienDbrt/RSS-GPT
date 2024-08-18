@@ -4168,3 +4168,21 @@ Summarized using GPT-4o-mini
 Append: [Randonnées, vélo, kayak... Découvrez les Alpes Mancelles au cœur de la Sarthe](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/le-mans/randonnees-velo-kayak-decouvrez-les-alpes-mancelles-au-c-ur-de-la-sarthe-3010322.html)
 append_entries: 4
 Finish: 2024-08-17 12:34:33.059475
+------------------------------------------------------
+Started: 2024-08-18 01:21:06.857755
+Existing_entries: 971
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Accident de la route: 12 personnes impliquées dans un violent choc entre un minibus et une voiture dans l'Indre](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre/accident-de-la-route-12-personnes-impliquees-dans-un-violent-choc-entre-un-minibus-et-une-voiture-dans-l-indre-3019148.html)
+Token length: 293
+Summarized using GPT-4o-mini
+Append: ["C'est plus sécurisant", sur le pont de Saint-Nazaire, les cyclotouristes se ruent sur la navette gratuite qui permet de franchir la Loire en toute sécurité](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/c-est-plus-securisant-sur-le-pont-de-saint-nazaire-les-cyclotouristes-se-ruent-sur-la-navette-gratuite-qui-permet-de-franchir-la-loire-en-toute-securite-3019118.html)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [On vous raconte l'histoire du port fluvial d'Orléans, l'un des plus animés et des plus grands de France](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/on-vous-raconte-l-histoire-du-port-fluvial-d-orleans-l-un-des-plus-animes-et-des-plus-grands-de-france-3014543.html)
+Token length: 319
+Summarized using GPT-4o-mini
+Append: [Week-end de chassé-croisé. 177 km de ralentissements, accidents : la circulation plus difficile que prévu dans le sens des retours](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/week-end-de-chasse-croise-177-km-de-ralentissements-accidents-la-circulation-plus-difficile-que-prevu-dans-le-sens-des-retours-3019058.html)
+append_entries: 4
+Finish: 2024-08-18 01:21:20.821161

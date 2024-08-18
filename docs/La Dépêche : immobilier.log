@@ -1687,3 +1687,9 @@ Summarized using GPT-4o-mini
 Append: [Elle doit vendre la maison du grand-père pour payer l’EHPAD, mais la mairie de Toulouse veut préempter](https://www.ladepeche.fr/2024/08/17/elle-doit-vendre-la-maison-du-grand-pere-pour-payer-lehpad-mais-la-mairie-de-toulouse-veut-preempter-12141767.php)
 append_entries: 1
 Finish: 2024-08-17 12:35:39.217368
+------------------------------------------------------
+Started: 2024-08-18 01:21:57.012896
+Existing_entries: 133
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-08-18 01:21:57.573300

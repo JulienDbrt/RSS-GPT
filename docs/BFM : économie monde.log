@@ -1950,3 +1950,12 @@ Summarized using GPT-4o-mini
 Append: [Donald Trump a gagné 300.000 dollars grâce à la vente de bibles](https://www.bfmtv.com/economie/international/donald-trump-a-gagne-300-000-dollars-grace-a-la-vente-de-bibles_AV-202408170160.html)
 append_entries: 1
 Finish: 2024-08-17 12:31:45.205248
+------------------------------------------------------
+Started: 2024-08-18 01:19:30.138306
+Existing_entries: 224
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [L'envolée du chômage des jeunes, reflet du ralentissement économique de la Chine](https://www.bfmtv.com/economie/international/l-envolee-du-chomage-des-jeunes-reflet-du-ralentissement-economique-de-la-chine_AD-202408170254.html)
+append_entries: 1
+Finish: 2024-08-18 01:19:32.371052

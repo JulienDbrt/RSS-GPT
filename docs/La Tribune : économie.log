@@ -5239,3 +5239,15 @@ Summarized using GPT-4o-mini
 Append: [La Chine s'enfonce un peu plus dans la crise : le chômage des jeunes s'envole](https://www.latribune.fr/economie/international/la-chine-s-enfonce-un-peu-plus-dans-la-crise-le-chomage-des-jeunes-s-envole-1004317.html)
 append_entries: 1
 Finish: 2024-08-17 12:36:00.375806
+------------------------------------------------------
+Started: 2024-08-18 01:22:02.750513
+Existing_entries: 1001
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 335
+Summarized using GPT-4o-mini
+Append: [Guerre en Ukraine : Berlin va diviser de moitié son aide militaire à Kiev en 2025](https://www.latribune.fr/economie/union-europeenne/guerre-en-ukraine-berlin-va-diviser-de-moitie-son-aide-militaire-a-kiev-en-2025-1004322.html)
+Token length: 303
+Summarized using GPT-4o-mini
+Append: [L'armée ukrainienne annonce renforcer ses positions en Russie](https://www.latribune.fr/economie/international/l-armee-ukrainienne-annonce-renforcer-ses-positions-en-russie-1004321.html)
+append_entries: 2
+Finish: 2024-08-18 01:22:07.369346

@@ -6196,3 +6196,12 @@ Summarized using GPT-4o-mini
 Append: [CAF : quand toucherez-vous le virement de l'allocation de rentrée scolaire ?](https://www.moneyvox.fr/votre-argent/actualites/99174/caf-quand-toucherez-vous-le-virement-de-allocation-de-rentree-scolaire)
 append_entries: 5
 Finish: 2024-08-17 12:33:53.775075
+------------------------------------------------------
+Started: 2024-08-18 01:20:52.204261
+Existing_entries: 1005
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Retraite : « Quand la complémentaire Agirc-Arrco va-t-elle augmenter ? »](https://www.moneyvox.fr/retraite/actualites/99179/quand-la-complementaire-agirc-arrco-va-t-elle-augmenter)
+append_entries: 1
+Finish: 2024-08-18 01:20:54.690731

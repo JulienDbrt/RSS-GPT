@@ -1620,3 +1620,12 @@ Summarized using GPT-4o-mini
 Append: ["Chaque été, c'est le stress". Explosion des prix, offres insuffisantes, arnaques... L'éternel combat des étudiants pour se loger avant la rentrée](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/chaque-ete-c-est-le-stress-explosion-des-prix-offres-insuffisantes-arnaques-l-eternel-combat-des-etudiants-pour-se-loger-avant-la-rentree-3018734.html)
 append_entries: 2
 Finish: 2024-08-17 12:34:19.458715
+------------------------------------------------------
+Started: 2024-08-18 01:21:04.064553
+Existing_entries: 114
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 250
+Summarized using GPT-4o-mini
+Append: [Le plancher du 1er étage s'affaisse, l'immeuble menace de s'effondrer, ses habitants sains et saufs](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/le-plancher-du-1er-etage-s-affaisse-l-immeuble-menace-de-s-effondrer-ses-habitants-sains-et-saufs-3019100.html)
+append_entries: 1
+Finish: 2024-08-18 01:21:06.318177

@@ -4467,3 +4467,18 @@ Summarized using GPT-4o-mini
 Append: [Bernard Arnault retrouve le podium des plus grosses fortunes mondiales](https://www.bfmtv.com/economie/entreprises/bernard-arnault-retrouve-le-podium-des-plus-grosses-fortunes-mondiales_AV-202408170138.html)
 append_entries: 1
 Finish: 2024-08-17 12:31:54.922209
+------------------------------------------------------
+Started: 2024-08-18 01:19:45.749150
+Existing_entries: 1001
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Kazakhstan: un Boeing 777 de Swiss International Airlines contraint d'effectuer un atterrissage d'urgence](https://www.bfmtv.com/economie/entreprises/aeronautique/kazakhstan-un-boeing-777-de-swiss-international-airlines-contraint-d-effectuer-un-atterrissage-d-urgence_AN-202408170298.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [De 8 à 4 milliards d'euros: l'Allemagne va réduire de moitié son aide militaire à l'Ukraine en 2025](https://www.bfmtv.com/economie/entreprises/defense/de-8-a-4-milliards-d-euros-l-allemagne-va-reduire-de-moitie-son-aide-militaire-a-l-ukraine-en-2025_AD-202408170241.html)
+Token length: 185
+Summarized using GPT-4o-mini
+Append: [Qu’est-ce que le Fouga Magister, l’avion qui s’est écrasé en mer au large du Lavandou?](https://www.bfmtv.com/economie/entreprises/aeronautique/qu-est-ce-que-le-fouga-magister-l-avion-qui-s-est-ecrase-en-mer-au-large-du-lavandou_AD-202408170234.html)
+append_entries: 3
+Finish: 2024-08-18 01:19:52.639211
