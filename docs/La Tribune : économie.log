@@ -5287,3 +5287,12 @@ Summarized using GPT-4o-mini
 Append: [Retour à... Notre-Dame de Paris : résurrection d’une cathédrale](https://www.latribune.fr/economie/france/retour-a-notre-dame-de-paris-resurrection-d-une-cathedrale-1004397.html)
 append_entries: 10
 Finish: 2024-08-18 12:39:06.987198
+------------------------------------------------------
+Started: 2024-08-19 01:19:03.973313
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Guerre en Ukraine : Kiev affirme « renforcer » ses positions dans la région russe de Koursk](https://www.latribune.fr/economie/international/guerre-en-ukraine-kiev-affirme-renforcer-ses-positions-dans-la-region-russe-de-koursk-1004428.html)
+append_entries: 1
+Finish: 2024-08-19 01:19:06.736874

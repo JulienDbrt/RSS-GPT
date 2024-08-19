@@ -7724,3 +7724,18 @@ Summarized using GPT-4o-mini
 Append: [Comment le trader de Poutine est rentré au pays à la faveur de la libération du journaliste Evan Gershkovich](https://www.lesechos.fr/finance-marches/marches-financiers/comment-le-trader-de-poutine-est-rentre-au-pays-a-la-faveur-de-la-liberation-du-journaliste-evan-gershkovich-2114044)
 append_entries: 1
 Finish: 2024-08-18 12:31:25.759362
+------------------------------------------------------
+Started: 2024-08-19 01:14:06.047460
+Existing_entries: 1001
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 65
+Summarized using GPT-4o-mini
+Append: [Ce que la chute récente des marchés financiers dit… et ne dit pas](https://laminute.info/2024/08/18/ce-que-la-chute-recente-des-marches-financiers-dit-et-ne-dit-pas/)
+Token length: 65
+Summarized using GPT-4o-mini
+Append: [Ce que la chute récente des marchés financiers dit… et ne dit pas](https://theconversation.com/ce-que-la-chute-recente-des-marches-financiers-dit-et-ne-dit-pas-236802)
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [Une grande baleine cryptographique déplace 104 millions de jetons XRP](https://www.nouvelles-du-monde.com/une-grande-baleine-cryptographique-deplace-104-millions-de-jetons-xrp/)
+append_entries: 3
+Finish: 2024-08-19 01:14:15.687160

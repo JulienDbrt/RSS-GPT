@@ -3523,3 +3523,9 @@ Summarized using GPT-4o-mini
 Append: ["Les orages ont impacté 70 à 80% des producteurs", la récolte des pruneaux encore indécise après les épisodes de grêle](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/les-orages-ont-impacte-70-a-80-des-producteurs-la-recolte-des-pruneaux-encore-indecise-apres-les-episodes-de-grele-3019157.html)
 append_entries: 1
 Finish: 2024-08-18 12:36:46.119256
+------------------------------------------------------
+Started: 2024-08-19 01:17:49.584196
+Existing_entries: 744
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+append_entries: 0
+Finish: 2024-08-19 01:17:49.853477

@@ -2319,3 +2319,12 @@ Existing_entries: 343
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-08-18 12:36:55.105884
+------------------------------------------------------
+Started: 2024-08-19 01:17:50.755665
+Existing_entries: 343
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 312
+Summarized using GPT-4o-mini
+Append: ["On sent vraiment une grosse, grosse fatigue." Ouvriers, cuisiniers, employés de pressing, ces métiers qui souffrent des fortes chaleurs](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/on-sent-vraiment-une-grosse-grosse-fatigue-ouvriers-cuisiniers-employes-de-pressing-ces-metiers-qui-souffrent-des-fortes-chaleurs-3019151.html)
+append_entries: 1
+Finish: 2024-08-19 01:17:54.692928

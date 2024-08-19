@@ -1804,3 +1804,9 @@ Summarized using GPT-4o-mini
 Append: [2000 foyers touchés par une panne téléphonique du réseau SFR au sud de l'Ille-et-Vilaine : l'hôpital de Redon joignable via un numéro de portable uniquement](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/panne-du-reseau-telephonique-de-sfr-au-sud-de-l-ille-et-vilaine-l-hopital-de-redon-joignable-via-un-numero-de-portable-uniquement-3019229.html)
 append_entries: 2
 Finish: 2024-08-18 12:36:54.683939
+------------------------------------------------------
+Started: 2024-08-19 01:17:50.337872
+Existing_entries: 171
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-08-19 01:17:50.573980

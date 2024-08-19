@@ -7003,3 +7003,15 @@ Summarized using GPT-4o-mini
 Append: [Présidentielle américaine : pourquoi Kamala Harris peut battre Trump](https://www.latribune.fr/economie/international/presidentielle-americaine-2024/presidentielle-americaine-pourquoi-kamala-harris-peut-battre-trump-1004369.html)
 append_entries: 10
 Finish: 2024-08-18 12:39:32.702968
+------------------------------------------------------
+Started: 2024-08-19 01:19:07.491545
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Guerre en Ukraine : Kiev affirme « renforcer » ses positions dans la région russe de Koursk](https://www.latribune.fr/economie/international/guerre-en-ukraine-kiev-affirme-renforcer-ses-positions-dans-la-region-russe-de-koursk-1004428.html)
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [Elon Musk annonce la fermeture des bureaux de X au Brésil](https://www.latribune.fr/technos-medias/internet/elon-musk-annonce-la-fermeture-des-bureaux-de-x-au-bresil-1004427.html)
+append_entries: 2
+Finish: 2024-08-19 01:19:13.437719
