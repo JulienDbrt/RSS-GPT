@@ -4,6 +4,76 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Ghore – Convertissez vos fichiers Markdown en HTML façon GitHub</title>
+<link>https://korben.info/ghore-convertissez-markdown-html-github.html</link>
+<guid>https://korben.info/ghore-convertissez-markdown-html-github.html</guid>
+<content:encoded><![CDATA[
+<div> Ghore, Markdown, HTML, prévisualisation, open-source
+
+<br><br>Summary: Ghore est un outil open-source qui permet de convertir facilement des fichiers Markdown en HTML avec un rendu identique à celui de GitHub. Cet outil vous évite de devoir pusher vos modifications pour voir le résultat de votre README.md, grâce à une prévisualisation instantanée directement dans votre terminal. Ghore fonctionne hors-ligne, ce qui signifie que vous pouvez l’utiliser où bon vous semble, même dans des endroits sans connexion Internet. Il surveille également les changements apportés à votre fichier Markdown et met à jour le rendu HTML en temps réel, offrant une expérience de prévisualisation presque magique. Les blocs de code bénéficient d’un rendu coloré grâce à Starry Night, rendant la lecture du code dans le terminal plus agréable. De plus, Ghore supporte la prévisualisation des blocs de code Mermaid, permettant la création de diagrammes interactifs, un atout que même l’API de GitHub n’offre pas nativement. Pour commencer avec Ghore, il vous suffit de cloner le dépôt, d’installer les dépendances via npm et de lancer votre fichier Markdown. Vous pouvez aussi personnaliser le rendu HTML via le fichier CSS fourni. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_text_Ghore_github_spirit_d7eefe11-5e0e-4382-9fe5-d6e381d16732.webp" width="1456" /></p>
+<p>Vous êtes développeur ou rédacteur et vous travaillez souvent avec <strong>GitHub</strong> ? Alors laissez-moi vous présenter <strong><a href="https://github.com/p-balu/ghore" rel="noopener" target="_blank">Ghore</a></strong>, un outil en ligne de commande qui va changer votre façon de prévisualiser vos fichiers Markdown avant de les committer !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-820794089" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ghore est un outil open-source qui convertit simplement vos fichiers Markdown en HTML, en imitant à la perfection le style de rendu de GitHub. Fini le temps où vous deviez pusher vos modifications pour voir à quoi ressemblera votre README.md une fois sur GitHub. Là, vous aurez un aperçu instantané, directement dans votre terminal :</p>
+
+
+
+<ul class="wp-block-list">
+<li>
+Vous pouvez l&rsquo;utiliser complètement hors-ligne. Pas besoin d&rsquo;Internet pour faire mumuse avec vos fichiers Markdown. Vous pouvez même l&rsquo;utiliser dans un bunker anti-atomique, si ça vous chante !
+</li>
+
+
+
+<li>
+Il surveille automatiquement les changements dans votre fichier Markdown et met à jour le rendu HTML en temps réel. C&rsquo;est un peu comme si Ghore lisait dans vos pensées et anticipait vos moindres modifications. Flippant et génial à la fois.
+</li>
+
+
+
+<li>
+Vous aimez les blocs de code colorés et syntaxiquement parfaits ? Ghore aussi ! Grâce à l&rsquo;intégration de <strong>Starry Night</strong>, vos blocs de code n&rsquo;ont jamais été aussi beaux. C&rsquo;est presque un plaisir de lire du code dans le terminal.
+</li>
+
+
+
+<li>
+Cerise sur le gâteau, Ghore prend en charge la prévisualisation en direct des blocs de code Mermaid. Vous savez, ces diagrammes super pratiques qu&rsquo;on peut faire en Markdown ? Eh bien, même l&rsquo;API de GitHub ne les prend pas en charge nativement, mais Ghore, si ! Vous allez pouvoir épater vos collègues avec vos diagrammes interactifs.
+</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159540" height="576" src="https://korben.info/app/uploads/2024/04/ghoreScreenshot1-1024x576.webp" width="1024" /></figure></div>
+
+
+<p>Bref, pour utiliser Ghore, rien de plus simple. Clonez le dépôt, installez les dépendances avec npm, et vous êtes prêt à convertir vos fichiers Markdown en un clin d&rsquo;œil.</p>
+
+
+
+<pre class="wp-block-code"><code>git clone https://github.com/p-balu/ghore.git
+
+cd ghore
+
+npm install
+
+npm start votre/fichier/README.md</code></pre>
+
+
+
+<p>Et si vous voulez personnaliser le rendu HTML, pour mettre du Comic Sans rose fluo sur fond vert, allez-y, personne ne vous jugera (enfin, presque) ! Ghore vient en effet, avec son propre fichier CSS que vous pouvez tripatouiller à votre guise.</p>
+
+
+
+<p><a href="https://github.com/p-balu/ghore" rel="noopener" target="_blank">C&rsquo;est dispo ici.</a></p>
+]]></content:encoded>
+<pubDate>Mon, 19 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 19 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Silverfox – Revivez la nostalgie du Chrome de 2012 sur Firefox</title>

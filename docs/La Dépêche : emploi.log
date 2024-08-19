@@ -2461,3 +2461,12 @@ Summarized using GPT-4o-mini
 Append: [La danseuse toulousaine Eléa Bigot brille sur les planches de l’opéra royal de Stockholm](https://www.ladepeche.fr/2024/08/18/la-danseuse-toulousaine-elea-bigot-brille-sur-les-planches-de-lopera-royal-de-stockholm-12145032.php)
 append_entries: 1
 Finish: 2024-08-19 01:18:52.354933
+------------------------------------------------------
+Started: 2024-08-19 12:45:13.340244
+Existing_entries: 385
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 214
+Summarized using GPT-4o-mini
+Append: ["Il faut être curieux, volontaire et indépendant" : comment devenir commissaire-enquêteur](https://www.ladepeche.fr/2024/08/19/il-faut-etre-curieux-volontaire-et-independant-comment-devenir-commissaire-enqueteur-12147252.php)
+append_entries: 1
+Finish: 2024-08-19 12:45:17.524191
