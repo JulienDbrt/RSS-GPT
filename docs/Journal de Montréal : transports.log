@@ -2001,3 +2001,9 @@ Summarized using GPT-4o-mini
 Append: [Chemins de fer: grève et lock-out en vue jeudi](https://www.journaldemontreal.com/2024/08/18/chemins-de-fer-greve-et-lock-out-en-vue-jeudi)
 append_entries: 1
 Finish: 2024-08-20 01:23:52.446169
+------------------------------------------------------
+Started: 2024-08-20 12:43:03.677898
+Existing_entries: 221
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-08-20 12:43:03.837619

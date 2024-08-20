@@ -2560,3 +2560,18 @@ Existing_entries: 464
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-20 01:24:11.813259
+------------------------------------------------------
+Started: 2024-08-20 12:43:17.679911
+Existing_entries: 464
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2983
+Summarized using GPT-4o-mini
+Append: [Voitures électriques chinoises : l’UE veut imposer jusqu’à 36 % de taxes](https://www.lexpress.fr/economie/voitures-electriques-chinoises-lue-veut-imposer-jusqua-36-de-taxes-5LORA2MOPZEQ5AWKAT4OHEXCHU/)
+Token length: 2805
+Summarized using GPT-4o-mini
+Append: [Boeing : cette nouvelle faille de sécurité qui menace la compagnie américaine](https://www.lexpress.fr/economie/boeing-cette-nouvelle-faille-de-securite-qui-menace-la-compagnie-americaine-DR7SPALS2BEQDJMS4UHFLAI7ZA/)
+Token length: 5270
+Summarized using GPT-4o-mini
+Append: [OpenAI : ce que cachent les départs en série des fondateurs](https://www.lexpress.fr/economie/high-tech/openai-ce-que-cachent-les-departs-en-serie-des-fondateurs-OJMUF53GOZC4VA4YRW6SVNC7AU/)
+append_entries: 3
+Finish: 2024-08-20 12:43:33.642946

@@ -1831,3 +1831,12 @@ Existing_entries: 174
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-20 01:23:22.742066
+------------------------------------------------------
+Started: 2024-08-20 12:42:38.464764
+Existing_entries: 174
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 284
+Summarized using GPT-4o-mini
+Append: [A Belle-île, la citadelle Vauban a trouvé un repreneur](https://france3-regions.francetvinfo.fr/bretagne/morbihan/a-belle-ile-la-citadelle-vauban-a-trouve-un-repreneur-3019853.html)
+append_entries: 1
+Finish: 2024-08-20 12:42:42.357964

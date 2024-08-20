@@ -3553,3 +3553,18 @@ Existing_entries: 748
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-08-20 01:23:18.382212
+------------------------------------------------------
+Started: 2024-08-20 12:42:27.465767
+Existing_entries: 748
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Pour la sauver de l'abattoir, et si vous adoptiez une poule pondeuse ? Cet éleveur les vend à trois euros](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/pour-la-sauver-de-l-abattoir-et-si-vous-adoptiez-une-poule-pondeuse-cet-eleveur-les-vend-a-trois-euros-3019916.html)
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [Incendie de Frontignan. "Plus rien n'est exploitable" : le cauchemar des viticulteurs qui ont tout perdu](https://france3-regions.francetvinfo.fr/occitanie/herault/sete/incendie-de-frontignan-plus-rien-n-est-exploitable-le-cauchemar-des-viticulteurs-qui-ont-tout-perdu-3019904.html)
+Token length: 335
+Summarized using GPT-4o-mini
+Append: [Irrigation. "On n'a pas notre mot à dire" : les agriculteurs du Sud-Ouest en colère contre la hausse des redevances et la baisse des quotas](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/irrigation-on-n-a-pas-notre-mot-a-dire-les-agriculteurs-du-sud-ouest-en-colere-contre-la-hausse-des-redevances-et-la-baisse-des-quotas-3019892.html)
+append_entries: 3
+Finish: 2024-08-20 12:42:37.618420

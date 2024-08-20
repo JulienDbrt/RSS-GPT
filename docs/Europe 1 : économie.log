@@ -2311,3 +2311,15 @@ Existing_entries: 329
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-20 01:22:21.133617
+------------------------------------------------------
+Started: 2024-08-20 12:40:55.566072
+Existing_entries: 329
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 303
+Summarized using GPT-4o-mini
+Append: [L'UE veut imposer jusqu'à 36% de taxes pendant cinq ans sur les voitures électriques chinoises](https://www.europe1.fr/economie/lue-veut-imposer-jusqua-36-de-taxes-pendant-cinq-ans-sur-les-voitures-electriques-chinoises-4263121)
+Token length: 380
+Summarized using GPT-4o-mini
+Append: [Près de Bordeaux, une commune accepte le paiement en cryptomonnaie](https://www.europe1.fr/economie/pres-de-bordeaux-une-ville-de-a-accepter-le-paiement-en-cryptomonnaie-4263038)
+append_entries: 2
+Finish: 2024-08-20 12:41:04.576471
