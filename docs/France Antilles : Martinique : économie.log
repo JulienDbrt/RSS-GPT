@@ -2588,3 +2588,12 @@ Summarized using GPT-4o-mini
 Append: [Décès du chef Michel Guérard, trois étoiles au Michelin depuis 1977](https://www.martinique.franceantilles.fr/actualite/economie/deces-du-chef-michel-guerard-trois-etoiles-au-michelin-depuis-1977-999786.php)
 append_entries: 4
 Finish: 2024-08-19 12:41:26.299352
+------------------------------------------------------
+Started: 2024-08-20 01:22:21.360284
+Existing_entries: 442
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 82
+Summarized using GPT-4o-mini
+Append: [Le "Bill Gates britannique" parmi les disparus du naufrage d'un yacht en Italie](https://www.martinique.franceantilles.fr/actualite/economie/le-bill-gates-britannique-parmi-les-disparus-du-naufrage-dun-yacht-en-italie-999804.php)
+append_entries: 1
+Finish: 2024-08-20 01:22:26.774299

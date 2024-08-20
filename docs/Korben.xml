@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Ghore – Convertissez vos fichiers Markdown en HTML façon GitHub</title>
 <link>https://korben.info/ghore-convertissez-markdown-html-github.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Ghore, Markdown, HTML, prévisualisation, open-source
 
-<br><br>Summary: Ghore est un outil open-source qui permet de convertir facilement des fichiers Markdown en HTML avec un rendu identique à celui de GitHub. Cet outil vous évite de devoir pusher vos modifications pour voir le résultat de votre README.md, grâce à une prévisualisation instantanée directement dans votre terminal. Ghore fonctionne hors-ligne, ce qui signifie que vous pouvez l’utiliser où bon vous semble, même dans des endroits sans connexion Internet. Il surveille également les changements apportés à votre fichier Markdown et met à jour le rendu HTML en temps réel, offrant une expérience de prévisualisation presque magique. Les blocs de code bénéficient d’un rendu coloré grâce à Starry Night, rendant la lecture du code dans le terminal plus agréable. De plus, Ghore supporte la prévisualisation des blocs de code Mermaid, permettant la création de diagrammes interactifs, un atout que même l’API de GitHub n’offre pas nativement. Pour commencer avec Ghore, il vous suffit de cloner le dépôt, d’installer les dépendances via npm et de lancer votre fichier Markdown. Vous pouvez aussi personnaliser le rendu HTML via le fichier CSS fourni. <div>
+<br /><br />Summary: Ghore est un outil open-source qui permet de convertir facilement des fichiers Markdown en HTML avec un rendu identique à celui de GitHub. Cet outil vous évite de devoir pusher vos modifications pour voir le résultat de votre README.md, grâce à une prévisualisation instantanée directement dans votre terminal. Ghore fonctionne hors-ligne, ce qui signifie que vous pouvez l’utiliser où bon vous semble, même dans des endroits sans connexion Internet. Il surveille également les changements apportés à votre fichier Markdown et met à jour le rendu HTML en temps réel, offrant une expérience de prévisualisation presque magique. Les blocs de code bénéficient d’un rendu coloré grâce à Starry Night, rendant la lecture du code dans le terminal plus agréable. De plus, Ghore supporte la prévisualisation des blocs de code Mermaid, permettant la création de diagrammes interactifs, un atout que même l’API de GitHub n’offre pas nativement. Pour commencer avec Ghore, il vous suffit de cloner le dépôt, d’installer les dépendances via npm et de lancer votre fichier Markdown. Vous pouvez aussi personnaliser le rendu HTML via le fichier CSS fourni. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_text_Ghore_github_spirit_d7eefe11-5e0e-4382-9fe5-d6e381d16732.webp" width="1456" /></p>
 <p>Vous êtes développeur ou rédacteur et vous travaillez souvent avec <strong>GitHub</strong> ? Alors laissez-moi vous présenter <strong><a href="https://github.com/p-balu/ghore" rel="noopener" target="_blank">Ghore</a></strong>, un outil en ligne de commande qui va changer votre façon de prévisualiser vos fichiers Markdown avant de les committer !</p>
 
@@ -72,9 +73,7 @@ npm start votre/fichier/README.md</code></pre>
 <p><a href="https://github.com/p-balu/ghore" rel="noopener" target="_blank">C&rsquo;est dispo ici.</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 19 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 19 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Silverfox – Revivez la nostalgie du Chrome de 2012 sur Firefox</title>
 <link>https://korben.info/silverfox-theme-firefox-chrome-2012-nostalgie.html</link>

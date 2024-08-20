@@ -2443,3 +2443,12 @@ Summarized using GPT-4o-mini
 Append: [«Des filles dépensent plus de 1000 francs pour un sac à dos»](https://www.20min.ch/fr/story/rentree-scolaire-des-filles-depensent-plus-de-1000-francs-pour-un-sac-a-dos-103170362)
 append_entries: 3
 Finish: 2024-08-19 12:37:29.939738
+------------------------------------------------------
+Started: 2024-08-20 01:19:27.916055
+Existing_entries: 407
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Travail.Suisse veut des hausses de salaire jusqu'à 4%](https://www.20min.ch/fr/story/suisse-travailsuisse-veut-des-hausses-de-salaire-jusqu-a-4-103170969)
+append_entries: 1
+Finish: 2024-08-20 01:19:31.442410

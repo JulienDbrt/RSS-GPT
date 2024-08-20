@@ -1653,3 +1653,9 @@ Summarized using GPT-4o-mini
 Append: ["400 km par jour pour gérer 30 logements" Les folles journées d'été des conciergeries de la côte normande](https://france3-regions.francetvinfo.fr/normandie/calvados/400-km-par-jour-pour-gerer-30-logements-les-folles-journees-d-ete-des-conciergeries-de-la-cote-normande-3019421.html)
 append_entries: 1
 Finish: 2024-08-19 12:43:30.533084
+------------------------------------------------------
+Started: 2024-08-20 01:23:23.279928
+Existing_entries: 117
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-08-20 01:23:24.105009
