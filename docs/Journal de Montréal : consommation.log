@@ -1864,3 +1864,9 @@ Summarized using GPT-4o-mini
 Append: [Un thon de 850 livres pêché en Gaspésie](https://www.journaldemontreal.com/2024/08/19/un-thon-de-850-livres-peche-en-gaspesie)
 append_entries: 1
 Finish: 2024-08-21 01:21:20.086397
+------------------------------------------------------
+Started: 2024-08-21 12:41:13.235782
+Existing_entries: 170
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-08-21 12:41:16.646395

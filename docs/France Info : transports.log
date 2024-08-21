@@ -2498,3 +2498,12 @@ Summarized using GPT-4o-mini
 Append: [La SNCF a vendu 225 000 Pass rail à la mi-août sur 700 000 jeunes éligibles](https://www.francetvinfo.fr/economie/transports/sncf/la-sncf-a-vendu-225-000-pass-rail-a-la-mi-aout-sur-700-000-jeunes-eligibles_6734553.html)
 append_entries: 1
 Finish: 2024-08-21 01:20:19.853728
+------------------------------------------------------
+Started: 2024-08-21 12:38:55.853482
+Existing_entries: 392
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 313
+Summarized using GPT-4o-mini
+Append: [INTERVIEW. Vols annulés ou retardés : "Souvent, les passagers réclament juste un remboursement, alors qu'ils peuvent obtenir beaucoup plus", estime une juriste](https://www.francetvinfo.fr/economie/aeronautique/vols-annules-ou-retardes-souvent-les-passagers-reclament-juste-un-remboursement-alors-qu-ils-peuvent-obtenir-beaucoup-plus-estime-une-juriste_6734478.html)
+append_entries: 1
+Finish: 2024-08-21 12:38:59.258233

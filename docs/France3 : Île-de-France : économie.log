@@ -2166,3 +2166,18 @@ Summarized using GPT-4o-mini
 Append: [BHV : le mythique magasin parisien dans la tourmente après son rachat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/bhv-les-marques-tournent-le-dos-au-mythique-magasin-parisien-3020171.html)
 append_entries: 2
 Finish: 2024-08-21 01:20:43.929214
+------------------------------------------------------
+Started: 2024-08-21 12:40:02.127222
+Existing_entries: 282
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Jeux paralympiques de Paris 2024 : le Village des athlètes a rouvert ses portes](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/jeux-paralympiques-de-paris-2024-le-village-des-athletes-a-rouvert-ses-portes-3020522.html)
+Token length: 273
+Summarized using GPT-4o-mini
+Append: [Blé : moissons désastreuses en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ble-moissons-desastreuses-en-ile-de-france-3020375.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [RER B : à quand la fin de la galère ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/rer-b-a-quand-la-fin-de-la-galere-2984108.html)
+append_entries: 3
+Finish: 2024-08-21 12:40:11.842539

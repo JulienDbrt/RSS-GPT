@@ -1738,3 +1738,12 @@ Summarized using GPT-4o-mini
 Append: [Des Toulousains craignent l’effondrement d’un balcon situé au cœur de la ville : les pompiers sécurisent la zone](https://www.ladepeche.fr/2024/08/20/des-toulousains-craignent-leffondrement-dun-balcon-situe-au-coeur-de-la-ville-les-pompiers-securisent-la-zone-12150622.php)
 append_entries: 2
 Finish: 2024-08-21 01:23:10.533674
+------------------------------------------------------
+Started: 2024-08-21 12:43:13.260372
+Existing_entries: 136
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Marguerite, un nouvel habitat participatif](https://www.ladepeche.fr/2024/08/21/marguerite-un-nouvel-habitat-participatif-12151164.php)
+append_entries: 1
+Finish: 2024-08-21 12:43:23.691665

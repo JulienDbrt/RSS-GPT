@@ -2364,3 +2364,12 @@ Summarized using GPT-4o-mini
 Append: [Les salariés du groupe Bénéteau en chômage partiel jusqu'à l'été 2025 ?](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/les-salaries-du-groupe-beneteau-en-chomage-partiel-jusqu-a-l-ete-2025-3019961.html)
 append_entries: 2
 Finish: 2024-08-21 01:21:02.416034
+------------------------------------------------------
+Started: 2024-08-21 12:40:47.277853
+Existing_entries: 348
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 174
+Summarized using GPT-4o-mini
+Append: [Vendanges 2024 : la course pour recruter des vendangeurs a commencé](https://france3-regions.francetvinfo.fr/grand-est/alsace/vendanges-2024-la-course-pour-recruter-des-vendangeurs-a-commence-3020042.html)
+append_entries: 1
+Finish: 2024-08-21 12:40:50.540459

@@ -2476,3 +2476,18 @@ Summarized using GPT-4o-mini
 Append: [Traverser le Lötschberg avec sa voiture coûtera plus cher](https://www.20min.ch/fr/story/suisse-traverser-le-loetschberg-avec-sa-voiture-coutera-plus-cher-103171627)
 append_entries: 1
 Finish: 2024-08-21 01:16:17.841887
+------------------------------------------------------
+Started: 2024-08-21 12:34:44.355984
+Existing_entries: 412
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 131
+Summarized using GPT-4o-mini
+Append: [Les magasins Migros changent de nom... et vendront de l'alcool](https://www.20min.ch/fr/story/commerce-migros-va-disparaitre-de-france-voisine-au-profit-du-groupe-u-103172055)
+Token length: 105
+Summarized using GPT-4o-mini
+Append: [La chaîne Subway veut ouvrir 70 nouvelles succursales en sept ans](https://www.20min.ch/fr/story/suisse-la-chaine-subway-veut-ouvrir-70-nouvelles-succursales-en-sept-ans-103171965)
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [Payer avec la Maestro coûte désormais plus cher aux commerçants](https://www.20min.ch/fr/story/suisse-payer-avec-la-maestro-coute-desormais-plus-cher-aux-commercants-103171399)
+append_entries: 3
+Finish: 2024-08-21 12:34:54.654872
