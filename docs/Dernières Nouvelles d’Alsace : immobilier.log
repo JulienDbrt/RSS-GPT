@@ -1787,3 +1787,12 @@ Existing_entries: 151
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-08-20 12:40:51.041441
+------------------------------------------------------
+Started: 2024-08-21 01:19:19.870872
+Existing_entries: 151
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 134
+Summarized using GPT-4o-mini
+Append: [Immobilier. Que est ce document que vous devez connaître si vous vivez en immeuble ?](https://www.dna.fr/magazine-immobilier/2024/08/20/que-est-ce-document-que-vous-devez-connaitre-si-vous-vivez-en-immeuble)
+append_entries: 1
+Finish: 2024-08-21 01:19:23.875550

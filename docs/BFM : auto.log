@@ -2136,3 +2136,21 @@ Summarized using GPT-4o-mini
 Append: [Carburants: le prix du gazole au plus bas depuis deux ans et demi](https://www.bfmtv.com/auto/carburants-le-prix-du-gazole-au-plus-bas-depuis-deux-ans-et-demi_AV-202408200300.html)
 append_entries: 1
 Finish: 2024-08-20 12:38:29.020942
+------------------------------------------------------
+Started: 2024-08-21 01:17:25.283563
+Existing_entries: 274
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Prix des carburants: la carte des stations-service les moins chères près de chez vous](https://www.bfmtv.com/auto/le-plein-bfm-prix-des-carburants-la-carte-des-stations-service-les-moins-cheres-pres-de-chez-vous_GN-202309190015.html)
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [Pékin "s'oppose vigoureusement" aux droits de douanes européens sur les voitures chinoises](https://www.bfmtv.com/auto/pekin-s-oppose-vigoureusement-aux-droits-de-douanes-europeens-sur-les-voitures-chinoises_AD-202408200538.html)
+Token length: 229
+Summarized using GPT-4o-mini
+Append: [Voitures électriques: les surtaxes des Tesla importées de Chine divisées par deux par l’UE](https://www.bfmtv.com/auto/voitures-electriques-les-surtaxes-des-tesla-importees-de-chine-divisees-par-deux-par-l-ue_AV-202408200433.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Stellantis va recruter 450 intérimaires à Sochaux pour la production des Peugeot 3008 et 5008](https://www.bfmtv.com/auto/stellantis-va-recruter-450-interimaires-a-sochaux-pour-la-production-des-peugeot-3008-et-5008_AD-202408200410.html)
+append_entries: 4
+Finish: 2024-08-21 01:17:35.624110

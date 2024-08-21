@@ -2323,3 +2323,12 @@ Summarized using GPT-4o-mini
 Append: [Près de Bordeaux, une commune accepte le paiement en cryptomonnaie](https://www.europe1.fr/economie/pres-de-bordeaux-une-ville-de-a-accepter-le-paiement-en-cryptomonnaie-4263038)
 append_entries: 2
 Finish: 2024-08-20 12:41:04.576471
+------------------------------------------------------
+Started: 2024-08-21 01:19:32.900496
+Existing_entries: 331
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 293
+Summarized using GPT-4o-mini
+Append: [Budget : Gabriel Attal propose la reconduction à l'identique des crédits de l'État en 2025](https://www.europe1.fr/economie/budget-gabriel-attal-propose-la-reconduction-a-lidentique-des-credits-de-letat-en-2025-4263162)
+append_entries: 1
+Finish: 2024-08-21 01:19:36.178857

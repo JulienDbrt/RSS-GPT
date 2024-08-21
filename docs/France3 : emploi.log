@@ -2352,3 +2352,15 @@ Existing_entries: 346
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-08-20 12:42:42.823943
+------------------------------------------------------
+Started: 2024-08-21 01:20:54.009459
+Existing_entries: 346
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 254
+Summarized using GPT-4o-mini
+Append: ["Buffalo Grill a pris la décision de rompre le contrat de franchise" : sans nouvelles de leur patron, des salariés veulent comprendre](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/ils-manifestent-devant-leur-restaurant-sans-nouvelle-de-leur-patron-des-salaries-veulent-comprendre-3020279.html)
+Token length: 235
+Summarized using GPT-4o-mini
+Append: [Les salariés du groupe Bénéteau en chômage partiel jusqu'à l'été 2025 ?](https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/les-salaries-du-groupe-beneteau-en-chomage-partiel-jusqu-a-l-ete-2025-3019961.html)
+append_entries: 2
+Finish: 2024-08-21 01:21:02.416034

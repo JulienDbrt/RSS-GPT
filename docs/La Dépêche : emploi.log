@@ -2488,3 +2488,15 @@ Existing_entries: 388
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-08-20 12:44:40.826371
+------------------------------------------------------
+Started: 2024-08-21 01:22:53.210985
+Existing_entries: 388
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Les déplacement à vélo sont-ils la solution miracle pour la bastide ? Des pistes de réponse avec Adrien Chaud](https://www.ladepeche.fr/2024/08/20/les-deplacement-a-velo-sont-ils-la-solution-miracle-pour-la-bastide-des-pistes-de-reponse-avec-adrien-chaud-12150260.php)
+Token length: 166
+Summarized using GPT-4o-mini
+Append: [Fermeture du Buffalo Grill de Montauban : les salariés et la CGT maintiennent la pression](https://www.ladepeche.fr/2024/08/20/fermeture-du-buffalo-grill-de-montauban-les-salaries-et-la-cgt-maintiennent-la-pression-12150264.php)
+append_entries: 2
+Finish: 2024-08-21 01:22:59.057638

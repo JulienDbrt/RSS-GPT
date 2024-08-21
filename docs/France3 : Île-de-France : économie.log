@@ -2154,3 +2154,15 @@ Existing_entries: 280
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-20 12:42:27.061928
+------------------------------------------------------
+Started: 2024-08-21 01:20:34.576394
+Existing_entries: 280
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 164
+Summarized using GPT-4o-mini
+Append: [Panne électrique à la gare Saint-Lazare : reprise progressive du trafic](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/panne-electrique-a-la-gare-saint-lazare-reprise-progressive-du-trafic-3020285.html)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [BHV : le mythique magasin parisien dans la tourmente après son rachat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/bhv-les-marques-tournent-le-dos-au-mythique-magasin-parisien-3020171.html)
+append_entries: 2
+Finish: 2024-08-21 01:20:43.929214

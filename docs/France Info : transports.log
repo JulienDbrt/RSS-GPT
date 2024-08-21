@@ -2489,3 +2489,12 @@ Summarized using GPT-4o-mini
 Append: [Jeux paralympiques : l’impossible défi de l’accessibilité de transports](https://www.francetvinfo.fr/sante/handicap/jeux-paralympiques-l-impossible-defi-de-l-accessibilite-de-transports_6734127.html)
 append_entries: 1
 Finish: 2024-08-20 12:41:45.081186
+------------------------------------------------------
+Started: 2024-08-21 01:20:17.366043
+Existing_entries: 391
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [La SNCF a vendu 225 000 Pass rail à la mi-août sur 700 000 jeunes éligibles](https://www.francetvinfo.fr/economie/transports/sncf/la-sncf-a-vendu-225-000-pass-rail-a-la-mi-aout-sur-700-000-jeunes-eligibles_6734553.html)
+append_entries: 1
+Finish: 2024-08-21 01:20:19.853728

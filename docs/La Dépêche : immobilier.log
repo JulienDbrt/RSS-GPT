@@ -1726,3 +1726,15 @@ Existing_entries: 134
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-08-20 12:44:41.384212
+------------------------------------------------------
+Started: 2024-08-21 01:22:59.129997
+Existing_entries: 134
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [INFO LA DEPECHE. Squats de piscines privées : bientôt une brigade spécialisée à Toulouse ?](https://www.ladepeche.fr/2024/08/20/info-la-depeche-bientot-une-brigade-specialisee-contre-les-squats-de-piscines-privees-a-toulouse-12150245.php)
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [Des Toulousains craignent l’effondrement d’un balcon situé au cœur de la ville : les pompiers sécurisent la zone](https://www.ladepeche.fr/2024/08/20/des-toulousains-craignent-leffondrement-dun-balcon-situe-au-coeur-de-la-ville-les-pompiers-securisent-la-zone-12150622.php)
+append_entries: 2
+Finish: 2024-08-21 01:23:10.533674
