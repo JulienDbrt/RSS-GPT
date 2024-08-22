@@ -2252,3 +2252,18 @@ Existing_entries: 302
 Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
 append_entries: 0
 Finish: 2024-08-21 12:34:55.631540
+------------------------------------------------------
+Started: 2024-08-22 01:17:34.807711
+Existing_entries: 302
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 154
+Summarized using GPT-4o-mini
+Append: [Livret A en tête, l’épargne des Français dépasse les 650 milliards d’euros](https://www.20minutes.fr/economie/4106539-20240821-livret-tete-epargne-francais-depasse-650-milliards-euros)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Tourisme : « Pas de différence avec les étés précédents ».. A Collioure, le timide effet du village préféré des Français](https://www.20minutes.fr/economie/4106521-20240821-tourisme-difference-precedents-collioure-timide-effet-village-prefere-francais)
+Token length: 161
+Summarized using GPT-4o-mini
+Append: [« Mon endettement est presque à zéro »… Lagardère (enfin) en règle avec le fisc après avoir casqué 205 millions d’euros](https://www.20minutes.fr/economie/4106472-20240821-endettement-presque-zero-lagardere-enfin-regle-fisc-apres-avoir-casque-205-millions-euros)
+append_entries: 3
+Finish: 2024-08-22 01:17:44.826170

@@ -2239,3 +2239,9 @@ Summarized using GPT-4o-mini
 Append: [Alain Delon sera enterré dans sa propriété: quelles sont les règles pour se faire inhumer chez soi?](https://www.bfmtv.com/immobilier/alain-delon-sera-enterre-dans-sa-propriete-quelles-sont-les-regles-pour-se-faire-inhumer-chez-soi_AV-202408210027.html)
 append_entries: 1
 Finish: 2024-08-21 12:37:03.569412
+------------------------------------------------------
+Started: 2024-08-22 01:19:55.730399
+Existing_entries: 317
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-08-22 01:19:55.814456

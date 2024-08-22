@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Portr – Tunnelisez facilement vos connexions HTTP et TCP</title>
 <link>https://korben.info/portr-tunneliser-facilement-connexions-http-tcp.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : tunnel, HTTP, TCP, open source, équipe  
 
-<br><br>Summary: Cet article présente Portr, un outil permettant de créer des tunnels sécurisés pour exposer des connexions HTTP et TCP depuis une machine locale vers l'internet mondial. Il est particulièrement utile pour les petites équipes qui souhaitent partager des serveurs de développement via une URL publique, sans l'intention d'héberger de grandes applications comme Facebook. Portr offre une tunnelisation facile, un tableau de bord d'administration pour gérer équipes et utilisateurs, ainsi qu'un inspecteur permettant d'analyser et de rejouer les requêtes HTTP. Pour ceux qui souhaitent découvrir l'outil en action, deux vidéos de démonstration sont proposées. L'article invite également les intéressés à visiter le projet en ligne, où ils peuvent trouver toutes les informations nécessaires pour l'installation et la configuration de Portr. Enfin, il convient de noter que Portr est un logiciel open source distribué sous la licence GNU Affero General Public License v3.0 (AGPL-3.0), ce qui permet aux utilisateurs de l'utiliser, le modifier et le redistribuer librement. <div>
+<br /><br />Summary: Cet article présente Portr, un outil permettant de créer des tunnels sécurisés pour exposer des connexions HTTP et TCP depuis une machine locale vers l'internet mondial. Il est particulièrement utile pour les petites équipes qui souhaitent partager des serveurs de développement via une URL publique, sans l'intention d'héberger de grandes applications comme Facebook. Portr offre une tunnelisation facile, un tableau de bord d'administration pour gérer équipes et utilisateurs, ainsi qu'un inspecteur permettant d'analyser et de rejouer les requêtes HTTP. Pour ceux qui souhaitent découvrir l'outil en action, deux vidéos de démonstration sont proposées. L'article invite également les intéressés à visiter le projet en ligne, où ils peuvent trouver toutes les informations nécessaires pour l'installation et la configuration de Portr. Enfin, il convient de noter que Portr est un logiciel open source distribué sous la licence GNU Affero General Public License v3.0 (AGPL-3.0), ce qui permet aux utilisateurs de l'utiliser, le modifier et le redistribuer librement. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_word_Portr_futurist_tunnel_security_21915900-9da7-4a09-b81e-57b550fb6e71.webp" width="1456" /></p>
 <p>Vous êtes en train de bosser sur votre dernier projet révolutionnaire qui va changer la face du monde (ou pas), mais vous avez besoin de le montrer à votre équipe ou à des testeurs externes&#8230; Sauf que voilà, votre serveur est bien au chaud sur votre machine locale et personne n&rsquo;y a accès. C&rsquo;est là que <strong><a href="https://portr.dev/" rel="noopener" target="_blank">Portr</a></strong> entre en scène tel un chevalier blanc sur son destrier étincelant !</p>
 
@@ -64,9 +65,7 @@
 <div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bon allez, je vous laisse, j&rsquo;ai un tunnel à creuser moi.</p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 21 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Hide What You Dislike – L’extension Chrome pour filtrer tout ce qui vous déplait</title>
 <link>https://korben.info/hide-what-you-dislike-extension-chrome-filtrage-contenu.html</link>

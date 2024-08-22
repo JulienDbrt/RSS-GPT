@@ -1689,3 +1689,9 @@ Summarized using GPT-4o-mini
 Append: [Nice, 6ᵉ ville de France la plus chère pour le logement étudiant selon un syndicat étudiant](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/nice-6-ville-de-france-la-plus-chere-pour-le-logement-etudiant-selon-un-syndicat-etudiant-3020213.html)
 append_entries: 4
 Finish: 2024-08-21 12:41:03.561809
+------------------------------------------------------
+Started: 2024-08-22 01:23:28.207542
+Existing_entries: 121
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-08-22 01:23:28.466855

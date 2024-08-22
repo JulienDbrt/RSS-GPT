@@ -1747,3 +1747,15 @@ Summarized using GPT-4o-mini
 Append: [Marguerite, un nouvel habitat participatif](https://www.ladepeche.fr/2024/08/21/marguerite-un-nouvel-habitat-participatif-12151164.php)
 append_entries: 1
 Finish: 2024-08-21 12:43:23.691665
+------------------------------------------------------
+Started: 2024-08-22 01:25:53.799355
+Existing_entries: 137
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 187
+Summarized using GPT-4o-mini
+Append: ["Je me retrouve à la rue" : un couple contraint de rembourser 400 000 euros après une arnaque au permis de construire](https://www.ladepeche.fr/2024/08/21/je-me-retrouve-a-la-rue-un-couple-contraint-de-rembourser-400-000-eur-apres-avoir-vendu-sans-le-savoir-un-bien-immobilier-non-conforme-12151845.php)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Balcon qui menace de s’effondrer à Toulouse : une boutique de luxe contrainte à la fermeture](https://www.ladepeche.fr/2024/08/21/balcon-qui-menace-de-seffondrer-a-toulouse-une-boutique-de-luxe-contrainte-a-la-fermeture-12151801.php)
+append_entries: 2
+Finish: 2024-08-22 01:26:00.827768

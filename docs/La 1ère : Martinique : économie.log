@@ -1747,3 +1747,12 @@ Existing_entries: 127
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-08-21 12:42:14.596300
+------------------------------------------------------
+Started: 2024-08-22 01:24:49.015394
+Existing_entries: 127
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 65
+Summarized using GPT-4o-mini
+Append: [La rentrée scolaire en Martinique va coûter plus cher en 2024](https://la1ere.francetvinfo.fr/martinique/la-rentree-scolaire-en-martinique-va-couter-plus-cher-en-2024-1515350.html)
+append_entries: 1
+Finish: 2024-08-22 01:24:53.298839

@@ -1646,3 +1646,12 @@ Existing_entries: 100
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-08-21 12:38:55.635268
+------------------------------------------------------
+Started: 2024-08-22 01:22:07.328205
+Existing_entries: 100
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 228
+Summarized using GPT-4o-mini
+Append: [Logement : plus de la moitié des Français ont eu trop chaud chez eux en 2023, selon un rapport](https://www.francetvinfo.fr/monde/environnement/crise-climatique/logement-plus-de-la-moitie-des-francais-ont-eu-trop-chaud-chez-eux-en-2023-selon-un-rapport_6736485.html)
+append_entries: 1
+Finish: 2024-08-22 01:22:10.609090

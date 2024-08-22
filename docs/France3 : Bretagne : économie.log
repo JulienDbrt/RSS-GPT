@@ -1855,3 +1855,9 @@ Summarized using GPT-4o-mini
 Append: ["300 euros pour une tache de gel douche", son litige avec une propriétaire d'Airbnb devient viral sur les réseaux sociaux](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/300-euros-pour-une-tache-de-gel-douche-son-litige-avec-une-proprietaire-d-airbnb-devient-viral-sur-les-reseaux-sociaux-3020336.html)
 append_entries: 1
 Finish: 2024-08-21 12:40:47.087364
+------------------------------------------------------
+Started: 2024-08-22 01:23:19.450480
+Existing_entries: 176
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-08-22 01:23:19.844689

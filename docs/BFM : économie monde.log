@@ -2019,3 +2019,18 @@ Summarized using GPT-4o-mini
 Append: ["SunCable": l'Australie annonce vouloir construire la "plus grande" centrale solaire au monde](https://www.bfmtv.com/economie/international/sun-cable-l-australie-annonce-vouloir-construire-la-plus-grande-centrale-solaire-au-monde_AD-202408210023.html)
 append_entries: 1
 Finish: 2024-08-21 12:35:53.567851
+------------------------------------------------------
+Started: 2024-08-22 01:18:16.231505
+Existing_entries: 231
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [McDonald's annonce investir 1,17 milliard d'euros au Royaume-Uni et en Irlande](https://www.bfmtv.com/economie/international/mc-donald-s-annonce-investir-1-17-milliard-d-euros-au-royaume-uni-et-en-irlande_AD-202408210544.html)
+Token length: 106
+Summarized using GPT-4o-mini
+Append: [Surtaxes sur les véhicules électriques: la Chine répond en s'attaquant aux produits laitiers de l'UE](https://www.bfmtv.com/economie/international/surtaxes-sur-les-vehicules-electriques-la-chine-repond-en-s-attaquant-aux-produits-laitiers-de-l-ue_AD-202408210276.html)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Un navire marchand touché par trois projectiles au large du Yémen](https://www.bfmtv.com/economie/international/un-navire-marchand-touche-par-trois-projectiles-au-large-du-yemen_AD-202408210257.html)
+append_entries: 3
+Finish: 2024-08-22 01:18:24.107218

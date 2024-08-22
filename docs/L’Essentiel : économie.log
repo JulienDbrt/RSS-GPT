@@ -2404,3 +2404,12 @@ Summarized using GPT-4o-mini
 Append: [Au Luxembourg: La facture des poubelles fait un bond de 200 euros par an](https://www.lessentiel.lu/fr/story/au-luxembourg-la-facture-des-poubelles-fait-un-bond-de-200-euros-par-an-103171734)
 append_entries: 2
 Finish: 2024-08-21 12:41:38.323501
+------------------------------------------------------
+Started: 2024-08-22 01:24:13.322277
+Existing_entries: 406
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Monnaie: L'euro est au plus haut depuis un an face au dollar](https://www.lessentiel.lu/fr/story/monnaie-l-euro-est-au-plus-haut-depuis-un-an-face-au-dollar-103172188)
+append_entries: 1
+Finish: 2024-08-22 01:24:19.482346

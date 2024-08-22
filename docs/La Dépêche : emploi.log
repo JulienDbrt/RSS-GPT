@@ -2518,3 +2518,9 @@ Summarized using GPT-4o-mini
 Append: [Des emplois à Lannemezan et dans le secteur](https://www.ladepeche.fr/2024/08/21/des-emplois-a-lannemezan-et-dans-le-secteur-12150982.php)
 append_entries: 4
 Finish: 2024-08-21 12:43:13.187159
+------------------------------------------------------
+Started: 2024-08-22 01:25:53.246074
+Existing_entries: 394
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-08-22 01:25:53.727202

@@ -2178,3 +2178,12 @@ Existing_entries: 284
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-08-21 12:40:43.352402
+------------------------------------------------------
+Started: 2024-08-22 01:23:15.607248
+Existing_entries: 284
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 299
+Summarized using GPT-4o-mini
+Append: ["Ce serait un désastre" : une partie du canal de Bourgogne bientôt fermée en Côte-d'Or ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/ce-serait-un-desastre-une-partie-du-canal-de-bourgogne-bientot-fermee-en-cote-d-or-3020600.html)
+append_entries: 1
+Finish: 2024-08-22 01:23:19.354725

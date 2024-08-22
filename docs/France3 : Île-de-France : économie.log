@@ -2181,3 +2181,15 @@ Summarized using GPT-4o-mini
 Append: [RER B : à quand la fin de la galère ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/rer-b-a-quand-la-fin-de-la-galere-2984108.html)
 append_entries: 3
 Finish: 2024-08-21 12:40:11.842539
+------------------------------------------------------
+Started: 2024-08-22 01:22:58.422446
+Existing_entries: 285
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 136
+Summarized using GPT-4o-mini
+Append: [Jeux paralympiques de Paris : les voies olympiques de nouveau en vigueur sur certains axes à partir de ce jeudi](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jeux-paralympiques-de-paris-les-voies-olympiques-de-nouveau-en-vigueur-sur-certains-axes-a-partir-de-ce-jeudi-3020708.html)
+Token length: 423
+Summarized using GPT-4o-mini
+Append: [Des WC de chantier recyclés dans les magasins de bricolage ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/des-wc-de-chantier-recycles-dans-les-magasins-de-bricolage-2981618.html)
+append_entries: 2
+Finish: 2024-08-22 01:23:05.826117
