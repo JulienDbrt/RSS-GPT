@@ -1655,3 +1655,12 @@ Summarized using GPT-4o-mini
 Append: [Logement : plus de la moitié des Français ont eu trop chaud chez eux en 2023, selon un rapport](https://www.francetvinfo.fr/monde/environnement/crise-climatique/logement-plus-de-la-moitie-des-francais-ont-eu-trop-chaud-chez-eux-en-2023-selon-un-rapport_6736485.html)
 append_entries: 1
 Finish: 2024-08-22 01:22:10.609090
+------------------------------------------------------
+Started: 2024-08-22 12:41:00.851507
+Existing_entries: 101
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [PODCAST. Logements "bouilloires", record de Français en NBA et "street-fishing" : ça dit quoi ce 22 août ?](https://www.francetvinfo.fr/replay-radio/ca-dit-quoi/logements-bouilloires-record-de-francais-en-nba-et-street-fishing-ca-dit-quoi-ce-22-aout_6726981.html)
+append_entries: 1
+Finish: 2024-08-22 12:41:11.376201

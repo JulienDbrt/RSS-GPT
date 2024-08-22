@@ -1759,3 +1759,12 @@ Summarized using GPT-4o-mini
 Append: [Balcon qui menace de s’effondrer à Toulouse : une boutique de luxe contrainte à la fermeture](https://www.ladepeche.fr/2024/08/21/balcon-qui-menace-de-seffondrer-a-toulouse-une-boutique-de-luxe-contrainte-a-la-fermeture-12151801.php)
 append_entries: 2
 Finish: 2024-08-22 01:26:00.827768
+------------------------------------------------------
+Started: 2024-08-22 12:44:42.188961
+Existing_entries: 139
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Logements étudiants : les agences immobilières n’ont jamais reçu aussi peu de demandes à Cahors](https://www.ladepeche.fr/2024/08/22/logements-etudiants-les-agences-immobilieres-nont-jamais-recu-aussi-peu-de-demandes-a-cahors-12153351.php)
+append_entries: 1
+Finish: 2024-08-22 12:44:46.605365

@@ -2353,3 +2353,9 @@ Summarized using GPT-4o-mini
 Append: [Aéroport Pôle Caraïbes : les accompagnants interdits d'accès dans les halls d'enregistrement à partir du 22 août](https://la1ere.francetvinfo.fr/guadeloupe/aeroport-pole-caraibes-les-accompagnants-interdits-d-acces-dans-les-halls-d-enregistrement-a-partir-du-22-aout-1515551.html)
 append_entries: 1
 Finish: 2024-08-22 01:24:57.166507
+------------------------------------------------------
+Started: 2024-08-22 12:43:49.898119
+Existing_entries: 327
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-08-22 12:43:49.957301

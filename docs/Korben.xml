@@ -4,6 +4,61 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Plandex –  L’assistant qui dev</title>
+<link>https://korben.info/plandex-ia-developpeurs-productivite-code.html</link>
+<guid>https://korben.info/plandex-ia-developpeurs-productivite-code.html</guid>
+<content:encoded><![CDATA[
+<div> Plandex, open-source, IA, terminal, sandbox  
+
+<br><br>Summary:  
+Plandex est un outil open-source qui fonctionne directement depuis le terminal. Grâce à des agents intelligents, il gère des tâches complexes en les décomposant en sous-tâches plus simples. Son objectif est de vous aider à avancer rapidement sur votre backlog et à vous débloquer dans votre développement. Les modifications sont d'abord appliquées dans une sandbox, vous permettant de les valider avant intégration dans le projet. Avec un système de gestion de versions, revenir en arrière ou tester plusieurs approches devient facile. L'outil permet également une gestion efficace du contexte, en ajoutant rapidement des fichiers ou dossiers au projet. Compatible avec les principaux systèmes d'exploitation, il s'installe facilement avec une clé d'API. Cependant, Plandex agit comme un assistant plutôt que de coder à votre place de A à Z. Une supervision de votre part est requise pour peaufiner les résultats. Les développeurs continuent d'améliorer l'outil avec des idées comme le support des modèles open-source et l'intégration avec d'autres fournisseurs d'IA. Explorez Plandex pour découvrir son potentiel et optimiser votre développement ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="170" src="https://korben.info/app/uploads/2024/04/SCR-20240420-93j.webp" width="511" /></p>
+<p>Plandex est un open-source, qui se pilote directement depuis votre terminal, qui grâce à ses agents intelligents tournant en tâche de fond, est capable de prendre en charge des tâches complexes qui s&rsquo;étalent sur plusieurs fichiers et nécessitent de nombreuses étapes.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-748732676" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Le principe est simple : vous balancez une tâche à Plandex, et il se charge de la découper en sous-tâches plus digestes qu&rsquo;il va réaliser une par une jusqu&rsquo;à ce que le job soit bouclé. C&rsquo;est encore mieux qu&rsquo;un stagiaire ^^.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-vimeo wp-block-embed-vimeo"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Plandex vous permet d&rsquo;avancer plus rapidement sur votre backlog, de vous débloquer quand vous séchez sur une techno et de passer moins de temps sur les trucs chiants, tout ça sans risque, puisque les modifications sont d&rsquo;abord appliquées dans un bac à sable protégé (sandbox) que vous pouvez valider avant de les intégrer à votre projet. Et grâce à son système de gestion de versions, vous pouvez facilement revenir en arrière ou tester différentes approches en parallèle.</p>
+
+
+
+<p>Autre point fort de Plandex : la gestion du contexte. Vous pouvez ajouter des fichiers ou des dossiers entiers au contexte de l&rsquo;IA en un clin d&rsquo;œil, et ils seront automatiquement mis à jour au fur et à mesure de votre travail. Comme ça, vous êtes sûr que l&rsquo;IA a toujours accès à l&rsquo;état le plus récent de votre projet pour un résultat optimal.</p>
+
+
+
+<p>Plandex est compatible avec les principaux OS du marché (Mac, Linux, Windows…) et se lance directement depuis un exécutable standalone, sans dépendances. Il suffit de l&rsquo;installer, de lui refiler votre clé d&rsquo;API <strong>OpenAI</strong>, et c&rsquo;est parti mon kiki !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1471632859" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais attention, Plandex ne va pas coder votre projet à votre place du début à la fin. Il faut le voir comme un assistant qui va vous mâcher le boulot et vous faire gagner un temps précieux, mais vous devrez quand même garder un œil sur ce qu&rsquo;il fait. Les mises à jour de fichiers automatiques peuvent parfois avoir besoin d&rsquo;un petit coup de polish manuel.</p>
+
+
+
+<p>Mais dans l&rsquo;ensemble, les résultats sont plutôt satisfaisants surtout quand on prend le temps de bien formuler ses instructions et de sélectionner les bons fichiers à mettre dans le contexte. C&rsquo;est sûr que si vous balancez votre projet en vrac dans sa totalité, l&rsquo;IA va avoir du mal à s&rsquo;y retrouver et à produire un code propre mais utilisé intelligemment, ça peut vite devenir votre meilleur pote.</p>
+
+
+
+<p>D&rsquo;ailleurs, les mecs derrière le projet ne manquent pas d&rsquo;idées pour améliorer leur bébé. Support des modèles open-source, intégration avec d&rsquo;autres providers d&rsquo;IA comme <strong>Google</strong> ou <strong>Anthropic</strong>, plugins communautaires… Les chantiers en cours ne manquent pas, et c&rsquo;est tant mieux !</p>
+
+
+
+<p>Jetez un œil au <a href="https://github.com/plandex-ai/plandex" rel="noopener" target="_blank">repo GitHub du projet</a>, y&rsquo;a de quoi s&rsquo;amuser !</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 22 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Portr – Tunnelisez facilement vos connexions HTTP et TCP</title>

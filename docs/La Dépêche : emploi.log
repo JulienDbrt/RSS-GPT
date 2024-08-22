@@ -2524,3 +2524,12 @@ Existing_entries: 394
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-08-22 01:25:53.727202
+------------------------------------------------------
+Started: 2024-08-22 12:44:38.698628
+Existing_entries: 394
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-4o-mini
+Append: ["En 2024, nous avons dépassé 200 000 voyageurs", l’Agglobus de Foix adapte ses trajets en septembre pour se rendre encore plus attractif](https://www.ladepeche.fr/2024/08/22/en-2024-nous-avons-depasse-200-000-voyageurs-lagglobus-de-foix-adapte-ses-trajets-en-septembre-pour-se-rendre-encore-plus-attractif-12152299.php)
+append_entries: 1
+Finish: 2024-08-22 12:44:42.109863

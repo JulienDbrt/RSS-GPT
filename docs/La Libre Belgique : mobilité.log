@@ -2036,3 +2036,9 @@ Summarized using GPT-4o-mini
 Append: [Rouler à vélo au beau milieu de l’autoroute ? Ce sera bientôt permis en Wallonie](https://www.lalibre.be/belgique/mobilite/2024/08/21/rouler-a-velo-au-beau-milieu-de-lautoroute-ce-sera-bientot-permis-en-wallonie-O5TBDRUCP5FV3OPAM4CQPATJHA/)
 append_entries: 1
 Finish: 2024-08-22 01:26:30.071769
+------------------------------------------------------
+Started: 2024-08-22 12:45:25.180765
+Existing_entries: 254
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-08-22 12:45:25.365251

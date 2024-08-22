@@ -1853,3 +1853,18 @@ Summarized using GPT-4o-mini
 Append: [Les produits laitiers européens ciblés par une enquête anti-subventions chinoise](https://www.euractiv.fr/section/agriculture-alimentation/news/les-produits-laitiers-europeens-cibles-par-une-enquete-anti-subventions-chinoise/)
 append_entries: 1
 Finish: 2024-08-22 01:21:06.318690
+------------------------------------------------------
+Started: 2024-08-22 12:39:56.763792
+Existing_entries: 187
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 257
+Summarized using GPT-4o-mini
+Append: [L’UE et les États membres se mobilisent pour lutter contre la résurgence des maladies animales](https://www.euractiv.fr/section/agriculture-alimentation/news/lue-et-les-etats-membres-se-mobilisent-pour-lutter-contre-la-resurgence-des-maladies-animales/)
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Le président de la Banque centrale italienne plaide en faveur d’une capacité budgétaire commune de l’UE](https://www.euractiv.fr/section/institutions/news/le-president-de-la-banque-centrale-italienne-plaide-en-faveur-dune-capacite-budgetaire-commune-de-lue/)
+Token length: 297
+Summarized using GPT-4o-mini
+Append: [Les finances de l’État français sous la menace de sanctions de la Commission européenne](https://www.euractiv.fr/section/economie/news/les-finances-de-letat-francais-sous-la-menace-de-sanctions-de-la-commission-europeenne/)
+append_entries: 3
+Finish: 2024-08-22 12:40:07.758574

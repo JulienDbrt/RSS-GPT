@@ -1861,3 +1861,15 @@ Existing_entries: 176
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-22 01:23:19.844689
+------------------------------------------------------
+Started: 2024-08-22 12:42:37.597263
+Existing_entries: 176
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 329
+Summarized using GPT-4o-mini
+Append: [ENQUÊTE. "On veut des chefs qui ont du niveau, mais on veut aussi des personnages", de la cuisine à l'écran : le beurre et l'argent du buzz](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/enquete-on-veut-des-chefs-qui-ont-du-niveau-mais-on-veut-aussi-des-personnages-de-la-cuisine-a-l-ecran-le-beurre-et-l-argent-du-buzz-3008258.html)
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Patrimoine. "Toute une armure en métal, c’était 25-30 kilos", le château de Dinan propose une visite expérimentale](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/patrimoine-toute-une-armure-en-metal-c-etait-25-30-kilos-le-chateau-de-dinan-propose-aux-visiteurs-une-visite-experimentale-3020507.html)
+append_entries: 2
+Finish: 2024-08-22 12:42:44.548122

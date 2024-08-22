@@ -1595,3 +1595,12 @@ Summarized using GPT-4o-mini
 Append: [Après la défaillance d'une pièce, Boeing suspend les vols tests de son nouveau gros porteur 777X](https://www.francetvinfo.fr/economie/aeronautique/apres-la-defaillance-d-une-piece-boeing-suspend-les-vols-tests-de-son-nouveau-gros-porteur-777x_6736149.html)
 append_entries: 1
 Finish: 2024-08-22 01:22:06.529026
+------------------------------------------------------
+Started: 2024-08-22 12:40:55.955951
+Existing_entries: 81
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [Décollage raté pour la première fusée qui devait partir depuis le continent européen](https://www.francetvinfo.fr/replay-radio/le-billet-vert/decollage-rate-pour-la-premiere-fusee-qui-devait-partir-depuis-le-continent-europeen_6663828.html)
+append_entries: 1
+Finish: 2024-08-22 12:40:59.539141

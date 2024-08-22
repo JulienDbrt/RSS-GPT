@@ -2193,3 +2193,15 @@ Summarized using GPT-4o-mini
 Append: [Des WC de chantier recyclés dans les magasins de bricolage ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/des-wc-de-chantier-recycles-dans-les-magasins-de-bricolage-2981618.html)
 append_entries: 2
 Finish: 2024-08-22 01:23:05.826117
+------------------------------------------------------
+Started: 2024-08-22 12:41:55.933194
+Existing_entries: 287
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 139
+Summarized using GPT-4o-mini
+Append: [Un avion immobilisé à Orly à cause d'une fausse alerte à la bombe](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/un-avion-immobilise-a-orly-a-cause-d-une-fausse-alerte-a-la-bombe-3020939.html)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [La RATP accusée de truquer les contrôles techniques de ses bus, l'entreprise "réfute vigoureusement" les allégations](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/la-ratp-accusee-de-truquer-les-controles-techniques-de-ses-bus-l-entreprise-refute-vigoureusement-les-allegations-3020888.html)
+append_entries: 2
+Finish: 2024-08-22 12:42:05.508519

@@ -2267,3 +2267,9 @@ Summarized using GPT-4o-mini
 Append: [« Mon endettement est presque à zéro »… Lagardère (enfin) en règle avec le fisc après avoir casqué 205 millions d’euros](https://www.20minutes.fr/economie/4106472-20240821-endettement-presque-zero-lagardere-enfin-regle-fisc-apres-avoir-casque-205-millions-euros)
 append_entries: 3
 Finish: 2024-08-22 01:17:44.826170
+------------------------------------------------------
+Started: 2024-08-22 12:36:55.628508
+Existing_entries: 305
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-08-22 12:36:55.826916
