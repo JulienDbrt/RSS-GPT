@@ -1768,3 +1768,12 @@ Existing_entries: 128
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-08-23 01:22:27.512766
+------------------------------------------------------
+Started: 2024-08-23 12:40:56.135641
+Existing_entries: 128
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 37
+Summarized using GPT-4o-mini
+Append: [La clientèle locale dope le taux de remplissage des hôtels en Martinique](https://la1ere.francetvinfo.fr/martinique/la-clientele-locale-dope-le-taux-de-remplissage-des-hotels-en-martinique-1515866.html)
+append_entries: 1
+Finish: 2024-08-23 12:40:58.646510

@@ -1510,3 +1510,12 @@ Existing_entries: 42
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-08-23 01:23:52.365583
+------------------------------------------------------
+Started: 2024-08-23 12:42:54.711061
+Existing_entries: 42
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Yvelines : la ville de Conflans-Sainte-Honorine mise sur un mégaport pour doper le transport fluvial](https://www.latribune.fr/entreprises-finance/services/transport-logistique/yvelines-la-ville-de-conflans-sainte-honorine-mise-sur-un-megaport-pour-doper-le-transport-fluvial-1004227.html)
+append_entries: 1
+Finish: 2024-08-23 12:42:57.854335

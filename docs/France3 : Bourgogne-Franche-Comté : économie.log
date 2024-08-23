@@ -2205,3 +2205,9 @@ Summarized using GPT-4o-mini
 Append: ["On n'a rien pu faire", tragique incendie d'un bâtiment accueillant une colonie de vacances près du lac de Chalain](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/on-n-a-rien-pu-faire-tragique-incendie-d-un-batiment-accueillant-une-colonie-de-vacances-pres-du-lac-de-chalain-3021032.html)
 append_entries: 1
 Finish: 2024-08-23 01:21:29.736130
+------------------------------------------------------
+Started: 2024-08-23 12:39:36.611995
+Existing_entries: 287
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-08-23 12:39:37.309486

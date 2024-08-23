@@ -1882,3 +1882,18 @@ Summarized using GPT-4o-mini
 Append: ["Rien ne change", cette coopérative "continue d'utiliser un pesticide dangereux" dans ses silos de stockage de céréales](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/guingamp/rien-ne-change-cette-cooperative-est-soupconnee-d-utiliser-un-pesticide-dangereux-dans-ses-silos-de-stockage-de-cereales-3020945.html)
 append_entries: 1
 Finish: 2024-08-23 01:21:33.622149
+------------------------------------------------------
+Started: 2024-08-23 12:39:37.405315
+Existing_entries: 179
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 283
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGE. Faux proprio, vrai escroc... Comment cette étudiante a été arnaquée par une annonce de location bidon, "j'y ai vraiment cru"](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/temoignage-faux-proprio-vrai-escroc-comment-cette-etudiante-a-ete-arnaquee-par-une-annonce-de-location-bidon-j-y-ai-vraiment-cru-3021383.html)
+Token length: 320
+Summarized using GPT-4o-mini
+Append: [La révolte gronde dans les hôpitaux contre le "cartel des légumes en conserve"](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/la-revolte-gronde-dans-les-hopitaux-contre-le-cartel-des-legumes-en-conserve-3021236.html)
+Token length: 348
+Summarized using GPT-4o-mini
+Append: [Spectacle. "On a positionné tout le spectacle à – 6 000 ans", quand les menhirs de Carnac s'illuminent](https://france3-regions.francetvinfo.fr/bretagne/morbihan/spectacle-on-a-positionne-tout-le-spectacle-a-6-000-ans-quand-les-menhirs-de-carnac-s-illuminent-3021119.html)
+append_entries: 3
+Finish: 2024-08-23 12:39:45.802099

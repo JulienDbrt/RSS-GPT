@@ -2397,3 +2397,12 @@ Existing_entries: 351
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-08-23 01:21:33.903495
+------------------------------------------------------
+Started: 2024-08-23 12:39:45.992977
+Existing_entries: 351
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 351
+Summarized using GPT-4o-mini
+Append: ["Les gens qui viennent en vacances veulent de l'animation" : accusé de tapage nocturne par la mairie, ce restaurateur décide de partir](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/les-gens-qui-viennent-en-vacances-veulent-de-l-animation-accuse-de-tapage-nocturne-par-la-mairie-ce-restaurateur-decide-de-partir-3020990.html)
+append_entries: 1
+Finish: 2024-08-23 12:39:50.967370

@@ -4,6 +4,75 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Grsync – Une chouette interface pour rsync</title>
+<link>https://korben.info/grsync-synchronisation-facile-linux.html</link>
+<guid>https://korben.info/grsync-synchronisation-facile-linux.html</guid>
+<content:encoded><![CDATA[
+<div> Grsync, rsync, sauvegarde, synchronisation, interface graphique  
+
+<br><br>Summary:  
+Grsync est une interface graphique pour rsync, permettant de synchroniser dossiers et fichiers facilement, que ce soit en local ou sur des machines distantes. Les utilisateurs peuvent créer des profils de synchronisation avec des réglages variés, tels que dossiers source et cible, filtres de fichiers et options de transfert. Cet outil est particulièrement utile pour sauvegarder régulièrement des données importantes sur des disques durs externes ou des NAS, réduisant ainsi les risques en cas de perte de données. Grsync propose aussi des fonctionnalités avancées, tout en restant accessible aux débutants. Il est disponible dans les dépôts de la plupart des distributions Linux et nécessite rsync installé au préalable. Les utilisateurs peuvent visualiser et exporter les commandes rsync générées pour un contrôle total. Cependant, Grsync ne chiffre pas les données et n'assure pas l'intégrité des fichiers, ce qui nécessite une attention particulière lors de la synchronisation de données sensibles. Enfin, pour garantir une véritable protection des données, il est conseillé de les stocker sur plusieurs supports et de vérifier leur état régulièrement. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_word_Grsync_linux_style_b33c91e0-a9fb-4e7e-a237-a91a584e505c.webp" width="1456" /></p>
+<p>Vous connaissez sûrement <strong>rsync</strong>, cet outil en ligne de commande hyper puissant mais pas toujours très intuitif ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2115584686" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Et bien <a href="https://www.opbyte.it/grsync/" rel="noopener" target="_blank">Grsync</a>, c&rsquo;est rsync avec une interface graphique claire et des options bien rangées.</p>
+
+
+
+<p>Pour ceux qui débarquent, Grsync (et rsync donc&#8230;) permet de synchroniser des dossiers et des fichiers, que ce soit en local sur votre bécane ou avec des machines distantes. Vous pouvez créer des profils de synchronisation à volonté, chacun avec ses petits réglages : les dossiers source et cible, les filtres de fichiers, les options de transfert, etc. Une fois que c&rsquo;est configuré, il vous suffit de cliquer sur un bouton et hop, il s&rsquo;occupe de tout pendant que vous sirotez votre café (ou votre Club-Mate, pour rester dans le thème).</p>
+
+
+
+<p>Ça sert surtout <strong>sauvegarder</strong> régulièrement vos données importantes sur un disque dur externe ou un NAS, histoire d&rsquo;éviter les mauvaises surprises en cas de crash. Mais attention, pensez à tester régulièrement vos sauvegardes pour vous assurer qu&rsquo;elles fonctionnent et peuvent être restaurées avec succès.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-159549" height="479" src="https://korben.info/app/uploads/2024/04/SCR-20240420-9e8.webp" style="width: 688px; height: auto;" width="886" /></figure></div>
+
+
+<p>Mais ça peut aussi servir à <strong>synchroniser</strong> votre collection de musique entre votre PC et votre laptop. Ou encore à faire de la <strong>réplication</strong> de partitions, pour les plus geeks d&rsquo;entre vous qui aiment jouer avec le feu. Bref, les possibilités sont quasi illimitées.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2041752165" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ce que j&rsquo;aime bien avec Grsync, c&rsquo;est qu&rsquo;il ne prend pas ses utilisateurs pour des débutants. Certes, l&rsquo;interface graphique simplifie grandement les choses, mais vous avez quand même accès à un paquet d&rsquo;options avancées d&rsquo;rsync si vous voulez peaufiner vos réglages. Et si vous êtes un vrai ninja du terminal, vous pouvez même exporter la ligne de commande générée par l&rsquo;outil pour la tweaker à la main.</p>
+
+
+
+<p>C&rsquo;est disponible dans les dépôts de la plupart des distributions Linux, il vous suffit donc d&rsquo;utiliser votre gestionnaire de paquets favori. Sous Ubuntu par exemple, un petit </p>
+
+
+
+<p><code>sudo apt install grsync</code></p>
+
+
+
+<p>et le tour est joué. Évidemment, il vous faut aussi avoir rsync d&rsquo;installé, mais normalement c&rsquo;est déjà le cas sur la plupart des systèmes.</p>
+
+
+
+<p>Et pour les paranos de la ligne de commande, je vous rassure : à tout moment vous pouvez voir la commande rsync qui sera exécutée et vous pouvez même l&rsquo;exporter dans un script shell pour l&rsquo;exécuter plus tard ou l&rsquo;intégrer dans vos tâches planifiées. De quoi garder un contrôle total sur ce qui se passe.</p>
+
+
+
+<p>Et voilà, vous pouvez maintenant dormir sur vos deux oreilles, vos documents sont en sécurité ! Pensez juste à brancher régulièrement votre disque externe et à cliquer sur <code>Exécuter</code> pour mettre à jour la sauvegarde. Vous pouvez même cocher « <em>Trier les fichiers</em> » et « <em>Supprimer en premier</em> » pour qu&rsquo;il optimise la sauvegarde incrémentale.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-202080445" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Notez quand même que Grsync ne chiffre pas vos données, donc évitez de vous en servir pour synchroniser votre collection privée de photos de vous à poil sur un serveur public. Et il ne vérifie pas non plus l&rsquo;intégrité des fichiers, donc il peut en théorie propager une corruption silencieuse. Pour vraiment mettre vos données à l&rsquo;abri, pensez à les stocker sur plusieurs supports et à vérifier régulièrement que tout est ok.</p>
+
+
+
+<p>Bref, c&rsquo;est un chouette outil gratuit et open-source, qui fait bien ce qu&rsquo;on lui demande et <a href="https://www.opbyte.it/grsync/" rel="noopener" target="_blank">que vous pourrez trouver ici.</a></p>
+]]></content:encoded>
+<pubDate>Fri, 23 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Plandex –  L’assistant qui dev</title>

@@ -2179,3 +2179,12 @@ Existing_entries: 267
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-08-23 01:15:04.705715
+------------------------------------------------------
+Started: 2024-08-23 12:33:50.655379
+Existing_entries: 267
+Fetching from https://korben.info/feed
+Token length: 3210
+Summarized using GPT-4o-mini
+Append: [Grsync – Une chouette interface pour rsync](https://korben.info/grsync-synchronisation-facile-linux.html)
+append_entries: 1
+Finish: 2024-08-23 12:33:53.660019

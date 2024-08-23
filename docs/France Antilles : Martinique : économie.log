@@ -2684,3 +2684,15 @@ Summarized using GPT-4o-mini
 Append: [La Dominique veut surfer sur la vague du tourisme](https://www.martinique.franceantilles.fr/actualite/economie/la-dominique-veut-surfer-sur-la-vague-du-tourisme-1000076.php)
 append_entries: 4
 Finish: 2024-08-23 01:19:39.142479
+------------------------------------------------------
+Started: 2024-08-23 12:38:23.382373
+Existing_entries: 460
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [À la Une de L'Hebdo hexagone : ces antillo-guyanais qui dirigent des entreprises à l'extérieur](https://www.martinique.franceantilles.fr/actualite/economie/a-la-une-de-lhebdo-hexagone-ces-antillo-guyanais-qui-dirigent-des-entreprises-a-lexterieur-1000285.php)
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [Naufrage en Sicile : le corps de la dernière disparue, la fille de Mike Lynch, retrouvé](https://www.martinique.franceantilles.fr/actualite/economie/naufrage-en-sicile-le-corps-de-la-derniere-disparue-la-fille-de-mike-lynch-retrouve-1000300.php)
+append_entries: 2
+Finish: 2024-08-23 12:38:28.750485
