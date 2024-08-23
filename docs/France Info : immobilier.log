@@ -1664,3 +1664,15 @@ Summarized using GPT-4o-mini
 Append: [PODCAST. Logements "bouilloires", record de Français en NBA et "street-fishing" : ça dit quoi ce 22 août ?](https://www.francetvinfo.fr/replay-radio/ca-dit-quoi/logements-bouilloires-record-de-francais-en-nba-et-street-fishing-ca-dit-quoi-ce-22-aout_6726981.html)
 append_entries: 1
 Finish: 2024-08-22 12:41:11.376201
+------------------------------------------------------
+Started: 2024-08-23 01:20:14.460088
+Existing_entries: 102
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 171
+Summarized using GPT-4o-mini
+Append: [Immobilier : en Bretagne, la faillite d'une entreprise de construction laisse des propriétaires démunis](https://www.francetvinfo.fr/economie/immobilier/immobilier-en-bretagne-la-faillite-d-une-entreprise-de-construction-laisse-des-proprietaires-demunis_6738472.html)
+Token length: 309
+Summarized using GPT-4o-mini
+Append: [Logements bouilloires : ces obstacles qui freinent l'adaptation aux fortes chaleurs](https://www.francetvinfo.fr/economie/immobilier/logements-bouilloires-ces-obstacles-qui-freinent-l-adaptation-aux-fortes-chaleurs_6737814.html)
+append_entries: 2
+Finish: 2024-08-23 01:20:22.317975

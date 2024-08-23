@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Plandex –  L’assistant qui dev</title>
 <link>https://korben.info/plandex-ia-developpeurs-productivite-code.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Plandex, open-source, IA, terminal, sandbox  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Plandex est un outil open-source qui fonctionne directement depuis le terminal. Grâce à des agents intelligents, il gère des tâches complexes en les décomposant en sous-tâches plus simples. Son objectif est de vous aider à avancer rapidement sur votre backlog et à vous débloquer dans votre développement. Les modifications sont d'abord appliquées dans une sandbox, vous permettant de les valider avant intégration dans le projet. Avec un système de gestion de versions, revenir en arrière ou tester plusieurs approches devient facile. L'outil permet également une gestion efficace du contexte, en ajoutant rapidement des fichiers ou dossiers au projet. Compatible avec les principaux systèmes d'exploitation, il s'installe facilement avec une clé d'API. Cependant, Plandex agit comme un assistant plutôt que de coder à votre place de A à Z. Une supervision de votre part est requise pour peaufiner les résultats. Les développeurs continuent d'améliorer l'outil avec des idées comme le support des modèles open-source et l'intégration avec d'autres fournisseurs d'IA. Explorez Plandex pour découvrir son potentiel et optimiser votre développement ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="170" src="https://korben.info/app/uploads/2024/04/SCR-20240420-93j.webp" width="511" /></p>
 <p>Plandex est un open-source, qui se pilote directement depuis votre terminal, qui grâce à ses agents intelligents tournant en tâche de fond, est capable de prendre en charge des tâches complexes qui s&rsquo;étalent sur plusieurs fichiers et nécessitent de nombreuses étapes.</p>
@@ -57,9 +58,7 @@ Plandex est un outil open-source qui fonctionne directement depuis le terminal. 
 <p>Jetez un œil au <a href="https://github.com/plandex-ai/plandex" rel="noopener" target="_blank">repo GitHub du projet</a>, y&rsquo;a de quoi s&rsquo;amuser !</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 22 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Portr – Tunnelisez facilement vos connexions HTTP et TCP</title>
 <link>https://korben.info/portr-tunneliser-facilement-connexions-http-tcp.html</link>

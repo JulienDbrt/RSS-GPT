@@ -1873,3 +1873,12 @@ Summarized using GPT-4o-mini
 Append: [Patrimoine. "Toute une armure en métal, c’était 25-30 kilos", le château de Dinan propose une visite expérimentale](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/patrimoine-toute-une-armure-en-metal-c-etait-25-30-kilos-le-chateau-de-dinan-propose-aux-visiteurs-une-visite-experimentale-3020507.html)
 append_entries: 2
 Finish: 2024-08-22 12:42:44.548122
+------------------------------------------------------
+Started: 2024-08-23 01:21:29.830750
+Existing_entries: 178
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 338
+Summarized using GPT-4o-mini
+Append: ["Rien ne change", cette coopérative "continue d'utiliser un pesticide dangereux" dans ses silos de stockage de céréales](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/guingamp/rien-ne-change-cette-cooperative-est-soupconnee-d-utiliser-un-pesticide-dangereux-dans-ses-silos-de-stockage-de-cereales-3020945.html)
+append_entries: 1
+Finish: 2024-08-23 01:21:33.622149

@@ -2533,3 +2533,12 @@ Summarized using GPT-4o-mini
 Append: ["En 2024, nous avons dépassé 200 000 voyageurs", l’Agglobus de Foix adapte ses trajets en septembre pour se rendre encore plus attractif](https://www.ladepeche.fr/2024/08/22/en-2024-nous-avons-depasse-200-000-voyageurs-lagglobus-de-foix-adapte-ses-trajets-en-septembre-pour-se-rendre-encore-plus-attractif-12152299.php)
 append_entries: 1
 Finish: 2024-08-22 12:44:42.109863
+------------------------------------------------------
+Started: 2024-08-23 01:23:00.828772
+Existing_entries: 395
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [VRAI FAUX. Comment ça marche les lignes de bus Lio au départ de Foix ? Tous les détails de ce transport en commun géré par la région](https://www.ladepeche.fr/2024/08/22/vrai-faux-comment-ca-marche-les-lignes-de-bus-lio-au-depart-de-foix-tous-les-details-de-ce-transport-en-commun-gere-par-la-region-12153513.php)
+append_entries: 1
+Finish: 2024-08-23 01:23:04.310314

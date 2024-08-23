@@ -1604,3 +1604,9 @@ Summarized using GPT-4o-mini
 Append: [Décollage raté pour la première fusée qui devait partir depuis le continent européen](https://www.francetvinfo.fr/replay-radio/le-billet-vert/decollage-rate-pour-la-premiere-fusee-qui-devait-partir-depuis-le-continent-europeen_6663828.html)
 append_entries: 1
 Finish: 2024-08-22 12:40:59.539141
+------------------------------------------------------
+Started: 2024-08-23 01:20:13.553841
+Existing_entries: 82
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-08-23 01:20:13.699443
