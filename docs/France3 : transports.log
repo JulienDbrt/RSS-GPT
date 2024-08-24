@@ -4396,3 +4396,15 @@ Summarized using GPT-4o-mini
 Append: [Ligne 1 du métro : une histoire de grandes premières](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ligne-1-du-metro-une-histoire-de-grandes-premieres-2984171.html)
 append_entries: 6
 Finish: 2024-08-23 12:40:19.848563
+------------------------------------------------------
+Started: 2024-08-24 01:19:03.872696
+Existing_entries: 1006
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [Cérémonie d'ouverture des Paralympiques : circulation, sécurité… ce qu'il faut savoir pour le 28 août à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ceremonie-d-ouverture-des-paralympiques-circulation-securite-ce-qu-il-faut-savoir-pour-la-journee-du-28-aout-a-paris-3021683.html)
+Token length: 299
+Summarized using GPT-4o-mini
+Append: ["La connerie du siècle", le tunnel sous Fourvière et ses traditionnels bouchons](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/la-connerie-du-siecle-le-tunnel-sous-fourviere-et-ses-traditionnels-bouchons-3021251.html)
+append_entries: 2
+Finish: 2024-08-24 01:19:09.023219

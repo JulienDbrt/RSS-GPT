@@ -1801,3 +1801,9 @@ Summarized using GPT-4o-mini
 Append: [DPE : pourquoi les diagnostics immobiliers sont plus chers en 2024](https://www.ladepeche.fr/2024/08/23/dpe-pourquoi-les-diagnostics-immobiliers-sont-plus-chers-en-2024-12152510.php)
 append_entries: 6
 Finish: 2024-08-23 12:41:58.477199
+------------------------------------------------------
+Started: 2024-08-24 01:21:01.237000
+Existing_entries: 147
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-08-24 01:21:01.908787

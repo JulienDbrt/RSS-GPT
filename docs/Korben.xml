@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Grsync – Une chouette interface pour rsync</title>
 <link>https://korben.info/grsync-synchronisation-facile-linux.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Grsync, rsync, sauvegarde, synchronisation, interface graphique  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Grsync est une interface graphique pour rsync, permettant de synchroniser dossiers et fichiers facilement, que ce soit en local ou sur des machines distantes. Les utilisateurs peuvent créer des profils de synchronisation avec des réglages variés, tels que dossiers source et cible, filtres de fichiers et options de transfert. Cet outil est particulièrement utile pour sauvegarder régulièrement des données importantes sur des disques durs externes ou des NAS, réduisant ainsi les risques en cas de perte de données. Grsync propose aussi des fonctionnalités avancées, tout en restant accessible aux débutants. Il est disponible dans les dépôts de la plupart des distributions Linux et nécessite rsync installé au préalable. Les utilisateurs peuvent visualiser et exporter les commandes rsync générées pour un contrôle total. Cependant, Grsync ne chiffre pas les données et n'assure pas l'intégrité des fichiers, ce qui nécessite une attention particulière lors de la synchronisation de données sensibles. Enfin, pour garantir une véritable protection des données, il est conseillé de les stocker sur plusieurs supports et de vérifier leur état régulièrement. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_word_Grsync_linux_style_b33c91e0-a9fb-4e7e-a237-a91a584e505c.webp" width="1456" /></p>
 <p>Vous connaissez sûrement <strong>rsync</strong>, cet outil en ligne de commande hyper puissant mais pas toujours très intuitif ? </p>
@@ -71,9 +72,7 @@ Grsync est une interface graphique pour rsync, permettant de synchroniser dossie
 <p>Bref, c&rsquo;est un chouette outil gratuit et open-source, qui fait bien ce qu&rsquo;on lui demande et <a href="https://www.opbyte.it/grsync/" rel="noopener" target="_blank">que vous pourrez trouver ici.</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 23 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Plandex –  L’assistant qui dev</title>
 <link>https://korben.info/plandex-ia-developpeurs-productivite-code.html</link>

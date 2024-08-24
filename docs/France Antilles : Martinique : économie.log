@@ -2696,3 +2696,15 @@ Summarized using GPT-4o-mini
 Append: [Naufrage en Sicile : le corps de la dernière disparue, la fille de Mike Lynch, retrouvé](https://www.martinique.franceantilles.fr/actualite/economie/naufrage-en-sicile-le-corps-de-la-derniere-disparue-la-fille-de-mike-lynch-retrouve-1000300.php)
 append_entries: 2
 Finish: 2024-08-23 12:38:28.750485
+------------------------------------------------------
+Started: 2024-08-24 01:17:14.577088
+Existing_entries: 462
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Déchets : une grève illimitée démarre au SMTVD](https://www.martinique.franceantilles.fr/actualite/social/dechets-une-greve-illimitee-demarre-au-smtvd-1000332.php)
+Token length: 107
+Summarized using GPT-4o-mini
+Append: [Flambée de la fièvre catarrhale ovine en France, 190 foyers confirmés](https://www.martinique.franceantilles.fr/actualite/economie/flambee-de-la-fievre-catarrhale-ovine-en-france-190-foyers-confirmes-1000334.php)
+append_entries: 2
+Finish: 2024-08-24 01:17:18.272678
