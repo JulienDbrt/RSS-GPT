@@ -6802,3 +6802,15 @@ Summarized using GPT-4o-mini
 Append: [Prix de l’énergie : le fioul au plus bas depuis presque un an](https://www.francetvinfo.fr/economie/energie/prix-de-l-energie-le-fioul-au-plus-bas-depuis-presque-un-an_6739855.html)
 append_entries: 8
 Finish: 2024-08-24 01:17:42.497421
+------------------------------------------------------
+Started: 2024-08-24 12:35:02.600161
+Existing_entries: 1008
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Trafic de drogue : en Isère, la CAF s'attaque aux allocations des trafiquants condamnés](https://www.francetvinfo.fr/societe/drogue/trafic-de-drogue-en-isere-la-caf-s-attaque-aux-allocations-des-trafiquants-condamnes_6741403.html)
+Token length: 256
+Summarized using GPT-4o-mini
+Append: [De journal populaire à outil de désinformation : la lente déchéance de "France-Soir", titre historique de la presse française](https://www.francetvinfo.fr/economie/medias/de-journal-populaire-a-outil-de-desinformation-la-lente-decheance-de-france-soir-titre-historique-de-la-presse-francaise_6737745.html)
+append_entries: 2
+Finish: 2024-08-24 12:35:07.409393

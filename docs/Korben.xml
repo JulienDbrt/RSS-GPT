@@ -4,6 +4,55 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Auto-News – L’agrégateur de news automatisé par IA</title>
+<link>https://korben.info/auto-news-agregateur-news-automatise-ia-lecture-efficace.html</link>
+<guid>https://korben.info/auto-news-agregateur-news-automatise-ia-lecture-efficace.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : agrégateur, actualités, intelligence artificielle, filtrage, personnalisation  
+
+<br><br>Summary: Auto-News est un agrégateur d'actualités personnel qui utilise l'intelligence artificielle pour filtrer et résumer le contenu de diverses sources telles que Twitter, RSS, YouTube, Reddit, et vos notes personnelles. En éliminant plus de 80 % du bruit ambiant, il permet de se concentrer sur les actualités pertinentes et alignées sur vos centres d'intérêt et objectifs. De plus, Auto-News génère des listes de tâches à partir de vos notes et organise les informations clés de manière succincte. Une fonctionnalité innovante appelée « Deepdive » permet d'explorer en profondeur des sujets qui vous passionnent grâce à un agent de recherche web et à l'outil Autogen de Microsoft. Sur le plan technique, Auto-News prend en charge des backends d'IA comme OpenAI ChatGPT et Google Gemini. Son interface utilisateur est conçue comme celle de Notion pour un accès aisé depuis n'importe quel appareil. Enfin, il offre une flexibilité de déploiement via Docker Compose et Kubernetes, facilitant ainsi son intégration dans divers flux de travail. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_word_Auto-News_headlines_information_breaking__80eccb02-e96f-4e8b-a752-eca0cb9cacef.webp" width="1456" /></p>
+<p>Ce serait cool si on pouvait avoir accès directement aux informations les plus pertinentes pour nous, sans être submergé par le bruit constant des trucs sans intérêt. Et bien c&rsquo;est exactement ce que propose <strong><a href="https://github.com/finaldie/auto-news" rel="noopener" target="_blank">Auto-News</a></strong>, un agrégateur d&rsquo;actu personnel qui exploite la puissance de l&rsquo;<strong>intelligence artificielle</strong> pour vous aider à vous informer de manière plus efficace.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1216799721" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Notre temps étant précieux, il est crucial de bien l&rsquo;utiliser et malheureusement, tout ces moments qu&rsquo;on passe à chercher, filtrer et organiser le contenu provenant de différentes sources, c&rsquo;est un peu du gâchis.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159553" height="368" src="https://korben.info/app/uploads/2024/04/image-1686552791419-1024x368.webp" width="1024" /></figure></div>
+
+
+<p>Cet outil est donc capable d&rsquo;<strong>agrèger les flux de diverses sources</strong> telles que Twitter, RSS, YouTube, des articles web, Reddit et même vos notes personnelles et grâce à l&rsquo;utilisation de <strong>modèles de langage</strong> comme ChatGPT, il est capable de <strong>résumer et de filtrer le contenu</strong>, éliminant ainsi plus de 80% du bruit.</p>
+
+
+
+<p>Comme ça, vous pouvez rester concentré sur la lecture des actus qui vous intéressent vraiment, en fonction de vos centres d&rsquo;intérêt, tout en restant aligné sur vos objectifs. N&rsquo;oubliez pas quand même de mettre Korben.info dans vos sources :))</p>
+
+
+
+<p>Mais  Auto-News va encore plus loin puisqu&rsquo;il est capable de <strong>générer des listes de tâches à partir de vos notes</strong>. Il peut également <strong>les organiser</strong> en les résumant avec les informations clés et y&rsquo;a même une fonctionnalité expérimentale appelée « Deepdive » qui grâce à un agent de recherche web et à l&rsquo;outil Autogen de Microsoft, vous permet d&rsquo;<strong>explorer en profondeur des sujets</strong> qui vous passionnent.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-911322651" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Côté technique, Auto-News prend en charge plusieurs backends d&rsquo;IA, dont OpenAI ChatGPT et Google Gemini. L&rsquo;interface utilisateur est basée sur Notion, ce qui signifie que vous pouvez y accéder de n&rsquo;importe où, que ce soit via un navigateur web ou une application mobile. Son déploiement est plutôt flexible, avec une prise en charge de Docker Compose et de Kubernetes donc ça peut s&rsquo;intégrer facilement dans votre flux de travail.</p>
+
+
+
+<p><a href="https://github.com/finaldie/auto-news" rel="noopener" target="_blank">A découvrir ici.</a></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 24 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Grsync – Une chouette interface pour rsync</title>

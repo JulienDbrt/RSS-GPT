@@ -4408,3 +4408,21 @@ Summarized using GPT-4o-mini
 Append: ["La connerie du siècle", le tunnel sous Fourvière et ses traditionnels bouchons](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/la-connerie-du-siecle-le-tunnel-sous-fourviere-et-ses-traditionnels-bouchons-3021251.html)
 append_entries: 2
 Finish: 2024-08-24 01:19:09.023219
+------------------------------------------------------
+Started: 2024-08-24 12:35:50.166260
+Existing_entries: 1002
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 247
+Summarized using GPT-4o-mini
+Append: [SNCF : panne d'un train entre Douai et Lille, le trafic est revenu à la normale](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/sncf-panne-d-un-train-entre-douai-et-lille-le-trafic-est-revenu-a-la-normale-3021803.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: [Ce n'est pas Star Wars mais le Loiret : quand le premier métro aérien suspendu circulait et attirait le monde entier](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/ce-n-est-pas-star-wars-mais-le-loiret-quand-le-premier-metro-aerien-suspendu-circulait-et-attirait-le-monde-entier-3008174.html)
+Token length: 266
+Summarized using GPT-4o-mini
+Append: ["On peut en trouver comme on irait chercher du pain", il raconte comment la cocaïne a failli détruire sa vie](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-peut-en-trouver-comme-on-irait-chercher-du-pain-il-raconte-comment-la-cocaine-a-failli-detruire-sa-vie-3021128.html)
+Token length: 237
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Découvrir le vignoble de Bourgogne à vélo](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/video-decouvrir-le-vignoble-de-bourgogne-a-velo-3021494.html)
+append_entries: 4
+Finish: 2024-08-24 12:35:59.879474

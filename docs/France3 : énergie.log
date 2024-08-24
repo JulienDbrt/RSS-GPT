@@ -1794,3 +1794,9 @@ Summarized using GPT-4o-mini
 Append: [Refus du compteur Linky : Enedis vous facturera 64€/an à partir de 2025, même pour les relevés effectués par vos soins](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/refus-du-compteur-linky-enedis-vous-facturera-64-an-a-partir-de-2025-meme-pour-les-releves-effectues-par-vos-soins-3021434.html)
 append_entries: 1
 Finish: 2024-08-24 01:18:18.376149
+------------------------------------------------------
+Started: 2024-08-24 12:35:26.270844
+Existing_entries: 146
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-08-24 12:35:26.522766

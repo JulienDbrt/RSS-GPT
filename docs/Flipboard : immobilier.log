@@ -4828,3 +4828,27 @@ Existing_entries: 1004
 Fetching from https://flipboard.com/topic/fr-immobilier.rss
 append_entries: 0
 Finish: 2024-08-24 01:13:11.191877
+------------------------------------------------------
+Started: 2024-08-24 12:31:15.458572
+Existing_entries: 1000
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Voilà le montant de la retraite pour un salaire de 2 000 euros nets](https://emploi.lefigaro.fr/retraite/guide-de-la-retraite/2041-2000-euros/)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Immobilier : les 8 bonnes raisons de ne pas créer une SCI](https://www.lefigaro.fr/placement/immobilier-les-8-raisons-de-ne-pas-creer-une-sci-20230316)
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Le prêt immobilier sur 40 ans deviendra-t-il bientôt une réalité ?](https://www.presse-citron.net/le-pret-immobilier-sur-40-ans-deviendra-t-il-bientot-une-realite/)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [« Surtaxer » les résidences secondaires pour enrayer la crise du logement, une méthode de plus en plus appliquée par les maires](https://www.lemonde.fr/societe/article/2024/08/24/crise-du-logement-l-engouement-des-maires-pour-la-surtaxe-sur-les-residences-secondaires_6292470_3224.html)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Cette maison « pliable » de deux étages, entièrement équipée, est en vente sur Amazon pour une bouchée de pain](https://www.maison-travaux.fr/actualites/budget/immobilier/maison-pliable-deux-etages-entierement-equipee-vente-amazon-pour-bouchee-pain-570265.html)
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [Immobilier : un magnifique appartement entièrement rénové avec terrasse et vue sur mer à Sainte-Maxime](https://www.lesechos.fr/patrimoine/immobilier/immobilier-un-magnifique-appartement-entierement-renove-avec-terrasse-et-vue-sur-mer-a-sainte-maxime-2115003)
+append_entries: 6
+Finish: 2024-08-24 12:31:33.218023

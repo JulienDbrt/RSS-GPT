@@ -2380,3 +2380,15 @@ Existing_entries: 336
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-24 01:17:14.346696
+------------------------------------------------------
+Started: 2024-08-24 12:34:52.737305
+Existing_entries: 336
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 405
+Summarized using GPT-4o-mini
+Append: [Rentrée 2024 : selon le syndicat étudiant Unef, le logement est le premier poste de dépenses des étudiants](https://www.europe1.fr/economie/rentree-2024-selon-le-syndicat-etudiant-unef-le-logement-est-le-premier-poste-de-depenses-des-etudiants-4263600)
+Token length: 188
+Summarized using GPT-4o-mini
+Append: [Le bilan de l’été pour les loueurs de voitures marqué par l'effet JO](https://www.europe1.fr/economie/le-bilan-de-lete-pour-les-loueurs-de-voitures-marque-par-leffet-jo-4263608)
+append_entries: 2
+Finish: 2024-08-24 12:34:57.810164

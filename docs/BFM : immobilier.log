@@ -2278,3 +2278,12 @@ Existing_entries: 320
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-08-24 01:16:37.557763
+------------------------------------------------------
+Started: 2024-08-24 12:34:11.883836
+Existing_entries: 320
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 234
+Summarized using GPT-4o-mini
+Append: ["Pour limiter les frais", ces agriculteurs misent sur l'habitat léger pour s'installer, non sans mal](https://www.bfmtv.com/immobilier/achat-vente/pour-limiter-les-frais-ces-agriculteurs-misent-sur-l-habitat-leger-pour-s-installer-non-sans-mal_AD-202408240115.html)
+append_entries: 1
+Finish: 2024-08-24 12:34:15.260883

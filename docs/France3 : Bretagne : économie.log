@@ -1906,3 +1906,9 @@ Summarized using GPT-4o-mini
 Append: [Airbnb : pourquoi les nouvelles règles de location de courte durée ne font pas l'unanimité](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/airbnb-pourquoi-les-nouvelles-regles-de-location-de-courte-duree-ne-font-pas-l-unanimite-3021368.html)
 append_entries: 1
 Finish: 2024-08-24 01:18:57.554123
+------------------------------------------------------
+Started: 2024-08-24 12:35:44.523498
+Existing_entries: 183
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-08-24 12:35:44.770290

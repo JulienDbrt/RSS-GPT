@@ -2563,3 +2563,12 @@ Summarized using GPT-4o-mini
 Append: [INFO LA DEPECHE. Latécoère : déménagement vers la République tchèque en cours pour l’activité usinage du site de Toulouse-Montredon](https://www.ladepeche.fr/2024/08/23/info-la-depeche-latecoere-demenagement-en-cours-pour-lactivite-usinage-du-site-de-toulouse-montredon-12155101.php)
 append_entries: 1
 Finish: 2024-08-24 01:21:01.159309
+------------------------------------------------------
+Started: 2024-08-24 12:37:04.053226
+Existing_entries: 399
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Trouver un job en faisant la fête ? L’action emploi du Rose Festival](https://www.ladepeche.fr/2024/08/24/trouver-un-job-en-faisant-la-fete-laction-emploi-du-rose-festival-12155671.php)
+append_entries: 1
+Finish: 2024-08-24 12:37:07.144689
