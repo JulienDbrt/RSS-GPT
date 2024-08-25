@@ -2392,3 +2392,9 @@ Summarized using GPT-4o-mini
 Append: [Le bilan de l’été pour les loueurs de voitures marqué par l'effet JO](https://www.europe1.fr/economie/le-bilan-de-lete-pour-les-loueurs-de-voitures-marque-par-leffet-jo-4263608)
 append_entries: 2
 Finish: 2024-08-24 12:34:57.810164
+------------------------------------------------------
+Started: 2024-08-25 01:23:22.495323
+Existing_entries: 338
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-08-25 01:23:22.980158

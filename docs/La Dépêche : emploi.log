@@ -2572,3 +2572,9 @@ Summarized using GPT-4o-mini
 Append: [Trouver un job en faisant la fête ? L’action emploi du Rose Festival](https://www.ladepeche.fr/2024/08/24/trouver-un-job-en-faisant-la-fete-laction-emploi-du-rose-festival-12155671.php)
 append_entries: 1
 Finish: 2024-08-24 12:37:07.144689
+------------------------------------------------------
+Started: 2024-08-25 01:24:59.443630
+Existing_entries: 400
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-08-25 01:25:00.276465

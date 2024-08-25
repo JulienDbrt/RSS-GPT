@@ -4426,3 +4426,12 @@ Summarized using GPT-4o-mini
 Append: [VIDÉO. Découvrir le vignoble de Bourgogne à vélo](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/video-decouvrir-le-vignoble-de-bourgogne-a-velo-3021494.html)
 append_entries: 4
 Finish: 2024-08-24 12:35:59.879474
+------------------------------------------------------
+Started: 2024-08-25 01:24:09.151456
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 160
+Summarized using GPT-4o-mini
+Append: [Le Bureau Enquête Analyse lance un appel à témoin suite au crash du Lavandou dans le Var](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/saint-tropez/le-bureau-enquete-analyse-lance-un-appel-a-temoin-suite-au-crash-du-lavandou-dans-le-var-3021845.html)
+append_entries: 1
+Finish: 2024-08-25 01:24:11.926306

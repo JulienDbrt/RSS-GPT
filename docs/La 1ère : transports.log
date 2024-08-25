@@ -2392,3 +2392,9 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. Dans le sillage des barges privées qui desservent le Sud du Mont-Dore](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/reportage-dans-le-sillage-des-barges-privees-qui-desservent-le-sud-du-mont-dore-1516199.html)
 append_entries: 1
 Finish: 2024-08-24 12:36:34.216809
+------------------------------------------------------
+Started: 2024-08-25 01:24:47.951432
+Existing_entries: 330
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-08-25 01:24:47.998982

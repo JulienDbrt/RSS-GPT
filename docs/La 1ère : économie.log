@@ -5011,3 +5011,15 @@ Summarized using GPT-4o-mini
 Append: [Les soldes d'hiver débutent entre espoir de reprise et inquiétude de l'avenir](https://la1ere.francetvinfo.fr/nouvellecaledonie/les-soldes-d-hiver-debutent-entre-espoir-de-reprise-et-inquietude-de-l-avenir-1516139.html)
 append_entries: 4
 Finish: 2024-08-24 12:36:30.827999
+------------------------------------------------------
+Started: 2024-08-25 01:24:37.228608
+Existing_entries: 1004
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 48
+Summarized using GPT-4o-mini
+Append: [Grève au SMTVD : le personnel reste mobilisé et les déchèteries de Martinique inaccessibles](https://la1ere.francetvinfo.fr/martinique/greve-au-smtvd-le-personnels-reste-mobilise-et-les-dechetteries-de-martinique-inaccessibles-1516271.html)
+Token length: 66
+Summarized using GPT-4o-mini
+Append: [Forte affluence à Nouméa pour la première journée des soldes d'hiver](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/forte-affluence-a-noumea-pour-la-premiere-journee-des-soldes-d-hiver-1516175.html)
+append_entries: 2
+Finish: 2024-08-25 01:24:45.070975

@@ -6343,3 +6343,9 @@ Summarized using GPT-4o-mini
 Append: [Le patron belge des voitures partagées Miles : “A Bruxelles, le vandalisme est présent partout, à toute heure de la journée et de la nuit”](https://www.lalibre.be/economie/entreprises-startup/2024/08/24/le-patron-belge-des-voitures-partagees-miles-a-bruxelles-le-vandalisme-est-present-partout-a-toute-heure-de-la-journee-et-de-la-nuit-Q3LVQJGKBZDJ3BQ6SQO2QDOEE4/)
 append_entries: 2
 Finish: 2024-08-24 12:37:14.807985
+------------------------------------------------------
+Started: 2024-08-25 01:25:02.346282
+Existing_entries: 1002
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/economie/?outputType=xml
+append_entries: 0
+Finish: 2024-08-25 01:25:03.746416
