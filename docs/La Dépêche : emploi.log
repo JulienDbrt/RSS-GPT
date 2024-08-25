@@ -2578,3 +2578,12 @@ Existing_entries: 400
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-08-25 01:25:00.276465
+------------------------------------------------------
+Started: 2024-08-25 12:35:18.137908
+Existing_entries: 400
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [Quand la recherche d’alternance devient le cauchemar des étudiants toulousains](https://www.ladepeche.fr/2024/08/25/quand-la-recherche-dalternance-devient-le-cauchemar-des-etudiants-toulousains-12133943.php)
+append_entries: 1
+Finish: 2024-08-25 12:35:22.287740

@@ -6829,3 +6829,9 @@ Summarized using GPT-4o-mini
 Append: [Retours de vacances : plus de 700 km de bouchons ont été recensés sur les routes à la mi-journée, selon Bison Futé](https://www.francetvinfo.fr/economie/transports/trafic/retours-de-vacances-plus-de-700-km-de-bouchons-ont-ete-recenses-sur-les-routes-a-la-mi-journee-selon-bison-fute_6741610.html)
 append_entries: 3
 Finish: 2024-08-25 01:23:45.646467
+------------------------------------------------------
+Started: 2024-08-25 12:33:37.737702
+Existing_entries: 1003
+Fetching from https://www.francetvinfo.fr/economie.rss
+append_entries: 0
+Finish: 2024-08-25 12:33:38.112396

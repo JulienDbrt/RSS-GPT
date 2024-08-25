@@ -5023,3 +5023,15 @@ Summarized using GPT-4o-mini
 Append: [Forte affluence à Nouméa pour la première journée des soldes d'hiver](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/noumea/forte-affluence-a-noumea-pour-la-premiere-journee-des-soldes-d-hiver-1516175.html)
 append_entries: 2
 Finish: 2024-08-25 01:24:45.070975
+------------------------------------------------------
+Started: 2024-08-25 12:34:45.471152
+Existing_entries: 1002
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 41
+Summarized using GPT-4o-mini
+Append: [RENDEZ-VOUS. Le dessin de la semaine avec Nicolas Yann Martin : 25 août 2024](https://la1ere.francetvinfo.fr/nouvellecaledonie/rendez-vous-le-dessin-de-la-semaine-avec-nicolas-yann-martin-25-aout-2024-1516397.html)
+Token length: 87
+Summarized using GPT-4o-mini
+Append: [Crise du logement à La Réunion : plus de 140 000 personnes mal-logées, la CNL mobilisée](https://la1ere.francetvinfo.fr/reunion/crise-du-logement-a-la-reunion-plus-de-140-000-personnes-mal-logees-la-cnl-mobilisee-1516400.html)
+append_entries: 2
+Finish: 2024-08-25 12:34:49.168831

@@ -1801,3 +1801,9 @@ Summarized using GPT-4o-mini
 Append: [Grève au SMTVD : le personnel reste mobilisé et les déchèteries de Martinique inaccessibles](https://la1ere.francetvinfo.fr/martinique/greve-au-smtvd-le-personnels-reste-mobilise-et-les-dechetteries-de-martinique-inaccessibles-1516271.html)
 append_entries: 1
 Finish: 2024-08-25 01:24:47.708335
+------------------------------------------------------
+Started: 2024-08-25 12:34:49.243200
+Existing_entries: 131
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-08-25 12:34:49.423545

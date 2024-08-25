@@ -6944,3 +6944,15 @@ Summarized using GPT-4o-mini
 Append: [10 métiers qui peuvent rapporter 10 000 euros (ou presque) par mois](https://www.maformation.fr/actualites/10-metiers-rapporter-10-000-euros-mois-153474)
 append_entries: 3
 Finish: 2024-08-25 01:19:46.816360
+------------------------------------------------------
+Started: 2024-08-25 12:30:08.600730
+Existing_entries: 1003
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Compte épargne temps universel : la Macronie persiste, la gauche n'en veut pas](https://www.lesechos.fr/economie-france/social/compte-epargne-temps-universel-la-macronie-persiste-la-gauche-nen-veut-pas-2115033)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Epargne salariale : la bonne stratégie à adopter en cas de départ](https://www.lexpress.fr/argent/placements/epargne-salariale-la-bonne-strategie-a-adopter-en-cas-de-depart-UJO27PZFKJDT3EPDJWWQRHUX4Y/)
+append_entries: 2
+Finish: 2024-08-25 12:30:15.073388

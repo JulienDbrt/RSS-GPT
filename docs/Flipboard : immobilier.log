@@ -4902,3 +4902,12 @@ Append: [Échec du rachat des Tours Proximus par Immobel : "Aucun résultat acce
 Append: [Armentières : la résidence de cent nouveaux logements près de la friche Motte-Cordonnier est intergénérationnelle](https://www.lavoixdunord.fr/1495075/article/2024-08-24/armentieres-la-residence-de-cent-nouveaux-logements-pres-de-la-friche-motte)
 append_entries: 24
 Finish: 2024-08-25 01:20:11.309211
+------------------------------------------------------
+Started: 2024-08-25 12:30:15.584058
+Existing_entries: 1024
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Pourquoi le rêve de maison individuelle s’éloigne pour une majorité de Français](https://www.letelegramme.fr/economie/logement/pourquoi-le-reve-de-maison-individuelle-seloigne-pour-une-majorite-de-francais-6647627.php)
+append_entries: 1
+Finish: 2024-08-25 12:30:19.162311

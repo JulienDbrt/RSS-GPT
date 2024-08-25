@@ -4435,3 +4435,9 @@ Summarized using GPT-4o-mini
 Append: [Le Bureau Enquête Analyse lance un appel à témoin suite au crash du Lavandou dans le Var](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/saint-tropez/le-bureau-enquete-analyse-lance-un-appel-a-temoin-suite-au-crash-du-lavandou-dans-le-var-3021845.html)
 append_entries: 1
 Finish: 2024-08-25 01:24:11.926306
+------------------------------------------------------
+Started: 2024-08-25 12:34:24.813337
+Existing_entries: 1001
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-08-25 12:34:25.116377

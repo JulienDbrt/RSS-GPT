@@ -2238,3 +2238,12 @@ Existing_entries: 290
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-25 01:23:57.864908
+------------------------------------------------------
+Started: 2024-08-25 12:34:01.045004
+Existing_entries: 290
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 287
+Summarized using GPT-4o-mini
+Append: ["En moyenne un studio de 15m² dans Paris reçoit 300 demandes" : la galère du logement étudiant](https://france3-regions.francetvinfo.fr/paris-ile-de-france/en-moyenne-un-studio-de-15m-dans-paris-recoit-300-demandes-la-galere-du-logement-etudiant-3021023.html)
+append_entries: 1
+Finish: 2024-08-25 12:34:03.372953

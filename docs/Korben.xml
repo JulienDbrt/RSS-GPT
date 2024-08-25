@@ -4,6 +4,65 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>LLocalSearch – Le moteur de recherche local basé sur des agents IA</title>
+<link>https://korben.info/llocalsearch-moteur-recherche-local-agents-ia.html</link>
+<guid>https://korben.info/llocalsearch-moteur-recherche-local-agents-ia.html</guid>
+<content:encoded><![CDATA[
+<div> Moteur de recherche, LLocalSearch, IA, local, open source
+
+<br><br>Summary:  
+LLocalSearch est un moteur de recherche qui fonctionne localement sur votre machine, utilisant des agents IA pour trouver des réponses. Il enchaîne plusieurs modèles de langage afin de fournir la réponse la plus pertinente, tout en garantissant la confidentialité des données puisque rien n'est envoyé sur des serveurs distants. Ce système permet également de poser des questions de suivi pour un dialogue interactif. Optimisé pour fonctionner sur des configurations modestes, il utilise un modèle de 7 milliards de paramètres, ce qui le rend accessible à un large public. L'interface est épurée et conviviale, offrant un mode clair et un mode sombre, tant sur ordinateur que sur mobile. Le déploiement est simple grâce à Docker, avec des instructions claires. Cependant, étant un projet en phase de démarrage, il présente encore des bugs et des limitations, mais son potentiel est prometteur grâce à la communauté open source engagée. En attendant les évolutions, il est recommandé d'essayer LLocalSearch pour se faire sa propre opinion. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Write_word_LLocal_with_2_L_letters_a86e32bd-389c-4d0d-8ec2-cfdb9e476a49.webp" width="1456" /></p>
+<p>LLocalSearch est un <strong>moteur de recherche</strong> qui fonctionne entièrement en local sur votre machine, qui utilise des <strong>agents IA</strong> pour effectuer des recherches directement sur votre ordinateur.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-309370449" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Le concept est simple mais diablement efficace. Lorsque vous lui posez une question, le système va enchaîner plusieurs <strong>modèles de langage</strong> pour trouver la réponse la plus pertinente. Tout le processus est transparent, vous pouvez suivre en temps réel la progression des agents et voir comment ils arrivent à la réponse finale, tout ça sans qu&rsquo;aucune donnée ne soit envoyée sur des serveurs distants.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159570" height="555" src="https://korben.info/app/uploads/2024/04/318740245-4415e213-e38e-46c9-beaa-cc5279c6ccec-1.webp" width="850" /></figure></div>
+
+
+<p>Mais il ne se contente pas d&rsquo;être un simple moteur de recherche en local. Il propose également des fonctionnalités avancées comme la possibilité de poser des <strong>questions de suivi</strong> pour affiner votre requête initiale. Vous pouvez ainsi avoir un véritable dialogue avec le système pour obtenir exactement l&rsquo;information dont vous avez besoin.</p>
+
+
+
+<p>Un autre atout de <a href="https://github.com/nilsherzig/LLocalSearch" rel="noopener" target="_blank">LLocalSearch</a> est sa capacité à fonctionner sur du <strong>matériel abordable</strong>. Pas besoin d&rsquo;une machine de guerre avec des dizaines de gigaoctets de RAM et une carte graphique dernier cri. Le système est optimisé pour tourner sur des configurations modestes, comme le montre la vidéo de démo qui utilise un modèle de seulement 7 milliards de paramètres.</p>
+
+
+
+<figure class="wp-block-video aligncenter"><video controls="controls" src="https://korben.info/app/uploads/2024/04/322206487-86ab3175-ac5a-48cf-bba6-73b4380d06d8-1.mp4"></video></figure>
+
+
+
+<p>Côté interface, LLocalSearch mise sur la simplicité et l&rsquo;efficacité. Que vous utilisiez le système sur ordinateur ou sur mobile, vous bénéficiez d&rsquo;une interface épurée avec un champ de recherche central et un affichage clair des résultats, le tout avec un joli design soigné qui propose un mode clair et un mode sombre pour s&rsquo;adapter à vos préférences.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-712888581" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>De plus, il est très simple à déployer grâce à <strong>Docker</strong>. Quelques lignes de commande suffisent pour lancer le système et commencer à l&rsquo;utiliser.</p>
+
+
+
+<pre class="wp-block-code"><code>git clone https://github.com/nilsherzig/LLocalSearch.git
+cd ./LLocalSearch
+# 🔴 vérifier les variables d'environnement dans le fichier compose (et le fichier `env-example`) et les changer si nécessaire
+docker-compose up </code></pre>
+
+
+
+<p>Bien sûr, comme tout projet en phase de démarrage, LLocalSearch n&rsquo;est pas exempt de bugs et de limitations. Toutes les fonctionnalités prévues ne sont pas encore implémentées et il faudra sans doute un peu de temps avant d&rsquo;arriver à un système aussi complet et robuste que les moteurs de recherche en ligne que nous connaissons. Mais le potentiel est là et il ne fait aucun doute que ça va rapidement progresser grâce à une communauté open source motivée et passionnée.</p>
+
+
+
+<p>En attendant, <a href="https://github.com/nilsherzig/LLocalSearch" rel="noopener" target="_blank">n&rsquo;hésitez pas à tester cet outil</a> et à vous faire votre propre idée.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 25 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Auto-News – L’agrégateur de news automatisé par IA</title>

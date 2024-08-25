@@ -6521,3 +6521,18 @@ Summarized using GPT-4o-mini
 Append: [Donation : « Que se passe-t-il en cas de décès avant la fin du délai de 15 ans ? »](https://www.moneyvox.fr/impot/actualites/99242/donation-que-se-passe-t-il-en-cas-de-deces-avant-la-fin-du-delai-de-15-ans)
 append_entries: 1
 Finish: 2024-08-25 01:23:56.135454
+------------------------------------------------------
+Started: 2024-08-25 12:33:41.178476
+Existing_entries: 1001
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Livraison en retard ? Voici vos recours quand votre commande n'arrive pas](https://www.moneyvox.fr/votre-argent/actualites/99246/livraison-en-retard-voici-vos-recours-quand-votre-commande-n-arrive-pas)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Taxe foncière 2024, droits de succession, mutuelle santé moins chère... Voici les 5 infos de la semaine](https://www.moneyvox.fr/immobilier/actualites/99245/taxe-fonciere-2024-droits-de-succession-mutuelle-sante-moins-chere-voici-les-5-infos-de-la-semaine)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Immobilier : voici 10 précautions à prendre avant de construire votre maison](https://www.moneyvox.fr/immobilier/actualites/99249/voici-10-precautions-a-prendre-avant-de-construire-votre-maison)
+append_entries: 3
+Finish: 2024-08-25 12:33:59.495980

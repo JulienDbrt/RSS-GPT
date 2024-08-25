@@ -2665,3 +2665,12 @@ Existing_entries: 479
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-25 01:24:36.321059
+------------------------------------------------------
+Started: 2024-08-25 12:34:39.938706
+Existing_entries: 479
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3521
+Summarized using GPT-4o-mini
+Append: [Pourquoi le patron de Telegram, Pavel Durov, a été arrêté en France](https://www.lexpress.fr/economie/high-tech/pourquoi-le-patron-de-telegram-pavel-durov-a-ete-arrete-en-france-5VB5KOLNSZBLBIPRVPIVUBP5QE/)
+append_entries: 1
+Finish: 2024-08-25 12:34:44.535242

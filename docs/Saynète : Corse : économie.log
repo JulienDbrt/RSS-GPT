@@ -5593,3 +5593,12 @@ Summarized using GPT-4o-mini
 Append: [’ Et si cet été, Air Corsica vous emmenait découvrir l’une des plus belles plages de Corse](https://www.facebook.com/204309342152891/posts/522471313670024)
 append_entries: 2
 Finish: 2024-08-25 01:21:42.112654
+------------------------------------------------------
+Started: 2024-08-25 12:31:37.070609
+Existing_entries: 1002
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 388
+Summarized using GPT-4o-mini
+Append: [Une répartition territoriale très inégale du service civique. Un lien avec le taux de chômage](http://blogs.alternatives-economiques.fr/abherve/2024/08/24/une-repartition-territoriale-tres-inegale-du-service-civique-un-lien-avec-le-taux-de-chomage)
+append_entries: 1
+Finish: 2024-08-25 12:31:40.804629
