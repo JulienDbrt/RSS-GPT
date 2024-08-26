@@ -2253,3 +2253,15 @@ Existing_entries: 291
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-26 01:19:07.282783
+------------------------------------------------------
+Started: 2024-08-26 12:40:18.005521
+Existing_entries: 291
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 161
+Summarized using GPT-4o-mini
+Append: [L'aéroport d'Orly évacué après une fausse alerte à la bombe](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/l-aeroport-d-orly-evacue-apres-une-fausse-alerte-a-la-bombe-3022409.html)
+Token length: 183
+Summarized using GPT-4o-mini
+Append: [Sans le savoir, vous effectuez peut-être chaque jour la plus longue correspondance du métro parisien](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/sans-le-savoir-vous-effectuez-peut-etre-chaque-jour-la-plus-longue-correspondance-du-metro-parisien-2984192.html)
+append_entries: 2
+Finish: 2024-08-26 12:40:24.546131

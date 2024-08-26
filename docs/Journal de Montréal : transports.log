@@ -2160,3 +2160,9 @@ Summarized using GPT-4o-mini
 Append: [Conflit ferroviaire: les syndiqués du CN retourneront au travail lundi](https://www.journaldemontreal.com/2024/08/24/conflit-ferroviaire-les-syndiques-du-cn-retourneront-au-travail-lundi)
 append_entries: 2
 Finish: 2024-08-26 01:19:28.583319
+------------------------------------------------------
+Started: 2024-08-26 12:41:17.142705
+Existing_entries: 250
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-08-26 12:41:17.391169

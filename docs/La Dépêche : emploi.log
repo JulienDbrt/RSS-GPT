@@ -2596,3 +2596,15 @@ Summarized using GPT-4o-mini
 Append: [TÉMOIGNAGE. "L’école de la deuxième chance a été un tremplin qui m’a fait connaître le Secours populaire. Sans eux, je serais encore en train de ne rien faire."](https://www.ladepeche.fr/2024/08/25/temoignage-lecole-de-la-deuxieme-chance-a-ete-un-tremplin-qui-ma-fait-connaitre-le-secours-populaire-sans-eux-je-serais-encore-en-train-de-ne-rien-12153387.php)
 append_entries: 1
 Finish: 2024-08-26 01:20:04.207163
+------------------------------------------------------
+Started: 2024-08-26 12:42:27.402126
+Existing_entries: 402
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 218
+Summarized using GPT-4o-mini
+Append: [Pas de chômage partiel pour les salariés du Buffalo Grill de Montauban](https://www.ladepeche.fr/2024/08/26/pas-de-chomage-partiel-pour-les-salaries-du-buffalo-grill-de-montauban-12155925.php)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Face au recul historique des offres d’emploi sur le département, la tentation de l’entrepreneuriat](https://www.ladepeche.fr/2024/08/26/face-au-recul-historique-des-offres-demploi-sur-le-departement-la-tentation-de-lentrepreneuriat-12159087.php)
+append_entries: 2
+Finish: 2024-08-26 12:42:34.369341

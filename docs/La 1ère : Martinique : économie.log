@@ -1813,3 +1813,12 @@ Existing_entries: 131
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-08-26 01:19:39.320047
+------------------------------------------------------
+Started: 2024-08-26 12:41:45.662063
+Existing_entries: 131
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [La Martinique se dirige-t-elle vers une nouvelle mobilisation contre la vie chère ?](https://la1ere.francetvinfo.fr/martinique/la-martnique-se-dirige-t-elle-vers-une-nouvelle-greve-contre-la-vie-chere-1516511.html)
+append_entries: 1
+Finish: 2024-08-26 12:41:48.432719

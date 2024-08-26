@@ -4,6 +4,83 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>uv – L’installateur Python ultra-rapide</title>
+<link>https://korben.info/uv-installateur-python-ultra-rapide-revolutionne-projets.html</link>
+<guid>https://korben.info/uv-installateur-python-ultra-rapide-revolutionne-projets.html</guid>
+<content:encoded><![CDATA[
+<div> uv, Rust, dépendances, performances, multi-plateforme
+
+<br><br>Summary: uv est un nouvel outil conçu pour révolutionner l'installation de dépendances Python. Développé en Rust par les créateurs de Ruff, il propose des performances jusqu'à 100 fois supérieures à celles de pip et pip-tools, tout en étant facile à utiliser. L'installation d'uv peut se faire rapidement via curl, pip, pipx ou Homebrew. Une fois installé, il permet de créer et activer un environnement virtuel avec `uv venv` et d'installer des packages grâce à des commandes intuitives comme `uv pip install flask`. 
+
+De plus, uv génère des fichiers de dépendances verrouillés pour une meilleure reproductibilité avec `uv pip compile` et synchronise facilement votre environnement via `uv pip sync`. Il offre aussi des fonctionnalités avancées comme la gestion des versions de dépendances, le support des dépôts Git avec authentification simplifiée, et la possibilité d'installer dans différents environnements Python grâce à l'option --python.
+
+Son utilisation intelligente du cache garantit des téléchargements optimisés, et plusieurs méthodes d'authentification sont disponibles, rendant uv particulièrement versatile. Enfin, cet outil est multi-plateforme, fonctionnant sur macOS, Linux et Windows, et compatible avec de nombreuses architectures. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Python_wallpaper_code_logo_with_word_UV_58b885ff-cb5d-4896-8111-2fe9727e0be9.webp" width="1456" /></p>
+<p>Vous en avez assez d&rsquo;attendre des heures pour installer vos dépendances Python ? Et la nuit, dans vos draps humides, vous rêvez d&rsquo;un outil qui rendrait ce processus ultra-rapide et indolore ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-156295028" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ne cherchez plus, <strong>uv</strong> est là pour vous !</p>
+
+
+
+<p>Écrit en Rust par les mêmes qui ont fait Ruff, <a href="https://github.com/astral-sh/uv" rel="noopener" target="_blank"><strong>uv est un installateur Python</strong></a> et un résolveur de dépendances d&rsquo;une rapidité époustouflante. Conçu comme une alternative à <strong>pip</strong> et <strong>pip-tools</strong>, il offre des performances jusqu&rsquo;à 100 fois supérieures et il est aussi facile à utiliser que <strong>pip</strong>. Vous pouvez l&rsquo;installer en un clin d&rsquo;œil avec <strong>curl</strong>, <strong>pip</strong>, <strong>pipx</strong> ou même <strong>Homebrew</strong>. Une fois en place, créez votre environnement virtuel avec <code>uv venv</code>, activez-le, et vous voilà prêt à installer des packages en un temps record grâce à des commandes intuitives comme </p>
+
+
+
+<p><code>uv pip install flask</code></p>
+
+
+
+<p><strong>uv</strong> gère également la génération de fichiers de dépendances verrouillés, pour garantir la reproductibilité de votre environnement sur n&rsquo;importe quelle plateforme. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-120953680" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Avec </p>
+
+
+
+<p><code>uv pip compile</code></p>
+
+
+
+<p>vous pouvez générer un fichier <em>requirements.txt</em> à partir de diverses sources : <em>requirements.in</em>, <em>pyproject.toml</em>, <em>setup.py</em> ou même l&rsquo;entrée standard. Et pour synchroniser votre environnement avec ce fichier, rien de plus simple : </p>
+
+
+
+<p><code>uv pip sync requirements.txt</code></p>
+
+
+
+<p>Mais ce n&rsquo;est pas tout. <strong>uv</strong> regorge de fonctionnalités avancées pour répondre à tous vos besoins. Vous pouvez définir des <strong>overrides</strong> de versions de dépendances, choisir entre différentes stratégies de résolution, gérer les dépendances Git avec une authentification simplifiée, et même installer dans des environnements Python arbitraires grâce à l&rsquo;option <code>--python</code>.</p>
+
+
+
+<p>Côté performances, le secret d&rsquo;<strong>uv</strong> réside dans son utilisation intelligente du cache. Les dépendances déjà téléchargées sont stockées de manière optimisée, et <strong>uv</strong> se base sur des informations comme les en-têtes de cache HTTP ou les hachages Git pour déterminer si une dépendance doit être retéléchargée. Vous pouvez contrôler finement le comportement du cache avec des options comme <code>--refresh</code> ou <code>--no-cache</code>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1566234721" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Autre avantage indéniable d&rsquo;<strong>uv</strong> : sa gestion avancée de l&rsquo;authentification. Que ce soit pour les dépôts Git privés ou les registres de packages, <strong>uv</strong> vous permet de vous authentifier de multiples façons : SSH, HTTPS avec nom d&rsquo;utilisateur et mot de passe ou token, fichier <em>netrc</em>, et même le keyring de votre système !</p>
+
+
+
+<p>C&rsquo;est également un outil multi-plateforme qui fonctionne de manière optimale sur macOS, Linux et Windows, avec un support de premier ordre pour les architectures x86_64. Et si vous utilisez une plateforme plus exotique, il y a de grandes chances qu&rsquo;<strong>uv</strong> soit également disponible grâce à une compatibilité étendue.</p>
+
+
+
+<p>C&rsquo;est vraiment à tester si vous faites du python.</p>
+
+
+
+<p>A découvrir ici : <a href="https://github.com/astral-sh/uv" rel="noopener" target="_blank">https://github.com/astral-sh/uv</a></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 26 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>LLocalSearch – Le moteur de recherche local basé sur des agents IA</title>
