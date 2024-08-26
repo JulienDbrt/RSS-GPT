@@ -6536,3 +6536,18 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : voici 10 précautions à prendre avant de construire votre maison](https://www.moneyvox.fr/immobilier/actualites/99249/voici-10-precautions-a-prendre-avant-de-construire-votre-maison)
 append_entries: 3
 Finish: 2024-08-25 12:33:59.495980
+------------------------------------------------------
+Started: 2024-08-26 01:18:57.465415
+Existing_entries: 1003
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Taxe foncière : cette astuce pour savoir si votre ville est très gourmande, ou non](https://www.moneyvox.fr/immobilier/actualites/99250/taxe-fonciere-cette-astuce-pour-savoir-si-votre-ville-est-tres-gourmande-ou-non)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Assurance vie : pourquoi continuer à verser après l'âge de 70 ans est toujours intéressant](https://www.moneyvox.fr/assurance-vie/actualites/98837/pourquoi-continuer-a-verser-apres-age-de-70-ans-est-toujours-interessant)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [La CGT veut une « mobilisation » pour « fin septembre, début octobre »](https://www.moneyvox.fr/votre-argent/actualites/99254/la-cgt-veut-une-mobilisation-pour-fin-septembre-debut-octobre)
+append_entries: 3
+Finish: 2024-08-26 01:19:05.825585

@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>LLocalSearch – Le moteur de recherche local basé sur des agents IA</title>
 <link>https://korben.info/llocalsearch-moteur-recherche-local-agents-ia.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Moteur de recherche, LLocalSearch, IA, local, open source
 
-<br><br>Summary:  
+<br /><br />Summary:  
 LLocalSearch est un moteur de recherche qui fonctionne localement sur votre machine, utilisant des agents IA pour trouver des réponses. Il enchaîne plusieurs modèles de langage afin de fournir la réponse la plus pertinente, tout en garantissant la confidentialité des données puisque rien n'est envoyé sur des serveurs distants. Ce système permet également de poser des questions de suivi pour un dialogue interactif. Optimisé pour fonctionner sur des configurations modestes, il utilise un modèle de 7 milliards de paramètres, ce qui le rend accessible à un large public. L'interface est épurée et conviviale, offrant un mode clair et un mode sombre, tant sur ordinateur que sur mobile. Le déploiement est simple grâce à Docker, avec des instructions claires. Cependant, étant un projet en phase de démarrage, il présente encore des bugs et des limitations, mais son potentiel est prometteur grâce à la communauté open source engagée. En attendant les évolutions, il est recommandé d'essayer LLocalSearch pour se faire sa propre opinion. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Write_word_LLocal_with_2_L_letters_a86e32bd-389c-4d0d-8ec2-cfdb9e476a49.webp" width="1456" /></p>
 <p>LLocalSearch est un <strong>moteur de recherche</strong> qui fonctionne entièrement en local sur votre machine, qui utilise des <strong>agents IA</strong> pour effectuer des recherches directement sur votre ordinateur.</p>
@@ -61,9 +62,7 @@ docker-compose up </code></pre>
 <p>En attendant, <a href="https://github.com/nilsherzig/LLocalSearch" rel="noopener" target="_blank">n&rsquo;hésitez pas à tester cet outil</a> et à vous faire votre propre idée.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 25 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Auto-News – L’agrégateur de news automatisé par IA</title>
 <link>https://korben.info/auto-news-agregateur-news-automatise-ia-lecture-efficace.html</link>

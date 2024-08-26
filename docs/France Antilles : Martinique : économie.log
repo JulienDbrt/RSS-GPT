@@ -2741,3 +2741,9 @@ Summarized using GPT-4o-mini
 Append: [Après le printemps maussade, une "année noire" pour les apiculteurs](https://www.martinique.franceantilles.fr/actualite/economie/apres-le-printemps-maussade-une-annee-noire-pour-les-apiculteurs-1000462.php)
 append_entries: 3
 Finish: 2024-08-25 12:33:36.434947
+------------------------------------------------------
+Started: 2024-08-26 01:18:37.618838
+Existing_entries: 469
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-08-26 01:18:38.406301

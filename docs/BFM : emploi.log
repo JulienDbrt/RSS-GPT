@@ -1674,3 +1674,12 @@ Existing_entries: 100
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-08-25 12:32:18.827691
+------------------------------------------------------
+Started: 2024-08-26 01:17:44.619508
+Existing_entries: 100
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Défaillances d'entreprises: près de 30.000 patrons ont perdu leur emploi au premier semestre 2024](https://www.bfmtv.com/economie/emploi/defaillances-d-entreprises-pres-de-30-000-patrons-ont-perdu-leur-emploi-au-premier-semestre-2024_AN-202408250361.html)
+append_entries: 1
+Finish: 2024-08-26 01:17:47.726770

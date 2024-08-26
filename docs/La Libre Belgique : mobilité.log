@@ -2096,3 +2096,9 @@ Summarized using GPT-4o-mini
 Append: [Le tramway de la côte belge : la plus longue ligne au monde en voie métrique](https://www.lalibre.be/regions/flandre/2024/08/25/le-tramway-de-la-cote-belge-la-plus-longue-ligne-au-monde-en-voie-metrique-UXSMSLIEKJHB3NYDBOSBNNBBGA/)
 append_entries: 1
 Finish: 2024-08-25 12:35:37.055725
+------------------------------------------------------
+Started: 2024-08-26 01:20:09.124796
+Existing_entries: 260
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-08-26 01:20:09.481628
