@@ -3814,3 +3814,18 @@ Summarized using GPT-4o-mini
 Append: [Découverte du saint-nectaire : les secrets de fabrication de ce fromage d’Auvergne](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/decouverte-du-saint-nectaire-les-secrets-de-fabrication-de-ce-fromage-d-auvergne-2985182.html)
 append_entries: 8
 Finish: 2024-08-26 12:40:53.148805
+------------------------------------------------------
+Started: 2024-08-27 01:23:22.592018
+Existing_entries: 809
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 262
+Summarized using GPT-4o-mini
+Append: ["La plus grande fête agricole en plein air d'Europe" : les Terres de Jim attendent 100.000 personnes dans le Doubs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/la-plus-grande-fete-agricole-en-plein-air-d-europe-les-terres-de-jim-attendent-100-000-personnes-dans-le-doubs-3022499.html)
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Vins de Lorraine, vendanges 2024 : il y aura moins de quantité "mais tout est là pour une récolte de très belle qualité"](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/vins-de-lorraine-vendanges-2024-il-y-aura-moins-de-quantite-mais-tout-est-la-pour-une-recolte-de-tres-belle-qualite-3022457.html)
+Token length: 265
+Summarized using GPT-4o-mini
+Append: [Sa récolte réduite à néant par les orages de grêle, une viticultrice lance un appel aux dons](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/bergerac/sa-recolte-reduite-a-neant-par-les-orages-de-grele-une-viticultrice-lance-un-appel-aux-dons-3022445.html)
+append_entries: 3
+Finish: 2024-08-27 01:23:32.116798

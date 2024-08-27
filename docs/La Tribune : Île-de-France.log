@@ -1555,3 +1555,15 @@ Existing_entries: 43
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-08-26 12:43:54.333760
+------------------------------------------------------
+Started: 2024-08-27 01:25:49.736703
+Existing_entries: 43
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 350
+Summarized using GPT-4o-mini
+Append: [Handicap : Pécresse profite de l'élan des Jeux paralympiques pour annoncer un « métro pour tous »](https://www.latribune.fr/entreprises-finance/services/transport-logistique/handicap-pecresse-profite-de-l-elan-des-jeux-paralympiques-pour-annoncer-un-metro-pour-tous-1004863.html)
+Token length: 387
+Summarized using GPT-4o-mini
+Append: [Contrôle technique des bus à la RATP : Valérie Pécresse attend toujours les réponses de la Régie](https://www.latribune.fr/entreprises-finance/services/transport-logistique/controle-technique-des-bus-a-la-ratp-valerie-pecresse-attend-toujours-les-reponses-de-la-regie-1004857.html)
+append_entries: 2
+Finish: 2024-08-27 01:25:55.652582

@@ -3829,3 +3829,18 @@ Summarized using GPT-4o-mini
 Append: [Immobilier - Crowdfunding, immobilier fractionné, cryptomonnaie : Zoom sur ces nouvelles façons de financer un projet immobilier](https://www.lamontagne.fr/paris-75000/actualites/crowdfunding-immobilier-fractionne-cryptomonnaie-zoom-sur-ces-nouvelles-facons-de-financer-un-projet-immobilier_14523470/)
 append_entries: 1
 Finish: 2024-08-26 12:32:51.321648
+------------------------------------------------------
+Started: 2024-08-27 01:15:01.056980
+Existing_entries: 843
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Qui est Julia Vavilova, experte en cryptomonnaie et prétendue petite amie de Pavel Durov, le sulfureux fondateur de Telegram](https://madame.lefigaro.fr/societe/actu/qui-est-julia-vavilova-experte-en-cryptomonnaie-et-pretendue-petite-amie-de-pavel-durov-le-sulfureux-fondateur-de-telegram-20240826)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Les grandes crypto-monnaies dépensent plus pour les élections américaines que toute autre industrie](https://www.citizenside.fr/crypto-monnaies-depensent-elections-americaines-industrie/)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Crowdfunding, immobilier fractionné, cryptomonnaie : Zoom sur ces nouvelles façons de financer un projet immobilier](https://www.lechorepublicain.fr/paris-75000/actualites/crowdfunding-immobilier-fractionne-cryptomonnaie-zoom-sur-ces-nouvelles-facons-de-financer-un-projet-immobilier_14523470/)
+append_entries: 3
+Finish: 2024-08-27 01:15:09.680434

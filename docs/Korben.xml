@@ -5,13 +5,61 @@
 <link>https://korben.info</link>
 
 <item>
+<title>AutoFillr – L’extension Chrome qui remplit vos formulaires correctement</title>
+<link>https://korben.info/autofillr-extension-remplissage-automatique-formulaires.html</link>
+<guid>https://korben.info/autofillr-extension-remplissage-automatique-formulaires.html</guid>
+<content:encoded><![CDATA[
+<div> AutoFillr, Chrome, formulaire, IA, données personnelles
+
+<br><br>Summary: Aujourd’hui, je vais vous parler d’AutoFillr, une extension Chrome qui rend le remplissage de formulaires en ligne beaucoup plus simple. Vous connaissez la galère de devoir entrer sans cesse votre nom, prénom, adresse et autres informations, notamment sur mobile où c’est un véritable casse-tête. AutoFillr se distingue des autres outils, comme les gestionnaires de mots de passe, car son IA est capable d’analyser efficacement n’importe quel type de formulaire pour le remplir automatiquement. Une fois l’extension installée, elle détecte les champs et vous propose de les préremplir, ce qui vous fait gagner un temps précieux. Il suffit de vérifier que tout est correct avant de valider. De plus, vous gardez le contrôle sur vos données personnelles, car AutoFillr stocke les informations localement dans Chrome et ne laisse rien en ligne. Si jamais vous voulez supprimer vos données, il est facile de réinitialiser l’extension, et vos informations disparaîtront comme par magie. Cette solution est idéale pour alléger la corvée des formulaires en ligne et simplifier votre expérience sur Internet. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="298" src="https://korben.info/app/uploads/2024/04/SCR-20240420-bxe.webp" width="830" /></p>
+<p>Salut les gens ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1862944494" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Aujourd&rsquo;hui, je vais vous causer d&rsquo;une <strong>extension Chrome</strong> qui va vous simplifier la vie : <strong><a href="https://www.autofillr.com/" rel="noopener" target="_blank">AutoFillr</a></strong>.</p>
+
+
+
+<p>C&rsquo;est un outil qui remplit automatiquement les formulaires web pour vous. Ça a l&rsquo;air tout bête dit comme ça, mais attendez de voir ce que ça donne en vrai.</p>
+
+
+
+<p>Vous connaissez la galère des formulaires en ligne ? Nom, prénom, adresse, téléphone, email&#8230; À chaque fois, c&rsquo;est la même rengaine. On perd un temps fou à rentrer toutes ces infos, surtout quand on doit le faire sur mobile. Avec ses gros doigts, c&rsquo;est la fête du slip pour viser les bons champs. Et je ne vous parle même pas du calvaire si on doit créer un compte. Mot de passe, confirmez le mot de passe, code postal&#8230; Argh !</p>
+
+
+
+<p>Alors je sais y&rsquo;a déjà des navigateurs ou des gestionnaires de mots de passe qui font ça, mais c&rsquo;est imparfait&#8230; Parfois certains champs ne sont pas correctement remplis. C&rsquo;est là qu&rsquo;<strong>AutoFillr</strong> entre en scène. Cette petite extension va littéralement remplir les cases à votre place comme ça, grâce à son IA capable d&rsquo;analyser le plus tordu des formulaires. Comme ça plus besoin de vous triturer les méninges pour retrouver votre numéro de téléphone ou votre adresse (Oui, j&rsquo;ai 5 ans) ou de quand même compléter des trucs qui ont été mal complétés.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159578" height="464" src="https://korben.info/app/uploads/2024/04/SCR-20240420-c8g-2-1024x464.webp" width="1024" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1949538862" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Vous pouvez télécharger Autofillr ici et une fois installé, dès que vous tomberez sur un formulaire en ligne, il entrera en action en détectant les différents champs et vous proposera de les préremplir pour vous. Vous n&rsquo;avez plus qu&rsquo;à vérifier que tout est correct et à valider. </p>
+
+
+
+<p>Rassurez vous également, vous gardez le contrôle total sur vos données personnelles puiqu&rsquo;il ne conserve rien en ligne, et que tout est stocké localement dans Chrome. Et si un jour vous décidez de faire table rase, vous pouvez facilement réinitialiser l&rsquo;extension. Vos infos seront supprimées, comme par magie.</p>
+
+
+
+<p><a href="https://www.autofillr.com/" rel="noopener" target="_blank">A découvrir ici.</a></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Aug 2024 22:00:00 +0000</pubDate>
+<pubDate>Mon, 26 Aug 2024 22:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>uv – L’installateur Python ultra-rapide</title>
 <link>https://korben.info/uv-installateur-python-ultra-rapide-revolutionne-projets.html</link>
 <guid>https://korben.info/uv-installateur-python-ultra-rapide-revolutionne-projets.html</guid>
 <content:encoded><![CDATA[
 <div> uv, Rust, dépendances, performances, multi-plateforme
 
-<br><br>Summary: uv est un nouvel outil conçu pour révolutionner l'installation de dépendances Python. Développé en Rust par les créateurs de Ruff, il propose des performances jusqu'à 100 fois supérieures à celles de pip et pip-tools, tout en étant facile à utiliser. L'installation d'uv peut se faire rapidement via curl, pip, pipx ou Homebrew. Une fois installé, il permet de créer et activer un environnement virtuel avec `uv venv` et d'installer des packages grâce à des commandes intuitives comme `uv pip install flask`. 
+<br /><br />Summary: uv est un nouvel outil conçu pour révolutionner l'installation de dépendances Python. Développé en Rust par les créateurs de Ruff, il propose des performances jusqu'à 100 fois supérieures à celles de pip et pip-tools, tout en étant facile à utiliser. L'installation d'uv peut se faire rapidement via curl, pip, pipx ou Homebrew. Une fois installé, il permet de créer et activer un environnement virtuel avec `uv venv` et d'installer des packages grâce à des commandes intuitives comme `uv pip install flask`. 
 
 De plus, uv génère des fichiers de dépendances verrouillés pour une meilleure reproductibilité avec `uv pip compile` et synchronise facilement votre environnement via `uv pip sync`. Il offre aussi des fonctionnalités avancées comme la gestion des versions de dépendances, le support des dépôts Git avec authentification simplifiée, et la possibilité d'installer dans différents environnements Python grâce à l'option --python.
 
@@ -79,9 +127,7 @@ Son utilisation intelligente du cache garantit des téléchargements optimisés,
 <p>A découvrir ici : <a href="https://github.com/astral-sh/uv" rel="noopener" target="_blank">https://github.com/astral-sh/uv</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 26 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>LLocalSearch – Le moteur de recherche local basé sur des agents IA</title>
 <link>https://korben.info/llocalsearch-moteur-recherche-local-agents-ia.html</link>

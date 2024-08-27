@@ -2265,3 +2265,12 @@ Summarized using GPT-4o-mini
 Append: [Les pêcheurs ont obtenu gain de cause, le tir de cormoran est à nouveau autorisé](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/les-pecheurs-ont-obtenu-gain-de-cause-le-tir-de-cormoran-est-a-nouveau-autorise-3021503.html)
 append_entries: 1
 Finish: 2024-08-26 12:40:56.696395
+------------------------------------------------------
+Started: 2024-08-27 01:23:32.276192
+Existing_entries: 293
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 262
+Summarized using GPT-4o-mini
+Append: ["La plus grande fête agricole en plein air d'Europe" : les Terres de Jim attendent 100.000 personnes dans le Doubs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/la-plus-grande-fete-agricole-en-plein-air-d-europe-les-terres-de-jim-attendent-100-000-personnes-dans-le-doubs-3022499.html)
+append_entries: 1
+Finish: 2024-08-27 01:23:35.202810

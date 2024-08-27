@@ -4474,3 +4474,15 @@ Summarized using GPT-4o-mini
 Append: [KLM entre dans l'ère Airbus A321neo. Un changement radical pour la compagnie : "Nous passons d'un volant à un joystick"](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/klm-entre-dans-l-ere-airbus-a321neo-un-changement-radical-pour-la-compagnie-nous-passons-d-un-volant-a-un-joystick-3022238.html)
 append_entries: 4
 Finish: 2024-08-26 12:41:16.539858
+------------------------------------------------------
+Started: 2024-08-27 01:23:42.228647
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 255
+Summarized using GPT-4o-mini
+Append: ["En voiture, on ne serait jamais passé par là" : La Vélidéale vous emmène pour un voyage à vélo sur les chemins du Poitou](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente/angouleme/en-voiture-on-ne-serait-jamais-passe-par-la-la-velideale-vous-emmene-pour-un-voyage-a-velo-sur-les-chemins-du-poitou-3022553.html)
+Token length: 195
+Summarized using GPT-4o-mini
+Append: [15 à 20 milliards d'euros pour rendre le métro parisien accessible aux personnes à mobilité réduite](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/15-a-20-milliards-d-euros-pour-rendre-le-metro-parisien-accessible-aux-personnes-a-mobilite-reduite-3022472.html)
+append_entries: 2
+Finish: 2024-08-27 01:23:48.893442

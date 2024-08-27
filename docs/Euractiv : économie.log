@@ -1922,3 +1922,12 @@ Existing_entries: 192
 Fetching from https://www.euractiv.fr/sections/economie/feed/
 append_entries: 0
 Finish: 2024-08-26 12:38:53.442060
+------------------------------------------------------
+Started: 2024-08-27 01:21:52.792922
+Existing_entries: 192
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [Uber écope d’une amende de 290 millions d’euros pour violation du règlement européen sur la protection des données](https://www.euractiv.fr/section/economie/news/uber-ecope-dune-amende-de-290-millions-deuros-pour-violation-du-reglement-europeen-sur-la-protection-des-donnees/)
+append_entries: 1
+Finish: 2024-08-27 01:21:56.382312

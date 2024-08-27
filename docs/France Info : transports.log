@@ -2618,3 +2618,18 @@ Existing_entries: 410
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-08-26 12:39:35.029013
+------------------------------------------------------
+Started: 2024-08-27 01:22:43.842188
+Existing_entries: 410
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 123
+Summarized using GPT-4o-mini
+Append: [Guerre au Proche-Orient : Air France prévoit de reprendre mardi les vols vers Tel-Aviv et Beyrouth](https://www.francetvinfo.fr/monde/proche-orient/guerre-au-proche-orient-air-france-prevoit-de-reprendre-mardi-les-vols-vers-tel-aviv-et-beyrouth_6745111.html)
+Token length: 91
+Summarized using GPT-4o-mini
+Append: [Jeux paralympiques 2024 : Valérie Pécresse veut rendre accessibles les "13 lignes historiques" du métro parisien](https://www.francetvinfo.fr/jeux-paralympiques/paris-2024/jeux-paralympiques-2024-valerie-pecresse-veut-rendre-accessibles-les-treize-lignes-historiques-du-metro-parisien_6744922.html)
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [Sécurité routière : des voitures intelligentes traquent les nids-de-poule sur la route](https://www.francetvinfo.fr/societe/securite-routiere/securite-routiere-des-voitures-intelligentes-traquent-les-nids-de-poule-sur-la-route_6744961.html)
+append_entries: 3
+Finish: 2024-08-27 01:22:57.867877

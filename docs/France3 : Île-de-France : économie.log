@@ -2265,3 +2265,15 @@ Summarized using GPT-4o-mini
 Append: [Sans le savoir, vous effectuez peut-être chaque jour la plus longue correspondance du métro parisien](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/sans-le-savoir-vous-effectuez-peut-etre-chaque-jour-la-plus-longue-correspondance-du-metro-parisien-2984192.html)
 append_entries: 2
 Finish: 2024-08-26 12:40:24.546131
+------------------------------------------------------
+Started: 2024-08-27 01:23:17.044570
+Existing_entries: 293
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 308
+Summarized using GPT-4o-mini
+Append: [Rentrée des classes : associations, seconde main, kits de fournitures gratuites... comment faire des économies ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/rentree-des-classes-associations-seconde-main-kits-de-fournitures-gratuites-comment-faire-des-economies-3022502.html)
+Token length: 283
+Summarized using GPT-4o-mini
+Append: [Une journée en immersion à l'aéroport Roissy-Charles-de-Gaulle](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-journee-en-immersion-a-l-aeroport-roissy-charles-de-gaulle-2987261.html)
+append_entries: 2
+Finish: 2024-08-27 01:23:22.144006

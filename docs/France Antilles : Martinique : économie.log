@@ -2756,3 +2756,18 @@ Summarized using GPT-4o-mini
 Append: [Le Brésil durcit ses règles d'entrée face à l'immigration illégale vers les Etats-Unis](https://www.martinique.franceantilles.fr/actualite/economie/le-bresil-durcit-ses-regles-dentree-face-a-limmigration-illegale-vers-les-etats-unis-1000593.php)
 append_entries: 1
 Finish: 2024-08-26 12:39:09.572892
+------------------------------------------------------
+Started: 2024-08-27 01:22:01.145036
+Existing_entries: 470
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 171
+Summarized using GPT-4o-mini
+Append: [Ukraine: quatre morts dans des frappes russes massives sur les sites énergétiques](https://www.martinique.franceantilles.fr/actualite/economie/ukraine-quatre-morts-dans-des-frappes-russes-massives-sur-les-sites-energetiques-1000635.php)
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [Dans Kiev sous les bombes, des Ukrainiens se réfugient dans le métro](https://www.martinique.franceantilles.fr/actualite/economie/dans-kiev-sous-les-bombes-des-ukrainiens-se-refugient-dans-le-metro-1000625.php)
+Token length: 171
+Summarized using GPT-4o-mini
+Append: [Ukraine: quatre morts dans des frappes russes massives sur les sites énergétiques](https://www.martinique.franceantilles.fr/actualite/economie/ukraine-quatre-morts-dans-des-frappes-russes-massives-sur-les-sites-energetiques-1000619.php)
+append_entries: 3
+Finish: 2024-08-27 01:22:12.935969

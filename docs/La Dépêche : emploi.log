@@ -2608,3 +2608,9 @@ Summarized using GPT-4o-mini
 Append: [Face au recul historique des offres d’emploi sur le département, la tentation de l’entrepreneuriat](https://www.ladepeche.fr/2024/08/26/face-au-recul-historique-des-offres-demploi-sur-le-departement-la-tentation-de-lentrepreneuriat-12159087.php)
 append_entries: 2
 Finish: 2024-08-26 12:42:34.369341
+------------------------------------------------------
+Started: 2024-08-27 01:25:04.864188
+Existing_entries: 404
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-08-27 01:25:05.353612
