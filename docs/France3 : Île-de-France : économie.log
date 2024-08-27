@@ -2277,3 +2277,9 @@ Summarized using GPT-4o-mini
 Append: [Une journée en immersion à l'aéroport Roissy-Charles-de-Gaulle](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-journee-en-immersion-a-l-aeroport-roissy-charles-de-gaulle-2987261.html)
 append_entries: 2
 Finish: 2024-08-27 01:23:22.144006
+------------------------------------------------------
+Started: 2024-08-27 12:42:42.587875
+Existing_entries: 295
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-27 12:42:43.286767

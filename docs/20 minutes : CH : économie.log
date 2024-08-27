@@ -2608,3 +2608,15 @@ Summarized using GPT-4o-mini
 Append: [Zermatt pense aussi à faire payer les touristes de passage](https://www.20min.ch/fr/story/valais-zermatt-pense-aussi-a-faire-payer-les-touristes-de-passage-103174772)
 append_entries: 5
 Finish: 2024-08-27 01:19:17.829281
+------------------------------------------------------
+Started: 2024-08-27 12:37:20.814375
+Existing_entries: 432
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 103
+Summarized using GPT-4o-mini
+Append: [Les aides de la Confédération pour les bâtiments au plus haut](https://www.20min.ch/fr/story/efficience-energetique-les-aides-de-la-confederation-pour-les-batiments-au-plus-haut-103175238)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Imprimeries fermées, journalistes virés: 290 postes à la trappe](https://www.20min.ch/fr/story/tamedia-imprimeries-fermees-journalistes-vires-290-postes-a-la-trappe-103175102)
+append_entries: 2
+Finish: 2024-08-27 12:37:27.049434

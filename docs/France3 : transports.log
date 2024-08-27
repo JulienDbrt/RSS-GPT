@@ -4486,3 +4486,18 @@ Summarized using GPT-4o-mini
 Append: [15 à 20 milliards d'euros pour rendre le métro parisien accessible aux personnes à mobilité réduite](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/15-a-20-milliards-d-euros-pour-rendre-le-metro-parisien-accessible-aux-personnes-a-mobilite-reduite-3022472.html)
 append_entries: 2
 Finish: 2024-08-27 01:23:48.893442
+------------------------------------------------------
+Started: 2024-08-27 12:43:20.802236
+Existing_entries: 1002
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 155
+Summarized using GPT-4o-mini
+Append: [Un automobiliste trouve la mort en percutant un pont](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/un-automobiliste-trouve-la-mort-en-percutant-un-pont-3022703.html)
+Token length: 361
+Summarized using GPT-4o-mini
+Append: [Emirates continue à parier sur l'Airbus A380 : rachat de 5 super-jumbos d'occasion pour 200 millions d'euros](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/emirates-continue-a-parier-sur-l-airbus-a380-rachat-de-5-super-jumbos-d-occasion-pour-200-millions-d-euros-3022616.html)
+Token length: 372
+Summarized using GPT-4o-mini
+Append: [Mobilités douces : une nouvelle solution sur 19 communes de la métropole tourangelle avec les vélos en libre-service](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/mobilites-douces-une-nouvelle-solution-sur-19-communes-de-la-metropole-tourangelle-avec-les-velos-en-libre-service-3022571.html)
+append_entries: 3
+Finish: 2024-08-27 12:43:37.884825

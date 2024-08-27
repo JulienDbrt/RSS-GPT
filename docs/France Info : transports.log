@@ -2633,3 +2633,12 @@ Summarized using GPT-4o-mini
 Append: [Sécurité routière : des voitures intelligentes traquent les nids-de-poule sur la route](https://www.francetvinfo.fr/societe/securite-routiere/securite-routiere-des-voitures-intelligentes-traquent-les-nids-de-poule-sur-la-route_6744961.html)
 append_entries: 3
 Finish: 2024-08-27 01:22:57.867877
+------------------------------------------------------
+Started: 2024-08-27 12:41:53.253895
+Existing_entries: 413
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 290
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGES. "C'est très compliqué" : en Italie, l'inquiétude d'entreprises d'import-export après la fermeture d'une partie des tunnels de la vallée alpine](https://www.francetvinfo.fr/economie/transports/temoignages-c-est-tres-complique-en-italie-l-inquietude-d-entreprises-d-import-export-apres-la-fermeture-d-une-partie-des-tunnels-de-la-vallee-alpine_6746137.html)
+append_entries: 1
+Finish: 2024-08-27 12:41:55.635324

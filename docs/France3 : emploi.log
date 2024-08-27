@@ -2463,3 +2463,9 @@ Summarized using GPT-4o-mini
 Append: [Vins de Lorraine, vendanges 2024 : il y aura moins de quantité "mais tout est là pour une récolte de très belle qualité"](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/vins-de-lorraine-vendanges-2024-il-y-aura-moins-de-quantite-mais-tout-est-la-pour-une-recolte-de-tres-belle-qualite-3022457.html)
 append_entries: 1
 Finish: 2024-08-27 01:23:41.349636
+------------------------------------------------------
+Started: 2024-08-27 12:43:12.857913
+Existing_entries: 357
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-08-27 12:43:13.851537

@@ -1724,3 +1724,12 @@ Existing_entries: 104
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-08-27 01:22:43.621473
+------------------------------------------------------
+Started: 2024-08-27 12:41:50.171866
+Existing_entries: 104
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 127
+Summarized using GPT-4o-mini
+Append: [Crédits Immobiliers : les banques rouvrent le robinet](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/credits-immobiliers-les-banques-rouvrent-le-robinet_6709752.html)
+append_entries: 1
+Finish: 2024-08-27 12:41:53.030817

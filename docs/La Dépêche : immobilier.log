@@ -1849,3 +1849,12 @@ Existing_entries: 149
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-08-27 01:25:05.906194
+------------------------------------------------------
+Started: 2024-08-27 12:45:21.949413
+Existing_entries: 149
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 210
+Summarized using GPT-4o-mini
+Append: ["Nous sommes à l’abandon" : les occupants de cette résidence insalubre veulent faire bouger les choses](https://www.ladepeche.fr/2024/08/27/nous-sommes-a-labandon-les-occupants-de-cette-residence-insalubre-veulent-faire-bouger-les-choses-12159909.php)
+append_entries: 1
+Finish: 2024-08-27 12:45:27.517884

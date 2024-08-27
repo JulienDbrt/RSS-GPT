@@ -2771,3 +2771,21 @@ Summarized using GPT-4o-mini
 Append: [Ukraine: quatre morts dans des frappes russes massives sur les sites énergétiques](https://www.martinique.franceantilles.fr/actualite/economie/ukraine-quatre-morts-dans-des-frappes-russes-massives-sur-les-sites-energetiques-1000619.php)
 append_entries: 3
 Finish: 2024-08-27 01:22:12.935969
+------------------------------------------------------
+Started: 2024-08-27 12:40:52.994231
+Existing_entries: 473
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 193
+Summarized using GPT-4o-mini
+Append: [Offensive ukrainienne: le chef de l'AIEA visite la centrale nucléaire russe de Koursk](https://www.martinique.franceantilles.fr/actualite/economie/offensive-ukrainienne-le-chef-de-laiea-visite-la-centrale-nucleaire-russe-de-koursk-1000759.php)
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Pour le Japon, l'incursion d'un avion militaire chinois est une "violation grave" de sa souveraineté](https://www.martinique.franceantilles.fr/actualite/economie/pour-le-japon-lincursion-dun-avion-militaire-chinois-est-une-violation-grave-de-sa-souverainete-1000748.php)
+Token length: 92
+Summarized using GPT-4o-mini
+Append: [Bon Air, de la cité  à l'écoquartier](https://www.martinique.franceantilles.fr/actualite/economie/bon-air-de-la-cite-a-lecoquartier-1000697.php)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Première sortie extravéhiculaire privée: SpaceX reporte la mission à cause d'une fuite d'hélium](https://www.martinique.franceantilles.fr/actualite/economie/premiere-sortie-extravehiculaire-privee-spacex-reporte-la-mission-a-cause-dune-fuite-dhelium-1000745.php)
+append_entries: 4
+Finish: 2024-08-27 12:41:25.980438

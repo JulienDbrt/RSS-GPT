@@ -2434,3 +2434,15 @@ Summarized using GPT-4o-mini
 Append: [Face à une période politique troublée, le Medef veut exercer un «pouvoir positif»](https://www.europe1.fr/economie/face-a-une-periode-politique-troublee-le-medef-veut-exercer-un-pouvoir-positif-4263999)
 append_entries: 1
 Finish: 2024-08-27 01:22:00.905275
+------------------------------------------------------
+Started: 2024-08-27 12:40:46.753207
+Existing_entries: 342
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 397
+Summarized using GPT-4o-mini
+Append: [INFO EUROPE 1 - Record de défaillances d'entreprises en juillet en France, 32.000 emplois menacés](https://www.europe1.fr/economie/info-europe-1-pres-de-30000-patrons-ont-perdu-leur-activite-au-premier-semestre-record-de-faillites-depuis-les-annees-2000-4264021)
+Token length: 259
+Summarized using GPT-4o-mini
+Append: [Economie : une période politique troublée et des patrons qui commencent à s'impatienter](https://www.europe1.fr/economie/une-periode-politique-troublee-et-des-patrons-qui-commencent-a-simpatienter-4264049)
+append_entries: 2
+Finish: 2024-08-27 12:40:52.755108

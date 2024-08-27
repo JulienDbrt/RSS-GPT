@@ -2277,3 +2277,9 @@ Summarized using GPT-4o-mini
 Append: [Les prix du gazole et de l'essence continuent de baisser](https://www.bfmtv.com/auto/les-prix-du-gazole-et-de-l-essence-continuent-de-baisser_AV-202408260543.html)
 append_entries: 1
 Finish: 2024-08-27 01:20:14.939429
+------------------------------------------------------
+Started: 2024-08-27 12:38:47.490227
+Existing_entries: 295
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-08-27 12:38:47.624871
