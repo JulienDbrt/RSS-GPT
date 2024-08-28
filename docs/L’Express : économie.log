@@ -2725,3 +2725,15 @@ Existing_entries: 487
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-08-28 01:24:40.007428
+------------------------------------------------------
+Started: 2024-08-28 12:44:07.548667
+Existing_entries: 487
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 2809
+Summarized using GPT-4o-mini
+Append: [Prix des carburants : comment TotalEnergies chouchoute ses clients électricité et gaz](https://www.lexpress.fr/economie/prix-des-carburants-comment-totalenergies-chouchoute-ses-clients-electricite-et-gaz-UQUPIAXR3VFYHF365ZW2NYCMIA/)
+Token length: 7190
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : les scénarios qui font craindre un chaos fiscal](https://www.lexpress.fr/economie/politique-economique/budget-2025-les-quatre-scenarios-qui-font-craindre-un-chaos-fiscal-CLTG77MPIBF4TNJNOAFXPGS5ZI/)
+append_entries: 2
+Finish: 2024-08-28 12:44:16.059750

@@ -2196,3 +2196,9 @@ Summarized using GPT-4o-mini
 Append: [Le Canada impose une surtaxe de 100% sur les véhicules électriques chinois](https://www.journaldemontreal.com/2024/08/26/le-canada-impose-une-surtaxe-de-100--sur-les-vehicules-electriques-chinois)
 append_entries: 3
 Finish: 2024-08-28 01:24:17.488869
+------------------------------------------------------
+Started: 2024-08-28 12:43:52.415679
+Existing_entries: 254
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-08-28 12:43:52.667300

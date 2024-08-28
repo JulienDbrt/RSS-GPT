@@ -1896,3 +1896,12 @@ Summarized using GPT-4o-mini
 Append: ["C'est très frustrant": le patron de Ryanair se plaint (encore) des retards de livraison de Boeing](https://www.bfmtv.com/economie/entreprises/aeronautique/c-est-tres-frustrant-le-patron-de-ryanair-se-plaint-encore-des-retards-de-livraison-de-boeing_AD-202408270660.html)
 append_entries: 1
 Finish: 2024-08-28 01:20:05.916619
+------------------------------------------------------
+Started: 2024-08-28 12:39:01.699111
+Existing_entries: 164
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 235
+Summarized using GPT-4o-mini
+Append: ["Polaris Dawn": le lancement de la mission de SpaceX une nouvelle fois reporté](https://www.bfmtv.com/economie/entreprises/aeronautique/mission-polaris-dawn-le-lancement-de-la-mission-de-space-x-une-nouvelle-fois-reporte_AV-202408280038.html)
+append_entries: 1
+Finish: 2024-08-28 12:39:05.009178

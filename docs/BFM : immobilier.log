@@ -2353,3 +2353,9 @@ Summarized using GPT-4o-mini
 Append: [Hausse de la taxe foncière: voici les grandes villes où elle a le plus augmenté en 2023](https://www.bfmtv.com/immobilier/fiscalite/voici-les-grandes-villes-qui-ont-le-plus-augmente-leur-taxe-fonciere-en-2023_AV-202308300340.html)
 append_entries: 3
 Finish: 2024-08-28 01:21:24.164301
+------------------------------------------------------
+Started: 2024-08-28 12:40:09.390042
+Existing_entries: 329
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-08-28 12:40:09.470468

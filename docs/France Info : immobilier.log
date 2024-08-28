@@ -1739,3 +1739,15 @@ Existing_entries: 105
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-08-28 01:23:06.430623
+------------------------------------------------------
+Started: 2024-08-28 12:41:22.864706
+Existing_entries: 105
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 137
+Summarized using GPT-4o-mini
+Append: [Taxe foncière : on vous explique pourquoi vous allez payer plus cette année (même si votre commune n'a pas voté de hausse)](https://www.francetvinfo.fr/economie/impots/taxe-fonciere-on-vous-explique-pourquoi-vous-allez-payer-plus-cette-annee-meme-si-votre-commune-n-a-pas-vote-de-hausse_6749281.html)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Impôts : les avis de la taxe foncière arrivent avec une augmentation de 3,9% au minimum](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/impots-les-avis-de-la-taxe-fonciere-arrivent-avec-une-augmentation-de-3-9-au-minimum_6712020.html)
+append_entries: 2
+Finish: 2024-08-28 12:41:32.647758

@@ -2651,3 +2651,15 @@ Summarized using GPT-4o-mini
 Append: [Jeux paralympiques 2024 : mieux vaut éviter de rouler en voiture à Paris mercredi, avertit le ministre des Transports](https://www.francetvinfo.fr/jeux-paralympiques/paris-2024/jeux-paralympiques-2024-mieux-vaut-eviter-de-rouler-en-voiture-paris-mercredi-avertit-le-ministre-des-transports_6747751.html)
 append_entries: 1
 Finish: 2024-08-28 01:23:09.793388
+------------------------------------------------------
+Started: 2024-08-28 12:41:32.868485
+Existing_entries: 415
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 168
+Summarized using GPT-4o-mini
+Append: [Retours de vacances : Bison futé voit rouge sur les routes à partir de vendredi](https://www.francetvinfo.fr/economie/transports/trafic/retours-de-vacances-la-circulation-sera-dense-sur-les-routes-de-france-ce-week-end-previent-bison-fute_6749263.html)
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Un poids lourd en feu sur l'autoroute A81 entre Sablé-sur-Sarthe et Evron, la circulation interrompue vers Rennes](https://www.francetvinfo.fr/france/bretagne/un-poids-lourd-en-feu-sur-l-autoroute-a81-entre-sable-sur-sarthe-et-evron-la-circulation-interrompue-vers-rennes_6749374.html)
+append_entries: 2
+Finish: 2024-08-28 12:41:41.094869

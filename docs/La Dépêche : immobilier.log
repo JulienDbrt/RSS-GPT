@@ -1864,3 +1864,15 @@ Existing_entries: 150
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-08-28 01:25:38.217413
+------------------------------------------------------
+Started: 2024-08-28 12:45:48.171572
+Existing_entries: 150
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 95
+Summarized using GPT-4o-mini
+Append: [Impôts : pourquoi la taxe foncière va augmenter dans plusieurs villes dès l’année prochaine](https://www.ladepeche.fr/2024/08/28/impots-pourquoi-la-taxe-fonciere-va-augmenter-dans-plusieurs-villes-des-lannee-prochaine-12163118.php)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: ["Cette année on a une forte demande"… le logement étudiant ne connaît pas la crise à Rodez](https://www.ladepeche.fr/2024/08/28/a-rodez-le-logement-etudiant-ne-connait-pas-la-crise-12163014.php)
+append_entries: 2
+Finish: 2024-08-28 12:45:56.524261

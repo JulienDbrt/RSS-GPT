@@ -2369,3 +2369,18 @@ Summarized using GPT-4o-mini
 Append: [Grand-Est : Plus rapide, plus confortable, de nouvelles rames de train entre la France et l’Allemagne arrivent](https://www.20minutes.fr/economie/4107221-20240827-grand-plus-rapide-plus-confortable-nouvelles-rames-train-entre-france-allemagne-arrivent)
 append_entries: 3
 Finish: 2024-08-28 01:19:23.636281
+------------------------------------------------------
+Started: 2024-08-28 12:38:00.581744
+Existing_entries: 315
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Cuba : « On s’expose aux bactéries »… La Havane croule sous une accumulation de déchets sans précédent](https://www.20minutes.fr/monde/4107355-20240828-cuba-expose-bacteries-havane-croule-sous-accumulation-dechets-precedent)
+Token length: 105
+Summarized using GPT-4o-mini
+Append: [Impôts : Pourquoi la taxe foncière va augmenter a minima de 4 % ?](https://www.20minutes.fr/economie/immobilier/4107349-20240828-impots-pourquoi-taxe-fonciere-va-augmenter-minima-4)
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [Futur Premier ministre : Le patronat soulagé de ne pas voir le NFP accéder à Matignon](https://www.20minutes.fr/politique/4107302-20240828-futur-premier-ministre-patronat-soulage-voir-nfp-acceder-matignon)
+append_entries: 3
+Finish: 2024-08-28 12:38:12.947678

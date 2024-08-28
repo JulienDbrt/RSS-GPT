@@ -3868,3 +3868,18 @@ Summarized using GPT-4o-mini
 Append: [Donald Trump veut relocaliser la production de bitcoin de la Chine vers les Etats-Unis](https://www.lesechos.fr/finance-marches/marches-financiers/donald-trump-veut-relocaliser-la-production-de-bitcoin-de-la-chine-vers-les-etats-unis-2115493)
 append_entries: 1
 Finish: 2024-08-28 01:15:46.242798
+------------------------------------------------------
+Started: 2024-08-28 12:34:19.926209
+Existing_entries: 850
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Je me suis fait jeter par ma banque](https://www.lalibre.be/debats/opinions/2024/08/28/je-me-suis-fait-jeter-par-ma-banque-5E4TI4PEDBF2JJIUBK3USFZCLE/)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Cryptomonnaies : le nombre de millionnaires en hausse de 95% en un an](https://www.boursier.com/crypto-monnaies/actualites/economie/cryptomonnaies-le-nombre-de-millionnaires-en-hausse-de-95-en-un-an-51442.html)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Explosion du nombre de cryptomillionnaires](https://www.bfmtv.com/economie/patrimoine/explosion-du-nombre-de-cryptomillionnaires_VN-202408280395.html)
+append_entries: 3
+Finish: 2024-08-28 12:34:32.445050
