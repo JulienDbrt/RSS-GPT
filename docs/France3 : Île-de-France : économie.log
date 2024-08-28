@@ -2283,3 +2283,15 @@ Existing_entries: 295
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-27 12:42:43.286767
+------------------------------------------------------
+Started: 2024-08-28 01:23:30.824069
+Existing_entries: 295
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 349
+Summarized using GPT-4o-mini
+Append: [Contrôles techniques truqués : la RATP admet faire disparaître les voyants lumineux, mais seulement ceux anti-pollution](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/controles-techniques-truques-la-ratp-admet-faire-disparaitre-les-voyants-lumineux-mais-seulement-ceux-anti-pollution-3023084.html)
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Il faut "ne pas venir en voiture" à Paris ce mercredi avertit le ministre des Transports avec les Jeux paralympiques](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/il-faut-ne-pas-venir-en-voiture-a-paris-ce-mercredi-avertit-le-ministre-des-transports-avec-les-jeux-paralympiques-3023021.html)
+append_entries: 2
+Finish: 2024-08-28 01:23:37.539358

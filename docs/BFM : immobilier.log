@@ -2338,3 +2338,18 @@ Summarized using GPT-4o-mini
 Append: ["Les vacanciers peuvent en ramener dans leurs valises": avec la fin de l'été, les punaises de lit font leur retour](https://www.bfmtv.com/immobilier/location/les-vacanciers-peuvent-en-ramener-dans-leurs-valises-avec-la-fin-de-l-ete-les-punaises-de-lit-font-leur-retour_AV-202408270045.html)
 append_entries: 2
 Finish: 2024-08-27 12:40:01.202916
+------------------------------------------------------
+Started: 2024-08-28 01:21:14.796397
+Existing_entries: 326
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Impôts 2024: la taxe foncière](https://www.bfmtv.com/immobilier/fiscalite/impots-2023-une-taxe-fonciere-qui-explose_DN-202308300356.html)
+Token length: 162
+Summarized using GPT-4o-mini
+Append: [Taxe foncière 2023: la note explose pour les propriétaires](https://www.bfmtv.com/immobilier/fiscalite/taxe-fonciere-2023-la-note-explose-pour-les-proprietaires_AV-202308230371.html)
+Token length: 210
+Summarized using GPT-4o-mini
+Append: [Hausse de la taxe foncière: voici les grandes villes où elle a le plus augmenté en 2023](https://www.bfmtv.com/immobilier/fiscalite/voici-les-grandes-villes-qui-ont-le-plus-augmente-leur-taxe-fonciere-en-2023_AV-202308300340.html)
+append_entries: 3
+Finish: 2024-08-28 01:21:24.164301

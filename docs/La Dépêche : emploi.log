@@ -2629,3 +2629,9 @@ Summarized using GPT-4o-mini
 Append: [Bazet. Portage des journaux  NR, Dépêche : Patricia  remplacée par Michaël](https://www.ladepeche.fr/2024/08/27/portage-des-journaux-nr-depeche-patricia-remplacee-par-michael-12160868.php)
 append_entries: 3
 Finish: 2024-08-27 12:45:21.861794
+------------------------------------------------------
+Started: 2024-08-28 01:25:37.130706
+Existing_entries: 407
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-08-28 01:25:37.639264

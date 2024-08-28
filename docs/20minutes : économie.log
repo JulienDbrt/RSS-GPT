@@ -2354,3 +2354,18 @@ Summarized using GPT-4o-mini
 Append: [Colombie : Coca-Cola accusé d’avoir capté de l’eau en pleine sécheresse](https://www.20minutes.fr/planete/secheresse/4107109-20240827-colombie-coca-cola-accuse-avoir-capte-eau-pleine-secheresse)
 append_entries: 4
 Finish: 2024-08-27 12:37:37.881716
+------------------------------------------------------
+Started: 2024-08-28 01:19:13.675876
+Existing_entries: 312
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [Rentrée scolaire 2024 : Stylo Legami, sac Tann’s… Les fournitures pour être les rois et reines de la cour de récré](https://www.20minutes.fr/societe/4107249-20240827-rentree-scolaire-2024-stylo-legami-sac-tann-fournitures-etre-rois-reines-cour-recre)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Crise chez Boeing : Ryanair s’agace des « millions de passagers » perdus à cause des retards de livraison](https://www.20minutes.fr/economie/4107251-20240827-boeing-ryanair-agace-millions-passagers-perdus-cause-retards-livraison)
+Token length: 154
+Summarized using GPT-4o-mini
+Append: [Grand-Est : Plus rapide, plus confortable, de nouvelles rames de train entre la France et l’Allemagne arrivent](https://www.20minutes.fr/economie/4107221-20240827-grand-plus-rapide-plus-confortable-nouvelles-rames-train-entre-france-allemagne-arrivent)
+append_entries: 3
+Finish: 2024-08-28 01:19:23.636281

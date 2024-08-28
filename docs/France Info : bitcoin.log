@@ -1487,3 +1487,9 @@ Summarized using GPT-4o-mini
 Append: [Présidentielle américaine 2024 : pourquoi les cryptomonnaies prennent autant d'importance dans la campagne](https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/presidentielle-americaine-2024-pourquoi-les-cryptomonnaies-prennent-autant-d-importance-dans-la-campagne_6744625.html)
 append_entries: 1
 Finish: 2024-08-27 12:41:50.118477
+------------------------------------------------------
+Started: 2024-08-28 01:23:06.137361
+Existing_entries: 23
+Fetching from https://www.francetvinfo.fr/economie/bitcoin.rss
+append_entries: 0
+Finish: 2024-08-28 01:23:06.281173

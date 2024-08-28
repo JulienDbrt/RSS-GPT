@@ -1957,3 +1957,12 @@ Existing_entries: 186
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-27 12:43:12.663462
+------------------------------------------------------
+Started: 2024-08-28 01:23:47.622626
+Existing_entries: 186
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 274
+Summarized using GPT-4o-mini
+Append: [Ligue 2. De la prison ferme pour un supporter du FC Lorient, condamné pour "violences volontaires"](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/ligue-2-de-la-prison-ferme-pour-un-supporter-du-fc-lorient-condamne-pour-violences-volontaires-3023135.html)
+append_entries: 1
+Finish: 2024-08-28 01:23:50.795006

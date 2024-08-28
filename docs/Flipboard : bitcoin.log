@@ -3859,3 +3859,12 @@ Summarized using GPT-4o-mini
 Append: [Crypto-monnaies : Donald Trump se positionne en "président du Bitcoin"](https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/crypto-monnaies-donald-trump-se-positionne-en-president-du-bitcoin-5604486)
 append_entries: 3
 Finish: 2024-08-27 12:33:12.463643
+------------------------------------------------------
+Started: 2024-08-28 01:15:42.153801
+Existing_entries: 849
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Donald Trump veut relocaliser la production de bitcoin de la Chine vers les Etats-Unis](https://www.lesechos.fr/finance-marches/marches-financiers/donald-trump-veut-relocaliser-la-production-de-bitcoin-de-la-chine-vers-les-etats-unis-2115493)
+append_entries: 1
+Finish: 2024-08-28 01:15:46.242798

@@ -2620,3 +2620,15 @@ Summarized using GPT-4o-mini
 Append: [Imprimeries fermées, journalistes virés: 290 postes à la trappe](https://www.20min.ch/fr/story/tamedia-imprimeries-fermees-journalistes-vires-290-postes-a-la-trappe-103175102)
 append_entries: 2
 Finish: 2024-08-27 12:37:27.049434
+------------------------------------------------------
+Started: 2024-08-28 01:19:07.375055
+Existing_entries: 434
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Retour à la normale pour la croissance du PIB](https://www.20min.ch/fr/story/suisse-retour-a-la-normale-pour-la-croissance-du-pib-103175197)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Fermeture de l'imprimerie: «C'est dramatique pour les employés»](https://www.20min.ch/fr/story/bussigny-vd-fermeture-de-l-imprimerie-c-est-dramatique-pour-les-employes-103175190)
+append_entries: 2
+Finish: 2024-08-28 01:19:13.511511
