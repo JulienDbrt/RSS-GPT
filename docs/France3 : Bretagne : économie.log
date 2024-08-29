@@ -1981,3 +1981,12 @@ Summarized using GPT-4o-mini
 Append: ["La situation est encore plus dramatique qu'en juillet", des producteurs de moules en danger à cause des araignées de mer](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/la-situation-est-encore-plus-dramatique-qu-en-juillet-des-producteurs-de-moules-en-danger-a-cause-des-araignees-de-mer-3023381.html)
 append_entries: 1
 Finish: 2024-08-29 01:25:21.577260
+------------------------------------------------------
+Started: 2024-08-29 12:44:56.521024
+Existing_entries: 188
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 358
+Summarized using GPT-4o-mini
+Append: ["Une population en légère augmentation et plutôt âgée", l'INSEE révèle le portrait robot des îles bretonnes](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/une-population-en-legere-augmentation-et-plutot-agee-l-insee-revele-le-portrait-robot-des-iles-bretonnes-3023633.html)
+append_entries: 1
+Finish: 2024-08-29 12:45:00.450953

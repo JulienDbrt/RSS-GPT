@@ -1688,3 +1688,9 @@ Summarized using GPT-4o-mini
 Append: [Le patron de Ryanair alerte sur une augmentation des mauvais comportements de passagers ayant consommé drogue et alcool](https://www.francetvinfo.fr/economie/aeronautique/le-patron-de-ryanair-alerte-sur-une-augmentation-des-mauvais-comportements-de-passagers-ayant-consomme-drogue-et-alcool_6749806.html)
 append_entries: 1
 Finish: 2024-08-29 01:24:49.054601
+------------------------------------------------------
+Started: 2024-08-29 12:43:21.240921
+Existing_entries: 84
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-08-29 12:43:21.300757

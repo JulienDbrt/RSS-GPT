@@ -2297,3 +2297,18 @@ Summarized using GPT-4o-mini
 Append: [TER: pourquoi des trains sont affichés "complets" à la réservation alors qu'ils ne le sont pas](https://www.bfmtv.com/economie/entreprises/transports/ter-pourquoi-des-trains-sont-affiches-complets-a-la-reservation-alors-qu-ils-ne-le-sont-pas_AV-202408280275.html)
 append_entries: 3
 Finish: 2024-08-29 01:23:49.627449
+------------------------------------------------------
+Started: 2024-08-29 12:41:37.269649
+Existing_entries: 297
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 268
+Summarized using GPT-4o-mini
+Append: [Sabotages: pour mieux sécuriser son réseau, la SNCF en panne de nouveaux moyens financiers](https://www.bfmtv.com/economie/entreprises/transports/sabotages-pour-mieux-securiser-son-reseau-la-sncf-en-panne-de-nouveaux-moyens-financiers_AV-202408290470.html)
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [Billets de train: les concurrents de SNCF Connect s'allient dans une association pour peser](https://www.bfmtv.com/economie/entreprises/transports/billets-de-train-les-concurrents-de-sncf-connect-s-allient-dans-une-association-pour-peser_AV-202408290420.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [mobilité : l'électrique en panne](https://www.bfmtv.com/economie/entreprises/transports/mobilite-l-electrique-en-panne_VN-202408290394.html)
+append_entries: 3
+Finish: 2024-08-29 12:41:47.818621

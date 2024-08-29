@@ -2393,3 +2393,15 @@ Summarized using GPT-4o-mini
 Append: [Emeutes en Nouvelle-Calédonie : Une demande d’aide de 4 milliards d’euros à l’Etat pour reconstruire](https://www.20minutes.fr/monde/4107362-20240828-emeutes-nouvelle-caledonie-demande-aide-4-milliards-euros-etat-reconstruire)
 append_entries: 1
 Finish: 2024-08-29 01:21:33.378864
+------------------------------------------------------
+Started: 2024-08-29 12:38:45.986974
+Existing_entries: 319
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Bonduelle va arrêter de vendre ses salades en France et en Allemagne](https://www.20minutes.fr/economie/4107500-20240829-bonduelle-va-arreter-vendre-salades-france-allemagne)
+Token length: 88
+Summarized using GPT-4o-mini
+Append: [Camaïeu : La marque de retour ce jeudi avec un nouveau nom et un repreneur bien connu](https://www.20minutes.fr/economie/4107490-20240829-camaieu-marque-retour-jeudi-nouveau-nom-repreneur-bien-connu)
+append_entries: 2
+Finish: 2024-08-29 12:38:53.431356

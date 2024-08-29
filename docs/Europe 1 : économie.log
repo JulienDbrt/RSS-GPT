@@ -2476,3 +2476,15 @@ Summarized using GPT-4o-mini
 Append: [Une «Lebrun mania» aux JO ? «Il n'y a plus de raquette de ping-pong dans certains magasins», indique le PDG de la Coopérative U](https://www.europe1.fr/economie/jo-le-patron-de-super-u-evoque-une-penurie-de-raquettes-de-ping-pong-en-rayon-4264349)
 append_entries: 1
 Finish: 2024-08-29 01:24:25.542342
+------------------------------------------------------
+Started: 2024-08-29 12:42:33.518607
+Existing_entries: 348
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 309
+Summarized using GPT-4o-mini
+Append: [Un magasin Camaïeu inauguré en grande pompe, deux ans après la liquidation](https://www.europe1.fr/economie/un-magasin-camaieu-inaugure-en-grande-pompe-deux-ans-apres-la-liquidation-4264483)
+Token length: 364
+Summarized using GPT-4o-mini
+Append: [Prêt-à-porter : comment Célio a survécu à la crise et s'offre le plaisir de relancer Camaïeu](https://www.europe1.fr/economie/pret-a-porter-comment-celio-a-survecu-a-la-crise-et-soffre-le-plaisir-de-relancer-camaieu-4264442)
+append_entries: 2
+Finish: 2024-08-29 12:42:40.376861

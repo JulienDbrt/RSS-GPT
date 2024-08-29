@@ -1749,3 +1749,12 @@ Summarized using GPT-4o-mini
 Append: [Explosion du nombre de cryptomillionnaires](https://www.bfmtv.com/economie/patrimoine/explosion-du-nombre-de-cryptomillionnaires_VN-202408280395.html)
 append_entries: 3
 Finish: 2024-08-29 01:23:37.446703
+------------------------------------------------------
+Started: 2024-08-29 12:41:31.442429
+Existing_entries: 111
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [La gestion de patrimoine au féminin](https://www.bfmtv.com/economie/patrimoine/la-gestion-de-patrimoine-au-feminin_VN-202408290425.html)
+append_entries: 1
+Finish: 2024-08-29 12:41:34.726161

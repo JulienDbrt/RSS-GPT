@@ -4,6 +4,85 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>imfile – Le gestionnaire de téléchargements multi-sources qui remplace Motrix</title>
+<link>https://korben.info/imfile-gestionnaire-telechargements-multisources-motrix.html</link>
+<guid>https://korben.info/imfile-gestionnaire-telechargements-multisources-motrix.html</guid>
+<content:encoded><![CDATA[
+<div> imfile, Motrix, gestionnaire, téléchargement, développement
+
+<br><br>Summary: 
+Aujourd'hui, je vous parle d'imfile, un gestionnaire de téléchargements multi-sources qui reprend le flambeau de Motrix, un outil très prisé qui ne recevait plus de mises à jour. Imfile a été forké par le développeur @chenjia404 et propose un support complet pour Windows, macOS et Android, mais nécessite une compilation pour Linux. Il permet de télécharger directement par hash pour retrouver facilement des fichiers, avec une sauvegarde automatique des tâches, garantissant que rien ne se perde en cas de plantage. Le projet est activement maintenu et offre une base solide avec une programmation en Go, Vue.js et Electron, ainsi qu'une base de données SQLite. Parmi les fonctionnalités à venir, on peut s'attendre à du streaming, de la recherche de ressources et une synchronisation multi-appareils. Par rapport à Motrix, imfile conserve les fonctionnalités essentielles tout en ajoutant des nouveautés, comme une interface remaniée. La version Windows fonctionne bien, bien que la recherche intégrée soit absente pour le moment. Le projet est open-source, ce qui permet à la communauté de contribuer et d'évoluer. Testez-le sans hésitation pour vos téléchargements ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="229" src="https://korben.info/app/uploads/2024/04/SCR-20240420-cr1.webp" width="781" /></p>
+<p>Oyez, oyez, amis geeks et bidouilleurs ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-77460219" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Aujourd&rsquo;hui, je viens vous causer d&rsquo;un petit outil bien pratique qui va vous simplifier la vie côté téléchargements. Son petit nom, c&rsquo;est <strong><a href="https://imfile.io/" rel="noopener" target="_blank">imfile</a></strong>, et c&rsquo;est ni plus ni moins qu&rsquo;un <strong>gestionnaire de téléchargements multi-sources</strong> qui vient prendre la relève de notre regretté <strong><a href="https://korben.info/motrix-un-gestionnaire-de-telechargements-qui-supporte-http-ftp-bittorrent-magnet-baidu-net-disk-etc.html">Motrix</a></strong>.</p>
+
+
+
+<p>Pour ceux qui auraient zappé l&rsquo;épisode précédent, Motrix était un excellent logiciel basé sur aria2 qui permettait de télécharger via de nombreux protocoles : <strong>HTTP, FTP, torrents, liens magnet</strong>&#8230; Bref, un outil très complet ! Sauf que voilà, le projet a fini par péricliter, faute de mises à jour. Triste fin pour un logiciel si prometteur. 😢</p>
+
+
+
+<p>Mais tel le phénix qui renaît de ses cendres, <strong>imfile</strong> est venu redonner vie à Motrix ! Grâce à l&rsquo;héroïque développeur @chenjia404, le projet a été forké et c&rsquo;est reparti pour un tour. Au menu des réjouissances : </p>
+
+
+
+<ul class="wp-block-list">
+<li>Un support complet de <strong>Windows, macOS et Android</strong> (pour Linux, il faudra compiler vous-mêmes pour le moment 😜)</li>
+
+
+
+<li>La possibilité de télécharger directement par <strong>hash</strong> (pratique pour retrouver un fichier)  </li>
+
+
+
+<li>Une <strong>sauvegarde automatique</strong> des tâches pour ne rien perdre même en cas de plantage</li>
+
+
+
+<li>Des mises à jour et une maintenance <strong>régulières</strong> pour rester à la page</li>
+
+
+
+<li>Programmé en Go, Vue.js et Electron, avec une base de données SQLite</li>
+</ul>
+
+
+
+<p>Et ça, c&rsquo;est juste la version actuelle ! D&rsquo;après le dev, on peut s&rsquo;attendre à pas mal de fonctionnalités supplémentaires dans le futur, comme du <strong>streaming</strong>, de la <strong>recherche de ressources</strong> ou encore de la <strong>synchronisation multi-appareils</strong>. De quoi concurrencer sérieusement les ténors du téléchargement ! 🤩</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1981531407" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Comparé à Motrix, imfile reprend les fonctionnalités essentielles (gestion des téléchargements HTTP/FTP/Torrent/Magnet) mais apporte aussi son lot de nouveautés comme le téléchargement par hash ou les sauvegardes automatiques. L&rsquo;interface a été remaniée tout en restant dans le même esprit.</p>
+
+
+
+<p>Maintenant direction le <a href="https://imfile.io/" rel="noopener" target="_blank">site officiel</a> pour récupérer la version correspondant à votre OS, un petit clic pour lancer l&rsquo;install et vous voilà parés pour ratisser le web à la recherche de tous les trésors cachés des internets. </p>
+
+
+
+<p>Perso, j&rsquo;ai testé la version Windows et franchement, ça fonctionne très bien ! J&rsquo;ai lancé des téléchargements variés : ISO Linux, discographie, série TV&#8230; Tout est passé sans accroc. L&rsquo;interface est claire et intuitive. Seul petit bémol : pas de recherche intégrée pour le moment, il faut trouver ses liens soi-même ^^. Mais ça viendra !</p>
+
+
+
+<p>Le plus beau dans tout ça, c&rsquo;est qu&rsquo;<strong>imfile</strong> est un projet <strong><a href="https://github.com/imfile/imfile" rel="noopener" target="_blank">100% open source</a></strong> !</p>
+
+
+
+<p>Allez, trêve de bavardages, je vous laisse filer sur le site d&rsquo;imfile pour tester tout ça.</p>
+
+
+
+<p><strong>Happy downloading à tous !</strong> 🚀</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Unch – Dissimulez vos messages avec des caractères invisibles</title>
