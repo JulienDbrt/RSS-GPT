@@ -1751,3 +1751,9 @@ Summarized using GPT-4o-mini
 Append: [Impôts : les avis de la taxe foncière arrivent avec une augmentation de 3,9% au minimum](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/impots-les-avis-de-la-taxe-fonciere-arrivent-avec-une-augmentation-de-3-9-au-minimum_6712020.html)
 append_entries: 2
 Finish: 2024-08-28 12:41:32.647758
+------------------------------------------------------
+Started: 2024-08-29 01:24:49.501464
+Existing_entries: 107
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-08-29 01:24:49.868902

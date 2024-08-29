@@ -2307,3 +2307,9 @@ Summarized using GPT-4o-mini
 Append: [À quoi servent les lignes bis du métro ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/a-quoi-servent-les-lignes-bis-du-metro-2984201.html)
 append_entries: 2
 Finish: 2024-08-28 12:42:46.741140
+------------------------------------------------------
+Started: 2024-08-29 01:25:09.624968
+Existing_entries: 299
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-08-29 01:25:09.807251

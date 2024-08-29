@@ -4543,3 +4543,18 @@ Summarized using GPT-4o-mini
 Append: [À quoi servent les lignes bis du métro ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/a-quoi-servent-les-lignes-bis-du-metro-2984201.html)
 append_entries: 5
 Finish: 2024-08-28 12:43:51.419774
+------------------------------------------------------
+Started: 2024-08-29 01:25:26.165340
+Existing_entries: 1005
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 265
+Summarized using GPT-4o-mini
+Append: [Livraisons à vélo : le maire veut des zones blanches pour empêcher les regroupements des livreurs](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/livraisons-a-velo-le-maire-veut-des-zones-blanches-pour-empecher-les-regroupements-des-livreurs-3023246.html)
+Token length: 413
+Summarized using GPT-4o-mini
+Append: ["Le rapport au public est complètement transformé" : la Coriace Compagnie est repartie sur les routes pour une nouvelle tournée estivale à vélo !](https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/le-rapport-au-public-est-completement-transforme-la-coriace-compagnie-est-repartie-sur-les-routes-pour-une-nouvelle-tournee-estivale-a-velo-3023129.html)
+Token length: 329
+Summarized using GPT-4o-mini
+Append: [Gare de la Part Dieu, à Lyon : les travaux durent depuis dix ans, ils s'achèveront en 2025](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/gare-de-la-part-dieu-a-lyon-les-travaux-durent-depuis-dix-ans-ils-s-acheveront-en-2025-3023378.html)
+append_entries: 3
+Finish: 2024-08-29 01:25:35.890191

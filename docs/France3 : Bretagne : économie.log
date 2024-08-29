@@ -1972,3 +1972,12 @@ Existing_entries: 187
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-28 12:43:12.452990
+------------------------------------------------------
+Started: 2024-08-29 01:25:17.842183
+Existing_entries: 187
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 427
+Summarized using GPT-4o-mini
+Append: ["La situation est encore plus dramatique qu'en juillet", des producteurs de moules en danger à cause des araignées de mer](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/la-situation-est-encore-plus-dramatique-qu-en-juillet-des-producteurs-de-moules-en-danger-a-cause-des-araignees-de-mer-3023381.html)
+append_entries: 1
+Finish: 2024-08-29 01:25:21.577260

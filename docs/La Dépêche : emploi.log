@@ -2644,3 +2644,9 @@ Summarized using GPT-4o-mini
 Append: [Lannemezan. Des emplois près de chez soi](https://www.ladepeche.fr/2024/08/28/des-emplois-pres-de-chez-soi-12162776.php)
 append_entries: 1
 Finish: 2024-08-28 12:45:48.090782
+------------------------------------------------------
+Started: 2024-08-29 01:27:13.745559
+Existing_entries: 408
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-08-29 01:27:14.329435

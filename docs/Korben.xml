@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Unch – Dissimulez vos messages avec des caractères invisibles</title>
 <link>https://korben.info/unch-dissimuler-messages-caracteres-invisibles.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Unch, caractères Unicode, messages cachés, Base64, couverture 
 
-<br><br>Summary: Unch est un outil ingénieux qui permet de dissimuler des messages dans des écrits en utilisant des caractères Unicode invisibles, semblable à de l’encre sympathique numérique. Le fonctionnement repose sur trois étapes principales : d’abord, le message est encodé en Base64, puis un sélecteur de variante est ajouté pour chaque caractère du résultat, et enfin, ce texte ésotérique est inséré dans un message anodin servant de couverture. Cela crée un texte qui paraît banal mais cache un contenu secret. Pour utiliser Unch, les utilisateurs peuvent télécharger un binaire depuis GitHub, compiler le code source en Go, ou utiliser une image Docker officielle. La commande “unch” permet d’intégrer le message secret dans le texte de couverture, avec diverses options comme le décodage ou la génération de faux textes aléatoires. Quelques exemples d’utilisation incluent l’insertion de messages secrets ou la création de textes aléatoires. Bien qu’amusant, il est important de noter que ce système n’est pas sécurisé, et ne doit pas être utilisé pour des informations critiques. <div>
+<br /><br />Summary: Unch est un outil ingénieux qui permet de dissimuler des messages dans des écrits en utilisant des caractères Unicode invisibles, semblable à de l’encre sympathique numérique. Le fonctionnement repose sur trois étapes principales : d’abord, le message est encodé en Base64, puis un sélecteur de variante est ajouté pour chaque caractère du résultat, et enfin, ce texte ésotérique est inséré dans un message anodin servant de couverture. Cela crée un texte qui paraît banal mais cache un contenu secret. Pour utiliser Unch, les utilisateurs peuvent télécharger un binaire depuis GitHub, compiler le code source en Go, ou utiliser une image Docker officielle. La commande “unch” permet d’intégrer le message secret dans le texte de couverture, avec diverses options comme le décodage ou la génération de faux textes aléatoires. Quelques exemples d’utilisation incluent l’insertion de messages secrets ou la création de textes aléatoires. Bien qu’amusant, il est important de noter que ce système n’est pas sécurisé, et ne doit pas être utilisé pour des informations critiques. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_secret_agent_007_spy_word_written_Unch_2e7d4dfa-e07b-44ca-a434-15b27e797818.webp" width="1456" /></p>
 <p>Vous cherchez un moyen astucieux et discret de <strong>dissimuler des messages</strong> dans vos écrits ? Ca tombe bien, Unch vous permet de cacher du texte dans un autre texte en utilisant des caractères Unicode invisibles. C&rsquo;est comme une encre sympathique numérique !</p>
 
@@ -91,9 +92,7 @@
 <div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p><a href="https://github.com/dwisiswant0/unch" rel="noopener" target="_blank">A découvrir ici.</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 28 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>AutoFillr – L’extension Chrome qui remplit vos formulaires correctement</title>
 <link>https://korben.info/autofillr-extension-remplissage-automatique-formulaires.html</link>

@@ -2307,3 +2307,9 @@ Summarized using GPT-4o-mini
 Append: [Deux fois plus d'attaques, "violence inédite," agriculteurs exténués : le loup fait des ravages dans la Nièvre](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/deux-fois-plus-d-attaques-violence-inedite-agriculteurs-extenues-le-loup-fait-des-ravages-dans-la-nievre-3023072.html)
 append_entries: 3
 Finish: 2024-08-28 12:43:11.922641
+------------------------------------------------------
+Started: 2024-08-29 01:25:17.555337
+Existing_entries: 299
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-08-29 01:25:17.741068
