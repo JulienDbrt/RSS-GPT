@@ -1706,3 +1706,9 @@ Summarized using GPT-4o-mini
 Append: [VRAI OU FAUX. Les Emirats arabes unis ont-ils annulé l'achat de 80 avions Rafale à la France, en raison de l'arrestation de Pavel Dourov, fondateur de Telegram ?](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-les-emirats-arabes-unis-ont-ils-annule-l-achat-de-80-avions-rafale-a-la-france-en-raison-de-l-arrestation-de-pavel-dourov-fondateur-de-telegram_6751372.html)
 append_entries: 2
 Finish: 2024-08-30 01:24:39.307560
+------------------------------------------------------
+Started: 2024-08-30 12:42:11.931016
+Existing_entries: 86
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-08-30 12:42:12.099770

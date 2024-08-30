@@ -2310,3 +2310,15 @@ Summarized using GPT-4o-mini
 Append: [Salon Automobile. Mondial de l’automobile de Paris : il revient et les constructeurs aussi](https://www.lalsace.fr/magazine-automobile/2024/08/29/mondial-de-l-automobile-de-paris-il-revient-et-les-constructeurs-aussi)
 append_entries: 1
 Finish: 2024-08-30 01:26:35.350056
+------------------------------------------------------
+Started: 2024-08-30 12:43:57.878377
+Existing_entries: 287
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 269
+Summarized using GPT-4o-mini
+Append: [Nouveauté. Supercar : vous avez peut-être croisé cette Mercedes-AMG impressionnante !](https://www.lalsace.fr/magazine-automobile/2024/08/30/supercar-vous-avez-peut-etre-croise-cette-mercedes-amg-impressionnante)
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [Assurance auto. Le nombre de conducteurs non assurés dans des accidents a augmenté de 50 %](https://www.lalsace.fr/magazine-automobile/2024/08/30/le-nombre-de-conducteurs-non-assures-dans-des-accidents-a-augmente-de-50)
+append_entries: 2
+Finish: 2024-08-30 12:44:05.236359

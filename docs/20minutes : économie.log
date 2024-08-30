@@ -2420,3 +2420,18 @@ Summarized using GPT-4o-mini
 Append: [Les étudiants estiment qu’ils auraient besoin de deux fois plus d’argent pour vivre correctement](https://www.20minutes.fr/economie/4107552-20240829-etudiants-estiment-besoin-deux-fois-plus-argent-vivre-correctement)
 append_entries: 3
 Finish: 2024-08-30 01:20:33.838434
+------------------------------------------------------
+Started: 2024-08-30 12:37:17.119660
+Existing_entries: 324
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 59
+Summarized using GPT-4o-mini
+Append: [Comment le pouvoir d’achat des Français a-t-il pu progresser, alors que les hausses de salaire ralentissent ?](https://www.20minutes.fr/economie/4107686-20240830-pourquoi-pouvoir-achat-francais-augmente-2023-alors-hausses-salaire-ralentissent)
+Token length: 111
+Summarized using GPT-4o-mini
+Append: [Rentrée scolaire 2024 : Quelles sont les aides financières accordées aux étudiants de l’enseignement supérieur ?](https://www.20minutes.fr/actu-generale/4107637-20240830-rentree-scolaire-2024-aides-financieres-accordees-etudiants-enseignement-superieur)
+Token length: 94
+Summarized using GPT-4o-mini
+Append: [L’inflation en France en dessous des 2 % en août, une première depuis trois ans](https://www.20minutes.fr/economie/4107666-20240830-inflation-france-dessous-2-aout-premiere-depuis-trois-ans)
+append_entries: 3
+Finish: 2024-08-30 12:37:27.876793

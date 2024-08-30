@@ -1976,3 +1976,12 @@ Summarized using GPT-4o-mini
 Append: [Le commerce de la Russie avec l’UE diminue, mais les sanctions sont contournées via des pays tiers](https://www.euractiv.fr/section/economie/news/le-commerce-de-la-russie-avec-lue-diminue-mais-les-sanctions-sont-contournees-via-des-pays-tiers/)
 append_entries: 2
 Finish: 2024-08-30 01:23:32.296290
+------------------------------------------------------
+Started: 2024-08-30 12:41:24.258393
+Existing_entries: 196
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 247
+Summarized using GPT-4o-mini
+Append: [Un pays sans gouvernement peut-il être performant économiquement ?](https://www.euractiv.fr/section/economie/news/un-pays-sans-gouvernement-peut-il-etre-performant-economiquement/)
+append_entries: 1
+Finish: 2024-08-30 12:41:29.074247

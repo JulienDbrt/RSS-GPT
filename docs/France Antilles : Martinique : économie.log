@@ -2846,3 +2846,18 @@ Summarized using GPT-4o-mini
 Append: [Blue Origin réussit son huitième vol de tourisme spatial](https://www.martinique.franceantilles.fr/actualite/economie/blue-origin-reussit-son-huitieme-vol-de-tourisme-spatial-1001115.php)
 append_entries: 4
 Finish: 2024-08-30 01:23:57.446664
+------------------------------------------------------
+Started: 2024-08-30 12:41:52.380698
+Existing_entries: 486
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 64
+Summarized using GPT-4o-mini
+Append: [Les îlets du François : des perles touristiques](https://www.martinique.franceantilles.fr/actualite/economie/les-ilets-du-francois-des-perles-touristiques-1001183.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Le saviez-vous ?](https://www.martinique.franceantilles.fr/actualite/economie/le-saviez-vous-1001184.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Le sentier sous-marin](https://www.martinique.franceantilles.fr/actualite/economie/le-sentier-sous-marin-1001185.php)
+append_entries: 3
+Finish: 2024-08-30 12:41:58.192595

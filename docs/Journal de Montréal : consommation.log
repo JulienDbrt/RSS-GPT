@@ -1999,3 +1999,9 @@ Summarized using GPT-4o-mini
 Append: [La longe de porc est à 1,99$/lb cette semaine](https://www.journaldemontreal.com/2024/08/28/la-longe-de-porc-est-a-199-lb-cette-semaine)
 append_entries: 3
 Finish: 2024-08-30 01:26:28.580591
+------------------------------------------------------
+Started: 2024-08-30 12:43:51.103982
+Existing_entries: 179
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-08-30 12:43:51.427047

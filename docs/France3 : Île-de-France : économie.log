@@ -2331,3 +2331,15 @@ Summarized using GPT-4o-mini
 Append: [Quel avenir pour la dernière champignonnière des Yvelines ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/quel-avenir-pour-la-derniere-champignonniere-des-yvelines-3023921.html)
 append_entries: 2
 Finish: 2024-08-30 01:25:39.025676
+------------------------------------------------------
+Started: 2024-08-30 12:42:53.579817
+Existing_entries: 301
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 136
+Summarized using GPT-4o-mini
+Append: [Rentrée scolaire : un week-end difficile sur les routes d'Île-de France selon Bison Futé](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/rentree-scolaire-un-week-end-difficile-sur-les-routes-d-ile-de-france-selon-bison-fute-3024257.html)
+Token length: 193
+Summarized using GPT-4o-mini
+Append: [Les imprimés des sièges de bus et de métro ont-ils été choisis pour cacher la saleté ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-imprimes-des-sieges-de-bus-et-de-metro-ont-ils-ete-choisis-pour-cacher-la-salete-2984222.html)
+append_entries: 2
+Finish: 2024-08-30 12:43:01.599985

@@ -1870,3 +1870,12 @@ Summarized using GPT-4o-mini
 Append: [La compagnie aérienne Liat 2020 a repris son envol dans la Caraïbe](https://la1ere.francetvinfo.fr/martinique/la-compagnie-aerienne-liat-2020-a-repris-son-envol-dans-la-caraibe-1517510.html)
 append_entries: 1
 Finish: 2024-08-30 01:27:08.792268
+------------------------------------------------------
+Started: 2024-08-30 12:44:46.712432
+Existing_entries: 134
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 38
+Summarized using GPT-4o-mini
+Append: [Pourquoi les prix des produits de consommation sont-ils de plus en plus chers en Martinique ?](https://la1ere.francetvinfo.fr/martinique/pourquoi-les-prix-des-produits-de-consommation-sont-ils-de-plus-en-plus-chers-en-martinique-1517597.html)
+append_entries: 1
+Finish: 2024-08-30 12:44:49.973505

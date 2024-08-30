@@ -1606,3 +1606,12 @@ Existing_entries: 46
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-08-30 01:29:09.321739
+------------------------------------------------------
+Started: 2024-08-30 12:47:15.059950
+Existing_entries: 46
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Métro du Grand Paris : Eiffage poursuit ses chantiers... malgré quelques retards](https://www.latribune.fr/entreprises-finance/industrie/biens-d-equipement-btp-immobilier/metro-du-grand-paris-eiffage-poursuit-ses-chantiers-malgre-quelques-retards-1005155.html)
+append_entries: 1
+Finish: 2024-08-30 12:47:18.307909
