@@ -1869,3 +1869,12 @@ Summarized using GPT-4o-mini
 Append: [Une arnaque ? Comment mon diagnostic de performance énergétique est passé de E à B... en payant 1€](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/une-arnaque-comment-mon-diagnostic-de-performance-energetique-est-passe-de-e-a-b-en-payant-1-3023498.html)
 append_entries: 1
 Finish: 2024-08-29 12:44:26.041796
+------------------------------------------------------
+Started: 2024-08-30 01:25:28.261586
+Existing_entries: 149
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 323
+Summarized using GPT-4o-mini
+Append: [INTERVIEW. ExxonMobil : pas de plan de retraite anticipé, vers le licenciement d'une centaine de salariés ? "La grève va continuer"](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/interview-exxonmobil-pas-de-plan-de-retraite-anticipe-vers-le-licenciement-d-une-centaine-de-salaries-la-greve-va-continuer-3023825.html)
+append_entries: 1
+Finish: 2024-08-30 01:25:32.323733

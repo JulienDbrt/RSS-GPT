@@ -2467,3 +2467,18 @@ Summarized using GPT-4o-mini
 Append: [Saint-Martin : Air Caraïbes renonce à relier directement l'aéroport Princess Juliana à Paris](https://la1ere.francetvinfo.fr/guadeloupe/saint-martin/saint-martin-air-caraibes-renonce-a-relier-directement-l-aeroport-princess-juliana-a-paris-1517318.html)
 append_entries: 1
 Finish: 2024-08-29 12:46:03.214639
+------------------------------------------------------
+Started: 2024-08-30 01:27:12.184214
+Existing_entries: 335
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 32
+Summarized using GPT-4o-mini
+Append: [Les habitants de Yaté se mobilisent contre le départ annoncé des médecins de la commune](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/yate/les-habitants-de-yate-se-mobilisent-contre-le-depart-annonce-des-medecins-de-la-commune-1517408.html)
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [La compagnie aérienne Liat 2020 a repris son envol dans la Caraïbe](https://la1ere.francetvinfo.fr/martinique/la-compagnie-aerienne-liat-2020-a-repris-son-envol-dans-la-caraibe-1517510.html)
+Token length: 51
+Summarized using GPT-4o-mini
+Append: [Inauguration de la nouvelle voie reliant les routes Baduel et Raban par le stade Georges Chaumet](https://la1ere.francetvinfo.fr/guyane/inauguration-de-la-nouvelle-voie-reliant-les-routes-baduel-et-raban-par-le-stade-georges-chaumet-1482035.html)
+append_entries: 3
+Finish: 2024-08-30 01:27:21.575677

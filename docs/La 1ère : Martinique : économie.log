@@ -1861,3 +1861,12 @@ Existing_entries: 133
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-08-29 12:45:59.554032
+------------------------------------------------------
+Started: 2024-08-30 01:27:05.121160
+Existing_entries: 133
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [La compagnie aérienne Liat 2020 a repris son envol dans la Caraïbe](https://la1ere.francetvinfo.fr/martinique/la-compagnie-aerienne-liat-2020-a-repris-son-envol-dans-la-caraibe-1517510.html)
+append_entries: 1
+Finish: 2024-08-30 01:27:08.792268

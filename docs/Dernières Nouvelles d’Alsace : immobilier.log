@@ -1922,3 +1922,12 @@ Existing_entries: 160
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-08-29 12:42:28.600484
+------------------------------------------------------
+Started: 2024-08-30 01:23:19.545307
+Existing_entries: 160
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Immobilier-Vente. Avez-vous besoin de deux notaires pour la vente d'un bien ?](https://www.dna.fr/magazine-immobilier/2024/08/29/avez-vous-besoin-de-deux-notaires-pour-la-vente-d-un-bien)
+append_entries: 1
+Finish: 2024-08-30 01:23:24.212515

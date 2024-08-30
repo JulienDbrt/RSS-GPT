@@ -1891,3 +1891,9 @@ Summarized using GPT-4o-mini
 Append: [Impôts : vers une nouvelle augmentation de la taxe foncière en 2025](https://www.ladepeche.fr/2024/08/29/impots-vers-une-nouvelle-augmentation-de-la-taxe-fonciere-en-2025-12164119.php)
 append_entries: 1
 Finish: 2024-08-29 12:46:56.793610
+------------------------------------------------------
+Started: 2024-08-30 01:27:58.435732
+Existing_entries: 153
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-08-30 01:27:59.011580

@@ -2656,3 +2656,12 @@ Existing_entries: 408
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-08-29 12:46:52.665057
+------------------------------------------------------
+Started: 2024-08-30 01:27:54.156277
+Existing_entries: 408
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 216
+Summarized using GPT-4o-mini
+Append: ["Ça n’a pas de sens" : le GNSA et des riverains contre l’abattage d’arbres en Ariège](https://www.ladepeche.fr/2024/08/29/ca-na-pas-de-sens-le-gnsa-et-des-riverains-contre-labattage-darbres-en-ariege-12148798.php)
+append_entries: 1
+Finish: 2024-08-30 01:27:58.354017

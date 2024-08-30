@@ -2405,3 +2405,18 @@ Summarized using GPT-4o-mini
 Append: [Camaïeu : La marque de retour ce jeudi avec un nouveau nom et un repreneur bien connu](https://www.20minutes.fr/economie/4107490-20240829-camaieu-marque-retour-jeudi-nouveau-nom-repreneur-bien-connu)
 append_entries: 2
 Finish: 2024-08-29 12:38:53.431356
+------------------------------------------------------
+Started: 2024-08-30 01:20:24.404535
+Existing_entries: 321
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 133
+Summarized using GPT-4o-mini
+Append: [Lidl va (enfin) accepter les tickets-restaurant](https://www.20minutes.fr/economie/4107623-20240829-lidl-va-enfin-accepter-tickets-restaurant)
+Token length: 250
+Summarized using GPT-4o-mini
+Append: [Le retour de Camaïeu fait grincer des dents ses ex-salariés qui ont « tous été virés »](https://www.20minutes.fr/societe/4107510-20240829-retour-camaieu-fait-grincer-dents-ex-salaries-tous-vires)
+Token length: 161
+Summarized using GPT-4o-mini
+Append: [Les étudiants estiment qu’ils auraient besoin de deux fois plus d’argent pour vivre correctement](https://www.20minutes.fr/economie/4107552-20240829-etudiants-estiment-besoin-deux-fois-plus-argent-vivre-correctement)
+append_entries: 3
+Finish: 2024-08-30 01:20:33.838434

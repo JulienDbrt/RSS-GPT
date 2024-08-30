@@ -2319,3 +2319,15 @@ Existing_entries: 299
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-08-29 12:44:26.678111
+------------------------------------------------------
+Started: 2024-08-30 01:25:32.483872
+Existing_entries: 299
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [Souris, moisissure, équipement sale : Un Leclerc obligé de fermer ses rayons après un contrôle d'hygiène](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/souris-moisissure-equipement-sale-un-leclerc-oblige-de-fermer-ses-rayons-apres-un-controle-d-hygiene-3023750.html)
+Token length: 317
+Summarized using GPT-4o-mini
+Append: [Quel avenir pour la dernière champignonnière des Yvelines ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/quel-avenir-pour-la-derniere-champignonniere-des-yvelines-3023921.html)
+append_entries: 2
+Finish: 2024-08-30 01:25:39.025676

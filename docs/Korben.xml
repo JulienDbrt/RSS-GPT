@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>imfile – Le gestionnaire de téléchargements multi-sources qui remplace Motrix</title>
 <link>https://korben.info/imfile-gestionnaire-telechargements-multisources-motrix.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> imfile, Motrix, gestionnaire, téléchargement, développement
 
-<br><br>Summary: 
+<br /><br />Summary: 
 Aujourd'hui, je vous parle d'imfile, un gestionnaire de téléchargements multi-sources qui reprend le flambeau de Motrix, un outil très prisé qui ne recevait plus de mises à jour. Imfile a été forké par le développeur @chenjia404 et propose un support complet pour Windows, macOS et Android, mais nécessite une compilation pour Linux. Il permet de télécharger directement par hash pour retrouver facilement des fichiers, avec une sauvegarde automatique des tâches, garantissant que rien ne se perde en cas de plantage. Le projet est activement maintenu et offre une base solide avec une programmation en Go, Vue.js et Electron, ainsi qu'une base de données SQLite. Parmi les fonctionnalités à venir, on peut s'attendre à du streaming, de la recherche de ressources et une synchronisation multi-appareils. Par rapport à Motrix, imfile conserve les fonctionnalités essentielles tout en ajoutant des nouveautés, comme une interface remaniée. La version Windows fonctionne bien, bien que la recherche intégrée soit absente pour le moment. Le projet est open-source, ce qui permet à la communauté de contribuer et d'évoluer. Testez-le sans hésitation pour vos téléchargements ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="229" src="https://korben.info/app/uploads/2024/04/SCR-20240420-cr1.webp" width="781" /></p>
 <p>Oyez, oyez, amis geeks et bidouilleurs ! </p>
@@ -81,9 +82,7 @@ Aujourd'hui, je vous parle d'imfile, un gestionnaire de téléchargements multi-
 <p><strong>Happy downloading à tous !</strong> 🚀</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 29 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Unch – Dissimulez vos messages avec des caractères invisibles</title>
 <link>https://korben.info/unch-dissimuler-messages-caracteres-invisibles.html</link>
