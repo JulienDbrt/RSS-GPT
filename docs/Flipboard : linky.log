@@ -1721,3 +1721,9 @@ Summarized using GPT-4o-mini
 Append: [Vous refusez d’installer un compteur Linky ? Vous recevrez quand même les factures dès 2025](https://www.lavoixdunord.fr/1497008/article/2024-08-30/vous-refusez-d-installer-un-compteur-linky-vous-recevrez-quand-meme-les-factures)
 append_entries: 1
 Finish: 2024-08-31 01:16:56.520707
+------------------------------------------------------
+Started: 2024-08-31 12:32:11.232566
+Existing_entries: 93
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-08-31 12:32:12.035748

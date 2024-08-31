@@ -2011,3 +2011,12 @@ Existing_entries: 190
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-08-31 01:22:55.854272
+------------------------------------------------------
+Started: 2024-08-31 12:38:13.384093
+Existing_entries: 190
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 246
+Summarized using GPT-4o-mini
+Append: [Tomme de vache pie noir, fromage affiné à la bière... La Bretagne est-elle devenue une terre de fromages ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/tomme-de-vache-pie-noir-fromage-affine-a-la-biere-la-bretagne-est-elle-devenue-une-terre-de-fromages-2999309.html)
+append_entries: 1
+Finish: 2024-08-31 12:38:15.625096

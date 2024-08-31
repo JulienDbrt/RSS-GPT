@@ -5851,3 +5851,18 @@ Summarized using GPT-4o-mini
 Append: [Budget 2025 : les députés demandent des comptes à Bercy](https://www.latribune.fr/economie/france/budget-2025-les-deputes-demandent-des-comptes-a-bercy-1005177.html)
 append_entries: 4
 Finish: 2024-08-31 01:25:22.795114
+------------------------------------------------------
+Started: 2024-08-31 12:39:53.028562
+Existing_entries: 1004
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [La rentrée, le moment de choisir entre « tracances » et « vavail »](https://www.latribune.fr/economie/france/la-rentree-le-moment-de-choisir-entre-tracances-et-vavail-1005204.html)
+Token length: 168
+Summarized using GPT-4o-mini
+Append: [Budget : le ministère de la Transition écologique s'oppose aux économies de Matignon](https://www.latribune.fr/economie/france/budget-le-ministere-de-la-transition-ecologique-s-oppose-aux-economies-de-matignon-1005224.html)
+Token length: 270
+Summarized using GPT-4o-mini
+Append: [Croissance, emploi, chômage : l'automne de tous les dangers](https://www.latribune.fr/economie/france/croissance-emploi-chomage-l-automne-de-tous-les-dangers-1005201.html)
+append_entries: 3
+Finish: 2024-08-31 12:40:02.750538

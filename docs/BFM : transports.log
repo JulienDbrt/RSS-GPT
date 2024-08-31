@@ -2339,3 +2339,15 @@ Summarized using GPT-4o-mini
 Append: ["L'avion est parti sans nous!": les longues heures de galère des passagers du vol Air France vers Tenerife](https://www.bfmtv.com/economie/entreprises/transports/l-avion-est-parti-sans-nous-les-ennuis-continuent-pour-les-passagers-du-vol-air-france-vers-tenerife_AN-202408300535.html)
 append_entries: 2
 Finish: 2024-08-31 01:20:25.834646
+------------------------------------------------------
+Started: 2024-08-31 12:35:54.480123
+Existing_entries: 303
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [La Golf, une icône de Volkswagen](https://www.bfmtv.com/economie/entreprises/transports/la-golf-une-icone-de-volkswagen_VN-202408310119.html)
+Token length: 303
+Summarized using GPT-4o-mini
+Append: [TER: pourquoi des trains sont affichés "complets" alors qu'ils ne le sont pas?](https://www.bfmtv.com/economie/entreprises/transports/ter-pourquoi-des-trains-sont-affiches-complets-alors-qu-ils-ne-le-sont-pas_VN-202408310077.html)
+append_entries: 2
+Finish: 2024-08-31 12:36:00.940551

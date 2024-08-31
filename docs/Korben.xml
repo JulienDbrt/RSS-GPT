@@ -4,6 +4,62 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>VxKex – Faites tourner vos applis Windows 8/10 sur Seven !</title>
+<link>https://korben.info/vxkex-faire-tourner-applis-windows-8-10-seven.html</link>
+<guid>https://korben.info/vxkex-faire-tourner-applis-windows-8-10-seven.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: VxKex, Windows 7, applications, compatibilité, installations
+
+<br><br>Summary: 
+VxKex est un ensemble d'extensions d'API permettant d'exécuter des applications Windows 8, 8.1 et 10 sur Windows 7. L'outil, facile à utiliser, nécessite simplement le téléchargement et l'installation de la dernière version. Pour lancer un programme, un clic droit sur le fichier .exe ou .msi permet d'activer VxKex via les propriétés. Une liste d'applications compatibles est fournie, incluant des logiciels comme Blender, Spotify, et même des émulateurs. Bien que certains réglages puissent être nécessaires pour des programmes complexes, le fichier « Application Compatibility List.docx » dans le dossier d'installation fournit toutes les informations utiles. VxKex n’endommage pas Windows 7 puisqu'il charge des DLLs sans altérer les fichiers système, assurant ainsi la stabilité de l'OS. La configuration requise est minime : Service Pack 1 et les mises à jour KB2533623 et KB2670838. Les applications en ligne de commande sont également supportées, offrant une expérience utilisateur agréable. Malgré cela, il est conseillé de penser à une mise à jour vers Windows 10 ou 11 pour des raisons de sécurité. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Windows_Seven_Wallpaper_logo_word_VxKex_written_8b239051-0a06-4291-bb67-a22b95da3656.webp" width="1456" /></p>
+<p>Vous êtes un irréductible de <strong>Windows 7</strong>, mais vous lorgniez avec envie sur certaines applications récentes uniquement disponibles pour Windows 8, 8.1 ou 10 ? Pas de stress, avec <strong>VxKex</strong>, vous allez pouvoir les faire tourner sur votre Seven adoré !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-850745950" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais qu&rsquo;est-ce que c&rsquo;est que ce truc au nom imprononçable ? Eh bien, pour faire simple, c&rsquo;est est un ensemble d&rsquo;extensions d&rsquo;API qui vont permettre à votre Windows 7 de comprendre et d&rsquo;exécuter des programmes normalement réservés aux versions plus récentes de l&rsquo;OS de Microsoft. Bref, c&rsquo;est un peu comme si on greffait des bouts de Windows 8 et 10 dans votre Seven. Génial, non ?</p>
+
+
+
+<p>Pour en profiter, rien de plus simple. Rendez-vous sur la <a href="https://github.com/Blaukovitch/VxKex" rel="noopener" target="_blank">page des releases sur GitHub</a> et téléchargez la dernière version. Installez la, et vous voilà prêt à dompter ces applis récalcitrantes !</p>
+
+
+
+<p>L&rsquo;utilisation est un jeu d&rsquo;enfant. Faites un clic droit sur le programme que vous voulez lancer (fichier .exe ou .msi), ouvrez les propriétés, puis sélectionnez l&rsquo;onglet « VxKex ». Là, cochez la case « Enable VxKex for this program » (« Activer VxKex pour ce programme ») et lancez l&rsquo;application. Tadaaa !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img alt="" class="wp-image-159590" height="564" src="https://korben.info/app/uploads/2024/04/example-screenshot.webp" style="width: 342px; height: auto;" width="450" /></figure></div>
+
+
+<p>Bon, pour certains programmes un peu complexes, il faudra peut-être bidouiller quelques réglages supplémentaires, mais rien d&rsquo;insurmontable. Vous trouverez toutes les infos nécessaires dans le fichier « Application Compatibility List.docx » inclus dans le dossier d&rsquo;installation de l&rsquo;outil (par défaut dans « C:\Program Files\VxKex »). Et la liste des applications compatibles est longue comme le bras ! Ça va de <strong>Blender</strong> à <strong>Spotify</strong> en passant par <strong>Chromium</strong>, <strong>Discord</strong>, <strong>Python</strong>, <strong>Qt Creator</strong> et même des émulateurs comme <strong>Citra</strong> et <strong>Yuzu</strong>. Bref, y&rsquo;a de quoi s&rsquo;amuser.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2104830107" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Mais attention, ce truc ne fait pas de miracles non plus. N&rsquo;espérez pas faire tourner les derniers jeux AAA dessus, il est plutôt orienté applications. Ceci dit, les développeurs planchent déjà sur le support des jeux, alors gardez l&rsquo;œil ouvert ! Autre question que vous vous posez sûrement : <strong>est-ce que ça va bousiller mon Windows 7 chéri ?</strong> </p>
+
+
+
+<p>Eh bien non, pas du tout ! <strong>VxKex</strong> n&rsquo;altère aucun fichier système, il se contente de charger des DLLs lorsque vous lancez une application compatible. Donc pas de panique, votre Seven restera aussi stable qu&rsquo;un roc.</p>
+
+
+
+<p>Côté configuration requise, c&rsquo;est très léger. Il vous faut juste le Service Pack 1 et idéalement les mises à jour KB2533623 et KB2670838 d&rsquo;installés sur votre Windows 7. Et si vous avez les derniers correctifs de sécurité (les fameux ESU), pas de problème non plus, il est compatible.</p>
+
+
+
+<p>Même les applications en ligne de commande sont de la partie ! Une fois que c&rsquo;est activé pour votre programme, vous pouvez l&rsquo;utiliser dans l&rsquo;invite de commandes comme si de rien n&rsquo;était.</p>
+
+
+
+<p>Bref, de quoi redonnez un coup de jeune à votre Windows 7 et profitez enfin de toutes ces applications qui vous faisaient de l&rsquo;œil sur Windows 8 et 10 ! Mais bon, n&rsquo;oubliez pas que Windows Seven est quand même un vieux machin et que niveau sécurité, c&rsquo;est pas top&#8230; Donc pensez à mettre à jour vers Windows 11 (ou 10 si vous avez un PC pourri).</p>
+]]></content:encoded>
+<pubDate>Sat, 31 Aug 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 31 Aug 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Puter – Des navigateurs virtuels instantanés sans inscription</title>

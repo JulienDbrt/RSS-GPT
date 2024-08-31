@@ -1787,3 +1787,15 @@ Summarized using GPT-4o-mini
 Append: [La Métropole de Lyon annonce reprendre les prises en charge des mères sans abri, après l'émotion au sujet de bébés sans hébergement](https://www.francetvinfo.fr/france/auvergne-rhone-alpes/rhone/lyon/bebes-a-la-rue-la-metropole-de-lyon-annonce-reprendre-les-prises-en-charge-des-meres-sans-abri_6753505.html)
 append_entries: 2
 Finish: 2024-08-31 01:21:55.145455
+------------------------------------------------------
+Started: 2024-08-31 12:37:04.212587
+Existing_entries: 109
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [Le Conseil d'Etat annule l'autorisation de louer des logements de 1,80 m sous plafond](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/le-conseil-d-etat-annule-l-autorisation-de-louer-des-logements-de-1-80-m-sous-plafond_6755392.html)
+Token length: 211
+Summarized using GPT-4o-mini
+Append: [Un an après la loi "anti-squat", le nombre d'expulsions dans les logements français a plus que triplé](https://www.francetvinfo.fr/economie/immobilier/un-an-apres-la-loi-anti-squat-le-nombre-d-expulsions-dans-les-logements-francais-a-plus-que-triple_6754270.html)
+append_entries: 2
+Finish: 2024-08-31 12:37:10.150139

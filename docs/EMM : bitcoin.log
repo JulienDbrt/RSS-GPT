@@ -8503,3 +8503,9 @@ Summarized using GPT-4o-mini
 Append: [BFM Crypto, les Pros : Marché crypto, le bilan de l'été – 30/08](https://www.bfmtv.com/economie/replay-emissions/les-pros-des-cryptos/bfm-crypto-les-pros-marche-crypto-le-bilan-de-l-ete-30-08_EN-202408300540.html)
 append_entries: 9
 Finish: 2024-08-31 01:15:54.003427
+------------------------------------------------------
+Started: 2024-08-31 12:30:39.364892
+Existing_entries: 1009
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+append_entries: 0
+Finish: 2024-08-31 12:30:41.444288
