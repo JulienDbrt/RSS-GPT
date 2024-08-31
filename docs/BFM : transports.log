@@ -2327,3 +2327,15 @@ Summarized using GPT-4o-mini
 Append: [Pas assez de clients: Transavia suspend sa liaison entre Paris et Pau](https://www.bfmtv.com/economie/entreprises/transports/pas-assez-de-clients-transavia-suspend-sa-liaison-entre-paris-et-pau_AV-202408300445.html)
 append_entries: 1
 Finish: 2024-08-30 12:40:36.937278
+------------------------------------------------------
+Started: 2024-08-31 01:20:19.149197
+Existing_entries: 301
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Le transport routier est en grave difficulté, les patrons tirent "la sonnette d'alarme"](https://www.bfmtv.com/economie/entreprises/transports/le-transport-routier-est-en-grave-difficulte-les-patrons-tirent-la-sonnette-d-alarme_AD-202408300719.html)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: ["L'avion est parti sans nous!": les longues heures de galère des passagers du vol Air France vers Tenerife](https://www.bfmtv.com/economie/entreprises/transports/l-avion-est-parti-sans-nous-les-ennuis-continuent-pour-les-passagers-du-vol-air-france-vers-tenerife_AN-202408300535.html)
+append_entries: 2
+Finish: 2024-08-31 01:20:25.834646

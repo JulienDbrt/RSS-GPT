@@ -1775,3 +1775,15 @@ Existing_entries: 107
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-08-30 12:42:13.051397
+------------------------------------------------------
+Started: 2024-08-31 01:21:49.975852
+Existing_entries: 107
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Il faut un rééquilibrage" : à Saint-Malo, certains propriétaires acceptent la hausse de la taxe d'habitation sur les résidences secondaires](https://www.francetvinfo.fr/economie/immobilier/logements-vacants/reportage-il-faut-un-reequilibrage-a-saint-malo-certains-proprietaires-acceptent-la-hausse-de-la-taxe-d-habitation-sur-les-residences-secondaires_6753745.html)
+Token length: 165
+Summarized using GPT-4o-mini
+Append: [La Métropole de Lyon annonce reprendre les prises en charge des mères sans abri, après l'émotion au sujet de bébés sans hébergement](https://www.francetvinfo.fr/france/auvergne-rhone-alpes/rhone/lyon/bebes-a-la-rue-la-metropole-de-lyon-annonce-reprendre-les-prises-en-charge-des-meres-sans-abri_6753505.html)
+append_entries: 2
+Finish: 2024-08-31 01:21:55.145455

@@ -2861,3 +2861,21 @@ Summarized using GPT-4o-mini
 Append: [Le sentier sous-marin](https://www.martinique.franceantilles.fr/actualite/economie/le-sentier-sous-marin-1001185.php)
 append_entries: 3
 Finish: 2024-08-30 12:41:58.192595
+------------------------------------------------------
+Started: 2024-08-31 01:21:08.181759
+Existing_entries: 489
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 96
+Summarized using GPT-4o-mini
+Append: [Venezuela : normalisation en cours après un black-out généralisé](https://www.martinique.franceantilles.fr/actualite/justice/venezuela-le-candidat-de-lopposition-menace-de-prison-1001243.php)
+Token length: 51
+Summarized using GPT-4o-mini
+Append: [Un juge ordonne la suspension du réseau social X au Brésil](https://www.martinique.franceantilles.fr/actualite/economie/un-juge-ordonne-la-suspension-du-reseau-social-x-au-bresil-1001324.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Au 1er septembre : gaz, sans plomb et gazole en baisse en Martinique](https://www.martinique.franceantilles.fr/actualite/economie/au-1er-septembre-gaz-sans-plomb-et-gazole-en-baisse-en-martinique-1001310.php)
+Token length: 67
+Summarized using GPT-4o-mini
+Append: [Black-out au Venezuela : un goût de "déjà vu"](https://www.martinique.franceantilles.fr/actualite/economie/black-out-au-venezuela-un-gout-de-deja-vu-1001312.php)
+append_entries: 4
+Finish: 2024-08-31 01:21:14.489104

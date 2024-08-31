@@ -4606,3 +4606,18 @@ Summarized using GPT-4o-mini
 Append: [Le concurrent de l'Airbus A320néo connaît des débuts difficiles : l'avion C919 n'intéresse que la Chine, sa production est limitée](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/le-concurrent-de-l-airbus-a320neo-connait-des-debuts-difficiles-l-avion-c919-n-interesse-que-la-chine-et-sa-production-limitee-3023849.html)
 append_entries: 6
 Finish: 2024-08-30 12:43:51.009540
+------------------------------------------------------
+Started: 2024-08-31 01:23:02.015508
+Existing_entries: 1006
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 254
+Summarized using GPT-4o-mini
+Append: [Transports scolaires, chauffeurs, dessertes : à quoi s'attendre pour cette rentrée 2024 en Alsace](https://france3-regions.francetvinfo.fr/grand-est/alsace/rentree-2024-fin-des-penuries-de-chauffeurs-pour-les-transports-scolaires-assure-la-region-3023120.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Un décès et un blessé grave dans un accident de la circulation près de Sablonceaux, en Charente-Maritime](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/deux-blesses-graves-dans-un-accident-de-la-circulation-pres-de-sablonceaux-en-charente-maritime-3024422.html)
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [VIDÉO. "On veut savoir ce qu'il s'est passé" : un mois après l'éboulement en Isère, les habitants demandent des réponses](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/video-on-veut-savoir-ce-qu-il-s-est-passe-un-mois-apres-l-eboulement-en-isere-les-habitants-demandent-des-reponses-3024341.html)
+append_entries: 3
+Finish: 2024-08-31 01:23:09.801771

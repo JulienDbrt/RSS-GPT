@@ -1746,3 +1746,9 @@ Summarized using GPT-4o-mini
 Append: [L'emploi salarié du secteur privé est quasi-stable au second trimestre](https://www.bfmtv.com/economie/emploi/l-emploi-salarie-du-secteur-prive-est-quasi-stable-au-second-trimestre_AD-202408300194.html)
 append_entries: 1
 Finish: 2024-08-30 12:39:06.947196
+------------------------------------------------------
+Started: 2024-08-31 01:19:35.392053
+Existing_entries: 104
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-08-31 01:19:35.452699

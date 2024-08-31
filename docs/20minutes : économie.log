@@ -2435,3 +2435,15 @@ Summarized using GPT-4o-mini
 Append: [L’inflation en France en dessous des 2 % en août, une première depuis trois ans](https://www.20minutes.fr/economie/4107666-20240830-inflation-france-dessous-2-aout-premiere-depuis-trois-ans)
 append_entries: 3
 Finish: 2024-08-30 12:37:27.876793
+------------------------------------------------------
+Started: 2024-08-31 01:18:30.814185
+Existing_entries: 327
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Pouvoir d’achat : L’argent de poche des enfants en baisse, une conséquence de l’inflation ?](https://www.20minutes.fr/economie/4107732-20240830-pouvoir-achat-argent-poche-enfants-baisse-faute-inflation)
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Agriculture : L’Etat va fournir gratuitement plus de vaccins contre les maladies animales](https://www.20minutes.fr/economie/4107718-20240830-agriculture-etat-va-fournir-gratuitement-plus-vaccins-contre-maladies-animales)
+append_entries: 2
+Finish: 2024-08-31 01:18:37.488453

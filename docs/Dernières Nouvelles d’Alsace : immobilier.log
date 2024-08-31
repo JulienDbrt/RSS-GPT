@@ -1937,3 +1937,15 @@ Existing_entries: 161
 Fetching from https://www.dna.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-08-30 12:41:22.761532
+------------------------------------------------------
+Started: 2024-08-31 01:20:52.376281
+Existing_entries: 161
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Immobilier. Comment acheter le logement dont vous êtes locataire ?](https://www.dna.fr/magazine-immobilier/2024/08/30/comment-acheter-le-logement-dont-vous-etes-locataire)
+Token length: 473
+Summarized using GPT-4o-mini
+Append: [Urbanisme. Strasbourg : cinq clés pour mieux comprendre la transformation du Port-du-Rhin](https://www.dna.fr/environnement/2024/08/30/mieux-comprendre-la-transformation-du-port-du-rhin-en-cinq-points)
+append_entries: 2
+Finish: 2024-08-31 01:20:58.366845

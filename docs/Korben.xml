@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Puter – Des navigateurs virtuels instantanés sans inscription</title>
 <link>https://korben.info/cloudtabs-navigateurs-virtuels-instantanes-sans-inscription.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Puter, navigation anonyme, machines virtuelles, confidentialité, cloud computing
 
-<br><br>Résumé : Puter est un service en ligne pratique qui permet d'ouvrir des navigateurs web dans des machines virtuelles sans installation ni création de compte. L'utilisateur peut choisir la région d'hébergement de sa session (Amérique, Europe, Asie, Amérique du Sud) et démarrer un navigateur instantanément. En plus de la navigation, Puter offre un environnement de bureau avec divers outils tels qu'un IDE, un terminal, un bloc-notes et des jeux. Le service utilise le cloud computing pour créer des machines virtuelles avec des navigateurs pré-configurés, garantissant que chaque session est isolée et éphémère. Cela assure une navigation anonyme, sans cookies ni historique, et permet de tester des sites ou d'accéder à des services bloqués. Cependant, il y a des limites, comme la nécessité de faire confiance à Puter pour garantir la confidentialité, les éventuels ralentissements dus à la latence des serveurs distants, et l'absence de personnalisation du navigateur. Malgré ces inconvénients, Puter est un outil prometteur pour renforcer la sécurité et la confidentialité en ligne. <div>
+<br /><br />Résumé : Puter est un service en ligne pratique qui permet d'ouvrir des navigateurs web dans des machines virtuelles sans installation ni création de compte. L'utilisateur peut choisir la région d'hébergement de sa session (Amérique, Europe, Asie, Amérique du Sud) et démarrer un navigateur instantanément. En plus de la navigation, Puter offre un environnement de bureau avec divers outils tels qu'un IDE, un terminal, un bloc-notes et des jeux. Le service utilise le cloud computing pour créer des machines virtuelles avec des navigateurs pré-configurés, garantissant que chaque session est isolée et éphémère. Cela assure une navigation anonyme, sans cookies ni historique, et permet de tester des sites ou d'accéder à des services bloqués. Cependant, il y a des limites, comme la nécessité de faire confiance à Puter pour garantir la confidentialité, les éventuels ralentissements dus à la latence des serveurs distants, et l'absence de personnalisation du navigateur. Malgré ces inconvénients, Puter est un outil prometteur pour renforcer la sécurité et la confidentialité en ligne. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1041" src="https://korben.info/app/uploads/2024/04/SCR-20240420-d1q.webp" width="1985" /></p>
 <p>Ce serait chouette si on pouvait <strong>ouvrir un navigateur web</strong> en un clin d&rsquo;œil, sans avoir à installer quoi que ce soit sur sa machine et où chaque session de navigation serait totalement indépendante, isolée dans sa propre bulle virtuelle. Ah bah ça tombe bien, c&rsquo;est exactement ce que propose <strong><a href="https://puter.com/" rel="noopener" target="_blank">Puter</a></strong>, un service en ligne très astucieux.</p>
 
@@ -52,9 +53,7 @@
 <p><a href="https://puter.com/" rel="noopener" target="_blank">A tester ici !</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 30 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 30 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>imfile – Le gestionnaire de téléchargements multi-sources qui remplace Motrix</title>
 <link>https://korben.info/imfile-gestionnaire-telechargements-multisources-motrix.html</link>
