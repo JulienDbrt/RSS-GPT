@@ -2364,3 +2364,9 @@ Summarized using GPT-4o-mini
 Append: [Cyberattaque à Paris-Saclay: La rentrée des étudiants ne sera pas décalée](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/cyberattaque-a-paris-saclay-la-rentree-des-etudiants-ne-sera-pas-decalee-3024806.html)
 append_entries: 1
 Finish: 2024-09-01 01:31:18.021498
+------------------------------------------------------
+Started: 2024-09-01 12:36:00.031389
+Existing_entries: 304
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-01 12:36:00.264362

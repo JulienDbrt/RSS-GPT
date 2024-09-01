@@ -4648,3 +4648,21 @@ Summarized using GPT-4o-mini
 Append: [La circulation peut enfin reprendre sur le Pont Neuf de Poitiers après un an de travaux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/la-circulation-peut-enfin-reprendre-sur-le-pont-neuf-de-poitiers-apres-un-an-de-travaux-3024815.html)
 append_entries: 1
 Finish: 2024-09-01 01:31:33.419762
+------------------------------------------------------
+Started: 2024-09-01 12:36:27.714842
+Existing_entries: 1001
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [Vidéo. "C'est une tentative de meurtre" Le jardin d'une propriété incendié pour la seconde fois en huit jours](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/video-c-est-une-tentative-de-meurtre-le-jardin-d-une-propriete-incendie-pour-la-seconde-fois-en-huit-jours-3024992.html)
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Autoroute A69 : Le déboisement des arbres sur le chantier a bien commencé, le trafic ferroviaire interrompu entre Castres et Toulouse](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/video-autoroute-a69-le-deboisement-des-arbres-sur-le-chantier-a-bien-commence-le-trafic-ferroviaire-interrompu-entre-castres-et-toulouse-3024926.html)
+Token length: 299
+Summarized using GPT-4o-mini
+Append: [Grève des transports en commun à Nancy pour la rentrée scolaire : les informations pratiques sur la circulation des bus](https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/nancy/greve-des-transports-en-commun-a-nancy-pour-la-rentree-scolaire-les-informations-pratiques-sur-la-circulation-des-bus-3024878.html)
+Token length: 334
+Summarized using GPT-4o-mini
+Append: [INSOLITE. "Benvengut à bord de cet intercité", un voyage 100% en occitan pour préserver la langue et sauver le train de l'Aubrac](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/insolite-benvengut-a-bord-de-cet-intercite-un-voyage-100-en-occitan-pour-preserver-la-langue-et-sauver-le-train-de-l-aubrac-3023585.html)
+append_entries: 4
+Finish: 2024-09-01 12:36:38.268866

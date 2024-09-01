@@ -2367,3 +2367,15 @@ Summarized using GPT-4o-mini
 Append: [PHOTO. Un loup pris en flagrant délit à la frontière entre la Saône-et-Loire et le Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/photo-un-loup-pris-en-flagrant-delit-a-la-frontiere-entre-la-saone-et-loire-et-le-jura-3024725.html)
 append_entries: 1
 Finish: 2024-09-01 01:31:28.326935
+------------------------------------------------------
+Started: 2024-09-01 12:36:17.424221
+Existing_entries: 305
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 343
+Summarized using GPT-4o-mini
+Append: [Tourisme en Bourgogne-Franche-Comté : plus de visiteurs étrangers et moins de locaux](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/haut-doubs/tourisme-en-bourgogne-franche-comte-plus-de-visiteurs-etrangers-et-moins-de-locaux-3024905.html)
+Token length: 235
+Summarized using GPT-4o-mini
+Append: ["Ce sont nos animaux de compagnie, donc nous sommes inquiets !" : les cas suspects de fièvre catarrhale s'enchaînent dans l'Yonne.](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/ce-sont-nos-animaux-de-compagnie-donc-nous-sommes-inquiets-les-cas-suspects-de-fievre-catarrhale-s-enchainent-dans-l-yonne-3024785.html)
+append_entries: 2
+Finish: 2024-09-01 12:36:23.728373

@@ -4,6 +4,100 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>GIFtube – Convertissez des vidéos YouTube en GIF de haute qualité</title>
+<link>https://korben.info/giftube-convertir-video-youtube-gif-haute-qualite.html</link>
+<guid>https://korben.info/giftube-convertir-video-youtube-gif-haute-qualite.html</guid>
+<content:encoded><![CDATA[
+<div> GIF, animations, YouTube, terminal, script
+
+<br><br>Summary: GIFtube est un script Bash permettant de créer des GIF à partir de vidéos YouTube. Il utilise yt-dlp pour le téléchargement de la vidéo, ffmpeg pour l’encodage et gifsicle pour optimiser le fichier final. Le script s’assure d’installer les dépendances nécessaires pour les utilisateurs d’Ubuntu, Debian ou macOS. Pour l’utiliser, il suffit de télécharger le script depuis GitHub et de se rendre dans le dossier du script via le terminal. Ensuite, il suffit de coller l’URL de la vidéo souhaitée, de spécifier le nombre d’images par seconde (entre 10 et 30), le moment de démarrage en secondes, la durée du GIF, le nom du fichier et la résolution désirée (1080p, 720p, 480p ou 240p). GIFtube télécharge la vidéo, génère une palette de couleurs optimisée, encode le GIF selon vos choix et l’optimise pour réduire sa taille. Cela permet de créer des GIF pour divers usages, comme des répliques de films ou des moments clés d’un tutoriel. Bien que le côté ligne de commande puisse intimider certains, c’est un outil pratique pour les amateurs de GIF. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_word_GIFTube_logo_movie_opening_cinema_studio_MGM_20th_c_1892b08f-8b56-4223-b22a-8d194dabd463.webp" width="1456" /></p>
+<p>Vous êtes un <strong>amateur de GIF</strong> comme moi, et vous aimeriez pouvoir créer vos propres animations à partir de vos vidéos YouTube préférées ? Alors laissez-moi vous présenter <strong><a href="https://github.com/Gords/GIFtube" rel="noopener" target="_blank">GIFtube</a></strong>, un petit script Bash qui permet de choisir précisément la portion de la vidéo que vous voulez transformer, régler la résolution et le nombre d&rsquo;images par seconde, et hop, le tour est joué ! Votre GIF est prêt à être partagé.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-368917892" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Pour faire son job, GIFtube utilise plusieurs outils bien connus des bidouilleurs : <strong>yt-dlp</strong> pour télécharger la vidéo YouTube, <strong>ffmpeg</strong> pour l&rsquo;encodage et la génération du GIF, et <strong>gifsicle</strong> pour l&rsquo;optimisation du fichier final. Et pas besoin d&rsquo;être un champion de la ligne de commande pour utiliser GIFtube puisque le script s&rsquo;occupe d&rsquo;installer lui-même les dépendances nécessaires si elles ne sont pas déjà présentes sur votre système (enfin, seulement si vous êtes sous Ubuntu, Debian ou macOS, pour les autres, va falloir retrousser vos manches).</p>
+
+
+
+<p>Bon, assez parlé, passons à la pratique ! Voici comment utiliser GIFtube :</p>
+
+
+
+<ol class="wp-block-list">
+<li>
+Téléchargez le script sur <strong>https://github.com/Gords/GIFtube</strong> et sauvegardez-le quelque part sur votre ordinateur.
+</li>
+
+
+
+<li>
+Ouvrez un terminal et rendez-vous dans le dossier où se trouve le script. Tapez <code>./make_gif.sh</code> pour le lancer.
+</li>
+
+
+
+<li>
+Quand le script vous le demande, collez l&rsquo;URL de la vidéo YouTube que vous voulez convertir.
+</li>
+
+
+
+<li>
+Indiquez le nombre d&rsquo;images par seconde que vous voulez pour votre GIF. Un chiffre entre 10 et 30 est généralement un bon compromis entre fluidité et taille du fichier.
+</li>
+
+
+
+<li>
+Précisez le moment de la vidéo où vous voulez que le GIF commence, en secondes. Par exemple, si vous voulez démarrer à 1 minute et 30 secondes, tapez 90.
+</li>
+
+
+
+<li>
+Indiquez la durée que vous voulez pour votre GIF, toujours en secondes. 
+</li>
+
+
+
+<li>
+Choisissez un nom pour votre fichier GIF.
+</li>
+
+
+
+<li>
+Enfin, sélectionnez la résolution de votre GIF : 1080p, 720p, 480p ou 240p.
+</li>
+</ol>
+
+
+
+<p>Et voilà, GIFtube s&rsquo;occupe du reste ! Le script va télécharger la vidéo, générer une palette de couleurs optimisée, encoder le GIF selon vos réglages et l&rsquo;optimiser pour réduire sa taille. Quelques instants plus tard, votre GIF est prêt !</p>
+
+
+
+<p>Avec un peu d&rsquo;imagination, les possibilités sont infinies. Vous pouvez par exemple créer des GIF à partir de vos répliques de films préférées pour réagir avec style sur les réseaux sociaux, ou encore capturer les meilleurs moments d&rsquo;un tutoriel vidéo pour l&rsquo;intégrer dans un tutoriel écrit.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2028059757" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Vous l&rsquo;aurez compris, GIFtube est un chouette petit outil à avoir sous la main pour tous les amateurs de GIF. Son côté ligne de commande peut rebuter les moins à l&rsquo;aise avec le terminal, mais moi j&rsquo;aime bien 🙂</p>
+
+
+
+<p>Sur ce, je vous laisse, j&rsquo;ai une subite envie de me refaire l&rsquo;intégrale de Stargate moi. Je sens que je vais avoir besoin de <a href="https://github.com/Gords/GIFtube" rel="noopener" target="_blank">GIFtube</a> pour immortaliser certains moments cultes. </p>
+
+
+
+<p>Allez, à plus et <strong>bon GIF</strong> !</p>
+]]></content:encoded>
+<pubDate>Sun, 01 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 01 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>VxKex – Faites tourner vos applis Windows 8/10 sur Seven !</title>

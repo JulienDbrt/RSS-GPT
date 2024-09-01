@@ -2723,3 +2723,12 @@ Existing_entries: 423
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-01 01:31:05.019432
+------------------------------------------------------
+Started: 2024-09-01 12:35:30.633761
+Existing_entries: 423
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 127
+Summarized using GPT-4o-mini
+Append: [Périphérique à 50 km/h et Éric Ciotti qui lance l'UDR... le "8h30 franceinfo" d'Othman Nasrou](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/peripherique-a-50-km-h-et-eric-ciotti-qui-lance-l-udr-le-8h30-franceinfo-d-othman-nasrou_6756871.html)
+append_entries: 1
+Finish: 2024-09-01 12:35:33.722503

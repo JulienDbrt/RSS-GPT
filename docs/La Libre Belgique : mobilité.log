@@ -2228,3 +2228,9 @@ Summarized using GPT-4o-mini
 Append: [Les contrats des extensions du tram de Liège, pas encore signés ? “Le gouvernement ne pouvait pas procéder autrement”](https://www.lalibre.be/belgique/politique-belge/2024/08/31/les-contrats-des-extensions-du-tram-de-liege-pas-encore-signes-le-gouvernement-ne-pouvait-pas-proceder-autrement-4XZWMAB7FZCO5IWVXFIDHF4SQA/)
 append_entries: 2
 Finish: 2024-09-01 01:32:55.293370
+------------------------------------------------------
+Started: 2024-09-01 12:38:11.006079
+Existing_entries: 278
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-09-01 12:38:11.556663

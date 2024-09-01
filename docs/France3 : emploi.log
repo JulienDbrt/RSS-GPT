@@ -2565,3 +2565,12 @@ Existing_entries: 371
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-09-01 01:31:29.498636
+------------------------------------------------------
+Started: 2024-09-01 12:36:24.104062
+Existing_entries: 371
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 272
+Summarized using GPT-4o-mini
+Append: ["Il n'est plus question de compétitivité, mais de sauvegarde." Inquiétude face à une éventuelle fermeture de l'usine Michelin à Cholet](https://france3-regions.francetvinfo.fr/pays-de-la-loire/maine-et-loire/cholet/il-n-est-plus-question-de-competitivite-mais-de-sauvegarde-inquietude-face-a-une-eventuelle-fermeture-de-l-usine-michelin-a-cholet-3024386.html)
+append_entries: 1
+Finish: 2024-09-01 12:36:26.724500

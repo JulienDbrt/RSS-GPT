@@ -4983,3 +4983,21 @@ Summarized using GPT-4o-mini
 Append: [Nucléaire: la Finlande veut enterrer ses déchets pendant 100.000 ans](https://www.bfmtv.com/economie/entreprises/energie/nucleaire-la-finlande-veut-enterrer-ses-dechets-pendant-100-000-ans_AV-202408310316.html)
 append_entries: 1
 Finish: 2024-09-01 01:30:01.956608
+------------------------------------------------------
+Started: 2024-09-01 12:34:14.086506
+Existing_entries: 1001
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 194
+Summarized using GPT-4o-mini
+Append: ["Courchevel kirghize": une entreprise française conçoit un immense domaine skiable en Asie centrale](https://www.bfmtv.com/economie/entreprises/courchevel-kirghize-une-entreprise-francaise-concoit-un-immense-domaine-skiable-en-asie-centrale_AN-202409010170.html)
+Token length: 108
+Summarized using GPT-4o-mini
+Append: [Vol de Vega, deuxième acte en Europe pour retrouver son autonomie spatiale](https://www.bfmtv.com/economie/entreprises/vol-de-vega-deuxieme-acte-en-europe-pour-retrouver-son-autonomie-spatiale_AD-202409010169.html)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Jusqu'à 277 pages web avant un achat: les consommateurs dépassés par la profusion des offres dans l'aérien](https://www.bfmtv.com/economie/entreprises/transports/jusqu-a-277-pages-web-avant-un-achat-les-consommateurs-depasses-par-la-profusion-des-offres-dans-l-aerien_AN-202409010139.html)
+Token length: 273
+Summarized using GPT-4o-mini
+Append: [Aéroport: la règle des 100ml de liquide dans les bagages cabine finalement maintenue](https://www.bfmtv.com/economie/entreprises/transports/aeroport-la-regle-des-100ml-de-liquide-dans-les-bagages-cabine-finalement-maintenue_VN-202409010104.html)
+append_entries: 4
+Finish: 2024-09-01 12:34:22.631184
