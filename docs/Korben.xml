@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>VxKex – Faites tourner vos applis Windows 8/10 sur Seven !</title>
 <link>https://korben.info/vxkex-faire-tourner-applis-windows-8-10-seven.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Keywords: VxKex, Windows 7, applications, compatibilité, installations
 
-<br><br>Summary: 
+<br /><br />Summary: 
 VxKex est un ensemble d'extensions d'API permettant d'exécuter des applications Windows 8, 8.1 et 10 sur Windows 7. L'outil, facile à utiliser, nécessite simplement le téléchargement et l'installation de la dernière version. Pour lancer un programme, un clic droit sur le fichier .exe ou .msi permet d'activer VxKex via les propriétés. Une liste d'applications compatibles est fournie, incluant des logiciels comme Blender, Spotify, et même des émulateurs. Bien que certains réglages puissent être nécessaires pour des programmes complexes, le fichier « Application Compatibility List.docx » dans le dossier d'installation fournit toutes les informations utiles. VxKex n’endommage pas Windows 7 puisqu'il charge des DLLs sans altérer les fichiers système, assurant ainsi la stabilité de l'OS. La configuration requise est minime : Service Pack 1 et les mises à jour KB2533623 et KB2670838. Les applications en ligne de commande sont également supportées, offrant une expérience utilisateur agréable. Malgré cela, il est conseillé de penser à une mise à jour vers Windows 10 ou 11 pour des raisons de sécurité. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Windows_Seven_Wallpaper_logo_word_VxKex_written_8b239051-0a06-4291-bb67-a22b95da3656.webp" width="1456" /></p>
 <p>Vous êtes un irréductible de <strong>Windows 7</strong>, mais vous lorgniez avec envie sur certaines applications récentes uniquement disponibles pour Windows 8, 8.1 ou 10 ? Pas de stress, avec <strong>VxKex</strong>, vous allez pouvoir les faire tourner sur votre Seven adoré !</p>
@@ -58,9 +59,7 @@ VxKex est un ensemble d'extensions d'API permettant d'exécuter des applications
 <p>Bref, de quoi redonnez un coup de jeune à votre Windows 7 et profitez enfin de toutes ces applications qui vous faisaient de l&rsquo;œil sur Windows 8 et 10 ! Mais bon, n&rsquo;oubliez pas que Windows Seven est quand même un vieux machin et que niveau sécurité, c&rsquo;est pas top&#8230; Donc pensez à mettre à jour vers Windows 11 (ou 10 si vous avez un PC pourri).</p>
 ]]></content:encoded>
 <pubDate>Sat, 31 Aug 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 31 Aug 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Puter – Des navigateurs virtuels instantanés sans inscription</title>
 <link>https://korben.info/cloudtabs-navigateurs-virtuels-instantanes-sans-inscription.html</link>

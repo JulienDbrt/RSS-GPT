@@ -1546,3 +1546,9 @@ Summarized using GPT-4o-mini
 Append: [Des chiffres interpellants: 5 fonctionnaires par jour signalent à la police avoir été agressés ou blessés, voici le profil des victimes](https://www.dhnet.be/conso/travail/2024/08/31/des-chiffres-interpellants-5-fonctionnaires-par-jour-signalent-a-la-police-avoir-ete-agresses-ou-blesses-voici-le-profil-des-victimes-S2E7XPKITRAJDHJLRFYZOTES5M/)
 append_entries: 1
 Finish: 2024-08-31 12:39:40.590921
+------------------------------------------------------
+Started: 2024-09-01 01:32:43.789053
+Existing_entries: 20
+Fetching from https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml
+append_entries: 0
+Finish: 2024-09-01 01:32:44.860426

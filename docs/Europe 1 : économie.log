@@ -2542,3 +2542,12 @@ Summarized using GPT-4o-mini
 Append: [France : l'inflation enfin sous les 2% en août, des incertitudes sur la croissance](https://www.europe1.fr/economie/france-linflation-enfin-sous-les-2-en-aout-des-incertitudes-sur-la-croissance-4264796)
 append_entries: 1
 Finish: 2024-08-31 12:36:32.842254
+------------------------------------------------------
+Started: 2024-09-01 01:30:50.366189
+Existing_entries: 360
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Budget : le ministère de la Transition écologique s'oppose à certaines économies](https://www.europe1.fr/economie/budget-le-ministere-de-la-transition-ecologique-soppose-a-certaines-economies-4264881)
+append_entries: 1
+Finish: 2024-09-01 01:30:53.724403

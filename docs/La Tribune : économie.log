@@ -5866,3 +5866,15 @@ Summarized using GPT-4o-mini
 Append: [Croissance, emploi, chômage : l'automne de tous les dangers](https://www.latribune.fr/economie/france/croissance-emploi-chomage-l-automne-de-tous-les-dangers-1005201.html)
 append_entries: 3
 Finish: 2024-08-31 12:40:02.750538
+------------------------------------------------------
+Started: 2024-09-01 01:32:55.858253
+Existing_entries: 1003
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 199
+Summarized using GPT-4o-mini
+Append: [LFI appelle les parlementaires à destituer Macron](https://www.latribune.fr/economie/france/lfi-appelle-les-parlementaires-a-destituer-macron-1005267.html)
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [Ciotti veut transformer LR en Union des droites pour la République (UDR)](https://www.latribune.fr/economie/france/ciotti-veut-transformer-lr-en-union-des-droites-pour-la-republique-udr-1005227.html)
+append_entries: 2
+Finish: 2024-09-01 01:32:59.827903

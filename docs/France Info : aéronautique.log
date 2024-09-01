@@ -1730,3 +1730,9 @@ Summarized using GPT-4o-mini
 Append: [Avions Rafale : la vente à la Serbie interroge](https://www.francetvinfo.fr/economie/aeronautique/rafale/avions-rafale-la-vente-a-la-serbie-interroge_6755296.html)
 append_entries: 1
 Finish: 2024-08-31 12:37:02.797381
+------------------------------------------------------
+Started: 2024-09-01 01:31:03.240021
+Existing_entries: 88
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-09-01 01:31:03.404418

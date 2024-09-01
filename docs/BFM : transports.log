@@ -2351,3 +2351,9 @@ Summarized using GPT-4o-mini
 Append: [TER: pourquoi des trains sont affichés "complets" alors qu'ils ne le sont pas?](https://www.bfmtv.com/economie/entreprises/transports/ter-pourquoi-des-trains-sont-affiches-complets-alors-qu-ils-ne-le-sont-pas_VN-202408310077.html)
 append_entries: 2
 Finish: 2024-08-31 12:36:00.940551
+------------------------------------------------------
+Started: 2024-09-01 01:30:32.208212
+Existing_entries: 305
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-09-01 01:30:32.495642

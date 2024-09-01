@@ -4974,3 +4974,12 @@ Summarized using GPT-4o-mini
 Append: [TER: pourquoi des trains sont affichés "complets" alors qu'ils ne le sont pas?](https://www.bfmtv.com/economie/entreprises/transports/ter-pourquoi-des-trains-sont-affiches-complets-alors-qu-ils-ne-le-sont-pas_VN-202408310077.html)
 append_entries: 4
 Finish: 2024-08-31 12:35:23.515676
+------------------------------------------------------
+Started: 2024-09-01 01:29:59.186487
+Existing_entries: 1004
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Nucléaire: la Finlande veut enterrer ses déchets pendant 100.000 ans](https://www.bfmtv.com/economie/entreprises/energie/nucleaire-la-finlande-veut-enterrer-ses-dechets-pendant-100-000-ans_AV-202408310316.html)
+append_entries: 1
+Finish: 2024-09-01 01:30:01.956608

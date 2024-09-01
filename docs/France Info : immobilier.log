@@ -1799,3 +1799,9 @@ Summarized using GPT-4o-mini
 Append: [Un an après la loi "anti-squat", le nombre d'expulsions dans les logements français a plus que triplé](https://www.francetvinfo.fr/economie/immobilier/un-an-apres-la-loi-anti-squat-le-nombre-d-expulsions-dans-les-logements-francais-a-plus-que-triple_6754270.html)
 append_entries: 2
 Finish: 2024-08-31 12:37:10.150139
+------------------------------------------------------
+Started: 2024-09-01 01:31:04.205664
+Existing_entries: 111
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-01 01:31:04.397211

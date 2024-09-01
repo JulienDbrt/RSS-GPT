@@ -2216,3 +2216,15 @@ Summarized using GPT-4o-mini
 Append: [Le chantier d'extension du tram de Liège à ranger dans la catégorie des grands travaux inutiles? C’est malheureusement loin d’être le seul cas](https://www.lalibre.be/belgique/mobilite/2024/08/31/le-chantier-dextension-du-tram-de-liege-a-ranger-dans-la-categorie-des-grands-travaux-inutiles-cest-malheureusement-loin-detre-le-seul-cas-EZW67XGWOFFK5K2FPOWVE2GOXM/)
 append_entries: 1
 Finish: 2024-08-31 12:39:52.459246
+------------------------------------------------------
+Started: 2024-09-01 01:32:49.724536
+Existing_entries: 276
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 55
+Summarized using GPT-4o-mini
+Append: [Panne à Liège-Guillemins: la circulation reprend mais des retards résiduels sont attendus](https://www.lalibre.be/belgique/mobilite/2024/08/31/le-trafic-ferroviaire-interrompu-a-liege-guillemins-B6Z2NYE5NJAK7AOYXCLKARA7DE/)
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [Les contrats des extensions du tram de Liège, pas encore signés ? “Le gouvernement ne pouvait pas procéder autrement”](https://www.lalibre.be/belgique/politique-belge/2024/08/31/les-contrats-des-extensions-du-tram-de-liege-pas-encore-signes-le-gouvernement-ne-pouvait-pas-proceder-autrement-4XZWMAB7FZCO5IWVXFIDHF4SQA/)
+append_entries: 2
+Finish: 2024-09-01 01:32:55.293370
