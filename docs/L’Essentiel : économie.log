@@ -2584,3 +2584,15 @@ Summarized using GPT-4o-mini
 Append: [Piège à touristes: À Lisbonne, les touristes paient le prix fort](https://www.lessentiel.lu/fr/story/piege-a-touristes-a-lisbonne-les-touristes-paient-le-prix-fort-103178290)
 append_entries: 1
 Finish: 2024-09-02 01:21:18.965559
+------------------------------------------------------
+Started: 2024-09-02 12:43:58.546400
+Existing_entries: 420
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 125
+Summarized using GPT-4o-mini
+Append: [Au Luxembourg: La date d'ouverture du premier KFC est connue](https://www.lessentiel.lu/fr/story/au-luxembourg-la-date-d-ouverture-du-premier-kfc-est-connue-103178782)
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Économie au Luxembourg: Bram va célébrer son demi-siècle sur fond d'incertitude](https://www.lessentiel.lu/fr/story/economie-au-luxembourg-bram-va-celebrer-son-demi-siecle-sur-fond-d-incertitude-103178417)
+append_entries: 2
+Finish: 2024-09-02 12:44:05.228763

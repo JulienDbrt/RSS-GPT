@@ -5010,3 +5010,18 @@ Summarized using GPT-4o-mini
 Append: [Aéroport: la règle des 100ml de liquide dans les bagages cabine finalement maintenue](https://www.bfmtv.com/economie/entreprises/transports/aeroport-la-regle-des-100ml-de-liquide-dans-les-bagages-cabine-finalement-maintenue_VN-202409010392.html)
 append_entries: 1
 Finish: 2024-09-02 01:19:56.120969
+------------------------------------------------------
+Started: 2024-09-02 12:40:39.740923
+Existing_entries: 1001
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 93
+Summarized using GPT-4o-mini
+Append: ["Un bruit étrange": encore un problème pour la capsule spatiale Starliner de Boeing](https://www.bfmtv.com/economie/entreprises/aeronautique/un-bruit-etrange-encore-un-probleme-pour-la-capsule-spatiale-starliner-de-boeing_AV-202409020532.html)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [Moteur en feu à l'atterrissage: nouvel incident sérieux pour un avion ATR](https://www.bfmtv.com/economie/entreprises/aeronautique/moteur-en-feu-a-l-atterrissage-nouvel-incident-serieux-pour-un-avion-atr_AV-202409020516.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Rentrée: faut-il souscrire une assurance scolaire?](https://www.bfmtv.com/economie/entreprises/assurance-banque/rentree-faut-il-souscrire-a-une-assurance-scolaire_AV-202409020061.html)
+append_entries: 3
+Finish: 2024-09-02 12:40:51.507333

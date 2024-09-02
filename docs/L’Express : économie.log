@@ -2845,3 +2845,12 @@ Summarized using GPT-4o-mini
 Append: ["Le Bureau des légendes" : les (très) bonnes recettes d’une série à succès](https://www.lexpress.fr/societe/le-bureau-des-legendes-la-serie-devenue-une-marque-les-dessous-dun-incroyable-jackpot-Y4HV6NZ2C5BWTBXJHUZ25QVDXY/)
 append_entries: 2
 Finish: 2024-09-02 01:21:25.781108
+------------------------------------------------------
+Started: 2024-09-02 12:44:06.183687
+Existing_entries: 507
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 5623
+Summarized using GPT-4o-mini
+Append: [Produire en France : un projet de société transpartisan, par Gilles Attaf et Laurent Moisson](https://www.lexpress.fr/economie/politique-economique/produire-en-france-un-projet-de-societe-transpartisan-par-gilles-attaf-et-laurent-moisson-KZJOJAMFPJDBTORO5MRQEVJZXU/)
+append_entries: 1
+Finish: 2024-09-02 12:44:10.857503

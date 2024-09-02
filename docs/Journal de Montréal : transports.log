@@ -2268,3 +2268,9 @@ Summarized using GPT-4o-mini
 Append: [Des passagers coincés pendant 14 heures dans un train de VIA Rail sans eau potable et sans électricité](https://www.journaldemontreal.com/2024/09/01/des-passagers-coinces-pendant-14-heures-dans-un-train-de-via-rail-sans-eau-potable-et-sans-electricite)
 append_entries: 1
 Finish: 2024-09-02 01:21:09.779724
+------------------------------------------------------
+Started: 2024-09-02 12:43:47.531574
+Existing_entries: 258
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-02 12:43:47.643633

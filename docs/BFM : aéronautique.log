@@ -1971,3 +1971,15 @@ Existing_entries: 169
 Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
 append_entries: 0
 Finish: 2024-09-02 01:19:50.461104
+------------------------------------------------------
+Started: 2024-09-02 12:40:18.705139
+Existing_entries: 169
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+Token length: 93
+Summarized using GPT-4o-mini
+Append: ["Un bruit étrange": encore un problème pour la capsule spatiale Starliner de Boeing](https://www.bfmtv.com/economie/entreprises/aeronautique/un-bruit-etrange-encore-un-probleme-pour-la-capsule-spatiale-starliner-de-boeing_AV-202409020532.html)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [Moteur en feu à l'atterrissage: nouvel incident sérieux pour un avion ATR](https://www.bfmtv.com/economie/entreprises/aeronautique/moteur-en-feu-a-l-atterrissage-nouvel-incident-serieux-pour-un-avion-atr_AV-202409020516.html)
+append_entries: 2
+Finish: 2024-09-02 12:40:23.743824
