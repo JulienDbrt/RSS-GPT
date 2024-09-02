@@ -5875,3 +5875,18 @@ Existing_entries: 1001
 Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
 append_entries: 0
 Finish: 2024-09-01 12:33:33.545643
+------------------------------------------------------
+Started: 2024-09-02 01:19:29.013153
+Existing_entries: 1000
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 10
+Summarized using GPT-4o-mini
+Append: [Manifeste "Le pouvoir de l’engagement"](https://medef-corse.com/fr/actualite-nationale/manifeste-le-pouvoir-de-lengagement)
+Token length: 308
+Summarized using GPT-4o-mini
+Append: [Le Cap Corse à l’heure des vendanges](https://france3-regions.francetvinfo.fr/corse/haute-corse/le-cap-corse-a-l-heure-des-vendanges-3024860.html)
+Token length: 268
+Summarized using GPT-4o-mini
+Append: [LaPhotoDHublot](https://www.facebook.com/204309342152891/posts/527683709815451)
+append_entries: 3
+Finish: 2024-09-02 01:19:34.710299

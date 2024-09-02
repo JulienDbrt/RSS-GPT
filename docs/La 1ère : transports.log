@@ -2527,3 +2527,21 @@ Existing_entries: 343
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
 append_entries: 0
 Finish: 2024-09-01 12:37:10.178549
+------------------------------------------------------
+Started: 2024-09-02 01:21:51.623927
+Existing_entries: 343
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 155
+Summarized using GPT-4o-mini
+Append: ["Enfin !" : en Nouvelle-Calédonie, les bus interurbains du Raï reprennent la route sur la Grande terre](https://la1ere.francetvinfo.fr/nouvellecaledonie/enfin-en-nouvelle-caledonie-les-bus-interurbains-du-rai-reprennent-la-route-sur-la-grande-terre-1518323.html)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Weekend tragique à Wallis, une femme meurt noyée après le chavirage d'un taxi-boat](https://la1ere.francetvinfo.fr/wallisfutuna/weekend-tragique-a-wallis-une-femme-meurt-noyee-apres-le-chavirage-d-un-taxi-boat-1518050.html)
+Token length: 20
+Summarized using GPT-4o-mini
+Append: [Mobilisation contre la vie chère en Martinique : le réseau de transport du Centre à l'arrêt ce dimanche](https://la1ere.francetvinfo.fr/martinique/mobilisation-contre-la-vie-chere-en-martinique-le-reseau-de-transport-du-centre-a-l-arret-ce-dimanche-1518263.html)
+Token length: 34
+Summarized using GPT-4o-mini
+Append: [Transport aérien : le trafic passager à l'aéroport Guadeloupe Pôle Caraïbes en baisse de 2,7% en juillet](https://la1ere.francetvinfo.fr/guadeloupe/transport-aerien-le-trafic-passager-a-l-aeroport-guadeloupe-pole-caraibes-en-baisse-de-2-7-en-juillet-1518191.html)
+append_entries: 4
+Finish: 2024-09-02 01:22:02.186695

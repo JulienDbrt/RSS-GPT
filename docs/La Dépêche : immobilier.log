@@ -1930,3 +1930,9 @@ Summarized using GPT-4o-mini
 Append: [Caudecoste. La mairie a fait peau neuve](https://www.ladepeche.fr/2024/09/01/la-mairie-a-fait-peau-neuve-12170139.php)
 append_entries: 1
 Finish: 2024-09-01 12:38:02.764452
+------------------------------------------------------
+Started: 2024-09-02 01:22:28.145914
+Existing_entries: 154
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-02 01:22:28.616094

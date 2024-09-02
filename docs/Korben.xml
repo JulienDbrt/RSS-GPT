@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>GIFtube – Convertissez des vidéos YouTube en GIF de haute qualité</title>
 <link>https://korben.info/giftube-convertir-video-youtube-gif-haute-qualite.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> GIF, animations, YouTube, terminal, script
 
-<br><br>Summary: GIFtube est un script Bash permettant de créer des GIF à partir de vidéos YouTube. Il utilise yt-dlp pour le téléchargement de la vidéo, ffmpeg pour l’encodage et gifsicle pour optimiser le fichier final. Le script s’assure d’installer les dépendances nécessaires pour les utilisateurs d’Ubuntu, Debian ou macOS. Pour l’utiliser, il suffit de télécharger le script depuis GitHub et de se rendre dans le dossier du script via le terminal. Ensuite, il suffit de coller l’URL de la vidéo souhaitée, de spécifier le nombre d’images par seconde (entre 10 et 30), le moment de démarrage en secondes, la durée du GIF, le nom du fichier et la résolution désirée (1080p, 720p, 480p ou 240p). GIFtube télécharge la vidéo, génère une palette de couleurs optimisée, encode le GIF selon vos choix et l’optimise pour réduire sa taille. Cela permet de créer des GIF pour divers usages, comme des répliques de films ou des moments clés d’un tutoriel. Bien que le côté ligne de commande puisse intimider certains, c’est un outil pratique pour les amateurs de GIF. <div>
+<br /><br />Summary: GIFtube est un script Bash permettant de créer des GIF à partir de vidéos YouTube. Il utilise yt-dlp pour le téléchargement de la vidéo, ffmpeg pour l’encodage et gifsicle pour optimiser le fichier final. Le script s’assure d’installer les dépendances nécessaires pour les utilisateurs d’Ubuntu, Debian ou macOS. Pour l’utiliser, il suffit de télécharger le script depuis GitHub et de se rendre dans le dossier du script via le terminal. Ensuite, il suffit de coller l’URL de la vidéo souhaitée, de spécifier le nombre d’images par seconde (entre 10 et 30), le moment de démarrage en secondes, la durée du GIF, le nom du fichier et la résolution désirée (1080p, 720p, 480p ou 240p). GIFtube télécharge la vidéo, génère une palette de couleurs optimisée, encode le GIF selon vos choix et l’optimise pour réduire sa taille. Cela permet de créer des GIF pour divers usages, comme des répliques de films ou des moments clés d’un tutoriel. Bien que le côté ligne de commande puisse intimider certains, c’est un outil pratique pour les amateurs de GIF. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_word_GIFTube_logo_movie_opening_cinema_studio_MGM_20th_c_1892b08f-8b56-4223-b22a-8d194dabd463.webp" width="1456" /></p>
 <p>Vous êtes un <strong>amateur de GIF</strong> comme moi, et vous aimeriez pouvoir créer vos propres animations à partir de vos vidéos YouTube préférées ? Alors laissez-moi vous présenter <strong><a href="https://github.com/Gords/GIFtube" rel="noopener" target="_blank">GIFtube</a></strong>, un petit script Bash qui permet de choisir précisément la portion de la vidéo que vous voulez transformer, régler la résolution et le nombre d&rsquo;images par seconde, et hop, le tour est joué ! Votre GIF est prêt à être partagé.</p>
 
@@ -96,9 +97,7 @@ Enfin, sélectionnez la résolution de votre GIF : 1080p, 720p, 480p ou 240p.
 <p>Allez, à plus et <strong>bon GIF</strong> !</p>
 ]]></content:encoded>
 <pubDate>Sun, 01 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Sun, 01 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>VxKex – Faites tourner vos applis Windows 8/10 sur Seven !</title>
 <link>https://korben.info/vxkex-faire-tourner-applis-windows-8-10-seven.html</link>

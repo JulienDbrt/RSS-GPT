@@ -2719,3 +2719,9 @@ Summarized using GPT-4o-mini
 Append: [La factrice tient également le bureau de poste de Barcelonne-du-Gers](https://www.ladepeche.fr/2024/09/01/la-factrice-tient-egalement-le-bureau-de-poste-de-barcelonne-du-gers-12170092.php)
 append_entries: 2
 Finish: 2024-09-01 12:37:59.466563
+------------------------------------------------------
+Started: 2024-09-02 01:22:27.333250
+Existing_entries: 417
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-09-02 01:22:28.060634
