@@ -2394,3 +2394,9 @@ Summarized using GPT-4o-mini
 Append: ["Plus de 10 000 euros de rénovation" : l'aérodrome s'alarme de l'occupation de 500 caravanes, le maire veut porter plainte](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/plus-de-10-000-euros-de-renovation-l-aerodrome-s-alarme-de-l-occupation-de-500-caravanes-le-maire-veut-porter-plainte-3025088.html)
 append_entries: 1
 Finish: 2024-09-02 12:43:21.047623
+------------------------------------------------------
+Started: 2024-09-03 01:23:31.688780
+Existing_entries: 308
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-09-03 01:23:31.858796

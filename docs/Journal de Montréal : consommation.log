@@ -2047,3 +2047,12 @@ Existing_entries: 181
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-09-02 12:43:47.400837
+------------------------------------------------------
+Started: 2024-09-03 01:23:51.764445
+Existing_entries: 181
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [Fête du travail: ouvert ou fermé?](https://www.journaldemontreal.com/2024/08/28/fete-du-travail-ouvert-ou-ferme)
+append_entries: 1
+Finish: 2024-09-03 01:23:54.680545

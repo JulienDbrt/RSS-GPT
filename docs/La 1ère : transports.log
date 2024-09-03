@@ -2560,3 +2560,9 @@ Summarized using GPT-4o-mini
 Append: [La province Sud ferme temporairement ses services à l'île des Pins en raison de "l'insécurité croissante"](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/ile-pins/la-province-sud-ferme-temporairement-ses-services-a-l-ile-des-pins-en-raison-de-l-insecurite-croissante-1518374.html)
 append_entries: 3
 Finish: 2024-09-02 12:44:44.493045
+------------------------------------------------------
+Started: 2024-09-03 01:24:45.500064
+Existing_entries: 350
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-09-03 01:24:45.552834

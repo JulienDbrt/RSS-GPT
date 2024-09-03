@@ -2749,3 +2749,15 @@ Summarized using GPT-4o-mini
 Append: [Le gouvernement britannique a entendu la colère des fans d'Oasis](https://www.20min.ch/fr/story/royaume-uni-le-gouvernement-britannique-a-entendu-la-colere-des-fans-d-oasis-103178808)
 append_entries: 1
 Finish: 2024-09-02 12:39:13.815482
+------------------------------------------------------
+Started: 2024-09-03 01:18:44.707811
+Existing_entries: 453
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Ils demandent des augmentations de salaire allant jusqu'à 5%](https://www.20min.ch/fr/story/economie-suisse-les-syndicats-demandent-des-augmentations-de-salaire-jusqu-a-5-103178777)
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Volkswagen envisage de fermer des usines en Allemagne](https://www.20min.ch/fr/story/allemagne-volkswagen-envisage-de-fermer-des-usines-103178875)
+append_entries: 2
+Finish: 2024-09-03 01:18:52.347275

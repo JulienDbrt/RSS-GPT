@@ -2731,3 +2731,15 @@ Existing_entries: 417
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-09-02 12:45:27.483872
+------------------------------------------------------
+Started: 2024-09-03 01:25:25.527708
+Existing_entries: 417
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [Toulouse : zoom dans les deux collèges ouverts cette année qui expérimentent la "pause numérique", la confiscation du portable à l’entrée de l’établissement](https://www.ladepeche.fr/2024/09/02/toulouse-zoom-dans-les-deux-colleges-ouverts-cette-annee-qui-experimentent-la-pause-numerique-la-confiscation-du-portable-a-lentree-de-letablissement-12172501.php)
+Token length: 65
+Summarized using GPT-4o-mini
+Append: [Patrick Lecuyer nouveau directeur de l’emploi, du travail et des solidarités en Haute-Garonne](https://www.ladepeche.fr/2024/09/02/patrick-lecuyer-nouveau-directeur-de-lemploi-du-travail-et-des-solidarites-en-haute-garonne-12172182.php)
+append_entries: 2
+Finish: 2024-09-03 01:25:32.536873

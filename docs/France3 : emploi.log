@@ -2592,3 +2592,18 @@ Summarized using GPT-4o-mini
 Append: [Rentrée des classes : on vous explique pourquoi il y a encore tant de postes de profs à pourvoir dans les collèges et lycées](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/rentree-des-classes-on-vous-explique-pourquoi-il-y-a-encore-tant-de-postes-de-profs-a-pourvoir-dans-les-colleges-et-lycee-3024365.html)
 append_entries: 2
 Finish: 2024-09-02 12:43:28.413480
+------------------------------------------------------
+Started: 2024-09-03 01:23:32.410231
+Existing_entries: 374
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 278
+Summarized using GPT-4o-mini
+Append: [Duralex en pleine renaissance, les nouvelles stratégies ambitieuses des salariés pour redynamiser l'entreprise emblématique](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/duralex-en-pleine-renaissance-les-nouvelles-strategies-ambitieuses-des-salaries-pour-redynamiser-l-entreprise-emblematique-3025721.html)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: [Vingt ans après le meurtre de deux inspecteurs du travail, la profession redoute un nouveau drame](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/bergerac/vingt-ans-apres-le-meurtre-de-deux-inspecteurs-du-travail-la-profession-redoute-un-nouveau-drame-3025511.html)
+Token length: 293
+Summarized using GPT-4o-mini
+Append: [Suicide de Magali Darros : le procès des harceleurs présumés reporté à mars 2025, la famille "pleure cette décision de renvoi"](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/suicide-de-magali-darros-le-proces-des-harceleurs-presumes-reporte-a-mars-2025-la-famille-pleure-cette-decision-de-renvoi-3025502.html)
+append_entries: 3
+Finish: 2024-09-03 01:23:42.962802
