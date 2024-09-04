@@ -5981,3 +5981,12 @@ Append: [Transports     Tableau récapitulatif des statistiques passagers des A�
 Append: [En Corse, après un mois de juillet décevant, la fréquentation des aéroports en légère hausse en août](https://france3-regions.francetvinfo.fr/corse/en-corse-apres-un-mois-de-juillet-decevant-la-frequentation-des-aeroports-en-legere-hausse-en-aout-3025613.html)
 append_entries: 23
 Finish: 2024-09-04 01:20:19.433047
+------------------------------------------------------
+Started: 2024-09-04 12:38:51.898538
+Existing_entries: 1023
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+Token length: 372
+Summarized using GPT-4o-mini
+Append: [La ville n’a pas une, mais plusieurs centralités  , Laurent Tirot (FPI Côte d’Azur Corse)](https://region-sud.latribune.fr/economie/2024-09-04/la-ville-n-a-pas-une-mais-plusieurs-centralites-laurent-tirot-fpi-cote-d-azur-corse-1005546.html)
+append_entries: 1
+Finish: 2024-09-04 12:38:56.181761

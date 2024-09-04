@@ -2479,3 +2479,15 @@ Summarized using GPT-4o-mini
 Append: [1.000 candidatures pour un studio: pourquoi trouver un logement à louer devient mission impossible](https://www.bfmtv.com/immobilier/location/1-000-candidatures-pour-un-studio-pourquoi-trouver-un-logement-a-louer-devient-mission-impossible_AV-202409030437.html)
 append_entries: 2
 Finish: 2024-09-04 01:23:30.823207
+------------------------------------------------------
+Started: 2024-09-04 12:42:21.051333
+Existing_entries: 345
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 86
+Summarized using GPT-4o-mini
+Append: [Arnaques: la Banque de France alerte sur les fausse offres de prêt immobilier](https://www.bfmtv.com/immobilier/arnaques-la-banque-de-france-alerte-sur-les-fausse-offres-de-pret-immobilier_AV-202409040540.html)
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [En Guyane, le casse-tête du relogement après l'incendie d'un bidonville de Cayenne](https://www.bfmtv.com/immobilier/villes/outre-mer/en-guyane-le-casse-tete-du-relogement-apres-l-incendie-d-un-bidonville-de-cayenne_AD-202409040441.html)
+append_entries: 2
+Finish: 2024-09-04 12:42:27.172387

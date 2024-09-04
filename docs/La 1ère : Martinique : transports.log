@@ -1630,3 +1630,9 @@ Summarized using GPT-4o-mini
 Append: [Des barrages érigés sur avenue Maurice Bishop à Sainte-Thérèse perturbent la circulation](https://la1ere.francetvinfo.fr/martinique/des-barrages-eriges-sur-avenue-maurice-bishop-a-sainte-therese-perturbent-la-circulation-1518716.html)
 append_entries: 1
 Finish: 2024-09-04 01:29:17.438404
+------------------------------------------------------
+Started: 2024-09-04 12:47:05.327897
+Existing_entries: 36
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss?r=martinique
+append_entries: 0
+Finish: 2024-09-04 12:47:05.471518

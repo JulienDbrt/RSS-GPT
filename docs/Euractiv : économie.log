@@ -2039,3 +2039,15 @@ Summarized using GPT-4o-mini
 Append: [Des retards de paiement menacent la relance post-Covid, prévient la Cour des comptes européenne](https://www.euractiv.fr/section/economie/news/des-retards-de-paiement-menacent-la-relance-post-covid-previent-la-cour-des-comptes-europeenne/)
 append_entries: 1
 Finish: 2024-09-04 01:24:25.558918
+------------------------------------------------------
+Started: 2024-09-04 12:43:08.154134
+Existing_entries: 199
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 240
+Summarized using GPT-4o-mini
+Append: [Le plus grand syndicat industriel de l’UE alerte sur la situation de l’industrie verte en Europe](https://www.euractiv.fr/section/economie/interview/le-plus-grand-syndicat-industriel-de-lue-alerte-sur-la-situation-de-lindustrie-verte-en-europe/)
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [Mario Draghi présente son rapport tant attendu sur l’avenir de la compétitivité de l’UE](https://www.euractiv.fr/section/economie/news/mario-draghi-presente-son-rapport-tant-attendu-sur-lavenir-de-la-competitivite-de-lue/)
+append_entries: 2
+Finish: 2024-09-04 12:43:15.055309

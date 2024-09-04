@@ -2783,3 +2783,18 @@ Summarized using GPT-4o-mini
 Append: [Prix du carburant : à 1,60 euro le litre, le gazole retrouve son cours d'avant la guerre en Ukraine](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/prix-du-carburant-a-1-60-euro-le-litre-le-gazole-retrouve-son-cours-d-avant-la-guerre-en-ukraine_6746356.html)
 append_entries: 5
 Finish: 2024-09-04 01:25:33.577362
+------------------------------------------------------
+Started: 2024-09-04 12:44:06.935047
+Existing_entries: 433
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 190
+Summarized using GPT-4o-mini
+Append: [Mobilité : bras de fer entre Valérie Pécresse et Anne Hidalgo sur l'accessibilité des transports en commun à Paris](https://www.francetvinfo.fr/replay-radio/le-brief-politique/mobilite-bras-de-fer-entre-valerie-pecresse-et-anne-hidalgo-sur-l-accessibilite-des-transports-en-commun-a-paris_6734871.html)
+Token length: 89
+Summarized using GPT-4o-mini
+Append: [Billets Ouigo à prix cassés : la Fnaut dénonce "un joli coup de communication"](https://www.francetvinfo.fr/economie/transports/sncf/billets-ouigo-a-prix-casses-la-fnaut-denonce-un-joli-coup-de-communication_6762280.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Paris 2024 : "Je pense que les images de Paris ont donné envie au monde entier de venir", déclare la directrice générale d'Air France](https://www.francetvinfo.fr/replay-radio/l-interview-eco/paris-2024-je-pense-que-les-images-de-paris-ont-donne-envie-au-monde-entier-de-venir-declare-la-directrice-generale-d-air-france_6746398.html)
+append_entries: 3
+Finish: 2024-09-04 12:44:15.482709

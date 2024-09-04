@@ -2409,3 +2409,12 @@ Summarized using GPT-4o-mini
 Append: [RATP : avec la fin des Jeux Olympiques, le retour du ticket de métro à 2,15 euros](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ratp-avec-la-fin-des-jeux-olympiques-le-retour-du-ticket-de-metro-a-2-15-euros-3025874.html)
 append_entries: 4
 Finish: 2024-09-04 01:26:34.266221
+------------------------------------------------------
+Started: 2024-09-04 12:45:06.206734
+Existing_entries: 309
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 311
+Summarized using GPT-4o-mini
+Append: [Pernod Ricard nouveau sponsor du PSG, ça ne plaît pas à tout le monde](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/pernod-ricard-nouveau-sponsor-du-psg-ca-ne-plait-pas-a-tout-le-monde-3026630.html)
+append_entries: 1
+Finish: 2024-09-04 12:45:10.251089

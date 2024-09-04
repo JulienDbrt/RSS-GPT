@@ -5,13 +5,112 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Quill – L’éditeur WYSIWYG nouvelle génération</title>
+<link>https://korben.info/quill-lediteur-wysiwyg-nouvelle-generation.html</link>
+<guid>https://korben.info/quill-lediteur-wysiwyg-nouvelle-generation.html</guid>
+<content:encoded><![CDATA[
+<div> Quill, éditeurs de texte riche, JavaScript, API, personnalisation  
+
+<br><br>Summary:  
+Quill est une bibliothèque JavaScript puissante pour créer des éditeurs de texte riche (WYSIWYG), permettant bien plus que du simple gras ou italique. Elle offre une expérience d’édition solide grâce à une API intuitive, permettant aux développeurs de prendre rapidement en main l’outil. Par exemple, en quelques lignes de code, il est possible de créer un éditeur stylé avec une barre d'outils. Quill gère facilement le JSON, facilitant ainsi le stockage et le traitement des contenus. Sa force réside également dans sa capacité à être étendu et personnalisé, permettant d'ajouter des fonctionnalités variées via des modules. Un exemple pratique est la création d’un format pour colorer la syntaxe dans des blocs de code. Bien qu'il y ait une petite courbe d'apprentissage pour comprendre la structure de Quill, manuellement, avec toutes ses options. En plus, Quill est compatible avec tous les navigateurs modernes, garantissant une expérience utilisateur homogène sur desktop et mobile. Pour tous ceux à la recherche d’un éditeur pour des projets web, Quill est fortement recommandé. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_WYSIWYG_editor__logo_word_Quill_00324637-6d48-449b-bb15-0e52da2d0e23.webp" width="1456" /></p>
+<p><strong><a href="https://quilljs.com/" rel="noopener" target="_blank">Quill</a></strong> est une bibliothèque JavaScript de folie pour créer des éditeurs de texte riche (WYSIWYG). Et quand je dis riche, c&rsquo;est pas seulement du gras et de l&rsquo;italique hein, on est sur un niveau au-dessus !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1679571850" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>En gros, Quill vous offre tout un tas d&rsquo;outils pour transformer vos champs de texte tout moisis en une expérience d&rsquo;édition de folie furieuse. Le truc cool, c&rsquo;est que c&rsquo;est pensé pour les développeurs, donc vous avez un contrôle total sur le contenu et les fonctionnalités.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159603" height="405" src="https://korben.info/app/uploads/2024/04/SCR-20240420-dub.webp" width="869" /></figure></div>
+
+
+<p>Ce qui fait la force de Quill, c&rsquo;est son <strong>API hyper intuitive</strong>. Pas besoin de se taper 3 jours de doc pour comprendre comment ça marche. En quelques lignes de code, vous pouvez déjà faire des trucs sympas. Tenez, regardez ça :</p>
+
+
+
+<pre class="wp-block-code"><code>const quill = new Quill('#editor', {
+  modules: {
+    toolbar: true  
+  },
+  theme: 'snow'
+});</code></pre>
+
+
+
+<p>Et bam, avec ça vous avez déjà un éditeur stylé avec une toolbar, prêt à l&#8217;emploi ! C&rsquo;est pas beau ça ? En plus, Quill gère directement le <strong>JSON</strong> en entrée et en sortie, ce qui vous facilite grave la vie pour stocker et traiter le contenu ensuite.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159602" height="505" src="https://korben.info/app/uploads/2024/04/SCR-20240420-dul-1.webp" width="830" /></figure></div>
+
+
+<p>Ce qui est vraiment cool avec Quill, c&rsquo;est que vous pouvez <strong>étendre et personnaliser</strong> votre éditeur à l&rsquo;infini. Vous voulez ajouter des formats chelous, des effets funky ou même intégrer des contenus interactifs ? Pas de soucis, Quill vous laisse faire tout ce que vous voulez.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1992299301" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Vous pouvez même créer vos propres modules pour ajouter des features de malade. Genre si vous avez besoin d&rsquo;un éditeur d&rsquo;équations mathématiques ? Hop, vous chopez le module sur npm et vous l&rsquo;intégrez en deux-deux. Besoin d&rsquo;un truc pour gérer des sondages? Pareil, y&rsquo;a sûrement un module pour ça. C&rsquo;est ça qui est génial avec l&rsquo;écosystème de Quill!</p>
+
+
+
+<p>Tiens d&rsquo;ailleurs, laissez-moi te montrer un truc fun qu&rsquo;on peut faire. On va créer un format custom pour mettre en forme du code source directement dans l&rsquo;éditeur. Pour ça, on va créer un module qui va détecter les blocs de code et leur appliquer la coloration syntaxique.</p>
+
+
+
+<pre class="wp-block-code"><code>import Quill from 'quill';
+import Highlight from 'highlight.js';
+
+const CodeBlock = Quill.import('formats/code-block');
+
+class SyntaxCodeBlock extends CodeBlock {
+  static create(value) {
+    const domNode = super.create(value);
+    domNode.innerHTML = Highlight.highlightAuto(value).value;
+    return domNode;
+  }
+}
+
+Quill.register(SyntaxCodeBlock, 'code-block', true);</code></pre>
+
+
+
+<p>Là en gros, on crée une nouvelle classe <code>SyntaxCodeBlock</code> qui étend le format <code>code-block</code> de base. Dans la méthode <code>create</code>, on récupère le noeud créé par la classe parente et on remplace son contenu avec le code coloré par Highlight.js. Ensuite, on n&rsquo;a plus qu&rsquo;à enregistrer notre nouveau format custom dans Quill et pouf, on peut mettre en forme du code directement dans l&rsquo;éditeur!</p>
+
+
+
+<p>C&rsquo;est juste un exemple hein, mais ça montre bien la puissance et la flexibilité de Quill. Et puis c&rsquo;est hyper fun de pouvoir bidouiller son éditeur comme ça ! Y&rsquo;a même <a href="https://quilljs.com/playground/snow" rel="noopener" target="_blank">un playground ici</a> pour vous amuser.</p>
+
+
+
+<p>Bon après, je vais pas vous mentir, y&rsquo;a quand même un petit temps d&rsquo;adaptation hein. Faut comprendre comment Quill structure son modèle de document, comment bossent les différents modules, etc. Mais une fois qu&rsquo;on a compris la logique, c&rsquo;est open bar.</p>
+
+
+
+<p>Ah et j&rsquo;ai failli oublier un truc important: Quill est <strong>compatible avec tous les navigateurs modernes</strong>, que ce soit sur desktop ou mobile. Votre éditeur va se comporter de la même façon partout, ce qui est quand même super cool. Ah et la <a href="https://quilljs.com/" rel="noopener" target="_blank">doc officielle</a> est très bien faite.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-583163838" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Bref, si vous cherchez <a href="https://quilljs.com/" rel="noopener" target="_blank">une solution d&rsquo;édition de texte riche</a> pour vos projets web, franchement je vous le recommande les yeux fermés.</p>
+
+
+
+<p>Allez, codez bien et à plus dans l&rsquo;bus !</p>
+]]></content:encoded>
+<pubDate>Wed, 04 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 04 Sep 2024 07:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>BugStalker – Le debugger Rust puissant et convivial</title>
 <link>https://korben.info/bugstalker-debugger-rust-puissant-convivial.html</link>
 <guid>https://korben.info/bugstalker-debugger-rust-puissant-convivial.html</guid>
 <content:encoded><![CDATA[
 <div> BugStalker, débogage, Rust, Oracles, fonctionnalités  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 BugStalker est un outil de débogage convivial pour les développeurs Rust, permettant de traquer les bugs avec efficacité. Il sait gérer les types complexes du langage, y compris les vecteurs et les pointeurs intelligents, et permet d'interagir avec les données directement. Les utilisateurs peuvent placer des breakpoints à des endroits désirés dans leur code et contrôler l'exécution pas à pas, entrant ou sautant des fonctions selon leurs besoins. Pour inspecter les données, il est possible d'évaluer des expressions pour afficher les variables, les arguments des fonctions ou de découper des tableaux. BugStalker propose deux interfaces, une en ligne de commande et une autre en mode TUI, avec la possibilité de passer de l'une à l'autre durant le débogage. Une fonctionnalité innovante appelée "Oracles" permet d'ajouter des modules pour obtenir des informations spécifiques sur le programme, comme le runtime Tokio pour les applications asynchrones. L'installation est simple via cargo, et une version sans la dépendance libunwind est également disponible. En somme, BugStalker s'affirme comme l'outil indispensable pour un débogage efficace des projets Rust. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Debugging_Tool_logo_with_word_BugStalker_fffe98a6-2bf4-48a3-ba28-01b47da6026b.webp" width="1456" /></p>
 <p>Je sais, convivial c&rsquo;est un mot bizarre pour parler d&rsquo;un outil de débogage, mais celui-ci va vous faire kiffer si vous codez en Rust. Ça s&rsquo;appelle <strong><a href="https://github.com/godzie44/BugStalker" rel="noopener" target="_blank">BugStalker</a></strong> et c&rsquo;est juste le debugger qu&rsquo;il vous faut pour traquer les bugs vicieux dans vos programmes puisqu&rsquo;il comprend toutes les subtilités du langage. </p>
@@ -62,9 +161,7 @@ BugStalker est un outil de débogage convivial pour les développeurs Rust, perm
 <p>Allez, sur ce je vous laisse, j&rsquo;ai un programme à déboguer moi (non, mon code est parfait). </p>
 ]]></content:encoded>
 <pubDate>Tue, 03 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 03 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>SampleWizard – Enregistrez et téléchargez des samples audio en un clic depuis votre navigateur</title>
 <link>https://korben.info/samplewizard-enregistrement-telechargement-samples-audio-navigateur.html</link>

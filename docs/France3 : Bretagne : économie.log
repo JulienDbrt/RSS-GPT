@@ -2062,3 +2062,9 @@ Summarized using GPT-4o-mini
 Append: [Pénurie de chocolat : En un an, le prix du cacao a augmenté de 120%. Comment gèrent les pâtissiers ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/en-un-an-le-prix-du-cacao-a-augmente-de-120-comment-gerent-les-patissiers-3025949.html)
 append_entries: 2
 Finish: 2024-09-04 01:27:13.524095
+------------------------------------------------------
+Started: 2024-09-04 12:45:39.732020
+Existing_entries: 193
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-04 12:45:39.981560

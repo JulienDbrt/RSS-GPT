@@ -1797,3 +1797,15 @@ Existing_entries: 105
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-09-04 01:22:22.353986
+------------------------------------------------------
+Started: 2024-09-04 12:41:10.469880
+Existing_entries: 105
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Seniors: deux salariés sur trois estiment que les recruteurs discriminent les plus de 45-50 ans](https://www.bfmtv.com/economie/emploi/seniors-deux-salaries-sur-trois-estiment-que-les-recruteurs-discriminent-les-plus-de-45-50-ans_AV-202409040574.html)
+Token length: 135
+Summarized using GPT-4o-mini
+Append: [Cadres: portés par le plein emploi, les salaires ont augmenté de 4% cette année](https://www.bfmtv.com/economie/emploi/cadres-portes-par-le-plein-emploi-les-salaires-ont-augmente-de-4-cette-annee_AV-202409040570.html)
+append_entries: 2
+Finish: 2024-09-04 12:41:17.585844
