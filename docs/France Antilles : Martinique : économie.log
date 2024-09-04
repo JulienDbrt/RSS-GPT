@@ -2936,3 +2936,15 @@ Summarized using GPT-4o-mini
 Append: [Suriname : après le pétrole, le gaz](https://www.martinique.franceantilles.fr/actualite/economie/suriname-apres-le-petrole-le-gaz-1001628.php)
 append_entries: 4
 Finish: 2024-09-03 01:22:19.433785
+------------------------------------------------------
+Started: 2024-09-04 01:24:35.837721
+Existing_entries: 500
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [Tapis rouge pour Poutine en Mongolie, malgré le mandat d'arrêt de la CPI](https://www.martinique.franceantilles.fr/actualite/international/poutine-en-mongolie-malgre-le-mandat-darret-de-la-cpi-1001721.php)
+Token length: 140
+Summarized using GPT-4o-mini
+Append: [Au moins 12 migrants meurent dans le pire naufrage de l'année dans la Manche](https://www.martinique.franceantilles.fr/actualite/economie/au-moins-12-migrants-meurent-dans-le-pire-naufrage-de-lannee-dans-la-manche-1001751.php)
+append_entries: 2
+Finish: 2024-09-04 01:24:41.941268

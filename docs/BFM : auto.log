@@ -2406,3 +2406,15 @@ Summarized using GPT-4o-mini
 Append: [Prix des carburants: le gazole à 1,60 euro le litre, au plus bas depuis janvier 2022](https://www.bfmtv.com/auto/prix-des-carburants-le-gazole-a-1-60-euro-le-litre-au-plus-bas-depuis-janvier-2022_AN-202409020596.html)
 append_entries: 1
 Finish: 2024-09-03 01:20:00.017429
+------------------------------------------------------
+Started: 2024-09-04 01:22:02.447970
+Existing_entries: 310
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [Les hybrides au sommet des ventes de voitures neuves: le classement des modèles les plus populaires](https://www.bfmtv.com/auto/les-hybrides-au-sommet-des-ventes-de-voitures-neuves-le-classement-des-modeles-les-plus-populaires_AV-202409030368.html)
+Token length: 255
+Summarized using GPT-4o-mini
+Append: [Dieselgate: l'ancien PDG de Volkswagen en procès neuf ans après le scandale des moteurs truqués](https://www.bfmtv.com/auto/dieselgate-l-ancien-pdg-de-volkswagen-en-proces-neuf-ans-apres-le-scandale-des-moteurs-truques_AD-202409030080.html)
+append_entries: 2
+Finish: 2024-09-04 01:22:08.718505

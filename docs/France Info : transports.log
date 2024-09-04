@@ -2762,3 +2762,24 @@ Summarized using GPT-4o-mini
 Append: [Le Pass rail, qui a permis aux jeunes de voyager gratuitement dans certains trains pendant l'été, a été vendu à plus de 230 000 exemplaires](https://www.francetvinfo.fr/economie/transports/sncf/le-pass-rail-qui-a-permis-de-voyager-gratuitement-dans-certains-trains-pendant-l-ete-a-ete-vendu-a-plus-de-230-000-exemplaires_6334246.html)
 append_entries: 1
 Finish: 2024-09-03 01:22:52.437867
+------------------------------------------------------
+Started: 2024-09-04 01:25:16.133921
+Existing_entries: 428
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 190
+Summarized using GPT-4o-mini
+Append: [Carburants : les prix continuent de baisser](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-les-prix-continuent-de-baisser_6760891.html)
+Token length: 208
+Summarized using GPT-4o-mini
+Append: [INFOGRAPHIE. Visualisez la baisse des prix des carburants, au plus bas depuis 2022](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/infographie-visualisez-la-baisse-des-prix-des-carburants-au-plus-bas-depuis-2022_6760348.html)
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [Eurozapping : le tunnel du Saint-Gothard a rouvert en Suisse](https://www.francetvinfo.fr/economie/transports/eurozapping-le-tunnel-du-saint-gothard-a-rouvert-en-suisse_6760525.html)
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [PODCAST. "Tu ouvres ta fenêtre et tu sautes !", le flop du Pass rail et tube de l'été : ça dit quoi ce 3 septembre ?](https://www.francetvinfo.fr/replay-radio/ca-dit-quoi/tu-ouvres-ta-fenetre-et-tu-sautes-le-flop-du-pass-rail-et-tube-de-l-ete-ca-dit-quoi-ce-3-septembre_6748417.html)
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [Prix du carburant : à 1,60 euro le litre, le gazole retrouve son cours d'avant la guerre en Ukraine](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/prix-du-carburant-a-1-60-euro-le-litre-le-gazole-retrouve-son-cours-d-avant-la-guerre-en-ukraine_6746356.html)
+append_entries: 5
+Finish: 2024-09-04 01:25:33.577362

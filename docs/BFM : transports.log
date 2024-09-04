@@ -2396,3 +2396,18 @@ Summarized using GPT-4o-mini
 Append: [Clermont-Ferrand: le maire envisage la gratuité totale des transports en commun](https://www.bfmtv.com/economie/entreprises/transports/clermont-ferrand-le-maire-envisage-la-gratuite-totale-des-transports-en-commun_AV-202409020560.html)
 append_entries: 2
 Finish: 2024-09-03 01:21:13.450257
+------------------------------------------------------
+Started: 2024-09-04 01:23:35.826286
+Existing_entries: 310
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Les ONG scandalisées: la Suède va supprimer une taxe sur le transport aérien](https://www.bfmtv.com/economie/entreprises/transports/les-ong-scandalises-la-suede-va-supprimer-une-taxe-sur-le-transport-aerien_AD-202409030641.html)
+Token length: 186
+Summarized using GPT-4o-mini
+Append: [18 heures de retard pour un vol Volotea: la compagnie a-t-elle le droit de refuser toute indemnisation?](https://www.bfmtv.com/economie/entreprises/transports/18-heures-de-retard-pour-un-vol-volotea-la-compagnie-a-t-elle-le-droit-de-refuser-toute-indemnisation_AV-202409030523.html)
+Token length: 117
+Summarized using GPT-4o-mini
+Append: [TGV et trains classiques: la SNCF met en vente 200.000 billets Ouigo à 19 euros maximum](https://www.bfmtv.com/economie/entreprises/transports/tgv-et-trains-classiques-la-sncf-met-en-vente-200-000-billets-ouigo-a-19-euros-maximum_AV-202409030506.html)
+append_entries: 3
+Finish: 2024-09-04 01:23:45.304990

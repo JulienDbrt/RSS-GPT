@@ -1854,3 +1854,15 @@ Existing_entries: 126
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-09-03 01:23:43.268524
+------------------------------------------------------
+Started: 2024-09-04 01:27:17.426617
+Existing_entries: 126
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 288
+Summarized using GPT-4o-mini
+Append: ["Qui peut acheter à ce prix-là ? " : les prix de l'immobilier flambent sur la côte, les logements deviennent inaccessibles aux résidents](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/qui-peut-acheter-a-ce-prix-la-la-flambee-des-prix-de-l-immobilier-rebute-de-nombreux-acheteurs-sur-la-cote-atlantique-3026111.html)
+Token length: 316
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGE. "Notre lotissement est devenu un dépotoir" : des riverains en colère demandent aux promoteurs d'entretenir leur quartier encore en chantier](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/temoignage-notre-lotissement-est-devenu-un-depotoir-des-riverains-en-colere-demandent-aux-promoteurs-d-entretenir-leur-quartier-encore-en-chantier-3025598.html)
+append_entries: 2
+Finish: 2024-09-04 01:27:23.253853

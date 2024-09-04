@@ -4,6 +4,66 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>BugStalker – Le debugger Rust puissant et convivial</title>
+<link>https://korben.info/bugstalker-debugger-rust-puissant-convivial.html</link>
+<guid>https://korben.info/bugstalker-debugger-rust-puissant-convivial.html</guid>
+<content:encoded><![CDATA[
+<div> BugStalker, débogage, Rust, Oracles, fonctionnalités  
+
+<br><br>Summary:  
+BugStalker est un outil de débogage convivial pour les développeurs Rust, permettant de traquer les bugs avec efficacité. Il sait gérer les types complexes du langage, y compris les vecteurs et les pointeurs intelligents, et permet d'interagir avec les données directement. Les utilisateurs peuvent placer des breakpoints à des endroits désirés dans leur code et contrôler l'exécution pas à pas, entrant ou sautant des fonctions selon leurs besoins. Pour inspecter les données, il est possible d'évaluer des expressions pour afficher les variables, les arguments des fonctions ou de découper des tableaux. BugStalker propose deux interfaces, une en ligne de commande et une autre en mode TUI, avec la possibilité de passer de l'une à l'autre durant le débogage. Une fonctionnalité innovante appelée "Oracles" permet d'ajouter des modules pour obtenir des informations spécifiques sur le programme, comme le runtime Tokio pour les applications asynchrones. L'installation est simple via cargo, et une version sans la dépendance libunwind est également disponible. En somme, BugStalker s'affirme comme l'outil indispensable pour un débogage efficace des projets Rust. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Debugging_Tool_logo_with_word_BugStalker_fffe98a6-2bf4-48a3-ba28-01b47da6026b.webp" width="1456" /></p>
+<p>Je sais, convivial c&rsquo;est un mot bizarre pour parler d&rsquo;un outil de débogage, mais celui-ci va vous faire kiffer si vous codez en Rust. Ça s&rsquo;appelle <strong><a href="https://github.com/godzie44/BugStalker" rel="noopener" target="_blank">BugStalker</a></strong> et c&rsquo;est juste le debugger qu&rsquo;il vous faut pour traquer les bugs vicieux dans vos programmes puisqu&rsquo;il comprend toutes les subtilités du langage. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-589766388" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ça veut dire qu&rsquo;il sait gérer les types Rust complexes comme les vecteurs, les pointeurs intelligents et même les variables locales des threads. Et il ne fait pas que les afficher joliment, il vous permet carrément d&rsquo;interagir avec !</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159598" height="446" src="https://korben.info/app/uploads/2024/04/bugstalkerdemo.gif" width="1132" /></figure></div>
+
+
+<p>Vous pouvez poser des <strong>breakpoints</strong> où vous voulez dans votre code, que ce soit sur une ligne précise, une fonction ou même une instruction assembleur. Et quand votre programme s&rsquo;arrête sur un breakpoint, vous pouvez contrôler son exécution pas à pas, rentrer dans les fonctions ou les sauter, tout ça à la volée.</p>
+
+
+
+<p>Et si vous avez besoin d&rsquo;inspecter les données de votre programme, il a ce qu&rsquo;il vous faut dans le ventre. Vous pouvez par exemple évaluer des expressions pour afficher les variables locales et globales, les arguments des fonctions, et même découper des tableaux ou des vecteurs pour voir ce qui se cache dedans.</p>
+
+
+
+<p>L&rsquo;outil vous propose deux interfaces au choix : une classique en ligne de commande, et une <strong>interface graphique</strong> en mode TUI (Text User Interface) qui claque. Et le kif, c&rsquo;est que vous pouvez passer de l&rsquo;une à l&rsquo;autre quand vous voulez pendant une session de débogage !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1547271035" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Ah et j&rsquo;allais oublier un truc énorme : les <strong>Oracles</strong> ! Non, je ne parle pas de la boîte qui fait des bases de données, mais d&rsquo;une fonctionnalité trop stylée de BugStalker. En gros, c&rsquo;est des modules qui viennent se greffer au debugger pour vous filer des infos sur des aspects spécifiques de votre programme. Par exemple, l&rsquo;Oracle Tokio vous donne des insights sur le runtime Tokio si vous faites de l&rsquo;asynchrone, sans avoir à modifier votre code. Trop fort !</p>
+
+
+
+<p>Bon allez, je vais pas vous faire languir plus longtemps. Si vous voulez essayer, c&rsquo;est tout simple, vous installez ça avec cargo :</p>
+
+
+
+<p><code>cargo install bugstalker</code> </p>
+
+
+
+<p>et hop, vous êtes prêts à déboguer comme des pros. Et si jamais vous avez un souci avec la dépendance <code>libunwind</code>, y a même une version sans, mais entre nous, <code><a href="https://www.nongnu.org/libunwind/" rel="noopener" target="_blank">libunwind</a></code> c&rsquo;est quand même mieux.</p>
+
+
+
+<p>Franchement, je « ne contracte pas » quand je vous dis que <strong>BugStalker</strong> c&rsquo;est le debugger qu&rsquo;il vous faut pour vos projets Rust. Avec lui, traquer les bugs c&rsquo;est presque devenu un sport national, alors go sur <a href="https://github.com/godzie44/BugStalker" rel="noopener" target="_blank">https://github.com/godzie44/BugStalker</a> , votre code Rust vous dira merci !</p>
+
+
+
+<p>Allez, sur ce je vous laisse, j&rsquo;ai un programme à déboguer moi (non, mon code est parfait). </p>
+]]></content:encoded>
+<pubDate>Tue, 03 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 03 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>SampleWizard – Enregistrez et téléchargez des samples audio en un clic depuis votre navigateur</title>

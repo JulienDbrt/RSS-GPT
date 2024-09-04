@@ -2050,3 +2050,15 @@ Existing_entries: 191
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-09-03 01:23:32.204977
+------------------------------------------------------
+Started: 2024-09-04 01:27:07.381229
+Existing_entries: 191
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 262
+Summarized using GPT-4o-mini
+Append: [Dans cette commune des Côtes d'Armor, le projet de distributeur automatique de béton ne passe pas](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/coup-d-arret-judiciaire-pour-le-projet-de-distributeur-de-beton-du-carreleur-de-loudeac-3026225.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Pénurie de chocolat : En un an, le prix du cacao a augmenté de 120%. Comment gèrent les pâtissiers ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/en-un-an-le-prix-du-cacao-a-augmente-de-120-comment-gerent-les-patissiers-3025949.html)
+append_entries: 2
+Finish: 2024-09-04 01:27:13.524095
