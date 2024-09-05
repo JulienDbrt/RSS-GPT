@@ -2622,3 +2622,18 @@ Existing_entries: 378
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-09-04 12:45:40.827795
+------------------------------------------------------
+Started: 2024-09-05 01:24:58.463834
+Existing_entries: 378
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 249
+Summarized using GPT-4o-mini
+Append: [Vous habitez les Hauts-de-France et souhaitez partir travailler au Québec ? 400 offres d'emploi sont disponibles et on vous explique comment postuler](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/vous-habitez-les-hauts-de-france-et-souhaitez-partir-travailler-au-quebec-400-offres-d-emploi-sont-disponibles-et-on-vous-explique-comment-postuler-3026753.html)
+Token length: 298
+Summarized using GPT-4o-mini
+Append: [Travailler pour payer ses études : "C'est vraiment un job alimentaire"](https://france3-regions.francetvinfo.fr/normandie/calvados/caen/travailler-pour-payer-ses-etudes-c-est-vraiment-un-job-alimentaire-3026765.html)
+Token length: 306
+Summarized using GPT-4o-mini
+Append: [Vendanges : combien gagnent les cueilleurs ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/vendanges-combien-gagnent-les-cueilleurs-3026747.html)
+append_entries: 3
+Finish: 2024-09-05 01:25:07.055812

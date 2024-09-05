@@ -2421,3 +2421,9 @@ Summarized using GPT-4o-mini
 Append: [Vers une réservation obligatoire des TER ? Pourquoi la Bourgogne-Franche-Comté ne ferme pas totalement la porte](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/vers-une-reservation-obligatoire-des-ter-pourquoi-la-bourgogne-franche-comte-ne-ferme-pas-totalement-la-porte-3025493.html)
 append_entries: 1
 Finish: 2024-09-04 12:45:39.627120
+------------------------------------------------------
+Started: 2024-09-05 01:24:57.703000
+Existing_entries: 311
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-09-05 01:24:57.882754

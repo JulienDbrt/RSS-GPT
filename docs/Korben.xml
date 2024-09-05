@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Quill – L’éditeur WYSIWYG nouvelle génération</title>
 <link>https://korben.info/quill-lediteur-wysiwyg-nouvelle-generation.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Quill, éditeurs de texte riche, JavaScript, API, personnalisation  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Quill est une bibliothèque JavaScript puissante pour créer des éditeurs de texte riche (WYSIWYG), permettant bien plus que du simple gras ou italique. Elle offre une expérience d’édition solide grâce à une API intuitive, permettant aux développeurs de prendre rapidement en main l’outil. Par exemple, en quelques lignes de code, il est possible de créer un éditeur stylé avec une barre d'outils. Quill gère facilement le JSON, facilitant ainsi le stockage et le traitement des contenus. Sa force réside également dans sa capacité à être étendu et personnalisé, permettant d'ajouter des fonctionnalités variées via des modules. Un exemple pratique est la création d’un format pour colorer la syntaxe dans des blocs de code. Bien qu'il y ait une petite courbe d'apprentissage pour comprendre la structure de Quill, manuellement, avec toutes ses options. En plus, Quill est compatible avec tous les navigateurs modernes, garantissant une expérience utilisateur homogène sur desktop et mobile. Pour tous ceux à la recherche d’un éditeur pour des projets web, Quill est fortement recommandé. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_WYSIWYG_editor__logo_word_Quill_00324637-6d48-449b-bb15-0e52da2d0e23.webp" width="1456" /></p>
 <p><strong><a href="https://quilljs.com/" rel="noopener" target="_blank">Quill</a></strong> est une bibliothèque JavaScript de folie pour créer des éditeurs de texte riche (WYSIWYG). Et quand je dis riche, c&rsquo;est pas seulement du gras et de l&rsquo;italique hein, on est sur un niveau au-dessus !</p>
@@ -100,9 +101,7 @@ Quill.register(SyntaxCodeBlock, 'code-block', true);</code></pre>
 <p>Allez, codez bien et à plus dans l&rsquo;bus !</p>
 ]]></content:encoded>
 <pubDate>Wed, 04 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 04 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>BugStalker – Le debugger Rust puissant et convivial</title>
 <link>https://korben.info/bugstalker-debugger-rust-puissant-convivial.html</link>

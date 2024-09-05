@@ -1775,3 +1775,9 @@ Summarized using GPT-4o-mini
 Append: [Paris 2024 : "Je pense que les images de Paris ont donné envie au monde entier de venir", déclare la directrice générale d'Air France](https://www.francetvinfo.fr/replay-radio/l-interview-eco/paris-2024-je-pense-que-les-images-de-paris-ont-donne-envie-au-monde-entier-de-venir-declare-la-directrice-generale-d-air-france_6746398.html)
 append_entries: 1
 Finish: 2024-09-04 12:44:05.374206
+------------------------------------------------------
+Started: 2024-09-05 01:24:01.751588
+Existing_entries: 89
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-09-05 01:24:02.003887

@@ -1841,3 +1841,12 @@ Existing_entries: 111
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-09-04 12:44:06.697808
+------------------------------------------------------
+Started: 2024-09-05 01:24:02.521652
+Existing_entries: 111
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Hossegor : les prix de l'immobilier flambent sur la côte](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/hossegor-les-prix-de-l-immobilier-flambent-sur-la-cote_6762910.html)
+append_entries: 1
+Finish: 2024-09-05 01:24:09.670508
