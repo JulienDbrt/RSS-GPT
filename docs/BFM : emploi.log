@@ -1818,3 +1818,15 @@ Summarized using GPT-4o-mini
 Append: [Paris est l’une des capitales où l’on télétravaille le moins](https://www.bfmtv.com/economie/emploi/vie-de-bureau/paris-est-l-une-des-capitales-ou-l-on-teletravaille-le-moins_AV-202409040603.html)
 append_entries: 1
 Finish: 2024-09-05 01:21:33.144357
+------------------------------------------------------
+Started: 2024-09-05 12:42:26.481285
+Existing_entries: 108
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Moins d'arrêts de travail: l'absentéisme salarié recule après des années de hausse](https://www.bfmtv.com/economie/emploi/moins-d-arrets-de-travail-l-absenteisme-salarie-recule-apres-des-annees-de-hausse_AD-202409050257.html)
+Token length: 179
+Summarized using GPT-4o-mini
+Append: [Succession en entreprise: faut-il fixer un âge limite pour passer la main?](https://www.bfmtv.com/economie/emploi/vie-de-bureau/succession-en-entreprise-faut-il-fixer-un-age-limite-pour-passer-la-main_AV-202409050049.html)
+append_entries: 2
+Finish: 2024-09-05 12:42:32.586905

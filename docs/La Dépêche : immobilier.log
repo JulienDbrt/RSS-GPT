@@ -1975,3 +1975,18 @@ Summarized using GPT-4o-mini
 Append: [Pénurie de logements, hausse des prix… comment l’immobilier s’enfonce dans la crise](https://www.ladepeche.fr/2024/09/04/penurie-de-logements-hausse-des-prix-comment-limmobilier-senfonce-dans-la-crise-12176861.php)
 append_entries: 1
 Finish: 2024-09-05 01:27:28.594795
+------------------------------------------------------
+Started: 2024-09-05 12:51:57.522519
+Existing_entries: 157
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Le "squatteur" se blesse dans une piscine privée de Toulouse et porte plainte : autopsie d’une fake news](https://www.ladepeche.fr/2024/09/05/le-squatteur-se-blesse-dans-une-piscine-privee-de-toulouse-et-porte-plainte-autopsie-dune-fake-news-12175797.php)
+Token length: 82
+Summarized using GPT-4o-mini
+Append: [Crise du logement neuf : " Nous craignons une année 2025 très compliquée" affirme le patron de l’immobilier toulousain](https://www.ladepeche.fr/2024/09/05/crise-du-logement-neuf-nous-craignons-une-annee-2025-tres-compliquee-affirme-le-patron-de-limmobilier-toulousain-12176885.php)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [Le désespoir administratif  d’un habitant de Tuchan](https://www.ladepeche.fr/2024/09/05/le-desespoir-administratif-dun-habitant-de-tuchan-12177669.php)
+append_entries: 3
+Finish: 2024-09-05 12:52:17.928539

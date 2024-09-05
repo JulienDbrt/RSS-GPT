@@ -2632,3 +2632,15 @@ Summarized using GPT-4o-mini
 Append: [Budget 2025 : deux sénateurs appellent le gouvernement à respecter les délais](https://www.europe1.fr/economie/budget-2025-deux-senateurs-appellent-le-gouvernement-a-respecter-les-delais-4265610)
 append_entries: 1
 Finish: 2024-09-05 01:23:26.330017
+------------------------------------------------------
+Started: 2024-09-05 12:45:27.228386
+Existing_entries: 374
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 276
+Summarized using GPT-4o-mini
+Append: [EPR de Flamanville: arrêt automatique du réacteur nucléaire, des contrôles en cours](https://www.europe1.fr/economie/epr-de-flamanville-arret-automatique-du-reacteur-nucleaire-des-controles-en-cours-4265693)
+Token length: 244
+Summarized using GPT-4o-mini
+Append: [Avec des comptes publics dans le rouge, le vote du budget s'annonce compliqué](https://www.europe1.fr/economie/avec-des-comptes-publics-dans-le-rouge-le-vote-du-budget-sannonce-complique-4265683)
+append_entries: 2
+Finish: 2024-09-05 12:47:07.490368

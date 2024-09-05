@@ -2427,3 +2427,9 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. La plus ancienne mercerie de Paris déménage, "on a retrouvé des trésors au sous-sol"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/reportage-la-plus-ancienne-mercerie-de-paris-demenage-on-a-retrouve-des-tresors-au-sous-sol-3026090.html)
 append_entries: 1
 Finish: 2024-09-05 01:24:49.660297
+------------------------------------------------------
+Started: 2024-09-05 12:49:05.524969
+Existing_entries: 311
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-05 12:49:05.703348

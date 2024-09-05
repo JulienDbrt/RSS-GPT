@@ -4807,3 +4807,18 @@ Summarized using GPT-4o-mini
 Append: [155 km/h sur une départementale : les deux voitures en grand excès de vitesse terminent leur route sur une dépanneuse et à la fourrière](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/155-km-h-sur-une-departementale-les-deux-voitures-en-grand-exces-de-vitesse-terminent-leur-route-sur-une-depanneuse-et-a-la-fourriere-3026777.html)
 append_entries: 4
 Finish: 2024-09-05 01:25:22.506411
+------------------------------------------------------
+Started: 2024-09-05 12:49:18.554006
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 304
+Summarized using GPT-4o-mini
+Append: [Lancement de deux lignes de Noctambus par la Métropole Aix-Marseille pour rallier le Vieux-Port et les campus universitaires](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/lancement-de-deux-lignes-de-noctambus-par-la-metropole-aix-marseille-pour-rallier-le-vieux-port-et-les-campus-universitaires-3027017.html)
+Token length: 275
+Summarized using GPT-4o-mini
+Append: ["Avion sans ailes et train sans roues", retour vers le futur du fantastique aérotrain de Jean Bertin](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/avion-sans-ailes-et-train-sans-roues-retour-vers-le-futur-du-fantastique-aerotrain-de-jean-bertin-3021008.html)
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Le feu vert le plus court de France fait rager les automobilistes : "on est deux voitures à passer et puis ça passe au rouge"](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/un-feu-vert-le-plus-court-de-france-est-a-toulouse-selon-des-automobilistes-3026960.html)
+append_entries: 3
+Finish: 2024-09-05 12:49:29.391324

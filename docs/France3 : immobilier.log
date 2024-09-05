@@ -1881,3 +1881,9 @@ Summarized using GPT-4o-mini
 Append: [29 logements à Crozon. Deux fonctionnaires de la défense et un promoteur immobilier jugés pour corruption](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/29-logements-a-crozon-deux-fonctionnaires-de-la-defense-et-un-promoteur-immobilier-juges-pour-corruption-3026831.html)
 append_entries: 1
 Finish: 2024-09-05 01:25:09.997179
+------------------------------------------------------
+Started: 2024-09-05 12:49:17.887551
+Existing_entries: 129
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-09-05 12:49:17.984075

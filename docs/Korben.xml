@@ -4,6 +4,100 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Zsh-copilot – Et votre terminal devient intelligent</title>
+<link>https://korben.info/zsh-copilot-boostez-votre-shell-ia-github.html</link>
+<guid>https://korben.info/zsh-copilot-boostez-votre-shell-ia-github.html</guid>
+<content:encoded><![CDATA[
+<div> zsh-copilot, terminal, plugin, commandes, productivité
+
+<br><br>Summary:  
+L'auteur partage son expérience avec le plugin zsh-copilot, qui utilise l'intelligence artificielle pour simplifier l'utilisation du terminal Zsh. Pour l'installer, il faut d'abord cloner le dépôt GitHub dans le dossier des plugins Zsh et ajouter une ligne dans le fichier .zshrc. Ensuite, un redémarrage du shell est nécessaire. Une clé API OpenAI est aussi requise, ce qui engendre un coût, mais l'investissement est justifié par les avantages offerts par le plugin. Une fois en place, l'utilisateur peut commencer à taper ses commandes habituelles et appuyer sur Ctrl+Z pour recevoir une assistance contextuelle de zsh-copilot, qui propose des suggestions de commandes pertinentes. Ce système donne une impression de "tricherie" au début, mais il s'avère très pratique au quotidien. L'auteur a également découvert Zsh AutoSuggestions, un autre outil utile pour récupérer des commandes souvent utilisées. En somme, l'utilisation de ces outils améliore significativement la productivité des utilisateurs dans leurs activités liées au terminal. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_with_word_ZSH_Copilot_terminal_linux_hacker_ab96c928-89fb-4f47-99a2-76b3220a4ad7.webp" width="1456" /></p>
+<p>Perso, je lance pas mal de commandes dans tous les sens chaque jour dans mon terminal et entre les petits paramètres que j&rsquo;oublie, les enchainements de commandes un peu complexes ou les commandes à rallonge, ce que je peux vous dire, c&rsquo;est que ça me prend un peu de temps. </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1099135440" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Mais heureusement, <strong>zsh-copilot</strong> a débarqué dans ma vie il y a quelques mois et je ne peux plus m&rsquo;en passer.</p>
+
+
+
+<figure class="wp-block-video"><video controls="controls" src="https://korben.info/app/uploads/2024/04/316269438-ed2bc8ac-ce49-4012-ab73-53cf6f3151a2.mp4"></video></figure>
+
+
+
+<p>Ce plugin génial utilise la puissance de l&rsquo;IA, directement intégrée à votre fidèle <strong>Zsh</strong> grâce <a href="https://github.com/zsh-users/zsh-autosuggestions" rel="noopener" target="_blank">zsh-autosuggestions</a>. </p>
+
+
+
+<p>Pour en profiter, rien de plus simple. Installez les dépandances suivantes :</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a></li>
+
+
+
+<li><a href="https://github.com/jqlang/jq">jq</a></li>
+
+
+
+<li><a href="https://github.com/curl/curl">curl</a></li>
+</ul>
+
+
+
+<p>Clonez le repo <strong><a href="https://github.com/Myzel394/zsh-copilot" rel="noopener" target="_blank">zsh-copilot</a></strong> dans votre dossier de plugins Zsh :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-259208525" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p><code>git clone https://github.com/Myzel394/zsh-copilot.git ~/.zsh-copilot</code></p>
+
+
+
+<p>Puis ajoutez la ligne suivante dans votre fichier <code>.zshrc</code> avec cette commande :</p>
+
+
+
+<p><code>echo "source ~/.zsh-copilot/zsh-copilot.plugin.zsh" >> ~/.zshrc</code></p>
+
+
+
+<p>N&rsquo;oubliez pas de relancer votre shell pour prendre en compte les changements.</p>
+
+
+
+<p>Ah oui, j&rsquo;oubliais ! Pour que la magie opère, vous aurez aussi besoin d&rsquo;une clé API OpenAI. Ça coûtera donc un peu de sous, mais vu tout ce que ce plugin va vous apporter, ça vaut largement le coup d&rsquo;investir dedans !</p>
+
+
+
+<p>Une fois que tout est en place, vous n&rsquo;avez plus qu&rsquo;à commencer à taper vos commandes habituelles, et à presser <code>Ctrl+Z</code> dès que vous avez besoin d&rsquo;un coup de main. Et là, c&rsquo;est Merlin l&rsquo;enchanteur qui entre en scène ! zsh-copilot va analyser ce que vous êtes en train de faire, et vous proposer la suite la plus pertinente. Vous pouvez même carrément lui demander ce que vous cherchez à faire et lui vous proposera la commande qui va bien.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1655445030" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Vous verrez, c&rsquo;est bluffant. Au début, on a un peu l&rsquo;impression de tricher, mais très vite, on se rend compte à quel point c&rsquo;est pratique. J&rsquo;en ai même fait une vidéo pour mes <a href="https://www.patreon.com/korben" rel="noopener" target="_blank">patreons</a> d&rsquo;amour : </p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Puis par la même occasion, j&rsquo;ai découvert Zsh AutoSuggestions qui est également super pratique pour retrouver les commandes qu&rsquo;on tape régulièrement.</p>
+
+
+
+<p>Bref, comme d&rsquo;hab, productivité x10 avec ce genre de petits tools. <a href="https://github.com/Myzel394/zsh-copilot" rel="noopener" target="_blank">Rendez-vous sur le github pour en savoir plus.</a></p>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Thu, 05 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Quill – L’éditeur WYSIWYG nouvelle génération</title>

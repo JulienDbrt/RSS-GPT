@@ -2083,3 +2083,9 @@ Summarized using GPT-4o-mini
 Append: [«Saison abondante» achetez les pommes du Québec, invite la propriétaire d'un verger](https://www.journaldemontreal.com/2024/09/03/saison-abondante-achetez-les-pommes-du-quebec-invite-la-proprietaire-dun-verger)
 append_entries: 3
 Finish: 2024-09-05 01:25:30.961563
+------------------------------------------------------
+Started: 2024-09-05 12:49:29.492607
+Existing_entries: 185
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-09-05 12:49:29.788466

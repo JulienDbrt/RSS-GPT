@@ -2540,3 +2540,12 @@ Summarized using GPT-4o-mini
 Append: [La Banque de France relève « un peu » ses prévisions de croissance (merci les JO)](https://www.20minutes.fr/economie/4108348-20240904-banque-france-releve-peu-previsions-croissance-merci-jo)
 append_entries: 3
 Finish: 2024-09-05 01:20:38.165695
+------------------------------------------------------
+Started: 2024-09-05 12:40:42.363034
+Existing_entries: 342
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 244
+Summarized using GPT-4o-mini
+Append: [Mais c’est quoi ce « dérapage massif » du déficit public ?](https://www.20minutes.fr/economie/4108372-20240905-quoi-derapage-massif-deficit-public)
+append_entries: 1
+Finish: 2024-09-05 12:40:46.612300
