@@ -1862,3 +1862,12 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : le coût du dispositif Pinel a dépassé les quatre milliards d'euros en sept ans, selon un rapport de la Cour des comptes](https://www.francetvinfo.fr/economie/pouvoir-achat/logement/immobilier-le-cout-du-dispositif-pinel-pour-les-finances-publiques-a-depasse-les-4-milliards-d-euros-en-sept-ans-selon-un-rapport-de-la-cour-des-comptes_6763231.html)
 append_entries: 2
 Finish: 2024-09-05 12:48:01.513381
+------------------------------------------------------
+Started: 2024-09-06 01:25:29.699494
+Existing_entries: 114
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 262
+Summarized using GPT-4o-mini
+Append: [Impôts : la taxe foncière en baisse dans certaines communes](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/impots-la-taxe-fonciere-en-baisse-dans-certaines-communes_6765253.html)
+append_entries: 1
+Finish: 2024-09-06 01:25:33.276377

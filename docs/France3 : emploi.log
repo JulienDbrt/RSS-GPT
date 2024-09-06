@@ -2643,3 +2643,12 @@ Existing_entries: 381
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-09-05 12:49:17.818271
+------------------------------------------------------
+Started: 2024-09-06 01:26:51.908916
+Existing_entries: 381
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 503
+Summarized using GPT-4o-mini
+Append: ["C'est un marché énorme", et pourtant, Claripharm est en difficulté en attendant un décret gouvernemental](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/c-est-un-marche-enorme-et-pourtant-claripharm-est-en-difficulte-en-attendant-un-decret-gouvernemental-3027527.html)
+append_entries: 1
+Finish: 2024-09-06 01:26:56.433662

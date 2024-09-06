@@ -1787,3 +1787,12 @@ Existing_entries: 89
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-09-05 12:47:49.538123
+------------------------------------------------------
+Started: 2024-09-06 01:25:26.510205
+Existing_entries: 89
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [L'Union européenne demande des inspections sur des A350 après un incendie moteur chez Cathay Pacific](https://www.francetvinfo.fr/economie/aeronautique/l-union-europeenne-demande-des-inspections-sur-des-a350-apres-un-incendie-moteur-chez-cathay-pacific_6764884.html)
+append_entries: 1
+Finish: 2024-09-06 01:25:29.101301

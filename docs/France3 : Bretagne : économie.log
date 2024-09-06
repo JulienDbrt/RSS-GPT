@@ -2083,3 +2083,15 @@ Summarized using GPT-4o-mini
 Append: [Le site d'extrême droite Breizh Info et le fondateur de L'Alvarium d'Angers, gagnent leur procès en appel contre Ouest-France](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/le-site-d-extreme-droite-breizh-info-et-le-fondateur-de-l-alvarium-d-angers-gagnent-leur-proces-en-appel-contre-ouest-france-3027080.html)
 append_entries: 1
 Finish: 2024-09-05 12:49:17.419341
+------------------------------------------------------
+Started: 2024-09-06 01:26:42.682752
+Existing_entries: 194
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 503
+Summarized using GPT-4o-mini
+Append: ["C'est un marché énorme", et pourtant, Claripharm est en difficulté en attendant un décret gouvernemental](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/c-est-un-marche-enorme-et-pourtant-claripharm-est-en-difficulte-en-attendant-un-decret-gouvernemental-3027527.html)
+Token length: 362
+Summarized using GPT-4o-mini
+Append: ["Près de la moitié des agriculteurs vont arriver à l'âge de la retraite", plus de 60% des terres bio seraient menacées](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/pres-de-la-moitie-des-agriculteurs-vont-arriver-a-l-age-de-la-retraite-plus-de-60-des-terres-bio-seraient-menacees-3027371.html)
+append_entries: 2
+Finish: 2024-09-06 01:26:51.700222

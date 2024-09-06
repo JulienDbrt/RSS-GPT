@@ -1971,3 +1971,18 @@ Summarized using GPT-4o-mini
 Append: [EPR de Flamanville: le réacteur nucléaire s'est arrêté automatiquement, des contrôles en cours](https://www.bfmtv.com/economie/entreprises/energie/epr-de-flamanville-le-reacteur-nucleaire-s-est-arrete-automatiquement-des-controles-en-cours_AD-202409050054.html)
 append_entries: 2
 Finish: 2024-09-05 12:42:06.230516
+------------------------------------------------------
+Started: 2024-09-06 01:22:33.069834
+Existing_entries: 157
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/energie/
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [Face à la chute des prix du pétrole, l'Opep+ reporte la réouverture des vannes](https://www.bfmtv.com/economie/entreprises/energie/face-a-la-chute-des-prix-du-petrole-l-opep-reporte-la-reouverture-des-vannes_AD-202409050864.html)
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Émirats arabes unis: la première centrale nucléaire du monde arabe pleinement opérationnelle](https://www.bfmtv.com/economie/entreprises/energie/emirats-arabes-unis-la-premiere-centrale-nucleaire-du-monde-arabe-pleinement-operationnelle_AD-202409050644.html)
+Token length: 266
+Summarized using GPT-4o-mini
+Append: ["C'est la vie opérationnelle": le PDG d'EDF rassure après l'arrêt précoce de l'EPR de Flamanville](https://www.bfmtv.com/economie/entreprises/energie/c-est-la-vie-operationnelle-le-pdg-d-edf-rassure-apres-l-arret-precoce-de-l-epr-de-flamanville_AD-202409050628.html)
+append_entries: 3
+Finish: 2024-09-06 01:22:41.237591
