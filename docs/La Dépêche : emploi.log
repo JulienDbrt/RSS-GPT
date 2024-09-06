@@ -2800,3 +2800,9 @@ Summarized using GPT-4o-mini
 Append: ["Un moment privilégié pour faire se rencontrer entreprises et demandeurs d’emploi" : La Mission locale organise un job dating à Saint-Gaudens](https://www.ladepeche.fr/2024/09/05/un-moment-privilegie-pour-faire-se-rencontrer-entreprises-et-demandeurs-demploi-la-mission-locale-organise-un-job-dating-a-saint-gaudens-12178993.php)
 append_entries: 4
 Finish: 2024-09-06 01:29:19.030631
+------------------------------------------------------
+Started: 2024-09-06 12:44:33.502278
+Existing_entries: 428
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+append_entries: 0
+Finish: 2024-09-06 12:44:34.213413

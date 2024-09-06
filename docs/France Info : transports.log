@@ -2822,3 +2822,9 @@ Summarized using GPT-4o-mini
 Append: [Pénurie de chauffeurs de cars : des hausses de salaire pour attirer les candidats](https://www.francetvinfo.fr/economie/transports/penurie-de-chauffeurs-de-cars-des-hausses-de-salaire-pour-attirer-les-candidats_6764782.html)
 append_entries: 1
 Finish: 2024-09-06 01:25:37.078040
+------------------------------------------------------
+Started: 2024-09-06 12:41:31.758146
+Existing_entries: 438
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-06 12:41:31.921066

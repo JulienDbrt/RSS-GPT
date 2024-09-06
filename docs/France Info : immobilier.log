@@ -1871,3 +1871,15 @@ Summarized using GPT-4o-mini
 Append: [Impôts : la taxe foncière en baisse dans certaines communes](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/impots-la-taxe-fonciere-en-baisse-dans-certaines-communes_6765253.html)
 append_entries: 1
 Finish: 2024-09-06 01:25:33.276377
+------------------------------------------------------
+Started: 2024-09-06 12:41:25.897277
+Existing_entries: 115
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 85
+Summarized using GPT-4o-mini
+Append: [Les nouveaux crédits immobiliers sont à leur plus haut niveau depuis mai 2023](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/les-nouveaux-credits-immobiliers-sont-a-leur-plus-haut-niveau-depuis-mai-2023_6766558.html)
+Token length: 272
+Summarized using GPT-4o-mini
+Append: ["La promesse était belle..." : alerte sur la recrudescence d'arnaques aux crédits immobiliers avec des faux courtiers et de fausses offres de prêt](https://www.francetvinfo.fr/economie/immobilier/la-promesse-etait-belle-alerte-sur-la-recrudescence-d-arnaques-aux-credits-immobiliers-avec-des-faux-courtiers-et-de-fausses-offres-de-pret_6764359.html)
+append_entries: 2
+Finish: 2024-09-06 12:41:31.515533

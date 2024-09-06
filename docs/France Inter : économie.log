@@ -2627,3 +2627,15 @@ Summarized using GPT-4o-mini
 Append: [L'actu : L'économie sociale et solidaire en France avec Benoit Hamon](https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-jeudi-05-septembre-2024-3340821)
 append_entries: 1
 Finish: 2024-09-06 01:25:40.140153
+------------------------------------------------------
+Started: 2024-09-06 12:41:32.116105
+Existing_entries: 367
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 294
+Summarized using GPT-4o-mini
+Append: [La Maïoun de Cathy : dispositif d'hébergement d'urgence du centre LGBTQIA+ de Nice](https://www.radiofrance.fr/franceinter/podcasts/carnets-de-campagne/carnets-de-campagne-du-vendredi-06-septembre-2024-7404991)
+Token length: 286
+Summarized using GPT-4o-mini
+Append: [Débat éco avec Dominique Seux et Thomas Porcher : La France face au mur de la dette](https://www.radiofrance.fr/franceinter/podcasts/le-debat-economique/le-debat-eco-du-vendredi-06-septembre-2024-4270545)
+append_entries: 2
+Finish: 2024-09-06 12:41:39.344408

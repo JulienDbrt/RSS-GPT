@@ -2652,3 +2652,12 @@ Summarized using GPT-4o-mini
 Append: ["C'est un marché énorme", et pourtant, Claripharm est en difficulté en attendant un décret gouvernemental](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/c-est-un-marche-enorme-et-pourtant-claripharm-est-en-difficulte-en-attendant-un-decret-gouvernemental-3027527.html)
 append_entries: 1
 Finish: 2024-09-06 01:26:56.433662
+------------------------------------------------------
+Started: 2024-09-06 12:42:42.708017
+Existing_entries: 382
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 330
+Summarized using GPT-4o-mini
+Append: [Offres d'emploi : l'entreprise Labeyrie recrute 300 saisonniers dans les Landes](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/mont-de-marsan/offres-d-emploi-l-entreprise-labeyrie-recrute-300-saisonniers-dans-les-landes-3027341.html)
+append_entries: 1
+Finish: 2024-09-06 12:42:45.244977

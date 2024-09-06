@@ -2653,3 +2653,15 @@ Summarized using GPT-4o-mini
 Append: [Après une polémique, Pernod Ricard «renonce» à son nouveau partenariat avec le PSG](https://www.europe1.fr/economie/apres-une-polemique-pernod-ricard-renonce-a-son-nouveau-partenariat-avec-le-psg-4265755)
 append_entries: 1
 Finish: 2024-09-06 01:24:50.056045
+------------------------------------------------------
+Started: 2024-09-06 12:40:35.338917
+Existing_entries: 377
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 322
+Summarized using GPT-4o-mini
+Append: [«Ça va être compliqué» : le budget 2025, urgence absolue pour Michel Barnier](https://www.europe1.fr/economie/budget-deficit-public-les-nombreux-defis-economiques-qui-attendent-michel-barnier-4265818)
+Token length: 350
+Summarized using GPT-4o-mini
+Append: [Premier ministre : comment les syndicats et le patronat accueillent-ils la nomination de Michel Barnier à Matignon ?](https://www.europe1.fr/economie/premier-ministre-comment-les-syndicats-et-le-patronat-accueillent-la-nomination-de-michel-barnier-a-matignon-4265842)
+append_entries: 2
+Finish: 2024-09-06 12:40:41.614949

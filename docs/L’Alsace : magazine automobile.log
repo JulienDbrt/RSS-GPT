@@ -2442,3 +2442,15 @@ Summarized using GPT-4o-mini
 Append: [Automobile. Honda, Nissan et Mitsubishi s'associent pour développer une voiture électrique](https://www.lalsace.fr/magazine-automobile/2024/09/05/honda-nissan-et-mitsubishi-s-associent-pour-developper-une-voiture-electrique)
 append_entries: 1
 Finish: 2024-09-06 01:27:43.859933
+------------------------------------------------------
+Started: 2024-09-06 12:43:06.193947
+Existing_entries: 305
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 331
+Summarized using GPT-4o-mini
+Append: [Nouveauté. Audi SQ5 : il revient enfin avec une motorisation essence !](https://www.lalsace.fr/magazine-automobile/2024/09/06/audi-sq5-il-revient-enfin-avec-une-motorisation-essence)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Pratique auto. Climatisation des électriques : différente des thermiques](https://www.lalsace.fr/magazine-automobile/2024/09/06/climatisation-des-electriques-differente-des-thermiques)
+append_entries: 2
+Finish: 2024-09-06 12:43:13.854926

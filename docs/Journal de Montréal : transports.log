@@ -2346,3 +2346,9 @@ Summarized using GPT-4o-mini
 Append: [Pris dans le trafic: Montréal pourra-t-elle un jour se débarrasser de ses bouchons de circulation?](https://www.journaldemontreal.com/2024/09/04/pris-dans-le-trafic-montreal-pourra-t-elle-un-jour-se-debarrasser-de-ses-bouchons-de-circulation)
 append_entries: 4
 Finish: 2024-09-06 01:27:37.547186
+------------------------------------------------------
+Started: 2024-09-06 12:43:03.563070
+Existing_entries: 270
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-06 12:43:03.729948

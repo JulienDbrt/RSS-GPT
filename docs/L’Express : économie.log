@@ -2926,3 +2926,15 @@ Existing_entries: 520
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-09-06 01:27:57.780852
+------------------------------------------------------
+Started: 2024-09-06 12:43:22.605362
+Existing_entries: 520
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 4380
+Summarized using GPT-4o-mini
+Append: [Déficit public : la bataille des chiffres entre Bercy et les collectivités locales](https://www.lexpress.fr/economie/deficit-public-la-bataille-des-chiffres-entre-bercy-et-les-collectivites-locales-EIWHSLAGYVGVFPDX2SUVUVX3CQ/)
+Token length: 3615
+Summarized using GPT-4o-mini
+Append: [Telegram, un "paradis anarchique" ? La réponse de Pavel Durov à la France](https://www.lexpress.fr/economie/high-tech/telegram-un-paradis-anarchique-la-reponse-de-pavel-durov-a-la-france-UAOWN3TOVREMFB5CUJK33L6ZYA/)
+append_entries: 2
+Finish: 2024-09-06 12:43:28.684504
