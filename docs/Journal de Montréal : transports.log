@@ -2373,3 +2373,9 @@ Summarized using GPT-4o-mini
 Append: [L'autoroute 55 finalement ouverte pour le Festival western de St-Tite](https://www.journaldemontreal.com/2024/09/05/lautoroute-55-finalement-ouverte-pour-le-festival-western-de-st-tite)
 append_entries: 5
 Finish: 2024-09-07 01:23:25.773031
+------------------------------------------------------
+Started: 2024-09-07 12:37:47.749437
+Existing_entries: 275
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-07 12:37:47.842961

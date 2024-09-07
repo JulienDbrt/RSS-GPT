@@ -2460,3 +2460,9 @@ Summarized using GPT-4o-mini
 Append: [CARTE. Jeux paralympiques de 2024 : quelles sont les restrictions de circulation lors du marathon dimanche ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/carte-jeux-paralympiques-de-2024-quelles-sont-les-restrictions-de-circulation-lors-du-marathon-dimanche-3027896.html)
 append_entries: 1
 Finish: 2024-09-07 01:22:31.479348
+------------------------------------------------------
+Started: 2024-09-07 12:36:54.827078
+Existing_entries: 314
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-07 12:36:55.003561

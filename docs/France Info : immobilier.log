@@ -1892,3 +1892,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : le bon moment pour acheter ?](https://www.francetvinfo.fr/economie/immobilier/immobilier-le-bon-moment-pour-acheter_6767185.html)
 append_entries: 1
 Finish: 2024-09-07 01:21:57.572495
+------------------------------------------------------
+Started: 2024-09-07 12:36:33.139503
+Existing_entries: 118
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-07 12:36:33.299667

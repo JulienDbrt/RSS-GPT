@@ -1817,3 +1817,18 @@ Existing_entries: 99
 Fetching from https://flipboard.com/topic/fr-linky.rss
 append_entries: 0
 Finish: 2024-09-07 01:16:54.859896
+------------------------------------------------------
+Started: 2024-09-07 12:32:08.102627
+Existing_entries: 99
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Linky refait parler de lui](https://www.la-croix.com/economie/linky-refait-parler-de-lui-20240830)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Compteurs Linky : les clients non équipés seront facturés à partir de l'été 2025](https://www.francetvinfo.fr/economie/linky/compteurs-linky-enedis-va-facturer-les-clients-non-equipes-a-partir-de-l-ete-2025_6751591.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Si vous refusez le compteur Linky, vous devrez payer 64 € par an dès 2025](https://www.ouest-france.fr/economie/budget/si-vous-refusez-le-compteur-linky-vous-devrez-payer-64-euros-par-an-des-2025-62973776-6462-11ef-8240-06b4a6eeb030)
+append_entries: 3
+Finish: 2024-09-07 12:32:15.475831

@@ -2588,3 +2588,12 @@ Summarized using GPT-4o-mini
 Append: [Casino : Plus de 3.000 suppressions de postes à venir selon les syndicats](https://www.20minutes.fr/economie/4108815-20240906-casino-plus-3-000-suppressions-postes-venir-selon-syndicats)
 append_entries: 2
 Finish: 2024-09-07 01:18:52.227614
+------------------------------------------------------
+Started: 2024-09-07 12:34:02.797233
+Existing_entries: 350
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Pourquoi la filière des caisses en bois pour le vin craint-elle pour son avenir ?](https://www.20minutes.fr/economie/4108697-20240907-pourquoi-filiere-caisses-bois-vin-craint-avenir)
+append_entries: 1
+Finish: 2024-09-07 12:34:04.972429

@@ -1854,3 +1854,9 @@ Summarized using GPT-4o-mini
 Append: [États-Unis: les créations d'emplois moins importantes que prévu en août](https://www.bfmtv.com/economie/emploi/etats-unis-les-creations-d-emplois-moins-importantes-que-prevu-en-aout_AN-202409060535.html)
 append_entries: 2
 Finish: 2024-09-07 01:19:57.075387
+------------------------------------------------------
+Started: 2024-09-07 12:34:47.343015
+Existing_entries: 112
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-09-07 12:34:47.763060

@@ -2837,3 +2837,15 @@ Summarized using GPT-4o-mini
 Append: [Finances publiques : la Fédération nationale des transporteurs routiers "inquiète de possibles tours de vis en matière fiscale"](https://www.francetvinfo.fr/replay-radio/l-interview-eco/finances-publiques-la-federation-nationale-des-transporteurs-routiers-inquiete-de-possibles-tours-de-vis-en-matiere-fiscale_6738499.html)
 append_entries: 1
 Finish: 2024-09-07 01:21:59.724806
+------------------------------------------------------
+Started: 2024-09-07 12:36:33.535278
+Existing_entries: 439
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [L'été 2024 a été "positif" pour la SNCF malgré un mois de juillet moins bon qu'en 2023](https://www.francetvinfo.fr/economie/transports/sncf/ete-positif-pour-la-sncf-malgre-un-mois-de-juillet-moins-bon-qu-en-2023_6768394.html)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [ENQUÊTE. Du transport maritime à BFMTV, l’empire Saadé à l’ombre de l’État](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/du-transport-maritime-a-bfmtv-l-empire-saade-a-l-ombre-de-l-etat_6740371.html)
+append_entries: 2
+Finish: 2024-09-07 12:36:38.216580

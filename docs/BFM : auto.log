@@ -2478,3 +2478,15 @@ Summarized using GPT-4o-mini
 Append: [BMW annonce sa première voiture à hydrogène pour 2028](https://www.bfmtv.com/auto/bmw-annonce-sa-premiere-voiture-a-hydrogene-pour-2028_AD-202409060602.html)
 append_entries: 1
 Finish: 2024-09-07 01:19:39.004037
+------------------------------------------------------
+Started: 2024-09-07 12:34:41.685682
+Existing_entries: 320
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 257
+Summarized using GPT-4o-mini
+Append: [Essai - Ford Explorer, un SUV électrique pour se relancer en Europe](https://www.bfmtv.com/auto/essais/essai-ford-explorer-un-suv-electrique-pour-se-relancer-en-europe_AV-202409070248.html)
+Token length: 312
+Summarized using GPT-4o-mini
+Append: [Le patron de Renault craint des amendes pour les constructeurs européens s'ils ne vendent pas plus de voitures électriques](https://www.bfmtv.com/auto/le-patron-de-renault-craint-des-amendes-pour-les-constructeurs-europeens-s-ils-ne-vendent-pas-plus-de-voitures-electriques_AD-202409070225.html)
+append_entries: 2
+Finish: 2024-09-07 12:34:45.888148

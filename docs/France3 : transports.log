@@ -4897,3 +4897,18 @@ Summarized using GPT-4o-mini
 Append: [IBAN, dates de naissance et emails piratés chez Divia : que faire si vos données clients ont été dérobées ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/iban-dates-de-naissance-et-emails-pirates-chez-divia-que-faire-si-vos-donnees-clients-ont-ete-derobees-3027713.html)
 append_entries: 7
 Finish: 2024-09-07 01:23:09.019708
+------------------------------------------------------
+Started: 2024-09-07 12:37:40.814739
+Existing_entries: 1007
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [La circulation interrompue après un accident de la circulation à San-Giuliano](https://france3-regions.francetvinfo.fr/corse/haute-corse/la-circulation-interrompue-apres-un-accident-de-la-circulation-a-san-giuliano-3028328.html)
+Token length: 310
+Summarized using GPT-4o-mini
+Append: ["On attend bien trop longtemps" : la fermeture du tunnel du Mont-Blanc provoque des embouteillages au Fréjus](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/albertville/on-attend-bien-trop-longtemps-la-fermeture-du-tunnel-du-mont-blanc-provoque-des-embouteillages-au-frejus-3028022.html)
+Token length: 291
+Summarized using GPT-4o-mini
+Append: [La mairie de Reims vend aux enchères un bus qu'elle n'utilise plus](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/la-mairie-de-reims-vend-aux-encheres-un-bus-qu-elle-n-utilise-plus-3028103.html)
+append_entries: 3
+Finish: 2024-09-07 12:37:47.283335
