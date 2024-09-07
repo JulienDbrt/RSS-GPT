@@ -1883,3 +1883,12 @@ Summarized using GPT-4o-mini
 Append: ["La promesse était belle..." : alerte sur la recrudescence d'arnaques aux crédits immobiliers avec des faux courtiers et de fausses offres de prêt](https://www.francetvinfo.fr/economie/immobilier/la-promesse-etait-belle-alerte-sur-la-recrudescence-d-arnaques-aux-credits-immobiliers-avec-des-faux-courtiers-et-de-fausses-offres-de-pret_6764359.html)
 append_entries: 2
 Finish: 2024-09-06 12:41:31.515533
+------------------------------------------------------
+Started: 2024-09-07 01:21:55.771368
+Existing_entries: 117
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Immobilier : le bon moment pour acheter ?](https://www.francetvinfo.fr/economie/immobilier/immobilier-le-bon-moment-pour-acheter_6767185.html)
+append_entries: 1
+Finish: 2024-09-07 01:21:57.572495

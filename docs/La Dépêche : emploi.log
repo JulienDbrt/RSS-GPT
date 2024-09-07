@@ -2806,3 +2806,15 @@ Existing_entries: 428
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-09-06 12:44:34.213413
+------------------------------------------------------
+Started: 2024-09-07 01:24:29.288596
+Existing_entries: 428
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 186
+Summarized using GPT-4o-mini
+Append: [Plan social chez Casino : le groupe va supprimer plus de 3 000 postes, selon les syndicats](https://www.ladepeche.fr/2024/09/06/plan-social-chez-casino-le-groupe-va-supprimer-plus-de-3-000-postes-selon-les-syndicats-12181449.php)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [« Chacun de nous a un rôle à jouer pour le Lot de demain » : le département veut être un exemple national en politique écologique](https://www.ladepeche.fr/2024/09/06/chacun-de-nous-a-un-role-a-jouer-pour-le-lot-de-demain-le-departement-veut-etre-un-exemple-national-en-politique-ecologique-12181184.php)
+append_entries: 2
+Finish: 2024-09-07 01:24:34.398517

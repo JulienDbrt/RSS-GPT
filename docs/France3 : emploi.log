@@ -2661,3 +2661,18 @@ Summarized using GPT-4o-mini
 Append: [Offres d'emploi : l'entreprise Labeyrie recrute 300 saisonniers dans les Landes](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/mont-de-marsan/offres-d-emploi-l-entreprise-labeyrie-recrute-300-saisonniers-dans-les-landes-3027341.html)
 append_entries: 1
 Finish: 2024-09-06 12:42:45.244977
+------------------------------------------------------
+Started: 2024-09-07 01:22:42.123638
+Existing_entries: 383
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 249
+Summarized using GPT-4o-mini
+Append: [Rockwool se pourvoit en cassation pour poursuivre la construction de son usine de laine de roche dans l’Aisne](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/soissons/rockwool-se-pourvoit-en-cassation-pour-poursuivre-la-construction-de-son-usine-de-laine-de-roche-dans-l-aisne-3028130.html)
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [La colère de salariés en situation de handicap, ils vont perdre jusqu'à 10% de leur salaire, "avec mes collègues, on ne dort plus la nuit"](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/la-colere-de-salaries-en-situation-de-handicap-ils-vont-perdre-jusqu-a-10-de-leur-salaire-avec-mes-collegues-on-ne-dort-plus-la-nuit-3027998.html)
+Token length: 234
+Summarized using GPT-4o-mini
+Append: [Papeterie de Stenay, la liquidation mise en sursis : "C’est une bouffée d’oxygène supplémentaire"](https://france3-regions.francetvinfo.fr/grand-est/meuse/bar-le-duc/papeterie-de-stenay-la-liquidation-mise-en-sursis-c-est-une-bouffee-d-oxygene-supplementaire-3028043.html)
+append_entries: 3
+Finish: 2024-09-07 01:22:49.606041

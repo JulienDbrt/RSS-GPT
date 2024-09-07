@@ -4240,3 +4240,15 @@ Summarized using GPT-4o-mini
 Append: [Offres d'emploi : l'entreprise Labeyrie recrute 300 saisonniers dans les Landes](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/mont-de-marsan/offres-d-emploi-l-entreprise-labeyrie-recrute-300-saisonniers-dans-les-landes-3027341.html)
 append_entries: 9
 Finish: 2024-09-06 12:42:35.889586
+------------------------------------------------------
+Started: 2024-09-07 01:22:31.977012
+Existing_entries: 909
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 246
+Summarized using GPT-4o-mini
+Append: [Quel est le véritable bilan de la fièvre catarrhale en Corse ?](https://france3-regions.francetvinfo.fr/corse/quel-est-le-veritable-bilan-de-la-fievre-catarrhale-en-corse-3028139.html)
+Token length: 289
+Summarized using GPT-4o-mini
+Append: ["Il faut se préparer à la transition", crise dans le secteur du vin, deux grosses coopératives obligées d'unir leurs forces](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/il-faut-se-preparer-a-la-transition-crise-dans-le-secteur-du-vin-deux-grosses-cooperatives-obligees-d-unir-leurs-forces-3027860.html)
+append_entries: 2
+Finish: 2024-09-07 01:22:36.158970
