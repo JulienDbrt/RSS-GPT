@@ -4912,3 +4912,15 @@ Summarized using GPT-4o-mini
 Append: [La mairie de Reims vend aux enchères un bus qu'elle n'utilise plus](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/la-mairie-de-reims-vend-aux-encheres-un-bus-qu-elle-n-utilise-plus-3028103.html)
 append_entries: 3
 Finish: 2024-09-07 12:37:47.283335
+------------------------------------------------------
+Started: 2024-09-08 01:25:43.942748
+Existing_entries: 1003
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [Mauvaises ventes pour le Pass rail : une révolution ratée pour la Bourgogne-Franche-Comté, "ça a été imposé aux régions"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/ventes-du-pass-rail-pour-la-region-bourgogne-franche-comte-l-echec-s-explique-parce-que-ca-a-ete-impose-aux-regions-3026360.html)
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Un automobiliste tué sur l'autoroute après avoir été percuté par un conducteur de camping-car](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/un-automobiliste-tue-sur-l-autoroute-apres-avoir-ete-percute-par-un-conducteur-de-camping-car-3028499.html)
+append_entries: 2
+Finish: 2024-09-08 01:25:48.886589

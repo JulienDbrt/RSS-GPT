@@ -7530,3 +7530,18 @@ Summarized using GPT-4o-mini
 Append: [Plus d’un million de petites retraites augmentées début octobre](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/plus-d-un-million-de-petites-retraites-augmentees-debut-octobre_6740368.html)
 append_entries: 8
 Finish: 2024-09-07 12:36:32.402969
+------------------------------------------------------
+Started: 2024-09-08 01:25:13.467615
+Existing_entries: 1008
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 140
+Summarized using GPT-4o-mini
+Append: [Intempéries : des vignobles français en péril ?](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/intemperies-des-vignobles-francais-en-peril_6768895.html)
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [Intelligence artificielle : une première méthodologie pour mesurer le coût environnemental de cette technologie](https://www.francetvinfo.fr/replay-radio/nouveau-monde/nouveau-monde-du-samedi-07-septembre-2024-intelligence-artificielle-une-premiere-methodologie-pour-mesurer-le-cout-environnemental-de-cette-technologie_6740320.html)
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Aude : des vendanges décevantes en perspective ?](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/aude-des-vendanges-decevantes-en-perspective_6768601.html)
+append_entries: 3
+Finish: 2024-09-08 01:25:20.452826

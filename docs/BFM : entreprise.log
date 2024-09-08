@@ -5304,3 +5304,12 @@ Summarized using GPT-4o-mini
 Append: [ISS: la capsule Starliner de Boeing est revenue sur Terre, sans équipage](https://www.bfmtv.com/economie/entreprises/aeronautique/iss-la-capsule-starliner-de-boeing-est-revenue-sur-terre-sans-equipage_AD-202409070058.html)
 append_entries: 5
 Finish: 2024-09-07 12:34:59.688178
+------------------------------------------------------
+Started: 2024-09-08 01:24:26.596811
+Existing_entries: 1005
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 270
+Summarized using GPT-4o-mini
+Append: [Fuite à la raffinerie TotalEnergies de Donges en 2022: l'effet sanitaire analysé](https://www.bfmtv.com/economie/entreprises/energie/fuite-a-la-raffinerie-total-energies-de-donges-en-2022-l-effet-sanitaire-analyse_AD-202409070298.html)
+append_entries: 1
+Finish: 2024-09-08 01:24:29.870636

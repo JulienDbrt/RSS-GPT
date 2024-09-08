@@ -6211,3 +6211,15 @@ Summarized using GPT-4o-mini
 Append: [La Corse veut donner au cinéma un rôle économique de premier plan](https://www.latribune.fr/economie/la-corse-veut-donner-au-cinema-un-role-economique-de-premier-plan-1005641.html)
 append_entries: 6
 Finish: 2024-09-07 12:39:37.599905
+------------------------------------------------------
+Started: 2024-09-08 01:26:44.970835
+Existing_entries: 1006
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 484
+Summarized using GPT-4o-mini
+Append: [Manifestation du 7 septembre : à peine nommé à Matignon, Barnier contesté dans la rue](https://www.latribune.fr/economie/france/manifestation-du-7-septembre-a-peine-nomme-a-matignon-barnier-conteste-dans-la-rue-1005769.html)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Barnier effectue son premier déplacement au chevet de l'hôpital](https://www.latribune.fr/economie/france/barnier-effectue-son-premier-deplacement-au-chevet-de-l-hopital-1005758.html)
+append_entries: 2
+Finish: 2024-09-08 01:26:50.566737

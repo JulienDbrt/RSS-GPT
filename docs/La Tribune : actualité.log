@@ -8272,3 +8272,18 @@ Summarized using GPT-4o-mini
 Append: [Le Starliner de Boeing de retour sur Terre... sans les deux astronautes](https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/le-starliner-de-boeing-de-retour-sur-terre-sans-les-deux-astronautes-1005761.html)
 append_entries: 10
 Finish: 2024-09-07 12:40:05.258531
+------------------------------------------------------
+Started: 2024-09-08 01:26:51.466114
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 87
+Summarized using GPT-4o-mini
+Append: [À l’ancienne](https://www.latribune.fr/opinions/editos/a-l-ancienne-1005838.html)
+Token length: 484
+Summarized using GPT-4o-mini
+Append: [Manifestation du 7 septembre : à peine nommé à Matignon, Barnier contesté dans la rue](https://www.latribune.fr/economie/france/manifestation-du-7-septembre-a-peine-nomme-a-matignon-barnier-conteste-dans-la-rue-1005769.html)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Barnier effectue son premier déplacement au chevet de l'hôpital](https://www.latribune.fr/economie/france/barnier-effectue-son-premier-deplacement-au-chevet-de-l-hopital-1005758.html)
+append_entries: 3
+Finish: 2024-09-08 01:26:56.786565

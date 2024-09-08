@@ -2466,3 +2466,12 @@ Existing_entries: 314
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-07 12:36:55.003561
+------------------------------------------------------
+Started: 2024-09-08 01:25:28.906093
+Existing_entries: 314
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [Manifestation de la gauche à Paris : 160 000 personnes selon les organisateurs, 26 000 selon la police](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manifestation-de-la-gauche-a-paris-160-000-personnes-selon-les-organisateurs-26-000-selon-la-police-3028526.html)
+append_entries: 1
+Finish: 2024-09-08 01:25:32.313558

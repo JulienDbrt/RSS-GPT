@@ -1926,3 +1926,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier en quelques chiffres. L'offre de logements neufs au plus bas mais "le pire n'est pas atteint"](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/immobilier-a-toulouse-en-quelques-chiffres-l-offre-de-logements-neufs-au-plus-bas-mais-le-pire-n-est-pas-atteint-3026528.html)
 append_entries: 3
 Finish: 2024-09-07 12:37:40.260328
+------------------------------------------------------
+Started: 2024-09-08 01:25:42.913642
+Existing_entries: 134
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-09-08 01:25:43.392674

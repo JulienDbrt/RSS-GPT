@@ -2849,3 +2849,9 @@ Summarized using GPT-4o-mini
 Append: [ENQUÊTE. Du transport maritime à BFMTV, l’empire Saadé à l’ombre de l’État](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/du-transport-maritime-a-bfmtv-l-empire-saade-a-l-ombre-de-l-etat_6740371.html)
 append_entries: 2
 Finish: 2024-09-07 12:36:38.216580
+------------------------------------------------------
+Started: 2024-09-08 01:25:22.400657
+Existing_entries: 441
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-08 01:25:22.483674

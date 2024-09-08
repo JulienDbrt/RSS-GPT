@@ -2014,3 +2014,12 @@ Summarized using GPT-4o-mini
 Append: [Le centre commercial de Dillon barricadé par les militants contre la vie chère](https://la1ere.francetvinfo.fr/martinique/le-centre-commercial-de-dillon-barricade-par-les-activistes-contre-la-vie-chere-1519676.html)
 append_entries: 2
 Finish: 2024-09-07 12:38:22.995064
+------------------------------------------------------
+Started: 2024-09-08 01:26:15.636923
+Existing_entries: 150
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 68
+Summarized using GPT-4o-mini
+Append: [Mobilisation contre la vie chère en Martinique : les blocages et simulations de courses se poursuivent](https://la1ere.francetvinfo.fr/martinique/mobilisation-contre-la-vie-chere-en-martinique-les-blocages-et-simulations-de-courses-se-poursuivent-1519916.html)
+append_entries: 1
+Finish: 2024-09-08 01:26:17.637654

@@ -2697,3 +2697,9 @@ Summarized using GPT-4o-mini
 Append: [Le quotidien "La Tribune de Genève", fondé il y a près de 150 ans, menacé de disparition après une nouvelle vague de licenciements](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/le-quotidien-la-tribune-de-geneve-fonde-il-y-a-pres-de-150-ans-menace-de-disparition-apres-une-nouvelle-vague-de-licenciements-3026948.html)
 append_entries: 5
 Finish: 2024-09-07 12:37:33.306778
+------------------------------------------------------
+Started: 2024-09-08 01:25:42.584002
+Existing_entries: 391
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-09-08 01:25:42.843002
