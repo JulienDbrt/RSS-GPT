@@ -2134,3 +2134,9 @@ Summarized using GPT-4o-mini
 Append: ["C'est un joyau !" Une Aston Martin vendue plusieurs centaines de milliers d'euros lors de la Coupe Florio](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/c-est-un-joyau-une-aston-martin-vendue-plusieurs-centaines-de-milliers-d-euros-lors-de-la-coupe-florio-3028385.html)
 append_entries: 2
 Finish: 2024-09-08 01:25:42.372240
+------------------------------------------------------
+Started: 2024-09-08 12:36:07.228003
+Existing_entries: 201
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-08 12:36:07.477951

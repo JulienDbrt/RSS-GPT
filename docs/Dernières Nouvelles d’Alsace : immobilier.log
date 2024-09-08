@@ -2066,3 +2066,12 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Vous voulez vendre votre bien à bas prix ? Attention, pari risqué !](https://www.dna.fr/magazine-immobilier/2024/09/07/vous-voulez-vendre-votre-bien-a-bas-prix-attention-pari-risque)
 append_entries: 1
 Finish: 2024-09-08 01:25:07.134162
+------------------------------------------------------
+Started: 2024-09-08 12:34:59.242440
+Existing_entries: 172
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Conseils décoration. C'est la rentrée, offrez-vous une nouvelle table !](https://www.dna.fr/magazine-immobilier/2024/09/08/c-est-la-rentree-offrez-vous-une-nouvelle-table)
+append_entries: 1
+Finish: 2024-09-08 12:35:02.086159

@@ -4924,3 +4924,27 @@ Summarized using GPT-4o-mini
 Append: [Un automobiliste tué sur l'autoroute après avoir été percuté par un conducteur de camping-car](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/un-automobiliste-tue-sur-l-autoroute-apres-avoir-ete-percute-par-un-conducteur-de-camping-car-3028499.html)
 append_entries: 2
 Finish: 2024-09-08 01:25:48.886589
+------------------------------------------------------
+Started: 2024-09-08 12:36:17.696933
+Existing_entries: 1002
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 236
+Summarized using GPT-4o-mini
+Append: [Excès de vitesse : un automobiliste emboutit la façade d'une pizzéria avec sa voiture](https://france3-regions.francetvinfo.fr/grand-est/marne/reims/exces-de-vitesse-un-automobiliste-emboutit-la-facade-d-une-pizzeria-avec-sa-voiture-3028694.html)
+Token length: 325
+Summarized using GPT-4o-mini
+Append: [Vélo pas cher, réparations faciles... Cette association veut convaincre de nouveaux cyclistes autrement](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/velo-pas-cher-reparations-faciles-cette-association-veut-convaincre-de-nouveaux-cyclistes-autrement-3028568.html)
+Token length: 160
+Summarized using GPT-4o-mini
+Append: [INTERVIEW. Golden Coast : comment le plus gros festival de rap de France s’est monté à Dijon](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/interview-golden-coast-comment-le-plus-gros-festival-de-rap-de-france-s-est-monte-a-dijon-3027923.html)
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Culture bus : quels bons plans sur la ligne 132 ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/culture-bus-quels-bons-plans-sur-la-ligne-132-3026462.html)
+Token length: 325
+Summarized using GPT-4o-mini
+Append: ["Dans ce pont, il y a l'histoire des chemins de fer" : le plus vieux pont métallique d'Europe menacé de déconstruction](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/dans-ce-pont-il-y-a-l-histoire-des-chemins-de-fer-europeens-le-plus-vieux-pont-metallique-d-europe-menace-de-deconstruction-3027932.html)
+Token length: 317
+Summarized using GPT-4o-mini
+Append: ["Pas de train, le commerce s'éteint", ces commerçants des Alpes-Maritimes sont en colère et le font savoir](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/menton/pas-de-train-le-commerce-s-eteint-ces-commercants-des-alpes-maritimes-sont-en-colere-et-le-font-savoir-3028001.html)
+append_entries: 6
+Finish: 2024-09-08 12:36:33.082057

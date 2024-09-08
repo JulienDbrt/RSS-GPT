@@ -2388,3 +2388,9 @@ Summarized using GPT-4o-mini
 Append: [Doute et confusion: Air Canada simplifie ses délais d’enregistrement](https://www.journaldemontreal.com/2024/09/06/doute-et-confusion-air-canada-simplifie-ses-delais-denregistrement)
 append_entries: 1
 Finish: 2024-09-08 01:25:53.837850
+------------------------------------------------------
+Started: 2024-09-08 12:36:33.652231
+Existing_entries: 276
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-08 12:36:33.750544

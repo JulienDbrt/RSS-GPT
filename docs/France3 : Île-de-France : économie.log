@@ -2475,3 +2475,21 @@ Summarized using GPT-4o-mini
 Append: [Manifestation de la gauche à Paris : 160 000 personnes selon les organisateurs, 26 000 selon la police](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/manifestation-de-la-gauche-a-paris-160-000-personnes-selon-les-organisateurs-26-000-selon-la-police-3028526.html)
 append_entries: 1
 Finish: 2024-09-08 01:25:32.313558
+------------------------------------------------------
+Started: 2024-09-08 12:35:37.921442
+Existing_entries: 315
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 299
+Summarized using GPT-4o-mini
+Append: [Après 10 ans de bataille judiciaire, Grigny va enfin avoir son premier supermarché](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/apres-10-ans-de-bataille-judiciaire-grigny-va-enfin-avoir-son-premier-supermarche-3028616.html)
+Token length: 276
+Summarized using GPT-4o-mini
+Append: [Collèges délabrés en Seine-Saint-Denis : un audit épingle de nombreuses défaillances](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/colleges-delabres-en-seine-saint-denis-un-audit-epingle-de-nombreuses-defaillances-3028676.html)
+Token length: 324
+Summarized using GPT-4o-mini
+Append: ["Ce n'est pas aussi rentable qu'un immeuble de 39 mètres", faut-il rénover les maisons faubouriennes de Vaugirard ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ce-n-est-pas-aussi-rentable-qu-un-immeuble-de-39-metres-faut-il-renover-les-maisons-faubouriennes-de-vaugirard-3024359.html)
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Culture bus : quels bons plans sur la ligne 132 ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/culture-bus-quels-bons-plans-sur-la-ligne-132-3026462.html)
+append_entries: 4
+Finish: 2024-09-08 12:35:47.044410
