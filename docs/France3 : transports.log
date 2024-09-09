@@ -4948,3 +4948,12 @@ Summarized using GPT-4o-mini
 Append: ["Pas de train, le commerce s'éteint", ces commerçants des Alpes-Maritimes sont en colère et le font savoir](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/menton/pas-de-train-le-commerce-s-eteint-ces-commercants-des-alpes-maritimes-sont-en-colere-et-le-font-savoir-3028001.html)
 append_entries: 6
 Finish: 2024-09-08 12:36:33.082057
+------------------------------------------------------
+Started: 2024-09-09 01:22:32.037911
+Existing_entries: 1006
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 296
+Summarized using GPT-4o-mini
+Append: [Accident dans le Gard : une voiture fait plusieurs tonneaux et termine sa course sur le toit, bilan 5 blessés](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/accident-dans-le-gard-une-voiture-fait-plusieurs-tonneaux-et-termine-sa-course-sur-le-toit-bilan-5-blesses-3028802.html)
+append_entries: 1
+Finish: 2024-09-09 01:22:34.785861

@@ -1729,3 +1729,9 @@ Summarized using GPT-4o-mini
 Append: [Réouverture de Notre-Dame : le pape attendu à Paris](https://www.latribune.fr/economie/france/reouverture-de-notre-dame-le-pape-attendu-a-paris-1005857.html)
 append_entries: 1
 Finish: 2024-09-08 12:38:12.468171
+------------------------------------------------------
+Started: 2024-09-09 01:23:46.460755
+Existing_entries: 51
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+append_entries: 0
+Finish: 2024-09-09 01:23:46.786593

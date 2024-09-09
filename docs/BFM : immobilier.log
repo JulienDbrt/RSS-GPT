@@ -2566,3 +2566,12 @@ Summarized using GPT-4o-mini
 Append: [Paris, Toulouse, Bordeaux... Quelles sont les villes les plus prisées pour déménager?](https://www.bfmtv.com/immobilier/achat-vente/paris-toulouse-bordeaux-quelles-sont-les-villes-les-plus-prisees-pour-demenager_AV-202409080253.html)
 append_entries: 1
 Finish: 2024-09-08 12:34:42.744483
+------------------------------------------------------
+Started: 2024-09-09 01:21:23.126528
+Existing_entries: 356
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [Loger un enfant n'est pas forcément un cadeau à prendre en compte pour l'héritage](https://www.bfmtv.com/immobilier/fiscalite/loger-un-enfant-n-est-pas-forcement-un-cadeau-a-prendre-en-compte-pour-l-heritage_AD-202409080293.html)
+append_entries: 1
+Finish: 2024-09-09 01:21:26.158021

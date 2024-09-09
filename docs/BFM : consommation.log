@@ -2205,3 +2205,9 @@ Summarized using GPT-4o-mini
 Append: [À Marseille, Lyon, Paris, la consommation des Français boostée par les Jeux olympiques](https://www.bfmtv.com/economie/consommation/a-marseille-lyon-paris-la-consommation-des-francais-boostee-par-les-jeux-olympiques_VN-202409080056.html)
 append_entries: 1
 Finish: 2024-09-08 12:34:00.422965
+------------------------------------------------------
+Started: 2024-09-09 01:20:55.235402
+Existing_entries: 223
+Fetching from https://www.bfmtv.com/rss/economie/consommation/
+append_entries: 0
+Finish: 2024-09-09 01:20:55.486553

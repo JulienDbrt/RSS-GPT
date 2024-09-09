@@ -2029,3 +2029,15 @@ Existing_entries: 151
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-09-08 12:37:06.043857
+------------------------------------------------------
+Started: 2024-09-09 01:23:00.195556
+Existing_entries: 151
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 46
+Summarized using GPT-4o-mini
+Append: [Prix des carburants aux Antilles-Guyane : la SARA conteste le rapport de l'Inspection Générale des Finances](https://la1ere.francetvinfo.fr/martinique/prix-des-carburants-aux-antilles-guyane-la-sara-conteste-le-rapport-de-l-inspection-generale-des-finances-1519565.html)
+Token length: 90
+Summarized using GPT-4o-mini
+Append: [Mobilisation contre la vie chère en Martinique : une nouvelle manifestation organisée à Dillon à Fort-de-France](https://la1ere.francetvinfo.fr/martinique/mobilisation-contre-la-vie-chere-en-martinique-une-nouvelle-manifestation-organisee-a-dillon-a-fort-de-france-1520084.html)
+append_entries: 2
+Finish: 2024-09-09 01:23:05.214246

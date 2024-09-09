@@ -2487,3 +2487,9 @@ Summarized using GPT-4o-mini
 Append: [Une récolte de pommes abondantes : stockage, jus de fruits, comment ne pas les gâcher après une grosse récolte ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/franche-comte/une-recolte-de-pommes-abondantes-stockage-jus-de-fruits-comment-ne-pas-les-gacher-apres-une-grosse-recolte-3026240.html)
 append_entries: 1
 Finish: 2024-09-08 12:36:07.119472
+------------------------------------------------------
+Started: 2024-09-09 01:22:23.427272
+Existing_entries: 317
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-09-09 01:22:23.686387

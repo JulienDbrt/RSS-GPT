@@ -2493,3 +2493,9 @@ Summarized using GPT-4o-mini
 Append: [Culture bus : quels bons plans sur la ligne 132 ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/culture-bus-quels-bons-plans-sur-la-ligne-132-3026462.html)
 append_entries: 4
 Finish: 2024-09-08 12:35:47.044410
+------------------------------------------------------
+Started: 2024-09-09 01:22:06.859192
+Existing_entries: 319
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-09 01:22:07.040491
