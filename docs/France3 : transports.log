@@ -4957,3 +4957,24 @@ Summarized using GPT-4o-mini
 Append: [Accident dans le Gard : une voiture fait plusieurs tonneaux et termine sa course sur le toit, bilan 5 blessés](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/accident-dans-le-gard-une-voiture-fait-plusieurs-tonneaux-et-termine-sa-course-sur-le-toit-bilan-5-blesses-3028802.html)
 append_entries: 1
 Finish: 2024-09-09 01:22:34.785861
+------------------------------------------------------
+Started: 2024-09-09 12:43:22.393173
+Existing_entries: 1001
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Deux morts et cinq blessés en urgence absolue lors un accident de la route dans les Yvelines](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/deux-morts-et-cinq-blesses-en-urgence-absolue-lors-un-accident-de-la-route-dans-les-yvelines-3029102.html)
+Token length: 274
+Summarized using GPT-4o-mini
+Append: [Acte de vandalisme : 6 lignes de bus perturbées à Strasbourg, les véhicules "inaptes au service"](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/acte-de-vandalisme-6-lignes-de-bus-perturbees-a-strasbourg-les-vehicules-inaptes-au-service-3029054.html)
+Token length: 284
+Summarized using GPT-4o-mini
+Append: [CARTE. Patrouilleur percuté, autoroute A8 coupée plusieurs heures : le point sur les accidents de ce lundi](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/carte-autoroute-a8-coupee-ce-lundi-pres-de-monaco-suivez-la-circulation-en-temps-reel-3028850.html)
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [POLEMIQUE. Périphérique à 50 km/heure à partir du 1er octobre, "ça relève de ma décision", affirme Anne Hidalgo](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/peripherique-a-50-km-heure-a-partir-du-1er-octobre-ca-releve-de-ma-decision-affirme-anne-hidalgo-3028883.html)
+Token length: 243
+Summarized using GPT-4o-mini
+Append: ["Yo, c'est moi le chauffeur" : un conducteur de bus fait le buzz avec son rap dénonçant les incivilités](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/yo-c-est-moi-le-chauffeur-un-conducteur-de-bus-fait-le-buzz-avec-son-rap-denoncant-les-incivilites-3028079.html)
+append_entries: 5
+Finish: 2024-09-09 12:43:41.386781

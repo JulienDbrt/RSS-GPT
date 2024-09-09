@@ -4,6 +4,116 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Loki, l’outil open source qui vérifie les faits</title>
+<link>https://korben.info/loki-outil-ultime-verification-faits-open-source.html</link>
+<guid>https://korben.info/loki-outil-ultime-verification-faits-open-source.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: Loki, vérification, fake news, open source, IA
+
+<br><br>Summary: Loki est un outil open source conçu pour faciliter la vérification des faits en détectant les fake news. Il décompose les textes longs en affirmations individuelles, ciblant les déclarations concrètes. Ensuite, grâce à des modèles d'intelligence artificielle comme le traitement du langage naturel et l'apprentissage automatique, Loki effectue des recherches sur Internet pour rassembler des preuves. Une fois ces preuves récoltées, l'outil évalue la véracité des affirmations, tout en offrant des explications sur son processus d'analyse pour garantir la transparence. Bien que l'interface soit accessible, une supervision humaine reste recommandée pour valider les résultats. De plus, Loki propose une version corrigée et sourcée de l'information originale, permettant ainsi une meilleure compréhension. Pour utiliser Loki, il faut installer Python et Poetry, cloner son dépôt GitHub, et suivre certaines commandes simples pour vérifier divers types de contenu. La communauté autour de Loki est active et prête à aider via GitHub ou un serveur Discord dédié. En somme, Loki représente un atout précieux pour quiconque souhaite tracer la frontière entre la vérité et le mensonge dans l'information. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_for_a_Fact-Verification_software_called_Loki_write__b28a54ae-2b0c-428a-8fac-5e18277deb35.webp" width="1456" /></p>
+<p><strong>Loki</strong>, ça vous dit quelque chose ? Non, je ne parle pas du dieu espiègle de la mythologie nordique, mais bien d&rsquo;un outil qui pourrait bien <strong>révolutionner</strong> la façon dont on traque les fake news. C&rsquo;est une solution <strong>open source</strong> capable de passer au crible de longs textes pour en extraire les affirmations douteuses et les vérifier en un clin d&rsquo;œil.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1677872600" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p><strong>Loki</strong> est un projet vraiment prometteur pour tous ceux qui ont à cœur la <strong>vérification des faits</strong>, que vous soyez journaliste, chercheur ou simplement un citoyen soucieux de démêler le vrai du faux. Son atout majeur, c&rsquo;est un pipeline complet qui prend en charge tout le processus, de la décomposition des textes en affirmations individuelles jusqu&rsquo;à la vérification finale.</p>
+
+
+
+<p>Et concrètement alors, comment ça marche ? </p>
+
+
+
+<p>Eh bien, <strong>Loki</strong> commence par découper un long texte en petits morceaux plus digestes, histoire d&rsquo;y voir plus clair. Ensuite, tel un fin limier, il évalue chaque affirmation pour déterminer si elle mérite d&rsquo;être vérifiée. Exit les déclarations vagues ou ambiguës, on se concentre sur le concret !</p>
+
+
+
+<p>Une fois les affirmations intéressantes identifiées, <strong>Loki</strong> se transforme alors en super détective du web. Il génère des requêtes précises pour partir à la chasse aux preuves sur Internet, en s&rsquo;appuyant sur divers modèles d&rsquo;<strong>IA</strong> tels que le traitement du langage naturel (NLP), l&rsquo;apprentissage automatique (ML) ou encore l&rsquo;extraction d&rsquo;informations. Comme ça, fini les heures passées à éplucher les sources, il s&rsquo;occupe de tout !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2116380242" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Et une fois les preuves rassemblées, il enfile sa casquette d&rsquo;enquêteur pour évaluer la véracité de chaque affirmation. Tel un juge impartial, il examine les éléments à charge et à décharge pour rendre son verdict. Fake news ou info fiable ? Vous le saurez en un instant ! Il faut cependant garder à l&rsquo;esprit que même si <strong>Loki</strong> s&rsquo;appuie sur des modèles d&rsquo;IA performants, aucun outil n&rsquo;est parfait. Une supervision humaine reste donc nécessaire pour garantir la fiabilité des résultats.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159633" height="866" src="https://korben.info/app/uploads/2024/04/kzQUmuZBb3GprqQBT7KtR8glQc.webp" width="1024" /></figure></div>
+
+
+<p>L&rsquo;interface est basique mais permet d&rsquo;interagir directement avec le moteur de vérification. Pas besoin d&rsquo;être un crack en informatique, c&rsquo;est à la portée de tous. </p>
+
+
+
+<p>Le top, c&rsquo;est qu&rsquo;il ne se contente pas de vous dire si une info est vraie ou fausse. Il vous explique aussi comment il est arrivé à cette conclusion, avec toute la transparence qu&rsquo;on est en droit d&rsquo;attendre de ce genre d&rsquo;outils. Ça permet de sourcer et de justifier l&rsquo;analyse. En prime, il sait se montrer pédagogue puisqu&rsquo;en plus de débusquer les fake news, il vous proposera aussi une version corrigée et sourcée de l&rsquo;information. De quoi devenir un pro de la vérification des faits en un rien de temps !</p>
+
+
+
+<p>Si vous voulez tester <strong>Loki</strong> par vous-même, rien de plus simple. Il vous suffit de vous rendre sur le site <a href="https://loki.librai.tech/" rel="noopener" target="_blank">https://loki.librai.tech/</a> pour découvrir toutes les possibilités offertes par cet outil. En attendant, voici un petit <strong>tutoriel</strong> pour bien démarrer avec <strong>Loki</strong>. Il vous faudra des clé API pour OpenAI, Anthropic et Serper.</p>
+
+
+
+<p>Première étape : installez Python et Poetry en suivant les instructions sur le site officiel. </p>
+
+
+
+<p>Ensuite, clonez le dépôt GitHub de <strong>Loki</strong> et lancez l&rsquo;installation avec les commandes :</p>
+
+
+
+<pre class="wp-block-code"><code>git clone https://github.com/Libr-AI/OpenFactVerification
+
+cd OpenFactVerification
+
+pip install -r requirements.txt
+
+poetry install</code></pre>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1102005874" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Ça peut sembler un peu technique, mais promis, c&rsquo;est à la portée de tous !</p>
+
+
+
+<p>Une fois que tout est en place, vous pouvez commencer à jouer avec <strong>Loki</strong>. </p>
+
+
+
+<p>Pour vérifier un texte, rien de plus simple :</p>
+
+
+
+<p><code>python -m factcheck --modal text --input mon_texte.txt</code></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" class="wp-image-159632" height="553" src="https://korben.info/app/uploads/2024/04/SCR-20240421-azl-1024x553.webp" width="1024" /></figure></div>
+
+
+<p>Et voilà, <strong>Loki</strong> va se mettre au travail et vous fournir une analyse complète du texte et vous livrer à la fin un gros JSON.</p>
+
+
+
+<p>Vous pouvez aussi tester avec différents types de contenu (image, vidéo, audio…) en changeant l&rsquo;option <code>--modal</code>. Et si vous voulez personnaliser le modèle utilisé ou les sources de vérification, il vous suffit de passer un fichier de configuration en paramètre :</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-383362996" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_4" id="optidigital-adslot-Content_4" style="display: none;"></div>
+<div class="Mobile_Pos4" id="optidigital-adslot-Mobile_Pos4" style="display: none;"></div></div><p><code>python -m factcheck --modal text --input mon_texte.txt --api_config ma_config.yaml</code></p>
+
+
+
+<p>Notez aussi que tout ceci est dispo sous la forme d&rsquo;une lib Python, donc facilement intégrable avec vos outils.</p>
+
+
+
+<p>Avec ça, vous avez toutes les cartes en main pour devenir un pro de la vérification des faits. Alors, à vous de jouer ! Et si jamais vous avez besoin d&rsquo;un coup de main, n&rsquo;oubliez pas que la communauté <strong>Loki</strong> est là pour vous aider sur GitHub ou sur le serveur Discord dédié au projet.</p>
+]]></content:encoded>
+<pubDate>Mon, 09 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Mon, 09 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>SearXNG – Le métamoteur de recherche open source qui protège votre vie privée</title>

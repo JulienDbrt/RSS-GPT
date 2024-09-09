@@ -4237,3 +4237,15 @@ Summarized using GPT-4o-mini
 Append: [Le Bitcoin s'effondre depuis une semaine. Va-t-il passe sous la barre des 50 000 dollars ?](https://www.clubic.com/actualite-536597-le-bitcoin-s-effondre-depuis-une-semaine-va-t-il-passe-sous-la-barre-des-50-000-dollars.html)
 append_entries: 1
 Finish: 2024-09-09 01:18:43.008734
+------------------------------------------------------
+Started: 2024-09-09 12:35:28.966674
+Existing_entries: 927
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Payer son vin avec des bitcoins, c’est maintenant possible](https://www.ladepeche.fr/2024/09/09/payer-son-vin-avec-des-bitcoins-cest-maintenant-possible-12185448.php)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Payer en bitcoin à la supérette, c'est possible](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/voici-l-un-des-seuls-commerces-alimentaires-de-france-ou-il-est-possible-de-payer-en-bitcoin-3026903.html)
+append_entries: 2
+Finish: 2024-09-09 12:35:34.745757

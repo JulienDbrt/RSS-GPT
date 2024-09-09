@@ -1953,3 +1953,9 @@ Summarized using GPT-4o-mini
 Append: [Gros orages : un arbre tombe sur un immeuble et des voitures à Charleville-Mézières, "tout le bâtiment a tremblé"](https://france3-regions.francetvinfo.fr/grand-est/ardennes/charleville-mezieres/gros-orages-un-arbre-tombe-sur-un-immeuble-et-des-voitures-a-charleville-mezieres-tout-l-immeuble-a-tremble-3028661.html)
 append_entries: 1
 Finish: 2024-09-09 01:22:31.475950
+------------------------------------------------------
+Started: 2024-09-09 12:43:21.464554
+Existing_entries: 137
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-09-09 12:43:21.846238

@@ -1735,3 +1735,12 @@ Existing_entries: 51
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-09-09 01:23:46.786593
+------------------------------------------------------
+Started: 2024-09-09 12:45:55.977649
+Existing_entries: 51
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 255
+Summarized using GPT-4o-mini
+Append: [JO de Paris : comment la Région et France Travail comptent pérenniser les emplois créés](https://www.latribune.fr/regions/ile-de-france/jo-de-paris-comment-la-region-et-france-travail-comptent-perenniser-les-emplois-crees-1005734.html)
+append_entries: 1
+Finish: 2024-09-09 12:45:59.484893

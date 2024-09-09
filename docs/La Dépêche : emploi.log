@@ -2848,3 +2848,12 @@ Existing_entries: 432
 Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
 append_entries: 0
 Finish: 2024-09-09 01:23:26.823070
+------------------------------------------------------
+Started: 2024-09-09 12:44:52.330812
+Existing_entries: 432
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [Des contrats de 3 ans pour des jeunes, même sans diplôme : la police lance une campagne de recrutement à la fin du mois](https://www.ladepeche.fr/2024/09/09/des-contrats-de-3-ans-pour-des-jeunes-meme-sans-diplome-la-police-lance-une-campagne-de-recrutement-a-la-fin-du-mois-12182555.php)
+append_entries: 1
+Finish: 2024-09-09 12:44:55.755891
