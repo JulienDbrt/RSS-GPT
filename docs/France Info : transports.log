@@ -2879,3 +2879,18 @@ Summarized using GPT-4o-mini
 Append: [Périphérique parisien à 50 km/h : "La décision est prise", assure David Belliard, adjoint à la maire de Paris](https://www.francetvinfo.fr/economie/transports/peripherique-parisien-a-50-km-h-la-decision-est-prise-assure-david-belliard-adjoint-a-la-maire-de-paris_6771679.html)
 append_entries: 1
 Finish: 2024-09-09 12:42:30.719310
+------------------------------------------------------
+Started: 2024-09-10 01:24:28.275038
+Existing_entries: 443
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Périphérique parisien à 50 km/h : la région Île-de-France va demander à la maire de Paris de "renoncer à ce projet"](https://www.francetvinfo.fr/economie/transports/peripherique-parisien-a-50-km-h-la-region-ile-de-france-va-demander-a-la-maire-de-paris-de-renoncer-a-ce-projet_6772144.html)
+Token length: 103
+Summarized using GPT-4o-mini
+Append: [Le périphérique parisien à 50 km/h : "Une bonne mesure pour la santé", même si "sur la qualité de l'air, l'effet sera marginal", nuance le directeur de l'association Respire](https://www.francetvinfo.fr/economie/transports/le-peripherique-parisien-a-50-km-h-une-bonne-mesure-pour-la-sante-meme-si-sur-la-qualite-de-l-air-l-effet-sera-marginal-nuance-le-directeur-de-l-association-respire_6772102.html)
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Périphérique parisien à 50 km/h : Anne Hidalgo peut-elle décider seule de la vitesse maximale autorisée ?](https://www.francetvinfo.fr/economie/transports/peripherique-parisien-a-50-km-h-anne-hidalgo-peut-elle-decider-seule-de-la-vitesse-maximale-autorisee_6771919.html)
+append_entries: 3
+Finish: 2024-09-10 01:24:36.810706

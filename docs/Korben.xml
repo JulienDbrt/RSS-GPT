@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Loki, l’outil open source qui vérifie les faits</title>
 <link>https://korben.info/loki-outil-ultime-verification-faits-open-source.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Keywords: Loki, vérification, fake news, open source, IA
 
-<br><br>Summary: Loki est un outil open source conçu pour faciliter la vérification des faits en détectant les fake news. Il décompose les textes longs en affirmations individuelles, ciblant les déclarations concrètes. Ensuite, grâce à des modèles d'intelligence artificielle comme le traitement du langage naturel et l'apprentissage automatique, Loki effectue des recherches sur Internet pour rassembler des preuves. Une fois ces preuves récoltées, l'outil évalue la véracité des affirmations, tout en offrant des explications sur son processus d'analyse pour garantir la transparence. Bien que l'interface soit accessible, une supervision humaine reste recommandée pour valider les résultats. De plus, Loki propose une version corrigée et sourcée de l'information originale, permettant ainsi une meilleure compréhension. Pour utiliser Loki, il faut installer Python et Poetry, cloner son dépôt GitHub, et suivre certaines commandes simples pour vérifier divers types de contenu. La communauté autour de Loki est active et prête à aider via GitHub ou un serveur Discord dédié. En somme, Loki représente un atout précieux pour quiconque souhaite tracer la frontière entre la vérité et le mensonge dans l'information. <div>
+<br /><br />Summary: Loki est un outil open source conçu pour faciliter la vérification des faits en détectant les fake news. Il décompose les textes longs en affirmations individuelles, ciblant les déclarations concrètes. Ensuite, grâce à des modèles d'intelligence artificielle comme le traitement du langage naturel et l'apprentissage automatique, Loki effectue des recherches sur Internet pour rassembler des preuves. Une fois ces preuves récoltées, l'outil évalue la véracité des affirmations, tout en offrant des explications sur son processus d'analyse pour garantir la transparence. Bien que l'interface soit accessible, une supervision humaine reste recommandée pour valider les résultats. De plus, Loki propose une version corrigée et sourcée de l'information originale, permettant ainsi une meilleure compréhension. Pour utiliser Loki, il faut installer Python et Poetry, cloner son dépôt GitHub, et suivre certaines commandes simples pour vérifier divers types de contenu. La communauté autour de Loki est active et prête à aider via GitHub ou un serveur Discord dédié. En somme, Loki représente un atout précieux pour quiconque souhaite tracer la frontière entre la vérité et le mensonge dans l'information. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_logo_for_a_Fact-Verification_software_called_Loki_write__b28a54ae-2b0c-428a-8fac-5e18277deb35.webp" width="1456" /></p>
 <p><strong>Loki</strong>, ça vous dit quelque chose ? Non, je ne parle pas du dieu espiègle de la mythologie nordique, mais bien d&rsquo;un outil qui pourrait bien <strong>révolutionner</strong> la façon dont on traque les fake news. C&rsquo;est une solution <strong>open source</strong> capable de passer au crible de longs textes pour en extraire les affirmations douteuses et les vérifier en un clin d&rsquo;œil.</p>
 
@@ -112,9 +113,7 @@ poetry install</code></pre>
 <p>Avec ça, vous avez toutes les cartes en main pour devenir un pro de la vérification des faits. Alors, à vous de jouer ! Et si jamais vous avez besoin d&rsquo;un coup de main, n&rsquo;oubliez pas que la communauté <strong>Loki</strong> est là pour vous aider sur GitHub ou sur le serveur Discord dédié au projet.</p>
 ]]></content:encoded>
 <pubDate>Mon, 09 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Mon, 09 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>SearXNG – Le métamoteur de recherche open source qui protège votre vie privée</title>
 <link>https://korben.info/searxng-metamoteur-recherche-open-source-protege-vie-privee.html</link>

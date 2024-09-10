@@ -3003,3 +3003,15 @@ Summarized using GPT-4o-mini
 Append: [Plus de 153 millions d’euros levés après deux jours de campagne du bon d’État](https://www.7sur7.be/belgique/plus-de-153-millions-deuros-leves-apres-deux-jours-de-campagne-du-bon-detat~a107b0e1/)
 append_entries: 1
 Finish: 2024-09-09 12:38:55.037465
+------------------------------------------------------
+Started: 2024-09-10 01:21:27.577331
+Existing_entries: 485
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 630
+Summarized using GPT-4o-mini
+Append: [Les syndicats d’Audi Brussels sollicitent Agoria pour mettre fin au blocage de l’usine](https://www.7sur7.be/belgique/les-syndicats-daudi-brussels-sollicitent-agoria-pour-mettre-fin-au-blocage-de-lusine~a823eb30/)
+Token length: 125
+Summarized using GPT-4o-mini
+Append: [Les syndicats d’Audi Brussels demandent une procédure de conciliation](https://www.7sur7.be/economie/les-syndicats-daudi-brussels-demandent-une-procedure-de-conciliation~ad109c15/)
+append_entries: 2
+Finish: 2024-09-10 01:21:33.236856

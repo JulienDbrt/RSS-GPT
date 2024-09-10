@@ -1744,3 +1744,15 @@ Summarized using GPT-4o-mini
 Append: [JO de Paris : comment la Région et France Travail comptent pérenniser les emplois créés](https://www.latribune.fr/regions/ile-de-france/jo-de-paris-comment-la-region-et-france-travail-comptent-perenniser-les-emplois-crees-1005734.html)
 append_entries: 1
 Finish: 2024-09-09 12:45:59.484893
+------------------------------------------------------
+Started: 2024-09-10 01:28:03.870809
+Existing_entries: 52
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Vitesse sur le périphérique parisien : la préfecture de police met en garde la Ville](https://www.latribune.fr/entreprises-finance/services/transport-logistique/vitesse-sur-le-peripherique-parisien-la-prefecture-de-police-met-en-garde-la-ville-1006004.html)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Vitesse sur le périphérique parisien : Pécresse appelle Hidalgo à renoncer](https://www.latribune.fr/entreprises-finance/services/transport-logistique/vitesse-sur-le-peripherique-parisien-pecresse-appelle-hidalgo-a-renoncer-1005983.html)
+append_entries: 2
+Finish: 2024-09-10 01:28:08.580093

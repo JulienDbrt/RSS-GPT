@@ -1925,3 +1925,15 @@ Summarized using GPT-4o-mini
 Append: [Intempéries : vers une hausse des tarifs d'assurance en 2025 ?](https://www.francetvinfo.fr/replay-radio/le-brief-eco/intemperies-vers-une-hausse-des-tarifs-d-assurance-en-2025_6743509.html)
 append_entries: 1
 Finish: 2024-09-09 12:42:28.025087
+------------------------------------------------------
+Started: 2024-09-10 01:24:23.285042
+Existing_entries: 119
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Passoires énergétiques : les arnaques aux diagnostics explosent](https://www.francetvinfo.fr/economie/passoires-energetiques-les-arnaques-aux-diagnostics-explosent_6772486.html)
+Token length: 188
+Summarized using GPT-4o-mini
+Append: [Résidence secondaire : la taxe d'habitation augmente de 45% à Saint-Malo](https://www.francetvinfo.fr/economie/immobilier/residence-secondaire-la-taxe-d-habitation-augmente-de-45-a-saint-malo_6771955.html)
+append_entries: 2
+Finish: 2024-09-10 01:24:28.035547
