@@ -2881,3 +2881,15 @@ Summarized using GPT-4o-mini
 Append: [Toulouse : la ville réclame "plus de postes d’enseignants" pour les écoles et a voté contre les propositions du conseil départemental de l’éducation nationale](https://www.ladepeche.fr/2024/09/09/toulouse-la-ville-reclame-plus-de-postes-denseignants-pour-les-ecoles-et-a-vote-contre-les-propositions-du-conseil-departemental-de-leducation-12186329.php)
 append_entries: 6
 Finish: 2024-09-10 01:27:07.561268
+------------------------------------------------------
+Started: 2024-09-10 12:49:02.430693
+Existing_entries: 439
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Transition énergétique : le lycée Monnerville inaugure une classe réseaux électriques](https://www.ladepeche.fr/2024/09/10/transition-energetique-le-lycee-monnerville-inaugure-une-classe-reseaux-electriques-12187751.php)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [La mécanique auto comme vocation d’un jeune apprenti carcassonnais](https://www.ladepeche.fr/2024/09/10/la-mecanique-auto-comme-vocation-dun-jeune-apprenti-carcassonnais-12187414.php)
+append_entries: 2
+Finish: 2024-09-10 12:49:07.841066

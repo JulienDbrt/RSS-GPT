@@ -2443,3 +2443,15 @@ Existing_entries: 285
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-09-10 01:19:18.968181
+------------------------------------------------------
+Started: 2024-09-10 12:38:51.257282
+Existing_entries: 285
+Fetching from https://korben.info/feed
+Token length: 5118
+Summarized using GPT-4o-mini
+Append: [Créez votre environnement Assembleur C64 sous Windows avec VS Code](https://korben.info/environnement-assembleur-c64-windows-vs-code.html)
+Token length: 6245
+Summarized using GPT-4o-mini
+Append: [La rentrée 2024 avec Surfshark VPN et sa promo Amazon](https://korben.info/rentree-2024-surfshark-amazon.html)
+append_entries: 2
+Finish: 2024-09-10 12:39:01.865651

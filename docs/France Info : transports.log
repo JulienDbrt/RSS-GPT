@@ -2894,3 +2894,21 @@ Summarized using GPT-4o-mini
 Append: [Périphérique parisien à 50 km/h : Anne Hidalgo peut-elle décider seule de la vitesse maximale autorisée ?](https://www.francetvinfo.fr/economie/transports/peripherique-parisien-a-50-km-h-anne-hidalgo-peut-elle-decider-seule-de-la-vitesse-maximale-autorisee_6771919.html)
 append_entries: 3
 Finish: 2024-09-10 01:24:36.810706
+------------------------------------------------------
+Started: 2024-09-10 12:45:24.886194
+Existing_entries: 446
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 172
+Summarized using GPT-4o-mini
+Append: [Périphérique parisien à 50 km/h : vers une transformation des rocades entourant les villes ?](https://www.francetvinfo.fr/replay-radio/dans-la-peau-de-l-info/peripherique-parisien-a-50-km-h-vers-une-transformation-des-rocades-entourant-les-villes_6745318.html)
+Token length: 112
+Summarized using GPT-4o-mini
+Append: [Près d'un TER sur cinq ne répond pas aux exigences de ponctualité, selon une étude de l'UFC-Que Choisir](https://www.francetvinfo.fr/economie/transports/pres-d-un-ter-sur-cinq-ne-repond-pas-aux-exigences-de-ponctualite-selon-une-etude-de-l-ufc-que-choisir_6772348.html)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Paris : le périphérique à 50 km/h n’enchante pas les usagers](https://www.francetvinfo.fr/france/ile-de-france/paris-le-peripherique-a-50-km-h-n-enchante-pas-les-usagers_6773389.html)
+Token length: 154
+Summarized using GPT-4o-mini
+Append: [Retard des trains régionaux : "Il y a un sous-financement de la part de l'État depuis des années", déplore la Fnaut](https://www.francetvinfo.fr/economie/transports/sncf/retard-des-trains-regionaux-il-y-a-un-sous-financement-de-la-part-de-l-etat-depuis-des-annees-deplore-la-fnaut_6773296.html)
+append_entries: 4
+Finish: 2024-09-10 12:45:39.446417

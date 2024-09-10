@@ -2514,3 +2514,12 @@ Existing_entries: 320
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-10 01:25:07.163905
+------------------------------------------------------
+Started: 2024-09-10 12:46:20.858459
+Existing_entries: 320
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [Qu'est-ce que la fièvre catarrhale, cette maladie qui gagne du terrain dans les troupeaux franciliens ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/qu-est-ce-que-la-fievre-catarrhale-cette-maladie-qui-gagne-du-terrain-dans-les-troupeaux-franciliens-3029531.html)
+append_entries: 1
+Finish: 2024-09-10 12:46:25.434209

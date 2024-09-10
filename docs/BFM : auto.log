@@ -2529,3 +2529,12 @@ Summarized using GPT-4o-mini
 Append: [Prix des carburants: légère remontée du gazole, l'essence encore en baisse](https://www.bfmtv.com/auto/prix-des-carburants-legere-remontee-du-gazole-l-essence-encore-en-baisse_AV-202409090643.html)
 append_entries: 1
 Finish: 2024-09-10 01:22:08.968415
+------------------------------------------------------
+Started: 2024-09-10 12:41:55.641184
+Existing_entries: 325
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 218
+Summarized using GPT-4o-mini
+Append: [BMW rappelle 1,5 million de véhicules pour un système de freinage défectueux](https://www.bfmtv.com/auto/bmw-rappelle-1-5-million-de-vehicules-pour-un-systeme-de-freinage-defectueux_AD-202409100569.html)
+append_entries: 1
+Finish: 2024-09-10 12:42:00.765859

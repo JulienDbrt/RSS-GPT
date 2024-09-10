@@ -2648,3 +2648,9 @@ Summarized using GPT-4o-mini
 Append: [Narbonne : Il est désormais possible de payer en bitcoins dans un bar à vin de la ville](https://www.20minutes.fr/economie/4109067-20240909-narbonne-desormais-possible-payer-bitcoins-bar-vin-ville)
 append_entries: 4
 Finish: 2024-09-10 01:21:27.305609
+------------------------------------------------------
+Started: 2024-09-10 12:40:43.338950
+Existing_entries: 358
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+append_entries: 0
+Finish: 2024-09-10 12:40:43.906005

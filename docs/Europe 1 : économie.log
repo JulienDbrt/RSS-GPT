@@ -2740,3 +2740,15 @@ Summarized using GPT-4o-mini
 Append: [Économie : la prévision de croissance estivale abaissée sur fond d'incertitude](https://www.europe1.fr/economie/economie-la-prevision-de-croissance-estivale-abaissee-sur-fond-dincertitude-4266473)
 append_entries: 3
 Finish: 2024-09-10 01:23:49.720215
+------------------------------------------------------
+Started: 2024-09-10 12:44:27.899420
+Existing_entries: 390
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 311
+Summarized using GPT-4o-mini
+Append: [France : ramener le déficit à 3% en 2027 est «impossible» dans la «situation politique actuelle»](https://www.europe1.fr/economie/france-ramener-le-deficit-a-3-en-2027-est-impossible-dans-la-situation-politique-actuelle-4266589)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [INFO EUROPE 1 - L’assurance habitation en hausse de 7,2% en moyenne en 2024](https://www.europe1.fr/economie/info-europe-1-lassurance-habitation-en-hausse-de-72-en-moyenne-en-2024-4266518)
+append_entries: 2
+Finish: 2024-09-10 12:44:37.712324

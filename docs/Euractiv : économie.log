@@ -2150,3 +2150,15 @@ Summarized using GPT-4o-mini
 Append: [Le manque de productivité, un « défi existentiel » pour l’Europe, selon Mario Draghi](https://www.euractiv.fr/section/economie/news/le-manque-de-productivite-un-defi-existentiel-pour-leurope-selon-mario-draghi/)
 append_entries: 3
 Finish: 2024-09-10 01:23:40.238688
+------------------------------------------------------
+Started: 2024-09-10 12:44:17.381767
+Existing_entries: 212
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [La Cour de justice de l’UE condamne Apple à payer treize milliards d’euros d’arriérés fiscaux](https://www.euractiv.fr/section/economie/news/la-cour-de-justice-de-lue-condamne-apple-a-payer-treize-milliards-deuros-darrieres-fiscaux/)
+Token length: 298
+Summarized using GPT-4o-mini
+Append: [Les entreprises et les syndicats réagissent à l’appel de Mario Draghi à réduire les règlementations de l’UE](https://www.euractiv.fr/section/concurrence/news/les-entreprises-et-les-syndicats-reagissent-a-lappel-de-mario-draghi-a-reduire-les-reglementations-de-lue/)
+append_entries: 2
+Finish: 2024-09-10 12:44:26.295432

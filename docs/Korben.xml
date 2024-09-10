@@ -4,6 +4,288 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Créez votre environnement Assembleur C64 sous Windows avec VS Code</title>
+<link>https://korben.info/environnement-assembleur-c64-windows-vs-code.html</link>
+<guid>https://korben.info/environnement-assembleur-c64-windows-vs-code.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Commodore 64, Kick Assembler, VICE, assembleur, Visual Studio Code
+
+<br><br>Résumé : Dans cet article, l'auteur évoque la nostalgie du Commodore 64 tout en présentant un moyen moderne de programmer pour cette plateforme en 2023. Il recommande d'installer Visual Studio Code, Java, Git, Kick Assembler et l'émulateur VICE pour revivre l'expérience des années 80. Les étapes d'installation sont expliquées simplement, même pour les débutants. Avec l'extension pour l'assembleur C64 dans Visual Studio Code, les utilisateurs peuvent bénéficier de la coloration syntaxique et du débogage en temps réel. Kick Assembler permet d'écrire du code confortablement, en offrant des macros et des instructions de haut niveau, tout en transpilant en assembleur 6502. VICE est présenté comme l'émulateur le plus fidèle pour le C64, offrant des fonctionnalités avancées pour le débogage. Un exemple de code simple est fourni, illustrant comment afficher un message "HELLO WORLD!" à l'écran. Enfin, l'article souligne la possibilité de partager des programmes sur un vrai Commodore 64 et explore d'autres machines mythiques pour prolonger l'expérience du développement rétro. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Commodore64_wallpaper_8028d178-d6e0-475a-9597-0d5501e0aeed.webp" width="1456" /></p>
+<p>Vous vous souvenez de l&rsquo;époque mythique du <strong>Commodore 64</strong> ? </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-578331356" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Ce bon vieux clavier qui claque, les disquettes qu&rsquo;on insère délicatement dans le lecteur, les heures passées à dompter l&rsquo;assembleur pour créer des petites merveilles de pixels et de sons&#8230; Ah, c&rsquo;était le bon vieux temps !</p>
+
+
+
+<p>Eh bien, figurez-vous qu&rsquo;on peut retrouver un peu de cette magie en 2023, avec des outils modernes et sur un bon gros PC.</p>
+
+
+
+<p>Pour cela, vous allez avoir besoin de quelques ingrédients de base : </p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Visual Studio Code</strong>, l&rsquo;éditeur de code ultra polyvalent qui s&rsquo;adapte à tous les langages </li>
+
+
+
+<li>L&rsquo;émulateur <strong><a href="https://vice-emu.sourceforge.io/">VICE</a></strong> (what else?) pour faire tourner vos programmes comme sur un vrai C64 </li>
+
+
+
+<li>Le <strong>compilateur <a href="http://theweb.dk/KickAssembler/Main.html#frontpage">Kick Assembler</a></strong> pour transpiler votre code en binaire (il vous faudra java)</li>
+
+
+
+<li><strong>Git</strong> pour versionner votre code comme un pro</li>
+</ul>
+
+
+
+<p>Installer et configurer tout ça, c&rsquo;est un peu le parcours du combattant mais rassurez-vous, tout est expliqué dans cette vidéo qui vous prend par la main et vous explique tout pas à pas, même si vous débutez.</p>
+
+
+
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-1826992018" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Alors, vous commencez par installer Git, Java et Visual Studio Code. Ça, c&rsquo;est la partie facile. Ensuite, vous récupérez Kick Assembler et VICE, et c&rsquo;est là que ça se corse un peu. Mais suivez bien les instructions, et vous verrez, au bout de quelques minutes, vous aurez un environnement de développement parfaitement opérationnel !</p>
+
+
+
+<p>Visual Studio Code dispose d&rsquo;extensions pour faire tout un tas de trucs, et bien sûr, il en existe une pour l&rsquo;assembleur C64. Une fois installée, vous pourrez profiter de la coloration syntaxique, de la complétion de code et même du débogage en temps réel avec VICE.</p>
+
+
+
+<p>Ensuite, avec Kick Assembler, vous allez pouvoir écrire votre code source de manière beaucoup plus confortable qu&rsquo;à l&rsquo;époque. Déjà, vous n&rsquo;êtes plus limité à 40 colonnes, et l&rsquo;éditeur vous évitera bien des fautes de frappe. Mais le plus sympa, c&rsquo;est que vous pouvez utiliser des macros, des constantes et même des instructions de haut niveau pour vous faciliter la vie. Et au final, Kick Assembler transpile tout ça en bon vieil assembleur 6502.</p>
+
+
+
+<p>Quant à VICE, c&rsquo;est tout simplement le meilleur émulateur C64 disponible actuellement. Il est hyper fidèle au hardware d&rsquo;origine, et il propose une tripotée d&rsquo;options pour faciliter le développement : exécution pas à pas, points d&rsquo;arrêt, inspection des registres et de la mémoire, etc. Un vrai bonheur pour déboguer vos programmes !</p>
+
+
+
+<p>Voici pour tester, un petit Hello World qui affiche un message à l&rsquo;écran et change la couleur de la bordure.</p>
+
+
+
+<pre class="wp-block-code"><code>;===============================================================================
+; Ceci est un exemple de programme en assembleur pour Commodore 64
+; utilisant l'assembleur KickAssembler.
+;===============================================================================
+; Constantes pour les couleurs du C64
+BLACK = 0
+WHITE = 1
+*= $0801
+;===============================================================================
+; Le code BASIC au début sert à lancer notre programme en assembleur.
+; Nous utilisons ici la macro BasicUpstart2 de KickAssembler qui génère
+; automatiquement le code BASIC approprié.
+;===============================================================================
+BasicUpstart2(start)
+;===============================================================================
+; Notre programme en assembleur commence ici
+;===============================================================================
+start:
+; Change la couleur de la bordure en noir
+lda #BLACK
+sta $d020
+</code></pre>
+
+
+
+<p>Et pour compiler, charger et exécuter le programme :</p>
+
+
+
+<ul class="wp-block-list">
+<li>Presser F5 dans VSCode pour compiler avec KickAssembler</li>
+
+
+
+<li>Dans VICE, utiliser <code>LOAD "HELLO.PRG",8,1</code> pour charger le programme puis <code>RUN</code> pour l&rsquo;exécuter</li>
+</ul>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-482764374" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_3" id="optidigital-adslot-Content_3" style="display: none;"></div>
+<div class="Mobile_Pos3" id="optidigital-adslot-Mobile_Pos3" style="display: none;"></div></div><p>Pour compiler ce programme, assurez-vous d&rsquo;utiliser l&rsquo;assembleur KickAssembler. Vous pouvez le compiler en pressant F5 dans Visual Studio Code si vous avez configuré KickAssembler comme assembleur par défaut. Une fois compilé, vous obtiendrez un fichier PRG que vous pouvez charger dans l&rsquo;émulateur VICE avec la commande suivante : <code>LOAD "HELLO.PRG",8,1</code></p>
+
+
+
+<p>Puis tapez <code>RUN</code> pour exécuter le programme. Vous devriez voir apparaître « HELLO WORLD! » à l&rsquo;écran, avec la bordure de l&rsquo;écran en noir.</p>
+
+
+
+<p>Voilà, vous savez maintenant comment redonner vie à vos vieilles machines 8 bits dans un environnement ultra moderne et confortable. Plus d&rsquo;excuse pour ne pas vous remettre à l&rsquo;assembleur et pondre les démos et les jeux de vos rêves !</p>
+
+
+
+<p>Et si vous êtes un peu nostalgique, rien ne vous empêche de transférer vos programmes sur une vraie machine, armé d&rsquo;un vieux lecteur de disquettes <strong>Commodore 1541</strong> et d&rsquo;une pile de D7. Et puis il y a une sacrée communauté de passionnés toujours prêts à vous filer un coup de main ou une bonne vieille rustine. N&rsquo;hésitez pas à traîner sur les forums spécialisés comme <a href="https://www.lemon64.com/" rel="noopener" target="_blank">Lemon64</a> ou <a href="https://www.c64-wiki.com/" rel="noopener" target="_blank">C64-Wiki</a>, vous y trouverez une mine d&rsquo;infos, de démos et de bouts de code à recycler.</p>
+
+
+
+<p>Avec ce setup VS Code + Kick Assembler + émulateur, vous pouvez également vous attaquer à plein d&rsquo;autres machines mythiques : <strong>Atari 800</strong>, <strong>Apple II</strong>, <strong>ZX Spectrum</strong>, la liste est longue. Chaque hardware a ses spécificités et ses petits trucs à découvrir, de quoi vous occuper pendant des années !</p>
+
+
+
+<p><a href="https://hackaday.com/2024/04/29/you-can-use-visual-studio-code-to-write-commodore-64-assembly/" rel="noopener" target="_blank">Source</a></p>
+]]></content:encoded>
+<pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>La rentrée 2024 avec Surfshark VPN et sa promo Amazon</title>
+<link>https://korben.info/rentree-2024-surfshark-amazon.html</link>
+<guid>https://korben.info/rentree-2024-surfshark-amazon.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: Surfshark, VPN, promotion, sécurité, streaming
+
+<br><br>Summary: Cet article présente Surfshark, un VPN lancé en 2018, qui s’est rapidement imposé sur le marché grâce à sa vitesse et ses fonctionnalités. Avec près de 3200 serveurs dans plus de 100 pays, il offre une vitesse de connexion jusqu’à 10 Gb/s, rendant le streaming et la navigation quasi transparents. Surfshark se distingue par ses outils pratiques comme un bloqueur de publicités, un système de surveillance des données, et une fonction MultiHop pour plus de sécurité. La promotion actuelle, valable jusqu'au 10 octobre, propose des réductions supplémentaires sur les abonnements de 24 mois, ainsi qu’un bon d’achat Amazon pour les nouveaux et anciens utilisateurs. Les tarifs varient de 61€ à 109€ selon le plan choisi. Un abonnement permet de connecter un nombre illimité d'appareils, rendant Surfshark accessible à toute la famille. L'interface est conviviale, idéale pour tous, même les novices. Enfin, Surfshark garantit un haut niveau de sécurité avec des protocoles de chiffrement avancés et une politique de non-conservation des logs. En résumé, Surfshark est un choix idéal pour ceux qui veulent protéger leurs données tout en profitant du meilleur du streaming. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="450" src="https://korben.info/app/uploads/2024/09/promo-amazon.png" width="800" /></p>
+<p class="has-text-align-center">&#8212; Article en partenariat avec Surfshark &#8212;</p>
+
+
+
+<p>Salut la compagnie !&nbsp;C&rsquo;est déjà la rentrée (j&rsquo;ai l&rsquo;impression que je vous disais au revoir pour 3 mois avant-hier, ouiiiin)&nbsp;et avec ça le retour des promos sur les outils de sécu qui finira en apothéose dans quelques semaines lors du black friday. Ces outils sont devenus aussi indispensables que votre brosse à dents connectée (si, si, ça existe). Et parmi la jungle des offres VPN, il y en a un qui sort du lot comme un requin dans une piscine municipale : j&rsquo;ai nommé mon partenaire depuis des années, <a href="https://get.surfshark.net/aff_c?offer_id=87&amp;aff_id=13768&amp;aff_sub=sep-nov" rel="noreferrer noopener" target="_blank"><strong>Surfshark</strong></a> ! Je reviens sur leur promo spéciale Amazon du moment plus bas 😉</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="90" src="https://bit.ly/surfsharkrentree-oldserver" width="728" /></figure></div>
+
+
+<p>Il n&rsquo;y a pas si longtemps, Surfshark <a href="https://korben.info/a-la-decouverte-de-surfshark.html">était encore&nbsp;le petit nouveau</a> qui faisait trembler les mastodontes du secteur. Lancé en 2018, ce VPN a&nbsp;très vite&nbsp;réussi à se tailler une belle part du gâteau numérique. Et pour cause ! Il combine la puissance d&rsquo;un grand blanc avec l&rsquo;agilité d&rsquo;un dauphin (métaphores marines, quand tu nous tiens). En 2024 on peut dire qu&rsquo;il fait maintenant partie du trio de tête, en tous cas il est souvent dans ces eaux-là sur la plupart des comparatifs en ligne.</p>
+
+
+
+<p>Côté vitesse, Surfshark ne fait pas dans la dentelle. Avec près de 3200 serveurs (100% RAM) répartis dans une&nbsp;centaine de pays, il vous permet de surfer comme si vous étiez assis sur une planche de surf en fibre optique. Alors c&rsquo;est vrai, comme tout VPN qui se respecte, il va un poil ralentir votre connexion. Mais franchement, entre nous, c&rsquo;est quasi transparent, surtout depuis qu&rsquo;ils ont passé quasi l&rsquo;entièreté de leur parc&nbsp;à une vitesse de 10 Gb/s (10x plus rapide qu&rsquo;avant).&nbsp;Vous me connaissez, j&rsquo;aime tester tout et n&rsquo;importe quoi et je ne me suis quasi jamais retrouvé à pester sur la lenteur du bousin. Et si vous veniez suivre mes émissions en direct sur Twitch, vous le verriez de vos yeux vu 😉 Bref, vous ne verrez pas la différence en regardant votre série préférée <a href="https://korben.info/articles/surfshark-le-vpn-quil-vous-faut-pour-netflix-2">sur Netflix</a> ou Amazon Prime.</p>
+
+
+
+<h2 class="wp-block-heading">Des fonctionnalités qui en jettent</h2>
+
+
+
+<p>Surfshark, c&rsquo;est selon moi, le meilleur des VPN. En plus de vous rendre aussi invisible qu&rsquo;un tétra transparent dans la nuit, il vous offre :</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="https://korben.info/surfshark-vpn-cleanweb-2.html">Cleanweb</a></strong>&nbsp;: un bloqueur de pubs sous stéroïdes. Adieu les fenêtres pop-up qui vous proposent des pilules miracles ou la dernière crypto à la mode.</li>
+
+
+
+<li><strong>Liste blanche </strong>: pour exclure certains sites du VPN. Pratique quand vous voulez que votre banque ne pense pas que vous êtes soudainement parti vivre au Pôle Nord.</li>
+
+
+
+<li><strong>Système de surveillance</strong>&nbsp;: qui vous alerte si vos données personnelles se baladent sur le berk web. Comme ça, vous saurez si votre mot de passe « 123456 » a été compromis (spoiler : oui, il l&rsquo;a été).</li>
+
+
+
+<li><strong>MultiHop</strong>&nbsp;: pour les paranos qui veulent passer par deux serveurs différents. Comme porter deux paires de lunettes de soleil, en moins ridicule.</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-155967" height="280" src="https://korben.info/app/uploads/2024/01/surfshark-vpn-multihop.jpg" width="750" /></figure></div>
+
+
+<h2 class="wp-block-heading">L&rsquo;offre Amazon du moment</h2>
+
+
+
+<p>Accrochez-vous à vos claviers,&nbsp;parce qu&rsquo;en plus des prix attractifs classiques&nbsp;Surfshark rajoute un petit bonus sympa. Du 10 septembre au 10 octobre, et pour tout abonnement de 24 mois,&nbsp;le VPN&nbsp;offre à la population française&nbsp;<a href="https://get.surfshark.net/aff_c?offer_id=87&amp;aff_id=13768&amp;aff_sub=sep-nov" rel="noreferrer noopener" target="_blank">un bon d&rsquo;achat Amazon supplémentaire</a>.&nbsp;Sans doute pour&nbsp;remonter le moral&nbsp;du pays après le truc olympique compliqué de l&rsquo;été.&nbsp;On parle de :</p>
+
+
+
+<ul class="wp-block-list">
+<li>10€ pour le plan Starter (qui revient à 71€ TTC pour 27 mois, 24 + 3 mois offerts)</li>
+
+
+
+<li>20€ pour le plan <a href="https://korben.info/surfshark-one-boite-a-outils.html">Surfshark One</a> (87€ TTC pour 27 mois)</li>
+
+
+
+<li>30€ pour le plan One+ (139€ TTC pour les 27 mois)</li>
+</ul>
+
+
+
+<p>Donc les abos sont&nbsp;respectivement de 61, 67 et 109€. Mais attention, il y a quelques petites conditions (parce que bon, faut pas déconner non plus) :</p>
+
+
+
+<ol class="wp-block-list">
+<li>Il faut garder son abonnement actif pendant au moins 31 jours. Le bon d&rsquo;achat sera dispo dans votre espace Surfshark après cette période. Les petits malins qui pensaient profiter des 30 jours satisfaits ou remboursés pour récupérer leur versement ET profiter du bon d&rsquo;achat quand même, on vous a vu venir 😉 Vous aurez alors&nbsp;5 mois pour réclamer votre cadeau. Largement le temps d&rsquo;oublier et de vous en rappeler 3 fois.</li>
+
+
+
+<li>Et si vous êtes déjà utilisateur du service ? On ne vous a pas oublié ! Il vous suffit de renouveler/prolonger votre période d&rsquo;abonnement durant le mois de la promo pour recevoir le coupon également. Nouveaux utilisateurs et anciens peuvent bénéficier de l&rsquo;offre. Le bon Amazon est valable 10 ans, donc vous avez le temps de savoir quoi en faire&nbsp;! (comme me l&rsquo;envoyer par exemple, à tout hasard hein). Vous pourrez même l&rsquo;utiliser pour acheter les cadeaux de Noël de vos futurs enfants qui naitront en 2030, si on a survécu jusque là (mais ne prenez pas le risque, claquez le de suite hein).</li>
+</ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img alt="" height="270" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXAydzF6N2Y1MXRqdDg5bzB3a2dsenZjN3p4NXk1aHFka3Z2bm5hdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqiJT49gCdCX2WCgtL/giphy.gif" width="480" /></figure></div>
+
+
+<h2 class="wp-block-heading">Pourquoi Surfshark, et pas un autre ?</h2>
+
+
+
+<p>Alors là, accrochez-vous, parce que la liste est longue et même si j&rsquo;en ai déjà fait des tonnes d&rsquo;articles, pour résumer&nbsp;:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Prix imbattable</strong>&nbsp;: c&rsquo;est l&rsquo;un des champions toutes catégories du rapport qualité/prix. Aussi simple que ça.</li>
+
+
+
+<li><strong>Connexions illimitées</strong>&nbsp;: contrairement à certains concurrents, qui limitent à 5 ou 6 appareils, avec Surfshark, c&rsquo;est open-bar ! Vous pouvez protéger votre smartphone, votre PC, votre tablette, votre frigo ou votre TV connectée, et même votre vieux routeur ou votre console. Ainsi que les appareils du reste de la famille.</li>
+
+
+
+<li><strong>Facilité d&rsquo;utilisation</strong>&nbsp;: l&rsquo;interface est tellement simple que même votre poisson rouge pourrait l&rsquo;utiliser (toujours pour rester dans l&rsquo;imagerie aquatique). Bon, faudrait déjà qu&rsquo;il ait des doigts, mais vous avez compris l&rsquo;idée.</li>
+
+
+
+<li><strong>Streaming de ouf</strong>&nbsp;: Netflix US, BBC iPlayer, Disney+, Amazon Prime&#8230; Surfshark ouvre les portes du paradis du streaming géobloqué pour les soirées d&rsquo;hiver qui approchent.</li>
+
+
+
+<li><strong>Sécurité au top</strong>&nbsp;: protocoles de chiffrement dernier cri, politique de non-conservation des logs (auditée plusieurs fois par des organismes indépendants)&#8230; Avec le VPN, vos données sont aussi bien protégées que le secret de la recette du Coca-Cola.</li>
+</ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://get.surfshark.net/aff_c?offer_id=87&amp;aff_id=13768&amp;aff_sub=sep-nov"><img alt="" class="wp-image-161694" height="450" src="https://korben.info/app/uploads/2024/09/promo-amazon.png" width="800" /></a></figure></div>
+
+
+<p>Classe, efficace, et avec plein de gadgets cool, Surfshark VPN est l&rsquo;un des outils les plus appréciables pour votre sécurité. Alors, si vous voulez surfer sur le web comme un pro, protéger vos données comme Fort Knox, et en plus recevoir un petit cadeau Amazon au passage, vous savez ce qu&rsquo;il vous reste à faire. L&rsquo;offre court jusqu&rsquo;au 10 octobre, ce qui vous laisse largement le temps de casser votre tirelire (ou de vendre un rein, au choix).</p>
+
+
+
+<p>Allez, je vous laisse, j&rsquo;ai une série coréenne qui m&rsquo;attend sur Netflix Japon. 3 mois de&nbsp;congé et je n’ai pas réussi à&nbsp;terminer tout le catalogue, quelle misère j&rsquo;vous jure.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=87&amp;aff_id=13768&amp;aff_sub=sep-nov" rel="noreferrer noopener" target="_blank">Profitez des 10/20/30€ de réduction avec Surfshark et Amazon</a></h2>
+]]></content:encoded>
+<pubDate>Tue, 10 Sep 2024 05:45:35 +0000</pubDate>
+<pubDate>Tue, 10 Sep 2024 05:45:35 +0000</pubDate>
+</item>
 
 <item>
 <title>Loki, l’outil open source qui vérifie les faits</title>
