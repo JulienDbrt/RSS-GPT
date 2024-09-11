@@ -4276,3 +4276,15 @@ Summarized using GPT-4o-mini
 Append: [A la recherche de Satoshi Nakamoto, le mystérieux inventeur du bitcoin](https://www.lemonde.fr/pixels/article/2024/09/10/a-la-recherche-de-satoshi-nakamoto-le-mysterieux-inventeur-du-bitcoin_6310248_4408996.html)
 append_entries: 1
 Finish: 2024-09-10 12:35:49.542235
+------------------------------------------------------
+Started: 2024-09-11 01:16:53.027249
+Existing_entries: 934
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Attention : plus de 280 applis Android propagent un malware voleur de cryptomonnaies](https://www.clubic.com/actualite-536975-attention-plus-de-280-applis-android-propagent-un-malware-voleur-de-cryptomonnaies.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Pourquoi l'histoire d'amour entre Julian Assange et les fans de Bitcoin est importante](https://www.ladn.eu/tech-a-suivre/comment-la-crypto-a-sauve-sa-peau-de-julian-assange/)
+append_entries: 2
+Finish: 2024-09-11 01:16:59.123822

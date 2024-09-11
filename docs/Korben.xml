@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Créez votre environnement Assembleur C64 sous Windows avec VS Code</title>
 <link>https://korben.info/environnement-assembleur-c64-windows-vs-code.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Commodore 64, Kick Assembler, VICE, assembleur, Visual Studio Code
 
-<br><br>Résumé : Dans cet article, l'auteur évoque la nostalgie du Commodore 64 tout en présentant un moyen moderne de programmer pour cette plateforme en 2023. Il recommande d'installer Visual Studio Code, Java, Git, Kick Assembler et l'émulateur VICE pour revivre l'expérience des années 80. Les étapes d'installation sont expliquées simplement, même pour les débutants. Avec l'extension pour l'assembleur C64 dans Visual Studio Code, les utilisateurs peuvent bénéficier de la coloration syntaxique et du débogage en temps réel. Kick Assembler permet d'écrire du code confortablement, en offrant des macros et des instructions de haut niveau, tout en transpilant en assembleur 6502. VICE est présenté comme l'émulateur le plus fidèle pour le C64, offrant des fonctionnalités avancées pour le débogage. Un exemple de code simple est fourni, illustrant comment afficher un message "HELLO WORLD!" à l'écran. Enfin, l'article souligne la possibilité de partager des programmes sur un vrai Commodore 64 et explore d'autres machines mythiques pour prolonger l'expérience du développement rétro. <div>
+<br /><br />Résumé : Dans cet article, l'auteur évoque la nostalgie du Commodore 64 tout en présentant un moyen moderne de programmer pour cette plateforme en 2023. Il recommande d'installer Visual Studio Code, Java, Git, Kick Assembler et l'émulateur VICE pour revivre l'expérience des années 80. Les étapes d'installation sont expliquées simplement, même pour les débutants. Avec l'extension pour l'assembleur C64 dans Visual Studio Code, les utilisateurs peuvent bénéficier de la coloration syntaxique et du débogage en temps réel. Kick Assembler permet d'écrire du code confortablement, en offrant des macros et des instructions de haut niveau, tout en transpilant en assembleur 6502. VICE est présenté comme l'émulateur le plus fidèle pour le C64, offrant des fonctionnalités avancées pour le débogage. Un exemple de code simple est fourni, illustrant comment afficher un message "HELLO WORLD!" à l'écran. Enfin, l'article souligne la possibilité de partager des programmes sur un vrai Commodore 64 et explore d'autres machines mythiques pour prolonger l'expérience du développement rétro. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="816" src="https://korben.info/app/uploads/2024/04/manu23_Commodore64_wallpaper_8028d178-d6e0-475a-9597-0d5501e0aeed.webp" width="1456" /></p>
 <p>Vous vous souvenez de l&rsquo;époque mythique du <strong>Commodore 64</strong> ? </p>
 
@@ -142,7 +143,6 @@ sta $d020
 <p><a href="https://hackaday.com/2024/04/29/you-can-use-visual-studio-code-to-write-commodore-64-assembly/" rel="noopener" target="_blank">Source</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Tue, 10 Sep 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>La rentrée 2024 avec Surfshark VPN et sa promo Amazon</title>
@@ -151,7 +151,7 @@ sta $d020
 <content:encoded><![CDATA[
 <div> Keywords: Surfshark, VPN, promotion, sécurité, streaming
 
-<br><br>Summary: Cet article présente Surfshark, un VPN lancé en 2018, qui s’est rapidement imposé sur le marché grâce à sa vitesse et ses fonctionnalités. Avec près de 3200 serveurs dans plus de 100 pays, il offre une vitesse de connexion jusqu’à 10 Gb/s, rendant le streaming et la navigation quasi transparents. Surfshark se distingue par ses outils pratiques comme un bloqueur de publicités, un système de surveillance des données, et une fonction MultiHop pour plus de sécurité. La promotion actuelle, valable jusqu'au 10 octobre, propose des réductions supplémentaires sur les abonnements de 24 mois, ainsi qu’un bon d’achat Amazon pour les nouveaux et anciens utilisateurs. Les tarifs varient de 61€ à 109€ selon le plan choisi. Un abonnement permet de connecter un nombre illimité d'appareils, rendant Surfshark accessible à toute la famille. L'interface est conviviale, idéale pour tous, même les novices. Enfin, Surfshark garantit un haut niveau de sécurité avec des protocoles de chiffrement avancés et une politique de non-conservation des logs. En résumé, Surfshark est un choix idéal pour ceux qui veulent protéger leurs données tout en profitant du meilleur du streaming. <div>
+<br /><br />Summary: Cet article présente Surfshark, un VPN lancé en 2018, qui s’est rapidement imposé sur le marché grâce à sa vitesse et ses fonctionnalités. Avec près de 3200 serveurs dans plus de 100 pays, il offre une vitesse de connexion jusqu’à 10 Gb/s, rendant le streaming et la navigation quasi transparents. Surfshark se distingue par ses outils pratiques comme un bloqueur de publicités, un système de surveillance des données, et une fonction MultiHop pour plus de sécurité. La promotion actuelle, valable jusqu'au 10 octobre, propose des réductions supplémentaires sur les abonnements de 24 mois, ainsi qu’un bon d’achat Amazon pour les nouveaux et anciens utilisateurs. Les tarifs varient de 61€ à 109€ selon le plan choisi. Un abonnement permet de connecter un nombre illimité d'appareils, rendant Surfshark accessible à toute la famille. L'interface est conviviale, idéale pour tous, même les novices. Enfin, Surfshark garantit un haut niveau de sécurité avec des protocoles de chiffrement avancés et une politique de non-conservation des logs. En résumé, Surfshark est un choix idéal pour ceux qui veulent protéger leurs données tout en profitant du meilleur du streaming. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="450" src="https://korben.info/app/uploads/2024/09/promo-amazon.png" width="800" /></p>
 <p class="has-text-align-center">&#8212; Article en partenariat avec Surfshark &#8212;</p>
 
@@ -284,9 +284,7 @@ sta $d020
 <h2 class="wp-block-heading has-text-align-center"><a href="https://get.surfshark.net/aff_c?offer_id=87&amp;aff_id=13768&amp;aff_sub=sep-nov" rel="noreferrer noopener" target="_blank">Profitez des 10/20/30€ de réduction avec Surfshark et Amazon</a></h2>
 ]]></content:encoded>
 <pubDate>Tue, 10 Sep 2024 05:45:35 +0000</pubDate>
-<pubDate>Tue, 10 Sep 2024 05:45:35 +0000</pubDate>
 </item>
-
 <item>
 <title>Loki, l’outil open source qui vérifie les faits</title>
 <link>https://korben.info/loki-outil-ultime-verification-faits-open-source.html</link>

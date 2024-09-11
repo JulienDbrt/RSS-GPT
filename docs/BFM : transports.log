@@ -2522,3 +2522,15 @@ Summarized using GPT-4o-mini
 Append: [Trains: quelles sont les dates d'ouverture pour acheter les billets pour les fêtes de fin d'année?](https://www.bfmtv.com/economie/entreprises/transports/trains-quelles-sont-les-dates-d-ouverture-pour-acheter-les-billets-pour-les-fetes-de-fin-d-annee_AV-202409100037.html)
 append_entries: 5
 Finish: 2024-09-10 12:43:45.748285
+------------------------------------------------------
+Started: 2024-09-11 01:22:03.931162
+Existing_entries: 324
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [États-Unis: deux avions entrent en collision à l'aéroport d'Atlanta, la queue d'un des appareils arrachée](https://www.bfmtv.com/economie/entreprises/transports/etats-unis-deux-avions-entrent-en-collision-a-l-aeroport-d-atlanta-la-queue-d-un-des-appareils-arrachee_AN-202409100991.html)
+Token length: 93
+Summarized using GPT-4o-mini
+Append: [À l'aéroport d'Amsterdam, des fauteuils roulants autonomes amènent les passagers tout près des avions](https://www.bfmtv.com/economie/entreprises/transports/a-l-aeroport-d-amsterdam-des-fauteuils-roulants-autonomes-amenent-les-passagers-tout-pres-des-avions_AN-202409100613.html)
+append_entries: 2
+Finish: 2024-09-11 01:22:08.607950

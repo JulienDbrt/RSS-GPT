@@ -5032,3 +5032,24 @@ Summarized using GPT-4o-mini
 Append: [Périphérique de Paris limité à 50 km/h : d'autres grandes villes de France peuvent-elles embrayer sur cette mesure ?](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/peripherique-de-paris-limite-a-50-km-h-d-autres-grandes-villes-de-france-peuvent-elles-embrayer-sur-cette-mesure-3029222.html)
 append_entries: 7
 Finish: 2024-09-10 12:47:17.206126
+------------------------------------------------------
+Started: 2024-09-11 01:24:52.051039
+Existing_entries: 1007
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 296
+Summarized using GPT-4o-mini
+Append: [Dans cette immense forêt, la fermeture de routes aux voitures agace les randonneurs, "je ne saisis pas le bénéfice pour l'écologie"](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/saverne/dans-cette-immense-foret-la-fermeture-de-routes-aux-voitures-agace-les-randonneurs-je-ne-saisis-pas-le-benefice-pour-l-ecologie-3029273.html)
+Token length: 328
+Summarized using GPT-4o-mini
+Append: [Routes impraticables, bergers coincés en estives, après les intempéries, les transports, dernier problème à régler](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/routes-impraticables-bergers-coinces-en-estives-apres-les-intemperies-les-transports-dernier-probleme-a-regler-3029843.html)
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Accidents en série sur l'A84 : peut-on passer la frontière entre la Bretagne et la Normandie sans danger ?](https://france3-regions.francetvinfo.fr/normandie/manche/accidents-en-serie-sur-l-a84-peut-on-passer-la-frontiere-entre-la-bretagne-et-la-normandie-sans-danger-3029660.html)
+Token length: 236
+Summarized using GPT-4o-mini
+Append: [L'avez-vous prise ? On vous explique à quoi sert la nouvelle sortie sur l'autoroute A6](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/l-avez-vous-prise-on-vous-explique-a-quoi-sert-la-nouvelle-sortie-chalon-nord-sur-l-a6-3029912.html)
+Token length: 307
+Summarized using GPT-4o-mini
+Append: [Le périphérique à 50 km/h. Pourquoi Rennes a renoncé à limiter la vitesse sur sa rocade ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/le-peripherique-a-50-km-h-pourquoi-rennes-a-renonce-a-limiter-la-vitesse-sur-sa-rocade-3029777.html)
+append_entries: 5
+Finish: 2024-09-11 01:25:05.230259

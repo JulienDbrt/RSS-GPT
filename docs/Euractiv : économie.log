@@ -2162,3 +2162,15 @@ Summarized using GPT-4o-mini
 Append: [Les entreprises et les syndicats réagissent à l’appel de Mario Draghi à réduire les règlementations de l’UE](https://www.euractiv.fr/section/concurrence/news/les-entreprises-et-les-syndicats-reagissent-a-lappel-de-mario-draghi-a-reduire-les-reglementations-de-lue/)
 append_entries: 2
 Finish: 2024-09-10 12:44:26.295432
+------------------------------------------------------
+Started: 2024-09-11 01:22:45.835520
+Existing_entries: 214
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 229
+Summarized using GPT-4o-mini
+Append: [Le secteur du vin européen se cherche un nouveau cadre politique](https://www.euractiv.fr/section/agriculture-alimentation/news/le-secteur-du-vin-europeen-se-cherche-un-nouveau-cadre-politique/)
+Token length: 305
+Summarized using GPT-4o-mini
+Append: [Les partis politiques italiens divisés sur la rapport Draghi](https://www.euractiv.fr/section/politique/news/les-partis-politiques-italiens-divises-sur-la-rapport-draghi/)
+append_entries: 2
+Finish: 2024-09-11 01:22:52.035053

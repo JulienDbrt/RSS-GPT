@@ -1710,3 +1710,9 @@ Summarized using GPT-4o-mini
 Append: ["Une bonne affaire pour les marques": la série Emily in Paris multiplie les placements de produits](https://www.bfmtv.com/economie/entreprises/culture-loisirs/une-bonne-affaire-pour-les-marques-la-serie-emily-in-paris-multiplie-les-placements-de-produits_AD-202409100549.html)
 append_entries: 1
 Finish: 2024-09-10 12:42:44.966615
+------------------------------------------------------
+Started: 2024-09-11 01:21:34.788776
+Existing_entries: 50
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/culture-loisirs/
+append_entries: 0
+Finish: 2024-09-11 01:21:35.116156

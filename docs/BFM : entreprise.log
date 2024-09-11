@@ -5434,3 +5434,21 @@ Append: [Trains: quelles sont les dates d'ouverture pour acheter les billets pou
 Append: [Batteries automobiles: Northvolt réduit ses activités et supprime des emplois](https://www.bfmtv.com/economie/batteries-northvolt-reduit-ses-activites-et-supprime-des-emplois_AD-202409090794.html)
 append_entries: 11
 Finish: 2024-09-10 12:42:41.915225
+------------------------------------------------------
+Started: 2024-09-11 01:21:23.127640
+Existing_entries: 1011
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 226
+Summarized using GPT-4o-mini
+Append: ["Polaris Dawn": début de mission sans accroc pour SpaceX, avant la première sortie spatiale privée jeudi](https://www.bfmtv.com/economie/entreprises/aeronautique/polaris-dawn-debut-de-mission-sans-accroc-pour-space-x-avant-la-premiere-sortie-spatiale-privee-jeudi_AD-202409101034.html)
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [États-Unis: deux avions entrent en collision à l'aéroport d'Atlanta, la queue d'un des appareils arrachée](https://www.bfmtv.com/economie/entreprises/transports/etats-unis-deux-avions-entrent-en-collision-a-l-aeroport-d-atlanta-la-queue-d-un-des-appareils-arrachee_AN-202409100991.html)
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [De retour sur le terrain, Emmanuel Macron inaugure l'usine "futuriste" de Sanofi](https://www.bfmtv.com/economie/entreprises/industries/de-retour-sur-le-terrain-emmanuel-macron-inaugure-l-usine-futuriste-de-sanofi_AD-202409100801.html)
+Token length: 93
+Summarized using GPT-4o-mini
+Append: [À l'aéroport d'Amsterdam, des fauteuils roulants autonomes amènent les passagers tout près des avions](https://www.bfmtv.com/economie/entreprises/transports/a-l-aeroport-d-amsterdam-des-fauteuils-roulants-autonomes-amenent-les-passagers-tout-pres-des-avions_AN-202409100613.html)
+append_entries: 4
+Finish: 2024-09-11 01:21:34.757727
