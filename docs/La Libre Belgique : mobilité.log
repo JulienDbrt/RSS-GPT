@@ -2396,3 +2396,9 @@ Summarized using GPT-4o-mini
 Append: [Grève mercredi matin aux Pays-Bas: des trains Eurostar et Benelux ne circuleront pas](https://www.lalibre.be/belgique/mobilite/2024/09/10/greve-mercredi-matin-aux-pays-bas-des-trains-eurostar-et-benelux-ne-circuleront-pas-RQQTPP3V7NG2FKYXODLTIDDZHM/)
 append_entries: 1
 Finish: 2024-09-11 01:27:20.247654
+------------------------------------------------------
+Started: 2024-09-11 12:47:27.389770
+Existing_entries: 296
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-09-11 12:47:27.685327

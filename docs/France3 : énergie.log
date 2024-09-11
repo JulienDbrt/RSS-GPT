@@ -2043,3 +2043,18 @@ Summarized using GPT-4o-mini
 Append: [Arrêt automatique et bruit inquiétant à la centrale de Golfech, l'Autorité de sûreté nucléaire enquête sur un "problème électrique"](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/accident-a-golfech-les-investigations-toujours-en-cours-apres-l-arret-soudain-d-un-reacteur-quelques-jours-apres-sa-remise-en-marche-3029618.html)
 append_entries: 1
 Finish: 2024-09-11 01:24:29.475699
+------------------------------------------------------
+Started: 2024-09-11 12:43:50.568510
+Existing_entries: 159
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 376
+Summarized using GPT-4o-mini
+Append: [VIDEO. "Grâce aux éoliennes, on va pouvoir financer l'aménagement du bourg"; Dans le centre-Bretagne, les maires profitent des taxes sur les énergies renouvelables](https://france3-regions.francetvinfo.fr/bretagne/morbihan/grace-aux-eoliennes-on-va-pouvoir-financer-l-amenagement-du-bourg-dans-le-centre-bretagne-les-maires-profitent-des-taxes-sur-les-energies-renouvelables-3030341.html)
+Token length: 189
+Summarized using GPT-4o-mini
+Append: ["Ils ont mis des gens en grande précarité" : la facture d'eau explose dans un village de Savoie, les habitants en colère](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/chambery/ils-ont-mis-des-gens-en-grande-precarite-la-facture-d-eau-explose-dans-un-village-de-savoie-les-habitants-en-colere-3030287.html)
+Token length: 275
+Summarized using GPT-4o-mini
+Append: [Fioul, bois, électricité, gaz : combien allez-vous payer pour vous chauffer ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/fioul-bois-electricite-gaz-combien-allez-vous-payer-pour-vous-chauffer-3029684.html)
+append_entries: 3
+Finish: 2024-09-11 12:43:58.907905

@@ -2526,3 +2526,18 @@ Summarized using GPT-4o-mini
 Append: [L'avez-vous prise ? On vous explique à quoi sert la nouvelle sortie sur l'autoroute A6](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/chalon-sur-saone/l-avez-vous-prise-on-vous-explique-a-quoi-sert-la-nouvelle-sortie-chalon-nord-sur-l-a6-3029912.html)
 append_entries: 1
 Finish: 2024-09-11 01:24:40.903203
+------------------------------------------------------
+Started: 2024-09-11 12:44:16.318392
+Existing_entries: 320
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [La gare de Dijon évacuée pour une alerte à la bombe : les démineurs en action, une dizaine de trains annulés](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/la-gare-de-dijon-evacuee-pour-une-alerte-a-la-bombe-une-dizaine-de-trains-annules-3030242.html)
+Token length: 236
+Summarized using GPT-4o-mini
+Append: ["On est en dessous du niveau de la mer" : comment les Ephad sont arrivés à bout de souffle](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-est-en-dessous-du-niveau-de-la-mer-comment-les-ephad-sont-arrives-a-bout-de-souffle-3029642.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Vendanges : "50% de pertes, voire plus", entre le mildiou et le gel, mauvaise année pour les vignerons du Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/vendanges-50-de-pertes-voire-plus-entre-le-mildiou-et-le-gel-mauvaise-annee-pour-les-vignerons-du-jura-3029936.html)
+append_entries: 3
+Finish: 2024-09-11 12:44:30.698466

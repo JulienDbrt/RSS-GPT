@@ -1952,3 +1952,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : la baisse des prix dans l'ancien se poursuit, mais ralentit au deuxième trimestre](https://www.francetvinfo.fr/economie/immobilier/immobilier-la-baisse-des-prix-dans-l-ancien-se-poursuit-mais-ralentit-au-deuxieme-trimestre_6773743.html)
 append_entries: 1
 Finish: 2024-09-11 01:23:43.054870
+------------------------------------------------------
+Started: 2024-09-11 12:42:58.764495
+Existing_entries: 122
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-11 12:42:58.926382

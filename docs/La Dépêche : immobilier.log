@@ -2074,3 +2074,9 @@ Summarized using GPT-4o-mini
 Append: [Taxe foncière 2024 dans le Lot : voici la commune où le taux est le plus élevé, et celle où le taux est le plus faible](https://www.ladepeche.fr/2024/09/10/taxe-fonciere-2024-dans-le-lot-voici-la-commune-ou-le-taux-est-le-plus-eleve-et-celle-ou-le-taux-est-le-plus-faible-12188526.php)
 append_entries: 2
 Finish: 2024-09-11 01:27:03.087719
+------------------------------------------------------
+Started: 2024-09-11 12:46:57.570593
+Existing_entries: 166
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-11 12:46:58.053486

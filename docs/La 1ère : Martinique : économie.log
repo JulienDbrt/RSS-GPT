@@ -2071,3 +2071,9 @@ Summarized using GPT-4o-mini
 Append: [Au Carbet 2 bateaux de pêche ont été incendiés, 4 moteurs volés](https://la1ere.francetvinfo.fr/martinique/au-carbet-2-bateaux-de-peche-ont-ete-incendies-4-moteurs-voles-1520672.html)
 append_entries: 1
 Finish: 2024-09-11 01:26:05.977765
+------------------------------------------------------
+Started: 2024-09-11 12:46:01.044936
+Existing_entries: 155
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-09-11 12:46:01.195329

@@ -4,6 +4,49 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Dot – L’app IA locale pour interagir avec vos documents (RAG)</title>
+<link>https://korben.info/dot-app-ia-locale-interagir-documents.html</link>
+<guid>https://korben.info/dot-app-ia-locale-interagir-documents.html</guid>
+<content:encoded><![CDATA[
+<div> Dot, modèle de langage, confidentialité, documents locaux, assistant IA
+
+<br><br>Summary: Dot est une solution conçue pour exploiter la puissance des grands modèles de langage afin d'interagir avec vos documents sans que vos données quittent votre ordinateur. Il permet de gérer divers types de fichiers tels que PDFs, Word, PowerPoint, Excel et Markdown. À la base de son fonctionnement se trouve un modèle de langage pré-entraîné, notamment une version de Mistral 7B, qui fonctionne en local pour permettre le Retrieval Augmented Generation (RAG). Ce processus consiste à générer du texte tout en recherchant des informations pertinentes dans une base de connaissances locale constituée par les documents indexés. Dot analyse et découpe vos documents, crée des embeddings et un index pour retrouver rapidement les informations pertinentes. Vous pouvez poser des questions à Dot, qui répond en s’appuyant sur ses connaissances générales et les informations spécifiques de vos documents, augmentant ainsi la pertinence de ses réponses. De plus, Dot assure la confidentialité de vos données, aucune information ne quittant votre machine. Une fonctionnalité supplémentaire, le mode "Big Dot", permet d'accéder à un assistant IA généraliste pour des tâches variées. Dot est gratuit, open-source et disponible sur macOS, Windows et Linux. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="349" src="https://korben.info/app/uploads/2024/05/SCR-20240503-intf-2.webp" width="1000" /></p>
+<p>Vous rêvez d&rsquo;exploiter la puissance des grands modèles de langage pour interagir avec vos documents, mais vous ne voulez pas que vos données quittent votre ordinateur ? Et bien j&rsquo;ai ce qu&rsquo;il vous faut !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-192608775" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Admettons que vous avez une tonne de documents sur votre disque dur, des PDFs, des fichiers Word, des présentations PowerPoint, des feuilles de calcul Excel et même des fichiers Markdown&#8230; Vous aimeriez pouvoir obtenir des réponses à vos questions à partir de leur contenu, avoir des résumés, générer de nouvelles idées à partir de ces informations&#8230; Bref, avoir un genre d&rsquo;assistant intelligent qui pourrait comprendre et manipuler toutes ces données. Et bien c&rsquo;est exactement ce que propose Dot !</p>
+
+
+
+<p>Au cœur de son fonctionnement, on trouve un modèle de langage pré-entraîné, en l&rsquo;occurrence une version de Mistral 7B au moment où j&rsquo;écris ces lignes, qui tourne en local et permet de faire ce qu&rsquo;on appelle du « Retrieval Augmented Generation » ou <strong>RAG</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159897" height="469" src="https://korben.info/app/uploads/2024/05/SCR-20240503-inij.webp" width="1000" /></figure></div>
+
+
+<p>En gros, ça veut dire que l&rsquo;IA ne se contente pas de générer du texte à partir de ce qu&rsquo;elle a appris, mais qu&rsquo;elle va aussi chercher des informations pertinentes dans une base de connaissances locale. Vous sélectionnez un dossier contenant les documents que vous voulez indexer, Dot va les analyser, les découper en morceaux, calculer des embeddings et construire un index permettant de retrouver rapidement les passages les plus pertinents pour une requête donnée. </p>
+
+
+
+<p>Et ensuite, vous pouvez discuter avec Dot comme vous le feriez avec un assistant IA classique. Vous lui posez une question, et il utiliser ses connaissances générales pour formuler une réponse, mais aussi aller piocher dans votre base documentaire pour l&rsquo;enrichir avec des informations spécifiques. Du coup, ça booste d&rsquo;un cran la pertinence et la qualité des réponses obtenues !</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-816544622" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Bien sûr, comme Dot tourne exclusivement en local, vous n&rsquo;avez pas à vous inquiéter pour la confidentialité de vos données puisque rien ne quitte jamais votre machine. C&rsquo;est un gros avantage par rapport aux solutions cloud qui vont envoyer vos documents sur des serveurs distants. Et si vous avez besoin d&rsquo;un coup de main pour des tâches qui ne nécessitent pas forcément d&rsquo;accéder à vos documents, Dot intègre un mode « Big Dot ». Vous basculez dessus en un clic, et vous vous retrouvez avec un assistant IA généraliste, capable de tenir des conversations sur n&rsquo;importe quel sujet, d&rsquo;aider à la rédaction, de faire du brainstorming, etc. C&rsquo;est comme avoir un ChatGPT en local sous la main à tout moment.</p>
+
+
+
+<p>Si ça vous dit de tester, c&rsquo;est gratuit, open source, dispo sous macOS, Windows, Linux et disponible ici : <a href="https://dotapp.uk/" rel="noopener" target="_blank">https://dotapp.uk/</a></p>
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Wed, 11 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Créez votre environnement Assembleur C64 sous Windows avec VS Code</title>

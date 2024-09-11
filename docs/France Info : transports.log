@@ -2921,3 +2921,15 @@ Summarized using GPT-4o-mini
 Append: [Transports : une enquête pointe les retards des TER](https://www.francetvinfo.fr/economie/transports/transports-une-enquete-pointe-les-retards-des-ter_6773812.html)
 append_entries: 1
 Finish: 2024-09-11 01:23:47.438154
+------------------------------------------------------
+Started: 2024-09-11 12:42:59.178056
+Existing_entries: 451
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [Agrocarburants : les terres utilisées pour en produire pourraient nourrir 1,6 milliard de personnes, d'après une étude d'Oxfam](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/agrocarburants-les-terres-utilisees-pour-en-produire-pourraient-nourrir-1-6-milliard-de-personnes-d-apres-une-etude-d-oxfam_6775510.html)
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [VRAI OU FAUX. Périphérique parisien à 50 km/h : on a vérifié les arguments pour et contre](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-peripherique-parisien-a-50-km-h-on-a-verifie-les-arguments-pour-et-contre_6762703.html)
+append_entries: 2
+Finish: 2024-09-11 12:43:04.915110
