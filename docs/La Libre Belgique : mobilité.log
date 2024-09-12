@@ -2420,3 +2420,15 @@ Summarized using GPT-4o-mini
 Append: [Le ring extérieur de Bruxelles fermé près de Hoeilaart dans la nuit de mercredi à jeudi](https://www.lalibre.be/belgique/mobilite/2024/09/11/le-ring-exterieur-de-bruxelles-ferme-pres-de-hoeilaart-dans-la-nuit-de-mercredi-a-jeudi-ZXQ4EG3MRJENPLJNLOAKF2V66M/)
 append_entries: 4
 Finish: 2024-09-12 01:27:17.976826
+------------------------------------------------------
+Started: 2024-09-12 12:48:08.641706
+Existing_entries: 300
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 249
+Summarized using GPT-4o-mini
+Append: [”Ce n’est pas qu’on ne veut pas travailler” : ras-le-bol généralisé qui a conduit à la “grève sauvage” à Charleroi Airport](https://www.lalibre.be/belgique/mobilite/2024/09/12/ce-nest-pas-quon-ne-veut-pas-travailler-ras-le-bol-generalise-qui-a-conduit-a-la-greve-sauvage-a-charleroi-airport-QGLQHHLKGZFCRBIAQSX4P2MCS4/)
+Token length: 96
+Summarized using GPT-4o-mini
+Append: ["Grève sauvage" à l'aéroport de Charleroi : tous les vols annulés ce jeudi matin](https://www.lalibre.be/belgique/2024/09/12/greve-sauvage-a-laeroport-de-charleroi-tous-les-vols-annules-ce-jeudi-matin-ZOAO5UT5TZBXVFNH3NCVBHZGXM/)
+append_entries: 2
+Finish: 2024-09-12 12:48:14.956150

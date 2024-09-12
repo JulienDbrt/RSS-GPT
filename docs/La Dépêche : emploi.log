@@ -2926,3 +2926,18 @@ Summarized using GPT-4o-mini
 Append: [Saint-Jean-du-Falga : une vingtaine d’emplois immédiats proposée par Acor et son "Café de l’emploi"](https://www.ladepeche.fr/2024/09/11/saint-jean-du-falga-une-vingtaine-demplois-immediats-proposee-par-acor-et-son-cafe-de-lemploi-12191192.php)
 append_entries: 1
 Finish: 2024-09-12 01:26:39.858359
+------------------------------------------------------
+Started: 2024-09-12 12:47:16.665627
+Existing_entries: 446
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 218
+Summarized using GPT-4o-mini
+Append: [Vendanges : "Nous espérons créer des vocations… " Des navettes pour permettre aux bénéficiaires du RSA de travailler dans les vignes](https://www.ladepeche.fr/2024/09/12/vendanges-nous-esperons-creer-des-vocations-des-navettes-pour-permettre-aux-beneficiaires-du-rsa-de-travailler-dans-les-vignes-12192379.php)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: ["Même le directeur général vient à vélo !" Dans les entreprises alsaciennes, le boom des "vélos de fonction"](https://www.ladepeche.fr/2024/09/12/meme-le-directeur-general-vient-a-velo-dans-les-entreprises-alsaciennes-le-boom-des-velos-de-fonction-12192614.php)
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Adecco Medical recrute plus de 1 300 personnes en Occitanie](https://www.ladepeche.fr/2024/09/12/adecco-medical-recrute-plus-de-1-300-personnes-en-occitanie-12192156.php)
+append_entries: 3
+Finish: 2024-09-12 12:47:25.797118

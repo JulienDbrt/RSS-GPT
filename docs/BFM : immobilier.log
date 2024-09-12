@@ -2626,3 +2626,18 @@ Summarized using GPT-4o-mini
 Append: [Louer ou acheter? Ces villes où rentabiliser son logement est le plus rapide](https://www.bfmtv.com/immobilier/louer-ou-acheter-ces-villes-ou-rentabiliser-son-logement-est-le-plus-rapide_AN-202409110595.html)
 append_entries: 2
 Finish: 2024-09-12 01:22:34.703299
+------------------------------------------------------
+Started: 2024-09-12 12:40:39.687255
+Existing_entries: 362
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 182
+Summarized using GPT-4o-mini
+Append: ["Jusqu’à 89.000 euros de remise": des promoteurs veulent écouler 100 appartements neufs sur Veepee](https://www.bfmtv.com/immobilier/neuf/jusqu-a-89-000-euros-de-remise-des-promoteurs-veulent-ecouler-100-appartements-neufs-sur-veepee_AV-202409120496.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Selon la fondation Abbé Pierre, plus d'un quart des annonces dépassent le plafond de loyer autorisé](https://www.bfmtv.com/immobilier/location/selon-la-fondation-abbe-pierre-plus-d-un-quart-des-annonces-depassent-le-plafond-de-loyer-autorise_AD-202409120414.html)
+Token length: 255
+Summarized using GPT-4o-mini
+Append: [Pour la Banque des territoires, la construction de HLM va être mise à mal par l'obligation de rénovation énergétique](https://www.bfmtv.com/immobilier/construction/pour-la-banque-des-territoires-la-construction-de-hlm-va-etre-mise-a-mal-par-l-obligation-de-renovation-energetique_AD-202409120362.html)
+append_entries: 3
+Finish: 2024-09-12 12:40:46.569610

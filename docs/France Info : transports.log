@@ -2948,3 +2948,9 @@ Summarized using GPT-4o-mini
 Append: [SNCF : les billets pour les vacances de Noël seront mis en vente le 2 octobre](https://www.francetvinfo.fr/economie/transports/sncf/sncf-les-billets-pour-les-vacances-de-noel-seront-mis-en-vente-le-2-octobre_6775609.html)
 append_entries: 3
 Finish: 2024-09-12 01:23:58.436694
+------------------------------------------------------
+Started: 2024-09-12 12:43:07.621508
+Existing_entries: 456
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-12 12:43:07.822889

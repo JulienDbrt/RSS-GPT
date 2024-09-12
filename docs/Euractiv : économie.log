@@ -2198,3 +2198,15 @@ Summarized using GPT-4o-mini
 Append: [Allemagne : le leader de la CDU refuse toute nouvelle dette commune européenne](https://www.euractiv.fr/section/politique/news/allemagne-le-leader-de-la-cdu-refuse-toute-nouvelle-dette-commune-europeenne/)
 append_entries: 1
 Finish: 2024-09-12 01:23:09.600568
+------------------------------------------------------
+Started: 2024-09-12 12:41:47.904639
+Existing_entries: 220
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [Les eurodéputés divisés sur la réponse à apporter aux fermetures d’usines automobiles en Europe](https://www.euractiv.fr/section/mobilite-du-futur/news/les-eurodeputes-divises-sur-la-reponse-a-apporter-aux-fermetures-dusines-automobiles-en-europe/)
+Token length: 276
+Summarized using GPT-4o-mini
+Append: [La BCE va de nouveau baisser ses taux, incertitude pour la suite](https://www.euractiv.fr/section/economie/news/la-bce-va-de-nouveau-baisser-ses-taux-incertitude-pour-la-suite/)
+append_entries: 2
+Finish: 2024-09-12 12:41:53.130124

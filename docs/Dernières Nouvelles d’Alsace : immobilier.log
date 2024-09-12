@@ -2123,3 +2123,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Pourquoi autant de logements sont des passoires thermiques ?](https://www.dna.fr/magazine-immobilier/2024/09/11/pourquoi-autant-de-logements-sont-des-passoires-thermiques)
 append_entries: 1
 Finish: 2024-09-12 01:23:05.884198
+------------------------------------------------------
+Started: 2024-09-12 12:41:45.105913
+Existing_entries: 175
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-09-12 12:41:46.123191

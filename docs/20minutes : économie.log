@@ -2690,3 +2690,12 @@ Summarized using GPT-4o-mini
 Append: [Bretagne : La Brittany Ferries va mieux et ouvre son capital aux grosses fortunes bretonnes](https://www.20minutes.fr/economie/4109584-20240911-bretagne-brittany-ferries-va-mieux-ouvre-capital-grosses-fortunes-bretonnes)
 append_entries: 4
 Finish: 2024-09-12 01:20:38.882658
+------------------------------------------------------
+Started: 2024-09-12 12:38:13.418566
+Existing_entries: 364
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Cyberattaque : Truffaut à son tour victime d’un vol de données de clients](https://www.20minutes.fr/economie/4109639-20240912-cyberattaque-truffaut-tour-victime-vol-donnees-clients)
+append_entries: 1
+Finish: 2024-09-12 12:38:16.198714

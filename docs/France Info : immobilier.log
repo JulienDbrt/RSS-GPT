@@ -1973,3 +1973,12 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : des logements neufs à prix réduits sur internet](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-des-logements-neufs-a-prix-reduits-sur-internet_6775717.html)
 append_entries: 3
 Finish: 2024-09-12 01:23:50.459656
+------------------------------------------------------
+Started: 2024-09-12 12:43:04.192676
+Existing_entries: 125
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 294
+Summarized using GPT-4o-mini
+Append: [Logement : des appartements neufs à prix cassés sur internet](https://www.francetvinfo.fr/economie/immobilier/logements-vacants/logement-des-appartements-neufs-a-prix-casses-sur-internet_6777226.html)
+append_entries: 1
+Finish: 2024-09-12 12:43:07.365206

@@ -1923,3 +1923,9 @@ Summarized using GPT-4o-mini
 Append: [L'emploi des seniors au plus haut depuis 1975](https://www.bfmtv.com/economie/emploi/l-emploi-des-seniors-au-plus-haut-depuis-1975_AV-202409110677.html)
 append_entries: 1
 Finish: 2024-09-12 01:21:53.266246
+------------------------------------------------------
+Started: 2024-09-12 12:39:33.653951
+Existing_entries: 115
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-09-12 12:39:33.756436

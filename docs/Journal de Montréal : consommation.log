@@ -2191,3 +2191,9 @@ Summarized using GPT-4o-mini
 Append: [Fini la soupe pour la société Campbell's](https://www.journaldemontreal.com/2024/09/11/fini-la-soupe-pour-la-societe-campbells)
 append_entries: 1
 Finish: 2024-09-12 01:25:23.654353
+------------------------------------------------------
+Started: 2024-09-12 12:45:06.126995
+Existing_entries: 193
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-09-12 12:45:06.395720
