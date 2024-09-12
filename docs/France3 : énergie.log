@@ -2058,3 +2058,9 @@ Summarized using GPT-4o-mini
 Append: [Fioul, bois, électricité, gaz : combien allez-vous payer pour vous chauffer ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/fioul-bois-electricite-gaz-combien-allez-vous-payer-pour-vous-chauffer-3029684.html)
 append_entries: 3
 Finish: 2024-09-11 12:43:58.907905
+------------------------------------------------------
+Started: 2024-09-12 01:24:31.435894
+Existing_entries: 162
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+append_entries: 0
+Finish: 2024-09-12 01:24:32.099671

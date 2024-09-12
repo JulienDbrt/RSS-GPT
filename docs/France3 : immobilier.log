@@ -1986,3 +1986,12 @@ Summarized using GPT-4o-mini
 Append: [Maisons fissurées : "Un matin, nous avons entendu un grand bruit, tout s’est fissuré en une nuit"](https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/maisons-fissurees-un-matin-nous-avons-entendu-un-grand-bruit-tout-s-est-fissure-en-une-nuit-3029993.html)
 append_entries: 1
 Finish: 2024-09-11 12:44:54.792999
+------------------------------------------------------
+Started: 2024-09-12 01:25:05.479832
+Existing_entries: 138
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 156
+Summarized using GPT-4o-mini
+Append: ["Depuis 2021, c'est 200 euros tous les ans en plus" : pourquoi la taxe foncière continue d'augmenter ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/depuis-2021-c-est-200-euros-tous-les-ans-en-plus-pourquoi-la-taxe-fonciere-continue-d-augmenter-3030296.html)
+append_entries: 1
+Finish: 2024-09-12 01:25:07.761683

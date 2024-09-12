@@ -2933,3 +2933,18 @@ Summarized using GPT-4o-mini
 Append: [VRAI OU FAUX. Périphérique parisien à 50 km/h : on a vérifié les arguments pour et contre](https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-faux-peripherique-parisien-a-50-km-h-on-a-verifie-les-arguments-pour-et-contre_6762703.html)
 append_entries: 2
 Finish: 2024-09-11 12:43:04.915110
+------------------------------------------------------
+Started: 2024-09-12 01:23:50.707003
+Existing_entries: 453
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 203
+Summarized using GPT-4o-mini
+Append: [Périphérique parisien à 50 km/h : une mesure efficace contre la pollution ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/peripherique-parisien-a-50-km-h-une-mesure-efficace-contre-la-pollution_6776206.html)
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Trains : l'Ile-de-France appelle à abandonner le projet de nouvelle ligne Paris-Normandie](https://www.francetvinfo.fr/economie/transports/trains-l-ile-de-france-appelle-abandonner-le-projet-de-nouvelle-ligne-paris-normandie_6776035.html)
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [SNCF : les billets pour les vacances de Noël seront mis en vente le 2 octobre](https://www.francetvinfo.fr/economie/transports/sncf/sncf-les-billets-pour-les-vacances-de-noel-seront-mis-en-vente-le-2-octobre_6775609.html)
+append_entries: 3
+Finish: 2024-09-12 01:23:58.436694

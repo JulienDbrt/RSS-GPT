@@ -2614,3 +2614,15 @@ Summarized using GPT-4o-mini
 Append: [HLM: 2,7 millions de ménages attentent un logement social, un chiffre en hausse par rapport à 2023](https://www.bfmtv.com/immobilier/location/logement-social-2-7-millions-de-demandes-en-hausse-par-rapport-a-2023_AD-202409110339.html)
 append_entries: 1
 Finish: 2024-09-11 12:41:15.970796
+------------------------------------------------------
+Started: 2024-09-12 01:22:30.760245
+Existing_entries: 360
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Logement social: dans quelles régions y a-t-il le plus de demandes en attente?](https://www.bfmtv.com/immobilier/location/logement-social-dans-quelles-regions-y-a-t-il-le-plus-de-demandes-en-attente_AV-202409110662.html)
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Louer ou acheter? Ces villes où rentabiliser son logement est le plus rapide](https://www.bfmtv.com/immobilier/louer-ou-acheter-ces-villes-ou-rentabiliser-son-logement-est-le-plus-rapide_AN-202409110595.html)
+append_entries: 2
+Finish: 2024-09-12 01:22:34.703299

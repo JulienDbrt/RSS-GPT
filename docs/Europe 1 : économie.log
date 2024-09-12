@@ -2770,3 +2770,9 @@ Summarized using GPT-4o-mini
 Append: [Taxe sur la production d’énergie : pourquoi notre facture EDF pourrait bientôt augmenter alors qu'elle devait baisser ?](https://www.europe1.fr/economie/taxe-sur-la-production-denergie-pourquoi-notre-facture-edf-va-bientot-augmenter-alors-quelle-devait-baisser-4266730)
 append_entries: 1
 Finish: 2024-09-11 12:42:06.767762
+------------------------------------------------------
+Started: 2024-09-12 01:23:11.266476
+Existing_entries: 394
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-09-12 01:23:11.671729

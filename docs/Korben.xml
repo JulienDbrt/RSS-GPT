@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Dot – L’app IA locale pour interagir avec vos documents (RAG)</title>
 <link>https://korben.info/dot-app-ia-locale-interagir-documents.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Dot, modèle de langage, confidentialité, documents locaux, assistant IA
 
-<br><br>Summary: Dot est une solution conçue pour exploiter la puissance des grands modèles de langage afin d'interagir avec vos documents sans que vos données quittent votre ordinateur. Il permet de gérer divers types de fichiers tels que PDFs, Word, PowerPoint, Excel et Markdown. À la base de son fonctionnement se trouve un modèle de langage pré-entraîné, notamment une version de Mistral 7B, qui fonctionne en local pour permettre le Retrieval Augmented Generation (RAG). Ce processus consiste à générer du texte tout en recherchant des informations pertinentes dans une base de connaissances locale constituée par les documents indexés. Dot analyse et découpe vos documents, crée des embeddings et un index pour retrouver rapidement les informations pertinentes. Vous pouvez poser des questions à Dot, qui répond en s’appuyant sur ses connaissances générales et les informations spécifiques de vos documents, augmentant ainsi la pertinence de ses réponses. De plus, Dot assure la confidentialité de vos données, aucune information ne quittant votre machine. Une fonctionnalité supplémentaire, le mode "Big Dot", permet d'accéder à un assistant IA généraliste pour des tâches variées. Dot est gratuit, open-source et disponible sur macOS, Windows et Linux. <div>
+<br /><br />Summary: Dot est une solution conçue pour exploiter la puissance des grands modèles de langage afin d'interagir avec vos documents sans que vos données quittent votre ordinateur. Il permet de gérer divers types de fichiers tels que PDFs, Word, PowerPoint, Excel et Markdown. À la base de son fonctionnement se trouve un modèle de langage pré-entraîné, notamment une version de Mistral 7B, qui fonctionne en local pour permettre le Retrieval Augmented Generation (RAG). Ce processus consiste à générer du texte tout en recherchant des informations pertinentes dans une base de connaissances locale constituée par les documents indexés. Dot analyse et découpe vos documents, crée des embeddings et un index pour retrouver rapidement les informations pertinentes. Vous pouvez poser des questions à Dot, qui répond en s’appuyant sur ses connaissances générales et les informations spécifiques de vos documents, augmentant ainsi la pertinence de ses réponses. De plus, Dot assure la confidentialité de vos données, aucune information ne quittant votre machine. Une fonctionnalité supplémentaire, le mode "Big Dot", permet d'accéder à un assistant IA généraliste pour des tâches variées. Dot est gratuit, open-source et disponible sur macOS, Windows et Linux. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="349" src="https://korben.info/app/uploads/2024/05/SCR-20240503-intf-2.webp" width="1000" /></p>
 <p>Vous rêvez d&rsquo;exploiter la puissance des grands modèles de langage pour interagir avec vos documents, mais vous ne voulez pas que vos données quittent votre ordinateur ? Et bien j&rsquo;ai ce qu&rsquo;il vous faut !</p>
 
@@ -45,9 +46,7 @@
 <p>Si ça vous dit de tester, c&rsquo;est gratuit, open source, dispo sous macOS, Windows, Linux et disponible ici : <a href="https://dotapp.uk/" rel="noopener" target="_blank">https://dotapp.uk/</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Wed, 11 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Créez votre environnement Assembleur C64 sous Windows avec VS Code</title>
 <link>https://korben.info/environnement-assembleur-c64-windows-vs-code.html</link>

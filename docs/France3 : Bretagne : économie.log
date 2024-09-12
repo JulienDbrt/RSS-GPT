@@ -2191,3 +2191,9 @@ Summarized using GPT-4o-mini
 Append: [La Brittany Ferries ouvre son capital à huit nouveaux actionnaires bretons et rembourse les avances publiques de la période Covid](https://france3-regions.francetvinfo.fr/bretagne/finistere/la-brittany-ferries-ouvre-son-capital-a-huit-nouveaux-actionnaires-bretons-et-rembourse-les-avances-publiques-de-la-periode-covid-3030140.html)
 append_entries: 1
 Finish: 2024-09-11 12:44:33.878435
+------------------------------------------------------
+Started: 2024-09-12 01:25:02.258728
+Existing_entries: 206
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-12 01:25:03.041655
