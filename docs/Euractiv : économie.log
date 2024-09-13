@@ -2219,3 +2219,15 @@ Summarized using GPT-4o-mini
 Append: [« Mes amis, je pars » : Bruno Le Maire annonce son retrait de la vie politique](https://www.euractiv.fr/section/politique/news/mes-amis-je-pars-bruno-le-maire-annonce-son-retrait-de-la-vie-politique/)
 append_entries: 1
 Finish: 2024-09-13 01:23:53.640011
+------------------------------------------------------
+Started: 2024-09-13 12:40:55.375094
+Existing_entries: 223
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [La « naïveté » européenne pourrait causer un effondrement industriel, avertit la présidente de la commission ECON](https://www.euractiv.fr/section/concurrence/interview/la-naivete-europeenne-pourrait-causer-un-effondrement-industriel-avertit-la-presidente-de-la-commission-econ/)
+Token length: 273
+Summarized using GPT-4o-mini
+Append: [UE-Mercosur : Michel Barnier prêt à bloquer l’accord](https://www.euractiv.fr/section/agriculture-alimentation/news/ue-mercosur-michel-barnier-pret-a-bloquer-laccord/)
+append_entries: 2
+Finish: 2024-09-13 12:41:33.140498

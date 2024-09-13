@@ -2785,3 +2785,18 @@ Summarized using GPT-4o-mini
 Append: [Au Luxembourg: La Loterie nationale se lance dans les paris sportifs sur Internet](https://www.lessentiel.lu/fr/story/au-luxembourg-la-loterie-nationale-se-lance-dans-les-paris-sportifs-sur-internet-103184011)
 append_entries: 1
 Finish: 2024-09-13 01:26:48.789949
+------------------------------------------------------
+Started: 2024-09-13 12:46:35.836515
+Existing_entries: 445
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [États-Unis: Apple autorisé à transformer ses AirPods en aides auditives](https://www.lessentiel.lu/fr/story/etats-unis-apple-autorise-a-transformer-ses-airpods-en-aides-auditives-103184377)
+Token length: 203
+Summarized using GPT-4o-mini
+Append: [En Chine: PwC écope d'une amende de 62 millions de dollars à cause d'un audit](https://www.lessentiel.lu/fr/story/en-chine-pwc-ecope-d-une-amende-de-62-millions-de-dollars-a-cause-d-un-audit-103184334)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Énergie au Luxembourg: De nouvelles aides limiteront la hausse du prix de l’électricité](https://www.lessentiel.lu/fr/story/energie-au-luxembourg-de-nouvelles-aides-limiteront-la-hausse-du-prix-de-l-electricite-103184049)
+append_entries: 3
+Finish: 2024-09-13 12:46:44.198001

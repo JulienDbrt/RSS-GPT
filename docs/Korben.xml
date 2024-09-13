@@ -4,6 +4,51 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>rPGP – Une bibliothèque Rust pour l’implémentation d’OpenPGP</title>
+<link>https://korben.info/rpgp-bibliotheque-rust-implementation-openpgp.html</link>
+<guid>https://korben.info/rpgp-bibliotheque-rust-implementation-openpgp.html</guid>
+<content:encoded><![CDATA[
+<div> rPGP, OpenPGP, Rust, Autocrypt, sécurité  
+
+<br><br>Summary:  
+rPGP est une bibliothèque Rust permettant de manipuler OpenPGP sans avoir à se plonger dans du code C complexe. Elle propose une API simple et est entièrement sous licence libre, offrant une grande flexibilité. La bibliothèque est compatible avec Autocrypt 1.1, une spécification visant à simplifier le chiffrement des mails pour le grand public. La crate pgp est régulièrement mise à jour, tandis que le support RSA est géré collectivement. Les utilisateurs souhaitant utiliser la cryptographie elliptique peuvent se tourner vers la crate Curve25519-dalek. Bien que la documentation soit encore en développement, il est possible d'ouvrir des issues sur GitHub pour obtenir de l'aide. Un audit de sécurité réalisé en 2019 a confirmé l'absence de failles critiques, bien qu'il reste quelques points à améliorer. rPGP est aussi utilisé par des applications en production, garantissant sa fiabilité sur différentes plateformes comme Windows, Linux, macOS, Android et iOS. Enfin, une fonctionnalité wasm est en cours d'expérimentation pour ceux souhaitant travailler dans un navigateur ou avec Node.js. <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Logo_with_word_rPGP_written_encryption_PGP_code_43eb8446-c63c-4680-a007-adbdcfd4922a.webp" width="1920" /></p>
+<p><strong><a href="https://github.com/rpgp/rpgp" rel="noopener" target="_blank">rPGP</a></strong> c&rsquo;est un bibliothèque Rust qui va vous permettre de jouer avec <strong>OpenPGP</strong> comme des grands ! Plus besoin de vous taper des kilomètres de C pour avoir un bout de code qui chiffre trois mails bourrés de fautes. Maintenant, on a le droit à une implémentation 100% Rust, avec une API minimaliste mais qui fait le taf. Et en plus, c&rsquo;est sous licence libre, donc on peut en faire ce qu&rsquo;on veut ! </p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-393851441" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Le top du top, c&rsquo;est que rPGP gère tout ce qu&rsquo;il faut pour être compatible avec <strong>Autocrypt 1.1</strong>. Si vous ne connaissez pas, c&rsquo;est une spécification pour chiffrer les mails qui est censée être facile à utiliser pour monsieur et madame tout-le-monde.</p>
+
+
+
+<p>Côté technique, rPGP est mis à jour régulièrement en tant que crate <strong>pgp</strong> (oui, ils ont pensé à nous, les flemmards qui ne veulent pas taper plus de trois lettres). Et pour la partie RSA, ça vit tranquillou sous le parapluie collectif <strong><a href="https://github.com/RustCrypto" rel="noopener" target="_blank">RustCrypto</a></strong>. Et pour les petits malins qui voudraient se la jouer elliptique, pas de panique : le support <strong>ECC</strong> est assuré par la crate <strong>Curve25519-dalek</strong>. J&rsquo;adore le nom 🙂</p>
+
+
+
+<p>Bon, après, faut avouer que la doc de l&rsquo;API est encore un peu légère mais si vraiment vous séchez, vous pouvez toujours ouvrir une issue sur GitHub. Les devs sont sympas, ils répondent (des fois).</p>
+
+
+
+<p>D&rsquo;ailleurs, rPGP s&rsquo;est payé un petit audit de sécurité indépendant en 2019, réalisé par les gars d&rsquo;<strong>IncludeSecurity</strong> et pas de failles critiques ! Bon, quelques trucs à corriger par ci par là, mais globalement, c&rsquo;est du solide. Si vous voulez jeter un œil au rapport, c&rsquo;est par <a href="https://delta.chat/assets/blog/2019-first-security-review.pdf" rel="noopener" target="_blank">ici</a>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-84783353" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Notez que rPGP est utilisé en prod par <strong><a href="https://delta.chat/fr/" rel="noopener" target="_blank">Delta Chat</a></strong>, l&rsquo;app de messagerie basée sur les mails et ça tourne nickel sur Windows, Linux, macOS, Android et iOS, en 32 et 64 bits. Que demande le peuple ?</p>
+
+
+
+<p>Et si vous êtes du genre à tout vouloir faire tourner dans votre navigateur (ou dans Node.js, on ne juge pas), rPGP a même pensé à vous avec une feature <strong>wasm</strong> ! Par contre, les bindings sont encore expérimentaux, mais tout se trouve dans le repo <a href="https://github.com/rpgp/rpgp-js" rel="noopener" target="_blank">rpgp/rpgp-js</a>.</p>
+
+
+
+<p>Allez, je vous laisse, j&rsquo;ai des messages secrets à chiffrer moi !</p>
+]]></content:encoded>
+<pubDate>Fri, 13 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 13 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Toutes les formes de gouvernements expliquées en 10 Minutes</title>

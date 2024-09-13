@@ -2806,3 +2806,15 @@ Summarized using GPT-4o-mini
 Append: [Prêt-à-porter : la marque Esprit placée en liquidation judiciaire en France](https://www.europe1.fr/economie/pret-a-porter-la-marque-esprit-place-en-liquidation-judiciaire-en-france-4267125)
 append_entries: 2
 Finish: 2024-09-13 01:24:00.605952
+------------------------------------------------------
+Started: 2024-09-13 12:41:34.833707
+Existing_entries: 400
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 347
+Summarized using GPT-4o-mini
+Append: [France : l'Insee confirme le retour de l'inflation sous les 2%, une première depuis trois ans](https://www.europe1.fr/economie/france-linsee-confirme-le-retour-de-linflation-sous-les-2-une-premiere-depuis-trois-ans-4267244)
+Token length: 352
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : à partir de ce vendredi, le parcours du projet de loi de finances prend du retard](https://www.europe1.fr/economie/budget-2025-a-partir-de-ce-vendredi-le-parcours-de-projet-de-loi-de-finances-prend-du-retard-4267185)
+append_entries: 2
+Finish: 2024-09-13 12:41:41.518798

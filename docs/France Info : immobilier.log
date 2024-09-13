@@ -2000,3 +2000,12 @@ Summarized using GPT-4o-mini
 Append: [Logement : la croissance du parc tourne toujours au ralenti en France, selon l'Insee](https://www.francetvinfo.fr/economie/immobilier/logement-la-croissance-du-parc-tourne-toujours-au-ralenti-en-france-selon-l-insee_6777814.html)
 append_entries: 4
 Finish: 2024-09-13 01:24:49.447637
+------------------------------------------------------
+Started: 2024-09-13 12:42:55.805851
+Existing_entries: 130
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "C'est une autre manière d'utiliser son logement" : à quoi va ressembler le premier immeuble sans chauffage ni climatisation à Lyon ?](https://www.francetvinfo.fr/economie/immobilier/reportage-c-est-une-autre-maniere-d-utiliser-son-logement-a-quoi-va-ressembler-le-premier-immeuble-sans-chauffage-ni-climatisation-a-lyon_6778111.html)
+append_entries: 1
+Finish: 2024-09-13 12:42:58.527276

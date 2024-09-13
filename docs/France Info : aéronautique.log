@@ -1886,3 +1886,9 @@ Summarized using GPT-4o-mini
 Append: [Transport aérien : des vols perturbés par une consommation excessive d'alcool des passagers](https://www.francetvinfo.fr/societe/transport-aerien-des-vols-perturbes-par-une-consommation-excessive-d-alcool-des-passagers_6777664.html)
 append_entries: 1
 Finish: 2024-09-13 01:24:37.779001
+------------------------------------------------------
+Started: 2024-09-13 12:42:54.831507
+Existing_entries: 92
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-09-13 12:42:54.983424

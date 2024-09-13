@@ -3014,3 +3014,15 @@ Summarized using GPT-4o-mini
 Append: [La Banque centrale européenne annonce une nouvelle baisse des taux](https://www.la-croix.com/la-bce-va-de-nouveau-baisser-ses-taux-incertitude-pour-la-suite-20240912)
 append_entries: 4
 Finish: 2024-09-13 01:27:22.960722
+------------------------------------------------------
+Started: 2024-09-13 12:47:37.871909
+Existing_entries: 488
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Royaume-Uni : la justice s’oppose à la création d’une mine de charbon](https://www.la-croix.com/international/royaume-uni-la-justice-s-oppose-a-la-creation-dune-mine-de-charbon-20240913)
+Token length: 263
+Summarized using GPT-4o-mini
+Append: [Boeing : les salariés américains votent massivement pour la grève](https://www.la-croix.com/economie/boeing-les-salaries-americains-votent-massivement-pour-la-greve-20240913)
+append_entries: 2
+Finish: 2024-09-13 12:47:42.908167

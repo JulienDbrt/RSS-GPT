@@ -2963,3 +2963,15 @@ Summarized using GPT-4o-mini
 Append: [Transport aérien : des vols perturbés par une consommation excessive d'alcool des passagers](https://www.francetvinfo.fr/societe/transport-aerien-des-vols-perturbes-par-une-consommation-excessive-d-alcool-des-passagers_6777664.html)
 append_entries: 1
 Finish: 2024-09-13 01:24:52.849918
+------------------------------------------------------
+Started: 2024-09-13 12:42:58.779462
+Existing_entries: 457
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [SNCF : à partir de dimanche, les voyageurs devront respecter les nouvelles règles de limitation des bagages dans les TGV et les Intercités](https://www.francetvinfo.fr/economie/transports/sncf-a-partir-de-dimanche-les-voyageurs-devront-respecter-les-nouvelles-regles-de-limitation-des-bagages-dans-les-tgv-et-les-intercites_6776080.html)
+Token length: 254
+Summarized using GPT-4o-mini
+Append: [Transition écologique : la taxe sur les autoroutes et les grands aéroports va bien voir le jour](https://www.francetvinfo.fr/replay-radio/le-brief-eco/transition-ecologique-la-taxe-sur-les-autoroutes-et-les-grands-aeroports-va-bien-voir-le-jour_6752158.html)
+append_entries: 2
+Finish: 2024-09-13 12:43:04.994660

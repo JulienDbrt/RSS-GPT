@@ -2450,3 +2450,12 @@ Summarized using GPT-4o-mini
 Append: [La grève à l'aéroport de Charleroi pourrait être prolongée ce vendredi](https://www.lalibre.be/belgique/mobilite/2024/09/12/la-greve-a-laeroport-de-charleroi-pourrait-etre-prolongee-ce-vendredi-53R5W2BVL5HQPGSTH2MSDKNEUM/)
 append_entries: 4
 Finish: 2024-09-13 01:28:36.496890
+------------------------------------------------------
+Started: 2024-09-13 12:49:00.145336
+Existing_entries: 306
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 84
+Summarized using GPT-4o-mini
+Append: [Les Belges ne veulent pas que leurs trajets domicile-travail dépassent une heure](https://www.lalibre.be/belgique/mobilite/2024/09/13/les-belges-ne-veulent-pas-que-leurs-trajets-domicile-travail-depassent-une-heure-4773Y4Y7GNFMXE6HHSGOJG5NWA/)
+append_entries: 1
+Finish: 2024-09-13 12:49:03.513819

@@ -2653,3 +2653,12 @@ Summarized using GPT-4o-mini
 Append: [La hausse des loyers en région parisienne s'est accentuée en 2023](https://www.bfmtv.com/immobilier/location/la-hausse-des-loyers-en-region-parisienne-s-est-accentuee-en-2023_AD-202409120705.html)
 append_entries: 2
 Finish: 2024-09-13 01:23:15.341024
+------------------------------------------------------
+Started: 2024-09-13 12:39:30.967418
+Existing_entries: 367
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 327
+Summarized using GPT-4o-mini
+Append: [Après la baisse des taux de la BCE, à quand la baisse des taux des crédits immobiliers?](https://www.bfmtv.com/immobilier/credit-emprunt/apres-la-baisse-des-taux-de-la-bce-a-quand-la-baisse-des-taux-des-credits-immobilers_AV-202409130435.html)
+append_entries: 1
+Finish: 2024-09-13 12:39:33.512566

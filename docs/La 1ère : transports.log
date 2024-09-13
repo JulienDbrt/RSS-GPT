@@ -2770,3 +2770,18 @@ Summarized using GPT-4o-mini
 Append: [Menace de grève chez Air Canada : Quel impact pour les voyageurs de Saint-Pierre et Miquelon ?](https://la1ere.francetvinfo.fr/saintpierremiquelon/menace-de-greve-chez-air-canada-quel-impact-pour-les-voyageurs-de-saint-pierre-et-miquelon-1521104.html)
 append_entries: 2
 Finish: 2024-09-13 01:27:11.327146
+------------------------------------------------------
+Started: 2024-09-13 12:47:29.549212
+Existing_entries: 380
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 269
+Summarized using GPT-4o-mini
+Append: [Pour réduire les annulations de vol, l’aéroport de Mayotte s'équipe du système AFIS](https://la1ere.francetvinfo.fr/mayotte/transport-aerien-pour-reduire-les-annulations-de-vol-l-aeroport-de-mayotte-s-equipe-du-systeme-afis-1521305.html)
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [La liaison aérienne Nouméa-Paris via Bangkok sera lancée le 11 décembre](https://la1ere.francetvinfo.fr/nouvellecaledonie/la-liaison-aerienne-noumea-bangkok-via-paris-sera-lancee-le-11-decembre-1521227.html)
+Token length: 54
+Summarized using GPT-4o-mini
+Append: [Signature d'un protocole d'accord chez les chauffeurs de bus de Tahiti](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/signature-d-un-protocole-d-accord-chez-les-chauffeurs-de-bus-de-tahiti-1521239.html)
+append_entries: 3
+Finish: 2024-09-13 12:47:37.597757

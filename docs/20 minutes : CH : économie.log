@@ -2953,3 +2953,15 @@ Summarized using GPT-4o-mini
 Append: [Swiss et easyJet parmi les compagnies les plus en retard cet été](https://www.20min.ch/fr/story/trafic-aerien-swiss-et-easyjet-parmi-les-compagnies-les-plus-en-retard-cet-ete-103183949)
 append_entries: 4
 Finish: 2024-09-13 01:21:09.717824
+------------------------------------------------------
+Started: 2024-09-13 12:36:22.689810
+Existing_entries: 481
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 168
+Summarized using GPT-4o-mini
+Append: [Nouveaux calculs: il faudra augmenter la TVA de 0,7 point](https://www.20min.ch/fr/story/13e-rente-avs-nouveaux-calculs-il-faudra-augmenter-la-tva-de-07-point-103184360)
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Les salariés de Boeing votent la grève à une écrasante majorité](https://www.20min.ch/fr/story/etats-unis-les-salaries-de-boeing-votent-la-greve-a-une-ecrasante-majorite-103184239)
+append_entries: 2
+Finish: 2024-09-13 12:36:28.719206

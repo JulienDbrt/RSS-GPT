@@ -2720,3 +2720,15 @@ Summarized using GPT-4o-mini
 Append: [Vinted : Vous pouvez maintenant vendre des produits électroniques sur la plateforme](https://www.20minutes.fr/economie/4109738-20240912-vinted-pouvez-maintenant-vendre-produits-electroniques-plateforme)
 append_entries: 5
 Finish: 2024-09-13 01:21:22.562122
+------------------------------------------------------
+Started: 2024-09-13 12:36:28.916593
+Existing_entries: 370
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [C’est confirmé, les salaires ont augmenté plus vite que l’inflation au deuxième trimestre](https://www.20minutes.fr/economie/4109920-20240913-confirme-salaires-augmente-plus-vite-inflation-deuxieme-trimestre)
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [Alsace : Quel impact aura « l’écotaxe » sur les transporteurs et sur les routes ?](https://www.20minutes.fr/economie/4109435-20240913-alsace-impact-ecotaxe-transporteurs-routes)
+append_entries: 2
+Finish: 2024-09-13 12:36:35.101609

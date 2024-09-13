@@ -2218,3 +2218,9 @@ Summarized using GPT-4o-mini
 Append: ["Notre rêve, c'est qu'il n'y ait plus de consommation de viande". Gros plan sur les méthodes de l'association L214](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/notre-reve-c-est-qu-il-n-y-ait-plus-de-consommation-de-viande-gros-plan-sur-les-methodes-de-l-association-l214-3030938.html)
 append_entries: 2
 Finish: 2024-09-13 01:25:51.579325
+------------------------------------------------------
+Started: 2024-09-13 12:45:12.990091
+Existing_entries: 209
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-13 12:45:13.270115
