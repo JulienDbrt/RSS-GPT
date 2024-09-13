@@ -2098,3 +2098,9 @@ Summarized using GPT-4o-mini
 Append: [Taxe foncière 2024 dans le Gers : la facture a-t-elle augmenté dans votre commune ?](https://www.ladepeche.fr/2024/09/12/taxe-fonciere-2024-dans-le-gers-la-facture-a-t-elle-augmente-dans-votre-commune-12188579.php)
 append_entries: 1
 Finish: 2024-09-12 12:47:29.640272
+------------------------------------------------------
+Started: 2024-09-13 01:27:59.319068
+Existing_entries: 168
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-13 01:28:00.196452

@@ -2070,3 +2070,12 @@ Existing_entries: 162
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-09-12 12:43:46.298488
+------------------------------------------------------
+Started: 2024-09-13 01:25:21.897842
+Existing_entries: 162
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 376
+Summarized using GPT-4o-mini
+Append: [Nucléaire. La centrale du Blayais espère obtenir deux réacteurs EPR : "cela fera du bien à la commune"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/nucleaire-la-centrale-du-blayais-espere-obtenir-deux-reacteurs-epr-cela-fera-du-bien-a-la-commune-3030887.html)
+append_entries: 1
+Finish: 2024-09-13 01:25:25.157748

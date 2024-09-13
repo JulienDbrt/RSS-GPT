@@ -2562,3 +2562,15 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. "Les gens ne peuvent pas se déplacer, alors on vient à eux pour distribuer de l'aide alimentaire", un bus du Secours Populaire en campagne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/reportage-les-gens-ne-peuvent-pas-se-deplacer-alors-on-vient-a-eux-pour-distribuer-de-l-aide-alimentaire-un-bus-du-secours-populaire-en-campagne-3030107.html)
 append_entries: 2
 Finish: 2024-09-12 12:43:52.676882
+------------------------------------------------------
+Started: 2024-09-13 01:25:25.335349
+Existing_entries: 326
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 258
+Summarized using GPT-4o-mini
+Append: ["On peut entendre parler du climat comme problème majeur et n'avoir aucun cours là-dessus" : les grandes écoles sont-elles déconnectées des questions écologiques ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/on-peut-entendre-parler-du-climat-comme-probleme-majeur-et-n-avoir-aucun-cours-la-dessus-les-grandes-ecoles-sont-elles-deconnectees-des-questions-ecologiques-3029129.html)
+Token length: 194
+Summarized using GPT-4o-mini
+Append: [JO de Paris 2024 : les Phryges, stars des boutiques officielles pour les nostalgiques des Jeux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jo-de-paris-2024-les-phryges-stars-des-boutiques-officielles-pour-les-nostalgiques-des-jeux-3031052.html)
+append_entries: 2
+Finish: 2024-09-13 01:25:31.012451

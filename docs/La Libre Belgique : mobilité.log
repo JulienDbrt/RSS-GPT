@@ -2432,3 +2432,21 @@ Summarized using GPT-4o-mini
 Append: ["Grève sauvage" à l'aéroport de Charleroi : tous les vols annulés ce jeudi matin](https://www.lalibre.be/belgique/2024/09/12/greve-sauvage-a-laeroport-de-charleroi-tous-les-vols-annules-ce-jeudi-matin-ZOAO5UT5TZBXVFNH3NCVBHZGXM/)
 append_entries: 2
 Finish: 2024-09-12 12:48:14.956150
+------------------------------------------------------
+Started: 2024-09-13 01:28:26.178229
+Existing_entries: 302
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 89
+Summarized using GPT-4o-mini
+Append: [La grève à l'aéroport de Charleroi se poursuivra vendredi, tous les vols sont annulés](https://www.lalibre.be/belgique/mobilite/2024/09/12/la-greve-a-laeroport-de-charleroi-se-poursuivra-vendredi-tous-les-vols-sont-annules-JROZVZEDIBA2BBC7YM4DICGM5I/)
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [Le trafic ferroviaire entre Ottignies et Fleurus totalement interrompu pendant cinq week-ends](https://www.lalibre.be/belgique/mobilite/2024/09/12/le-trafic-ferroviaire-entre-ottignies-et-fleurus-totalement-interrompu-pendant-cinq-week-ends-V5H6CR25IZCQVFZVIXQSY2MIX4/)
+Token length: 83
+Summarized using GPT-4o-mini
+Append: [Journée d'action nationale : le réseau de la Stib sera fortement perturbé lundi](https://www.lalibre.be/belgique/mobilite/2024/09/12/journee-daction-nationale-le-reseau-de-la-stib-sera-fortement-perturbe-lundi-BBROUQRKLFEO3DAURIENXMKKKA/)
+Token length: 116
+Summarized using GPT-4o-mini
+Append: [La grève à l'aéroport de Charleroi pourrait être prolongée ce vendredi](https://www.lalibre.be/belgique/mobilite/2024/09/12/la-greve-a-laeroport-de-charleroi-pourrait-etre-prolongee-ce-vendredi-53R5W2BVL5HQPGSTH2MSDKNEUM/)
+append_entries: 4
+Finish: 2024-09-13 01:28:36.496890

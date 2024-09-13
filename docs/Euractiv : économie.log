@@ -2210,3 +2210,12 @@ Summarized using GPT-4o-mini
 Append: [La BCE va de nouveau baisser ses taux, incertitude pour la suite](https://www.euractiv.fr/section/economie/news/la-bce-va-de-nouveau-baisser-ses-taux-incertitude-pour-la-suite/)
 append_entries: 2
 Finish: 2024-09-12 12:41:53.130124
+------------------------------------------------------
+Started: 2024-09-13 01:23:48.772043
+Existing_entries: 222
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [« Mes amis, je pars » : Bruno Le Maire annonce son retrait de la vie politique](https://www.euractiv.fr/section/politique/news/mes-amis-je-pars-bruno-le-maire-annonce-son-retrait-de-la-vie-politique/)
+append_entries: 1
+Finish: 2024-09-13 01:23:53.640011

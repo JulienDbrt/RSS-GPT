@@ -2941,3 +2941,18 @@ Summarized using GPT-4o-mini
 Append: [Adecco Medical recrute plus de 1 300 personnes en Occitanie](https://www.ladepeche.fr/2024/09/12/adecco-medical-recrute-plus-de-1-300-personnes-en-occitanie-12192156.php)
 append_entries: 3
 Finish: 2024-09-12 12:47:25.797118
+------------------------------------------------------
+Started: 2024-09-13 01:27:52.715570
+Existing_entries: 449
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 211
+Summarized using GPT-4o-mini
+Append: [Éducation : à Toulouse, la mobilisation des candidats au concours de professeur des écoles a payé, la liste complémentaire a été recrutée dans sa totalité](https://www.ladepeche.fr/2024/09/12/education-la-mobilisation-des-candidats-au-concours-de-professeur-des-ecoles-a-paye-la-liste-complementaire-a-ete-recrutee-dans-sa-totalite-12192693.php)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [À Toulouse, le nouveau collège Paléficat, un exemple en matière de construction écoresponsable](https://www.ladepeche.fr/2024/09/12/a-toulouse-le-nouveau-college-paleficat-un-exemple-en-matiere-de-construction-ecoresponsable-12192908.php)
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Recrute-moi si tu peux, le salon du "job dating", a battu son record de fréquentation](https://www.ladepeche.fr/2024/09/12/recrute-moi-si-tu-peux-le-salon-du-job-dating-a-battu-son-record-de-frequentation-12193449.php)
+append_entries: 3
+Finish: 2024-09-13 01:27:59.228655

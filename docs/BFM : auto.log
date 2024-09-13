@@ -2574,3 +2574,15 @@ Summarized using GPT-4o-mini
 Append: [INFO BFM BUSINESS. Les retards de la C3 électrique, un raté qui pourrait coûter cher à Citroën](https://www.bfmtv.com/auto/les-retards-de-la-c3-electrique-un-rate-qui-pourrait-couter-cher-a-citroen_AN-202409120071.html)
 append_entries: 1
 Finish: 2024-09-12 12:39:32.508376
+------------------------------------------------------
+Started: 2024-09-13 01:22:04.378907
+Existing_entries: 330
+Fetching from https://www.bfmtv.com/rss/auto/
+Token length: 164
+Summarized using GPT-4o-mini
+Append: [Suisse: un automobiliste condamné à une amende de 115.000 euros pour avoir trop collé le véhicule d’en face](https://www.bfmtv.com/auto/suisse-un-automobiliste-condamne-a-une-amende-de-115-000-euros-pour-avoir-trop-colle-le-vehicule-d-en-face_AN-202409121020.html)
+Token length: 292
+Summarized using GPT-4o-mini
+Append: [Après des années de forte hausse, les prix des voitures neuves reculent](https://www.bfmtv.com/auto/apres-des-annees-de-forte-hausse-les-prix-des-voitures-neuves-reculent_AV-202409120740.html)
+append_entries: 2
+Finish: 2024-09-13 01:22:09.773102

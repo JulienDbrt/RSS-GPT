@@ -3176,3 +3176,15 @@ Summarized using GPT-4o-mini
 Append: [Le Medef soutient la Sara](https://www.martinique.franceantilles.fr/actualite/economie/le-medef-soutient-la-sara-1002810.php)
 append_entries: 3
 Finish: 2024-09-12 12:42:25.000706
+------------------------------------------------------
+Started: 2024-09-13 01:24:00.883703
+Existing_entries: 544
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 61
+Summarized using GPT-4o-mini
+Append: [Négociations de la baisse des prix : quatre axes prioritaires](https://www.martinique.franceantilles.fr/actualite/politique/negociations-de-la-baisse-des-prix-quatre-axes-prioritaires-1002981.php)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [A Singapour, le pape appelle à protéger "la dignité des travailleurs migrants"](https://www.martinique.franceantilles.fr/actualite/societe/le-pape-est-arrive-a-singapour-derniere-etape-de-sa-tournee-en-asie-pacifique-1002723.php)
+append_entries: 2
+Finish: 2024-09-13 01:24:06.967162
