@@ -2018,3 +2018,9 @@ Summarized using GPT-4o-mini
 Append: [INFOGRAPHIE. Crédits immobiliers : visualisez l'évolution des taux d'intérêt, qui continuent de diminuer en septembre](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/infographie-credits-immobiliers-visualisez-l-evolution-des-taux-d-interet-qui-continuent-de-diminuer-en-septembre_6779320.html)
 append_entries: 1
 Finish: 2024-09-14 01:22:39.612231
+------------------------------------------------------
+Started: 2024-09-14 12:35:47.324115
+Existing_entries: 132
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-14 12:35:47.517075

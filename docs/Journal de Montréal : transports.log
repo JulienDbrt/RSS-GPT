@@ -2487,3 +2487,9 @@ Summarized using GPT-4o-mini
 Append: [Tramway: Marchand réclame une entente d’ici la fin septembre](https://www.journaldemontreal.com/2024/09/13/tramway-marchand-reclame-une-entente-dici-la-fin-septembre)
 append_entries: 1
 Finish: 2024-09-14 01:24:19.312072
+------------------------------------------------------
+Started: 2024-09-14 12:37:05.932441
+Existing_entries: 285
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-14 12:37:06.314308

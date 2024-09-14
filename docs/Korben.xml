@@ -4,6 +4,66 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>PumpkinOS – Un système alternatif à PalmOS</title>
+<link>https://korben.info/pumpkinos-systeme-exploitation-alternatif-palmos.html</link>
+<guid>https://korben.info/pumpkinos-systeme-exploitation-alternatif-palmos.html</guid>
+<content:encoded><![CDATA[
+<div> PalmOS, PumpkinOS, Miguel Letto, applications, compilation  
+
+<br><br>Summary:  
+PalmOS, un ancien système d’exploitation des années 90-2000, renaît grâce à un projet innovant nommé PumpkinOS. Ce dernier, conçu par Miguel Letto, n’est pas un simple émulateur, mais une réimplémentation moderne capable d'exécuter de vraies applications PalmOS sur des machines x86 et ARM. PumpkinOS offre un launcher (écran d’accueil), une application Preferences pour la personnalisation, et contient les quatre applications emblématiques de PalmOS : AddressBook, MemoPad, ToDoList et DateBook. Miguel a récupéré le code source de ces applis dans les SDK originaux et les a adaptées pour garantir leur fonctionnement sur PumpkinOS. Bien que des bugs subsistent et que certaines fonctionnalités nécessitent encore des tests, le développement a considérablement avancé. Pour installer PumpkinOS, les utilisateurs doivent compiler le code eux-mêmes selon un guide détaillé pour Windows et Linux. Une fois opérationnel, il est possible d’installer des applications PalmOS en glissant-déposant des fichiers PRC ou en les copiant manuellement sous Linux. Les passionnés de PalmOS peuvent donc retrouver la nostalgie de cette interface emblématique. Amusez-vous bien avec ce projet fascinant ! <div>
+<p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_A_tech_geek_pumpkin_90s_style_photography_e0c8e6d4-3868-45ad-96bf-0197248c645b.webp" width="1920" /></p>
+<p>Ah, <strong>PalmOS</strong>&#8230; Ce bon vieux système d&rsquo;exploitation qui a équipé nos PDA adorés dans les années 90-2000. Ça ne nous rajeunit pas tout ça ! Et bien figurez-vous qu&rsquo;un passionné a décidé de lui redonner vie à travers un projet complètement dingue : <strong>PumpkinOS</strong>.</p>
+
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-2041272732" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_1" id="optidigital-adslot-Content_1" style="display: none;"></div>
+<div class="Mobile_Pos1" id="optidigital-adslot-Mobile_Pos1" style="display: none;"></div></div><p>Derrière ce nom qui fleure bon l&rsquo;automne et la tarte à la citrouille se cache en fait une réimplémentation moderne de PalmOS. Mais je ne parle pas ici d&rsquo;un simple émulateur comme on en trouve des tonnes sur Internet puisque <strong>PumpkinOS</strong> a l&rsquo;ambition de faire tourner de vraies applications PalmOS, les fameuses <strong>applications m68k</strong>, sur nos machines actuelles. Et cela qu&rsquo;elles soient équipées de processeurs x86 ou ARM.</p>
+
+
+
+<p>Le créateur de PumpkinOS, un certain <em>Miguel Letto</em> a publié une série d&rsquo;articles passionnants sur son blog pour détailler les différents aspects de son projet. Je vous mets le lien juste ici, <a href="https://pmig96.wordpress.com/category/palmos/" rel="noopener" target="_blank">ça vaut vraiment le détour</a>.</p>
+
+
+
+<p>Mais alors, qu&rsquo;est-ce que <strong>PumpkinOS</strong> a dans le ventre ? </p>
+
+
+
+<p>Et bien déjà, on retrouve un <em>launcher</em>, ce fameux écran d&rsquo;accueil qui liste toutes les applications mais aussi une appli <em>Preferences</em> pour configurer le système à votre sauce. Et le plus excitant (lol), c&rsquo;est la présence des 4 applications phares de PalmOS : le carnet d&rsquo;adresse (<em>AddressBook</em>), le mémo (<em>MemoPad</em>), la liste de tâches (<em>ToDoList</em>) et l&rsquo;agenda (<em>DateBook</em>).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="" class="wp-image-159927" height="328" src="https://korben.info/app/uploads/2024/05/image-1.webp" width="648" /></figure></div>
+
+
+<div class="NKSYD1CP-target" id="NKSYD1CP-27330675" style="margin-left: auto; margin-right: auto; text-align: center; height: 300px;"><div class="Content_2" id="optidigital-adslot-Content_2" style="display: none;"></div>
+<div class="Mobile_Pos2" id="optidigital-adslot-Mobile_Pos2" style="display: none;"></div></div><p>Miguel est allé repêcher le code source de ces applications dans les SDK de PalmOS et les a adaptées pour qu&rsquo;elles puissent compiler et s&rsquo;exécuter correctement sous PumpkinOS. Un travail de titan quand on imagine le nombre de lignes de code et les différences d&rsquo;architecture entre les vénérables m68k et nos processeurs modernes.</p>
+
+
+
+<p>Il explique qu&rsquo;il reste des petits bugs par ci par là et que certaines fonctionnalités n&rsquo;ont pas été testées de fond en comble mais il a déjà sacrément avancé dans son projet.</p>
+
+
+
+<p>Bon, maintenant que je vous ai mis l&rsquo;eau à la bouche, vous vous demandez sûrement comment faire pour mettre la main dessus et surtout comment l&rsquo;installer ? Eh bien, il va falloir retrousser vos manches et compiler le bouzin vous-même donc aller chercher <a href="https://github.com/migueletto/PumpkinOS" rel="noopener" target="_blank">les sources sur GitHub</a> et ouvrir votre plus beau terminal.</p>
+
+
+
+<p>Mais rassurez-vous, Miguel a pensé à tout puisqu&rsquo;il a écrit un guide pour compiler PumpkinOS sur Windows avec <strong>MSYS2</strong>. Et pour les accros de <strong>Linux</strong>, c&rsquo;est aussi possible de compiler ça sous votre OS préféré. Une fois compilé, il ne vous reste plus qu&rsquo;à lancer <strong>PumpkinOS</strong> et à profiter de la nostalgie de l&rsquo;interface de PalmOS. Le dev a d&rsquo;ailleurs prévu des scripts de lancement pour Windows, Linux et même <strong>WSL</strong>, histoire que tout le monde puisse en profiter.</p>
+
+
+
+<p>Et pour installer une appli PalmOS dessus, c&rsquo;est très simple. Sous Windows, il suffit de glisser-déposer le fichier <strong>PRC</strong> de l&rsquo;application sur la fenêtre de PumpkinOS et hop, magie, ça s&rsquo;installe tout seul ! Bon et bien sûr sous Linux, c&rsquo;est un peu moins automatisé car il faudra copier le PRC à la main dans le répertoire <code>vfs/app_install</code> et relancer PumpkinOS mais comme c&rsquo;est vous les plus intelligents de la Terre, les linuxiens, je pense pas que ce soit un souci.</p>
+
+
+
+<p>Amusez-vous bien !</p>
+]]></content:encoded>
+<pubDate>Sat, 14 Sep 2024 07:00:00 +0000</pubDate>
+<pubDate>Sat, 14 Sep 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>rPGP – Une bibliothèque Rust pour l’implémentation d’OpenPGP</title>
