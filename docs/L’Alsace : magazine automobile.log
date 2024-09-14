@@ -2592,3 +2592,15 @@ Summarized using GPT-4o-mini
 Append: [Auto. Top 10 : voici les voitures d'occasion plébiscitées par les Français](https://www.lalsace.fr/magazine-automobile/2024/09/13/top-10-voici-les-voitures-d-occasion-plebiscitees-par-les-francais)
 append_entries: 1
 Finish: 2024-09-13 12:46:34.674782
+------------------------------------------------------
+Started: 2024-09-14 01:24:26.656071
+Existing_entries: 325
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 325
+Summarized using GPT-4o-mini
+Append: [Moto. Zero Motorcycles DSRX : le trail de grand chemin électrique](https://www.lalsace.fr/magazine-automobile/2024/09/13/zero-motorcycles-dsrx-le-trail-de-grand-chemin-electrique)
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [Utilitaires. Mercedes Vito 114 CDI : un fourgon premium convaincant](https://www.lalsace.fr/magazine-automobile/2024/09/13/mercedes-vito-114-cdi-un-fourgon-premium-convaincant)
+append_entries: 2
+Finish: 2024-09-14 01:24:32.172172

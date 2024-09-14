@@ -2116,3 +2116,9 @@ Summarized using GPT-4o-mini
 Append: [Taxe foncière 2024 dans le Tarn : la facture a-t-elle augmenté dans votre commune ?](https://www.ladepeche.fr/2024/09/11/taxe-fonciere-2024-dans-le-tarn-la-facture-a-t-elle-augmente-dans-votre-commune-12190746.php)
 append_entries: 2
 Finish: 2024-09-13 12:48:28.934176
+------------------------------------------------------
+Started: 2024-09-14 01:25:45.603500
+Existing_entries: 170
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-14 01:25:46.285361

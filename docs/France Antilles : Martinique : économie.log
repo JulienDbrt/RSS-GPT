@@ -3209,3 +3209,12 @@ Summarized using GPT-4o-mini
 Append: [Les Martiniquais aspirent à manger sain et local mais ne peuvent pas le faire](https://www.martinique.franceantilles.fr/actualite/economie/les-martiniquais-aspirent-a-manger-sain-et-local-mais-ne-peuvent-pas-le-faire-1003035.php)
 append_entries: 5
 Finish: 2024-09-13 12:42:25.059913
+------------------------------------------------------
+Started: 2024-09-14 01:22:05.352492
+Existing_entries: 551
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Parade et concert géant: les JO de Paris s'offrent une "after" sur les Champs-Elysées](https://www.martinique.franceantilles.fr/actualite/economie/parade-et-concert-geant-les-jo-de-paris-soffrent-une-after-sur-les-champs-elysees-1003085.php)
+append_entries: 1
+Finish: 2024-09-14 01:22:09.294176

@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>rPGP – Une bibliothèque Rust pour l’implémentation d’OpenPGP</title>
 <link>https://korben.info/rpgp-bibliotheque-rust-implementation-openpgp.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> rPGP, OpenPGP, Rust, Autocrypt, sécurité  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 rPGP est une bibliothèque Rust permettant de manipuler OpenPGP sans avoir à se plonger dans du code C complexe. Elle propose une API simple et est entièrement sous licence libre, offrant une grande flexibilité. La bibliothèque est compatible avec Autocrypt 1.1, une spécification visant à simplifier le chiffrement des mails pour le grand public. La crate pgp est régulièrement mise à jour, tandis que le support RSA est géré collectivement. Les utilisateurs souhaitant utiliser la cryptographie elliptique peuvent se tourner vers la crate Curve25519-dalek. Bien que la documentation soit encore en développement, il est possible d'ouvrir des issues sur GitHub pour obtenir de l'aide. Un audit de sécurité réalisé en 2019 a confirmé l'absence de failles critiques, bien qu'il reste quelques points à améliorer. rPGP est aussi utilisé par des applications en production, garantissant sa fiabilité sur différentes plateformes comme Windows, Linux, macOS, Android et iOS. Enfin, une fonctionnalité wasm est en cours d'expérimentation pour ceux souhaitant travailler dans un navigateur ou avec Node.js. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_Logo_with_word_rPGP_written_encryption_PGP_code_43eb8446-c63c-4680-a007-adbdcfd4922a.webp" width="1920" /></p>
 <p><strong><a href="https://github.com/rpgp/rpgp" rel="noopener" target="_blank">rPGP</a></strong> c&rsquo;est un bibliothèque Rust qui va vous permettre de jouer avec <strong>OpenPGP</strong> comme des grands ! Plus besoin de vous taper des kilomètres de C pour avoir un bout de code qui chiffre trois mails bourrés de fautes. Maintenant, on a le droit à une implémentation 100% Rust, avec une API minimaliste mais qui fait le taf. Et en plus, c&rsquo;est sous licence libre, donc on peut en faire ce qu&rsquo;on veut ! </p>
@@ -47,9 +48,7 @@ rPGP est une bibliothèque Rust permettant de manipuler OpenPGP sans avoir à se
 <p>Allez, je vous laisse, j&rsquo;ai des messages secrets à chiffrer moi !</p>
 ]]></content:encoded>
 <pubDate>Fri, 13 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Fri, 13 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Toutes les formes de gouvernements expliquées en 10 Minutes</title>
 <link>https://korben.info/formes-gouvernement-expliquees-10-minutes-video-youtube.html</link>

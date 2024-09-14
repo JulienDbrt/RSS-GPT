@@ -2196,3 +2196,9 @@ Summarized using GPT-4o-mini
 Append: [États-Unis: un Boeing interrompt son décollage en urgence pour éviter une collision avec un autre avion](https://www.bfmtv.com/economie/entreprises/aeronautique/etats-unis-un-boeing-interrompt-son-decollage-en-urgence-pour-eviter-une-collision-avec-un-autre-avion_AN-202409130137.html)
 append_entries: 1
 Finish: 2024-09-13 12:37:39.156002
+------------------------------------------------------
+Started: 2024-09-14 01:20:17.428641
+Existing_entries: 200
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/aeronautique/
+append_entries: 0
+Finish: 2024-09-14 01:20:17.563253
