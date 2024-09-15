@@ -7989,3 +7989,15 @@ Summarized using GPT-4o-mini
 Append: [Panoramax : le projet citoyen initié par l'Institut national de l'information géographique et forestière (IGN) pour ne plus dépendre de Google Street View](https://www.francetvinfo.fr/replay-radio/nouveau-monde/panoramax-le-projet-citoyen-initie-par-l-institut-national-de-l-information-geographique-et-forestiere-ign-pour-ne-plus-dependre-de-google-street-view_6754240.html)
 append_entries: 1
 Finish: 2024-09-15 01:28:39.528546
+------------------------------------------------------
+Started: 2024-09-15 12:36:37.883609
+Existing_entries: 1001
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 194
+Summarized using GPT-4o-mini
+Append: [L'entrée dans le monde du travail inquiète une majorité d'étudiants](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/l-entree-dans-le-monde-du-travail-inquiete-une-majorite-d-etudiants_6755926.html)
+Token length: 166
+Summarized using GPT-4o-mini
+Append: ["On passe d'un excès à l'autre" : des agriculteurs face aux dégâts d'un été trop pluvieux, après des années de sécheresse](https://www.francetvinfo.fr/monde/environnement/crise-climatique/on-passe-d-un-exces-a-l-autre-des-agriculteurs-face-aux-degats-d-un-ete-trop-pluvieux-apres-des-annees-de-secheresse_6775345.html)
+append_entries: 2
+Finish: 2024-09-15 12:36:42.174476

@@ -2618,3 +2618,9 @@ Summarized using GPT-4o-mini
 Append: [Un guide Michelin sur les destinations en train à moins de 3 heures de Paris](https://www.bfmtv.com/economie/entreprises/transports/un-guide-michelin-sur-les-destinations-en-train-a-moins-de-3-heures-de-paris_AV-202409140309.html)
 append_entries: 1
 Finish: 2024-09-15 01:28:03.898806
+------------------------------------------------------
+Started: 2024-09-15 12:35:57.312904
+Existing_entries: 338
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-09-15 12:35:57.576027

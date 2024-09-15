@@ -2245,3 +2245,18 @@ Existing_entries: 210
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-09-15 01:29:12.946703
+------------------------------------------------------
+Started: 2024-09-15 12:37:35.995180
+Existing_entries: 210
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 260
+Summarized using GPT-4o-mini
+Append: ["Gîte pour tous" à Missiriac dans le Morbihan. Oui, les peronnes en situation de handicap ont aussi droit à des vacances](https://france3-regions.francetvinfo.fr/bretagne/morbihan/gite-pour-tous-a-missiriac-dans-le-morbihan-oui-les-peronnes-en-situation-de-handicap-ont-aussi-droit-a-des-vacances-3032306.html)
+Token length: 270
+Summarized using GPT-4o-mini
+Append: ["La question sanitaire est cruciale". Salon de l'élevage à Rennes : le gouvernement attendu de pied ferme par les agriculteurs](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/la-question-sanitaire-est-cruciale-salon-de-l-elevage-a-rennes-le-gouvernement-attendu-de-pied-ferme-par-les-agriculteurs-3032237.html)
+Token length: 312
+Summarized using GPT-4o-mini
+Append: ["Les commerçants nous accueillent mieux", ils ont choisi de miser leurs vacances sur le mois de septembre](https://france3-regions.francetvinfo.fr/bretagne/finistere/les-commercants-nous-accueillent-mieux-ils-ont-choisi-de-miser-leurs-vacances-sur-le-mois-de-septembre-3031655.html)
+append_entries: 3
+Finish: 2024-09-15 12:37:42.299731

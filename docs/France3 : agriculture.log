@@ -4591,3 +4591,27 @@ Summarized using GPT-4o-mini
 Append: [Accident du travail dans les vignes : le tracteur agricole se retourne, le conducteur est mort](https://france3-regions.francetvinfo.fr/occitanie/gers/auch/accident-du-travail-dans-les-vignes-le-tracteur-agricole-se-retourne-le-conducteur-est-mort-3032084.html)
 append_entries: 6
 Finish: 2024-09-15 01:29:08.006529
+------------------------------------------------------
+Started: 2024-09-15 12:37:13.933606
+Existing_entries: 992
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 331
+Summarized using GPT-4o-mini
+Append: [Sécheresse : où en est la commune de Durban-Corbières après avoir été privée d'eau cet été ?](https://france3-regions.francetvinfo.fr/occitanie/aude/narbonne/secheresse-ou-en-est-la-commune-de-durban-corbieres-apres-avoir-ete-privee-d-eau-cet-ete-3032135.html)
+Token length: 270
+Summarized using GPT-4o-mini
+Append: ["La question sanitaire est cruciale". Salon de l'élevage à Rennes : le gouvernement attendu de pied ferme par les agriculteurs](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/la-question-sanitaire-est-cruciale-salon-de-l-elevage-a-rennes-le-gouvernement-attendu-de-pied-ferme-par-les-agriculteurs-3032237.html)
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [VIDEO. "Ici, il n’y a pas de barreaux"... cette petite commune accueille d'anciens prisonniers pour les aider dans leur quête de réinsertion](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/video-ici-il-n-y-a-pas-de-barreaux-cette-petite-commune-accueille-d-anciens-prisonniers-pour-les-aider-dans-leur-quete-de-reinsertion-3030587.html)
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [Succès des jardins partagés, des victuailles saines et pas chères pour les ménages à petits budgets](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/succes-des-jardins-partages-des-victuailles-saines-et-pas-cheres-pour-les-menages-a-petits-budgets-3029471.html)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: ["On produit des vins vivants" : qu'est-ce que le vin nature, ce vin qui séduit les vignerons bio ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/on-produit-des-vins-vivants-qu-est-ce-que-le-vin-nature-ce-vin-qui-seduit-les-vignerons-bio-3027674.html)
+Token length: 291
+Summarized using GPT-4o-mini
+Append: ["Cette plante à parfums a bien failli disparaître", de jeunes agriculteurs de Grasse relancent la récolte de la tubéreuse](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/grasse/cette-plante-a-parfums-a-bien-failli-disparaitre-de-jeunes-agriculteurs-de-grasse-relancent-la-recolte-de-la-tubereuse-3029285.html)
+append_entries: 6
+Finish: 2024-09-15 12:37:31.333497

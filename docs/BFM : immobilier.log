@@ -2683,3 +2683,12 @@ Summarized using GPT-4o-mini
 Append: [Une "première" en France: un premier immeuble sans chauffage ni climatisation à Lyon](https://www.bfmtv.com/immobilier/construction/une-premiere-en-france-un-premier-immeuble-sans-chauffage-ni-climatisation-a-lyon_AD-202409140302.html)
 append_entries: 1
 Finish: 2024-09-15 01:27:58.546418
+------------------------------------------------------
+Started: 2024-09-15 12:35:52.016344
+Existing_entries: 369
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [Un illustre haras de 3.500 m² en vente pour près de 27 millions d'euros](https://www.bfmtv.com/immobilier/luxe/un-illustre-haras-de-3-500-m2-en-vente-pour-pres-de-27-millions-d-euros_AN-202409150200.html)
+append_entries: 1
+Finish: 2024-09-15 12:35:54.169203
