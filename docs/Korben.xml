@@ -4,6 +4,7 @@
 <title>Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>PumpkinOS – Un système alternatif à PalmOS</title>
 <link>https://korben.info/pumpkinos-systeme-exploitation-alternatif-palmos.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> PalmOS, PumpkinOS, Miguel Letto, applications, compilation  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 PalmOS, un ancien système d’exploitation des années 90-2000, renaît grâce à un projet innovant nommé PumpkinOS. Ce dernier, conçu par Miguel Letto, n’est pas un simple émulateur, mais une réimplémentation moderne capable d'exécuter de vraies applications PalmOS sur des machines x86 et ARM. PumpkinOS offre un launcher (écran d’accueil), une application Preferences pour la personnalisation, et contient les quatre applications emblématiques de PalmOS : AddressBook, MemoPad, ToDoList et DateBook. Miguel a récupéré le code source de ces applis dans les SDK originaux et les a adaptées pour garantir leur fonctionnement sur PumpkinOS. Bien que des bugs subsistent et que certaines fonctionnalités nécessitent encore des tests, le développement a considérablement avancé. Pour installer PumpkinOS, les utilisateurs doivent compiler le code eux-mêmes selon un guide détaillé pour Windows et Linux. Une fois opérationnel, il est possible d’installer des applications PalmOS en glissant-déposant des fichiers PRC ou en les copiant manuellement sous Linux. Les passionnés de PalmOS peuvent donc retrouver la nostalgie de cette interface emblématique. Amusez-vous bien avec ce projet fascinant ! <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1076" src="https://korben.info/app/uploads/2024/05/manu23_A_tech_geek_pumpkin_90s_style_photography_e0c8e6d4-3868-45ad-96bf-0197248c645b.webp" width="1920" /></p>
 <p>Ah, <strong>PalmOS</strong>&#8230; Ce bon vieux système d&rsquo;exploitation qui a équipé nos PDA adorés dans les années 90-2000. Ça ne nous rajeunit pas tout ça ! Et bien figurez-vous qu&rsquo;un passionné a décidé de lui redonner vie à travers un projet complètement dingue : <strong>PumpkinOS</strong>.</p>
@@ -62,9 +63,7 @@ PalmOS, un ancien système d’exploitation des années 90-2000, renaît grâce 
 <p>Amusez-vous bien !</p>
 ]]></content:encoded>
 <pubDate>Sat, 14 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Sat, 14 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>rPGP – Une bibliothèque Rust pour l’implémentation d’OpenPGP</title>
 <link>https://korben.info/rpgp-bibliotheque-rust-implementation-openpgp.html</link>

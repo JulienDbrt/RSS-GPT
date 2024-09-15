@@ -3008,3 +3008,9 @@ Summarized using GPT-4o-mini
 Append: [Transports : les fausses cartes de stationnement pour personnes handicapées se multiplient](https://www.francetvinfo.fr/sante/handicap/transports-les-fausses-cartes-de-stationnement-pour-personnes-handicapees-se-multiplient_6781198.html)
 append_entries: 2
 Finish: 2024-09-14 12:35:52.817749
+------------------------------------------------------
+Started: 2024-09-15 01:28:41.561705
+Existing_entries: 466
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-15 01:28:42.596505

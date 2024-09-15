@@ -2131,3 +2131,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier dans l’Aveyron : "La demande en campagne est de plus en plus forte"](https://www.ladepeche.fr/2024/09/14/immobilier-dans-laveyron-la-demande-en-campagne-est-de-plus-en-plus-forte-12195569.php)
 append_entries: 1
 Finish: 2024-09-14 12:38:46.664849
+------------------------------------------------------
+Started: 2024-09-15 01:30:27.684228
+Existing_entries: 171
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-15 01:30:28.240658

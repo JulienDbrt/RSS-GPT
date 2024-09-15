@@ -2493,3 +2493,18 @@ Existing_entries: 285
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-09-14 12:37:06.314308
+------------------------------------------------------
+Started: 2024-09-15 01:29:30.737928
+Existing_entries: 285
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [«Ça me prend plus d’une heure»: une réforme des autobus qui passe mal à Montréal](https://www.journaldemontreal.com/2024/09/27/ca-me-prend-plus-dune-heure-une-reforme-des-autobus-qui-passe-mal-a-montreal)
+Token length: 96
+Summarized using GPT-4o-mini
+Append: [Transport en commun: La CAQ «abandonne ses responsabilités»](https://www.journaldemontreal.com/2024/09/14/transport-en-commun--la-caq-abandonne-ses-responsabilites)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Traverse de Sorel-Tracy: le service réduit à partir du 16 septembre](https://www.journaldemontreal.com/2024/09/13/traverse-de-sorel-tracy-le-service-reduit-a-partir-du-16-septembre)
+append_entries: 3
+Finish: 2024-09-15 01:29:38.105873

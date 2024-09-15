@@ -2607,3 +2607,15 @@ Existing_entries: 333
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-09-14 12:36:37.787813
+------------------------------------------------------
+Started: 2024-09-15 01:29:08.184292
+Existing_entries: 333
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 287
+Summarized using GPT-4o-mini
+Append: [45 000 vendangeurs recherchés en Bourgogne : et si la solution était... chez les étudiants ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/45-000-vendangeurs-recherches-en-bourgogne-et-si-la-solution-etait-chez-les-etudiants-3032153.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: ["C'est comme un bon vin" : le Mont d'Or de retour, les producteurs fêtent une année aux saveurs de "sous-bois"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/c-est-comme-un-bon-vin-le-mont-d-or-de-retour-les-producteurs-fetent-une-annee-aux-saveurs-de-sous-bois-3032099.html)
+append_entries: 2
+Finish: 2024-09-15 01:29:12.593654

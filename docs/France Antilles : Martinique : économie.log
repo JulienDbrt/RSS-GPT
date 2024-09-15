@@ -3227,3 +3227,9 @@ Summarized using GPT-4o-mini
 Append: [Afrique du Sud: la pénurie de logements au Cap évince les pauvres de la ville](https://www.martinique.franceantilles.fr/actualite/economie/afrique-du-sud-la-penurie-de-logements-au-cap-evince-les-pauvres-de-la-ville-1003126.php)
 append_entries: 1
 Finish: 2024-09-14 12:35:34.031618
+------------------------------------------------------
+Started: 2024-09-15 01:28:35.461598
+Existing_entries: 553
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+append_entries: 0
+Finish: 2024-09-15 01:28:36.236175

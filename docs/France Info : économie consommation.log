@@ -7980,3 +7980,12 @@ Summarized using GPT-4o-mini
 Append: [Les Antilopes, l'association lyonnaise qui tend la main aux entrepreneurs en difficulté](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/les-antilopes-l-association-lyonnaise-qui-tend-la-main-aux-entrepreneurs-en-difficulte_6754222.html)
 append_entries: 4
 Finish: 2024-09-14 12:35:44.091139
+------------------------------------------------------
+Started: 2024-09-15 01:28:37.308856
+Existing_entries: 1004
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 234
+Summarized using GPT-4o-mini
+Append: [Panoramax : le projet citoyen initié par l'Institut national de l'information géographique et forestière (IGN) pour ne plus dépendre de Google Street View](https://www.francetvinfo.fr/replay-radio/nouveau-monde/panoramax-le-projet-citoyen-initie-par-l-institut-national-de-l-information-geographique-et-forestiere-ign-pour-ne-plus-dependre-de-google-street-view_6754240.html)
+append_entries: 1
+Finish: 2024-09-15 01:28:39.528546

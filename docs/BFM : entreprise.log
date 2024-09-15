@@ -5615,3 +5615,15 @@ Summarized using GPT-4o-mini
 Append: [Le TGV entre Moscou et Saint-Pétersbourg prend forme et il sera l'un des plus rapides du monde](https://www.bfmtv.com/economie/entreprises/transports/le-tgv-entre-moscou-et-saint-petersbourg-prend-forme-et-il-sera-l-un-des-plus-rapides-du-monde_AV-202409140272.html)
 append_entries: 1
 Finish: 2024-09-14 12:34:33.003234
+------------------------------------------------------
+Started: 2024-09-15 01:27:36.148997
+Existing_entries: 1001
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Ryanair redoute une baisse des livraisons de Boeing d'ici l'été prochain](https://www.bfmtv.com/economie/entreprises/aeronautique/ryanair-redoute-une-baisse-des-livraisons-de-boeing-d-ici-l-ete-prochain_AV-202409140333.html)
+Token length: 104
+Summarized using GPT-4o-mini
+Append: [Un guide Michelin sur les destinations en train à moins de 3 heures de Paris](https://www.bfmtv.com/economie/entreprises/transports/un-guide-michelin-sur-les-destinations-en-train-a-moins-de-3-heures-de-paris_AV-202409140309.html)
+append_entries: 2
+Finish: 2024-09-15 01:27:40.227337

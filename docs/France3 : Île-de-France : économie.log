@@ -2604,3 +2604,9 @@ Summarized using GPT-4o-mini
 Append: [Michel Leeb : avec 43 ans de vie commune, il sait parler d'amour](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/michel-leeb-avec-43-ans-de-vie-commune-il-sait-parler-d-amour-3031193.html)
 append_entries: 2
 Finish: 2024-09-14 12:36:25.601965
+------------------------------------------------------
+Started: 2024-09-15 01:28:50.291665
+Existing_entries: 332
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-15 01:28:50.463891
