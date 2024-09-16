@@ -2995,3 +2995,9 @@ Summarized using GPT-4o-mini
 Append: [À long terme, des gares pourraient être fermées](https://www.20min.ch/fr/story/cff-a-long-terme-des-gares-pourraient-etre-fermees-103185061)
 append_entries: 1
 Finish: 2024-09-15 12:34:35.489543
+------------------------------------------------------
+Started: 2024-09-16 01:23:30.316809
+Existing_entries: 485
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+append_entries: 0
+Finish: 2024-09-16 01:23:30.885914

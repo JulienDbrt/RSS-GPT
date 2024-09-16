@@ -1773,3 +1773,9 @@ Summarized using GPT-4o-mini
 Append: [La station de ski Alti Aigoual dans les Cévennes lance une cagnotte en ligne pour survivre](https://www.bfmtv.com/economie/entreprises/culture-loisirs/la-station-de-ski-alti-aigoual-dans-les-cevennes-lance-une-cagnotte-en-ligne-pour-survivre_AV-202409150161.html)
 append_entries: 1
 Finish: 2024-09-15 12:35:29.599581
+------------------------------------------------------
+Started: 2024-09-16 01:24:03.129164
+Existing_entries: 51
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/culture-loisirs/
+append_entries: 0
+Finish: 2024-09-16 01:24:03.231316

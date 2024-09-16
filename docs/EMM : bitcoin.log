@@ -9437,3 +9437,15 @@ Summarized using GPT-4o-mini
 Append: [Indice: Les marchés optimistes avant une semaine décisive pour les taux](https://www.lejourdalgerie.com/indice-les-marches-optimistes-avant-une-semaine-decisive-pour-les-taux/)
 append_entries: 5
 Finish: 2024-09-15 12:32:07.084879
+------------------------------------------------------
+Started: 2024-09-16 01:21:30.019862
+Existing_entries: 1005
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 38
+Summarized using GPT-4o-mini
+Append: [Le Bitcoin est sur le point d’exploser](https://www.nouvelles-du-monde.com/le-bitcoin-est-sur-le-point-dexploser/)
+Token length: 78
+Summarized using GPT-4o-mini
+Append: [Elon Musk voyage avec jusqu’à 20 gardes du corps – c’est ce qu’il y a derrière](https://www.nouvelles-du-monde.com/elon-musk-voyage-avec-jusqua-20-gardes-du-corps-cest-ce-quil-y-a-derriere/)
+append_entries: 2
+Finish: 2024-09-16 01:21:35.018607

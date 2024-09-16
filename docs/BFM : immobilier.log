@@ -2692,3 +2692,9 @@ Summarized using GPT-4o-mini
 Append: [Un illustre haras de 3.500 m² en vente pour près de 27 millions d'euros](https://www.bfmtv.com/immobilier/luxe/un-illustre-haras-de-3-500-m2-en-vente-pour-pres-de-27-millions-d-euros_AN-202409150200.html)
 append_entries: 1
 Finish: 2024-09-15 12:35:54.169203
+------------------------------------------------------
+Started: 2024-09-16 01:24:14.268027
+Existing_entries: 370
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-09-16 01:24:14.342424

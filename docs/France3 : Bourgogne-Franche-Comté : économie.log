@@ -2631,3 +2631,9 @@ Summarized using GPT-4o-mini
 Append: ["On produit des vins vivants" : qu'est-ce que le vin nature, ce vin qui séduit les vignerons bio ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/on-produit-des-vins-vivants-qu-est-ce-que-le-vin-nature-ce-vin-qui-seduit-les-vignerons-bio-3027674.html)
 append_entries: 2
 Finish: 2024-09-15 12:37:35.880220
+------------------------------------------------------
+Started: 2024-09-16 01:25:24.911895
+Existing_entries: 337
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-09-16 01:25:25.323146

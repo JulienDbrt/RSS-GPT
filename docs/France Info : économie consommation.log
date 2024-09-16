@@ -8001,3 +8001,18 @@ Summarized using GPT-4o-mini
 Append: ["On passe d'un excès à l'autre" : des agriculteurs face aux dégâts d'un été trop pluvieux, après des années de sécheresse](https://www.francetvinfo.fr/monde/environnement/crise-climatique/on-passe-d-un-exces-a-l-autre-des-agriculteurs-face-aux-degats-d-un-ete-trop-pluvieux-apres-des-annees-de-secheresse_6775345.html)
 append_entries: 2
 Finish: 2024-09-15 12:36:42.174476
+------------------------------------------------------
+Started: 2024-09-16 01:24:52.345859
+Existing_entries: 1002
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Logement : les jeunes actifs et la tentation de la colocation](https://www.francetvinfo.fr/economie/logement-les-jeunes-actifs-et-la-tentation-de-la-colocation_6783193.html)
+Token length: 234
+Summarized using GPT-4o-mini
+Append: [Escroquerie à l'ère numérique : 10 millions de dollars récoltés grâce à des mélodies composées par des algorithmes d'intelligence artificielle et écoutées par des auditeurs fictifs](https://www.francetvinfo.fr/replay-radio/nouveau-monde/escroquerie-a-l-ere-numerique-10-millions-de-dollars-recoltes-grace-a-des-melodies-composees-par-des-algorithmes-d-intelligence-artificielle-et-ecoutees-par-des-auditeurs-fictifs_6755950.html)
+Token length: 175
+Summarized using GPT-4o-mini
+Append: [Plus de 24 heures de galère pour les passagers d'un TGV entre l'Espagne et la France](https://www.francetvinfo.fr/economie/transports/plus-de-24-heures-de-galere-pour-les-passagers-d-un-tgv-entre-l-espagne-et-la-france_6783022.html)
+append_entries: 3
+Finish: 2024-09-16 01:24:58.444681

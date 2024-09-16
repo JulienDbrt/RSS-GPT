@@ -8776,3 +8776,15 @@ Summarized using GPT-4o-mini
 Append: [Anne Hidalgo, la vie après les Jeux](https://www.latribune.fr/economie/politique/anne-hidalgo-la-vie-apres-les-jeux-1006417.html)
 append_entries: 10
 Finish: 2024-09-15 12:39:59.443841
+------------------------------------------------------
+Started: 2024-09-16 01:26:47.174745
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 423
+Summarized using GPT-4o-mini
+Append: [Automobile : Carlos Tavares s'oppose à un report des règles d'émissions de C02 en Europe](https://www.latribune.fr/entreprises-finance/industrie/automobile/automobile-carlos-tavares-s-oppose-a-un-report-des-regles-d-emissions-de-c02-en-europe-1006510.html)
+Token length: 324
+Summarized using GPT-4o-mini
+Append: [Contre le "leurre" du RN, LFI présentera sa propre loi d'abrogation de la réforme des retraites, annonce Eric Coquerel](https://www.latribune.fr/economie/politique/contre-le-leurre-du-rn-lfi-presentera-sa-propre-loi-d-abrogation-de-la-reforme-des-retraites-annonce-eric-coquerel-1006509.html)
+append_entries: 2
+Finish: 2024-09-16 01:26:51.943788

@@ -2260,3 +2260,12 @@ Summarized using GPT-4o-mini
 Append: ["Les commerçants nous accueillent mieux", ils ont choisi de miser leurs vacances sur le mois de septembre](https://france3-regions.francetvinfo.fr/bretagne/finistere/les-commercants-nous-accueillent-mieux-ils-ont-choisi-de-miser-leurs-vacances-sur-le-mois-de-septembre-3031655.html)
 append_entries: 3
 Finish: 2024-09-15 12:37:42.299731
+------------------------------------------------------
+Started: 2024-09-16 01:25:25.440901
+Existing_entries: 213
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 228
+Summarized using GPT-4o-mini
+Append: [Crise agricole. Accumulation de normes, tracasseries administratives, les agriculteurs attendent toujours les simplifications promises](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/crise-agricole-accumulation-de-normes-tracasseries-administratives-les-agriculteurs-attendent-toujours-les-simplifications-promises-3032249.html)
+append_entries: 1
+Finish: 2024-09-16 01:25:28.172583
