@@ -2931,3 +2931,24 @@ Existing_entries: 435
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-09-16 01:25:28.663389
+------------------------------------------------------
+Started: 2024-09-16 12:45:00.210511
+Existing_entries: 435
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 300
+Summarized using GPT-4o-mini
+Append: ["Si on préfère les accordéons chinois, beaucoup moins chers, on se retrouve dans une impasse" : inquiétude sur l'avenir de Maugein](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/tulle/si-on-prefere-les-accordeons-chinois-beaucoup-moins-chers-on-se-retrouve-dans-une-impasse-inquietude-sur-l-avenir-de-maugein-3032627.html)
+Token length: 276
+Summarized using GPT-4o-mini
+Append: ["Ce qui m'impressionne, c'est son self-control", elle décroche une médaille d'or... en coiffure](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/ce-qui-m-impressionne-c-est-son-self-control-elle-decroche-une-medaille-d-or-en-coiffure-3032543.html)
+Token length: 318
+Summarized using GPT-4o-mini
+Append: [Analyste vidéo, e-sport, audiovisuel, commerce... Qu'est-ce que la School Malherbe Caen, l'école de formation du club normand](https://france3-regions.francetvinfo.fr/normandie/calvados/caen/analyste-video-e-sport-audiovisuel-commerce-qu-est-ce-que-la-school-malherbe-caen-l-ecole-de-formation-du-club-normand-3030854.html)
+Token length: 246
+Summarized using GPT-4o-mini
+Append: ["Soutenir les agriculteurs sans qu'ils s'endettent" : il investit 23 000€ dans un groupement agricole pour installer un maraîcher](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/soutenir-les-agriculteurs-sans-qu-ils-s-endettent-il-investit-23-000-dans-un-groupement-agricole-pour-installer-un-maraicher-3031634.html)
+Token length: 228
+Summarized using GPT-4o-mini
+Append: ["Ça donne du sens à son travail" : les congés illimités, voici comment ça marche et ce qui fait son succès en entreprises](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/ca-donne-du-sens-a-son-travail-les-conges-illimites-voici-comment-ca-marche-et-ce-qui-fait-son-succes-en-entreprises-3031799.html)
+append_entries: 5
+Finish: 2024-09-16 12:45:17.382343

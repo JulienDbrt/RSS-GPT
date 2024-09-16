@@ -7693,3 +7693,24 @@ Summarized using GPT-4o-mini
 Append: [Immobilier à Mulhouse : ce qui change pour les prix à l'achat et à la location](https://www.moneyvox.fr/immobilier/actualites/99467/immobilier-a-mulhouse-ce-qui-change-pour-les-prix-a-achat-et-a-la-location)
 append_entries: 3
 Finish: 2024-09-16 01:25:13.503013
+------------------------------------------------------
+Started: 2024-09-16 12:44:14.395726
+Existing_entries: 1003
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 140
+Summarized using GPT-4o-mini
+Append: [Prêt perso : financez tous vos projets avec Hello bank !](https://www.moneyvox.fr/banque-en-ligne/actualites/99576/pret-perso-financez-tous-vos-projets-avec-hello-bank)
+Token length: 116
+Summarized using GPT-4o-mini
+Append: [Immobilier à Nice : les prix griment encore en septembre pour un achat ou une location](https://www.moneyvox.fr/immobilier/actualites/99470/immobilier-a-nice-les-prix-griment-encore-en-septembre-pour-un-achat-ou-une-location)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [La Bourse de Paris plutôt stable ce lundi, après une hausse la semaine dernière](https://www.moneyvox.fr/bourse/actualites/99574/la-bourse-de-paris-plutot-stable-ce-lundi-apres-une-hausse-la-semaine-derniere)
+Token length: 86
+Summarized using GPT-4o-mini
+Append: [Prix de l'immobilier à Nantes : une surprise pour les acheteurs et les locataires en septembre](https://www.moneyvox.fr/immobilier/actualites/99469/prix-de-immobilier-a-nantes-une-surprise-pour-les-acheteurs-et-les-locataires-en-septembre)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [LEP, Livret A, compte à terme... Où placer 1 000 euros (sans grand risque) d'ici la fin 2024 ?](https://www.moneyvox.fr/placement/actualites/99528/lep-livret-a-compte-a-terme-ou-placer-1-000-euros-ici-la-fin-2024)
+append_entries: 5
+Finish: 2024-09-16 12:44:28.376413

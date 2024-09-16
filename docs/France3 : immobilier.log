@@ -2052,3 +2052,12 @@ Existing_entries: 142
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-09-16 01:25:28.946322
+------------------------------------------------------
+Started: 2024-09-16 12:45:17.458306
+Existing_entries: 142
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 342
+Summarized using GPT-4o-mini
+Append: [Strasbourg impose des restrictions aux meublés touristiques, "il faudrait une loi contre les niches fiscales"](https://france3-regions.francetvinfo.fr/grand-est/alsace/strasbourg-impose-des-restrictions-aux-meubles-touristiques-il-faudrait-une-loi-contre-les-niches-fiscales-3031751.html)
+append_entries: 1
+Finish: 2024-09-16 12:45:19.565557
