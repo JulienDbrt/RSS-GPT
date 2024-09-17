@@ -2649,3 +2649,12 @@ Summarized using GPT-4o-mini
 Append: ["Davos des banlieues" : "Il y a beaucoup de talents et de projets d’entreprise dans les quartiers populaires"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/davos-des-banlieues-il-y-a-beaucoup-de-talents-et-de-projets-d-entreprise-dans-les-quartiers-populaires-3032948.html)
 append_entries: 1
 Finish: 2024-09-17 01:14:22.162561
+------------------------------------------------------
+Started: 2024-09-17 12:44:51.692089
+Existing_entries: 337
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 126
+Summarized using GPT-4o-mini
+Append: [RER B : préavis de grève déposé pour le mardi 24 septembre](https://france3-regions.francetvinfo.fr/paris-ile-de-france/rer-b-preavis-de-greve-depose-pour-le-mardi-24-septembre-3033302.html)
+append_entries: 1
+Finish: 2024-09-17 12:44:54.335593

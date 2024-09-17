@@ -2864,3 +2864,9 @@ Summarized using GPT-4o-mini
 Append: [Mont-Dore : les navettes maritimes annulées ce mardi en raison de la houle](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/mont-dore-les-navettes-maritimes-annulees-ce-mardi-en-raison-de-la-houle-1522139.html)
 append_entries: 1
 Finish: 2024-09-17 01:15:51.011904
+------------------------------------------------------
+Started: 2024-09-17 12:47:12.101547
+Existing_entries: 395
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-09-17 12:47:12.355390

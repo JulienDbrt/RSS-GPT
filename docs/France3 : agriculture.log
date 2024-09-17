@@ -4669,3 +4669,30 @@ Summarized using GPT-4o-mini
 Append: [Météo capricieuse, tavelure, inquiétude des arboriculteurs : comment va la pomme ?](https://france3-regions.francetvinfo.fr/normandie/calvados/meteo-capricieuse-tavelure-inquietude-des-arboriculteurs-comment-va-la-pomme-3032675.html)
 append_entries: 1
 Finish: 2024-09-17 01:14:25.104180
+------------------------------------------------------
+Started: 2024-09-17 12:44:54.885195
+Existing_entries: 1001
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 210
+Summarized using GPT-4o-mini
+Append: [Dix veaux meurent dans l'incendie d'un bâtiment agricole dans la Manche](https://france3-regions.francetvinfo.fr/normandie/manche/dix-veaux-meurent-dans-l-incendie-d-un-batiment-agricole-dans-la-manche-3033323.html)
+Token length: 317
+Summarized using GPT-4o-mini
+Append: ["On peut tous tomber" : face à l'arrivée de la taxe chinoise, les producteurs de cognac en danger](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente/angouleme/on-peut-tous-tomber-face-a-l-arrivee-de-la-taxe-chinoise-les-producteurs-de-cognac-en-danger-3033194.html)
+Token length: 257
+Summarized using GPT-4o-mini
+Append: [Viticulture : grêle, sécheresse, des volumes historiquement bas dans le Roussillon pour une vendange qui s'annonce catastrophique](https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/viticulture-grele-secheresse-des-volumes-historiquement-bas-dans-le-roussillon-pour-une-vendange-qui-s-annonce-catastrophique-3033101.html)
+Token length: 310
+Summarized using GPT-4o-mini
+Append: [Avec la crise viticole, le commerce des caisses en bois est aussi en difficulté](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/avec-la-crise-viticole-le-commerce-des-caisses-en-bois-est-aussi-en-difficulte-3032708.html)
+Token length: 343
+Summarized using GPT-4o-mini
+Append: [L'intelligence artificielle utilisée pour aider les viticulteurs](https://france3-regions.francetvinfo.fr/grand-est/marne/l-intelligence-artificielle-utilisee-pour-aider-les-viticulteurs-3032999.html)
+Token length: 271
+Summarized using GPT-4o-mini
+Append: ["Bloquer les routes ? Pas de raisons que ça ne revienne pas" : pourquoi la situation est toujours explosive chez les agriculteurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/bloquer-les-routes-pas-de-raisons-que-ca-ne-revienne-pas-pourquoi-la-situation-est-toujours-explosive-chez-les-agriculteurs-3032792.html)
+Token length: 203
+Summarized using GPT-4o-mini
+Append: ["On n’est pas sortis d'affaire" : face à la fièvre catarrhale, les éleveurs du Var inquiets](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/draguignan/on-n-est-pas-sortis-d-affaire-face-a-la-fievre-catarrhale-les-eleveurs-du-var-inquiets-3031349.html)
+append_entries: 7
+Finish: 2024-09-17 12:45:18.612836

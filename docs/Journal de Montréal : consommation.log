@@ -2287,3 +2287,9 @@ Summarized using GPT-4o-mini
 Append: [Entreprise québécoise depuis 40 ans: une à deux ouvertures par année pour le Groupe Nero Bianco](https://www.journaldemontreal.com/2024/09/16/une-a-deux-ouvertures-par-annee-pour-le-groupe-nero-bianco)
 append_entries: 1
 Finish: 2024-09-17 01:14:52.791484
+------------------------------------------------------
+Started: 2024-09-17 12:45:57.251722
+Existing_entries: 205
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-09-17 12:45:57.741172

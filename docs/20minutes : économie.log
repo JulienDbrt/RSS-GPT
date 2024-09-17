@@ -2786,3 +2786,15 @@ Summarized using GPT-4o-mini
 Append: [Dairy Queen, c’est quoi cette chaîne de fast-food qui veut ouvrir des centaines de restaurants en France](https://www.20minutes.fr/economie/4110325-20240916-dairy-queen-quoi-chaine-fast-food-veut-ouvrir-centaines-restaurants-france)
 append_entries: 2
 Finish: 2024-09-17 01:10:47.491171
+------------------------------------------------------
+Started: 2024-09-17 12:38:46.597914
+Existing_entries: 376
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 115
+Summarized using GPT-4o-mini
+Append: [Donald Trump lance World Liberty Financial, sa (mystérieuse) plateforme de cryptomonnaies](https://www.20minutes.fr/economie/4110503-20240917-donald-trump-lance-world-liberty-financial-mysterieuse-plateforme-cryptomonnaies)
+Token length: 133
+Summarized using GPT-4o-mini
+Append: [Fin du télétravail chez Amazon : Les salariés obligés de retourner à temps plein au bureau à partir de janvier 2025](https://www.20minutes.fr/economie/4110429-20240917-amazon-fini-teletravail-salaries-obliges-retourner-temps-plein-bureau)
+append_entries: 2
+Finish: 2024-09-17 12:38:52.027463

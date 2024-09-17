@@ -2651,3 +2651,15 @@ Summarized using GPT-4o-mini
 Append: [Les aéroports parisiens ont enregistré un trafic de 10 millions de passagers en août](https://www.bfmtv.com/economie/entreprises/transports/les-aeroports-parisiens-ont-enregistre-un-trafic-de-10-millions-de-passagers-en-aout_AV-202409160731.html)
 append_entries: 1
 Finish: 2024-09-17 01:12:28.566807
+------------------------------------------------------
+Started: 2024-09-17 12:41:51.887792
+Existing_entries: 341
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 275
+Summarized using GPT-4o-mini
+Append: [Bagages à bord des TGV: les contôleurs toucheront une commission sur ces nouvelles amendes](https://www.bfmtv.com/economie/entreprises/transports/bagages-a-bord-des-tgv-les-contoleurs-toucheront-une-commission-sur-ces-nouvelles-amendes_AV-202409170381.html)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Air France va tester les repas payants sur certains vols en Europe](https://www.bfmtv.com/economie/entreprises/transports/air-france-va-tester-les-repas-payants-sur-certains-vols-en-europe_AV-202409170137.html)
+append_entries: 2
+Finish: 2024-09-17 12:41:58.262685
