@@ -2526,3 +2526,15 @@ Existing_entries: 288
 Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
 append_entries: 0
 Finish: 2024-09-16 12:45:40.635337
+------------------------------------------------------
+Started: 2024-09-17 01:14:52.949774
+Existing_entries: 288
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 124
+Summarized using GPT-4o-mini
+Append: [Métro de Montréal: le service interrompu sur une partie de la ligne verte pendant près d’une heure](https://www.journaldemontreal.com/2024/09/16/metro-de-montreal-le-service-interrompu-sur-une-partie-de-la-ligne-verte-pendant-pres-dune-heure)
+Token length: 137
+Summarized using GPT-4o-mini
+Append: [Tensions avec le maire Marchand: le péquiste Pascal Paradis presse la CAQ «de cesser de mettre des bâtons dans les roues de la Ville de Québec»](https://www.journaldemontreal.com/2024/09/16/paradis-presse-la-caq-de-cesser-des-batons-dans-les-roues-de-la-ville-de-quebec)
+append_entries: 2
+Finish: 2024-09-17 01:14:57.273305

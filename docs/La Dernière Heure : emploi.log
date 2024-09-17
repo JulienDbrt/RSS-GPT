@@ -1735,3 +1735,9 @@ Summarized using GPT-4o-mini
 Append: [Certains pensionnés ne jurent que par ... le travail: un retraité sur dix continue à travailler à la fin de sa carrière](https://www.dhnet.be/conso/travail/2024/09/16/certains-pensionnes-ne-jurent-que-par-le-travail-un-retraite-sur-dix-continue-a-travailler-a-la-fin-de-sa-carriere-OHS4BUOAEBGPZKJDBUKXTR2VSQ/)
 append_entries: 1
 Finish: 2024-09-16 12:47:33.314670
+------------------------------------------------------
+Started: 2024-09-17 01:16:32.536896
+Existing_entries: 21
+Fetching from https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml
+append_entries: 0
+Finish: 2024-09-17 01:16:33.235784

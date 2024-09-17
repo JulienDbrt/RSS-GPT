@@ -2161,3 +2161,9 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. Il est en vente à 7 millions d’euros : qui va acheter le château le plus cher de Haute-Garonne ?](https://www.ladepeche.fr/2024/09/16/il-est-en-vente-a-7-millions-deuros-qui-va-acheter-le-chateau-le-plus-cher-de-haute-garonne-12199017.php)
 append_entries: 1
 Finish: 2024-09-16 12:47:28.301869
+------------------------------------------------------
+Started: 2024-09-17 01:16:32.024160
+Existing_entries: 173
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-17 01:16:32.524555

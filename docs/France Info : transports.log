@@ -3038,3 +3038,21 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. "On n'a pas demandé ce désastre" : les syndicats belges de l'industrie automobile manifestent contre les suppressions d'emploi annoncées](https://www.francetvinfo.fr/economie/automobile/reportage-on-n-a-pas-demande-ce-desastre-les-syndicats-belges-de-l-industrie-automobile-manifestent-contre-les-suppressions-d-emploi-annoncees_6783121.html)
 append_entries: 1
 Finish: 2024-09-16 12:43:55.849904
+------------------------------------------------------
+Started: 2024-09-17 01:13:35.555641
+Existing_entries: 468
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [SNCF : des amendes pour les excédents de bagages](https://www.francetvinfo.fr/economie/transports/sncf/sncf-des-amendes-pour-les-excedents-de-bagages_6785107.html)
+Token length: 75
+Summarized using GPT-4o-mini
+Append: [Boeing annonce une réduction de ses dépenses en raison de la grève de deux usines près de Seattle](https://www.francetvinfo.fr/economie/transports/etats-unis-face-a-la-greve-boeing-annonce-reduire-ses-depenses-et-envisage-du-chomage-technique_6784906.html)
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [Carburants : nouvelle baisse des prix à la pompe](https://www.francetvinfo.fr/economie/transports/prix-des-carburants/carburants-nouvelle-baisse-des-prix-a-la-pompe_6784600.html)
+Token length: 113
+Summarized using GPT-4o-mini
+Append: [SNCF : de nouvelles règles en vigueur pour les bagages](https://www.francetvinfo.fr/economie/transports/sncf/sncf-de-nouvelles-regles-en-vigueur-pour-les-bagages_6784579.html)
+append_entries: 4
+Finish: 2024-09-17 01:13:45.612627

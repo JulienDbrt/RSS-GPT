@@ -2640,3 +2640,12 @@ Existing_entries: 336
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-16 12:44:32.233639
+------------------------------------------------------
+Started: 2024-09-17 01:14:19.837718
+Existing_entries: 336
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 296
+Summarized using GPT-4o-mini
+Append: ["Davos des banlieues" : "Il y a beaucoup de talents et de projets d’entreprise dans les quartiers populaires"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/davos-des-banlieues-il-y-a-beaucoup-de-talents-et-de-projets-d-entreprise-dans-les-quartiers-populaires-3032948.html)
+append_entries: 1
+Finish: 2024-09-17 01:14:22.162561

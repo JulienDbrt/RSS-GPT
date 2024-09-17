@@ -2855,3 +2855,12 @@ Summarized using GPT-4o-mini
 Append: [Pas de bus Raï du 21 au 24 septembre en raison du couvre-feu](https://la1ere.francetvinfo.fr/nouvellecaledonie/pas-de-bus-rai-du-21-au-24-septembre-en-raison-du-couvre-feu-1521959.html)
 append_entries: 2
 Finish: 2024-09-16 12:46:36.067753
+------------------------------------------------------
+Started: 2024-09-17 01:15:48.986098
+Existing_entries: 394
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 56
+Summarized using GPT-4o-mini
+Append: [Mont-Dore : les navettes maritimes annulées ce mardi en raison de la houle](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/mont-dore-les-navettes-maritimes-annulees-ce-mardi-en-raison-de-la-houle-1522139.html)
+append_entries: 1
+Finish: 2024-09-17 01:15:51.011904
