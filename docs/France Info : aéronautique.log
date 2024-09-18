@@ -1952,3 +1952,9 @@ Summarized using GPT-4o-mini
 Append: [Aéronautique : avec la grève massive à Seattle, Boeing annonce le gel de toutes les dépenses](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-avec-la-greve-massive-a-seattle-boeing-annonce-le-gel-de-toutes-les-depenses_6759496.html)
 append_entries: 1
 Finish: 2024-09-17 12:43:50.936713
+------------------------------------------------------
+Started: 2024-09-18 01:24:13.220495
+Existing_entries: 96
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-09-18 01:24:13.410769

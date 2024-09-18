@@ -3062,3 +3062,15 @@ Existing_entries: 472
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-17 12:43:55.015729
+------------------------------------------------------
+Started: 2024-09-18 01:24:14.518173
+Existing_entries: 472
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [Transports : Île-de-France Mobilités annonce un ticket unique à 2,50 euros pour circuler dans toute la région dès 2025](https://www.francetvinfo.fr/economie/transports/transports-ile-de-france-mobilites-annonce-un-ticket-unique-a-2-50-euros-pour-circuler-dans-toute-la-region-des-2025_6786745.html)
+Token length: 75
+Summarized using GPT-4o-mini
+Append: [La SNCF n'acceptera plus les chèques vacances en format papier à partir du 1er janvier](https://www.francetvinfo.fr/economie/transports/sncf/la-sncf-n-acceptera-plus-les-cheques-vacances-en-format-papier-a-partir-du-1er-janvier_6786652.html)
+append_entries: 2
+Finish: 2024-09-18 01:24:19.760593

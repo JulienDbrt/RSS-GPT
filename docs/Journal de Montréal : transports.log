@@ -2553,3 +2553,12 @@ Summarized using GPT-4o-mini
 Append: [«Tous les jours, on craint qu’un accident arrive»: des parents s’inquiètent des infractions routières en face de l’école de leurs enfants](https://www.journaldemontreal.com/2024/09/17/tous-les-jours-on-craint-quun-accident-arrive--des-parents-sinquietent-des-infractions-routiere-en-face-de-lecole-de-leurs-enfants)
 append_entries: 3
 Finish: 2024-09-17 12:46:09.102285
+------------------------------------------------------
+Started: 2024-09-18 01:25:38.935576
+Existing_entries: 293
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Métro de Montréal: le service interrompu sur une partie des lignes bleue et orange pendant près de 30 minutes](https://www.journaldemontreal.com/2024/09/17/metro-de-montreal-le-service-interrompu-sur-une-partie-des-lignes-bleue-et-orange)
+append_entries: 1
+Finish: 2024-09-18 01:25:41.163505

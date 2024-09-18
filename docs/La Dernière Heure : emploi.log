@@ -1750,3 +1750,9 @@ Summarized using GPT-4o-mini
 Append: [L'attractivité du marché du travail belge en recul: "Il est urgent de diminuer le coût du travail"](https://www.dhnet.be/conso/travail/2024/09/17/lattractivite-du-marche-du-travail-belge-en-recul-il-est-urgent-de-diminuer-le-cout-du-travail-PPNUU52KOBACHLC5YAXHGJ57CM/)
 append_entries: 1
 Finish: 2024-09-17 12:48:40.798503
+------------------------------------------------------
+Started: 2024-09-18 01:26:45.492149
+Existing_entries: 22
+Fetching from https://www.dhnet.be/arc/outboundfeeds/rss/section/conso/travail/?outputType=xml
+append_entries: 0
+Finish: 2024-09-18 01:26:46.627276

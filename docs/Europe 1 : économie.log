@@ -2890,3 +2890,15 @@ Summarized using GPT-4o-mini
 Append: [Prix de l'essence en baisse : pourquoi les carburants sont-ils aussi peu chers ?](https://www.europe1.fr/economie/prix-de-lessence-en-baisse-pourquoi-les-carburants-sont-ils-aussi-peu-chers-4267837)
 append_entries: 1
 Finish: 2024-09-17 12:42:48.581900
+------------------------------------------------------
+Started: 2024-09-18 01:23:39.441877
+Existing_entries: 410
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 279
+Summarized using GPT-4o-mini
+Append: [Déficit public : le gouverneur de la Banque de France juge «pas réaliste» le retour sous 3% du PIB en 2027](https://www.europe1.fr/economie/deficit-public-le-gouverneur-de-la-banque-de-france-juge-pas-realiste-le-retour-sous-3-du-pib-en-2027-4268090)
+Token length: 304
+Summarized using GPT-4o-mini
+Append: [Pourquoi une hausse des impôts sous le futur gouvernement paraît improbable](https://www.europe1.fr/economie/une-hausse-des-impots-sous-le-futur-gouvernement-pourquoi-cette-eventualite-parait-improbable-4268085)
+append_entries: 2
+Finish: 2024-09-18 01:23:44.189233

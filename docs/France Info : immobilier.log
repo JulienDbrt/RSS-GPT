@@ -2066,3 +2066,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : l'encadrement des loyers n'est pas respecté dans un tiers des annonces à Paris et en Seine-Saint-Denis](https://www.francetvinfo.fr/economie/immobilier/l-encadrement-des-loyers-n-est-pas-respecte-dans-un-tiers-des-annonces-immobilieres-a-paris-et-en-seine-saint-denis-selon-l-association-clcv_6786247.html)
 append_entries: 1
 Finish: 2024-09-17 12:43:54.699653
+------------------------------------------------------
+Started: 2024-09-18 01:24:14.210282
+Existing_entries: 134
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-18 01:24:14.260095

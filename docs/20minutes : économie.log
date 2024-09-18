@@ -2798,3 +2798,12 @@ Summarized using GPT-4o-mini
 Append: [Fin du télétravail chez Amazon : Les salariés obligés de retourner à temps plein au bureau à partir de janvier 2025](https://www.20minutes.fr/economie/4110429-20240917-amazon-fini-teletravail-salaries-obliges-retourner-temps-plein-bureau)
 append_entries: 2
 Finish: 2024-09-17 12:38:52.027463
+------------------------------------------------------
+Started: 2024-09-18 01:20:52.219615
+Existing_entries: 378
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 115
+Summarized using GPT-4o-mini
+Append: [Air France : Les repas à bord des avions vont-ils devenir payants ?](https://www.20minutes.fr/economie/4110567-20240917-air-france-repas-bord-vont-devenir-payants)
+append_entries: 1
+Finish: 2024-09-18 01:20:55.093929
