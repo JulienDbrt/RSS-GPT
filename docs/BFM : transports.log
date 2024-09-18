@@ -2672,3 +2672,15 @@ Summarized using GPT-4o-mini
 Append: [Explosions au Liban: Air France suspend ses vols vers Tel-Aviv et Beyrouth jusqu'au 19 septembre inclus](https://www.bfmtv.com/economie/entreprises/transports/explosions-au-liban-air-france-suspend-ses-vols-vers-tel-aviv-et-teheran-jusqu-au-19-septembre_AD-202409170952.html)
 append_entries: 1
 Finish: 2024-09-18 01:23:01.062848
+------------------------------------------------------
+Started: 2024-09-18 12:42:46.566009
+Existing_entries: 344
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 153
+Summarized using GPT-4o-mini
+Append: ["Les oreilles des gens ont commencé à saigner": un problème de pressurisation sur un vol Delta provoque le chaos](https://www.bfmtv.com/economie/entreprises/transports/les-oreilles-des-gens-ont-commence-a-saigner-un-probleme-de-pressurisation-sur-un-vol-delta-provoque-le-chaos_AN-202409180232.html)
+Token length: 112
+Summarized using GPT-4o-mini
+Append: [TGV: vous avez 15 minutes pour vous asseoir, sinon votre siège pourra être réattribué](https://www.bfmtv.com/economie/entreprises/transports/tgv-vous-avez-15-minutes-pour-vous-asseoir-sinon-votre-siege-pourra-etre-reattribue_AV-202409180160.html)
+append_entries: 2
+Finish: 2024-09-18 12:42:52.704982

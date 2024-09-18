@@ -2562,3 +2562,9 @@ Summarized using GPT-4o-mini
 Append: [Métro de Montréal: le service interrompu sur une partie des lignes bleue et orange pendant près de 30 minutes](https://www.journaldemontreal.com/2024/09/17/metro-de-montreal-le-service-interrompu-sur-une-partie-des-lignes-bleue-et-orange)
 append_entries: 1
 Finish: 2024-09-18 01:25:41.163505
+------------------------------------------------------
+Started: 2024-09-18 12:46:38.391359
+Existing_entries: 294
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-18 12:46:38.723418

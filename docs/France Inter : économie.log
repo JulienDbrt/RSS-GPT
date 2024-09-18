@@ -2882,3 +2882,21 @@ Summarized using GPT-4o-mini
 Append: [Chuck cherche du travail et à payer moins d'impôts](https://www.radiofrance.fr/franceinter/podcasts/helene-au-pays-des-50-etats/helene-et-les-50-etats-du-mardi-17-septembre-2024-2145856)
 append_entries: 1
 Finish: 2024-09-18 01:24:22.835390
+------------------------------------------------------
+Started: 2024-09-18 12:44:30.298088
+Existing_entries: 404
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [La boîte à idées fiscales est ouverte](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-mercredi-18-septembre-2024-2783847)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [L'Everest, Dubaï de l'alpinisme](https://www.radiofrance.fr/franceinter/podcasts/hugo-clement-en-toute-subjectivite/hugo-clement-en-toute-subjectivite-du-mercredi-18-septembre-2024-6435925)
+Token length: 120
+Summarized using GPT-4o-mini
+Append: [Éoliennes : démêler le vrai du faux](https://www.radiofrance.fr/franceinter/podcasts/on-se-decarbone/on-se-decarbone-du-mercredi-18-septembre-2024-2470402)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: [Marché immobilier : "On peut emprunter, avec le même salaire, 15 000 euros de plus qu'il y a un an"](https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-6h20/l-invite-de-6h20-du-mercredi-18-septembre-2024-5150614)
+append_entries: 4
+Finish: 2024-09-18 12:44:42.829877

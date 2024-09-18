@@ -2985,3 +2985,15 @@ Summarized using GPT-4o-mini
 Append: ["Un petit truc en plus", le restaurant employant des salariés trisomiques fête ses 5 ans : "on est devenu une grande famille"](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/mulhouse/un-petit-truc-en-plus-le-restaurant-employant-des-salaries-trisomiques-fete-ses-5-ans-on-est-devenu-une-grande-famille-3033383.html)
 append_entries: 2
 Finish: 2024-09-18 01:25:25.898649
+------------------------------------------------------
+Started: 2024-09-18 12:46:05.190430
+Existing_entries: 445
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 315
+Summarized using GPT-4o-mini
+Append: [Ces salariés en situation de handicap se mobilisent pour le maintien de leur salaire, "l'idée est de perturber la production par des débrayages"](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/ces-salaries-en-situation-de-handicap-se-mobilisent-pour-le-maintien-de-leur-salaire-l-idee-est-de-perturber-la-production-par-des-debrayages-3033752.html)
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Transport : "ces entreprises-là devaient déclarer ces salariés" : Chalair et son PDG condamnés pour travail dissimulé](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/video-transport-ces-entreprises-la-devaient-declarer-ces-salaries-chalair-et-son-pdg-condamnes-pour-travail-dissimule-2832506.html)
+append_entries: 2
+Finish: 2024-09-18 12:46:14.267117

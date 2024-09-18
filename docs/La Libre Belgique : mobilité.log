@@ -2534,3 +2534,9 @@ Summarized using GPT-4o-mini
 Append: [Sweel, l’app bruxelloise qui enregistre vos km en selle et calcule automatiquement vos indemnités vélo: “Je 'gagne' 3.500€ sans rien faire”](https://www.lalibre.be/regions/bruxelles/2024/09/17/sweel-lapp-bruxelloise-qui-enregistre-vos-km-en-selle-et-calcule-automatiquement-vos-indemnites-velo-je-gagne-3500-sans-rien-faire-DJY5RXDFNNFQ5DTH54UCT4FLY4/)
 append_entries: 1
 Finish: 2024-09-18 01:27:23.407800
+------------------------------------------------------
+Started: 2024-09-18 12:49:45.526448
+Existing_entries: 314
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-09-18 12:49:46.040977

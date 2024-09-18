@@ -2305,3 +2305,18 @@ Summarized using GPT-4o-mini
 Append: [Space. Les agriculteurs attendent toujours des réponses... et un ministre](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/space-les-agriculteurs-attendent-toujours-des-reponses-3033560.html)
 append_entries: 2
 Finish: 2024-09-18 01:25:20.346509
+------------------------------------------------------
+Started: 2024-09-18 12:45:55.062287
+Existing_entries: 218
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 282
+Summarized using GPT-4o-mini
+Append: ["On mange mieux pour moins cher". Vrac et achat groupé, le bon plan qualité même dans les quartiers](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/on-mange-mieux-pour-moins-cher-vrac-et-achat-groupe-le-bon-plan-qualite-meme-dans-les-quartiers-3033731.html)
+Token length: 403
+Summarized using GPT-4o-mini
+Append: ["On a investi des sommes colossales, et on va vendre quoi?", ces propriétaires de mobil-home doivent quitter leur camping](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/on-a-investi-des-sommes-colossales-et-on-va-vendre-quoi-ces-proprietaires-de-mobil-home-doivent-quitter-leur-camping-3033263.html)
+Token length: 383
+Summarized using GPT-4o-mini
+Append: [Jeux Olympiques. "C'était sympa de voir son travail à la télé", le succès des Phryges booste Doudous et Compagnie](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/jeux-olympiques-c-etait-sympa-de-voir-son-travail-a-la-tele-le-succes-des-phryges-booste-doudous-et-compagnie-3033272.html)
+append_entries: 3
+Finish: 2024-09-18 12:46:04.937364

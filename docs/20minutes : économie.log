@@ -2807,3 +2807,21 @@ Summarized using GPT-4o-mini
 Append: [Air France : Les repas à bord des avions vont-ils devenir payants ?](https://www.20minutes.fr/economie/4110567-20240917-air-france-repas-bord-vont-devenir-payants)
 append_entries: 1
 Finish: 2024-09-18 01:20:55.093929
+------------------------------------------------------
+Started: 2024-09-18 12:39:02.630907
+Existing_entries: 379
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 82
+Summarized using GPT-4o-mini
+Append: [Chèques-vacances : La SNCF n’acceptera plus les titres papier à partir de 2025](https://www.20minutes.fr/economie/4110771-20240918-cheques-vacances-sncf-acceptera-plus-titres-papier-partir-2025)
+Token length: 133
+Summarized using GPT-4o-mini
+Append: [Entreprise : On connaît tous les licornes. Ok, mais connaissez-vous les « griffons » ?](https://www.20minutes.fr/economie/4110607-20240918-entreprise-connait-tous-licornes-ok-connaissez-griffons)
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Pourquoi les villes galèrent à faire garder vos enfants le mercredi et après l’école ?](https://www.20minutes.fr/societe/4109335-20240918-pourquoi-villes-galerent-faire-garder-enfants-mercredi-apres-ecole)
+Token length: 105
+Summarized using GPT-4o-mini
+Append: [Gouvernement Barnier : L’idée d’une hausse d’impôts met Barnier sur le fil du rasoir avec sa précaire coalition](https://www.20minutes.fr/politique/4110669-20240918-gouvernement-michel-barnier-evoquant-hausse-impots-barnier-divise-classe-politique)
+append_entries: 4
+Finish: 2024-09-18 12:39:15.258089

@@ -2667,3 +2667,18 @@ Summarized using GPT-4o-mini
 Append: [Périphérique à 50km/h : "Les temps de trajet risquent d’être rallongés, on devra se déplacer encore plus tôt pour travailler"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/peripherique-a-50km-h-les-temps-de-trajet-risquent-d-etre-rallonges-on-devra-se-deplacer-encore-plus-tot-pour-travailler-3033386.html)
 append_entries: 1
 Finish: 2024-09-18 01:24:55.079123
+------------------------------------------------------
+Started: 2024-09-18 12:45:17.528133
+Existing_entries: 339
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 195
+Summarized using GPT-4o-mini
+Append: [Un tarif unique à 2,50 euros pour voyager en métro, train ou RER en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/un-tarif-unique-a-2-50-euros-pour-voyager-en-metro-train-ou-rer-en-ile-de-france-3033665.html)
+Token length: 299
+Summarized using GPT-4o-mini
+Append: [TEMOIGNAGE. "Nous sommes là pour accompagner les jeunes et leur permettre de se réinsérer dans la société", les éducateurs de la PJJ en grève](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/temoignage-nous-sommes-la-pour-accompagner-les-jeunes-et-leur-permettre-de-se-reinserer-dans-la-societe-les-educateurs-de-la-pjj-en-greve-3033440.html)
+Token length: 214
+Summarized using GPT-4o-mini
+Append: [Il obtient la baisse de son loyer rue de Rivoli faute de clientèle : un exemple à suivre ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/il-obtient-la-baisse-de-son-loyer-rue-de-rivoli-faute-de-clientele-un-exemple-a-suivre-3033485.html)
+append_entries: 3
+Finish: 2024-09-18 12:45:28.545155

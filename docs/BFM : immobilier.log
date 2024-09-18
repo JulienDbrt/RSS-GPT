@@ -2740,3 +2740,15 @@ Summarized using GPT-4o-mini
 Append: [Plus d'un tiers des annonces ne respectent pas l’encadrement des loyers à Paris et en Seine-Saint-Denis](https://www.bfmtv.com/immobilier/location/plus-d-un-tiers-des-annonces-ne-respectent-pas-l-encadrement-des-loyers-a-paris-et-en-seine-saint-denis_AV-202409170630.html)
 append_entries: 1
 Finish: 2024-09-18 01:22:51.251006
+------------------------------------------------------
+Started: 2024-09-18 12:42:28.078701
+Existing_entries: 376
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 221
+Summarized using GPT-4o-mini
+Append: [Rénovation énergétique: la Cour des comptes pointe des "résultats surévalués" et des "fraudes" des CEE](https://www.bfmtv.com/immobilier/renovation-travaux/renovation-energetique-la-cour-des-comptes-pointe-des-resultats-surevalues-et-des-fraudes-des-cee_AD-202409180430.html)
+Token length: 210
+Summarized using GPT-4o-mini
+Append: [Rénovation énergétique: 67% des propriétaires disent connaître leur DPE... mais 25% le surestiment](https://www.bfmtv.com/immobilier/renovation-travaux/renovation-energetique-67-des-proprietaires-disent-connaitre-leur-dpe-mais-25-le-surestiment_AV-202409180075.html)
+append_entries: 2
+Finish: 2024-09-18 12:42:34.887104
