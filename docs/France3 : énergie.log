@@ -2169,3 +2169,12 @@ Existing_entries: 171
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-09-18 12:45:17.342926
+------------------------------------------------------
+Started: 2024-09-19 01:28:17.669318
+Existing_entries: 171
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 350
+Summarized using GPT-4o-mini
+Append: ["C'est vraiment le moment" : profitant de la baisse du prix du fioul domestique, ces particuliers font le plein de leur cuve avant l'hiver](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/c-est-vraiment-le-moment-profitant-de-la-baisse-du-prix-du-fioul-domestique-ces-particuliers-font-le-plein-de-leur-cuve-avant-l-hiver-3034076.html)
+append_entries: 1
+Finish: 2024-09-19 01:28:20.521740

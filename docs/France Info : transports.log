@@ -3083,3 +3083,12 @@ Summarized using GPT-4o-mini
 Append: [Automobile : en Norvège, la voiture électrique détrône la voiture à essence](https://www.francetvinfo.fr/replay-radio/le-brief-eco/automobile-en-norvege-la-voiture-electrique-detrone-la-voiture-a-essence_6761422.html)
 append_entries: 1
 Finish: 2024-09-18 12:44:30.075792
+------------------------------------------------------
+Started: 2024-09-19 01:27:37.127797
+Existing_entries: 475
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 202
+Summarized using GPT-4o-mini
+Append: [SNCF : les voyageurs n'ont plus que 15 minutes pour s'asseoir à leur siège, sous peine de le perdre](https://www.francetvinfo.fr/economie/transports/sncf/sncf-les-voyageurs-n-ont-plus-que-15-minutes-pour-s-asseoir-a-leur-siege-sous-peine-de-le-perdre_6788140.html)
+append_entries: 1
+Finish: 2024-09-19 01:27:39.853427

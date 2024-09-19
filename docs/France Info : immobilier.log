@@ -2081,3 +2081,9 @@ Summarized using GPT-4o-mini
 Append: [Pouvoir d'achat : la baisse des taux directeurs peut-elle faire repartir le marché de l’immobilier ?](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/pouvoir-d-achat-la-baisse-des-taux-directeurs-peut-elle-faire-repartir-le-marche-de-l-immobilier_6761353.html)
 append_entries: 1
 Finish: 2024-09-18 12:44:25.889583
+------------------------------------------------------
+Started: 2024-09-19 01:27:36.717338
+Existing_entries: 135
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-19 01:27:36.868518

@@ -2825,3 +2825,15 @@ Summarized using GPT-4o-mini
 Append: [Gouvernement Barnier : L’idée d’une hausse d’impôts met Barnier sur le fil du rasoir avec sa précaire coalition](https://www.20minutes.fr/politique/4110669-20240918-gouvernement-michel-barnier-evoquant-hausse-impots-barnier-divise-classe-politique)
 append_entries: 4
 Finish: 2024-09-18 12:39:15.258089
+------------------------------------------------------
+Started: 2024-09-19 01:23:03.507018
+Existing_entries: 383
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 132
+Summarized using GPT-4o-mini
+Append: [Le fromager Beillevaire s’étend encore avec trois nouvelles usines (et de nouveaux fromages)](https://www.20minutes.fr/economie/4110702-20240918-fromager-beillevaire-etend-encore-trois-nouvelles-usines-nouveaux-fromages)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Nord : L’enseigne de librairies Le Furet va fermer des magasins d’ici à 2025](https://www.20minutes.fr/economie/4110776-20240918-nord-enseigne-librairies-furet-va-fermer-magasins-2025)
+append_entries: 2
+Finish: 2024-09-19 01:23:08.715934

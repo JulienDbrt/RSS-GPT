@@ -3335,3 +3335,15 @@ Summarized using GPT-4o-mini
 Append: [Le fabricant des emblématiques boîtes Tupperware se déclare en faillite](https://www.martinique.franceantilles.fr/actualite/economie/le-fabricant-des-emblematiques-boites-tupperware-se-declare-en-faillite-1003679.php)
 append_entries: 1
 Finish: 2024-09-18 12:43:44.045240
+------------------------------------------------------
+Started: 2024-09-19 01:26:49.453699
+Existing_entries: 573
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 48
+Summarized using GPT-4o-mini
+Append: [Christine Ourmières-Widener : " Les prix des billets d'avion en baisse par rapport à 2023 ! "](https://www.martinique.franceantilles.fr/actualite/economie/christine-ourmieres-widener-pdg-dair-caraibes-les-prix-des-billets-davion-en-baisse-par-rapport-a-2023-1003754.php)
+Token length: 97
+Summarized using GPT-4o-mini
+Append: [USA: la Fed frappe un grand coup et baisse ses taux d'un demi-point](https://www.martinique.franceantilles.fr/actualite/international/usa-la-fed-va-abaisser-ses-taux-lampleur-de-la-coupe-reste-incertaine-1003673.php)
+append_entries: 2
+Finish: 2024-09-19 01:26:56.346632

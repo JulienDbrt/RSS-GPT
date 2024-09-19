@@ -2682,3 +2682,12 @@ Summarized using GPT-4o-mini
 Append: [Il obtient la baisse de son loyer rue de Rivoli faute de clientèle : un exemple à suivre ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/il-obtient-la-baisse-de-son-loyer-rue-de-rivoli-faute-de-clientele-un-exemple-a-suivre-3033485.html)
 append_entries: 3
 Finish: 2024-09-18 12:45:28.545155
+------------------------------------------------------
+Started: 2024-09-19 01:28:20.708084
+Existing_entries: 342
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 183
+Summarized using GPT-4o-mini
+Append: [Avec 50 000 piétons par jour, le pont d'Iéna définitivement fermé à la circulation](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/avec-50-000-pietons-par-jour-le-pont-d-iena-definitivement-ferme-a-la-circulation-3034157.html)
+append_entries: 1
+Finish: 2024-09-19 01:28:23.571355

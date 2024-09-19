@@ -4741,3 +4741,30 @@ Summarized using GPT-4o-mini
 Append: [Agriculture : "c'est 20 à 30 % de nos revenus" : la récolte des olives au secours des viticulteurs](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/agriculture-c-est-20-a-30-de-nos-revenus-la-recolte-des-olives-au-secours-des-viticulteurs-3033212.html)
 append_entries: 6
 Finish: 2024-09-18 12:45:45.448400
+------------------------------------------------------
+Started: 2024-09-19 01:28:24.139523
+Existing_entries: 1006
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 215
+Summarized using GPT-4o-mini
+Append: ["C'est inquiétant, mais ce n'est pas nouveau", un foyer de fièvre catarrhale ovine détecté dans le Var](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/draguignan/c-est-inquietant-mais-ce-n-est-pas-nouveau-un-foyer-de-fievre-catarrhale-ovine-detecte-dans-le-var-3034115.html)
+Token length: 226
+Summarized using GPT-4o-mini
+Append: ["C'est dur, mais c'est super plaisant" : des travailleurs en situation de handicap participent à leurs premières vendanges](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/c-est-dur-mais-c-est-super-plaisant-des-travailleurs-en-situation-de-handicap-participent-a-leurs-premieres-vendanges-3034178.html)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Orages, grêle : 150 000 euros, 14 communes concernées... la Région Occitanie et l'État débloquent une aide financière pour les zones sinistrées](https://france3-regions.francetvinfo.fr/occitanie/aude/narbonne/orages-grele-150-000-euros-14-communes-concernees-la-region-occitanie-et-l-etat-debloquent-une-aide-financiere-pour-les-zones-sinistrees-3033938.html)
+Token length: 281
+Summarized using GPT-4o-mini
+Append: ["Il nous manque entre 20 et 25 chauffeurs", les agriculteurs en manque de saisonniers dans les Hauts-de-France](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/il-nous-manque-entre-20-et-25-chauffeurs-les-agriculteurs-en-manque-de-saisonniers-dans-les-hauts-de-france-3033794.html)
+Token length: 345
+Summarized using GPT-4o-mini
+Append: [Colère des agriculteurs tarnais : après les panneaux renversés, des panneaux inversés](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/colere-des-agriculteurs-tarnais-apres-les-panneaux-renverses-des-panneaux-inverses-3033869.html)
+Token length: 226
+Summarized using GPT-4o-mini
+Append: [Dans ce château, les vendangeurs travaillent à la main, dans une ambiance conviviale : "si on peut les fidéliser, on le fait"](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/dans-ce-chateau-les-vendangeurs-travaillent-a-la-main-dans-une-ambiance-conviviale-si-on-peut-les-fideliser-on-le-fait-3033572.html)
+Token length: 284
+Summarized using GPT-4o-mini
+Append: [Peste porcine africaine : le Bas-Rhin et la Moselle en surveillance renforcée, la maladie se rapproche de la frontière franco-allemande](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/peste-porcine-africaine-le-bas-rhin-et-la-moselle-en-surveillance-renforcee-la-maladie-se-rapproche-de-la-frontiere-franco-allemande-3033935.html)
+append_entries: 7
+Finish: 2024-09-19 01:28:45.099528
