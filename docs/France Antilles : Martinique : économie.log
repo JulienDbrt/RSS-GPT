@@ -3347,3 +3347,18 @@ Summarized using GPT-4o-mini
 Append: [USA: la Fed frappe un grand coup et baisse ses taux d'un demi-point](https://www.martinique.franceantilles.fr/actualite/international/usa-la-fed-va-abaisser-ses-taux-lampleur-de-la-coupe-reste-incertaine-1003673.php)
 append_entries: 2
 Finish: 2024-09-19 01:26:56.346632
+------------------------------------------------------
+Started: 2024-09-19 12:45:17.979216
+Existing_entries: 575
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 104
+Summarized using GPT-4o-mini
+Append: [Les constructeurs automobiles européens réclament des "aides urgentes" avant les normes CO2 durcies en 2025](https://www.martinique.franceantilles.fr/actualite/economie/les-constructeurs-automobiles-europeens-reclament-des-aides-urgentes-avant-les-normes-co2-durcies-en-2025-1003849.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Journée du logement](https://www.martinique.franceantilles.fr/actualite/economie/journee-du-logement-1003810.php)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [Polluants éternels dans l'eau: plusieurs communes au-dessus des seuils réglementaires, selon des médias](https://www.martinique.franceantilles.fr/actualite/economie/polluants-eternels-dans-leau-plusieurs-communes-au-dessus-des-seuils-reglementaires-selon-des-medias-1003844.php)
+append_entries: 3
+Finish: 2024-09-19 12:45:28.009641

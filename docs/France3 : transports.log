@@ -5438,3 +5438,18 @@ Summarized using GPT-4o-mini
 Append: [5,7 milliards d'euros confirmés pour le réseau TER en Auvergne-Rhône-Alpes, un effet d'annonce pour les associations](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/5-7-milliards-d-euros-confirmes-pour-le-reseau-ter-en-auvergne-rhone-alpes-un-effet-d-annonce-pour-les-associations-3034007.html)
 append_entries: 7
 Finish: 2024-09-19 01:29:26.998464
+------------------------------------------------------
+Started: 2024-09-19 12:48:41.965309
+Existing_entries: 1007
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Gare routière de Bercy : la ville de Saint-Denis prête à l'accueillir](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/gare-routiere-de-bercy-la-ville-de-saint-denis-prete-a-l-accueillir-3034439.html)
+Token length: 311
+Summarized using GPT-4o-mini
+Append: [La vie sans voiture ? Vouloir et pouvoir, les clés d'une transition réussie](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/la-vie-sans-voiture-vouloir-et-pouvoir-les-cles-d-une-transition-reussie-3024119.html)
+Token length: 280
+Summarized using GPT-4o-mini
+Append: [La route des gorges de l'Arly fermée plusieurs semaines pour d'importants travaux de sécurisation](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/la-route-des-gorges-de-l-arly-fermee-plusieurs-semaines-pour-d-importants-travaux-de-securisation-3034130.html)
+append_entries: 3
+Finish: 2024-09-19 12:48:55.902654

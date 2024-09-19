@@ -1879,3 +1879,12 @@ Existing_entries: 59
 Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
 append_entries: 0
 Finish: 2024-09-19 01:33:08.078295
+------------------------------------------------------
+Started: 2024-09-19 12:52:51.272343
+Existing_entries: 59
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 299
+Summarized using GPT-4o-mini
+Append: [Valérie Pécresse : « Il faut qu'on attire le maximum de chercheurs de l'étranger »](https://www.latribune.fr/regions/ile-de-france/valerie-pecresse-il-faut-qu-on-attire-le-maximum-de-chercheurs-de-l-etranger-1006796.html)
+append_entries: 1
+Finish: 2024-09-19 12:52:54.533815

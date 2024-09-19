@@ -2691,3 +2691,18 @@ Summarized using GPT-4o-mini
 Append: [Avec 50 000 piétons par jour, le pont d'Iéna définitivement fermé à la circulation](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/avec-50-000-pietons-par-jour-le-pont-d-iena-definitivement-ferme-a-la-circulation-3034157.html)
 append_entries: 1
 Finish: 2024-09-19 01:28:23.571355
+------------------------------------------------------
+Started: 2024-09-19 12:47:22.291325
+Existing_entries: 343
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Gare routière de Bercy : la ville de Saint-Denis prête à l'accueillir](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/gare-routiere-de-bercy-la-ville-de-saint-denis-prete-a-l-accueillir-3034439.html)
+Token length: 337
+Summarized using GPT-4o-mini
+Append: [Journées du patrimoine : 5 lieux insolites à découvrir gratuitement pour la première fois](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/grand-paris/journees-du-patrimoine-5-lieux-insolites-a-decouvrir-gratuitement-pour-la-premiere-fois-3032714.html)
+Token length: 211
+Summarized using GPT-4o-mini
+Append: ["Ça me paraît être quelque chose de tout à fait normal" : ils remplissent des cuves avec leur urine pour fabriquer de l'engrais](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ca-me-parait-etre-quelque-chose-de-tout-a-fait-normal-ils-remplissent-des-cuves-avec-leur-urine-pour-fabriquer-de-l-engrais-3034121.html)
+append_entries: 3
+Finish: 2024-09-19 12:47:37.407003

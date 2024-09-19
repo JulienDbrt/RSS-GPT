@@ -2502,3 +2502,18 @@ Summarized using GPT-4o-mini
 Append: [Etats-Unis: la Fed abaisse ses taux d'un demi-point de pourcentage, une première depuis 2020](https://www.bfmtv.com/economie/international/etats-unis-la-fed-abaisse-ses-taux-d-un-demi-point-de-pourcentage-une-premiere-depuis-2020_AD-202409180896.html)
 append_entries: 1
 Finish: 2024-09-19 01:24:15.111608
+------------------------------------------------------
+Started: 2024-09-19 12:41:14.104992
+Existing_entries: 280
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Avoirs russes gelés: l'Union européenne va transférer à l'Ukraine 160 millions d'euros](https://www.bfmtv.com/economie/international/avoirs-russes-geles-l-union-europeenne-va-transferer-a-l-ukraine-160-millions-d-euros_AD-202409190464.html)
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Les Maldives au bord de la faillite](https://www.bfmtv.com/economie/international/les-maldives-au-bord-de-la-faillite_AV-202409190321.html)
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [États-Unis: la Chambre des représentants échoue à prolonger le budget, risque de "shutdown"](https://www.bfmtv.com/economie/international/etats-unis-la-chambre-des-representants-echoue-a-prolonger-le-budget-risque-de-shutdown_AD-202409190054.html)
+append_entries: 3
+Finish: 2024-09-19 12:41:32.928654

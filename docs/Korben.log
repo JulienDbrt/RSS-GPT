@@ -2587,3 +2587,15 @@ Existing_entries: 297
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-09-19 01:20:41.642593
+------------------------------------------------------
+Started: 2024-09-19 12:37:27.555763
+Existing_entries: 297
+Fetching from https://korben.info/feed
+Token length: 3760
+Summarized using GPT-4o-mini
+Append: [La vallée pique](https://korben.info/test-valley-peaks-avis.html)
+Token length: 3419
+Summarized using GPT-4o-mini
+Append: [Taskwarrior – Enfin un bon gestionnaire de tâches (todo list) en ligne de commande](https://korben.info/taskwarrior-gestionnaire-taches-ligne-commande.html)
+append_entries: 2
+Finish: 2024-09-19 12:37:36.214420
