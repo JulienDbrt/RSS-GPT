@@ -5453,3 +5453,21 @@ Summarized using GPT-4o-mini
 Append: [La route des gorges de l'Arly fermée plusieurs semaines pour d'importants travaux de sécurisation](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/la-route-des-gorges-de-l-arly-fermee-plusieurs-semaines-pour-d-importants-travaux-de-securisation-3034130.html)
 append_entries: 3
 Finish: 2024-09-19 12:48:55.902654
+------------------------------------------------------
+Started: 2024-09-20 01:32:08.742945
+Existing_entries: 1003
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Les nouveaux bus électriques n'arrivent pas, la Métropole de Rouen doit racheter des anciens véhicules qui tournent au diesel](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/faute-de-nouveaux-bus-electriques-la-metropole-de-rouen-doit-racheter-des-anciens-qui-tourne-au-diesel-3034847.html)
+Token length: 325
+Summarized using GPT-4o-mini
+Append: ["Une cargaison est bien bloquée au poste de contrôle", pourquoi la pâte à tartiner El Mordjene est-elle  interdite en France ?](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/une-cargaison-est-bien-bloquee-au-poste-de-controle-pourquoi-la-pate-a-tartiner-el-mordjene-est-elle-interdite-en-france-3034619.html)
+Token length: 347
+Summarized using GPT-4o-mini
+Append: [PARIGO. Rentrée 2024 : quoi de neuf doc' ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/parigo-rentree-2024-quoi-de-neuf-doc-3034751.html)
+Token length: 343
+Summarized using GPT-4o-mini
+Append: [L'extraordinaire viaduc de Millau fête ses 20 ans : "c'était une histoire d'hommes" se souvient un ouvrier](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/l-extraordinaire-viaduc-de-millau-fete-ses-20-ans-c-etait-une-histoire-d-hommes-se-souvient-un-ouvrier-3034595.html)
+append_entries: 4
+Finish: 2024-09-20 01:32:29.139449

@@ -2103,3 +2103,9 @@ Summarized using GPT-4o-mini
 Append: [Avec 28% de ventes en moins, le marché de l'immobilier fait un retour en arrière de 10 ans et continue de se dégrader](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/avec-28-de-ventes-en-moins-le-marche-de-l-immobilier-fait-un-retour-en-arriere-de-10-ans-et-continue-de-se-degrader-3033923.html)
 append_entries: 1
 Finish: 2024-09-19 12:48:41.414839
+------------------------------------------------------
+Started: 2024-09-20 01:32:07.802655
+Existing_entries: 145
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-09-20 01:32:08.181686

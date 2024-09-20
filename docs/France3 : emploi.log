@@ -3024,3 +3024,18 @@ Summarized using GPT-4o-mini
 Append: ["Des rémunérations très honorables" : véhicules, gyrophares, lunettes de visée, la Police Nationale recrute dans son atelier de fabrication](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/des-remunerations-tres-honorables-vehicules-gyrophares-lunettes-de-visee-la-police-nationale-recrute-dans-son-atelier-de-fabrication-3033833.html)
 append_entries: 3
 Finish: 2024-09-19 12:48:38.401208
+------------------------------------------------------
+Started: 2024-09-20 01:31:53.486568
+Existing_entries: 452
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Les nouveaux bus électriques n'arrivent pas, la Métropole de Rouen doit racheter des anciens véhicules qui tournent au diesel](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/faute-de-nouveaux-bus-electriques-la-metropole-de-rouen-doit-racheter-des-anciens-qui-tourne-au-diesel-3034847.html)
+Token length: 218
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "On rencontre des personnes aidantes qui sont complètement perdues." Sur la route de la caravane "Tous Aidants"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/reportage-on-rencontre-des-personnes-aidantes-qui-sont-completement-perdues-sur-la-route-de-la-caravane-tous-aidants-3033401.html)
+Token length: 305
+Summarized using GPT-4o-mini
+Append: [Brigitte Macron et Bernard Arnault, le PDG de LVMH, ouvrent une école au Havre : la première dame y sera même professeure !](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/havre/brigitte-macron-et-bernard-arnault-le-pdg-de-lvmh-ouvrent-une-ecole-au-havre-la-premiere-dame-y-sera-meme-professeure-3034556.html)
+append_entries: 3
+Finish: 2024-09-20 01:32:07.725921

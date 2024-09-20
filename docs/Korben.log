@@ -2599,3 +2599,10 @@ Summarized using GPT-4o-mini
 Append: [Taskwarrior – Enfin un bon gestionnaire de tâches (todo list) en ligne de commande](https://korben.info/taskwarrior-gestionnaire-taches-ligne-commande.html)
 append_entries: 2
 Finish: 2024-09-19 12:37:36.214420
+------------------------------------------------------
+Started: 2024-09-20 01:21:52.381608
+Existing_entries: 299
+Fetching from https://korben.info/feed
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Korben

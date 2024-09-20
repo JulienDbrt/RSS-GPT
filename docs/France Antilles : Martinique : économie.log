@@ -3362,3 +3362,15 @@ Summarized using GPT-4o-mini
 Append: [Polluants éternels dans l'eau: plusieurs communes au-dessus des seuils réglementaires, selon des médias](https://www.martinique.franceantilles.fr/actualite/economie/polluants-eternels-dans-leau-plusieurs-communes-au-dessus-des-seuils-reglementaires-selon-des-medias-1003844.php)
 append_entries: 3
 Finish: 2024-09-19 12:45:28.009641
+------------------------------------------------------
+Started: 2024-09-20 01:29:06.679881
+Existing_entries: 578
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Le Hezbollah promet une riposte "terrible" après avoir reçu un coup "sans précédent"](https://www.martinique.franceantilles.fr/actualite/international/liban-le-hezbollah-secoue-par-deux-series-dexplosions-meurtrieres-attribuees-a-israel-1003850.php)
+Token length: 37
+Summarized using GPT-4o-mini
+Append: [La banane de Martinique et de Guadeloupe élue marque préférée des Français](https://www.martinique.franceantilles.fr/actualite/economie/la-banane-de-martinique-et-de-guadeloupe-elue-marque-preferee-des-francais-1003895.php)
+append_entries: 2
+Finish: 2024-09-20 01:29:18.453047

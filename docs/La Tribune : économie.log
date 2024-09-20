@@ -6841,3 +6841,27 @@ Summarized using GPT-4o-mini
 Append: [Entreprises : les délais de paiement se sont encore allongés en 2024](https://www.latribune.fr/economie/france/le-delai-moyen-de-paiement-entre-entreprises-s-est-encore-allonge-en-2024-1006753.html)
 append_entries: 9
 Finish: 2024-09-19 12:52:51.236839
+------------------------------------------------------
+Started: 2024-09-20 01:36:19.181567
+Existing_entries: 1009
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 188
+Summarized using GPT-4o-mini
+Append: [Gouvernement : les propositions de Michel Barnier à Emmanuel Macron](https://www.latribune.fr/economie/politique/gouvernement-les-propositions-de-michel-barnier-a-emmanuel-macron-1006838.html)
+Token length: 255
+Summarized using GPT-4o-mini
+Append: [Tempête Boris : l'UE annonce une aide de 10 milliards d'euros](https://www.latribune.fr/economie/union-europeenne/tempete-boris-l-ue-annonce-une-aide-de-10-milliards-d-euros-1006837.html)
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [OCDE : un accord sur la taxation des géants du numérique devient une « urgence »](https://www.latribune.fr/economie/international/ocde-un-accord-sur-la-taxation-des-geants-du-numerique-devient-une-urgence-1006818.html)
+Token length: 316
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : les gagnants et les perdants des lettres plafonds](https://www.latribune.fr/economie/france/budget-2025-les-gagnants-et-perdants-des-lettres-plafonds-1006817.html)
+Token length: 321
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : ce que révèlent les lettres plafonds](https://www.latribune.fr/economie/france/budget-2025-ce-que-revelent-les-lettres-plafond-1006803.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Abrogation de la réforme des retraites : bataille de milliards en vue](https://www.latribune.fr/economie/france/abrogation-de-la-reforme-des-retraites-bataille-de-milliards-en-vue-1006777.html)
+append_entries: 6
+Finish: 2024-09-20 01:36:49.557208

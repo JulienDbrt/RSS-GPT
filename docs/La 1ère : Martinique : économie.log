@@ -2206,3 +2206,15 @@ Summarized using GPT-4o-mini
 Append: [PHOTOS. Mobilisation contre la vie chère en Martinique : les artisans taxis lancent une opération escargot sur l'autoroute](https://la1ere.francetvinfo.fr/martinique/photos-mobilisation-contre-la-vie-chere-en-martinique-les-artisans-taxis-lancent-une-operation-escargot-sur-l-autoroute-1522844.html)
 append_entries: 1
 Finish: 2024-09-19 12:50:10.354863
+------------------------------------------------------
+Started: 2024-09-20 01:33:54.511145
+Existing_entries: 166
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Mobilisation contre la vie chère en Martinique : les boutiques du centre-ville de Fort-de-France baissent le rideau](https://la1ere.francetvinfo.fr/martinique/mobilisation-contre-la-vie-chere-en-martinique-les-boutiques-du-centre-ville-de-fort-de-france-baissent-le-rideau-1522922.html)
+Token length: 87
+Summarized using GPT-4o-mini
+Append: [Violences urbaines en Martinique : circulation et transports perturbés, horaires du couvre feu... on fait le point](https://la1ere.francetvinfo.fr/martinique/violences-urbaines-en-martinique-circulation-et-transports-perturbes-horaires-du-couvre-feu-on-fait-le-point-1522886.html)
+append_entries: 2
+Finish: 2024-09-20 01:34:02.512576

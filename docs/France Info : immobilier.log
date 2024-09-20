@@ -2096,3 +2096,9 @@ Summarized using GPT-4o-mini
 Append: [Au moins 400 000 mineurs vivent sans domicile fixe dans l'Union européenne, selon des associations](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/au-moins-400-000-mineurs-vivent-sans-domicile-fixe-dans-l-union-europeenne-selon-des-associations_6789901.html)
 append_entries: 1
 Finish: 2024-09-19 12:46:08.132640
+------------------------------------------------------
+Started: 2024-09-20 01:30:07.360978
+Existing_entries: 136
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-09-20 01:30:07.601802

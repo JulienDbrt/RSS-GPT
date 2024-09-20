@@ -2517,3 +2517,12 @@ Summarized using GPT-4o-mini
 Append: [États-Unis: la Chambre des représentants échoue à prolonger le budget, risque de "shutdown"](https://www.bfmtv.com/economie/international/etats-unis-la-chambre-des-representants-echoue-a-prolonger-le-budget-risque-de-shutdown_AD-202409190054.html)
 append_entries: 3
 Finish: 2024-09-19 12:41:32.928654
+------------------------------------------------------
+Started: 2024-09-20 01:25:49.402087
+Existing_entries: 283
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [La Banque mondiale augmente ses financements de l'adaptation au changement climatique](https://www.bfmtv.com/economie/international/la-banque-mondiale-augmente-ses-financements-de-l-adaptation-au-changement-climatique_AD-202409190820.html)
+append_entries: 1
+Finish: 2024-09-20 01:25:55.708257
