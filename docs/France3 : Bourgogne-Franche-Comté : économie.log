@@ -2730,3 +2730,18 @@ Existing_entries: 352
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-09-20 01:31:45.915351
+------------------------------------------------------
+Started: 2024-09-20 12:47:38.010977
+Existing_entries: 352
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 236
+Summarized using GPT-4o-mini
+Append: [Après l'incendie gare de Vesoul, la "panique" des voyageurs, privés de TER et d'informations](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/apres-l-incendie-gare-de-vesoul-la-panique-des-voyageurs-prives-de-ter-et-d-informations-3032831.html)
+Token length: 312
+Summarized using GPT-4o-mini
+Append: [PFAS : “L’eau du Grand Besançon reste potable”, temporise la métropole qui s’engage à rechercher les pollueurs](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/pfas-l-eau-du-grand-besancon-reste-potable-temporise-la-metropole-qui-s-engage-a-rechercher-les-pollueurs-3035063.html)
+Token length: 237
+Summarized using GPT-4o-mini
+Append: [Sans pistes de ski, cette commune du Doubs va-t-elle arrêter d'alimenter en eau la station de Métabief ? Le bras de fer continue](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pontarlier/sans-pistes-de-ski-cette-commune-du-doubs-va-t-elle-arreter-d-alimenter-en-eau-la-station-de-metabief-le-bras-de-fer-continue-3035003.html)
+append_entries: 3
+Finish: 2024-09-20 12:47:50.484091

@@ -2718,3 +2718,9 @@ Summarized using GPT-4o-mini
 Append: [Des salariés sans-papiers du BTP en grève dans les Yvelines : "Nous ne sommes pas déclarés, c'est comme un travail au noir"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/yvelines/des-salaries-sans-papiers-du-btp-en-greve-dans-les-yvelines-nous-ne-sommes-pas-declares-c-est-comme-un-travail-au-noir-3034640.html)
 append_entries: 2
 Finish: 2024-09-20 01:31:13.733966
+------------------------------------------------------
+Started: 2024-09-20 12:47:07.056283
+Existing_entries: 348
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-20 12:47:07.570375

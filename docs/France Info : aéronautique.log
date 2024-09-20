@@ -1982,3 +1982,12 @@ Existing_entries: 96
 Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
 append_entries: 0
 Finish: 2024-09-20 01:30:06.160036
+------------------------------------------------------
+Started: 2024-09-20 12:45:24.262615
+Existing_entries: 96
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [Crash du vol Rio-Paris : Airbus et Air France seront jugés en appel à partir de septembre 2025](https://www.francetvinfo.fr/faits-divers/justice-proces/crash-du-vol-rio-paris-airbus-et-air-france-seront-juges-en-appel-a-partir-de-septembre-2025_6792112.html)
+append_entries: 1
+Finish: 2024-09-20 12:45:31.244197

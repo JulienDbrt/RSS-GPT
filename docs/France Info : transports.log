@@ -3110,3 +3110,15 @@ Existing_entries: 478
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-20 01:30:08.246194
+------------------------------------------------------
+Started: 2024-09-20 12:45:32.445431
+Existing_entries: 478
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 276
+Summarized using GPT-4o-mini
+Append: [VIDEO. Gain de temps, paiement... On a testé le péage sans barrière sur l'axe A13-A14](https://www.francetvinfo.fr/economie/transports/video-entre-30-minutes-et-une-heure-gagnee-on-a-teste-l-a13-et-son-peage-sans-barriere_6790351.html)
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Précarité et mobilité : de plus en plus de Français touchés](https://www.francetvinfo.fr/replay-radio/le-brief-eco/precarite-et-mobilite-de-plus-en-plus-de-francais-touches_6765235.html)
+append_entries: 2
+Finish: 2024-09-20 12:45:42.306424

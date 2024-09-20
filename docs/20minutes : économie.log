@@ -2855,3 +2855,12 @@ Summarized using GPT-4o-mini
 Append: [Martinique : Derrière la colère, un panier de courses beaucoup (beaucoup) plus cher](https://www.20minutes.fr/economie/4110994-20240919-martinique-derriere-colere-panier-courses-beaucoup-beaucoup-plus-cher)
 append_entries: 2
 Finish: 2024-09-20 01:24:57.942648
+------------------------------------------------------
+Started: 2024-09-20 12:39:42.284464
+Existing_entries: 387
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Qui est Iberdrola, ce géant espagnol de l’énergie qui place ses pions en France ?](https://www.20minutes.fr/planete/4111055-20240920-iberdrola-geant-espagnol-energie-place-pions-france)
+append_entries: 1
+Finish: 2024-09-20 12:39:48.583494

@@ -3374,3 +3374,24 @@ Summarized using GPT-4o-mini
 Append: [La banane de Martinique et de Guadeloupe élue marque préférée des Français](https://www.martinique.franceantilles.fr/actualite/economie/la-banane-de-martinique-et-de-guadeloupe-elue-marque-preferee-des-francais-1003895.php)
 append_entries: 2
 Finish: 2024-09-20 01:29:18.453047
+------------------------------------------------------
+Started: 2024-09-20 12:44:18.616123
+Existing_entries: 580
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 240
+Summarized using GPT-4o-mini
+Append: [Ukraine: Von der Leyen à Kiev pour préparer le soutien de l'UE à l'approche de l'hiver](https://www.martinique.franceantilles.fr/actualite/economie/ursula-von-der-leyen-a-kiev-pour-preparer-le-soutien-de-lue-a-lapproche-de-lhiver-1004035.php)
+Token length: 90
+Summarized using GPT-4o-mini
+Append: [« Top Resa nous permet de renforcer nos relations avec les acteurs clés du secteur »](https://www.martinique.franceantilles.fr/actualite/economie/top-resa-nous-permet-de-renforcer-nos-relations-avec-les-acteurs-cles-du-secteur-1003946.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [La délégation du Comité martiniquais du tourisme](https://www.martinique.franceantilles.fr/actualite/economie/la-delegation-du-comite-martiniquais-du-tourisme-1003947.php)
+Token length: 23
+Summarized using GPT-4o-mini
+Append: [Les forces armées aux Antillesouvrent leurs forts](https://www.martinique.franceantilles.fr/actualite/economie/les-forces-armees-aux-antillesouvrent-leurs-forts-1004001.php)
+Token length: 37
+Summarized using GPT-4o-mini
+Append: [La banane de Martinique et de Guadeloupe élue marque préférée des Français](https://www.martinique.franceantilles.fr/actualite/economie/la-banane-de-martinique-et-de-guadeloupe-elue-marque-preferee-des-francais-1004004.php)
+append_entries: 5
+Finish: 2024-09-20 12:44:36.408467

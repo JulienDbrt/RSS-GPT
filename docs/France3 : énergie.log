@@ -2199,3 +2199,21 @@ Summarized using GPT-4o-mini
 Append: [Inondations en Vallée d'Aspe : des équipes d'EDF, spécialisées dans le nucléaire, appelées en renfort](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/inondations-en-vallee-d-aspe-des-equipes-d-edf-specialisees-dans-le-nucleaire-appelees-en-renfort-3034436.html)
 append_entries: 2
 Finish: 2024-09-20 01:31:02.075148
+------------------------------------------------------
+Started: 2024-09-20 12:46:46.602131
+Existing_entries: 175
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 270
+Summarized using GPT-4o-mini
+Append: [Nucléaire : un débat public ouvert sur le projet d'installation de deux nouveaux réacteurs EPR2 à Gravelines](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/dunkerque/nucleaire-un-debat-public-ouvert-sur-le-projet-d-installation-de-deux-nouveaux-reacteurs-epr2-a-gravelines-3035018.html)
+Token length: 276
+Summarized using GPT-4o-mini
+Append: [Ligne à très haute tension : "on sacrifie notre territoire", agriculteurs, habitants et élus vent debout contre le projet](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/ligne-a-tres-haute-tension-on-sacrifie-notre-territoire-agriculteurs-habitants-et-elus-vent-debout-contre-le-projet-3034445.html)
+Token length: 272
+Summarized using GPT-4o-mini
+Append: ["Bonjour, il fait 45° à Toulouse, 47° à Montpellier" : Canal du Midi menacé, vignes sinistrées, neige disparue, voici à quoi pourrait ressembler votre région en 2050](https://france3-regions.francetvinfo.fr/occitanie/bonjour-il-fait-45-a-toulouse-47-a-montpellier-canal-du-midi-menace-vignes-sinistrees-neige-disparue-voici-a-quoi-pourrait-ressembler-votre-region-en-2050-3034562.html)
+Token length: 356
+Summarized using GPT-4o-mini
+Append: [Énergies renouvelables : la Belgique bon élève des panneaux solaires, les Hauts-de-France à la traîne](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/energies-renouvelables-la-belgique-bon-eleve-des-panneaux-solaires-les-hauts-de-france-a-la-traine-3033632.html)
+append_entries: 4
+Finish: 2024-09-20 12:47:06.866297

@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Korben</title>
+<title>Les news de Korben</title>
 <link>https://korben.info</link>
+
+<item>
+<title>Crow Backup - La solution de sauvegarde gratuite et sécurisée entre amis</title>
+<link>https://korben.info/crow-backup-solution-sauvegarde-gratuite-securisee-entre-amis.html</link>
+<guid>https://korben.info/crow-backup-solution-sauvegarde-gratuite-securisee-entre-amis.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: sauvegarde, Crow Backup, données, chiffrées, amis
+
+<br><br>Summary: Crow Backup est une solution de sauvegarde originale qui permet de conserver vos données précieuses sans frais. Cet outil fonctionne en vous connectant avec vos amis; chacun installe l'application et s'ajoute mutuellement comme amis. Grâce à cette application, vous pouvez définir l'espace de stockage à partager, ce qui permet de sauvegarder facilement et de manière sécurisée vos données sur les ordinateurs de vos amis. Toutes les sauvegardes sont chiffrées, garantissant une protection maximale de vos informations. Le processus est automatisé, ce qui signifie que vous n’avez pas à vous soucier des manipulations manuelles. En résumé, Crow Backup offre une méthode innovante et économique pour sauvegarder vos données, en vous permettant d'exploiter l'espace de stockage de vos amis tout en assurant que vos données sont bien sécurisées et facilement accessibles en cas de besoin. Cette solution repose sur la confiance entre amis, rendant le partage non seulement pratique mais aussi personnel et sécurisé. <div>
+<p>Si vous cherchez une solution pour <strong>sauvegarder vos précieuses données</strong> sans vous ruiner, Crow Backup va peut-être pouvoir vous aider. Cet outil de backup a un fonctionnement assez original puisqu&rsquo;il permet de <strong>sauvegarder gratuitement et de manière ultra sécurisées</strong> vos données directement sur les ordinateurs de vos amis.</p>
+<p>Le concept est simple comme bonjour : Vous et votre ami installez l&rsquo;application Crow Backup, puis vous vous ajoutez mutuellement comme amis, vous définissez l&rsquo;espace de stockage que vous voulez partager et hop, vous pouvez commencer à créer des <strong>sauvegardes chiffrées</strong> sur les machines de l&rsquo;un et l&rsquo;autre. C&rsquo;est totalement transparent et automatique.</p>
+]]></content:encoded>
+<pubDate>Fri, 20 Sep 2024 09:00:00 +0200</pubDate>
+<pubDate>Fri, 20 Sep 2024 09:00:00 +0200</pubDate>
+</item>
 
 <item>
 <title>La vallée pique</title>
@@ -11,7 +26,7 @@
 <content:encoded><![CDATA[
 <div> Grenouille, escalade, jeux, aventure, graphismes  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Le jeu vous plonge dans l'aventure d'une grenouille qui doit installer des radios au sommet de montagnes, évoquant ainsi de la nostalgie. Les premières ascensions sont simples, mais chaque montagne présente des défis uniques. Le système d'amélioration permet d'acquérir des équipements au fur et à mesure pour faciliter les ascensions. La jouabilité est fluide, malgré la frustration que peuvent engendrer les chutes, qui ajoutent du piment. L'exploration est encouragée, car il est possible de gravir les montagnes dans l'ordre souhaité et de revenir aux défis plus tard. Des objets à collectionner comme des champignons et des écrous permettent de réparer des structures. Les graphismes évoquent un style rétro agréable, et les musiques ajoutent à l'ambiance zen et apaisante. L'histoire est subtile, liée aux souvenirs du personnage principal et à l'exploration des polaroids. Les quêtes secondaires sont charmantes et légères, enrichissant l'expérience. En résumé, c'est un jeu relaxant mais captivant, idéal pour les amateurs d'escalade et d'exploration. Disponibilité sur plusieurs plateformes. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="563" src="https://korben.info/app/uploads/2024/09/Valley-Peaks.webp" width="1000" /></p>
 <p class="has-text-align-center">— Article rédigé par l’ami <a href="https://remouk.fr/" rel="noreferrer noopener" target="_blank">Remouk</a> <a href="https://danstonchat.com/" rel="noreferrer noopener" target="_blank">(DansTonChat)</a> – Merci à lui —</p>
@@ -89,7 +104,6 @@ Le jeu vous plonge dans l'aventure d'une grenouille qui doit installer des radio
 <figure class="wp-block-image size-full"><img alt="" class="wp-image-161793" height="563" src="https://korben.info/app/uploads/2024/09/Valley-Peaks-4.webp" width="1000" /></figure>
 ]]></content:encoded>
 <pubDate>Thu, 19 Sep 2024 12:13:00 +0000</pubDate>
-<pubDate>Thu, 19 Sep 2024 12:13:00 +0000</pubDate>
 </item>
 <item>
 <title>Taskwarrior – Enfin un bon gestionnaire de tâches (todo list) en ligne de commande</title>
@@ -98,7 +112,7 @@ Le jeu vous plonge dans l'aventure d'une grenouille qui doit installer des radio
 <content:encoded><![CDATA[
 <div> Tâches, Terminal, Priorité, Gestion, Open Source
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Taskwarrior est un gestionnaire de tâches en ligne de commande qui permet de capturer, suivre et gérer facilement votre liste de tâches directement depuis le terminal. Pour commencer, vous pouvez ajouter des tâches avec des priorités, par exemple, "Payer les factures" avec une priorité élevée. En utilisant la commande "next", vous pourrez visualiser vos tâches triées par urgence. Marquez les tâches comme terminées avec la commande "done" et supprimez celles qui ne sont plus nécessaires avec "delete". Une fois les bases acquises, explorez les nombreuses fonctionnalités supplémentaires telles que les échéances, les tags, et les projets pour une meilleure organisation. Vous pouvez également filtrer les tâches selon différents critères, comme les tâches à venir ou en retard. Taskwarrior offre la possibilité de synchroniser vos tâches entre plusieurs appareils via des serveurs Taskserver et propose des interfaces graphiques comme Vit ou TaskWiki pour ceux qui préfèrent un visuel. Il accueille également des outils complémentaires pour importer des tickets et issues de services comme GitHub ou Jira. En somme, Taskwarrior est un outil puissant et flexible pour gérer vos tâches quotidiennes, et le fait qu’il soit open source en fait un excellent choix à explorer. <div>
 <p><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="258" src="https://korben.info/app/uploads/2024/05/SCR-20240504-b4k.webp" width="724" /></p>
 <p>Vous êtes à la recherche d&rsquo;un outil de gestion de tâches bien barbu et efficace pour organiser votre quotidien ?</p>
@@ -204,9 +218,7 @@ No matches.</code></pre>
 <p>Enjoy !</p>
 ]]></content:encoded>
 <pubDate>Thu, 19 Sep 2024 07:00:00 +0000</pubDate>
-<pubDate>Thu, 19 Sep 2024 07:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Crypte au chat</title>
 <link>https://korben.info/test-crypt-custodian-avis.html</link>

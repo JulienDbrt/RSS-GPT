@@ -1897,3 +1897,12 @@ Summarized using GPT-4o-mini
 Append: [ZFE du Grand Paris en 2025 : un automobiliste sur quatre concerné par les restrictions](https://www.latribune.fr/entreprises-finance/industrie/automobile/zfe-du-grand-paris-en-2025-un-automobiliste-sur-quatre-concerne-par-les-restrictions-1006785.html)
 append_entries: 1
 Finish: 2024-09-20 01:36:55.931452
+------------------------------------------------------
+Started: 2024-09-20 12:53:31.145928
+Existing_entries: 61
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+Token length: 479
+Summarized using GPT-4o-mini
+Append: [Le Grand Paris des transports se concrétise enfin](https://www.latribune.fr/entreprises-finance/services/transport-logistique/le-grand-paris-des-transports-se-concretise-enfin-1006859.html)
+append_entries: 1
+Finish: 2024-09-20 12:53:37.094937
