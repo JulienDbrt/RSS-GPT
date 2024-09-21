@@ -3122,3 +3122,12 @@ Summarized using GPT-4o-mini
 Append: [Précarité et mobilité : de plus en plus de Français touchés](https://www.francetvinfo.fr/replay-radio/le-brief-eco/precarite-et-mobilite-de-plus-en-plus-de-francais-touches_6765235.html)
 append_entries: 2
 Finish: 2024-09-20 12:45:42.306424
+------------------------------------------------------
+Started: 2024-09-21 01:24:33.038722
+Existing_entries: 480
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 99
+Summarized using GPT-4o-mini
+Append: [Retards, annulations... La qualité de service des TER reste "dégradée", selon la Cour des comptes](https://www.francetvinfo.fr/economie/transports/sncf/retards-annulations-la-qualite-de-service-des-ter-reste-degradee-selon-la-cour-des-comptes_6792346.html)
+append_entries: 1
+Finish: 2024-09-21 01:24:36.911811

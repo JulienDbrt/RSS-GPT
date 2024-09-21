@@ -2048,3 +2048,15 @@ Summarized using GPT-4o-mini
 Append: [« Une manipulation assez simple » : un homme suspecté d’avoir modifié des centaines de compteurs Linky au préjudice d’Enedis](https://www.leparisien.fr/faits-divers/une-manipulation-assez-simple-un-homme-suspecte-davoir-modifie-des-centaines-de-compteurs-linky-au-prejudice-denedis-20-09-2024-VI3XUG5B2FGZLLIMFDTOYQRLUE.php)
 append_entries: 1
 Finish: 2024-09-20 12:37:30.603347
+------------------------------------------------------
+Started: 2024-09-21 01:18:47.398811
+Existing_entries: 122
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Les trois infos régionales : des Linky trafiqués, plainte contre la faculté de médecine, des Nordistes au gouvernement ?](https://www.lavoixdunord.fr/1504199/article/2024-09-20/les-trois-infos-regionales-des-linky-trafiques-des-nordistes-au-gouvernement)
+Token length: 143
+Summarized using GPT-4o-mini
+Append: [Un homme interpellé à Valenciennes, suspecté d'avoir modifié plus d'une centaine de compteurs Linky - France Bleu](https://www.francebleu.fr/infos/faits-divers-justice/un-homme-interpelle-a-valenciennes-suspecte-d-avoir-modifie-plus-d-une-centaine-de-compteurs-linky-2587668)
+append_entries: 2
+Finish: 2024-09-21 01:18:53.289427

@@ -2864,3 +2864,15 @@ Summarized using GPT-4o-mini
 Append: [Qui est Iberdrola, ce géant espagnol de l’énergie qui place ses pions en France ?](https://www.20minutes.fr/planete/4111055-20240920-iberdrola-geant-espagnol-energie-place-pions-france)
 append_entries: 1
 Finish: 2024-09-20 12:39:48.583494
+------------------------------------------------------
+Started: 2024-09-21 01:21:04.961867
+Existing_entries: 388
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [Jura : Une station de ski contrainte de fermer 30 % de son domaine skiable](https://www.20minutes.fr/economie/4111195-20240920-jura-station-ski-contrainte-fermer-30-domaine-skiable)
+Token length: 166
+Summarized using GPT-4o-mini
+Append: [Crédit pour les travailleurs sans CDI : C’est quoi ce nouveau prêt immobilier conçu pour les actifs précaires ?](https://www.20minutes.fr/economie/4111211-20240920-credit-travailleurs-cdi-quoi-nouveau-pret-immobilier-concu-actifs-precaires)
+append_entries: 2
+Finish: 2024-09-21 01:21:16.477207

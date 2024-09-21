@@ -2717,3 +2717,9 @@ Summarized using GPT-4o-mini
 Append: [Japon: deux TGV se découplent alors qu'ils roulaient à 315 km/h, sans faire de blessés](https://www.bfmtv.com/economie/entreprises/transports/japon-deux-tgv-se-decouplent-en-mouvement-sans-faire-de-blesses_AV-202409200153.html)
 append_entries: 1
 Finish: 2024-09-20 12:43:13.363417
+------------------------------------------------------
+Started: 2024-09-21 01:23:06.363201
+Existing_entries: 349
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-09-21 01:23:06.423217

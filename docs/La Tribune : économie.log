@@ -6892,3 +6892,15 @@ Summarized using GPT-4o-mini
 Append: [La Banque du Japon maintient son taux directeur, la Bourse de Tokyo rassurée](https://www.latribune.fr/economie/international/la-banque-du-japon-maintient-a-0-25-son-taux-directeur-1006840.html)
 append_entries: 7
 Finish: 2024-09-20 12:53:31.109669
+------------------------------------------------------
+Started: 2024-09-21 01:28:18.841364
+Existing_entries: 1007
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 228
+Summarized using GPT-4o-mini
+Append: [Vers un déficit public autour de 6% du PIB en 2024, selon une nouvelle estimation](https://www.latribune.fr/economie/france/vers-un-deficit-public-autour-de-6-du-pib-en-2024-selon-une-nouvelle-estimation-1006913.html)
+Token length: 332
+Summarized using GPT-4o-mini
+Append: [Présidentielle aux États-Unis : l'espoir Kamala Harris décrit par deux Toulousaines expatriées](https://toulouse.latribune.fr/politique/2024-09-20/presidentielle-aux-etats-unis-l-espoir-kamala-harris-decrit-par-deux-toulousaines-expatriees-1006864.html)
+append_entries: 2
+Finish: 2024-09-21 01:28:24.839980

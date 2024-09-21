@@ -2604,3 +2604,12 @@ Summarized using GPT-4o-mini
 Append: [Exaspérés par le trafic dans leur rue, des résidents du Plateau font la guerre aux automobilistes](https://www.journaldemontreal.com/2024/09/19/exasperes-par-le-trafic-dans-leur-rue-des-residents-du-plateau-font-la-guerre-aux-automobilistes)
 append_entries: 3
 Finish: 2024-09-20 12:48:56.199921
+------------------------------------------------------
+Started: 2024-09-21 01:26:08.119107
+Existing_entries: 298
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+Token length: 123
+Summarized using GPT-4o-mini
+Append: [En queue de peloton: l’aéroport Montréal-Trudeau loin de satisfaire ses passagers](https://www.journaldemontreal.com/2024/09/20/en-queue-de-peloton-laeroport-montreal-trudeau-loin-de-satisfaire-ses-passagers)
+append_entries: 1
+Finish: 2024-09-21 01:26:11.165898

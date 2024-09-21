@@ -2727,3 +2727,15 @@ Summarized using GPT-4o-mini
 Append: [Voitures électriques. Hyundai veut augmenter l'autonomie... en baissant la température !](https://www.lalsace.fr/magazine-automobile/2024/09/20/hyundai-veut-augmenter-l-autonomie-en-baissant-la-temperature)
 append_entries: 2
 Finish: 2024-09-20 12:49:07.665257
+------------------------------------------------------
+Started: 2024-09-21 01:26:20.216222
+Existing_entries: 342
+Fetching from https://www.lalsace.fr/magazine-automobile/rss
+Token length: 278
+Summarized using GPT-4o-mini
+Append: [Moto. Quel scooter électrique choisir pour cette rentrée 2024 ?](https://www.lalsace.fr/magazine-automobile/2024/09/20/quel-scooter-electrique-choisir-pour-cette-rentree-2024)
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [Van et Camping Car. Salon du véhicule de loisir : le plein de nouveautés et d’occasions](https://www.lalsace.fr/magazine-automobile/2024/09/20/salon-du-vehicule-de-loisir-le-plein-de-nouveautes-et-d-occasions)
+append_entries: 2
+Finish: 2024-09-21 01:26:28.989266
