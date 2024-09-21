@@ -6263,3 +6263,24 @@ Summarized using GPT-4o-mini
 Append: [Les trois pires communes de Suisse sont romandes!](https://www.blick.ch/fr/news/suisse/decouvrez-le-classement-2024-decouvrez-les-meilleures-et-les-pires-communes-de-suisse-id20152071.html)
 append_entries: 4
 Finish: 2024-09-21 01:18:47.331797
+------------------------------------------------------
+Started: 2024-09-21 12:32:35.761426
+Existing_entries: 1004
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Une villa de Biarritz à vendre à plus de 45 000 euros le mètre carré](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/biarritz/une-villa-de-biarritz-a-vendre-a-plus-de-45-000-euros-le-metre-carre-3035621.html)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Les retraités ont 3 moyens de ne pas payer leur taxe foncière mais ils doivent faire cette démarche](https://www.journaldunet.com/economie/immobilier/1533545-ip1-taxe-fonciere-senior/)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Immobilier. La Campagne à Paris : une maison à vendre dans un des quartiers les plus magiques de la capitale](https://actu.fr/ile-de-france/paris_75056/immobilier-la-campagne-a-paris-une-maison-a-vendre-dans-un-des-lieux-les-plus-magiques-de-la-capitale_61631524.html)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [«Madame, vous n’êtes plus chez vous»: son immeuble est squatté depuis 2 ans et la préfecture refuse d’intervenir](https://immobilier.lefigaro.fr/article/madame-vous-n-etes-plus-chez-vous-son-immeuble-est-squatte-depuis-2-ans-et-la-prefecture-refuse-d-intervenir_5c74cf96-7724-11ef-9dfd-ba6527fd45f6/)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Vivre sur un bateau, combien ça coûte (vraiment) ?](https://www.lepoint.fr/argent/vivre-sur-un-bateau-combien-ca-coute-vraiment-21-09-2024-2570793_29.php)
+append_entries: 5
+Finish: 2024-09-21 12:32:55.584727

@@ -2876,3 +2876,12 @@ Summarized using GPT-4o-mini
 Append: [Crédit pour les travailleurs sans CDI : C’est quoi ce nouveau prêt immobilier conçu pour les actifs précaires ?](https://www.20minutes.fr/economie/4111211-20240920-credit-travailleurs-cdi-quoi-nouveau-pret-immobilier-concu-actifs-precaires)
 append_entries: 2
 Finish: 2024-09-21 01:21:16.477207
+------------------------------------------------------
+Started: 2024-09-21 12:34:51.267008
+Existing_entries: 390
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 165
+Summarized using GPT-4o-mini
+Append: [Déficit public, dette publique, budget… On vous explique tout (avec des féculents)](https://www.20minutes.fr/economie/4111198-20240921-deficit-public-dette-publique-budget-explique-tout-feculents)
+append_entries: 1
+Finish: 2024-09-21 12:34:55.291401

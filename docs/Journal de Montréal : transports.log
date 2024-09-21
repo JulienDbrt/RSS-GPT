@@ -2613,3 +2613,9 @@ Summarized using GPT-4o-mini
 Append: [En queue de peloton: l’aéroport Montréal-Trudeau loin de satisfaire ses passagers](https://www.journaldemontreal.com/2024/09/20/en-queue-de-peloton-laeroport-montreal-trudeau-loin-de-satisfaire-ses-passagers)
 append_entries: 1
 Finish: 2024-09-21 01:26:11.165898
+------------------------------------------------------
+Started: 2024-09-21 12:39:26.378690
+Existing_entries: 299
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-21 12:39:26.470038

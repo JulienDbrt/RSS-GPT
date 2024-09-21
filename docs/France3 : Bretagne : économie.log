@@ -2365,3 +2365,9 @@ Summarized using GPT-4o-mini
 Append: [A Lorient, les usagers du bateau bus mécontents. "On n'a pas entendu parler de ces changements d'horaires, ça remet en cause toute notre organisation".](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/a-lorient-les-usagers-du-bateau-bus-mecontents-on-n-a-pas-entendu-parler-de-ces-changements-d-horaires-ca-remet-en-cause-toute-notre-organisation-3035327.html)
 append_entries: 1
 Finish: 2024-09-21 01:25:24.021472
+------------------------------------------------------
+Started: 2024-09-21 12:38:56.091912
+Existing_entries: 226
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-21 12:38:56.356378

@@ -3410,3 +3410,12 @@ Summarized using GPT-4o-mini
 Append: ["Un monstre": des dizaines de femmes accusent Mohamed Al-Fayed d'agressions sexuelles](https://www.martinique.franceantilles.fr/actualite/economie/un-monstre-des-dizaines-de-femmes-accusent-mohamed-al-fayed-dagressions-sexuelles-1004064.php)
 append_entries: 3
 Finish: 2024-09-21 01:24:02.384115
+------------------------------------------------------
+Started: 2024-09-21 12:36:53.688280
+Existing_entries: 588
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 50
+Summarized using GPT-4o-mini
+Append: [Les avocats des accusatrices d'Al-Fayed ont reçu "plus de 150 nouvelles demandes"](https://www.martinique.franceantilles.fr/actualite/economie/les-avocats-des-accusatrices-dal-fayed-ont-recu-plus-de-150-nouvelles-demandes-1004160.php)
+append_entries: 1
+Finish: 2024-09-21 12:36:56.376370

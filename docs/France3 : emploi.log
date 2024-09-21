@@ -3066,3 +3066,9 @@ Summarized using GPT-4o-mini
 Append: ["Elon Musk a bouleversé le spatial, mais notre entreprise n'est pas en crise" : les salariés de Thales en colère contre la suppression de 1000 emplois](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/elon-musk-a-bouleverse-le-spatial-mais-notre-entreprise-n-est-pas-en-crise-les-salaries-de-thales-en-colere-contre-la-suppression-de-1000-emplois-3033722.html)
 append_entries: 2
 Finish: 2024-09-21 01:25:37.732789
+------------------------------------------------------
+Started: 2024-09-21 12:38:56.611421
+Existing_entries: 460
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-09-21 12:38:57.170547

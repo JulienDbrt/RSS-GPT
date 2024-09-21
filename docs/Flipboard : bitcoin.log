@@ -4597,3 +4597,9 @@ Summarized using GPT-4o-mini
 Append: ["Bitcoin 2024" : y a-t-il un vote crypto aux États-Unis ?](https://www.radiofrance.fr/franceinter/podcasts/la-tech-la-premiere/la-tech-la-premiere-du-jeudi-19-septembre-2024-2278334)
 append_entries: 2
 Finish: 2024-09-21 01:17:42.863516
+------------------------------------------------------
+Started: 2024-09-21 12:31:38.755037
+Existing_entries: 999
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+append_entries: 0
+Finish: 2024-09-21 12:31:40.075014

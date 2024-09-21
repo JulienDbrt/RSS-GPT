@@ -2124,3 +2124,12 @@ Existing_entries: 146
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-09-21 01:25:38.508781
+------------------------------------------------------
+Started: 2024-09-21 12:38:57.250987
+Existing_entries: 146
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [Une villa de Biarritz à vendre à plus de 45 000 euros le mètre carré](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/biarritz/une-villa-de-biarritz-a-vendre-a-plus-de-45-000-euros-le-metre-carre-3035621.html)
+append_entries: 1
+Finish: 2024-09-21 12:39:00.572800
