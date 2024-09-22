@@ -2371,3 +2371,12 @@ Existing_entries: 226
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-09-21 12:38:56.356378
+------------------------------------------------------
+Started: 2024-09-22 01:30:31.435050
+Existing_entries: 226
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 327
+Summarized using GPT-4o-mini
+Append: ["Barnier a perdu les élections et il est Premier ministre" : 400 manifestants à Rennes contre le futur gouvernement](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/barnier-a-perdu-les-elections-et-il-est-premier-ministre-400-manifestants-a-rennes-contre-le-gouvernement-3035915.html)
+append_entries: 1
+Finish: 2024-09-22 01:30:34.336912

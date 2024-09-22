@@ -3140,3 +3140,9 @@ Summarized using GPT-4o-mini
 Append: [Dans les coulisses du fonctionnement d'une ligne de tramway](https://www.francetvinfo.fr/replay-radio/c-est-mon-week-end/dans-les-coulisses-du-fonctionnement-d-une-ligne-de-tramway_6767266.html)
 append_entries: 1
 Finish: 2024-09-21 12:37:26.578099
+------------------------------------------------------
+Started: 2024-09-22 01:30:06.261973
+Existing_entries: 482
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-22 01:30:06.424058

@@ -4603,3 +4603,15 @@ Existing_entries: 999
 Fetching from https://flipboard.com/topic/fr-bitcoin.rss
 append_entries: 0
 Finish: 2024-09-21 12:31:40.075014
+------------------------------------------------------
+Started: 2024-09-22 01:25:28.832392
+Existing_entries: 999
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Cryptoactifs : l'Autorité des marchés financiers (AMF) enregistre une forte hausse des litiges à l'initiative des épargnants](https://www.francetvinfo.fr/replay-radio/nouveau-monde/cryptoactifs-l-autorite-des-marches-fiinanciers-amf-enregistre-une-forte-hausse-des-litiges-a-l-initiative-des-epargnants_6767242.html)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Farokh Sarmad | Le gourou des cryptos préféré de Trump est québécois](https://www.lapresse.ca/actualites/2024-09-20/farokh-sarmad/le-gourou-des-cryptos-prefere-de-trump-est-quebecois.php)
+append_entries: 2
+Finish: 2024-09-22 01:25:37.323768

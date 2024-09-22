@@ -2591,3 +2591,9 @@ Summarized using GPT-4o-mini
 Append: [Le trafic ferroviaire rétabli entre Bruges et Ostende](https://www.lalibre.be/belgique/mobilite/2024/09/21/la-circulation-des-trains-interrompue-entre-bruges-et-ostende-6EPVHJFUGVGUFHBW7ASGU4BLYM/)
 append_entries: 2
 Finish: 2024-09-21 12:41:24.235359
+------------------------------------------------------
+Started: 2024-09-22 01:32:02.646181
+Existing_entries: 319
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-09-22 01:32:03.049973
