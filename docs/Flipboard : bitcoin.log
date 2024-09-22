@@ -4615,3 +4615,12 @@ Summarized using GPT-4o-mini
 Append: [Farokh Sarmad | Le gourou des cryptos préféré de Trump est québécois](https://www.lapresse.ca/actualites/2024-09-20/farokh-sarmad/le-gourou-des-cryptos-prefere-de-trump-est-quebecois.php)
 append_entries: 2
 Finish: 2024-09-22 01:25:37.323768
+------------------------------------------------------
+Started: 2024-09-22 12:32:12.467847
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Est-ce déjà la fin des NFT ?](https://www.01net.com/actualites/est-ce-deja-fin-nft.html)
+append_entries: 1
+Finish: 2024-09-22 12:32:16.461609

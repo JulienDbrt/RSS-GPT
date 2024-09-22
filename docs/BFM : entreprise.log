@@ -5949,3 +5949,18 @@ Summarized using GPT-4o-mini
 Append: [Michel Ohayon reconnaît qu'il était "sans doute présomptueux" d'avoir voulu redresser Camaïeu](https://www.bfmtv.com/economie/entreprises/michel-ohayon-reconnait-qu-il-etait-sans-doute-presomptueux-d-avoir-voulu-redresser-camaieu_AD-202409210307.html)
 append_entries: 1
 Finish: 2024-09-22 01:28:34.222392
+------------------------------------------------------
+Started: 2024-09-22 12:36:04.964228
+Existing_entries: 1001
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 159
+Summarized using GPT-4o-mini
+Append: ["Les agriculteurs ont besoin d'actes": qui est Annie Genevard, nouvelle ministre de l'Agriculture?](https://www.bfmtv.com/economie/entreprises/agriculture/les-agriculteurs-ont-besoin-d-actes-qui-est-annie-genevard-nouvelle-ministre-de-l-agriculture_AD-202409220179.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Maladies, simplification, Egalim 4… ces dossiers chauds qui attendent la ministre de l'Agriculture](https://www.bfmtv.com/economie/entreprises/agriculture/maladies-simplification-egalim-4-ces-dossiers-chauds-qui-attendent-la-ministre-de-l-agriculture_AV-202409220155.html)
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [Avant les bipeurs piégés, ces autres opérations de guerre qu'aucun État n'a revendiquées](https://www.bfmtv.com/economie/entreprises/defense/avant-les-bipeurs-pieges-ces-autres-operations-de-guerre-qu-aucun-etat-n-a-revendiquees_AV-202409220130.html)
+append_entries: 3
+Finish: 2024-09-22 12:36:12.099339

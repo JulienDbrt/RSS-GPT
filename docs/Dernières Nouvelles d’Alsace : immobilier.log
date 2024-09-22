@@ -2279,3 +2279,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Fin du Pinel : le dispositif a-t-il répondu aux attentes ?](https://www.dna.fr/magazine-immobilier/2024/09/21/fin-du-pinel-le-dispositif-a-t-il-repondu-aux-attentes)
 append_entries: 1
 Finish: 2024-09-22 01:29:35.597211
+------------------------------------------------------
+Started: 2024-09-22 12:36:59.411535
+Existing_entries: 187
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-09-22 12:37:00.692254

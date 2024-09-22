@@ -1793,3 +1793,9 @@ Summarized using GPT-4o-mini
 Append: [Cryptoactifs : l'Autorité des marchés financiers (AMF) enregistre une forte hausse des litiges à l'initiative des épargnants](https://www.francetvinfo.fr/replay-radio/nouveau-monde/cryptoactifs-l-autorite-des-marches-fiinanciers-amf-enregistre-une-forte-hausse-des-litiges-a-l-initiative-des-epargnants_6767242.html)
 append_entries: 1
 Finish: 2024-09-22 01:30:05.853291
+------------------------------------------------------
+Started: 2024-09-22 12:37:38.536808
+Existing_entries: 25
+Fetching from https://www.francetvinfo.fr/economie/bitcoin.rss
+append_entries: 0
+Finish: 2024-09-22 12:37:38.659525

@@ -5561,3 +5561,18 @@ Summarized using GPT-4o-mini
 Append: ["L'habitude de la voiture est ancrée" : pour favoriser l'éco-mobilité, la ville de Soissons mise sur le vélo électrique](https://france3-regions.francetvinfo.fr/hauts-de-france/aisne/l-habitude-de-la-voiture-est-ancree-pour-favoriser-l-eco-mobilite-la-ville-de-soissons-mise-sur-le-velo-electrique-3035570.html)
 append_entries: 2
 Finish: 2024-09-22 01:30:47.596692
+------------------------------------------------------
+Started: 2024-09-22 12:39:09.597257
+Existing_entries: 1002
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 328
+Summarized using GPT-4o-mini
+Append: [Une automobiliste perd le contrôle de son véhicule, elle reste piégée plusieurs minutes avant l'arrivée des secours](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/une-automobiliste-perd-le-controle-de-son-vehicule-elle-reste-piegee-plusieurs-minutes-avant-l-arrivee-des-secours-3035960.html)
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Une ligne de bus unique pour visiter les maisons des plus grandes stars](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-ligne-de-bus-unique-pour-visiter-les-maisons-des-plus-grandes-stars-3033770.html)
+Token length: 229
+Summarized using GPT-4o-mini
+Append: [Boom du vélo à Nantes. Le nombre de cyclistes a doublé en 12 ans sur les axes de passage stratégiques](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/boom-du-velo-a-nantes-le-nombre-de-cyclistes-a-double-en-12-ans-sur-les-axes-de-passage-strategiques-3035180.html)
+append_entries: 3
+Finish: 2024-09-22 12:39:18.538749
