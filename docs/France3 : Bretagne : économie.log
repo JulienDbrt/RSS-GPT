@@ -2389,3 +2389,9 @@ Summarized using GPT-4o-mini
 Append: [Le maire de Lorient Fabrice Loher nommé ministre de la mer et de la pêche : une chance pour le secteur ?](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/le-maire-de-lorient-fabrice-loher-nomme-ministre-de-la-mer-et-de-la-peche-une-chance-pour-le-secteur-3035942.html)
 append_entries: 1
 Finish: 2024-09-22 12:39:05.145470
+------------------------------------------------------
+Started: 2024-09-23 01:25:31.534435
+Existing_entries: 228
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-23 01:25:31.770691

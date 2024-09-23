@@ -2251,3 +2251,12 @@ Existing_entries: 169
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-09-22 12:39:44.466061
+------------------------------------------------------
+Started: 2024-09-23 01:26:00.436086
+Existing_entries: 169
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 31
+Summarized using GPT-4o-mini
+Append: [Des escargots ravagent des récoltes entières dans le Nord de la Martinique](https://la1ere.francetvinfo.fr/martinique/des-escargots-ravagent-des-recoltes-entieres-dans-le-nord-de-la-martinique-1523312.html)
+append_entries: 1
+Finish: 2024-09-23 01:26:02.935352

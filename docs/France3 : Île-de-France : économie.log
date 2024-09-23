@@ -2754,3 +2754,9 @@ Summarized using GPT-4o-mini
 Append: [Une ligne de bus unique pour visiter les maisons des plus grandes stars](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-ligne-de-bus-unique-pour-visiter-les-maisons-des-plus-grandes-stars-3033770.html)
 append_entries: 1
 Finish: 2024-09-22 12:38:26.230826
+------------------------------------------------------
+Started: 2024-09-23 01:25:23.626929
+Existing_entries: 350
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-23 01:25:23.897493

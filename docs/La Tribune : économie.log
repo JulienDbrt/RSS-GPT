@@ -6985,3 +6985,18 @@ Summarized using GPT-4o-mini
 Append: [Un diplomate pour redorer l’image de Sciences-Po](https://www.latribune.fr/economie/politique/un-diplomate-pour-redorer-l-image-de-sciences-po-1007058.html)
 append_entries: 10
 Finish: 2024-09-22 12:41:23.627765
+------------------------------------------------------
+Started: 2024-09-23 01:26:39.649603
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 443
+Summarized using GPT-4o-mini
+Append: [La réindustrialisation de la France marque le pas](https://www.latribune.fr/entreprises-finance/industrie/la-reindustrialisation-de-la-france-marque-le-pas-1006922.html)
+Token length: 185
+Summarized using GPT-4o-mini
+Append: [Impôts : « Les plus riches doivent prendre part à l'effort de solidarité » (Michel Barnier)](https://www.latribune.fr/economie/france/impots-les-plus-riches-doivent-prendre-part-a-l-effort-de-solidarite-michel-barnier-1007070.html)
+Token length: 259
+Summarized using GPT-4o-mini
+Append: [Antoine Armand et Laurent Saint-Martin insistent sur « la maîtrise des finances publiques »](https://www.latribune.fr/economie/france/antoine-armand-et-laurent-saint-martin-insistent-sur-la-maitrise-des-finances-publiques-1007074.html)
+append_entries: 3
+Finish: 2024-09-23 01:26:47.905919
