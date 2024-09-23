@@ -4630,3 +4630,15 @@ Existing_entries: 1001
 Fetching from https://flipboard.com/topic/fr-bitcoin.rss
 append_entries: 0
 Finish: 2024-09-23 01:20:37.775059
+------------------------------------------------------
+Started: 2024-09-23 12:35:58.641963
+Existing_entries: 1000
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [USA : en réponse à Donald Trump, Kamala Harris se montre plus pro-crypto que Joe Biden](https://www.capital.fr/crypto/usa-en-reponse-a-donald-trump-kamala-harris-se-montre-plus-pro-crypto-que-joe-biden-1502718)
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Une corrélation évidente entre les crypto-monnaies et Wall Street](https://www.boursier.com/actualites/news/une-correlation-evidente-entre-les-crypto-monnaies-et-wall-street-939067.html)
+append_entries: 2
+Finish: 2024-09-23 12:36:07.360149

@@ -2395,3 +2395,21 @@ Existing_entries: 228
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-09-23 01:25:31.770691
+------------------------------------------------------
+Started: 2024-09-23 12:48:20.541390
+Existing_entries: 228
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [L’appel de scientifiques pour "pêcher moins et mieux"](https://france3-regions.francetvinfo.fr/bretagne/morbihan/l-appel-de-scientifiques-pour-pecher-moins-et-mieux-3036467.html)
+Token length: 286
+Summarized using GPT-4o-mini
+Append: [Fabrice Loher ministre délégué à la Mer et à la Pêche : bonne ou mauvaise nouvelle pour les marins et les océans ?](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/fabrice-loher-ministre-delegue-a-la-mer-et-a-la-peche-bonne-ou-mauvaise-nouvelle-pour-les-marins-et-les-oceans-3036080.html)
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [SNCF : train bloqué, "17 heures de retard", billets remboursés à 150 %... ce que l'on sait après la panne d'un TGV entre Rennes et Montpellier](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/sncf-train-bloque-17-heures-de-retard-billets-rembourses-a-150-ce-que-l-on-sait-apres-la-panne-d-un-tgv-entre-rennes-et-montpellier-3036314.html)
+Token length: 348
+Summarized using GPT-4o-mini
+Append: ["Un agriculteur qui appartient aux actionnaires ?" Le Crédit Agricole veut entrer au capital d'exploitations. Explications et réactions](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/un-agriculteur-qui-appartient-aux-actionnaires-le-credit-agricole-veut-entrer-au-capital-d-exploitations-explications-et-reactions-3035201.html)
+append_entries: 4
+Finish: 2024-09-23 12:48:34.543598

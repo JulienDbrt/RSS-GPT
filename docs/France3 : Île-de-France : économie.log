@@ -2760,3 +2760,15 @@ Existing_entries: 350
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-23 01:25:23.897493
+------------------------------------------------------
+Started: 2024-09-23 12:47:31.278558
+Existing_entries: 350
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 203
+Summarized using GPT-4o-mini
+Append: ["S'il y a des gens qui sont chauds d'écouter deux ou trois vannes, on reste quelques stations" : un comedy club dans le métro](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/s-il-y-a-des-gens-qui-sont-chauds-d-ecouter-deux-ou-trois-vannes-on-reste-quelques-stations-un-comedy-club-dans-le-metro-3036299.html)
+Token length: 135
+Summarized using GPT-4o-mini
+Append: [Ouverture de la Fashion week : la jeune garde au premier rang à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ouverture-de-la-fashion-week-la-jeune-garde-au-premier-rang-a-paris-3036239.html)
+append_entries: 2
+Finish: 2024-09-23 12:47:40.943499

@@ -5585,3 +5585,24 @@ Summarized using GPT-4o-mini
 Append: ["C'est la porte ouverte pour les camions de transit" : ces associations s'opposent aux travaux de la liaison sud d'Auxerre](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/c-est-la-porte-ouverte-pour-les-camions-de-transit-ces-associations-s-opposent-aux-travaux-de-la-liaison-sud-d-auxerre-3036083.html)
 append_entries: 1
 Finish: 2024-09-23 01:25:36.585091
+------------------------------------------------------
+Started: 2024-09-23 12:48:45.255863
+Existing_entries: 1001
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 203
+Summarized using GPT-4o-mini
+Append: ["S'il y a des gens qui sont chauds d'écouter deux ou trois vannes, on reste quelques stations" : un comedy club dans le métro](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/s-il-y-a-des-gens-qui-sont-chauds-d-ecouter-deux-ou-trois-vannes-on-reste-quelques-stations-un-comedy-club-dans-le-metro-3036299.html)
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [SNCF : train bloqué, "17 heures de retard", billets remboursés à 150 %... ce que l'on sait après la panne d'un TGV entre Rennes et Montpellier](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/sncf-train-bloque-17-heures-de-retard-billets-rembourses-a-150-ce-que-l-on-sait-apres-la-panne-d-un-tgv-entre-rennes-et-montpellier-3036314.html)
+Token length: 193
+Summarized using GPT-4o-mini
+Append: [SNCF. Le trafic a repris dans le sens Nantes-Angers après la panne d'alimentation électrique](https://france3-regions.francetvinfo.fr/pays-de-la-loire/maine-et-loire/angers/sncf-panne-d-alimentation-electrique-trafic-interrompu-dans-le-sens-nantes-angers-3036236.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: [Plusieurs TGV à destination de Paris, Bordeaux, Poitiers ou La Rochelle retardés ou à l’arrêt en raison de possibles obstacles sur les rails](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/plusieurs-tgv-a-destination-de-paris-bordeaux-poitiers-ou-la-rochelle-retardes-ou-a-l-arret-en-raison-de-possibles-obstacles-sur-les-rails-3036290.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Grève sur le RER B : deux trains sur trois maintenus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-sur-le-rer-b-deux-trains-sur-trois-maintenus-3036206.html)
+append_entries: 5
+Finish: 2024-09-23 12:49:05.837496

@@ -2830,3 +2830,18 @@ Summarized using GPT-4o-mini
 Append: [Qui est Valérie Létard, la nouvelle ministre du Logement?](https://www.bfmtv.com/immobilier/qui-est-valerie-letard-la-nouvelle-ministre-du-logement_AD-202409220276.html)
 append_entries: 1
 Finish: 2024-09-23 01:24:13.489420
+------------------------------------------------------
+Started: 2024-09-23 12:44:17.148480
+Existing_entries: 386
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 153
+Summarized using GPT-4o-mini
+Append: ["Le logement est au cœur des priorités": Valérie Létard se réjouit d'obtenir un ministère de plein exercice](https://www.bfmtv.com/immobilier/location/le-logement-est-au-c-ur-des-priorites-valerie-letard-se-rejouit-d-obtenir-un-ministere-de-plein-exercice_AV-202409230534.html)
+Token length: 137
+Summarized using GPT-4o-mini
+Append: [Le mouvement HLM interpelle la nouvelle ministre du Logement et appelle à "un sursaut"](https://www.bfmtv.com/immobilier/location/le-mouvement-hlm-interpelle-la-nouvelle-ministre-du-logement-et-appelle-a-un-sursaut_AD-202409230388.html)
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Le promoteur Nexity lance un prêt à taux zéro pour les primo-accédants](https://www.bfmtv.com/immobilier/credit-emprunt/le-promoteur-nexity-lance-un-pret-a-taux-zero-pour-les-primo-accedants_AV-202409230384.html)
+append_entries: 3
+Finish: 2024-09-23 12:44:31.861126

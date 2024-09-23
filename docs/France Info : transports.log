@@ -3158,3 +3158,12 @@ Existing_entries: 482
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-23 01:25:09.356389
+------------------------------------------------------
+Started: 2024-09-23 12:46:36.341582
+Existing_entries: 482
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [SNCF : plus de 300 voyageurs bloqués plus de trois heures dans un TGV Rennes-Montpellier dimanche, jamais arrivés à destination](https://www.francetvinfo.fr/economie/transports/sncf/sncf-plus-de-300-voyageurs-bloques-plus-de-trois-heures-dans-un-tgv-rennes-montpellier-dimanche-jamais-arrives-a-destination_6796876.html)
+append_entries: 1
+Finish: 2024-09-23 12:46:40.482165

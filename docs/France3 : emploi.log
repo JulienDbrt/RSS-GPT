@@ -3096,3 +3096,15 @@ Existing_entries: 462
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-09-23 01:25:32.264707
+------------------------------------------------------
+Started: 2024-09-23 12:48:34.813040
+Existing_entries: 462
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 329
+Summarized using GPT-4o-mini
+Append: ["C'est une superbe vitrine, on veut créer des vocations" : Le 130e congrès national des pompiers a lieu à Mâcon](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/macon/c-est-une-superbe-vitrine-on-veut-creer-des-vocations-le-130e-congres-national-des-pompiers-a-lieu-a-macon-3035870.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [VIDEO. Retrouver un emploi grâce au maraîchage : la belle initiative des Jardins du Coeur qui fêtent leurs 20 ans](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/video-retrouver-un-emploi-grace-au-maraichage-la-belle-initiative-des-jardins-du-coeur-qui-fetent-leurs-20-ans-3035087.html)
+append_entries: 2
+Finish: 2024-09-23 12:48:41.977033
