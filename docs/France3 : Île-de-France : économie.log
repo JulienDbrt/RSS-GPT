@@ -2784,3 +2784,9 @@ Summarized using GPT-4o-mini
 Append: [Vitesse sur le périphérique parisien : "on ne peut le modifier que par décret", affirme un avocat spécialiste](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/vitesse-sur-le-peripherique-parisien-on-ne-peut-le-modifier-que-par-decret-affirme-un-avocat-specialiste-3036698.html)
 append_entries: 2
 Finish: 2024-09-24 01:28:28.974817
+------------------------------------------------------
+Started: 2024-09-24 12:47:47.204405
+Existing_entries: 354
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-24 12:47:47.374155

@@ -2832,3 +2832,15 @@ Summarized using GPT-4o-mini
 Append: [Il va permettre de chauffer 25 000 foyers : comment fonctionne le méthaniseur géant de Cérilly ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/il-va-permettre-de-chauffer-25-000-foyers-comment-fonctionne-le-methaniseur-geant-de-cerilly-3036302.html)
 append_entries: 1
 Finish: 2024-09-24 01:28:55.626575
+------------------------------------------------------
+Started: 2024-09-24 12:48:00.150425
+Existing_entries: 370
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 353
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGES. "11 à 20 personnes dans 10 m²", "des journées sans manger" : dans les vignes de Bourgogne, les conditions de travail cauchemardesques de vendangeurs espagnols](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/beaune/temoignages-11-a-20-personnes-dans-10-m-des-journees-sans-manger-dans-les-vignes-de-bourgogne-les-conditions-de-travail-cauchemardesques-de-vendangeurs-espagnols-3036857.html)
+Token length: 255
+Summarized using GPT-4o-mini
+Append: [CHAUFFAGE. "On est capable de fournir 100 % de la demande", à quel prix sont les pellets ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-est-capable-de-fournir-100-de-la-demande-trois-questions-sur-le-pellet-pour-se-chauffer-cet-hiver-3036749.html)
+append_entries: 2
+Finish: 2024-09-24 12:48:07.134503

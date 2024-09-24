@@ -3173,3 +3173,21 @@ Existing_entries: 483
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-24 01:27:48.673987
+------------------------------------------------------
+Started: 2024-09-24 12:46:37.070689
+Existing_entries: 483
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 179
+Summarized using GPT-4o-mini
+Append: ["Je suis obligée de prendre la voiture, je n'ai pas le choix" : un rapport accable l'état des services publics, notamment en matière de transports](https://www.francetvinfo.fr/economie/transports/je-suis-obligee-de-prendre-la-voiture-je-n-ai-pas-le-choix-un-rapport-accable-l-etat-des-services-publics-notamment-en-matiere-de-transports_6798946.html)
+Token length: 156
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Je vois dans ma tablette ce que le conducteur voit dans sa cabine" : on est monté à bord d'un train autonome, sans conducteur à bord](https://www.francetvinfo.fr/economie/transports/reportage-je-vois-dans-ma-tablette-ce-que-le-conducteur-voit-dans-sa-cabine-on-est-monte-a-bord-d-un-train-autonome-sans-conducteur-a-bord_6798997.html)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Transport aérien : la compagnie Wizz Air propose une offre illimitée de voyages à l'heure du réchauffement climatique](https://www.francetvinfo.fr/replay-radio/d-un-monde-a-l-autre/transport-aerien-wizz-air-propose-une-offre-illimitee-de-voyages-a-l-heure-du-rechauffement-climatique_6772435.html)
+Token length: 159
+Summarized using GPT-4o-mini
+Append: [Transport maritime : l’armateur marseillais CMA-CGM se renforce au Brésil](https://www.francetvinfo.fr/replay-radio/le-brief-eco/transport-maritime-l-armateur-marseillais-cma-cgm-se-renforce-au-bresil_6772450.html)
+append_entries: 4
+Finish: 2024-09-24 12:46:51.080089
