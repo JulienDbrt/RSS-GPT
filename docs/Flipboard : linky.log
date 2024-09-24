@@ -2099,3 +2099,9 @@ Summarized using GPT-4o-mini
 Append: [Compteur Linky : cette faille qui permet de réduire sa facture d’électricité à zéro est utilisée par des milliers de gens](https://www.presse-citron.net/compteur-linky-cette-faille-qui-permet-de-reduire-sa-facture-delectricite-a-zero-est-utilisee-par-des-milliers-de-gens/)
 append_entries: 1
 Finish: 2024-09-23 12:38:14.923227
+------------------------------------------------------
+Started: 2024-09-24 01:22:45.971027
+Existing_entries: 127
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-09-24 01:22:46.362434

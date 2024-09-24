@@ -2772,3 +2772,15 @@ Summarized using GPT-4o-mini
 Append: [Ouverture de la Fashion week : la jeune garde au premier rang à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/ouverture-de-la-fashion-week-la-jeune-garde-au-premier-rang-a-paris-3036239.html)
 append_entries: 2
 Finish: 2024-09-23 12:47:40.943499
+------------------------------------------------------
+Started: 2024-09-24 01:28:22.752210
+Existing_entries: 352
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Deux enfants blessés dans l'accident d'un car scolaire en Seine-et-Marne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-et-marne/deux-enfants-blesses-dans-l-accident-d-un-car-scolaire-en-seine-et-marne-3036752.html)
+Token length: 188
+Summarized using GPT-4o-mini
+Append: [Vitesse sur le périphérique parisien : "on ne peut le modifier que par décret", affirme un avocat spécialiste](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/vitesse-sur-le-peripherique-parisien-on-ne-peut-le-modifier-que-par-decret-affirme-un-avocat-specialiste-3036698.html)
+append_entries: 2
+Finish: 2024-09-24 01:28:28.974817

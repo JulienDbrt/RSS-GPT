@@ -2636,3 +2636,9 @@ Summarized using GPT-4o-mini
 Append: ["Beaucoup de gens refusent un emploi à Bruxelles car l’accès est trop compliqué. Le ring, le matin, c’est catastrophique"](https://www.lalibre.be/economie/conjoncture/2024/09/23/beaucoup-de-gens-refusent-un-emploi-a-bruxelles-car-lacces-est-trop-complique-le-ring-le-matin-cest-catastrophique-MU6ML67AEZAJBKGXQS2CGTW6LI/)
 append_entries: 3
 Finish: 2024-09-23 12:51:33.604834
+------------------------------------------------------
+Started: 2024-09-24 01:31:51.738328
+Existing_entries: 326
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-09-24 01:31:51.947169
