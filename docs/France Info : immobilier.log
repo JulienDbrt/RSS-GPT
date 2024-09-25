@@ -2162,3 +2162,18 @@ Summarized using GPT-4o-mini
 Append: [Crise du logement : la Fédération française du bâtiment "satisfaite" de la nomination d'un ministre de plein exercice](https://www.francetvinfo.fr/economie/immobilier/crise-du-logement-on-est-satisfait-par-la-nomination-d-un-ministere-de-plein-exercice-explique-olivier-salleron-president-de-la-federation-francaise-du-batiment_6798889.html)
 append_entries: 1
 Finish: 2024-09-24 12:46:36.803225
+------------------------------------------------------
+Started: 2024-09-25 01:30:28.537297
+Existing_entries: 138
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 189
+Summarized using GPT-4o-mini
+Append: [Assurances : des tarifs en hausse en 2025](https://www.francetvinfo.fr/economie/assurances-des-tarifs-en-hausse-en-2025_6799885.html)
+Token length: 281
+Summarized using GPT-4o-mini
+Append: [Logements sociaux : les bailleurs manquent d'argent public pour rénover et construire](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/logements-sociaux-les-bailleurs-manquent-d-argent-public-pour-renover-et-construire_6799810.html)
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [Assurances : des tarifs en hausse pour l'automobile et l'habitation](https://www.francetvinfo.fr/economie/assurances-des-tarifs-en-hausse-pour-l-automobile-et-l-habitation_6799345.html)
+append_entries: 3
+Finish: 2024-09-25 01:30:40.451257

@@ -5019,3 +5019,15 @@ Summarized using GPT-4o-mini
 Append: [TÉMOIGNAGES. "11 à 20 personnes dans 10 m²", "des journées sans manger" : dans les vignes de Bourgogne, les conditions de travail cauchemardesques de vendangeurs espagnols](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/beaune/temoignages-11-a-20-personnes-dans-10-m-des-journees-sans-manger-dans-les-vignes-de-bourgogne-les-conditions-de-travail-cauchemardesques-de-vendangeurs-espagnols-3036857.html)
 append_entries: 3
 Finish: 2024-09-24 12:47:59.947852
+------------------------------------------------------
+Started: 2024-09-25 01:31:23.382092
+Existing_entries: 1003
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 248
+Summarized using GPT-4o-mini
+Append: ["Nous attendons encore des concrétisations" : la nouvelle ministre à peine nommée, les agriculteurs déjà mobilisés](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/nous-attendons-encore-des-concretisations-la-nouvelle-ministre-a-peine-nommee-les-agriculteurs-deja-mobilises-3037151.html)
+Token length: 201
+Summarized using GPT-4o-mini
+Append: [Grippe aviaire : un foyer détecté chez un particulier dans le Pas-de-Calais](https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/grippe-aviaire-un-foyer-detecte-chez-un-particulier-dans-le-pas-de-calais-3037130.html)
+append_entries: 2
+Finish: 2024-09-25 01:31:29.036874

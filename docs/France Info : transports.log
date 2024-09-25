@@ -3191,3 +3191,21 @@ Summarized using GPT-4o-mini
 Append: [Transport maritime : l’armateur marseillais CMA-CGM se renforce au Brésil](https://www.francetvinfo.fr/replay-radio/le-brief-eco/transport-maritime-l-armateur-marseillais-cma-cgm-se-renforce-au-bresil_6772450.html)
 append_entries: 4
 Finish: 2024-09-24 12:46:51.080089
+------------------------------------------------------
+Started: 2024-09-25 01:30:40.716173
+Existing_entries: 487
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 132
+Summarized using GPT-4o-mini
+Append: ["On doit pouvoir transporter presque 500 tonnes par bateau" : une start-up et le navigateur François Gabart créent le premier trimaran-cargo](https://www.francetvinfo.fr/economie/transports/on-doit-pouvoir-transporter-presque-500-tonnes-par-bateau-une-start-up-et-le-navigateur-francois-gabart-creent-le-premier-trimaran-cargo_6799687.html)
+Token length: 190
+Summarized using GPT-4o-mini
+Append: [Contre le bruit en Ile-de-France, la région annonce un plan de 100 millions d'euros d'ici 2030](https://www.francetvinfo.fr/economie/transports/contre-le-bruit-en-ile-de-france-la-region-annonce-un-plan-de-100-millions-d-euros-d-ici-2030_6799648.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Le trafic aérien a été momentanément perturbé dans le Sud-Est en raison d'une antenne foudroyée, de nombreux vols retardés ou annulés](https://www.francetvinfo.fr/economie/transports/trafic/le-trafic-aerien-a-ete-momentanement-perturbe-dans-le-sud-est-en-raison-d-une-antenne-foudroyee-de-nombreux-vols-retardes-ou-annules_6799555.html)
+Token length: 71
+Summarized using GPT-4o-mini
+Append: [La SNCF et la Deutsche Bahn s’associent pour créer une nouvelle ligne directe à grande vitesse entre Paris et Berlin](https://www.francetvinfo.fr/economie/transports/la-sncf-et-la-deutsche-bahn-s-associent-pour-creer-une-nouvelle-ligne-directe-a-grande-vitesse-entre-paris-et-berlin_6799324.html)
+append_entries: 4
+Finish: 2024-09-25 01:30:55.248447

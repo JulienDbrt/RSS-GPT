@@ -2942,3 +2942,12 @@ Summarized using GPT-4o-mini
 Append: [Grève chez Boeing : Le groupe américain propose une hausse de 30 % des salaires, les grévistes refusent](https://www.20minutes.fr/economie/4111628-20240924-etats-unis-boeing-peine-satisfaire-syndicat-grevistes)
 append_entries: 1
 Finish: 2024-09-24 12:40:58.896920
+------------------------------------------------------
+Started: 2024-09-25 01:26:37.947259
+Existing_entries: 398
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 229
+Summarized using GPT-4o-mini
+Append: [Royaume-Uni : Le nouveau Premier ministre travailliste veut « reconstruire » son pays, mais « à long terme »](https://www.20minutes.fr/monde/royaume-uni/4111818-20240924-royaume-uni-nouveau-premier-ministre-travailliste-veut-reconstruire-pays-long-terme)
+append_entries: 1
+Finish: 2024-09-25 01:26:41.588517

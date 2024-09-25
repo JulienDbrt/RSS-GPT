@@ -2790,3 +2790,15 @@ Existing_entries: 354
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-24 12:47:47.374155
+------------------------------------------------------
+Started: 2024-09-25 01:31:16.602259
+Existing_entries: 354
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [Un pont ferroviaire remplacé : le trafic des trains perturbés un week-end de la Toussaint en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/un-pont-ferroviaire-remplace-le-trafic-des-trains-perturbes-un-week-end-de-la-toussaint-en-ile-de-france-3037298.html)
+Token length: 349
+Summarized using GPT-4o-mini
+Append: [Paris-Berlin en train à grande vitesse : date de lancement, tarifs, horaires, toutes les infos pratiques à connaître](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/paris-berlin-en-train-a-grande-vitesse-date-de-lancement-tarifs-horaires-toutes-les-infos-pratiques-a-connaitre-3037163.html)
+append_entries: 2
+Finish: 2024-09-25 01:31:22.823217

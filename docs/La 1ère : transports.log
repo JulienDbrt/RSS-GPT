@@ -3002,3 +3002,18 @@ Summarized using GPT-4o-mini
 Append: [Arnaque : un faux compte Facebook de l’aéroport Roland Garros vend des bagages perdus à 2 euros](https://la1ere.francetvinfo.fr/reunion/arnaque-un-faux-compte-facebook-de-l-aeroport-roland-garros-vend-des-bagages-perdus-a-2-euros-1524116.html)
 append_entries: 2
 Finish: 2024-09-24 12:50:10.760579
+------------------------------------------------------
+Started: 2024-09-25 01:33:29.788318
+Existing_entries: 411
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 86
+Summarized using GPT-4o-mini
+Append: [Assemblée : Moetai Brotherson et Edouard Fritch s'écharpent sur le dossier Air Moana](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/assemblee-moetai-brohterson-et-edouard-fritch-s-echarpent-sur-le-dossier-air-moana-1524428.html)
+Token length: 84
+Summarized using GPT-4o-mini
+Append: [New Air Antilles : l'arrêt de son principal avion renforce les turbulences qui affectent les finances de la jeune compagnie](https://la1ere.francetvinfo.fr/guadeloupe/new-air-antilles-l-arret-de-son-principal-avion-renforce-les-turbulences-qui-affectent-les-finances-de-la-jeune-compagnie-1524359.html)
+Token length: 49
+Summarized using GPT-4o-mini
+Append: [Le Jeune France bientôt prêt à reprendre du service](https://la1ere.francetvinfo.fr/saintpierremiquelon/le-jeune-france-bientot-pret-a-reprendre-du-service-1524203.html)
+append_entries: 3
+Finish: 2024-09-25 01:33:39.970855

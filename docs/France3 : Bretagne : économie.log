@@ -2440,3 +2440,9 @@ Summarized using GPT-4o-mini
 Append: ["Sur la santé et les commerces, il va y avoir de quoi faire." Dans cette commune rurale, on attend beaucoup du nouveau gouvernement](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/la-ministre-va-avoir-du-travail-dans-cette-commune-rurale-bretonne-on-attend-beaucoup-du-nouveau-gouvernement-3036821.html)
 append_entries: 3
 Finish: 2024-09-24 12:48:16.611283
+------------------------------------------------------
+Started: 2024-09-25 01:31:35.086031
+Existing_entries: 237
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-09-25 01:31:35.447295
