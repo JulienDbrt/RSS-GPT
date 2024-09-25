@@ -3034,3 +3034,12 @@ Summarized using GPT-4o-mini
 Append: [Banque au Luxembourg: Les licenciements évités dans l’immédiat chez ING](https://www.lessentiel.lu/fr/story/banque-au-luxembourg-les-licenciements-evites-dans-l-immediat-chez-ing-103190849)
 append_entries: 1
 Finish: 2024-09-25 01:32:38.826238
+------------------------------------------------------
+Started: 2024-09-25 12:49:57.493245
+Existing_entries: 480
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [Immobilier au Luxembourg: Le prix des appartements existants a baissé de 15% en deux ans](https://www.lessentiel.lu/fr/story/immobilier-au-luxembourg-le-prix-des-appartements-existants-a-baisse-de-15-en-deux-ans-103191461)
+append_entries: 1
+Finish: 2024-09-25 12:50:02.047141

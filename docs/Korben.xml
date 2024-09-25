@@ -5,18 +5,92 @@
 <link>https://korben.info</link>
 
 <item>
+<title>SpAIware - Un espion dans ChatGPT</title>
+<link>https://korben.info/chatgpt-macos-faille-securite.html</link>
+<guid>https://korben.info/chatgpt-macos-faille-securite.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : espionnage, mémoire, sécurité, ChatGPT, OpenAI
+
+<br><br>Résumé : 
+Une récente vulnérabilité dans l'application ChatGPT sur macOS a soulevé des inquiétudes sur la sécurité des informations personnelles. La fonctionnalité "Mémoire", conçue pour améliorer l'interaction de l'IA avec les utilisateurs en mémorisant leurs préférences, a été exploitée par un chercheur en sécurité. Celui-ci a découvert que des attaquants pouvaient potentiellement injecter des instructions malveillantes dans cette mémoire, ce qui aurait pu permettre l'accès à des informations sensibles. Un scénario d'espionnage redoutable se dessinait alors, où des confidences pouvaient être chuchotées à des oreilles indiscrètes. Heureusement, OpenAI a rapidement réagi en colmatant la brèche, évitant ainsi une catastrophe potentielle. Ce rappel souligne l'importance cruciale de la sécurité dans le développement de technologies avancées telles que l'intelligence artificielle. La protection de la vie privée des utilisateurs doit être une priorité pour garantir une utilisation sûre et fiable des outils d'IA. <div>
+<p>Imaginez un instant que votre fidèle assistant virtuel se transforme en espion sournois, collectant vos moindres confidences pour les chuchoter à des oreilles indiscrètes. Flippant, non ? C&rsquo;est pourtant le scénario catastrophe qui a failli se produire avec l&rsquo;application ChatGPT sur macOS. Mais pas de panique les amis, OpenAI a colmaté la brèche avant que ça ne parte en vrille (Je m&rsquo;auto-spoile mais c&rsquo;est pour respecter votre cardio fragile) !</p>
+<p>Tout a commencé avec la fonctionnalité &ldquo;Mémoire&rdquo; de ChatGPT, censée rendre l&rsquo;IA plus futée en se souvenant de vos préférences, comme si votre aspi robot se rappelait que vous aimiez votre café avec deux sucres. Sauf que dans notre cas, un chercheur en sécurité a découvert qu&rsquo;un attaquant pouvait injecter des instructions malveillantes dans cette mémoire.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 13:07:27 +0200</pubDate>
+<pubDate>Wed, 25 Sep 2024 13:07:27 +0200</pubDate>
+</item>
+<item>
+<title>Winamp ouvre son code source - Mais y'a un hic !</title>
+<link>https://korben.info/winamp-ouvre-son-code-source-vraiment-open-source.html</link>
+<guid>https://korben.info/winamp-ouvre-son-code-source-vraiment-open-source.html</guid>
+<content:encoded><![CDATA[
+<div> Winamp, lecteur multimédia, code source, retour, restrictions
+
+<br><br>Summary: Winamp, le célèbre lecteur multimédia, revient sur le devant de la scène après de nombreuses années d'absence. Lancé en 1997, ce logiciel emblématique a marqué toute une génération de passionnés de technologie. Le retour de Winamp s'accompagne d'une nouvelle importante : le code source pour Windows est désormais disponible publiquement, permettant ainsi aux développeurs d'explorer et de modifier le logiciel. Cependant, cette annonce est teintée de restrictions, ce qui limite les possibilités pour les utilisateurs et les contributeurs. Ce retour représente une évolution significative pour un logiciel qui a su s'imposer dans la culture tech avec son slogan mémorable "It really whips the llama’s ass!" et une interface nostalgique qui évoque des souvenirs pour de nombreux fans. Malgré ces nouvelles limitations, la disponibilité du code source pourrait raviver l'intérêt pour Winamp et encourager une communauté de développeurs à s'impliquer dans son évolution. Ce tournant dans l'histoire de Winamp souligne son caractère intemporel et son rôle important dans l'univers des lecteurs multimédias. <div>
+<p>Winamp, le lecteur multimédia légendaire qui a bercé toute une génération de geeks dont je fais partie, a fait son grand retour hier, mais pas tout à fait comme on pourrait l&rsquo;imaginer !</p>
+<p>Le code source pour Windows est maintenant disponible publiquement (youpi)&hellip; mais malheureusement avec des restrictions (plus youpi). Cette décision marque un tournant pour ce logiciel emblématique lancé en 1997, qui au fil des années est devenu un véritable monument de la culture tech, avec son fameux slogan &ldquo;<em>It really whips the llama&rsquo;s ass!</em>&rdquo; et son interface d&rsquo;une autre époque.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 10:23:52 +0200</pubDate>
+<pubDate>Wed, 25 Sep 2024 10:23:52 +0200</pubDate>
+</item>
+<item>
+<title>Swapy - Le glisser-déposer pour vos layouts JavaScript</title>
+<link>https://korben.info/swapy-glisser-deposer-layouts-javascript.html</link>
+<guid>https://korben.info/swapy-glisser-deposer-layouts-javascript.html</guid>
+<content:encoded><![CDATA[
+<div> Réorganisation, outils, layout CSS, interactif, composants
+
+<br><br>Summary: Il existe un nouvel outil qui simplifie la réorganisation des éléments sur les pages web, transformant n'importe quel layout CSS en un environnement interactif. Cet outil permet de déplacer les composants facilement, comme dans un jeu de Tetris. Grâce à cette solution, les utilisateurs peuvent réarranger les éléments d'une page web de manière intuitive et sans avoir besoin de scripts complexes ou de bibliothèques lourdes. Cela est particulièrement utile pour le développement de tableaux de bord, de kanbans et d'autres interfaces similaires. L'outil rend les composants aussi flexibles que de la pâte à modeler, ce qui offre une grande liberté de personnalisation aux utilisateurs. Ils peuvent ainsi adapter l'apparence et l'organisation des éléments selon leurs préférences, ce qui améliore l'expérience utilisateur. En facilitant la manipulation des éléments, cet outil constitue une avancée significative pour les développeurs souhaitant optimiser la présentation de leurs projets web. En résumé, c'est un excellent moyen de gagner du temps tout en offrant une interface dynamique et personnalisable. <div>
+<p>Vous en avez marre de vous arracher les cheveux à chaque fois que vous essayez de réorganiser des éléments sur une page web ? Alors voici un outil qui va vous faire gagner un temps fou : <a href="https://swapy.tahazsh.com/"><strong>Swapy</strong></a>. Ce petit projet transforme n&rsquo;importe quel layout css en un terrain de jeu interactif où tout se déplace aussi facilement qu&rsquo;un Tetris bien huilé.</p>
+<p>Ça va vous permettre de rendre les composants d&rsquo;une page web aussi malléables que de la pâte à modeler, sans avoir à vous plonger dans des scripts alambiqués ou des librairies plus lourdes que moi. Les utilisateurs pourront alors <strong>réarranger les éléments de la page</strong> comme bon leur semble. C&rsquo;est top par exemple si vous développez des tableaux de bord, des kanban ou ce genre de trucs.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 09:29:22 +0200</pubDate>
+<pubDate>Wed, 25 Sep 2024 09:29:22 +0200</pubDate>
+</item>
+<item>
+<title>Monocle - l'IA qui analyse vos binaires à la recherche de failles (ou de tout ce que vous voulez)</title>
+<link>https://korben.info/monocle-ia-recherche-binaire-analyse-code.html</link>
+<guid>https://korben.info/monocle-ia-recherche-binaire-analyse-code.html</guid>
+<content:encoded><![CDATA[
+<div> Monocle, analyse de binaires, IA, sécurité, reverse engineering  
+
+<br><br>Summary:  
+Monocle est un outil d’analyse de binaires qui utilise l’intelligence artificielle pour examiner des logiciels à la recherche de failles de sécurité, de code suspect ou de fonctionnalités cachées. Ce qui le rend particulièrement attrayant, c’est qu’il permet d’éviter les étapes souvent fastidieuses du reverse engineering. Au lieu de cela, les utilisateurs peuvent interagir avec Monocle en utilisant un langage naturel, comme s’ils parlaient à un ami. Par exemple, vous pouvez simplement lui demander : “Hey mon copain, tu peux vérifier ce binaire et me dire s’il y a du code d’authentification suspect dedans ?”. Grâce à cette approche accessible, même ceux qui n’ont pas une formation technique poussée peuvent profiter de ses analyses. Monocle simplifie ainsi la détection de vulnérabilités et offre une méthode conviviale pour explorer des binaires complexes, rendant les outils d’analyse plus accessibles à un public plus large. En somme, cet outil combine la puissance de l’IA avec une interface utilisateur intuitive, révolutionnant ainsi l'analyse de sécurité pour les développeurs et les chercheurs. <div>
+<p>Et salut !</p>
+<p>Aujourd&rsquo;hui, je vous présente <strong>Monocle</strong>, un outil d&rsquo;analyse de binaires plutôt cool car il utilise l&rsquo;IA pour décortiquer le logiciel que vous lui soumettez afin d&rsquo;y trouver des failles de sécurité, du code louche ou des fonctionnalités bien planquées. Et tout ça, sans même avoir à se taper la phase de reverse engineering qui peut être bien fastidieuse, parfois.</p>
+<p>Le plus cool, c&rsquo;est que vous pouvez interroger Monocle en langage naturel, comme si vous discutiez avec un pote&hellip; Pas besoin de sortir de l&rsquo;école 42 pour comprendre comment ça marche, vous lui demandez gentiment &ldquo;Hey mon copain, tu peux vérifier ce binaire et me dire s&rsquo;il y a du code d&rsquo;authentification suspect dedans ?&rdquo; et hop, il va analyser tout ça et vous répondre direct.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 09:00:00 +0200</pubDate>
+<pubDate>Wed, 25 Sep 2024 09:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Il connecte sa TI-84 à Internet</title>
+<link>https://korben.info/connexion-ti84-internet-chromalock.html</link>
+<guid>https://korben.info/connexion-ti84-internet-chromalock.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : TI-84, Internet, ChromaLock, calculatrice, hacking
+
+<br><br>Summary: 
+Un passionné nommé ChromaLock a réussi un exploit impressionnant en connectant une TI-84 à Internet, défiant l'idée reçue selon laquelle cette calculatrice ne serait bonne qu'à résoudre des équations et jouer à Snake. Ce projet rappelle les innovations des hackers des années 90, où les limites technologiques étaient constamment repoussées. ChromaLock a donc démontré que même des appareils considérés comme obsolètes peuvent recevoir une nouvelle vie grâce à des techniques de hacking ingénieuses. Ce type de projet met en lumière la curiosité et la créativité des bricoleurs modernes, qui cherchent à transcender les fonctionnalités d'origine des appareils qu'ils possèdent. En reliant la TI-84 à Internet, il a non seulement élargi les possibilités de la calculatrice, mais il a également ouvert la porte à de nouvelles applications et à un usage ludique de cet outil emblématique. Ainsi, la TI-84, loin d'être démodée, prouve qu'elle peut encore surprendre et s'adapter à notre époque numérique. Ces initiatives sont un excellent exemple de comment la technologie peut être réinventée par des utilisateurs passionnés. <div>
+<p>Vous pensiez que votre bonne vieille <strong>TI-84</strong> n&rsquo;était bonne qu&rsquo;à résoudre des équations et jouer à Snake pendant les cours de maths ? Hé bien vous allez être surpris puisqu&rsquo;un bidouilleur de génie surnommé <strong><a href="https://www.patreon.com/chromalock/about">ChromaLock</a></strong> vient de prouver que cette calculatrice emblématique en a encore sous le pied.</p>
+<p>Notre ami ChromaLock (que je ne connais pas) s&rsquo;est lancé un défi digne des meilleurs hackers des années 90 : <strong>connecter sa TI-84 à Internet</strong> !</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Sep 2024 08:11:47 +0200</pubDate>
+<pubDate>Wed, 25 Sep 2024 08:11:47 +0200</pubDate>
+</item>
+
+<item>
 <title>Comment l'IA dévoile de nouveaux géoglyphes de Nazca</title>
 <link>https://korben.info/ia-devoile-nouveaux-geoglyphes-nazca.html</link>
 <guid>https://korben.info/ia-devoile-nouveaux-geoglyphes-nazca.html</guid>
 <content:encoded><![CDATA[
 <div> Mots-clés : archéologie, IA, lignes de Nazca, géoglyphes, découvertes  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 L'archéologie entre dans une nouvelle ère avec l'avènement de l'IA, qui facilite la découverte de trésors enfouis depuis des millénaires. Les célèbres lignes de Nazca, des géoglyphes gigantesques qui ont longtemps intrigué les chercheurs, viennent récemment de révéler de nouveaux secrets grâce à cette technologie avancée. Des centaines de nouvelles figures ont été identifiées, certaines mesurant plus de 10 mètres de long. Cette avancée représente un véritable "speedrun" archéologique, où l'IA permet de traiter et d'analyser des données à une vitesse sans précédent. Même des figures qui semblaient perdues dans le désert ont été redécouvertes, offrant aux chercheurs des perspectives inédites sur ces œuvres anciennes. L'utilisation de l'intelligence artificielle ouvre ainsi la voie à des recherches plus approfondies et plus efficaces, promettant de transformer notre compréhension de l'archéologie. De ce fait, l'IA s'inscrit comme un outil incontournable dans l'exploration des mystères que recèle notre passé, rappelant que même les héros de fiction comme Indiana Jones auraient bénéficié de ces avancées modernes pour percer des secrets millénaires. <div>
 <p>L&rsquo;archéologie entre dans une nouvelle ère, mes amis ! Même <strong>Indiana Jones</strong> aurait été content d&rsquo;avoir eu accès à cette <strong>IA</strong> pour dénicher tous ces trésors enfouis depuis des millénaires. Oui, je sais que c&rsquo;est un personnage de fiction mais c&rsquo;est le seul archéologue que je connais de nom.</p>
 <p>Vous connaissez sans doute les célèbres <strong>lignes de Nazca</strong>, ces géoglyphes gigantesques qui ont fait tourner en bourrique les chercheurs depuis des décennies. Et bien celles-ci viennent de livrer de nouveaux secrets grâce à l&rsquo;IA. Des <strong>centaines de nouvelles figures</strong>, certaines mesurant plus de 10 mètres de long, ont été découvertes en un temps record. Un bon gros speedrun d&rsquo;archéologue !</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Sep 2024 20:10:25 +0200</pubDate>
 <pubDate>Tue, 24 Sep 2024 20:10:25 +0200</pubDate>
 </item>
 <item>
@@ -26,11 +100,10 @@ L'archéologie entre dans une nouvelle ère avec l'avènement de l'IA, qui facil
 <content:encoded><![CDATA[
 <div> Mots-clés : recrutement, CV, script Python, IA, efficacité
 
-<br><br>Summary: Vous en avez assez de passer des heures à éplucher des CVs ? Découvrez un outil révolutionnaire qui va transformer votre manière de recruter. Il s’agit d’un script Python open source, utilisant l’intelligence artificielle pour analyser et matcher les CVs reçus avec les offres d’emploi que vous proposez. Grâce à cet outil, il vous suffit de déposer une pile de CVs dans un dossier et de décrire le poste à pourvoir. En un temps record, le script traite toutes ces informations et fournit un classement des candidats avec des scores de correspondance précis. Cela vous permet de gagner un temps précieux tout en identifiant les profils les plus adaptés à vos besoins. Mais ce n’est pas tout ! Le système génère également des emails personnalisés pour répondre automatiquement aux postulants, vous permettant de vous démarquer en tant que recruteur réactif. En somme, cet outil combine efficacité et professionnalisme, facilitant grandement le processus de sélection des candidats et améliorant l’expérience des candidats. Ne laissez plus le tri des CVs vous freiner et utilisez cette technologie pour optimiser votre recrutement ! <div>
+<br /><br />Summary: Vous en avez assez de passer des heures à éplucher des CVs ? Découvrez un outil révolutionnaire qui va transformer votre manière de recruter. Il s’agit d’un script Python open source, utilisant l’intelligence artificielle pour analyser et matcher les CVs reçus avec les offres d’emploi que vous proposez. Grâce à cet outil, il vous suffit de déposer une pile de CVs dans un dossier et de décrire le poste à pourvoir. En un temps record, le script traite toutes ces informations et fournit un classement des candidats avec des scores de correspondance précis. Cela vous permet de gagner un temps précieux tout en identifiant les profils les plus adaptés à vos besoins. Mais ce n’est pas tout ! Le système génère également des emails personnalisés pour répondre automatiquement aux postulants, vous permettant de vous démarquer en tant que recruteur réactif. En somme, cet outil combine efficacité et professionnalisme, facilitant grandement le processus de sélection des candidats et améliorant l’expérience des candidats. Ne laissez plus le tri des CVs vous freiner et utilisez cette technologie pour optimiser votre recrutement ! <div>
 <p>Vous en avez marre de passer des heures à éplucher des CVs ? Bonne nouvelle les amis, j&rsquo;ai déniché un outil qui va modifier votre manière de recruter !</p>
 <p>On va parler de <a href="https://github.com/sliday/resume-job-matcher"><strong>Resume Job Matcher</strong></a>, un script Python open source qui utilise l&rsquo;<strong>IA</strong> pour matcher automatiquement les CVs que vous recevez avec vos offres d&rsquo;emploi. Comme ça, vous balancez une pile de CVs dans un dossier, vous décrivez le poste que vous proposez, et pouf ! Le script analyse tout ça en un temps record et vous sort un <strong>classement des meilleurs candidats</strong> avec des scores de correspondance précis. Le petit plus qui tue ? Il génère même des <strong>emails personnalisés</strong> pour répondre aux postulants. De quoi passer pour le recruteur le plus réactif de la galaxie !</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Sep 2024 16:02:14 +0200</pubDate>
 <pubDate>Tue, 24 Sep 2024 16:02:14 +0200</pubDate>
 </item>
 <item>
@@ -40,13 +113,12 @@ L'archéologie entre dans une nouvelle ère avec l'avènement de l'IA, qui facil
 <content:encoded><![CDATA[
 <div> mails temporaires, adresse jetable, messages, service, Korben.info  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Avez-vous déjà été frustré de devoir fournir votre adresse email réelle chaque fois que vous voulez télécharger un fichier ou créer un compte sur un site web ? Arthur, un lecteur français basé à Québec de Korben.info, a développé une solution idéale : un service d'email temporaire innovant. Ce service vous permet de générer une adresse jetable en seulement deux clics. De plus, vous avez la possibilité de la personnaliser pour qu'elle semble plus crédible, évitant ainsi les adresses peu convaincantes et douteuses. L'aspect le plus révolutionnaire de ce service est qu'il permet non seulement de recevoir des messages, mais aussi d'en envoyer depuis cette adresse temporaire. Cela constitue une avancée significative dans le domaine des emails jetables, rendant ce service encore plus pratique et fonctionnel. Grâce à cette innovation, vous pouvez naviguer sur Internet de manière plus sécurisée et anonyme, tout en préservant votre vie privée, sans avoir à sacrifier la fonctionnalité. En somme, cette création d'Arthur répond parfaitement aux besoins d'une utilisation plus sûre et efficace de l'email sur le web. <div>
 <p>Vous en avez marre de donner votre vraie adresse mail à chaque fois que vous voulez télécharger un fichier ou vous inscrire sur un site ?</p>
 <p>Ça tombe bien puisqu&rsquo;un lecteur français installé au Quebec de Korben.info, Arthur, a développé un service d&rsquo;email temporaire qui déchire sa race : <a href="https://www.tempmail.us.com/fr/"><strong>tempmail.us.com</strong></a>.</p>
 <p>Vous générez une adresse jetable en 2 clics, vous pouvez même la personnaliser pour qu&rsquo;elle ait l&rsquo;air crédible (fini les trucs du genre <a href="mailto:xX_d4rk_s4suk3_Xx@tempmail.com">xX_d4rk_s4suk3_Xx@tempmail.com</a>), et le meilleur&hellip; vous pouvez aussi envoyer des messages depuis cette adresse ce qui est une petite innovation dans le monde des mails jetables !</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Sep 2024 15:45:57 +0200</pubDate>
 <pubDate>Tue, 24 Sep 2024 15:45:57 +0200</pubDate>
 </item>
 <item>
@@ -56,11 +128,10 @@ Avez-vous déjà été frustré de devoir fournir votre adresse email réelle ch
 <content:encoded><![CDATA[
 <div> Mots-clés : Enclosed, open source, protection, données sensibles, fonctionnalités
 
-<br><br>Summary: Enclosed est un outil open source innovant qui se présente comme une alternative améliorée à PrivateBin. Grâce à son interface attrayante, comparable à celle de l’iPhone 16 Pro Max, Enclosed offre une expérience utilisateur agréable. Cet outil est conçu pour protéger vos données sensibles, ce qui en fait un atout majeur dans votre arsenal technique. Ses caractéristiques avancées permettent une sécurité accrue de vos informations, rendant la gestion et le partage de données plus sûrs. Enclosed se distingue par sa simplicité d'utilisation, tout en intégrant des fonctionnalités très intéressantes qui répondent aux besoins des utilisateurs soucieux de leurs données. En adoptant Enclosed, vous pouvez ainsi renforcer la protection de vos informations personnelles et professionnelles, tout en bénéficiant d'un design soigné et intuitif. Il mérite vraiment une place de choix parmi vos outils de protection des données, surtout dans notre ère numérique où la sécurité est primordiale. En résumé, Enclosed allie esthétique, efficacité et sécurité, ce qui en fait un outil incontournable pour quiconque souhaite protéger ses données sensibles. <div>
+<br /><br />Summary: Enclosed est un outil open source innovant qui se présente comme une alternative améliorée à PrivateBin. Grâce à son interface attrayante, comparable à celle de l’iPhone 16 Pro Max, Enclosed offre une expérience utilisateur agréable. Cet outil est conçu pour protéger vos données sensibles, ce qui en fait un atout majeur dans votre arsenal technique. Ses caractéristiques avancées permettent une sécurité accrue de vos informations, rendant la gestion et le partage de données plus sûrs. Enclosed se distingue par sa simplicité d'utilisation, tout en intégrant des fonctionnalités très intéressantes qui répondent aux besoins des utilisateurs soucieux de leurs données. En adoptant Enclosed, vous pouvez ainsi renforcer la protection de vos informations personnelles et professionnelles, tout en bénéficiant d'un design soigné et intuitif. Il mérite vraiment une place de choix parmi vos outils de protection des données, surtout dans notre ère numérique où la sécurité est primordiale. En résumé, Enclosed allie esthétique, efficacité et sécurité, ce qui en fait un outil incontournable pour quiconque souhaite protéger ses données sensibles. <div>
 <p>Grâce à Corentin, un lecteur aussi brillant que le crane d&rsquo;Eric Ciotti, j&rsquo;ai découvert <strong><a href="https://enclosed.cc">Enclosed</a></strong>, un outil open source qui pourrait bien devenir votre meilleur allié pour protéger vos données sensibles. Comme PrivateBin mais sous stéroïdes, avec une interface aussi jolie que celle de mon iPhone 16 Pro Max qui arrive demain par la Poste (ouaiiiiis) et des fonctionnalités très cool !</p>
 <p>Alors, pourquoi Enclosed mérite-t-il une place de choix dans votre arsenal technique ?</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Sep 2024 15:16:09 +0200</pubDate>
 <pubDate>Tue, 24 Sep 2024 15:16:09 +0200</pubDate>
 </item>
 <item>
@@ -70,14 +141,12 @@ Avez-vous déjà été frustré de devoir fournir votre adresse email réelle ch
 <content:encoded><![CDATA[
 <div> mags, open source, Simple Vector DB, C, vecteurs
 
-<br><br>Summary: Ce projet open source, Simple Vector DB, est une base de données vectorielle performante, écrite en C. Conçu par Philippe, un passionné de technologie et lecteur assidu de Korben.info, il s'adresse à ceux qui travaillent dans le machine learning et la data science. La base de données est optimisée pour fonctionner sur une grande variété de machines, ce qui la rend accessible à un large public. Les utilisateurs peuvent manipuler des vecteurs de haute dimension, ce qui est essentiel pour diverses applications en calcul scientifique. Ce projet est donc un outil précieux pour ceux qui cherchent à améliorer leurs projets tech tout en explorant les dernières avancées du domaine. La sensation d'excitation évoquée dans l'article rappelle les découvertes innocentes de la jeunesse, comme dénicher un vieux magazine dans un buraliste. Simple Vector DB pourrait bien éveiller cette nostalgie tout en répondant à des besoins modernes en données et en performance. En somme, c'est une initiative qui fusionne passion et innovation, offrant une ressource utile pour les curieux et les professionnels de l'informatique. <div>
+<br /><br />Summary: Ce projet open source, Simple Vector DB, est une base de données vectorielle performante, écrite en C. Conçu par Philippe, un passionné de technologie et lecteur assidu de Korben.info, il s'adresse à ceux qui travaillent dans le machine learning et la data science. La base de données est optimisée pour fonctionner sur une grande variété de machines, ce qui la rend accessible à un large public. Les utilisateurs peuvent manipuler des vecteurs de haute dimension, ce qui est essentiel pour diverses applications en calcul scientifique. Ce projet est donc un outil précieux pour ceux qui cherchent à améliorer leurs projets tech tout en explorant les dernières avancées du domaine. La sensation d'excitation évoquée dans l'article rappelle les découvertes innocentes de la jeunesse, comme dénicher un vieux magazine dans un buraliste. Simple Vector DB pourrait bien éveiller cette nostalgie tout en répondant à des besoins modernes en données et en performance. En somme, c'est une initiative qui fusionne passion et innovation, offrant une ressource utile pour les curieux et les professionnels de l'informatique. <div>
 <p>Vous vous souvenez de cette sensation d&rsquo;excitation quand vous découvriez le rayon magazines le plus haut de votre buraliste ? Eh bien, accrochez-vous, car aujourd&rsquo;hui on va plonger dans un projet open source qui risque de faire vibrer votre fibre geek comme la couv&rsquo; avec Marie Chantal : <strong>Simple Vector DB</strong>.</p>
 <p>Imaginez une <strong>base de données vectorielle</strong> taillée comme Tibo In Shape pour la performance, écrite en <strong>C pur jus</strong>, et capable de tourner sur à peu près n&rsquo;importe quelle machine. Son créateur, Philippe, un fidèle lecteur de Korben.info, l&rsquo;a conçue pour répondre à tous vos besoins en manipulation de <strong>vecteurs de haute dimension</strong> (ne me demandez pas ce que c&rsquo;est ^^). Que vous soyez fan de <strong>machine learning</strong>, mordu de <strong>data science</strong> ou simplement curieux des dernières avancées en calcul scientifique, ce projet a de quoi vous titiller le neurone.</p>
 ]]></content:encoded>
 <pubDate>Tue, 24 Sep 2024 14:49:17 +0200</pubDate>
-<pubDate>Tue, 24 Sep 2024 14:49:17 +0200</pubDate>
 </item>
-
 <item>
 <title>Mon site est devenu une fusée grâce à o2switch</title>
 <link>https://korben.info/mon-site-est-devenu-une-fusee-grace-a-o2switch.html</link>
