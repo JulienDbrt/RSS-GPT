@@ -3539,3 +3539,18 @@ Summarized using GPT-4o-mini
 Append: [En Martinique, les prix à la consommation ont augmenté en août](https://www.martinique.franceantilles.fr/actualite/economie/en-martinique-les-prix-a-la-consommation-ont-augmente-en-aout-1004695.php)
 append_entries: 3
 Finish: 2024-09-26 01:29:13.466337
+------------------------------------------------------
+Started: 2024-09-26 12:46:09.833090
+Existing_entries: 611
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 108
+Summarized using GPT-4o-mini
+Append: [13 000 personnes en attente d'un logement social](https://www.martinique.franceantilles.fr/actualite/economie/13-000-personnes-en-attente-dun-logement-social-1004795.php)
+Token length: 66
+Summarized using GPT-4o-mini
+Append: [Opioïdes: de nouvelles mesures pour tenter de réduire les abus](https://www.martinique.franceantilles.fr/actualite/economie/opioides-de-nouvelles-mesures-pour-tenter-de-reduire-les-abus-1004829.php)
+Token length: 244
+Summarized using GPT-4o-mini
+Append: [Tramadol et codéine bientôt prescrits sur ordonnance infalsifiable](https://www.martinique.franceantilles.fr/actualite/economie/tramadol-et-codeine-bientot-prescrits-sur-ordonnance-infalsifiable-1004828.php)
+append_entries: 3
+Finish: 2024-09-26 12:46:21.110603

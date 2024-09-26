@@ -2643,3 +2643,15 @@ Summarized using GPT-4o-mini
 Append: [États-Unis: le Congrès évite le "shutdown" avant l'élection présidentielle de novembre](https://www.bfmtv.com/economie/international/etats-unis-le-congres-evite-le-shutdown-avant-l-election-presidentielle-de-novembre_AD-202409251068.html)
 append_entries: 1
 Finish: 2024-09-26 01:26:03.636165
+------------------------------------------------------
+Started: 2024-09-26 12:42:49.068703
+Existing_entries: 299
+Fetching from https://www.bfmtv.com/rss/economie/international/
+Token length: 172
+Summarized using GPT-4o-mini
+Append: ["Il ne peut pas y avoir de guerre": Emmanuel Macron appelle à cesser "l'escalade" au Liban](https://www.bfmtv.com/economie/international/il-ne-peut-pas-y-avoir-de-guerre-emmanuel-macron-appelle-a-cesser-l-escalade-au-liban_AV-202409260262.html)
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [Pékin envisage d'injecter près de 130 milliards d'euros pour relancer l'économie](https://www.bfmtv.com/economie/international/pekin-envisage-d-injecter-pres-de-130-milliards-d-euros-pour-relancer-l-economie_AD-202409260194.html)
+append_entries: 2
+Finish: 2024-09-26 12:42:55.619721

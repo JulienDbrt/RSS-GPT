@@ -2326,3 +2326,12 @@ Summarized using GPT-4o-mini
 Append: [Plusieurs syndicats de Martinique appellent à la mobilisation contre la vie chère ce jeudi 26 septembre](https://la1ere.francetvinfo.fr/martinique/plusieurs-syndicats-de-martinique-appellent-a-la-mobilisation-contre-la-vie-chere-ce-jeudi-26-septembre-1524602.html)
 append_entries: 3
 Finish: 2024-09-26 01:34:00.531546
+------------------------------------------------------
+Started: 2024-09-26 12:50:08.726111
+Existing_entries: 180
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 57
+Summarized using GPT-4o-mini
+Append: [En Martinique, la vie est chère surtout pour les retraités](https://la1ere.francetvinfo.fr/martinique/en-martinique-la-vie-est-chere-surtout-pour-les-retraites-1524737.html)
+append_entries: 1
+Finish: 2024-09-26 12:50:12.016518

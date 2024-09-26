@@ -2744,3 +2744,18 @@ Existing_entries: 321
 Fetching from https://korben.info/feed
 append_entries: 0
 Finish: 2024-09-26 01:22:14.971395
+------------------------------------------------------
+Started: 2024-09-26 12:38:22.497512
+Existing_entries: 321
+Fetching from https://korben.info/feed
+Token length: 424
+Summarized using GPT-4o-mini
+Append: [Process Governor - Contrôler vos processus pour rendre votre expérience Windows plus fluide](https://korben.info/process-governor-gestion-processus-windows.html)
+Token length: 429
+Summarized using GPT-4o-mini
+Append: [GNU/Linux en sueur avec cette faille RCE critique](https://korben.info/faille-rce-critique-linux-cauchemar-admins.html)
+Token length: 500
+Summarized using GPT-4o-mini
+Append: [Aider - L'IA qui développe, corrige vos bugs, refactorise et documente votre code comme par magie](https://korben.info/aider-pair-programmation-ia-code-local.html)
+append_entries: 3
+Finish: 2024-09-26 12:38:34.641652

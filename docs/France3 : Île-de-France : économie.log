@@ -2817,3 +2817,9 @@ Summarized using GPT-4o-mini
 Append: [Radars, périphérique… Un plan anti-bruit de 100 millions d’euros présenté par la Région Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/radars-peripherique-un-plan-anti-bruit-de-100-millions-d-euros-presente-par-la-region-ile-de-france-3037733.html)
 append_entries: 1
 Finish: 2024-09-26 01:30:48.239244
+------------------------------------------------------
+Started: 2024-09-26 12:48:04.579354
+Existing_entries: 357
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-26 12:48:04.774589

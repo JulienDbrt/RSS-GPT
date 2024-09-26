@@ -2066,3 +2066,12 @@ Summarized using GPT-4o-mini
 Append: [Avions : faut-il facturer les grands voyageurs pour réduire les émissions du trafic aérien ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/avions-faut-il-facturer-les-grands-voyageurs-pour-reduire-les-emissions-du-trafic-aerien_6801634.html)
 append_entries: 1
 Finish: 2024-09-26 01:29:53.036324
+------------------------------------------------------
+Started: 2024-09-26 12:47:03.398002
+Existing_entries: 100
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Crise climatique : faut-il taxer les grands voyageurs pour réduire le trafic aérien ?](https://www.francetvinfo.fr/economie/aeronautique/crise-climatique-faut-il-taxer-les-grands-voyageurs-pour-reduire-le-trafic-aerien_6802879.html)
+append_entries: 1
+Finish: 2024-09-26 12:47:06.586880
