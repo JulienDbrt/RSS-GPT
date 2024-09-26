@@ -3079,3 +3079,12 @@ Summarized using GPT-4o-mini
 Append: [À partir de quel revenu est-on considéré comme «riche» en France ?](https://www.europe1.fr/economie/a-partir-de-quel-revenu-est-on-considere-comme-riche-en-france-4269431)
 append_entries: 2
 Finish: 2024-09-25 12:46:40.237183
+------------------------------------------------------
+Started: 2024-09-26 01:29:04.128054
+Existing_entries: 441
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 289
+Summarized using GPT-4o-mini
+Append: [Le déficit public «risque de dépasser» 6% du PIB en 2024, selon le ministre du Budget](https://www.europe1.fr/economie/le-deficit-public-risque-de-depasser-6-du-pib-en-2024-selon-le-ministre-du-budget-4269500)
+append_entries: 1
+Finish: 2024-09-26 01:29:07.131248

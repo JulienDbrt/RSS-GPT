@@ -3524,3 +3524,18 @@ Summarized using GPT-4o-mini
 Append: [Eaux minérales traitées: Foodwatch dépose deux nouvelles plaintes pour saisir un juge](https://www.martinique.franceantilles.fr/actualite/economie/eaux-minerales-traitees-foodwatch-depose-deux-nouvelles-plaintes-pour-saisir-un-juge-1004656.php)
 append_entries: 2
 Finish: 2024-09-25 12:46:49.962307
+------------------------------------------------------
+Started: 2024-09-26 01:29:07.445265
+Existing_entries: 608
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Vie chère : les négociations reprennent ce jeudi, des mobilisations prévues](https://www.martinique.franceantilles.fr/actualite/social/vie-chere-une-3e-table-ronde-et-une-mobilisation-de-grande-ampleur-prevue-demain-1004734.php)
+Token length: 35
+Summarized using GPT-4o-mini
+Append: [Le Medef Martinique : "Chaque emploi perdu, c'est une famille qui souffre, c'est notre économie qui s'affaiblit"](https://www.martinique.franceantilles.fr/actualite/economie/le-medef-martinique-chaque-emploi-perdu-cest-une-famille-qui-souffre-cest-notre-economie-qui-saffaiblit-1004714.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [En Martinique, les prix à la consommation ont augmenté en août](https://www.martinique.franceantilles.fr/actualite/economie/en-martinique-les-prix-a-la-consommation-ont-augmente-en-aout-1004695.php)
+append_entries: 3
+Finish: 2024-09-26 01:29:13.466337

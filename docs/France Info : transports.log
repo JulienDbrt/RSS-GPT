@@ -3215,3 +3215,18 @@ Existing_entries: 491
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-25 12:47:39.250285
+------------------------------------------------------
+Started: 2024-09-26 01:29:54.332566
+Existing_entries: 491
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [Batteries électriques : la première usine française peine à décoller](https://www.francetvinfo.fr/economie/industrie-la-premiere-usine-francaise-de-batteries-electriques-peine-a-decoller_6801670.html)
+Token length: 158
+Summarized using GPT-4o-mini
+Append: [Avions : faut-il facturer les grands voyageurs pour réduire les émissions du trafic aérien ?](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/avions-faut-il-facturer-les-grands-voyageurs-pour-reduire-les-emissions-du-trafic-aerien_6801634.html)
+Token length: 198
+Summarized using GPT-4o-mini
+Append: [SNCF : la nouvelle liaison Paris-Berlin ouvrira le 16 décembre](https://www.francetvinfo.fr/economie/transports/sncf-la-nouvelle-liaison-paris-berlin-ouvrira-le-16-decembre_6801232.html)
+append_entries: 3
+Finish: 2024-09-26 01:30:03.366332

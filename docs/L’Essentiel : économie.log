@@ -3043,3 +3043,12 @@ Summarized using GPT-4o-mini
 Append: [Immobilier au Luxembourg: Le prix des appartements existants a baissé de 15% en deux ans](https://www.lessentiel.lu/fr/story/immobilier-au-luxembourg-le-prix-des-appartements-existants-a-baisse-de-15-en-deux-ans-103191461)
 append_entries: 1
 Finish: 2024-09-25 12:50:02.047141
+------------------------------------------------------
+Started: 2024-09-26 01:33:03.056429
+Existing_entries: 481
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [POST Luxembourg et Telecom: Un «congé aidant» et un «congé pour force majeure» pour les salariés](https://www.lessentiel.lu/fr/story/post-luxembourg-et-telecom-un-conge-aidant-et-un-conge-pour-force-majeure-pour-les-salaries-103191566)
+append_entries: 1
+Finish: 2024-09-26 01:33:07.698843

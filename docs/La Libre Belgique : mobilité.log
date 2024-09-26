@@ -2690,3 +2690,15 @@ Summarized using GPT-4o-mini
 Append: [Encore un nouveau chantier sur le Ring de Bruxelles : des files de 45 minutes redoutées aux heures de pointe](https://www.lalibre.be/belgique/mobilite/2024/09/25/encore-un-nouveau-chantier-sur-le-ring-de-bruxelles-a-anderlecht-des-bandes-bientot-fermees-des-files-de-45-minutes-redoutees-aux-heures-de-pointe-DWACGJ5TTZABFPI75JJBTADBAY/)
 append_entries: 3
 Finish: 2024-09-25 12:53:07.695550
+------------------------------------------------------
+Started: 2024-09-26 01:35:35.248985
+Existing_entries: 336
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 116
+Summarized using GPT-4o-mini
+Append: [Formation bruxelloise - LEZ: La proposition MR-PS-Engagés de report de la prochaine phase adoptée en commission](https://www.lalibre.be/belgique/elections-belges/elections-regionales/2024/09/25/formation-bruxelloise-lez-la-proposition-mr-ps-engages-de-report-de-la-prochaine-phase-adoptee-en-commission-R3W3E7DIBFH53LTWQM2D3NSYBQ/)
+Token length: 85
+Summarized using GPT-4o-mini
+Append: [Renforcement des fréquences, mesures de sécurité, ... voici le dispositif mis en place par la STIB et la SNCB pour la visite du Pape François](https://www.lalibre.be/belgique/mobilite/2024/09/25/visite-du-pape-francois-voici-le-dispositif-mis-en-place-par-la-stib-et-la-sncb-CGEXVOJAUNFIZBUGY2OR4IZLPQ/)
+append_entries: 2
+Finish: 2024-09-26 01:35:45.187369

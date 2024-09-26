@@ -2326,3 +2326,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : "Nous avons un marché en décalage par rapport aux autres régions"](https://www.ladepeche.fr/2024/09/25/immobilier-nous-avons-un-marche-en-decalage-par-rapport-aux-autres-regions-12219350.php)
 append_entries: 4
 Finish: 2024-09-25 12:52:18.731661
+------------------------------------------------------
+Started: 2024-09-26 01:34:58.063746
+Existing_entries: 192
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-26 01:34:58.743309

@@ -4,6 +4,7 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>SpAIware - Un espion dans ChatGPT</title>
 <link>https://korben.info/chatgpt-macos-faille-securite.html</link>
@@ -11,12 +12,11 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : espionnage, mémoire, sécurité, ChatGPT, OpenAI
 
-<br><br>Résumé : 
+<br /><br />Résumé : 
 Une récente vulnérabilité dans l'application ChatGPT sur macOS a soulevé des inquiétudes sur la sécurité des informations personnelles. La fonctionnalité "Mémoire", conçue pour améliorer l'interaction de l'IA avec les utilisateurs en mémorisant leurs préférences, a été exploitée par un chercheur en sécurité. Celui-ci a découvert que des attaquants pouvaient potentiellement injecter des instructions malveillantes dans cette mémoire, ce qui aurait pu permettre l'accès à des informations sensibles. Un scénario d'espionnage redoutable se dessinait alors, où des confidences pouvaient être chuchotées à des oreilles indiscrètes. Heureusement, OpenAI a rapidement réagi en colmatant la brèche, évitant ainsi une catastrophe potentielle. Ce rappel souligne l'importance cruciale de la sécurité dans le développement de technologies avancées telles que l'intelligence artificielle. La protection de la vie privée des utilisateurs doit être une priorité pour garantir une utilisation sûre et fiable des outils d'IA. <div>
 <p>Imaginez un instant que votre fidèle assistant virtuel se transforme en espion sournois, collectant vos moindres confidences pour les chuchoter à des oreilles indiscrètes. Flippant, non ? C&rsquo;est pourtant le scénario catastrophe qui a failli se produire avec l&rsquo;application ChatGPT sur macOS. Mais pas de panique les amis, OpenAI a colmaté la brèche avant que ça ne parte en vrille (Je m&rsquo;auto-spoile mais c&rsquo;est pour respecter votre cardio fragile) !</p>
 <p>Tout a commencé avec la fonctionnalité &ldquo;Mémoire&rdquo; de ChatGPT, censée rendre l&rsquo;IA plus futée en se souvenant de vos préférences, comme si votre aspi robot se rappelait que vous aimiez votre café avec deux sucres. Sauf que dans notre cas, un chercheur en sécurité a découvert qu&rsquo;un attaquant pouvait injecter des instructions malveillantes dans cette mémoire.</p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Sep 2024 13:07:27 +0200</pubDate>
 <pubDate>Wed, 25 Sep 2024 13:07:27 +0200</pubDate>
 </item>
 <item>
@@ -26,11 +26,10 @@ Une récente vulnérabilité dans l'application ChatGPT sur macOS a soulevé des
 <content:encoded><![CDATA[
 <div> Winamp, lecteur multimédia, code source, retour, restrictions
 
-<br><br>Summary: Winamp, le célèbre lecteur multimédia, revient sur le devant de la scène après de nombreuses années d'absence. Lancé en 1997, ce logiciel emblématique a marqué toute une génération de passionnés de technologie. Le retour de Winamp s'accompagne d'une nouvelle importante : le code source pour Windows est désormais disponible publiquement, permettant ainsi aux développeurs d'explorer et de modifier le logiciel. Cependant, cette annonce est teintée de restrictions, ce qui limite les possibilités pour les utilisateurs et les contributeurs. Ce retour représente une évolution significative pour un logiciel qui a su s'imposer dans la culture tech avec son slogan mémorable "It really whips the llama’s ass!" et une interface nostalgique qui évoque des souvenirs pour de nombreux fans. Malgré ces nouvelles limitations, la disponibilité du code source pourrait raviver l'intérêt pour Winamp et encourager une communauté de développeurs à s'impliquer dans son évolution. Ce tournant dans l'histoire de Winamp souligne son caractère intemporel et son rôle important dans l'univers des lecteurs multimédias. <div>
+<br /><br />Summary: Winamp, le célèbre lecteur multimédia, revient sur le devant de la scène après de nombreuses années d'absence. Lancé en 1997, ce logiciel emblématique a marqué toute une génération de passionnés de technologie. Le retour de Winamp s'accompagne d'une nouvelle importante : le code source pour Windows est désormais disponible publiquement, permettant ainsi aux développeurs d'explorer et de modifier le logiciel. Cependant, cette annonce est teintée de restrictions, ce qui limite les possibilités pour les utilisateurs et les contributeurs. Ce retour représente une évolution significative pour un logiciel qui a su s'imposer dans la culture tech avec son slogan mémorable "It really whips the llama’s ass!" et une interface nostalgique qui évoque des souvenirs pour de nombreux fans. Malgré ces nouvelles limitations, la disponibilité du code source pourrait raviver l'intérêt pour Winamp et encourager une communauté de développeurs à s'impliquer dans son évolution. Ce tournant dans l'histoire de Winamp souligne son caractère intemporel et son rôle important dans l'univers des lecteurs multimédias. <div>
 <p>Winamp, le lecteur multimédia légendaire qui a bercé toute une génération de geeks dont je fais partie, a fait son grand retour hier, mais pas tout à fait comme on pourrait l&rsquo;imaginer !</p>
 <p>Le code source pour Windows est maintenant disponible publiquement (youpi)&hellip; mais malheureusement avec des restrictions (plus youpi). Cette décision marque un tournant pour ce logiciel emblématique lancé en 1997, qui au fil des années est devenu un véritable monument de la culture tech, avec son fameux slogan &ldquo;<em>It really whips the llama&rsquo;s ass!</em>&rdquo; et son interface d&rsquo;une autre époque.</p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Sep 2024 10:23:52 +0200</pubDate>
 <pubDate>Wed, 25 Sep 2024 10:23:52 +0200</pubDate>
 </item>
 <item>
@@ -40,11 +39,10 @@ Une récente vulnérabilité dans l'application ChatGPT sur macOS a soulevé des
 <content:encoded><![CDATA[
 <div> Réorganisation, outils, layout CSS, interactif, composants
 
-<br><br>Summary: Il existe un nouvel outil qui simplifie la réorganisation des éléments sur les pages web, transformant n'importe quel layout CSS en un environnement interactif. Cet outil permet de déplacer les composants facilement, comme dans un jeu de Tetris. Grâce à cette solution, les utilisateurs peuvent réarranger les éléments d'une page web de manière intuitive et sans avoir besoin de scripts complexes ou de bibliothèques lourdes. Cela est particulièrement utile pour le développement de tableaux de bord, de kanbans et d'autres interfaces similaires. L'outil rend les composants aussi flexibles que de la pâte à modeler, ce qui offre une grande liberté de personnalisation aux utilisateurs. Ils peuvent ainsi adapter l'apparence et l'organisation des éléments selon leurs préférences, ce qui améliore l'expérience utilisateur. En facilitant la manipulation des éléments, cet outil constitue une avancée significative pour les développeurs souhaitant optimiser la présentation de leurs projets web. En résumé, c'est un excellent moyen de gagner du temps tout en offrant une interface dynamique et personnalisable. <div>
+<br /><br />Summary: Il existe un nouvel outil qui simplifie la réorganisation des éléments sur les pages web, transformant n'importe quel layout CSS en un environnement interactif. Cet outil permet de déplacer les composants facilement, comme dans un jeu de Tetris. Grâce à cette solution, les utilisateurs peuvent réarranger les éléments d'une page web de manière intuitive et sans avoir besoin de scripts complexes ou de bibliothèques lourdes. Cela est particulièrement utile pour le développement de tableaux de bord, de kanbans et d'autres interfaces similaires. L'outil rend les composants aussi flexibles que de la pâte à modeler, ce qui offre une grande liberté de personnalisation aux utilisateurs. Ils peuvent ainsi adapter l'apparence et l'organisation des éléments selon leurs préférences, ce qui améliore l'expérience utilisateur. En facilitant la manipulation des éléments, cet outil constitue une avancée significative pour les développeurs souhaitant optimiser la présentation de leurs projets web. En résumé, c'est un excellent moyen de gagner du temps tout en offrant une interface dynamique et personnalisable. <div>
 <p>Vous en avez marre de vous arracher les cheveux à chaque fois que vous essayez de réorganiser des éléments sur une page web ? Alors voici un outil qui va vous faire gagner un temps fou : <a href="https://swapy.tahazsh.com/"><strong>Swapy</strong></a>. Ce petit projet transforme n&rsquo;importe quel layout css en un terrain de jeu interactif où tout se déplace aussi facilement qu&rsquo;un Tetris bien huilé.</p>
 <p>Ça va vous permettre de rendre les composants d&rsquo;une page web aussi malléables que de la pâte à modeler, sans avoir à vous plonger dans des scripts alambiqués ou des librairies plus lourdes que moi. Les utilisateurs pourront alors <strong>réarranger les éléments de la page</strong> comme bon leur semble. C&rsquo;est top par exemple si vous développez des tableaux de bord, des kanban ou ce genre de trucs.</p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Sep 2024 09:29:22 +0200</pubDate>
 <pubDate>Wed, 25 Sep 2024 09:29:22 +0200</pubDate>
 </item>
 <item>
@@ -54,13 +52,12 @@ Une récente vulnérabilité dans l'application ChatGPT sur macOS a soulevé des
 <content:encoded><![CDATA[
 <div> Monocle, analyse de binaires, IA, sécurité, reverse engineering  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Monocle est un outil d’analyse de binaires qui utilise l’intelligence artificielle pour examiner des logiciels à la recherche de failles de sécurité, de code suspect ou de fonctionnalités cachées. Ce qui le rend particulièrement attrayant, c’est qu’il permet d’éviter les étapes souvent fastidieuses du reverse engineering. Au lieu de cela, les utilisateurs peuvent interagir avec Monocle en utilisant un langage naturel, comme s’ils parlaient à un ami. Par exemple, vous pouvez simplement lui demander : “Hey mon copain, tu peux vérifier ce binaire et me dire s’il y a du code d’authentification suspect dedans ?”. Grâce à cette approche accessible, même ceux qui n’ont pas une formation technique poussée peuvent profiter de ses analyses. Monocle simplifie ainsi la détection de vulnérabilités et offre une méthode conviviale pour explorer des binaires complexes, rendant les outils d’analyse plus accessibles à un public plus large. En somme, cet outil combine la puissance de l’IA avec une interface utilisateur intuitive, révolutionnant ainsi l'analyse de sécurité pour les développeurs et les chercheurs. <div>
 <p>Et salut !</p>
 <p>Aujourd&rsquo;hui, je vous présente <strong>Monocle</strong>, un outil d&rsquo;analyse de binaires plutôt cool car il utilise l&rsquo;IA pour décortiquer le logiciel que vous lui soumettez afin d&rsquo;y trouver des failles de sécurité, du code louche ou des fonctionnalités bien planquées. Et tout ça, sans même avoir à se taper la phase de reverse engineering qui peut être bien fastidieuse, parfois.</p>
 <p>Le plus cool, c&rsquo;est que vous pouvez interroger Monocle en langage naturel, comme si vous discutiez avec un pote&hellip; Pas besoin de sortir de l&rsquo;école 42 pour comprendre comment ça marche, vous lui demandez gentiment &ldquo;Hey mon copain, tu peux vérifier ce binaire et me dire s&rsquo;il y a du code d&rsquo;authentification suspect dedans ?&rdquo; et hop, il va analyser tout ça et vous répondre direct.</p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Sep 2024 09:00:00 +0200</pubDate>
 <pubDate>Wed, 25 Sep 2024 09:00:00 +0200</pubDate>
 </item>
 <item>
@@ -70,15 +67,13 @@ Monocle est un outil d’analyse de binaires qui utilise l’intelligence artifi
 <content:encoded><![CDATA[
 <div> Mots-clés : TI-84, Internet, ChromaLock, calculatrice, hacking
 
-<br><br>Summary: 
+<br /><br />Summary: 
 Un passionné nommé ChromaLock a réussi un exploit impressionnant en connectant une TI-84 à Internet, défiant l'idée reçue selon laquelle cette calculatrice ne serait bonne qu'à résoudre des équations et jouer à Snake. Ce projet rappelle les innovations des hackers des années 90, où les limites technologiques étaient constamment repoussées. ChromaLock a donc démontré que même des appareils considérés comme obsolètes peuvent recevoir une nouvelle vie grâce à des techniques de hacking ingénieuses. Ce type de projet met en lumière la curiosité et la créativité des bricoleurs modernes, qui cherchent à transcender les fonctionnalités d'origine des appareils qu'ils possèdent. En reliant la TI-84 à Internet, il a non seulement élargi les possibilités de la calculatrice, mais il a également ouvert la porte à de nouvelles applications et à un usage ludique de cet outil emblématique. Ainsi, la TI-84, loin d'être démodée, prouve qu'elle peut encore surprendre et s'adapter à notre époque numérique. Ces initiatives sont un excellent exemple de comment la technologie peut être réinventée par des utilisateurs passionnés. <div>
 <p>Vous pensiez que votre bonne vieille <strong>TI-84</strong> n&rsquo;était bonne qu&rsquo;à résoudre des équations et jouer à Snake pendant les cours de maths ? Hé bien vous allez être surpris puisqu&rsquo;un bidouilleur de génie surnommé <strong><a href="https://www.patreon.com/chromalock/about">ChromaLock</a></strong> vient de prouver que cette calculatrice emblématique en a encore sous le pied.</p>
 <p>Notre ami ChromaLock (que je ne connais pas) s&rsquo;est lancé un défi digne des meilleurs hackers des années 90 : <strong>connecter sa TI-84 à Internet</strong> !</p>
 ]]></content:encoded>
 <pubDate>Wed, 25 Sep 2024 08:11:47 +0200</pubDate>
-<pubDate>Wed, 25 Sep 2024 08:11:47 +0200</pubDate>
 </item>
-
 <item>
 <title>Comment l'IA dévoile de nouveaux géoglyphes de Nazca</title>
 <link>https://korben.info/ia-devoile-nouveaux-geoglyphes-nazca.html</link>
