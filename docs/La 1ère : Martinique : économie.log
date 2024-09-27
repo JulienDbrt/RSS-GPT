@@ -2335,3 +2335,9 @@ Summarized using GPT-4o-mini
 Append: [En Martinique, la vie est chère surtout pour les retraités](https://la1ere.francetvinfo.fr/martinique/en-martinique-la-vie-est-chere-surtout-pour-les-retraites-1524737.html)
 append_entries: 1
 Finish: 2024-09-26 12:50:12.016518
+------------------------------------------------------
+Started: 2024-09-27 01:34:29.091945
+Existing_entries: 181
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-09-27 01:34:29.342476

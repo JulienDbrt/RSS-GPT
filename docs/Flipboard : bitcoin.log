@@ -4726,3 +4726,21 @@ Summarized using GPT-4o-mini
 Append: [Le «Robin des banques» espagnol arrêté en France pour blanchiment de cryptomonnaies](https://www.lefigaro.fr/conjoncture/le-robin-des-banques-espagnol-arrete-en-france-pour-blanchiment-de-cryptomonnaies-20240925)
 append_entries: 1
 Finish: 2024-09-26 12:36:52.418605
+------------------------------------------------------
+Started: 2024-09-27 01:21:11.079713
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [87 % des investisseurs en Bitcoin sont en profits - Be-Crypto](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/87-des-investisseurs-en-bitcoin-sont-en-profits)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Le futur des cryptomonnaies](https://www.lenouveleconomiste.fr/le-futur-des-cryptomonnaies-117720/)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Kraken rachète BCM et va pouvoir arriver en France](https://investir.lesechos.fr/marches-indices/bitcoin-cryptomonnaies/kraken-rachete-bcm-et-va-pouvoir-arriver-en-france-2121624)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Cryptos : la baisse des taux marque la fin de l'argent facile du géant Tether](https://www.lesechos.fr/finance-marches/marches-financiers/cryptos-la-baisse-des-taux-marque-la-fin-de-lage-dor-monetaire-pour-tether-2121209)
+append_entries: 4
+Finish: 2024-09-27 01:21:29.147585

@@ -2649,3 +2649,9 @@ Summarized using GPT-4o-mini
 Append: [Blanchiment de cryptomonnaies: le "Robin des banques" espagnol arrêté en France](https://www.bfmtv.com/crypto/blanchiment-de-cryptomonnaies-le-robin-des-banques-espagnol-arrete-en-france_AD-202409260562.html)
 append_entries: 1
 Finish: 2024-09-26 12:43:25.498821
+------------------------------------------------------
+Started: 2024-09-27 01:27:54.591967
+Existing_entries: 299
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-09-27 01:27:55.037367

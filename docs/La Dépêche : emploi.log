@@ -3295,3 +3295,15 @@ Summarized using GPT-4o-mini
 Append: [Soual. Le salon "Ici,on recrute" se prépare](https://www.ladepeche.fr/2024/09/26/le-salon-icion-recrute-se-prepare-12221462.php)
 append_entries: 3
 Finish: 2024-09-26 12:51:33.112337
+------------------------------------------------------
+Started: 2024-09-27 01:35:20.131066
+Existing_entries: 511
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [Castelnaudary : la 10e édition du Marketon a réuni une cinquantaine de participants](https://www.ladepeche.fr/2024/09/26/castelnaudary-la-10e-edition-du-marketon-a-reuni-une-cinquantaine-de-participants-12222233.php)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [Éducation : le syndicat enseignant du 1er degré, Snuipp-FSU, tire la sonnette d’alarme sur le manque d’enseignants dans les écoles de Toulouse et du département](https://www.ladepeche.fr/2024/09/26/education-le-syndicat-enseignant-du-1er-degre-snuipp-fsu-tire-la-sonnette-dalarme-sur-le-manque-denseignants-dans-les-ecoles-de-toulouse-et-du-12222726.php)
+append_entries: 2
+Finish: 2024-09-27 01:35:28.075440

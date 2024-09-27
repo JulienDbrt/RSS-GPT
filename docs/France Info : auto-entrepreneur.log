@@ -1841,3 +1841,9 @@ Summarized using GPT-4o-mini
 Append: [Go Entrepreneurs : Lyon accueille le plus grand salon de la création d’entreprises](https://www.francetvinfo.fr/replay-radio/le-brief-eco/go-entrepreneurs-lyon-accueille-le-plus-grand-salon-de-la-creation-d-entreprises_6776167.html)
 append_entries: 1
 Finish: 2024-09-26 12:47:11.296202
+------------------------------------------------------
+Started: 2024-09-27 01:30:58.363355
+Existing_entries: 23
+Fetching from https://www.francetvinfo.fr/economie/autoentrepreneurs.rss
+append_entries: 0
+Finish: 2024-09-27 01:30:58.673826

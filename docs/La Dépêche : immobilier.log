@@ -2341,3 +2341,9 @@ Summarized using GPT-4o-mini
 Append: [INFO LA DEPECHE. Scandale chez Foncia Toulouse : le négociateur escroc se serait enrichi sur le dos de plusieurs propriétaires](https://www.ladepeche.fr/2024/09/26/info-la-depeche-scandale-chez-foncia-toulouse-le-negociateur-escroc-se-serait-enrichi-sur-le-dos-de-plusieurs-proprietaires-12220144.php)
 append_entries: 1
 Finish: 2024-09-26 12:51:42.431798
+------------------------------------------------------
+Started: 2024-09-27 01:35:28.179782
+Existing_entries: 193
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-09-27 01:35:28.674728

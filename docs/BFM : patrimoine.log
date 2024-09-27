@@ -2154,3 +2154,9 @@ Summarized using GPT-4o-mini
 Append: [Impôt sur le revenu: le fisc va prélever 10 millions de foyers ce jeudi, êtes-vous concerné?](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impot-sur-le-revenu-le-fisc-va-prelever-10-millions-de-foyers-ce-jeudi-etes-vous-concerne_AV-202409260051.html)
 append_entries: 1
 Finish: 2024-09-26 12:44:50.590199
+------------------------------------------------------
+Started: 2024-09-27 01:29:19.768247
+Existing_entries: 134
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+append_entries: 0
+Finish: 2024-09-27 01:29:20.034482

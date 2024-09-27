@@ -3239,3 +3239,15 @@ Summarized using GPT-4o-mini
 Append: [Crise climatique : faut-il taxer les grands voyageurs pour réduire le trafic aérien ?](https://www.francetvinfo.fr/economie/aeronautique/crise-climatique-faut-il-taxer-les-grands-voyageurs-pour-reduire-le-trafic-aerien_6802879.html)
 append_entries: 1
 Finish: 2024-09-26 12:47:15.963083
+------------------------------------------------------
+Started: 2024-09-27 01:30:59.518691
+Existing_entries: 495
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [SNCF : le changement d'horaire d'un train de l'est pour Paris interroge, et si certaines lignes étaient menacées ?](https://www.francetvinfo.fr/economie/transports/sncf/sncf-le-changement-d-horaire-d-un-train-de-l-est-pour-paris-interroge-et-si-certaines-lignes-etaient-menacees_6803245.html)
+Token length: 123
+Summarized using GPT-4o-mini
+Append: ["Gilets jaunes" : procès requis devant la cour criminelle pour le policier soupçonné d'avoir éborgné Jérôme Rodrigues](https://www.francetvinfo.fr/economie/transports/gilets-jaunes/gilets-jaunes-proces-requis-devant-la-cour-criminelle-pour-le-policier-soupconne-d-avoir-eborgne-jerome-rodrigues_6803167.html)
+append_entries: 2
+Finish: 2024-09-27 01:31:06.157601

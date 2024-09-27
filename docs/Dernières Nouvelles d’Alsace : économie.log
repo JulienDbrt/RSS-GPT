@@ -9225,3 +9225,10 @@ Append: [Munchhouse. Un commerce local à relancer : le défi de nombreuses peti
 Append: [Mobilité. Futur service régional Vélo Fluo : 19 gares alsaciennes sélectionnées](https://www.dna.fr/economie/2024/09/26/futur-service-regional-velo-fluo-19-gares-alsaciennes-selectionnees)
 append_entries: 11
 Finish: 2024-09-26 12:45:52.131992
+------------------------------------------------------
+Started: 2024-09-27 01:29:47.669455
+Existing_entries: 1011
+Fetching from https://www.dna.fr/economie/rss
+Feed error: 500
+append_entries: 0
+error when rendering xml, skip docs/Dernières Nouvelles d’Alsace : économie

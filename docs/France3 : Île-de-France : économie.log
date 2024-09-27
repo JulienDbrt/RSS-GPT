@@ -2823,3 +2823,15 @@ Existing_entries: 357
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-26 12:48:04.774589
+------------------------------------------------------
+Started: 2024-09-27 01:31:37.282518
+Existing_entries: 357
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 352
+Summarized using GPT-4o-mini
+Append: [Mon voisin Mickey : comment Disneyland Paris a-t-il bouleversé le quotidien de la Seine-et-Marne ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/mon-voisin-mickey-comment-disneyland-paris-a-t-il-bouleverse-le-quotidien-de-la-seine-et-marne-3038252.html)
+Token length: 262
+Summarized using GPT-4o-mini
+Append: ["BIP" : le Département du Val-d’Oise abandonne le "projet initial" de voie rapide, une "victoire collective" pour les opposants](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/bip-le-departement-du-val-d-oise-abandonne-le-projet-initial-de-voie-rapide-une-victoire-collective-pour-les-opposants-3038393.html)
+append_entries: 2
+Finish: 2024-09-27 01:31:44.802853

@@ -3008,3 +3008,18 @@ Summarized using GPT-4o-mini
 Append: [Meurthe-et-Moselle : Le département teste un « revenu d’émancipation jeunes » de 500 euros](https://www.20minutes.fr/economie/4112089-20240926-meurthe-moselle-departement-teste-revenu-emancipation-jeunes-500-euros)
 append_entries: 5
 Finish: 2024-09-26 12:41:49.561740
+------------------------------------------------------
+Started: 2024-09-27 01:26:18.852314
+Existing_entries: 412
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 224
+Summarized using GPT-4o-mini
+Append: [Médicament : Alors qu’il est menacé de vente, faut-il tout faire pour garder le Doliprane sous pavillon français ?](https://www.20minutes.fr/economie/4112295-20240926-medicament-alors-menace-vente-faut-tout-faire-garder-doliprane-sous-pavillon-francais)
+Token length: 129
+Summarized using GPT-4o-mini
+Append: [Gard : Soixante-huit emplois supprimés, coup dur pour l’emploi dans les Cévennes](https://www.20minutes.fr/economie/4112283-20240926-gard-soixante-huit-emplois-supprimes-coup-dur-emploi-cevennes)
+Token length: 234
+Summarized using GPT-4o-mini
+Append: [Trenitalia : Bientôt des trajets Paris-Marseille dans les trains rouges de la compagnie italienne](https://www.20minutes.fr/economie/4112241-20240926-trenitalia-bientot-trajets-paris-marseille-trains-rouges-compagnie-italienne)
+append_entries: 3
+Finish: 2024-09-27 01:26:30.013664

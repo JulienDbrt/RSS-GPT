@@ -3299,3 +3299,12 @@ Summarized using GPT-4o-mini
 Append: [Impôt sur les revenus : l’heure est venue de payer le solde de l’année dernière](https://www.la-croix.com/economie/impot-sur-les-revenus-l-heure-est-venue-de-payer-le-solde-de-lannee-derniere-20240925)
 append_entries: 2
 Finish: 2024-09-26 12:50:28.246143
+------------------------------------------------------
+Started: 2024-09-27 01:34:33.842095
+Existing_entries: 529
+Fetching from https://www.la-croix.com/RSS/UNIVERS_WECO
+Token length: 245
+Summarized using GPT-4o-mini
+Append: [Dette : la France emprunte maintenant plus cher que l’Espagne](https://www.la-croix.com/economie/dette-la-france-emprunte-maintenant-plus-cher-que-l-espagne-20240926)
+append_entries: 1
+Finish: 2024-09-27 01:34:40.419456
