@@ -2084,3 +2084,9 @@ Summarized using GPT-4o-mini
 Append: [Transport aérien : la compagnie easyJet quittera définitivement l'aéroport de Beauvais en octobre](https://www.francetvinfo.fr/economie/aeronautique/transport-aerien-la-compagnie-easyjet-quittera-definitivement-l-aeroport-de-beauvais-en-octobre_6803599.html)
 append_entries: 1
 Finish: 2024-09-27 01:30:58.351676
+------------------------------------------------------
+Started: 2024-09-27 12:47:51.382889
+Existing_entries: 102
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-09-27 12:47:51.605466

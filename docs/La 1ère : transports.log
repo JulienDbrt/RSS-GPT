@@ -3056,3 +3056,18 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. Vigilance rouge : de nombreux axes inondés, le point sur le trafic routier](https://la1ere.francetvinfo.fr/guadeloupe/video-vigilance-rouge-de-nombreux-axes-routiers-inondes-le-point-sur-le-trafic-routier-1524953.html)
 append_entries: 1
 Finish: 2024-09-27 01:34:33.541168
+------------------------------------------------------
+Started: 2024-09-27 12:51:29.440619
+Existing_entries: 419
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 72
+Summarized using GPT-4o-mini
+Append: [Fête de l'aviation : " On est sur une île où il n'y a pas réellement cette culture aéronautique "](https://la1ere.francetvinfo.fr/mayotte/fete-de-l-aviation-on-est-sur-une-ile-ou-il-n-y-a-pas-reellement-cette-culture-aeronautique-1525136.html)
+Token length: 65
+Summarized using GPT-4o-mini
+Append: [Le retour de paquebots de croisière en Nouvelle-Calédonie pour la mi-novembre ?](https://la1ere.francetvinfo.fr/nouvellecaledonie/le-retour-de-paquebots-de-croisiere-en-nouvelle-caledonie-pour-la-mi-novembre-1525070.html)
+Token length: 42
+Summarized using GPT-4o-mini
+Append: [Moins de lignes, un ticket unique à 500 francs, pas de Neobus, à quoi ressemblera le nouveau réseau de transport Tanéo au 1er octobre ?](https://la1ere.francetvinfo.fr/nouvellecaledonie/moins-de-lignes-un-ticket-unique-a-500-francs-pas-de-neobus-a-quoi-ressemblera-le-nouveau-reseau-de-transport-taneo-au-1er-octobre-1525082.html)
+append_entries: 3
+Finish: 2024-09-27 12:51:40.782372

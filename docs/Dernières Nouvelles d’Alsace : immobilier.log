@@ -2354,3 +2354,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Pourquoi les logements anciens sont de moins en moins chers ?](https://www.dna.fr/magazine-immobilier/2024/09/26/pourquoi-les-logements-anciens-sont-de-moins-en-moins-chers)
 append_entries: 1
 Finish: 2024-09-27 01:29:55.127082
+------------------------------------------------------
+Started: 2024-09-27 12:46:31.298403
+Existing_entries: 192
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-09-27 12:46:33.187192

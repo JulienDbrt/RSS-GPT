@@ -2905,3 +2905,15 @@ Summarized using GPT-4o-mini
 Append: [La ministre du Logement repart du congrès HLM sans annonce concrète](https://www.bfmtv.com/immobilier/location/la-ministre-du-logement-repart-du-congres-hlm-sans-annonce-concrete_AD-202409260804.html)
 append_entries: 1
 Finish: 2024-09-27 01:29:19.370358
+------------------------------------------------------
+Started: 2024-09-27 12:45:11.615313
+Existing_entries: 395
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Les permis de construire de logements continuent de chuter en août](https://www.bfmtv.com/immobilier/construction/les-permis-de-construire-de-logements-continuent-de-chuter-en-aout_AD-202409270489.html)
+Token length: 195
+Summarized using GPT-4o-mini
+Append: ["Aucun espoir de trouver une maison ici": ces nouvelles communes où la crise du logement fait rage](https://www.bfmtv.com/immobilier/achat-vente/aucun-espoir-de-trouver-une-maison-ici-ces-nouvelles-communes-ou-la-crise-du-logement-fait-rage_AN-202409270078.html)
+append_entries: 2
+Finish: 2024-09-27 12:45:26.437233

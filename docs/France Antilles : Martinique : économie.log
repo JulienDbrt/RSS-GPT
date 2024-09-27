@@ -3566,3 +3566,18 @@ Summarized using GPT-4o-mini
 Append: [EN DIRECT. La troisième table ronde sur la vie chère bat son plein à la CTM](https://www.martinique.franceantilles.fr/actualite/social/en-direct-la-troisieme-table-ronde-sur-la-vie-chere-lancee-a-la-ctm-1004897.php)
 append_entries: 2
 Finish: 2024-09-27 01:30:06.234726
+------------------------------------------------------
+Started: 2024-09-27 12:46:54.750331
+Existing_entries: 616
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 177
+Summarized using GPT-4o-mini
+Append: [Etats-Unis: au moins 3 morts lors du passage de l'ouragan Hélène, situation toujours très dangereuse](https://www.martinique.franceantilles.fr/actualite/international/louragan-helene-va-atteindre-la-floride-jeudi-dangereuses-inondations-redoutees-1004883.php)
+Token length: 19
+Summarized using GPT-4o-mini
+Append: [Marché des artisans locaux de Martinique BioTour](https://www.martinique.franceantilles.fr/actualite/economie/marche-des-artisans-locaux-de-martinique-biotour-1004981.php)
+Token length: 95
+Summarized using GPT-4o-mini
+Append: [Les pertes matérielles un vrai casse-tête en cas d'émeute](https://www.martinique.franceantilles.fr/actualite/economie/les-pertes-materielles-un-vrai-casse-tete-en-cas-demeute-1005063.php)
+append_entries: 3
+Finish: 2024-09-27 12:47:04.960013

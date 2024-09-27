@@ -1855,3 +1855,9 @@ Fetching from https://www.dna.fr/paroles-d-experts/rss
 Feed error: 500
 append_entries: 0
 error when rendering xml, skip docs/Dernières Nouvelles d’Alsace : paroles d’experts
+------------------------------------------------------
+Started: 2024-09-27 12:46:33.200650
+Existing_entries: 25
+Fetching from https://www.dna.fr/paroles-d-experts/rss
+append_entries: 0
+Finish: 2024-09-27 12:46:35.162261

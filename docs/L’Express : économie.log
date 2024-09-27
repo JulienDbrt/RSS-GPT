@@ -3424,3 +3424,15 @@ Existing_entries: 602
 Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
 append_entries: 0
 Finish: 2024-09-27 01:33:55.296438
+------------------------------------------------------
+Started: 2024-09-27 12:50:36.528293
+Existing_entries: 602
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+Token length: 3414
+Summarized using GPT-4o-mini
+Append: [Comment réduire la dette ? Ces exemples inspirants chez nos voisins européens](https://www.lexpress.fr/economie/comment-reduire-la-dette-ces-exemples-inspirants-chez-nos-voisins-europeens-DIR4OO5GLRDERKS5ZLB3CKTRF4/)
+Token length: 5957
+Summarized using GPT-4o-mini
+Append: [L’inflation ralentit, la dette grimpe… Les derniers chiffres de l’Insee sur l’économie française](https://www.lexpress.fr/economie/linflation-ralentit-la-dette-grimpe-les-derniers-chiffres-de-linsee-sur-leconomie-francaise-43BQRGYTNJCULDJ3HZR5LOKQRA/)
+append_entries: 2
+Finish: 2024-09-27 12:50:50.498863

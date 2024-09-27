@@ -2473,3 +2473,15 @@ Existing_entries: 238
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-09-27 01:32:33.541553
+------------------------------------------------------
+Started: 2024-09-27 12:49:35.651113
+Existing_entries: 238
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 417
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGE. "Notre vie est rythmée par la météo et la rotation des bateaux", Pierre livre son quotidien sur l'île de Sein](https://france3-regions.francetvinfo.fr/bretagne/finistere/quimper/temoignage-notre-vie-elle-est-rythmee-par-la-meteo-et-la-rotation-des-bateaux-pierre-livre-son-quotidien-sur-l-ile-de-sein-3038279.html)
+Token length: 353
+Summarized using GPT-4o-mini
+Append: ["Une déflagration pour le milieu laitier". Lactalis achètera moins de lait aux éleveurs : la Bretagne pour l'instant épargnée](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/une-deflagration-pour-le-milieu-laitier-lactalis-achetera-moins-de-lait-aux-eleveurs-la-bretagne-pour-l-instant-epargnee-3038555.html)
+append_entries: 2
+Finish: 2024-09-27 12:49:43.248644

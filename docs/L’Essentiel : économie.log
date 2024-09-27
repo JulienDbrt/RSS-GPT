@@ -3067,3 +3067,15 @@ Existing_entries: 483
 Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
 append_entries: 0
 Finish: 2024-09-27 01:33:53.501804
+------------------------------------------------------
+Started: 2024-09-27 12:50:22.027649
+Existing_entries: 483
+Fetching from https://partner-feeds.lessentiel.lu/rss/lessentiel-fr/economie
+Token length: 193
+Summarized using GPT-4o-mini
+Append: [«Fraude d'ampleur»: Une employée de Kiabi a détourné 100 millions d'euros via une banque en Europe](https://www.lessentiel.lu/fr/story/fraude-d-ampleur-une-employee-de-kiabi-a-detourne-100-millions-d-euros-via-une-banque-en-europe-103192471)
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Au Luxembourg: Salaires non versés, que se passe-t-il chez CPPE S.A.?](https://www.lessentiel.lu/fr/story/salaires-non-verses-que-se-passe-t-il-chez-cppe-sa-103192020)
+append_entries: 2
+Finish: 2024-09-27 12:50:35.352853
