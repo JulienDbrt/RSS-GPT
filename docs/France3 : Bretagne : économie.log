@@ -2494,3 +2494,15 @@ Summarized using GPT-4o-mini
 Append: [Vidéo choc de l'accident d'un fourgon percuté sur la RN 12. La Dir Ouest alerte sur les conduites à risque](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/video-choc-de-l-accident-d-un-fourgon-percute-sur-la-rn-12-la-dir-ouest-alerte-sur-les-conduites-a-risque-3039089.html)
 append_entries: 1
 Finish: 2024-09-28 01:29:58.597947
+------------------------------------------------------
+Started: 2024-09-28 12:40:01.772420
+Existing_entries: 241
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 291
+Summarized using GPT-4o-mini
+Append: ["Il y aura des bouteilles de qualité mais elles seront rares" : les viticulteurs bretons vendangent après une année 2024 compliquée](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/il-y-aura-des-bouteilles-de-qualite-mais-elles-seront-rares-les-viticulteurs-bretons-vendangent-apres-une-annee-2024-compliquee-3039263.html)
+Token length: 370
+Summarized using GPT-4o-mini
+Append: [Témoignages. "Nous aujourd’hui on ne pourrait pas acheter", face aux résidences secondaires, l'île d'Hoëdic essaie de résister](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vannes/temoignages-nous-aujourd-hui-on-ne-pourrait-pas-acheter-face-aux-residences-secondaires-l-ile-d-hoedic-essaie-de-resister-3038417.html)
+append_entries: 2
+Finish: 2024-09-28 12:40:08.843850

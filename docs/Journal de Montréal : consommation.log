@@ -2497,3 +2497,9 @@ Summarized using GPT-4o-mini
 Append: [Baisse du prix des matériaux: «Il y a plus de fermetures définitives de quincailleries que jamais»](https://www.journaldemontreal.com/2024/09/26/baisse-du-prix-des-materiaux-il-y-a-plus-de-fermetures-definitives-de-quincailleries-que-jamais)
 append_entries: 1
 Finish: 2024-09-28 01:30:59.616652
+------------------------------------------------------
+Started: 2024-09-28 12:40:23.901679
+Existing_entries: 231
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-09-28 12:40:24.145665

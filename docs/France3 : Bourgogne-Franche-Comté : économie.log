@@ -2934,3 +2934,18 @@ Summarized using GPT-4o-mini
 Append: ["Entre 10 et 20% de notre chiffre d'affaires provient de la RATP", Alstom Ornans reçoit la visite de Jean Castex](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/entre-10-et-20-de-notre-chiffre-d-affaires-provient-de-la-ratp-alstom-ornans-recoit-la-visite-de-jean-castex-3039026.html)
 append_entries: 2
 Finish: 2024-09-28 01:29:56.077236
+------------------------------------------------------
+Started: 2024-09-28 12:39:50.889702
+Existing_entries: 388
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [Première "sortie officielle" de Michel Barnier : ce qu'il faut retenir de la visite du Premier ministre au congrès des pompiers](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/macon/pourquoi-michel-barnier-le-premier-ministre-et-bruno-retailleau-le-ministre-de-l-interieur-sont-a-macon-ce-samedi-3039152.html)
+Token length: 289
+Summarized using GPT-4o-mini
+Append: [VIDÉO. "On a entendu un gros boum" : un incendie ravage les deux tiers de cette entreprise, salariés et riverains évacués en urgence](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/video-on-a-entendu-un-gros-boum-un-incendie-impressionnant-ravage-les-deux-tiers-de-cette-entreprise-salaries-et-riverains-evacues-en-urgence-3039173.html)
+Token length: 234
+Summarized using GPT-4o-mini
+Append: [L'idée vraiment gonflée d'un bricoleur de génie, il invente un sac à dos qui pourrait bien "révolutionner" la randonnée](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/l-idee-vraiment-gonflee-d-un-bricoleur-de-genie-il-invente-un-sac-a-dos-qui-pourrait-bien-revolutionner-la-randonnee-3036875.html)
+append_entries: 3
+Finish: 2024-09-28 12:40:01.640654

@@ -7294,3 +7294,18 @@ Summarized using GPT-4o-mini
 Append: [Etats-Unis : l'inflation à deux doigts de l'objectif de la Fed](https://www.latribune.fr/economie/international/etats-unis-l-inflation-a-deux-doigts-de-l-objectif-de-la-fed-1007499.html)
 append_entries: 3
 Finish: 2024-09-28 01:33:26.743673
+------------------------------------------------------
+Started: 2024-09-28 12:41:58.006967
+Existing_entries: 1003
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Retraites : la caisse de la fonction publique territoriale plonge dans le rouge](https://www.latribune.fr/economie/france/retraites-la-caisse-de-la-fonction-publique-territoriale-plonge-dans-le-rouge-1007562.html)
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [Proche-Orient : le chef du Hezbollah tué par des frappes d'Israël](https://www.latribune.fr/economie/international/proche-orient-l-armee-israelienne-affirme-avoir-tue-le-chef-du-hezbollah-1007553.html)
+Token length: 210
+Summarized using GPT-4o-mini
+Append: [Impôts : Barnier va demander un effort « exceptionnel » à « ceux qui peuvent contribuer »](https://www.latribune.fr/economie/france/impots-barnier-va-demander-un-effort-exceptionnel-a-ceux-qui-peuvent-contribuer-1007554.html)
+append_entries: 3
+Finish: 2024-09-28 12:42:08.832021
