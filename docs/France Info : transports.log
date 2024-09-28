@@ -3260,3 +3260,9 @@ Summarized using GPT-4o-mini
 Append: [Périphérique parisien à 50 km/h : le nouveau ministre des Transports François Durovray va rencontrer la maire de Paris Anne Hidalgo](https://www.francetvinfo.fr/economie/transports/peripherique-parisien-a-50-km-h-le-nouveau-ministre-des-transports-francois-durovray-va-rencontrer-la-maire-de-paris-anne-hidalgo_6804934.html)
 append_entries: 1
 Finish: 2024-09-27 12:47:55.962151
+------------------------------------------------------
+Started: 2024-09-28 01:28:31.141193
+Existing_entries: 498
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-28 01:28:31.320363

@@ -4753,3 +4753,15 @@ Summarized using GPT-4o-mini
 Append: [Crypto : Caroline Ellison, co-responsable de la chute de FTX, condamnée à deux ans de prison](https://www.capital.fr/crypto/crypto-caroline-ellison-co-responsable-de-la-chute-de-ftx-condamnee-a-deux-ans-de-prison-1502846)
 append_entries: 1
 Finish: 2024-09-27 12:36:13.583959
+------------------------------------------------------
+Started: 2024-09-28 01:20:35.822007
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Satoshi Nakamoto, le curieux mystère qui entoure l’identité du créateur du Bitcoin - Be-Crypto](https://be-crypto.lesoir.be/fr/cryptos/bitcoin/satoshi-nakamoto-le-curieux-mystere-qui-entoure-lidentite-du-createur-du-bitcoin)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [L'Allemagne fait un exemple en fermant 47 plateformes d'échanges de cryptos](https://investir.lesechos.fr/marches-indices/bitcoin-cryptomonnaies/lallemagne-fait-un-exemple-en-fermant-47-plateformes-dechanges-de-cryptos-2121781)
+append_entries: 2
+Finish: 2024-09-28 01:20:41.902443

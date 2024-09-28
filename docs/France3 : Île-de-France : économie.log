@@ -2844,3 +2844,15 @@ Summarized using GPT-4o-mini
 Append: [VIDEO. Les parkings illégaux : un fléau près de l'aéroport d'Orly](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/video-les-parkings-illegaux-un-fleau-pres-de-l-aeroport-d-orly-3038714.html)
 append_entries: 1
 Finish: 2024-09-27 12:48:55.193758
+------------------------------------------------------
+Started: 2024-09-28 01:29:22.356327
+Existing_entries: 360
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 139
+Summarized using GPT-4o-mini
+Append: [Une femme de 77 ans renversée par un Velib' à Paris](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-femme-de-77-ans-renversee-par-un-velib-a-paris-3039020.html)
+Token length: 161
+Summarized using GPT-4o-mini
+Append: [Transports en commun : le tramway T1 fortement perturbé jusqu'en mars](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/transports-en-commun-le-tramway-t1-fortement-perturbe-jusqu-en-mars-3038951.html)
+append_entries: 2
+Finish: 2024-09-28 01:29:29.330315

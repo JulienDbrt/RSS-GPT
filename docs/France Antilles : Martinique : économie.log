@@ -3581,3 +3581,21 @@ Summarized using GPT-4o-mini
 Append: [Les pertes matérielles un vrai casse-tête en cas d'émeute](https://www.martinique.franceantilles.fr/actualite/economie/les-pertes-materielles-un-vrai-casse-tete-en-cas-demeute-1005063.php)
 append_entries: 3
 Finish: 2024-09-27 12:47:04.960013
+------------------------------------------------------
+Started: 2024-09-28 01:27:19.269942
+Existing_entries: 619
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [LAKOU 2024 : Le 1er Sommet des luttes sociales et environnementales des Outre-Mer](https://www.martinique.franceantilles.fr/actualite/social/-1005155.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Vie chère : la CTM propose un texte, les acteurs débattent](https://www.martinique.franceantilles.fr/actualite/politique/vie-chere-la-ctm-propose-un-texte-les-acteurs-debattent-1005153.php)
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Ouragan Hélène: inondations massives et au moins 33 morts aux Etats-Unis](https://www.martinique.franceantilles.fr/actualite/economie/tempete-helene-aux-etats-unis-quatre-morts-et-des-millions-sans-electricite-1005108.php)
+Token length: 67
+Summarized using GPT-4o-mini
+Append: [Le Wi-Fi haut débit gratuit à bord des vols Air France, c'est pour bientôt](https://www.martinique.franceantilles.fr/actualite/economie/le-wi-fi-haut-debit-gratuit-a-bord-des-vols-air-france-cest-pour-bientot-1005128.php)
+append_entries: 4
+Finish: 2024-09-28 01:27:35.845707

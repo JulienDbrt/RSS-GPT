@@ -3050,3 +3050,18 @@ Summarized using GPT-4o-mini
 Append: [Mais où sera-t-il encore possible de circuler avec une voiture Crit’Air 3 le 1er janvier 2025 ?](https://www.20minutes.fr/auto/4111646-20240927-encore-possible-circuler-voiture-crit-air-3-1er-janvier-2025)
 append_entries: 7
 Finish: 2024-09-27 12:41:42.649489
+------------------------------------------------------
+Started: 2024-09-28 01:24:26.081862
+Existing_entries: 422
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 112
+Summarized using GPT-4o-mini
+Append: [Impôts : Barnier promet de protéger « de toute augmentation fiscale » ceux « qui travaillent, qui produisent »](https://www.20minutes.fr/politique/4112524-20240927-impots-barnier-promet-proteger-toute-augmentation-fiscale-ceux-travaillent-produisent)
+Token length: 192
+Summarized using GPT-4o-mini
+Append: [Kiabi : Que sait-on de la fraude XXL, estimée à 100 millions d’euros, qui a touché l’enseigne ?](https://www.20minutes.fr/faits_divers/4112452-20240927-kiabi-sait-fraude-xxl-estimee-100-millions-euros-touche-enseigne)
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Les crêpes au Nutella surgelées, la nouveauté testée par Ferrero dans plusieurs magasins](https://www.20minutes.fr/economie/4112441-20240927-crepes-nutella-surgelees-nouveaute-testee-ferrero-plusieurs-magasins)
+append_entries: 3
+Finish: 2024-09-28 01:24:34.669608

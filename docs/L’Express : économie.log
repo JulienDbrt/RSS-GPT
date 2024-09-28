@@ -3436,3 +3436,9 @@ Summarized using GPT-4o-mini
 Append: [L’inflation ralentit, la dette grimpe… Les derniers chiffres de l’Insee sur l’économie française](https://www.lexpress.fr/economie/linflation-ralentit-la-dette-grimpe-les-derniers-chiffres-de-linsee-sur-leconomie-francaise-43BQRGYTNJCULDJ3HZR5LOKQRA/)
 append_entries: 2
 Finish: 2024-09-27 12:50:50.498863
+------------------------------------------------------
+Started: 2024-09-28 01:31:40.303930
+Existing_entries: 604
+Fetching from https://www.lexpress.fr/arc/outboundfeeds/rss/economie.xml
+append_entries: 0
+Finish: 2024-09-28 01:31:41.218711

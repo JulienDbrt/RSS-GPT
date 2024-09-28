@@ -2343,3 +2343,18 @@ Summarized using GPT-4o-mini
 Append: [Une puissante centrale solaire inaugurée sur un aérodrome, elle fournit de l'électricité à 15 000 personnes](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/une-puissante-centrale-solaire-inauguree-sur-un-aerodrome-elle-fournit-de-l-electricite-a-15-000-personnes-3038129.html)
 append_entries: 1
 Finish: 2024-09-27 12:48:49.967155
+------------------------------------------------------
+Started: 2024-09-28 01:29:12.314816
+Existing_entries: 193
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 289
+Summarized using GPT-4o-mini
+Append: [Ligne à Très Haute Tension de Fos : "on essaie d'étrangler notre pays d'Arles", les opposants demandent des solutions alternatives moins impactantes](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/fos-sur-mer/ligne-a-tres-haute-tension-de-fos-on-essaie-d-etrangler-notre-pays-d-arles-les-opposants-demandent-des-solutions-alternatives-moins-impactantes-3038789.html)
+Token length: 403
+Summarized using GPT-4o-mini
+Append: [Énergie : du charbon au gaz vert, une révolution attendue à la centrale électrique de Saint-Avold](https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/energie-du-charbon-au-gaz-vert-une-revolution-attendue-a-la-centrale-electrique-de-saint-avold-3038837.html)
+Token length: 270
+Summarized using GPT-4o-mini
+Append: [Rejets d'eau douce par EDF : signature officielle du protocole entre les communes de l'Etang de Berre et la centrale](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/rejets-d-eaux-douce-par-edf-e-protocole-est-officialise-avec-le-gipreb-3038897.html)
+append_entries: 3
+Finish: 2024-09-28 01:29:22.152829

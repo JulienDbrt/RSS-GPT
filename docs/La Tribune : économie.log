@@ -7279,3 +7279,18 @@ Summarized using GPT-4o-mini
 Append: [8,7 milliards de dollars : Israël obtient une nouvelle aide des Etats-Unis](https://www.latribune.fr/economie/international/8-7-milliards-de-dollars-israel-obtient-une-nouvelle-aide-des-etats-unis-1007453.html)
 append_entries: 10
 Finish: 2024-09-27 12:54:43.351073
+------------------------------------------------------
+Started: 2024-09-28 01:33:17.294341
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 333
+Summarized using GPT-4o-mini
+Append: [Commerzbank : le président italien défend l'offensive d'UniCredit](https://www.latribune.fr/entreprises-finance/banques-finance/banque/commerzbank-le-president-italien-defend-l-offensive-d-unicredit-1007498.html)
+Token length: 329
+Summarized using GPT-4o-mini
+Append: [«Il faut corriger nos anomalies fiscales», selon Patrick Artus](https://www.latribune.fr/economie/france/il-faut-corriger-nos-anomalies-fiscales-selon-patrick-artus-1007486.html)
+Token length: 292
+Summarized using GPT-4o-mini
+Append: [Etats-Unis : l'inflation à deux doigts de l'objectif de la Fed](https://www.latribune.fr/economie/international/etats-unis-l-inflation-a-deux-doigts-de-l-objectif-de-la-fed-1007499.html)
+append_entries: 3
+Finish: 2024-09-28 01:33:26.743673
