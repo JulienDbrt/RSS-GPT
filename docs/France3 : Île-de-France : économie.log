@@ -2865,3 +2865,9 @@ Summarized using GPT-4o-mini
 Append: [Périphérique à 50 km/h : l'abaissement de la vitesse en vigueur à partir de mardi sur une partie du boulevard](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/peripherique-a-50-km-h-l-abaissement-de-la-vitesse-en-vigueur-a-partir-de-mardi-sur-une-partie-du-boulevard-3039140.html)
 append_entries: 1
 Finish: 2024-09-28 12:39:38.753027
+------------------------------------------------------
+Started: 2024-09-29 01:31:53.282395
+Existing_entries: 363
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-29 01:31:53.532878

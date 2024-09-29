@@ -8445,3 +8445,12 @@ Summarized using GPT-4o-mini
 Append: [Impôts : pourquoi le salaire net à payer baisse sur votre bulletin de septembre](https://www.moneyvox.fr/impot/actualites/99767/impots-pourquoi-le-salaire-net-a-payer-baisse-sur-votre-bulletin-de-septembre)
 append_entries: 4
 Finish: 2024-09-28 12:39:34.432982
+------------------------------------------------------
+Started: 2024-09-29 01:31:40.926527
+Existing_entries: 1004
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Assurance santé : ce qui doit changer pour faire baisser les prix des mutuelles](https://www.moneyvox.fr/assurance/actualites/99772/assurance-sante-ce-qui-doit-changer-pour-faire-baisser-les-prix-des-mutuelles)
+append_entries: 1
+Finish: 2024-09-29 01:31:44.927537

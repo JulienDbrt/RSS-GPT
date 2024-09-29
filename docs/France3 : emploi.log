@@ -3246,3 +3246,18 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. Entrez dans l'Atelier Tuffery, la fabrique des célèbres jeans français champions de la mode écoresponsable](https://france3-regions.francetvinfo.fr/occitanie/lozere/mende/reportage-entrez-dans-l-atelier-tuffery-la-fabrique-des-celebres-jeans-francais-champions-de-la-mode-ecoresponsable-3037457.html)
 append_entries: 2
 Finish: 2024-09-28 12:40:16.293614
+------------------------------------------------------
+Started: 2024-09-29 01:32:03.949045
+Existing_entries: 490
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 333
+Summarized using GPT-4o-mini
+Append: ["C'est dur à passer ", les anciens salariés de Toupnot devront payer 27.000 euros au groupe Cofigéo](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/lourdes/c-est-dur-a-passer-les-anciens-salaries-de-toupnot-devront-payer-27-000-euros-au-groupe-cofigeo-3039320.html)
+Token length: 386
+Summarized using GPT-4o-mini
+Append: ["On me propose 900 euros brut pour travailler au Portugal" : l'usine Sanifirst ferme son site français et divise les salaires par deux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente/angouleme/on-me-propose-900-euros-brut-pour-partir-au-portugal-le-fabricant-de-robinets-sanifirst-delocalise-et-divise-les-salaires-par-deux-3039167.html)
+Token length: 347
+Summarized using GPT-4o-mini
+Append: [La ferme d'insectes Ÿnsect en difficulté financière : la start-up demande une procédure de sauvegarde judiciaire](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/la-ferme-d-insectes-ynsect-en-difficulte-financiere-la-start-up-demande-une-procedure-de-sauvegarde-judiciaire-3039245.html)
+append_entries: 3
+Finish: 2024-09-29 01:32:12.481995

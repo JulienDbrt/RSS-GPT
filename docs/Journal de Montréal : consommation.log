@@ -2503,3 +2503,12 @@ Existing_entries: 231
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-09-28 12:40:24.145665
+------------------------------------------------------
+Started: 2024-09-29 01:32:21.111353
+Existing_entries: 231
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [Du café québécois produit en laboratoire?](https://www.journaldemontreal.com/2024/09/28/du-cafe-quebecois-produit-en-laboratoire)
+append_entries: 1
+Finish: 2024-09-29 01:32:23.822564
