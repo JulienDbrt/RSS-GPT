@@ -3284,3 +3284,9 @@ Summarized using GPT-4o-mini
 Append: [Près de 400 personnes manifestent à l'aéroport de Bordeaux pour s'opposer à la fermeture d'une piste](https://www.francetvinfo.fr/economie/transports/pres-de-400-personnes-manifestent-a-l-aeroport-de-bordeaux-pour-s-opposer-a-la-fermeture-d-une-piste_6807304.html)
 append_entries: 1
 Finish: 2024-09-29 01:31:38.377892
+------------------------------------------------------
+Started: 2024-09-29 12:39:14.153450
+Existing_entries: 500
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+append_entries: 0
+Finish: 2024-09-29 12:39:14.338604

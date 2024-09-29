@@ -3098,3 +3098,15 @@ Existing_entries: 425
 Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
 append_entries: 0
 Finish: 2024-09-29 01:33:03.951096
+------------------------------------------------------
+Started: 2024-09-29 12:41:35.277131
+Existing_entries: 425
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 104
+Summarized using GPT-4o-mini
+Append: [Guadeloupe : l'aérodrome "Pointe-à-Pitre - Le Raizet" désormais baptisé "Guadeloupe - Maryse Condé"](https://la1ere.francetvinfo.fr/guadeloupe/aerodrome-pointe-a-pitre-le-raizet-est-desormais-denomme-guadeloupe-maryse-conde-1525577.html)
+Token length: 109
+Summarized using GPT-4o-mini
+Append: [Véhicules électriques : des électriciens formés localement pour installer des bornes de recharge à La Réunion](https://la1ere.francetvinfo.fr/reunion/vehicules-electriques-des-electriciens-formes-localement-pour-installer-des-bornes-de-recharge-a-la-reunion-1525604.html)
+append_entries: 2
+Finish: 2024-09-29 12:41:44.214642

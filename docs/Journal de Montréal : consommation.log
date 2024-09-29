@@ -2512,3 +2512,9 @@ Summarized using GPT-4o-mini
 Append: [Du café québécois produit en laboratoire?](https://www.journaldemontreal.com/2024/09/28/du-cafe-quebecois-produit-en-laboratoire)
 append_entries: 1
 Finish: 2024-09-29 01:32:23.822564
+------------------------------------------------------
+Started: 2024-09-29 12:40:40.029877
+Existing_entries: 232
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-09-29 12:40:40.373286

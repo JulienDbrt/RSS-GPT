@@ -2958,3 +2958,9 @@ Summarized using GPT-4o-mini
 Append: ["Des pièces qui valaient plusieurs milliers passent à quelques euros" : la fièvre de la mode vintage s'empare de Dijon](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/des-pieces-qui-valaient-plusieurs-milliers-passent-a-quelques-euros-la-fievre-de-la-mode-vintage-s-empare-de-dijon-3039347.html)
 append_entries: 1
 Finish: 2024-09-29 01:32:03.281739
+------------------------------------------------------
+Started: 2024-09-29 12:40:15.283840
+Existing_entries: 392
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-09-29 12:40:16.347031

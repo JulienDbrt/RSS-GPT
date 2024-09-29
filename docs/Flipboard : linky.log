@@ -2198,3 +2198,9 @@ Summarized using GPT-4o-mini
 Append: [Nord : Un commercial soupçonné d’avoir trafiqué une centaine de compteurs Linky](https://www.20minutes.fr/societe/4111221-20240920-nord-commercial-soupconne-avoir-trafique-centaine-compteurs-linky)
 append_entries: 1
 Finish: 2024-09-29 01:27:52.101168
+------------------------------------------------------
+Started: 2024-09-29 12:34:24.762038
+Existing_entries: 138
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-09-29 12:34:25.150683

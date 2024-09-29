@@ -10141,3 +10141,18 @@ Summarized using GPT-4o-mini
 Append: [Cryptomonnaie : Pour la première fois depuis le 2 août, le prix du bitcoin s'envole au delà des 65.000 dollars](https://www.cameroun24.net/actualite-cameroun-Pour_la_premiere_fois_depuis_le_2_aout__le_prix_du-1-1-66404.html)
 append_entries: 5
 Finish: 2024-09-29 01:26:59.486143
+------------------------------------------------------
+Started: 2024-09-29 12:32:44.843414
+Existing_entries: 1005
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 78
+Summarized using GPT-4o-mini
+Append: [Le top 20 des crypto-monnaies du dernier trimestre de l’année, selon Grayscale](https://www.nouvelles-du-monde.com/le-top-20-des-crypto-monnaies-du-dernier-trimestre-de-lannee-selon-grayscale/)
+Token length: 41
+Summarized using GPT-4o-mini
+Append: [quand Bitcoin atteindra 200 mille dollars](https://www.nouvelles-du-monde.com/quand-bitcoin-atteindra-200-mille-dollars/)
+Token length: 77
+Summarized using GPT-4o-mini
+Append: [Economie Top 10 villes où vivent les millionnaires ? Il y a quelques instants](https://www.tunisienumerique.com/top-10-villes-ou-vivent-les-millionnaires/)
+append_entries: 3
+Finish: 2024-09-29 12:32:54.775685

@@ -3261,3 +3261,15 @@ Summarized using GPT-4o-mini
 Append: [La ferme d'insectes Ÿnsect en difficulté financière : la start-up demande une procédure de sauvegarde judiciaire](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/la-ferme-d-insectes-ynsect-en-difficulte-financiere-la-start-up-demande-une-procedure-de-sauvegarde-judiciaire-3039245.html)
 append_entries: 3
 Finish: 2024-09-29 01:32:12.481995
+------------------------------------------------------
+Started: 2024-09-29 12:40:19.582000
+Existing_entries: 493
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 212
+Summarized using GPT-4o-mini
+Append: ["C'est triste, c'était proche de chez moi !", dans l'Essonne, la fermeture d'un hypermarché cinquantenaire de l'enseigne Casino](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/c-est-triste-c-etait-proche-de-chez-moi-dans-l-essonne-la-fermeture-d-un-hypermarche-cinquantenaire-de-l-enseigne-casino-3039512.html)
+Token length: 516
+Summarized using GPT-4o-mini
+Append: [Après une rentrée sous les feux des projecteurs, le nouveau quotidien des salariés-patrons de l’usine de verres Duralex](https://france3-regions.francetvinfo.fr/centre-val-de-loire/apres-une-rentree-sous-les-feux-des-projecteurs-le-nouveau-quotidien-des-salaries-patrons-de-l-usine-de-verres-duralex-3037253.html)
+append_entries: 2
+Finish: 2024-09-29 12:40:27.320305

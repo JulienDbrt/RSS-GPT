@@ -7252,3 +7252,9 @@ Summarized using GPT-4o-mini
 Append: [Cet été, laissez-vous séduire par deux des plus belles destinations de la Corse : Ajaccio et Figari.                 , ville impériale et berceau de Napoléon, vous accueille avec...](https://www.facebook.com/204309342152891/posts/546558394594649)
 append_entries: 5
 Finish: 2024-09-29 01:29:31.470731
+------------------------------------------------------
+Started: 2024-09-29 12:36:17.746794
+Existing_entries: 1005
+Fetching from http://flussi.annuda.saynete.net/corse_economie_rss.xml
+append_entries: 0
+Finish: 2024-09-29 12:36:19.067278
