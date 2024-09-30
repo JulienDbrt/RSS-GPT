@@ -2889,3 +2889,15 @@ Existing_entries: 365
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-09-30 01:28:18.129449
+------------------------------------------------------
+Started: 2024-09-30 12:48:40.704615
+Existing_entries: 365
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Quelles perturbations attendues sur la ligne du T1 en travaux ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/quelles-perturbations-attendues-sur-la-ligne-du-t1-en-travaux-3038891.html)
+Token length: 257
+Summarized using GPT-4o-mini
+Append: [Grève du 1er octobre pour les salaires et retraites, à quoi faut-il s'attendre dans les transports et dans les écoles ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/greve-du-1er-octobre-pour-les-salaires-et-retraites-a-quoi-faut-il-s-attendre-dans-les-transports-et-dans-les-ecoles-3039845.html)
+append_entries: 2
+Finish: 2024-09-30 12:48:48.088956

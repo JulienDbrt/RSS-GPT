@@ -2760,3 +2760,9 @@ Summarized using GPT-4o-mini
 Append: [Aéroport International Montréal-Trudeau: des entraves pourraient compliquer les plans des voyageurs](https://www.journaldemontreal.com/2024/09/28/aeroport-international-montreal-trudeau-des-entraves-pourraient-compliquer-les-plans-des-voyageurs)
 append_entries: 1
 Finish: 2024-09-30 01:28:54.488306
+------------------------------------------------------
+Started: 2024-09-30 12:50:00.551575
+Existing_entries: 312
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-09-30 12:50:00.744210

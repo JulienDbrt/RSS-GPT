@@ -3296,3 +3296,15 @@ Existing_entries: 500
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-09-30 01:28:08.192114
+------------------------------------------------------
+Started: 2024-09-30 12:47:22.891168
+Existing_entries: 500
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 193
+Summarized using GPT-4o-mini
+Append: [Grève du 1er octobre : transports, écoles... A quoi faut-il s'attendre pour la journée de mobilisation pour les salaires et les retraites ?](https://www.francetvinfo.fr/economie/greve/greve-des-transports/greve-du-1er-octobre-transports-ecoles-a-quoi-faut-il-s-attendre-pour-la-journee-de-mobilisation-pour-les-salaires-et-les-retraites_6809953.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Vitesse sur le périphérique, retraites, APL, prix du gaz... Ce qui change au 1er octobre](https://www.francetvinfo.fr/economie/budget/vitesse-sur-le-peripherique-retraites-apl-prix-du-gaz-ce-qui-change-au-1er-octobre_6808726.html)
+append_entries: 2
+Finish: 2024-09-30 12:47:30.478231

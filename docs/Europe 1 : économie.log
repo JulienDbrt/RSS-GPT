@@ -3151,3 +3151,15 @@ Existing_entries: 447
 Fetching from https://www.europe1.fr/rss/economie.xml
 append_entries: 0
 Finish: 2024-09-30 01:27:25.281110
+------------------------------------------------------
+Started: 2024-09-30 12:46:15.274691
+Existing_entries: 447
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 264
+Summarized using GPT-4o-mini
+Append: [Nicolas Sarkozy : «Le problème économique de la France est simple : on ne travaille pas assez»](https://www.europe1.fr/economie/nicolas-sarkozy-le-probleme-economique-de-la-france-est-simple-on-ne-travaille-pas-assez-4270275)
+Token length: 306
+Summarized using GPT-4o-mini
+Append: [Semaine Bleue : avec 18 millions de Français de plus de 60 ans, le poids démographique pèse lourd sur l'économie](https://www.europe1.fr/economie/semaine-bleue-avec-18-millions-de-francais-de-plus-de-60-ans-le-poids-demographique-pese-lourd-sur-leconomie-4270060)
+append_entries: 2
+Finish: 2024-09-30 12:46:22.610147

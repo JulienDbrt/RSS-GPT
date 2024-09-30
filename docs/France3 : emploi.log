@@ -3279,3 +3279,15 @@ Existing_entries: 495
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-09-30 01:28:32.296097
+------------------------------------------------------
+Started: 2024-09-30 12:49:19.902694
+Existing_entries: 495
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 305
+Summarized using GPT-4o-mini
+Append: [Grave agression, charge de travail, emplois supprimés... : les agents du conseil départemental du Doubs en grève et en colère](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/grave-agression-charge-de-travail-emplois-supprimes-les-agents-du-conseil-departemental-du-doubs-en-greve-et-en-colere-3039806.html)
+Token length: 238
+Summarized using GPT-4o-mini
+Append: [Ils transforment l’ancienne colonie SNCF en scierie coopérative : l'audacieux pari de trois jeunes dans le Jura](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/jura/ils-transforment-l-ancienne-colonie-sncf-en-scierie-cooperative-l-audacieux-pari-de-trois-jeunes-dans-le-jura-3037106.html)
+append_entries: 2
+Finish: 2024-09-30 12:49:27.511328

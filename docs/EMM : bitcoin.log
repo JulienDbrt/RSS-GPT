@@ -10162,3 +10162,21 @@ Existing_entries: 1003
 Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
 append_entries: 0
 Finish: 2024-09-30 01:23:01.221897
+------------------------------------------------------
+Started: 2024-09-30 12:37:41.884244
+Existing_entries: 1000
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 267
+Summarized using GPT-4o-mini
+Append: [Revue des marchés Bourse: ce qui bouge sur les marchés avant l’ouverture lundi REVUE DES MARCHÉS. Les Bourses mondiales dispersées, le marché européen pénalisé par le secteur automobile AFP et La Presse Canadienne|Publié il y a 8 minutes | Mis à jour il y a 1 seconde](https://www.lesaffaires.com/bourse/revue-des-marches/bourse-ce-qui-bouge-sur-les-marches-avant-louverture-lundi-30-09-24/)
+Token length: 133
+Summarized using GPT-4o-mini
+Append: [Elastic Security Labs découvre une campagne de logiciels malveillants pour Linux, révélant un potentiel système de minage de bitcoins](https://www.globalsecuritymag.com/elastic-security-labs-decouvre-une-campagne-de-logiciels-malveillants-pour.html)
+Token length: 51
+Summarized using GPT-4o-mini
+Append: [BTC/USD: le Bitcoin dépasse une première résistance](https://www.allnews.ch/content/march%C3%A9s/btcusd-le-bitcoin-d%C3%A9passe-une-premi%C3%A8re-r%C3%A9sistance)
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [La route vers la reprise Les tendances clés qui façonnent l'avenir des marchés de la blockchain et des cryptomonnaies.](https://www.allnews.ch/content/points-de-vue/la-route-vers-la-reprise)
+append_entries: 4
+Finish: 2024-09-30 12:37:59.613765

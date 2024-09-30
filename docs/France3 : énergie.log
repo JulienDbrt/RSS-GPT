@@ -2394,3 +2394,15 @@ Existing_entries: 200
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-09-30 01:28:17.678281
+------------------------------------------------------
+Started: 2024-09-30 12:48:32.829167
+Existing_entries: 200
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 258
+Summarized using GPT-4o-mini
+Append: [Chauffage au bois : ce qu'il faut savoir sur l'interdiction des cheminées à foyer ouvert dans une centaine de communes de l'Isère](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/chauffage-au-bois-ce-qu-il-faut-savoir-sur-l-interdiction-des-cheminees-a-foyer-ouvert-dans-une-centaine-de-communes-de-l-isere-3039785.html)
+Token length: 244
+Summarized using GPT-4o-mini
+Append: [Cette commune de 2500 habitants est un modèle en matière de transition écologique et couvre 85 % de ses besoins en énergie](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/cette-commune-de-2500-habitants-est-un-modele-en-matiere-de-transition-ecologique-et-couvre-85-de-ses-besoins-en-energie-3039287.html)
+append_entries: 2
+Finish: 2024-09-30 12:48:40.487557
