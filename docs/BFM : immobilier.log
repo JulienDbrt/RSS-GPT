@@ -2950,3 +2950,9 @@ Summarized using GPT-4o-mini
 Append: [L'ancienne maison du chanteur Jeff Buckley va être louée sur Airbnb](https://www.bfmtv.com/immobilier/location/l-ancienne-maison-du-chanteur-jeff-buckley-va-etre-louee-sur-airbnb_AN-202409290198.html)
 append_entries: 1
 Finish: 2024-09-29 12:38:09.565085
+------------------------------------------------------
+Started: 2024-09-30 01:27:00.180374
+Existing_entries: 400
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-09-30 01:27:00.594954

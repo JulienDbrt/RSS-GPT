@@ -5878,3 +5878,15 @@ Summarized using GPT-4o-mini
 Append: ["Il y a entre 80 à 90% de ralentisseurs illégaux" : des usagers multiplient les attaques en justice](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/toulon/il-y-a-entre-80-a-90-de-ralentisseurs-illegaux-des-usagers-multiplient-les-attaques-en-justice-3035033.html)
 append_entries: 4
 Finish: 2024-09-29 12:40:39.904462
+------------------------------------------------------
+Started: 2024-09-30 01:28:36.916376
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 326
+Summarized using GPT-4o-mini
+Append: [Les voitures interdites dans le centre-ville de Compiègne : vos avis sur la deuxième journée des mobilités douces](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/compiegne/les-voitures-interdites-dans-le-centre-ville-de-compiegne-vos-avis-sur-la-deuxieme-journee-des-mobilites-douces-3039668.html)
+Token length: 264
+Summarized using GPT-4o-mini
+Append: [Interruption partielle des TER entre Aix-en-Provence et Marseille à partir du lundi 30 septembre](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/interruption-partielle-des-ter-entre-aix-en-provence-et-marseille-a-partir-du-lundi-30-septembre-3039620.html)
+append_entries: 2
+Finish: 2024-09-30 01:28:45.746020

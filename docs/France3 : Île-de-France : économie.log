@@ -2883,3 +2883,9 @@ Summarized using GPT-4o-mini
 Append: [Moutons, champignons et graffiti : trois idées sorties autour de Saint-Denis](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/moutons-champignons-et-graffiti-trois-idees-sorties-autour-de-saint-denis-3036506.html)
 append_entries: 2
 Finish: 2024-09-29 12:39:52.703315
+------------------------------------------------------
+Started: 2024-09-30 01:28:17.881942
+Existing_entries: 365
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-09-30 01:28:18.129449
