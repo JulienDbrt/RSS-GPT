@@ -6346,3 +6346,24 @@ Append: [Aérien: aucun vol depuis l'aéroport de Bruxelles ce mardi](https://ww
 Append: [INFO BFM BUSINESS. Totalenergies remet sa cotation à Wall Street sur le bureau de Michel Barnier](https://www.bfmtv.com/economie/entreprises/energie/info-bfm-business-totalenergies-remet-sa-cotation-a-wall-street-sur-le-bureau-de-michel-barnier_AV-202409300047.html)
 append_entries: 11
 Finish: 2024-09-30 12:44:41.890383
+------------------------------------------------------
+Started: 2024-10-01 01:34:59.824705
+Existing_entries: 1011
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/
+Token length: 188
+Summarized using GPT-4o-mini
+Append: ["Une hausse de 20%": le prix du cacao fixé à un niveau record en Côte d'Ivoire](https://www.bfmtv.com/economie/entreprises/agriculture/une-hausse-de-20-le-prix-du-cacao-fixe-a-un-niveau-record-en-cote-d-ivoire_AD-202409300882.html)
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [Air France et Transavia suspendent leurs vols vers Beyrouth et Tel-Aviv jusqu'au 8 octobre](https://www.bfmtv.com/economie/entreprises/aeronautique/air-france-et-transavia-suspendent-leurs-vols-vers-beyrouth-et-tel-aviv-jusqu-au-8-octobre_AD-202409300678.html)
+Token length: 160
+Summarized using GPT-4o-mini
+Append: [Les Pays-Bas commandent officiellement quatre sous-marins à Naval Group pour 5,6 milliards d'euros](https://www.bfmtv.com/economie/entreprises/defense/les-pays-bas-commandent-officiellement-quatre-sous-marins-a-naval-group-pour-5-6-milliards-d-euros_AV-202409300601.html)
+Token length: 128
+Summarized using GPT-4o-mini
+Append: [Picard Surgelés a un tout nouveau propriétaire](https://www.bfmtv.com/economie/entreprises/picard-surgeles-a-un-tout-nouveau-proprietaire_AD-202409300633.html)
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Après les billets de train et d'avion, les places de concert bientôt soumises à la tarification dynamique?](https://www.bfmtv.com/economie/entreprises/culture-loisirs/apres-les-billets-de-train-et-d-avion-les-places-de-concert-bientot-soumises-a-la-tarification-dynamique_AD-202409300632.html)
+append_entries: 5
+Finish: 2024-10-01 01:35:17.271931

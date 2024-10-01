@@ -2933,3 +2933,9 @@ Summarized using GPT-4o-mini
 Append: [Aérien: aucun vol depuis l'aéroport de Bruxelles ce mardi](https://www.bfmtv.com/economie/entreprises/transports/aerien-aucun-vol-depuis-l-aeroport-de-bruxelles-ce-mardi_AV-202409300079.html)
 append_entries: 1
 Finish: 2024-09-30 12:45:30.047511
+------------------------------------------------------
+Started: 2024-10-01 01:36:17.121422
+Existing_entries: 381
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+append_entries: 0
+Finish: 2024-10-01 01:36:17.563569

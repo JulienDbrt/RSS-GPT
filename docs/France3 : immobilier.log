@@ -2262,3 +2262,12 @@ Existing_entries: 154
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-09-30 12:49:28.079700
+------------------------------------------------------
+Started: 2024-10-01 01:40:12.503468
+Existing_entries: 154
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 282
+Summarized using GPT-4o-mini
+Append: ["Au prix des logements, c'est inadmissible" : infiltrations, départ de feu et coupure d'électricité, dans cet immeuble, les habitants sont à bout](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/au-prix-des-logements-c-est-inadmissible-infiltrations-depart-de-feu-et-coupure-d-electricite-dans-cet-immeuble-les-habitants-sont-a-bout-3040046.html)
+append_entries: 1
+Finish: 2024-10-01 01:40:16.258015

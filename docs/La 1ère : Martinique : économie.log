@@ -2413,3 +2413,18 @@ Summarized using GPT-4o-mini
 Append: [La Semaine Bleue 2024 débute ce lundi en Martinique](https://la1ere.francetvinfo.fr/martinique/la-semaine-bleue-2024-debute-ce-lundi-en-martinique-1525739.html)
 append_entries: 2
 Finish: 2024-09-30 12:51:24.123475
+------------------------------------------------------
+Started: 2024-10-01 01:41:46.164586
+Existing_entries: 191
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 93
+Summarized using GPT-4o-mini
+Append: ["Non à la vie chère, hausse des salaires"… thèmes principaux de la grève du 1er octobre en Martinique](https://la1ere.francetvinfo.fr/martinique/non-a-la-vie-chere-hausse-des-salaires-themes-principaux-de-la-greve-du-1er-octobre-en-martinique-1525913.html)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [Prix des produits pétroliers : le gazole et le sans plomb en baisse à partir du 1er octobre 2024 en Martinique](https://la1ere.francetvinfo.fr/martinique/prix-des-produits-petroliers-le-gazole-et-le-sans-plomb-en-baisse-a-partir-du-1er-octobre-2024-en-martinique-1525871.html)
+Token length: 44
+Summarized using GPT-4o-mini
+Append: [Les Martiniquais bloqués à Belém au Brésil seront bientôt de retour](https://la1ere.francetvinfo.fr/martinique/les-martiniquais-bloques-a-belem-au-bresil-seront-bientot-de-retour-1525907.html)
+append_entries: 3
+Finish: 2024-10-01 01:41:58.003477
