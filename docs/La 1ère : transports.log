@@ -3143,3 +3143,15 @@ Summarized using GPT-4o-mini
 Append: [Le prix des carburants baisse en octobre à La Réunion](https://la1ere.francetvinfo.fr/reunion/le-prix-des-carburants-baisse-en-octobre-a-la-reunion-1525889.html)
 append_entries: 4
 Finish: 2024-10-01 01:42:13.695952
+------------------------------------------------------
+Started: 2024-10-01 12:56:46.927641
+Existing_entries: 432
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 102
+Summarized using GPT-4o-mini
+Append: [Crise en Nouvelle-Calédonie : les transports scolaires reprennent progressivement](https://la1ere.francetvinfo.fr/nouvellecaledonie/crise-en-nouvelle-caledonie-les-transports-scolaires-reprennent-progressivement-1526072.html)
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [Air Austral : le conseil de surveillance de la compagnie, prévu ce mardi, est finalement reporté](https://la1ere.francetvinfo.fr/reunion/air-austral-journee-decisive-pour-air-austral-et-son-president-joseph-brema-1525877.html)
+append_entries: 2
+Finish: 2024-10-01 12:56:56.071229

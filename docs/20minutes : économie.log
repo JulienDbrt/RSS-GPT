@@ -3131,3 +3131,18 @@ Summarized using GPT-4o-mini
 Append: [Nantes : La start-up de voyages sur abonnement ferme d’un coup, « des milliers de clients lésés »](https://www.20minutes.fr/societe/4112803-20240930-nantes-start-up-voyages-abonnement-ferme-coup-milliers-clients-leses)
 append_entries: 4
 Finish: 2024-10-01 01:33:19.387564
+------------------------------------------------------
+Started: 2024-10-01 12:43:23.298068
+Existing_entries: 435
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Charcuterie : Pourquoi le prix des jambons et saucisses va prendre un coup de chaud](https://www.20minutes.fr/economie/4112969-20241001-charcuterie-pourquoi-prix-jambons-saucisses-va-prendre-coup-chaud)
+Token length: 126
+Summarized using GPT-4o-mini
+Append: [LED dans des jouets : L’Anses réclame de réviser la norme UE pour protéger les yeux des enfants](https://www.20minutes.fr/sante/4112925-20241001-led-jouets-anses-reclame-reviser-norme-ue-proteger-yeux-enfants)
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Le français Naval Group vend quatre sous-marins aux Pays-Bas et se frotte les mains](https://www.20minutes.fr/economie/4112919-20241001-francais-naval-group-vend-quatre-sous-marins-pays-bas-frotte-mains)
+append_entries: 3
+Finish: 2024-10-01 12:43:37.507832

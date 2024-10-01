@@ -2910,3 +2910,15 @@ Summarized using GPT-4o-mini
 Append: [Vers la fin du diesel à Paris ? Quatre stations-service n'ont plus le droit de vendre du gazole](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/vers-la-fin-du-diesel-a-paris-quatre-stations-service-n-ont-plus-le-droit-de-vendre-du-gazole-3040124.html)
 append_entries: 1
 Finish: 2024-10-01 01:39:21.767086
+------------------------------------------------------
+Started: 2024-10-01 12:53:42.199699
+Existing_entries: 368
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Périphérique à 50 km/h : "C'est n'importe quoi !" Automobilistes et motards dénoncent une "décision brutale"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/peripherique-a-50-km-h-c-est-n-importe-quoi-automobilistes-et-motards-denoncent-une-decision-brutale-3040280.html)
+Token length: 350
+Summarized using GPT-4o-mini
+Append: ["Quel sera le montant de ma retraite ?" 9 600 rendez-vous personnalisés avec des conseillers en Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/quel-sera-le-montant-de-ma-retraite-9-600-rendez-vous-personnalises-avec-des-conseillers-en-ile-de-france-3040109.html)
+append_entries: 2
+Finish: 2024-10-01 12:53:49.775440

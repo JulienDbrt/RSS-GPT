@@ -2539,3 +2539,12 @@ Existing_entries: 244
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-01 01:39:50.744520
+------------------------------------------------------
+Started: 2024-10-01 12:54:30.990382
+Existing_entries: 244
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 272
+Summarized using GPT-4o-mini
+Append: [Protection des dauphins: l'Europe fermera à nouveau le golfe de Gascogne à la pêche pendant un mois cet l'hiver](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/protection-des-dauphins-l-europe-fermera-a-nouveau-le-golfe-de-gascogne-a-la-peche-pendant-un-mois-a-l-hiver-2025-3040292.html)
+append_entries: 1
+Finish: 2024-10-01 12:54:35.203363

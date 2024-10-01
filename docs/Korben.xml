@@ -5,20 +5,76 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Les CAPTCHAs sont définitivement vaincus grâce à l'IA</title>
+<link>https://korben.info/ia-resout-captchas-images-100-pourcent.html</link>
+<guid>https://korben.info/ia-resout-captchas-images-100-pourcent.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: captchas, intelligence artificielle, Daft Punk, vérification, robots
+
+<br><br>Summary: Les captchas, ces systèmes de vérification qui demandent aux utilisateurs de sélectionner des images spécifiques pour prouver qu'ils ne sont pas des robots, ont longtemps été utilisés pour protéger les sites web des automates. Ce type de test est souvent perçu comme frustrant, mais il joue un rôle crucial dans la sécurité en ligne. Cependant, l'émergence de l'intelligence artificielle remet en question l'efficacité de ces captchas. Des algorithmes avancés peuvent maintenant contourner ces dispositifs de sécurité, rendant leur objectif initial obsolète. Cette situation souligne le paradoxe de la technologie : alors que les humains luttent contre les robots à travers des captchas, les machines développent des outils capables de franchir ces barrières avec aisance. De plus, l'anecdote concernant les Daft Punk, qui n'ont jamais eu de compte Gmail pour cette raison, illustre une préoccupation partagée par de nombreux utilisateurs face à cette réalité. En somme, le défi d'ériger des barrières efficaces face à une intelligence artificielle de plus en plus performante devient une problématique centrale en matière de cybersécurité et de protection des données. <div>
+<p>Vous connaissez sûrement ces captchas agaçants qui vous demandent en boucle de cliquer sur tous les feux tricolores, les camions ou les passages piétons pour prouver que vous n&rsquo;êtes pas un robot. La raison même pour laquelle les Daft Punk n&rsquo;ont jamais eu de compte Gmail, d&rsquo;ailleurs.</p>
+<p>Ces CAPTCHAs, censés être notre dernier rempart contre l&rsquo;invasion des machines, viennent de se faire latter la gueule par l&rsquo;intelligence artificielle. Comme c&rsquo;est surprenant ! (non)</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Oct 2024 14:18:59 +0200</pubDate>
+<pubDate>Tue, 01 Oct 2024 14:18:59 +0200</pubDate>
+</item>
+<item>
+<title>Nmap Viewer - Visualisez vos scans réseau comme un pro</title>
+<link>https://korben.info/nmap-viewer-visualisation-scans-reseau.html</link>
+<guid>https://korben.info/nmap-viewer-visualisation-scans-reseau.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Nmap, Viewer, XML, interface, scan
+
+<br><br>Résumé : Si vous en avez assez de déchiffrer des lignes interminables de rapports Nmap, Nmap Viewer est la solution idéale pour vous. Ce nouvel outil simplifie l’analyse de vos scans effectués avec Nmap. Pour l’utiliser, il vous suffit de lancer un scan Nmap habituel et de récupérer le fichier XML qui contient toutes les informations pertinentes. Au lieu de vous battre avec des fichiers difficiles à lire, vous pouvez facilement glisser ce fichier dans une interface web conçue pour présenter les données de manière claire et organisée. Cette méthode vous fait gagner un temps précieux et améliore votre expérience utilisateur. Nmap Viewer rend accessible des informations complexes en les structurant visuellement, ce qui facilite la compréhension et l’analyse des résultats de vos scans. Cet outil est donc un allié indispensable pour les professionnels de la sécurité et les administrateurs réseau, leur permettant de mieux exploiter les données collectées par Nmap sans ressentir le stress lié à la surcharge d’informations. En résumé, avec Nmap Viewer, la gestion des rapports Nmap devient beaucoup plus agréable et efficace. <div>
+<p>Marre de vous arracher le peu de cheveux qu&rsquo;il vous reste devant vos rapports Nmap ? Alors, laissez-moi vous présenter <strong>Nmap Viewer</strong> !</p>
+<p>Le principe est simple : vous lancez votre scan Nmap habituel, vous récupérez le fichier XML avec toutes les datas&hellip; et là, au lieu de vous plonger dans des lignes et des lignes sans fin, vous glissez simplement ce fichier dans une interface web et hop, toutes les infos s&rsquo;affichent de manière claire et organisée.</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Oct 2024 13:27:24 +0200</pubDate>
+<pubDate>Tue, 01 Oct 2024 13:27:24 +0200</pubDate>
+</item>
+<item>
+<title>OpenArk - L'outil anti-rookit open source pour Windows</title>
+<link>https://korben.info/openark-outil-anti-rootkit-open-source-windows.html</link>
+<guid>https://korben.info/openark-outil-anti-rootkit-open-source-windows.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: rootkit, logiciel, malveillant, espionner, sécurité
+
+<br><br>Summary: Aujourd’hui, nous parlons d’un outil intéressant pour ceux qui se préoccupent de la sécurité de leur système, surtout s'ils se sentent un peu paranoïaques. Cet outil est un anti-rootkit open source conçu spécifiquement pour Windows. Pour bien comprendre son importance, définissons d’abord ce qu'est un rootkit. Un rootkit est un type de logiciel malveillant qui se cache dans votre système et exécute des actions souvent malveillantes en toute discrétion. Ces actions peuvent inclure l'espionnage de vos données ou l'ouverture de portes dérobées pour faciliter d'autres attaques. Les rootkits sont particulièrement redoutables, car ils peuvent rester invisibles pour de nombreux logiciels antivirus traditionnels, rendant leur détection et leur élimination complexes. C’est ici que l’anti-rootkit entre en jeu, offrant une solution pour détecter et neutraliser ce type de menace. Utiliser un outil comme celui-ci peut grandement améliorer la sécurité de votre ordinateur et vous protéger contre des activités malveillantes qui pourraient compromettre votre vie privée. En résumé, cet anti-rootkit open source est un atout essentiel pour tous ceux qui cherchent à renforcer leur sécurité en ligne. <div>
+<p>Aujourd&rsquo;hui, je vais vous causer d&rsquo;un outil qui devrait vous intéresser si vous êtes un peu parano (comme moi). Il s&rsquo;agit d&rsquo;<strong><a href="https://github.com/BlackINT3/OpenArk/tree/master">OpenArk</a></strong>, un anti-rookit open source pour Windows.</p>
+<p>Mais d&rsquo;abord, c&rsquo;est quoi un rootkit ?</p>
+<p>Et bien en gros, c&rsquo;est un type de logiciel malveillant qui se planque dans votre système pour faire des trucs pas nets en douce, du genre vous espionner ou ouvrir une porte dérobée pour faire encore plus de saloperies. Bref, c&rsquo;est le genre de truc dont on se passerait bien !</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Tue, 01 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Le retour de la barre des tâches compacte sur Windows 11</title>
+<link>https://korben.info/windows-11-retour-barre-taches-compacte.html</link>
+<guid>https://korben.info/windows-11-retour-barre-taches-compacte.html</guid>
+<content:encoded><![CDATA[
+<div> barre des tâches, Windows 11, compacte, fonctionnalités, nostalgie  
+
+<br><br>Summary: Microsoft a annoncé le retour de la barre des tâches compacte sur Windows 11, une fonctionnalité qui ravira les utilisateurs nostalgiques. Après une période de trois ans avec une barre des tâches de taille "XXL", les icônes vont enfin pouvoir retrouver une version plus petite et plus pratique. Ce changement fait suite au lancement de Windows 11 en 2021, qui avait été marqué par une nouvelle interface et de nouvelles fonctionnalités prometteuses, mais aussi par une barre des tâches qui ne faisait pas l'unanimité. Beaucoup ont considéré que celle-ci était trop encombrante, comparable à un excès de "smoothies" durant le confinement, ce qui a entraîné des critiques de la part des utilisateurs. Avec le retour de la barre des tâches compacte, Microsoft semble répondre à une demande d'une partie de sa base d'utilisateurs, cherchant à allier esthétisme et fonctionnalité, tout en ramenant un peu de cette nostalgie qui a fleuri dans le paysage technologique du début des années 2000. <div>
+<p>Microsoft vient de nous sortir du chapeau une fonctionnalité qui sent bon la nostalgie : le retour de la barre des tâches compacte sur Windows 11. Ainsi, après 3 ans de régime forcé à la taille &ldquo;XXL&rdquo;, nos icônes vont enfin pouvoir retrouver leur petite taille.</p>
+<p>D&rsquo;ailleurs, souvenez-vous de l&rsquo;arrivée de Windows 11 en 2021 : Nouvelle interface (waouh ! ), nouvelles fonctionnalités (waouh !)&hellip; et une barre des tâches qui semblait avoir abusé des smoothies de Tibo InShape durant le confinement (Ouin&hellip;).</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Oct 2024 08:08:47 +0200</pubDate>
+<pubDate>Tue, 01 Oct 2024 08:08:47 +0200</pubDate>
+</item>
+
+<item>
 <title>Assurez la sécurité de vos données avec Kiwi Backup</title>
 <link>https://korben.info/securite-donnees-kiwi-backup-sauvegarde-cloud.html</link>
 <guid>https://korben.info/securite-donnees-kiwi-backup-sauvegarde-cloud.html</guid>
 <content:encoded><![CDATA[
 <div> mots-clés : sauvegarde, Kiwi Backup, données, virus, disque dur  
 
-<br><br>Summary: Dans un monde numérique où les données sont essentielles, la perte d'informations peut engendrer une panique profonde, surtout avant des échéances importantes comme une présentation. L'article aborde la nécessité cruciale de la sauvegarde des données pour éviter des désastres. Kiwi Backup est présenté comme une solution efficace, 100% française, capable d'assurer la protection de vos fichiers contre diverses menaces telles que les pannes de disque dur ou les attaques de virus. Cette solution se distingue par son engagement à sauvegarder vos données de manière sécurisée et fiable, agissant tel un garde du corps pour vos fichiers précieux. En mettant en place un système de sauvegarde fiable avec Kiwi Backup, vous pouvez dormir tranquille, sachant que vos informations sont protégées et facilement récupérables en cas de problème. La sauvegarde régulière de vos données devient donc un impératif. Avec Kiwi Backup, vous avez la certitude que vos fichiers essentiels sont entre de bonnes mains, prêts à être restaurés en toute simplicité, quel que soit le problème rencontré. Opter pour une solution de sauvegarde solide est un réflexe indispensable à adopter dans notre quotidien numérique. <div>
+<br /><br />Summary: Dans un monde numérique où les données sont essentielles, la perte d'informations peut engendrer une panique profonde, surtout avant des échéances importantes comme une présentation. L'article aborde la nécessité cruciale de la sauvegarde des données pour éviter des désastres. Kiwi Backup est présenté comme une solution efficace, 100% française, capable d'assurer la protection de vos fichiers contre diverses menaces telles que les pannes de disque dur ou les attaques de virus. Cette solution se distingue par son engagement à sauvegarder vos données de manière sécurisée et fiable, agissant tel un garde du corps pour vos fichiers précieux. En mettant en place un système de sauvegarde fiable avec Kiwi Backup, vous pouvez dormir tranquille, sachant que vos informations sont protégées et facilement récupérables en cas de problème. La sauvegarde régulière de vos données devient donc un impératif. Avec Kiwi Backup, vous avez la certitude que vos fichiers essentiels sont entre de bonnes mains, prêts à être restaurés en toute simplicité, quel que soit le problème rencontré. Opter pour une solution de sauvegarde solide est un réflexe indispensable à adopter dans notre quotidien numérique. <div>
 <p><div style="text-align: center;">&ndash; Article en partenariat avec Kiwi Backup &ndash;</div></p>
 <p>Vous connaissez ce moment de panique quand votre disque dur décide de rendre l&rsquo;âme juste avant une présentation cruciale ? Ou quand un virus sournois s&rsquo;invite sur votre PC, emportant avec lui vos précieuses données ? Si ces scénarios vous donnent des sueurs froides alors il est grand temps de parler de sauvegarde. Et pas n&rsquo;importe laquelle : <strong>Kiwi Backup</strong>, une solution 100% française qui veillera sur vos fichiers comme un garde du corps sur ses protégés.</p>
 ]]></content:encoded>
 <pubDate>Mon, 30 Sep 2024 13:53:36 +0200</pubDate>
-<pubDate>Mon, 30 Sep 2024 13:53:36 +0200</pubDate>
 </item>
-
 <item>
 <title>CodeFusion - Fusionnez facilement votre code pour ChatGPT</title>
 <link>https://korben.info/codefusion-fusionnez-facilement-code-chatgpt.html</link>

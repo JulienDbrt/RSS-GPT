@@ -2271,3 +2271,15 @@ Summarized using GPT-4o-mini
 Append: ["Au prix des logements, c'est inadmissible" : infiltrations, départ de feu et coupure d'électricité, dans cet immeuble, les habitants sont à bout](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/au-prix-des-logements-c-est-inadmissible-infiltrations-depart-de-feu-et-coupure-d-electricite-dans-cet-immeuble-les-habitants-sont-a-bout-3040046.html)
 append_entries: 1
 Finish: 2024-10-01 01:40:16.258015
+------------------------------------------------------
+Started: 2024-10-01 12:55:03.464084
+Existing_entries: 155
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 336
+Summarized using GPT-4o-mini
+Append: [Un ensemble de bâtiments menace de s’effondrer près de Grenoble : une dizaine d'habitants évacués, des commerces fermés](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/un-ensemble-de-batiments-menace-de-s-effondrer-pres-de-grenoble-une-dizaine-d-habitants-evacues-des-commerces-fermes-3040313.html)
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [Meublés de tourisme à Strasbourg : pour une location courte, il faut désormais compenser par un autre logement loué à l’année](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/meubles-de-tourisme-a-strasbourg-pour-une-location-courte-il-faut-desormais-compenser-par-un-autre-logement-loue-a-l-annee-3040037.html)
+append_entries: 2
+Finish: 2024-10-01 12:55:12.550684

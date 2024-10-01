@@ -2412,3 +2412,18 @@ Existing_entries: 202
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-10-01 01:39:16.478370
+------------------------------------------------------
+Started: 2024-10-01 12:53:30.162173
+Existing_entries: 202
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [La justice a tranché : des menhirs classés empêchent la construction d'éoliennes](https://france3-regions.francetvinfo.fr/bretagne/finistere/des-menhirs-classes-empechent-la-construction-d-eoliennes-3040484.html)
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [Augmentation des APL et des petites retraites, hausse du prix du gaz... ce qui change au 1er octobre 2024](https://france3-regions.francetvinfo.fr/centre-val-de-loire/augmentation-des-apl-et-des-petites-retraites-hausse-du-prix-du-gaz-ce-qui-change-au-1er-octobre-2024-3039989.html)
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Feu de cheminée : ces quatre moyens simples pour éviter l'incendie](https://france3-regions.francetvinfo.fr/grand-est/ardennes/cheminee-ces-moyens-simples-pour-l-eviter-l-incendie-3040139.html)
+append_entries: 3
+Finish: 2024-10-01 12:53:41.996551

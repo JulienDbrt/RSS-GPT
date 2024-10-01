@@ -2428,3 +2428,9 @@ Summarized using GPT-4o-mini
 Append: [Les Martiniquais bloqués à Belém au Brésil seront bientôt de retour](https://la1ere.francetvinfo.fr/martinique/les-martiniquais-bloques-a-belem-au-bresil-seront-bientot-de-retour-1525907.html)
 append_entries: 3
 Finish: 2024-10-01 01:41:58.003477
+------------------------------------------------------
+Started: 2024-10-01 12:56:46.552646
+Existing_entries: 194
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-10-01 12:56:46.624973

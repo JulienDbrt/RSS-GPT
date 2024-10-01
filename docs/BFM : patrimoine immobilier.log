@@ -1935,3 +1935,12 @@ Existing_entries: 43
 Fetching from https://www.bfmtv.com/rss/economie/patrimoine/immobilier/
 append_entries: 0
 Finish: 2024-10-01 01:36:15.110520
+------------------------------------------------------
+Started: 2024-10-01 12:48:28.046308
+Existing_entries: 43
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/immobilier/
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Les prix de l'immobilier ont baissé de 12% depuis l'été 2022 en France](https://www.bfmtv.com/economie/patrimoine/immobilier/les-prix-de-l-immobilier-ont-baisse-de-12-depuis-l-ete-2022-en-france_VN-202410010127.html)
+append_entries: 1
+Finish: 2024-10-01 12:48:32.674011

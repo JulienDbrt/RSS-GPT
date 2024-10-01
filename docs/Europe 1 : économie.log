@@ -3172,3 +3172,15 @@ Summarized using GPT-4o-mini
 Append: [Renault abandonne sa production de moteurs de Formule 1, une page d'histoire se tourne](https://www.europe1.fr/economie/renault-abandonne-sa-production-de-moteurs-de-formule-1-une-page-dhistoire-se-tourne-4270407)
 append_entries: 1
 Finish: 2024-10-01 01:37:33.537487
+------------------------------------------------------
+Started: 2024-10-01 12:50:56.397527
+Existing_entries: 450
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Le marché automobile français enregistre un 5e mois de baisse consécutif](https://www.europe1.fr/economie/le-marche-automobile-francais-enregistre-un-5e-mois-de-baisse-consecutif-4270494)
+Token length: 334
+Summarized using GPT-4o-mini
+Append: [La baisse des dépenses publiques, grande oubliée du discours de politique générale de Michel Barnier ?](https://www.europe1.fr/economie/la-baisse-des-depenses-publiques-grande-oubliee-du-discours-de-politique-generale-de-michel-barnier-4270436)
+append_entries: 2
+Finish: 2024-10-01 12:51:05.498483

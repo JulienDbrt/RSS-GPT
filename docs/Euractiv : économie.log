@@ -2483,3 +2483,15 @@ Summarized using GPT-4o-mini
 Append: [L’Allemagne veut renégocier les règles européennes de durabilité des entreprises](https://www.euractiv.fr/section/economie/news/lallemagne-veut-renegocier-les-regles-europeennes-de-durabilite-des-entreprises/)
 append_entries: 3
 Finish: 2024-10-01 01:37:28.532191
+------------------------------------------------------
+Started: 2024-10-01 12:50:37.925195
+Existing_entries: 239
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Token length: 233
+Summarized using GPT-4o-mini
+Append: [Compétitivité de l’UE : pour Mario Draghi, l’émission de dettes communes n’est pas « essentielle »](https://www.euractiv.fr/section/concurrence/news/competitivite-de-lue-pour-mario-draghi-lemission-de-dettes-communes-nest-pas-essentielle/)
+Token length: 301
+Summarized using GPT-4o-mini
+Append: [Pacte de l’UE pour une industrie propre : Berlin veut exclure les financements au nucléaire](https://www.euractiv.fr/section/economie/news/pacte-de-lue-pour-une-industrie-propre-berlin-veut-exclure-les-financements-au-nucleaire/)
+append_entries: 2
+Finish: 2024-10-01 12:50:51.945521
