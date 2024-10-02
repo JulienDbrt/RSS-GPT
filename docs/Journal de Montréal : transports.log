@@ -2790,3 +2790,9 @@ Summarized using GPT-4o-mini
 Append: [«Ma fille était en panique»: d’autres cas de conducteurs de bus perdus](https://www.journaldemontreal.com/2024/09/30/ma-fille-etait-en-panique--dautres-cas-de-conducteurs-de-bus-jaunes-perdus)
 append_entries: 2
 Finish: 2024-10-02 01:34:03.771566
+------------------------------------------------------
+Started: 2024-10-02 12:51:52.827031
+Existing_entries: 314
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-10-02 12:51:53.138813

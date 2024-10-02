@@ -3193,3 +3193,18 @@ Summarized using GPT-4o-mini
 Append: [Smic : Michel Barnier promet une revalorisation de 2% «dès le 1er novembre»](https://www.europe1.fr/economie/smic-michel-barnier-promet-une-revalorisation-de-2-des-le-1er-novembre-4270544)
 append_entries: 1
 Finish: 2024-10-02 01:31:07.345633
+------------------------------------------------------
+Started: 2024-10-02 12:47:33.863445
+Existing_entries: 453
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 275
+Summarized using GPT-4o-mini
+Append: [Budget : l'indexation des retraites sur l'inflation reportée au 1er juillet 2025](https://www.europe1.fr/economie/budget-lindexation-des-retraites-sur-linflation-reportee-au-1er-juillet-2025-4270704)
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [«Un impôt déguisé» : nouveau tour de vis en vue pour le malus automobile à partir de 2025](https://www.europe1.fr/economie/un-impot-deguise-nouveau-tour-de-vis-en-vue-pour-le-malus-automobile-a-partir-de-2025-4270612)
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [Revalorisation du SMIC, allègements de charges, participation… Les entreprises mitigées sur les mesures de soutien au travail](https://www.europe1.fr/economie/revalorisation-du-smic-allegements-de-charges-participation-les-entreprises-mitigees-sur-les-mesures-de-soutien-au-travail-4270603)
+append_entries: 3
+Finish: 2024-10-02 12:47:46.759092

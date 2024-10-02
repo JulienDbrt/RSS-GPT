@@ -2436,3 +2436,12 @@ Summarized using GPT-4o-mini
 Append: [Gaz, retraites, aide au logement... Ce qui change au 1er octobre](https://france3-regions.francetvinfo.fr/corse/gaz-retraites-aide-au-logement-ce-qui-change-au-1er-octobre-3040304.html)
 append_entries: 1
 Finish: 2024-10-02 01:33:00.287055
+------------------------------------------------------
+Started: 2024-10-02 12:50:11.254222
+Existing_entries: 206
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 319
+Summarized using GPT-4o-mini
+Append: ["15% des ménages sont en vulnérabilité énergétique", en Bretagne des dispositifs existent pour aider les propriétaires précaires](https://france3-regions.francetvinfo.fr/bretagne/15-des-menages-sont-en-vulnerabilite-energetique-en-bretagne-des-dispositifs-existent-pour-aider-les-proprietaires-precaires-3038615.html)
+append_entries: 1
+Finish: 2024-10-02 12:50:14.874185

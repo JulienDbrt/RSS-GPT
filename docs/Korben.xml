@@ -5,17 +5,32 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Winpilot - Quand Clippy vous aider à dompter Windows 10/11 comme au bon vieux temps</title>
+<link>https://korben.info/winpilot-votre-copilote-pour-dompter-windows-10-11.html</link>
+<guid>https://korben.info/winpilot-votre-copilote-pour-dompter-windows-10-11.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Windows, réglages, Clippy, applications, projet  
+
+<br><br>Résumé :  
+Cet article, rédigé en mai 2024, annonce l’arrêt d'un projet de développement, ce qui explique son inscription de publication prévue pour le 2 octobre 2024. Il aborde les frustrations liées à Windows, notamment les réglages cachés, les applications pré-installées qui occupent inutilement de l’espace, ainsi que l’intrusion de l’IA Copilot dans l’expérience utilisateur. L'auteur souligne que ces éléments nuisent à la personnalisation et au contrôle de l'utilisateur sur son environnement Windows. En réponse à ces préoccupations, il présente une solution permettant à chacun de retrouver les rênes de son système d'exploitation. La mention de Clippy, l'assistant iconique des années 90, évoque une approche nostalgique pour aider les utilisateurs à naviguer dans cette version de Windows. En somme, cet article exprime une volonté de rétablir un équilibre entre la technologie et l'utilisateur, en offrant un moyen de personnaliser et d’optimiser l’interface Windows selon ses propres préférences. <div>
+<p><strong>Edit : J&rsquo;ai écris cet article en mai 2024 et programmé pour le 2 octobre de cette année. Malheureusement, entre temps, le développeur a clôturé son projet.</strong> <strong>Désolé pour ça.</strong></p>
+<p>Terminé les réglages planqués dans tous les coins sous Windows, les applis pré-installées qui bouffent de la place pour rien, et cette satanée IA Copilot qui fourre son nez partout. Avec <a href="https://github.com/builtbybel/Winpilot">Winpilot</a>, vous allez pouvoir reprendre les commandes et façonnez votre Windows à votre image. Et tout ça, avec la complicité de Clippy, le fidèle assistant tout droit sorti des années 90 !</p>
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Wed, 02 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+
+<item>
 <title>Doom sur GPU - Plus besoin de processeur pour faire tourner le FPS culte</title>
 <link>https://korben.info/doom-gpu-fps-culte-emancipe-processeur.html</link>
 <guid>https://korben.info/doom-gpu-fps-culte-emancipe-processeur.html</guid>
 <content:encoded><![CDATA[
 <div> Doom, GPU, développeur, FPS, 1993  
 
-<br><br>Summary: Un développeur a réussi à exécuter Doom, le célèbre jeu de tir à la première personne sorti en 1993, presque entièrement sur GPU, une avancée qui représente une véritable révolution pour ce classique du gaming. Doom a non seulement marqué les esprits grâce à son gameplay innovant, mais il a également établi les fondements du genre FPS. Les graphismes, bien que considérés comme en 2.5D, ont offert une expérience immersive qui semble aujourd'hui presque rudimentaire comparée aux productions modernes. Avec une ambiance aussi sombre que celle d'une réunion de famille chez les Addams, Doom fascine par son univers et son atmosphère oppressante. De plus, son arsenal, armé et varié, a su inspirer de nombreux jeux postérieurs, rappelant parfois l'efficacité de personnages modernes tels que John Wick. En plaçant une grande partie du traitement graphique entre les mains du GPU, cette réalisation ouvre la voie à de nouvelles possibilités techniques et artistiques pour les jeux vidéo, prouvant que même un titre aussi emblématique que Doom peut évoluer et se réinventer dans le paysage numérique actuel. <div>
+<br /><br />Summary: Un développeur a réussi à exécuter Doom, le célèbre jeu de tir à la première personne sorti en 1993, presque entièrement sur GPU, une avancée qui représente une véritable révolution pour ce classique du gaming. Doom a non seulement marqué les esprits grâce à son gameplay innovant, mais il a également établi les fondements du genre FPS. Les graphismes, bien que considérés comme en 2.5D, ont offert une expérience immersive qui semble aujourd'hui presque rudimentaire comparée aux productions modernes. Avec une ambiance aussi sombre que celle d'une réunion de famille chez les Addams, Doom fascine par son univers et son atmosphère oppressante. De plus, son arsenal, armé et varié, a su inspirer de nombreux jeux postérieurs, rappelant parfois l'efficacité de personnages modernes tels que John Wick. En plaçant une grande partie du traitement graphique entre les mains du GPU, cette réalisation ouvre la voie à de nouvelles possibilités techniques et artistiques pour les jeux vidéo, prouvant que même un titre aussi emblématique que Doom peut évoluer et se réinventer dans le paysage numérique actuel. <div>
 <p>Un développeur vient de réussir l&rsquo;exploit ultime : <strong>faire tourner le mythique Doom presque entièrement sur GPU</strong>. Oui, vous avez bien lu : le FPS qui a fait trembler les parents des années 90 s&rsquo;émancipe enfin du CPU pour aller tâter du silicium graphique.</p>
 <p>Pour rappel, Doom, c&rsquo;est LE jeu de tir à la première personne sorti en 1993 qui a posé les bases du genre FPS. Des graphismes en 2.5D qui feraient passer Minecraft pour un film Pixar, une ambiance plus glauque qu&rsquo;une réunion de famille chez les Addams, et un arsenal qui ferait pâlir d&rsquo;envie John Wick&hellip;</p>
 ]]></content:encoded>
-<pubDate>Tue, 01 Oct 2024 15:37:10 +0200</pubDate>
 <pubDate>Tue, 01 Oct 2024 15:37:10 +0200</pubDate>
 </item>
 <item>
@@ -25,13 +40,11 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Fortnite, Epic Games, contrôle parental, mise à jour, temps de jeu
 
-<br><br>Summary: Epic Games a récemment annoncé une mise à jour majeure pour Fortnite, visant à améliorer les fonctionnalités de contrôle parental. Cette nouvelle fonctionnalité permet aux parents de mieux gérer le temps de jeu de leurs enfants, notamment en leur donnant la possibilité de définir des limites de temps. De nombreux parents se retrouvent souvent dans une situation délicate avec leurs enfants, qui les convainquent habituellement qu'ils ne comprennent pas les dynamiques du jeu. Grâce à cette mise à jour, les parents peuvent ainsi se positionner en tant que "pros" du contrôle parental plutôt qu'en simples "noobs". L'idée est d'offrir des outils robustes pour aider à réguler le temps de jeu, tout en facilitant le dialogue entre parents et enfants. On attend donc avec impatience de voir comment ces nouvelles options seront accueillies par les familles, notamment celles avec des enfants qui passent des heures sur Fortnite. Cette initiative d'Epic Games pourrait bien transformer les réactions plaintives des enfants en promesses de n'importe quoi pour récupérer du temps de jeu, tout en rassurant les parents sur leur capacité à gérer les activités de leurs enfants en ligne. <div>
+<br /><br />Summary: Epic Games a récemment annoncé une mise à jour majeure pour Fortnite, visant à améliorer les fonctionnalités de contrôle parental. Cette nouvelle fonctionnalité permet aux parents de mieux gérer le temps de jeu de leurs enfants, notamment en leur donnant la possibilité de définir des limites de temps. De nombreux parents se retrouvent souvent dans une situation délicate avec leurs enfants, qui les convainquent habituellement qu'ils ne comprennent pas les dynamiques du jeu. Grâce à cette mise à jour, les parents peuvent ainsi se positionner en tant que "pros" du contrôle parental plutôt qu'en simples "noobs". L'idée est d'offrir des outils robustes pour aider à réguler le temps de jeu, tout en facilitant le dialogue entre parents et enfants. On attend donc avec impatience de voir comment ces nouvelles options seront accueillies par les familles, notamment celles avec des enfants qui passent des heures sur Fortnite. Cette initiative d'Epic Games pourrait bien transformer les réactions plaintives des enfants en promesses de n'importe quoi pour récupérer du temps de jeu, tout en rassurant les parents sur leur capacité à gérer les activités de leurs enfants en ligne. <div>
 <p>Bonne nouvelle pour tous ceux qui comme moi, sont des parents de gamers en culottes courtes qui ne savent pas s&rsquo;arrêter : Epic Games vient de lâcher une mise à jour afin de vous faire passer du statut de &ldquo;<em><strong>Mais maman / papa, t&rsquo;y comprends rien à Fortnite, spèce de noob</strong></em>&rdquo; à celui du pro du contrôle parental appelé également &ldquo;<strong>Pitiiiiié, je ferais tout ce que vous me direz si vous me remettez du temps !!</strong>&rdquo;</p>
 ]]></content:encoded>
 <pubDate>Tue, 01 Oct 2024 15:23:03 +0200</pubDate>
-<pubDate>Tue, 01 Oct 2024 15:23:03 +0200</pubDate>
 </item>
-
 <item>
 <title>Les CAPTCHAs sont définitivement vaincus grâce à l'IA</title>
 <link>https://korben.info/ia-resout-captchas-images-100-pourcent.html</link>

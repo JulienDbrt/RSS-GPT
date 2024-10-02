@@ -3206,3 +3206,15 @@ Summarized using GPT-4o-mini
 Append: [Michel Barnier annonce une "contribution exceptionnelle" pour les plus fortunés](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-3203117)
 append_entries: 1
 Finish: 2024-10-02 01:32:14.575992
+------------------------------------------------------
+Started: 2024-10-02 12:49:08.863138
+Existing_entries: 456
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 135
+Summarized using GPT-4o-mini
+Append: [Une ligne économique maintenue](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-mercredi-02-octobre-2024-2883009)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: [Budget : 60 milliards d'économies en 2025, qui sera concerné ?](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2052605)
+append_entries: 2
+Finish: 2024-10-02 12:49:25.903930

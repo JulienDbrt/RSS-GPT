@@ -2931,3 +2931,12 @@ Summarized using GPT-4o-mini
 Append: [Périphérique à 50 km/h : l'inter-files est-elle vraiment finie ? Non pour les motards en colère](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/peripherique-a-50-km-h-l-inter-files-est-elle-vraiment-finie-non-pour-les-motards-en-colere-3040553.html)
 append_entries: 1
 Finish: 2024-10-02 01:33:03.865395
+------------------------------------------------------
+Started: 2024-10-02 12:50:15.082046
+Existing_entries: 371
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 240
+Summarized using GPT-4o-mini
+Append: ["Tous les jours des bus sont annulés faute de personnel ou de matériel", la galère des usagers des bus en grande couronne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/tous-les-jours-des-bus-sont-annules-faute-de-personnel-ou-de-materiel-la-galere-des-usagers-des-bus-en-grande-couronne-3040421.html)
+append_entries: 1
+Finish: 2024-10-02 12:50:19.518044

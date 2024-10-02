@@ -2560,3 +2560,12 @@ Summarized using GPT-4o-mini
 Append: [Hausse de 92 % du prix du beurre :  les croissants vont-ils augmenter ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/hausse-du-prix-du-beurre-les-croissants-seront-ils-toujours-aussi-beurres-3040664.html)
 append_entries: 2
 Finish: 2024-10-02 01:33:23.071992
+------------------------------------------------------
+Started: 2024-10-02 12:50:57.190334
+Existing_entries: 247
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 326
+Summarized using GPT-4o-mini
+Append: [Usine Yves Rocher de Ploërmel reprise, comme un parfum de soulagement !](https://france3-regions.francetvinfo.fr/bretagne/morbihan/usine-yves-rocher-de-ploermel-reprise-comme-un-parfum-de-soulagement-3040968.html)
+append_entries: 1
+Finish: 2024-10-02 12:51:02.240636
