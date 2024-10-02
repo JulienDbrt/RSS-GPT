@@ -2434,3 +2434,15 @@ Existing_entries: 194
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-10-01 12:56:46.624973
+------------------------------------------------------
+Started: 2024-10-02 01:35:06.879178
+Existing_entries: 194
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 40
+Summarized using GPT-4o-mini
+Append: [ÉDITO. L’émergence du RPPRAC illustre les lacunes de notre système économique](https://la1ere.francetvinfo.fr/martinique/l-emergence-du-rpprac-illustre-les-lacunes-de-notre-systeme-economique-1526240.html)
+Token length: 50
+Summarized using GPT-4o-mini
+Append: [Écoles fermées, services perturbés, manifestation, l'appel à la grève nationale relayé en Martinique](https://la1ere.francetvinfo.fr/martinique/ecoles-fermees-services-perturbes-manifestation-l-appel-a-la-greve-nationale-relaye-en-martinique-1525997.html)
+append_entries: 2
+Finish: 2024-10-02 01:35:12.787037

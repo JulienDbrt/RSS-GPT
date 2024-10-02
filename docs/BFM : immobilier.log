@@ -2980,3 +2980,15 @@ Summarized using GPT-4o-mini
 Append: [Immobilier: le contexte politique n'a pas freiné les transactions, selon Century 21](https://www.bfmtv.com/immobilier/immobilier-le-contexte-politique-n-a-pas-freine-les-transactions-selon-century-21_AV-202410010372.html)
 append_entries: 1
 Finish: 2024-10-01 12:48:10.280826
+------------------------------------------------------
+Started: 2024-10-02 01:29:44.177960
+Existing_entries: 402
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 120
+Summarized using GPT-4o-mini
+Append: [Foncier, prêt à taux zéro, logement social… Les propositions de Michel Barnier pour mettre fin à la crise du logement](https://www.bfmtv.com/immobilier/foncier-pret-a-taux-zero-logement-social-les-propositions-de-michel-barnier-pour-mettre-fin-a-la-crise-du-logement_AV-202410010678.html)
+Token length: 181
+Summarized using GPT-4o-mini
+Append: [Rénovation énergétique: Michel Barnier veut "simplifier" le DPE et "adapter" son calendrier](https://www.bfmtv.com/immobilier/renovation-travaux/renovation-energetique-michel-barnier-veut-simplifier-le-dpe-et-adapter-son-calendrier_AV-202410010654.html)
+append_entries: 2
+Finish: 2024-10-02 01:29:51.868114

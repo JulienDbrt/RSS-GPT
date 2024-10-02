@@ -2232,3 +2232,15 @@ Summarized using GPT-4o-mini
 Append: [Les prix de l'immobilier ont baissé de 12% depuis l'été 2022 en France](https://www.bfmtv.com/economie/patrimoine/immobilier/les-prix-de-l-immobilier-ont-baisse-de-12-depuis-l-ete-2022-en-france_VN-202410010127.html)
 append_entries: 3
 Finish: 2024-10-01 12:48:28.021586
+------------------------------------------------------
+Started: 2024-10-02 01:29:55.778036
+Existing_entries: 140
+Fetching from https://www.bfmtv.com/rss/economie/patrimoine/
+Token length: 190
+Summarized using GPT-4o-mini
+Append: ["Financer la réindustrialisation": Michel Barnier annonce la création d'un nouveau livret d'épargne](https://www.bfmtv.com/economie/patrimoine/financer-la-reindustrialisation-michel-barnier-annonce-la-creation-d-un-nouveau-livret-d-epargne_AN-202410010663.html)
+Token length: 191
+Summarized using GPT-4o-mini
+Append: [Michel Barnier annonce une hausse d'impôt pour les "Français les plus fortunés" et les "grandes entreprises"](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/michel-barnier-annonce-une-hausse-d-impot-pour-les-francais-les-plus-fortunes-et-les-grandes-entreprises_AV-202410010648.html)
+append_entries: 2
+Finish: 2024-10-02 01:30:01.927829

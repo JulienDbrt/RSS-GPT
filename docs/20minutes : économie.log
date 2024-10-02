@@ -3146,3 +3146,15 @@ Summarized using GPT-4o-mini
 Append: [Le français Naval Group vend quatre sous-marins aux Pays-Bas et se frotte les mains](https://www.20minutes.fr/economie/4112919-20241001-francais-naval-group-vend-quatre-sous-marins-pays-bas-frotte-mains)
 append_entries: 3
 Finish: 2024-10-01 12:43:37.507832
+------------------------------------------------------
+Started: 2024-10-02 01:27:01.240494
+Existing_entries: 438
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 181
+Summarized using GPT-4o-mini
+Append: [Bretagne : L’usine de parfums du groupe Yves Rocher passe sous pavillon américain](https://www.20minutes.fr/societe/4113037-20241001-bretagne-usine-parfums-groupe-yves-rocher-passe-sous-pavillon-americain)
+Token length: 73
+Summarized using GPT-4o-mini
+Append: [Eure : Un père et sa fille ouvrent une « love room » à destination des couples](https://www.20minutes.fr/economie/4113000-20241001-eure-pere-fille-ouvrent-love-room-destination-couples)
+append_entries: 2
+Finish: 2024-10-02 01:27:07.748609

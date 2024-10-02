@@ -3320,3 +3320,15 @@ Existing_entries: 502
 Fetching from https://www.francetvinfo.fr/economie/transports.rss
 append_entries: 0
 Finish: 2024-10-01 12:52:15.128155
+------------------------------------------------------
+Started: 2024-10-02 01:32:02.843400
+Existing_entries: 502
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 170
+Summarized using GPT-4o-mini
+Append: [Billets de train : des écarts de prix pour des trajets identiques sur les plateformes de réservation](https://www.francetvinfo.fr/economie/transports/sncf/billets-de-train-des-ecarts-de-prix-pour-des-trajets-identiques-sur-les-plateformes-de-reservation_6812354.html)
+Token length: 291
+Summarized using GPT-4o-mini
+Append: [Périphérique parisien : la vitesse maximale autorisée passe de 70 km/h à 50 km/h](https://www.francetvinfo.fr/france/ile-de-france/peripherique-parisien-la-vitesse-maximale-autorisee-passe-de-70-km-h-a-50-km-h_6812327.html)
+append_entries: 2
+Finish: 2024-10-02 01:32:10.297757

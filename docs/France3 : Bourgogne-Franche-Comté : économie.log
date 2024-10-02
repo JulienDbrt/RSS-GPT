@@ -3018,3 +3018,9 @@ Summarized using GPT-4o-mini
 Append: [En larmes, ces clients assistent au dernier jour de leur Casino : "ce magasin, il fait presque partie de la famille"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/en-larmes-ces-clients-assistent-au-dernier-jour-de-leur-casino-ce-magasin-il-fait-presque-partie-de-la-famille-3040133.html)
 append_entries: 2
 Finish: 2024-10-01 12:54:30.852185
+------------------------------------------------------
+Started: 2024-10-02 01:33:15.781635
+Existing_entries: 402
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-10-02 01:33:16.205219

@@ -3336,3 +3336,15 @@ Summarized using GPT-4o-mini
 Append: [AIRBUS. "On est déjà en surcharge, avec un carnet de commandes plein",  la colère gronde chez les salariés, la CGT appelle à la grève](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/airbus-on-est-deja-en-surcharge-avec-un-carnet-de-commandes-plein-la-colere-gronde-chez-les-salaries-la-cgt-appelle-a-la-greve-3040076.html)
 append_entries: 6
 Finish: 2024-10-01 12:55:03.378872
+------------------------------------------------------
+Started: 2024-10-02 01:33:23.354043
+Existing_entries: 508
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 243
+Summarized using GPT-4o-mini
+Append: [Stellantis : ventes de voitures en berne, bourse qui plonge... le constructeur automobile en proie à des vents contraires](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/sochaux/stellantis-ventes-en-berne-bourse-qui-plonge-comment-le-constructeur-automobile-est-en-proie-a-des-vents-contraires-3040697.html)
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [L'hôpital et l'école "sont les premières victimes" : les services publics au cœur de la mobilisation du 1ᵉʳ octobre dans le Nord](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/l-hopital-et-l-ecole-sont-les-premieres-victimes-les-services-publics-au-c-ur-de-la-mobilisation-du-1-octobre-dans-le-nord-3040556.html)
+append_entries: 2
+Finish: 2024-10-02 01:33:30.808645
