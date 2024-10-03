@@ -2952,3 +2952,12 @@ Summarized using GPT-4o-mini
 Append: [Un retraité de 81 ans expulsé de son foyer pour avoir hébergé son fils](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/un-retraite-de-81-ans-expulse-de-son-foyer-pour-avoir-heberge-son-fils-3041112.html)
 append_entries: 2
 Finish: 2024-10-03 01:34:29.920858
+------------------------------------------------------
+Started: 2024-10-03 12:50:35.823744
+Existing_entries: 374
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 212
+Summarized using GPT-4o-mini
+Append: [Place de la Concorde : les travaux de réaménagement lancés en 2026](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/place-de-la-concorde-les-travaux-de-reamenagement-lances-en-2026-3041326.html)
+append_entries: 1
+Finish: 2024-10-03 12:50:39.874752

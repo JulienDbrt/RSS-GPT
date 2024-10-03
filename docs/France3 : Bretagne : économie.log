@@ -2578,3 +2578,15 @@ Summarized using GPT-4o-mini
 Append: ["C'est la pêche la plus dangereuse, il y a sans arrêt des blessés", la récolte de "l'or blanc" de la baie de Saint Brieuc est lancée](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/c-est-la-peche-la-plus-dangereuse-il-y-a-sans-arret-des-blesses-la-recolte-de-l-or-blanc-de-la-baie-de-saint-brieuc-est-lancee-3041024.html)
 append_entries: 1
 Finish: 2024-10-03 01:35:10.629931
+------------------------------------------------------
+Started: 2024-10-03 12:51:26.432584
+Existing_entries: 249
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 310
+Summarized using GPT-4o-mini
+Append: ["C'est totalement faux !" Les coquillages ne captent pas le CO2, ils en émettent. L'Ifremer démystifie une "fake news"](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/c-est-totalement-faux-les-coquillages-ne-captent-pas-le-co2-ils-en-emettent-l-ifremer-demystifie-une-fake-news-3041382.html)
+Token length: 453
+Summarized using GPT-4o-mini
+Append: [Locations de courte durée, type AirBnB : bras de fer entre propriétaires et la mairie de Saint-Malo](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/locations-de-courte-duree-type-airbnb-bras-de-fer-entre-proprietaires-et-la-mairie-de-saint-malo-3041288.html)
+append_entries: 2
+Finish: 2024-10-03 12:51:35.679108

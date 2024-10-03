@@ -6028,3 +6028,30 @@ Summarized using GPT-4o-mini
 Append: [Interruption totale des vols entre Marseille et Beyrouth avec Transavia jusqu'au 9 octobre, plusieurs autres trajets perturbés](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/interruption-totale-des-vols-entre-marseille-et-beyrouth-avec-transavia-jusqu-au-9-octobre-plusieurs-autres-trajets-perturbes-3041004.html)
 append_entries: 4
 Finish: 2024-10-03 01:36:09.278325
+------------------------------------------------------
+Started: 2024-10-03 12:51:45.455571
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 295
+Summarized using GPT-4o-mini
+Append: ["C'est du travail pour les équipes et ça reste en France" : un concurrent de la SNCF commande douze TGV à Alstom](https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/c-est-du-travail-pour-les-equipes-et-ca-reste-en-france-un-concurrent-de-la-sncf-commande-douze-tgv-a-alstom-3041414.html)
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [VIDEO - “Du côté de l’État, il y a des gens qui veulent faire la guerre à la Corse”, la colère de Gilles Simeoni sur la gestion de ports et aéroports de l’île](https://france3-regions.francetvinfo.fr/corse/video-du-cote-de-l-etat-il-y-a-des-gens-qui-veulent-faire-la-guerre-a-la-corse-la-colere-de-gilles-simeoni-sur-la-gestion-de-ports-et-aeroports-de-l-ile-3041442.html)
+Token length: 177
+Summarized using GPT-4o-mini
+Append: [Fermée après la chute d'un gros rocher, la circulation rétablie sur la route D33 dans le Cap Corse](https://france3-regions.francetvinfo.fr/corse/apres-la-chute-d-un-bloc-de-pierre-la-route-d33-est-ferme-dans-le-cap-corse-3041406.html)
+Token length: 342
+Summarized using GPT-4o-mini
+Append: [Taxe poids lourds : le ministre des Transports favorable au R-Pass,"la situation sur les axes routiers alsaciens n’est pas normale"](https://france3-regions.francetvinfo.fr/grand-est/alsace/taxe-poids-lourds-la-situation-sur-les-axes-routiers-alsaciens-n-est-pas-normale-le-ministre-des-transports-favorable-au-r-pass-3041372.html)
+Token length: 337
+Summarized using GPT-4o-mini
+Append: [Voici les TGV du concurrent de la SNCF : Alstom vient de recevoir la commande de 12 trains](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/le-creusot/alstom-le-concurrent-de-la-sncf-passe-commande-de-12-trains-a-grande-vitesse-3041338.html)
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [Lisieux : fin de la grève des conducteurs de bus sur le réseau Astrobus](https://france3-regions.francetvinfo.fr/normandie/calvados/lisieux/lisieux-fin-de-la-greve-des-conducteurs-de-bus-sur-le-reseau-astrobus-3041264.html)
+Token length: 302
+Summarized using GPT-4o-mini
+Append: [Comme sur le périphérique parisien... Et si la vitesse maximale baissait sur la rocade de Dijon ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/et-si-la-vitesse-maximale-baissait-a-80-km-h-sur-la-rocade-de-dijon-3040634.html)
+append_entries: 7
+Finish: 2024-10-03 12:52:16.841678

@@ -2313,3 +2313,15 @@ Summarized using GPT-4o-mini
 Append: [Encadrement des loyers : 200 000 euros restitués à 134 locataires dont le loyer était trop cher à Lyon et Villeurbanne](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/encadrement-des-loyers-200-000-euros-restitues-a-134-locataires-dont-le-loyer-etait-trop-cher-a-lyon-et-villeurbanne-3040972.html)
 append_entries: 3
 Finish: 2024-10-03 01:35:50.583707
+------------------------------------------------------
+Started: 2024-10-03 12:51:36.248454
+Existing_entries: 161
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 453
+Summarized using GPT-4o-mini
+Append: [Locations de courte durée, type AirBnB : bras de fer entre propriétaires et la mairie de Saint-Malo](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/locations-de-courte-duree-type-airbnb-bras-de-fer-entre-proprietaires-et-la-mairie-de-saint-malo-3041288.html)
+Token length: 224
+Summarized using GPT-4o-mini
+Append: [Où sont les terres agricoles les plus chères de France ? Les Bouches-du-Rhône et le Vaucluse dans le top 3](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/0u-sont-les-terres-agricoles-les-plus-cheres-de-france-les-bouches-du-rhone-et-le-vaucluse-dans-le-top-3-3041070.html)
+append_entries: 2
+Finish: 2024-10-03 12:51:44.895824

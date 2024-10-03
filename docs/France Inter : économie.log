@@ -3227,3 +3227,15 @@ Summarized using GPT-4o-mini
 Append: [Royaume Uni : on plante de la vigne](https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/reportage-du-mercredi-02-octobre-2024-9986740)
 append_entries: 1
 Finish: 2024-10-03 01:33:38.234366
+------------------------------------------------------
+Started: 2024-10-03 12:49:35.281830
+Existing_entries: 459
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [Budget : cette élue dénonce la "vision catastrophique" de la Cour des comptes de la gestion des collectivités](https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-6h20/l-invite-de-6h20-du-jeudi-03-octobre-2024-2228719)
+Token length: 157
+Summarized using GPT-4o-mini
+Append: [Nos appareils high tech et électroménagers vivent (un peu) plus longtemps](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-5588463)
+append_entries: 2
+Finish: 2024-10-03 12:49:43.063152

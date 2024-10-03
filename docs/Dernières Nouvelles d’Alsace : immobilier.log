@@ -2447,3 +2447,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Vous voulez sous-louer votre logement ? Attention à la réglementation !](https://www.dna.fr/magazine-immobilier/2024/10/02/vous-voulez-sous-louer-votre-logement-attention-a-la-reglementation)
 append_entries: 1
 Finish: 2024-10-03 01:32:07.697558
+------------------------------------------------------
+Started: 2024-10-03 12:47:56.196814
+Existing_entries: 199
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-10-03 12:47:57.521645

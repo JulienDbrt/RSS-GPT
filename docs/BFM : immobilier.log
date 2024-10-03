@@ -3016,3 +3016,15 @@ Summarized using GPT-4o-mini
 Append: [Les prix de l'immobilier se stabilisent après une longue décrue](https://www.bfmtv.com/immobilier/prix-immobilier/les-prix-de-l-immobilier-se-stabilisent-apres-une-longue-decrue_AV-202410020687.html)
 append_entries: 1
 Finish: 2024-10-03 01:30:58.284324
+------------------------------------------------------
+Started: 2024-10-03 12:46:19.123514
+Existing_entries: 408
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [INFO BFM BUSINESS. Logement neuf: le gouvernement envisage de dispenser les acheteurs de droits de succession](https://www.bfmtv.com/immobilier/neuf/info-bfm-business-logement-neuf-le-gouvernement-envisage-de-dispenser-les-acheteurs-de-droits-de-succession_AV-202410030528.html)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: [Pour éviter de dépérir, la Défense veut être un quartier où l'on vit](https://www.bfmtv.com/immobilier/bureau-commerce/pour-eviter-de-deperir-la-defense-veut-etre-un-quartier-ou-l-on-vit_AD-202410030406.html)
+append_entries: 2
+Finish: 2024-10-03 12:46:29.581822

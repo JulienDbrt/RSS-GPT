@@ -3350,3 +3350,15 @@ Summarized using GPT-4o-mini
 Append: [Japon : pourquoi le Shinkansen, ce train à grande vitesse idéal, ne s'exporte-t-il pas ?](https://www.francetvinfo.fr/replay-radio/comprendre-le-monde/japon-pourquoi-le-shinkansen-ce-train-a-grande-vitesse-ideal-ne-s-exporte-t-il-pas_6786814.html)
 append_entries: 2
 Finish: 2024-10-03 01:33:32.155427
+------------------------------------------------------
+Started: 2024-10-03 12:49:26.044708
+Existing_entries: 506
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 197
+Summarized using GPT-4o-mini
+Append: [Le nouveau ministre des Transports plaide pour une alternative au train, un "nouveau modèle" avec le car](https://www.francetvinfo.fr/economie/transports/le-nouveau-ministre-des-transports-plaide-pour-une-alternative-au-train-un-nouveau-modele-avec-le-car_6815867.html)
+Token length: 179
+Summarized using GPT-4o-mini
+Append: [Alstom finalise la vente de 12 trains à très grande vitesse à la compagnie Proxima, qui cherche à concurrencer la SNCF](https://www.francetvinfo.fr/economie/entreprises/alstom/alstom-finalise-la-vente-de-douze-trains-a-tres-grande-vitesse-a-la-compagnie-proxima-pour-850-millions-d-euros_6814634.html)
+append_entries: 2
+Finish: 2024-10-03 12:49:35.033210

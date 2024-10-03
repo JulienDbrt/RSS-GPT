@@ -3390,3 +3390,9 @@ Summarized using GPT-4o-mini
 Append: ["10 000 salariés sur le carreau, ça fait beaucoup de familles", plus de tracts publicitaires, plus de salaires, les ex-Adrexo n'ont plus rien](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/10-000-salaries-sur-le-carreau-ca-fait-beaucoup-de-familles-ils-distribuaient-des-tracts-publicitaires-et-n-ont-plus-rien-3041084.html)
 append_entries: 6
 Finish: 2024-10-03 01:35:37.260483
+------------------------------------------------------
+Started: 2024-10-03 12:51:35.967441
+Existing_entries: 520
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+append_entries: 0
+Finish: 2024-10-03 12:51:36.162429
