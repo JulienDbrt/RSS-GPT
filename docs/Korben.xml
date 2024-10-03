@@ -4,6 +4,7 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Winpilot - Quand Clippy vous aider à dompter Windows 10/11 comme au bon vieux temps</title>
 <link>https://korben.info/winpilot-votre-copilote-pour-dompter-windows-10-11.html</link>
@@ -11,15 +12,13 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Windows, réglages, Clippy, applications, projet  
 
-<br><br>Résumé :  
+<br /><br />Résumé :  
 Cet article, rédigé en mai 2024, annonce l’arrêt d'un projet de développement, ce qui explique son inscription de publication prévue pour le 2 octobre 2024. Il aborde les frustrations liées à Windows, notamment les réglages cachés, les applications pré-installées qui occupent inutilement de l’espace, ainsi que l’intrusion de l’IA Copilot dans l’expérience utilisateur. L'auteur souligne que ces éléments nuisent à la personnalisation et au contrôle de l'utilisateur sur son environnement Windows. En réponse à ces préoccupations, il présente une solution permettant à chacun de retrouver les rênes de son système d'exploitation. La mention de Clippy, l'assistant iconique des années 90, évoque une approche nostalgique pour aider les utilisateurs à naviguer dans cette version de Windows. En somme, cet article exprime une volonté de rétablir un équilibre entre la technologie et l'utilisateur, en offrant un moyen de personnaliser et d’optimiser l’interface Windows selon ses propres préférences. <div>
 <p><strong>Edit : J&rsquo;ai écris cet article en mai 2024 et programmé pour le 2 octobre de cette année. Malheureusement, entre temps, le développeur a clôturé son projet.</strong> <strong>Désolé pour ça.</strong></p>
 <p>Terminé les réglages planqués dans tous les coins sous Windows, les applis pré-installées qui bouffent de la place pour rien, et cette satanée IA Copilot qui fourre son nez partout. Avec <a href="https://github.com/builtbybel/Winpilot">Winpilot</a>, vous allez pouvoir reprendre les commandes et façonnez votre Windows à votre image. Et tout ça, avec la complicité de Clippy, le fidèle assistant tout droit sorti des années 90 !</p>
 ]]></content:encoded>
 <pubDate>Wed, 02 Oct 2024 09:00:00 +0200</pubDate>
-<pubDate>Wed, 02 Oct 2024 09:00:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Doom sur GPU - Plus besoin de processeur pour faire tourner le FPS culte</title>
 <link>https://korben.info/doom-gpu-fps-culte-emancipe-processeur.html</link>

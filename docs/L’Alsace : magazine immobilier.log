@@ -2444,3 +2444,12 @@ Existing_entries: 200
 Fetching from https://www.lalsace.fr/magazine-immobilier/rss
 append_entries: 0
 Finish: 2024-10-02 12:52:01.317170
+------------------------------------------------------
+Started: 2024-10-03 01:36:43.557388
+Existing_entries: 200
+Fetching from https://www.lalsace.fr/magazine-immobilier/rss
+Token length: 163
+Summarized using GPT-4o-mini
+Append: [Immobilier. Vous voulez sous-louer votre logement ? Attention à la réglementation !](https://www.lalsace.fr/magazine-immobilier/2024/10/02/vous-voulez-sous-louer-votre-logement-attention-a-la-reglementation)
+append_entries: 1
+Finish: 2024-10-03 01:36:49.348267

@@ -2940,3 +2940,15 @@ Summarized using GPT-4o-mini
 Append: ["Tous les jours des bus sont annulés faute de personnel ou de matériel", la galère des usagers des bus en grande couronne](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/tous-les-jours-des-bus-sont-annules-faute-de-personnel-ou-de-materiel-la-galere-des-usagers-des-bus-en-grande-couronne-3040421.html)
 append_entries: 1
 Finish: 2024-10-02 12:50:19.518044
+------------------------------------------------------
+Started: 2024-10-03 01:34:20.414766
+Existing_entries: 372
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 296
+Summarized using GPT-4o-mini
+Append: ["Tu mets 280 familles au chômage", les salariés de l'usine MA France saisissent la justice](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/tu-mets-280-familles-au-chomage-les-salaries-de-l-usine-ma-france-ont-saisi-la-justice-3041140.html)
+Token length: 189
+Summarized using GPT-4o-mini
+Append: [Un retraité de 81 ans expulsé de son foyer pour avoir hébergé son fils](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/un-retraite-de-81-ans-expulse-de-son-foyer-pour-avoir-heberge-son-fils-3041112.html)
+append_entries: 2
+Finish: 2024-10-03 01:34:29.920858

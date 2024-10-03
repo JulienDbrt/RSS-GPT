@@ -2445,3 +2445,12 @@ Summarized using GPT-4o-mini
 Append: ["15% des ménages sont en vulnérabilité énergétique", en Bretagne des dispositifs existent pour aider les propriétaires précaires](https://france3-regions.francetvinfo.fr/bretagne/15-des-menages-sont-en-vulnerabilite-energetique-en-bretagne-des-dispositifs-existent-pour-aider-les-proprietaires-precaires-3038615.html)
 append_entries: 1
 Finish: 2024-10-02 12:50:14.874185
+------------------------------------------------------
+Started: 2024-10-03 01:34:14.822837
+Existing_entries: 207
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 280
+Summarized using GPT-4o-mini
+Append: [Des appartements inondés par une rupture de canalisation à Limoges](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/des-appartements-inondes-par-une-rupture-de-canalisation-a-limoges-3040990.html)
+append_entries: 1
+Finish: 2024-10-03 01:34:20.211532
