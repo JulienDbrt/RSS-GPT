@@ -2211,3 +2211,15 @@ Existing_entries: 123
 Fetching from https://www.bfmtv.com/rss/economie/emploi/
 append_entries: 0
 Finish: 2024-10-04 01:28:49.538583
+------------------------------------------------------
+Started: 2024-10-04 12:46:01.482109
+Existing_entries: 123
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+Token length: 59
+Summarized using GPT-4o-mini
+Append: [Japon: le nouveau Premier ministre veut relever de 40% le salaire minimum moyen d'ici 2030](https://www.bfmtv.com/economie/emploi/japon-le-nouveau-premier-ministre-veut-relever-de-40-le-salaire-minimum-moyen-d-ici-2030_AD-202410040205.html)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Vol de 100 millions d'euros chez Kiabi: comment éviter une escroquerie dans son entreprise?](https://www.bfmtv.com/economie/replay-emissions/bfm-business-avec-vous/vol-de-100-millions-d-euros-chez-kiabi-comment-eviter-une-escroquerie-dans-son-entreprise_AV-202410020392.html)
+append_entries: 2
+Finish: 2024-10-04 12:46:10.043842

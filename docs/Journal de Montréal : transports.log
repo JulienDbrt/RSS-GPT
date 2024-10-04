@@ -2820,3 +2820,9 @@ Summarized using GPT-4o-mini
 Append: [Reprise du service sur les quatre lignes du métro de Montréal](https://www.journaldemontreal.com/2024/10/03/les-quatre-lignes-de-metro-de-montreal-a-larret)
 append_entries: 1
 Finish: 2024-10-04 01:35:20.945744
+------------------------------------------------------
+Started: 2024-10-04 12:54:35.666735
+Existing_entries: 316
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-10-04 12:54:35.765972

@@ -5401,3 +5401,21 @@ Existing_entries: 1007
 Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
 append_entries: 0
 Finish: 2024-10-04 01:34:05.842896
+------------------------------------------------------
+Started: 2024-10-04 12:53:13.494374
+Existing_entries: 1000
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 340
+Summarized using GPT-4o-mini
+Append: [Installation de jeunes agriculteurs bio ou agrandissement d'exploitations conventionnelles ? La bataille fait rage autour de l'attribution de 170 ha de terres](https://france3-regions.francetvinfo.fr/pays-de-la-loire/maine-et-loire/angers/il-nous-reste-un-recours-ils-soutiennent-l-installation-de-jeunes-agriculteurs-bio-face-a-l-agrandissement-d-exploitations-conventionnelles-3041472.html)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: ["Cette fois il s’agit d’un humain" : L'attaque d'un vautour sur une octogénaire ravive les craintes des agriculteurs](https://france3-regions.francetvinfo.fr/occitanie/aveyron/rodez/pour-les-agriculteurs-aveyronnais-les-vautours-representent-desormais-un-danger-pour-l-homme-3041604.html)
+Token length: 241
+Summarized using GPT-4o-mini
+Append: [Le chanvre, plante du futur ? Elle est économe en eau et produit suffisamment sans avoir recours aux pesticides](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/poitiers/le-chanvre-plante-du-futur-elle-est-econome-en-eau-et-produit-suffisamment-sans-avoir-recours-aux-pesticides-3041562.html)
+Token length: 307
+Summarized using GPT-4o-mini
+Append: [Une journée immersive à la découverte des métiers agricoles](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/une-journee-immersive-a-la-decouverte-des-metiers-agricoles-3040812.html)
+append_entries: 4
+Finish: 2024-10-04 12:53:31.562924

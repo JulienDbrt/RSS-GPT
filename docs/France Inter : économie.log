@@ -3248,3 +3248,15 @@ Summarized using GPT-4o-mini
 Append: [Hauses d'impôts : 65.000 foyers français sur 20 millions seront concernés](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-4905646)
 append_entries: 1
 Finish: 2024-10-04 01:33:09.222268
+------------------------------------------------------
+Started: 2024-10-04 12:52:14.908400
+Existing_entries: 462
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 120
+Summarized using GPT-4o-mini
+Append: [Comment se dire adieu... Quand des champions décident de raccrocher](https://www.radiofrance.fr/franceinter/podcasts/l-edito-sport/l-edito-sport-du-vendredi-04-octobre-2024-9704002)
+Token length: 1
+Summarized using GPT-4o-mini
+Append: [Comment trouver 60 milliards ? Retraites, taxation des plus riches, entreprises, assurances maladie...](https://www.radiofrance.fr/franceinter/podcasts/le-debat-economique/le-debat-eco-du-vendredi-04-octobre-2024-7676350)
+append_entries: 2
+Finish: 2024-10-04 12:52:19.989799

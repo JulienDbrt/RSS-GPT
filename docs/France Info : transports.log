@@ -3374,3 +3374,21 @@ Summarized using GPT-4o-mini
 Append: [Industrie automobile : l'UE s'apprête à relever les taxes pour les voitures chinoises, mais a surtout besoin d'investissements](https://www.francetvinfo.fr/replay-radio/comprendre-le-monde/industrie-automobile-l-ue-s-apprete-a-relever-les-taxes-pour-les-voitures-chinoises-mais-a-surtout-besoin-d-investissements_6788704.html)
 append_entries: 2
 Finish: 2024-10-04 01:33:04.335198
+------------------------------------------------------
+Started: 2024-10-04 12:51:48.777676
+Existing_entries: 510
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Corse : le blocage des aéroports et des ports "ne pourra se lever si nous restons sur ce reniement de la parole donnée par l'État", estime Gilles Simeoni](https://www.francetvinfo.fr/economie/transports/corse-le-blocage-des-aeroports-et-des-ports-ne-pourra-se-lever-si-nous-restons-sur-ce-reniement-de-la-parole-donnee-par-l-etat-estime-gilles-simeoni_6818183.html)
+Token length: 136
+Summarized using GPT-4o-mini
+Append: [La situation au Proche-Orient a un impact direct sur la hausse des prix du pétrole](https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/la-situation-au-proche-orient-a-un-impact-direct-sur-la-hausse-des-prix-du-petrole_6790648.html)
+Token length: 100
+Summarized using GPT-4o-mini
+Append: [Aéroports et ports bloqués en Corse : pour le syndicat des travailleurs corses, "le problème de fond, c'est la mise en concurrence dans les transports"](https://www.francetvinfo.fr/economie/transports/aeroports-et-ports-bloques-en-corse-pour-le-syndicat-des-travailleurs-corses-le-probleme-de-fond-c-est-la-mise-en-concurrence-dans-les-transports_6817976.html)
+Token length: 135
+Summarized using GPT-4o-mini
+Append: [En Corse, une grève spontanée bloque les aéroports et les ports sur fond de tensions entre l'Etat et les élus locaux](https://www.francetvinfo.fr/france/corse/corse/en-corse-une-greve-spontanee-bloque-les-aeroports-et-les-ports-sur-fond-de-tensions-entre-l-etat-et-les-elus-locaux_6817820.html)
+append_entries: 4
+Finish: 2024-10-04 12:52:14.662363

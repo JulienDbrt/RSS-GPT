@@ -2596,3 +2596,12 @@ Existing_entries: 251
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-04 01:34:17.399963
+------------------------------------------------------
+Started: 2024-10-04 12:53:43.842881
+Existing_entries: 251
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [L'enquête sur l'incendie de l'Office Français de la Biodiversité à Brest classée sans suite](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/l-enquete-sur-l-incendie-de-l-office-francais-de-la-biodiversite-a-brest-classee-sans-suite-3041848.html)
+append_entries: 1
+Finish: 2024-10-04 12:53:50.890078
