@@ -2434,3 +2434,15 @@ Summarized using GPT-4o-mini
 Append: [Limoux. Habitat audois achève une nouvelle résidence de 5 millions d’euros](https://www.ladepeche.fr/2024/10/03/habitat-audois-acheve-une-nouvelle-residence-de-5-millions-deuros-12236846.php)
 append_entries: 2
 Finish: 2024-10-03 12:56:11.683475
+------------------------------------------------------
+Started: 2024-10-04 01:37:29.901039
+Existing_entries: 196
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 208
+Summarized using GPT-4o-mini
+Append: ["C’est le moment de faire des affaires dans l’immobilier sur Tarbes, Lourdes et l’agglomération"](https://www.ladepeche.fr/2024/10/03/cest-le-moment-de-faire-des-affaires-dans-limmobilier-sur-tarbes-lourdes-et-lagglomeration-12238154.php)
+Token length: 190
+Summarized using GPT-4o-mini
+Append: [Comment se portent les entreprises et les ménages lotois : la Banque de France et la CCI répondent](https://www.ladepeche.fr/2024/10/03/comment-se-portent-les-entreprises-et-les-menages-lotois-la-banque-de-france-et-la-cci-repondent-12237958.php)
+append_entries: 2
+Finish: 2024-10-04 01:37:42.817562

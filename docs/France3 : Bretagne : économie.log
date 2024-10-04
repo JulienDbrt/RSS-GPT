@@ -2590,3 +2590,9 @@ Summarized using GPT-4o-mini
 Append: [Locations de courte durée, type AirBnB : bras de fer entre propriétaires et la mairie de Saint-Malo](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/locations-de-courte-duree-type-airbnb-bras-de-fer-entre-proprietaires-et-la-mairie-de-saint-malo-3041288.html)
 append_entries: 2
 Finish: 2024-10-03 12:51:35.679108
+------------------------------------------------------
+Started: 2024-10-04 01:34:16.963786
+Existing_entries: 251
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-10-04 01:34:17.399963

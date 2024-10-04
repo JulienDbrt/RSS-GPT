@@ -2961,3 +2961,12 @@ Summarized using GPT-4o-mini
 Append: [Place de la Concorde : les travaux de réaménagement lancés en 2026](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/place-de-la-concorde-les-travaux-de-reamenagement-lances-en-2026-3041326.html)
 append_entries: 1
 Finish: 2024-10-03 12:50:39.874752
+------------------------------------------------------
+Started: 2024-10-04 01:33:58.545691
+Existing_entries: 375
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Les buralistes : le futur du service public ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-buralistes-le-futur-du-service-public-3041360.html)
+append_entries: 1
+Finish: 2024-10-04 01:34:04.875832

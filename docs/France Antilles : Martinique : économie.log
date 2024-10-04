@@ -3764,3 +3764,18 @@ Summarized using GPT-4o-mini
 Append: [Au Kazakhstan, un village décrépit attend l'atome](https://www.martinique.franceantilles.fr/actualite/economie/au-kazakhstan-un-village-decrepit-attend-latome-1005830.php)
 append_entries: 4
 Finish: 2024-10-03 12:48:30.952244
+------------------------------------------------------
+Started: 2024-10-04 01:31:58.119638
+Existing_entries: 656
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Suspension de l'octroi de mer : un débat compromis ?](https://www.martinique.franceantilles.fr/actualite/politique/suspension-de-loctroi-de-mer-un-debat-compromis-1005913.php)
+Token length: 99
+Summarized using GPT-4o-mini
+Append: [En Corse, aéroports et ports bloqués sur fond de tensions entre l'Etat et les élus locaux](https://www.martinique.franceantilles.fr/actualite/economie/en-corse-aeroports-et-ports-bloques-sur-fond-de-tensions-entre-letat-et-les-elus-locaux-1005903.php)
+Token length: 26
+Summarized using GPT-4o-mini
+Append: [Octroi de Mer à taux 0, le débat à l'Assemblée, à partir de 14h](https://www.martinique.franceantilles.fr/octroi-de-mer-a-taux-0-le-debat-a-lassemblee-a-partir-de-14h-1005863.php)
+append_entries: 3
+Finish: 2024-10-04 01:32:07.441482

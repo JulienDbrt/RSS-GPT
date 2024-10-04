@@ -3028,3 +3028,15 @@ Summarized using GPT-4o-mini
 Append: [Pour éviter de dépérir, la Défense veut être un quartier où l'on vit](https://www.bfmtv.com/immobilier/bureau-commerce/pour-eviter-de-deperir-la-defense-veut-etre-un-quartier-ou-l-on-vit_AD-202410030406.html)
 append_entries: 2
 Finish: 2024-10-03 12:46:29.581822
+------------------------------------------------------
+Started: 2024-10-04 01:30:00.338956
+Existing_entries: 410
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 181
+Summarized using GPT-4o-mini
+Append: ["Lutter contre l'inertie": une proposition de loi pour exproprier les propriétaires de logements vacants](https://www.bfmtv.com/immobilier/achat-vente/lutter-contre-l-inertie-une-proposition-de-loi-pour-exproprier-les-proprietaires-de-logements-vacants_AV-202410030771.html)
+Token length: 210
+Summarized using GPT-4o-mini
+Append: [Après la faillite du constructeur de sa maison, elle se retrouve avec une dalle en béton et 225.000 euros en moins](https://www.bfmtv.com/immobilier/construction/apres-la-faillite-du-constructeur-de-sa-maison-elle-se-retrouve-avec-une-dalle-en-beton-et-225-000-euros-en-moins_AV-202410030587.html)
+append_entries: 2
+Finish: 2024-10-04 01:30:08.160835

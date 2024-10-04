@@ -3218,3 +3218,12 @@ Summarized using GPT-4o-mini
 Append: [Impôts : La contribution « exceptionnelle » pour les Français fortunés devrait concerner 0,3 % des foyers](https://www.20minutes.fr/economie/4113396-20241003-impots-contribution-exceptionnelle-francais-fortunes-devrait-concerner-0-3-foyers)
 append_entries: 3
 Finish: 2024-10-03 12:42:09.966423
+------------------------------------------------------
+Started: 2024-10-04 01:27:19.404486
+Existing_entries: 454
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 78
+Summarized using GPT-4o-mini
+Append: [Le CCF (ex-HSBC) pourrait supprimer un millier d’emplois, soit le tiers des effectifs](https://www.20minutes.fr/economie/4113524-20241003-banque-ccf-ex-hsbc-pourrait-supprimer-millier-emplois-tiers-effectifs)
+append_entries: 1
+Finish: 2024-10-04 01:27:26.358039
