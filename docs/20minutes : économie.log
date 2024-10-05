@@ -3242,3 +3242,15 @@ Summarized using GPT-4o-mini
 Append: [Japon : Le nouveau Premier ministre veut augmenter le salaire minimum de… 40 %](https://www.20minutes.fr/monde/4113648-20241004-japon-nouveau-premier-ministre-veut-augmenter-salaire-minimum-40)
 append_entries: 3
 Finish: 2024-10-04 12:43:26.079764
+------------------------------------------------------
+Started: 2024-10-05 01:24:26.966807
+Existing_entries: 458
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 246
+Summarized using GPT-4o-mini
+Append: [Billets TGV pour les fêtes : Comment choper les trajets de train les moins chers pour les vacances de Noël ?](https://www.20minutes.fr/economie/4113586-20241004-billets-tgv-fetes-comment-choper-trajets-train-moins-chers-vacances-noel)
+Token length: 166
+Summarized using GPT-4o-mini
+Append: [La hausse des droits de douane sur les voitures électriques peut-elle entraîner une guerre commerciale avec la Chine ?](https://www.20minutes.fr/economie/4113753-20241004-hausse-droits-douane-voitures-electriques-peut-entrainer-guerre-commerciale-chine)
+append_entries: 2
+Finish: 2024-10-05 01:24:34.294338

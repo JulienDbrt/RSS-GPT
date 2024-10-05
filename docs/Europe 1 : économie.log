@@ -3253,3 +3253,9 @@ Summarized using GPT-4o-mini
 Append: [Budget : combien les hausses d'impôts sur les entreprises peuvent-elles rapporter à l'État ?](https://www.europe1.fr/economie/budget-combien-les-hausses-dimpot-sur-les-entreprises-peuvent-apporter-a-letat-4271034)
 append_entries: 1
 Finish: 2024-10-04 12:50:23.779207
+------------------------------------------------------
+Started: 2024-10-05 01:27:48.631169
+Existing_entries: 463
+Fetching from https://www.europe1.fr/rss/economie.xml
+append_entries: 0
+Finish: 2024-10-05 01:27:48.994023

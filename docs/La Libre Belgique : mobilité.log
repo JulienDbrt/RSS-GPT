@@ -2837,3 +2837,9 @@ Summarized using GPT-4o-mini
 Append: [Le nombre de personnes tuées sur les routes belges est en nette baisse](https://www.lalibre.be/belgique/mobilite/2024/10/04/le-nombre-de-personnes-tuees-sur-les-routes-belges-est-en-nette-baisse-FF7PLUHG3FH37OU4UXKEGCCRKA/)
 append_entries: 2
 Finish: 2024-10-04 12:59:31.140196
+------------------------------------------------------
+Started: 2024-10-05 01:33:32.931773
+Existing_entries: 349
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-10-05 01:33:33.907679

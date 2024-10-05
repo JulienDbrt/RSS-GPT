@@ -3055,3 +3055,15 @@ Summarized using GPT-4o-mini
 Append: [La ville de Mexico plafonne les locations type Airbnb](https://www.bfmtv.com/immobilier/international-etranger/la-ville-de-mexico-plafonne-les-locations-type-airbnb_AD-202410040196.html)
 append_entries: 3
 Finish: 2024-10-04 12:48:08.163548
+------------------------------------------------------
+Started: 2024-10-05 01:26:45.517265
+Existing_entries: 415
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [Interdiction de louer les passoires thermiques en 2025: vers une exception pour les copropriétés?](https://www.bfmtv.com/immobilier/renovation-travaux/interdiction-de-louer-les-passoires-thermiques-en-2025-vers-une-exception-pour-les-coproprietes_AV-202410040756.html)
+Token length: 125
+Summarized using GPT-4o-mini
+Append: [Immobilier ancien: les ventes se stabilisent mais les prix baissent encore au 3e trimestre](https://www.bfmtv.com/immobilier/prix-immobilier/immobilier-ancien-les-ventes-se-stabilisent-mais-les-prix-baissent-encore-au-3e-trimestre_AV-202410040721.html)
+append_entries: 2
+Finish: 2024-10-05 01:26:51.662540

@@ -3041,3 +3041,18 @@ Summarized using GPT-4o-mini
 Append: ["Pris en otage": avec la grève, des centaines de passagers bloqués dans les ports et les aéroports corses](https://www.bfmtv.com/economie/entreprises/transports/pris-en-otage-des-centaines-de-passagers-bloques-dans-les-ports-et-les-aeroports-corses_AV-202410040393.html)
 append_entries: 4
 Finish: 2024-10-04 12:48:56.874596
+------------------------------------------------------
+Started: 2024-10-05 01:26:56.684797
+Existing_entries: 401
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 87
+Summarized using GPT-4o-mini
+Append: [Corse: la grève levée dans les ports et aéroports](https://www.bfmtv.com/economie/entreprises/transports/corse-la-greve-levee-dans-les-ports-et-aeroports_AD-202410040658.html)
+Token length: 179
+Summarized using GPT-4o-mini
+Append: [Italie: le moteur d'un Boeing de Ryanair prend feu juste avant le décollage](https://www.bfmtv.com/economie/entreprises/transports/italie-le-moteur-d-un-boeing-de-ryanair-prend-feu-juste-avant-le-decollage_AV-202410040645.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [Blocage des ports et aéroports en Corse: quelles sont les revendications des grévistes?](https://www.bfmtv.com/economie/entreprises/transports/blocage-des-ports-et-aeroports-en-corse-quelles-sont-les-revendications-des-grevistes_AD-202410040558.html)
+append_entries: 3
+Finish: 2024-10-05 01:27:06.141609

@@ -6112,3 +6112,18 @@ Summarized using GPT-4o-mini
 Append: [PARIGO. La ligne 17 : une utilité qui fait débat](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/la-ligne-17-une-utilite-qui-fait-debat-3041636.html)
 append_entries: 6
 Finish: 2024-10-04 12:54:35.151985
+------------------------------------------------------
+Started: 2024-10-05 01:29:56.849298
+Existing_entries: 1006
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 259
+Summarized using GPT-4o-mini
+Append: ["J’en peux plus, ça fait un an que ça dure", à Lyon les automobilistes passent des heures dans les embouteillages, à cause de trop nombreux travaux](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/j-en-peux-plus-ca-fait-un-an-que-ca-dure-a-lyon-les-automobilistes-passent-des-heures-dans-les-embouteillages-a-cause-de-trop-nombreux-travaux-3041894.html)
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Un éboulement survient dans les gorges de l'Arly : la réouverture de la route est repoussée d'un mois](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/savoie/un-eboulement-survient-dans-les-gorges-de-l-arly-la-reouverture-de-la-route-est-repoussee-d-un-mois-3041948.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: ["Cinq tués sur nos routes en cinq jours", le préfet de la Drôme réclame une tolérance zéro face aux comportements dangereux](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/valence/cinq-tues-sur-nos-routes-en-cinq-jours-le-prefet-de-la-drome-reclame-une-tolerance-zero-face-aux-comportements-dangereux-3041816.html)
+append_entries: 3
+Finish: 2024-10-05 01:30:06.848811

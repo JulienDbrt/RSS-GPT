@@ -3392,3 +3392,12 @@ Summarized using GPT-4o-mini
 Append: [En Corse, une grève spontanée bloque les aéroports et les ports sur fond de tensions entre l'Etat et les élus locaux](https://www.francetvinfo.fr/france/corse/corse/en-corse-une-greve-spontanee-bloque-les-aeroports-et-les-ports-sur-fond-de-tensions-entre-l-etat-et-les-elus-locaux_6817820.html)
 append_entries: 4
 Finish: 2024-10-04 12:52:14.662363
+------------------------------------------------------
+Started: 2024-10-05 01:28:31.944593
+Existing_entries: 514
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Grève en Corse : de Bastia à Ajaccio, les transports paralysés par une mobilisation surprise](https://www.francetvinfo.fr/france/corse/greve-en-corse-de-bastia-a-ajaccio-les-transports-paralyses-par-une-mobilisation-surprise_6818423.html)
+append_entries: 1
+Finish: 2024-10-05 01:28:36.099577

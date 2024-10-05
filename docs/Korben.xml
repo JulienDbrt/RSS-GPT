@@ -4,6 +4,7 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Neverest - Un outil CLI pour synchroniser / sauvegarder vos emails</title>
 <link>https://korben.info/neverest-outil-ultime-synchronisation-emails.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : migration email, synchronisation, sauvegarde, restauration, outil en ligne de commande  
 
-<br><br>Résumé :  
+<br /><br />Résumé :  
 Vous en avez assez de rencontrer des difficultés avec vos emails lors d'une migration ? Un nouvel outil en ligne de commande pourrait vous simplifier la tâche. Basé sur une librairie puissante, cet outil offre un assistant interactif pour configurer vos comptes email en quelques étapes simples. Il permet de synchroniser différents backends, tels que des serveurs IMAP, Maildir, et Notmuch, facilitant ainsi la gestion de vos emails. En plus de cela, vous avez la possibilité de filtrer les dossiers et les enveloppes à synchroniser, ce qui vous permet de contrôler précisément les données que vous souhaitez gérer. L'outil vous offre également des options de permission pour chaque backend, vous permettant de définir qui peut créer ou supprimer des dossiers, mettre à jour des contenus, etc. Enfin, une des fonctionnalités clés est la possibilité de sauvegarder et restaurer vos emails, garantissant ainsi que vos données sont protégées en cas de problème. Pour l'installer, il vous suffit d'avoir Cargo, rendant l'accès à l'outil encore plus facile et rapide. <div>
 <p>Vous en avez marre de galérer avec vos anciens emails lorsque vous faites une migration de boite mail ? Et vous rêvez peut-être d&rsquo;un outil qui vous permettrait de tous les synchroniser, les sauvegarder et même les restaurer en cas de pépin ? Eh bien, j&rsquo;ai ce qu&rsquo;il vous faut : <strong><a href="https://github.com/soywod/neverest">Neverest</a></strong> !</p>
 <p>Basé sur la librairie <a href="https://crates.io/crates/email-lib">email-lib</a>, cet outil en ligne de commande vous permet de :</p>
@@ -25,9 +26,7 @@ Vous en avez assez de rencontrer des difficultés avec vos emails lors d'une mig
 <p>Tout ça en quelques commandes&hellip; Pour l&rsquo;installer, rien de plus simple, il vous faudra juste Cargo :</p>
 ]]></content:encoded>
 <pubDate>Fri, 04 Oct 2024 09:00:00 +0200</pubDate>
-<pubDate>Fri, 04 Oct 2024 09:00:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Quelques nouvelles !</title>
 <link>https://korben.info/quelques-nouvelles.html</link>

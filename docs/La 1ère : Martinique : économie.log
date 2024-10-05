@@ -2497,3 +2497,12 @@ Summarized using GPT-4o-mini
 Append: [La pauvreté aux Antilles est "plus élevée que la moyenne nationale chez les 60 ans et plus"](https://la1ere.francetvinfo.fr/martinique/la-pauvrete-aux-antilles-est-plus-elevee-que-la-moyenne-nationale-chez-les-60-ans-et-plus-1526690.html)
 append_entries: 2
 Finish: 2024-10-04 12:56:39.771470
+------------------------------------------------------
+Started: 2024-10-05 01:31:40.990693
+Existing_entries: 203
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 71
+Summarized using GPT-4o-mini
+Append: [Cuba : le pays s'enfonce dans la crise... "c'est horrible" témoigne une retraitée](https://la1ere.francetvinfo.fr/martinique/cuba-le-pays-s-enfonce-dans-la-crise-c-est-horrible-temoigne-une-retraitee-1526816.html)
+append_entries: 1
+Finish: 2024-10-05 01:31:47.064523
