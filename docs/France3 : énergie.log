@@ -2484,3 +2484,12 @@ Existing_entries: 210
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-10-05 01:29:11.815484
+------------------------------------------------------
+Started: 2024-10-05 12:39:47.454424
+Existing_entries: 210
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 241
+Summarized using GPT-4o-mini
+Append: ["Le paysage pittoresque va disparaitre" : un projet de ferme agrivoltaïque divise habitants et agriculteurs dans l'Oise](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/senlis/le-paysage-pittoresque-va-disparaitre-un-projet-de-ferme-agrivoltaique-divise-habitants-et-agriculteurs-dans-l-oise-3042106.html)
+append_entries: 1
+Finish: 2024-10-05 12:39:50.157245

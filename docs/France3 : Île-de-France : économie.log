@@ -2988,3 +2988,9 @@ Summarized using GPT-4o-mini
 Append: [Les bistrots inscrits au patrimoine culturel français : "On doit protéger ces lieux de vie, c’est un bien précieux"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-bistrots-inscrits-au-patrimoine-culturel-francais-on-doit-proteger-ces-lieux-de-vie-c-est-un-bien-precieux-3041646.html)
 append_entries: 1
 Finish: 2024-10-05 01:29:15.062789
+------------------------------------------------------
+Started: 2024-10-05 12:39:50.366465
+Existing_entries: 378
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-10-05 12:39:51.065517

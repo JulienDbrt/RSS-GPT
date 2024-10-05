@@ -2288,3 +2288,15 @@ Summarized using GPT-4o-mini
 Append: [Compteur d'électricité : attention à ces frais qui arriveront en 2025 si vous ne possédez pas cet équipement](https://www.aufeminin.com/actualites/compteur-d-electricite-attention-a-ces-frais-qui-arriveront-en-2025-si-vous-ne-possedez-pas-cet-equipement-s4096347.html)
 append_entries: 1
 Finish: 2024-10-05 01:22:01.864129
+------------------------------------------------------
+Started: 2024-10-05 12:34:23.268838
+Existing_entries: 144
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Il trafiquait les compteurs Linky pour faire baisser les factures : un suspect arrêté dans le Nord | TF1 INFO](https://www.tf1info.fr/justice-faits-divers/il-trafiquait-les-compteurs-linky-enedis-pour-faire-baisser-les-factures-un-suspect-arrete-dans-le-nord-valenciennes-2320747.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Moyennant « 200 à 400 euros », il trafiquait les compteurs Linky pour réduire les factures d’électricité](https://www.letelegramme.fr/france/moyennant-200-a-400-euros-il-trafiquait-les-compteurs-linky-pour-reduire-les-factures-delectricite-6666043.php)
+append_entries: 2
+Finish: 2024-10-05 12:34:27.564892

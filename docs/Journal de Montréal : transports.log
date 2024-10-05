@@ -2844,3 +2844,9 @@ Summarized using GPT-4o-mini
 Append: [Encore des entraves à proximité de l’aéroport Montréal-Trudeau ce week-end](https://www.journaldemontreal.com/2024/10/03/encore-des-entraves-a-proximite-de-laeroport-montreal-trudeau-ce-week-end)
 append_entries: 4
 Finish: 2024-10-05 01:30:26.740009
+------------------------------------------------------
+Started: 2024-10-05 12:41:04.679389
+Existing_entries: 320
+Fetching from https://www.journaldemontreal.com/actualite/transports/rss.xml
+append_entries: 0
+Finish: 2024-10-05 12:41:04.786318

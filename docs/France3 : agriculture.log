@@ -5440,3 +5440,30 @@ Summarized using GPT-4o-mini
 Append: ["Fier de vous nourrir, triste d'en mourir" : toujours en colère, les agriculteurs veulent se faire entendre](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/fier-de-vous-nourrir-triste-d-en-mourir-les-agriculteurs-veulent-toujours-faire-entendre-leur-colere-3041730.html)
 append_entries: 5
 Finish: 2024-10-05 01:29:33.705068
+------------------------------------------------------
+Started: 2024-10-05 12:39:51.625654
+Existing_entries: 1005
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 241
+Summarized using GPT-4o-mini
+Append: ["Le paysage pittoresque va disparaitre" : un projet de ferme agrivoltaïque divise habitants et agriculteurs dans l'Oise](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/senlis/le-paysage-pittoresque-va-disparaitre-un-projet-de-ferme-agrivoltaique-divise-habitants-et-agriculteurs-dans-l-oise-3042106.html)
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [La fièvre catarrhale s'étend en Centre-Val de Loire](https://france3-regions.francetvinfo.fr/centre-val-de-loire/la-fievre-catarrhale-s-etend-en-centre-val-de-loire-3042056.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [Bientôt un nouveau silo sur le port de Rouen](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/bientot-un-nouveau-silo-sur-le-port-de-rouen-3041978.html)
+Token length: 345
+Summarized using GPT-4o-mini
+Append: ["Il y a un effort, mais c'est trop tardif" : des éleveurs de moutons regrettent une vaccination peu adaptée contre la fièvre catarrhale ovine](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/il-y-a-un-effort-mais-c-est-trop-tardif-des-eleveurs-de-moutons-regrettent-une-vaccination-peu-adaptee-contre-la-fievre-catarrhale-ovine-3041992.html)
+Token length: 339
+Summarized using GPT-4o-mini
+Append: [Menacé d'effondrement après une tempête : ce refuge pour animaux d'élevage dans une situation critique](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/menace-d-effondrement-apres-une-tempete-ce-refuge-pour-animaux-d-elevage-dans-une-situation-critique-3040976.html)
+Token length: 331
+Summarized using GPT-4o-mini
+Append: [Réchauffement climatique : pourquoi est-il urgent de sauver les tourbières ?](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rechauffement-climatique-pourquoi-est-il-urgent-de-sauver-les-tourbieres-3041126.html)
+Token length: 278
+Summarized using GPT-4o-mini
+Append: [Moins haute et plus productive, cette houblonnière expérimentale devrait mieux résister aux changements climatiques](https://france3-regions.francetvinfo.fr/grand-est/alsace/moins-haute-et-plus-productive-cette-houblonniere-experimentale-devrait-mieux-resister-aux-changements-climatiques-3034199.html)
+append_entries: 7
+Finish: 2024-10-05 12:40:14.483725
