@@ -9487,3 +9487,24 @@ Summarized using GPT-4o-mini
 Append: [Consommation : l'Union européenne rétablit l'appellation "Steak Végétal"](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/consommation-l-union-europeenne-retablit-l-appellation-steak-vegetal_6820358.html)
 append_entries: 6
 Finish: 2024-10-06 01:31:44.544704
+------------------------------------------------------
+Started: 2024-10-06 12:39:11.620636
+Existing_entries: 1006
+Fetching from https://www.francetvinfo.fr/economie.rss
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Énergie : le tarif réglementé de l'électricité baissera de "10% pour 80% des Français en janvier", assure la porte-parole du gouvernement](https://www.francetvinfo.fr/economie/energie/energie-le-tarif-reglemente-de-l-electricite-baissera-de-10-pour-80-des-francais-en-janvier-assure-la-porte-parole-du-gouvernement_6821891.html)
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Pourquoi les médicaments ne sont-ils pas vendus à l’unité dans nos pharmacies ?](https://www.francetvinfo.fr/replay-radio/c-est-ma-sante/pourquoi-les-medicaments-ne-sont-ils-pas-vendus-a-l-unite-dans-nos-pharmacies_6794431.html)
+Token length: 234
+Summarized using GPT-4o-mini
+Append: [Budget : Michel Barnier fait volte-face sur le gel des retraites ?](https://www.francetvinfo.fr/economie/budget/budget-michel-barnier-fait-volte-face-sur-le-gel-des-retraites_6821855.html)
+Token length: 102
+Summarized using GPT-4o-mini
+Append: [Guerre au Proche-Orient, budget... Le "8h30 franceinfo" de Jean-René Cazeneuve](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-au-proche-orient-budget-le-8h30-franceinfo-de-jean-rene-cazeneuve_6794449.html)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [25 branches professionnelles ont toujours des minima de salaire en dessous du smic](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/25-branches-professionnelles-ont-toujours-des-minima-de-salaire-en-dessous-du-smic_6794464.html)
+append_entries: 5
+Finish: 2024-10-06 12:39:27.538502

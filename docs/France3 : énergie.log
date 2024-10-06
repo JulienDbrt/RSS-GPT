@@ -2502,3 +2502,15 @@ Summarized using GPT-4o-mini
 Append: [14 tonnes de déchets brûlés toutes les heures : ces quartiers chauffés grâce à une usine d'incinération](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/14-tonnes-de-dechets-brules-toutes-les-heures-ces-quartiers-chauffes-grace-a-une-usine-d-incineration-3042102.html)
 append_entries: 1
 Finish: 2024-10-06 01:31:56.287115
+------------------------------------------------------
+Started: 2024-10-06 12:39:54.866008
+Existing_entries: 212
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 267
+Summarized using GPT-4o-mini
+Append: ["Ça revient mois cher en complément du chauffage au gaz" avec la baisse des températures, c'est la ruée vers le bois de chauffage](https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/le-hetre-le-chene-tout-le-monde-en-veut-avec-la-baisse-des-temperatures-c-est-la-ruee-vers-le-bois-de-chauffage-3040808.html)
+Token length: 377
+Summarized using GPT-4o-mini
+Append: [Construire sa maison en paille : "le gros intérêt, ce sont les économies de chauffage qu'on réalise"](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/construire-sa-maison-en-paille-le-gros-interet-ce-sont-les-economies-de-chauffage-qu-on-realise-3040625.html)
+append_entries: 2
+Finish: 2024-10-06 12:39:59.396861

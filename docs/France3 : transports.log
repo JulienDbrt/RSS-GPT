@@ -6169,3 +6169,27 @@ Summarized using GPT-4o-mini
 Append: [Tramway T1 : plus spacieuses, plus modernes, de nouvelles rames mises en circulation en décembre prochain](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/tramway-t1-plus-spacieuses-plus-modernes-de-nouvelles-rames-attendues-en-decembre-prochain-3042158.html)
 append_entries: 1
 Finish: 2024-10-06 01:32:15.460075
+------------------------------------------------------
+Started: 2024-10-06 12:40:34.971336
+Existing_entries: 1001
+Fetching from https://france3-regions.francetvinfo.fr/economie/transports/rss
+Token length: 314
+Summarized using GPT-4o-mini
+Append: [Éboulement de "blocs rocheux de plusieurs tonnes" : la route reliant Grenoble à Briançon est rouverte à la circulation](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/eboulement-de-blocs-rocheux-de-plusieurs-tonnes-la-route-reliant-grenoble-a-briancon-coupee-jusqu-a-nouvel-ordre-3042258.html)
+Token length: 277
+Summarized using GPT-4o-mini
+Append: [Les routes s'effondrent à cause des changements climatiques : le village ne peut pas toutes les réparer](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/brive/les-routes-s-effondrent-a-cause-des-changements-climatiques-le-village-ne-peut-pas-toutes-les-reparer-3042214.html)
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Sept jeunes à bord d'une Twingo font une sortie de route: l'un d'entre eux grièvement blessé](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/sept-jeunes-a-bord-d-une-twingo-font-une-sortie-de-route-l-un-d-entre-eux-grievement-blesse-3042298.html)
+Token length: 229
+Summarized using GPT-4o-mini
+Append: [Le casse-tête de l'accès au centre-ville de Guéret](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/creuse/gueret/82-nouvelles-places-de-parking-et-toujours-des-difficultes-de-stationnement-dans-le-centre-ville-de-gueret-3040565.html)
+Token length: 266
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Embarquement à bord du Mont-Blanc Express, un voyage en train entre vallées et glaciers](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/chamonix/video-embarquement-a-bord-du-mont-blanc-express-un-voyage-en-train-entre-vallees-et-glaciers-3041464.html)
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Les mystères de la ligne 23 dans le Val-de-Marne : l'œuvre géante de Dubuffet, le pavillon de chasse caché et le fort militaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-mysteres-de-la-ligne-23-dans-le-val-de-marne-l-uvre-geante-de-dubuffet-le-pavillon-de-chasse-cache-et-le-fort-militaire-3041332.html)
+append_entries: 6
+Finish: 2024-10-06 12:40:55.933183
