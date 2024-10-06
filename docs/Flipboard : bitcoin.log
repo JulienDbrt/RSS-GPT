@@ -4966,3 +4966,15 @@ Summarized using GPT-4o-mini
 Append: [HBO pense avoir identifié Satoshi Nakamoto, l’inventeur de Bitcoin](https://www.20minutes.fr/high-tech/20-mint/4113886-20241005-hbo-pense-avoir-identifie-satoshi-nakamoto-inventeur-bitcoin)
 append_entries: 1
 Finish: 2024-10-05 12:33:12.225877
+------------------------------------------------------
+Started: 2024-10-06 01:26:27.491928
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Documentaire explosif à paraître: Satoshi Nakamoto, le mystérieux créateur du bitcoin, aurait été identifié](https://www.blick.ch/fr/news/monde/documentaire-explosif-a-para-tre-satoshi-nakamoto-le-mysterieux-createur-du-bitcoin-aurait-ete-identifie-id20196158.html)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Comment fonctionne le "Liberland", ce "pays" où des fans de Bitcoin ont élu domicile?](https://www.bfmtv.com/crypto/comment-fonctionne-le-liberland-ce-pays-ou-des-fans-de-bitcoin-ont-elu-domicile_AV-202410050328.html)
+append_entries: 2
+Finish: 2024-10-06 01:26:33.965867

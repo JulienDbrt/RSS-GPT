@@ -10540,3 +10540,24 @@ Summarized using GPT-4o-mini
 Append: [Bitcoin News : HBO du 8 octobre. Un documentaire sur l’identité de Satoshi Nakamoto suscite un rallye de 62 000 $](https://www.nouvelles-du-monde.com/bitcoin-news-hbo-du-8-octobre-un-documentaire-sur-lidentite-de-satoshi-nakamoto-suscite-un-rallye-de-62-000/)
 append_entries: 4
 Finish: 2024-10-05 12:33:02.638694
+------------------------------------------------------
+Started: 2024-10-06 01:26:10.996845
+Existing_entries: 1004
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 66
+Summarized using GPT-4o-mini
+Append: [HBO pense avoir identifié Satoshi Nakamoto, l’inventeur du Bitcoin](https://generationsnouvelles.net/hbo-pense-avoir-identifie-satoshi-nakamoto-linventeur-du-bitcoin/)
+Token length: 39
+Summarized using GPT-4o-mini
+Append: [Bitcoin à 900 000$ ! Ce serait possible](https://www.nouvelles-du-monde.com/bitcoin-a-900-000-ce-serait-possible/)
+Token length: 66
+Summarized using GPT-4o-mini
+Append: [HBO pense avoir identifié Satoshi Nakamoto, l’inventeur de Bitcoin](https://laminute.info/2024/10/05/hbo-pense-avoir-identifie-satoshi-nakamoto-linventeur-de-bitcoin/)
+Token length: 85
+Summarized using GPT-4o-mini
+Append: [Comment fonctionne le "Liberland", ce "pays" où des fans de Bitcoin ont élu domicile?](https://www.bfmtv.com/crypto/comment-fonctionne-le-liberland-ce-pays-ou-des-fans-de-bitcoin-ont-elu-domicile_AV-202410050328.html)
+Token length: 56
+Summarized using GPT-4o-mini
+Append: [Comment le Bitcoin facilite les paiements internationaux](https://www.algeriepatriotique.com/2024/10/05/comment-le-bitcoin-facilite-les-paiements-internationaux/)
+append_entries: 5
+Finish: 2024-10-06 01:26:26.937080

@@ -2623,3 +2623,9 @@ Summarized using GPT-4o-mini
 Append: [TÉMOIGNAGE. "On travaille au minimum 18h par jour quand on est embarqué", la pêche au chalut vit-elle ses dernières années ?](https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/temoignage-on-travaille-au-minimum-18h-par-jour-quand-on-est-embarque-la-peche-au-chalut-vit-elle-ses-dernieres-annees-3041528.html)
 append_entries: 1
 Finish: 2024-10-05 12:40:19.823159
+------------------------------------------------------
+Started: 2024-10-06 01:32:06.947307
+Existing_entries: 254
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-10-06 01:32:07.341597

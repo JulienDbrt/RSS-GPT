@@ -8902,3 +8902,15 @@ Summarized using GPT-4o-mini
 Append: [Petite retraite : recevrez-vous 51 euros de plus sur votre pension Carsat versée le 9 octobre ?](https://www.moneyvox.fr/retraite/actualites/99944/petite-retraite-recevrez-vous-51-euros-de-plus-sur-votre-pension-carsat-versee-le-9-octobre)
 append_entries: 7
 Finish: 2024-10-05 12:39:46.682614
+------------------------------------------------------
+Started: 2024-10-06 01:31:49.637152
+Existing_entries: 1007
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 123
+Summarized using GPT-4o-mini
+Append: [Immobilier à Metz : quels sont les prix à l'achat et à la location en octobre 2024 ?](https://www.moneyvox.fr/immobilier/actualites/99841/immobilier-a-metz-quels-sont-les-prix-a-achat-et-a-la-location-en-octobre-2024)
+Token length: 123
+Summarized using GPT-4o-mini
+Append: [Immobilier à Marseille : les prix à l'achat et à la location en ce mois d'octobre 2024](https://www.moneyvox.fr/immobilier/actualites/99840/immobilier-a-marseille-les-prix-a-achat-et-a-la-location-en-ce-mois-octobre-2024)
+append_entries: 2
+Finish: 2024-10-06 01:31:51.919957

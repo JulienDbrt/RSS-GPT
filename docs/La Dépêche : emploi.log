@@ -3589,3 +3589,15 @@ Summarized using GPT-4o-mini
 Append: [Caussade. La commune recrute des agents](https://www.ladepeche.fr/2024/10/05/la-commune-recrute-des-agents-12241239.php)
 append_entries: 5
 Finish: 2024-10-05 12:42:56.326271
+------------------------------------------------------
+Started: 2024-10-06 01:33:26.461419
+Existing_entries: 573
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 156
+Summarized using GPT-4o-mini
+Append: [Pour sa dernière tournée de facteur, Christophe ne reçoit que des mots bleus à L’Union](https://www.ladepeche.fr/2024/10/05/a-lunion-pour-sa-derniere-tournee-de-facteur-christophe-ne-recoit-que-des-mots-bleus-12242279.php)
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Un million investi pour la nouvelle Mission locale de Decazeville](https://www.ladepeche.fr/2024/10/05/un-million-investi-pour-la-nouvelle-mission-locale-de-decazeville-12240463.php)
+append_entries: 2
+Finish: 2024-10-06 01:33:36.309499
