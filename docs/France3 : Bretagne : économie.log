@@ -2641,3 +2641,15 @@ Existing_entries: 254
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-07 01:30:01.190950
+------------------------------------------------------
+Started: 2024-10-07 12:50:20.644807
+Existing_entries: 254
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 317
+Summarized using GPT-4o-mini
+Append: [Arbres fruitiers. Pourquoi aller chercher loin ce que la nature peut nous offrir partout ?](https://france3-regions.francetvinfo.fr/bretagne/morbihan/arbres-fruitiers-pourquoi-aller-chercher-loin-ce-que-la-nature-peut-nous-offrir-partout-3042552.html)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Un automobiliste décède après un choc contre un platane](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/un-automobiliste-decede-apres-un-choc-contre-un-platane-3042430.html)
+append_entries: 2
+Finish: 2024-10-07 12:50:31.548836

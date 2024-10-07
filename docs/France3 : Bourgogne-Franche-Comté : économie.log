@@ -3132,3 +3132,15 @@ Existing_entries: 418
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-10-07 01:30:00.776158
+------------------------------------------------------
+Started: 2024-10-07 12:50:11.158719
+Existing_entries: 418
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 306
+Summarized using GPT-4o-mini
+Append: [Ce village cherche désespérément un gérant pour son espace multiservice : "il n'y a plus qu'à tourner la clé"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/ce-village-cherche-desesperement-un-gerant-pour-son-espace-multiservice-il-n-y-a-plus-qu-a-tourner-la-cle-3040721.html)
+Token length: 302
+Summarized using GPT-4o-mini
+Append: [Cultiver du chanvre dans l'Yonne, la filière qui place la France leader en Europe](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/cultiver-du-chanvre-dans-l-yonne-la-filiere-qui-place-la-france-leader-en-europe-3041064.html)
+append_entries: 2
+Finish: 2024-10-07 12:50:20.507027

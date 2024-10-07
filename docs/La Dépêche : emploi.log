@@ -3622,3 +3622,15 @@ Summarized using GPT-4o-mini
 Append: [Saint-Girons : ACDC a joué à guichets ouverts](https://www.ladepeche.fr/2024/10/06/saint-girons-acdc-a-joue-a-guichets-ouverts-12243673.php)
 append_entries: 1
 Finish: 2024-10-07 01:31:26.847181
+------------------------------------------------------
+Started: 2024-10-07 12:53:38.476766
+Existing_entries: 578
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Le Forum de l’Emploi Local s’installe à Vic-Fezensac pour une journée](https://www.ladepeche.fr/2024/10/07/le-forum-de-lemploi-local-sinstalle-a-vic-fezensac-pour-une-journee-12244591.php)
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [Mazamet. Renforcer le lien entre éducation et entreprises](https://www.ladepeche.fr/2024/10/07/renforcer-le-lien-entre-education-et-entreprises-12244434.php)
+append_entries: 2
+Finish: 2024-10-07 12:53:46.505239
