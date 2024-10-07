@@ -3012,3 +3012,9 @@ Summarized using GPT-4o-mini
 Append: [Les mystères de la ligne 23 dans le Val-de-Marne : l'œuvre géante de Dubuffet, le pavillon de chasse caché et le fort militaire](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-mysteres-de-la-ligne-23-dans-le-val-de-marne-l-uvre-geante-de-dubuffet-le-pavillon-de-chasse-cache-et-le-fort-militaire-3041332.html)
 append_entries: 1
 Finish: 2024-10-06 12:40:03.439347
+------------------------------------------------------
+Started: 2024-10-07 01:29:55.373092
+Existing_entries: 380
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-10-07 01:29:55.566959

@@ -10180,3 +10180,15 @@ Summarized using GPT-4o-mini
 Append: [La mue de Raphaël Glucksmann](https://www.latribune.fr/economie/politique/la-mue-de-raphael-glucksmann-1008201.html)
 append_entries: 10
 Finish: 2024-10-06 12:44:09.337082
+------------------------------------------------------
+Started: 2024-10-07 01:32:07.642039
+Existing_entries: 1010
+Fetching from https://www.latribune.fr/feed.xml
+Token length: 199
+Summarized using GPT-4o-mini
+Append: [Hausse de taxe sur l'électricité, Pannier-Runacher met en garde](https://www.latribune.fr/climat/energie-environnement/hausse-de-taxe-sur-l-electricite-pannier-runacher-met-en-garde-1008258.html)
+Token length: 142
+Summarized using GPT-4o-mini
+Append: [Israël: « Le refus du cessez-le-feu vient du Hamas » (Yaël Braun-Pivet)](https://www.latribune.fr/economie/international/israel-le-refus-du-cessez-le-feu-vient-du-hamas-yael-braun-pivet-1008257.html)
+append_entries: 2
+Finish: 2024-10-07 01:32:17.795918
