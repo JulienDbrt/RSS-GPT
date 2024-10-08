@@ -3109,3 +3109,18 @@ Summarized using GPT-4o-mini
 Append: [Le maire de Marseille veut interdire aux propriétaires de louer leur résidence secondaire sur Airbnb](https://www.bfmtv.com/immobilier/location/le-maire-de-marseille-veut-interdire-aux-proprietaires-de-louer-leur-residence-secondaire-sur-airbnb_AV-202410070391.html)
 append_entries: 2
 Finish: 2024-10-07 12:47:02.602644
+------------------------------------------------------
+Started: 2024-10-08 12:50:36.060130
+Existing_entries: 421
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 155
+Summarized using GPT-4o-mini
+Append: [La rénovation énergétique des copropriétés en pleine accélération en région parisienne](https://www.bfmtv.com/immobilier/la-renovation-energetique-des-coproprietes-en-pleine-acceleration-en-region-parisienne_AD-202410080107.html)
+Token length: 165
+Summarized using GPT-4o-mini
+Append: [Crédits immobiliers: les taux d'intérêt baissent encore en octobre](https://www.bfmtv.com/immobilier/credit-emprunt/credits-immobiliers-les-taux-d-interet-baissent-encore-en-octobre_AV-202410070837.html)
+Token length: 261
+Summarized using GPT-4o-mini
+Append: [INFO BFM BUSINESS. Quelques mois de sursis envisagés pour le Pinel](https://www.bfmtv.com/immobilier/investissement-placement/info-bfm-business-le-gouvernement-envisage-quelques-mois-de-sursis-pour-le-pinel_AV-202410070778.html)
+append_entries: 3
+Finish: 2024-10-08 12:50:51.804361

@@ -2327,3 +2327,18 @@ Summarized using GPT-4o-mini
 Append: [Valenciennes: interpellation d'un homme suspecté d'avoir modifié des centaines de compteurs Linky au préjudice d'Enedis](https://www.bfmtv.com/grand-lille/valenciennes-interpellation-d-un-homme-suspecte-d-avoir-modifie-des-centaines-de-compteurs-linky-au-prejudice-d-enedis_AD-202409200505.html)
 append_entries: 1
 Finish: 2024-10-07 12:41:05.281111
+------------------------------------------------------
+Started: 2024-10-08 12:38:13.252819
+Existing_entries: 147
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Electricité : un fournisseur veut utiliser Linky pour faire baisser la facture](https://www.latribune.fr/climat/energie-environnement/electricite-un-fournisseur-veut-utiliser-linky-pour-faire-baisser-la-facture-1008337.html)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Compteurs Linky : Enedis lance une vaste chasse aux fraudeurs](https://www.leparisien.fr/economie/consommation/compteurs-linky-enedis-lance-une-vaste-chasse-aux-fraudeurs-07-10-2024-7PQCPNXEH5FYNLW45V5MSREFYA.php)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Enedis passe à l'action et traque ceux qui manipulent les compteurs Linky](https://www.capital.fr/economie-politique/enedis-passe-a-l-action-et-traque-ceux-qui-manipulent-les-compteurs-linky-1503568)
+append_entries: 3
+Finish: 2024-10-08 12:38:28.661433

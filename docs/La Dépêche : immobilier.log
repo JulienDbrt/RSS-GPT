@@ -2506,3 +2506,18 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : autopsie d'une crise qui dure dans le Tarn-et-Garonne](https://www.ladepeche.fr/2024/10/07/immobilier-autopsie-dune-crise-qui-dure-dans-le-tarn-et-garonne-12244766.php)
 append_entries: 3
 Finish: 2024-10-07 12:54:01.075803
+------------------------------------------------------
+Started: 2024-10-08 13:03:33.014820
+Existing_entries: 204
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [La rénovation énergétique des copropriétés, comment ça marche ?](https://www.ladepeche.fr/2024/10/07/la-renovation-energetique-des-coproprietes-comment-ca-marche-12245545.php)
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Logement : quels sont les départements d’Occitanie où on attend le plus pour obtenir une HLM ?](https://www.ladepeche.fr/2024/10/07/logement-quels-sont-les-departements-doccitanie-ou-on-attend-le-plus-pour-obtenir-une-hlm-12232498.php)
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Amphis, parking, ancien bâtiment de Sciences-Po : comment l’université Toulouse Capitole va transformer son campus ?](https://www.ladepeche.fr/2024/10/07/amphis-parking-ancien-batiment-de-sciences-po-comment-luniversite-toulouse-capitole-va-transformer-son-campus-12225572.php)
+append_entries: 3
+Finish: 2024-10-08 13:03:55.811078

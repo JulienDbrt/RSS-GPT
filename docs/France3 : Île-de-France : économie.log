@@ -3027,3 +3027,9 @@ Summarized using GPT-4o-mini
 Append: ["Ce sont nos premières vendanges", quand des céréaliers deviennent vignerons](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/ce-sont-nos-premieres-vendanges-quand-des-cerealiers-deviennent-vignerons-3042426.html)
 append_entries: 1
 Finish: 2024-10-07 12:49:38.090375
+------------------------------------------------------
+Started: 2024-10-08 12:57:09.970015
+Existing_entries: 381
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-10-08 12:57:10.180968

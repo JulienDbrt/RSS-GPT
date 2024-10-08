@@ -2653,3 +2653,18 @@ Summarized using GPT-4o-mini
 Append: [Un automobiliste décède après un choc contre un platane](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/un-automobiliste-decede-apres-un-choc-contre-un-platane-3042430.html)
 append_entries: 2
 Finish: 2024-10-07 12:50:31.548836
+------------------------------------------------------
+Started: 2024-10-08 12:57:59.636756
+Existing_entries: 256
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 353
+Summarized using GPT-4o-mini
+Append: [Métiers du bâtiment : une semaine pour favoriser les recrutements](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/metiers-du-batiment-une-semaine-pour-favoriser-les-recrutement-3042934.html)
+Token length: 320
+Summarized using GPT-4o-mini
+Append: [Dans les Côtes d'Armor, les Soeurs vendent une partie de leur domaine : "On se sent franchement mal à l’aise d’avoir des bâtiments inoccupés"](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/dans-les-cotes-d-armor-les-soeurs-vendent-une-partie-de-leur-domaine-on-se-sent-franchement-mal-a-l-aise-d-avoir-des-batiments-inoccupes-3042848.html)
+Token length: 313
+Summarized using GPT-4o-mini
+Append: [Combien gagne Michel-Edouard Leclerc, ce patron breton à la retraite ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/combien-gagne-michel-edouard-leclerc-ce-patron-breton-a-la-retraite-3042852.html)
+append_entries: 3
+Finish: 2024-10-08 12:58:16.739674
