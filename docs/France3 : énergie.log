@@ -2535,3 +2535,24 @@ Summarized using GPT-4o-mini
 Append: [L'affouage: un bon plan pour se chauffer moins cher?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/l-affouage-un-bon-plan-pour-se-chauffer-moins-cher-3042662.html)
 append_entries: 1
 Finish: 2024-10-08 12:57:09.763936
+------------------------------------------------------
+Started: 2024-10-09 12:52:56.688154
+Existing_entries: 215
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 247
+Summarized using GPT-4o-mini
+Append: [Fin de l'éclairage public la nuit : pourquoi le Grand-Quevilly ne poursuit pas l'expérimentation](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/fin-de-l-eclairage-public-la-nuit-pourquoi-le-grand-quevilly-ne-poursuit-pas-l-experimentation-3043326.html)
+Token length: 364
+Summarized using GPT-4o-mini
+Append: [Factures exorbitantes d'électricité dans l'écoquartier Luciline à Rouen : mais qui doit payer ?](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/factures-exorbitantes-d-electricite-dans-l-ecoquartier-luciline-a-rouen-mais-qui-doit-payer-3040994.html)
+Token length: 343
+Summarized using GPT-4o-mini
+Append: [Un projet de trois éoliennes sème la discorde dans un petit village de 340 habitants](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/saint-junien/un-projet-de-trois-eoliennes-seme-la-discorde-dans-un-petit-village-de-340-habitants-3043036.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: [Il alimente l'Auvergne en électricité, ces 5 choses que vous ignorez sûrement sur le barrage des Fades](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/il-alimente-l-auvergne-en-electricite-ces-5-choses-que-vous-ignorez-surement-sur-le-barrage-des-fades-3041776.html)
+Token length: 239
+Summarized using GPT-4o-mini
+Append: [On leur propose 500 euros par mois pour l'installation d'éoliennes sur leur terrain, une offre difficile à refuser dans un monde agricole en crise](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/poule-aux-ufs-d-or-ou-projet-insense-niche-dans-le-perigord-noir-un-projet-d-eoliennes-fait-polemique-3042896.html)
+append_entries: 5
+Finish: 2024-10-09 12:53:21.591608

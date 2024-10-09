@@ -3486,3 +3486,18 @@ Summarized using GPT-4o-mini
 Append: ["Pour beaucoup de salariés, c'est la fin" : 98 croix mortuaires pour symboliser la fermeture de l'usine Watts](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/fermeture-de-l-usine-watts-98-croix-mortuaires-plantees-le-long-de-la-route-pour-beaucoup-de-salaries-c-est-la-fin-3042458.html)
 append_entries: 3
 Finish: 2024-10-08 12:58:39.355167
+------------------------------------------------------
+Started: 2024-10-09 12:54:34.477824
+Existing_entries: 532
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 236
+Summarized using GPT-4o-mini
+Append: ["On a besoin de nous" : l'industrie pharmaceutique recrute en Limousin](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/on-a-besoin-de-nous-l-industrie-pharmaceutique-recrute-en-limousin-3034739.html)
+Token length: 289
+Summarized using GPT-4o-mini
+Append: [Fin de la mobilisation aux urgences de nuit de l'hôpital de Vesoul, les négociations reprennent](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/fin-de-la-mobilisation-aux-urgences-de-nuit-de-l-hopital-de-vesoul-les-negociations-reprennent-3042886.html)
+Token length: 350
+Summarized using GPT-4o-mini
+Append: ["Être guidés et rassurés" : le bus France Services, une aide précieuse pour les habitants des petites communes](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/etre-guides-et-rassures-le-bus-france-services-une-aide-precieuse-pour-les-habitants-des-petites-communes-3043222.html)
+append_entries: 3
+Finish: 2024-10-09 12:54:46.978206

@@ -5,17 +5,62 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Gamers et QI - League of Legends en tête du classement</title>
+<link>https://korben.info/gamers-qi-league-of-legends-tete-classement.html</link>
+<guid>https://korben.info/gamers-qi-league-of-legends-tete-classement.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : étude, QI, gamers, capacités mentales, psychologues  
+
+<br><br>Summary:  
+Une étude récente menée en collaboration avec une équipe de psychologues a examiné le quotient intellectuel (QI) des gamers, impliquant plus de 1000 participants. Ces joueurs ont été soumis à un test de QI spécialement conçu pour évaluer quatre domaines de compétences : la communication verbale, les mathématiques, la logique et le raisonnement visuel. L'objectif principal de l'étude était de déterminer si les activités de jeu peuvent influencer ou corréler avec les capacités intellectuelles des individus. Les résultats préliminaires de l'étude semblent indiquer que les gamers possédaient des performances supérieures dans certains domaines par rapport à la moyenne générale, ce qui pourrait suggérer que le jeu vidéo, au-delà de sa récréativité, pourrait contribuer à développer certaines compétences cognitives. Cependant, il est essentiel de noter que ces résultats restent à nuancer et que d'autres recherches sont nécessaires pour établir des conclusions définitives. Ce phénomène soulève des questions intéressantes sur la relation entre gaming et intelligence, qui pourraient alimenter de futurs débats sur la perception des jeux vidéo dans notre société. <div>
+<p>Alors attention, ça ne va pas plaire à tout le monde&hellip;. Une étude récente menée par <a href="https://www.whichbingo.co.uk/news/which-gamers-are-the-smartest/">WhichBingo</a>, en collaboration avec une équipe de psychologues, a révélé des résultats intéressants sur le <strong>quotient intellectuel (QI) des gamers</strong>.</p>
+<p>Plus de 1000 joueurs ont participé à cette étude, passant un test de QI spécialement conçu pour évaluer leurs capacités mentales dans 4 domaines : communication verbale, mathématiques, logique et raisonnement visuel.</p>
+<p>Je vous propose donc qu&rsquo;on analyse un peu tout ça ^^.</p>
+]]></content:encoded>
+<pubDate>Wed, 09 Oct 2024 11:55:42 +0200</pubDate>
+<pubDate>Wed, 09 Oct 2024 11:55:42 +0200</pubDate>
+</item>
+<item>
+<title>Forgejo - Le git auto-hébergé 100% libre et communautaire</title>
+<link>https://korben.info/forgejo-forge-logicielle-libre-communautaire.html</link>
+<guid>https://korben.info/forgejo-forge-logicielle-libre-communautaire.html</guid>
+<content:encoded><![CDATA[
+<div> Forgejo, logiciel libre, Gitea Ltd, communauté, hébergement  
+
+<br><br>Summary:  
+Aujourd'hui, nous parlons de Forgejo, un logiciel libre qui pourrait remplacer des plateformes comme GitHub. Forgejo est une forge logicielle que vous pouvez héberger facilement et qui nécessite peu de ressources. Ce projet est né d'une dynamique communautaire, en réaction aux tensions autour de la création de Gitea Ltd. La philosophie de Forgejo repose sur le principe "par la communauté, pour la communauté", ce qui signifie qu'il n'y a pas d'intérêts cachés ou de propriétaires influents derrière le projet. Au lieu de cela, Forgejo est porté par des passionnés désireux de faire avancer le développement logiciel tout en le libérant des contraintes des outils propriétaires. En optant pour Forgejo, les utilisateurs bénéficient d'une alternative décentralisée et ouverte qui privilégie la collaboration et l'innovation collective. De plus, son hébergement simplifié permet à tout le monde de déployer cette solution sans se ruiner en ressources, offrant ainsi une véritable alternative éthique et accessible aux développeurs. En somme, Forgejo incarne une nouvelle vision du développement logiciel, centrée sur la communauté et l'épanouissement collectif. <div>
+<p>Aujourd&rsquo;hui, on va causer d&rsquo;un <strong>logiciel libre</strong> qui risque bien de vous faire oublier GitHub et consorts. Ça s&rsquo;appelle <strong>Forgejo</strong> (/for&rsquo;d͡ʒe.jo/ pour les intimes) et c&rsquo;est une <strong>forge logicielle</strong> que vous pouvez <strong>héberger vous-même</strong> en deux coups de cuillère à pot et qui ne bouffe pas trop de ressources.</p>
+<p>C&rsquo;est surtout un projet <strong>communautaire</strong> qui est né suite au drama autour de la création de Gitea Ltd et ça, ça change tout puisque la philosophie de Forgejo, c&rsquo;est &ldquo;par la communauté, pour la communauté&rdquo;. Ici, pas de magouilles, pas de propriétaire qui tire les ficelles dans l&rsquo;ombre. Que des <strong>passionnés</strong> qui veulent faire avancer le schmilblick et libérer le développement logiciel des griffes des outils propriétaires.</p>
+]]></content:encoded>
+<pubDate>Wed, 09 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Wed, 09 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Une faille dans le plugin Wordpress, LiteSpeed Cache - Mettez à jour rapidement !</title>
+<link>https://korben.info/wordpress-6-millions-sites-vulnerables-faille-xss.html</link>
+<guid>https://korben.info/wordpress-6-millions-sites-vulnerables-faille-xss.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : WordPress, LiteSpeed Cache, vulnérabilité, XSS, sécurité
+
+<br><br>Summary: Une alerte rouge est lancée pour tous les utilisateurs de WordPress en raison d'une faille de sécurité critique récemment découverte dans le plugin LiteSpeed Cache. Ce plugin, qui est utilisé par plus de 6 millions de sites pour améliorer leurs performances, se retrouve désormais compromettant à cause de cette vulnérabilité, identifiée sous le nom CVE-2024-47374. La faille concernée est de type XSS (Cross-Site Scripting) et est non authentifiée, ce qui signifie qu'un attaquant pourrait potentiellement injecter du code malveillant sur le site sans nécessiter d'authentification préalable. Cela pourrait exposer les données des utilisateurs à des risques considérables, comme le vol d'informations sensibles ou l'altération du contenu du site. Les propriétaires de sites utilisant ce plugin sont donc fortement conseillés de mettre à jour LiteSpeed Cache sans délai pour protéger leurs sites contre cette menace. Il est essentiel de garder tous les éléments de WordPress à jour pour éviter l'exploitation de telles vulnérabilités et garantir la sécurité des systèmes en ligne. <div>
+<p>Alerte rouge à tous les utilisateurs de WordPress ! Une faille de sécurité critique vient d&rsquo;être découverte dans <a href="https://fr.wordpress.org/plugins/litespeed-cache/">LiteSpeed Cache</a>, un plugin ultra populaire installé sur plus de 6 millions de sites.</p>
+<p>LiteSpeed Cache, censé booster les performances de votre site, s&rsquo;est malheureusement transformé en cheval de Troie suite à la découverte d&rsquo;une faille référencée sous le nom CVE-2024-47374. Il s&rsquo;agit d&rsquo;une vulnérabilité de type XSS (Cross-Site Scripting) stockée / non authentifiée.</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Oct 2024 18:26:37 +0200</pubDate>
+<pubDate>Tue, 08 Oct 2024 18:26:37 +0200</pubDate>
+</item>
+
+<item>
 <title>Tetris sur NES - un joueur de 16 ans atteint le niveau 256</title>
 <link>https://korben.info/nes-tetris-joueur-16-ans-atteint-niveau-256.html</link>
 <guid>https://korben.info/nes-tetris-joueur-16-ans-atteint-niveau-256.html</guid>
 <content:encoded><![CDATA[
 <div> Jeune prodige, Tetris, niveau 256, hypertapping, rolling
 
-<br><br>Summary: Michael Artiaga, un prodige de 16 ans connu sous le nom de “”, a réalisé un exploit incroyable en atteignant le niveau 256 du classique jeu Tetris sur NES lors d'un livestream. Ce niveau est particulièrement significatif car, jusqu'à récemment, le niveau 29 était perçu comme la limite ultime par les joueurs. À ce stade, le rythme de chute des pièces devient si rapide qu'il est très difficile de les manipuler efficacement. Pendant des années, ce défi était considéré comme presque insurmontable, mais l'émergence de nouvelles techniques comme le “hypertapping” et le “rolling” a révolutionné les stratégies de jeu. Ces méthodes permettent aux joueurs d'augmenter leur vitesse et de mieux contrôler les pièces dans des situations critiques. L'exploit de Michael Artiaga marque une avancée notable dans la maîtrise de Tetris et pourrait inspirer de nouveaux joueurs à repousser leurs limites. Ce moment mémorable dans l'histoire des jeux vidéo souligne également l'importance de l'innovation technique dans le domaine du gaming. <div>
+<br /><br />Summary: Michael Artiaga, un prodige de 16 ans connu sous le nom de “”, a réalisé un exploit incroyable en atteignant le niveau 256 du classique jeu Tetris sur NES lors d'un livestream. Ce niveau est particulièrement significatif car, jusqu'à récemment, le niveau 29 était perçu comme la limite ultime par les joueurs. À ce stade, le rythme de chute des pièces devient si rapide qu'il est très difficile de les manipuler efficacement. Pendant des années, ce défi était considéré comme presque insurmontable, mais l'émergence de nouvelles techniques comme le “hypertapping” et le “rolling” a révolutionné les stratégies de jeu. Ces méthodes permettent aux joueurs d'augmenter leur vitesse et de mieux contrôler les pièces dans des situations critiques. L'exploit de Michael Artiaga marque une avancée notable dans la maîtrise de Tetris et pourrait inspirer de nouveaux joueurs à repousser leurs limites. Ce moment mémorable dans l'histoire des jeux vidéo souligne également l'importance de l'innovation technique dans le domaine du gaming. <div>
 <p>Un jeune prodige de 16 ans, Michael Artiaga, alias &ldquo;<a href="https://www.twitch.tv/dogplayingtetris?lang=fr">dogplayingtetris</a>&rdquo; sur Twitch, a accompli l&rsquo;inimaginable en plein live sur l&rsquo;emblématique Tetris de la NES : Il a atteint le <strong>niveau 256 du jeu</strong> !</p>
 <p>Cela ne vous parle peut-être pas, mais durant des années, c&rsquo;est le niveau 29 qui a été considéré comme la barrière ultime. C&rsquo;est à ce niveau où le rythme des pièces atteint une vitesse telle qu&rsquo;il devient presque impossible de les faire tourner et les placer correctement. Ce défi semblait donc infranchissable jusqu&rsquo;à ce que des techniques nouvelles, comme le <strong>hypertapping</strong> et le <strong>rolling</strong>, fassent leur apparition.</p>
 ]]></content:encoded>
-<pubDate>Tue, 08 Oct 2024 12:18:01 +0200</pubDate>
 <pubDate>Tue, 08 Oct 2024 12:18:01 +0200</pubDate>
 </item>
 <item>
@@ -25,11 +70,10 @@
 <content:encoded><![CDATA[
 <div> Keywords: sécurité, cybercriminel, recherche, vulnérabilité, dispositifs
 
-<br><br>Summary: David Buchanan, un chercheur en sécurité, a découvert une vulnérabilité surprenante qui met en lumière les risques inattendus liés aux appareils électroniques. L'histoire commence par un scénario où un cybercriminel pourrait prendre le contrôle d'un ordinateur portable laissé sans surveillance. Dans ce contexte, un simple fil dépassant de l'appareil devient un point de vulnérabilité. À première vue, cela peut sembler absurde, mais il s'agit d'une faille de sécurité authentique exploitée par des techniques basées sur les ondes électromagnétiques. Ces méthodes permettent à un attaquant d'intercepter des données sensibles, démontrant ainsi que même les dispositifs courants peuvent présenter des menaces sérieuses. Cela souligne l'importance d'une vigilance continue sur nos appareils électroniques pour éviter les intrusions. Bien que ce scénario puisse paraître exagéré, il rappelle les précautions nécessaires à prendre pour sécuriser nos ressources technologiques. Les chercheurs, comme Buchanan, continuent d'innover et d'explorer les failles potentielles, poussant ainsi à la réflexion sur la sécurité numérique dans notre quotidien. <div>
+<br /><br />Summary: David Buchanan, un chercheur en sécurité, a découvert une vulnérabilité surprenante qui met en lumière les risques inattendus liés aux appareils électroniques. L'histoire commence par un scénario où un cybercriminel pourrait prendre le contrôle d'un ordinateur portable laissé sans surveillance. Dans ce contexte, un simple fil dépassant de l'appareil devient un point de vulnérabilité. À première vue, cela peut sembler absurde, mais il s'agit d'une faille de sécurité authentique exploitée par des techniques basées sur les ondes électromagnétiques. Ces méthodes permettent à un attaquant d'intercepter des données sensibles, démontrant ainsi que même les dispositifs courants peuvent présenter des menaces sérieuses. Cela souligne l'importance d'une vigilance continue sur nos appareils électroniques pour éviter les intrusions. Bien que ce scénario puisse paraître exagéré, il rappelle les précautions nécessaires à prendre pour sécuriser nos ressources technologiques. Les chercheurs, comme Buchanan, continuent d'innover et d'explorer les failles potentielles, poussant ainsi à la réflexion sur la sécurité numérique dans notre quotidien. <div>
 <p>Si vous avez laissé trainé votre laptop sans surveillance et qu&rsquo;en revenant, vous voyez un petit fil dépasser, attention ! Un cybercriminel armé d&rsquo;un simple briquet pourrait en prendre le contrôle.</p>
 <p>C&rsquo;est un peu tiré par les cheveux comme scénario, et d&rsquo;ailleurs c&rsquo;est suremet pour ça que Netflix a toujours refusé mes candidatures mais c&rsquo;est bien une vraie faille de sécurité bien réelle découverte par David Buchanan, un chercheur en sécurité qui aime visiblement jouer avec les ondes électromagnétiques.</p>
 ]]></content:encoded>
-<pubDate>Tue, 08 Oct 2024 09:53:39 +0200</pubDate>
 <pubDate>Tue, 08 Oct 2024 09:53:39 +0200</pubDate>
 </item>
 <item>
@@ -39,13 +83,12 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Opengist, pastebin, open-source, auto-hébergement, partage de code
 
-<br><br>Résumé : 
+<br /><br />Résumé : 
 Opengist est une solution innovante qui combine les fonctionnalités d'un pastebin et de Git, le tout en étant open-source et configurable pour un auto-hébergement. Ce type de service, qu'est le pastebin, permet de partager rapidement du texte ou du code en ligne, agissant comme un presse-papier géant sur le web. Les pastebins existants, tels que Pastebin.com ou GitHub Gist, bien que populaires, sont souvent contrôlés par des entreprises privées qui utilisent les données personnelles des utilisateurs. Opengist, en revanche, offre une alternative pratique en permettant aux utilisateurs de gérer leurs propres données sans les risques associés à des services propriétaires. Cela le rend particulièrement attrayant pour les développeurs qui souhaitent collaborer sur du code ou partager rapidement des informations sans compromettre leur vie privée. Avec Opengist, il est possible de tirer parti de la puissance de Git tout en bénéficiant de la simplicité d'un pastebin, le rendant idéal pour une variété d'applications, des dépannages de code aux partages de textes divers. <div>
 <p><strong>Opengist</strong> est un mélange entre un pastebin et Git, le tout saupoudré d&rsquo;open-source et d&rsquo;auto-hébergement et mon petit doigt me dit que ça devrait vous plaire.</p>
 <p>Alors avant, petit rappel : Qu&rsquo;est-ce que c&rsquo;est qu&rsquo;un pastebin ?</p>
 <p>Et bien c&rsquo;est un service en ligne qui permet de coller rapidement du texte ou du code pour le partager avec d&rsquo;autres comme un genre de presse-papier géant sur le web. Ça peut être bien pratique pour montrer un bout de code qui déconne à un pote développeur, ou pour partager les paroles de la dernière chanson de JUL avec mamie. Y&rsquo;a déjà d&rsquo;ailleurs déjà des trucs du genre qui existent, comme Pastebin.com ou GitHub Gist. Mais voilà, ils sont proprios et hébergés par des boîtes qui adooorent faire joujou avec vos données perso dans votre donc c&rsquo;est pô cool.</p>
 ]]></content:encoded>
-<pubDate>Tue, 08 Oct 2024 09:00:00 +0200</pubDate>
 <pubDate>Tue, 08 Oct 2024 09:00:00 +0200</pubDate>
 </item>
 <item>
@@ -55,11 +98,10 @@ Opengist est une solution innovante qui combine les fonctionnalités d'un pasteb
 <content:encoded><![CDATA[
 <div> Mots-clés : L'Union européenne, Digital Services Act, statistiques, contenu pour adultes, transparence
 
-<br><br>Summary: L'Union européenne a récemment publié des statistiques surprenantes sur la consommation de contenu pour adultes, grâce à la mise en œuvre de son Digital Services Act (DSA). Cette loi vise à renforcer la transparence des grandes plateformes en ligne, y compris les sites pornos. Des acteurs majeurs de l'industrie tels que Stripchat, PornHub et XVideos ont été contraints de révéler des données significatives concernant leurs activités. Les chiffres divulgués montrent les tendances et les comportements des utilisateurs à travers le Vieux Continent, illustrant la popularité croissante des contenus pour adultes. Ces données sont essentielles pour mieux comprendre le paysage numérique européen et son impact sur la société. Le DSA marque un tournant important dans la régulation des contenus en ligne, en obligeant ces plateformes à assumer la responsabilité de leurs actions et à fournir des informations claires sur leur utilisation. Cette initiative vise non seulement à protéger les utilisateurs, mais aussi à favoriser un environnement numérique plus sain et transparent. En somme, ces révélations offrent un aperçu unique sur l'évolution des comportements des consommateurs de contenu pour adultes en Europe. <div>
+<br /><br />Summary: L'Union européenne a récemment publié des statistiques surprenantes sur la consommation de contenu pour adultes, grâce à la mise en œuvre de son Digital Services Act (DSA). Cette loi vise à renforcer la transparence des grandes plateformes en ligne, y compris les sites pornos. Des acteurs majeurs de l'industrie tels que Stripchat, PornHub et XVideos ont été contraints de révéler des données significatives concernant leurs activités. Les chiffres divulgués montrent les tendances et les comportements des utilisateurs à travers le Vieux Continent, illustrant la popularité croissante des contenus pour adultes. Ces données sont essentielles pour mieux comprendre le paysage numérique européen et son impact sur la société. Le DSA marque un tournant important dans la régulation des contenus en ligne, en obligeant ces plateformes à assumer la responsabilité de leurs actions et à fournir des informations claires sur leur utilisation. Cette initiative vise non seulement à protéger les utilisateurs, mais aussi à favoriser un environnement numérique plus sain et transparent. En somme, ces révélations offrent un aperçu unique sur l'évolution des comportements des consommateurs de contenu pour adultes en Europe. <div>
 <p>L&rsquo;Union européenne vient de sortir des stats aussi intéressantes qu&rsquo;inattendues grâce à son <strong>Digital Services Act</strong> (DSA). Vous l&rsquo;aurez compris, en lisant le titre de cette actu : Il s&rsquo;agit de <strong>statistiques croustillantes sur la consommation de contenu pour adultes</strong> à travers le Vieux Continent.</p>
 <p>Avant de pénétrer dans les profondeurs de ces données ^^, faisons un petit point sur le contexte. Le DSA, c&rsquo;est cette loi qui oblige les grandes plateformes en ligne à être plus transparentes sur leurs activités. Et bien sûr, les sites pornos sont également dans le viseur ! C&rsquo;est ainsi que <strong>Stripchat, PornHub et XVideos</strong> se sont retrouvés à devoir dévoiler leurs petits secrets&hellip; enfin, leurs gros chiffres plutôt.</p>
 ]]></content:encoded>
-<pubDate>Mon, 07 Oct 2024 16:28:43 +0200</pubDate>
 <pubDate>Mon, 07 Oct 2024 16:28:43 +0200</pubDate>
 </item>
 <item>
@@ -69,15 +111,13 @@ Opengist est une solution innovante qui combine les fonctionnalités d'un pasteb
 <content:encoded><![CDATA[
 <div> Mots-clés : WiLo, protocole, objets connectés, communication, hardware
 
-<br><br>Summary: Le WiLo est un protocole de communication hybride inventé par des chercheurs chinois, combinant les avantages du WiFi et d'autres technologies permettant d'envoyer des données sur de longues distances avec peu d'énergie. Ce protocole a été conçu pour offrir des coûts réduits en hardware, simplifiant ainsi l'architecture nécessaire pour la mise en œuvre de solutions IoT. Grâce à sa simplicité, le WiLo vise à minimiser les problèmes techniques potentiels auxquels les développeurs font face, rendant l'intégration des objets connectés plus accessible et moins complexe. Le WiLo apparaît comme une solution idéale pour diverses applications, notamment dans le domaine des objets connectés, où l'efficacité énergétique et le coût sont des facteurs cruciaux. En intégrant les meilleures caractéristiques de plusieurs technologies de communication, le WiLo est bien placé pour répondre aux besoins croissants d'un monde de plus en plus interconnecté, assurant une transmission de données fiable tout en optimisant l’utilisation des ressources. Ce protocole pourrait ainsi renforcer l'écosystème IoT et contribuer à l'essor des solutions innovantes dans ce secteur. <div>
+<br /><br />Summary: Le WiLo est un protocole de communication hybride inventé par des chercheurs chinois, combinant les avantages du WiFi et d'autres technologies permettant d'envoyer des données sur de longues distances avec peu d'énergie. Ce protocole a été conçu pour offrir des coûts réduits en hardware, simplifiant ainsi l'architecture nécessaire pour la mise en œuvre de solutions IoT. Grâce à sa simplicité, le WiLo vise à minimiser les problèmes techniques potentiels auxquels les développeurs font face, rendant l'intégration des objets connectés plus accessible et moins complexe. Le WiLo apparaît comme une solution idéale pour diverses applications, notamment dans le domaine des objets connectés, où l'efficacité énergétique et le coût sont des facteurs cruciaux. En intégrant les meilleures caractéristiques de plusieurs technologies de communication, le WiLo est bien placé pour répondre aux besoins croissants d'un monde de plus en plus interconnecté, assurant une transmission de données fiable tout en optimisant l’utilisation des ressources. Ce protocole pourrait ainsi renforcer l'écosystème IoT et contribuer à l'essor des solutions innovantes dans ce secteur. <div>
 <p>En bon techos, vous connaissez surement déjà le protocole de communication <a href="https://fr.wikipedia.org/wiki/%C3%89talement_de_spectre">LoRa</a> qui permet d&rsquo;envoyer de la data sur de très longues distance avec peu d&rsquo;énergie. Et vous connaissez aussi le Wifi.</p>
 <p>Mais connaissez vous le <strong>WiLo</strong> ?</p>
 <p>Non ? Il s&rsquo;agit d&rsquo;un protocole hybride inventé par des chercheurs Chinois qui permet de bénéficier du meilleur des 2 mondes, à savoir des coûts réduits en hardware, moins de complexité et moins de problèmes techniques potentiels. Idéal donc pour tout ce qui est objets connecté.</p>
 ]]></content:encoded>
 <pubDate>Mon, 07 Oct 2024 15:55:32 +0200</pubDate>
-<pubDate>Mon, 07 Oct 2024 15:55:32 +0200</pubDate>
 </item>
-
 <item>
 <title>Quand les ventilateurs font de la musique grâce à l'IA</title>
 <link>https://korben.info/orgue-gpu-ventilateurs-musique-ia.html</link>

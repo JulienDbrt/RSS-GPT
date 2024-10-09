@@ -2110,3 +2110,10 @@ Fetching from https://www.euractiv.fr/sections/transport/feed/
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/Euractiv : transport
+------------------------------------------------------
+Started: 2024-10-09 12:49:40.376119
+Existing_entries: 86
+Fetching from https://www.euractiv.fr/sections/transport/feed/
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/Euractiv : transport

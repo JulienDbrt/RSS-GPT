@@ -3124,3 +3124,12 @@ Summarized using GPT-4o-mini
 Append: [INFO BFM BUSINESS. Quelques mois de sursis envisagés pour le Pinel](https://www.bfmtv.com/immobilier/investissement-placement/info-bfm-business-le-gouvernement-envisage-quelques-mois-de-sursis-pour-le-pinel_AV-202410070778.html)
 append_entries: 3
 Finish: 2024-10-08 12:50:51.804361
+------------------------------------------------------
+Started: 2024-10-09 12:48:04.964498
+Existing_entries: 424
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 111
+Summarized using GPT-4o-mini
+Append: [Le cap des 5 millions de mètres carrés de bureaux vides franchi en Île-de-France](https://www.bfmtv.com/immobilier/bureau-commerce/le-cap-des-5-millions-de-metres-carres-de-bureaux-vides-franchi-en-ile-de-france_AV-202410090464.html)
+append_entries: 1
+Finish: 2024-10-09 12:48:09.942182

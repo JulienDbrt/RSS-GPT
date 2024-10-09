@@ -2232,3 +2232,21 @@ Summarized using GPT-4o-mini
 Append: [INFO BFM BUSINESS. Hausse des taxes sur l'électricité: Bercy en attend 3,4 milliards d'euros minimum](https://www.bfmtv.com/economie/economie-social/finances-publiques/info-bfm-business-hausse-des-taxes-sur-l-electricite-bercy-veut-recuperer-3-4-milliards-d-euros-supplementaires_AN-202410070722.html)
 append_entries: 5
 Finish: 2024-10-08 12:49:11.330339
+------------------------------------------------------
+Started: 2024-10-09 12:46:56.611483
+Existing_entries: 114
+Fetching from https://www.bfmtv.com/rss/economie/economie-social/finances-publiques/
+Token length: 170
+Summarized using GPT-4o-mini
+Append: ["Du rafistolage d'un système à bout de souffle": l'AMF dénonce le poids budgétaire imposé aux collectivités](https://www.bfmtv.com/economie/economie-social/finances-publiques/du-rafistolage-d-un-systeme-a-bout-de-souffle-l-amf-denonce-le-poids-budgetaire-impose-aux-collectivites_AD-202410090477.html)
+Token length: 121
+Summarized using GPT-4o-mini
+Append: ["Pas assez de réformes et trop d'impôts": Gabriel Attal critique le projet de budget 2025](https://www.bfmtv.com/economie/economie-social/finances-publiques/pas-assez-de-reformes-et-trop-d-impots-attal-critique-le-projet-de-budget-2025_AD-202410090468.html)
+Token length: 214
+Summarized using GPT-4o-mini
+Append: [Budget: vers un nouvel impôt local?](https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-vers-un-nouvel-impot-local_AV-202410090398.html)
+Token length: 169
+Summarized using GPT-4o-mini
+Append: ["Un mauvais signal" pour la transition écologique: Christophe Béchu critique la coupe sur le fonds vert](https://www.bfmtv.com/economie/economie-social/finances-publiques/un-mauvais-signal-pour-la-transition-ecologique-christophe-bechu-critique-la-coupe-sur-le-fonds-vert_AD-202410090280.html)
+append_entries: 4
+Finish: 2024-10-09 12:47:21.788986

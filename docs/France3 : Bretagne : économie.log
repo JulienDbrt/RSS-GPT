@@ -2668,3 +2668,15 @@ Summarized using GPT-4o-mini
 Append: [Combien gagne Michel-Edouard Leclerc, ce patron breton à la retraite ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/combien-gagne-michel-edouard-leclerc-ce-patron-breton-a-la-retraite-3042852.html)
 append_entries: 3
 Finish: 2024-10-08 12:58:16.739674
+------------------------------------------------------
+Started: 2024-10-09 12:54:22.120803
+Existing_entries: 259
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 364
+Summarized using GPT-4o-mini
+Append: [Araignées de mer : elles ravagent les élevages de moules de la Côte d'Émeraude](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/araignees-de-mer-elles-ravagent-les-elevages-de-moules-de-la-cote-d-emeraude-3043136.html)
+Token length: 339
+Summarized using GPT-4o-mini
+Append: [Propriétaires d'armes à feu, vous êtes priés de les déclarer en ligne avant la fin de l'année](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/proprietaires-d-armes-a-feu-vous-etes-pries-de-les-declarer-en-ligne-avant-la-fin-de-l-annee-3043162.html)
+append_entries: 2
+Finish: 2024-10-09 12:54:34.178032
