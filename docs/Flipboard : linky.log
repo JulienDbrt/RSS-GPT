@@ -2354,3 +2354,15 @@ Summarized using GPT-4o-mini
 Append: ["Vous risquez un départ de feu" : au moins 100.000 compteurs Linky trafiqués, les fraudeurs dans le viseur d'Enedis | TF1 INFO](https://www.tf1info.fr/justice-faits-divers/vous-risquez-un-depart-de-feu-au-moins-100-000-compteurs-linky-trafiques-les-fraudeurs-dans-le-viseur-d-enedis-2327555.html)
 append_entries: 2
 Finish: 2024-10-09 12:40:19.968972
+------------------------------------------------------
+Started: 2024-10-10 01:22:39.981081
+Existing_entries: 152
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [On a testé un kit solaire de balcon Ecoflow pendant un an : voici le résultat](https://www.revolution-energetique.com/dossiers/on-a-teste-un-kit-solaire-de-balcon-ecoflow-pendant-un-an-voici-le-resultat/)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Un homme soupçonné d’avoir trafiqué plus de 100 compteurs Linky, le préjudice estimé à 150 000 €](https://www.ouest-france.fr/economie/entreprises/enedis/compteur-linky/un-homme-soupconne-davoir-trafique-plus-de-100-compteurs-linky-le-prejudice-estime-a-150-000-euros-77a736e2-79a8-11ef-b5cf-40938043f4bd)
+append_entries: 2
+Finish: 2024-10-10 01:22:48.274550

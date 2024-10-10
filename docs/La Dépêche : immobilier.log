@@ -2545,3 +2545,9 @@ Summarized using GPT-4o-mini
 Append: [Un marchand de sommeil condamné par la justice après avoir loué une chambre de moins de 5 m2 dans son grenier](https://www.ladepeche.fr/2024/10/08/un-marchand-de-sommeil-condamne-par-la-justice-apres-avoir-loue-une-chambre-de-moins-de-5-m2-dans-son-grenier-12247903.php)
 append_entries: 6
 Finish: 2024-10-09 13:00:15.183897
+------------------------------------------------------
+Started: 2024-10-10 01:32:57.745699
+Existing_entries: 213
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+append_entries: 0
+Finish: 2024-10-10 01:32:58.256430

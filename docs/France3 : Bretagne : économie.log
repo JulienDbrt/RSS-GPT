@@ -2680,3 +2680,9 @@ Summarized using GPT-4o-mini
 Append: [Propriétaires d'armes à feu, vous êtes priés de les déclarer en ligne avant la fin de l'année](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/proprietaires-d-armes-a-feu-vous-etes-pries-de-les-declarer-en-ligne-avant-la-fin-de-l-annee-3043162.html)
 append_entries: 2
 Finish: 2024-10-09 12:54:34.178032
+------------------------------------------------------
+Started: 2024-10-10 01:30:03.735448
+Existing_entries: 261
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-10-10 01:30:03.980565

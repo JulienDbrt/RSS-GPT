@@ -3133,3 +3133,9 @@ Summarized using GPT-4o-mini
 Append: [Le cap des 5 millions de mètres carrés de bureaux vides franchi en Île-de-France](https://www.bfmtv.com/immobilier/bureau-commerce/le-cap-des-5-millions-de-metres-carres-de-bureaux-vides-franchi-en-ile-de-france_AV-202410090464.html)
 append_entries: 1
 Finish: 2024-10-09 12:48:09.942182
+------------------------------------------------------
+Started: 2024-10-10 01:27:20.866094
+Existing_entries: 425
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-10-10 01:27:20.959704

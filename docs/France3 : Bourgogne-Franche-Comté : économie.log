@@ -3171,3 +3171,15 @@ Summarized using GPT-4o-mini
 Append: [Grève à l'entreprise adaptée des APF, association des paralysés de France : "on se demande comment on va travailler"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/greve-a-l-entreprise-adaptee-des-apf-association-des-paralyses-de-france-on-se-demande-comment-on-va-travailler-3043062.html)
 append_entries: 4
 Finish: 2024-10-09 12:54:21.977573
+------------------------------------------------------
+Started: 2024-10-10 01:29:55.328256
+Existing_entries: 425
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 212
+Summarized using GPT-4o-mini
+Append: [Isolation inexistante, fuites.. cette caserne de gendarmerie en Bourgogne devrait fermer ses portes : "des logements qui ne sont pas dignes"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/le-creusot/isolation-inexistante-fuites-cette-caserne-de-gendarmerie-en-bourgogne-devrait-fermer-ses-portes-des-logements-qui-ne-sont-pas-dignes-3043598.html)
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [Menace sur les bureaux de la Poste en milieu rural : "nous allons rester vigilants"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/menace-sur-les-bureaux-de-la-poste-en-milieu-rural-nous-allons-rester-vigilants-3043094.html)
+append_entries: 2
+Finish: 2024-10-10 01:30:03.588733

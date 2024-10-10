@@ -3048,3 +3048,12 @@ Summarized using GPT-4o-mini
 Append: ["C'est du vol" : à Bois-le-Roi, la polémique enfle face à la création de nouveaux logements sociaux](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/c-est-du-vol-a-bois-le-roi-la-polemique-enfle-face-a-la-creation-de-nouveaux-logements-sociaux-3043110.html)
 append_entries: 3
 Finish: 2024-10-09 12:53:34.485725
+------------------------------------------------------
+Started: 2024-10-10 01:29:35.932424
+Existing_entries: 384
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 235
+Summarized using GPT-4o-mini
+Append: [Modernisation du réseau, ouverture à la concurrence... Quels défis attendent Jean Castex, renouvelé pour cinq ans à la tête de la RATP ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/jean-castex-renouvele-pour-cinq-ans-a-la-tete-de-la-ratp-3043520.html)
+append_entries: 1
+Finish: 2024-10-10 01:29:39.500155

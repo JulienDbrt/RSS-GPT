@@ -2985,3 +2985,9 @@ Summarized using GPT-4o-mini
 Append: [Certaines usines Michelin à l'arrêt quelques semaines en raison d'une activité en baisse](https://www.bfmtv.com/auto/certaines-usines-michelin-a-l-arret-quelques-semaines-en-raison-d-une-activite-en-baisse_AD-202410080675.html)
 append_entries: 3
 Finish: 2024-10-09 12:45:54.151107
+------------------------------------------------------
+Started: 2024-10-10 01:26:11.186310
+Existing_entries: 363
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-10-10 01:26:11.498643
