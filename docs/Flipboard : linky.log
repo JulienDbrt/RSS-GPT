@@ -2366,3 +2366,12 @@ Summarized using GPT-4o-mini
 Append: [Un homme soupçonné d’avoir trafiqué plus de 100 compteurs Linky, le préjudice estimé à 150 000 €](https://www.ouest-france.fr/economie/entreprises/enedis/compteur-linky/un-homme-soupconne-davoir-trafique-plus-de-100-compteurs-linky-le-prejudice-estime-a-150-000-euros-77a736e2-79a8-11ef-b5cf-40938043f4bd)
 append_entries: 2
 Finish: 2024-10-10 01:22:48.274550
+------------------------------------------------------
+Started: 2024-10-10 12:37:58.577828
+Existing_entries: 154
+Fetching from https://flipboard.com/topic/fr-linky.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Alerte incendie : vous êtes en danger si vous avez l’un de ces 100 000 compteurs Linky chez vous](https://www.maison-travaux.fr/actualites/compteurs-linky-fraude-risques-incendies-573117.html)
+append_entries: 1
+Finish: 2024-10-10 12:38:02.986575

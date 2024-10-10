@@ -10783,3 +10783,24 @@ Append: [0 0 Un documentaire dit avoir percé le plus grand secret du Bitcoin de
 Append: [Revue des marchés Bourse: ce qui bouge sur les marchés avant l’ouverture mercredi Les Bourses mondiales hésitent, la Chine sème le doute. AFP et La Presse Canadienne|Publié il y a 6 minutes](https://www.lesaffaires.com/bourse/revue-des-marches/bourse-ce-qui-bouge-sur-les-marches-avant-l-ouverture-mercredi-09-10-2024/)
 append_entries: 16
 Finish: 2024-10-10 01:20:48.288829
+------------------------------------------------------
+Started: 2024-10-10 12:35:34.477614
+Existing_entries: 1016
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 84
+Summarized using GPT-4o-mini
+Append: [Cryptomonnaies : qui est Peter Todd, le créateur supposé de l’emblématique bitcoin ?](https://www.lefigaro.fr/secteur/high-tech/cryptomonnaies-qui-est-peter-todd-le-createur-suppose-de-l-emblematique-bitcoin-20241010)
+Token length: 103
+Summarized using GPT-4o-mini
+Append: [Le CAB n’a pas pu accéder aux 350 millions d’euros de bitcoins saisis à Clifton Collins il y a cinq ans](https://www.nouvelles-du-monde.com/le-cab-na-pas-pu-acceder-aux-350-millions-deuros-de-bitcoins-saisis-a-clifton-collins-il-y-a-cinq-ans/)
+Token length: 202
+Summarized using GPT-4o-mini
+Append: [Une nouvelle technique réduit de 95 % la consommation d'énergie de l'IA : une perspective intéressante alors que l'IA générative accélère la crise climatique en raison de sa forte consommation d'énergie](https://intelligence-artificielle.developpez.com/actu/363672/Une-nouvelle-technique-reduit-de-95-pourcent-la-consommation-d-energie-de-l-IA-une-perspective-interessante-alors-que-l-IA-generative-accelere-la-crise-climatique-en-raison-de-sa-forte-consommation-d-energie/)
+Token length: 72
+Summarized using GPT-4o-mini
+Append: [Les Taïwanais pourront déposer leurs crypto-monnaies à la banque en 2025](https://www.lejourguinee.com/les-taiwanais-pourront-deposer-leurs-crypto-monnaies-a-la-banque-en-2025/)
+Token length: 222
+Summarized using GPT-4o-mini
+Append: [Regarder Le mystère Satoshi L'identité de Satoshi Nakamoto révélée ? - Notre série sur le créateur du Bitcoin Série Série Le mystère Satoshi L'identité de Satoshi Nakamoto révélée ? - Notre série sur le créateur du Bitcoin](https://www.arte.tv/fr/videos/RC-021581/le-mystere-satoshi/)
+append_entries: 5
+Finish: 2024-10-10 12:35:54.975070

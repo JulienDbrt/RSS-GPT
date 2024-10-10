@@ -2596,3 +2596,9 @@ Summarized using GPT-4o-mini
 Append: [Mobilisation "Martinique île morte" : barrages, opération escargot, port bloqué... l'activité de l'île est fortement perturbée](https://la1ere.francetvinfo.fr/martinique/mobilisation-martinique-ile-morte-barrages-operation-escargot-port-bloque-l-activite-de-l-ile-est-fortement-perturbee-1527644.html)
 append_entries: 1
 Finish: 2024-10-10 01:31:49.561617
+------------------------------------------------------
+Started: 2024-10-10 12:51:32.652505
+Existing_entries: 218
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-10-10 12:51:32.861732

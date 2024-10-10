@@ -2565,3 +2565,21 @@ Summarized using GPT-4o-mini
 Append: [À l'heure de la sobriété énergétique et du prix élevé de l'énergie, est-ce trop tôt pour rallumer son chauffage ?](https://france3-regions.francetvinfo.fr/centre-val-de-loire/a-l-heure-de-la-sobriete-energetique-et-du-prix-eleve-de-l-energie-est-ce-trop-tot-pour-rallumer-son-chauffage-3043488.html)
 append_entries: 1
 Finish: 2024-10-10 01:29:35.717864
+------------------------------------------------------
+Started: 2024-10-10 12:47:55.769327
+Existing_entries: 221
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [Tempête Kirk : coupures d'électricité, trafic SNCF perturbé... Le vent a soufflé jusqu'à 120 km/h en Bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/tempete-kirk-coupures-d-electricite-trafic-sncf-perturbe-le-vent-a-souffle-jusqu-a-120-km-h-en-bourgogne-3043722.html)
+Token length: 301
+Summarized using GPT-4o-mini
+Append: [Biomasse en Corse : "on sort des énergies fossiles"](https://france3-regions.francetvinfo.fr/corse/biomasse-en-corse-on-sort-des-energies-fossiles-3043574.html)
+Token length: 319
+Summarized using GPT-4o-mini
+Append: ["Un geste pour la planète et pour nos enfants", ces habitants s'unissent pour produire de l'énergie renouvelable et partagée](https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/un-geste-pour-la-planete-et-pour-nos-enfants-ces-citoyens-s-unissent-pour-produire-de-l-energie-renouvelable-et-partagee-3043400.html)
+Token length: 259
+Summarized using GPT-4o-mini
+Append: [Un collectif d'habitants s'oppose à un projet d’agrivoltaïsme en Corrèze](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/tulle/un-collectif-d-habitants-s-oppose-a-un-projet-d-agrivoltaisme-en-correze-3043160.html)
+append_entries: 4
+Finish: 2024-10-10 12:48:21.389539

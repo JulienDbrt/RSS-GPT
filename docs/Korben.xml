@@ -5,21 +5,74 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Une faille critique exploitée dans Firefox - Faites la mise à jour !</title>
+<link>https://korben.info/firefox-faille-critique-mise-a-jour-urgente.html</link>
+<guid>https://korben.info/firefox-faille-critique-mise-a-jour-urgente.html</guid>
+<content:encoded><![CDATA[
+<div> Vulnérabilité, Firefox, Mozilla, Mise à jour, Sécurité  
+
+<br><br>Summary:  
+Une vulnérabilité critique a été récemment découverte dans le navigateur Firefox, qui est utilisé par de nombreux utilisateurs, dont vous. Cette faille, dont le nom n’a pas été précisé, permet à un attaquant de prendre le contrôle total de votre machine. Cela soulève des préoccupations majeures en matière de sécurité. Cependant, les équipes de la fondation Mozilla ont rapidement réagi face à cette menace en développant et en publiant un correctif d’urgence. Il est impératif de mettre à jour votre navigateur pour garantir votre sécurité. Pour effectuer cette mise à jour, il suffit d'aller dans le menu “À propos de Firefox”, ce qui lancera une vérification automatique et installera les mises à jour nécessaires. Pour être certain que votre navigateur est sécurisé, assurez-vous d’être sur l’une des versions suivantes : Firefox 131.0.2, Firefox ESR 128.3.1, ou Firefox ESR 115.16.1. En procédant à cette mise à jour, vous protégez non seulement vos données, mais également votre machine des potentiels risques liés à cette vulnérabilité. Ne tardez pas à mettre à jour votre navigateur ! <div>
+<p>J&rsquo;adore Firefox et c&rsquo;est depuis des années mon daily brower. Malheureusement, une <strong>vulnérabilité critique</strong> vient d&rsquo;y être découverte, donc j&rsquo;écris cet article pour que vous fassiez la mise à jour rapidement. découverte dans le célèbre navigateur de la fondation Mozilla. Cette faille, identifiée sous le nom de <strong><a href="https://www.mozilla.org/en-US/security/advisories/mfsa2024-51/">CVE-2024-9680</a></strong>, permettrait à un attaquant de prendre le contrôle total de votre machine. Rien que ça&hellip;</p>
+<p>M&rsquo;enfin, rassurez-vous, les équipes de Mozilla ont réagi rapidement en publiant un correctif d&rsquo;urgence que vous pouvez installer immédiatement. Pour cela, allez dans &ldquo;<em>À propos de Firefox</em>&rdquo;&hellip; le navigateur vérifiera et installera les mises à jour automatiquement. Pour être sécurisé, vous devrez donc être sur l&rsquo;une des versions suivantes : Firefox 131.0.2, Firefox ESR 128.3.1, ou Firefox ESR 115.16.1.</p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 11:17:28 +0200</pubDate>
+<pubDate>Thu, 10 Oct 2024 11:17:28 +0200</pubDate>
+</item>
+<item>
+<title>Surfshark VPN -  le speedtest</title>
+<link>https://korben.info/surfshark-vpn-speedtest.html</link>
+<guid>https://korben.info/surfshark-vpn-speedtest.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : VPN, Surfshark, performances, vitesse, test
+
+<br><br>Summary: Cet article se concentre sur le VPN Surfshark, qui a gagné en popularité récemment grâce à ses performances intéressantes. Il est important de tester un VPN, surtout si vous êtes en France, afin de s'assurer qu'il répond à vos attentes en matière de vitesse et de sécurité. La vitesse est un critère essentiel pour une expérience de navigation fluide, surtout lors du streaming ou des jeux en ligne. Pour tester correctement un VPN comme Surfshark, il est recommandé de se connecter à différents serveurs et de mesurer la latence ainsi que le débit. Les utilisateurs peuvent également effectuer des tests de vitesse avant et après la connexion au VPN pour évaluer l'impact sur leur connexion internet. L'article suggère également d'explorer les fonctionnalités supplémentaires offertes par Surfshark, telles que le double VPN et l'accès à des contenus géo-restreints. Enfin, une bonne compréhension des systèmes de cryptage et des politiques de confidentialité est cruciale pour garantir la protection de vos données lors de l'utilisation d'un VPN. <div>
+<p><div style="text-align: center;">&ndash; Article en partenariat avec Surfshark &ndash;</div></p>
+<p>Salut les amis ! Aujourd&rsquo;hui, on s&rsquo;intéresse de nouveau <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768">à Surfshark</a>, le VPN qui fait encore pas mal parler de lui ces derniers temps. Le désormais grand a réussi à se faire une place de choix grâce à ses performances plutôt sympathiques. On va voir ensemble comment il se comporte côté vitesse, et surtout comment le tester proprement depuis l&rsquo;Hexagone (lui ou n&rsquo;importe quel VPN que vous utilisez).</p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 11:03:33 +0200</pubDate>
+<pubDate>Thu, 10 Oct 2024 11:03:33 +0200</pubDate>
+</item>
+<item>
+<title>Niquests - Boostez votre code Python avec cette bibliothèque de requêtes HTTP nouvelle génération</title>
+<link>https://korben.info/niquests-nouvel-espoir-requetes-http-elegantes.html</link>
+<guid>https://korben.info/niquests-nouvel-espoir-requetes-http-elegantes.html</guid>
+<content:encoded><![CDATA[
+<div> Niquests, bibliothèque Python, requêtes HTTP, performances, I/O asynchrone
+
+<br><br>Summary:  
+Niquests est une nouvelle bibliothèque Python conçue pour remplacer Requests, offrant des fonctionnalités avancées. Elle permet la multiplexation de connexions, ce qui permet de créer plusieurs requêtes HTTP sur une même connexion afin d'améliorer les performances et de réduire la latence. De plus, elle intègre le keep-alive et le connection pooling, conservant les connexions ouvertes et diminuant le temps d'établissement de nouvelles connexions. Niquests automatise également le décodage des contenus compressés et codés tels que gzip et JSON, facilitant ainsi le traitement des réponses. 
+
+Un autre aspect essentiel de cette bibliothèque est la vérification de révocation des certificats par OCSP, garantissant ainsi une sécurité accrue des connexions. Elle stocke les certificats en mémoire vive, ce qui améliore les performances tout en réduisant l'utilisation du disque dur. Enfin, Niquests permet de préparer les requêtes à l'avance, réduisant ainsi le temps d'envoi. Tout cela repose sur des principes modernes comme l'I/O asynchrone, le modèle événementiel et une programmation thread-safe, contribuant à des performances optimales et à une latence réduite. <div>
+<p><strong>Niquests</strong> est une nouvelle bibliothèque Python pour les requêtes HTTP qui se destine à remplacer <strong>Requests</strong>. Mais attention, c&rsquo;est pas juste un clone&hellip; En effet, cette lib Python offre des fonctionnalités avancées telles que :</p>
+<ul>
+<li>La <strong>multiplexation de connexions</strong> pour créer plusieurs requêtes HTTP sur une même connexion, ce qui améliore les performances et réduit la latence.</li>
+<li>Le <strong>keep-alive et le connection pooling</strong> pour maintenir les connexions ouvertes et réduire le temps d&rsquo;ouverture de nouvelles connexions.</li>
+<li>Le <strong>décodage automatique des contenus compressés et codés</strong> (par exemple, gzip et JSON).</li>
+<li>La <strong>vérification de révocation des certificats</strong> en utilisant le protocole OCSP (Online Certificate Status Protocol).</li>
+<li>Le stockage des <strong>certificats dans la mémoire vive</strong> pour améliorer les performances et réduire l&rsquo;utilisation de disque dur.</li>
+<li>La possibilité de <strong>préparer les requêtes</strong> pour réduire le temps d&rsquo;envoi.</li>
+</ul>
+<p>Sous le capot, Niquests utilise également des principes tels que l&rsquo;<strong>I/O asynchrone</strong>, le <strong>modèle événementiel</strong> et la <strong>programmation thread-safe</strong> pour améliorer les performances et réduire la latence.</p>
+]]></content:encoded>
+<pubDate>Thu, 10 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Thu, 10 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+
+<item>
 <title>AISheeter - La puissance de l'IA au service des esclaves de Google Sheets</title>
 <link>https://korben.info/google-sheet-chatgpt.html</link>
 <guid>https://korben.info/google-sheet-chatgpt.html</guid>
 <content:encoded><![CDATA[
 <div> Mots-clés : lunettes, tableur, AISheeter, extensions, clés
 
-<br><br>Summary: Cet article aborde l'utilisation d'une extension nommée AISheeter pour Google Spreadsheet, qui s'adresse particulièrement aux utilisateurs de tableurs. L'auteur suggère que ceux qui portent de grosses lunettes et ont les cheveux gras passent probablement beaucoup de temps sur ces outils de travail. Bien que l'auteur avoue ne pas maîtriser les tableurs, il partage tout de même une astuce pertinemment utile. L'installation de l'extension AISheeter est le point central de la suggestion. Une fois l'extension installée, l'utilisateur doit naviguer dans le menu des extensions de Google Sheets pour accéder aux paramètres d'AISheeter. Dans ces paramètres, il est nécessaire d'ajouter ses clés d'accès pour utiliser des modèles d'intelligence artificielle tels que ChatGPT, Claude, Gemini et Groq. Cette extension pourrait ainsi améliorer l'efficacité et la productivité des utilisateurs de Google Spreadsheet en facilitant des tâches qui pourraient autrement être fastidieuses. En résumé, cet outil représente une aide précieuse pour ceux qui souhaitent optimiser leur utilisation des tableurs. <div>
+<br /><br />Summary: Cet article aborde l'utilisation d'une extension nommée AISheeter pour Google Spreadsheet, qui s'adresse particulièrement aux utilisateurs de tableurs. L'auteur suggère que ceux qui portent de grosses lunettes et ont les cheveux gras passent probablement beaucoup de temps sur ces outils de travail. Bien que l'auteur avoue ne pas maîtriser les tableurs, il partage tout de même une astuce pertinemment utile. L'installation de l'extension AISheeter est le point central de la suggestion. Une fois l'extension installée, l'utilisateur doit naviguer dans le menu des extensions de Google Sheets pour accéder aux paramètres d'AISheeter. Dans ces paramètres, il est nécessaire d'ajouter ses clés d'accès pour utiliser des modèles d'intelligence artificielle tels que ChatGPT, Claude, Gemini et Groq. Cette extension pourrait ainsi améliorer l'efficacité et la productivité des utilisateurs de Google Spreadsheet en facilitant des tâches qui pourraient autrement être fastidieuses. En résumé, cet outil représente une aide précieuse pour ceux qui souhaitent optimiser leur utilisation des tableurs. <div>
 <p>Si vous avez de grosses lunettes et les cheveux gras, vous bossez probablement toute la journée sur un tableur. Ce genre d&rsquo;outils, perso, je ne maitrise pas du tout, mais j&rsquo;ai quand même une bonne astuce pour tous les utilisateurs de <strong>Google Spreadsheet</strong>.</p>
 <p>Il s&rsquo;agit d&rsquo;installer une extension qui s&rsquo;appelle <strong>AISheeter</strong> que vous trouverez sur le <a href="https://workspace.google.com/marketplace/app/aisheeter_smarter_google_sheets_with_any/272111525853">Google Workspace Marketplace</a>.</p>
 <p>Une fois installé, rendez-vous dans le menu des extensions de Sheets, puis, dans les paramètres de celle-ci pour ajouter vos clés, ChatGPT, Claude, Gemini et Groq.</p>
 ]]></content:encoded>
 <pubDate>Wed, 09 Oct 2024 14:51:12 +0200</pubDate>
-<pubDate>Wed, 09 Oct 2024 14:51:12 +0200</pubDate>
 </item>
-
 <item>
 <title>Gamers et QI - League of Legends en tête du classement</title>
 <link>https://korben.info/gamers-qi-league-of-legends-tete-classement.html</link>

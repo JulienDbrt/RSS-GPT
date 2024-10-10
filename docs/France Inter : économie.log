@@ -3368,3 +3368,18 @@ Summarized using GPT-4o-mini
 Append: [L'actu : Eric Heyer : Où trouver les 60 milliards d'euros pour le budget 2025 ?](https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-mercredi-09-octobre-2024-9582154)
 append_entries: 1
 Finish: 2024-10-10 01:29:09.505061
+------------------------------------------------------
+Started: 2024-10-10 12:46:57.949640
+Existing_entries: 482
+Fetching from https://www.radiofrance.fr/franceinter/rss/economie
+Token length: 102
+Summarized using GPT-4o-mini
+Append: [Budget de l'État, vote du budget... Qu’est-ce que le Budget ?](https://www.radiofrance.fr/franceinter/podcasts/l-edito-eco/l-edito-eco-du-jeudi-10-octobre-2024-7361616)
+Token length: 195
+Summarized using GPT-4o-mini
+Append: [Les collectivités locales au pain sec](https://www.radiofrance.fr/franceinter/podcasts/l-eco-avec/l-eco-avec-du-jeudi-10-octobre-2024-9573572)
+Token length: 276
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : la première véritable épreuve du gouvernement Barnier](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-5223332)
+append_entries: 3
+Finish: 2024-10-10 12:47:10.266099

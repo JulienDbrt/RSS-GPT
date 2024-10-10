@@ -3146,3 +3146,12 @@ Summarized using GPT-4o-mini
 Append: [TER Marseille-Toulon-Nice: les trains neufs attendus ne seront pas tous livrés](https://www.bfmtv.com/economie/entreprises/transports/ter-marseille-toulon-nice-les-trains-neufs-attendus-ne-seront-pas-tous-livres_AV-202410090595.html)
 append_entries: 1
 Finish: 2024-10-10 01:27:31.046906
+------------------------------------------------------
+Started: 2024-10-10 12:44:36.153376
+Existing_entries: 418
+Fetching from https://www.bfmtv.com/rss/economie/entreprises/transports/
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Les autorités européennes allègent leurs restrictions de vol pour l'espace aérien d'Israël](https://www.bfmtv.com/economie/entreprises/transports/les-autorites-europeennes-allegent-leurs-restrictions-de-vol-pour-l-espace-aerien-d-israel_AD-202410100100.html)
+append_entries: 1
+Finish: 2024-10-10 12:44:40.614275
