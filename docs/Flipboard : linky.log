@@ -2375,3 +2375,9 @@ Summarized using GPT-4o-mini
 Append: [Alerte incendie : vous êtes en danger si vous avez l’un de ces 100 000 compteurs Linky chez vous](https://www.maison-travaux.fr/actualites/compteurs-linky-fraude-risques-incendies-573117.html)
 append_entries: 1
 Finish: 2024-10-10 12:38:02.986575
+------------------------------------------------------
+Started: 2024-10-11 01:23:18.929129
+Existing_entries: 155
+Fetching from https://flipboard.com/topic/fr-linky.rss
+append_entries: 0
+Finish: 2024-10-11 01:23:19.678386

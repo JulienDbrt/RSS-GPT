@@ -3718,3 +3718,15 @@ Summarized using GPT-4o-mini
 Append: [Caussade. Les journées rencontres se poursuivent](https://www.ladepeche.fr/2024/10/10/les-journees-rencontres-se-poursuivent-12251145.php)
 append_entries: 8
 Finish: 2024-10-10 12:53:18.278788
+------------------------------------------------------
+Started: 2024-10-11 01:36:35.832051
+Existing_entries: 600
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 220
+Summarized using GPT-4o-mini
+Append: [Sécuriser l’eau "en quantité et en qualité" : 2 milliards d’euros pour le bassin Adour-Garonne](https://www.ladepeche.fr/2024/10/10/securiser-leau-en-quantite-et-en-qualite-2-milliards-deuros-pour-le-bassin-adour-garonne-12252736.php)
+Token length: 168
+Summarized using GPT-4o-mini
+Append: [Place de l’emploi : une première journée à L’Isle-en-Dodon pour rapprocher employeur et demandeur d’emploi](https://www.ladepeche.fr/2024/10/10/place-de-lemploi-une-premiere-journee-a-lisle-en-dodon-pour-rapprocher-employeur-et-demandeur-demploi-12250171.php)
+append_entries: 2
+Finish: 2024-10-11 01:36:45.048575

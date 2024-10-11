@@ -2445,3 +2445,9 @@ Summarized using GPT-4o-mini
 Append: [Si vous payez la taxe foncière dans le Puy-de-Dôme, une partie est distribuée à d’autres départements : on vous explique pourquoi](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/riom/si-vous-payez-la-taxe-fonciere-dans-le-puy-de-dome-une-partie-est-distribuee-a-d-autres-departements-on-vous-explique-pourquoi-3043854.html)
 append_entries: 1
 Finish: 2024-10-10 12:49:25.751772
+------------------------------------------------------
+Started: 2024-10-11 01:34:02.755176
+Existing_entries: 179
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-10-11 01:34:03.086879

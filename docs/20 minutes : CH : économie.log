@@ -3523,3 +3523,15 @@ Summarized using GPT-4o-mini
 Append: [Emplois menacés chez le géant de l'encre pour billets de banque](https://www.20min.ch/fr/story/vaud-emplois-menaces-chez-le-geant-de-l-encre-pour-billets-de-banque-103200102)
 append_entries: 1
 Finish: 2024-10-10 12:40:37.717471
+------------------------------------------------------
+Started: 2024-10-11 01:25:26.486273
+Existing_entries: 565
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 133
+Summarized using GPT-4o-mini
+Append: [Roi du luxe, Bernard Arnault s’intéresse aussi au football](https://www.20min.ch/fr/story/football-roi-du-luxe-bernard-arnault-s-interesse-aussi-au-football-103200373)
+Token length: 160
+Summarized using GPT-4o-mini
+Append: [Le CHUV veut augmenter ses revenus pour éviter de licencier](https://www.20min.ch/fr/story/vaud-le-chuv-veut-augmenter-ses-revenus-pour-eviter-de-licencier-103200323)
+append_entries: 2
+Finish: 2024-10-11 01:25:34.517327

@@ -3522,3 +3522,21 @@ Summarized using GPT-4o-mini
 Append: [Dans ce collège, près de 80 élèves n'ont pas vu de professeur de français depuis la rentrée](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/landes/mont-de-marsan/dans-ce-college-pres-de-80-eleves-n-ont-pas-vu-de-professeur-de-francais-depuis-la-rentree-3043736.html)
 append_entries: 2
 Finish: 2024-10-10 12:49:19.540888
+------------------------------------------------------
+Started: 2024-10-11 01:33:46.813956
+Existing_entries: 538
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 315
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : Trois questions à Sophie Binet, secrétaire générale de la CGT, en visite à Orléans](https://france3-regions.francetvinfo.fr/centre-val-de-loire/budget-2025-trois-questions-a-sophie-binet-secretaire-generale-de-la-cgt-en-visite-a-orleans-3044102.html)
+Token length: 311
+Summarized using GPT-4o-mini
+Append: ["C'est mieux de cueillir avec la machine directement" Pour attirer de nouveaux arboriculteurs, la filière pomme se mécanise](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/c-est-mieux-de-cueillir-avec-la-machine-directement-pour-attirer-de-nouveaux-arboriculteurs-la-filiere-pomme-se-mecanise-3044064.html)
+Token length: 232
+Summarized using GPT-4o-mini
+Append: [Trouver un emploi par le biais du handisport, c'est possible grâce à ces job dating inclusifs !](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/trouver-un-emploi-par-le-biais-du-handisport-c-est-possible-grace-a-ces-job-dating-inclusifs-3043964.html)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [MA France : le plan social validé par la justice, 280 salariés sur le carreau](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/ma-france-le-plan-social-valide-par-la-justice-280-salaries-sur-le-carreau-3044020.html)
+append_entries: 4
+Finish: 2024-10-11 01:34:02.657704
