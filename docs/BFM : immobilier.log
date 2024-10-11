@@ -3163,3 +3163,9 @@ Summarized using GPT-4o-mini
 Append: [Plan "Logement d'abord": 600.000 personnes sans domicile relogées depuis 2018](https://www.bfmtv.com/immobilier/location/plan-logement-d-abord-600-000-personnes-sans-domicile-relogees-depuis-2018_AD-202410100595.html)
 append_entries: 4
 Finish: 2024-10-11 01:29:32.609493
+------------------------------------------------------
+Started: 2024-10-11 12:43:47.562149
+Existing_entries: 429
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-10-11 12:43:48.171796

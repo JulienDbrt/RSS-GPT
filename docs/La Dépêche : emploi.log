@@ -3730,3 +3730,12 @@ Summarized using GPT-4o-mini
 Append: [Place de l’emploi : une première journée à L’Isle-en-Dodon pour rapprocher employeur et demandeur d’emploi](https://www.ladepeche.fr/2024/10/10/place-de-lemploi-une-premiere-journee-a-lisle-en-dodon-pour-rapprocher-employeur-et-demandeur-demploi-12250171.php)
 append_entries: 2
 Finish: 2024-10-11 01:36:45.048575
+------------------------------------------------------
+Started: 2024-10-11 12:52:15.243270
+Existing_entries: 602
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [Lannemezan. Les offres de la semaine](https://www.ladepeche.fr/2024/10/11/les-offres-de-la-semaine-12253897.php)
+append_entries: 1
+Finish: 2024-10-11 12:52:20.077815

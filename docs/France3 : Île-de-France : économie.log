@@ -3075,3 +3075,9 @@ Summarized using GPT-4o-mini
 Append: [Gilets jaunes : 5 ans plus tard, le gouvernement a-t-il ouvert les cahiers de doléances ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/gilets-jaunes-5-ans-plus-tard-le-gouvernement-a-t-il-ouvert-les-cahiers-de-doleances-3043388.html)
 append_entries: 1
 Finish: 2024-10-11 01:33:14.489883
+------------------------------------------------------
+Started: 2024-10-11 12:47:59.474465
+Existing_entries: 387
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-10-11 12:47:59.710561

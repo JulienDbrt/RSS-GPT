@@ -2384,3 +2384,9 @@ Summarized using GPT-4o-mini
 Append: [Plan "Logement d'abord" : 600 000 personnes sans domicile relogées depuis 2018](https://www.francetvinfo.fr/economie/immobilier/immobilier-indigne/plan-logement-d-abord-600-000-personnes-sans-domicile-relogees-depuis-2018_6829829.html)
 append_entries: 1
 Finish: 2024-10-11 01:32:10.094964
+------------------------------------------------------
+Started: 2024-10-11 12:46:41.862087
+Existing_entries: 150
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-10-11 12:46:41.928906

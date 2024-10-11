@@ -2292,3 +2292,9 @@ Summarized using GPT-4o-mini
 Append: [Selon l'Insee, le taux de chômage devrait "légèrement" augmenter à 7,5% fin 2024](https://www.bfmtv.com/economie/emploi/selon-l-insee-le-taux-de-chomage-devrait-legerement-augmenter-a-7-5-fin-2024_AD-202410100708.html)
 append_entries: 1
 Finish: 2024-10-11 01:27:40.805978
+------------------------------------------------------
+Started: 2024-10-11 12:42:10.037033
+Existing_entries: 126
+Fetching from https://www.bfmtv.com/rss/economie/emploi/
+append_entries: 0
+Finish: 2024-10-11 12:42:10.108613

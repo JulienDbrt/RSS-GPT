@@ -3344,3 +3344,18 @@ Summarized using GPT-4o-mini
 Append: [REPLAY. Mobilisation contre la vie chère : autoroute bloquée, heurts à l'aéroport, avion dérouté, de nouvelles actions menées cet après-midi](https://la1ere.francetvinfo.fr/martinique/direct-mobilisation-contre-la-vie-chere-autoroute-bloquee-heurts-a-l-aeroport-avion-deroute-de-nouvelles-actions-menees-cet-apres-midi-1527940.html)
 append_entries: 1
 Finish: 2024-10-11 01:35:42.311708
+------------------------------------------------------
+Started: 2024-10-11 12:51:20.193345
+Existing_entries: 463
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 16
+Summarized using GPT-4o-mini
+Append: [Le Département vote une subvention de 500 000 euros pour Zena Airlines](https://la1ere.francetvinfo.fr/mayotte/le-departement-vote-une-subvention-de-500-000-euros-pour-zena-airlines-1521392.html)
+Token length: 62
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : le transporteur maritime CMA CGM qui dessert les Outre-mer, seul concerné par une taxe exceptionnelle de 500 millions d'euros](https://la1ere.francetvinfo.fr/budget-2025-le-transporteur-maritime-cma-cgm-qui-dessert-les-outre-mer-seul-concerne-par-une-taxe-exceptionnelle-de-500-millions-d-euros-1528060.html)
+Token length: 80
+Summarized using GPT-4o-mini
+Append: [Mobilité : 3 200 voitures de plus chaque année sur les routes de La Réunion](https://la1ere.francetvinfo.fr/reunion/mobilite-3-200-voitures-de-plus-chaque-annee-sur-les-routes-de-la-reunion-1528044.html)
+append_entries: 3
+Finish: 2024-10-11 12:51:30.472226

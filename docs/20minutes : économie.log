@@ -3389,3 +3389,18 @@ Summarized using GPT-4o-mini
 Append: [Sarthe : Qui veut acheter le château de Steve McQueen ?](https://www.20minutes.fr/tempo/style/4114788-20241010-sarthe-veut-acheter-chateau-steve-mcqueen)
 append_entries: 4
 Finish: 2024-10-11 01:25:49.433544
+------------------------------------------------------
+Started: 2024-10-11 12:39:54.498213
+Existing_entries: 485
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 126
+Summarized using GPT-4o-mini
+Append: [Martinique : Magasins pillés, aéroport et écoles fermés… Tout comprendre aux violences urbaines qui secouent l’île](https://www.20minutes.fr/france/4114991-20241011-martinique-magasins-pilles-aeroport-ecoles-fermes-tout-comprendre-violences-urbaines-secouent-ile)
+Token length: 138
+Summarized using GPT-4o-mini
+Append: [Le Français Sanofi va vendre son célèbre Doliprane à un fonds d’investissement américain](https://www.20minutes.fr/economie/4114997-20241011-francais-sanofi-va-vendre-celebre-doliprane-fonds-investissement-americain)
+Token length: 175
+Summarized using GPT-4o-mini
+Append: [Immobilier : A parfois « moins de 1.000 euros le m² », Mulhouse est-elle la ville où investir ?](https://www.20minutes.fr/economie/immobilier/4114341-20241011-immobilier-parfois-moins-1-000-euros-2-mulhouse-ville-investir)
+append_entries: 3
+Finish: 2024-10-11 12:40:06.971979

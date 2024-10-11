@@ -2907,3 +2907,9 @@ Summarized using GPT-4o-mini
 Append: [18 personnes arrêtées pour avoir manipulé le cours de plusieurs cryptomonnaies](https://www.bfmtv.com/crypto/18-personnes-arretees-pour-avoir-manipule-le-cours-de-plusieurs-cryptomonnaies_AV-202410100600.html)
 append_entries: 1
 Finish: 2024-10-11 01:27:36.962358
+------------------------------------------------------
+Started: 2024-10-11 12:42:09.903975
+Existing_entries: 331
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-10-11 12:42:09.960516

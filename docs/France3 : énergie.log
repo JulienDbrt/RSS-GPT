@@ -2589,3 +2589,15 @@ Existing_entries: 225
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-10-11 01:33:07.712643
+------------------------------------------------------
+Started: 2024-10-11 12:47:49.106595
+Existing_entries: 225
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 139
+Summarized using GPT-4o-mini
+Append: ["On espère des économies d’au moins 25%", pour réduire la facture, un dispositif d’achat groupé d’énergies à Bourg-lès-Valence](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/drome/on-espere-des-economies-d-au-moins-25-pour-reduire-la-facture-un-dispositif-d-achat-groupe-d-energies-a-bourg-les-valence-3044224.html)
+Token length: 273
+Summarized using GPT-4o-mini
+Append: ["On en a qui font 200 mètres de haut" : l'implantation de 3 nouvelles éoliennes dans un village qui en compte déjà 14 inquiète les habitants](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/on-en-a-qui-font-200-metres-de-haut-l-implantation-de-3-nouvelles-eoliennes-dans-un-village-qui-en-compte-deja-14-inquiete-les-habitants-3043834.html)
+append_entries: 2
+Finish: 2024-10-11 12:47:59.259572

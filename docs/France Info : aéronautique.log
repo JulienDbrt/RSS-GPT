@@ -2246,3 +2246,12 @@ Summarized using GPT-4o-mini
 Append: [Budget 2025 : la taxe sur les billets d'avion pourrait augmenter](https://www.francetvinfo.fr/economie/budget/budget-2025-la-taxe-sur-les-billets-d-avion-pourrait-augmenter_6829874.html)
 append_entries: 1
 Finish: 2024-10-11 01:32:05.697651
+------------------------------------------------------
+Started: 2024-10-11 12:46:36.996756
+Existing_entries: 104
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 199
+Summarized using GPT-4o-mini
+Append: [Transports : le développement de l'aéroport de Beauvais va "générer des emplois", promet son nouveau gestionnaire](https://www.francetvinfo.fr/economie/transports/transports-le-developpement-de-l-aeroport-de-beauvais-va-generer-des-emplois-promet-son-nouveau-gestionnaire_6831644.html)
+append_entries: 1
+Finish: 2024-10-11 12:46:41.034905

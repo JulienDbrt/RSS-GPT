@@ -2561,3 +2561,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Peut-on vraiment être exonéré d'impôts en louant sa résidence principale ?](https://www.dna.fr/magazine-immobilier/2024/10/10/peut-on-vraiment-etre-exonere-d-impots-en-louant-sa-residence-principale)
 append_entries: 1
 Finish: 2024-10-11 01:30:36.780444
+------------------------------------------------------
+Started: 2024-10-11 12:44:39.877500
+Existing_entries: 209
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-10-11 12:44:41.432705
