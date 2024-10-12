@@ -3527,3 +3527,15 @@ Summarized using GPT-4o-mini
 Append: [Hausse de la taxe sur l'électricité : "Taxons l'électricité décarbonée qu'on produit et continuons d'importer de l'énergie fossile", ironise la présidente de l'UFE](https://www.francetvinfo.fr/replay-radio/l-interview-eco/hausse-de-la-taxe-sur-l-electricite-taxons-l-electricite-decarbonee-qu-on-produit-et-continuons-d-importer-de-l-energie-fossile-ironise-la-presidente-de-l-ufe_6803737.html)
 append_entries: 2
 Finish: 2024-10-12 01:27:56.331126
+------------------------------------------------------
+Started: 2024-10-12 12:39:25.703223
+Existing_entries: 533
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 185
+Summarized using GPT-4o-mini
+Append: [Environnement : "Le co-voiturage doit nous permettre de réduire les émissions de 3 millions de tonnes d'ici 2027" estime François Gemenne](https://www.francetvinfo.fr/replay-radio/zero-emission-podcast/environnement-le-co-voiturage-doit-nous-permettre-de-reduire-les-emissions-de-3-millions-de-tonnes-d-ici-2027-estime-francois-gemenne_6805879.html)
+Token length: 128
+Summarized using GPT-4o-mini
+Append: ["Ça fait longtemps qu'on le réclame" : la Renfe va lancer des liaisons ferroviaires directes à grande vitesse entre Barcelone et Toulouse au printemps 2025](https://www.francetvinfo.fr/economie/transports/sncf/ca-fait-longtemps-qu-on-le-reclame-la-renfe-va-lancer-des-liaisons-ferroviaire-directes-a-grande-vitesse-entre-barcelone-et-toulouse-au-printemps-2025_6832487.html)
+append_entries: 2
+Finish: 2024-10-12 12:39:33.752832

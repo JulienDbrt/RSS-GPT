@@ -2596,3 +2596,15 @@ Summarized using GPT-4o-mini
 Append: [Les retraités achètent dans la Montagne et sur Albi, les plus jeunes à Castres : les chiffres de l’immobilier dans le Tarn](https://www.ladepeche.fr/2024/10/11/les-retraites-achetent-dans-la-montagne-et-sur-albi-les-plus-jeunes-a-castres-les-chiffres-de-limmobilier-dans-le-tarn-12254941.php)
 append_entries: 2
 Finish: 2024-10-12 01:32:49.751601
+------------------------------------------------------
+Started: 2024-10-12 12:43:07.051525
+Existing_entries: 220
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 207
+Summarized using GPT-4o-mini
+Append: [Castelnaudary. Un échange sur la rénovation énergétique de l’habitat](https://www.ladepeche.fr/2024/10/12/un-echange-sur-la-renovation-energetique-de-lhabitat-12256345.php)
+Token length: 215
+Summarized using GPT-4o-mini
+Append: [Gimont, un terrain d’expérimentation pour les étudiants en architecture toulousains](https://www.ladepeche.fr/2024/10/12/gimont-un-terrain-dexperimentation-pour-les-etudiants-en-architecture-toulousains-12256299.php)
+append_entries: 2
+Finish: 2024-10-12 12:43:17.408620

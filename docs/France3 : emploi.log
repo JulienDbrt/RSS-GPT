@@ -3570,3 +3570,15 @@ Summarized using GPT-4o-mini
 Append: [Les salariés craignent "des maladies et cancers qui se déclarent tardivement" : la grève levée à l'usine Solvay, mais le bras de fer continue](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/les-salaries-craignent-des-maladies-et-cancers-qui-se-declarent-tardivement-la-greve-levee-a-l-usine-solvay-mais-le-bras-de-fer-continue-3044398.html)
 append_entries: 3
 Finish: 2024-10-12 01:29:15.593933
+------------------------------------------------------
+Started: 2024-10-12 12:40:46.302124
+Existing_entries: 548
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 235
+Summarized using GPT-4o-mini
+Append: [Nazione dénonce la "décorsisation" de l’emploi dans les enseignes de grande distribution](https://france3-regions.francetvinfo.fr/corse/nazione-denonce-la-decorsisation-de-l-emploi-dans-les-enseignes-de-grande-distribution-3044646.html)
+Token length: 260
+Summarized using GPT-4o-mini
+Append: [Maison avec piscine, terrain de pétanque et parc : pour attirer un médecin, cette commune sort les grands moyens](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/maison-avec-piscine-terrain-de-petanque-et-parc-pour-attirer-un-medecin-cette-commune-sort-les-grands-moyens-3044414.html)
+append_entries: 2
+Finish: 2024-10-12 12:40:52.210278

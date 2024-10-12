@@ -3231,3 +3231,12 @@ Summarized using GPT-4o-mini
 Append: ["On est obligé de toujours rouler, rouler, rouler" épuisés, des chauffeurs de bus entrent en grève dans le Pays de Montbéliard](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/on-est-oblige-de-toujours-rouler-rouler-rouler-epuises-des-chauffeurs-de-bus-entrent-en-greve-dans-le-pays-de-montbeliard-3044188.html)
 append_entries: 1
 Finish: 2024-10-12 01:28:49.482754
+------------------------------------------------------
+Started: 2024-10-12 12:40:41.115854
+Existing_entries: 435
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 204
+Summarized using GPT-4o-mini
+Append: [Ils feront bientôt "caisse commune", cette petite ville se lance dans l'autopartage pour dépanner ceux qui n'ont pas de voiture](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/haut-doubs/ils-feront-bientot-caisse-commune-cette-petite-ville-se-lance-dans-l-autopartage-pour-depanner-ceux-qui-n-ont-pas-de-voiture-3041808.html)
+append_entries: 1
+Finish: 2024-10-12 12:40:45.477561

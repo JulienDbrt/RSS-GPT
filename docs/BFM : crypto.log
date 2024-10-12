@@ -2928,3 +2928,9 @@ Summarized using GPT-4o-mini
 Append: [Le bitcoin à 200.000 dollars en 2025 ?](https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-a-200-000-dollars-en-2025_VN-202410110602.html)
 append_entries: 3
 Finish: 2024-10-12 01:24:06.333214
+------------------------------------------------------
+Started: 2024-10-12 12:36:28.857442
+Existing_entries: 334
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-10-12 12:36:29.162768

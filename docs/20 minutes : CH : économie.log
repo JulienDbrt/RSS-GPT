@@ -3565,3 +3565,15 @@ Summarized using GPT-4o-mini
 Append: [Avec le Paris FC, le PSG trouvera-t-il à qui parler?](https://www.20min.ch/fr/story/football-avec-le-paris-fc-le-psg-trouvera-t-il-a-qui-parler-103200234)
 append_entries: 1
 Finish: 2024-10-12 01:22:50.368878
+------------------------------------------------------
+Started: 2024-10-12 12:35:12.697990
+Existing_entries: 573
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 146
+Summarized using GPT-4o-mini
+Append: [La Chine émet des obligations pour relancer l’économie](https://www.20min.ch/fr/story/asie-la-chine-emet-des-obligations-pour-relancer-l-economie-103200999)
+Token length: 117
+Summarized using GPT-4o-mini
+Append: [Boeing va supprimer environ 17’000 emplois dans le monde](https://www.20min.ch/fr/story/aeronautique-boeing-va-supprimer-environ-17-000-emplois-dans-le-monde-103200986)
+append_entries: 2
+Finish: 2024-10-12 12:35:19.750288

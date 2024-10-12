@@ -2188,3 +2188,9 @@ Summarized using GPT-4o-mini
 Append: [Gestion de l'eau: la Ville de Paris se lance dans le grand bain](https://www.latribune.fr/regions/ile-de-france/gestion-de-l-eau-la-ville-de-paris-se-lance-dans-le-grand-bain-1008667.html)
 append_entries: 1
 Finish: 2024-10-12 01:33:54.540766
+------------------------------------------------------
+Started: 2024-10-12 12:43:53.724859
+Existing_entries: 74
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+append_entries: 0
+Finish: 2024-10-12 12:43:54.227897

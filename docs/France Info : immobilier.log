@@ -2402,3 +2402,9 @@ Summarized using GPT-4o-mini
 Append: [Vie étudiante : des logements abordables à la ferme de plus en plus demandés](https://www.francetvinfo.fr/economie/pouvoir-achat/logement/vie-etudiante-des-logements-abordables-a-la-ferme-de-plus-en-plus-demandes_6832085.html)
 append_entries: 2
 Finish: 2024-10-12 01:27:47.727542
+------------------------------------------------------
+Started: 2024-10-12 12:39:25.350660
+Existing_entries: 152
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-10-12 12:39:25.416769
