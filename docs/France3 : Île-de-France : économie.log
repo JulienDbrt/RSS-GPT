@@ -3081,3 +3081,15 @@ Existing_entries: 387
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-10-11 12:47:59.710561
+------------------------------------------------------
+Started: 2024-10-12 01:28:27.456260
+Existing_entries: 387
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 319
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : 5 milliards d’euros d’économies demandées aux grandes villes et aux départements.](https://france3-regions.francetvinfo.fr/paris-ile-de-france/budget-2025-5-milliards-d-euros-d-economies-demandees-aux-grandes-villes-et-aux-departements-3044476.html)
+Token length: 322
+Summarized using GPT-4o-mini
+Append: ["Certains nous confient ne pas manger le midi" Des professeurs de l'IUT de Paris-Saclay se cotisent pour aider leurs étudiants](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/certains-nous-confient-ne-pas-manger-le-midi-des-professeurs-de-l-iut-de-paris-saclay-se-cotisent-pour-aider-leurs-etudiants-3044428.html)
+append_entries: 2
+Finish: 2024-10-12 01:28:34.030553

@@ -2716,3 +2716,15 @@ Summarized using GPT-4o-mini
 Append: ["Un navire coule tous les deux jours et demi", le cargo Ruby, chargé de nitrate d'ammonium, va-t-il traverser la Manche dans cet état ?](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/il-risque-d-etre-envoye-vers-un-pays-pauvre-le-cargo-ruby-charge-de-nitrate-d-ammonium-va-t-il-traverser-la-manche-dans-cet-etat-3043840.html)
 append_entries: 1
 Finish: 2024-10-11 12:48:48.551061
+------------------------------------------------------
+Started: 2024-10-12 01:28:49.628504
+Existing_entries: 265
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 302
+Summarized using GPT-4o-mini
+Append: [Face à la baisse des financements prévue par le budget 2025 : "La mission devient impossible" pour les élus](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/face-a-la-baisse-des-financements-prevue-par-le-budget-2025-la-mission-devient-impossible-pour-les-elus-3044550.html)
+Token length: 187
+Summarized using GPT-4o-mini
+Append: [Toujours plus de demandes : le Centre-Bretagne, "un point noir en matière de précarité alimentaire"](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/lannion/le-centre-bretagne-un-point-noir-en-matiere-de-precarite-alimentaire-3044454.html)
+append_entries: 2
+Finish: 2024-10-12 01:28:56.486682

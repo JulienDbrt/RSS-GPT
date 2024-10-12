@@ -2942,3 +2942,15 @@ Summarized using GPT-4o-mini
 Append: [Payer son trajet avec des écochèques ? C’est désormais possible avec cette société de transport belge](https://www.lalibre.be/belgique/mobilite/2024/10/11/payer-son-trajet-avec-des-ecocheques-cest-desormais-possible-avec-cette-societe-de-transport-belge-RMM2PXXACNCSJM2YHMDSAS2KBM/)
 append_entries: 1
 Finish: 2024-10-11 12:53:20.572749
+------------------------------------------------------
+Started: 2024-10-12 01:33:20.637532
+Existing_entries: 360
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 62
+Summarized using GPT-4o-mini
+Append: [Toutes les voies de la gare de Bruxelles-Central libérées](https://www.lalibre.be/belgique/mobilite/2024/10/11/toutes-les-voies-de-la-gare-de-bruxelles-central-liberees-DMXURSSJDNHQ3BOD2WSMMDQDLI/)
+Token length: 39
+Summarized using GPT-4o-mini
+Append: [Des retards et des trains supprimés : grosses perturbations à la gare de Bruxelles-Central à cause d’un accident](https://www.lalibre.be/belgique/mobilite/2024/10/11/des-retards-et-des-trains-supprimes-grosses-perturbations-a-la-gare-de-bruxelles-central-a-cause-dun-accident-LYVWT6W47NEFLMYOMCIU6GRHFQ/)
+append_entries: 2
+Finish: 2024-10-12 01:33:27.788677

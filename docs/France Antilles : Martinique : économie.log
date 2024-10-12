@@ -4001,3 +4001,15 @@ Summarized using GPT-4o-mini
 Append: [Carlos Tavares, patron automobile sans concessions rattrapé par les difficultés](https://www.martinique.franceantilles.fr/actualite/economie/carlos-tavares-patron-automobile-sans-concessions-rattrape-par-les-difficultes-1007051.php)
 append_entries: 8
 Finish: 2024-10-11 12:45:45.484455
+------------------------------------------------------
+Started: 2024-10-12 01:26:48.529245
+Existing_entries: 707
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 80
+Summarized using GPT-4o-mini
+Append: [Mouvement social : L'activité commerciale reprend](https://www.martinique.franceantilles.fr/actualite/economie/mouvement-social-la-zone-commerciale-de-californie-au-lamentin-est-ouverte-1007109.php)
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [Le Nobel de la paix à des rescapés d'Hiroshima militant contre l'arme nucléaire](https://www.martinique.franceantilles.fr/actualite/international/un-nobel-de-la-paix-en-forme-de-plaidoyer-en-faveur-dun-ordre-mondial-menace-1007044.php)
+append_entries: 2
+Finish: 2024-10-12 01:26:58.828816

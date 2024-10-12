@@ -7276,3 +7276,21 @@ Summarized using GPT-4o-mini
 Append: [Voici les villes d'Occitanie qui ont connu les plus fortes hausses de loyer](https://actu.fr/societe/voici-les-villes-d-occitanie-qui-ont-connu-les-plus-fortes-hausses-de-loyer_61714458.html)
 append_entries: 6
 Finish: 2024-10-11 12:37:38.496137
+------------------------------------------------------
+Started: 2024-10-12 01:20:41.807130
+Existing_entries: 1006
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Vous avez cet élément dans votre jardin ? Un agent immobilier prévient, c'est 20 000 € en moins sur la vente](https://monjardinmamaison.maison-travaux.fr/mon-jardin-ma-maison/actualites-jardin/valeur-bien-erreur-jardin-481717.html)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Métropole de Lyon. Immobilier : la procédure de sauvegarde accélérée demandée par Alila rejetée](https://www.leprogres.fr/economie/2024/10/11/immobilier-la-procedure-de-sauvegarde-acceleree-demandee-par-alila-rejetee)
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [Augmentation des frais de copropriété en 2025 : nouvelle obligation pour les ascenseurs](https://www.24matins.fr/augmentation-des-frais-de-copropriete-en-2025-nouvelle-obligation-pour-les-ascenseurs-1381261)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Logements en Suisse: Deux tiers des locataires pourront prétendre à une baisse de loyer](https://www.24heures.ch/suisse-une-baisse-de-loyer-pour-deux-tiers-des-locataires-330761273723)
+append_entries: 4
+Finish: 2024-10-12 01:20:56.587488

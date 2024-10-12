@@ -2601,3 +2601,12 @@ Summarized using GPT-4o-mini
 Append: ["On en a qui font 200 mètres de haut" : l'implantation de 3 nouvelles éoliennes dans un village qui en compte déjà 14 inquiète les habitants](https://france3-regions.francetvinfo.fr/hauts-de-france/oise/on-en-a-qui-font-200-metres-de-haut-l-implantation-de-3-nouvelles-eoliennes-dans-un-village-qui-en-compte-deja-14-inquiete-les-habitants-3043834.html)
 append_entries: 2
 Finish: 2024-10-11 12:47:59.259572
+------------------------------------------------------
+Started: 2024-10-12 01:28:21.533472
+Existing_entries: 227
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 335
+Summarized using GPT-4o-mini
+Append: [Fermeture de la Centrale EDF de Cordemais : "Humainement, on est tous touchés", les salariés expriment leur amertume lors d'une réunion publique](https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/saint-nazaire/fermeture-de-la-centrale-edf-de-cordemais-humainement-on-est-tous-touches-les-salaries-expriment-leur-amertume-lors-d-une-reunion-publique-3044254.html)
+append_entries: 1
+Finish: 2024-10-12 01:28:27.245749

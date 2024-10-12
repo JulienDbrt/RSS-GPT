@@ -3739,3 +3739,18 @@ Summarized using GPT-4o-mini
 Append: [Lannemezan. Les offres de la semaine](https://www.ladepeche.fr/2024/10/11/les-offres-de-la-semaine-12253897.php)
 append_entries: 1
 Finish: 2024-10-11 12:52:20.077815
+------------------------------------------------------
+Started: 2024-10-12 01:32:24.127736
+Existing_entries: 603
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 203
+Summarized using GPT-4o-mini
+Append: [Découvrez le nouveau campus toulousain de deux écoles d’ingénieurs en aéronautique et informatique](https://www.ladepeche.fr/2024/10/11/decouvrez-le-nouveau-campus-toulousain-de-deux-ecoles-dingenieurs-en-aeronautique-et-informatique-12255133.php)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Des conteneurs maritimes stockés à l’entrée de cette ville de Haute-Garonne mettent en colère des riverains](https://www.ladepeche.fr/2024/10/11/revel-des-conteneurs-maritimes-de-stockage-a-lentree-de-la-ville-font-debat-12254454.php)
+Token length: 111
+Summarized using GPT-4o-mini
+Append: [Emploi saisonnier : forum réussi mais de nombreux postes restent à pourvoir en vallées d’Aure et du Louron](https://www.ladepeche.fr/2024/10/11/emploi-saisonnier-forum-reussi-mais-de-nombreux-postes-restent-a-pourvoir-en-vallees-daure-et-du-louron-12255232.php)
+append_entries: 3
+Finish: 2024-10-12 01:32:38.650755

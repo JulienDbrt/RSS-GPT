@@ -2255,3 +2255,12 @@ Summarized using GPT-4o-mini
 Append: [Transports : le développement de l'aéroport de Beauvais va "générer des emplois", promet son nouveau gestionnaire](https://www.francetvinfo.fr/economie/transports/transports-le-developpement-de-l-aeroport-de-beauvais-va-generer-des-emplois-promet-son-nouveau-gestionnaire_6831644.html)
 append_entries: 1
 Finish: 2024-10-11 12:46:41.034905
+------------------------------------------------------
+Started: 2024-10-12 01:27:35.800225
+Existing_entries: 105
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 162
+Summarized using GPT-4o-mini
+Append: [Surtaxation des billets d’avion : "On va devoir vendre les billets plus chers", alerte le président de la Fédération nationale de l’aviation et de ses métiers](https://www.francetvinfo.fr/economie/surtaxation-des-billets-d-avion-on-va-devoir-vendre-les-billets-plus-chers-alerte-le-president-de-la-federation-nationale-de-l-aviation-et-de-ses-metiers_6832421.html)
+append_entries: 1
+Finish: 2024-10-12 01:27:39.797388

@@ -9256,3 +9256,21 @@ Append: [Retraite : pourquoi la hausse sera moins élevée que prévu (en plus d
 Append: [LEP, PEL, CEL... Voilà les montants demandés pour transférer ces comptes dans une autre banque](https://www.moneyvox.fr/banque/actualites/100023/lep-pel-cel-voila-les-montants-demandes-pour-transferer-ces-comptes-dans-une-autre-banque)
 append_entries: 21
 Finish: 2024-10-11 12:47:48.141819
+------------------------------------------------------
+Started: 2024-10-12 01:28:03.970265
+Existing_entries: 1021
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Hausse des aides sociales, fin de l'avantage fiscal pour les locations meublées... Les 3 infos argent du jour](https://www.moneyvox.fr/votre-argent/actualites/100054/hausse-des-aides-sociales-fin-de-avantage-fiscal-pour-les-locations-meublees-les-3-infos-argent-du-jour)
+Token length: 140
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : mauvaise nouvelle pour les particuliers qui se chauffent au gaz](https://www.moneyvox.fr/energie/actualites/100036/budget-2025-mauvaise-nouvelle-pour-les-particuliers-qui-se-chauffent-au-gaz)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : des économies au risque d'amputer la croissance](https://www.moneyvox.fr/actu/100055/budget-2025-des-economies-au-risque-amputer-la-croissance)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : une hausse de la fiscalité sur le gaz sera ajoutée au projet de loi par amendement](https://www.moneyvox.fr/energie/actualites/100051/budget-2025-une-hausse-de-la-fiscalite-sur-le-gaz-sera-ajoutee-au-projet-de-loi-par-amendement)
+append_entries: 4
+Finish: 2024-10-12 01:28:20.307000
