@@ -5143,3 +5143,18 @@ Summarized using GPT-4o-mini
 Append: [MicroStrategy souhaite devenir la première entreprise valorisée à 1.000 milliards de dollars grâce au bitcoin](https://www.bfmtv.com/crypto/micro-strategy-souhaite-devenir-la-premiere-entreprise-valorisee-a-1-000-milliards-de-dollars-grace-au-bitcoin_AV-202410110687.html)
 append_entries: 1
 Finish: 2024-10-13 01:26:29.647563
+------------------------------------------------------
+Started: 2024-10-13 12:33:15.887628
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-bitcoin.rss
+Token length: 145
+Summarized using GPT-4o-mini
+Append: [Crypto : comment Donald Trump cherche à séduire les détenteurs de Bitcoin](https://www.01net.com/actualites/crypto-comment-donald-trump-cherche-seduire-detenteurs-bitcoin.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Quand le FBI lance sa propre crypto pour piéger des manipulateurs de marché](https://www.lesechos.fr/finance-marches/marches-financiers/quand-le-fbi-lance-sa-propre-crypto-pour-pieger-des-manipulateurs-de-marche-2124898)
+Token length: 149
+Summarized using GPT-4o-mini
+Append: [Le PDG présumé de la plateforme de blanchiment Bitzlato remis en liberté en France](https://www.challenges.fr/economie/le-pdg-presume-de-la-plateforme-de-blanchiment-bitzlato-remis-en-liberte-en-france_907977)
+append_entries: 3
+Finish: 2024-10-13 12:33:30.910810

@@ -2628,3 +2628,12 @@ Summarized using GPT-4o-mini
 Append: [Voila ce que deviennent vos biodéchets déposés dans les bornes de collecte](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/voila-ce-que-deviennent-vos-biodechets-deposes-dans-les-bornes-de-collecte-3044686.html)
 append_entries: 1
 Finish: 2024-10-13 01:33:54.265948
+------------------------------------------------------
+Started: 2024-10-13 12:45:49.782567
+Existing_entries: 230
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 308
+Summarized using GPT-4o-mini
+Append: ["Au moment où on turbine, on relâche 550 m³ dans la rivière" Visite au barrage de l'Aigle, plus puissante centrale hydroélectrique de la vallée de la Dordogne](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/tulle/au-moment-ou-on-turbine-on-relache-550-m-dans-la-riviere-visite-au-barrage-de-l-aigle-plus-puissante-centrale-hydroelectrique-de-la-vallee-de-la-dordogne-3042524.html)
+append_entries: 1
+Finish: 2024-10-13 12:45:54.701871

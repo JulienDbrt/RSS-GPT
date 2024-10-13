@@ -2743,3 +2743,9 @@ Summarized using GPT-4o-mini
 Append: [En visite à Brest, le ministre assure : "pas de crainte" financière pour l'Ifremer dans les années à venir](https://france3-regions.francetvinfo.fr/bretagne/finistere/brest/en-visite-a-brest-le-ministre-assure-pas-de-crainte-financiere-pour-l-ifremer-dans-les-annees-a-venir-3044736.html)
 append_entries: 1
 Finish: 2024-10-13 01:34:14.997110
+------------------------------------------------------
+Started: 2024-10-13 12:46:34.004398
+Existing_entries: 268
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-10-13 12:46:34.626263

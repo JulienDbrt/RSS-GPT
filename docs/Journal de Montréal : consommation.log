@@ -2734,3 +2734,12 @@ Existing_entries: 254
 Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
 append_entries: 0
 Finish: 2024-10-13 01:34:29.983511
+------------------------------------------------------
+Started: 2024-10-13 12:46:50.660937
+Existing_entries: 254
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 95
+Summarized using GPT-4o-mini
+Append: [Prix de la dinde: «On est pas mal gâtés cette année»](https://www.journaldemontreal.com/2024/10/12/prix-de-la-dinde-on-est-pas-mal-gates-cette-annee)
+append_entries: 1
+Finish: 2024-10-13 12:46:56.207664

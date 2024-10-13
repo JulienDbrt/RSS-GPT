@@ -10918,3 +10918,12 @@ Summarized using GPT-4o-mini
 Append: [Le prix du Bitcoin passe au vert aujourd’hui, le 12 octobre 2024](https://www.nouvelles-du-monde.com/le-prix-du-bitcoin-passe-au-vert-aujourdhui-le-12-octobre-2024/)
 append_entries: 2
 Finish: 2024-10-13 01:26:24.859915
+------------------------------------------------------
+Started: 2024-10-13 12:33:03.667659
+Existing_entries: 1002
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 73
+Summarized using GPT-4o-mini
+Append: [Crypto : comment Donald Trump cherche à séduire les détenteurs de Bitcoin](https://www.01net.com/actualites/crypto-comment-donald-trump-cherche-seduire-detenteurs-bitcoin.html)
+append_entries: 1
+Finish: 2024-10-13 12:33:15.333019

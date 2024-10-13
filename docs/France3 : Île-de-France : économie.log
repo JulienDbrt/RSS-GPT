@@ -3105,3 +3105,12 @@ Existing_entries: 389
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-10-13 01:33:54.647708
+------------------------------------------------------
+Started: 2024-10-13 12:45:54.918419
+Existing_entries: 389
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 253
+Summarized using GPT-4o-mini
+Append: [VIDÉO. Tempête Kirk. "On ne peut pas faire de récoltes" : inquiétude chez les agriculteurs, après de fortes inondations](https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-et-marne/video-tempete-kirk-on-ne-peut-pas-faire-de-recoltes-l-inquietude-chez-les-agriculteurs-apres-de-fortes-inondations-3044764.html)
+append_entries: 1
+Finish: 2024-10-13 12:46:03.637471

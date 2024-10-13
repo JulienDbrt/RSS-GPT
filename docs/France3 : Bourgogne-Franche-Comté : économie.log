@@ -3246,3 +3246,12 @@ Existing_entries: 436
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-10-13 01:34:10.451808
+------------------------------------------------------
+Started: 2024-10-13 12:46:26.083751
+Existing_entries: 436
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 326
+Summarized using GPT-4o-mini
+Append: [Architecture vieillissante, suicides répétés... Ce "Pont du diable", haut de 60m, inquiète les élus locaux : "on se sent impuissant"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/architecture-vieillissante-suicides-repetes-ce-pont-du-diable-haut-de-60m-inquiete-les-elus-locaux-on-se-sent-impuissant-3043490.html)
+append_entries: 1
+Finish: 2024-10-13 12:46:33.850412
