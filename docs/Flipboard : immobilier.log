@@ -7303,3 +7303,18 @@ Summarized using GPT-4o-mini
 Append: [Ces éléments qui ont le plus amélioré nos logements en 50 ans... et ceux que l’on regrette d’avoir perdus](https://immobilier.lefigaro.fr/article/ces-elements-qui-ont-le-plus-ameliore-nos-logements-en-50-ans-et-ceux-que-l-on-regrette-d-avoir-perdus_7c7d42ae-87bf-11ef-9b3c-37f780115c04/)
 append_entries: 1
 Finish: 2024-10-12 12:33:35.298598
+------------------------------------------------------
+Started: 2024-10-13 01:27:55.359890
+Existing_entries: 1001
+Fetching from https://flipboard.com/topic/fr-immobilier.rss
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Secrets d’héritage : «Cette histoire a privé mes enfants de la quasi-totalité de leur patrimoine»](https://www.lefigaro.fr/argent/secrets-d-heritage-cette-histoire-a-prive-mes-enfants-de-la-quasi-totalite-de-leur-patrimoine-20241012)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Deux tiers des locataires pourront prétendre à une baisse de loyer](https://www.handelszeitung.ch/insurance/deux-tiers-des-locataires-pourront-pretendre-a-une-baisse-de-loyer-757550)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [[EN IMAGES] Cette résidence de luxe est la plus chère jamais mise sur le marché immobilier à Québec](https://www.tvanouvelles.ca/2024/10/12/la-residence-de-luxe-la-plus-cher-jamais-mise-sur-le-marche-immobilier-a-quebec-le-prix-demande-12-m)
+append_entries: 3
+Finish: 2024-10-13 01:28:08.523761

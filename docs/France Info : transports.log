@@ -3539,3 +3539,15 @@ Summarized using GPT-4o-mini
 Append: ["Ça fait longtemps qu'on le réclame" : la Renfe va lancer des liaisons ferroviaires directes à grande vitesse entre Barcelone et Toulouse au printemps 2025](https://www.francetvinfo.fr/economie/transports/sncf/ca-fait-longtemps-qu-on-le-reclame-la-renfe-va-lancer-des-liaisons-ferroviaire-directes-a-grande-vitesse-entre-barcelone-et-toulouse-au-printemps-2025_6832487.html)
 append_entries: 2
 Finish: 2024-10-12 12:39:33.752832
+------------------------------------------------------
+Started: 2024-10-13 01:33:15.427761
+Existing_entries: 535
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 271
+Summarized using GPT-4o-mini
+Append: [Une manifestation contre la ligne à grande vitesse dégénère en Gironde](https://www.francetvinfo.fr/economie/transports/sncf/une-manifestation-contre-la-ligne-a-grande-vitesse-degenere-en-gironde_6834254.html)
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [LGV Sud-Ouest : "Je ne suis pas sûr que les Soulèvements de la Terre écoutent et entendent", déclare Alain Rousset, président de la région Nouvelle-Aquitaine](https://www.francetvinfo.fr/economie/transports/lgv-sud-ouest-je-ne-suis-pas-sur-que-les-soulevements-de-la-terre-ecoutent-et-entendent-declare-alain-rousset-president-de-la-region-nouvelle-aquitaine_6834011.html)
+append_entries: 2
+Finish: 2024-10-13 01:33:23.639453

@@ -10906,3 +10906,15 @@ Summarized using GPT-4o-mini
 Append: [De quoi le «deep state» est-il le nom?](https://www.heidi.news/articles/de-quoi-le-deep-state-est-il-le-nom)
 append_entries: 1
 Finish: 2024-10-12 12:32:40.834182
+------------------------------------------------------
+Started: 2024-10-13 01:26:13.373517
+Existing_entries: 1001
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 65
+Summarized using GPT-4o-mini
+Append: [Comment retirer ses gains en cryptomonnaie d’un casino en ligne ?](https://lematindalgerie.com/comment-retirer-ses-gains-en-cryptomonnaie-dun-casino-en-ligne/)
+Token length: 64
+Summarized using GPT-4o-mini
+Append: [Le prix du Bitcoin passe au vert aujourd’hui, le 12 octobre 2024](https://www.nouvelles-du-monde.com/le-prix-du-bitcoin-passe-au-vert-aujourdhui-le-12-octobre-2024/)
+append_entries: 2
+Finish: 2024-10-13 01:26:24.859915
