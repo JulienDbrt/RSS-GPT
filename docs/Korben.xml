@@ -4,6 +4,7 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Effacez et sécurisez vos disques durs avec nwipe</title>
 <link>https://korben.info/effacer-securiser-disques-durs-nwipe-outil-open-source.html</link>
@@ -11,15 +12,13 @@
 <content:encoded><![CDATA[
 <div> moyen d'effacement, disque dur, ligne de commande, algorithme, distribution  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 nwipe est un outil d'effacement de disques, similaire à Darik’s Boot and Nuke (DBAN), qui permet de nettoyer complètement un disque dur avant de le jeter ou de le donner. Contrairement à DBAN, qui présente certaines limitations, notamment l'absence de support de la ligne de commande et le choix d'algorithmes d'effacement spécifiques, nwipe propose une solution plus flexible. nwipe est en fait un fork de la commande d'effacement utilisée dans DBAN. Les développeurs de nwipe ont voulu créer un outil plus adaptable, pouvant être utilisé sur n'importe quelle distribution Linux. Grâce à cela, les utilisateurs ont la possibilité de compiler nwipe eux-mêmes pour les plus expérimentés ou de l'installer directement depuis les dépôts de nombreuses distributions. Ce niveau de personnalisation permet d'améliorer la fonctionnalité et l'accessibilité de l'outil d'effacement, ce qui en fait un excellent choix pour ceux qui souhaitent s'assurer que leurs données sont complètement supprimées avant de se débarrasser de leur matériel. <div>
 <p><strong>nwipe</strong> est un cousin de <a href="https://korben.info/effacer-vraiment-disque-dur-de-revendre-donner.html">DBAN</a> (Darik&rsquo;s Boot and Nuke), ce genre de truc qu&rsquo;on utilise quand on veut faire table rase sur un disque avant de le bazarder ou de le refiler. Sauf que DBAN, c&rsquo;est bien, mais c&rsquo;est un peu limité car on ne peut pas l&rsquo;utiliser en ligne de commande ou choisir un algo d&rsquo;effacement spécifique. Heureusement, <strong><a href="https://github.com/martijnvanbrummelen/nwipe">nwipe</a></strong> est là pour nous sauver la mise.</p>
 <p>C&rsquo;est en réalité un fork de <a href="https://github.com/sTeeLM/dwipe">dwipe</a>, la commande d&rsquo;effacement qu&rsquo;utilisait DBAN à la base mais les petits gars qui ont développé nwipe voulaient un truc plus souple, qui puisse s&rsquo;utiliser avec n&rsquo;importe quelle distrib. Résultat, on peut le compiler nous-mêmes (pour les plus geeks) ou l&rsquo;installer direct depuis les dépôts de pas mal de distros.</p>
 ]]></content:encoded>
 <pubDate>Sun, 13 Oct 2024 09:00:00 +0200</pubDate>
-<pubDate>Sun, 13 Oct 2024 09:00:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Dokploy - La plateforme d'hébergement open source gratuite</title>
 <link>https://korben.info/dokploy-plateforme-hebergement-open-source-gratuite.html</link>

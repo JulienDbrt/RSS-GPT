@@ -3563,3 +3563,18 @@ Summarized using GPT-4o-mini
 Append: [Gironde : La tension monte lors de la manifestation contre la ligne à grande vitesse](https://www.francetvinfo.fr/economie/transports/sncf/gironde-la-tension-monte-lors-de-la-manifestation-contre-la-ligne-a-grande-vitesse_6835304.html)
 append_entries: 2
 Finish: 2024-10-13 12:45:19.943601
+------------------------------------------------------
+Started: 2024-10-14 01:35:05.798684
+Existing_entries: 539
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 77
+Summarized using GPT-4o-mini
+Append: [Loi immigration, hommage à Dominique Bernard, SpaceX... Les informés de franceinfo du dimanche 13 octobre 2024](https://www.francetvinfo.fr/replay-radio/les-informes-de-france-info/loi-immigration-hommage-a-dominique-bernard-spacex-les-informes-de-franceinfo-du-dimanche-13-octobre-2024_6807508.html)
+Token length: 134
+Summarized using GPT-4o-mini
+Append: [Mobilisation contre la LGV Sud-Ouest : une perquisition menée sur le camp des opposants après la dégradation d'un véhicule de gendarmerie](https://www.francetvinfo.fr/economie/transports/mobilisation-contre-la-lgv-sud-ouest-une-perquisition-menee-sur-le-camp-des-opposants-apres-la-degradation-d-un-vehicule-de-gendarmerie_6835865.html)
+Token length: 196
+Summarized using GPT-4o-mini
+Append: [Automobile : après la voiture, l'électrique à la conquête du marché des poids lourds](https://www.francetvinfo.fr/economie/transports/automobile-apres-la-voiture-l-electrique-a-la-conquete-du-marche-des-poids-lourds_6834284.html)
+append_entries: 3
+Finish: 2024-10-14 01:35:27.880396

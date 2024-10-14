@@ -3054,3 +3054,9 @@ Summarized using GPT-4o-mini
 Append: ["Une vraie grande fête de l'automobile": le Mondial de l'auto se prépare à accueillir 500.000 visiteurs](https://www.bfmtv.com/auto/une-vraie-grande-fete-de-l-automobile-le-mondial-de-l-auto-se-prepare-a-accueillir-500-000-visiteurs_VN-202410130041.html)
 append_entries: 1
 Finish: 2024-10-13 12:40:00.538662
+------------------------------------------------------
+Started: 2024-10-14 01:31:44.470307
+Existing_entries: 370
+Fetching from https://www.bfmtv.com/rss/auto/
+append_entries: 0
+Finish: 2024-10-14 01:31:44.598189

@@ -2046,3 +2046,10 @@ Summarized using GPT-4o-mini
 Append: [Les cartes à collectionner de Donald Trump ne sauveront pas les NFT du cimetière numérique](https://fr.euronews.com/culture/2024/10/13/les-cartes-a-collectionner-de-donald-trump-ne-sauveront-pas-les-nft-du-cimetiere-numerique)
 append_entries: 1
 Finish: 2024-10-13 12:43:33.201212
+------------------------------------------------------
+Started: 2024-10-14 01:33:33.769450
+Existing_entries: 35
+Fetching from https://fr.euronews.com/rss?level=tag&name=cryptomonnaie
+Feed error: <unknown>:2:0: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/Euronews FR : cryptomonnaie
