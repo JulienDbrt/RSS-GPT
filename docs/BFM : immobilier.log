@@ -3211,3 +3211,15 @@ Existing_entries: 433
 Fetching from https://www.bfmtv.com/rss/immobilier/
 append_entries: 0
 Finish: 2024-10-14 01:32:35.332309
+------------------------------------------------------
+Started: 2024-10-15 01:40:15.337587
+Existing_entries: 433
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 189
+Summarized using GPT-4o-mini
+Append: ["S'il faut recréer un impôt, c'est celui-là": Jean-François Copé plaide pour le retour de la taxe d'habitation](https://www.bfmtv.com/immobilier/fiscalite/s-il-faut-recreer-un-impot-c-est-celui-la-jean-francois-cope-plaide-pour-le-retour-de-la-taxe-d-habitation_AV-202410140509.html)
+Token length: 200
+Summarized using GPT-4o-mini
+Append: [Derniers jours pour payer votre taxe foncière](https://www.bfmtv.com/immobilier/fiscalite/derniers-jours-pour-payer-votre-taxe-fonciere_AV-202410140397.html)
+append_entries: 2
+Finish: 2024-10-15 01:40:21.873055

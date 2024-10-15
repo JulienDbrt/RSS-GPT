@@ -2665,3 +2665,18 @@ Existing_entries: 225
 Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
 append_entries: 0
 Finish: 2024-10-14 01:37:30.825485
+------------------------------------------------------
+Started: 2024-10-15 01:51:43.435969
+Existing_entries: 225
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 80
+Summarized using GPT-4o-mini
+Append: [Décès de l’entrepreneur martiniquais Eric Mongérand à l’âge de 68 ans](https://la1ere.francetvinfo.fr/martinique/deces-de-l-entrepreneur-martiniquais-eric-mongerand-a-l-age-de-68-ans-1528562.html)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Violences urbaines en Martinique : quels recours pour les propriétaires d’entreprises et de voitures incendiées ?](https://la1ere.francetvinfo.fr/martinique/violences-urbaines-en-martinique-quels-recours-pour-les-proprietaires-d-entreprises-et-de-voitures-incendiees-1528520.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Le dispositif "Pinel" pour une réduction d’impôt en cas d’acquisition ou de construction de logement se termine le 31 décembre 2024](https://la1ere.francetvinfo.fr/martinique/le-dispositif-pinel-pour-une-reduction-d-impot-en-cas-d-acquisition-ou-de-construction-de-logement-se-termine-le-31-decembre-2024-1526250.html)
+append_entries: 3
+Finish: 2024-10-15 01:52:03.795661

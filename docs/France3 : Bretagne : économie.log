@@ -2755,3 +2755,12 @@ Existing_entries: 268
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-14 01:36:07.680713
+------------------------------------------------------
+Started: 2024-10-15 01:47:24.476775
+Existing_entries: 268
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 240
+Summarized using GPT-4o-mini
+Append: [Dans cette commune rurale, des voitures électriques sans permis en libre-service pour les jeunes](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/dans-cette-commune-rurale-des-voitures-electriques-sans-permis-en-libre-service-pour-les-jeunes-3045100.html)
+append_entries: 1
+Finish: 2024-10-15 01:47:28.590350
