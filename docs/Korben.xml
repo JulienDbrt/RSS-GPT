@@ -5,16 +5,78 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Il connecte un Macintosh Plus à Internet avec un Raspberry Pi</title>
+<link>https://korben.info/connecter-macintosh-plus-internet-raspberry-pi.html</link>
+<guid>https://korben.info/connecter-macintosh-plus-internet-raspberry-pi.html</guid>
+<content:encoded><![CDATA[
+<div> Macintosh Plus, 1986, Hunter Irving, Internet, restauration
+
+<br><br>Summary: Hunter Irving, un développeur passionné, a découvert un Macintosh Plus de 1986 dans une boutique d’occasion parmi des objets vintage tels que des cassettes VHS et des machines à écrire. Intrigué par cette rareté, il a décidé de l’acheter sans hésitation. Cependant, la remise à niveau de cette machine emblématique s’est révélée être un défi considérable. En effet, le Macintosh Plus, bien qu'il soit une pièce de collection précieuse, nécessitait des réparations et des mises à jour techniques pour pouvoir se connecter à Internet en 2024. Au cours de ce processus, Hunter a dû faire preuve de créativité et de détermination, combinant des techniques de restauration traditionnelles avec des innovations modernes. Son but n'était pas seulement de faire fonctionner l'appareil, mais également de préserver l'essence originale de cette machine emblématique tout en lui permettant de naviguer sur le web contemporain. Ce projet a non seulement été un témoignage de son amour pour l'informatique rétro, mais aussi une prouesse technique qui a captivé d'autres passionnés et revitalisé l'intérêt pour les ordinateurs vintage. <div>
+<p>Préparez-vous à un voyage dans le temps technologique : Un <strong>Macintosh Plus de 1986</strong> connecté à Internet en 2024 ! Ça peut sembler incroyable, mais c&rsquo;est exactement ce qu&rsquo;a réalisé le développeur passionné <strong>Hunter Irving</strong>.</p>
+<p>Hunter est tombé sur ce Macintosh Plus dans une boutique d&rsquo;occasion, entre cassettes VHS et machines à écrire oubliées et intrigué par cette relique informatique, il n&rsquo;a pas hésité une seconde avant de l&rsquo;acheter. Cependant, la remise en état de cette machine s&rsquo;est avérée plus complexe qu&rsquo;il ne l&rsquo;avait imaginé.</p>
+]]></content:encoded>
+<pubDate>Tue, 15 Oct 2024 11:00:00 +0200</pubDate>
+<pubDate>Tue, 15 Oct 2024 11:00:00 +0200</pubDate>
+</item>
+<item>
+<title>ConfusedPilot - Une nouvelle menace qui vise les systèmes RAG</title>
+<link>https://korben.info/confusedpilot-menace-systemes-ia-rag.html</link>
+<guid>https://korben.info/confusedpilot-menace-systemes-ia-rag.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : RAG, IA, attaque, systèmes, recherche
+
+<br><br>Summary: Les chercheurs du Spark Research Lab de l’Université du Texas à Austin, dirigés par le professeur Mohit Tiwari, ont révélé une méthode inquiétante permettant de manipuler les systèmes d’intelligence artificielle (IA) utilisant la technologie RAG, notamment le Microsoft 365 Copilot. Cette découverte soulève des préoccupations majeures concernant la sécurité des systèmes d’IA, car l'attaque identifiée peut potentiellement cibler une variété de plateformes importantes qui reposent sur la technologie RAG, y compris celles basées sur les modèles Llama, Vicuna et OpenAI. Ce qui est particulièrement alarmant, c'est que l'attaque ne nécessite qu'un accès basique, facilitant ainsi sa mise en œuvre par des acteurs malveillants. Les implications de cette vulnérabilité pourraient être significatives, affectant non seulement la confiance des utilisateurs dans ces systèmes, mais également leur intégrité et leur sécurité dans des applications critiques. Cette recherche souligne donc l'importance d'améliorer la protection des systèmes d'IA contre de telles menaces, afin de garantir un usage responsable et sécurisé des technologies avancées. <div>
+<p>Des chercheurs du Spark Research Lab de l&rsquo;Université du Texas à Austin, sous la supervision du professeur Mohit Tiwari, également PDG de Symmetry Systems, ont découvert une méthode pour manipuler les systèmes d&rsquo;IA utilisant le RAG, comme le célèbre <strong>Microsoft 365 Copilot</strong>.</p>
+<p>Ce qui est inquiétant, c&rsquo;est que cette attaque peut cibler tous les systèmes RAG importants, y compris ceux basés sur Llama, Vicuna et OpenAI, et qu&rsquo;elle ne nécessite qu&rsquo;un accès basique pour être mise en œuvre. Je vous explique tout cela en détail.</p>
+]]></content:encoded>
+<pubDate>Tue, 15 Oct 2024 10:00:00 +0200</pubDate>
+<pubDate>Tue, 15 Oct 2024 10:00:00 +0200</pubDate>
+</item>
+<item>
+<title>ZenComPrint - Focalisez-vous sur l'essentiel de votre code</title>
+<link>https://korben.info/zencomprint-focus-essentiel-code.html</link>
+<guid>https://korben.info/zencomprint-focus-essentiel-code.html</guid>
+<content:encoded><![CDATA[
+<div> ZenComPrint, Visual Studio Code, commentaires, masquage, concentration  
+
+<br><br>Summary: ZenComPrint est une extension très utile pour Visual Studio Code qui offre la possibilité de masquer tous les commentaires et les instructions de type print dans votre code en une seule action. Cette fonctionnalité est particulièrement appréciée lorsque vous souhaitez vous concentrer uniquement sur la logique et le flux du programme sans être distrait par des éléments additionnels. Bien que le masquage des commentaires puisse améliorer la concentration, il est essentiel de rappeler que ces derniers jouent un rôle crucial dans la compréhension du code et sa documentation. Les commentaires aident les développeurs à se souvenir de la logique derrière le code et facilitent la collaboration avec d'autres programmeurs. L'extension ne doit donc pas être utilisée pour se débarrasser définitivement des commentaires, mais plutôt comme un outil temporaire pour améliorer la productivité lors de l'écriture ou de la révision du code. En résumé, ZenComPrint est un outil qui aide les développeurs à trouver un équilibre entre clarté et efficacité dans leur travail, en leur offrant une option pour cacher des éléments parfois encombrants, leur permettant ainsi de se concentrer sur l'essentiel. <div>
+<p><strong>ZenComPrint</strong> est une extension pour Visual Studio Code vraiment sympa qui vous permet de masquer tous les commentaires et les <code>print</code> de votre code en un seul clic.</p>
+<p>Evidemment, ça ne veut pas dire qu&rsquo;il faut zapper les commentaires, ils sont quand même vachement importants mais des fois, quand on a besoin de se concentrer sur le déroulé du programme, c&rsquo;est un vrai bonheur de pouvoir tout masquer temporairement.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <img alt="" class=" lazyload" height="1794" width="2850" />
+  
+
+</p>
+]]></content:encoded>
+<pubDate>Tue, 15 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Tue, 15 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+
+<item>
 <title>Le quishing - L'escroquerie au QR Code qui pourrait vous coûter cher</title>
 <link>https://korben.info/le-quishing-lescroquerie-au-qr-code-qui-pourrait-vous-couter-cher.html</link>
 <guid>https://korben.info/le-quishing-lescroquerie-au-qr-code-qui-pourrait-vous-couter-cher.html</guid>
 <content:encoded><![CDATA[
 <div> Mots-clés : parcmètres, amende, stationnement, Irlande, loueur
 
-<br><br>Résumé : L'auteur confesse ne jamais payer les parcmètres, préférant risquer une amende de temps en temps pour éviter les tracas de paiement. Il trouve cela plus rentable et plus facile d'utiliser une application mobile de l'État pour régler les amendes, la qualifiant de bien conçue. Lors d'un récent séjour en Irlande, il a également choisi de ne pas payer le stationnement, convaincu que les frais seraient couverts par le loueur de voiture. Cette approche lui semble pratique, mais soulève des questions sur la légalité et l'éthique de ne pas respecter les règles de stationnement. Le choix de l'auteur de ne pas payer les parcmètres indique une logique personnel où le coût des amendes est considéré comme une simple dépense occasionnelle, plutôt qu'une obligation de respecter les règles de stationnement. Cependant, cette stratégie pourrait avoir des conséquences à long terme, y compris des pénalités accrues ou une mauvaise réputation en tant que conducteur. <div>
+<br /><br />Résumé : L'auteur confesse ne jamais payer les parcmètres, préférant risquer une amende de temps en temps pour éviter les tracas de paiement. Il trouve cela plus rentable et plus facile d'utiliser une application mobile de l'État pour régler les amendes, la qualifiant de bien conçue. Lors d'un récent séjour en Irlande, il a également choisi de ne pas payer le stationnement, convaincu que les frais seraient couverts par le loueur de voiture. Cette approche lui semble pratique, mais soulève des questions sur la légalité et l'éthique de ne pas respecter les règles de stationnement. Le choix de l'auteur de ne pas payer les parcmètres indique une logique personnel où le coût des amendes est considéré comme une simple dépense occasionnelle, plutôt qu'une obligation de respecter les règles de stationnement. Cependant, cette stratégie pourrait avoir des conséquences à long terme, y compris des pénalités accrues ou une mauvaise réputation en tant que conducteur. <div>
 <p>Il faut que je vous avoue un secret : <strong>je ne paye jamais les parcmètres</strong>. J&rsquo;ai vraiment trop la flemme et je trouve ça plus rentable et plus facile de payer une petite amende de temps en temps via l&rsquo;app mobile de l&rsquo;État qui est quand même vachement bien foutu. Même quand j&rsquo;étais en Irlande il y a quelques semaines, je n&rsquo;ai pas payé de stationnement en me disant que tout ceci irait sur la facture du loueur.</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Oct 2024 18:00:46 +0200</pubDate>
 <pubDate>Mon, 14 Oct 2024 18:00:46 +0200</pubDate>
 </item>
 <item>
@@ -24,13 +86,12 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : intelligence artificielle, apprentissage par renforcement, simulation, modèle de diffusion, DIAMOND
 
-<br><br>Summary: DIAMOND, acronyme de “DIffusion As a Model Of eNvironment Dreams”, est une nouvelle méthode d’apprentissage par renforcement développée par des chercheurs, visant à améliorer la performance des agents d’IA dans les jeux vidéo. Contrairement aux approches traditionnelles, où l’IA s’entraîne en jouant directement, DIAMOND repose sur l’utilisation d’une simulation générée par un modèle de diffusion. Ce modèle prédit les évolutions de l’environnement en fonction des actions entreprises par l’agent, créant ainsi un cadre idéal pour l’apprentissage. 
+<br /><br />Summary: DIAMOND, acronyme de “DIffusion As a Model Of eNvironment Dreams”, est une nouvelle méthode d’apprentissage par renforcement développée par des chercheurs, visant à améliorer la performance des agents d’IA dans les jeux vidéo. Contrairement aux approches traditionnelles, où l’IA s’entraîne en jouant directement, DIAMOND repose sur l’utilisation d’une simulation générée par un modèle de diffusion. Ce modèle prédit les évolutions de l’environnement en fonction des actions entreprises par l’agent, créant ainsi un cadre idéal pour l’apprentissage. 
 
 L’ambition est de permettre à l’agent d’apprendre à jouer à des jeux Atari en s’entraînant exclusivement dans cet environnement virtuel, sans avoir besoin d’interactions réelles dans le jeu. Cette approche innovante pourrait potentiellement permettre à l’IA d'acquérir des compétences plus rapidement et de manière plus efficace. En exploitant les capacités prédictives du modèle de diffusion, les chercheurs espèrent repousser les limites de l'intelligence artificielle et offrir de nouvelles perspectives dans le domaine de l'apprentissage par renforcement. <div>
 <p>Et si l&rsquo;intelligence artificielle apprenait à jouer aux jeux vidéo non pas en y jouant directement, mais en s&rsquo;entraînant dans une simulation créée par un modèle de diffusion ? C&rsquo;est exactement ce que propose <a href="https://diamond-wm.github.io/">DIAMOND</a>, une nouvelle méthode d&rsquo;apprentissage par renforcement qui repousse les limites de l&rsquo;IA.</p>
 <p>DIAMOND, acronyme de &ldquo;DIffusion As a Model Of eNvironment Dreams&rdquo;, est le fruit des travaux d&rsquo;une équipe de chercheurs. Leur objectif ? Créer un agent d&rsquo;apprentissage par renforcement capable de performer sur des jeux Atari en s&rsquo;entraînant uniquement dans une simulation. Cette simulation est produite par un modèle de diffusion qui apprend à prédire les évolutions de l&rsquo;environnement en fonction des actions de l&rsquo;agent, formant ainsi un <strong>monde virtuel</strong> idéal pour l&rsquo;apprentissage.</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Oct 2024 17:41:54 +0200</pubDate>
 <pubDate>Mon, 14 Oct 2024 17:41:54 +0200</pubDate>
 </item>
 <item>
@@ -40,7 +101,7 @@ L’ambition est de permettre à l’agent d’apprendre à jouer à des jeux At
 <content:encoded><![CDATA[
 <div> Mots-clés : mémoire, conversations, abonnés, options, ChatGPT
 
-<br><br>Summary: ChatGPT dispose d'une fonctionnalité de mémoire qui lui permet de se souvenir des conversations précédentes. Cette fonctionnalité a été mise en place pour améliorer les performances de l'intelligence artificielle en offrant des réponses plus pertinentes aux utilisateurs lors de nouveaux échanges. Cependant, il est important de noter que la mémoire est une option disponible uniquement pour les abonnés ayant opté pour un plan payant. Les utilisateurs peuvent à tout moment activer ou désactiver cette fonctionnalité selon leurs préférences. Cela permet une plus grande flexibilité et un meilleur contrôle sur leurs interactions avec le système. En résumé, la mémoire de ChatGPT vise à enrichir l'expérience des utilisateurs en personnalisant les réponses en fonction des historiques de conversation, tout en garantissant le choix aux abonnés d'être maîtres de cette option. Cette innovation participe à une meilleure interactivité entre l'utilisateur et l'intelligence artificielle, en augmentant la pertinence et la qualité des dialogues, tout en respectant la volonté des utilisateurs de garder ou non leur historique de discussions. <div>
+<br /><br />Summary: ChatGPT dispose d'une fonctionnalité de mémoire qui lui permet de se souvenir des conversations précédentes. Cette fonctionnalité a été mise en place pour améliorer les performances de l'intelligence artificielle en offrant des réponses plus pertinentes aux utilisateurs lors de nouveaux échanges. Cependant, il est important de noter que la mémoire est une option disponible uniquement pour les abonnés ayant opté pour un plan payant. Les utilisateurs peuvent à tout moment activer ou désactiver cette fonctionnalité selon leurs préférences. Cela permet une plus grande flexibilité et un meilleur contrôle sur leurs interactions avec le système. En résumé, la mémoire de ChatGPT vise à enrichir l'expérience des utilisateurs en personnalisant les réponses en fonction des historiques de conversation, tout en garantissant le choix aux abonnés d'être maîtres de cette option. Cette innovation participe à une meilleure interactivité entre l'utilisateur et l'intelligence artificielle, en augmentant la pertinence et la qualité des dialogues, tout en respectant la volonté des utilisateurs de garder ou non leur historique de discussions. <div>
 <p>Si vous êtes utilisateur de <strong>ChatGPT</strong>, vous n&rsquo;êtes pas sans savoir que celui-ci a depuis un petit moment maintenant, une mémoire. C&rsquo;est-à-dire qu&rsquo;il se souvient de vos conversations précédentes afin de vous apporter de meilleures réponses dans n&rsquo;importe quel nouveau chat que vous pourriez créer.</p>
 <p>Évidemment, c&rsquo;est une option disponible uniquement pour ceux qui payent un abonnement et que vous pouvez activer ou désactiver à votre convenance.</p>
 <p>
@@ -65,7 +126,6 @@ L’ambition est de permettre à l’agent d’apprendre à jouer à des jeux At
 </p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 16:55:26 +0200</pubDate>
-<pubDate>Mon, 14 Oct 2024 16:55:26 +0200</pubDate>
 </item>
 <item>
 <title>2 personnes ont réussi à communiquer pendant leurs rêves</title>
@@ -74,11 +134,10 @@ L’ambition est de permettre à l’agent d’apprendre à jouer à des jeux At
 <content:encoded><![CDATA[
 <div> Rêve lucide, communication, expérience, appareil, Californie  
 
-<br><br>Summary: Une startup californienne a réalisé une expérience fascinante où deux personnes auraient réussi à communiquer dans leurs rêves. Cela repose sur le concept de rêve lucide, un état où le dormeur est conscient qu'il rêve tout en étant immergé dans celui-ci. Pour réaliser cette prouesse, la société a développé un appareil innovant capable de détecter et d'interpréter les signaux cérébraux émis par les dormeurs durant leurs rêves lucides. Cette expérience soulève des questions intéressantes sur la nature des rêves et la possibilité d'interactions conscientes dans cet état particulier. Bien que certains puissent considérer cela comme un phénomène peu probable ou même farfelu, l'exploit réalisé par la startup pourrait inspirer des scénaristes, à l'instar du film "Inception", qui explore des concepts similaires de partage de rêves et d'idées. Cette avancée technologique pourrait ouvrir de nouvelles perspectives dans le domaine de la recherche sur le sommeil et la conscience. L'idée que des individus puissent non seulement être conscients de leurs rêves mais aussi interagir avec d'autres pendant ceux-ci est une notion qui fascinera aussi bien les scientifiques que les amateurs de récits de science-fiction. <div>
+<br /><br />Summary: Une startup californienne a réalisé une expérience fascinante où deux personnes auraient réussi à communiquer dans leurs rêves. Cela repose sur le concept de rêve lucide, un état où le dormeur est conscient qu'il rêve tout en étant immergé dans celui-ci. Pour réaliser cette prouesse, la société a développé un appareil innovant capable de détecter et d'interpréter les signaux cérébraux émis par les dormeurs durant leurs rêves lucides. Cette expérience soulève des questions intéressantes sur la nature des rêves et la possibilité d'interactions conscientes dans cet état particulier. Bien que certains puissent considérer cela comme un phénomène peu probable ou même farfelu, l'exploit réalisé par la startup pourrait inspirer des scénaristes, à l'instar du film "Inception", qui explore des concepts similaires de partage de rêves et d'idées. Cette avancée technologique pourrait ouvrir de nouvelles perspectives dans le domaine de la recherche sur le sommeil et la conscience. L'idée que des individus puissent non seulement être conscients de leurs rêves mais aussi interagir avec d'autres pendant ceux-ci est une notion qui fascinera aussi bien les scientifiques que les amateurs de récits de science-fiction. <div>
 <p>Perso, je ne sais pas si le concept de rêve lucide est un vrai truc ou si ce sont juste des gens à moitié endormis, mais la startup californienne <a href="https://remspace.net"><strong>REMspace</strong></a> a réalisé un exploit qui pourrait inspirer les scénaristes d&rsquo;Inception : 2 personnes ont réussi à communiquer entre elles dans leurs rêves.</p>
 <p>Cette expérience un peu zarbi, je l&rsquo;avoue, repose donc sur une induction de rêves lucides, un état où le dormeur est conscient de rêver tout en restant immergé dans son rêve. Pour réussir cet exploit, la société a développé un appareil capable de détecter et d&rsquo;interpréter les signaux cérébraux émis durant ces rêves lucides.</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Oct 2024 15:01:05 +0200</pubDate>
 <pubDate>Mon, 14 Oct 2024 15:01:05 +0200</pubDate>
 </item>
 <item>
@@ -88,16 +147,14 @@ L’ambition est de permettre à l’agent d’apprendre à jouer à des jeux At
 <content:encoded><![CDATA[
 <div> Mouvement rétro, Windows 7, framework de styles, interfaces web, design
 
-<br><br>Summary: 
+<br /><br />Summary: 
 Vous en avez assez du flat design omniprésent ? Vous ressentez de la nostalgie pour l'esthétique de Windows 7 avec ses effets vitreux et ses boutons en relief ? Un nouveau framework de styles pourrait être ce que vous cherchez pour revitaliser vos interfaces web. Ce framework s'inspire d'éléments classiques du design, rappelant les interfaces d'antan, tout en adaptant ces styles aux technologies modernes. Vous pouvez facilement l'intégrer à votre page HTML en l'appelant dans le code, puis en appliquant les classes appropriées à vos éléments HTML. Une simple manipulation permettra de donner à votre site un aspect familier et nostalgique. Grâce à ces nouveaux styles, vous pourrez redonner vie à vos projets web tout en conservant les avantages des techniques actuelles. Ce cadre est idéal pour ceux qui aspirent à un design rétro, alliant la fonctionnalité moderne à l'esthétique vintage. Si vous êtes fatigué des interfaces minimalistes et épurées, optez pour ce framework qui saura transformer vos créations en une véritable expérience visuelle inspirée du passé. <div>
 <p>Vous en avez marre du flat design à toutes les sauces ? Vous regrettez la belle époque de Windows 7 avec ses effets vitreux et ses boutons en relief ? J&rsquo;ai ce qu&rsquo;il vous faut : <strong><a href="https://khang-nd.github.io/7.css/">7.css</a></strong>. Dans l&rsquo;esprit de <a href="https://korben.info/donnez-un-look-tres-windows-xp-a-vos-applications-web.html">XP.css</a> ou de <a href="https://korben.info/une-bibliotheque-css-pour-adopter-le-style-de-windows-98.html">win98.css</a>, c&rsquo;est un framework de styles qui va redonner un coup de jeune (ou de vieux, c&rsquo;est selon) à vos interfaces web !</p>
 <p>Alors, comment ça marche ?</p>
 <p>Et bien vous l&rsquo;appeler dans votre page HTML puis il suffit d&rsquo;ajouter les bonnes classes à vos éléments HTML et voilà, votre site aura soudainement un petit air de déjà-vu.</p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 09:00:00 +0200</pubDate>
-<pubDate>Mon, 14 Oct 2024 09:00:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Effacez et sécurisez vos disques durs avec nwipe</title>
 <link>https://korben.info/effacer-securiser-disques-durs-nwipe-outil-open-source.html</link>

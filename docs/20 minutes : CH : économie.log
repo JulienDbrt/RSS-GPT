@@ -3619,3 +3619,18 @@ Summarized using GPT-4o-mini
 Append: [«Nous avons eu des touristes qui ont vomi d’un balcon à l’autre»](https://www.20min.ch/fr/story/surtourisme-a-barcelone-nous-avons-eu-des-touristes-qui-ont-vomi-d-un-balcon-a-l-autre-103202070)
 append_entries: 5
 Finish: 2024-10-15 01:33:14.623382
+------------------------------------------------------
+Started: 2024-10-15 12:43:58.066105
+Existing_entries: 581
+Fetching from https://partner-feeds.20min.ch/rss/20minutes/economie
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [UBS doit consolider ses plans d'urgence et de stabilité](https://www.20min.ch/fr/story/finances-ubs-doit-consolider-ses-plans-d-urgence-et-de-stabilite-103202579)
+Token length: 147
+Summarized using GPT-4o-mini
+Append: [Coop veut racheter la totalité du réseau de magasins Coop Pronto](https://www.20min.ch/fr/story/suisse-coop-veut-racheter-la-totalite-du-reseau-de-magasins-coop-pronto-103202555)
+Token length: 177
+Summarized using GPT-4o-mini
+Append: [Les frais administratifs des caisses sont en hausse, mais...](https://www.20min.ch/fr/story/assurance-maladie-les-frais-administratifs-des-caisses-sont-en-hausse-mais-103202140)
+append_entries: 3
+Finish: 2024-10-15 12:44:19.684856

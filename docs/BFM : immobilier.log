@@ -3223,3 +3223,18 @@ Summarized using GPT-4o-mini
 Append: [Derniers jours pour payer votre taxe foncière](https://www.bfmtv.com/immobilier/fiscalite/derniers-jours-pour-payer-votre-taxe-fonciere_AV-202410140397.html)
 append_entries: 2
 Finish: 2024-10-15 01:40:21.873055
+------------------------------------------------------
+Started: 2024-10-15 12:49:46.038882
+Existing_entries: 435
+Fetching from https://www.bfmtv.com/rss/immobilier/
+Token length: 256
+Summarized using GPT-4o-mini
+Append: [Rénovation énergétique: le gouvernement veut assouplir le calendrier du DPE pour certaines copropriétés](https://www.bfmtv.com/immobilier/renovation-travaux/renovation-energetique-le-gouvernement-veut-assouplir-le-calendrier-du-dpe_AV-202410150337.html)
+Token length: 206
+Summarized using GPT-4o-mini
+Append: [INFO BFM BUSINESS. Les impayés de loyers au plus haut depuis le Covid… et le profil des mauvais payeurs est étonnant](https://www.bfmtv.com/immobilier/location/les-impayes-de-loyers-sont-au-plus-haut-depuis-le-covid-et-le-profil-des-mauvais-payeurs-est-etonnant_AV-202410150318.html)
+Token length: 432
+Summarized using GPT-4o-mini
+Append: [C'est le moment d'installer des bornes de recharge en copropriété !](https://www.bfmtv.com/immobilier/services/financement-de-travaux-et-renovation-energetique/c-est-le-moment-d-installer-des-bornes-de-recharge-en-copropriete_AB-202410150001.html)
+append_entries: 3
+Finish: 2024-10-15 12:50:04.363200

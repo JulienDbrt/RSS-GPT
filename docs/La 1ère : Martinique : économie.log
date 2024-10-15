@@ -2680,3 +2680,18 @@ Summarized using GPT-4o-mini
 Append: [Le dispositif "Pinel" pour une réduction d’impôt en cas d’acquisition ou de construction de logement se termine le 31 décembre 2024](https://la1ere.francetvinfo.fr/martinique/le-dispositif-pinel-pour-une-reduction-d-impot-en-cas-d-acquisition-ou-de-construction-de-logement-se-termine-le-31-decembre-2024-1526250.html)
 append_entries: 3
 Finish: 2024-10-15 01:52:03.795661
+------------------------------------------------------
+Started: 2024-10-15 13:01:30.463592
+Existing_entries: 228
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 35
+Summarized using GPT-4o-mini
+Append: [Le réseau de transport est encore très perturbé en Martinique](https://la1ere.francetvinfo.fr/martinique/le-reseau-de-transport-est-encore-tres-perturbe-en-martinique-1528687.html)
+Token length: 98
+Summarized using GPT-4o-mini
+Append: [EDITORIAL. Vie chère : comment s’attaquer à la racine du malaise social martiniquais ?](https://la1ere.francetvinfo.fr/martinique/editorial-vie-chere-comment-s-attaquer-a-la-racine-du-malaise-social-martiniquais-1528598.html)
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [Mobilisation sur la vie chère en Martinique : pas de nouvelle table ronde ce mardi à la CTM](https://la1ere.francetvinfo.fr/martinique/mobilisation-sur-la-vie-chere-en-martinique-pas-de-nouvelle-table-ronde-ce-mardi-a-la-ctm-1528624.html)
+append_entries: 3
+Finish: 2024-10-15 13:01:49.553338

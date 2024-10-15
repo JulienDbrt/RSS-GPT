@@ -2761,3 +2761,9 @@ Summarized using GPT-4o-mini
 Append: [Les Québécois dépenseront-ils moins pour l’Halloween cette année?](https://www.journaldemontreal.com/2024/10/13/les-quebecois-depenseront-ils-moins-pour-lhalloween-cette-annee)
 append_entries: 2
 Finish: 2024-10-15 01:49:06.940187
+------------------------------------------------------
+Started: 2024-10-15 12:58:46.325314
+Existing_entries: 257
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-10-15 12:58:46.802167

@@ -3587,3 +3587,12 @@ Summarized using GPT-4o-mini
 Append: [Paris : treize stations de métro présentent des niveaux de concentration en particules fines supérieurs aux seuils recommandés](https://www.francetvinfo.fr/meteo/particules-fines/paris-treize-stations-de-metro-presentent-des-niveaux-de-concentration-en-particules-fines-superieurs-aux-seuils-recommandes_6837974.html)
 append_entries: 1
 Finish: 2024-10-15 01:44:23.114944
+------------------------------------------------------
+Started: 2024-10-15 12:54:12.043766
+Existing_entries: 543
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [Syndicat de "gilets jaunes" : "Faire du syndicalisme, ce n'est pas faire des manifestations et danser derrière des camions", lance son co-fondateur](https://www.francetvinfo.fr/economie/transports/gilets-jaunes/syndicat-de-gilets-jaunes-faire-du-syndicalisme-ce-n-est-pas-faire-des-manifestations-et-danser-derriere-des-camions-lance-son-co-fondateur_6839453.html)
+append_entries: 1
+Finish: 2024-10-15 12:54:17.286664

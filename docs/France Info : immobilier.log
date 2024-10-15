@@ -2438,3 +2438,18 @@ Existing_entries: 154
 Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
 append_entries: 0
 Finish: 2024-10-15 01:44:18.416007
+------------------------------------------------------
+Started: 2024-10-15 12:53:51.847138
+Existing_entries: 154
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Taxe foncière : en augmentation de 33 % en 10 ans](https://www.francetvinfo.fr/economie/immobilier/taxe-fonciere-en-augmentation-de-33-en-10-ans_6839495.html)
+Token length: 125
+Summarized using GPT-4o-mini
+Append: [Innovation : une maison dépliable comme solution à la crise du logement aux États-Unis](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/innovation-une-maison-depliable-comme-solution-a-la-crise-du-logement-aux-etats-unis_6810898.html)
+Token length: 194
+Summarized using GPT-4o-mini
+Append: [Vacances de la Toussaint : les Français partent plus qu'en 2023 et privilégient le Sud](https://www.francetvinfo.fr/economie/vacances-de-la-toussaint-les-francais-partent-plus-qu-en-2023-et-privilegient-le-sud_6837623.html)
+append_entries: 3
+Finish: 2024-10-15 12:54:11.745894
