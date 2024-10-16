@@ -3153,3 +3153,9 @@ Summarized using GPT-4o-mini
 Append: [JO : des retombées touristiques attendues dès la fin d'année](https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-des-retombees-touristiques-attendues-des-la-fin-d-annee-3045334.html)
 append_entries: 4
 Finish: 2024-10-15 12:56:49.122551
+------------------------------------------------------
+Started: 2024-10-16 01:45:19.742882
+Existing_entries: 397
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-10-16 01:45:20.076022

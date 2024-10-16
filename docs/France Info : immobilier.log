@@ -2453,3 +2453,18 @@ Summarized using GPT-4o-mini
 Append: [Vacances de la Toussaint : les Français partent plus qu'en 2023 et privilégient le Sud](https://www.francetvinfo.fr/economie/vacances-de-la-toussaint-les-francais-partent-plus-qu-en-2023-et-privilegient-le-sud_6837623.html)
 append_entries: 3
 Finish: 2024-10-15 12:54:11.745894
+------------------------------------------------------
+Started: 2024-10-16 01:44:04.623539
+Existing_entries: 157
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 88
+Summarized using GPT-4o-mini
+Append: [Immobilier : la baisse des taux de la Banque centrale européenne est-elle une bonne nouvelle pour les crédits des particuliers ?](https://www.francetvinfo.fr/economie/immobilier/prix-immobilier/immobilier-la-baisse-des-taux-de-la-banque-centrale-europeenne-est-elle-une-bonne-nouvelle-pour-les-credits-des-particuliers_6839645.html)
+Token length: 270
+Summarized using GPT-4o-mini
+Append: [Immobilier : Perpignan, une ville prisée des investisseurs](https://www.francetvinfo.fr/france/occitanie/pyrenees-orientales/perpignan/immobilier-perpignan-une-ville-prisee-des-investisseurs_6839633.html)
+Token length: 86
+Summarized using GPT-4o-mini
+Append: [Airbnb : le maire de Marseille veut "obliger" les propriétaires à "racheter un appartement" et à le mettre en location longue durée "à partir du premier Airbnb"](https://www.francetvinfo.fr/internet/airbnb/airbnb-le-maire-de-marseille-veut-obliger-les-proprietaires-a-racheter-un-appartement-et-a-le-mettre-en-location-longue-duree-a-partir-du-premier-airbnb_6839222.html)
+append_entries: 3
+Finish: 2024-10-16 01:44:27.219863

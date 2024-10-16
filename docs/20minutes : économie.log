@@ -3491,3 +3491,24 @@ Summarized using GPT-4o-mini
 Append: [Pourquoi la coquille Saint-Jacques bat-elle des records d’opulence ?](https://www.20minutes.fr/economie/4115590-20241015-pourquoi-coquille-saint-jacques-bat-records-opulence)
 append_entries: 2
 Finish: 2024-10-15 12:44:32.781303
+------------------------------------------------------
+Started: 2024-10-16 01:34:09.710463
+Existing_entries: 503
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 236
+Summarized using GPT-4o-mini
+Append: [Quelles sont les voitures les plus vendues en France en 2024 ?](https://www.20minutes.fr/auto/4115731-20241015-voitures-plus-vendues-france-2024)
+Token length: 96
+Summarized using GPT-4o-mini
+Append: [Inégalités : Quelle part de la population mondiale vit sous le seuil de pauvreté ?](https://www.20minutes.fr/monde/4115767-20241015-inegalites-part-population-mondiale-vit-sous-seuil-pauvrete)
+Token length: 167
+Summarized using GPT-4o-mini
+Append: [Déficit public : Michel Barnier espère qu’une commission d’enquête relèvera « la vérité » sur le dérapage budgétaire](https://www.20minutes.fr/politique/assemblee_nationale/4115749-20241015-deficit-public-michel-barnier-espere-commission-enquete-relevera-verite-derapage-budgetaire)
+Token length: 176
+Summarized using GPT-4o-mini
+Append: [Pourquoi le prix du pétrole est-il en train de dévisser ?](https://www.20minutes.fr/economie/4115689-20241015-pourquoi-prix-petrole-train-devisser)
+Token length: 141
+Summarized using GPT-4o-mini
+Append: [Seine-et-Marne : Carrefour veut fermer le siège de Cora, 340 postes supprimés](https://www.20minutes.fr/economie/4115693-20241015-seine-marne-carrefour-veut-fermer-siege-cora-340-postes-supprimes)
+append_entries: 5
+Finish: 2024-10-16 01:34:49.516915

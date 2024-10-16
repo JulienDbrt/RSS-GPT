@@ -2770,3 +2770,15 @@ Existing_entries: 269
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-15 12:57:45.422112
+------------------------------------------------------
+Started: 2024-10-16 01:46:18.059613
+Existing_entries: 269
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 269
+Summarized using GPT-4o-mini
+Append: [Le nouveau C5 Aircross de Stellantis sera produit à Rennes en 2025, les syndicats demandent des assurances à plus long terme](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/le-nouveau-c5-aircross-de-stellantis-sera-produit-a-rennes-en-2025-les-syndicats-demandent-des-assurances-a-plus-long-terme-3045742.html)
+Token length: 387
+Summarized using GPT-4o-mini
+Append: ["On constate un mouvement du "retour au bureau " aux États-Unis", le télétravail est-il en danger en France ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/on-constate-un-mouvement-du-retour-au-bureau-aux-etats-unis-le-teletravail-est-il-en-danger-en-france-3045562.html)
+append_entries: 2
+Finish: 2024-10-16 01:46:31.214553

@@ -2695,3 +2695,12 @@ Summarized using GPT-4o-mini
 Append: [Mobilisation sur la vie chère en Martinique : pas de nouvelle table ronde ce mardi à la CTM](https://la1ere.francetvinfo.fr/martinique/mobilisation-sur-la-vie-chere-en-martinique-pas-de-nouvelle-table-ronde-ce-mardi-a-la-ctm-1528624.html)
 append_entries: 3
 Finish: 2024-10-15 13:01:49.553338
+------------------------------------------------------
+Started: 2024-10-16 01:51:13.262719
+Existing_entries: 231
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 66
+Summarized using GPT-4o-mini
+Append: [Violences urbaines en Martinique : les multiples entreprises incendiées pansent leurs plaies et s’interrogent sur la suite](https://la1ere.francetvinfo.fr/martinique/violences-urbaines-en-martinique-les-multiples-entreprises-incendiees-pansent-leurs-plaies-et-s-interrogent-sur-la-suite-1528723.html)
+append_entries: 1
+Finish: 2024-10-16 01:51:21.362804
