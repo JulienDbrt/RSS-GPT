@@ -3605,3 +3605,15 @@ Summarized using GPT-4o-mini
 Append: [Etude, effets sur la santé, port du masque… Trois questions sur la pollution aux particules fines dans certaines stations de métro](https://www.francetvinfo.fr/economie/transports/etude-effets-sur-la-sante-port-du-masque-trois-questions-sur-la-pollution-aux-particules-fines-dans-certaines-stations-de-metro_6839822.html)
 append_entries: 1
 Finish: 2024-10-16 01:44:30.833216
+------------------------------------------------------
+Started: 2024-10-16 13:01:07.063528
+Existing_entries: 545
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 188
+Summarized using GPT-4o-mini
+Append: [Moto : le constructeur japonais Kawasaki propose un modèle fonctionnant à l'hydrogène](https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/moto-le-constructeur-japonais-kawasaki-propose-un-modele-fonctionnant-a-l-hydrogene_6812708.html)
+Token length: 192
+Summarized using GPT-4o-mini
+Append: [Carburants : le prix du pétrole et du fioul en baisse](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/carburants-le-prix-du-petrole-et-du-fioul-en-baisse_6841064.html)
+append_entries: 2
+Finish: 2024-10-16 13:01:29.515989

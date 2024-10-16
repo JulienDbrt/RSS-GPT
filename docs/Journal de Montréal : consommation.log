@@ -2794,3 +2794,9 @@ Summarized using GPT-4o-mini
 Append: [«C’est de la folie»: des coureurs paient 2000$ par année pour des souliers de course](https://www.journaldemontreal.com/2024/10/12/cest-de-la-folie--des-coureurs-paient-2000-par-annee-pour-des-souliers-de-course)
 append_entries: 7
 Finish: 2024-10-16 01:49:12.615471
+------------------------------------------------------
+Started: 2024-10-16 13:06:14.042005
+Existing_entries: 264
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-10-16 13:06:14.338011

@@ -3159,3 +3159,18 @@ Existing_entries: 397
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-10-16 01:45:20.076022
+------------------------------------------------------
+Started: 2024-10-16 13:03:28.173859
+Existing_entries: 397
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 223
+Summarized using GPT-4o-mini
+Append: [Un cycliste tué par un automobiliste à Paris, une enquête pour meurtre a été ouverte](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/un-cycliste-decede-apres-un-differend-avec-un-automobiliste-3045880.html)
+Token length: 327
+Summarized using GPT-4o-mini
+Append: ["Made in France. Une histoire du textile". Quand les Archives nationales révèlent les secrets de nos vêtements](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/made-in-france-une-histoire-du-textile-quand-les-archives-nationales-revelent-les-secrets-de-nos-vetements-3042560.html)
+Token length: 231
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. A Vauhallan, on redessine les méandres d'un ruisseau pour mieux lutter contre les inondations](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/reportage-a-vauhallan-on-redessine-les-meandres-d-un-ruisseau-pour-mieux-lutter-contre-les-inondations-3045598.html)
+append_entries: 3
+Finish: 2024-10-16 13:03:37.872793

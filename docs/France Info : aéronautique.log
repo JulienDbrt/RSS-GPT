@@ -2312,3 +2312,15 @@ Summarized using GPT-4o-mini
 Append: [Aéronautique : Boeing, un géant qui lutte pour sa survie](https://www.francetvinfo.fr/economie/aeronautique/aeronautique-boeing-un-geant-qui-lutte-pour-sa-survie_6840020.html)
 append_entries: 1
 Finish: 2024-10-16 01:44:03.922483
+------------------------------------------------------
+Started: 2024-10-16 13:00:39.737070
+Existing_entries: 108
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 97
+Summarized using GPT-4o-mini
+Append: [Airbus va supprimer "jusqu'à 2 500 postes" dans sa branche défense et espace](https://www.francetvinfo.fr/economie/aeronautique/airbus-va-supprimer-jusqu-a-2-500-postes-dans-sa-branche-defense-et-espace_6841493.html)
+Token length: 150
+Summarized using GPT-4o-mini
+Append: [Aéronautique : Boeing en appelle aux marchés financiers](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-boeing-en-appelle-aux-marches-financiers_6812729.html)
+append_entries: 2
+Finish: 2024-10-16 13:00:55.245505

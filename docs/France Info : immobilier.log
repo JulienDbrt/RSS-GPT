@@ -2468,3 +2468,15 @@ Summarized using GPT-4o-mini
 Append: [Airbnb : le maire de Marseille veut "obliger" les propriétaires à "racheter un appartement" et à le mettre en location longue durée "à partir du premier Airbnb"](https://www.francetvinfo.fr/internet/airbnb/airbnb-le-maire-de-marseille-veut-obliger-les-proprietaires-a-racheter-un-appartement-et-a-le-mettre-en-location-longue-duree-a-partir-du-premier-airbnb_6839222.html)
 append_entries: 3
 Finish: 2024-10-16 01:44:27.219863
+------------------------------------------------------
+Started: 2024-10-16 13:00:55.990707
+Existing_entries: 160
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+Token length: 265
+Summarized using GPT-4o-mini
+Append: [Crédit immobilier : un assureur interpelle sur les difficultés des femmes ayant eu un cancer du sein pour accéder à la propriété](https://www.francetvinfo.fr/economie/immobilier/credit-immobilier-un-assureur-interpelle-sur-les-difficultes-des-femmes-ayant-eu-un-cancer-du-sein-pour-acceder-a-la-propriete_6841499.html)
+Token length: 268
+Summarized using GPT-4o-mini
+Append: [VRAI OU FAUX. Logements indignes à Marseille : le maire Benoît Payan a-t-il "envoyé chez le procureur des centaines" de marchands de sommeil ?](https://www.francetvinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-logements-indignes-a-marseille-le-maire-benoit-payan-a-t-il-envoye-chez-le-procureur-des-centaines-de-marchands-de-sommeil_6812735.html)
+append_entries: 2
+Finish: 2024-10-16 13:01:06.767009

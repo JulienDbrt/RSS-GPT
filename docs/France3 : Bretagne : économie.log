@@ -2782,3 +2782,9 @@ Summarized using GPT-4o-mini
 Append: ["On constate un mouvement du "retour au bureau " aux États-Unis", le télétravail est-il en danger en France ?](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/on-constate-un-mouvement-du-retour-au-bureau-aux-etats-unis-le-teletravail-est-il-en-danger-en-france-3045562.html)
 append_entries: 2
 Finish: 2024-10-16 01:46:31.214553
+------------------------------------------------------
+Started: 2024-10-16 13:04:50.988070
+Existing_entries: 271
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+append_entries: 0
+Finish: 2024-10-16 13:04:51.384581

@@ -10100,3 +10100,10 @@ Append: [Voici le délai à ne surtout pas dépasser pour demander sa retraite, 
 Append: [Oubliez les 4 accords toltèques, voici le livre de développement personnel à se procurer pour être heureux](https://www.bibamagazine.fr/culture/livres/oubliez-les-4-accords-tolteques-voici-le-livre-de-developpement-personnel-a-se-procurer-pour-etre-heureux-432890.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown)
 append_entries: 30
 Finish: 2024-10-16 01:28:31.095750
+------------------------------------------------------
+Started: 2024-10-16 12:40:29.088523
+Existing_entries: 1030
+Fetching from https://flipboard.com/topic/fr-emploi.rss
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/Flipboard : emploi

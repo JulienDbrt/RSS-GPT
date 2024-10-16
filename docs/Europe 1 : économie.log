@@ -3541,3 +3541,15 @@ Summarized using GPT-4o-mini
 Append: [Après le rachat de Cora, Carrefour prévoit la fermeture de son siège en Seine-et-Marne](https://www.europe1.fr/economie/apres-le-rachat-de-cora-carrefour-prevoit-la-fermeture-de-son-siege-en-seine-et-marne-4273091)
 append_entries: 6
 Finish: 2024-10-16 01:42:29.290690
+------------------------------------------------------
+Started: 2024-10-16 12:58:15.138176
+Existing_entries: 519
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 315
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : pourquoi des géants économiques pourraient échapper à la «participation au redressement»](https://www.europe1.fr/economie/budget-2025-pourquoi-des-geants-economiques-pourraient-echapper-a-la-participation-au-redressement-4273242)
+Token length: 253
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : fiscalité sur l'électricité, durcissement du malus auto... Ces sujets qui cristallisent les tensions](https://www.europe1.fr/economie/budget-2025-fiscalite-sur-lelectricite-durcissement-du-malus-auto-ces-sujets-qui-cristallisent-les-tensions-4273234)
+append_entries: 2
+Finish: 2024-10-16 12:58:29.779308
