@@ -3617,3 +3617,18 @@ Summarized using GPT-4o-mini
 Append: [Carburants : le prix du pétrole et du fioul en baisse](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/carburants-le-prix-du-petrole-et-du-fioul-en-baisse_6841064.html)
 append_entries: 2
 Finish: 2024-10-16 13:01:29.515989
+------------------------------------------------------
+Started: 2024-10-17 01:37:40.562148
+Existing_entries: 547
+Fetching from https://www.francetvinfo.fr/economie/transports.rss
+Token length: 140
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Confrontés en permanence à ce genre d'actes" : vélo à la main, des centaines de personnes se rassemblent à Paris en hommage au cycliste mort écrasé par un automobiliste](https://www.francetvinfo.fr/faits-divers/reportage-confrontes-en-permanence-a-ce-genre-d-actes-velo-a-la-main-des-centaines-de-personnes-se-rassemblent-a-paris-en-hommage-au-cycliste-mort-ecrase-par-un-automobiliste_6842000.html)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [SUD-Rail s'insurge contre une campagne publicitaire promouvant le livre de Jordan Bardella dans les gares SNCF](https://www.francetvinfo.fr/economie/transports/sncf/sud-rail-s-insurge-contre-une-campagne-publicitaire-promouvant-le-livre-de-jordan-bardella-dans-les-gares-sncf_6841982.html)
+Token length: 168
+Summarized using GPT-4o-mini
+Append: [Périmètre, dérogations, sanctions… Ce qu'il faut savoir sur la future "zone à trafic limité" dans le centre de Paris](https://www.francetvinfo.fr/economie/transports/perimetre-derogations-sanctions-ce-qu-il-faut-savoir-sur-la-future-zone-a-trafic-limite-dans-le-centre-de-paris_6841811.html)
+append_entries: 3
+Finish: 2024-10-17 01:38:02.360725

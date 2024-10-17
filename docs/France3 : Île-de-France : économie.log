@@ -3174,3 +3174,15 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. A Vauhallan, on redessine les méandres d'un ruisseau pour mieux lutter contre les inondations](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/reportage-a-vauhallan-on-redessine-les-meandres-d-un-ruisseau-pour-mieux-lutter-contre-les-inondations-3045598.html)
 append_entries: 3
 Finish: 2024-10-16 13:03:37.872793
+------------------------------------------------------
+Started: 2024-10-17 01:38:42.113295
+Existing_entries: 400
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 192
+Summarized using GPT-4o-mini
+Append: [Paul, cycliste écrasé par un automobiliste à Paris : 800 personnes lui rendent hommage](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/paul-cycliste-ecrase-par-un-automobiliste-a-paris-800-personnes-lui-rendent-hommage-3046480.html)
+Token length: 282
+Summarized using GPT-4o-mini
+Append: [Pollution des stations : quelles pistes pour réduire le danger dans le métro ?](https://france3-regions.francetvinfo.fr/paris-ile-de-france/pollution-des-stations-quelles-pistes-pour-reduire-le-danger-dans-le-metro-3046147.html)
+append_entries: 2
+Finish: 2024-10-17 01:38:51.989105

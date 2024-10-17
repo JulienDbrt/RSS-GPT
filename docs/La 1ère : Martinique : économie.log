@@ -2713,3 +2713,15 @@ Summarized using GPT-4o-mini
 Append: [EDITORIAL. La Martinique invente-t-elle une nouvelle forme d’action revendicative ?](https://la1ere.francetvinfo.fr/martinique/editorial-la-martinique-invente-t-elle-une-nouvelle-forme-d-action-revendicative-1528849.html)
 append_entries: 1
 Finish: 2024-10-16 13:07:38.919569
+------------------------------------------------------
+Started: 2024-10-17 01:41:30.264101
+Existing_entries: 233
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+Token length: 71
+Summarized using GPT-4o-mini
+Append: [Mobilisation contre la vie chère en Martinique : un accord signé sans le RPPRAC qui a quitté la table ronde](https://la1ere.francetvinfo.fr/martinique/mobilisation-contre-la-vie-chere-en-martinique-un-accord-signe-sans-le-rpprac-qui-quitte-la-table-ronde-1529146.html)
+Token length: 72
+Summarized using GPT-4o-mini
+Append: [Violences urbaines en Martinique : plusieurs véhicules brûlés cette nuit au Lamentin et à Ducos](https://la1ere.francetvinfo.fr/martinique/violences-urbaines-en-martinique-plusieurs-vehicules-brules-cette-nuit-au-lamentin-et-a-ducos-1529044.html)
+append_entries: 2
+Finish: 2024-10-17 01:41:42.255726

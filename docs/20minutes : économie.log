@@ -3530,3 +3530,21 @@ Summarized using GPT-4o-mini
 Append: [Etats-Unis : Pour ses débuts, la cryptomonnaie de Donald Trump galère à trouver des acheteurs](https://www.20minutes.fr/monde/election-presidentielle-americaine/4115841-20241016-etats-unis-debuts-cryptomonnaie-donald-trump-galere-trouver-acheteurs)
 append_entries: 4
 Finish: 2024-10-16 12:49:00.548016
+------------------------------------------------------
+Started: 2024-10-17 01:29:04.216954
+Existing_entries: 512
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 211
+Summarized using GPT-4o-mini
+Append: [La semaine de quatre jours « n’est pas une supercherie », selon un rapport](https://www.20minutes.fr/societe/4116003-20241016-temps-travail-semaine-quatre-jours-supercherie)
+Token length: 228
+Summarized using GPT-4o-mini
+Append: [Gouvernement Barnier : Le RN ne votera pas le budget 2025, annonce Jordan Bardella](https://www.20minutes.fr/politique/4116017-20241016-gouvernement-barnier-rn-votera-budget-2025-annonce-jordan-bardella)
+Token length: 111
+Summarized using GPT-4o-mini
+Append: [Pyrénées-Orientales : La Gran Jonquera et ses 58.000 m2 de commerces, un géant qui fait peur](https://www.20minutes.fr/economie/4115982-20241016-pyrenees-orientales-gran-jonquera-58-000-m2-commerces-geant-fait-peur)
+Token length: 173
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : L’économie sociale et solidaire craint la destruction de 186.000 emplois](https://www.20minutes.fr/societe/4115978-20241016-budget-2025-economie-sociale-solidaire-craint-destruction-186-000-emplois)
+append_entries: 4
+Finish: 2024-10-17 01:29:19.251700

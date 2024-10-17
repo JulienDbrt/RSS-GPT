@@ -2324,3 +2324,12 @@ Summarized using GPT-4o-mini
 Append: [Aéronautique : Boeing en appelle aux marchés financiers](https://www.francetvinfo.fr/replay-radio/le-brief-eco/aeronautique-boeing-en-appelle-aux-marches-financiers_6812729.html)
 append_entries: 2
 Finish: 2024-10-16 13:00:55.245505
+------------------------------------------------------
+Started: 2024-10-17 01:37:33.165513
+Existing_entries: 110
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [Airbus : l'entreprise va supprimer jusqu'à 2 500 postes dans sa branche défense et espace](https://www.francetvinfo.fr/economie/aeronautique/airbus-l-entreprise-va-supprimer-jusqu-a-2-500-postes-dans-sa-branche-defense-et-espace_6842060.html)
+append_entries: 1
+Finish: 2024-10-17 01:37:39.257914

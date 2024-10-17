@@ -5,18 +5,75 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Firefox - WebAssembly 75 fois plus rapide !</title>
+<link>https://korben.info/firefox-accelere-execution-webassembly-75-fois.html</link>
+<guid>https://korben.info/firefox-accelere-execution-webassembly-75-fois.html</guid>
+<content:encoded><![CDATA[
+<div> Firefox, performances, optimisation, WebAssembly, Ion
+
+<br><br>Summary: J'apprécie beaucoup Firefox, bien que parfois ses performances me laissent à désirer, notamment avec certaines applications web. Cependant, les ingénieurs de Mozilla ont récemment réalisé une avancée significative en optimisant le compilateur Ion. Cette optimisation permet à WebAssembly d'être jusqu'à 75 fois plus rapide, offrant ainsi un véritable coup de pouce aux performances du navigateur. Cette amélioration pourrait potentiellement attirer l'attention de la concurrence et ravir les utilisateurs qui recherchent constamment plus de rapidité dans leur navigation. Grâce à cette mise à jour, les utilisateurs de Firefox peuvent s'attendre à une expérience plus fluide et efficace, renforçant ainsi leur fidélité à ce navigateur qu'ils apprécient tant. En optimisant l'exécution des applications web, Mozilla fait un pas important vers la compétitivité dans le domaine des navigateurs, ce qui pourrait également influencer d'autres développeurs à se pencher sur des améliorations similaires. Pour ceux qui, comme moi, sont en quête de meilleures performances, ces avancées sont une excellente nouvelle qui pourrait redorer le blason de Firefox. <div>
+<p>J&rsquo;avoue que parfois, les performances de mon navigateur Firefox me laissent sur ma faim lorsque j&rsquo;utilise certaines applications web. Pourtant j&rsquo;aime d&rsquo;amour Firefox depuis toujours, alors je prends mon mal en patience. Et j&rsquo;ai bien fait puisque les ingénieurs de Mozilla ont réalisé une avancée majeure avec Firefox. Ils ont optimisé le compilateur Ion, permettant ainsi à WebAssembly d&rsquo;être <strong>75 fois plus rapide</strong>. Une coup de boost qui pourrait bien faire des envieux chez la concurrence et ravir les utilisateurs qui comme moi sont toujours en quête de performances.</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Oct 2024 23:41:40 +0200</pubDate>
+<pubDate>Wed, 16 Oct 2024 23:41:40 +0200</pubDate>
+</item>
+<item>
+<title>Intel accusé par la Chine de mettre des backdoors pour le compte de la NSA dans ses processeurs</title>
+<link>https://korben.info/intel-accuse-backdoors-nsa-chine-securite-processeurs.html</link>
+<guid>https://korben.info/intel-accuse-backdoors-nsa-chine-securite-processeurs.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: Association chinoise de cybersécurité, Intel, backdoors, sécurité informatique, souveraineté numérique  
+
+<br><br>Summary:  
+Dernièrement, l'Association chinoise de cybersécurité (CSAC) a publié un rapport concernant les processeurs d'Intel. Selon ce rapport, Intel aurait intégré des backdoors intentionnelles dans presque tous ses processeurs depuis 2008. Ces backdoors pourraient permettre à des agences étrangères, comme la NSA, d'accéder à des données sensibles. Cette situation suscite de vives inquiétudes en matière de sécurité informatique, car l'existence de ces portes dérobées met en péril la confidentialité et l'intégrité des informations. De plus, cela soulève des questions de souveraineté numérique, les pays et les entreprises se demandant dans quelle mesure leurs infrastructures technologiques sont sécurisées et sous contrôle. Il est essentiel pour les utilisateurs et les organisations de se méfier de ces vulnérabilités potentielles, tout en renforçant leurs stratégies de cybersécurité pour protéger leurs données. En conséquence, cette affaire pourrait entraîner des conséquences sur la confiance envers les produits technologiques américains et impacter les relations internationales dans le domaine de la cybersécurité. <div>
+<p>Dernièrement, l&rsquo;Association chinoise de cybersécurité (CSAC) <a href="https://mp.weixin.qq.com/s/rgRmOfoPr7x1TZhyb-1ifg">a émis des accusations sérieuses contre Intel</a>, le géant américain des processeurs. Ils ont publié un rapport affirmant qu&rsquo;Intel aurait intégré des backdoors intentionnelles (<strong>portes dérobées</strong>), dans presque tous ses processeurs depuis 2008. Selon l&rsquo;organisation, ces failles pourraient être exploitées par des agences étrangères (coucou la NSA) pour accéder à des données sensibles, ce qui soulève évidemment des préoccupations majeures en matière de <strong>sécurité informatique</strong> et de <strong>souveraineté numérique</strong>.</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Oct 2024 23:25:42 +0200</pubDate>
+<pubDate>Wed, 16 Oct 2024 23:25:42 +0200</pubDate>
+</item>
+<item>
+<title>Ollama + Hugging Face - Le mariage parfait pour lancer n'importe quel modèle GGUF</title>
+<link>https://korben.info/ollama-hugging-face-le-mariage-parfait-pour-lancer-nimporte-quel-modele-gguf.html</link>
+<guid>https://korben.info/ollama-hugging-face-le-mariage-parfait-pour-lancer-nimporte-quel-modele-gguf.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Ollama, Hugging Face, modèles GGUF, ligne de commande, utilisateurs
+
+<br><br>Summary:  
+Bonne nouvelle pour les utilisateurs d’Ollama, car la plateforme a maintenant intégré un support natif pour Hugging Face. Cela permet de faire tourner n'importe quel modèle GGUF disponible sur Hugging Face facilement. Avec cette fonctionnalité,il suffit d'une simple ligne de commande pour accéder à des milliers de modèles. Actuellement, il existe plus de 45 000 modèles GGUF publics disponibles sur le Hub de Hugging Face. Cette intégration simplifie le processus pour les développeurs et les chercheurs qui souhaitent expérimenter divers modèles linguistiques sans complication. Les utilisateurs pourront ainsi profiter d'une grande variété d'options pour améliorer leurs projets liés aux modèles linguistiques, que ce soit pour l'analyse de texte, la génération de contenu ou d'autres applications. En somme, le support natif pour Hugging Face chez Ollama offre un avantage considérable pour les utilisateurs, facilitant l'accès à une bibliothèque immense de modèles performants. Cette avancée souligne également l'engagement d'Ollama à enrichir l'expérience utilisateur et à tirer profit de l'écosystème en pleine expansion des modèles de langage. <div>
+<p>Bonne nouvelle si vous êtes un utilisateur d&rsquo;Ollama pour tout ce qui est LLM, les amis !!</p>
+<p>Ces derniers viennent d&rsquo;implémenter un support natif pour Hugging Face ! En français, cela veut dire que vous pouvez maintenant faire tourner n&rsquo;importe quel GGUF présent sur Hugging Face avec une simple ligne de commande. Et quand je dis n&rsquo;importe lequel, je ne plaisante pas : il y a actuellement plus de 45 000 modèles GGUF publics sur le Hub !</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Oct 2024 21:26:31 +0200</pubDate>
+<pubDate>Wed, 16 Oct 2024 21:26:31 +0200</pubDate>
+</item>
+<item>
+<title>Amazon lance son Kindle surprise - EN COULEUR !</title>
+<link>https://korben.info/amazon-devoile-nouveaux-kindle-modele-en-couleur.html</link>
+<guid>https://korben.info/amazon-devoile-nouveaux-kindle-modele-en-couleur.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: Kindle, couleur, bande dessinée, confort de lecture, illustrations
+
+<br><br>Summary:  
+Les amateurs de lecture numérique vont être ravis d'apprendre qu'un nouveau Kindle, baptisé Colorsoft, va bientôt faire son apparition sur le marché. Ce dispositif marque une avancée significative pour les fans de bandes dessinées, de mangas, ainsi que de livres illustrés, puisqu'il est le premier modèle à disposer d'un écran couleur. Grâce à cette technologie, il sera désormais possible d'apprécier les images de manière optimale tout en bénéficiant du confort que les liseuses offrent. L'écran du Colorsoft promet des couleurs vives, loin d'être fades, et une densité de 300 PPP, garantissant une expérience visuelle agréable et douce pour les yeux. Les utilisateurs pourront ainsi admirer les couvertures de livres en couleur et les illustrations détaillées, tout en ayant la possibilité de surligner des passages avec diverses teintes pour organiser efficacement leurs notes. En somme, le Colorsoft devrait révolutionner la façon dont les passionnés de lecture interagissent avec les livres contenant des éléments graphiques, tout en préservant l'essence du plaisir de la lecture sur une liseuse. <div>
+<p>Si comme moi, vous êtes un grand fan du <strong>Kindle</strong>, j&rsquo;ai une bonne nouvelle à vous annoncer : <strong>Ils vont bientôt en sortir un en couleur !</strong></p>
+<p>Baptisé le <strong><a href="https://amzn.to/3NsdEKp">Kindle Colorsoft</a></strong>, ce premier Kindle doté d&rsquo;un écran couleur est clairement une véritable évolution pour les amateurs de bandes dessinées, de mangas ou de livres &ldquo;illustrés&rdquo;. Avec le Colorsoft, on va enfin pouvoir voir correctement tout ce qui est images, en continuant à profiter d&rsquo;un excellent confort de lecture propre aux liseuses. Visiblement, les couleurs seront loin d&rsquo;être fades et l&rsquo;écran avec sa densité de 300 PPP restera suffisamment doux pour les yeux. Ça permet de profiter des couvertures de livres en couleurs, des illustrations détaillées et bien sûr de surligner des passages en différentes teintes pour une meilleure organisation de vos notes.</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Oct 2024 16:12:38 +0200</pubDate>
+<pubDate>Wed, 16 Oct 2024 16:12:38 +0200</pubDate>
+</item>
+
+<item>
 <title>Podcast Tendances Inno - Les technologies émergentes pour tous</title>
 <link>https://korben.info/tendances-inno-saison-4-podcast-docaposte.html</link>
 <guid>https://korben.info/tendances-inno-saison-4-podcast-docaposte.html</guid>
 <content:encoded><![CDATA[
 <div> média, technologies émergentes, innovation, numérique, podcast
 
-<br><br>Summary: Le podcast de Docaposte lance sa nouvelle saison, conçue pour enrichir la perspective des passionnés de technologie. Ce programme se concentre sur les technologies émergentes, mettant en lumière les acteurs qui innovent et questionnent les évolutions numériques actuelles. En abordant divers sujets pointus, le podcast transforme des discussions complexes en échanges captivants et facilement accessibles à un large public. Chaque épisode invite à découvrir les enjeux et les impacts des innovations sur notre quotidien, tout en favorisant une réflexion sur le futur du numérique. Les auditeurs peuvent s'attendre à des échanges enrichissants qui stimuleront leur curiosité et élargiront leur compréhension des transformations numériques en cours. Ce rendez-vous devient un incontournable pour ceux qui souhaitent rester informés des tendances technologiques et des avancées qui redéfinissent notre façon de vivre et de travailler. Préparez-vous à être inspirés par les intrigues du monde tech et à participer à des discussions enrichissantes grâce à la nouvelle saison de ce podcast captivant. <div>
+<br /><br />Summary: Le podcast de Docaposte lance sa nouvelle saison, conçue pour enrichir la perspective des passionnés de technologie. Ce programme se concentre sur les technologies émergentes, mettant en lumière les acteurs qui innovent et questionnent les évolutions numériques actuelles. En abordant divers sujets pointus, le podcast transforme des discussions complexes en échanges captivants et facilement accessibles à un large public. Chaque épisode invite à découvrir les enjeux et les impacts des innovations sur notre quotidien, tout en favorisant une réflexion sur le futur du numérique. Les auditeurs peuvent s'attendre à des échanges enrichissants qui stimuleront leur curiosité et élargiront leur compréhension des transformations numériques en cours. Ce rendez-vous devient un incontournable pour ceux qui souhaitent rester informés des tendances technologiques et des avancées qui redéfinissent notre façon de vivre et de travailler. Préparez-vous à être inspirés par les intrigues du monde tech et à participer à des discussions enrichissantes grâce à la nouvelle saison de ce podcast captivant. <div>
 <p><div style="text-align: center;">&ndash; Article en partenariat avec <strong>Docaposte</strong> &ndash;</div></p>
 <p>Chers passionnés de tech, préparez-vous à une nouveauté qui va élargir votre vision du monde numérique : la nouvelle saison du <a href="https://bit.ly/TendancesInnoxKorben">podcast <strong>Tendances Inno</strong></a> de Docaposte !</p>
 <p>Ce podcast vous plonge au cœur des technologies émergentes, en partant à la rencontre de ceux qui innovent et qui s&rsquo;interrogent sur les changements numériques actuels. C&rsquo;est un véritable concentré d&rsquo;innovation qui transforme les sujets les plus pointus en discussions passionnantes et accessibles.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 10:53:39 +0200</pubDate>
 <pubDate>Wed, 16 Oct 2024 10:53:39 +0200</pubDate>
 </item>
 <item>
@@ -26,15 +83,13 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : CAO 3D, Dune 3D, liberté, logiciel libre, Lukas K.
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Vous en avez assez des solutions de CAO 3D propriétaires coûteuses ? Dune 3D est une nouvelle solution qui vous offre la liberté de modéliser vos créations sans dépendre des géants comme Autodesk. Développé par Lukas K., un développeur renommé dans le domaine de l'électronique libre et créateur d'Horizon EDA, Dune 3D vise à révolutionner le monde de la modélisation 3D. En s'inspirant des meilleurs outils de modélisation dans l'univers du libre, ce logiciel promet d'être une alternative viable et accessible pour tous ceux qui souhaitent explorer leur créativité en trois dimensions. Avec Dune 3D, vous pouvez enfin travailler en toute autonomie, sans les contraintes souvent imposées par les logiciels propriétaires. Cette nouvelle approche apporte une bouffée d'air frais et encourage l'innovation et la collaboration au sein de la communauté des utilisateurs. En résumé, Dune 3D est plus qu'un simple logiciel, c'est une invitation à créer librement dans un environnement 3D adapté à vos besoins et à vos aspirations. <div>
 <p>Marre de galérer avec les solutions de CAO 3D propriétaires qui coûtent un bras ? Vous rêvez de pouvoir enfin modéliser vos créations en toute liberté, sans vendre votre âme à Autodesk ?</p>
 <p>J&rsquo;ai une bonne nouvelle pour vous : il y a du nouveau dans l&rsquo;univers de la 3D libre, et ça s&rsquo;appelle <strong>Dune 3D</strong> ! C&rsquo;est le petit dernier sorti du cerveau d&rsquo;un développeur bien connu dans le milieu de l&rsquo;électronique libre : Lukas K., le créateur de <strong>Horizon EDA</strong>. Il s&rsquo;est dit que tant qu&rsquo;à faire, autant s&rsquo;attaquer aussi au gros morceau de la 3D, en s&rsquo;inspirant de ce qui se fait de mieux dans le domaine du libre.</p>
 ]]></content:encoded>
 <pubDate>Wed, 16 Oct 2024 09:00:00 +0200</pubDate>
-<pubDate>Wed, 16 Oct 2024 09:00:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Jouer aux jeux vidéos petit vous a permis de gagner plus de fric</title>
 <link>https://korben.info/les-bienfaits-jeux-video-carriere-professionnelle.html</link>

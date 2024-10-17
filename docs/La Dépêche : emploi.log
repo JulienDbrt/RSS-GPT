@@ -3850,3 +3850,12 @@ Summarized using GPT-4o-mini
 Append: [Carcassonne. Que deviennent les 35 employés n’ayant pas été payés par Milee ?](https://www.ladepeche.fr/2024/10/16/que-deviennent-les-35-employes-nayant-pas-ete-payes-par-milee-12263478.php)
 append_entries: 5
 Finish: 2024-10-16 13:10:11.704392
+------------------------------------------------------
+Started: 2024-10-17 01:43:18.303377
+Existing_entries: 622
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 218
+Summarized using GPT-4o-mini
+Append: ["On partage des valeurs communes": une délégation universitaire d’Inde accueillie dans le Gers au lycée agricole de Beaulieu-Lavacant](https://www.ladepeche.fr/2024/10/16/on-partage-des-valeurs-communes-une-delegation-universitaire-dinde-accueillie-dans-le-gers-au-lycee-agricole-de-beaulieu-lavacant-12254470.php)
+append_entries: 1
+Finish: 2024-10-17 01:43:26.810920

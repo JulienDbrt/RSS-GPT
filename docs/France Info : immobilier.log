@@ -2480,3 +2480,9 @@ Summarized using GPT-4o-mini
 Append: [VRAI OU FAUX. Logements indignes à Marseille : le maire Benoît Payan a-t-il "envoyé chez le procureur des centaines" de marchands de sommeil ?](https://www.francetvinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-logements-indignes-a-marseille-le-maire-benoit-payan-a-t-il-envoye-chez-le-procureur-des-centaines-de-marchands-de-sommeil_6812735.html)
 append_entries: 2
 Finish: 2024-10-16 13:01:06.767009
+------------------------------------------------------
+Started: 2024-10-17 01:37:40.101319
+Existing_entries: 162
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-10-17 01:37:40.256516
