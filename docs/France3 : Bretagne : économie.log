@@ -2794,3 +2794,15 @@ Existing_entries: 271
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-17 01:39:18.094801
+------------------------------------------------------
+Started: 2024-10-17 12:52:58.187180
+Existing_entries: 271
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 346
+Summarized using GPT-4o-mini
+Append: ["L'esprit de la bière a secoué le cocotier du monde du cidre" Comment s'explique le coup de mou du cidre](https://france3-regions.francetvinfo.fr/bretagne/morbihan/l-esprit-de-la-biere-a-secoue-le-cocotier-du-monde-du-cidre-comment-s-explique-le-coup-de-mou-du-cidre-3046408.html)
+Token length: 437
+Summarized using GPT-4o-mini
+Append: ["Pouvoir à nouveau se regarder dans le miroir", elle imagine des dessous pour aider les malades à vivre](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/pouvoir-a-nouveau-se-regarder-dans-le-miroir-elle-imagine-des-dessous-pour-aider-les-malades-a-vivre-3046186.html)
+append_entries: 2
+Finish: 2024-10-17 12:53:10.318324

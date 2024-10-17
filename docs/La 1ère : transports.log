@@ -3467,3 +3467,18 @@ Summarized using GPT-4o-mini
 Append: [Hausse de la taxe sur les billets d'avion : le gouvernement veut faire en sorte que les Ultramarins "ne soient pas affectés, ou le soient le moins possible"](https://la1ere.francetvinfo.fr/taxe-sur-les-billets-d-avion-le-ministre-de-l-economie-veut-faire-en-sorte-que-la-hausse-ne-repose-pas-essentiellement-sur-les-ultramarins-sans-pour-autant-annoncer-d-exemption-1529053.html)
 append_entries: 1
 Finish: 2024-10-17 01:41:47.915285
+------------------------------------------------------
+Started: 2024-10-17 12:56:10.491686
+Existing_entries: 482
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+Token length: 36
+Summarized using GPT-4o-mini
+Append: [Le prix des billets d'avion risque de décoller, ce qui inquiètent les Wallisiens et Futuniens](https://la1ere.francetvinfo.fr/wallisfutuna/wallis/le-prix-des-billets-d-avion-risque-de-decoller-1528957.html)
+Token length: 37
+Summarized using GPT-4o-mini
+Append: [Une route bloquée à Tsingoni après la chute d'un arbre](https://la1ere.francetvinfo.fr/mayotte/la-route-bloquee-a-tsingoni-apres-la-chute-d-un-arbre-1529251.html)
+Token length: 81
+Summarized using GPT-4o-mini
+Append: [Fin de la grève à la Direction des transports terrestres](https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/fin-de-la-greve-a-la-direction-des-transports-terrestres-1529218.html)
+append_entries: 3
+Finish: 2024-10-17 12:56:21.795967

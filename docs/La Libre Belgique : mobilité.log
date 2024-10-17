@@ -3020,3 +3020,9 @@ Summarized using GPT-4o-mini
 Append: [GSM au volant, accident au tournant : la police a confisqué 942 permis de conduire lors de la dernière grande opération de contrôle](https://www.lalibre.be/belgique/judiciaire/2024/10/16/gsm-au-volant-accident-au-tournant-la-police-a-confisque-942-permis-de-conduire-lors-de-la-derniere-grande-operation-de-controle-RRB2CRSDLBAGVDBVCWDC4YCBGM/)
 append_entries: 1
 Finish: 2024-10-17 01:44:54.064003
+------------------------------------------------------
+Started: 2024-10-17 12:58:43.758563
+Existing_entries: 366
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+append_entries: 0
+Finish: 2024-10-17 12:58:44.212898

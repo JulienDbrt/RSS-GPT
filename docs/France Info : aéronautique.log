@@ -2333,3 +2333,12 @@ Summarized using GPT-4o-mini
 Append: [Airbus : l'entreprise va supprimer jusqu'à 2 500 postes dans sa branche défense et espace](https://www.francetvinfo.fr/economie/aeronautique/airbus-l-entreprise-va-supprimer-jusqu-a-2-500-postes-dans-sa-branche-defense-et-espace_6842060.html)
 append_entries: 1
 Finish: 2024-10-17 01:37:39.257914
+------------------------------------------------------
+Started: 2024-10-17 12:50:43.025996
+Existing_entries: 111
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+Token length: 180
+Summarized using GPT-4o-mini
+Append: [Réduction des effectifs d'Airbus Defense and Space : une nouvelle preuve des difficultés de l’industrie aérospatiale européenne](https://www.francetvinfo.fr/replay-radio/le-brief-eco/reduction-des-effectifs-d-airbus-defense-and-space-une-nouvelle-preuve-des-difficultes-de-l-industrie-aerospatiale-europeenne_6814694.html)
+append_entries: 1
+Finish: 2024-10-17 12:50:46.890774

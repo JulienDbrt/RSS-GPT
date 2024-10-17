@@ -3703,3 +3703,18 @@ Existing_entries: 575
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-10-17 01:39:18.720075
+------------------------------------------------------
+Started: 2024-10-17 12:53:10.640034
+Existing_entries: 575
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 356
+Summarized using GPT-4o-mini
+Append: [La compagnie Chalair et son PDG condamnés en appel pour complicité de travail dissimulé](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/la-compagnie-chalair-et-son-pdg-condamnes-en-appel-pour-complicite-de-travail-dissimule-3046729.html)
+Token length: 227
+Summarized using GPT-4o-mini
+Append: [Michelin : pourquoi le dialogue social est rompu entre syndicats et direction](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/michelin-pourquoi-le-dialogue-social-est-rompu-entre-syndicats-et-direction-3046555.html)
+Token length: 237
+Summarized using GPT-4o-mini
+Append: ["Choisir le Québec" : les services québécois de l'immigration viennent à Montpellier pour informer sur l'emploi et la vie Outre-Atlantique](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/choisir-le-quebec-les-services-quebecois-de-l-immigration-viennent-a-montpellier-pour-informer-sur-l-emploi-et-la-vie-outre-atlantique-3046114.html)
+append_entries: 3
+Finish: 2024-10-17 12:53:24.185648

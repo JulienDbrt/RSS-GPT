@@ -5,16 +5,60 @@
 <link>https://korben.info</link>
 
 <item>
+<title>Comment j'ai nettoyé, réparé et migré 17 000 articles de blog Wordpress</title>
+<link>https://korben.info/comment-jai-nettoye-repare-et-migre-17-000-articles-de-blog-wordpress.html</link>
+<guid>https://korben.info/comment-jai-nettoye-repare-et-migre-17-000-articles-de-blog-wordpress.html</guid>
+<content:encoded><![CDATA[
+<div> migrer, Wordpress, CMS, o2switch, site
+
+<br><br>Summary: Dans cet article, l'auteur poursuit sa série sur la mise à jour de son site et aborde la migration vers la nouvelle version de Wordpress. Après 17 ans d'utilisation de ce CMS, l'auteur ne souhaite pas changer, ayant fait la transition initiale depuis Spip en 2007. Cette fidélité à Wordpress est maintenue en raison de sa facilité d’utilisation et de ses fonctionnalités adaptées aux besoins de l'auteur. L'article met en avant la première étape cruciale du processus de migration, qui a impliqué de planifier soigneusement le transfert de toutes les données et contenus. L'auteur souligne l'importance de choisir un hébergeur fiable pour garantir le bon fonctionnement du site après la migration, mentionnant o2switch comme un partenaire de qualité. En somme, cet article vise à partager les expériences de l'auteur et les leçons apprises lors de la mise à jour de son site, tout en témoignant de sa passion pour Wordpress, qui reste son CMS de prédilection. <div>
+<p><div style="text-align: center;">&ndash; Article en partenariat avec o2switch &ndash;</div></p>
+<p>Salut tout le monde,</p>
+<p>Après <a href="https://korben.info/mon-site-est-devenu-une-fusee-grace-a-o2switch.html">l&rsquo;annonce de ma migration vers o2switch</a>, je continue ma série d&rsquo;articles concernant la nouvelle version de mon site. Et aujourd&rsquo;hui, on va parler de la première étape que j&rsquo;ai dû franchir : <strong>migrer le Wordpress</strong>.</p>
+<p>Comme vous l&rsquo;avez surement oublié, c&rsquo;est en 2007 que j&rsquo;ai migré du CMS Spip vers le CMS Wordpress. Ça fait donc 17 ans que j&rsquo;utilise ce CMS, et je l&rsquo;adore. Pas question pour moi, donc de changer de CMS.</p>
+]]></content:encoded>
+<pubDate>Thu, 17 Oct 2024 13:00:00 +0200</pubDate>
+<pubDate>Thu, 17 Oct 2024 13:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Surfshark One : un antivirus complet face à de nouvelles menaces</title>
+<link>https://korben.info/surfshark-one-antivirus.html</link>
+<guid>https://korben.info/surfshark-one-antivirus.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Surfshark, VPN, sécurité, cybersécurité, fonctionnalités
+
+<br><br>Summary: Depuis sa création en 2018, Surfshark a su s'imposer dans le domaine des VPN tout en élargissant ses services. La société a développé une suite de sécurité complète qui va au-delà des simples fonctionnalités d'un VPN. Cette solution tout-en-un offre une protection renforcée contre diverses menaces en ligne, notamment le phishing, les malwares et l'espionnage. Surfshark se distingue par des fonctionnalités innovantes telles que le blocage de publicités intrusives et les notifications de violation de données. De plus, il propose un gestionnaire de mots de passe et des outils d'anonymisation pour garantir la sécurité des utilisateurs. Alors que les défis de cybersécurité continuent d'évoluer, Surfshark s’adapte aux nouvelles menaces en intégrant régulièrement des mises à jour et des améliorations à ses services. Cela en fait un choix pertinent pour ceux qui cherchent à renforcer leur sécurité en ligne. En somme, avec sa suite de sécurité, Surfshark s'affirme comme un acteur clé dans la protection des données et la défense contre les cyberattaques. <div>
+<p><div style="text-align: center;">&ndash; Article en partenariat <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768">avec Surfshark</a> &ndash;</div></p>
+<p>Depuis ses débuts en 2018, Surfshark est surtout connu pour son service VPN. Mais au fil des années ils ont développé une suite de sécurité plutôt complète appelée <a href="https://korben.info/surfshark-one-chien-de-garde.html">Surfshark One</a>. Cette solution tout-en-un vise à protéger les utilisateurs (oui, toi là qui me lis) contre une tripotée de menaces en ligne. On va examiner de plus près les fonctionnalités de cet outil et sa pertinence face aux nouveaux défis de cybersécurité.</p>
+]]></content:encoded>
+<pubDate>Thu, 17 Oct 2024 10:00:00 +0200</pubDate>
+<pubDate>Thu, 17 Oct 2024 10:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Déverrouillez votre Linux en toute sécurité avec Android-LUKS</title>
+<link>https://korben.info/deverrouillez-votre-linux-securite-android-luks.html</link>
+<guid>https://korben.info/deverrouillez-votre-linux-securite-android-luks.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Android-LUKS, déverrouillage, empreinte digitale, chiffrement, clé aléatoire
+
+<br><br>Summary: Vous en avez assez de taper votre mot de passe LUKS à chaque démarrage de Linux ? Android-LUKS offre une solution simple pour déverrouiller le chiffrement de votre disque en utilisant votre téléphone Android. Grâce à cette application, vous pouvez déverrouiller votre système en toute sécurité en utilisant votre empreinte digitale. Le fonctionnement est astucieux : l’application génère une clé de chiffrement aléatoire, qui est stockée de manière sécurisée sur votre téléphone. Cette clé est elle-même chiffrée avec votre empreinte digitale. Lorsque vous branchez votre téléphone en mode accessoire USB, la clé est déchiffrée et envoyée à votre ordinateur de manière discrète. Ainsi, votre système Linux se démarre sans avoir besoin de saisir un mot de passe. Cette innovation met fin aux tracas liés à la saisie répétée de mots de passe longs, rendant l’accès à votre PC non seulement plus facile mais aussi sécurisé. Android-LUKS transforme ainsi votre expérience utilisateur, combinant confort et sécurité pour tous les utilisateurs de Linux. <div>
+<p>Vous en avez assez de devoir taper votre mot de passe à rallonge à chaque démarrage de votre Linux pour déverrouiller le chiffrement LUKS ? Bonne nouvelle, <strong>Android-LUKS</strong> est là pour vous simplifier la vie ! Grâce à cette app ingénieuse, vous pourrez déverrouiller votre disque en toute sécurité, simplement en branchant votre téléphone Android et en utilisant votre empreinte digitale. Fini les crampes aux doigts, bonjour la facilité !</p>
+<p>Le fonctionnement est simple et malin. L&rsquo;app génère une clé de chiffrement aléatoire, bien planquée dans votre téléphone et elle-même chiffrée avec votre empreinte. Quand vous branchez votre Android en mode accessoire USB, la clé est déchiffrée et envoyée discrètement à votre ordi pour déverrouiller LUKS. Et voilà, votre Linux démarre sans vous demander de mot de passe !</p>
+]]></content:encoded>
+<pubDate>Thu, 17 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Thu, 17 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+
+<item>
 <title>Firefox - WebAssembly 75 fois plus rapide !</title>
 <link>https://korben.info/firefox-accelere-execution-webassembly-75-fois.html</link>
 <guid>https://korben.info/firefox-accelere-execution-webassembly-75-fois.html</guid>
 <content:encoded><![CDATA[
 <div> Firefox, performances, optimisation, WebAssembly, Ion
 
-<br><br>Summary: J'apprécie beaucoup Firefox, bien que parfois ses performances me laissent à désirer, notamment avec certaines applications web. Cependant, les ingénieurs de Mozilla ont récemment réalisé une avancée significative en optimisant le compilateur Ion. Cette optimisation permet à WebAssembly d'être jusqu'à 75 fois plus rapide, offrant ainsi un véritable coup de pouce aux performances du navigateur. Cette amélioration pourrait potentiellement attirer l'attention de la concurrence et ravir les utilisateurs qui recherchent constamment plus de rapidité dans leur navigation. Grâce à cette mise à jour, les utilisateurs de Firefox peuvent s'attendre à une expérience plus fluide et efficace, renforçant ainsi leur fidélité à ce navigateur qu'ils apprécient tant. En optimisant l'exécution des applications web, Mozilla fait un pas important vers la compétitivité dans le domaine des navigateurs, ce qui pourrait également influencer d'autres développeurs à se pencher sur des améliorations similaires. Pour ceux qui, comme moi, sont en quête de meilleures performances, ces avancées sont une excellente nouvelle qui pourrait redorer le blason de Firefox. <div>
+<br /><br />Summary: J'apprécie beaucoup Firefox, bien que parfois ses performances me laissent à désirer, notamment avec certaines applications web. Cependant, les ingénieurs de Mozilla ont récemment réalisé une avancée significative en optimisant le compilateur Ion. Cette optimisation permet à WebAssembly d'être jusqu'à 75 fois plus rapide, offrant ainsi un véritable coup de pouce aux performances du navigateur. Cette amélioration pourrait potentiellement attirer l'attention de la concurrence et ravir les utilisateurs qui recherchent constamment plus de rapidité dans leur navigation. Grâce à cette mise à jour, les utilisateurs de Firefox peuvent s'attendre à une expérience plus fluide et efficace, renforçant ainsi leur fidélité à ce navigateur qu'ils apprécient tant. En optimisant l'exécution des applications web, Mozilla fait un pas important vers la compétitivité dans le domaine des navigateurs, ce qui pourrait également influencer d'autres développeurs à se pencher sur des améliorations similaires. Pour ceux qui, comme moi, sont en quête de meilleures performances, ces avancées sont une excellente nouvelle qui pourrait redorer le blason de Firefox. <div>
 <p>J&rsquo;avoue que parfois, les performances de mon navigateur Firefox me laissent sur ma faim lorsque j&rsquo;utilise certaines applications web. Pourtant j&rsquo;aime d&rsquo;amour Firefox depuis toujours, alors je prends mon mal en patience. Et j&rsquo;ai bien fait puisque les ingénieurs de Mozilla ont réalisé une avancée majeure avec Firefox. Ils ont optimisé le compilateur Ion, permettant ainsi à WebAssembly d&rsquo;être <strong>75 fois plus rapide</strong>. Une coup de boost qui pourrait bien faire des envieux chez la concurrence et ravir les utilisateurs qui comme moi sont toujours en quête de performances.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 23:41:40 +0200</pubDate>
 <pubDate>Wed, 16 Oct 2024 23:41:40 +0200</pubDate>
 </item>
 <item>
@@ -24,11 +68,10 @@
 <content:encoded><![CDATA[
 <div> Keywords: Association chinoise de cybersécurité, Intel, backdoors, sécurité informatique, souveraineté numérique  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Dernièrement, l'Association chinoise de cybersécurité (CSAC) a publié un rapport concernant les processeurs d'Intel. Selon ce rapport, Intel aurait intégré des backdoors intentionnelles dans presque tous ses processeurs depuis 2008. Ces backdoors pourraient permettre à des agences étrangères, comme la NSA, d'accéder à des données sensibles. Cette situation suscite de vives inquiétudes en matière de sécurité informatique, car l'existence de ces portes dérobées met en péril la confidentialité et l'intégrité des informations. De plus, cela soulève des questions de souveraineté numérique, les pays et les entreprises se demandant dans quelle mesure leurs infrastructures technologiques sont sécurisées et sous contrôle. Il est essentiel pour les utilisateurs et les organisations de se méfier de ces vulnérabilités potentielles, tout en renforçant leurs stratégies de cybersécurité pour protéger leurs données. En conséquence, cette affaire pourrait entraîner des conséquences sur la confiance envers les produits technologiques américains et impacter les relations internationales dans le domaine de la cybersécurité. <div>
 <p>Dernièrement, l&rsquo;Association chinoise de cybersécurité (CSAC) <a href="https://mp.weixin.qq.com/s/rgRmOfoPr7x1TZhyb-1ifg">a émis des accusations sérieuses contre Intel</a>, le géant américain des processeurs. Ils ont publié un rapport affirmant qu&rsquo;Intel aurait intégré des backdoors intentionnelles (<strong>portes dérobées</strong>), dans presque tous ses processeurs depuis 2008. Selon l&rsquo;organisation, ces failles pourraient être exploitées par des agences étrangères (coucou la NSA) pour accéder à des données sensibles, ce qui soulève évidemment des préoccupations majeures en matière de <strong>sécurité informatique</strong> et de <strong>souveraineté numérique</strong>.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 23:25:42 +0200</pubDate>
 <pubDate>Wed, 16 Oct 2024 23:25:42 +0200</pubDate>
 </item>
 <item>
@@ -38,12 +81,11 @@ Dernièrement, l'Association chinoise de cybersécurité (CSAC) a publié un rap
 <content:encoded><![CDATA[
 <div> Mots-clés : Ollama, Hugging Face, modèles GGUF, ligne de commande, utilisateurs
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Bonne nouvelle pour les utilisateurs d’Ollama, car la plateforme a maintenant intégré un support natif pour Hugging Face. Cela permet de faire tourner n'importe quel modèle GGUF disponible sur Hugging Face facilement. Avec cette fonctionnalité,il suffit d'une simple ligne de commande pour accéder à des milliers de modèles. Actuellement, il existe plus de 45 000 modèles GGUF publics disponibles sur le Hub de Hugging Face. Cette intégration simplifie le processus pour les développeurs et les chercheurs qui souhaitent expérimenter divers modèles linguistiques sans complication. Les utilisateurs pourront ainsi profiter d'une grande variété d'options pour améliorer leurs projets liés aux modèles linguistiques, que ce soit pour l'analyse de texte, la génération de contenu ou d'autres applications. En somme, le support natif pour Hugging Face chez Ollama offre un avantage considérable pour les utilisateurs, facilitant l'accès à une bibliothèque immense de modèles performants. Cette avancée souligne également l'engagement d'Ollama à enrichir l'expérience utilisateur et à tirer profit de l'écosystème en pleine expansion des modèles de langage. <div>
 <p>Bonne nouvelle si vous êtes un utilisateur d&rsquo;Ollama pour tout ce qui est LLM, les amis !!</p>
 <p>Ces derniers viennent d&rsquo;implémenter un support natif pour Hugging Face ! En français, cela veut dire que vous pouvez maintenant faire tourner n&rsquo;importe quel GGUF présent sur Hugging Face avec une simple ligne de commande. Et quand je dis n&rsquo;importe lequel, je ne plaisante pas : il y a actuellement plus de 45 000 modèles GGUF publics sur le Hub !</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 21:26:31 +0200</pubDate>
 <pubDate>Wed, 16 Oct 2024 21:26:31 +0200</pubDate>
 </item>
 <item>
@@ -53,15 +95,13 @@ Bonne nouvelle pour les utilisateurs d’Ollama, car la plateforme a maintenant 
 <content:encoded><![CDATA[
 <div> Keywords: Kindle, couleur, bande dessinée, confort de lecture, illustrations
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Les amateurs de lecture numérique vont être ravis d'apprendre qu'un nouveau Kindle, baptisé Colorsoft, va bientôt faire son apparition sur le marché. Ce dispositif marque une avancée significative pour les fans de bandes dessinées, de mangas, ainsi que de livres illustrés, puisqu'il est le premier modèle à disposer d'un écran couleur. Grâce à cette technologie, il sera désormais possible d'apprécier les images de manière optimale tout en bénéficiant du confort que les liseuses offrent. L'écran du Colorsoft promet des couleurs vives, loin d'être fades, et une densité de 300 PPP, garantissant une expérience visuelle agréable et douce pour les yeux. Les utilisateurs pourront ainsi admirer les couvertures de livres en couleur et les illustrations détaillées, tout en ayant la possibilité de surligner des passages avec diverses teintes pour organiser efficacement leurs notes. En somme, le Colorsoft devrait révolutionner la façon dont les passionnés de lecture interagissent avec les livres contenant des éléments graphiques, tout en préservant l'essence du plaisir de la lecture sur une liseuse. <div>
 <p>Si comme moi, vous êtes un grand fan du <strong>Kindle</strong>, j&rsquo;ai une bonne nouvelle à vous annoncer : <strong>Ils vont bientôt en sortir un en couleur !</strong></p>
 <p>Baptisé le <strong><a href="https://amzn.to/3NsdEKp">Kindle Colorsoft</a></strong>, ce premier Kindle doté d&rsquo;un écran couleur est clairement une véritable évolution pour les amateurs de bandes dessinées, de mangas ou de livres &ldquo;illustrés&rdquo;. Avec le Colorsoft, on va enfin pouvoir voir correctement tout ce qui est images, en continuant à profiter d&rsquo;un excellent confort de lecture propre aux liseuses. Visiblement, les couleurs seront loin d&rsquo;être fades et l&rsquo;écran avec sa densité de 300 PPP restera suffisamment doux pour les yeux. Ça permet de profiter des couvertures de livres en couleurs, des illustrations détaillées et bien sûr de surligner des passages en différentes teintes pour une meilleure organisation de vos notes.</p>
 ]]></content:encoded>
 <pubDate>Wed, 16 Oct 2024 16:12:38 +0200</pubDate>
-<pubDate>Wed, 16 Oct 2024 16:12:38 +0200</pubDate>
 </item>
-
 <item>
 <title>Podcast Tendances Inno - Les technologies émergentes pour tous</title>
 <link>https://korben.info/tendances-inno-saison-4-podcast-docaposte.html</link>
