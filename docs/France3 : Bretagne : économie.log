@@ -2806,3 +2806,18 @@ Summarized using GPT-4o-mini
 Append: ["Pouvoir à nouveau se regarder dans le miroir", elle imagine des dessous pour aider les malades à vivre](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/pouvoir-a-nouveau-se-regarder-dans-le-miroir-elle-imagine-des-dessous-pour-aider-les-malades-a-vivre-3046186.html)
 append_entries: 2
 Finish: 2024-10-17 12:53:10.318324
+------------------------------------------------------
+Started: 2024-10-18 01:35:49.758395
+Existing_entries: 273
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Saint-Malo contre les locations de courte durée : la justice valide les restrictions face à la pénurie de logement](https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/saint-malo/saint-malo-contre-les-locations-de-courte-duree-la-justice-valide-les-restrictions-face-a-la-penurie-de-logement-3047089.html)
+Token length: 345
+Summarized using GPT-4o-mini
+Append: ["Il va falloir réfléchir à un urbanisme qui réponde à toutes les demandes" L'attractivité de la Bretagne pose la question du logement](https://france3-regions.francetvinfo.fr/bretagne/il-va-falloir-reflechir-a-un-urbanisme-qui-reponde-a-toutes-les-demandes-l-attractivite-de-la-bretagne-pose-la-question-du-logement-3046876.html)
+Token length: 370
+Summarized using GPT-4o-mini
+Append: [Éoliennes flottantes au large de Groix et de Belle-Ile-en-Mer : le projet est lancé, mais doit encore convaincre](https://france3-regions.francetvinfo.fr/bretagne/morbihan/eoliennes-flottantes-au-large-de-groix-et-de-belle-ile-en-mer-le-projet-est-lance-mais-doit-encore-convaincre-3046846.html)
+append_entries: 3
+Finish: 2024-10-18 01:35:59.250988

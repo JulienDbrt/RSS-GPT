@@ -2818,3 +2818,18 @@ Summarized using GPT-4o-mini
 Append: [Walmart s’engage à offrir du poulet élevé au Québec en magasin](https://www.journaldemontreal.com/2024/10/16/walmart-sengage-a-offrir-du-poulet-eleve-au-quebec-en-magasin)
 append_entries: 2
 Finish: 2024-10-17 12:54:22.110878
+------------------------------------------------------
+Started: 2024-10-18 01:36:26.552259
+Existing_entries: 266
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+Token length: 105
+Summarized using GPT-4o-mini
+Append: [Grève à la SAQ: voici les succursales qui sont ouvertes aujourd’hui](https://www.journaldemontreal.com/2024/10/17/greve-a-la-saq-voici-les-succursales-qui-sont-ouvertes-aujourdhui)
+Token length: 121
+Summarized using GPT-4o-mini
+Append: [Le combat des circulaires - Du 17 au 23 octobre 2024](https://www.journaldemontreal.com/2024/10/17/le-combat-des-circulaires---du-17-au-23-octobre-2024)
+Token length: 117
+Summarized using GPT-4o-mini
+Append: [La récolte des oranges de Floride, déjà faible, devrait souffrir de l’ouragan «Milton»](https://www.journaldemontreal.com/2024/10/16/la-recolte-des-oranges-de-floride-deja-faible-devrait-souffrir-de-louragan-milton)
+append_entries: 3
+Finish: 2024-10-18 01:36:38.613163

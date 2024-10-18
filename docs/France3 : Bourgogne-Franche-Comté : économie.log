@@ -3327,3 +3327,9 @@ Summarized using GPT-4o-mini
 Append: ["C'est loin d'être fini" : en liquidation judiciaire cet été, le Cornemuse, institution du Morvan, va rouvrir... ailleurs !](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/nievre/c-est-loin-d-etre-fini-en-liquidation-judiciaire-cet-ete-le-cornemuse-institution-du-morvan-va-rouvrir-ailleurs-3046216.html)
 append_entries: 2
 Finish: 2024-10-17 12:52:58.037371
+------------------------------------------------------
+Started: 2024-10-18 01:35:49.205139
+Existing_entries: 447
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+append_entries: 0
+Finish: 2024-10-18 01:35:49.608064

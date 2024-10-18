@@ -11173,3 +11173,10 @@ Append: [« Cette crise est pire que celle de 2008, car elle dure » : dans le G
 Append: [Arrivé à la retraite : comment compenser la baisse de ses revenus ?](https://lemagdelaconso.ouest-france.fr/dossier-1482-arrive-retraite-comment-compenser-baisse-revenus.html?utm_source=flipboard&utm_content=topic%2Ffr-consommation)
 append_entries: 13
 Finish: 2024-10-17 12:38:18.930438
+------------------------------------------------------
+Started: 2024-10-18 01:23:02.038979
+Existing_entries: 1013
+Fetching from https://flipboard.com/topic/fr-consommation.rss
+Feed error: 502
+append_entries: 0
+error when rendering xml, skip docs/Flipboard : consommation

@@ -3718,3 +3718,24 @@ Summarized using GPT-4o-mini
 Append: ["Choisir le Québec" : les services québécois de l'immigration viennent à Montpellier pour informer sur l'emploi et la vie Outre-Atlantique](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/choisir-le-quebec-les-services-quebecois-de-l-immigration-viennent-a-montpellier-pour-informer-sur-l-emploi-et-la-vie-outre-atlantique-3046114.html)
 append_entries: 3
 Finish: 2024-10-17 12:53:24.185648
+------------------------------------------------------
+Started: 2024-10-18 01:35:59.569918
+Existing_entries: 578
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 299
+Summarized using GPT-4o-mini
+Append: ["Je n'avais pas le choix " : elles ont dépassé l'âge de la retraite, mais continuent de travailler, faute de revenus suffisants](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/temoignages-ils-vont-nous-faire-faire-le-menage-avec-une-canne-a-l-age-de-la-retraite-elles-sont-obligees-de-reprendre-une-activite-3046756.html)
+Token length: 251
+Summarized using GPT-4o-mini
+Append: [Ce que l'on sait sur le projet d'usine de carburants pour avions, près de Rouen](https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/ce-que-l-on-sait-sur-le-projet-d-usine-de-carburants-pour-avions-pres-de-rouen-3046981.html)
+Token length: 345
+Summarized using GPT-4o-mini
+Append: ["Il va falloir réfléchir à un urbanisme qui réponde à toutes les demandes" L'attractivité de la Bretagne pose la question du logement](https://france3-regions.francetvinfo.fr/bretagne/il-va-falloir-reflechir-a-un-urbanisme-qui-reponde-a-toutes-les-demandes-l-attractivite-de-la-bretagne-pose-la-question-du-logement-3046876.html)
+Token length: 285
+Summarized using GPT-4o-mini
+Append: [Nouveau rebondissement dans la cession du Doliprane, en pleine grève des salariés chez Sanofi](https://france3-regions.francetvinfo.fr/normandie/calvados/lisieux/nouveau-rebondissement-dans-la-cession-du-doliprane-en-pleine-greve-des-salaries-chez-sanofi-3047062.html)
+Token length: 256
+Summarized using GPT-4o-mini
+Append: ["Tout le monde est effondré" : des salariés de TeamTex, leader européen des sièges auto, dénoncent la fermeture de leur usine](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/tout-le-monde-est-effondre-des-salaries-de-teamtex-leader-europeen-des-sieges-auto-denoncent-la-fermeture-de-leur-usine-3046906.html)
+append_entries: 5
+Finish: 2024-10-18 01:36:18.330677
