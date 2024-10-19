@@ -5,19 +5,64 @@
 <link>https://korben.info</link>
 
 <item>
+<title>OnlyOffice Docs transforme vos PDF en terrain de jeu collaboratif</title>
+<link>https://korben.info/onlyoffice-docs-pdf-collaboratif.html</link>
+<guid>https://korben.info/onlyoffice-docs-pdf-collaboratif.html</guid>
+<content:encoded><![CDATA[
+<div> OnlyOffice, suite bureautique, open source, mise à jour, utilisateurs
+
+<br><br>Summary: 
+OnlyOffice est une suite bureautique open source, entièrement en ligne, semblable à Microsoft 365 ou Google Workspace. Elle est particulièrement appréciée pour sa possibilité d'auto-hébergement. Récemment, une nouvelle version de OnlyOffice Docs a été lancée, apportant des fonctionnalités intéressantes et innovantes. Cette suite inclut divers outils tels que le traitement de texte, le tableur et les présentations, ainsi qu'un espace de stockage pour les fichiers, ce qui la rend très polyvalente pour les utilisateurs. L'un des atouts majeurs d'OnlyOffice est qu'elle ne se limite pas à une petite start-up, mais dispose d'une base d'utilisateurs impressionnante, avec plus de 15 millions d'utilisateurs à travers le monde. Les nouvelles améliorations, les fonctionnalités ajoutées et l’interface utilisateur enrichie dans cette version récente visent à simplifier encore plus la collaboration en ligne et à renforcer l'expérience globale des utilisateurs. OnlyOffice continue d’évoluer et se positionne comme une alternative solide pour ceux qui recherchent des solutions bureautiques performantes et flexibles, tout en restant fidèles à l'open source. <div>
+<p><div style="text-align: center;"><em>&ndash; En partenariat avec <a href="https://www.onlyoffice.com/fr/">OnlyOffice</a> &ndash;</em></div></p>
+<p>Hé, vous vous souvenez d&rsquo;OnlyOffice ? Cette suite bureautique open source que je vous avais présentée il y a quelque temps ? Eh bien, figurez-vous qu&rsquo;une nouvelle version de <strong>OnlyOffice Docs</strong> vient de sortir et les nouveautés sont plutôt cools, vous allez voir !</p>
+<p>Pour rappel, OnlyOffice, c&rsquo;est une suite bureautique <strong>100% en ligne</strong> du style Microsoft 365 ou Google Workspace, mais en version open source et auto-hébergeable si vous le souhaitez. Traitement de texte, tableur, présentations, et même un espace de stockage de fichiers pour les plus motivés. Et ce n&rsquo;est pas une petite start-up dans un garage : on parle quand même de plus de 15 millions d&rsquo;utilisateurs dans le monde, s&rsquo;il vous plaît !</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Oct 2024 10:00:00 +0200</pubDate>
+<pubDate>Fri, 18 Oct 2024 10:00:00 +0200</pubDate>
+</item>
+<item>
+<title>La NASA vous lance un défi de recyclage pour ses missions lunaires</title>
+<link>https://korben.info/nasa-defi-recyclage-missions-lunaires.html</link>
+<guid>https://korben.info/nasa-defi-recyclage-missions-lunaires.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: recyclage, Lune, NASA, déchets, missions lunaires  
+
+<br><br>Summary:  
+La NASA recherche des esprits brillants afin de réinventer le recyclage pour les missions lunaires de longue durée. L’agence spatiale a lancé un défi, visant à trouver des solutions innovantes pour gérer les déchets générés lors de l'exploration de la Lune. Cette initiative est cruciale, car le recyclage des déchets dans un environnement aussi extrême présente de nombreux défis. Les futurs astronautes devront faire face à des conditions difficiles qui rendent le tri et la gestion des déchets très complexes. Le recyclage sur la Lune pourrait non seulement réduire le besoin de nouvelles ressources envoyées de la Terre, mais aussi favoriser la durabilité des missions. De plus, il s'agit d'une occasion unique de développer des technologies qui pourraient avoir des applications sur notre planète. Ainsi, ce défi stimule l'innovation et encourage les chercheurs à penser de manière créative pour répondre aux exigences des missions spatiales tout en respectant les principes du développement durable. Les esprits brillants intéressés par le recyclage ont l'opportunité de contribuer à un projet qui pourrait transformer l'exploration spatiale et la gestion des déchets extraterrestres. <div>
+<p>Vous êtes une bonne personne. Et une bonne personne ça met ses déchets recyclables dans la poubelle jaune. D&rsquo;ailleurs, la nuit vous rêvez parfois que vous vous envolez dans l&rsquo;espace et que là bas aussi, vous faites du tri sélectif. C&rsquo;est votre passion, et je vous admire. Maintenant, si je vous disais que la NASA est en quête de brillants esprits pour révolutionner le recyclage&hellip; sur la Lune ? Hé oui, l&rsquo;agence spatiale américaine a lancé un défi : le <strong><a href="https://lunarecyclechallenge.ua.edu/">LunaRecycle Challenge</a></strong>. Son objectif c&rsquo;est de trouver des solutions innovantes pour recycler les déchets lors des futures missions lunaires de longue durée. Un véritable casse-tête dans un environnement aussi extrême !</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Oct 2024 09:29:29 +0200</pubDate>
+<pubDate>Fri, 18 Oct 2024 09:29:29 +0200</pubDate>
+</item>
+<item>
+<title>ddrescue-helper.sh - La récupération de données facile avec ddrescue</title>
+<link>https://korben.info/ddrescue-helper-recuperation-donnees-gnu-ddrescue.html</link>
+<guid>https://korben.info/ddrescue-helper-recuperation-donnees-gnu-ddrescue.html</guid>
+<content:encoded><![CDATA[
+<div> Disque dur, script bash, récupération, données, Linux, macOS
+
+<br><br>Summary: Ce script bash est conçu pour faciliter la récupération de données lors d'un crash de disque dur, que vous utilisiez Linux ou macOS. Il simplifie l'utilisation de la commande ddrescue en s'occupant automatiquement du démontage des volumes pendant le processus de copie. Cela permet d'éviter des erreurs potentielles liées à l'accès simultané aux données. Le script organise également les informations concernant les blocs défectueux et les secteurs lents, en créant un dossier dédié pour regrouper toutes ces données. Cela facilite l'identification des fichiers affectés et permet d'analyser les performances de lecture. Avec ce script, vous n'avez plus à vous soucier des complexités techniques, car il gère tout pour vous, rendant ainsi la récupération de vos précieuses données plus accessible et moins stressante. En somme, il constitue un outil précieux pour toute personne confrontée à une panne de disque dur, garantissant une approche systématique et efficace pour récupérer ce qui peut encore l'être. <div>
+<p>Salut les amis !</p>
+<p>Aujourd&rsquo;hui, je vous présente d&rsquo;un script bien pratique pour vous sortir de la panade quand votre disque dur vous lâche : <strong><a href="https://github.com/c-o-pr/ddrescue-helper">ddrescue-helper.sh</a></strong>. C&rsquo;est un script bash qui se marie à merveille avec notre ami <strong><a href="https://www.gnu.org/software/ddrescue/ddrescue_fr.html">ddrescue</a></strong> pour récupérer vos précieuses données, que vous soyez sur Linux ou macOS.</p>
+<p>Plus besoin de vous prendre la tête avec la syntaxe de la commande ddrescue ou de jongler avec les options, ce script s&rsquo;occupe de tout. Il gère automatiquement le démontage des volumes pendant la copie pour éviter tout couac et il regroupe toutes les infos sur les blocs foireux et les zones lentes dans un dossier bien ordonné, pour identifier les fichiers touchés et consulter les performances de lecture.</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Fri, 18 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+
+<item>
 <title>Sauve Keeper !</title>
 <link>https://korben.info/avis-corekeeper-test.html</link>
 <guid>https://korben.info/avis-corekeeper-test.html</guid>
 <content:encoded><![CDATA[
 <div> Mélange, jeu, multiplayer, Early Access, disponibilité  
 
-<br><br>Summary:  
+<br /><br />Summary:  
 L'article évoque une expérience de jeu qui mélange différents éléments, créant un concept innovant et captivant. Il est mentionné qu'après plus de deux ans et demi en accès anticipé, le jeu en question est enfin disponible dans sa version 1.0 sur PC et sur toutes les consoles. Cette sortie est très attendue, d'autant plus qu'elle inclut une fonctionnalité de cross-plateforme, permettant à des joueurs de différentes plateformes de se rassembler pour jouer ensemble. Le multijoueur est souligné comme étant essentiel pour apprécier pleinement le jeu, renforçant l'aspect social et compétitif de l'expérience. Le succès du jeu est noté, ce qui soulève des questions sur les raisons de sa popularité. Toute cette évolution suggère que le jeu a su peaufiner son expérience au fil des mois, attirant ainsi une large communauté de joueurs. En conclusion, l'article souligne le mélange d'éléments qui promettent de rendre le jeu addictif et amusant, et invite les lecteurs à découvrir cette nouvelle version afin de profiter pleinement de ses fonctionnalités multijoueur. <div>
 <p><div style="text-align: center;">— Article rédigé par l’ami <a href="https://remouk.fr/">Remouk</a> <a href="https://danstonchat.com/">(DansTonChat)</a> – Merci à lui — — Contient des liens affiliés Amazon —</div></p>
 <p>Et si on mélangeait du <a href="https://amzn.to/3BPJ5Ma">Minecraft</a>, du <a href="https://amzn.to/3YtOyB2">Terraria</a>, du <a href="https://amzn.to/4f2Vn1W">Stardew Valley</a>, voire du <a href="https://amzn.to/48dPpcl">Factorio</a> ensemble, ça donnerait quoi ? Possible que le résultat soit très proche de <a href="https://fireshinegames.co.uk/games/core-keeper/">Core Keeper</a>, un &ldquo;petit&rdquo; jeu qui est en train de cartonner&hellip; À raison ? À raison !</p>
 <p>Après plus de 2 ans et demi d&rsquo;<em>Early Access</em>, <a href="https://fireshinegames.co.uk/games/core-keeper/">Core Keeper</a> est enfin disponible en 1.0 sur PC et toutes les consoles du moment, avec l&rsquo;option <em>cross-platform</em> s&rsquo;il vous plaît. Ça tombe bien, c&rsquo;est un jeu qui prend toute sa saveur en multijoueur. :)</p>
 ]]></content:encoded>
-<pubDate>Thu, 17 Oct 2024 20:14:42 +0200</pubDate>
 <pubDate>Thu, 17 Oct 2024 20:14:42 +0200</pubDate>
 </item>
 <item>
@@ -27,15 +72,13 @@ L'article évoque une expérience de jeu qui mélange différents éléments, cr
 <content:encoded><![CDATA[
 <div> Mots-clés : Windows 95, Nintendo 3DS, émulateur, DOSBox, MetraByte
 
-<br><br>Summary:  
+<br /><br />Summary:  
 Un passionné du nom de MetraByte a réussi un exploit inattendu : faire tourner Windows 95 sur une console portable Nintendo 3DS. Ce projet novateur commence avec l'utilisation de DOSBox, un émulateur open-source connu pour permettre l'exécution de programmes DOS sur des machines modernes. MetraByte a développé un port spécifique de DOSBox adapté à la Nintendo 3DS, ce qui a ouvert la voie à son projet ambitieux. En installant Windows 95 via cet émulateur sur une New Nintendo 3DS, il a démontré les capacités de cette console et a captivé l'intérêt des amateurs d'informatique rétro. Ce hack témoigne non seulement de l'ingéniosité des développeurs, mais aussi de la volonté de redonner vie à des systèmes d'exploitation classiques sur du matériel moderne. L'événement illustre parfaitement la culture du rétro-gaming et la possibilité de rendre hommage à des technologies anciennes tout en explorant de nouvelles frontières dans le domaine des jeux vidéo. Grâce à ce projet audacieux, les utilisateurs peuvent désormais revivre l'expérience Windows 95, à la fois sur une machine autrefois très répandue dans les années 90 et sur une console portable d'aujourd'hui. <div>
 <p><strong>Préparez-vous à un voyage dans le temps !</strong> Car OUI, il est possible de faire tourner un <strong>Windows 95</strong> sur une console portable <strong>Nintendo 3DS</strong>. J&rsquo;en n&rsquo;avais jamais rêvé cela dit&hellip; Mais un bidouilleur ingénieux du nom de <strong>MetraByte</strong> a réussi cet exploit aussi inattendu qu&rsquo;amusant.</p>
 <p>Tout commence avec <strong>DOSBox</strong>, un émulateur open-source qui permet d&rsquo;exécuter des programmes DOS sur des machines récente. A l&rsquo;aide d&rsquo;un portage <strong>maison</strong> de <strong>DOSBox</strong> réalisé pour la <strong>Nintendo 3DS</strong>, <strong>MetraByte</strong> s&rsquo;est lancé dans le pari un peu fou d&rsquo;installer <strong>Windows 95</strong> via <strong>DOSBox</strong> sur une <strong>New Nintendo 3DS</strong>.</p>
 ]]></content:encoded>
 <pubDate>Thu, 17 Oct 2024 17:04:25 +0200</pubDate>
-<pubDate>Thu, 17 Oct 2024 17:04:25 +0200</pubDate>
 </item>
-
 <item>
 <title>Comment j'ai nettoyé, réparé et migré 17 000 articles de blog Wordpress</title>
 <link>https://korben.info/comment-jai-nettoye-repare-et-migre-17-000-articles-de-blog-wordpress.html</link>

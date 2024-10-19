@@ -3587,3 +3587,15 @@ Summarized using GPT-4o-mini
 Append: [Doliprane : Et si finalement Sanofi optait pour un fonds d’investissement français ?](https://www.20minutes.fr/economie/4116215-20241017-doliprane-si-finalement-sanofi-optait-fonds-investissement-francais)
 append_entries: 6
 Finish: 2024-10-18 01:28:14.901951
+------------------------------------------------------
+Started: 2024-10-19 01:25:22.497363
+Existing_entries: 525
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 237
+Summarized using GPT-4o-mini
+Append: [Alsace : Une famille mise en examen pour escroquerie en bande organisée faisant des dizaines de victimes](https://www.20minutes.fr/faits_divers/4116484-20241018-alsace-famille-mise-examen-escroquerie-bande-organisee-faisant-dizaines-victimes)
+Token length: 120
+Summarized using GPT-4o-mini
+Append: [Compiègne : Grève des salariés d’Opella, le fabricant du Doliprane](https://www.20minutes.fr/economie/4116368-20241018-compiegne-greve-salaries-opella-fabricant-doliprane)
+append_entries: 2
+Finish: 2024-10-19 01:25:31.195669

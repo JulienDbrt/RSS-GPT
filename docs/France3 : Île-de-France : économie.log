@@ -3207,3 +3207,21 @@ Summarized using GPT-4o-mini
 Append: [Les survivants de la tuerie de Nanterre : "tous les adjoints étaient cachés dans leur pupitre et il les a assassinés un par un, comme une exécution"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-survivants-de-la-tuerie-de-nanterre-tous-les-adjoints-etaient-caches-dans-leur-pupitre-et-il-les-a-assassines-un-par-un-comme-une-execution-3045346.html)
 append_entries: 2
 Finish: 2024-10-18 01:35:33.131779
+------------------------------------------------------
+Started: 2024-10-19 01:31:53.796363
+Existing_entries: 405
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 246
+Summarized using GPT-4o-mini
+Append: [Manque de conducteurs, travaux : des vacances perturbées pour les usagers des transports franciliens](https://france3-regions.francetvinfo.fr/paris-ile-de-france/manque-de-conducteurs-et-travaux-point-sur-ces-vacances-perturbees-pour-les-usagers-3047416.html)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Travail illégal dans 4 grands musées : un syndicat porte plainte](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/travail-illegal-dans-4-grands-musees-un-syndicat-porte-plainte-3047329.html)
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [Inondations : vigilance orange levée dans toute l'Île-de-France](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/inondations-vigilance-orange-levee-dans-toute-l-ile-de-france-3047197.html)
+Token length: 249
+Summarized using GPT-4o-mini
+Append: [Mort d'un cycliste à Paris: l'automobiliste doit être présenté aujourd'hui à un juge d'instruction](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/mort-d-un-cycliste-a-paris-l-automobiliste-doit-etre-presente-aujourd-hui-a-un-juge-d-instruction-3047164.html)
+append_entries: 4
+Finish: 2024-10-19 01:32:05.775861

@@ -2257,3 +2257,9 @@ Summarized using GPT-4o-mini
 Append: [Paris: les friches SNCF, première réponse à la crise du logement](https://www.latribune.fr/entreprises-finance/industrie/biens-d-equipement-btp-immobilier/paris-les-friches-sncf-premiere-reponse-a-la-crise-du-logement-1009045.html)
 append_entries: 1
 Finish: 2024-10-18 01:40:37.233850
+------------------------------------------------------
+Started: 2024-10-19 01:38:23.705377
+Existing_entries: 75
+Fetching from https://www.latribune.fr/rss/rubriques/ile-de-france.html
+append_entries: 0
+Finish: 2024-10-19 01:38:24.205687
