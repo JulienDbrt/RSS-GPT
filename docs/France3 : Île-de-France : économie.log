@@ -3225,3 +3225,18 @@ Summarized using GPT-4o-mini
 Append: [Mort d'un cycliste à Paris: l'automobiliste doit être présenté aujourd'hui à un juge d'instruction](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/mort-d-un-cycliste-a-paris-l-automobiliste-doit-etre-presente-aujourd-hui-a-un-juge-d-instruction-3047164.html)
 append_entries: 4
 Finish: 2024-10-19 01:32:05.775861
+------------------------------------------------------
+Started: 2024-10-19 12:42:32.235984
+Existing_entries: 409
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 144
+Summarized using GPT-4o-mini
+Append: [ZAC du Triangle de Gonesse : le maire de Gonesse dépose un recours gracieux contre la suppression](https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-d-oise/zac-du-triangle-de-gonesse-le-maire-de-gonesse-depose-un-recours-gracieux-contre-la-suppression-3047893.html)
+Token length: 151
+Summarized using GPT-4o-mini
+Append: [Périphérique à 50 km/h: la Mairie de Paris dresse un premier bilan](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/peripherique-a-50-km-h-la-mairie-de-paris-dresse-un-premier-bilan-3047815.html)
+Token length: 209
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. "Pas de ça chez nous" : les cafés du nord parisien refusent le pourboire 2.0](https://france3-regions.francetvinfo.fr/paris-ile-de-france/reportage-pas-de-ca-chez-nous-les-cafes-du-nord-parisien-refusent-le-pourboire-2-0-3047053.html)
+append_entries: 3
+Finish: 2024-10-19 12:42:45.226110
