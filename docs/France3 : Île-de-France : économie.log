@@ -3246,3 +3246,15 @@ Existing_entries: 412
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-10-20 01:34:35.584845
+------------------------------------------------------
+Started: 2024-10-20 12:41:10.612539
+Existing_entries: 412
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 230
+Summarized using GPT-4o-mini
+Append: [Les plus beaux parcs pour se balader en famille sur la ligne 15 du bus](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/les-plus-beaux-parcs-pour-se-balader-en-famille-sur-la-ligne-15-du-bus-3046543.html)
+Token length: 252
+Summarized using GPT-4o-mini
+Append: [REPORTAGE. 2 000 fûts toxiques encore sous terre à Sermaise, des associations et des habitants veulent réhabiliter un site pollué.](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/reportage-2-000-futs-toxiques-encore-sous-terre-a-sermaise-des-associations-et-des-habitants-veulent-rehabiliter-un-site-pollue-3046966.html)
+append_entries: 2
+Finish: 2024-10-20 12:41:16.424343

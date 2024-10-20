@@ -3527,3 +3527,9 @@ Summarized using GPT-4o-mini
 Append: [La route du Mont-Dore reste à horaires dans la traversée de Saint-Louis au moins jusqu’au 28 octobre](https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/mont-dore/la-route-du-mont-dore-reste-a-horaires-dans-la-traversee-de-saint-louis-au-moins-jusqu-au-28-octobre-1529971.html)
 append_entries: 1
 Finish: 2024-10-20 01:35:45.412115
+------------------------------------------------------
+Started: 2024-10-20 12:42:53.145971
+Existing_entries: 492
+Fetching from https://la1ere.francetvinfo.fr/economie/transports/rss
+append_entries: 0
+Finish: 2024-10-20 12:42:53.366377

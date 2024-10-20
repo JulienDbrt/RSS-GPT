@@ -3620,3 +3620,15 @@ Summarized using GPT-4o-mini
 Append: [Bientôt la fin de la longue grève chez Boeing ?](https://www.20minutes.fr/actu-generale/economie/4116615-20241019-bientot-fin-longue-greve-chez-boeing)
 append_entries: 1
 Finish: 2024-10-20 01:32:04.510503
+------------------------------------------------------
+Started: 2024-10-20 12:37:33.744422
+Existing_entries: 530
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 68
+Summarized using GPT-4o-mini
+Append: [Taxe foncière : La date limite pour payer en ligne, c’est ce dimanche soir](https://www.20minutes.fr/economie/4116650-20241020-taxe-fonciere-date-limite-payer-ligne-dimanche-soir)
+Token length: 153
+Summarized using GPT-4o-mini
+Append: [Loire-Atlantique : Une laiterie prête à reprendre la collecte d’éleveurs lâchés par Lactalis](https://www.20minutes.fr/societe/4116647-20241020-loire-atlantique-laiterie-prete-reprendre-collecte-eleveurs-laches-lactalis)
+append_entries: 2
+Finish: 2024-10-20 12:37:39.619428

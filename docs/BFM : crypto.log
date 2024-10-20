@@ -3054,3 +3054,9 @@ Summarized using GPT-4o-mini
 Append: [À Paris, la "rue du Bitcoin" ne séduit plus les fans de cryptos](https://www.bfmtv.com/crypto/a-paris-la-rue-du-bitcoin-ne-seduit-plus-les-fans-de-cryptos_AV-202410190304.html)
 append_entries: 1
 Finish: 2024-10-20 01:32:40.420041
+------------------------------------------------------
+Started: 2024-10-20 12:38:32.507732
+Existing_entries: 348
+Fetching from https://www.bfmtv.com/rss/crypto/
+append_entries: 0
+Finish: 2024-10-20 12:38:33.169648

@@ -11327,3 +11327,15 @@ Summarized using GPT-4o-mini
 Append: [À Paris, la "rue du Bitcoin" ne séduit plus les fans de cryptos](https://www.bfmtv.com/crypto/a-paris-la-rue-du-bitcoin-ne-seduit-plus-les-fans-de-cryptos_AV-202410190304.html)
 append_entries: 6
 Finish: 2024-10-20 01:27:26.317097
+------------------------------------------------------
+Started: 2024-10-20 12:34:08.587635
+Existing_entries: 1006
+Fetching from https://emm.newsbrief.eu/rss/rss?language=fr&type=search&mode=advanced&atLeast=bitcoin
+Token length: 70
+Summarized using GPT-4o-mini
+Append: [L’Evangile de Goatse, la trop belle histoire du bot et du milliardaire](https://www.20minutes.fr/high-tech/20-mint/4116611-20241020-evangile-goatse-trop-belle-histoire-bot-libidineux-milliardaire)
+Token length: 108
+Summarized using GPT-4o-mini
+Append: [Bitcoin est bien placé pour clôturer l’année avec de nouveaux sommets : perspectives d’élections américaines](https://www.nouvelles-du-monde.com/bitcoin-est-bien-place-pour-cloturer-lannee-avec-de-nouveaux-sommets-perspectives-delections-americaines/)
+append_entries: 2
+Finish: 2024-10-20 12:34:17.822170

@@ -4,6 +4,50 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Rustubble - De jolis composants pour vos terminaux</title>
+<link>https://korben.info/rustubble-composants-puissants-terminaux.html</link>
+<guid>https://korben.info/rustubble-composants-puissants-terminaux.html</guid>
+<content:encoded><![CDATA[
+<div> TextInput, TextArea, Spinner, Table, ProgressBar
+
+<br><br>Summary: Cette bibliothèque Rust est idéale pour la conception d'applications en ligne de commande, permettant de créer des interfaces conviviales sans austérité. Elle propose une multitude de composants personnalisables. Parmi eux, le **TextInput** offre des champs de texte avancés avec support Unicode et options de personnalisation, tandis que le **TextArea** permet des saisies multi-lignes avec défilement. Le **Spinner** propose des animations de chargement variées, enrichies d'une API pour des créations sur mesure. Pour l'affichage des données, la bibliothèque inclut des **Tableaux** triables et paginés qui rendent la présentation claire et interactive. Les **Barres de progression** apportent une touche esthétique et informative, facilitant le suivi de l'avancement des tâches. Pour ajouter un dynamisme aux applications, des **chronomètres** et des **comptes à rebours** sont disponibles. Enfin, la fonctionnalité **Viewport** assure un défilement fluide des données, tandis que les **Listes** et les **Menus** interactifs garantissent une navigation intuitive et agréable pour l'utilisateur. Cette bibliothèque donc révolutionne la manière de créer des applications terminales attrayantes et fonctionnelles. <div>
+<p><strong><a href="https://github.com/warpy-ai/rustubble">Rustubble</a></strong> est une bibliothèque Rust idéale pour la conception d&rsquo;applications en ligne de commande. Ça permet de créer des applis dans le terminal, sans se taper des interfaces austères et minimalistes.</p>
+<p>Pour cela, cette lib offre une collection de composants ultra-pratiques et personnalisables comme :</p>
+<ul>
+<li><strong>TextInput</strong> : Des champs de texte évolués supportant Unicode, le copier-coller intuitif et une foule d&rsquo;options de personnalisation.</li>
+<li><strong>TextArea</strong> : Des zones de texte multi-lignes avec défilement, parfaites pour les saisies plus longues.</li>
+<li><strong>Spinner</strong> : Des animations de chargement hypnotiques avec de nombreux styles prédéfinis et une API pour créer les vôtres.</li>
+<li><strong>Table</strong> : Des tableaux triables et paginés pour afficher vos données de manière claire et interactive.</li>
+<li><strong>ProgressBar</strong> : Des barres de progression esthétiques et informatives pour suivre l&rsquo;avancement de vos tâches.</li>
+<li><strong>Timer/Stopwatch</strong> : Des chronomètres et compte à rebours pour dynamiser vos applications.</li>
+<li><strong>Viewport</strong> : Une vue sur vos données avec un défilement fluide.</li>
+<li><strong>List/MenuList</strong> : Des listes et menus intéractifs pour une navigation intuitive.</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <img alt="" class=" lazyload" height="295" width="487" />
+  
+
+</p>
+]]></content:encoded>
+<pubDate>Sun, 20 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Sun, 20 Oct 2024 09:00:00 +0200</pubDate>
+</item>
 
 <item>
 <title>CrystalFetch - Créez vos ISO Windows 11 sur Mac en deux clics</title>

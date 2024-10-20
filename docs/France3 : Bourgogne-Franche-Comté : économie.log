@@ -3381,3 +3381,15 @@ Summarized using GPT-4o-mini
 Append: [Une agricultrice attend une subvention européenne de 160 000 euros depuis deux ans : "ma ferme est en péril"](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/une-agricultrice-attend-une-subvention-europeenne-de-160-000-euros-depuis-deux-ans-ma-ferme-est-en-peril-3047968.html)
 append_entries: 1
 Finish: 2024-10-20 01:34:51.405821
+------------------------------------------------------
+Started: 2024-10-20 12:41:40.733733
+Existing_entries: 457
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 315
+Summarized using GPT-4o-mini
+Append: [Arnaquée de plus de 20 000 €, cette mère et ses deux enfants vont passer l'hiver sans chauffage](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/auxerre/arnaquee-de-plus-de-20-000-cette-mere-et-ses-deux-enfants-vont-passer-l-hiver-sans-chauffage-3047521.html)
+Token length: 314
+Summarized using GPT-4o-mini
+Append: ["On veut ramener des familles dans le village" : pour survivre, cette commune propose des terrains à 1€ le m² pour construire sa maison](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/on-veut-ramener-des-familles-dans-le-village-pour-survivre-cette-commune-propose-des-terrains-a-1-le-m-pour-construire-sa-maison-3048037.html)
+append_entries: 2
+Finish: 2024-10-20 12:41:45.783115

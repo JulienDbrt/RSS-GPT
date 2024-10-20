@@ -3778,3 +3778,15 @@ Existing_entries: 590
 Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
 append_entries: 0
 Finish: 2024-10-20 01:34:52.513253
+------------------------------------------------------
+Started: 2024-10-20 12:41:46.942314
+Existing_entries: 590
+Fetching from https://france3-regions.francetvinfo.fr/economie/emploi/rss
+Token length: 248
+Summarized using GPT-4o-mini
+Append: [Ce nouveau café-restaurant emploie des personnes trisomiques et autistes : "c’est génial de travailler avec des gens qui ont envie d’apprendre"](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/ce-nouveau-cafe-restaurant-emploie-des-personnes-trisomiques-et-autistes-c-est-genial-de-travailler-avec-des-gens-qui-ont-envie-d-apprendre-3045322.html)
+Token length: 225
+Summarized using GPT-4o-mini
+Append: [Il sillonne les rues à vélo pour affûter des couteaux : le changement de vie d'un ancien cadre à Bordeaux](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/il-sillonne-les-rues-a-velo-pour-affuter-des-couteaux-le-changement-de-vie-d-un-ancien-cadre-a-bordeaux-3044484.html)
+append_entries: 2
+Finish: 2024-10-20 12:41:54.102317

@@ -2785,3 +2785,9 @@ Summarized using GPT-4o-mini
 Append: [Mobilisation contre la vie chère en Martinique : le RPPRAC annonce la reprise des blocages dès ce lundi](https://la1ere.francetvinfo.fr/martinique/mobilisation-contre-la-vie-chere-en-martinique-le-rpprac-annonce-la-reprise-des-blocages-des-ce-lundi-1529947.html)
 append_entries: 1
 Finish: 2024-10-20 01:35:41.665538
+------------------------------------------------------
+Started: 2024-10-20 12:42:52.434514
+Existing_entries: 245
+Fetching from https://la1ere.francetvinfo.fr/economie/rss?r=martinique
+append_entries: 0
+Finish: 2024-10-20 12:42:52.640428
