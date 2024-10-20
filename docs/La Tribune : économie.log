@@ -8392,3 +8392,18 @@ Summarized using GPT-4o-mini
 Append: [Frais de scolarité : bientôt la fin de la réduction d'impôt ?](https://www.latribune.fr/economie/france/frais-de-scolarite-bientot-la-fin-de-la-reduction-d-impot-1009259.html)
 append_entries: 3
 Finish: 2024-10-19 12:45:50.117561
+------------------------------------------------------
+Started: 2024-10-20 01:36:36.951162
+Existing_entries: 1003
+Fetching from https://www.latribune.fr/rss/rubriques/actualite.html
+Token length: 208
+Summarized using GPT-4o-mini
+Append: [Immigration : le bulldozer Bruno Retailleau](https://www.latribune.fr/economie/politique/immigration-le-bulldozer-bruno-retailleau-1009336.html)
+Token length: 253
+Summarized using GPT-4o-mini
+Append: [Inondations : Antoine Armand presse les assureurs d'indemniser les sinistrés](https://www.latribune.fr/entreprises-finance/banques-finance/assurance/inondations-antoine-armand-presse-les-assureurs-d-indemniser-les-sinistres-1009328.html)
+Token length: 238
+Summarized using GPT-4o-mini
+Append: [En commission, les députés rejettent la version remaniée du projet de loi de finances](https://www.latribune.fr/economie/france/le-projet-de-budget-meconnaissable-apres-son-passage-en-commission-1009295.html)
+append_entries: 3
+Finish: 2024-10-20 01:36:43.713941

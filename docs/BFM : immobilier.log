@@ -3310,3 +3310,9 @@ Summarized using GPT-4o-mini
 Append: [Pourquoi le nombre de ventes aux enchères immobilières augmente à Paris](https://www.bfmtv.com/immobilier/achat-vente/pourquoi-le-nombre-de-ventes-aux-encheres-immobilieres-augmente-a-paris_AN-202410190265.html)
 append_entries: 1
 Finish: 2024-10-19 12:40:09.459409
+------------------------------------------------------
+Started: 2024-10-20 01:32:57.792645
+Existing_entries: 448
+Fetching from https://www.bfmtv.com/rss/immobilier/
+append_entries: 0
+Finish: 2024-10-20 01:32:57.867878

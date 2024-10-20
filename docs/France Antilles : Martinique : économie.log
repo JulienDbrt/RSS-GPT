@@ -4266,3 +4266,21 @@ Summarized using GPT-4o-mini
 Append: [Cuba toujours face à une panne géante d'électricité](https://www.martinique.franceantilles.fr/actualite/economie/cuba-entierement-privee-delectricite-10-millions-dhabitants-dans-le-noir-1008140.php)
 append_entries: 1
 Finish: 2024-10-19 12:41:05.399345
+------------------------------------------------------
+Started: 2024-10-20 01:33:42.964463
+Existing_entries: 770
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 139
+Summarized using GPT-4o-mini
+Append: [Un budget réécrit puis rejeté en commission, prélude à un débat acharné à l'Assemblée](https://www.martinique.franceantilles.fr/actualite/politique/un-budget-reecrit-en-commission-prelude-a-un-debat-acharne-a-lassemblee-1008161.php)
+Token length: 0
+Summarized using GPT-4o-mini
+Append: [Vie chère : la CTM espère un premier comité de suivi dès la semaine prochaine](https://www.martinique.franceantilles.fr/actualite/politique/vie-chere-la-ctm-espere-un-premier-comite-de-suivi-des-la-semaine-prochaine-1008197.php)
+Token length: 66
+Summarized using GPT-4o-mini
+Append: ["Ca aurait pu être moi": les cyclistes réclament des mesures de sécurité contre la "violence motorisée"](https://www.martinique.franceantilles.fr/actualite/economie/ca-aurait-pu-etre-moi-les-cyclistes-reclament-des-mesures-de-securite-contre-la-violence-motorisee-1008194.php)
+Token length: 184
+Summarized using GPT-4o-mini
+Append: [Sécurité à vélo: des centaines de personnes rassemblées à Paris contre la "violence motorisée"](https://www.martinique.franceantilles.fr/actualite/economie/securite-a-velo-des-centaines-de-personnes-rassemblees-a-paris-contre-la-violence-motorisee-1008190.php)
+append_entries: 4
+Finish: 2024-10-20 01:33:52.476872

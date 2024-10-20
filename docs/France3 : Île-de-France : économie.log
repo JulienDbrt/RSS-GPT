@@ -3240,3 +3240,9 @@ Summarized using GPT-4o-mini
 Append: [REPORTAGE. "Pas de ça chez nous" : les cafés du nord parisien refusent le pourboire 2.0](https://france3-regions.francetvinfo.fr/paris-ile-de-france/reportage-pas-de-ca-chez-nous-les-cafes-du-nord-parisien-refusent-le-pourboire-2-0-3047053.html)
 append_entries: 3
 Finish: 2024-10-19 12:42:45.226110
+------------------------------------------------------
+Started: 2024-10-20 01:34:35.260675
+Existing_entries: 412
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+append_entries: 0
+Finish: 2024-10-20 01:34:35.584845
