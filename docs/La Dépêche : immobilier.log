@@ -2749,3 +2749,12 @@ Existing_entries: 239
 Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
 append_entries: 0
 Finish: 2024-10-21 01:28:48.289480
+------------------------------------------------------
+Started: 2024-10-21 12:51:13.151325
+Existing_entries: 239
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 118
+Summarized using GPT-4o-mini
+Append: ["On retrouve une activité qui est à peu près la même qu’en 2023"… le marché immobilier stabilisé à des niveaux bas en Aveyron](https://www.ladepeche.fr/2024/10/21/des-transactions-en-baisse-le-marche-stabilise-a-des-niveaux-bas-12274770.php)
+append_entries: 1
+Finish: 2024-10-21 12:51:17.201254

@@ -2751,3 +2751,15 @@ Existing_entries: 243
 Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
 append_entries: 0
 Finish: 2024-10-21 01:27:40.043878
+------------------------------------------------------
+Started: 2024-10-21 12:47:56.146240
+Existing_entries: 243
+Fetching from https://france3-regions.francetvinfo.fr/environnement/energie/rss
+Token length: 390
+Summarized using GPT-4o-mini
+Append: ["C'est une autodestruction de notre territoire", après une manifestation anti-éoliennes en Haute-Saône, comment faire accepter les projets éoliens aux riverains ?](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/c-est-une-autodestruction-de-notre-territoire-apres-une-manifestation-anti-eoliennes-en-haute-saone-comment-faire-accepter-les-projets-eoliens-aux-riverains-3048049.html)
+Token length: 316
+Summarized using GPT-4o-mini
+Append: ["Des risques encourus hors des limites du site" : malgré un avis défavorable, la région maintient son projet de centre d'essai sur l'hydrogène](https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/des-risques-encourus-hors-des-limites-du-site-malgre-un-avis-defavorable-la-region-maintient-son-projet-de-centre-d-essai-sur-l-hydrogene-3045104.html)
+append_entries: 2
+Finish: 2024-10-21 12:48:04.103254

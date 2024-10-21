@@ -4,6 +4,38 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+<item>
+<title>Ce que les gens peuvent faire avec votre adresse IP et comment Surfshark VPN peut vous protéger</title>
+<link>https://korben.info/que-faire-avec-votre-adresse-ip.html</link>
+<guid>https://korben.info/que-faire-avec-votre-adresse-ip.html</guid>
+<content:encoded><![CDATA[
+<div> Keywords: VPN, adresse IP, sécurité, Surfshark, protection
+
+<br><br>Summary: Les VPN, comme Surfshark, sont souvent loués pour leur capacité à masquer l'adresse IP des utilisateurs lorsqu'ils naviguent sur Internet. Cela joue un rôle crucial dans la protection de la vie privée en ligne. La récupération de votre adresse IP par des tiers peut exposer des informations personnelles, allant des habitudes de navigations à la localisation géographique, ce qui représente un vrai risque pour votre sécurité. Un tiers pourrait ainsi suivre vos activités et potentiellement utiliser ces données à des fins malveillantes. En utilisant un VPN, votre adresse IP réelle est remplacée par celle du serveur VPN, rendant vos activités en ligne quasi invisibles. Cela permet non seulement de naviguer anonymement, mais aussi de contourner des restrictions géographiques et d'accéder à un contenu mondial. En résumé, un VPN comme Surfshark constitue un outil fondamental pour renforcer votre sécurité en ligne et préserver votre vie privée, tout en vous offrant plus de liberté sur le web. Il est donc recommandé d'envisager l'utilisation d'un VPN pour éviter les risques associés à la divulgation de votre adresse IP. <div>
+<p><div style="text-align: center;">&ndash; Article en partenariat avec Surfshark &ndash;</div></p>
+<p>Lorsqu&rsquo;on parle VPN, on met régulièrement en avant l&rsquo;un de leurs points forts qui est de cacher votre adresse IP lorsque vous surfez sur le web. On ne pense pas toujours à expliquer pourquoi la récupération de votre IP par des tiers peut être un risque pour votre sécurité. Mais ne vous inquiétez pas, nous allons explorer ensemble comment <a href="https://get.surfshark.net/aff_c?offer_id=1372&amp;aff_id=13768">Surfshark VPN</a> peut vous venir en aide.</p>
+]]></content:encoded>
+<pubDate>Mon, 21 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Mon, 21 Oct 2024 09:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Comment installer Linux depuis l'installeur de Windows ?</title>
+<link>https://korben.info/astuce-installer-linux-depuis-windows.html</link>
+<guid>https://korben.info/astuce-installer-linux-depuis-windows.html</guid>
+<content:encoded><![CDATA[
+<div> Mots-clés : Linux, Windows, partition NTFS, fichier WIM, ISO
+
+<br><br>Résumé : Vous souhaitez installer Linux sans perdre votre installation Windows ? C'est possible grâce à une méthode audacieuse, mais ce n'est pas pour les novices. L'approche consiste à préparer une installation de Linux sur une partition NTFS. Ensuite, cette installation est compressée dans un format de fichier WIM. Cela permet d'intégrer le fichier WIM à l'image ISO de Windows. 
+
+Lors de l'installation de Windows, une option s'affichera pour choisir l'image Linux préparée. Cela permet d'installer Linux pendant le processus d'installation de Windows. 
+
+Il est important de noter que cette technique nécessite une bonne expérience en bidouillage et en manipulation des systèmes d'exploitation, car elle implique des étapes techniques précises. De plus, il est conseillé de sauvegarder toutes vos données avant de procéder, car toute manipulation sur les partitions comporte un risque de perte de données. Si vous êtes prêt à relever le défi, cette méthode peut vous offrir la possibilité de profiter à la fois de Windows et de Linux sur le même ordinateur, créant ainsi un dual boot intéressant. <div>
+<p>Vous rêvez d&rsquo;installer Linux, mais vous avez peur de perdre Windows ? Et bien grâce à cette astuce un peu folle, vous allez pouvoir <strong>installer Linux directement depuis l&rsquo;installateur Windows</strong>. Si si, c&rsquo;est possible. Bon, je vous préviens, ce n&rsquo;est clairement pas pour les débutants. Mais si vous aimez les défis techniques et que vous n&rsquo;avez pas peur de bidouiller, vous allez kiffer !</p>
+<p>L&rsquo;idée de base est simple (ou presque) : Il s&rsquo;agit de préparer une installation de Linux sur une <strong>partition NTFS</strong>, puis de la compresser dans un fichier <strong>WIM</strong> qu&rsquo;on intègre ensuite à l&rsquo;<strong>ISO de Windows</strong>. Puis, lors de l&rsquo;installation de Windows, on choisira l&rsquo;image Linux et hop, le tour est joué ! Enfin, pas tout à fait&hellip;</p>
+]]></content:encoded>
+<pubDate>Mon, 21 Oct 2024 09:00:00 +0200</pubDate>
+<pubDate>Mon, 21 Oct 2024 09:00:00 +0200</pubDate>
+</item>
 
 <item>
 <title>Rustubble - De jolis composants pour vos terminaux</title>

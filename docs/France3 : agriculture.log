@@ -6033,3 +6033,21 @@ Summarized using GPT-4o-mini
 Append: [L'éternel succès de la foire de Poussay : plus de 100 000 visiteurs, "on y trouve de tout, c’est le commerce local"](https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/l-eternel-succes-de-la-foire-de-poussay-plus-de-100-000-visiteurs-on-y-trouve-de-tout-c-est-le-commerce-local-3048181.html)
 append_entries: 3
 Finish: 2024-10-21 01:27:52.423548
+------------------------------------------------------
+Started: 2024-10-21 12:48:05.263346
+Existing_entries: 1003
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 284
+Summarized using GPT-4o-mini
+Append: [Réchauffement climatique : le nord de la France, nouvelle terre d'accueil des plantes méditerranéennes ?](https://france3-regions.francetvinfo.fr/hauts-de-france/somme/rechauffement-climatique-le-nord-de-la-france-nouvelle-terre-d-accueil-des-plantes-mediterraneennes-3048460.html)
+Token length: 303
+Summarized using GPT-4o-mini
+Append: ["Tic, tac, respectez vos engagements", nouvelles actions des agriculteurs pour maintenir la pression sur l'État](https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/tic-tac-respectez-vos-engagements-nouvelles-actions-des-agriculteurs-pour-maintenir-la-pression-sur-l-etat-3048379.html)
+Token length: 292
+Summarized using GPT-4o-mini
+Append: [Enfariné et visé par des jets de légumes, le député dépose plainte : "j'ai été menacé verbalement et physiquement"](https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/enfarine-et-vise-par-des-jets-de-legumes-le-depute-depose-plainte-j-ai-ete-menace-verbalement-et-physiquement-3048385.html)
+Token length: 205
+Summarized using GPT-4o-mini
+Append: [La suppression "d'un trait de plume" de 54 emplois provoque la colère des salariés d'un semencier touchés par un plan social](https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/la-suppression-d-un-trait-de-plume-de-54-emplois-provoque-la-colere-des-salaries-d-un-semencier-touches-par-un-plan-social-3047509.html)
+append_entries: 4
+Finish: 2024-10-21 12:48:22.147390

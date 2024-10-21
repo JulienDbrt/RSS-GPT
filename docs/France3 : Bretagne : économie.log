@@ -2857,3 +2857,15 @@ Existing_entries: 278
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
 append_entries: 0
 Finish: 2024-10-21 01:27:53.498792
+------------------------------------------------------
+Started: 2024-10-21 12:48:42.095021
+Existing_entries: 278
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bretagne
+Token length: 246
+Summarized using GPT-4o-mini
+Append: [Cyberattaque : après les attaques sur des hôpitaux et cliniques, un grossiste en pharmacie victime de pirates informatiques](https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/cyberattaque-un-grossiste-en-pharmacie-victime-de-pirates-informatiques-apres-les-attaques-sur-des-hopitaux-et-cliniques-3048394.html)
+Token length: 266
+Summarized using GPT-4o-mini
+Append: [Vieille de 160 ans, cette gare bretonne n'est plus vraiment étanche. La "Mission Stéphane Bern" va participer à sa restauration](https://france3-regions.francetvinfo.fr/bretagne/morbihan/vieille-de-160-ans-cette-gare-bretonne-n-est-plus-vraiment-etanche-la-mission-stephane-bern-va-participer-a-sa-restauration-3048286.html)
+append_entries: 2
+Finish: 2024-10-21 12:48:49.392227

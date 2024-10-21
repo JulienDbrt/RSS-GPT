@@ -2125,3 +2125,10 @@ Existing_entries: 35
 Fetching from https://fr.euronews.com/rss?level=tag&name=cryptomonnaie
 append_entries: 0
 Finish: 2024-10-21 01:27:07.401967
+------------------------------------------------------
+Started: 2024-10-21 12:45:34.042108
+Existing_entries: 35
+Fetching from https://fr.euronews.com/rss?level=tag&name=cryptomonnaie
+Feed error: <unknown>:2:0: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/Euronews FR : cryptomonnaie
