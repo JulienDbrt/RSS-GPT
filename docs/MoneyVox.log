@@ -9711,3 +9711,18 @@ Summarized using GPT-4o-mini
 Append: [Assurance vie : plus d'une année de rendement envolée à cause des frais d'entrée !](https://www.moneyvox.fr/assurance-vie/actualites/100027/plus-une-annee-de-rendement-envolee-a-cause-des-frais-entree)
 append_entries: 4
 Finish: 2024-10-20 12:41:06.521965
+------------------------------------------------------
+Started: 2024-10-21 01:27:29.573417
+Existing_entries: 1004
+Fetching from https://www.moneyvox.fr/actu/rss.php
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Impôts sur l'épargne, assurance vie et succession... Les 5 nouvelles mesures chocs du budget 2025](https://www.moneyvox.fr/impot/actualites/100161/impots-sur-epargne-assurance-vie-et-succession-les-5-nouvelles-mesures-chocs-du-budget-2025)
+Token length: 152
+Summarized using GPT-4o-mini
+Append: [Assurance chômage : début mardi d'une négociation « flash »](https://www.moneyvox.fr/actu/100175/assurance-chomage-debut-mardi-une-negociation-flash)
+Token length: 148
+Summarized using GPT-4o-mini
+Append: [Le projet de budget 2025 réécrit puis rejeté en commission](https://www.moneyvox.fr/actu/100174/le-projet-de-budget-2025-reecrit-puis-rejete-en-commission)
+append_entries: 3
+Finish: 2024-10-21 01:27:38.673976

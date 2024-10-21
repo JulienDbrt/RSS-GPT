@@ -2577,3 +2577,9 @@ Summarized using GPT-4o-mini
 Append: ["On veut ramener des familles dans le village" : pour survivre, cette commune propose des terrains à 1€ le m² pour construire sa maison](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/on-veut-ramener-des-familles-dans-le-village-pour-survivre-cette-commune-propose-des-terrains-a-1-le-m-pour-construire-sa-maison-3048037.html)
 append_entries: 1
 Finish: 2024-10-20 12:41:57.190295
+------------------------------------------------------
+Started: 2024-10-21 01:27:56.899219
+Existing_entries: 187
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+append_entries: 0
+Finish: 2024-10-21 01:27:57.141406

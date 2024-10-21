@@ -2381,3 +2381,9 @@ Summarized using GPT-4o-mini
 Append: [En Allemagne, les compagnies aériennes low cost en guerre contre l'augmentation des taxes d'aéroport](https://www.francetvinfo.fr/replay-radio/d-un-monde-a-l-autre/en-allemagne-les-compagnies-aeriennes-low-cost-en-guerre-contre-l-augmentation-des-taxes-d-aeroport_6820682.html)
 append_entries: 1
 Finish: 2024-10-20 12:40:46.688239
+------------------------------------------------------
+Started: 2024-10-21 01:27:26.045170
+Existing_entries: 115
+Fetching from https://www.francetvinfo.fr/economie/aeronautique.rss
+append_entries: 0
+Finish: 2024-10-21 01:27:26.180918

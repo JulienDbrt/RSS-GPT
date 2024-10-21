@@ -6018,3 +6018,18 @@ Summarized using GPT-4o-mini
 Append: [Loups : après la dernière attaque en pays d'Arles, peut-on affirmer que le loup est bien dans nos plaines ?](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/loups-apres-la-derniere-attaque-en-pays-d-arles-peut-on-affirmer-que-le-loup-est-bien-dans-nos-plaines-3045062.html)
 append_entries: 4
 Finish: 2024-10-20 12:41:40.480809
+------------------------------------------------------
+Started: 2024-10-21 01:27:43.268370
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 359
+Summarized using GPT-4o-mini
+Append: [Des vignes de Montmartre aux Côtes-du-Rhône : une vendange festive entre Paris et Avignon](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/vaucluse/avignon/des-vignes-de-montmartre-aux-cotes-du-rhone-une-vendange-festive-entre-paris-et-avignon-3048295.html)
+Token length: 345
+Summarized using GPT-4o-mini
+Append: [Manifestation des agriculteurs à Strasbourg le 21 octobre : "trop de normes, pas assez de soutien" face aux retards des aides de la PAC](https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/manifestation-des-agriculteurs-a-strasbourg-le-21-octobre-trop-de-normes-pas-assez-de-soutien-face-aux-retards-des-aides-de-la-pac-3048010.html)
+Token length: 242
+Summarized using GPT-4o-mini
+Append: [L'éternel succès de la foire de Poussay : plus de 100 000 visiteurs, "on y trouve de tout, c’est le commerce local"](https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/l-eternel-succes-de-la-foire-de-poussay-plus-de-100-000-visiteurs-on-y-trouve-de-tout-c-est-le-commerce-local-3048181.html)
+append_entries: 3
+Finish: 2024-10-21 01:27:52.423548

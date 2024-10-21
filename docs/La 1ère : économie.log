@@ -7819,3 +7819,12 @@ Summarized using GPT-4o-mini
 Append: [INTERVIEW. "Nous sommes inquiets et on n’a pas été rassurés", résume Stéphane Yoteau, vice-président de la CCI, après la visite ministérielle de François-Noël Buffet](https://la1ere.francetvinfo.fr/nouvellecaledonie/interview-nous-sommes-inquiets-et-on-n-a-pas-ete-rassures-resume-stephane-yoteau-vice-president-de-la-cci-apres-la-visite-ministerielle-de-francois-noel-buffet-1530013.html)
 append_entries: 1
 Finish: 2024-10-20 12:42:52.299656
+------------------------------------------------------
+Started: 2024-10-21 01:28:22.444492
+Existing_entries: 1001
+Fetching from https://la1ere.francetvinfo.fr/economie/rss
+Token length: 97
+Summarized using GPT-4o-mini
+Append: ["Le chômage partiel va être prolongé jusqu’en décembre", confirme Louis Mapou, président du gouvernement calédonien](https://la1ere.francetvinfo.fr/nouvellecaledonie/le-chomage-partiel-va-etre-prolonge-jusqu-en-decembre-confirme-louis-mapou-president-du-gouvernement-caledonien-1530157.html)
+append_entries: 1
+Finish: 2024-10-21 01:28:25.512249
