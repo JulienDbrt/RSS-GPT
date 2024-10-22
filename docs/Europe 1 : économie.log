@@ -3682,3 +3682,21 @@ Summarized using GPT-4o-mini
 Append: [L'Alsace donne le feu vert à une taxe pour les poids lourds, les agriculteurs en colère](https://www.europe1.fr/economie/lalsace-donne-le-feu-vert-a-une-taxe-pour-les-poids-lourds-les-agriculteurs-en-colere-4274178)
 append_entries: 2
 Finish: 2024-10-22 01:30:44.292065
+------------------------------------------------------
+Started: 2024-10-22 12:48:39.271241
+Existing_entries: 544
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 278
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : un système à deux vitesses envisagé pour protéger les petites retraites](https://www.europe1.fr/economie/budget-et-indexation-retraite-un-systeme-a-deux-vitesses-pour-laurent-saint-martin-favorable-a-une-ouverture-sur-les-petites-retraites-4274374)
+Token length: 301
+Summarized using GPT-4o-mini
+Append: [Budget 2025 : pour réduire le déficit, l'État va-t-il devoir céder ses participations dans certaines entreprises ?](https://www.europe1.fr/economie/budget-2025-pour-reduire-le-deficit-letat-va-t-il-devoir-ceder-ses-participations-dans-certaines-entreprises-4274326)
+Token length: 362
+Summarized using GPT-4o-mini
+Append: [Taxe d'habitation : vers un retour d'un impôt local ?](https://www.europe1.fr/economie/taxe-dhabitation-vers-un-retour-dun-impot-local-4274256)
+Token length: 322
+Summarized using GPT-4o-mini
+Append: [«C'est le consommateur final qui paiera» : en Alsace, la taxe pour les poids lourds inquiète les entreprises](https://www.europe1.fr/economie/cest-le-consommateur-final-qui-paiera-en-alsace-la-taxe-pour-les-poids-lourds-inquiete-les-entreprises-4274250)
+append_entries: 4
+Finish: 2024-10-22 12:48:57.459973

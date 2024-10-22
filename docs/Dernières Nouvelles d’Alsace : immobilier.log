@@ -2717,3 +2717,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier. Zone tendue, zonage A, B, C... Nos conseils pour vous y retrouver !](https://www.dna.fr/magazine-immobilier/2024/10/21/zone-tendue-zonage-a-b-c-nos-conseils-pour-vous-y-retrouver)
 append_entries: 1
 Finish: 2024-10-22 01:29:28.602292
+------------------------------------------------------
+Started: 2024-10-22 12:47:25.458479
+Existing_entries: 221
+Fetching from https://www.dna.fr/magazine-immobilier/rss
+append_entries: 0
+Finish: 2024-10-22 12:47:26.885494

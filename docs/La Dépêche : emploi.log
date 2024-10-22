@@ -3952,3 +3952,15 @@ Summarized using GPT-4o-mini
 Append: ["Il n’y a rien de plus beau que de vouloir servir votre pays": 16 adolescents profitent de leurs vacances pour effectuer un stage en gendarmerie](https://www.ladepeche.fr/2024/10/21/il-ny-a-rien-de-plus-beau-que-de-vouloir-servir-votre-pays-16-adolescents-profitent-de-leurs-vacances-pour-effectuer-un-stage-en-gendarmerie-12275174.php)
 append_entries: 1
 Finish: 2024-10-22 01:35:47.957984
+------------------------------------------------------
+Started: 2024-10-22 12:55:30.283625
+Existing_entries: 636
+Fetching from https://www.ladepeche.fr/economie/emploi/rss.xml
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [La nouvelle agence France Travail inaugurée à Figeac : "un site stratégique" avec un taux de chômage au plus bas](https://www.ladepeche.fr/2024/10/22/la-nouvelle-agence-france-travail-inauguree-a-figeac-un-site-strategique-avec-un-taux-de-chomage-au-plus-bas-12275464.php)
+Token length: 219
+Summarized using GPT-4o-mini
+Append: [Montaigut-sur-Save. La Base de loisirs de Bouconne recrute](https://www.ladepeche.fr/2024/10/22/la-base-de-loisirs-de-bouconne-recrute-12276491.php)
+append_entries: 2
+Finish: 2024-10-22 12:55:41.529139

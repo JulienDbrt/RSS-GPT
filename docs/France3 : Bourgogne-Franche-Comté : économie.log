@@ -3426,3 +3426,12 @@ Existing_entries: 464
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
 append_entries: 0
 Finish: 2024-10-22 01:33:01.287708
+------------------------------------------------------
+Started: 2024-10-22 12:51:47.239652
+Existing_entries: 464
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 160
+Summarized using GPT-4o-mini
+Append: ["Notre sécurité n'est plus assurée" : la rédaction de Radio Bip à Besançon victime d’une nouvelle intrusion](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/notre-securite-n-est-plus-assuree-la-redaction-de-radio-bip-a-besancon-victime-d-une-nouvelle-intrusion-3049051.html)
+append_entries: 1
+Finish: 2024-10-22 12:51:51.973959

@@ -3086,3 +3086,12 @@ Summarized using GPT-4o-mini
 Append: [Des trains à l'arrêt à la Gare centrale à Bruxelles: des perturbations sur le réseau](https://www.lalibre.be/belgique/mobilite/2024/10/21/des-trains-a-larret-a-la-gare-centrale-a-bruxelles-des-perturbations-sur-le-reseau-TG22ELISYBF7FO57VPB3XCJBGE/)
 append_entries: 1
 Finish: 2024-10-22 01:36:12.457094
+------------------------------------------------------
+Started: 2024-10-22 12:56:34.234659
+Existing_entries: 370
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 130
+Summarized using GPT-4o-mini
+Append: [Grève à l'aéroport de Charleroi : voici quelles perturbations sont attendues ce mardi](https://www.lalibre.be/economie/entreprises-startup/2024/10/22/aucun-vol-au-depart-de-laeroport-de-charleroi-mardi-en-raison-dune-greve-ZSYI63CHZNG2RKKX24IWTFTKZE/)
+append_entries: 1
+Finish: 2024-10-22 12:56:39.676124

@@ -3285,3 +3285,18 @@ Summarized using GPT-4o-mini
 Append: [RER D : un train heurte un engin de chantier, 3 personnes légèrement blessés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/rer-d-un-train-heurte-un-engin-de-chantier-3-personnes-legerement-blessees-3048637.html)
 append_entries: 2
 Finish: 2024-10-22 01:32:41.620760
+------------------------------------------------------
+Started: 2024-10-22 12:51:15.665909
+Existing_entries: 417
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 277
+Summarized using GPT-4o-mini
+Append: [Cycliste tué à Paris : une mission pour arrêter les "violences motorisées"](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/cycliste-tue-a-paris-une-mission-pour-arreter-les-violences-motorisees-3049093.html)
+Token length: 321
+Summarized using GPT-4o-mini
+Append: [Le Louvre et deux autres grands musées parisiens accusés de travail illégal](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/le-louvre-et-deux-autres-grands-musees-parisiens-accuses-de-travail-illegal-3049030.html)
+Token length: 226
+Summarized using GPT-4o-mini
+Append: ["Oh je sens qu'on va se régaler" : quand le streamer Amine s'empare des Héros du gazon](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/oh-je-sens-qu-on-va-se-regaler-quand-le-streamer-amine-s-empare-des-heros-du-gazon-3045196.html)
+append_entries: 3
+Finish: 2024-10-22 12:51:28.149908

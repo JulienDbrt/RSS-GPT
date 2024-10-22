@@ -2595,3 +2595,12 @@ Existing_entries: 187
 Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
 append_entries: 0
 Finish: 2024-10-22 01:33:08.096705
+------------------------------------------------------
+Started: 2024-10-22 12:52:08.245992
+Existing_entries: 187
+Fetching from https://france3-regions.francetvinfo.fr/economie/immobilier/rss
+Token length: 318
+Summarized using GPT-4o-mini
+Append: ["Nous sommes les dindons de la farce" : un mauvais RIB envoyé par le constructeur de leur maison laisse ce couple très endetté](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/nous-sommes-les-dindons-de-la-farce-un-mauvais-rib-envoye-par-le-constructeur-de-leur-maison-laisse-ce-couple-tres-endette-3049042.html)
+append_entries: 1
+Finish: 2024-10-22 12:52:11.949215
