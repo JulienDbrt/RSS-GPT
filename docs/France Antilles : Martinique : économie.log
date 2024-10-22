@@ -4320,3 +4320,12 @@ Summarized using GPT-4o-mini
 Append: [L'hôtel la Batelière cédé au groupe Karukéra, 55 salariés sans emploi](https://www.martinique.franceantilles.fr/actualite/economie/lhotel-la-bateliere-cede-au-groupe-karukera-55-salaries-sans-emploi-1008267.php)
 append_entries: 4
 Finish: 2024-10-21 12:46:09.554937
+------------------------------------------------------
+Started: 2024-10-22 01:30:44.687143
+Existing_entries: 780
+Fetching from https://www.martinique.franceantilles.fr/actualite/economie/rss.xml
+Token length: 169
+Summarized using GPT-4o-mini
+Append: [Après les incendies,  reprendre au plus vite une activité](https://www.martinique.franceantilles.fr/actualite/vielocale/apres-les-incendies-reprendre-au-plus-vite-une-activite-1008288.php)
+append_entries: 1
+Finish: 2024-10-22 01:30:49.097474

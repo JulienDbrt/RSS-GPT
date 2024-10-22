@@ -2757,3 +2757,10 @@ Fetching from https://www.euractiv.fr/sections/economie/feed/
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/Euractiv : économie
+------------------------------------------------------
+Started: 2024-10-22 01:29:29.578248
+Existing_entries: 248
+Fetching from https://www.euractiv.fr/sections/economie/feed/
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/Euractiv : économie

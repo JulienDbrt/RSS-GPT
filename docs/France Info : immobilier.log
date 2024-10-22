@@ -2537,3 +2537,9 @@ Summarized using GPT-4o-mini
 Append: [Immobilier : la forte augmentation des demandes de location de meublés illustre les tensions du marché](https://www.francetvinfo.fr/replay-radio/le-brief-eco/immobilier-la-forte-augementation-des-demandes-de-location-de-meubles-illustre-les-tensions-du-marche_6822281.html)
 append_entries: 1
 Finish: 2024-10-21 12:46:54.640686
+------------------------------------------------------
+Started: 2024-10-22 01:31:39.177413
+Existing_entries: 163
+Fetching from https://www.francetvinfo.fr/economie/immobilier.rss
+append_entries: 0
+Finish: 2024-10-22 01:31:39.358461

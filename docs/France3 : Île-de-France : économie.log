@@ -3273,3 +3273,15 @@ Existing_entries: 415
 Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
 append_entries: 0
 Finish: 2024-10-21 12:48:04.688013
+------------------------------------------------------
+Started: 2024-10-22 01:32:32.495141
+Existing_entries: 415
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=paris-ile-de-france
+Token length: 235
+Summarized using GPT-4o-mini
+Append: [TÉMOIGNAGES. Périphérique à 50 km/h : une semaine après, qu'en pensent les voisins du périph](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/temoignages-peripherique-a-50-km-h-une-semaine-apres-qu-en-pensent-les-voisins-du-periph-3048652.html)
+Token length: 213
+Summarized using GPT-4o-mini
+Append: [RER D : un train heurte un engin de chantier, 3 personnes légèrement blessés](https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/rer-d-un-train-heurte-un-engin-de-chantier-3-personnes-legerement-blessees-3048637.html)
+append_entries: 2
+Finish: 2024-10-22 01:32:41.620760
