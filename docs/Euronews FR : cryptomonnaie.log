@@ -2147,3 +2147,9 @@ Summarized using GPT-4o-mini
 Append: [Le bitcoin s'approche de son plus haut niveau depuis trois mois à l'approche des élections américaines](https://fr.euronews.com/business/2024/10/22/le-bitcoin-sapproche-de-son-plus-haut-niveau-depuis-trois-mois-a-lapproche-des-elections-a)
 append_entries: 1
 Finish: 2024-10-22 12:48:38.955031
+------------------------------------------------------
+Started: 2024-10-23 01:30:34.853283
+Existing_entries: 36
+Fetching from https://fr.euronews.com/rss?level=tag&name=cryptomonnaie
+append_entries: 0
+Finish: 2024-10-23 01:30:35.356183

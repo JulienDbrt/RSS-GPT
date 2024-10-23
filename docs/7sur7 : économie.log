@@ -3930,3 +3930,18 @@ Summarized using GPT-4o-mini
 Append: [Des dizaines de milliers de Belges ont déjà changé de compte d'épargne: pourquoi (n’)est-ce (pas) une bonne idée?](https://www.7sur7.be/economie/des-dizaines-de-milliers-de-belges-ont-deja-change-de-compte-d-epargne-pourquoi-n-est-ce-pas-une-bonne-idee~a029e52a/)
 append_entries: 3
 Finish: 2024-10-22 12:43:00.890348
+------------------------------------------------------
+Started: 2024-10-23 01:26:37.933139
+Existing_entries: 630
+Fetching from https://www.7sur7.be/economie/rss.xml
+Token length: 178
+Summarized using GPT-4o-mini
+Append: [“21News”, nouveau site d’information en Belgique francophone: “On ne sera pas un média de type France Inter”](https://www.7sur7.be/belgique/21news-nouveau-site-dinformation-en-belgique-francophone-on-ne-sera-pas-un-media-de-type-france-inter~a6bd2fb6/)
+Token length: 317
+Summarized using GPT-4o-mini
+Append: [TUI recherche plus de 300 nouveaux collaborateurs, dont des hôtesses de l’air et des stewards](https://www.7sur7.be/economie/tui-recherche-plus-de-300-nouveaux-collaborateurs-dont-des-hotesses-de-lair-et-des-stewards~a2631ead/)
+Token length: 412
+Summarized using GPT-4o-mini
+Append: [Voici la première publicité tournée dans l’espace, et elle est signée Doritos](https://www.7sur7.be/economie/voici-la-premiere-publicite-tournee-dans-lespace-et-elle-est-signee-doritos~a15f9f947/)
+append_entries: 3
+Finish: 2024-10-23 01:26:49.004999

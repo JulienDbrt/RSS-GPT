@@ -3095,3 +3095,12 @@ Summarized using GPT-4o-mini
 Append: [Grève à l'aéroport de Charleroi : voici quelles perturbations sont attendues ce mardi](https://www.lalibre.be/economie/entreprises-startup/2024/10/22/aucun-vol-au-depart-de-laeroport-de-charleroi-mardi-en-raison-dune-greve-ZSYI63CHZNG2RKKX24IWTFTKZE/)
 append_entries: 1
 Finish: 2024-10-22 12:56:39.676124
+------------------------------------------------------
+Started: 2024-10-23 01:36:09.746422
+Existing_entries: 371
+Fetching from https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/mobilite/?outputType=xml
+Token length: 69
+Summarized using GPT-4o-mini
+Append: [Voici les rapports qui ont enterré les extensions du tram à Liège](https://www.lalibre.be/belgique/mobilite/2024/10/22/149-millions-deuros-ont-ete-engages-voici-les-rapports-qui-ont-enterre-les-extensions-du-tram-a-liege-EHCKK7J27BAX3KJYL35B25DSCM/)
+append_entries: 1
+Finish: 2024-10-23 01:36:12.649695

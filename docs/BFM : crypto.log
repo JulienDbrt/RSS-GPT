@@ -3093,3 +3093,18 @@ Summarized using GPT-4o-mini
 Append: [Une trentaine de nouveaux sites liés aux cryptomonnaies placés sur la liste noire des autorités](https://www.bfmtv.com/crypto/l-amf-et-l-acpr-ajoutent-de-nouveaux-sites-lies-aux-cryptomonnaies-sur-leur-liste-noire_AD-202410220464.html)
 append_entries: 1
 Finish: 2024-10-22 12:44:40.388731
+------------------------------------------------------
+Started: 2024-10-23 01:27:54.206842
+Existing_entries: 351
+Fetching from https://www.bfmtv.com/rss/crypto/
+Token length: 118
+Summarized using GPT-4o-mini
+Append: [Stripe rachète Bridge, une startup spécialisée dans les stablecoins, pour 1,1 milliard de dollars](https://www.bfmtv.com/crypto/stripe-rachete-bridge-une-startup-specialisee-dans-les-stablecoins-pour-1-1-milliard-de-dollars_AV-202410220733.html)
+Token length: 270
+Summarized using GPT-4o-mini
+Append: [Monero, une crypto vraiment anonyme ?](https://www.bfmtv.com/crypto/monero-une-crypto-vraiment-anonyme_VN-202410220622.html)
+Token length: 237
+Summarized using GPT-4o-mini
+Append: [L'intérêt des stablecoin](https://www.bfmtv.com/crypto/l-interet-des-stablecoin_VN-202410220616.html)
+append_entries: 3
+Finish: 2024-10-23 01:28:08.210870

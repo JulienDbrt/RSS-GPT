@@ -3435,3 +3435,15 @@ Summarized using GPT-4o-mini
 Append: ["Notre sécurité n'est plus assurée" : la rédaction de Radio Bip à Besançon victime d’une nouvelle intrusion](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/notre-securite-n-est-plus-assuree-la-redaction-de-radio-bip-a-besancon-victime-d-une-nouvelle-intrusion-3049051.html)
 append_entries: 1
 Finish: 2024-10-22 12:51:51.973959
+------------------------------------------------------
+Started: 2024-10-23 01:32:39.667039
+Existing_entries: 465
+Fetching from https://france3-regions.francetvinfo.fr/economie/rss?r=bourgogne-franche-comte
+Token length: 288
+Summarized using GPT-4o-mini
+Append: [Elle avait perdu son travail pour une émoticône, son licenciement annulé par la justice](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/elle-avait-perdu-son-travail-pour-emoticone-son-licenciement-annule-par-la-justice-3049342.html)
+Token length: 336
+Summarized using GPT-4o-mini
+Append: ["C'est toujours une angoisse" : deux cas de grippe aviaire en Saône-et-Loire, des confinements mis en place](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/c-est-toujours-une-angoisse-deux-cas-de-grippe-aviaire-en-saone-et-loire-des-confinements-mis-en-place-3049243.html)
+append_entries: 2
+Finish: 2024-10-23 01:32:48.858047

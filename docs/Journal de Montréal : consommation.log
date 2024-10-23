@@ -2896,3 +2896,9 @@ Summarized using GPT-4o-mini
 Append: [Plus de transparence sur le prix de l’essence: Québec veut afficher le coût pour le détaillant](https://www.journaldemontreal.com/2024/10/22/plus-de-transparence-sur-le-prix-de-lessence--quebec-veut-afficher-le-cout-pour-le-detaillant)
 append_entries: 1
 Finish: 2024-10-22 12:52:48.845364
+------------------------------------------------------
+Started: 2024-10-23 01:33:47.348902
+Existing_entries: 274
+Fetching from https://www.journaldemontreal.com/actualite/consommation/rss.xml
+append_entries: 0
+Finish: 2024-10-23 01:33:47.563750

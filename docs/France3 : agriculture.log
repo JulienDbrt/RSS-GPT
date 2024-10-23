@@ -6093,3 +6093,18 @@ Summarized using GPT-4o-mini
 Append: [VIDÉO. "Ce sont de vrais pans d'histoire qui sont stockés ici" : à Monaco, les caves de l'Hôtel de Paris cachent des trésors](https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/menton/video-ce-sont-de-vrais-pans-d-histoire-qui-sont-stockes-ici-a-monaco-les-caves-de-l-hotel-de-paris-cachent-des-tresors-3048457.html)
 append_entries: 4
 Finish: 2024-10-22 12:51:46.972207
+------------------------------------------------------
+Started: 2024-10-23 01:32:26.768415
+Existing_entries: 1004
+Fetching from https://france3-regions.francetvinfo.fr/economie/agriculture/rss
+Token length: 311
+Summarized using GPT-4o-mini
+Append: [Néonicotinoïdes : des députés ont déposé d’une proposition de loi pour autoriser les substances non interdites par l’Union européenne](https://france3-regions.francetvinfo.fr/centre-val-de-loire/agriculture-le-retour-de-certains-nicotinoides-reclame-par-des-deputes-qui-preparent-une-proposition-de-loi-3049240.html)
+Token length: 336
+Summarized using GPT-4o-mini
+Append: ["C'est toujours une angoisse" : deux cas de grippe aviaire en Saône-et-Loire, des confinements mis en place](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/c-est-toujours-une-angoisse-deux-cas-de-grippe-aviaire-en-saone-et-loire-des-confinements-mis-en-place-3049243.html)
+Token length: 256
+Summarized using GPT-4o-mini
+Append: [VIDÉO. "Il baisse même quand il pleut" : le niveau de ce lac, de plus en plus bas, inquiète](https://france3-regions.francetvinfo.fr/occitanie/aude/carcassonne/video-il-baisse-meme-quand-il-pleut-le-niveau-de-ce-lac-de-plus-en-plus-bas-inquiete-3049075.html)
+append_entries: 3
+Finish: 2024-10-23 01:32:39.378434

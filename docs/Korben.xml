@@ -4,6 +4,7 @@
 <title>Les news de Korben</title>
 <link>https://korben.info</link>
 
+
 <item>
 <title>Revideo - Pour créer des vidéos avec du code</title>
 <link>https://korben.info/revideo-creer-videos-code-tout-simplement-genial.html</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> Mots-clés : Revideo, bibliothèque open-source, TypeScript, vidéos professionnelles, export MP4
 
-<br><br>Résumé : Revideo est une bibliothèque open-source innovante qui permet aux développeurs de créer des vidéos époustouflantes en utilisant TypeScript. Elle est conçue pour être accessible à tous, même à ceux qui n'ont pas d'expérience en réalisation ou en montage. En quelques lignes de code, il est possible d'obtenir des résultats impressionnants. 
+<br /><br />Résumé : Revideo est une bibliothèque open-source innovante qui permet aux développeurs de créer des vidéos époustouflantes en utilisant TypeScript. Elle est conçue pour être accessible à tous, même à ceux qui n'ont pas d'expérience en réalisation ou en montage. En quelques lignes de code, il est possible d'obtenir des résultats impressionnants. 
 
 S'inspirant des fonctionnalités de Motion Canvas, qui est une bibliothèque dédiée aux animations et graphiques interactifs, Revideo intègre des outils avancés pour le rendu vidéo. Parmi ses caractéristiques, on trouve le support de l’audio, permettant d'ajouter une dimension sonore aux projets, ainsi que des options de paramétrage avancées pour un rendu personnalisé. La synchronisation entre le son et l'image est également facilitée, garantissant une expérience visuelle de qualité. 
 
@@ -20,9 +21,7 @@ Enfin, Revideo permet l'exportation des vidéos au format MP4, ce qui rend l'int
 <p>S&rsquo;inspirant des meilleures fonctionnalités de <strong>Motion Canvas</strong> (une lib pour créer des animations et des graphiques interactifs), Revideo y ajoute tout ce qu&rsquo;il faut pour générer des vidéos professionnelles : support de l&rsquo;<strong>audio</strong>, paramétrage avancé du rendu, synchronisation son/image, export au format MP4&hellip; Bref, c&rsquo;est du lourd !</p>
 ]]></content:encoded>
 <pubDate>Tue, 22 Oct 2024 09:00:00 +0200</pubDate>
-<pubDate>Tue, 22 Oct 2024 09:00:00 +0200</pubDate>
 </item>
-
 <item>
 <title>Ce que les gens peuvent faire avec votre adresse IP et comment Surfshark VPN peut vous protéger</title>
 <link>https://korben.info/que-faire-avec-votre-adresse-ip.html</link>

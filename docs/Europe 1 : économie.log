@@ -3700,3 +3700,15 @@ Summarized using GPT-4o-mini
 Append: [«C'est le consommateur final qui paiera» : en Alsace, la taxe pour les poids lourds inquiète les entreprises](https://www.europe1.fr/economie/cest-le-consommateur-final-qui-paiera-en-alsace-la-taxe-pour-les-poids-lourds-inquiete-les-entreprises-4274250)
 append_entries: 4
 Finish: 2024-10-22 12:48:57.459973
+------------------------------------------------------
+Started: 2024-10-23 01:30:35.670785
+Existing_entries: 548
+Fetching from https://www.europe1.fr/rss/economie.xml
+Token length: 238
+Summarized using GPT-4o-mini
+Append: [L'Unédic prévoit un excédent de 300 millions d'euros en 2024, revu en baisse](https://www.europe1.fr/economie/lunedic-prevoit-un-excedent-de-300-millions-deuros-en-2024-revu-en-baisse-4274400)
+Token length: 316
+Summarized using GPT-4o-mini
+Append: [Agriculture : les syndicats majoritaires appellent à des manifestations «à partir du 15 novembre»](https://www.europe1.fr/economie/agriculture-les-syndicats-majoritaires-appellent-a-des-manifestations-a-partir-du-15-novembre-4274384)
+append_entries: 2
+Finish: 2024-10-23 01:30:43.652659

@@ -3671,3 +3671,15 @@ Summarized using GPT-4o-mini
 Append: [Loiret : La préfecture et le tribunal d’Orléans mis en vente pour dénoncer le budget de l’Etat 2025](https://www.20minutes.fr/economie/4116990-20241022-loiret-prefecture-tribunal-orleans-mis-vente-denoncer-budget-etat-2025)
 append_entries: 1
 Finish: 2024-10-22 12:42:47.909929
+------------------------------------------------------
+Started: 2024-10-23 01:26:31.677014
+Existing_entries: 537
+Fetching from https://www.20minutes.fr/feeds/rss-economie.xml
+Token length: 182
+Summarized using GPT-4o-mini
+Append: [Bordeaux : Alerte sur la situation des commerces, cafés et restaurants](https://www.20minutes.fr/economie/4117060-20241022-bordeaux-alerte-situation-commerces-cafes-restaurants)
+Token length: 165
+Summarized using GPT-4o-mini
+Append: [C’est quoi cette histoire d’action en justice d’Israël contre Emmanuel Macron ?](https://www.20minutes.fr/societe/4116981-20241022-salon-euronaval-pourquoi-israel-veut-intenter-action-justice-contre-emmanuel-macron)
+append_entries: 2
+Finish: 2024-10-23 01:26:37.580073

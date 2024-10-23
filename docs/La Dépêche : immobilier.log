@@ -2776,3 +2776,15 @@ Summarized using GPT-4o-mini
 Append: [INFO LA DEPECHE. Un repreneur intéressé par Carrère Promotion placé en sauvegarde par le tribunal de commerce](https://www.ladepeche.fr/2024/10/22/info-la-depeche-un-repreneur-interesse-par-carrere-promotion-12275750.php)
 append_entries: 2
 Finish: 2024-10-22 12:55:50.352752
+------------------------------------------------------
+Started: 2024-10-23 01:35:38.433877
+Existing_entries: 242
+Fetching from https://www.ladepeche.fr/economie/immobilier/rss.xml
+Token length: 216
+Summarized using GPT-4o-mini
+Append: [REPLAY. Immobilier : à Toulouse la décarbonation de la construction est déjà marche](https://www.ladepeche.fr/2024/10/22/replay-immobilier-a-toulouse-la-decarbonation-de-la-construction-est-deja-marche-12277003.php)
+Token length: 217
+Summarized using GPT-4o-mini
+Append: [Albi. Pourquoi le nombre de logements locatifs insalubres continue de diminuer](https://www.ladepeche.fr/2024/10/22/albi-pourquoi-le-nombre-de-logements-locatifs-insalubres-continue-de-diminuer-12275682.php)
+append_entries: 2
+Finish: 2024-10-23 01:35:45.082811
