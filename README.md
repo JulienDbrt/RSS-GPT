@@ -1,12 +1,8 @@
 # RSS-GPT
 
-[![](https://img.shields.io/github/last-commit/yinan-c/RSS-GPT/main?label=feeds%20refreshed)](https://yinan-c.github.io/RSS-GPT/)
-[![](https://img.shields.io/github/license/yinan-c/RSS-GPT)](https://github.com/yinan-c/RSS-GPT/blob/master/LICENSE)
-
-
 ## What is this?
 
-[Configuration Guide](https://yinan-c.github.io/rss-gpt-manual-en.html) | [中文简介](README-zh.md) | [中文教程](https://yinan-c.github.io/rss-gpt-manual-zh.html)
+[Configuration Guide](https://yinan-c.github.io/rss-gpt-manual-en.html)
 
 Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI API to generate summaries for RSS feeds, and push the generated feeds to GitHub Pages. Easy to configure, no server needed.
 
@@ -16,8 +12,6 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 - Aggregate multiple RSS feeds into one, remove duplicate articles, subscribe with a single address.
 - Add filters to your own personalized RSS feeds.
 - Host your own RSS feeds on GitHub repo and GitHub Pages.
-
-![](https://i.imgur.com/7darABv.jpg)
 
 ## Quick configuration guide
 
